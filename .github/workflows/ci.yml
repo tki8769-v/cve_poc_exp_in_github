@@ -1,16 +1,11 @@
 name: ci
 
+# 不使用 paths 过滤：push 的路径匹配语义对纯工作流变更不可靠（实测
+# e222a4d 未触发），且漏触发代码推送的代价高于数据提交多跑几轮测试
+# （公共仓库 ci 免费）。数据提交不抑制 ci 的原因见 collect.yml 注释。
+
 on:
   push:
-    paths:
-      - "collector/**"
-      - "tests/**"
-      - "scripts/**"
-      - "requirements.txt"
-      - "conftest.py"
-      - "check_data.py"
-      - "download.py"
-      - ".github/workflows/**"
   pull_request:
 
 permissions:
