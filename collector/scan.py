@@ -53,7 +53,9 @@ def merge_accepted(root: Path, cve_id: str, url: str, item: dict,
     legacy_path = state_mod.state_dir(root) / "relations" / f"{year}.jsonl"
     for record in state_mod.read_jsonl(legacy_path):
         if record["cve_id"] == cve_id and record["url"] == url:
-            if record.get("verification") == "rejected" and record.get("auto", True):
+            if (record.get("verification") == "rejected" and record.get("auto", True)
+                    and is_valid_cve_id(record["cve_id"])):
+                # I4：格式隔离墓碑（非法编号）不被新证据复活
                 record.update({
                     "verification": "needs_review",
                     "revoked_from": "rejected",

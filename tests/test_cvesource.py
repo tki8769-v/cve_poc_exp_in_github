@@ -368,3 +368,66 @@ def test_g4_sync_new_cve_gets_top_priority(tmp_path: Path):
     tasks = {t["cve_id"]: t for t in
              state_mod.read_jsonl(tmp_path / "state" / "scan_tasks.jsonl")}
     assert tasks["CVE-2026-0900"]["priority"] == 0
+
+
+def test_i2_gap_survives_incomplete_backfill(tmp_path: Path):
+    """评审 I2：原检查点可见但缺失资产未应用/预算截断时，不得清除断档。"""
+    from collector.ghsearch import BudgetExhausted
+
+    r1 = _release("cve_2026-09-20_1700Z", 1, "https://x/1.zip")
+    cvesource.sync(FakeClient([r1], {1: _delta_zip([_record("CVE-2026-0820")])}), tmp_path)
+
+    # 断档：可见列表只剩 r04 → gap 记录原始检查点 r01，r04 被应用
+    r4 = _release("cve_2026-09-23_1700Z", 4, "https://x/4.zip")
+    cvesource.sync(FakeClient([r4], {4: _delta_zip([_record("CVE-2026-0821")])}), tmp_path)
+    assert state_mod.read_json(tmp_path / "state" / "cve_cursor.json")["continuity_gap_below"] \
+        == "cve_2026-09-20_1700Z"
+
+    # 检查点恢复可见，但补齐 r02 时预算耗尽 → gap 必须保留
+    r2 = _release("cve_2026-09-21_1700Z", 2, "https://x/2.zip")
+    r3 = _release("cve_2026-09-22_1700Z", 3, "https://x/3.zip")
+
+    class BudgetOnBackfill(FakeClient):
+        def __init__(self, releases, assets):
+            super().__init__(releases, assets)
+            self.failed = False
+
+        def download_asset(self, url, budget=None):
+            if not self.failed and "2.zip" in url:
+                self.failed = True
+                raise BudgetExhausted("time budget exhausted")
+            return super().download_asset(url, budget=budget)
+
+    assets = {2: _delta_zip([_record("CVE-2026-0822")]),
+              3: _delta_zip([_record("CVE-2026-0823")])}
+    report = cvesource.sync(BudgetOnBackfill([r4, r3, r2, r1], assets),
+                            tmp_path, all_releases=True)
+    assert report["budget_stopped"] is True
+    assert report["continuity_warning"] is True      # 未补齐不清除
+    cursor = state_mod.read_json(tmp_path / "state" / "cve_cursor.json")
+    assert cursor["continuity_gap"] is True
+    assert 2 not in cursor["processed_assets"]
+
+    # 重跑完整应用 r02/r03 → 缺口真正补齐，断档清除
+    report2 = cvesource.sync(FakeClient([r4, r3, r2, r1], assets),
+                             tmp_path, all_releases=True)
+    assert report2["continuity_warning"] is False
+    assert "continuity_gap" not in state_mod.read_json(tmp_path / "state" / "cve_cursor.json")
+
+
+def test_i2_budget_listing_return_keeps_gap_reported(tmp_path: Path):
+    """评审 I2：列表请求耗尽预算的返回须继承持久断档，不隐藏降级状态。"""
+    from collector.ghsearch import BudgetExhausted
+
+    r1 = _release("r01", 1, "https://x/1.zip")
+    cvesource.sync(FakeClient([r1], {1: _delta_zip([_record("CVE-2026-0830")])}), tmp_path)
+    r5 = _release("r05", 5, "https://x/5.zip")
+    cvesource.sync(FakeClient([r5], {5: _delta_zip([_record("CVE-2026-0831")])}), tmp_path)
+
+    class NoListing(FakeClient):
+        def list_releases(self, per_page=30, page=1, budget=None):
+            raise BudgetExhausted("time budget exhausted")
+
+    report = cvesource.sync(NoListing([r5], {}), tmp_path)
+    assert report["budget_stopped"] is True
+    assert report["continuity_warning"] is True      # 继承持久断档

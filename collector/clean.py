@@ -16,7 +16,7 @@ from . import RULES_VERSION
 from . import state as state_mod
 from .attrib import ACCEPTED, CONFLICT_CANDIDATE, classify_relation
 from .backfill import load_meta
-from .parse import extract_cve_ids
+from .parse import extract_cve_ids, is_valid_cve_id
 
 __all__ = ["clean_dry_run", "clean_apply"]
 
@@ -138,6 +138,8 @@ def clean_apply(root: Path, strict: bool = True) -> dict:
                     continue
 
                 if verification == "rejected":
+                    if not is_valid_cve_id(record.get("cve_id", "")):
+                        continue  # I4：格式隔离墓碑不参与证据翻案
                     # 墓碑重审（R5/F9）：仅自动决定可被自动撤销；证据不再
                     # 充分 → 回退 needs_review
                     verdict = _verdict_with_meta(root, record, meta)

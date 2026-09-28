@@ -12,8 +12,8 @@
 - R9：官方 REJECTED 的 CVE 不建关系不入队；
 - R11：接受预算参数，等待不超预算；
 - H2：非法编号（序号不足 4 位）跳过并计数，不进入状态；
-- H4：单日结果达搜索上限时记录部分覆盖并入重试队列（有限次数），
-  游标照常推进——单日超量不再堵住后续日期。
+- H4/I3：单日结果达搜索上限时按日期去重记录部分覆盖（有限次重试后
+  放弃），主窗口先行、补扫后置——超量日与未完成补扫都不阻塞新日期。
 """
 from __future__ import annotations
 
@@ -145,28 +145,20 @@ def discover(client, root: Path, max_pages: int = 10, dry_run: bool = False,
             return "cap"
         return "incomplete"
 
-    # H4：先重试历史超量日（有限次数），补齐即出队；预算耗尽保留剩余队列
-    queue: list[dict] = [dict(entry) for entry in (cursor.get("partial_days") or [])]
-    index = 0
-    while index < len(queue) and stats["complete"]:
-        entry = queue[index]
-        result = _search_one(entry["date"])
-        outcome = _absorb(result)
-        if outcome == "complete":
-            queue.pop(index)
-            continue
-        if outcome == "cap":
-            entry["attempts"] = int(entry.get("attempts", 0)) + 1
-            if entry["attempts"] >= MAX_PARTIAL_DAY_ATTEMPTS:
-                queue.pop(index)
-                stats["partial_days_dropped"] += 1
-            else:
-                index += 1
-            continue
-        stats["complete"] = False
-        stats["warning"] = "; ".join(result.errors) or "incomplete"
+    # I3：主窗口先行（时效优先），历史超量日补扫后置——未完成的补扫
+    # 不得阻塞当日新窗口。超量日按日期去重入队，达上限即放弃。
+    def _queue_day(date_str: str) -> None:
+        for i, entry in enumerate(queue):
+            if entry["date"] == date_str:
+                entry["attempts"] = int(entry.get("attempts", 0)) + 1
+                if entry["attempts"] >= MAX_PARTIAL_DAY_ATTEMPTS:
+                    queue.pop(i)
+                    stats["partial_days_dropped"] += 1
+                return
+        queue.append({"date": date_str, "attempts": 1})
 
-    # 主窗口逐日推进：超量日记录部分覆盖后继续（H4），其他不完整停住游标（R6）
+    queue: list[dict] = [dict(entry) for entry in (cursor.get("partial_days") or [])]
+
     day = start
     while stats["complete"]:
         result = _search_one(day)
@@ -176,10 +168,39 @@ def discover(client, root: Path, max_pages: int = 10, dry_run: bool = False,
             stats["warning"] = "; ".join(result.errors) or "incomplete"
             break
         if outcome == "cap":
-            queue.append({"date": day, "attempts": 1})
+            _queue_day(day)
+        else:
+            # 重叠日补齐即出队（主窗口与补扫共用同一重试计数，I3 去重）
+            queue[:] = [e for e in queue if e["date"] != day]
         if day >= today:
             break
         day = _day_offset(day, 1)
+
+    # 历史超量日补扫：仅在主窗口完成后执行；重叠日（>= start）由主窗口
+    # 覆盖，不重复查询。零请求零新进展不计尝试（G8 原则），其余真实尝试
+    # 无论结果如何都推进重试计数，保证有限次后放弃
+    index = 0
+    while index < len(queue) and stats["complete"]:
+        entry = queue[index]
+        if entry["date"] >= start:
+            index += 1
+            continue
+        result = _search_one(entry["date"])
+        outcome = _absorb(result)
+        if outcome == "complete":
+            queue.pop(index)
+            continue
+        real_attempt = (outcome == "cap" or result.pages > 0
+                        or bool(result.items) or result.stop_reason != "budget")
+        if real_attempt:
+            entry["attempts"] = int(entry.get("attempts", 0)) + 1
+        if entry["attempts"] >= MAX_PARTIAL_DAY_ATTEMPTS:
+            queue.pop(index)
+            stats["partial_days_dropped"] += 1
+            continue
+        index += 1
+        if not real_attempt and result.stop_reason == "budget":
+            break  # 预算耗尽：停止补扫，主窗口已完成不受影响
 
     # 命中但尚无调度任务的 CVE 建立任务进入 7 天重扫循环（R9 守卫在
     # enqueue 内部：REJECTED 编号不入队）；dry_run 不写任何状态

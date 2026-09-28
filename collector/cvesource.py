@@ -124,9 +124,11 @@ def sync(client, root: Path, all_releases: bool = False, max_releases: int = 30,
         releases, traced_complete = _list_releases_paginated(client, budget=budget,
                                                              stop_tag=last_tag)
     except BudgetExhausted:
+        # I2：预算返回须继承既有降级状态，不因未检查而隐藏持久断档
         return {"releases_seen": 0, "releases_processed": 0, "cves_seen": 0,
                 "new_tasks": 0, "rejected": 0, "last_tag": last_tag,
-                "floor_tag": floor_tag, "continuity_warning": False,
+                "floor_tag": floor_tag,
+                "continuity_warning": bool(cursor.get("continuity_gap")),
                 "budget_stopped": True}
 
     # F1：连续性 = 能追溯到最近已应用检查点（而非 floor 是否可见）
@@ -134,11 +136,12 @@ def sync(client, root: Path, all_releases: bool = False, max_releases: int = 30,
     if not releases:
         return {"releases_seen": 0, "releases_processed": 0, "cves_seen": 0,
                 "new_tasks": 0, "rejected": 0, "last_tag": last_tag,
-                "floor_tag": floor_tag, "continuity_warning": continuity_warning,
+                "floor_tag": floor_tag,
+                "continuity_warning": continuity_warning or bool(cursor.get("continuity_gap")),
                 "budget_stopped": False}
 
-    # G2/H1：断档持久化——记录断档前的原始检查点；只有该检查点重新可见
-    # （断档真正补齐）才清除告警，"最近已见版本"的新进度不构成恢复
+    # G2/H1/I2：断档在检测时立即持久化（处理前写盘，崩溃不丢降级状态）。
+    # 清除条件见循环后：原检查点可见 ≠ 缺口补齐，须缺失区间资产全部应用
     gap_flag = bool(cursor.get("continuity_gap"))
     gap_below = cursor.get("continuity_gap_below")
     if continuity_warning and not gap_flag:
@@ -146,12 +149,6 @@ def sync(client, root: Path, all_releases: bool = False, max_releases: int = 30,
         cursor["continuity_gap_below"] = last_tag
         gap_flag = True
         _save_cursor(root, cursor)
-    elif gap_flag and gap_below and gap_below in {r.get("tag_name") for r in releases}:
-        cursor.pop("continuity_gap", None)
-        cursor.pop("continuity_gap_below", None)
-        gap_flag = False
-        _save_cursor(root, cursor)
-    report_gap = continuity_warning or gap_flag
 
     # R2/F2：无任何历史状态才允许确立新边界；默认取最新，历史回补取最旧
     if not floor_tag:
@@ -231,6 +228,23 @@ def sync(client, root: Path, all_releases: bool = False, max_releases: int = 30,
         if budget_stopped:
             break
         processed_releases += 1
+
+    # I2：原检查点重新可见仅代表可以开始补齐——缺失区间资产全部成功应用、
+    # 且本轮未被预算/处理上限截断，才真正清除断档
+    if gap_flag and gap_below and not budget_stopped:
+        upper = cursor.get("last_tag") or gap_below
+        if gap_below in {r.get("tag_name") for r in releases}:
+            still_missing = [
+                r for r in releases
+                if gap_below <= (r.get("tag_name") or "") <= upper
+                and any(a["id"] not in processed for a in delta_assets(r))
+            ]
+            if not still_missing:
+                cursor.pop("continuity_gap", None)
+                cursor.pop("continuity_gap_below", None)
+                gap_flag = False
+                _save_cursor(root, cursor)
+    report_gap = continuity_warning or gap_flag
 
     return {
         "releases_seen": len(releases),

@@ -7,6 +7,7 @@
 from __future__ import annotations
 
 import re
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Iterator, NamedTuple, Optional
 from urllib.parse import urlparse
@@ -31,7 +32,12 @@ CVE_RE = re.compile(r"CVE-\d{4}-\d+", re.IGNORECASE)
 # 合法 CVE 编号（下游契约口径，compat 模块同源）：序号至少 4 位。
 # 采集边界用它过滤短编号（CVE-2026-1）——此类编号能进状态但不能被
 # 下游解析，会令 verify 永久失败、阻断发布（评审 H2）。
-VALID_CVE_RE = re.compile(r"^CVE-\d{4}-\d{4,}$", re.IGNORECASE)
+# 年份范围另行限制为 1999..次年预留（评审 I1）：render/verify 只枚举
+# 1xxx/2xxx 年份目录，CVE-0000-0000/未来年份占位编号同样会阻断发布。
+VALID_CVE_RE = re.compile(r"^CVE-(\d{4})-\d{4,}$", re.IGNORECASE)
+
+# CVE 编号自 1999 年启用；次年编号提前预留。
+FIRST_CVE_YEAR = 1999
 
 # 年份 README 链接行：'- [text](url) : ![starts](...)'，取链接目标 URL。
 README_LINK_RE = re.compile(r"^- \[[^\]]+\]\(([^)]+)\)")
@@ -47,8 +53,16 @@ def normalize_cve_id(value: str) -> str:
 
 
 def is_valid_cve_id(cve_id: str) -> bool:
-    """采集边界合法性校验：年份 4 位 + 序号至少 4 位（评审 H2）。"""
-    return bool(VALID_CVE_RE.match((cve_id or "").strip()))
+    """采集边界合法性校验：年份 4 位且在支持范围内 + 序号至少 4 位。
+
+    年份范围与发布产物一致（render/verify 只枚举 1xxx/2xxx 年份目录，
+    且 CVE 编号 1999 年才启用、次年预留），评审 H2/I1。
+    """
+    match = VALID_CVE_RE.match((cve_id or "").strip())
+    if not match:
+        return False
+    year = int(match.group(1))
+    return FIRST_CVE_YEAR <= year <= datetime.now(timezone.utc).year + 1
 
 
 def extract_cve_ids(*texts: Optional[str]) -> set[str]:

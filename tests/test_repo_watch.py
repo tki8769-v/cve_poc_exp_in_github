@@ -229,11 +229,13 @@ def test_h2_invalid_cve_id_skipped_end_to_end(tmp_path: Path):
     _preset_cursor(tmp_path)
     client = FakeDiscoverClient(result=SearchResult(items=[
         _repo_item("CVE-2026-1", description="bogus CVE-2026-1 tool"),
+        _repo_item("CVE-0000-0000-template", description="placeholder CVE-0000-0000"),
+        _repo_item("CVE-3026-1234-scanner", description="future CVE-3026-1234"),
         _repo_item("tool-CVE-2026-1234", description="poc for CVE-2026-1234"),
     ]))
     stats = discover(client, tmp_path)
 
-    assert stats["invalid_ids"] == 1
+    assert stats["invalid_ids"] == 3  # 短序号 + 不支持的年份（评审 I1）
     assert stats["new_relations"] == 1  # 合法编号正常收录
     records = state_mod.read_jsonl(tmp_path / "state" / "relations_search" / "2026.jsonl")
     assert all(r["cve_id"] != "CVE-2026-1" for r in records)
@@ -279,4 +281,61 @@ def test_h4_overcap_day_advances_cursor_with_partial_queue(tmp_path: Path):
     assert cursor2["partial_days"][0]["attempts"] == 2
     stats3 = discover(MixedClient(), tmp_path)
     assert stats3["partial_days_dropped"] == 1
+    assert state_mod.read_json(tmp_path / "state" / CURSOR_FILE)["partial_days"] == []
+
+
+def test_i3_backfill_retry_never_starves_main_window(tmp_path: Path):
+    """评审 I3：历史超量日补扫预算耗尽不阻塞主窗口，真实尝试计数。"""
+    from datetime import datetime, timedelta, timezone
+
+    now = datetime.now(timezone.utc)
+    three_days_ago = (now - timedelta(days=3)).strftime("%Y-%m-%d")
+    two_days_ago = (now - timedelta(days=2)).strftime("%Y-%m-%d")
+    today = now.strftime("%Y-%m-%d")
+    state_mod.write_json(tmp_path / "state" / CURSOR_FILE, {
+        "last_date": two_days_ago,
+        "partial_days": [{"date": three_days_ago, "attempts": 1}],
+    })
+
+    budget_out = SearchResult(items=[{"html_url": "u"}], complete=False,
+                              stop_reason="budget", errors=["exhausted"], pages=5)
+    ok = SearchResult(items=[])
+
+    class Client:
+        def __init__(self):
+            self.calls = []
+
+        def search_repositories(self, query, max_pages=10, budget=None, start_page=1):
+            self.calls.append(query)
+            return budget_out if three_days_ago in query else ok
+
+    client = Client()
+    stats = discover(client, tmp_path)
+
+    assert stats["complete"] is True
+    assert stats["cursor_advanced"] is True          # 主窗口未被补扫拖累
+    assert any(f"created:{today}..{today}" in q for q in client.calls)
+    cursor = state_mod.read_json(tmp_path / "state" / CURSOR_FILE)
+    assert cursor["partial_days"] == [{"date": three_days_ago, "attempts": 2}]
+
+
+def test_i3_overlap_day_queue_deduped(tmp_path):
+    """评审 I3：重叠日超量只保留一个队列条目，重试计数统一。"""
+    from datetime import datetime, timezone
+
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    _preset_cursor(tmp_path)  # last_date = today，窗口与队列重叠
+    capped = SearchResult(items=[], complete=False, stop_reason="pagination_cap",
+                          errors=["cap"])
+
+    stats = discover(FakeDiscoverClient(capped), tmp_path)
+    cursor = state_mod.read_json(tmp_path / "state" / CURSOR_FILE)
+    assert cursor["partial_days"] == [{"date": today, "attempts": 1}]
+
+    discover(FakeDiscoverClient(capped), tmp_path)   # 第二轮同日再超量
+    cursor2 = state_mod.read_json(tmp_path / "state" / CURSOR_FILE)
+    assert cursor2["partial_days"] == [{"date": today, "attempts": 2}]  # 去重
+
+    stats3 = discover(FakeDiscoverClient(capped), tmp_path)
+    assert stats3["partial_days_dropped"] == 1        # 达上限放弃
     assert state_mod.read_json(tmp_path / "state" / CURSOR_FILE)["partial_days"] == []

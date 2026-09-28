@@ -374,3 +374,37 @@ def test_missing_today_fails_verify_structured(tmp_path: Path):
     report = verify_contract(root)  # 不得抛 FileNotFoundError
     assert not report["ok"]
     assert any("Today.md" in p for p in report["problems"])
+
+
+def test_i4_invalid_quarantine_survives_clean_cycle(tmp_path: Path):
+    """评审 I4：格式隔离墓碑不被证据翻案复活——迁移→清洗→渲染全周期有效。"""
+    from collector.clean import clean_apply, clean_dry_run
+    from collector.migrate import migrate
+    from collector.recheck import recheck
+
+    root = _setup(tmp_path)
+    relations_path = state_mod.state_dir(root) / "relations" / "2026.jsonl"
+    records = state_mod.read_jsonl(relations_path)
+    records.append({"cve_id": "CVE-2026-1", "url": "https://github.com/z/CVE-2026-1",
+                    "owner": "z", "repo": "CVE-2026-1",
+                    "source": "legacy_markdown", "verification": "pending"})
+    state_mod.write_jsonl(relations_path, records)
+
+    report = migrate(root)
+    assert report["invalid_id_quarantined"] == 1
+    render_all(root)
+    assert verify_contract(root)["ok"]
+
+    # 元数据就位：URL 含目标编号，无守卫的墓碑重审会翻案为 needs_review
+    state_mod.write_jsonl(state_mod.state_dir(root) / "repo_meta.jsonl", [{
+        "owner": "z", "repo": "CVE-2026-1", "fetched_at": state_mod.now_iso(),
+        "description": "",
+    }])
+    clean_dry_run(root)
+    recheck(root)
+    clean_apply(root)
+
+    by_url = {r["url"]: r for r in state_mod.read_jsonl(relations_path)}
+    assert by_url["https://github.com/z/CVE-2026-1"]["verification"] == "rejected"
+    render_all(root)
+    assert verify_contract(root)["ok"]               # 全周期后发布不受影响

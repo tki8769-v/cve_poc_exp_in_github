@@ -112,11 +112,14 @@ class TestReadmeParsing:
 
 
 def test_h2_valid_cve_id_format():
-    """评审 H2：采集边界合法性 = 年份 4 位 + 序号至少 4 位（下游契约口径）。"""
+    """评审 H2/I1：合法性 = 年份 4 位且在支持范围（1999..次年）+ 序号≥4 位。"""
     from collector.parse import is_valid_cve_id
 
     assert is_valid_cve_id("CVE-2026-1234")
     assert is_valid_cve_id("cve-2026-12345")
-    assert not is_valid_cve_id("CVE-2026-1")   # 序号不足 4 位
+    assert is_valid_cve_id("CVE-1999-0001")      # 编号起始年
+    assert not is_valid_cve_id("CVE-2026-1")     # 序号不足 4 位
     assert not is_valid_cve_id("CVE-26-1234")
+    assert not is_valid_cve_id("CVE-0000-0000")  # 评审 I1：产物不支持的年份
+    assert not is_valid_cve_id("CVE-3026-1234")  # 超出次年预留的年份
     assert not is_valid_cve_id("")
