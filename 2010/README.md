@@ -153,6 +153,8 @@
 
 - [https://github.com/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report](https://github.com/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report) : ![starts](https://img.shields.io/github/stars/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report.svg) ![forks](https://img.shields.io/github/forks/Nyabayo/flatiron-pentest-nmap-enum4linux-smb-ftp-samba-metasploitable2-kali-healthcare-report.svg)
 
+- [https://github.com/rushikesh-a-bhujbal/CVE-2010-2075](https://github.com/rushikesh-a-bhujbal/CVE-2010-2075) : ![starts](https://img.shields.io/github/stars/rushikesh-a-bhujbal/CVE-2010-2075.svg) ![forks](https://img.shields.io/github/forks/rushikesh-a-bhujbal/CVE-2010-2075.svg)
+
 ## CVE-2010-2039
  Cross-site request forgery (CSRF) vulnerability in gpEasy CMS 1.6.2, 1.6.1, and earlier allows remote attackers to hijack the authentication of administrators for requests that create new administrative users via an Admin_Users action to index.php.  NOTE: some of these details are obtained from third party information.
 

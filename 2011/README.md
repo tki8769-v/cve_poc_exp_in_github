@@ -216,6 +216,8 @@
 
 - [https://github.com/victorborrero01/pentesting-lab-metasploitable2](https://github.com/victorborrero01/pentesting-lab-metasploitable2) : ![starts](https://img.shields.io/github/stars/victorborrero01/pentesting-lab-metasploitable2.svg) ![forks](https://img.shields.io/github/forks/victorborrero01/pentesting-lab-metasploitable2.svg)
 
+- [https://github.com/delmag138/NovaShyld_Task_3](https://github.com/delmag138/NovaShyld_Task_3) : ![starts](https://img.shields.io/github/stars/delmag138/NovaShyld_Task_3.svg) ![forks](https://img.shields.io/github/forks/delmag138/NovaShyld_Task_3.svg)
+
 ## CVE-2011-2461
  Cross-site scripting (XSS) vulnerability in the Adobe Flex SDK 3.x and 4.x before 4.6 allows remote attackers to inject arbitrary web script or HTML via vectors related to the loading of modules from different domains.
 

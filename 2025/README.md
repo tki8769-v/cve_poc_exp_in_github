@@ -3208,6 +3208,10 @@ Users are recommended to upgrade to version 2.4.66, which fixes the issue.
 
 - [https://github.com/tom025/ply_exploit_rejection](https://github.com/tom025/ply_exploit_rejection) : ![starts](https://img.shields.io/github/stars/tom025/ply_exploit_rejection.svg) ![forks](https://img.shields.io/github/forks/tom025/ply_exploit_rejection.svg)
 
+- [https://github.com/gdfurr98/ply-cve-2025-56005-lab](https://github.com/gdfurr98/ply-cve-2025-56005-lab) : ![starts](https://img.shields.io/github/stars/gdfurr98/ply-cve-2025-56005-lab.svg) ![forks](https://img.shields.io/github/forks/gdfurr98/ply-cve-2025-56005-lab.svg)
+
+- [https://github.com/gdfurr98/ply-safepickle](https://github.com/gdfurr98/ply-safepickle) : ![starts](https://img.shields.io/github/stars/gdfurr98/ply-safepickle.svg) ![forks](https://img.shields.io/github/forks/gdfurr98/ply-safepickle.svg)
+
 ## CVE-2025-55998
  A cross-site scripting (XSS) vulnerability in Smart Search & Filter Shopify and BigCommerce apps allows a remote attacker to execute arbitrary JavaScript in the web browser of a user, by including a malicious payload into several filter parameter
 
@@ -7448,6 +7452,8 @@ This issue affects Command Center Innovation Release: 11.38.0 to 11.38.20. The v
 
 - [https://github.com/RUB-NDS/SSH-Strict-Kex-Violations-State-Learning-Artifacts](https://github.com/RUB-NDS/SSH-Strict-Kex-Violations-State-Learning-Artifacts) : ![starts](https://img.shields.io/github/stars/RUB-NDS/SSH-Strict-Kex-Violations-State-Learning-Artifacts.svg) ![forks](https://img.shields.io/github/forks/RUB-NDS/SSH-Strict-Kex-Violations-State-Learning-Artifacts.svg)
 
+- [https://github.com/X-Bulow/Reproduce-CVE-2025-32433](https://github.com/X-Bulow/Reproduce-CVE-2025-32433) : ![starts](https://img.shields.io/github/stars/X-Bulow/Reproduce-CVE-2025-32433.svg) ![forks](https://img.shields.io/github/forks/X-Bulow/Reproduce-CVE-2025-32433.svg)
+
 ## CVE-2025-32432
  Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond. Starting from version 3.0.0-RC1 to before 3.9.15, 4.0.0-RC1 to before 4.14.15, and 5.0.0-RC1 to before 5.6.17, Craft is vulnerable to remote code execution. This is a high-impact, low-complexity attack vector. This issue has been patched in versions 3.9.15, 4.14.15, and 5.6.17, and is an additional fix for CVE-2023-41892.
 
@@ -10185,6 +10191,8 @@ index an Out-Of-Bound class in ets_class_from_arg() when passed clid of
 
 - [https://github.com/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479](https://github.com/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479) : ![starts](https://img.shields.io/github/stars/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479.svg) ![forks](https://img.shields.io/github/forks/7678837-glitch/lenovo_y700_tb320fc_on_CVE-2025-21479.svg)
 
+- [https://github.com/diyiqiuye/CVE-2025-21479-FX5P](https://github.com/diyiqiuye/CVE-2025-21479-FX5P) : ![starts](https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX5P.svg) ![forks](https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX5P.svg)
+
 ## CVE-2025-21420
  Windows Disk Cleanup Tool Elevation of Privilege Vulnerability
 
@@ -10229,6 +10237,8 @@ index an Out-Of-Bound class in ets_class_from_arg() when passed clid of
 - [https://github.com/abc1230940/SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298](https://github.com/abc1230940/SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298) : ![starts](https://img.shields.io/github/stars/abc1230940/SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298.svg) ![forks](https://img.shields.io/github/forks/abc1230940/SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298.svg)
 
 - [https://github.com/Arkha-Corvus/LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298-](https://github.com/Arkha-Corvus/LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298-) : ![starts](https://img.shields.io/github/stars/Arkha-Corvus/LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298-.svg) ![forks](https://img.shields.io/github/forks/Arkha-Corvus/LetsDefend-SOC336-Windows-OLE-Zero-Click-RCE-Exploitation-Detected-CVE-2025-21298-.svg)
+
+- [https://github.com/mohamedbrek/SOC336-CVE-2025-21298-Investigation](https://github.com/mohamedbrek/SOC336-CVE-2025-21298-Investigation) : ![starts](https://img.shields.io/github/stars/mohamedbrek/SOC336-CVE-2025-21298-Investigation.svg) ![forks](https://img.shields.io/github/forks/mohamedbrek/SOC336-CVE-2025-21298-Investigation.svg)
 
 ## CVE-2025-21293
  Active Directory Domain Services Elevation of Privilege Vulnerability
@@ -11209,6 +11219,10 @@ The specific flaw exists within the handling of the API_KEY parameter provided t
 
 - [https://github.com/learner202649/CVE-2025-11203-PoC](https://github.com/learner202649/CVE-2025-11203-PoC) : ![starts](https://img.shields.io/github/stars/learner202649/CVE-2025-11203-PoC.svg) ![forks](https://img.shields.io/github/forks/learner202649/CVE-2025-11203-PoC.svg)
 
+## CVE-2025-11201
+
+- [https://github.com/rmhowe425/POC-CVE-2025-11201](https://github.com/rmhowe425/POC-CVE-2025-11201) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2025-11201.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2025-11201.svg)
+
 ## CVE-2025-11187
  Issue summary: PBMAC1 parameters in PKCS#12 files are missing validation
 which can trigger a stack-based buffer overflow, invalid pointer or NULL
@@ -11469,6 +11483,10 @@ An attacker could exploit this vulnerability to send specially crafted messages 
 The vendor did not respond in any way. Only version 11.100001.01.28 was tested, other versions might also be vulnerable.
 
 - [https://github.com/sohaibeb/CVE-2025-9983](https://github.com/sohaibeb/CVE-2025-9983) : ![starts](https://img.shields.io/github/stars/sohaibeb/CVE-2025-9983.svg) ![forks](https://img.shields.io/github/forks/sohaibeb/CVE-2025-9983.svg)
+
+## CVE-2025-9974
+
+- [https://github.com/HORKimhab/CVE-2025-9974](https://github.com/HORKimhab/CVE-2025-9974) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2025-9974.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2025-9974.svg)
 
 ## CVE-2025-9967
  The Orion SMS OTP Verification plugin for WordPress is vulnerable to privilege escalation via account takeover in all versions up to, and including, 1.1.7. This is due to the plugin not properly validating a user's identity prior to updating their password. This makes it possible for unauthenticated attackers to change arbitrary user's password to a one-time password if the attacker knows the user's phone number

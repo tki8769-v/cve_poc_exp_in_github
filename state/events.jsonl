@@ -67,3 +67,216 @@
 {"cve_id": "CVE-2017-9805", "ts": "2026-09-24T15:43:21Z", "type": "new_poc", "url": "https://github.com/RaniaMathlouthi/cve-2017-9805-struts-lab"}
 {"cve_id": "CVE-2026-78306", "ts": "2026-09-24T15:43:21Z", "type": "new_poc", "url": "https://github.com/FEEDBEEF/Dji_ble_vuln"}
 {"cve_id": "CVE-2026-15015", "ts": "2026-09-24T15:43:21Z", "type": "new_poc", "url": "https://github.com/les-k/wp-secure-mcp"}
+{"cve_id": "CVE-2026-97168", "ts": "2026-09-28T08:21:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94604", "ts": "2026-09-28T08:22:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97168", "ts": "2026-09-28T08:22:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94604", "ts": "2026-09-28T08:22:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97168", "ts": "2026-09-28T08:22:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94604", "ts": "2026-09-28T08:24:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97168", "ts": "2026-09-28T08:24:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94604", "ts": "2026-09-28T08:25:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97168", "ts": "2026-09-28T08:25:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94604", "ts": "2026-09-28T08:26:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97168", "ts": "2026-09-28T08:26:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94604", "ts": "2026-09-28T08:27:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97168", "ts": "2026-09-28T08:27:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94604", "ts": "2026-09-28T08:28:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97168", "ts": "2026-09-28T08:28:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97387", "ts": "2026-09-28T08:28:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94604", "ts": "2026-09-28T08:29:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97168", "ts": "2026-09-28T08:29:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97387", "ts": "2026-09-28T08:29:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97622", "ts": "2026-09-28T08:30:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97622", "ts": "2026-09-28T08:31:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97622", "ts": "2026-09-28T08:31:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22315", "ts": "2026-09-28T08:31:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60096", "ts": "2026-09-28T08:31:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60097", "ts": "2026-09-28T08:31:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60098", "ts": "2026-09-28T08:31:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60099", "ts": "2026-09-28T08:31:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60100", "ts": "2026-09-28T08:31:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60101", "ts": "2026-09-28T08:31:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97622", "ts": "2026-09-28T08:31:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22315", "ts": "2026-09-28T08:31:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60096", "ts": "2026-09-28T08:31:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60097", "ts": "2026-09-28T08:31:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60098", "ts": "2026-09-28T08:31:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60099", "ts": "2026-09-28T08:31:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60100", "ts": "2026-09-28T08:31:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60101", "ts": "2026-09-28T08:31:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97622", "ts": "2026-09-28T08:32:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22315", "ts": "2026-09-28T08:32:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60096", "ts": "2026-09-28T08:32:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60097", "ts": "2026-09-28T08:32:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60098", "ts": "2026-09-28T08:32:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60099", "ts": "2026-09-28T08:32:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60100", "ts": "2026-09-28T08:32:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60101", "ts": "2026-09-28T08:32:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97622", "ts": "2026-09-28T08:32:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22315", "ts": "2026-09-28T08:32:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60096", "ts": "2026-09-28T08:32:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60097", "ts": "2026-09-28T08:32:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60098", "ts": "2026-09-28T08:32:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60099", "ts": "2026-09-28T08:32:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60100", "ts": "2026-09-28T08:32:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60101", "ts": "2026-09-28T08:32:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97622", "ts": "2026-09-28T08:32:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22315", "ts": "2026-09-28T08:33:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60096", "ts": "2026-09-28T08:33:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60097", "ts": "2026-09-28T08:33:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60098", "ts": "2026-09-28T08:33:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60099", "ts": "2026-09-28T08:33:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60100", "ts": "2026-09-28T08:33:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60101", "ts": "2026-09-28T08:33:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97622", "ts": "2026-09-28T08:33:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22315", "ts": "2026-09-28T08:34:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-53990", "ts": "2026-09-28T08:34:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-57861", "ts": "2026-09-28T08:34:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60096", "ts": "2026-09-28T08:34:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60097", "ts": "2026-09-28T08:34:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60098", "ts": "2026-09-28T08:34:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60099", "ts": "2026-09-28T08:34:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60100", "ts": "2026-09-28T08:34:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60101", "ts": "2026-09-28T08:34:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97622", "ts": "2026-09-28T08:35:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94127", "ts": "2026-09-28T08:35:38Z", "type": "new_poc", "url": "https://github.com/watchtowrlabs/watchTowr-vs-f5-bigip-PreAuth-RCE-CVE-2026-94127"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-09-28T08:35:38Z", "type": "new_poc", "url": "https://github.com/a23bc/op13-cve-2026-64560"}
+{"cve_id": "CVE-2025-21479", "ts": "2026-09-28T08:35:38Z", "type": "new_poc", "url": "https://github.com/diyiqiuye/CVE-2025-21479-FX5P"}
+{"cve_id": "CVE-2026-16764", "ts": "2026-09-28T08:35:38Z", "type": "new_poc", "url": "https://github.com/hakaioffsec/CVE-2026-16764"}
+{"cve_id": "CVE-2024-47875", "ts": "2026-09-28T08:35:38Z", "type": "new_poc", "url": "https://github.com/d154573r-4v3r73d/CVE-2024-47875"}
+{"cve_id": "CVE-2023-49070", "ts": "2026-09-28T08:35:38Z", "type": "new_poc", "url": "https://github.com/BardLaudian/CVE-2023-49070"}
+{"cve_id": "CVE-2026-94609", "ts": "2026-09-28T08:35:38Z", "type": "new_poc", "url": "https://github.com/anthonyk2923/CVE-2026-94609"}
+{"cve_id": "CVE-2010-2075", "ts": "2026-09-28T08:35:38Z", "type": "new_poc", "url": "https://github.com/rushikesh-a-bhujbal/CVE-2010-2075"}
+{"cve_id": "CVE-2026-12227", "ts": "2026-09-28T08:35:38Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-12227"}
+{"cve_id": "CVE-2026-12227", "ts": "2026-09-28T08:35:39Z", "type": "new_poc", "url": "https://github.com/Hassham1/CVE-2026-12227-visualcomposer-lfi-poc"}
+{"cve_id": "CVE-2026-8461", "ts": "2026-09-28T08:35:39Z", "type": "new_poc", "url": "https://github.com/se1ims/PixelSmash"}
+{"cve_id": "CVE-2026-72001", "ts": "2026-09-28T08:35:39Z", "type": "new_poc", "url": "https://github.com/BiiTts/CVE-2026-72001-Pangolin-Cross-Org-Auth-Bypass"}
+{"cve_id": "CVE-2026-32740", "ts": "2026-09-28T08:35:39Z", "type": "new_poc", "url": "https://github.com/FORTBRIDGE-UK/libheif-grid-nextjs-rce"}
+{"cve_id": "CVE-2026-93485", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/DeathShotXD/Comment2Shell"}
+{"cve_id": "CVE-2026-14281", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-14281"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/Wangs-official/opace6-cve-2026-64560"}
+{"cve_id": "CVE-2026-59310", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/ChinaRan0/CVE-2026-59310-POC"}
+{"cve_id": "CVE-2026-86350", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/abraxas/CVE-2026-86350"}
+{"cve_id": "CVE-2026-48842", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-48842"}
+{"cve_id": "CVE-2026-5430", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/abraxas/CVE-2026-5430"}
+{"cve_id": "CVE-2026-62062", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/abraxas/CVE-2026-62062"}
+{"cve_id": "CVE-2026-96512", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/Ermensonx/sudotimewarp-cve-2026-96512-"}
+{"cve_id": "CVE-2026-65660", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/ShadowForge-Cyber/CVE-2026-65660-Poc"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/0ch4/ghostlock-mrx-w09"}
+{"cve_id": "CVE-2026-79417", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/connorjaydunn/CVE-2026-79417"}
+{"cve_id": "CVE-2026-65660", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/HORKimhab/CVE-2026-65660"}
+{"cve_id": "CVE-2026-93399", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-93399"}
+{"cve_id": "CVE-2026-87902", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/crowsec-edtech/CVE-2026-87902"}
+{"cve_id": "CVE-2026-96512", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/abraxas/CVE-2026-96512"}
+{"cve_id": "CVE-2025-9974", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/HORKimhab/CVE-2025-9974"}
+{"cve_id": "CVE-2007-2447", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/rushikesh-a-bhujbal/CVE-2007-2447"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/RELIHR/CVE-2026-43499"}
+{"cve_id": "CVE-2026-43687", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/jvidhan/cve-2026-43687"}
+{"cve_id": "CVE-2026-89055", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-89055"}
+{"cve_id": "CVE-2026-87902", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/joaovicdev/EXPLOIT-CVE-2026-87902"}
+{"cve_id": "CVE-2026-87902", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/SVTagan/WP-CVE-2026-87902"}
+{"cve_id": "CVE-2026-61732", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/InertFluid/cve-2026-61732-lab"}
+{"cve_id": "CVE-2026-53576", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/AtlasVector/Kestra-cve-2026-53576"}
+{"cve_id": "CVE-2024-3651", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/redhat-tssc-tmm/CVE-2024-3651-exploit"}
+{"cve_id": "CVE-2026-46595", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/sdodson/CVE-2026-46595-proof"}
+{"cve_id": "CVE-2023-25690", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/roshanrajbanshi/cve-2023-25690-smuggler"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/Become-ILLUSORY/cve-2026-64560-a16"}
+{"cve_id": "CVE-2025-21298", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/mohamedbrek/SOC336-CVE-2025-21298-Investigation"}
+{"cve_id": "CVE-2021-1675", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/pentagon404uzb/CVE-2021-1675-Local-Privilege-Escalation-CVSS-7.8-"}
+{"cve_id": "CVE-2014-6271", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/mgiftson0/linux-env-vars-shellshock-lab"}
+{"cve_id": "CVE-2011-2523", "ts": "2026-09-28T08:35:41Z", "type": "new_poc", "url": "https://github.com/delmag138/NovaShyld_Task_3"}
+{"cve_id": "CVE-2018-15877", "ts": "2026-09-28T08:35:42Z", "type": "new_poc", "url": "https://github.com/firasotoom85-droid/wp-plainview-auth-RCE-broken-cookie-to-session-fix"}
+{"cve_id": "CVE-2012-2459", "ts": "2026-09-28T08:35:42Z", "type": "new_poc", "url": "https://github.com/condeDeveloper/arvore-merkle"}
+{"cve_id": "CVE-2026-43682", "ts": "2026-09-28T08:35:43Z", "type": "new_poc", "url": "https://github.com/petermalone/CVE-2026-43682"}
+{"cve_id": "CVE-2026-67279", "ts": "2026-09-28T08:35:43Z", "type": "new_poc", "url": "https://github.com/HackSpeak/CVE-2026-67279"}
+{"cve_id": "CVE-2026-94130", "ts": "2026-09-28T08:35:43Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-94130"}
+{"cve_id": "CVE-2026-14281", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/langz337/CVE-2026-14281"}
+{"cve_id": "CVE-2026-43786", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/0xBlackash/CVE-2026-43786"}
+{"cve_id": "CVE-2026-63030", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/langz337/CVE-2026-63030"}
+{"cve_id": "CVE-2026-29053", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/K3ysTr0K3R/CVE-2026-29053"}
+{"cve_id": "CVE-2026-22599", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/abraxas/CVE-2026-22599"}
+{"cve_id": "CVE-2026-94132", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-94132"}
+{"cve_id": "CVE-2026-97163", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-97163"}
+{"cve_id": "CVE-2026-15583", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/abraxas/CVE-2026-15583"}
+{"cve_id": "CVE-2026-93485", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/686f6c61/POC-WP-CORE-CVE-2026-93485"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/CKwasd/zenfone9-ghostlock"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/mo2g/redmi-note-12t-pro-kernel"}
+{"cve_id": "CVE-2026-87902", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/rwxrwxs/CVE-2026-87902"}
+{"cve_id": "CVE-2026-75650", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/abraxas/CVE-2026-75650"}
+{"cve_id": "CVE-2026-93834", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/suominen/CVE-2026-93834"}
+{"cve_id": "CVE-2026-93399", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/josemour8/CVE-2026-93399"}
+{"cve_id": "CVE-2026-82901", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-82901"}
+{"cve_id": "CVE-2026-52782", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/abraxas/CVE-2026-52782"}
+{"cve_id": "CVE-2026-97160", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-97160"}
+{"cve_id": "CVE-2026-18143", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-18143"}
+{"cve_id": "CVE-2026-13249", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-13249"}
+{"cve_id": "CVE-2026-97161", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-97161"}
+{"cve_id": "CVE-2026-61500", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/aramosf/CVE-2026-61500"}
+{"cve_id": "CVE-2026-90817", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/Farih123/CVE-2026-90817"}
+{"cve_id": "CVE-2026-48356", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/abraxas/CVE-2026-48356"}
+{"cve_id": "CVE-2026-41089", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/1posix/CVE-2026-41089-POC"}
+{"cve_id": "CVE-2026-65320", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/rahulreddykarne/CVE-2026-65320-fastcore"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/Muskann02/cve-2021-44228-lab"}
+{"cve_id": "CVE-2020-0796", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/linusboz12345-sys/cve-2020-0796-scanner"}
+{"cve_id": "CVE-2026-97163", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/qeize/cve-2026-97163-payload"}
+{"cve_id": "CVE-2026-41940", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/hitechcloud-vietnam/cve-2026-41940-PoC"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/qingle009/opace6-cve-2026-64560"}
+{"cve_id": "CVE-2026-57836", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/rahulreddykarne/CVE-2026-57836-Confluent_Kafka"}
+{"cve_id": "CVE-2024-37054", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/0o176/CVE-2024-37054_PoC_HTB_SmartHire"}
+{"cve_id": "CVE-2026-64600", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/k4ntux/COWSlip"}
+{"cve_id": "CVE-2026-87902", "ts": "2026-09-28T08:35:44Z", "type": "new_poc", "url": "https://github.com/itskill-jp/wordpress-upgrade-check"}
+{"cve_id": "CVE-2026-34990", "ts": "2026-09-28T08:35:46Z", "type": "new_poc", "url": "https://github.com/predyy/CVE-2026-34990"}
+{"cve_id": "CVE-2026-28695", "ts": "2026-09-28T08:35:46Z", "type": "new_poc", "url": "https://github.com/predyy/CVE-2026-28695"}
+{"cve_id": "CVE-2026-88772", "ts": "2026-09-28T08:35:46Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-88772"}
+{"cve_id": "CVE-2026-45585", "ts": "2026-09-28T08:35:46Z", "type": "new_poc", "url": "https://github.com/YellowKeyBitLocker-CVE/YellowKey-BitLocker-CVE-2026-45585"}
+{"cve_id": "CVE-2026-44011", "ts": "2026-09-28T08:35:46Z", "type": "new_poc", "url": "https://github.com/4xura/CVE-2026-44011-craftcms-auth-rce"}
+{"cve_id": "CVE-2026-100740", "ts": "2026-09-28T08:35:46Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-100740"}
+{"cve_id": "CVE-2026-87902", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/langz337/CVE-2026-87902"}
+{"cve_id": "CVE-2026-34990", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/DENNISDGR/CVE-2026-34990-poc"}
+{"cve_id": "CVE-2026-87902", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/Maalfer/CVE-2026-87902-exploit"}
+{"cve_id": "CVE-2026-67279", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/tc4dy/CVE-2026-67279-86060-Toolkit"}
+{"cve_id": "CVE-2026-44431", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/SSH-PuR66/cve-replay"}
+{"cve_id": "CVE-2026-48842", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/4minx/CVE-2026-48842"}
+{"cve_id": "CVE-2026-12227", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/be-keb/CVE-2026-12227"}
+{"cve_id": "CVE-2026-34990", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/gbuyssens/CVE-2026-34990"}
+{"cve_id": "CVE-2026-100835", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-100835"}
+{"cve_id": "CVE-2026-76547", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/H4zaz/CVE-2026-76547"}
+{"cve_id": "CVE-2026-44011", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/DENNISDGR/CVE-2026-44011-poc"}
+{"cve_id": "CVE-2026-100382", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/nth347/mediawiki-CVE-2026-100382"}
+{"cve_id": "CVE-2021-43798", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/khanna419/cve-2021-43798-lab"}
+{"cve_id": "CVE-2026-34990", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/0xc4rc3l/CVE-2026-34990-poc"}
+{"cve_id": "CVE-2026-44011", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/khush-613/CVE-2026-44011-poc"}
+{"cve_id": "CVE-2026-14281", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/abatsakidis/CVE-2026-14281-check"}
+{"cve_id": "CVE-2026-8712", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/rahulreddykarne/CVE-2026-8712-Wyoming"}
+{"cve_id": "CVE-2026-34990", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/khush-613/CVE-2026-34990-poc"}
+{"cve_id": "CVE-2025-32433", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/X-Bulow/Reproduce-CVE-2025-32433"}
+{"cve_id": "CVE-2025-11201", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/rmhowe425/POC-CVE-2025-11201"}
+{"cve_id": "CVE-2026-44011", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/Cyberuser-hash/CVE-2026-44011-craft-rce-poc"}
+{"cve_id": "CVE-2026-71963", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/Boreas37/CVE-2026-71963-PoC"}
+{"cve_id": "CVE-2024-23897", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/Alexandertanay/jenkins-cve-2024-23897-lab"}
+{"cve_id": "CVE-2026-87902", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/abatsakidis/wp-cve-2026-87902-checker"}
+{"cve_id": "CVE-2020-14008", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/raflesiait/CVE-2020-14008---ManageEngine"}
+{"cve_id": "CVE-2026-43805", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/tls456/CVE-2026-43805-PoC"}
+{"cve_id": "CVE-2025-56005", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/gdfurr98/ply-cve-2025-56005-lab"}
+{"cve_id": "CVE-2026-88008", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/Boreas37/CVE-2026-88008-PoC"}
+{"cve_id": "CVE-2026-28695", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/gbuyssens/CVE-2026-28695-craft-rce-bypass"}
+{"cve_id": "CVE-2026-8452", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/techupdate24/citrix-netscaler-cve-2026-8452-rce"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/osflaky/exp-logpresso-CVE-2021-44228-Scanner"}
+{"cve_id": "CVE-2024-4367", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/stuara1/cpc-pdfjs-poc"}
+{"cve_id": "CVE-2026-63030", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/jed-parsec/CVE-2026-63030-60137-wp2shell-lab"}
+{"cve_id": "CVE-2025-56005", "ts": "2026-09-28T08:35:47Z", "type": "new_poc", "url": "https://github.com/gdfurr98/ply-safepickle"}
+{"cve_id": "CVE-2026-78006", "ts": "2026-09-28T08:35:48Z", "type": "new_poc", "url": "https://github.com/antid00t/CVE-2026-78006-CVE-2026-78159"}
+{"cve_id": "CVE-2026-78159", "ts": "2026-09-28T08:35:48Z", "type": "new_poc", "url": "https://github.com/antid00t/CVE-2026-78006-CVE-2026-78159"}
+{"cve_id": "CVE-2026-85706", "ts": "2026-09-28T08:35:48Z", "type": "new_poc", "url": "https://github.com/EQSTLab/CVE-2026-85706"}
+{"cve_id": "CVE-2026-34990", "ts": "2026-09-28T08:35:48Z", "type": "new_poc", "url": "https://github.com/Noorkhalel/CVE-2026-34990-CUPS-LPE-PoC"}
+{"cve_id": "CVE-2026-100903", "ts": "2026-09-28T08:35:48Z", "type": "new_poc", "url": "https://github.com/4ybrick/CVE-2026-100903"}
+{"cve_id": "CVE-2026-82384", "ts": "2026-09-28T08:35:48Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-82384"}
+{"cve_id": "CVE-2026-85984", "ts": "2026-09-28T08:35:48Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-85984"}
+{"cve_id": "CVE-2026-93958", "ts": "2026-09-28T08:35:48Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-93958"}
+{"cve_id": "CVE-2026-6951", "ts": "2026-09-28T08:35:48Z", "type": "new_poc", "url": "https://github.com/EQSTLab/CVE-2026-6951"}
+{"cve_id": "CVE-2026-34990", "ts": "2026-09-28T08:35:48Z", "type": "new_poc", "url": "https://github.com/bara-almustafa/CVE-2026-34990-poc"}
+{"cve_id": "CVE-2019-10744", "ts": "2026-09-28T08:35:48Z", "type": "new_poc", "url": "https://github.com/jimahub/scenario-b-poisoned"}
+{"cve_id": "CVE-2021-21315", "ts": "2026-09-28T08:35:48Z", "type": "new_poc", "url": "https://github.com/jimahub/scenario-d-kev"}
+{"cve_id": "CVE-2017-5941", "ts": "2026-09-28T08:35:48Z", "type": "new_poc", "url": "https://github.com/jimahub/scenario-c-block"}
+{"cve_id": "CVE-2026-43284", "ts": "2026-09-28T08:35:48Z", "type": "new_poc", "url": "https://github.com/coey0814/DirtyFrag-Galaxy"}
+{"cve_id": "CVE-2026-83603", "ts": "2026-09-28T08:38:48Z", "type": "new_poc", "url": "https://github.com/OhWelp/CVE-2026-83603-LPE-PoC"}

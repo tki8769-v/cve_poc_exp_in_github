@@ -1155,6 +1155,8 @@
 
 - [https://github.com/cved-sources/cve-2018-15877](https://github.com/cved-sources/cve-2018-15877) : ![starts](https://img.shields.io/github/stars/cved-sources/cve-2018-15877.svg) ![forks](https://img.shields.io/github/forks/cved-sources/cve-2018-15877.svg)
 
+- [https://github.com/firasotoom85-droid/wp-plainview-auth-RCE-broken-cookie-to-session-fix](https://github.com/firasotoom85-droid/wp-plainview-auth-RCE-broken-cookie-to-session-fix) : ![starts](https://img.shields.io/github/stars/firasotoom85-droid/wp-plainview-auth-RCE-broken-cookie-to-session-fix.svg) ![forks](https://img.shields.io/github/forks/firasotoom85-droid/wp-plainview-auth-RCE-broken-cookie-to-session-fix.svg)
+
 ## CVE-2018-15835
  Android 1.0 through 9.0 has Insecure Permissions. The Android bug ID is 77286983.
 

@@ -2774,6 +2774,8 @@ use after free.
 
 - [https://github.com/mlbrilliance/aurora-demo-lockfile](https://github.com/mlbrilliance/aurora-demo-lockfile) : ![starts](https://img.shields.io/github/stars/mlbrilliance/aurora-demo-lockfile.svg) ![forks](https://img.shields.io/github/forks/mlbrilliance/aurora-demo-lockfile.svg)
 
+- [https://github.com/jimahub/scenario-b-poisoned](https://github.com/jimahub/scenario-b-poisoned) : ![starts](https://img.shields.io/github/stars/jimahub/scenario-b-poisoned.svg) ![forks](https://img.shields.io/github/forks/jimahub/scenario-b-poisoned.svg)
+
 ## CVE-2019-10743
  All versions of archiver allow attacker to perform a Zip Slip attack via the "unarchive" functions. It is exploited using a specially crafted zip archive, that holds path traversal filenames. When exploited, a filename in a malicious archive is concatenated to the target extraction directory, which results in the final path ending up outside of the target folder. For instance, a zip may hold a file with a "../../file.exe" location and thus break out of the target folder. If an executable or a configuration file is overwritten with a file containing malicious code, the problem can turn into an arbitrary code execution issue quite easily.
 

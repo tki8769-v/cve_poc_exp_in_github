@@ -758,6 +758,8 @@ Users are recommended to upgrade to version 18.12.10
 
 - [https://github.com/GraySignal/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467](https://github.com/GraySignal/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467) : ![starts](https://img.shields.io/github/stars/GraySignal/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467.svg) ![forks](https://img.shields.io/github/forks/GraySignal/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467.svg)
 
+- [https://github.com/BardLaudian/CVE-2023-49070](https://github.com/BardLaudian/CVE-2023-49070) : ![starts](https://img.shields.io/github/stars/BardLaudian/CVE-2023-49070.svg) ![forks](https://img.shields.io/github/forks/BardLaudian/CVE-2023-49070.svg)
+
 ## CVE-2023-49052
  File Upload vulnerability in Microweber v.2.0.4 allows a remote attacker to execute arbitrary code via a crafted script to the file upload function in the created forms component.
 
@@ -6881,6 +6883,8 @@ Request splitting/smuggling could result in bypass of access controls in the pro
 - [https://github.com/arnavps/CTF-Web-Exploitation](https://github.com/arnavps/CTF-Web-Exploitation) : ![starts](https://img.shields.io/github/stars/arnavps/CTF-Web-Exploitation.svg) ![forks](https://img.shields.io/github/forks/arnavps/CTF-Web-Exploitation.svg)
 
 - [https://github.com/giordy0424/CVE-2023-25690_lab](https://github.com/giordy0424/CVE-2023-25690_lab) : ![starts](https://img.shields.io/github/stars/giordy0424/CVE-2023-25690_lab.svg) ![forks](https://img.shields.io/github/forks/giordy0424/CVE-2023-25690_lab.svg)
+
+- [https://github.com/roshanrajbanshi/cve-2023-25690-smuggler](https://github.com/roshanrajbanshi/cve-2023-25690-smuggler) : ![starts](https://img.shields.io/github/stars/roshanrajbanshi/cve-2023-25690-smuggler.svg) ![forks](https://img.shields.io/github/forks/roshanrajbanshi/cve-2023-25690-smuggler.svg)
 
 ## CVE-2023-25610
  A buffer underwrite ('buffer underflow') vulnerability in the administrative interface of Fortinet FortiOS version 7.2.0 through 7.2.3, version 7.0.0 through 7.0.6, version 6.4.0 through 6.4.11 and version 6.2.12 and below, FortiProxy version 7.2.0 through 7.2.2, version 7.0.0 through 7.0.8, version 2.0.12 and below and FortiOS-6K7K version 7.0.5, version 6.4.0 through 6.4.10 and version 6.2.0 through 6.2.10 and below allows a remote unauthenticated attacker to execute arbitrary code or commands via specifically crafted requests.

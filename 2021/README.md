@@ -816,6 +816,10 @@
 
 - [https://github.com/robertdebock/ansible-role-cve_2021_44228](https://github.com/robertdebock/ansible-role-cve_2021_44228) : ![starts](https://img.shields.io/github/stars/robertdebock/ansible-role-cve_2021_44228.svg) ![forks](https://img.shields.io/github/forks/robertdebock/ansible-role-cve_2021_44228.svg)
 
+- [https://github.com/Muskann02/cve-2021-44228-lab](https://github.com/Muskann02/cve-2021-44228-lab) : ![starts](https://img.shields.io/github/stars/Muskann02/cve-2021-44228-lab.svg) ![forks](https://img.shields.io/github/forks/Muskann02/cve-2021-44228-lab.svg)
+
+- [https://github.com/osflaky/exp-logpresso-CVE-2021-44228-Scanner](https://github.com/osflaky/exp-logpresso-CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/osflaky/exp-logpresso-CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/osflaky/exp-logpresso-CVE-2021-44228-Scanner.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
@@ -1055,6 +1059,8 @@
 - [https://github.com/shivamg2004/-INE_Shivam_Gupta_23104003](https://github.com/shivamg2004/-INE_Shivam_Gupta_23104003) : ![starts](https://img.shields.io/github/stars/shivamg2004/-INE_Shivam_Gupta_23104003.svg) ![forks](https://img.shields.io/github/forks/shivamg2004/-INE_Shivam_Gupta_23104003.svg)
 
 - [https://github.com/hxlxmj/Grafxploit](https://github.com/hxlxmj/Grafxploit) : ![starts](https://img.shields.io/github/stars/hxlxmj/Grafxploit.svg) ![forks](https://img.shields.io/github/forks/hxlxmj/Grafxploit.svg)
+
+- [https://github.com/khanna419/cve-2021-43798-lab](https://github.com/khanna419/cve-2021-43798-lab) : ![starts](https://img.shields.io/github/stars/khanna419/cve-2021-43798-lab.svg) ![forks](https://img.shields.io/github/forks/khanna419/cve-2021-43798-lab.svg)
 
 ## CVE-2021-43789
  PrestaShop is an Open Source e-commerce web application. Versions of PrestaShop prior to 1.7.8.2 are vulnerable to blind SQL injection using search filters with `orderBy` and `sortOrder` parameters. The problem is fixed in version 1.7.8.2.
@@ -6167,6 +6173,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/xMohamed0/CVE-2021-21315-POC](https://github.com/xMohamed0/CVE-2021-21315-POC) : ![starts](https://img.shields.io/github/stars/xMohamed0/CVE-2021-21315-POC.svg) ![forks](https://img.shields.io/github/forks/xMohamed0/CVE-2021-21315-POC.svg)
 
+- [https://github.com/jimahub/scenario-d-kev](https://github.com/jimahub/scenario-d-kev) : ![starts](https://img.shields.io/github/stars/jimahub/scenario-d-kev.svg) ![forks](https://img.shields.io/github/forks/jimahub/scenario-d-kev.svg)
+
 ## CVE-2021-21311
  Adminer is an open-source database management in a single PHP file. In adminer from version 4.0.0 and before 4.7.9 there is a server-side request forgery vulnerability. Users of Adminer versions bundling all drivers (e.g. `adminer.php`) are affected. This is fixed in version 4.7.9.
 
@@ -7808,6 +7816,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/Sirius-RJ/FullstackAcademy-Printernightmare-writeup-2105-E.C.A.R.](https://github.com/Sirius-RJ/FullstackAcademy-Printernightmare-writeup-2105-E.C.A.R.) : ![starts](https://img.shields.io/github/stars/Sirius-RJ/FullstackAcademy-Printernightmare-writeup-2105-E.C.A.R..svg) ![forks](https://img.shields.io/github/forks/Sirius-RJ/FullstackAcademy-Printernightmare-writeup-2105-E.C.A.R..svg)
 
 - [https://github.com/DenizSe/CVE-2021-34527](https://github.com/DenizSe/CVE-2021-34527) : ![starts](https://img.shields.io/github/stars/DenizSe/CVE-2021-34527.svg) ![forks](https://img.shields.io/github/forks/DenizSe/CVE-2021-34527.svg)
+
+- [https://github.com/pentagon404uzb/CVE-2021-1675-Local-Privilege-Escalation-CVSS-7.8-](https://github.com/pentagon404uzb/CVE-2021-1675-Local-Privilege-Escalation-CVSS-7.8-) : ![starts](https://img.shields.io/github/stars/pentagon404uzb/CVE-2021-1675-Local-Privilege-Escalation-CVSS-7.8-.svg) ![forks](https://img.shields.io/github/forks/pentagon404uzb/CVE-2021-1675-Local-Privilege-Escalation-CVSS-7.8-.svg)
 
 ## CVE-2021-1656
  TPM Device Driver Information Disclosure Vulnerability

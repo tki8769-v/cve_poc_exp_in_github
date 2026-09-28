@@ -1886,6 +1886,8 @@ Call Trace:
 
 - [https://github.com/daikinitanda/-CVE-2024-47875-](https://github.com/daikinitanda/-CVE-2024-47875-) : ![starts](https://img.shields.io/github/stars/daikinitanda/-CVE-2024-47875-.svg) ![forks](https://img.shields.io/github/forks/daikinitanda/-CVE-2024-47875-.svg)
 
+- [https://github.com/d154573r-4v3r73d/CVE-2024-47875](https://github.com/d154573r-4v3r73d/CVE-2024-47875) : ![starts](https://img.shields.io/github/stars/d154573r-4v3r73d/CVE-2024-47875.svg) ![forks](https://img.shields.io/github/forks/d154573r-4v3r73d/CVE-2024-47875.svg)
+
 ## CVE-2024-47865
  Missing authentication for critical function vulnerability exists in Rakuten Turbo 5G firmware version V1.3.18 and earlier. If this vulnerability is exploited, a remote unauthenticated attacker may update or downgrade the firmware on the device.
 
@@ -3937,6 +3939,8 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 - [https://github.com/Spydomain/CVE-2024-37054-MLflow-reverse-shell](https://github.com/Spydomain/CVE-2024-37054-MLflow-reverse-shell) : ![starts](https://img.shields.io/github/stars/Spydomain/CVE-2024-37054-MLflow-reverse-shell.svg) ![forks](https://img.shields.io/github/forks/Spydomain/CVE-2024-37054-MLflow-reverse-shell.svg)
 
 - [https://github.com/BardLaudian/CVE-2024-37054](https://github.com/BardLaudian/CVE-2024-37054) : ![starts](https://img.shields.io/github/stars/BardLaudian/CVE-2024-37054.svg) ![forks](https://img.shields.io/github/forks/BardLaudian/CVE-2024-37054.svg)
+
+- [https://github.com/0o176/CVE-2024-37054_PoC_HTB_SmartHire](https://github.com/0o176/CVE-2024-37054_PoC_HTB_SmartHire) : ![starts](https://img.shields.io/github/stars/0o176/CVE-2024-37054_PoC_HTB_SmartHire.svg) ![forks](https://img.shields.io/github/forks/0o176/CVE-2024-37054_PoC_HTB_SmartHire.svg)
 
 ## CVE-2024-37051
  GitHub access token could be exposed to third-party sites in JetBrains IDEs after version 2023.1 and less than: IntelliJ IDEA 2023.1.7, 2023.2.7, 2023.3.7, 2024.1.3, 2024.2 EAP3; Aqua 2024.1.2; CLion 2023.1.7, 2023.2.4, 2023.3.5, 2024.1.3, 2024.2 EAP2; DataGrip 2023.1.3, 2023.2.4, 2023.3.5, 2024.1.4; DataSpell 2023.1.6, 2023.2.7, 2023.3.6, 2024.1.2, 2024.2 EAP1; GoLand 2023.1.6, 2023.2.7, 2023.3.7, 2024.1.3, 2024.2 EAP3; MPS 2023.2.1, 2023.3.1, 2024.1 EAP2; PhpStorm 2023.1.6, 2023.2.6, 2023.3.7, 2024.1.3, 2024.2 EAP3; PyCharm 2023.1.6, 2023.2.7, 2023.3.6, 2024.1.3, 2024.2 EAP2; Rider 2023.1.7, 2023.2.5, 2023.3.6, 2024.1.3; RubyMine 2023.1.7, 2023.2.7, 2023.3.7, 2024.1.3, 2024.2 EAP4; RustRover 2024.1.1; WebStorm 2023.1.6, 2023.2.7, 2023.3.7, 2024.1.4
@@ -7212,6 +7216,8 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [https://github.com/w41l3r/jenkins_scan](https://github.com/w41l3r/jenkins_scan) : ![starts](https://img.shields.io/github/stars/w41l3r/jenkins_scan.svg) ![forks](https://img.shields.io/github/forks/w41l3r/jenkins_scan.svg)
 
 - [https://github.com/aldamd/CTF](https://github.com/aldamd/CTF) : ![starts](https://img.shields.io/github/stars/aldamd/CTF.svg) ![forks](https://img.shields.io/github/forks/aldamd/CTF.svg)
+
+- [https://github.com/Alexandertanay/jenkins-cve-2024-23897-lab](https://github.com/Alexandertanay/jenkins-cve-2024-23897-lab) : ![starts](https://img.shields.io/github/stars/Alexandertanay/jenkins-cve-2024-23897-lab.svg) ![forks](https://img.shields.io/github/forks/Alexandertanay/jenkins-cve-2024-23897-lab.svg)
 
 ## CVE-2024-23828
  Nginx-UI is a web interface to manage Nginx configurations. It is vulnerable to an authenticated arbitrary command execution via CRLF attack when changing the value of test_config_cmd or start_cmd. This vulnerability exists due to an incomplete fix for CVE-2024-22197 and CVE-2024-22198. This vulnerability has been patched in version 2.0.0.beta.12.
@@ -10969,6 +10975,8 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 
 - [https://github.com/yuimamur/CVE-2024-4367-hands-on-01](https://github.com/yuimamur/CVE-2024-4367-hands-on-01) : ![starts](https://img.shields.io/github/stars/yuimamur/CVE-2024-4367-hands-on-01.svg) ![forks](https://img.shields.io/github/forks/yuimamur/CVE-2024-4367-hands-on-01.svg)
 
+- [https://github.com/stuara1/cpc-pdfjs-poc](https://github.com/stuara1/cpc-pdfjs-poc) : ![starts](https://img.shields.io/github/stars/stuara1/cpc-pdfjs-poc.svg) ![forks](https://img.shields.io/github/forks/stuara1/cpc-pdfjs-poc.svg)
+
 ## CVE-2024-4358
  In Progress Telerik Report Server, version 2024 Q1 (10.0.24.305) or earlier, on IIS, an unauthenticated attacker can gain access to Telerik Report Server restricted functionality via an authentication bypass vulnerability.
 
@@ -11201,6 +11209,10 @@ Successful exploitation of this vulnerability could allow the attacker to access
  A flaw was found in Keycloak. Certain endpoints in Keycloak's admin REST API allow low-privilege users to access administrative functionalities. This flaw allows users to perform actions reserved for administrators, potentially leading to data breaches or system compromise.
 
 - [https://github.com/h4x0r-dz/CVE-2024-3656](https://github.com/h4x0r-dz/CVE-2024-3656) : ![starts](https://img.shields.io/github/stars/h4x0r-dz/CVE-2024-3656.svg) ![forks](https://img.shields.io/github/forks/h4x0r-dz/CVE-2024-3656.svg)
+
+## CVE-2024-3651
+
+- [https://github.com/redhat-tssc-tmm/CVE-2024-3651-exploit](https://github.com/redhat-tssc-tmm/CVE-2024-3651-exploit) : ![starts](https://img.shields.io/github/stars/redhat-tssc-tmm/CVE-2024-3651-exploit.svg) ![forks](https://img.shields.io/github/forks/redhat-tssc-tmm/CVE-2024-3651-exploit.svg)
 
 ## CVE-2024-3640
  An unquoted executable path exists in the Rockwell Automation FactoryTalk® Remote Access™ possibly resulting in remote code execution if exploited. While running the FTRA installer package, the executable path is not properly quoted, which could allow a threat actor to enter a malicious executable and run it as a System user. A threat actor needs admin privileges to exploit this vulnerability.

@@ -3,3 +3,4 @@
 {"cve_id": "CVE-2025-4754", "description": "Ultimate Before After Image Slider & Gallery – BEAF <= 4.6.10 - Authenticated (Admin+) Arbitrary File Upload via beaf_options_save", "reason": "silent_description_insufficient", "ts": "2026-09-24T15:43:28Z", "url": "https://github.com/d0n601/CVE-2025-47549"}
 {"cve_id": "CVE-2026-2674", "description": "", "reason": "empty_description_no_evidence", "ts": "2026-09-24T15:45:52Z", "url": "https://github.com/hungnqdz/CVE-2026-26746"}
 {"cve_id": "CVE-2026-3894", "description": "", "reason": "empty_description_no_evidence", "ts": "2026-09-24T15:46:35Z", "url": "https://github.com/Wise-Security/CVE-2026-38945"}
+{"cve_id": "CVE-2026-92702", "description": "Early Attestation Considered Very Harmful (CVE-2026-92701, CVE-2026-92702, CVE-2026-33697, and more to come)", "reason": "multi_id_mention_unresolved", "ts": "2026-09-28T08:43:54Z", "url": "https://github.com/muhammad-usama-sardar/intra-handshake-fail"}
