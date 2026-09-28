@@ -1,0 +1,8 @@
+# TOKENS 模板（仅旧 exp*.py 脚本读取；新 collector 不读此文件）
+# 复制为 TOKENS 后按行填写，格式：
+token:your_token
+
+# 新 collector 的凭证来源（推荐，不落仓库）：
+#   GH_TOKEN        必需，单个 GitHub token（Search API 用）
+#   EXTRA_TOKENS    可选，逗号分隔的补充 token
+# 日志仅显示凭证别名/末 4 位，不打印完整值（REFACTOR_PLAN.md 3.2）。

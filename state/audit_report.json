@@ -1,0 +1,16 @@
+{
+  "contains_other_id_cves": 868,
+  "counts": {
+    "also_contains_target": 403,
+    "contains_other_id": 1306,
+    "links": 27916,
+    "no_cve_in_url": 6106,
+    "other_conflict": 356,
+    "prefix": 547,
+    "target_absent": 903,
+    "target_present": 20907
+  },
+  "populated_cves": 12137,
+  "rule_version": "2",
+  "target_absent_cves": 584
+}

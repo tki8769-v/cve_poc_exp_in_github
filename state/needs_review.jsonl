@@ -1,0 +1,5 @@
+{"cve_id": "CVE-2025-1253", "description": "TNC Toolbox: Web Performance <= 1.4.2 - Unauthenticated Sensitive Information Exposure to Privilege Escalation/cPanel Account Takeover", "reason": "silent_description_insufficient", "ts": "2026-09-24T07:52:09Z", "url": "https://github.com/Nxploited/CVE-2025-12539"}
+{"cve_id": "CVE-2025-1254", "description": "", "reason": "empty_description_no_evidence", "ts": "2026-09-24T07:52:11Z", "url": "https://github.com/kavin71725/CVE-2025-12543-Fix-for-Wildfly"}
+{"cve_id": "CVE-2025-4754", "description": "Ultimate Before After Image Slider & Gallery – BEAF <= 4.6.10 - Authenticated (Admin+) Arbitrary File Upload via beaf_options_save", "reason": "silent_description_insufficient", "ts": "2026-09-24T15:43:28Z", "url": "https://github.com/d0n601/CVE-2025-47549"}
+{"cve_id": "CVE-2026-2674", "description": "", "reason": "empty_description_no_evidence", "ts": "2026-09-24T15:45:52Z", "url": "https://github.com/hungnqdz/CVE-2026-26746"}
+{"cve_id": "CVE-2026-3894", "description": "", "reason": "empty_description_no_evidence", "ts": "2026-09-24T15:46:35Z", "url": "https://github.com/Wise-Security/CVE-2026-38945"}

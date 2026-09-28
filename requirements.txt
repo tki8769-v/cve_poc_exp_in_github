@@ -1,0 +1,8 @@
+# 运行依赖
+requests>=2.31
+
+# 可选：仅 download.py 的进度条使用
+tqdm>=4.66
+
+# 开发/测试依赖（CI 或本地显式安装，不随运行安装）：
+#   pip install pytest>=8.0

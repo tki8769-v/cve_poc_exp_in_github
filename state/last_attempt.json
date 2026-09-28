@@ -1,0 +1,80 @@
+{
+  "ok": true,
+  "steps": {
+    "backfill_conflicts": {
+      "cached_total": 1075,
+      "fetched": 401,
+      "requested": 401,
+      "stop_reason": null
+    },
+    "backfill_queue": {
+      "cached_total": 1738,
+      "fetched": 663,
+      "requested": 1500,
+      "stop_reason": "BudgetExhausted: time budget exhausted (960.0s)"
+    },
+    "clean_apply": {
+      "affected_years": [
+        "2025",
+        "2026"
+      ],
+      "applied_at": "2026-09-24T16:19:31Z",
+      "applied_rejected": 134,
+      "revoked_accepted": 0,
+      "revoked_rejected": 0,
+      "rule_version": "2",
+      "still_pending_meta": 0
+    },
+    "recheck": {
+      "conflict_evidenced": 168,
+      "conflicts_total": 903,
+      "gone": 3,
+      "missing_meta": 0,
+      "needs_review": 732,
+      "rule_version": "2"
+    },
+    "render": {
+      "changed_files": 5
+    },
+    "repo_watch": {
+      "blocked": 0,
+      "complete": true,
+      "cursor_advanced": true,
+      "cves_hit": 14,
+      "needs_review": 1,
+      "new_relations": 7,
+      "rejected_at_collection": 0,
+      "repos_seen": 69,
+      "warning": null,
+      "window": "2026-09-24..2026-09-24"
+    },
+    "scan": {
+      "blocked": 0,
+      "budget_stopped": true,
+      "incomplete": 0,
+      "needs_review": 3,
+      "new_relations": 0,
+      "rejected_at_collection": 2,
+      "scanned": 300,
+      "task_errors": 0,
+      "tasks_due": 4170
+    },
+    "sync": {
+      "continuity_warning": false,
+      "cves_seen": 1368,
+      "floor_tag": "cve_2026-09-24_0700Z",
+      "last_tag": "cve_2026-09-24_1500Z",
+      "new_tasks": 1137,
+      "rejected": 7,
+      "releases_processed": 7,
+      "releases_seen": 30
+    },
+    "verify": {
+      "downstream_checked": true,
+      "downstream_kind": "real",
+      "ok": true,
+      "problems": []
+    }
+  },
+  "ts": "2026-09-24T16:19:35Z"
+}

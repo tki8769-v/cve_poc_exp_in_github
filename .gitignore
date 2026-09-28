@@ -1,0 +1,16 @@
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+TOKENS
+PocOrExps*.log
+download/
+repo/
+state/tmp_verify/
+urls
+
+# 内部文档：仅保留本地，不随仓库分发
+REFACTOR_PLAN.md
+REFACTOR_REVIEW.md
+DOWNSTREAM.md
+IMPLEMENTATION_REVIEW*.md
