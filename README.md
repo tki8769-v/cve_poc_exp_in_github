@@ -1,5 +1,9 @@
 # PocOrExp in Github（collector 版）
 
+> 本项目基于 [ycdxsb/PocOrExp_in_Github](https://github.com/ycdxsb/PocOrExp_in_Github)
+> （MIT License © 2021 ycdxsb）的数据与思路重构而来，感谢原作者的聚合工作。
+> 原项目协议见其仓库 [LICENSE](https://github.com/ycdxsb/PocOrExp_in_Github/blob/main/LICENSE)。
+
 聚合 GitHub 上公开的 CVE PoC / EXP 仓库，按年份组织成 Markdown 索引，全自动采集、清洗与发布。
 
 - 数据产出：`<年份>/README.md`、汇总 `PocOrExp.md`、每日新增 `Today.md`
