@@ -3,6 +3,8 @@ from __future__ import annotations
 
 from pathlib import Path
 
+import pytest
+
 from collector import state as state_mod
 from collector.blacklist import is_blocked, load_blacklist
 from collector.ghsearch import SearchResult
@@ -339,3 +341,120 @@ def test_i3_overlap_day_queue_deduped(tmp_path):
     stats3 = discover(FakeDiscoverClient(capped), tmp_path)
     assert stats3["partial_days_dropped"] == 1        # 达上限放弃
     assert state_mod.read_json(tmp_path / "state" / CURSOR_FILE)["partial_days"] == []
+
+
+@pytest.fixture
+def timed_discovery(monkeypatch):
+    """真实分页/预算客户端，模拟旧日超量、每次 HTTP 耗时一秒。"""
+    from collector import repo_watch
+    from collector.ghsearch import Budget, GitHubClient
+
+    old_day = "2026-09-28"
+    clock = [0.0]
+    monkeypatch.setattr("collector.ghsearch.time.monotonic", lambda: clock[0])
+
+    class Response:
+        status_code = 200
+        headers = {}
+        url = "https://api.github.com/search/repositories"
+
+        def __init__(self, day, page):
+            self.day = day
+            self.links = {"next": {"url": "next"}} if day == old_day and page < 10 else {}
+
+        def json(self):
+            items = ([_repo_item("CVE-2020-1234-old")] + [{}] * 99
+                     if self.day == old_day else [_repo_item("CVE-2020-5678-new")])
+            return {"items": items, "total_count": 1001 if self.day == old_day else 1,
+                    "incomplete_results": False}
+
+    class Session:
+        def __init__(self):
+            self.calls = []
+
+        def get(self, url, params=None, **kwargs):
+            day = params["q"].split("created:", 1)[1].split("..", 1)[0]
+            self.calls.append((day, params["page"]))
+            clock[0] += 1
+            return Response(day, params["page"])
+
+    def run(root, today, seconds, dry_run=False):
+        monkeypatch.setattr(repo_watch, "_today", lambda: today)
+        session = Session()
+        client = GitHubClient(token="test-discovery-token", session=session, min_interval=0)
+        stats = discover(client, root, dry_run=dry_run,
+                         budget=Budget(max_seconds=seconds, started_at=clock[0]))
+        return stats, session.calls
+
+    return run
+
+
+def test_j1_capped_overlap_never_blocks_next_day(tmp_path, timed_discovery):
+    """当天超量自然入队；跨天零/少量预算和多轮补扫不阻塞新日期。"""
+    old_day, today = "2026-09-28", "2026-09-29"
+    cursor_path = tmp_path / "state" / CURSOR_FILE
+    state_mod.write_json(cursor_path, {"last_date": old_day})
+    first, calls = timed_discovery(tmp_path, old_day, 15)
+    assert first["complete"] and len(calls) == 10
+    initial = state_mod.read_json(cursor_path)
+    assert initial["partial_days"] == [{"date": old_day, "attempts": 1}]
+
+    stopped, calls = timed_discovery(tmp_path, today, 0)
+    assert not stopped["complete"] and not calls
+    assert state_mod.read_json(cursor_path) == initial
+
+    # 只有一页预算也先收今天；未实际查询的旧日不计尝试。
+    fresh, calls = timed_discovery(tmp_path, today, 1)
+    assert calls == [(today, 1)]
+    assert fresh["complete"] and fresh["cursor_advanced"]
+    cursor = state_mod.read_json(cursor_path)
+    assert cursor["last_date"] == today
+    assert cursor["partial_days"] == [{"date": old_day, "attempts": 1}]
+    rows = state_mod.read_jsonl(tmp_path / "state" / "relations_search" / "2020.jsonl")
+    assert {r["cve_id"] for r in rows} == {"CVE-2020-1234", "CVE-2020-5678"}
+
+    # 真实分页在旧日第 4 页后耗尽预算；两次尝试后按既定上限放弃。
+    for attempt in (2, 3):
+        stats, calls = timed_discovery(tmp_path, today, 5)
+        assert calls == [(today, 1)] + [(old_day, page) for page in range(1, 5)]
+        assert stats["complete"] and stats["cursor_advanced"]
+        cursor = state_mod.read_json(cursor_path)
+        expected = [{"date": old_day, "attempts": attempt}] if attempt < 3 else []
+        assert cursor["partial_days"] == expected
+        assert stats["partial_days_dropped"] == (1 if attempt == 3 else 0)
+
+    final, calls = timed_discovery(tmp_path, today, 5)
+    assert final["complete"] and calls == [(today, 1)]
+    assert state_mod.read_json(cursor_path)["partial_days"] == []
+
+
+def test_j1_dropped_overlap_does_not_restart_after_midnight(tmp_path, timed_discovery):
+    """当天已达到放弃上限的超量日，跨天不能重新变成必扫前置项。"""
+    old_day, today = "2026-09-28", "2026-09-29"
+    cursor_path = tmp_path / "state" / CURSOR_FILE
+    state_mod.write_json(cursor_path, {"last_date": old_day})
+    for _ in range(3):
+        stats, calls = timed_discovery(tmp_path, old_day, 15)
+        assert stats["complete"] and len(calls) == 10
+    assert stats["partial_days_dropped"] == 1
+    assert state_mod.read_json(cursor_path)["partial_days"] == []
+
+    fresh, calls = timed_discovery(tmp_path, today, 1)
+    assert calls == [(today, 1)]
+    assert fresh["complete"] and fresh["cursor_advanced"]
+    assert state_mod.read_json(cursor_path)["last_date"] == today
+
+
+def test_j1_deferred_overlap_dry_run_preserves_state(tmp_path, timed_discovery):
+    """旧格式游标无新标志也能延后补扫；dry-run 不提交关系或重试进度。"""
+    cursor_path = tmp_path / "state" / CURSOR_FILE
+    state_mod.write_json(cursor_path, {
+        "last_date": "2026-09-28",
+        "partial_days": [{"date": "2026-09-28", "attempts": 1}],
+    })
+    before = {p.relative_to(tmp_path): p.read_bytes() for p in tmp_path.rglob("*") if p.is_file()}
+    stats, calls = timed_discovery(tmp_path, "2026-09-29", 5, dry_run=True)
+    assert calls[0] == ("2026-09-29", 1)
+    assert stats["complete"] and not stats["cursor_advanced"]
+    after = {p.relative_to(tmp_path): p.read_bytes() for p in tmp_path.rglob("*") if p.is_file()}
+    assert after == before

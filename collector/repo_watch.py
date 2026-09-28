@@ -13,7 +13,7 @@
 - R11：接受预算参数，等待不超预算；
 - H2：非法编号（序号不足 4 位）跳过并计数，不进入状态；
 - H4/I3：单日结果达搜索上限时按日期去重记录部分覆盖（有限次重试后
-  放弃），主窗口先行、补扫后置——超量日与未完成补扫都不阻塞新日期。
+  放弃），主窗口先行、补扫后置；已知超量的重叠旧日也走补扫（J1）。
 """
 from __future__ import annotations
 
@@ -158,9 +158,23 @@ def discover(client, root: Path, max_pages: int = 10, dry_run: bool = False,
         queue.append({"date": date_str, "attempts": 1})
 
     queue: list[dict] = [dict(entry) for entry in (cursor.get("partial_days") or [])]
+    # J1：已接受部分覆盖的旧日不再作为新日期的前置条件。当天仍需查询，
+    # 因为还会出现新仓库；跨天后才把该日交给有限补扫。
+    deferred_days = {entry["date"] for entry in queue if entry["date"] < today}
+    last_date = cursor.get("last_date")
+    if cursor.get("last_date_partial") and last_date and last_date < today:
+        # 即使当天已达到重试上限而出队，也保留覆盖状态，避免跨天后重新
+        # 成为主窗口的必扫项。该标志随主游标推进自然替换。
+        deferred_days.add(last_date)
+    main_searched: set[str] = set()
+    today_partial = False
 
     day = start
     while stats["complete"]:
+        if day in deferred_days:
+            day = _day_offset(day, 1)
+            continue
+        main_searched.add(day)
         result = _search_one(day)
         outcome = _absorb(result)
         if outcome == "incomplete":
@@ -173,16 +187,17 @@ def discover(client, root: Path, max_pages: int = 10, dry_run: bool = False,
             # 重叠日补齐即出队（主窗口与补扫共用同一重试计数，I3 去重）
             queue[:] = [e for e in queue if e["date"] != day]
         if day >= today:
+            today_partial = outcome == "cap"
             break
         day = _day_offset(day, 1)
 
-    # 历史超量日补扫：仅在主窗口完成后执行；重叠日（>= start）由主窗口
-    # 覆盖，不重复查询。零请求零新进展不计尝试（G8 原则），其余真实尝试
+    # 历史超量日补扫：仅在主窗口完成后执行；按实际查询日期去重，让被
+    # 延后的重叠旧日也能补扫。零请求零新进展不计尝试（G8 原则），其余真实尝试
     # 无论结果如何都推进重试计数，保证有限次后放弃
     index = 0
     while index < len(queue) and stats["complete"]:
         entry = queue[index]
-        if entry["date"] >= start:
+        if entry["date"] >= today or entry["date"] in main_searched:
             index += 1
             continue
         result = _search_one(entry["date"])
@@ -214,12 +229,14 @@ def discover(client, root: Path, max_pages: int = 10, dry_run: bool = False,
     stats["partial_days_pending"] = len(queue)
     if not dry_run:
         if stats["complete"]:
-            state_mod.write_json(state_mod.state_dir(root) / CURSOR_FILE,
-                                 {"last_date": today, "partial_days": queue})
+            next_cursor = {"last_date": today, "partial_days": queue}
+            if today_partial:
+                next_cursor["last_date_partial"] = True
+            state_mod.write_json(state_mod.state_dir(root) / CURSOR_FILE, next_cursor)
             stats["cursor_advanced"] = True
         elif queue or cursor.get("last_date"):
             # 不完整：last_date 不推进，但持久化已变化的部分覆盖队列（H4）
             state_mod.write_json(state_mod.state_dir(root) / CURSOR_FILE,
-                                 {"last_date": cursor.get("last_date"),
+                                 {**cursor, "last_date": cursor.get("last_date"),
                                   "partial_days": queue})
     return stats
