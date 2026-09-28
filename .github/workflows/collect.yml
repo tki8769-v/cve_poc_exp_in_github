@@ -72,7 +72,11 @@ jobs:
             echo "No changes to publish."
             exit 0
           fi
-          git commit -m "Auto collect $(date -u +%Y-%m-%dT%H:%M:%SZ) [skip ci]"
+          # 注意：提交消息不得携带 [skip ci] 等跳过标记——GitHub 会对
+          # 默认分支 HEAD 应用跳过标记并连带压制 schedule 触发，定时采集
+          # 会被自己的数据提交杀死。数据提交不跑 ci 由 ci.yml 的 paths
+          # 过滤实现。
+          git commit -m "Auto collect $(date -u +%Y-%m-%dT%H:%M:%SZ)"
           for attempt in 1 2 3; do
             if git push; then exit 0; fi
             echo "push 失败（第 ${attempt} 次），rebase 后重验再推送..."

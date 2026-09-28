@@ -2,6 +2,15 @@ name: ci
 
 on:
   push:
+    paths:
+      - "collector/**"
+      - "tests/**"
+      - "scripts/**"
+      - "requirements.txt"
+      - "conftest.py"
+      - "check_data.py"
+      - "download.py"
+      - ".github/workflows/**"
   pull_request:
 
 permissions:
