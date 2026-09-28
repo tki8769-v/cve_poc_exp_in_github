@@ -125,3 +125,26 @@ def test_daily_idempotent_rerun(tmp_path: Path):
     events_after = len(state_mod.read_jsonl(state_mod.state_dir(root) / "events.jsonl"))
     assert events_after == events_before
     assert summary["ok"] is True
+
+
+def test_daily_survives_sync_budget_exhaustion(tmp_path: Path):
+    """评审 H3：sync 预算耗尽是受控停止——整轮照常渲染/验证/发布。"""
+    from collector.ghsearch import BudgetExhausted
+
+    root = _setup(tmp_path)
+
+    class SyncBudgetOutClient(FakeDailyClient):
+        def list_releases(self, per_page=30, page=1, budget=None):
+            raise BudgetExhausted("time budget exhausted")
+
+    summary = daily(root, client=SyncBudgetOutClient(),
+                    scan_requests=10, scan_minutes=1.0,
+                    backfill_limit=10, backfill_minutes=0.5)
+
+    assert summary["ok"] is True                       # 不再弃整轮
+    assert summary["steps"]["sync"]["budget_stopped"] is True
+    assert summary["steps"]["verify"]["ok"] is True
+    # 队列观测字段（评审 4 容量项）——sync 受控停止，本轮无新任务属正常
+    assert "queue" in summary["steps"]
+    assert "due_by_priority" in summary["steps"]["queue"]
+    assert summary["steps"]["queue"]["tasks_total"] == 0

@@ -306,7 +306,7 @@ def test_g7_stale_published_snapshot_does_not_requeue(tmp_path: Path):
 
 
 def test_g2_missing_checkpoint_reports_gap(tmp_path: Path):
-    """评审 G2：列表读尽仍未见最近已应用检查点 → 断档，不得宣布连续。"""
+    """评审 G2/H1：断档须持续告警，直到原始检查点重新可见才算补齐。"""
     r01 = _release("cve_2026-09-20_1700Z", 1, "https://x/1.zip")
     cvesource.sync(FakeClient([r01], {1: _delta_zip([_record("CVE-2026-0800")])}), tmp_path)
 
@@ -316,13 +316,48 @@ def test_g2_missing_checkpoint_reports_gap(tmp_path: Path):
                             tmp_path)
     assert report["continuity_warning"] is True
     cursor = state_mod.read_json(tmp_path / "state" / "cve_cursor.json")
-    assert cursor["continuity_gap"] is True  # 断档持久化，不被新进度掩盖
+    assert cursor["continuity_gap"] is True
+    assert cursor["continuity_gap_below"] == "cve_2026-09-20_1700Z"  # 原始检查点
 
-    # 追溯到检查点（本轮 last_tag 已在可见列表内）→ 断档消除
+    # H1：新进度可见 ≠ 断档补齐——r01 仍不可见时持续告警
     report3 = cvesource.sync(FakeClient([r10], {10: _delta_zip([])}), tmp_path)
-    assert report3["continuity_warning"] is False
+    assert report3["continuity_warning"] is True
     cursor3 = state_mod.read_json(tmp_path / "state" / "cve_cursor.json")
-    assert cursor3["continuity_gap"] is False
+    assert cursor3["continuity_gap"] is True
+
+    # 原始检查点重新出现在列表中 → 断档真正消除
+    report4 = cvesource.sync(FakeClient([r10, r01], {}), tmp_path)
+    assert report4["continuity_warning"] is False
+    cursor4 = state_mod.read_json(tmp_path / "state" / "cve_cursor.json")
+    assert "continuity_gap" not in cursor4
+
+
+def test_h3_sync_budget_exhaustion_is_controlled(tmp_path: Path):
+    """评审 H3：资产下载中预算耗尽 → 受控返回（非异常），已完成资产保留。"""
+    from collector.ghsearch import BudgetExhausted
+
+    r1 = _release("cve_2026-09-20_1700Z", 1, "https://x/1.zip")
+    r2 = _release("cve_2026-09-21_1700Z", 2, "https://x/2.zip")
+    r3 = _release("cve_2026-09-22_1700Z", 3, "https://x/3.zip")
+
+    class BudgetOutClient(FakeClient):
+        def download_asset(self, url, budget=None):
+            if "3.zip" in url:
+                raise BudgetExhausted("time budget exhausted")
+            return super().download_asset(url, budget=budget)
+
+    client = BudgetOutClient([r3, r2, r1], {
+        1: _delta_zip([_record("CVE-2026-0810")]),
+        2: _delta_zip([_record("CVE-2026-0811")]),
+        3: _delta_zip([_record("CVE-2026-0812")]),
+    })
+    report = cvesource.sync(client, tmp_path, all_releases=True)  # 不抛异常
+
+    assert report["budget_stopped"] is True
+    assert report["new_tasks"] == 2                      # r1/r2 已应用
+    cursor = state_mod.read_json(tmp_path / "state" / "cve_cursor.json")
+    assert 1 in cursor["processed_assets"] and 2 in cursor["processed_assets"]
+    assert 3 not in cursor["processed_assets"]           # 断点下轮续跑
 
 
 def test_g4_sync_new_cve_gets_top_priority(tmp_path: Path):

@@ -6,7 +6,9 @@
 - F9：缺少 auto 标记的历史拒绝记录补 auto=True（历史上仅存在自动流程）；
 - G1：状态记录补 source_kind（legacy_event 是待对账线索，任何正式
   release 版本可覆盖，不再以字符串比较压制 cve_* tag）；
-- G4：reason=new/modified 的既有任务优先级压回最高（时效性）。
+- G4：reason=new/modified 的既有任务优先级压回最高（时效性）；
+- H2：active 关系中的非法编号（序号不足 4 位）确定性隔离为墓碑、
+  任务移除——单条外部异常数据不得阻断发布。
 """
 from __future__ import annotations
 
@@ -14,9 +16,11 @@ import random
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
+from . import RULES_VERSION
 from . import cvestate
 from . import scheduler
 from . import state as state_mod
+from .parse import is_valid_cve_id
 
 __all__ = ["migrate"]
 
@@ -102,6 +106,35 @@ def migrate(root: Path) -> dict:
 
     # 5. 新 CVE 任务优先级规范化（G4，幂等）
     report["priorities_normalized"] = scheduler.normalize_priorities(root)
+
+    # 6. 非法编号隔离（H2，幂等）：active 关系转墓碑、任务移除
+    quarantined = 0
+    for directory in ("relations", "relations_search"):
+        for shard in sorted((sdir / directory).glob("*.jsonl")):
+            records = state_mod.read_jsonl(shard)
+            changed = False
+            for record in records:
+                if (record.get("verification") != "rejected"
+                        and not is_valid_cve_id(record.get("cve_id", ""))):
+                    record.update({
+                        "verification": "rejected",
+                        "auto": True,
+                        "rejected_reason": "invalid_cve_id_format",
+                        "rejected_evidence": f"invalid CVE id: {record.get('cve_id')}",
+                        "rejected_evidence_fetched_at": state_mod.now_iso(),
+                        "rejected_at": state_mod.now_iso(),
+                        "rule_version": RULES_VERSION,
+                    })
+                    quarantined += 1
+                    changed = True
+            if changed:
+                state_mod.write_jsonl(shard, records)
+    invalid_tasks = [t["cve_id"] for t in scheduler.load_tasks(root)
+                     if not is_valid_cve_id(t["cve_id"])]
+    if invalid_tasks:
+        scheduler.cancel_many(root, invalid_tasks)
+    report["invalid_id_quarantined"] = quarantined
+    report["invalid_id_tasks_dropped"] = len(invalid_tasks)
 
     state_mod.write_json(sdir / "migrate_report.json",
                          {**report, "ts": state_mod.now_iso()})

@@ -14,7 +14,7 @@ from pathlib import Path
 
 from . import RULES_VERSION
 from . import state as state_mod
-from .attrib import CONFLICT_CANDIDATE, classify_relation
+from .attrib import ACCEPTED, CONFLICT_CANDIDATE, classify_relation
 from .backfill import load_meta
 from .parse import extract_cve_ids
 
@@ -160,9 +160,24 @@ def clean_apply(root: Path, strict: bool = True) -> dict:
                         changed = True
                     continue
 
-                if verification == "accepted" and record.get("accepted_reason") == "desc_contains_target_only":
-                    # 采集期 desc 接受重审（R4/F6）：描述提及不再是接受依据
-                    verdict = _verdict_with_meta(root, record, meta)
+                if verification == "accepted" and not _url_evidence(record) and (
+                        record.get("accepted_reason") == "desc_contains_target_only"
+                        or not record.get("accepted_reason")):
+                    # 采集期 desc 接受重审（R4/F6/H5）：URL 不含目标的记录才需
+                    # 重审（URL 证据是结构性的，不会随时间失效）；当前证据仍
+                    # 支持接受 → 刷新原因与证据，不降级；元数据缺失时凭 URL
+                    # 与空描述保守判定
+                    info = meta.get((record.get("owner"), record.get("repo")))
+                    description = (info or {}).get("description") or ""
+                    verdict = classify_relation(record["cve_id"], record["url"],
+                                                repo_description=description)
+                    if verdict.state == ACCEPTED:
+                        record["accepted_reason"] = verdict.reason
+                        record["accepted_url_ids"] = sorted(verdict.url_ids)
+                        record["accepted_evidence_ids"] = sorted(verdict.evidence_ids)
+                        record["accepted_at"] = now
+                        changed = True
+                        continue
                     reason = verdict.reason if verdict else "multi_id_mention_unresolved"
                     record.update({
                         "verification": "needs_review",
@@ -202,3 +217,8 @@ def _verdict_with_meta(root: Path, record: dict, meta: dict):
         return None
     return classify_relation(record["cve_id"], record["url"],
                              repo_description=info.get("description"))
+
+
+def _url_evidence(record: dict) -> bool:
+    """URL 编号集合包含目标 → 结构性接受证据，不随元数据变化失效（H5）。"""
+    return record["cve_id"] in extract_cve_ids(record["url"])

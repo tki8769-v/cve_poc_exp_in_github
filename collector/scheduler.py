@@ -15,6 +15,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from . import state as state_mod
+from .parse import is_valid_cve_id
 
 __all__ = [
     "TASKS_FILE",
@@ -63,6 +64,8 @@ def enqueue(root: Path, cve_id: str, reason: str, description: str = "") -> int:
     from . import cvestate
 
     cve_id = cve_id.upper()
+    if not is_valid_cve_id(cve_id):
+        return 0  # H2：非法编号不入队
     if cvestate.is_rejected(root, cve_id):
         return 0
     tasks = load_tasks(root)
@@ -119,6 +122,8 @@ def enqueue_many(root: Path, items: list[dict]) -> int:
     created = 0
     for item in items:
         cve_id = item["cve_id"].upper()
+        if not is_valid_cve_id(cve_id):
+            continue  # H2：非法编号不入队
         if cvestate.is_rejected(root, cve_id):
             continue
         task = existing.get(cve_id)

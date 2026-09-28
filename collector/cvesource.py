@@ -19,6 +19,7 @@ from pathlib import Path
 from . import cvestate
 from . import scheduler
 from . import state as state_mod
+from .ghsearch import BudgetExhausted
 
 __all__ = ["parse_cve_record", "extract_records", "delta_assets", "sync"]
 
@@ -117,24 +118,40 @@ def sync(client, root: Path, all_releases: bool = False, max_releases: int = 30,
     floor_tag = cursor.get("floor_tag")
     last_tag = cursor.get("last_tag")
 
-    releases, traced_complete = _list_releases_paginated(client, budget=budget,
-                                                         stop_tag=last_tag)
+    # H3：预算耗尽是受控阶段停止（非整轮异常）——已应用资产的检查点已在
+    # 游标中，由本轮后续渲染/验证/发布提交，避免 Actions 丢弃 runner 进度
+    try:
+        releases, traced_complete = _list_releases_paginated(client, budget=budget,
+                                                             stop_tag=last_tag)
+    except BudgetExhausted:
+        return {"releases_seen": 0, "releases_processed": 0, "cves_seen": 0,
+                "new_tasks": 0, "rejected": 0, "last_tag": last_tag,
+                "floor_tag": floor_tag, "continuity_warning": False,
+                "budget_stopped": True}
+
     # F1：连续性 = 能追溯到最近已应用检查点（而非 floor 是否可见）
     continuity_warning = bool(last_tag and not traced_complete)
     if not releases:
         return {"releases_seen": 0, "releases_processed": 0, "cves_seen": 0,
                 "new_tasks": 0, "rejected": 0, "last_tag": last_tag,
-                "floor_tag": floor_tag, "continuity_warning": continuity_warning}
+                "floor_tag": floor_tag, "continuity_warning": continuity_warning,
+                "budget_stopped": False}
 
-    # G2：断档标志持久化——检查点缺失未消除前，后续轮次继续报告，
-    # 不被"最近已见版本"的新进度掩盖
+    # G2/H1：断档持久化——记录断档前的原始检查点；只有该检查点重新可见
+    # （断档真正补齐）才清除告警，"最近已见版本"的新进度不构成恢复
     gap_flag = bool(cursor.get("continuity_gap"))
+    gap_below = cursor.get("continuity_gap_below")
     if continuity_warning and not gap_flag:
         cursor["continuity_gap"] = True
+        cursor["continuity_gap_below"] = last_tag
+        gap_flag = True
         _save_cursor(root, cursor)
-    elif traced_complete and gap_flag:
-        cursor["continuity_gap"] = False
+    elif gap_flag and gap_below and gap_below in {r.get("tag_name") for r in releases}:
+        cursor.pop("continuity_gap", None)
+        cursor.pop("continuity_gap_below", None)
+        gap_flag = False
         _save_cursor(root, cursor)
+    report_gap = continuity_warning or gap_flag
 
     # R2/F2：无任何历史状态才允许确立新边界；默认取最新，历史回补取最旧
     if not floor_tag:
@@ -163,6 +180,7 @@ def sync(client, root: Path, all_releases: bool = False, max_releases: int = 30,
     rejected = 0
     new_tasks = 0
     processed_releases = 0
+    budget_stopped = False
     task_index = {t["cve_id"] for t in scheduler.load_tasks(root)}
 
     for release in targets:
@@ -173,7 +191,13 @@ def sync(client, root: Path, all_releases: bool = False, max_releases: int = 30,
         if not todo:
             continue
         for asset in todo:
-            zip_bytes = client.download_asset(asset["url"], budget=budget)
+            try:
+                zip_bytes = client.download_asset(asset["url"], budget=budget)
+            except BudgetExhausted:
+                # H3：受控停止——已完成资产的检查点已逐个落盘，本轮照常
+                # 渲染/验证/发布以提交进度；未完成资产下轮从游标续跑
+                budget_stopped = True
+                break
             records = extract_records(zip_bytes)
             # R1：先应用记录（按资产批量提交任务），后提交游标——崩溃
             # 重跑最多重复应用（幂等），不会丢任务
@@ -204,6 +228,8 @@ def sync(client, root: Path, all_releases: bool = False, max_releases: int = 30,
             if tag >= (cursor.get("last_tag") or ""):
                 cursor["last_tag"] = tag  # R2：单调不减
             _save_cursor(root, cursor)
+        if budget_stopped:
+            break
         processed_releases += 1
 
     return {
@@ -214,7 +240,8 @@ def sync(client, root: Path, all_releases: bool = False, max_releases: int = 30,
         "rejected": rejected,
         "last_tag": cursor.get("last_tag"),
         "floor_tag": floor_tag,
-        "continuity_warning": continuity_warning,
+        "continuity_warning": report_gap,
+        "budget_stopped": budget_stopped,
     }
 
 

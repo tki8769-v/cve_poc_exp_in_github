@@ -109,3 +109,14 @@ class TestReadmeParsing:
         readme = tmp_path / "README.md"
         readme.write_text(README_FIXTURE, encoding="utf-8")
         assert list(iter_readme_relations(readme)) == parse_readme_file(readme)
+
+
+def test_h2_valid_cve_id_format():
+    """评审 H2：采集边界合法性 = 年份 4 位 + 序号至少 4 位（下游契约口径）。"""
+    from collector.parse import is_valid_cve_id
+
+    assert is_valid_cve_id("CVE-2026-1234")
+    assert is_valid_cve_id("cve-2026-12345")
+    assert not is_valid_cve_id("CVE-2026-1")   # 序号不足 4 位
+    assert not is_valid_cve_id("CVE-26-1234")
+    assert not is_valid_cve_id("")

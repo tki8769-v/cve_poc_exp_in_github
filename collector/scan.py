@@ -26,7 +26,7 @@ from .attrib import (
 )
 from .blacklist import is_blocked, load_blacklist
 from .ghsearch import Budget
-from .parse import parse_github_repo
+from .parse import is_valid_cve_id, parse_github_repo
 
 __all__ = ["scan", "merge_accepted"]
 
@@ -39,13 +39,15 @@ def _shard_path(root: Path, year: str) -> Path:
     return state_mod.state_dir(root) / RELATIONS_SEARCH_DIR / f"{year}.jsonl"
 
 
-def merge_accepted(root: Path, cve_id: str, url: str, item: dict) -> bool:
+def merge_accepted(root: Path, cve_id: str, url: str, item: dict,
+                   verdict=None) -> bool:
     """合并一条 accepted 关系。返回 True 表示新增（首次发现）。
 
     - 跨通道去重：legacy 分片已有同键时不重复建关系/事件；
     - 墓碑恢复（评审 R5）：legacy 同键已被自动 rejected 而本轮取到
       accepted 证据（新描述等）→ 回退 needs_review 等待复核，不让
-      同键去重吞掉新证据。
+      同键去重吞掉新证据；
+    - H5：verdict 提供时持久化接受原因与证据编号/时间，可追溯可重审。
     """
     year = cve_id.split("-")[1]
     legacy_path = state_mod.state_dir(root) / "relations" / f"{year}.jsonl"
@@ -69,24 +71,33 @@ def merge_accepted(root: Path, cve_id: str, url: str, item: dict) -> bool:
             record["stars"] = item.get("stargazers_count")
             record["forks"] = item.get("forks_count")
             record["last_seen_at"] = state_mod.now_iso()
+            if verdict is not None and record.get("verification") == "accepted":
+                record["accepted_reason"] = verdict.reason
+                record["accepted_at"] = state_mod.now_iso()
             state_mod.write_jsonl(path, existing)
             return False
 
     owner, repo = parse_github_repo(url)
-    existing.append(
-        {
-            "cve_id": cve_id,
-            "url": url,
-            "owner": owner,
-            "repo": repo,
-            "source": "github_search",
-            "verification": ACCEPTED,
-            "first_seen_at": state_mod.now_iso(),
-            "stars": item.get("stargazers_count"),
-            "forks": item.get("forks_count"),
-            "rule_version": RULES_VERSION,
-        }
-    )
+    accepted = {
+        "cve_id": cve_id,
+        "url": url,
+        "owner": owner,
+        "repo": repo,
+        "source": "github_search",
+        "verification": ACCEPTED,
+        "first_seen_at": state_mod.now_iso(),
+        "stars": item.get("stargazers_count"),
+        "forks": item.get("forks_count"),
+        "rule_version": RULES_VERSION,
+    }
+    if verdict is not None:
+        accepted.update({
+            "accepted_reason": verdict.reason,
+            "accepted_url_ids": sorted(verdict.url_ids),
+            "accepted_evidence_ids": sorted(verdict.evidence_ids),
+            "accepted_at": state_mod.now_iso(),
+        })
+    existing.append(accepted)
     existing.sort(key=lambda r: (r["cve_id"], r["url"]))
     state_mod.write_jsonl(path, existing)
     return True
@@ -121,6 +132,7 @@ def scan(client, root: Path, limit_tasks: int = 50, budget_requests: int | None 
         "blocked": 0,
         "incomplete": 0,
         "task_errors": 0,
+        "invalid_id_skipped": 0,
         "budget_stopped": False,
     }
     blacklist = load_blacklist(root)
@@ -128,6 +140,11 @@ def scan(client, root: Path, limit_tasks: int = 50, budget_requests: int | None 
 
     for task in tasks:
         cve_id = task["cve_id"]
+        if not is_valid_cve_id(cve_id):
+            # H2：非法编号任务确定性移除，不扫描（其关系由迁移隔离）
+            scheduler.cancel(root, cve_id)
+            stats["invalid_id_skipped"] += 1
+            continue
         resume_page = max(1, int(task.get("resume_page", 1) or 1))
         found_any = bool(task.get("scan_found_any"))
         stop = False
@@ -156,7 +173,7 @@ def scan(client, root: Path, limit_tasks: int = 50, budget_requests: int | None 
                 )
                 if verdict.state == ACCEPTED:
                     found = True
-                    if merge_accepted(root, cve_id, url, item):
+                    if merge_accepted(root, cve_id, url, item, verdict=verdict):
                         stats["new_relations"] += 1
                         new_events.append(
                             {"ts": state_mod.now_iso(), "type": "new_poc", "cve_id": cve_id, "url": url}

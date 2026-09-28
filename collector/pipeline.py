@@ -15,6 +15,7 @@ import time
 from pathlib import Path
 
 from . import cvesource
+from . import scheduler
 from . import state as state_mod
 from .backfill import backfill
 from .clean import clean_apply
@@ -91,6 +92,7 @@ def daily(
 
         steps["recheck"] = recheck(root)
         steps["clean_apply"] = clean_apply(root, strict=False)
+        steps["queue"] = _queue_stats(root)
 
         manifest = render_all(root)
         steps["render"] = {"changed_files": len(manifest["changed"])}
@@ -102,6 +104,22 @@ def daily(
     except Exception as exc:  # 早期异常也要留痕（F8/评审补充）
         return _finish(root, steps, None, error=f"{type(exc).__name__}: {exc}")
     return _finish(root, steps, verdict)
+
+
+def _queue_stats(root: Path) -> dict:
+    """调度队列观测（评审 4 容量项）：到期规模/分布/最老到期，供容量评估。"""
+    from collections import Counter
+
+    tasks = scheduler.load_tasks(root)
+    now = state_mod.now_iso()
+    due = [t for t in tasks if t.get("due_at", "") <= now]
+    return {
+        "tasks_total": len(tasks),
+        "due_now": len(due),
+        "due_by_priority": dict(sorted(Counter(
+            t.get("priority", 9) for t in due).items())),
+        "oldest_due": min((t.get("due_at", "") for t in due), default=None),
+    }
 
 
 def _finish(root: Path, steps: dict, verdict: dict | None, error: str | None = None) -> dict:

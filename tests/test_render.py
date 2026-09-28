@@ -201,29 +201,65 @@ def test_clean_apply_revives_stale_tombstones_on_new_evidence(tmp_path: Path):
     assert "gone-wrong" in (root / "2026" / "README.md").read_text(encoding="utf-8")
 
 
-def test_clean_apply_revokes_desc_based_accepted(tmp_path: Path):
-    """R4 止损：采集期按描述接受的记录重审为 needs_review。"""
+def test_clean_apply_reviews_desc_based_accepted(tmp_path: Path):
+    """H5：desc 接受的重审以当前证据为准——矛盾才撤销，仍支持则刷新保留。
+
+    （采集端 attrib 对"URL 无编号 + 描述仅提及目标"始终接受，为 G6 已知
+    限制；clean 端重审语义须与之一致，不再无条件撤销同类记录。）
+    """
     root = _setup(tmp_path)
     relations_path = state_mod.state_dir(root) / "relations" / "2026.jsonl"
     records = state_mod.read_jsonl(relations_path)
     for record in records:
         if record["url"].endswith("a/old"):
-            record.update({"verification": "accepted",
-                           "accepted_reason": "desc_contains_target_only",
-                           "accepted_evidence": "regression of CVE-2026-0100"})
+            # 旧格式：无 accepted_reason，纳入重审（H5 触发扩展）
+            record.update({"verification": "accepted"})
     state_mod.write_jsonl(relations_path, records)
-    state_mod.write_jsonl(state_mod.state_dir(root) / "repo_meta.jsonl", [{
-        "owner": "a", "repo": "old", "fetched_at": state_mod.now_iso(),
-        "description": "regression of CVE-2026-0100",
-    }])
+
     recheck_dir = state_mod.state_dir(root) / "recheck"
     state_mod.write_json(recheck_dir / "report.json", {"missing_meta": 0, "conflicts_total": 0})
 
+    # 元数据矛盾：描述同时提及目标与另一编号 → 重审撤销为 needs_review
+    # （a/new-poc 元数据仍支持目标 → 刷新保留，见第二段断言）
+    state_mod.write_jsonl(state_mod.state_dir(root) / "repo_meta.jsonl", [
+        {"owner": "a", "repo": "old", "fetched_at": state_mod.now_iso(),
+         "description": "regression of CVE-2026-0100, related to CVE-2026-0002"},
+        {"owner": "a", "repo": "new-poc", "fetched_at": state_mod.now_iso(),
+         "description": "poc for CVE-2026-0100"},
+    ])
     report = clean_apply(root)
     assert report["revoked_accepted"] == 1
+    by_url = {r["url"]: r for r in state_mod.read_jsonl(relations_path)}
+    revoked = by_url["https://github.com/a/old"]
+    assert revoked["verification"] == "needs_review"
+    assert revoked["revoked_reason"] == "multi_id_mention_unresolved"
+
+    # 元数据仍仅支持目标：保持 accepted 并补齐接受原因与证据（H5）
     records = state_mod.read_jsonl(relations_path)
-    by_url = {r["url"]: r for r in records}
-    assert by_url["https://github.com/a/old"]["verification"] == "needs_review"
+    for record in records:
+        if record["url"].endswith("a/old"):
+            record.update({"verification": "accepted"})
+            record.pop("revoked_reason", None)
+    state_mod.write_jsonl(relations_path, records)
+    state_mod.write_jsonl(state_mod.state_dir(root) / "repo_meta.jsonl", [
+        {"owner": "a", "repo": "old", "fetched_at": state_mod.now_iso(),
+         "description": "poc and regression of CVE-2026-0100"},
+        {"owner": "a", "repo": "new-poc", "fetched_at": state_mod.now_iso(),
+         "description": "poc for CVE-2026-0100"},
+    ])
+    report = clean_apply(root)
+    assert report["revoked_accepted"] == 0
+    by_url = {r["url"]: r for r in state_mod.read_jsonl(relations_path)}
+    kept = by_url["https://github.com/a/old"]
+    assert kept["verification"] == "accepted"
+    assert kept["accepted_reason"] == "desc_contains_target_only"
+    assert kept["accepted_evidence_ids"] == ["CVE-2026-0100"]
+    # a/new-poc（无原因字段的 search 记录）同样被刷新而非误撤销
+    refreshed = {r["url"]: r for r in state_mod.read_jsonl(
+        state_mod.state_dir(root) / "relations_search" / "2026.jsonl")}[
+        "https://github.com/a/new-poc"]
+    assert refreshed["verification"] == "accepted"
+    assert refreshed["accepted_reason"] == "desc_contains_target_only"
 
 
 def test_clean_apply_requires_recheck(tmp_path: Path):

@@ -105,7 +105,8 @@ def main(argv: list[str] | None = None) -> int:
         report = sync(GitHubClient(), root, all_releases=args.all_releases)
         print(f"sync 完成: releases {report['releases_processed']}/{report['releases_seen']} 处理, "
               f"cves_seen={report['cves_seen']}, new_tasks={report['new_tasks']}, "
-              f"rejected={report['rejected']}, last_tag={report['last_tag']}")
+              f"rejected={report['rejected']}, last_tag={report['last_tag']}"
+              + ("（预算受控停止，已应用进度保留）" if report.get("budget_stopped") else ""))
         return 0
 
     if args.command == "backfill":
@@ -141,7 +142,9 @@ def main(argv: list[str] | None = None) -> int:
               f"权威状态补写={report['cve_states_backfilled']}, "
               f"auto 标记补齐={report['auto_flags_patched']}, "
               f"状态 source_kind 规范化={report.get('state_kind_patched', 0)}, "
-              f"新任务优先级规范化={report.get('priorities_normalized', 0)}")
+              f"新任务优先级规范化={report.get('priorities_normalized', 0)}, "
+              f"非法编号隔离={report.get('invalid_id_quarantined', 0)}"
+              f"（任务移除 {report.get('invalid_id_tasks_dropped', 0)}）")
         return 0
 
     if args.command == "render":
@@ -215,6 +218,7 @@ def main(argv: list[str] | None = None) -> int:
               f"rejected_at_collection={stats['rejected_at_collection']}, "
               f"needs_review={stats['needs_review']}, incomplete={stats['incomplete']}"
               + (f", 任务异常={stats['task_errors']}" if stats["task_errors"] else "")
+              + (f", 非法编号跳过={stats['invalid_id_skipped']}" if stats["invalid_id_skipped"] else "")
               + ("（预算停止，任务保留）" if stats["budget_stopped"] else ""))
         return 0
 

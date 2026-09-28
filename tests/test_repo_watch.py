@@ -220,3 +220,63 @@ def test_f1_release_pagination_passes_page():
     stop_client = PagedClient()
     releases, complete = _list_releases_paginated(stop_client, stop_tag="cve_r01_000")
     assert complete is True and "cve_r01_000" in {r["tag_name"] for r in releases}
+
+
+def test_h2_invalid_cve_id_skipped_end_to_end(tmp_path: Path):
+    """评审 H2：短编号仓库不入状态；渲染/契约验证不受影响（端到端）。"""
+    from collector.render import render_all, verify_contract
+
+    _preset_cursor(tmp_path)
+    client = FakeDiscoverClient(result=SearchResult(items=[
+        _repo_item("CVE-2026-1", description="bogus CVE-2026-1 tool"),
+        _repo_item("tool-CVE-2026-1234", description="poc for CVE-2026-1234"),
+    ]))
+    stats = discover(client, tmp_path)
+
+    assert stats["invalid_ids"] == 1
+    assert stats["new_relations"] == 1  # 合法编号正常收录
+    records = state_mod.read_jsonl(tmp_path / "state" / "relations_search" / "2026.jsonl")
+    assert all(r["cve_id"] != "CVE-2026-1" for r in records)
+
+    # 单条异常数据不阻断发布：渲染 + 真实产物契约验证通过
+    (tmp_path / "2026").mkdir(exist_ok=True)
+    (tmp_path / "2026" / "README.md").write_text("", encoding="utf-8")
+    render_all(tmp_path)
+    assert verify_contract(tmp_path)["ok"]
+
+
+def test_h4_overcap_day_advances_cursor_with_partial_queue(tmp_path: Path):
+    """评审 H4：单日超上限不堵后续日期——记录部分覆盖、游标推进、有限重试。"""
+    from datetime import datetime, timedelta, timezone
+
+    three_days_ago = (datetime.now(timezone.utc) - timedelta(days=3)).strftime("%Y-%m-%d")
+    state_mod.write_json(tmp_path / "state" / CURSOR_FILE, {"last_date": three_days_ago})
+
+    capped = SearchResult(items=[], complete=False, stop_reason="pagination_cap",
+                          errors=["pagination_cap_at_page_10 (total_count=1500)"])
+    normal = SearchResult(items=[])
+
+    class MixedClient:
+        def __init__(self):
+            self.calls = []
+
+        def search_repositories(self, query, max_pages=10, budget=None, start_page=1):
+            self.calls.append(query)
+            return capped if three_days_ago in query else normal
+
+    stats = discover(MixedClient(), tmp_path)
+    assert stats["complete"] is True            # 主窗口完成（超量日为部分覆盖）
+    assert stats["cursor_advanced"] is True     # 游标推进，不再卡死在超量日
+    assert stats["partial_days_pending"] == 1
+    cursor = state_mod.read_json(tmp_path / "state" / CURSOR_FILE)
+    assert cursor["partial_days"] == [{"date": three_days_ago, "attempts": 1}]
+    # 4 个单日窗口全部被查询（超量日 + 后续 3 天），未堵住
+    assert stats["repos_seen"] == 0
+
+    # 下轮：重试仍超量 → 次数增长；连续达到上限后放弃并继续
+    stats2 = discover(MixedClient(), tmp_path)
+    cursor2 = state_mod.read_json(tmp_path / "state" / CURSOR_FILE)
+    assert cursor2["partial_days"][0]["attempts"] == 2
+    stats3 = discover(MixedClient(), tmp_path)
+    assert stats3["partial_days_dropped"] == 1
+    assert state_mod.read_json(tmp_path / "state" / CURSOR_FILE)["partial_days"] == []

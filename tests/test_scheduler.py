@@ -246,3 +246,39 @@ def test_g3_later_task_error_keeps_earlier_progress(tmp_path: Path):
     b = tasks["CVE-2026-0921"]
     assert b["attempts"] == 1                        # B 记为可重试失败
     assert "task error" in b["last_outcome"]
+
+
+def test_h2_enqueue_rejects_invalid_id(tmp_path: Path):
+    """评审 H2：非法编号不入队（单条/批量入口一致）。"""
+    assert scheduler.enqueue(tmp_path, "CVE-2026-1", "new") == 0
+    assert scheduler.enqueue_many(tmp_path, [{"cve_id": "CVE-2026-2", "reason": "new"}]) == 0
+    assert scheduler.load_tasks(tmp_path) == []
+
+
+def test_h2_scan_drops_invalid_id_task(tmp_path: Path):
+    """评审 H2：非法编号任务确定性移除，不发起搜索。"""
+    state_mod.write_jsonl(tmp_path / "state" / "scan_tasks.jsonl", [{
+        "cve_id": "CVE-2026-1", "reason": "new", "priority": 0,
+        "due_at": "2000-01-01T00:00:00Z", "attempts": 0, "last_outcome": None,
+        "description": "",
+    }])
+    client = FakeScanClient(_result([]))
+    stats = scan(client, tmp_path, limit_tasks=5)
+
+    assert stats["invalid_id_skipped"] == 1
+    assert client.calls == []                    # 未对该任务发起搜索
+    assert scheduler.load_tasks(tmp_path) == []  # 任务确定性移除
+
+
+def test_h5_accepted_records_carry_evidence(tmp_path: Path):
+    """评审 H5：accepted 关系持久化接受原因与证据编号/时间。"""
+    scheduler.enqueue(tmp_path, "CVE-2026-0930", "new")
+    items = [{"html_url": "https://github.com/a/tool-CVE-2026-0930",
+              "description": None, "stargazers_count": 1, "forks_count": 0}]
+    scan(FakeScanClient(_result(items)), tmp_path)
+
+    record = state_mod.read_jsonl(tmp_path / "state" / "relations_search" / "2026.jsonl")[0]
+    assert record["verification"] == "accepted"
+    assert record["accepted_reason"] == "url_contains_target"
+    assert record["accepted_url_ids"] == ["CVE-2026-0930"]
+    assert record["accepted_at"]

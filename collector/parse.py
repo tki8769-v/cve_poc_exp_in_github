@@ -19,6 +19,7 @@ __all__ = [
     "Relation",
     "normalize_cve_id",
     "extract_cve_ids",
+    "is_valid_cve_id",
     "parse_github_repo",
     "iter_readme_relations",
     "parse_readme_file",
@@ -26,6 +27,11 @@ __all__ = [
 
 # CVE 编号：4 位年份 + 任意长度序号（保留前导零，集合内精确比较）。
 CVE_RE = re.compile(r"CVE-\d{4}-\d+", re.IGNORECASE)
+
+# 合法 CVE 编号（下游契约口径，compat 模块同源）：序号至少 4 位。
+# 采集边界用它过滤短编号（CVE-2026-1）——此类编号能进状态但不能被
+# 下游解析，会令 verify 永久失败、阻断发布（评审 H2）。
+VALID_CVE_RE = re.compile(r"^CVE-\d{4}-\d{4,}$", re.IGNORECASE)
 
 # 年份 README 链接行：'- [text](url) : ![starts](...)'，取链接目标 URL。
 README_LINK_RE = re.compile(r"^- \[[^\]]+\]\(([^)]+)\)")
@@ -38,6 +44,11 @@ GITHUB_HOSTS = {"github.com"}
 
 def normalize_cve_id(value: str) -> str:
     return value.strip().upper()
+
+
+def is_valid_cve_id(cve_id: str) -> bool:
+    """采集边界合法性校验：年份 4 位 + 序号至少 4 位（评审 H2）。"""
+    return bool(VALID_CVE_RE.match((cve_id or "").strip()))
 
 
 def extract_cve_ids(*texts: Optional[str]) -> set[str]:
