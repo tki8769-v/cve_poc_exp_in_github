@@ -1,3 +1,8 @@
+## CVE-2026-102261
+> A flaw has been found in owen2345 Camaleon CMS up to 2.9.2. Impacted is the function crop of the file app/controllers/camaleon_cms/admin/media_controller.rb of the component Media Crop Handler. This manipulation of the argument saved_avatar causes authorization bypass. The attack may be initiated remotely. The exploit has been published and may be used. Upgrading to version 2.9.3 is recommended to address this issue. Patch name: c143e145caa600947e70a240e87f2fed889149d3. It is suggested to upgrad
+
+- [https://github.com/7acini/CVE-2026-102261](https://github.com/7acini/CVE-2026-102261) : ![starts](https://img.shields.io/github/stars/7acini/CVE-2026-102261.svg) ![forks](https://img.shields.io/github/forks/7acini/CVE-2026-102261.svg)
+
 ## CVE-2026-101894
 > The decompress package for Node.js extracts archives. Prior to 10.2.2 and 11.1.4, the default decompress(input, output) API relies on lexical containment checks that do not account for the kernel following a planted symlink chain. An attacker can supply a crafted archive containing chained symlink entries so that a later entry resolves outside the output directory. This allows files outside output to be read or written, and overwriting startup scripts or configuration can lead to remote code exe
 
@@ -546,6 +551,8 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 
 - [https://github.com/MRdark-ops/CVE-2026-87902](https://github.com/MRdark-ops/CVE-2026-87902) : ![starts](https://img.shields.io/github/stars/MRdark-ops/CVE-2026-87902.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/CVE-2026-87902.svg)
 
+- [https://github.com/tonydelouvre/CVE-2026-87902](https://github.com/tonydelouvre/CVE-2026-87902) : ![starts](https://img.shields.io/github/stars/tonydelouvre/CVE-2026-87902.svg) ![forks](https://img.shields.io/github/forks/tonydelouvre/CVE-2026-87902.svg)
+
 ## CVE-2026-87796
  The Multi Uploader for Gravity Forms plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, and including, 1.1.9 via the move_file function. This is due to insufficient file type validation during chunked upload handling. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 
@@ -705,6 +712,10 @@ path involving usernames that begin with a prohibited character, allowing for th
 - [https://github.com/hotplugin0x01/CVE-2026-85612](https://github.com/hotplugin0x01/CVE-2026-85612) : ![starts](https://img.shields.io/github/stars/hotplugin0x01/CVE-2026-85612.svg) ![forks](https://img.shields.io/github/forks/hotplugin0x01/CVE-2026-85612.svg)
 
 ## CVE-2026-85520
+> Google Merchant Center Feed (gmfeed) module for PrestaShop is vulnerable to unauthenticated arbitrary file write in the feed.php endpoint. An unauthenticated attacker can send a crafted request that controls the output file name, path, extension, and content through request parameters. Due to the lack of authentication and input validation, the request is processed successfully, allowing an attacker to write and execute arbitrary PHP code, resulting in remote code execution (RCE).
+
+
+This issue w
 
 - [https://github.com/murrez/CVE-2026-85520](https://github.com/murrez/CVE-2026-85520) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-85520.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-85520.svg)
 
@@ -780,6 +791,10 @@ path involving usernames that begin with a prohibited character, allowing for th
  A improper restriction of rendered ui layers or frames vulnerability in Fortinet FortiPAM Chrome Extension 8.0 all versions, FortiPAM Chrome Extension 7.4 all versions may allow attacker to information disclosure via remote unauthenticated attack
 
 - [https://github.com/ShadowForge-Cyber/CVE-2026-84388-POC](https://github.com/ShadowForge-Cyber/CVE-2026-84388-POC) : ![starts](https://img.shields.io/github/stars/ShadowForge-Cyber/CVE-2026-84388-POC.svg) ![forks](https://img.shields.io/github/forks/ShadowForge-Cyber/CVE-2026-84388-POC.svg)
+
+## CVE-2026-84383
+
+- [https://github.com/dinosn/libheif-cve-2026-84383-lab](https://github.com/dinosn/libheif-cve-2026-84383-lab) : ![starts](https://img.shields.io/github/stars/dinosn/libheif-cve-2026-84383-lab.svg) ![forks](https://img.shields.io/github/forks/dinosn/libheif-cve-2026-84383-lab.svg)
 
 ## CVE-2026-84361
  Composer is a dependency Manager for the PHP language. From 1.0 until 2.2.30 and 2.10.3, a malicious dependency package from a custom Composer repository or an untrusted composer.lock file could set source.type to perforce and source.url to an rsh: or jsh: P4PORT value. When the Perforce p4 client was installed and Composer installed the package from source through composer install or composer update, including --prefer-source, Composer\Util\Perforce passed the address to p4 without validation, causing p4 to run a local command with the privileges of the user or CI account. Packagist.org does not permit Perforce source metadata. This issue is fixed in versions 2.2.30 and 2.10.3.
@@ -1089,6 +1104,7 @@ This issue affects Pardus LightDM Greeter: before 0.4.15.
 - [https://github.com/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection](https://github.com/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection) : ![starts](https://img.shields.io/github/stars/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection.svg) ![forks](https://img.shields.io/github/forks/ExploreIO/CVE-2026-79483-FastGPT-NoSQL-Injection.svg)
 
 ## CVE-2026-79417
+> Improper Access Control in ArgusMonitor.sys in Argotronic eGbR ArgusMonitor 7.4.02 and earlier allows local, low-privileged users to bypass device handle access restrictions via a TOCTOU condition in IRP_MJ_CREATE and send a crafted IOCTL 0x9C4024A8 request, causing denial-of-service.
 
 - [https://github.com/connorjaydunn/CVE-2026-79417](https://github.com/connorjaydunn/CVE-2026-79417) : ![starts](https://img.shields.io/github/stars/connorjaydunn/CVE-2026-79417.svg) ![forks](https://img.shields.io/github/forks/connorjaydunn/CVE-2026-79417.svg)
 
@@ -3536,6 +3552,8 @@ Users are advised to upgrade to Apache InLong's  2.4.0 or cherry-pick [1] to sol
 
 - [https://github.com/z3rodayhacks/CVE-2026-63030-CVE-2026-60137](https://github.com/z3rodayhacks/CVE-2026-63030-CVE-2026-60137) : ![starts](https://img.shields.io/github/stars/z3rodayhacks/CVE-2026-63030-CVE-2026-60137.svg) ![forks](https://img.shields.io/github/forks/z3rodayhacks/CVE-2026-63030-CVE-2026-60137.svg)
 
+- [https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-](https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-) : ![starts](https://img.shields.io/github/stars/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-.svg)
+
 ## CVE-2026-62911
  Authentication bypass by capture-replay in Microsoft Exchange Server allows an authorized attacker to elevate privileges over a network.
 
@@ -3780,6 +3798,8 @@ This issue affects Elementor Website Builder: from n/a through 4.3.1.
 - [https://github.com/fl0ydsec/CVE-2026-63030](https://github.com/fl0ydsec/CVE-2026-63030) : ![starts](https://img.shields.io/github/stars/fl0ydsec/CVE-2026-63030.svg) ![forks](https://img.shields.io/github/forks/fl0ydsec/CVE-2026-63030.svg)
 
 - [https://github.com/z3rodayhacks/CVE-2026-63030-CVE-2026-60137](https://github.com/z3rodayhacks/CVE-2026-63030-CVE-2026-60137) : ![starts](https://img.shields.io/github/stars/z3rodayhacks/CVE-2026-63030-CVE-2026-60137.svg) ![forks](https://img.shields.io/github/forks/z3rodayhacks/CVE-2026-63030-CVE-2026-60137.svg)
+
+- [https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-](https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-) : ![starts](https://img.shields.io/github/stars/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-.svg)
 
 ## CVE-2026-60121
  Vitec Flamingo 4.12.2 contains an unauthenticated OS command injection vulnerability in the admin/ajax/ping.php endpoint that allows remote attackers to execute arbitrary commands by exploiting a double-evaluation flaw in shell argument handling. The endpoint applies escapeshellarg() to the user-supplied host POST parameter before passing it to a system wrapper, but the wrapper retrieves the decoded value from argv and incorporates it into a second shell_exec() call without escaping, allowing injected commands to execute with root privileges via passwordless sudo.
@@ -11355,6 +11375,10 @@ Users are recommended to upgrade to version 3.16.0, which fixes the issue.
  Cockpit is a headless content management system. Any Cockpit CMS instance running version 2.13.4 or earlier with API access enabled is potentially affected by a a SQL Injection vulnerability in the MongoLite Aggregation Optimizer. Any deployment where the `/api/content/aggregate/{model}` endpoint is publicly accessible or reachable by untrusted users may be vulnerable, and attackers in possession of a valid read-only API key (the lowest privilege level) can exploit this vulnerability — no admin access is required. An attacker can inject arbitrary SQL via unsanitized field names in aggregation queries, bypass the `_state=1` published-content filter to access unpublished or restricted content, and extract unauthorized data from the underlying SQLite content database. This vulnerability has been patched in version 2.13.5. The fix applies the same field-name sanitization introduced in v2.13.3 for `toJsonPath()` to the `toJsonExtractRaw()` method in `lib/MongoLite/Aggregation/Optimizer.php`, closing the injection vector in the Aggregation Optimizer.
 
 - [https://github.com/ffasterss/CVE-2026-31891](https://github.com/ffasterss/CVE-2026-31891) : ![starts](https://img.shields.io/github/stars/ffasterss/CVE-2026-31891.svg) ![forks](https://img.shields.io/github/forks/ffasterss/CVE-2026-31891.svg)
+
+## CVE-2026-31857
+
+- [https://github.com/0xTatsuki/CVE-2026-31857](https://github.com/0xTatsuki/CVE-2026-31857) : ![starts](https://img.shields.io/github/stars/0xTatsuki/CVE-2026-31857.svg) ![forks](https://img.shields.io/github/forks/0xTatsuki/CVE-2026-31857.svg)
 
 ## CVE-2026-31852
  Jellyfin is an open-source media system. The code-quality.yml GitHub Actions workflow in jellyfin/jellyfin-ios is vulnerable to arbitrary code execution via pull requests from forked repositories. Due to the workflow's elevated permissions (nearly all write permissions), this vulnerability enables full repository takeover of jellyfin/jellyfin-ios, exfiltration of highly privileged secrets, Apple App Store supply chain attack, GitHub Container Registry (ghcr.io) package poisoning, and full jellyfin organization compromise via cross-repository token usage. Note: This is not a code vulnerability, but a vulnerability in the GitHub Actions workflows. No new version is required for this GHSA and end users do not need to take any actions.

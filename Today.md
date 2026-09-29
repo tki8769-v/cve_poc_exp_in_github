@@ -3,6 +3,10 @@
 
 - [https://github.com/lorenzog/CVE-2020-13664](https://github.com/lorenzog/CVE-2020-13664) : ![starts](https://img.shields.io/github/stars/lorenzog/CVE-2020-13664.svg) ![forks](https://img.shields.io/github/forks/lorenzog/CVE-2020-13664.svg)
 
+## CVE-2020-24186
+
+- [https://github.com/kiyingiericmark-wq/CVE-2020-24186](https://github.com/kiyingiericmark-wq/CVE-2020-24186) : ![starts](https://img.shields.io/github/stars/kiyingiericmark-wq/CVE-2020-24186.svg) ![forks](https://img.shields.io/github/forks/kiyingiericmark-wq/CVE-2020-24186.svg)
+
 ## CVE-2021-41773
 
 - [https://github.com/0xc4t/CVE-2021-41773](https://github.com/0xc4t/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/0xc4t/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/0xc4t/CVE-2021-41773.svg)
@@ -97,6 +101,10 @@
 
 - [https://github.com/Dnyaneshwari-123/DFIR-Capstone-Investigations](https://github.com/Dnyaneshwari-123/DFIR-Capstone-Investigations) : ![starts](https://img.shields.io/github/stars/Dnyaneshwari-123/DFIR-Capstone-Investigations.svg) ![forks](https://img.shields.io/github/forks/Dnyaneshwari-123/DFIR-Capstone-Investigations.svg)
 
+## CVE-2024-21626
+
+- [https://github.com/RnW29/cve-2024-21626-runc-lab](https://github.com/RnW29/cve-2024-21626-runc-lab) : ![starts](https://img.shields.io/github/stars/RnW29/cve-2024-21626-runc-lab.svg) ![forks](https://img.shields.io/github/forks/RnW29/cve-2024-21626-runc-lab.svg)
+
 ## CVE-2024-38063
 
 - [https://github.com/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab](https://github.com/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab) : ![starts](https://img.shields.io/github/stars/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab.svg) ![forks](https://img.shields.io/github/forks/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab.svg)
@@ -159,6 +167,11 @@ This issue affects Mediawiki - UploadWizard Extension: from * before 1.46.1, 1.4
 
 - [https://github.com/murrez/CVE-2026-101894](https://github.com/murrez/CVE-2026-101894) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-101894.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-101894.svg)
 
+## CVE-2026-102261
+> A flaw has been found in owen2345 Camaleon CMS up to 2.9.2. Impacted is the function crop of the file app/controllers/camaleon_cms/admin/media_controller.rb of the component Media Crop Handler. This manipulation of the argument saved_avatar causes authorization bypass. The attack may be initiated remotely. The exploit has been published and may be used. Upgrading to version 2.9.3 is recommended to address this issue. Patch name: c143e145caa600947e70a240e87f2fed889149d3. It is suggested to upgrad
+
+- [https://github.com/7acini/CVE-2026-102261](https://github.com/7acini/CVE-2026-102261) : ![starts](https://img.shields.io/github/stars/7acini/CVE-2026-102261.svg) ![forks](https://img.shields.io/github/forks/7acini/CVE-2026-102261.svg)
+
 ## CVE-2026-10817
 
 - [https://github.com/HORKimhab/CVE-2026-10817](https://github.com/HORKimhab/CVE-2026-10817) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-10817.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-10817.svg)
@@ -173,6 +186,7 @@ This issue affects Mediawiki - UploadWizard Extension: from * before 1.46.1, 1.4
 - [https://github.com/ZeroDayEvil/CVE-2026-20817](https://github.com/ZeroDayEvil/CVE-2026-20817) : ![starts](https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-20817.svg) ![forks](https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-20817.svg)
 
 ## CVE-2026-24061
+> telnetd in GNU Inetutils through 2.7 allows remote authentication bypass via a &quot;-f root&quot; value for the USER environment variable.
 
 - [https://github.com/ZeroDayEvil/CVE-2026-24061](https://github.com/ZeroDayEvil/CVE-2026-24061) : ![starts](https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-24061.svg) ![forks](https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-24061.svg)
 
@@ -180,6 +194,10 @@ This issue affects Mediawiki - UploadWizard Extension: from * before 1.46.1, 1.4
 
 - [https://github.com/ZeroDayEvil/CVE-2026-31431](https://github.com/ZeroDayEvil/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-31431.svg)
 - [https://github.com/rifkyards/Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/rifkyards/Copy-Fail-CVE-2026-31431-Kubernetes-PoC) : ![starts](https://img.shields.io/github/stars/rifkyards/Copy-Fail-CVE-2026-31431-Kubernetes-PoC.svg) ![forks](https://img.shields.io/github/forks/rifkyards/Copy-Fail-CVE-2026-31431-Kubernetes-PoC.svg)
+
+## CVE-2026-31857
+
+- [https://github.com/0xTatsuki/CVE-2026-31857](https://github.com/0xTatsuki/CVE-2026-31857) : ![starts](https://img.shields.io/github/stars/0xTatsuki/CVE-2026-31857.svg) ![forks](https://img.shields.io/github/forks/0xTatsuki/CVE-2026-31857.svg)
 
 ## CVE-2026-34990
 
@@ -275,6 +293,7 @@ This issue affects Mediawiki - UploadWizard Extension: from * before 1.46.1, 1.4
 
 ## CVE-2026-60137
 
+- [https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-](https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-) : ![starts](https://img.shields.io/github/stars/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-.svg)
 - [https://github.com/z3rodayhacks/CVE-2026-63030-CVE-2026-60137](https://github.com/z3rodayhacks/CVE-2026-63030-CVE-2026-60137) : ![starts](https://img.shields.io/github/stars/z3rodayhacks/CVE-2026-63030-CVE-2026-60137.svg) ![forks](https://img.shields.io/github/forks/z3rodayhacks/CVE-2026-63030-CVE-2026-60137.svg)
 
 ## CVE-2026-62911
@@ -283,6 +302,7 @@ This issue affects Mediawiki - UploadWizard Extension: from * before 1.46.1, 1.4
 
 ## CVE-2026-63030
 
+- [https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-](https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-) : ![starts](https://img.shields.io/github/stars/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-.svg)
 - [https://github.com/z3rodayhacks/CVE-2026-63030-CVE-2026-60137](https://github.com/z3rodayhacks/CVE-2026-63030-CVE-2026-60137) : ![starts](https://img.shields.io/github/stars/z3rodayhacks/CVE-2026-63030-CVE-2026-60137.svg) ![forks](https://img.shields.io/github/forks/z3rodayhacks/CVE-2026-63030-CVE-2026-60137.svg)
 
 ## CVE-2026-75604
@@ -294,7 +314,7 @@ This issue affects Mediawiki - UploadWizard Extension: from * before 1.46.1, 1.4
 - [https://github.com/rifkyards/Container_escape-CVE-2026-80521-CVE-2026-52910](https://github.com/rifkyards/Container_escape-CVE-2026-80521-CVE-2026-52910) : ![starts](https://img.shields.io/github/stars/rifkyards/Container_escape-CVE-2026-80521-CVE-2026-52910.svg) ![forks](https://img.shields.io/github/forks/rifkyards/Container_escape-CVE-2026-80521-CVE-2026-52910.svg)
 
 ## CVE-2026-8065
-> An authentication bypass vulnerability in the firmware update endpoint of Hitachi Energy RTU500 allows an unauthenticated attacker to upload arbitrary firmware through a crafted POST request. Successful exploitation could allow the attacker to modify device functionality or compromise the integrity or availability of the device.
+> An authentication bypass vulnerability in the firmware update endpoint of Hitachi Energy RTU500 end-of-life versions allows an unauthenticated attacker to upload arbitrary firmware through a crafted POST request. Successful exploitation could allow the attacker to modify device functionality or compromise the integrity or availability of the device.
 
 - [https://github.com/MRdark-ops/CVE-2026-8065](https://github.com/MRdark-ops/CVE-2026-8065) : ![starts](https://img.shields.io/github/stars/MRdark-ops/CVE-2026-8065.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/CVE-2026-8065.svg)
 - [https://github.com/murrez/CVE-2026-8065](https://github.com/murrez/CVE-2026-8065) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-8065.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-8065.svg)
@@ -304,7 +324,15 @@ This issue affects Mediawiki - UploadWizard Extension: from * before 1.46.1, 1.4
 
 - [https://github.com/tonydelouvre/CVE-2026-82901](https://github.com/tonydelouvre/CVE-2026-82901) : ![starts](https://img.shields.io/github/stars/tonydelouvre/CVE-2026-82901.svg) ![forks](https://img.shields.io/github/forks/tonydelouvre/CVE-2026-82901.svg)
 
+## CVE-2026-84383
+
+- [https://github.com/dinosn/libheif-cve-2026-84383-lab](https://github.com/dinosn/libheif-cve-2026-84383-lab) : ![starts](https://img.shields.io/github/stars/dinosn/libheif-cve-2026-84383-lab.svg) ![forks](https://img.shields.io/github/forks/dinosn/libheif-cve-2026-84383-lab.svg)
+
 ## CVE-2026-85520
+> Google Merchant Center Feed (gmfeed) module for PrestaShop is vulnerable to unauthenticated arbitrary file write in the feed.php endpoint. An unauthenticated attacker can send a crafted request that controls the output file name, path, extension, and content through request parameters. Due to the lack of authentication and input validation, the request is processed successfully, allowing an attacker to write and execute arbitrary PHP code, resulting in remote code execution (RCE).
+
+
+This issue w
 
 - [https://github.com/murrez/CVE-2026-85520](https://github.com/murrez/CVE-2026-85520) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-85520.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-85520.svg)
 
@@ -322,6 +350,7 @@ This issue affects Mediawiki - UploadWizard Extension: from * before 1.46.1, 1.4
 > An unauthenticated attacker can make `get_page_template()` page-template resolution include a chosen readable local `.php` file outside the active theme directories. If relevant pre-conditions for both the server and the active theme are met, this can lead to RCE.
 
 - [https://github.com/MRdark-ops/CVE-2026-87902](https://github.com/MRdark-ops/CVE-2026-87902) : ![starts](https://img.shields.io/github/stars/MRdark-ops/CVE-2026-87902.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/CVE-2026-87902.svg)
+- [https://github.com/tonydelouvre/CVE-2026-87902](https://github.com/tonydelouvre/CVE-2026-87902) : ![starts](https://img.shields.io/github/stars/tonydelouvre/CVE-2026-87902.svg) ![forks](https://img.shields.io/github/forks/tonydelouvre/CVE-2026-87902.svg)
 
 ## CVE-2026-88771
 > Improper input validation vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.

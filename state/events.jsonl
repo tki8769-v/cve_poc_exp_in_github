@@ -606,3 +606,20 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/DeveshTone/vivo-y75-v2117-ghostlock"}
 {"cve_id": "CVE-2026-60137", "ts": "2026-09-29T15:58:11Z", "type": "new_poc", "url": "https://github.com/z3rodayhacks/CVE-2026-63030-CVE-2026-60137"}
 {"cve_id": "CVE-2026-63030", "ts": "2026-09-29T15:58:13Z", "type": "new_poc", "url": "https://github.com/z3rodayhacks/CVE-2026-63030-CVE-2026-60137"}
+{"cve_id": "CVE-2026-74732", "ts": "2026-09-29T21:24:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-74732", "ts": "2026-09-29T21:24:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-74732", "ts": "2026-09-29T21:24:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-74732", "ts": "2026-09-29T21:25:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-74732", "ts": "2026-09-29T21:25:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-74732", "ts": "2026-09-29T21:25:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-74732", "ts": "2026-09-29T21:26:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-11415", "ts": "2026-09-29T21:27:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-74732", "ts": "2026-09-29T21:27:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-84383", "ts": "2026-09-29T21:27:48Z", "type": "new_poc", "url": "https://github.com/dinosn/libheif-cve-2026-84383-lab"}
+{"cve_id": "CVE-2026-102261", "ts": "2026-09-29T21:27:48Z", "type": "new_poc", "url": "https://github.com/7acini/CVE-2026-102261"}
+{"cve_id": "CVE-2026-60137", "ts": "2026-09-29T21:27:48Z", "type": "new_poc", "url": "https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-"}
+{"cve_id": "CVE-2026-63030", "ts": "2026-09-29T21:27:48Z", "type": "new_poc", "url": "https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-"}
+{"cve_id": "CVE-2026-31857", "ts": "2026-09-29T21:27:49Z", "type": "new_poc", "url": "https://github.com/0xTatsuki/CVE-2026-31857"}
+{"cve_id": "CVE-2026-87902", "ts": "2026-09-29T21:27:49Z", "type": "new_poc", "url": "https://github.com/tonydelouvre/CVE-2026-87902"}
+{"cve_id": "CVE-2020-24186", "ts": "2026-09-29T21:27:49Z", "type": "new_poc", "url": "https://github.com/kiyingiericmark-wq/CVE-2020-24186"}
+{"cve_id": "CVE-2024-21626", "ts": "2026-09-29T21:27:49Z", "type": "new_poc", "url": "https://github.com/RnW29/cve-2024-21626-runc-lab"}

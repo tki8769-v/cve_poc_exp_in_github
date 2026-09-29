@@ -1113,6 +1113,8 @@
 
 - [https://github.com/sec-dojo-com/CVE-2020-24186](https://github.com/sec-dojo-com/CVE-2020-24186) : ![starts](https://img.shields.io/github/stars/sec-dojo-com/CVE-2020-24186.svg) ![forks](https://img.shields.io/github/forks/sec-dojo-com/CVE-2020-24186.svg)
 
+- [https://github.com/kiyingiericmark-wq/CVE-2020-24186](https://github.com/kiyingiericmark-wq/CVE-2020-24186) : ![starts](https://img.shields.io/github/stars/kiyingiericmark-wq/CVE-2020-24186.svg) ![forks](https://img.shields.io/github/forks/kiyingiericmark-wq/CVE-2020-24186.svg)
+
 ## CVE-2020-24148
  Server-side request forgery (SSRF) in the Import XML and RSS Feeds (import-xml-feed) plugin 2.0.1 for WordPress via the data parameter in a moove_read_xml action.
 
