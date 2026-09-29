@@ -3147,6 +3147,8 @@ AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestrict
 
 - [https://github.com/cristhiansm0/TXDXCristhian_2023-CVE-38831](https://github.com/cristhiansm0/TXDXCristhian_2023-CVE-38831) : ![starts](https://img.shields.io/github/stars/cristhiansm0/TXDXCristhian_2023-CVE-38831.svg) ![forks](https://img.shields.io/github/forks/cristhiansm0/TXDXCristhian_2023-CVE-38831.svg)
 
+- [https://github.com/Dnyaneshwari-123/DFIR-Capstone-Investigations](https://github.com/Dnyaneshwari-123/DFIR-Capstone-Investigations) : ![starts](https://img.shields.io/github/stars/Dnyaneshwari-123/DFIR-Capstone-Investigations.svg) ![forks](https://img.shields.io/github/forks/Dnyaneshwari-123/DFIR-Capstone-Investigations.svg)
+
 ## CVE-2023-38829
  An issue in NETIS SYSTEMS WF2409E v.3.6.42541 allows a remote attacker to execute arbitrary code via the ping and traceroute functions of the diagnostic tools component in the admin management interface.
 

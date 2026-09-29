@@ -503,3 +503,106 @@
 {"cve_id": "CVE-2021-41773", "ts": "2026-09-29T01:12:22Z", "type": "new_poc", "url": "https://github.com/tsiddiquea/cve-reproduction-lab"}
 {"cve_id": "CVE-2021-41773", "ts": "2026-09-29T01:12:22Z", "type": "new_poc", "url": "https://github.com/JKIM72403/CS4277-CVE-Path-Traversal-Apache-HTTP-Server"}
 {"cve_id": "CVE-2021-41773", "ts": "2026-09-29T01:12:22Z", "type": "new_poc", "url": "https://github.com/MuhammadHuzaifaAsif/security-lab"}
+{"cve_id": "CVE-2026-58463", "ts": "2026-09-29T15:52:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58464", "ts": "2026-09-29T15:52:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58463", "ts": "2026-09-29T15:53:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58464", "ts": "2026-09-29T15:53:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58463", "ts": "2026-09-29T15:53:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58464", "ts": "2026-09-29T15:53:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58463", "ts": "2026-09-29T15:54:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58464", "ts": "2026-09-29T15:54:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58463", "ts": "2026-09-29T15:54:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58464", "ts": "2026-09-29T15:54:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-100655", "ts": "2026-09-29T15:55:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-100656", "ts": "2026-09-29T15:55:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-100657", "ts": "2026-09-29T15:55:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-100658", "ts": "2026-09-29T15:55:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58463", "ts": "2026-09-29T15:55:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58464", "ts": "2026-09-29T15:55:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-100655", "ts": "2026-09-29T15:55:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-100656", "ts": "2026-09-29T15:55:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-100657", "ts": "2026-09-29T15:55:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-100658", "ts": "2026-09-29T15:55:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58463", "ts": "2026-09-29T15:56:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58464", "ts": "2026-09-29T15:56:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-100655", "ts": "2026-09-29T15:56:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-100656", "ts": "2026-09-29T15:56:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-100657", "ts": "2026-09-29T15:56:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-100658", "ts": "2026-09-29T15:56:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58463", "ts": "2026-09-29T15:56:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58464", "ts": "2026-09-29T15:56:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94545", "ts": "2026-09-29T15:57:55Z", "type": "new_poc", "url": "https://github.com/EQSTLab/CVE-2026-94545"}
+{"cve_id": "CVE-2026-49869", "ts": "2026-09-29T15:57:55Z", "type": "new_poc", "url": "https://github.com/EQSTLab/CVE-2026-49869"}
+{"cve_id": "CVE-2024-38063", "ts": "2026-09-29T15:57:55Z", "type": "new_poc", "url": "https://github.com/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab"}
+{"cve_id": "CVE-2026-10817", "ts": "2026-09-29T15:57:55Z", "type": "new_poc", "url": "https://github.com/HORKimhab/CVE-2026-10817"}
+{"cve_id": "CVE-2026-52910", "ts": "2026-09-29T15:57:55Z", "type": "new_poc", "url": "https://github.com/rifkyards/Container_escape-CVE-2026-80521-CVE-2026-52910"}
+{"cve_id": "CVE-2026-80521", "ts": "2026-09-29T15:57:55Z", "type": "new_poc", "url": "https://github.com/rifkyards/Container_escape-CVE-2026-80521-CVE-2026-52910"}
+{"cve_id": "CVE-2026-82901", "ts": "2026-09-29T15:57:55Z", "type": "new_poc", "url": "https://github.com/tonydelouvre/CVE-2026-82901"}
+{"cve_id": "CVE-2026-8065", "ts": "2026-09-29T15:57:55Z", "type": "new_poc", "url": "https://github.com/MRdark-ops/CVE-2026-8065"}
+{"cve_id": "CVE-2026-100380", "ts": "2026-09-29T15:57:55Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-100380"}
+{"cve_id": "CVE-2026-85520", "ts": "2026-09-29T15:57:55Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-85520"}
+{"cve_id": "CVE-2026-96878", "ts": "2026-09-29T15:57:55Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-96878"}
+{"cve_id": "CVE-2026-96872", "ts": "2026-09-29T15:57:55Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-96872"}
+{"cve_id": "CVE-2026-96877", "ts": "2026-09-29T15:57:55Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-96877"}
+{"cve_id": "CVE-2026-96875", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-96875"}
+{"cve_id": "CVE-2026-96873", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-96873"}
+{"cve_id": "CVE-2025-32463", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/klvlo/CVE-2025-32463"}
+{"cve_id": "CVE-2026-8065", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-8065"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/shubhampathak65/CVE-2026-43499"}
+{"cve_id": "CVE-2026-96874", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-96874"}
+{"cve_id": "CVE-2026-100381", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-100381"}
+{"cve_id": "CVE-2026-59310", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/vpxuser/CVE-2026-59310"}
+{"cve_id": "CVE-2025-62023", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/josemour8/CVE-2025-62023"}
+{"cve_id": "CVE-2026-96876", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-96876"}
+{"cve_id": "CVE-2026-88771", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/SwiftSecur/CVE-2026-88771-HuntScript"}
+{"cve_id": "CVE-2025-4123", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/primesec-dev/grafana_mythos_cve-2025-4123"}
+{"cve_id": "CVE-2025-8088", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-2"}
+{"cve_id": "CVE-2025-8088", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-3"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/rifkyards/Copy-Fail-CVE-2026-31431-Kubernetes-PoC"}
+{"cve_id": "CVE-2025-8088", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-1"}
+{"cve_id": "CVE-2026-34990", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/mrdebora/cups-2.4.16-lpe"}
+{"cve_id": "CVE-2023-38831", "ts": "2026-09-29T15:57:56Z", "type": "new_poc", "url": "https://github.com/Dnyaneshwari-123/DFIR-Capstone-Investigations"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:06Z", "type": "new_poc", "url": "https://github.com/deancyl/s9180-rootmygalaxy"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:06Z", "type": "new_poc", "url": "https://github.com/HORKimhab/CVE-2026-43499"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:06Z", "type": "new_poc", "url": "https://github.com/dorlow/hazel-cve-2026-43499"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:06Z", "type": "new_poc", "url": "https://github.com/zenyxx-xd/RootMyVivo-Exploit"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:06Z", "type": "new_poc", "url": "https://github.com/rsyzee/ghostlock-infinix-hot70"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:06Z", "type": "new_poc", "url": "https://github.com/DeAurity/ghost-hoock"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:06Z", "type": "new_poc", "url": "https://github.com/MKE84/neo8-ghostlock-adaptation"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:06Z", "type": "new_poc", "url": "https://github.com/coey0814/Fold8-Ultra-Root-F976N"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:06Z", "type": "new_poc", "url": "https://github.com/jojobear691/SM-G781W-HYJ1-GhostLock-Temporary-Root"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:06Z", "type": "new_poc", "url": "https://github.com/oopnv70-lab/ghostlock-honor-aak-probe"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:06Z", "type": "new_poc", "url": "https://github.com/soralis0912/Root-My-Device"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:06Z", "type": "new_poc", "url": "https://github.com/caspy123/CVE-2026-43499"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/CatXiaoShi/cve-2026-43499"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/justsoman/CVE-2026-43499-jinghu"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/fusiondrive/CVE-2026-43499-ZFOLD4"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/Cxyofficial/x200-cve-2026-43499"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/SammyEnigma/CVE-2026-43499-S26"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/pimpamebanihah/cve-2026-43499-app.so"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/Bobikl/CVE-2026-43499-T807D"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/fancyzll/CVE-2026-43499_OPPO-MT6835"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/huaguiqi/asus-i005-cve-2026-43499"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/pimpamebanihah/cve-2026-43499-app.s0"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/zychen027/CVE-2026-43499_HW-CLT-AL01"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/MuhamadRifkii/CVE-2026-43499-POCO-X3-GT"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/CamsShaft/IonStack-S22-cve-2026-43499"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/villager1314/CVE-2026-43499-IQOO-Neo10-Analysis"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/sgswzglwlx/vivo-root-build"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/newazbenalam/Root-My-Galaxy-Payloads"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/Cxyofficial/K50G-POCOF4GT-CVE-2026-43499-PoC"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/asarr22/Root-My-Galaxy-S938B"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/alk601/Root-My-Galaxy"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/XiaoBaiLovesStirring/ghostlock-custom"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/ruik-tech/ghostlock-s25fe"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/abdgalaxy36-code/rmgp-complete-handoff"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/OhLookItsTheIRS/Root-My-Galaxy-tests"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/SetsuNeko/GhostLock_MT6983V_5.10"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/imeiplus/galaxy-a37-root"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/imeiplus/ghostlock-pfem10"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/anksgls-sj/-Help-vivo-Y200i-5.10.218-GKI-CVE-2026-43499-stack-reclaim-reaches-0x300-need-0x318"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/cxlfhx/ghostlock-pfem10"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-29T15:58:07Z", "type": "new_poc", "url": "https://github.com/DeveshTone/vivo-y75-v2117-ghostlock"}
+{"cve_id": "CVE-2026-60137", "ts": "2026-09-29T15:58:11Z", "type": "new_poc", "url": "https://github.com/z3rodayhacks/CVE-2026-63030-CVE-2026-60137"}
+{"cve_id": "CVE-2026-63030", "ts": "2026-09-29T15:58:13Z", "type": "new_poc", "url": "https://github.com/z3rodayhacks/CVE-2026-63030-CVE-2026-60137"}

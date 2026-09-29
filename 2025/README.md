@@ -1981,6 +1981,11 @@ Django would like to thank Seokchan Yoon for reporting this issue.
 
 - [https://github.com/nehkark/CVE-2025-62168](https://github.com/nehkark/CVE-2025-62168) : ![starts](https://img.shields.io/github/stars/nehkark/CVE-2025-62168.svg) ![forks](https://img.shields.io/github/forks/nehkark/CVE-2025-62168.svg)
 
+## CVE-2025-62023
+> Improper Control of Generation of Code (&#x27;Code Injection&#x27;) vulnerability in Cristián Lávaque s2Member s2member.This issue affects s2Member: from n/a through 250905.
+
+- [https://github.com/josemour8/CVE-2025-62023](https://github.com/josemour8/CVE-2025-62023) : ![starts](https://img.shields.io/github/stars/josemour8/CVE-2025-62023.svg) ![forks](https://img.shields.io/github/forks/josemour8/CVE-2025-62023.svg)
+
 ## CVE-2025-61984
  ssh in OpenSSH before 10.1 allows control characters in usernames that originate from certain possibly untrusted sources, potentially leading to code execution when a ProxyCommand is used. The untrusted sources are the command line and %-sequence expansion of a configuration file. (A configuration file that provides a complete literal username is not categorized as an untrusted source.)
 
@@ -7321,6 +7326,8 @@ This issue affects Command Center Innovation Release: 11.38.0 to 11.38.20. The v
 
 - [https://github.com/0x00315732/musical-engine](https://github.com/0x00315732/musical-engine) : ![starts](https://img.shields.io/github/stars/0x00315732/musical-engine.svg) ![forks](https://img.shields.io/github/forks/0x00315732/musical-engine.svg)
 
+- [https://github.com/klvlo/CVE-2025-32463](https://github.com/klvlo/CVE-2025-32463) : ![starts](https://img.shields.io/github/stars/klvlo/CVE-2025-32463.svg) ![forks](https://img.shields.io/github/forks/klvlo/CVE-2025-32463.svg)
+
 ## CVE-2025-32462
  Sudo before 1.9.17p1, when used with a sudoers file that specifies a host that is neither the current host nor ALL, allows listed users to execute commands on unintended machines.
 
@@ -11951,6 +11958,12 @@ This can lead to execution of a wide range of privileged commands to the engine 
 
 - [https://github.com/Lewis-Ricardo/Amaranth-Project](https://github.com/Lewis-Ricardo/Amaranth-Project) : ![starts](https://img.shields.io/github/stars/Lewis-Ricardo/Amaranth-Project.svg) ![forks](https://img.shields.io/github/forks/Lewis-Ricardo/Amaranth-Project.svg)
 
+- [https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-1](https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-1) : ![starts](https://img.shields.io/github/stars/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-1.svg) ![forks](https://img.shields.io/github/forks/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-1.svg)
+
+- [https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-2](https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-2) : ![starts](https://img.shields.io/github/stars/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-2.svg) ![forks](https://img.shields.io/github/forks/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-2.svg)
+
+- [https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-3](https://github.com/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-3) : ![starts](https://img.shields.io/github/stars/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-3.svg) ![forks](https://img.shields.io/github/forks/roof1948576qwd/CVE-2025-8088-WinRAR-PoC-3.svg)
+
 ## CVE-2025-8081
  The Elementor plugin for WordPress is vulnerable to Arbitrary File Read in all versions up to, and including, 3.30.2 via the Import_Images::import() function due to insufficient controls on the filename specified. This makes it possible for authenticated attackers, with administrator-level access and above, to read the contents of arbitrary files on the server, which can contain sensitive information.
 
@@ -13416,6 +13429,8 @@ The default Content-Security-Policy (CSP) in Grafana will block the XSS though t
 - [https://github.com/MorphyKutay/CVE-2025-4123-Exploit](https://github.com/MorphyKutay/CVE-2025-4123-Exploit) : ![starts](https://img.shields.io/github/stars/MorphyKutay/CVE-2025-4123-Exploit.svg) ![forks](https://img.shields.io/github/forks/MorphyKutay/CVE-2025-4123-Exploit.svg)
 
 - [https://github.com/imbas007/CVE-2025-4123-template](https://github.com/imbas007/CVE-2025-4123-template) : ![starts](https://img.shields.io/github/stars/imbas007/CVE-2025-4123-template.svg) ![forks](https://img.shields.io/github/forks/imbas007/CVE-2025-4123-template.svg)
+
+- [https://github.com/primesec-dev/grafana_mythos_cve-2025-4123](https://github.com/primesec-dev/grafana_mythos_cve-2025-4123) : ![starts](https://img.shields.io/github/stars/primesec-dev/grafana_mythos_cve-2025-4123.svg) ![forks](https://img.shields.io/github/forks/primesec-dev/grafana_mythos_cve-2025-4123.svg)
 
 ## CVE-2025-4094
  The DIGITS: WordPress Mobile Number Signup and Login WordPress plugin before 8.4.6.1 does not rate limit OTP validation attempts, making it straightforward for attackers to bruteforce them.
