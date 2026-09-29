@@ -2413,6 +2413,10 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/Dungsocool/CVE-2020-13671-old](https://github.com/Dungsocool/CVE-2020-13671-old) : ![starts](https://img.shields.io/github/stars/Dungsocool/CVE-2020-13671-old.svg) ![forks](https://img.shields.io/github/forks/Dungsocool/CVE-2020-13671-old.svg)
 
+## CVE-2020-13664
+
+- [https://github.com/lorenzog/CVE-2020-13664](https://github.com/lorenzog/CVE-2020-13664) : ![starts](https://img.shields.io/github/stars/lorenzog/CVE-2020-13664.svg) ![forks](https://img.shields.io/github/forks/lorenzog/CVE-2020-13664.svg)
+
 ## CVE-2020-13654
  XWiki Platform before 12.8 mishandles escaping in the property displayer.
 

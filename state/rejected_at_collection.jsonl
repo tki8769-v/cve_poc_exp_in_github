@@ -1,3 +1,5 @@
 {"cve_id": "CVE-2026-2394", "reason": "prefix_conflict_evidenced", "ts": "2026-09-24T15:45:37Z", "url": "https://github.com/boroeurnprach/CVE-2026-23947-PoC", "url_ids": ["CVE-2026-23947"]}
 {"cve_id": "CVE-2026-2674", "reason": "prefix_conflict_evidenced", "ts": "2026-09-24T15:45:52Z", "url": "https://github.com/lorenzobruno7/CVE-2026-26744", "url_ids": ["CVE-2026-26744"]}
 {"cve_id": "CVE-2026-5924", "reason": "prefix_conflict_evidenced", "ts": "2026-09-28T18:02:34Z", "url": "https://github.com/MalHyuk/CVE-2026-59243", "url_ids": ["CVE-2026-59243"]}
+{"cve_id": "CVE-2026-3415", "reason": "prefix_conflict_evidenced", "ts": "2026-09-29T01:06:18Z", "url": "https://github.com/casp3r0x0/CVE-2026-34159", "url_ids": ["CVE-2026-34159"]}
+{"cve_id": "CVE-2026-3415", "reason": "prefix_conflict_evidenced", "ts": "2026-09-29T01:06:18Z", "url": "https://github.com/0xBlackash/CVE-2026-34156", "url_ids": ["CVE-2026-34156"]}
