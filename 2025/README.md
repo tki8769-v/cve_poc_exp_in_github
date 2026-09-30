@@ -2517,6 +2517,8 @@ updates, or paid assisted support options, or online technical content updates.
 
 - [https://github.com/Twappz/HTB-Silentium-Writeup](https://github.com/Twappz/HTB-Silentium-Writeup) : ![starts](https://img.shields.io/github/stars/Twappz/HTB-Silentium-Writeup.svg) ![forks](https://img.shields.io/github/forks/Twappz/HTB-Silentium-Writeup.svg)
 
+- [https://github.com/Amoru-Bek/CVE-2025-59528-Poc](https://github.com/Amoru-Bek/CVE-2025-59528-Poc) : ![starts](https://img.shields.io/github/stars/Amoru-Bek/CVE-2025-59528-Poc.svg) ![forks](https://img.shields.io/github/forks/Amoru-Bek/CVE-2025-59528-Poc.svg)
+
 ## CVE-2025-59501
  Authentication bypass by spoofing in Microsoft Configuration Manager allows an authorized attacker to perform spoofing over an adjacent network.
 
@@ -8228,6 +8230,8 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
 - [https://github.com/hujiaozhuzhu/CVE-2025-29927__Next.js](https://github.com/hujiaozhuzhu/CVE-2025-29927__Next.js) : ![starts](https://img.shields.io/github/stars/hujiaozhuzhu/CVE-2025-29927__Next.js.svg) ![forks](https://img.shields.io/github/forks/hujiaozhuzhu/CVE-2025-29927__Next.js.svg)
 
 - [https://github.com/lucaschanzx/CVE-2025-29927-PoC](https://github.com/lucaschanzx/CVE-2025-29927-PoC) : ![starts](https://img.shields.io/github/stars/lucaschanzx/CVE-2025-29927-PoC.svg) ![forks](https://img.shields.io/github/forks/lucaschanzx/CVE-2025-29927-PoC.svg)
+
+- [https://github.com/vulnace/CVE-2025-29927](https://github.com/vulnace/CVE-2025-29927) : ![starts](https://img.shields.io/github/stars/vulnace/CVE-2025-29927.svg) ![forks](https://img.shields.io/github/forks/vulnace/CVE-2025-29927.svg)
 
 ## CVE-2025-29824
  Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally.

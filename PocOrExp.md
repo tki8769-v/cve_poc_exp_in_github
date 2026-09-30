@@ -1,4 +1,46 @@
 ## 2026
+## CVE-2026-103446
+> Authorization bypass through User-Controlled key vulnerability in The Wikimedia Foundation MediaWiki WikiLambda extension allows Authentication Bypass.
+
+This issue affects MediaWiki WikiLambda extension: 1.46.
+
+- [https://github.com/BomboBombone/CVE-2026-103446](https://github.com/BomboBombone/CVE-2026-103446) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103446.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103446.svg)
+
+## CVE-2026-103445
+> Improper neutralization of Script-Related HTML tags in a web page (basic XSS) vulnerability in The Wikimedia Foundation MediaWiki Page_Forms extension allows Stored XSS.
+
+This issue affects MediaWiki Page_Forms extension: 1.46, 1.45, and 1.43.
+
+- [https://github.com/BomboBombone/CVE-2026-103445](https://github.com/BomboBombone/CVE-2026-103445) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103445.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103445.svg)
+
+## CVE-2026-103442
+> External control of system or configuration setting vulnerability in The Wikimedia Foundation MediaWiki CentralAuth extension allows Code Injection.
+
+This issue affects MediaWiki CentralAuth extension: 1.46, 1.45, and 1.43.
+
+- [https://github.com/BomboBombone/CVE-2026-103442](https://github.com/BomboBombone/CVE-2026-103442) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103442.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103442.svg)
+
+## CVE-2026-103441
+> Deserialization of untrusted data vulnerability in The Wikimedia Foundation MediaWiki Wikibase extension allows Leverage Executable Code in Non-Executable Files.
+
+This issue affects MediaWiki Wikibase extension: 1.46, 1.45, and 1.43.
+
+- [https://github.com/BomboBombone/CVE-2026-103441](https://github.com/BomboBombone/CVE-2026-103441) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103441.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103441.svg)
+
+## CVE-2026-103440
+> Exposure of sensitive information through data queries vulnerability in The Wikimedia Foundation MediaWiki PageTriage extension allows Information Elicitation.
+
+This issue affects MediaWiki PageTriage extension: 1.46, 1.45, and 1.43.
+
+- [https://github.com/BomboBombone/CVE-2026-103440](https://github.com/BomboBombone/CVE-2026-103440) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103440.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103440.svg)
+
+## CVE-2026-103437
+> Improper neutralization of Script-Related HTML tags in a web page (basic XSS) vulnerability in The Wikimedia Foundation MediaWiki ReadingLists extension allows Reflected XSS.
+
+This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
+
+- [https://github.com/BomboBombone/CVE-2026-103437](https://github.com/BomboBombone/CVE-2026-103437) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103437.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103437.svg)
+
 ## CVE-2026-102975
 
 - [https://github.com/BomboBombone/CVE-2026-102975](https://github.com/BomboBombone/CVE-2026-102975) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-102975.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-102975.svg)
@@ -10,6 +52,11 @@
 ## CVE-2026-102971
 
 - [https://github.com/BomboBombone/CVE-2026-102971](https://github.com/BomboBombone/CVE-2026-102971) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-102971.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-102971.svg)
+
+## CVE-2026-102427
+> Joomla Extension - ordasoft.com - Unauthenticated Remote Code Execution in OrdaSoft Joomla CCK &lt; 8.3.16 - site/uploader.php is reached through the component’s normal frontend routing (task=getContent), a task with no authentication or ACL check anywhere in the dispatch chain. The handler validates the uploaded file’s content with a real magic-byte MIME check, but the extension allow-list that would otherwise restrict the saved file’s extension was present in the source and commented out. The sav
+
+- [https://github.com/murrez/CVE-2026-102427](https://github.com/murrez/CVE-2026-102427) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-102427.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-102427.svg)
 
 ## CVE-2026-102425
 > Joomla Extension - balbooa.com - Unauthenticated RCE via field shortcode injection in Balbooa Forms &lt; 2.4.3.4 - Balbooa Forms supports administrator-defined PHP code which runs after a public form submission. The feature also supports form-field shortcodes inside that PHP. Before calling `eval()`, the component replaces each shortcode with the raw value submitted by the visitor, leading to an RCE vector. A public form must use the product&#x27;s optional PHP-after-submission action and interpolate an
@@ -365,6 +412,10 @@ The Unauthenticated Stored XSS vulnerability in the WordPress core can be reprod
  A stack overflow during the unauthenticated login process may allow an attacker to run arbitrary code remotely with root privileges.
 
 - [https://github.com/HORKimhab/CVE-2026-91843](https://github.com/HORKimhab/CVE-2026-91843) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-91843.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-91843.svg)
+
+## CVE-2026-91159
+
+- [https://github.com/sl4x0/autheo-cve-2026-91159-poc](https://github.com/sl4x0/autheo-cve-2026-91159-poc) : ![starts](https://img.shields.io/github/stars/sl4x0/autheo-cve-2026-91159-poc.svg) ![forks](https://img.shields.io/github/forks/sl4x0/autheo-cve-2026-91159-poc.svg)
 
 ## CVE-2026-91106
  HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The findings affect several software components that could potentially enable remote code execution, privilege escalation, denial of service, information disclosure, or unauthorized file modification under certain conditions.
@@ -1426,6 +1477,11 @@ Remediation requires a firmware update from the vendor. There is no user-side mi
 
 - [https://github.com/BrainBob/CVE-2026-76578](https://github.com/BrainBob/CVE-2026-76578) : ![starts](https://img.shields.io/github/stars/BrainBob/CVE-2026-76578.svg) ![forks](https://img.shields.io/github/forks/BrainBob/CVE-2026-76578.svg)
 
+## CVE-2026-76570
+> Joomla Extension - joomcode.com - Unauthenticated SQL injection in read and write queries in JCTables  1.21.1 - The front-end CRUD API controller performs no Joomla token validation and no authentication check on any task. Table names, column names, and values are taken directly from request parameters and concatenated into SQL queries, allowing SQLi for reading and writing queries.
+
+- [https://github.com/murrez/CVE-2026-76570](https://github.com/murrez/CVE-2026-76570) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-76570.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-76570.svg)
+
 ## CVE-2026-76569
  Joomla Extension - phoca.cz - Reflected XSS via the search GET parameter in Phoca Download 5.0.0-6.1.4
 
@@ -1444,6 +1500,13 @@ Remediation requires a firmware update from the vendor. There is no user-side mi
 ## CVE-2026-76547
 
 - [https://github.com/H4zaz/CVE-2026-76547](https://github.com/H4zaz/CVE-2026-76547) : ![starts](https://img.shields.io/github/stars/H4zaz/CVE-2026-76547.svg) ![forks](https://img.shields.io/github/forks/H4zaz/CVE-2026-76547.svg)
+
+## CVE-2026-76504
+> A vulnerability in the API session-based authentication management of Cisco Catalyst SD-WAN Manager could allow an unauthenticated, remote attacker to access an affected system with privileges of the admin user.
+
+This vulnerability is due to improper handling of URI encoding in an HTTP request, which allows the request to bypass an authentication rule that is intended to restrict access to a specific API endpoint. An attacker could exploit this vulnerability by sending a crafted HTTP request t
+
+- [https://github.com/ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept](https://github.com/ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept) : ![starts](https://img.shields.io/github/stars/ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept.svg) ![forks](https://img.shields.io/github/forks/ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept.svg)
 
 ## CVE-2026-76461
  A vulnerability in the email parsing of Cisco AsyncOS Software for Cisco Secure Email Gateway could allow an unauthenticated, remote attacker to execute arbitrary commands with root privileges on the underlying operating system.
@@ -1740,6 +1803,8 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
 - [https://github.com/hainhc/CVE-2026-73570](https://github.com/hainhc/CVE-2026-73570) : ![starts](https://img.shields.io/github/stars/hainhc/CVE-2026-73570.svg) ![forks](https://img.shields.io/github/forks/hainhc/CVE-2026-73570.svg)
 
 - [https://github.com/INFOKOM-KI/Zimbra-CVE-2026-73570-Rules](https://github.com/INFOKOM-KI/Zimbra-CVE-2026-73570-Rules) : ![starts](https://img.shields.io/github/stars/INFOKOM-KI/Zimbra-CVE-2026-73570-Rules.svg) ![forks](https://img.shields.io/github/forks/INFOKOM-KI/Zimbra-CVE-2026-73570-Rules.svg)
+
+- [https://github.com/0xBlackash/CVE-2026-73570](https://github.com/0xBlackash/CVE-2026-73570) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-73570.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-73570.svg)
 
 ## CVE-2026-73519
  WolfStack before 25.9.2 contains a hard-coded cluster-authentication secret compiled into every build and published as a constant in src/auth/mod.rs, allowing remote unauthenticated attackers to bypass authentication by supplying this value in the X-WolfStack-Secret header to the require_auth() gate without any session, API key, or user account. Attackers can reach an affected node's management port to enumerate all Docker and LXC containers on the host and execute arbitrary commands as root inside any container via the POST /api/containers/{runtime}/{id}/exec endpoint.
@@ -8129,6 +8194,10 @@ remove_waiter() to cure those problems.
 - [https://github.com/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499](https://github.com/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499) : ![starts](https://img.shields.io/github/stars/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499.svg) ![forks](https://img.shields.io/github/forks/wonjj6768/Lenovo-TB365FC-GhostLock-CVE-2026-43499.svg)
 
 - [https://github.com/zychen027/CVE-2026-43499_HW-CLT-AL01](https://github.com/zychen027/CVE-2026-43499_HW-CLT-AL01) : ![starts](https://img.shields.io/github/stars/zychen027/CVE-2026-43499_HW-CLT-AL01.svg) ![forks](https://img.shields.io/github/forks/zychen027/CVE-2026-43499_HW-CLT-AL01.svg)
+
+- [https://github.com/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-KernelSU-Next](https://github.com/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-KernelSU-Next) : ![starts](https://img.shields.io/github/stars/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-KernelSU-Next.svg) ![forks](https://img.shields.io/github/forks/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-KernelSU-Next.svg)
+
+- [https://github.com/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-ReSukiSU](https://github.com/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-ReSukiSU) : ![starts](https://img.shields.io/github/stars/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-ReSukiSU.svg) ![forks](https://img.shields.io/github/forks/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-ReSukiSU.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
@@ -16892,6 +16961,8 @@ The following code is vulnerable to a stack overflow that is attacker-controlled
 
 - [https://github.com/murrez/CVE-2026-12227](https://github.com/murrez/CVE-2026-12227) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-12227.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-12227.svg)
 
+- [https://github.com/MRdark-ops/CVE-2026-12227](https://github.com/MRdark-ops/CVE-2026-12227) : ![starts](https://img.shields.io/github/stars/MRdark-ops/CVE-2026-12227.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/CVE-2026-12227.svg)
+
 ## CVE-2026-12191
  A vulnerability was found in Comma AI Openpilot 0.11. This issue affects the function pickle.load/pickle.loads of the file selfdrive/modeld/modeld.py of the component Pickle Module. The manipulation results in deserialization. The attack is only possible with local access. The vendor was contacted early about this disclosure but did not respond in any way.
 
@@ -22899,6 +22970,8 @@ updates, or paid assisted support options, or online technical content updates.
 
 - [https://github.com/Twappz/HTB-Silentium-Writeup](https://github.com/Twappz/HTB-Silentium-Writeup) : ![starts](https://img.shields.io/github/stars/Twappz/HTB-Silentium-Writeup.svg) ![forks](https://img.shields.io/github/forks/Twappz/HTB-Silentium-Writeup.svg)
 
+- [https://github.com/Amoru-Bek/CVE-2025-59528-Poc](https://github.com/Amoru-Bek/CVE-2025-59528-Poc) : ![starts](https://img.shields.io/github/stars/Amoru-Bek/CVE-2025-59528-Poc.svg) ![forks](https://img.shields.io/github/forks/Amoru-Bek/CVE-2025-59528-Poc.svg)
+
 ## CVE-2025-59501
  Authentication bypass by spoofing in Microsoft Configuration Manager allows an authorized attacker to perform spoofing over an adjacent network.
 
@@ -28610,6 +28683,8 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
 - [https://github.com/hujiaozhuzhu/CVE-2025-29927__Next.js](https://github.com/hujiaozhuzhu/CVE-2025-29927__Next.js) : ![starts](https://img.shields.io/github/stars/hujiaozhuzhu/CVE-2025-29927__Next.js.svg) ![forks](https://img.shields.io/github/forks/hujiaozhuzhu/CVE-2025-29927__Next.js.svg)
 
 - [https://github.com/lucaschanzx/CVE-2025-29927-PoC](https://github.com/lucaschanzx/CVE-2025-29927-PoC) : ![starts](https://img.shields.io/github/stars/lucaschanzx/CVE-2025-29927-PoC.svg) ![forks](https://img.shields.io/github/forks/lucaschanzx/CVE-2025-29927-PoC.svg)
+
+- [https://github.com/vulnace/CVE-2025-29927](https://github.com/vulnace/CVE-2025-29927) : ![starts](https://img.shields.io/github/stars/vulnace/CVE-2025-29927.svg) ![forks](https://img.shields.io/github/forks/vulnace/CVE-2025-29927.svg)
 
 ## CVE-2025-29824
  Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally.

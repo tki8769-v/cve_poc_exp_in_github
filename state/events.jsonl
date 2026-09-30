@@ -654,3 +654,34 @@
 {"cve_id": "CVE-2026-26026", "ts": "2026-09-30T15:57:52Z", "type": "new_poc", "url": "https://github.com/wuyou6956-glitch/CVE-2026-26026-PoC"}
 {"cve_id": "CVE-2026-52993", "ts": "2026-09-30T15:57:52Z", "type": "new_poc", "url": "https://github.com/CaptainAI-Labs/CaptainAI-LPE-CVE-2026-52993"}
 {"cve_id": "CVE-2026-93687", "ts": "2026-09-30T16:02:06Z", "type": "new_poc", "url": "https://github.com/scastillo-jp/braces-fork"}
+{"cve_id": "CVE-2025-68195", "ts": "2026-09-30T21:25:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-68195", "ts": "2026-09-30T21:27:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-13087", "ts": "2026-09-30T21:27:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2017-20051", "ts": "2026-09-30T21:29:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-68195", "ts": "2026-09-30T21:29:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-13087", "ts": "2026-09-30T21:29:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2017-20051", "ts": "2026-09-30T21:31:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-68195", "ts": "2026-09-30T21:31:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-13087", "ts": "2026-09-30T21:31:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2017-20051", "ts": "2026-09-30T21:33:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-68195", "ts": "2026-09-30T21:33:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-13087", "ts": "2026-09-30T21:33:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2017-20051", "ts": "2026-09-30T21:35:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-68195", "ts": "2026-09-30T21:35:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-13087", "ts": "2026-09-30T21:36:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-73570", "ts": "2026-09-30T21:38:00Z", "type": "new_poc", "url": "https://github.com/0xBlackash/CVE-2026-73570"}
+{"cve_id": "CVE-2026-103440", "ts": "2026-09-30T21:38:00Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-103440"}
+{"cve_id": "CVE-2026-76570", "ts": "2026-09-30T21:38:00Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-76570"}
+{"cve_id": "CVE-2026-103445", "ts": "2026-09-30T21:38:00Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-103445"}
+{"cve_id": "CVE-2026-103437", "ts": "2026-09-30T21:38:00Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-103437"}
+{"cve_id": "CVE-2026-103446", "ts": "2026-09-30T21:38:00Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-103446"}
+{"cve_id": "CVE-2026-12227", "ts": "2026-09-30T21:38:00Z", "type": "new_poc", "url": "https://github.com/MRdark-ops/CVE-2026-12227"}
+{"cve_id": "CVE-2026-102427", "ts": "2026-09-30T21:38:00Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-102427"}
+{"cve_id": "CVE-2026-103441", "ts": "2026-09-30T21:38:00Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-103441"}
+{"cve_id": "CVE-2026-103442", "ts": "2026-09-30T21:38:01Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-103442"}
+{"cve_id": "CVE-2025-29927", "ts": "2026-09-30T21:38:01Z", "type": "new_poc", "url": "https://github.com/vulnace/CVE-2025-29927"}
+{"cve_id": "CVE-2025-59528", "ts": "2026-09-30T21:38:01Z", "type": "new_poc", "url": "https://github.com/Amoru-Bek/CVE-2025-59528-Poc"}
+{"cve_id": "CVE-2026-91159", "ts": "2026-09-30T21:38:01Z", "type": "new_poc", "url": "https://github.com/sl4x0/autheo-cve-2026-91159-poc"}
+{"cve_id": "CVE-2026-76504", "ts": "2026-09-30T21:38:01Z", "type": "new_poc", "url": "https://github.com/ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-30T21:38:01Z", "type": "new_poc", "url": "https://github.com/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-ReSukiSU"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-09-30T21:38:01Z", "type": "new_poc", "url": "https://github.com/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-KernelSU-Next"}

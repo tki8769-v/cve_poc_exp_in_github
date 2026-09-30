@@ -11,10 +11,23 @@
 
 - [https://github.com/IamSaishi/CVE-2023-43364_Exploit](https://github.com/IamSaishi/CVE-2023-43364_Exploit) : ![starts](https://img.shields.io/github/stars/IamSaishi/CVE-2023-43364_Exploit.svg) ![forks](https://img.shields.io/github/forks/IamSaishi/CVE-2023-43364_Exploit.svg)
 
+## CVE-2025-29927
+
+- [https://github.com/vulnace/CVE-2025-29927](https://github.com/vulnace/CVE-2025-29927) : ![starts](https://img.shields.io/github/stars/vulnace/CVE-2025-29927.svg) ![forks](https://img.shields.io/github/forks/vulnace/CVE-2025-29927.svg)
+
+## CVE-2025-59528
+
+- [https://github.com/Amoru-Bek/CVE-2025-59528-Poc](https://github.com/Amoru-Bek/CVE-2025-59528-Poc) : ![starts](https://img.shields.io/github/stars/Amoru-Bek/CVE-2025-59528-Poc.svg) ![forks](https://img.shields.io/github/forks/Amoru-Bek/CVE-2025-59528-Poc.svg)
+
 ## CVE-2026-102425
 > Joomla Extension - balbooa.com - Unauthenticated RCE via field shortcode injection in Balbooa Forms &lt; 2.4.3.4 - Balbooa Forms supports administrator-defined PHP code which runs after a public form submission. The feature also supports form-field shortcodes inside that PHP. Before calling `eval()`, the component replaces each shortcode with the raw value submitted by the visitor, leading to an RCE vector. A public form must use the product&#x27;s optional PHP-after-submission action and interpolate an
 
 - [https://github.com/murrez/CVE-2026-102425](https://github.com/murrez/CVE-2026-102425) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-102425.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-102425.svg)
+
+## CVE-2026-102427
+> Joomla Extension - ordasoft.com - Unauthenticated Remote Code Execution in OrdaSoft Joomla CCK &lt; 8.3.16 - site/uploader.php is reached through the component’s normal frontend routing (task=getContent), a task with no authentication or ACL check anywhere in the dispatch chain. The handler validates the uploaded file’s content with a real magic-byte MIME check, but the extension allow-list that would otherwise restrict the saved file’s extension was present in the source and commented out. The sav
+
+- [https://github.com/murrez/CVE-2026-102427](https://github.com/murrez/CVE-2026-102427) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-102427.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-102427.svg)
 
 ## CVE-2026-102971
 
@@ -27,6 +40,53 @@
 ## CVE-2026-102975
 
 - [https://github.com/BomboBombone/CVE-2026-102975](https://github.com/BomboBombone/CVE-2026-102975) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-102975.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-102975.svg)
+
+## CVE-2026-103437
+> Improper neutralization of Script-Related HTML tags in a web page (basic XSS) vulnerability in The Wikimedia Foundation MediaWiki ReadingLists extension allows Reflected XSS.
+
+This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
+
+- [https://github.com/BomboBombone/CVE-2026-103437](https://github.com/BomboBombone/CVE-2026-103437) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103437.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103437.svg)
+
+## CVE-2026-103440
+> Exposure of sensitive information through data queries vulnerability in The Wikimedia Foundation MediaWiki PageTriage extension allows Information Elicitation.
+
+This issue affects MediaWiki PageTriage extension: 1.46, 1.45, and 1.43.
+
+- [https://github.com/BomboBombone/CVE-2026-103440](https://github.com/BomboBombone/CVE-2026-103440) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103440.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103440.svg)
+
+## CVE-2026-103441
+> Deserialization of untrusted data vulnerability in The Wikimedia Foundation MediaWiki Wikibase extension allows Leverage Executable Code in Non-Executable Files.
+
+This issue affects MediaWiki Wikibase extension: 1.46, 1.45, and 1.43.
+
+- [https://github.com/BomboBombone/CVE-2026-103441](https://github.com/BomboBombone/CVE-2026-103441) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103441.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103441.svg)
+
+## CVE-2026-103442
+> External control of system or configuration setting vulnerability in The Wikimedia Foundation MediaWiki CentralAuth extension allows Code Injection.
+
+This issue affects MediaWiki CentralAuth extension: 1.46, 1.45, and 1.43.
+
+- [https://github.com/BomboBombone/CVE-2026-103442](https://github.com/BomboBombone/CVE-2026-103442) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103442.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103442.svg)
+
+## CVE-2026-103445
+> Improper neutralization of Script-Related HTML tags in a web page (basic XSS) vulnerability in The Wikimedia Foundation MediaWiki Page_Forms extension allows Stored XSS.
+
+This issue affects MediaWiki Page_Forms extension: 1.46, 1.45, and 1.43.
+
+- [https://github.com/BomboBombone/CVE-2026-103445](https://github.com/BomboBombone/CVE-2026-103445) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103445.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103445.svg)
+
+## CVE-2026-103446
+> Authorization bypass through User-Controlled key vulnerability in The Wikimedia Foundation MediaWiki WikiLambda extension allows Authentication Bypass.
+
+This issue affects MediaWiki WikiLambda extension: 1.46.
+
+- [https://github.com/BomboBombone/CVE-2026-103446](https://github.com/BomboBombone/CVE-2026-103446) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103446.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103446.svg)
+
+## CVE-2026-12227
+> The Visual Composer Website Builder plugin for WordPress is vulnerable to Local File Inclusion in all versions up to, and including, 45.16.0 via the `vcv-template` parameter. This makes it possible for unauthenticated attackers to include and execute arbitrary files on the server, allowing the execution of any PHP code in those files. This can be used to bypass access controls, obtain sensitive data, or achieve code execution in cases where images and other “safe” file types can be uploaded and 
+
+- [https://github.com/MRdark-ops/CVE-2026-12227](https://github.com/MRdark-ops/CVE-2026-12227) : ![starts](https://img.shields.io/github/stars/MRdark-ops/CVE-2026-12227.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/CVE-2026-12227.svg)
 
 ## CVE-2026-1668
 
@@ -49,6 +109,11 @@
 
 - [https://github.com/wuyou6956-glitch/CVE-2026-41096-POC](https://github.com/wuyou6956-glitch/CVE-2026-41096-POC) : ![starts](https://img.shields.io/github/stars/wuyou6956-glitch/CVE-2026-41096-POC.svg) ![forks](https://img.shields.io/github/forks/wuyou6956-glitch/CVE-2026-41096-POC.svg)
 
+## CVE-2026-43499
+
+- [https://github.com/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-KernelSU-Next](https://github.com/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-KernelSU-Next) : ![starts](https://img.shields.io/github/stars/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-KernelSU-Next.svg) ![forks](https://img.shields.io/github/forks/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-KernelSU-Next.svg)
+- [https://github.com/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-ReSukiSU](https://github.com/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-ReSukiSU) : ![starts](https://img.shields.io/github/stars/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-ReSukiSU.svg) ![forks](https://img.shields.io/github/forks/HaSiyo/Root-My-Galaxy-Payloads-S938NKSUCDZIF-ReSukiSU.svg)
+
 ## CVE-2026-48121
 
 - [https://github.com/decker757/cs440-langgraph-nosql-demo](https://github.com/decker757/cs440-langgraph-nosql-demo) : ![starts](https://img.shields.io/github/stars/decker757/cs440-langgraph-nosql-demo.svg) ![forks](https://img.shields.io/github/forks/decker757/cs440-langgraph-nosql-demo.svg)
@@ -61,10 +126,30 @@
 
 - [https://github.com/0xBlackash/CVE-2026-72018](https://github.com/0xBlackash/CVE-2026-72018) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-72018.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-72018.svg)
 
+## CVE-2026-73570
+
+- [https://github.com/0xBlackash/CVE-2026-73570](https://github.com/0xBlackash/CVE-2026-73570) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-73570.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-73570.svg)
+
+## CVE-2026-76504
+> A vulnerability in the API session-based authentication management of Cisco Catalyst SD-WAN Manager could allow an unauthenticated, remote attacker to access an affected system with privileges of the admin user.
+
+This vulnerability is due to improper handling of URI encoding in an HTTP request, which allows the request to bypass an authentication rule that is intended to restrict access to a specific API endpoint. An attacker could exploit this vulnerability by sending a crafted HTTP request t
+
+- [https://github.com/ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept](https://github.com/ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept) : ![starts](https://img.shields.io/github/stars/ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept.svg) ![forks](https://img.shields.io/github/forks/ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept.svg)
+
+## CVE-2026-76570
+> Joomla Extension - joomcode.com - Unauthenticated SQL injection in read and write queries in JCTables  1.21.1 - The front-end CRUD API controller performs no Joomla token validation and no authentication check on any task. Table names, column names, and values are taken directly from request parameters and concatenated into SQL queries, allowing SQLi for reading and writing queries.
+
+- [https://github.com/murrez/CVE-2026-76570](https://github.com/murrez/CVE-2026-76570) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-76570.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-76570.svg)
+
 ## CVE-2026-85706
 > GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.7 before 18.11.12, 19.0 before 19.0.9, 19.1 before 19.1.8, 19.2 before 19.2.6, and 19.3 before 19.3.2 that, under certain conditions, an unauthenticated user could have read arbitrary files from the GitLab server due to improper path confinement and missing authentication enforcement in the repository commits API.
 
 - [https://github.com/wuyou6956-glitch/cve-2026-85706](https://github.com/wuyou6956-glitch/cve-2026-85706) : ![starts](https://img.shields.io/github/stars/wuyou6956-glitch/cve-2026-85706.svg) ![forks](https://img.shields.io/github/forks/wuyou6956-glitch/cve-2026-85706.svg)
+
+## CVE-2026-91159
+
+- [https://github.com/sl4x0/autheo-cve-2026-91159-poc](https://github.com/sl4x0/autheo-cve-2026-91159-poc) : ![starts](https://img.shields.io/github/stars/sl4x0/autheo-cve-2026-91159-poc.svg) ![forks](https://img.shields.io/github/forks/sl4x0/autheo-cve-2026-91159-poc.svg)
 
 ## CVE-2026-93687
 > braces through 3.0.3 contains a stack overflow vulnerability in the recursive AST walkers that lack depth guards. Attackers can supply deeply nested brace patterns under the character limit to exhaust the call stack and terminate the Node.js process with an uncaught RangeError.
