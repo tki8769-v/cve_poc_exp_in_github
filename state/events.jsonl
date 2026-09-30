@@ -623,3 +623,18 @@
 {"cve_id": "CVE-2026-87902", "ts": "2026-09-29T21:27:49Z", "type": "new_poc", "url": "https://github.com/tonydelouvre/CVE-2026-87902"}
 {"cve_id": "CVE-2020-24186", "ts": "2026-09-29T21:27:49Z", "type": "new_poc", "url": "https://github.com/kiyingiericmark-wq/CVE-2020-24186"}
 {"cve_id": "CVE-2024-21626", "ts": "2026-09-29T21:27:49Z", "type": "new_poc", "url": "https://github.com/RnW29/cve-2024-21626-runc-lab"}
+{"cve_id": "CVE-2026-11415", "ts": "2026-09-30T06:42:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-74732", "ts": "2026-09-30T06:42:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-11415", "ts": "2026-09-30T06:44:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-74732", "ts": "2026-09-30T06:45:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-11415", "ts": "2026-09-30T06:46:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-15278", "ts": "2026-09-30T06:46:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-74732", "ts": "2026-09-30T06:47:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-43364", "ts": "2026-09-30T06:48:49Z", "type": "new_poc", "url": "https://github.com/IamSaishi/CVE-2023-43364_Exploit"}
+{"cve_id": "CVE-2023-3776", "ts": "2026-09-30T06:48:50Z", "type": "new_poc", "url": "https://github.com/Sakura999999999/CVE-2023-3776_repro"}
+{"cve_id": "CVE-2026-94545", "ts": "2026-09-30T06:48:50Z", "type": "new_poc", "url": "https://github.com/mhtsec/CVE-2026-94545"}
+{"cve_id": "CVE-2026-31857", "ts": "2026-09-30T06:48:50Z", "type": "new_poc", "url": "https://github.com/0Asylum/CVE-2026-31857"}
+{"cve_id": "CVE-2026-96760", "ts": "2026-09-30T06:48:50Z", "type": "new_poc", "url": "https://github.com/uziii2208/CVE-2026-96760"}
+{"cve_id": "CVE-2026-18143", "ts": "2026-09-30T06:48:50Z", "type": "new_poc", "url": "https://github.com/ghannyxploit404/CVE-2026-18143"}
+{"cve_id": "CVE-2023-38831", "ts": "2026-09-30T06:48:50Z", "type": "new_poc", "url": "https://github.com/KrioSocial/defender-bypass-winrar-cve-2023-38831"}
+{"cve_id": "CVE-2026-48121", "ts": "2026-09-30T06:48:50Z", "type": "new_poc", "url": "https://github.com/decker757/cs440-langgraph-nosql-demo"}
