@@ -638,3 +638,19 @@
 {"cve_id": "CVE-2026-18143", "ts": "2026-09-30T06:48:50Z", "type": "new_poc", "url": "https://github.com/ghannyxploit404/CVE-2026-18143"}
 {"cve_id": "CVE-2023-38831", "ts": "2026-09-30T06:48:50Z", "type": "new_poc", "url": "https://github.com/KrioSocial/defender-bypass-winrar-cve-2023-38831"}
 {"cve_id": "CVE-2026-48121", "ts": "2026-09-30T06:48:50Z", "type": "new_poc", "url": "https://github.com/decker757/cs440-langgraph-nosql-demo"}
+{"cve_id": "CVE-2025-68195", "ts": "2026-09-30T15:56:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-68195", "ts": "2026-09-30T15:56:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-68195", "ts": "2026-09-30T15:57:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94545", "ts": "2026-09-30T15:57:52Z", "type": "new_poc", "url": "https://github.com/MRdark-ops/CVE-2026-94545-"}
+{"cve_id": "CVE-2026-72018", "ts": "2026-09-30T15:57:52Z", "type": "new_poc", "url": "https://github.com/0xBlackash/CVE-2026-72018"}
+{"cve_id": "CVE-2026-102971", "ts": "2026-09-30T15:57:52Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-102971"}
+{"cve_id": "CVE-2026-102973", "ts": "2026-09-30T15:57:52Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-102973"}
+{"cve_id": "CVE-2026-102975", "ts": "2026-09-30T15:57:52Z", "type": "new_poc", "url": "https://github.com/BomboBombone/CVE-2026-102975"}
+{"cve_id": "CVE-2026-97347", "ts": "2026-09-30T15:57:52Z", "type": "new_poc", "url": "https://github.com/JailBr3ak/CVE-2026-97347"}
+{"cve_id": "CVE-2026-102425", "ts": "2026-09-30T15:57:52Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-102425"}
+{"cve_id": "CVE-2026-85706", "ts": "2026-09-30T15:57:52Z", "type": "new_poc", "url": "https://github.com/wuyou6956-glitch/cve-2026-85706"}
+{"cve_id": "CVE-2026-1668", "ts": "2026-09-30T15:57:52Z", "type": "new_poc", "url": "https://github.com/wuyou6956-glitch/cve-2026-1668-poc"}
+{"cve_id": "CVE-2026-41096", "ts": "2026-09-30T15:57:52Z", "type": "new_poc", "url": "https://github.com/wuyou6956-glitch/CVE-2026-41096-POC"}
+{"cve_id": "CVE-2026-26026", "ts": "2026-09-30T15:57:52Z", "type": "new_poc", "url": "https://github.com/wuyou6956-glitch/CVE-2026-26026-PoC"}
+{"cve_id": "CVE-2026-52993", "ts": "2026-09-30T15:57:52Z", "type": "new_poc", "url": "https://github.com/CaptainAI-Labs/CaptainAI-LPE-CVE-2026-52993"}
+{"cve_id": "CVE-2026-93687", "ts": "2026-09-30T16:02:06Z", "type": "new_poc", "url": "https://github.com/scastillo-jp/braces-fork"}

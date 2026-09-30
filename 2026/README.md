@@ -1,3 +1,20 @@
+## CVE-2026-102975
+
+- [https://github.com/BomboBombone/CVE-2026-102975](https://github.com/BomboBombone/CVE-2026-102975) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-102975.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-102975.svg)
+
+## CVE-2026-102973
+
+- [https://github.com/BomboBombone/CVE-2026-102973](https://github.com/BomboBombone/CVE-2026-102973) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-102973.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-102973.svg)
+
+## CVE-2026-102971
+
+- [https://github.com/BomboBombone/CVE-2026-102971](https://github.com/BomboBombone/CVE-2026-102971) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-102971.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-102971.svg)
+
+## CVE-2026-102425
+> Joomla Extension - balbooa.com - Unauthenticated RCE via field shortcode injection in Balbooa Forms &lt; 2.4.3.4 - Balbooa Forms supports administrator-defined PHP code which runs after a public form submission. The feature also supports form-field shortcodes inside that PHP. Before calling `eval()`, the component replaces each shortcode with the raw value submitted by the visitor, leading to an RCE vector. A public form must use the product&#x27;s optional PHP-after-submission action and interpolate an
+
+- [https://github.com/murrez/CVE-2026-102425](https://github.com/murrez/CVE-2026-102425) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-102425.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-102425.svg)
+
 ## CVE-2026-102261
 > A flaw has been found in owen2345 Camaleon CMS up to 2.9.2. Impacted is the function crop of the file app/controllers/camaleon_cms/admin/media_controller.rb of the component Media Crop Handler. This manipulation of the argument saved_avatar causes authorization bypass. The attack may be initiated remotely. The exploit has been published and may be used. Upgrading to version 2.9.3 is recommended to address this issue. Patch name: c143e145caa600947e70a240e87f2fed889149d3. It is suggested to upgrad
 
@@ -68,6 +85,11 @@ This issue affects Mediawiki - UploadWizard Extension: from * before 1.46.1, 1.4
 This issue affects Mediawiki - Wikibase Extension: from * before 1.46.1, 1.45.5, 1.43.10.
 
 - [https://github.com/BomboBombone/CVE-2026-100380](https://github.com/BomboBombone/CVE-2026-100380) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-100380.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-100380.svg)
+
+## CVE-2026-97347
+> The Post Views Stats Counter plugin for WordPress is vulnerable to Stored Cross-Site Scripting via User-Agent Header in all versions up to, and including, 1.1.7 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. The plugin&#x27;s only input filter is a substring blacklist for known bot signatures (e.g. &#x27;bot&#x27;, &#x27;spider&#x27;, &#x27;crawler&#x27;), which ca
+
+- [https://github.com/JailBr3ak/CVE-2026-97347](https://github.com/JailBr3ak/CVE-2026-97347) : ![starts](https://img.shields.io/github/stars/JailBr3ak/CVE-2026-97347.svg) ![forks](https://img.shields.io/github/forks/JailBr3ak/CVE-2026-97347.svg)
 
 ## CVE-2026-97163
 > Joomla Extension - lomart.fr - Unauthenticated remote code installation in UP plugin extension 5.0.0-5.2.0, 6.0.0-6.0.29
@@ -182,6 +204,7 @@ root privileges resulting in complete compromise o
 - [https://github.com/anthonyk2923/CVE-2026-94609](https://github.com/anthonyk2923/CVE-2026-94609) : ![starts](https://img.shields.io/github/stars/anthonyk2923/CVE-2026-94609.svg) ![forks](https://img.shields.io/github/forks/anthonyk2923/CVE-2026-94609.svg)
 
 ## CVE-2026-94545
+> Satori is a library to convert HTML and CSS to SVG. Starting in version 0.0.27 and prior to version 0.33.5, Satori does not properly escape certain values before including them in generated SVG output. This can allow crafted values to be interpreted as SVG markup. The impact depends on how the generated SVG is consumed. Version 0.33.5 contains a patch. No complete workaround exists besides upgrading. Applications that cannot immediately upgrade should not render attacker-controlled content with 
 
 - [https://github.com/Hassham1/CVE-2026-94545-nextjs-og-poc](https://github.com/Hassham1/CVE-2026-94545-nextjs-og-poc) : ![starts](https://img.shields.io/github/stars/Hassham1/CVE-2026-94545-nextjs-og-poc.svg) ![forks](https://img.shields.io/github/forks/Hassham1/CVE-2026-94545-nextjs-og-poc.svg)
 
@@ -190,6 +213,8 @@ root privileges resulting in complete compromise o
 - [https://github.com/EQSTLab/CVE-2026-94545](https://github.com/EQSTLab/CVE-2026-94545) : ![starts](https://img.shields.io/github/stars/EQSTLab/CVE-2026-94545.svg) ![forks](https://img.shields.io/github/forks/EQSTLab/CVE-2026-94545.svg)
 
 - [https://github.com/mhtsec/CVE-2026-94545](https://github.com/mhtsec/CVE-2026-94545) : ![starts](https://img.shields.io/github/stars/mhtsec/CVE-2026-94545.svg) ![forks](https://img.shields.io/github/forks/mhtsec/CVE-2026-94545.svg)
+
+- [https://github.com/MRdark-ops/CVE-2026-94545-](https://github.com/MRdark-ops/CVE-2026-94545-) : ![starts](https://img.shields.io/github/stars/MRdark-ops/CVE-2026-94545-.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/CVE-2026-94545-.svg)
 
 ## CVE-2026-94504
 > Ninja Forms 3.15.3 stores an anonymous non-RTE textarea value and renders it without safe HTML encoding in the legacy submission editor. An attacker can break out of the textarea with stored script. When an Administrator opens the attacker-known direct submission URL, the script runs in the WordPress admin origin.
@@ -247,6 +272,11 @@ This vulnerability allows an unauthenticated attacker to perform remot
 > A use-after-free vulnerability was found in QEMU&#x27;s 9pfs subsystem. A race condition between the main thread and a worker thread when processing concurrent Tlcreate and Twalk requests allows a malicious guest user to craft a fid path containing stale heap data, bypassing directory traversal restrictions and escaping the shared directory boundary. This can lead to arbitrary host file read/write and code execution (VM escape) as the QEMU process user.
 
 - [https://github.com/suominen/CVE-2026-93834](https://github.com/suominen/CVE-2026-93834) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-93834.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-93834.svg)
+
+## CVE-2026-93687
+> braces through 3.0.3 contains a stack overflow vulnerability in the recursive AST walkers that lack depth guards. Attackers can supply deeply nested brace patterns under the character limit to exhaust the call stack and terminate the Node.js process with an uncaught RangeError.
+
+- [https://github.com/scastillo-jp/braces-fork](https://github.com/scastillo-jp/braces-fork) : ![starts](https://img.shields.io/github/stars/scastillo-jp/braces-fork.svg) ![forks](https://img.shields.io/github/forks/scastillo-jp/braces-fork.svg)
 
 ## CVE-2026-93674
 
@@ -702,6 +732,8 @@ path involving usernames that begin with a prohibited character, allowing for th
 - [https://github.com/EQSTLab/CVE-2026-85706](https://github.com/EQSTLab/CVE-2026-85706) : ![starts](https://img.shields.io/github/stars/EQSTLab/CVE-2026-85706.svg) ![forks](https://img.shields.io/github/forks/EQSTLab/CVE-2026-85706.svg)
 
 - [https://github.com/unh00k3d/cve-2026-85706](https://github.com/unh00k3d/cve-2026-85706) : ![starts](https://img.shields.io/github/stars/unh00k3d/cve-2026-85706.svg) ![forks](https://img.shields.io/github/forks/unh00k3d/cve-2026-85706.svg)
+
+- [https://github.com/wuyou6956-glitch/cve-2026-85706](https://github.com/wuyou6956-glitch/cve-2026-85706) : ![starts](https://img.shields.io/github/stars/wuyou6956-glitch/cve-2026-85706.svg) ![forks](https://img.shields.io/github/forks/wuyou6956-glitch/cve-2026-85706.svg)
 
 ## CVE-2026-85649
  (Holloway) Chew, Kean Ho's Actualizer v1.2.0 and earlier contains a fail-open password validation vulnerability in the Alpha user and root user password loops of Shell/debian-minbase-install.sh. The installer invokes mkpasswd to generate yescrypt password hashes but does not check the command's return value and unconditionally accepts the result. If mkpasswd fails to generate a yescrypt hash, for example because an incompatible mkpasswd implementation or an environment without yescrypt support is used, the resulting password hash variable can be empty and the build proceeds. The resulting image can therefore contain empty password fields for the root and alpha accounts, potentially permitting passwordless authentication depending on the authentication configuration.
@@ -1875,6 +1907,10 @@ checked when using TCP Fast Open. Update its socket_sendmsg() hook to
 call selinux_socket_connect() when MSG_FASTOPEN is passed.
 
 - [https://github.com/4n4s4zi/tfo-connect-bypass](https://github.com/4n4s4zi/tfo-connect-bypass) : ![starts](https://img.shields.io/github/stars/4n4s4zi/tfo-connect-bypass.svg) ![forks](https://img.shields.io/github/forks/4n4s4zi/tfo-connect-bypass.svg)
+
+## CVE-2026-72018
+
+- [https://github.com/0xBlackash/CVE-2026-72018](https://github.com/0xBlackash/CVE-2026-72018) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-72018.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-72018.svg)
 
 ## CVE-2026-72001
 
@@ -5049,6 +5085,10 @@ case.
 - [https://github.com/lottiedeyan/CVE-2026-53075poc](https://github.com/lottiedeyan/CVE-2026-53075poc) : ![starts](https://img.shields.io/github/stars/lottiedeyan/CVE-2026-53075poc.svg) ![forks](https://img.shields.io/github/forks/lottiedeyan/CVE-2026-53075poc.svg)
 
 - [https://github.com/foxirain/linux-kernel-codex-harness-v2](https://github.com/foxirain/linux-kernel-codex-harness-v2) : ![starts](https://img.shields.io/github/stars/foxirain/linux-kernel-codex-harness-v2.svg) ![forks](https://img.shields.io/github/forks/foxirain/linux-kernel-codex-harness-v2.svg)
+
+## CVE-2026-52993
+
+- [https://github.com/CaptainAI-Labs/CaptainAI-LPE-CVE-2026-52993](https://github.com/CaptainAI-Labs/CaptainAI-LPE-CVE-2026-52993) : ![starts](https://img.shields.io/github/stars/CaptainAI-Labs/CaptainAI-LPE-CVE-2026-52993.svg) ![forks](https://img.shields.io/github/forks/CaptainAI-Labs/CaptainAI-LPE-CVE-2026-52993.svg)
 
 ## CVE-2026-52943
  In the Linux kernel, the following vulnerability has been resolved:
@@ -9248,6 +9288,8 @@ Users are recommended to upgrade to version [FIXED_VERSION], which fixes the iss
 
 - [https://github.com/personnumber3377/dns_client_fuzzing](https://github.com/personnumber3377/dns_client_fuzzing) : ![starts](https://img.shields.io/github/stars/personnumber3377/dns_client_fuzzing.svg) ![forks](https://img.shields.io/github/forks/personnumber3377/dns_client_fuzzing.svg)
 
+- [https://github.com/wuyou6956-glitch/CVE-2026-41096-POC](https://github.com/wuyou6956-glitch/CVE-2026-41096-POC) : ![starts](https://img.shields.io/github/stars/wuyou6956-glitch/CVE-2026-41096-POC.svg) ![forks](https://img.shields.io/github/forks/wuyou6956-glitch/CVE-2026-41096-POC.svg)
+
 ## CVE-2026-41091
  Improper link resolution before file access ('link following') in Microsoft Defender allows an authorized attacker to elevate privileges locally.
 
@@ -12968,6 +13010,8 @@ Users are recommended to upgrade to version 4.19.0, which fixes the issue. If us
  GLPI is a free asset and IT management software package. From 11.0.0 to before 11.0.6, template injection by an administrator lead to RCE. This vulnerability is fixed in 11.0.6.
 
 - [https://github.com/CEAarab/CVE-2026-26026-PoC](https://github.com/CEAarab/CVE-2026-26026-PoC) : ![starts](https://img.shields.io/github/stars/CEAarab/CVE-2026-26026-PoC.svg) ![forks](https://img.shields.io/github/forks/CEAarab/CVE-2026-26026-PoC.svg)
+
+- [https://github.com/wuyou6956-glitch/CVE-2026-26026-PoC](https://github.com/wuyou6956-glitch/CVE-2026-26026-PoC) : ![starts](https://img.shields.io/github/stars/wuyou6956-glitch/CVE-2026-26026-PoC.svg) ![forks](https://img.shields.io/github/forks/wuyou6956-glitch/CVE-2026-26026-PoC.svg)
 
 ## CVE-2026-26012
  vaultwarden is an unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs. Prior to 1.35.3, a regular organization member can retrieve all ciphers within an organization, regardless of collection permissions. The endpoint /ciphers/organization-details is accessible to any organization member and internally uses Cipher::find_by_org to retrieve all ciphers. These ciphers are returned with CipherSyncType::Organization without enforcing collection-level access control. This vulnerability is fixed in 1.35.3.
@@ -19655,6 +19699,8 @@ Refer to the 'Security Update for ASUS DriverHub' section on the ASUS Security A
  The web interface on multiple Omada switches does not adequately validate certain external inputs, which may lead to out-of-bound memory access when processing crafted requests.  Under specific conditions, this flaw may result in unintended command execution.brAn unauthenticated attacker with network access to the affected interface may cause memory corruption, service instability, or information disclosure.  Successful exploitation may allow remote code execution or denial-of-service.
 
 - [https://github.com/tangrs/cve-2026-1668-poc](https://github.com/tangrs/cve-2026-1668-poc) : ![starts](https://img.shields.io/github/stars/tangrs/cve-2026-1668-poc.svg) ![forks](https://img.shields.io/github/forks/tangrs/cve-2026-1668-poc.svg)
+
+- [https://github.com/wuyou6956-glitch/cve-2026-1668-poc](https://github.com/wuyou6956-glitch/cve-2026-1668-poc) : ![starts](https://img.shields.io/github/stars/wuyou6956-glitch/cve-2026-1668-poc.svg) ![forks](https://img.shields.io/github/forks/wuyou6956-glitch/cve-2026-1668-poc.svg)
 
 ## CVE-2026-1657
  The EventPrime plugin for WordPress is vulnerable to unauthorized image file upload in all versions up to, and including, 4.2.8.4. This is due to the plugin registering the upload_file_media AJAX action as publicly accessible (nopriv-enabled) without implementing any authentication, authorization, or nonce verification despite a nonce being created. This makes it possible for unauthenticated attackers to upload image files to the WordPress uploads directory and create Media Library attachments via the ep_upload_file_media endpoint.
