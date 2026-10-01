@@ -5617,6 +5617,10 @@ allow an unauthenticated attacker to read or manipulate device data.
 
 - [https://github.com/0xC4J/CVE-Lists](https://github.com/0xC4J/CVE-Lists) : ![starts](https://img.shields.io/github/stars/0xC4J/CVE-Lists.svg) ![forks](https://img.shields.io/github/forks/0xC4J/CVE-Lists.svg)
 
+## CVE-2025-46087
+
+- [https://github.com/Rollingzzzzz/heif-heist-lab](https://github.com/Rollingzzzzz/heif-heist-lab) : ![starts](https://img.shields.io/github/stars/Rollingzzzzz/heif-heist-lab.svg) ![forks](https://img.shields.io/github/forks/Rollingzzzzz/heif-heist-lab.svg)
+
 ## CVE-2025-46080
  HuoCMS V3.5.1 has a File Upload Vulnerability. An attacker can exploit this flaw to bypass whitelist restrictions and craft malicious files with specific suffixes, thereby gaining control of the server.
 
@@ -11894,6 +11898,8 @@ This can lead to execution of a wide range of privileged commands to the engine 
 - [https://github.com/get-xor/coreweave-demo-2026-05](https://github.com/get-xor/coreweave-demo-2026-05) : ![starts](https://img.shields.io/github/stars/get-xor/coreweave-demo-2026-05.svg) ![forks](https://img.shields.io/github/forks/get-xor/coreweave-demo-2026-05.svg)
 
 - [https://github.com/Waynehck8/CVE-2025-8110-POC](https://github.com/Waynehck8/CVE-2025-8110-POC) : ![starts](https://img.shields.io/github/stars/Waynehck8/CVE-2025-8110-POC.svg) ![forks](https://img.shields.io/github/forks/Waynehck8/CVE-2025-8110-POC.svg)
+
+- [https://github.com/Makis6/CVE-2025-8110](https://github.com/Makis6/CVE-2025-8110) : ![starts](https://img.shields.io/github/stars/Makis6/CVE-2025-8110.svg) ![forks](https://img.shields.io/github/forks/Makis6/CVE-2025-8110.svg)
 
 ## CVE-2025-8091
  The EventON Lite plugin for WordPress is vulnerable to Information Exposure in all versions less than, or equal to, 2.4.6 via the add_single_eventon and add_eventon shortcodes due to insufficient restrictions on which posts can be included. This makes it possible for unauthenticated attackers to extract data from password protected, private, or draft posts that they should not have access to.
