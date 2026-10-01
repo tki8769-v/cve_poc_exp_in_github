@@ -421,6 +421,8 @@ Tomcat 11.0.3, 10.1.35 and 9.0.99 onwards will include checks that sun.io.useCa
 
 - [https://github.com/binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591](https://github.com/binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591) : ![starts](https://img.shields.io/github/stars/binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591.svg) ![forks](https://img.shields.io/github/forks/binarywarm/exp-cmd-add-admin-vpn-CVE-2024-55591.svg)
 
+- [https://github.com/gotr00t0day/CVE-2024-55591](https://github.com/gotr00t0day/CVE-2024-55591) : ![starts](https://img.shields.io/github/stars/gotr00t0day/CVE-2024-55591.svg) ![forks](https://img.shields.io/github/forks/gotr00t0day/CVE-2024-55591.svg)
+
 ## CVE-2024-55587
  python-libarchive through 4.2.1 allows directory traversal (to create files) in extract in zip.py for ZipFile.extractall and ZipFile.extract.
 
