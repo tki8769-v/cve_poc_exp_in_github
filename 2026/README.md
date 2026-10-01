@@ -584,6 +584,11 @@ The default is governance.auth_config.is_enabled=false. Auth off means every cal
 
 - [https://github.com/pervinzahidli/CVE-2026-88997](https://github.com/pervinzahidli/CVE-2026-88997) : ![starts](https://img.shields.io/github/stars/pervinzahidli/CVE-2026-88997.svg) ![forks](https://img.shields.io/github/forks/pervinzahidli/CVE-2026-88997.svg)
 
+## CVE-2026-88996
+> The WPForms – AI Form Builder for WordPress – Contact Forms, Payment Forms, Survey Form, Quiz &amp; More plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via &#x27;page_title&#x27; POST Parameter via {page_title} Smart Tag in all versions up to, and including, 2.0.2 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an act
+
+- [https://github.com/dorkerdevil/wpforms-xss-fix-bypass](https://github.com/dorkerdevil/wpforms-xss-fix-bypass) : ![starts](https://img.shields.io/github/stars/dorkerdevil/wpforms-xss-fix-bypass.svg) ![forks](https://img.shields.io/github/forks/dorkerdevil/wpforms-xss-fix-bypass.svg)
+
 ## CVE-2026-88899
  knowns versions before 0.31.0 fail to properly validate the x-opencode-directory request header in the /api/opencode proxy endpoint. Remote attackers can supply arbitrary directory paths to execute file operations outside the project root on the host system.
 
@@ -2025,6 +2030,7 @@ call selinux_socket_connect() when MSG_FASTOPEN is passed.
 - [https://github.com/0xBlackash/CVE-2026-72018](https://github.com/0xBlackash/CVE-2026-72018) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-72018.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-72018.svg)
 
 ## CVE-2026-72001
+> Pangolin before 1.22.0 contains an authentication bypass vulnerability that allows unauthenticated attackers to access any protected resource by supplying an attacker-controlled URL parameter to the share-link authentication endpoint that omits the expected resource identifier from the token verification call. Attackers holding a single valid share link for any resource can authenticate against arbitrary resources across different organizations, bypassing all configured authentication methods in
 
 - [https://github.com/BiiTts/CVE-2026-72001-Pangolin-Cross-Org-Auth-Bypass](https://github.com/BiiTts/CVE-2026-72001-Pangolin-Cross-Org-Auth-Bypass) : ![starts](https://img.shields.io/github/stars/BiiTts/CVE-2026-72001-Pangolin-Cross-Org-Auth-Bypass.svg) ![forks](https://img.shields.io/github/forks/BiiTts/CVE-2026-72001-Pangolin-Cross-Org-Auth-Bypass.svg)
 
@@ -3814,6 +3820,7 @@ This issue affects Elementor Website Builder: from n/a through 4.3.1.
 - [https://github.com/shootcannon/CVE-2026-61511](https://github.com/shootcannon/CVE-2026-61511) : ![starts](https://img.shields.io/github/stars/shootcannon/CVE-2026-61511.svg) ![forks](https://img.shields.io/github/forks/shootcannon/CVE-2026-61511.svg)
 
 ## CVE-2026-61500
+> Rejetto HFS 3.0.0 through 3.2.0 derives its session-cookie signing key from the non-cryptographic Math.random() generator and discloses outputs of the same generator to unauthenticated clients during login. A remote attacker can collect a small number of login responses, reconstruct the generator&#x27;s state, recover the signing key, and forge a valid administrator session cookie, leading to full administrative access and remote code execution via the server_code configuration feature.
 
 - [https://github.com/aramosf/CVE-2026-61500](https://github.com/aramosf/CVE-2026-61500) : ![starts](https://img.shields.io/github/stars/aramosf/CVE-2026-61500.svg) ![forks](https://img.shields.io/github/forks/aramosf/CVE-2026-61500.svg)
 

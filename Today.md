@@ -109,6 +109,11 @@ The extension supplies its own Xalan-backed TransformerFactory to the xslt compo
 
 - [https://github.com/oscerd/CVE-2026-88789](https://github.com/oscerd/CVE-2026-88789) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-88789.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-88789.svg)
 
+## CVE-2026-88996
+> The WPForms – AI Form Builder for WordPress – Contact Forms, Payment Forms, Survey Form, Quiz &amp; More plugin for WordPress is vulnerable to Reflected Cross-Site Scripting via &#x27;page_title&#x27; POST Parameter via {page_title} Smart Tag in all versions up to, and including, 2.0.2 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that execute if they can successfully trick a user into performing an act
+
+- [https://github.com/dorkerdevil/wpforms-xss-fix-bypass](https://github.com/dorkerdevil/wpforms-xss-fix-bypass) : ![starts](https://img.shields.io/github/stars/dorkerdevil/wpforms-xss-fix-bypass.svg) ![forks](https://img.shields.io/github/forks/dorkerdevil/wpforms-xss-fix-bypass.svg)
+
 ## CVE-2026-90817
 
 - [https://github.com/securifera/CVE-2026-90817](https://github.com/securifera/CVE-2026-90817) : ![starts](https://img.shields.io/github/stars/securifera/CVE-2026-90817.svg) ![forks](https://img.shields.io/github/forks/securifera/CVE-2026-90817.svg)
