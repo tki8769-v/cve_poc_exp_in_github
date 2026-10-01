@@ -1677,6 +1677,8 @@
 
 - [https://github.com/LucasKatashi/paint2die](https://github.com/LucasKatashi/paint2die) : ![starts](https://img.shields.io/github/stars/LucasKatashi/paint2die.svg) ![forks](https://img.shields.io/github/forks/LucasKatashi/paint2die.svg)
 
+- [https://github.com/arslanben/richfaces-paint2d-lab](https://github.com/arslanben/richfaces-paint2d-lab) : ![starts](https://img.shields.io/github/stars/arslanben/richfaces-paint2d-lab.svg) ![forks](https://img.shields.io/github/forks/arslanben/richfaces-paint2d-lab.svg)
+
 ## CVE-2018-12463
  An XML external entity (XXE) vulnerability in Fortify Software Security Center (SSC), version 17.1, 17.2, 18.1 allows remote unauthenticated users to read arbitrary files or conduct server-side request forgery (SSRF) attacks via a crafted DTD in an XML request.
 

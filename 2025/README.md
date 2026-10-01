@@ -5322,6 +5322,10 @@ Users of the artifact org.apache.commons:commons-beanutils2
 
 - [https://github.com/q1uf3ng/CVE-2025-47962-POC](https://github.com/q1uf3ng/CVE-2025-47962-POC) : ![starts](https://img.shields.io/github/stars/q1uf3ng/CVE-2025-47962-POC.svg) ![forks](https://img.shields.io/github/forks/q1uf3ng/CVE-2025-47962-POC.svg)
 
+## CVE-2025-47947
+
+- [https://github.com/yel1337/CVE-2025-47947](https://github.com/yel1337/CVE-2025-47947) : ![starts](https://img.shields.io/github/stars/yel1337/CVE-2025-47947.svg) ![forks](https://img.shields.io/github/forks/yel1337/CVE-2025-47947.svg)
+
 ## CVE-2025-47928
  Spotipy is a Python library for the Spotify Web API. As of commit 4f5759dbfb4506c7b6280572a4db1aabc1ac778d, using `pull_request_target` on `.github/workflows/integration_tests.yml` followed by the checking out the head.sha of a forked PR can be exploited by attackers, since untrusted code can be executed having full access to secrets (from the base repo). By exploiting the vulnerability is possible to exfiltrate `GITHUB_TOKEN` and secrets `SPOTIPY_CLIENT_ID`,  `SPOTIPY_CLIENT_SECRET`. In particular `GITHUB_TOKEN` which can be used to completely overtake the repo since the token has content write privileges. The `pull_request_target` in GitHub Actions is a major security concern—especially in public repositories—because it executes untrusted code from a PR, but with the context of the base repository, including access to its secrets. Commit 9dfb7177b8d7bb98a5a6014f8e6436812a47576f reverted the change that caused the issue.
 

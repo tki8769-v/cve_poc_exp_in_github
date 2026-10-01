@@ -3,6 +3,10 @@
 
 - [https://github.com/CheLover86/CVE-2017-9841](https://github.com/CheLover86/CVE-2017-9841) : ![starts](https://img.shields.io/github/stars/CheLover86/CVE-2017-9841.svg) ![forks](https://img.shields.io/github/forks/CheLover86/CVE-2017-9841.svg)
 
+## CVE-2018-12533
+
+- [https://github.com/arslanben/richfaces-paint2d-lab](https://github.com/arslanben/richfaces-paint2d-lab) : ![starts](https://img.shields.io/github/stars/arslanben/richfaces-paint2d-lab.svg) ![forks](https://img.shields.io/github/forks/arslanben/richfaces-paint2d-lab.svg)
+
 ## CVE-2023-28432
 
 - [https://github.com/cgi-italy-insula-processing/minio](https://github.com/cgi-italy-insula-processing/minio) : ![starts](https://img.shields.io/github/stars/cgi-italy-insula-processing/minio.svg) ![forks](https://img.shields.io/github/forks/cgi-italy-insula-processing/minio.svg)
@@ -22,6 +26,10 @@
 ## CVE-2025-46087
 
 - [https://github.com/Rollingzzzzz/heif-heist-lab](https://github.com/Rollingzzzzz/heif-heist-lab) : ![starts](https://img.shields.io/github/stars/Rollingzzzzz/heif-heist-lab.svg) ![forks](https://img.shields.io/github/forks/Rollingzzzzz/heif-heist-lab.svg)
+
+## CVE-2025-47947
+
+- [https://github.com/yel1337/CVE-2025-47947](https://github.com/yel1337/CVE-2025-47947) : ![starts](https://img.shields.io/github/stars/yel1337/CVE-2025-47947.svg) ![forks](https://img.shields.io/github/forks/yel1337/CVE-2025-47947.svg)
 
 ## CVE-2025-8110
 
@@ -51,6 +59,14 @@ This issue affects MediaWiki CommonsMetadata extension: 1.46, 1.45, and 1.43.
 This issue affects MediaWiki MediaSearch extension: 1.46, 1.45, and 1.43.
 
 - [https://github.com/BomboBombone/CVE-2026-103585](https://github.com/BomboBombone/CVE-2026-103585) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103585.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103585.svg)
+
+## CVE-2026-103977
+
+- [https://github.com/pervinzahidli/CVE-2026-103977](https://github.com/pervinzahidli/CVE-2026-103977) : ![starts](https://img.shields.io/github/stars/pervinzahidli/CVE-2026-103977.svg) ![forks](https://img.shields.io/github/forks/pervinzahidli/CVE-2026-103977.svg)
+
+## CVE-2026-104110
+
+- [https://github.com/pervinzahidli/CVE-2026-104110](https://github.com/pervinzahidli/CVE-2026-104110) : ![starts](https://img.shields.io/github/stars/pervinzahidli/CVE-2026-104110.svg) ![forks](https://img.shields.io/github/forks/pervinzahidli/CVE-2026-104110.svg)
 
 ## CVE-2026-11318
 
@@ -102,6 +118,16 @@ This issue affects MediaWiki MediaSearch extension: 1.46, 1.45, and 1.43.
 
 - [https://github.com/TeamN4C/SG-2026-0026](https://github.com/TeamN4C/SG-2026-0026) : ![starts](https://img.shields.io/github/stars/TeamN4C/SG-2026-0026.svg) ![forks](https://img.shields.io/github/forks/TeamN4C/SG-2026-0026.svg)
 
+## CVE-2026-86950
+> An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.1 and iPadOS 26.7.1, macOS Sequoia 15.8.1, macOS Tahoe 26.7.1. Processing a maliciously crafted file may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 27.
+
+- [https://github.com/msuiche/hotcell](https://github.com/msuiche/hotcell) : ![starts](https://img.shields.io/github/stars/msuiche/hotcell.svg) ![forks](https://img.shields.io/github/forks/msuiche/hotcell.svg)
+
+## CVE-2026-87902
+> An unauthenticated attacker can make `get_page_template()` page-template resolution include a chosen readable local `.php` file outside the active theme directories. If relevant pre-conditions for both the server and the active theme are met, this can lead to RCE.
+
+- [https://github.com/pwnVader/CVE-2026-87902-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-87902-PoC-pwnVader) : ![starts](https://img.shields.io/github/stars/pwnVader/CVE-2026-87902-PoC-pwnVader.svg) ![forks](https://img.shields.io/github/forks/pwnVader/CVE-2026-87902-PoC-pwnVader.svg)
+
 ## CVE-2026-88789
 > Improper Restriction of XML External Entity Reference in the XSLT support extension (camel-quarkus-support-xalan) in Apache Camel Quarkus from 3.2.0 before 3.33.3 and from 3.34.0 before 3.40.0 on all platforms allows an attacker who supplies the XML document being transformed to read local files or issue requests to internal network locations via an external entity declaration in that document.
 
@@ -122,6 +148,11 @@ The extension supplies its own Xalan-backed TransformerFactory to the xslt compo
 > Joomla! Core - [20260902] - Core - Unauthorized user account creation via profile.save controller in Joomla 1.5.0-5.4.8, 6.0.0-6.1.3 - The profile.save controller did not check the login state of a user, allowing the creation of guest-level users on sites without active user registration.
 
 - [https://github.com/aorozco-sys/CVE-2026-90907](https://github.com/aorozco-sys/CVE-2026-90907) : ![starts](https://img.shields.io/github/stars/aorozco-sys/CVE-2026-90907.svg) ![forks](https://img.shields.io/github/forks/aorozco-sys/CVE-2026-90907.svg)
+
+## CVE-2026-92680
+> Araxis Merge for Windows version 2011.4074 through 2026.0 stores user-configured credentials for remote servers in the Windows registry and does not apply sufficient cryptographic protection. An authenticated, non-administrative attacker could retrieve and unencrypt all credentials the target user has stored in Merge.
+
+- [https://github.com/grepstrength/CVE-2026-92680](https://github.com/grepstrength/CVE-2026-92680) : ![starts](https://img.shields.io/github/stars/grepstrength/CVE-2026-92680.svg) ![forks](https://img.shields.io/github/forks/grepstrength/CVE-2026-92680.svg)
 
 ## CVE-2026-92966
 > The The Appointment Booking Plugin – LatePoint | Calendar &amp; Scheduling for WordPress plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 5.7.0. This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes. The payload is planted during the unauthenticated booking flow and triggered when t

@@ -745,3 +745,36 @@
 {"cve_id": "CVE-2026-95137", "ts": "2026-10-01T16:53:31Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-88996", "ts": "2026-10-01T17:00:00Z", "type": "new_poc", "url": "https://github.com/dorkerdevil/wpforms-xss-fix-bypass"}
 {"cve_id": "CVE-2026-96889", "ts": "2026-10-01T17:17:22Z", "type": "new_poc", "url": "https://github.com/rafabd1/VectorFreed"}
+{"cve_id": "CVE-2026-103656", "ts": "2026-10-01T21:49:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-18734", "ts": "2026-10-01T21:49:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94684", "ts": "2026-10-01T21:50:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95137", "ts": "2026-10-01T21:50:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-103656", "ts": "2026-10-01T21:50:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-18734", "ts": "2026-10-01T21:50:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94684", "ts": "2026-10-01T21:51:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95137", "ts": "2026-10-01T21:51:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-103656", "ts": "2026-10-01T21:52:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-18734", "ts": "2026-10-01T21:52:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63721", "ts": "2026-10-01T21:52:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63724", "ts": "2026-10-01T21:52:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94684", "ts": "2026-10-01T21:52:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95137", "ts": "2026-10-01T21:52:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-103656", "ts": "2026-10-01T21:53:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-18734", "ts": "2026-10-01T21:53:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63721", "ts": "2026-10-01T21:53:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63724", "ts": "2026-10-01T21:53:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94684", "ts": "2026-10-01T21:53:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95137", "ts": "2026-10-01T21:53:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-103656", "ts": "2026-10-01T21:54:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-18734", "ts": "2026-10-01T21:54:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63721", "ts": "2026-10-01T21:54:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63724", "ts": "2026-10-01T21:54:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94684", "ts": "2026-10-01T21:55:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95137", "ts": "2026-10-01T21:55:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-86950", "ts": "2026-10-01T21:55:34Z", "type": "new_poc", "url": "https://github.com/msuiche/hotcell"}
+{"cve_id": "CVE-2025-47947", "ts": "2026-10-01T21:55:34Z", "type": "new_poc", "url": "https://github.com/yel1337/CVE-2025-47947"}
+{"cve_id": "CVE-2026-103977", "ts": "2026-10-01T21:55:34Z", "type": "new_poc", "url": "https://github.com/pervinzahidli/CVE-2026-103977"}
+{"cve_id": "CVE-2026-104110", "ts": "2026-10-01T21:55:34Z", "type": "new_poc", "url": "https://github.com/pervinzahidli/CVE-2026-104110"}
+{"cve_id": "CVE-2018-12533", "ts": "2026-10-01T21:55:35Z", "type": "new_poc", "url": "https://github.com/arslanben/richfaces-paint2d-lab"}
+{"cve_id": "CVE-2026-87902", "ts": "2026-10-01T22:04:49Z", "type": "new_poc", "url": "https://github.com/pwnVader/CVE-2026-87902-PoC-pwnVader"}
+{"cve_id": "CVE-2026-92680", "ts": "2026-10-01T22:04:53Z", "type": "new_poc", "url": "https://github.com/grepstrength/CVE-2026-92680"}
