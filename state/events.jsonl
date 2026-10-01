@@ -778,3 +778,8 @@
 {"cve_id": "CVE-2018-12533", "ts": "2026-10-01T21:55:35Z", "type": "new_poc", "url": "https://github.com/arslanben/richfaces-paint2d-lab"}
 {"cve_id": "CVE-2026-87902", "ts": "2026-10-01T22:04:49Z", "type": "new_poc", "url": "https://github.com/pwnVader/CVE-2026-87902-PoC-pwnVader"}
 {"cve_id": "CVE-2026-92680", "ts": "2026-10-01T22:04:53Z", "type": "new_poc", "url": "https://github.com/grepstrength/CVE-2026-92680"}
+{"cve_id": "CVE-2026-104286", "ts": "2026-10-01T22:17:26Z", "type": "new_poc", "url": "https://github.com/ShadowForge-Cyber/CVE-2026-104286-POC"}
+{"cve_id": "CVE-2024-54767", "ts": "2026-10-01T22:17:38Z", "type": "new_poc", "url": "https://github.com/lowlevelsec/AVM-FRITZ-Box-CVE-2024-54767-Exploit"}
+{"cve_id": "CVE-2026-0014", "ts": "2026-10-01T22:18:26Z", "type": "new_poc", "url": "https://github.com/cduram/NotCVE-2026-0014"}
+{"cve_id": "CVE-2026-97163", "ts": "2026-10-01T22:18:32Z", "type": "new_poc", "url": "https://github.com/kize7/cve-2026-97163-payload"}
+{"cve_id": "CVE-2026-100886", "ts": "2026-10-01T22:22:43Z", "type": "new_poc", "url": "https://github.com/heapframe/seetong-ts81xxd3x-rce"}
