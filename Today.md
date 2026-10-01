@@ -99,6 +99,10 @@ This issue affects MediaWiki MediaSearch extension: 1.46, 1.45, and 1.43.
 
 - [https://github.com/anasabugaddara-ux/defender-bluehammer-audit](https://github.com/anasabugaddara-ux/defender-bluehammer-audit) : ![starts](https://img.shields.io/github/stars/anasabugaddara-ux/defender-bluehammer-audit.svg) ![forks](https://img.shields.io/github/forks/anasabugaddara-ux/defender-bluehammer-audit.svg)
 
+## CVE-2026-40281
+
+- [https://github.com/0xgh057r3c0n/CVE-2026-40281](https://github.com/0xgh057r3c0n/CVE-2026-40281) : ![starts](https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2026-40281.svg) ![forks](https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2026-40281.svg)
+
 ## CVE-2026-43499
 
 - [https://github.com/HaSiyo/Root-My-Galaxy-Payloads-KernelSU](https://github.com/HaSiyo/Root-My-Galaxy-Payloads-KernelSU) : ![starts](https://img.shields.io/github/stars/HaSiyo/Root-My-Galaxy-Payloads-KernelSU.svg) ![forks](https://img.shields.io/github/forks/HaSiyo/Root-My-Galaxy-Payloads-KernelSU.svg)
@@ -137,6 +141,13 @@ This issue affects MediaWiki MediaSearch extension: 1.46, 1.45, and 1.43.
 
 - [https://github.com/TeamN4C/SG-2026-0026](https://github.com/TeamN4C/SG-2026-0026) : ![starts](https://img.shields.io/github/stars/TeamN4C/SG-2026-0026.svg) ![forks](https://img.shields.io/github/forks/TeamN4C/SG-2026-0026.svg)
 
+## CVE-2026-86595
+> Improper neutralization of special elements used in an SQL command (&#x27;SQL injection&#x27;) vulnerability in Iron Mountain Archiving Services Inc. EnVision allows SQL Injection.
+
+This issue affects enVision: before 260655.
+
+- [https://github.com/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti](https://github.com/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti) : ![starts](https://img.shields.io/github/stars/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti.svg) ![forks](https://img.shields.io/github/forks/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti.svg)
+
 ## CVE-2026-86950
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.1 and iPadOS 26.7.1, macOS Sequoia 15.8.1, macOS Tahoe 26.7.1. Processing a maliciously crafted file may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 27.
 
@@ -146,6 +157,13 @@ This issue affects MediaWiki MediaSearch extension: 1.46, 1.45, and 1.43.
 > An unauthenticated attacker can make `get_page_template()` page-template resolution include a chosen readable local `.php` file outside the active theme directories. If relevant pre-conditions for both the server and the active theme are met, this can lead to RCE.
 
 - [https://github.com/pwnVader/CVE-2026-87902-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-87902-PoC-pwnVader) : ![starts](https://img.shields.io/github/stars/pwnVader/CVE-2026-87902-PoC-pwnVader.svg) ![forks](https://img.shields.io/github/forks/pwnVader/CVE-2026-87902-PoC-pwnVader.svg)
+
+## CVE-2026-88772
+> Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.
+
+This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1.37.279 FIPS and NDcPP; Gateway: before 14.1-73.37 and before 13.1-64.23 leading to Remote Code Execution or Denial of Service
+
+- [https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772) : ![starts](https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772.svg) ![forks](https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772.svg)
 
 ## CVE-2026-88789
 > Improper Restriction of XML External Entity Reference in the XSLT support extension (camel-quarkus-support-xalan) in Apache Camel Quarkus from 3.2.0 before 3.33.3 and from 3.34.0 before 3.40.0 on all platforms allows an attacker who supplies the XML document being transformed to read local files or issue requests to internal network locations via an external entity declaration in that document.

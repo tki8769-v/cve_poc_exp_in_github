@@ -783,3 +783,12 @@
 {"cve_id": "CVE-2026-0014", "ts": "2026-10-01T22:18:26Z", "type": "new_poc", "url": "https://github.com/cduram/NotCVE-2026-0014"}
 {"cve_id": "CVE-2026-97163", "ts": "2026-10-01T22:18:32Z", "type": "new_poc", "url": "https://github.com/kize7/cve-2026-97163-payload"}
 {"cve_id": "CVE-2026-100886", "ts": "2026-10-01T22:22:43Z", "type": "new_poc", "url": "https://github.com/heapframe/seetong-ts81xxd3x-rce"}
+{"cve_id": "CVE-2026-103656", "ts": "2026-10-01T22:40:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-18734", "ts": "2026-10-01T22:40:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63721", "ts": "2026-10-01T22:40:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63724", "ts": "2026-10-01T22:40:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94684", "ts": "2026-10-01T22:40:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95137", "ts": "2026-10-01T22:40:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-40281", "ts": "2026-10-01T22:41:14Z", "type": "new_poc", "url": "https://github.com/0xgh057r3c0n/CVE-2026-40281"}
+{"cve_id": "CVE-2026-86595", "ts": "2026-10-01T22:44:21Z", "type": "new_poc", "url": "https://github.com/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti"}
+{"cve_id": "CVE-2026-88772", "ts": "2026-10-01T22:44:26Z", "type": "new_poc", "url": "https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772"}
