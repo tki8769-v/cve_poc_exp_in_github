@@ -668,6 +668,10 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 
 - [https://github.com/SwiftSecur/CVE-2026-88771-HuntScript](https://github.com/SwiftSecur/CVE-2026-88771-HuntScript) : ![starts](https://img.shields.io/github/stars/SwiftSecur/CVE-2026-88771-HuntScript.svg) ![forks](https://img.shields.io/github/forks/SwiftSecur/CVE-2026-88771-HuntScript.svg)
 
+- [https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88771](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88771) : ![starts](https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88771.svg) ![forks](https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88771.svg)
+
+- [https://github.com/craigsblackie/cve-2026-88771-netscaler](https://github.com/craigsblackie/cve-2026-88771-netscaler) : ![starts](https://img.shields.io/github/stars/craigsblackie/cve-2026-88771-netscaler.svg) ![forks](https://img.shields.io/github/forks/craigsblackie/cve-2026-88771-netscaler.svg)
+
 ## CVE-2026-88008
 
 - [https://github.com/Boreas37/CVE-2026-88008-PoC](https://github.com/Boreas37/CVE-2026-88008-PoC) : ![starts](https://img.shields.io/github/stars/Boreas37/CVE-2026-88008-PoC.svg) ![forks](https://img.shields.io/github/forks/Boreas37/CVE-2026-88008-PoC.svg)

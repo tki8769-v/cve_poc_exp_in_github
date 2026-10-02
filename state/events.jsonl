@@ -811,3 +811,5 @@
 {"cve_id": "CVE-2026-19553", "ts": "2026-10-02T07:05:04Z", "type": "new_poc", "url": "https://github.com/abraxas/cve-2026-19553-wrap-bio"}
 {"cve_id": "CVE-2026-103752", "ts": "2026-10-02T07:05:04Z", "type": "new_poc", "url": "https://github.com/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation"}
 {"cve_id": "CVE-2026-14378", "ts": "2026-10-02T07:05:04Z", "type": "new_poc", "url": "https://github.com/anoxhunterdump-ctrl/CVE-2026-14378-DevKit-Pro-Auth-Bypass"}
+{"cve_id": "CVE-2026-88771", "ts": "2026-10-02T07:43:13Z", "type": "new_poc", "url": "https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88771"}
+{"cve_id": "CVE-2026-88771", "ts": "2026-10-02T07:43:13Z", "type": "new_poc", "url": "https://github.com/craigsblackie/cve-2026-88771-netscaler"}

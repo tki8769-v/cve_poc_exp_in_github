@@ -48,3 +48,11 @@ If the program passes a
 ## CVE-2026-43499
 
 - [https://github.com/yexiaoqq/rmg-s9110-research](https://github.com/yexiaoqq/rmg-s9110-research) : ![starts](https://img.shields.io/github/stars/yexiaoqq/rmg-s9110-research.svg) ![forks](https://img.shields.io/github/forks/yexiaoqq/rmg-s9110-research.svg)
+
+## CVE-2026-88771
+> Improper input validation vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.
+
+This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1.37.279 FIPS and NDcPP; Gateway: before 14.1-73.37 and before 13.1-64.23 leading to an unauthenticated attacker to execute arbitrary commands.
+
+- [https://github.com/craigsblackie/cve-2026-88771-netscaler](https://github.com/craigsblackie/cve-2026-88771-netscaler) : ![starts](https://img.shields.io/github/stars/craigsblackie/cve-2026-88771-netscaler.svg) ![forks](https://img.shields.io/github/forks/craigsblackie/cve-2026-88771-netscaler.svg)
+- [https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88771](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88771) : ![starts](https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88771.svg) ![forks](https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88771.svg)
