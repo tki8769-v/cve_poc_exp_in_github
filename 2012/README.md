@@ -285,6 +285,8 @@
 
 - [https://github.com/waburig/Open-Worldwide-Application-Security-Project-OWASP-](https://github.com/waburig/Open-Worldwide-Application-Security-Project-OWASP-) : ![starts](https://img.shields.io/github/stars/waburig/Open-Worldwide-Application-Security-Project-OWASP-.svg) ![forks](https://img.shields.io/github/forks/waburig/Open-Worldwide-Application-Security-Project-OWASP-.svg)
 
+- [https://github.com/mujtaba815/metasploitable2-php-cgi-exploit](https://github.com/mujtaba815/metasploitable2-php-cgi-exploit) : ![starts](https://img.shields.io/github/stars/mujtaba815/metasploitable2-php-cgi-exploit.svg) ![forks](https://img.shields.io/github/forks/mujtaba815/metasploitable2-php-cgi-exploit.svg)
+
 ## CVE-2012-1803
  RuggedCom Rugged Operating System (ROS) 3.10.x and earlier has a factory account with a password derived from the MAC Address field in the banner, which makes it easier for remote attackers to obtain access by performing a calculation on this address value, and then establishing a (1) TELNET, (2) remote shell (aka rsh), or (3) serial-console session.
 

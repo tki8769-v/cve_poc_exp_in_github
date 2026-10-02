@@ -5670,6 +5670,10 @@ allow an unauthenticated attacker to read or manipulate device data.
 
 - [https://github.com/Smarttfoxx/CVE-2025-45778](https://github.com/Smarttfoxx/CVE-2025-45778) : ![starts](https://img.shields.io/github/stars/Smarttfoxx/CVE-2025-45778.svg) ![forks](https://img.shields.io/github/forks/Smarttfoxx/CVE-2025-45778.svg)
 
+## CVE-2025-45737
+
+- [https://github.com/Shinn-Home/CVE-2025-45737](https://github.com/Shinn-Home/CVE-2025-45737) : ![starts](https://img.shields.io/github/stars/Shinn-Home/CVE-2025-45737.svg) ![forks](https://img.shields.io/github/forks/Shinn-Home/CVE-2025-45737.svg)
+
 ## CVE-2025-45620
  An issue in Aver PTC310UV2 v.0.1.0000.59 allows a remote attacker to obtain sensitive information via a crafted request
 
@@ -9382,6 +9386,8 @@ Users are recommended to upgrade to version 11.0.3, 10.1.35 or 9.0.99, which fix
 
 - [https://github.com/r1beirin/Exploit-CVE-2025-24801](https://github.com/r1beirin/Exploit-CVE-2025-24801) : ![starts](https://img.shields.io/github/stars/r1beirin/Exploit-CVE-2025-24801.svg) ![forks](https://img.shields.io/github/forks/r1beirin/Exploit-CVE-2025-24801.svg)
 
+- [https://github.com/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE](https://github.com/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE) : ![starts](https://img.shields.io/github/stars/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE.svg) ![forks](https://img.shields.io/github/forks/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE.svg)
+
 ## CVE-2025-24799
  GLPI is a free asset and IT management software package. An unauthenticated user can perform a SQL injection through the inventory endpoint. This vulnerability is fixed in 10.0.18.
 
@@ -10213,6 +10219,8 @@ index an Out-Of-Bound class in ets_class_from_arg() when passed clid of
 - [https://github.com/diyiqiuye/CVE-2025-21479-FX5P](https://github.com/diyiqiuye/CVE-2025-21479-FX5P) : ![starts](https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX5P.svg) ![forks](https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX5P.svg)
 
 - [https://github.com/diyiqiuye/CVE-2025-21479-FX3](https://github.com/diyiqiuye/CVE-2025-21479-FX3) : ![starts](https://img.shields.io/github/stars/diyiqiuye/CVE-2025-21479-FX3.svg) ![forks](https://img.shields.io/github/forks/diyiqiuye/CVE-2025-21479-FX3.svg)
+
+- [https://github.com/longg66/cve-2025-21479_iqooneo7speed](https://github.com/longg66/cve-2025-21479_iqooneo7speed) : ![starts](https://img.shields.io/github/stars/longg66/cve-2025-21479_iqooneo7speed.svg) ![forks](https://img.shields.io/github/forks/longg66/cve-2025-21479_iqooneo7speed.svg)
 
 ## CVE-2025-21420
  Windows Disk Cleanup Tool Elevation of Privilege Vulnerability
