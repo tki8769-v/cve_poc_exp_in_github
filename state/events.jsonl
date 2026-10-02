@@ -837,3 +837,4 @@
 {"cve_id": "CVE-2026-18783", "ts": "2026-10-02T16:06:45Z", "type": "new_poc", "url": "https://github.com/Hasanuyarrr/CVE-2026-18783-TREX-MES-Uygulamalarinda-Yetkisiz-Nesne-Erisimi"}
 {"cve_id": "CVE-2026-55494", "ts": "2026-10-02T16:08:47Z", "type": "new_poc", "url": "https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE"}
 {"cve_id": "CVE-2026-62308", "ts": "2026-10-02T16:09:45Z", "type": "new_poc", "url": "https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE"}
+{"cve_id": "CVE-2026-87004", "ts": "2026-10-02T16:13:55Z", "type": "new_poc", "url": "https://github.com/squeeze440/tugtainer-PoC"}

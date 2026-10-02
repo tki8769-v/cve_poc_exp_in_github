@@ -3,8 +3,8 @@
   "steps": {
     "backfill_conflicts": {
       "cached_total": 25918,
-      "fetched": 2,
-      "requested": 2,
+      "fetched": 0,
+      "requested": 0,
       "stop_reason": null
     },
     "backfill_queue": {
@@ -14,21 +14,23 @@
       "stop_reason": null
     },
     "clean_apply": {
-      "affected_years": [],
-      "applied_at": "2026-10-02T16:10:46Z",
+      "affected_years": [
+        "2026"
+      ],
+      "applied_at": "2026-10-02T16:20:55Z",
       "applied_rejected": 0,
-      "revoked_accepted": 0,
+      "revoked_accepted": 1,
       "revoked_rejected": 0,
       "rule_version": "2",
       "still_pending_meta": 0
     },
     "queue": {
       "due_by_priority": {
-        "0": 2990,
+        "0": 2690,
         "5": 11975,
         "8": 2734
       },
-      "due_now": 17699,
+      "due_now": 17399,
       "oldest_due": "2026-09-24T08:47:34Z",
       "tasks_total": 21099
     },
@@ -63,9 +65,9 @@
       "budget_stopped": true,
       "incomplete": 0,
       "invalid_id_skipped": 0,
-      "needs_review": 3,
-      "new_relations": 4,
-      "rejected_at_collection": 1,
+      "needs_review": 0,
+      "new_relations": 1,
+      "rejected_at_collection": 0,
       "scanned": 300,
       "task_errors": 0,
       "tasks_due": 10000
@@ -88,5 +90,5 @@
       "problems": []
     }
   },
-  "ts": "2026-10-02T16:10:47Z"
+  "ts": "2026-10-02T16:20:56Z"
 }
