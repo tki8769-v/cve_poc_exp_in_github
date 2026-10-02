@@ -792,3 +792,22 @@
 {"cve_id": "CVE-2026-40281", "ts": "2026-10-01T22:41:14Z", "type": "new_poc", "url": "https://github.com/0xgh057r3c0n/CVE-2026-40281"}
 {"cve_id": "CVE-2026-86595", "ts": "2026-10-01T22:44:21Z", "type": "new_poc", "url": "https://github.com/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti"}
 {"cve_id": "CVE-2026-88772", "ts": "2026-10-01T22:44:26Z", "type": "new_poc", "url": "https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772"}
+{"cve_id": "CVE-2026-103656", "ts": "2026-10-02T07:00:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-18734", "ts": "2026-10-02T07:00:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63721", "ts": "2026-10-02T07:00:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63724", "ts": "2026-10-02T07:00:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94684", "ts": "2026-10-02T07:01:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95137", "ts": "2026-10-02T07:01:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-103656", "ts": "2026-10-02T07:02:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-18734", "ts": "2026-10-02T07:02:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63721", "ts": "2026-10-02T07:02:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63724", "ts": "2026-10-02T07:02:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94684", "ts": "2026-10-02T07:03:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95137", "ts": "2026-10-02T07:03:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-02T07:05:03Z", "type": "new_poc", "url": "https://github.com/yexiaoqq/rmg-s9110-research"}
+{"cve_id": "CVE-2026-19660", "ts": "2026-10-02T07:05:04Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-19660"}
+{"cve_id": "CVE-2026-14378", "ts": "2026-10-02T07:05:04Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-14378"}
+{"cve_id": "CVE-2026-19445", "ts": "2026-10-02T07:05:04Z", "type": "new_poc", "url": "https://github.com/abraxas/cve-2026-19445-sni-uaf"}
+{"cve_id": "CVE-2026-19553", "ts": "2026-10-02T07:05:04Z", "type": "new_poc", "url": "https://github.com/abraxas/cve-2026-19553-wrap-bio"}
+{"cve_id": "CVE-2026-103752", "ts": "2026-10-02T07:05:04Z", "type": "new_poc", "url": "https://github.com/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation"}
+{"cve_id": "CVE-2026-14378", "ts": "2026-10-02T07:05:04Z", "type": "new_poc", "url": "https://github.com/anoxhunterdump-ctrl/CVE-2026-14378-DevKit-Pro-Auth-Bypass"}

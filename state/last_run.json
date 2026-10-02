@@ -2,35 +2,37 @@
   "ok": true,
   "steps": {
     "backfill_conflicts": {
-      "cached_total": 22817,
-      "fetched": 1,
-      "requested": 1,
+      "cached_total": 24317,
+      "fetched": 0,
+      "requested": 0,
       "stop_reason": null
     },
     "backfill_queue": {
-      "cached_total": 24317,
+      "cached_total": 25817,
       "fetched": 1500,
       "requested": 1500,
       "stop_reason": null
     },
     "clean_apply": {
-      "affected_years": [],
-      "applied_at": "2026-10-01T23:02:45Z",
+      "affected_years": [
+        "2026"
+      ],
+      "applied_at": "2026-10-02T07:26:36Z",
       "applied_rejected": 0,
-      "revoked_accepted": 0,
+      "revoked_accepted": 1,
       "revoked_rejected": 0,
       "rule_version": "2",
       "still_pending_meta": 0
     },
     "queue": {
       "due_by_priority": {
-        "0": 4112,
-        "5": 11978,
-        "8": 2446
+        "0": 3877,
+        "5": 11976,
+        "8": 2701
       },
-      "due_now": 18536,
+      "due_now": 18554,
       "oldest_due": "2026-09-24T08:47:34Z",
-      "tasks_total": 20760
+      "tasks_total": 20814
     },
     "recheck": {
       "conflict_evidenced": 168,
@@ -47,25 +49,25 @@
       "blocked": 0,
       "complete": true,
       "cursor_advanced": true,
-      "cves_hit": 31,
+      "cves_hit": 36,
       "invalid_ids": 0,
       "needs_review": 6,
-      "new_relations": 1,
+      "new_relations": 7,
       "partial_days_dropped": 0,
       "partial_days_pending": 0,
       "rejected_at_collection": 0,
-      "repos_seen": 83,
+      "repos_seen": 103,
       "warning": null,
-      "window": "2026-10-01..2026-10-01"
+      "window": "2026-10-01..2026-10-02"
     },
     "scan": {
       "blocked": 0,
       "budget_stopped": true,
       "incomplete": 0,
       "invalid_id_skipped": 0,
-      "needs_review": 3,
-      "new_relations": 2,
-      "rejected_at_collection": 0,
+      "needs_review": 4,
+      "new_relations": 0,
+      "rejected_at_collection": 1,
       "scanned": 300,
       "task_errors": 0,
       "tasks_due": 10000
@@ -73,12 +75,12 @@
     "sync": {
       "budget_stopped": false,
       "continuity_warning": false,
-      "cves_seen": 1172,
+      "cves_seen": 2257,
       "floor_tag": "cve_2026-09-24_0700Z",
-      "last_tag": "cve_2026-10-01_2200Z",
-      "new_tasks": 42,
-      "rejected": 6,
-      "releases_processed": 1,
+      "last_tag": "cve_2026-10-02_0600Z",
+      "new_tasks": 54,
+      "rejected": 12,
+      "releases_processed": 9,
       "releases_seen": 30
     },
     "verify": {
@@ -88,5 +90,5 @@
       "problems": []
     }
   },
-  "ts": "2026-10-01T23:02:46Z"
+  "ts": "2026-10-02T07:26:37Z"
 }
