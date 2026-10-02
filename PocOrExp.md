@@ -3835,6 +3835,11 @@ Users are advised to upgrade to Apache InLong's  2.4.0 or cherry-pick [1] to sol
 
 - [https://github.com/HackSpeak/CVE-2026-62735](https://github.com/HackSpeak/CVE-2026-62735) : ![starts](https://img.shields.io/github/stars/HackSpeak/CVE-2026-62735.svg) ![forks](https://img.shields.io/github/forks/HackSpeak/CVE-2026-62735.svg)
 
+## CVE-2026-62308
+> Tugtainer is a self-hosted app for automating updates of Docker containers. Prior to version 1.30.6, Tugtainer allows an authenticated user to make the backend server send outbound HTTP requests to arbitrary user-supplied URLs through the notification test endpoint. The /settings/test_notification endpoint accepts a urls field and passes it directly to Apprise without restricting protocols, hostnames, localhost addresses, private IP ranges, or cloud metadata addresses. This can be abused as an a
+
+- [https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE](https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE) : ![starts](https://img.shields.io/github/stars/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE.svg) ![forks](https://img.shields.io/github/forks/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE.svg)
+
 ## CVE-2026-62201
  OpenClaw versions before 2026.6.6 contain a network policy bypass vulnerability in the sandbox exec-server that allows lower-trust callers to reach internal network destinations blocked by OpenClaw policy. Attackers can send HTTP requests through the exec-server to access network resources that should have been restricted by configured policies.
 
@@ -4617,6 +4622,11 @@ Users are recommended to upgrade to version 11.0.5, 10.1.37 or 9.0.101, which fi
  Yamcs is a mission control framework. Prior to 5.12.8 and 5.13.2, Yamcs allows a user with SystemPrivilege.ControlArchiving to create a double-quoted StreamSQL column name that is interpolated into generated Java source by Expression.fillCode_InputDefVars and Expression.sanitizeName. A sum aggregate reaches yamcs-core/src/main/java/org/yamcs/yarch/streamsql/CompilableAggregateExpression.java and yamcs-core/src/main/java/org/yamcs/yarch/streamsql/funct/SumExpression.java through SelectExpression.compile, where Janino SimpleCompiler.cook compiles the injected source. POST /api/archive/{instance}:executeSql can therefore execute arbitrary Java in the Yamcs server process, exposing mission data and credentials and permitting telemetry tampering or denial of service. This issue is fixed in versions 5.12.8 and 5.13.2.
 
 - [https://github.com/junfuture1103/CVE-2026-55511](https://github.com/junfuture1103/CVE-2026-55511) : ![starts](https://img.shields.io/github/stars/junfuture1103/CVE-2026-55511.svg) ![forks](https://img.shields.io/github/forks/junfuture1103/CVE-2026-55511.svg)
+
+## CVE-2026-55494
+> Tugtainer is a self-hosted app for automating updates of Docker containers. Prior to version 1.30.4, Tugtainer Agent allows unauthenticated access to Docker management APIs when AGENT_SECRET is not configured. The Agent uses request signatures to protect its API routes. However, in agent/auth.py, the signature verification function returns successfully if Config.AGENT_SECRET is empty. This causes protected Agent APIs to become accessible without authentication. This issue has been patched in ver
+
+- [https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE](https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE) : ![starts](https://img.shields.io/github/stars/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE.svg) ![forks](https://img.shields.io/github/forks/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE.svg)
 
 ## CVE-2026-55276
  Always-Incorrect Control Flow Implementation vulnerability in Apache Tomcat meant that special roles and empty authorisation constraints were not included when the effective web.xml was logged.
@@ -16400,6 +16410,20 @@ To remediate this issue, users should upgrade to version 0.1.5 or later.
  Insufficient input validation in Amazon Bedrock AgentCore harness might allow an authenticated remote user to execute configured tools bypassing model invocation and security controls via crafted content blocks in conversation messages. AWS has addressed this issue. No customer action is required.
 
 - [https://github.com/huzjie/aegisagent](https://github.com/huzjie/aegisagent) : ![starts](https://img.shields.io/github/stars/huzjie/aegisagent.svg) ![forks](https://img.shields.io/github/forks/huzjie/aegisagent.svg)
+
+## CVE-2026-18783
+> Missing authentication for critical function vulnerability in Trex Digital Smart Manufacturing Systems Inc. Trex MES allows Authentication Bypass.
+
+This issue affects Trex MES: through 2026-09-29.
+
+- [https://github.com/Hasanuyarrr/CVE-2026-18783-TREX-MES-Uygulamalarinda-Yetkisiz-Nesne-Erisimi](https://github.com/Hasanuyarrr/CVE-2026-18783-TREX-MES-Uygulamalarinda-Yetkisiz-Nesne-Erisimi) : ![starts](https://img.shields.io/github/stars/Hasanuyarrr/CVE-2026-18783-TREX-MES-Uygulamalarinda-Yetkisiz-Nesne-Erisimi.svg) ![forks](https://img.shields.io/github/forks/Hasanuyarrr/CVE-2026-18783-TREX-MES-Uygulamalarinda-Yetkisiz-Nesne-Erisimi.svg)
+
+## CVE-2026-18782
+> Improper neutralization of special elements used in an SQL command (&#x27;SQL injection&#x27;) vulnerability in Trex Digital Smart Manufacturing Systems Inc. Trex MES allows Command Line Execution through SQL Injection.
+
+This issue affects Trex MES: through 2026-09-29.
+
+- [https://github.com/Hasanuyarrr/CVE-2026-18782-TREX-MES-Uygulamalarinda-SQL-Zafiyeti](https://github.com/Hasanuyarrr/CVE-2026-18782-TREX-MES-Uygulamalarinda-SQL-Zafiyeti) : ![starts](https://img.shields.io/github/stars/Hasanuyarrr/CVE-2026-18782-TREX-MES-Uygulamalarinda-SQL-Zafiyeti.svg) ![forks](https://img.shields.io/github/forks/Hasanuyarrr/CVE-2026-18782-TREX-MES-Uygulamalarinda-SQL-Zafiyeti.svg)
 
 ## CVE-2026-18741
  Worksuite SaaS versions prior to 6.0.14 contains a stored cross-site scripting vulnerability in the Asset Management module that allows authenticated administrators to inject arbitrary JavaScript by entering malicious payloads into the Location and Description fields when creating a new asset. Attackers can store crafted HTML script tags in the application database that execute automatically in the browsers of any user who views the affected asset, potentially leading to session hijacking, credential theft, and unauthorized actions on behalf of authenticated users.

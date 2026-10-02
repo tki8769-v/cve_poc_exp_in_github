@@ -833,3 +833,7 @@
 {"cve_id": "CVE-2025-24801", "ts": "2026-10-02T15:50:26Z", "type": "new_poc", "url": "https://github.com/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-10-02T15:50:26Z", "type": "new_poc", "url": "https://github.com/alfzki/ghostlock-app"}
 {"cve_id": "CVE-2012-1823", "ts": "2026-10-02T15:50:26Z", "type": "new_poc", "url": "https://github.com/mujtaba815/metasploitable2-php-cgi-exploit"}
+{"cve_id": "CVE-2026-18782", "ts": "2026-10-02T16:06:44Z", "type": "new_poc", "url": "https://github.com/Hasanuyarrr/CVE-2026-18782-TREX-MES-Uygulamalarinda-SQL-Zafiyeti"}
+{"cve_id": "CVE-2026-18783", "ts": "2026-10-02T16:06:45Z", "type": "new_poc", "url": "https://github.com/Hasanuyarrr/CVE-2026-18783-TREX-MES-Uygulamalarinda-Yetkisiz-Nesne-Erisimi"}
+{"cve_id": "CVE-2026-55494", "ts": "2026-10-02T16:08:47Z", "type": "new_poc", "url": "https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE"}
+{"cve_id": "CVE-2026-62308", "ts": "2026-10-02T16:09:45Z", "type": "new_poc", "url": "https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE"}
