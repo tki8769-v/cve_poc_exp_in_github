@@ -10289,6 +10289,10 @@ index an Out-Of-Bound class in ets_class_from_arg() when passed clid of
 
 - [https://github.com/kkaanozturk/HyperOS-Directory-Traversal-Analysis](https://github.com/kkaanozturk/HyperOS-Directory-Traversal-Analysis) : ![starts](https://img.shields.io/github/stars/kkaanozturk/HyperOS-Directory-Traversal-Analysis.svg) ![forks](https://img.shields.io/github/forks/kkaanozturk/HyperOS-Directory-Traversal-Analysis.svg)
 
+## CVE-2025-21065
+
+- [https://github.com/Pealeap/CVE-2025-21065](https://github.com/Pealeap/CVE-2025-21065) : ![starts](https://img.shields.io/github/stars/Pealeap/CVE-2025-21065.svg) ![forks](https://img.shields.io/github/forks/Pealeap/CVE-2025-21065.svg)
+
 ## CVE-2025-21042
  Out-of-bounds write in libimagecodec.quram.so prior to SMR Apr-2025 Release 1 allows remote attackers to execute arbitrary code.
 

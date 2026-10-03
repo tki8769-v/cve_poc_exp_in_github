@@ -874,3 +874,9 @@
 {"cve_id": "CVE-2026-90970", "ts": "2026-10-03T14:20:13Z", "type": "new_poc", "url": "https://github.com/techupdate24/gitlab-ai-gateway-cve-2026-90970"}
 {"cve_id": "CVE-2026-14461", "ts": "2026-10-03T14:20:13Z", "type": "new_poc", "url": "https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Beelzebub-SQLMap-Auth-CVE-2026-14461-Web-to-Root"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-10-03T14:20:13Z", "type": "new_poc", "url": "https://github.com/litianyuan-91/Ghostlock-Honor70Pro"}
+{"cve_id": "CVE-2026-4480", "ts": "2026-10-03T19:51:15Z", "type": "new_poc", "url": "https://github.com/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce"}
+{"cve_id": "CVE-2025-21065", "ts": "2026-10-03T19:51:15Z", "type": "new_poc", "url": "https://github.com/Pealeap/CVE-2025-21065"}
+{"cve_id": "CVE-2026-39808", "ts": "2026-10-03T19:51:15Z", "type": "new_poc", "url": "https://github.com/gotr00t0day/CVE-2026-39808"}
+{"cve_id": "CVE-2026-64561", "ts": "2026-10-03T19:51:15Z", "type": "new_poc", "url": "https://github.com/hitechcloud-vietnam/Zapscape"}
+{"cve_id": "CVE-2019-8900", "ts": "2026-10-03T19:51:15Z", "type": "new_poc", "url": "https://github.com/Weeabo-Inc/a9pwn"}
+{"cve_id": "CVE-2026-102282", "ts": "2026-10-03T19:55:19Z", "type": "new_poc", "url": "https://github.com/x86byte/adm-zip_LPE-PoC"}

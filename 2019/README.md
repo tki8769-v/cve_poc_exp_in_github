@@ -3380,6 +3380,10 @@ use after free.
 
 - [https://github.com/ossf-cve-benchmark/CVE-2019-8903](https://github.com/ossf-cve-benchmark/CVE-2019-8903) : ![starts](https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-8903.svg) ![forks](https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-8903.svg)
 
+## CVE-2019-8900
+
+- [https://github.com/Weeabo-Inc/a9pwn](https://github.com/Weeabo-Inc/a9pwn) : ![starts](https://img.shields.io/github/stars/Weeabo-Inc/a9pwn.svg) ![forks](https://img.shields.io/github/forks/Weeabo-Inc/a9pwn.svg)
+
 ## CVE-2019-8852
  A memory corruption issue was addressed with improved memory handling. This issue is fixed in macOS Catalina 10.15.2, Security Update 2019-002 Mojave, and Security Update 2019-007 High Sierra. An application may be able to execute arbitrary code with kernel privileges.
 

@@ -1,11 +1,20 @@
 # Update 2026-10-03
+## CVE-2019-8900
+
+- [https://github.com/Weeabo-Inc/a9pwn](https://github.com/Weeabo-Inc/a9pwn) : ![starts](https://img.shields.io/github/stars/Weeabo-Inc/a9pwn.svg) ![forks](https://img.shields.io/github/forks/Weeabo-Inc/a9pwn.svg)
+
 ## CVE-2022-0891
 
 - [https://github.com/flavorex0000/libtiff-cve-2022-0891-lab](https://github.com/flavorex0000/libtiff-cve-2022-0891-lab) : ![starts](https://img.shields.io/github/stars/flavorex0000/libtiff-cve-2022-0891-lab.svg) ![forks](https://img.shields.io/github/forks/flavorex0000/libtiff-cve-2022-0891-lab.svg)
 
+## CVE-2025-21065
+
+- [https://github.com/Pealeap/CVE-2025-21065](https://github.com/Pealeap/CVE-2025-21065) : ![starts](https://img.shields.io/github/stars/Pealeap/CVE-2025-21065.svg) ![forks](https://img.shields.io/github/forks/Pealeap/CVE-2025-21065.svg)
+
 ## CVE-2026-102282
 
 - [https://github.com/Ahmed-Elmahgob/POC-CVE-2026-102282](https://github.com/Ahmed-Elmahgob/POC-CVE-2026-102282) : ![starts](https://img.shields.io/github/stars/Ahmed-Elmahgob/POC-CVE-2026-102282.svg) ![forks](https://img.shields.io/github/forks/Ahmed-Elmahgob/POC-CVE-2026-102282.svg)
+- [https://github.com/x86byte/adm-zip_LPE-PoC](https://github.com/x86byte/adm-zip_LPE-PoC) : ![starts](https://img.shields.io/github/stars/x86byte/adm-zip_LPE-PoC.svg) ![forks](https://img.shields.io/github/forks/x86byte/adm-zip_LPE-PoC.svg)
 
 ## CVE-2026-103648
 > Path traversal in image-downloader 4.3.0 allows an attacker who can control the download URL to cause downloaded response data to be written outside the configured destination directory.
@@ -32,6 +41,10 @@
 
 - [https://github.com/MRdark-ops/CVE-2026-19660-exploit](https://github.com/MRdark-ops/CVE-2026-19660-exploit) : ![starts](https://img.shields.io/github/stars/MRdark-ops/CVE-2026-19660-exploit.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/CVE-2026-19660-exploit.svg)
 
+## CVE-2026-39808
+
+- [https://github.com/gotr00t0day/CVE-2026-39808](https://github.com/gotr00t0day/CVE-2026-39808) : ![starts](https://img.shields.io/github/stars/gotr00t0day/CVE-2026-39808.svg) ![forks](https://img.shields.io/github/forks/gotr00t0day/CVE-2026-39808.svg)
+
 ## CVE-2026-42356
 > Deployment of wrong handler vulnerability in Apache HTTP Server allows the target of some internal redirects from CGI programs to also be treated as CGI and executed. The target must already be in a directory enabled for CGI and have no other extension understood by mod_mime.
 
@@ -45,10 +58,18 @@ This issue affects Apache HTTP Server: from 2.4.60 through 2.4.68.
 
 - [https://github.com/litianyuan-91/Ghostlock-Honor70Pro](https://github.com/litianyuan-91/Ghostlock-Honor70Pro) : ![starts](https://img.shields.io/github/stars/litianyuan-91/Ghostlock-Honor70Pro.svg) ![forks](https://img.shields.io/github/forks/litianyuan-91/Ghostlock-Honor70Pro.svg)
 
+## CVE-2026-4480
+
+- [https://github.com/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce](https://github.com/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce) : ![starts](https://img.shields.io/github/stars/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce.svg) ![forks](https://img.shields.io/github/forks/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce.svg)
+
 ## CVE-2026-48842
 > Roundcube Webmail 1.6.x before 1.6.16 and 1.7.x before 1.7.1 has Pre-authentication SQL injection in the virtuser_query plugin via a preg_replace() backslash escape bypass.
 
 - [https://github.com/XsanFlip/POC-CVE-2026-48842](https://github.com/XsanFlip/POC-CVE-2026-48842) : ![starts](https://img.shields.io/github/stars/XsanFlip/POC-CVE-2026-48842.svg) ![forks](https://img.shields.io/github/forks/XsanFlip/POC-CVE-2026-48842.svg)
+
+## CVE-2026-64561
+
+- [https://github.com/hitechcloud-vietnam/Zapscape](https://github.com/hitechcloud-vietnam/Zapscape) : ![starts](https://img.shields.io/github/stars/hitechcloud-vietnam/Zapscape.svg) ![forks](https://img.shields.io/github/forks/hitechcloud-vietnam/Zapscape.svg)
 
 ## CVE-2026-90970
 > GitLab has remediated a vulnerability in the GitLab AI Gateway component affecting all versions of the AI Gateway from 18.1.6 before 19.2.4, 19.3 before 19.3.2, and 19.4 before 19.4.1 that, under certain conditions, could have allowed an authenticated user with Duo Agent Platform access to escape the prompt template sandbox via a specially crafted flow configuration, resulting in arbitrary command execution on the AI Gateway.

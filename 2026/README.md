@@ -139,6 +139,8 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 
 - [https://github.com/Ahmed-Elmahgob/POC-CVE-2026-102282](https://github.com/Ahmed-Elmahgob/POC-CVE-2026-102282) : ![starts](https://img.shields.io/github/stars/Ahmed-Elmahgob/POC-CVE-2026-102282.svg) ![forks](https://img.shields.io/github/forks/Ahmed-Elmahgob/POC-CVE-2026-102282.svg)
 
+- [https://github.com/x86byte/adm-zip_LPE-PoC](https://github.com/x86byte/adm-zip_LPE-PoC) : ![starts](https://img.shields.io/github/stars/x86byte/adm-zip_LPE-PoC.svg) ![forks](https://img.shields.io/github/forks/x86byte/adm-zip_LPE-PoC.svg)
+
 ## CVE-2026-102268
 > PyJWT is a Python implementation of JSON Web Token standards. Prior to 2.14.0, is_pem_format in jwt/utils.py is affected because is_pem_format does not recognize every PEM representation accepted by the cryptography loader. This occurs when an application mixes HMAC and asymmetric algorithms and supplies a mutated public-key PEM as raw key bytes. As a result, HMACAlgorithm.prepare_key treats the unrecognized asymmetric public key as an HMAC secret. Consequently, an attacker who knows the public 
 
@@ -3323,6 +3325,8 @@ far from ideal; that flaw will be addressed separately.
 - [https://github.com/chuzhongyun/CVE-2026-64561-Kernel-Fix](https://github.com/chuzhongyun/CVE-2026-64561-Kernel-Fix) : ![starts](https://img.shields.io/github/stars/chuzhongyun/CVE-2026-64561-Kernel-Fix.svg) ![forks](https://img.shields.io/github/forks/chuzhongyun/CVE-2026-64561-Kernel-Fix.svg)
 
 - [https://github.com/aarif450/aarif450.github.io](https://github.com/aarif450/aarif450.github.io) : ![starts](https://img.shields.io/github/stars/aarif450/aarif450.github.io.svg) ![forks](https://img.shields.io/github/forks/aarif450/aarif450.github.io.svg)
+
+- [https://github.com/hitechcloud-vietnam/Zapscape](https://github.com/hitechcloud-vietnam/Zapscape) : ![starts](https://img.shields.io/github/stars/hitechcloud-vietnam/Zapscape.svg) ![forks](https://img.shields.io/github/forks/hitechcloud-vietnam/Zapscape.svg)
 
 ## CVE-2026-64560
  In the Linux kernel, the following vulnerability has been resolved:
@@ -10095,6 +10099,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 - [https://github.com/error-inside/CVE-2026-39808](https://github.com/error-inside/CVE-2026-39808) : ![starts](https://img.shields.io/github/stars/error-inside/CVE-2026-39808.svg) ![forks](https://img.shields.io/github/forks/error-inside/CVE-2026-39808.svg)
 
 - [https://github.com/HORKimhab/CVE-2026-39808](https://github.com/HORKimhab/CVE-2026-39808) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-39808.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-39808.svg)
+
+- [https://github.com/gotr00t0day/CVE-2026-39808](https://github.com/gotr00t0day/CVE-2026-39808) : ![starts](https://img.shields.io/github/stars/gotr00t0day/CVE-2026-39808.svg) ![forks](https://img.shields.io/github/forks/gotr00t0day/CVE-2026-39808.svg)
 
 ## CVE-2026-39676
  Missing Authorization vulnerability in Shahjada Download Manager download-manager allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Download Manager: from n/a through = 3.3.52.
@@ -19199,6 +19205,8 @@ substitution character without escaping shell meta characters. A remote attacker
 - [https://github.com/ClearLotus-git/CVE-2026-4480-PoC](https://github.com/ClearLotus-git/CVE-2026-4480-PoC) : ![starts](https://img.shields.io/github/stars/ClearLotus-git/CVE-2026-4480-PoC.svg) ![forks](https://img.shields.io/github/forks/ClearLotus-git/CVE-2026-4480-PoC.svg)
 
 - [https://github.com/timgad794/Abducted-HTB-Writeup](https://github.com/timgad794/Abducted-HTB-Writeup) : ![starts](https://img.shields.io/github/stars/timgad794/Abducted-HTB-Writeup.svg) ![forks](https://img.shields.io/github/forks/timgad794/Abducted-HTB-Writeup.svg)
+
+- [https://github.com/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce](https://github.com/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce) : ![starts](https://img.shields.io/github/stars/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce.svg) ![forks](https://img.shields.io/github/forks/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce.svg)
 
 ## CVE-2026-4447
  Inappropriate implementation in V8 in Google Chrome prior to 146.0.7680.153 allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. (Chromium security severity: High)
