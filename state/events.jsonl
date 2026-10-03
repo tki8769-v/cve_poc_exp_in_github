@@ -851,3 +851,19 @@
 {"cve_id": "CVE-2011-2523", "ts": "2026-10-02T21:22:27Z", "type": "new_poc", "url": "https://github.com/Spidey1919/vsftpd-2.3.4-rce-assessment"}
 {"cve_id": "CVE-2020-0796", "ts": "2026-10-02T21:28:35Z", "type": "new_poc", "url": "https://github.com/Almorabea/SMBGhost-WorkaroundApplier"}
 {"cve_id": "CVE-2026-64818", "ts": "2026-10-02T21:33:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104886", "ts": "2026-10-03T06:31:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104887", "ts": "2026-10-03T06:31:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-64818", "ts": "2026-10-03T06:31:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104886", "ts": "2026-10-03T06:32:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104887", "ts": "2026-10-03T06:32:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-64818", "ts": "2026-10-03T06:32:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104886", "ts": "2026-10-03T06:33:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104887", "ts": "2026-10-03T06:33:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-64818", "ts": "2026-10-03T06:33:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-15989", "ts": "2026-10-03T06:34:02Z", "type": "new_poc", "url": "https://github.com/fl0ydsec/CVE-2026-15989"}
+{"cve_id": "CVE-2026-102282", "ts": "2026-10-03T06:34:03Z", "type": "new_poc", "url": "https://github.com/Ahmed-Elmahgob/POC-CVE-2026-102282"}
+{"cve_id": "CVE-2026-42356", "ts": "2026-10-03T06:34:04Z", "type": "new_poc", "url": "https://github.com/thankgod4rob/CVEs"}
+{"cve_id": "CVE-2026-15989", "ts": "2026-10-03T06:34:04Z", "type": "new_poc", "url": "https://github.com/antid00t/CVE-2026-15989"}
+{"cve_id": "CVE-2026-92592", "ts": "2026-10-03T06:34:04Z", "type": "new_poc", "url": "https://github.com/godylockz/CVE-2026-92592"}
+{"cve_id": "CVE-2026-105030", "ts": "2026-10-03T06:34:04Z", "type": "new_poc", "url": "https://github.com/asvorg/CVE-2026-105030-poc"}
+{"cve_id": "CVE-2026-9558", "ts": "2026-10-03T06:34:04Z", "type": "new_poc", "url": "https://github.com/Cimihan123/CVE-2026-9558-lab-poc-bundle"}
