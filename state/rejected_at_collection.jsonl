@@ -7,3 +7,8 @@
 {"cve_id": "CVE-2026-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-02T07:10:10Z", "url": "https://github.com/Jvr2022/CVE-2026-40345", "url_ids": ["CVE-2026-40345"]}
 {"cve_id": "CVE-2026-7307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-02T07:40:08Z", "url": "https://github.com/HORKimhab/CVE-2026-73072", "url_ids": ["CVE-2026-73072"]}
 {"cve_id": "CVE-2026-6173", "reason": "prefix_conflict_evidenced", "ts": "2026-10-02T16:08:52Z", "url": "https://github.com/InertFluid/cve-2026-61732-lab", "url_ids": ["CVE-2026-61732"]}
+{"cve_id": "CVE-2026-5782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-03T14:46:44Z", "url": "https://github.com/shinthink/CVE-2026-57827", "url_ids": ["CVE-2026-57827"]}
+{"cve_id": "CVE-2026-5782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-03T14:46:44Z", "url": "https://github.com/Mohammad-008/rsfiles-CVE-2026-57827", "url_ids": ["CVE-2026-57827"]}
+{"cve_id": "CVE-2026-5782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-03T14:46:44Z", "url": "https://github.com/tc4dy/CVE-2026-57821-PoC-Exploit", "url_ids": ["CVE-2026-57821"]}
+{"cve_id": "CVE-2026-5782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-03T14:46:44Z", "url": "https://github.com/jjkk123123/CVE-2026-57827", "url_ids": ["CVE-2026-57827"]}
+{"cve_id": "CVE-2026-5782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-03T14:46:44Z", "url": "https://github.com/Candisexterior171/CVE-2026-57827", "url_ids": ["CVE-2026-57827"]}

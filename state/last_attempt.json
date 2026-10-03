@@ -3,8 +3,8 @@
   "steps": {
     "backfill_conflicts": {
       "cached_total": 25925,
-      "fetched": 1,
-      "requested": 1,
+      "fetched": 0,
+      "requested": 0,
       "stop_reason": null
     },
     "backfill_queue": {
@@ -15,7 +15,7 @@
     },
     "clean_apply": {
       "affected_years": [],
-      "applied_at": "2026-10-03T14:40:34Z",
+      "applied_at": "2026-10-03T14:50:44Z",
       "applied_rejected": 0,
       "revoked_accepted": 0,
       "revoked_rejected": 0,
@@ -24,11 +24,11 @@
     },
     "queue": {
       "due_by_priority": {
-        "0": 984,
+        "0": 684,
         "5": 11972,
         "8": 4944
       },
-      "due_now": 17900,
+      "due_now": 17600,
       "oldest_due": "2026-09-24T08:47:34Z",
       "tasks_total": 21461
     },
@@ -54,7 +54,7 @@
       "partial_days_dropped": 0,
       "partial_days_pending": 0,
       "rejected_at_collection": 0,
-      "repos_seen": 39,
+      "repos_seen": 40,
       "warning": null,
       "window": "2026-10-03..2026-10-03"
     },
@@ -63,9 +63,9 @@
       "budget_stopped": true,
       "incomplete": 0,
       "invalid_id_skipped": 0,
-      "needs_review": 0,
+      "needs_review": 3,
       "new_relations": 0,
-      "rejected_at_collection": 0,
+      "rejected_at_collection": 5,
       "scanned": 300,
       "task_errors": 0,
       "tasks_due": 10000
@@ -88,5 +88,5 @@
       "problems": []
     }
   },
-  "ts": "2026-10-03T14:40:35Z"
+  "ts": "2026-10-03T14:50:45Z"
 }
