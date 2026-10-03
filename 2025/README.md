@@ -2262,6 +2262,8 @@ Users are recommended to upgrade to pyfory version 0.12.3 or later, which has re
 
 - [https://github.com/ledksv/cctv](https://github.com/ledksv/cctv) : ![starts](https://img.shields.io/github/stars/ledksv/cctv.svg) ![forks](https://img.shields.io/github/forks/ledksv/cctv.svg)
 
+- [https://github.com/diamorphine666/CVE-2025-60787](https://github.com/diamorphine666/CVE-2025-60787) : ![starts](https://img.shields.io/github/stars/diamorphine666/CVE-2025-60787.svg) ![forks](https://img.shields.io/github/forks/diamorphine666/CVE-2025-60787.svg)
+
 ## CVE-2025-60751
  GeographicLib 2.5 is vulnerable to Buffer Overflow in GeoConvert DMS::InternalDecode.
 

@@ -7,9 +7,17 @@
 
 - [https://github.com/flavorex0000/libtiff-cve-2022-0891-lab](https://github.com/flavorex0000/libtiff-cve-2022-0891-lab) : ![starts](https://img.shields.io/github/stars/flavorex0000/libtiff-cve-2022-0891-lab.svg) ![forks](https://img.shields.io/github/forks/flavorex0000/libtiff-cve-2022-0891-lab.svg)
 
+## CVE-2024-51482
+
+- [https://github.com/diamorphine666/CVE-2024-51482](https://github.com/diamorphine666/CVE-2024-51482) : ![starts](https://img.shields.io/github/stars/diamorphine666/CVE-2024-51482.svg) ![forks](https://img.shields.io/github/forks/diamorphine666/CVE-2024-51482.svg)
+
 ## CVE-2025-21065
 
 - [https://github.com/Pealeap/CVE-2025-21065](https://github.com/Pealeap/CVE-2025-21065) : ![starts](https://img.shields.io/github/stars/Pealeap/CVE-2025-21065.svg) ![forks](https://img.shields.io/github/forks/Pealeap/CVE-2025-21065.svg)
+
+## CVE-2025-60787
+
+- [https://github.com/diamorphine666/CVE-2025-60787](https://github.com/diamorphine666/CVE-2025-60787) : ![starts](https://img.shields.io/github/stars/diamorphine666/CVE-2025-60787.svg) ![forks](https://img.shields.io/github/forks/diamorphine666/CVE-2025-60787.svg)
 
 ## CVE-2026-102282
 
@@ -20,6 +28,15 @@
 > Path traversal in image-downloader 4.3.0 allows an attacker who can control the download URL to cause downloaded response data to be written outside the configured destination directory.
 
 - [https://github.com/EterNullSec/CVE-2026-103648](https://github.com/EterNullSec/CVE-2026-103648) : ![starts](https://img.shields.io/github/stars/EterNullSec/CVE-2026-103648.svg) ![forks](https://img.shields.io/github/forks/EterNullSec/CVE-2026-103648.svg)
+
+## CVE-2026-103956
+> Missing authentication for critical function in the authentication dependency in Loom for AWS before 1.6.1 allowed remote actors to obtain super-admin authority over the agent control plane, including registering tool servers, reading stored integration credentials, and rewriting the IAM role policies attached to managed agent roles, via any request to the application API in a deployment where no identity provider is configured.
+
+
+
+To remediate this issue, users should upgrade to version 1.6.1 o
+
+- [https://github.com/abraxas/cve-2026-103956-loom-unauth](https://github.com/abraxas/cve-2026-103956-loom-unauth) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-103956-loom-unauth.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-103956-loom-unauth.svg)
 
 ## CVE-2026-105030
 > Kener 4.0.0 before 4.1.6 contains an information disclosure vulnerability that allows unauthenticated attackers to retrieve hidden or inactive monitor data by querying dashboard API handlers lacking visibility filters. Attackers can supply a known or guessed monitor tag to endpoints such as monitor-bar and monitor-latency-chart to obtain names, descriptions, status, uptime history and latency.
@@ -40,6 +57,10 @@
 > The Divi Membership plugin for WordPress is vulnerable to Authentication Bypass in all versions up to, and including, 2.3.0. The `process_paypal_callback` function, hooked to the `init` action, accepts a base64-encoded `paypal_param` GET parameter with no IPN validation, no cryptographic signature check, no ownership verification, and no nonce, allowing it to trust an entirely attacker-controlled user ID value that is passed directly to `wp_set_current_user()` and `wp_set_auth_cookie()`. This ma
 
 - [https://github.com/MRdark-ops/CVE-2026-19660-exploit](https://github.com/MRdark-ops/CVE-2026-19660-exploit) : ![starts](https://img.shields.io/github/stars/MRdark-ops/CVE-2026-19660-exploit.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/CVE-2026-19660-exploit.svg)
+
+## CVE-2026-27944
+
+- [https://github.com/diamorphine666/CVE-2026-27944](https://github.com/diamorphine666/CVE-2026-27944) : ![starts](https://img.shields.io/github/stars/diamorphine666/CVE-2026-27944.svg) ![forks](https://img.shields.io/github/forks/diamorphine666/CVE-2026-27944.svg)
 
 ## CVE-2026-39808
 

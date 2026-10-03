@@ -37,6 +37,15 @@
 
 - [https://github.com/pervinzahidli/CVE-2026-103977](https://github.com/pervinzahidli/CVE-2026-103977) : ![starts](https://img.shields.io/github/stars/pervinzahidli/CVE-2026-103977.svg) ![forks](https://img.shields.io/github/forks/pervinzahidli/CVE-2026-103977.svg)
 
+## CVE-2026-103956
+> Missing authentication for critical function in the authentication dependency in Loom for AWS before 1.6.1 allowed remote actors to obtain super-admin authority over the agent control plane, including registering tool servers, reading stored integration credentials, and rewriting the IAM role policies attached to managed agent roles, via any request to the application API in a deployment where no identity provider is configured.
+
+
+
+To remediate this issue, users should upgrade to version 1.6.1 o
+
+- [https://github.com/abraxas/cve-2026-103956-loom-unauth](https://github.com/abraxas/cve-2026-103956-loom-unauth) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-103956-loom-unauth.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-103956-loom-unauth.svg)
+
 ## CVE-2026-103931
 
 - [https://github.com/overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931](https://github.com/overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931) : ![starts](https://img.shields.io/github/stars/overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931.svg) ![forks](https://img.shields.io/github/forks/overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931.svg)
@@ -12902,6 +12911,8 @@ This issue affects Apache Ranger: from 0.6 through 2.8.
 
 - [https://github.com/Goultarde/CVE-2026-27944-poc](https://github.com/Goultarde/CVE-2026-27944-poc) : ![starts](https://img.shields.io/github/stars/Goultarde/CVE-2026-27944-poc.svg) ![forks](https://img.shields.io/github/forks/Goultarde/CVE-2026-27944-poc.svg)
 
+- [https://github.com/diamorphine666/CVE-2026-27944](https://github.com/diamorphine666/CVE-2026-27944) : ![starts](https://img.shields.io/github/stars/diamorphine666/CVE-2026-27944.svg) ![forks](https://img.shields.io/github/forks/diamorphine666/CVE-2026-27944.svg)
+
 ## CVE-2026-27941
  OpenLIT is an open source platform for AI engineering. Prior to version 1.37.1, several GitHub Actions workflows in OpenLIT's GitHub repository use the `pull_request_target` event while checking out and executing untrusted code from forked pull requests. These workflows run with the security context of the base repository, including a write-privileged `GITHUB_TOKEN` and numerous sensitive secrets (API keys, database/vector store tokens, and a Google Cloud service account key). Version 1.37.1 contains a fix.
 
@@ -23092,6 +23103,8 @@ Users are recommended to upgrade to pyfory version 0.12.3 or later, which has re
 - [https://github.com/GarethMSheldon/CVE-2025-60787-Detection-motionEye-RCE-via-Config-Injection](https://github.com/GarethMSheldon/CVE-2025-60787-Detection-motionEye-RCE-via-Config-Injection) : ![starts](https://img.shields.io/github/stars/GarethMSheldon/CVE-2025-60787-Detection-motionEye-RCE-via-Config-Injection.svg) ![forks](https://img.shields.io/github/forks/GarethMSheldon/CVE-2025-60787-Detection-motionEye-RCE-via-Config-Injection.svg)
 
 - [https://github.com/ledksv/cctv](https://github.com/ledksv/cctv) : ![starts](https://img.shields.io/github/stars/ledksv/cctv.svg) ![forks](https://img.shields.io/github/forks/ledksv/cctv.svg)
+
+- [https://github.com/diamorphine666/CVE-2025-60787](https://github.com/diamorphine666/CVE-2025-60787) : ![starts](https://img.shields.io/github/stars/diamorphine666/CVE-2025-60787.svg) ![forks](https://img.shields.io/github/forks/diamorphine666/CVE-2025-60787.svg)
 
 ## CVE-2025-60751
  GeographicLib 2.5 is vulnerable to Buffer Overflow in GeoConvert DMS::InternalDecode.
@@ -36452,6 +36465,8 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [https://github.com/Erhui-Li/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP](https://github.com/Erhui-Li/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP) : ![starts](https://img.shields.io/github/stars/Erhui-Li/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP.svg) ![forks](https://img.shields.io/github/forks/Erhui-Li/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP.svg)
 
 - [https://github.com/ledksv/cctv](https://github.com/ledksv/cctv) : ![starts](https://img.shields.io/github/stars/ledksv/cctv.svg) ![forks](https://img.shields.io/github/forks/ledksv/cctv.svg)
+
+- [https://github.com/diamorphine666/CVE-2024-51482](https://github.com/diamorphine666/CVE-2024-51482) : ![starts](https://img.shields.io/github/stars/diamorphine666/CVE-2024-51482.svg) ![forks](https://img.shields.io/github/forks/diamorphine666/CVE-2024-51482.svg)
 
 ## CVE-2024-51442
  Command Injection in Minidlna version v1.3.3 and before allows an attacker to execute arbitrary OS commands via a specially crafted minidlna.conf configuration file.

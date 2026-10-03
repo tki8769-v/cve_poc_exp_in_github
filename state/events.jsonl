@@ -880,3 +880,7 @@
 {"cve_id": "CVE-2026-64561", "ts": "2026-10-03T19:51:15Z", "type": "new_poc", "url": "https://github.com/hitechcloud-vietnam/Zapscape"}
 {"cve_id": "CVE-2019-8900", "ts": "2026-10-03T19:51:15Z", "type": "new_poc", "url": "https://github.com/Weeabo-Inc/a9pwn"}
 {"cve_id": "CVE-2026-102282", "ts": "2026-10-03T19:55:19Z", "type": "new_poc", "url": "https://github.com/x86byte/adm-zip_LPE-PoC"}
+{"cve_id": "CVE-2024-51482", "ts": "2026-10-03T23:47:53Z", "type": "new_poc", "url": "https://github.com/diamorphine666/CVE-2024-51482"}
+{"cve_id": "CVE-2026-27944", "ts": "2026-10-03T23:47:53Z", "type": "new_poc", "url": "https://github.com/diamorphine666/CVE-2026-27944"}
+{"cve_id": "CVE-2025-60787", "ts": "2026-10-03T23:47:53Z", "type": "new_poc", "url": "https://github.com/diamorphine666/CVE-2025-60787"}
+{"cve_id": "CVE-2026-103956", "ts": "2026-10-03T23:47:54Z", "type": "new_poc", "url": "https://github.com/abraxas/cve-2026-103956-loom-unauth"}
