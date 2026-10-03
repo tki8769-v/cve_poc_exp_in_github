@@ -2,36 +2,33 @@
   "ok": true,
   "steps": {
     "backfill_conflicts": {
-      "cached_total": 25925,
-      "fetched": 0,
-      "requested": 0,
+      "cached_total": 25928,
+      "fetched": 3,
+      "requested": 3,
       "stop_reason": null
     },
     "backfill_queue": {
-      "cached_total": 25925,
+      "cached_total": 25928,
       "fetched": 0,
       "requested": 0,
       "stop_reason": null
     },
     "clean_apply": {
-      "affected_years": [
-        "2019",
-        "2026"
-      ],
-      "applied_at": "2026-10-03T20:01:23Z",
+      "affected_years": [],
+      "applied_at": "2026-10-03T20:11:35Z",
       "applied_rejected": 0,
-      "revoked_accepted": 3,
+      "revoked_accepted": 0,
       "revoked_rejected": 0,
       "rule_version": "2",
       "still_pending_meta": 0
     },
     "queue": {
       "due_by_priority": {
-        "0": 453,
+        "0": 153,
         "5": 11972,
         "8": 5796
       },
-      "due_now": 18221,
+      "due_now": 17921,
       "oldest_due": "2026-09-24T08:47:34Z",
       "tasks_total": 21477
     },
@@ -44,7 +41,7 @@
       "rule_version": "2"
     },
     "render": {
-      "changed_files": 5
+      "changed_files": 0
     },
     "repo_watch": {
       "blocked": 0,
@@ -53,11 +50,11 @@
       "cves_hit": 17,
       "invalid_ids": 0,
       "needs_review": 5,
-      "new_relations": 5,
+      "new_relations": 0,
       "partial_days_dropped": 0,
       "partial_days_pending": 0,
       "rejected_at_collection": 0,
-      "repos_seen": 55,
+      "repos_seen": 56,
       "warning": null,
       "window": "2026-10-03..2026-10-03"
     },
@@ -67,7 +64,7 @@
       "incomplete": 0,
       "invalid_id_skipped": 0,
       "needs_review": 1,
-      "new_relations": 1,
+      "new_relations": 0,
       "rejected_at_collection": 0,
       "scanned": 300,
       "task_errors": 0,
@@ -76,12 +73,12 @@
     "sync": {
       "budget_stopped": false,
       "continuity_warning": false,
-      "cves_seen": 622,
+      "cves_seen": 0,
       "floor_tag": "cve_2026-09-24_0700Z",
       "last_tag": "cve_2026-10-03_1800Z",
-      "new_tasks": 14,
+      "new_tasks": 0,
       "rejected": 0,
-      "releases_processed": 3,
+      "releases_processed": 0,
       "releases_seen": 30
     },
     "verify": {
@@ -91,5 +88,5 @@
       "problems": []
     }
   },
-  "ts": "2026-10-03T20:01:24Z"
+  "ts": "2026-10-03T20:11:36Z"
 }
