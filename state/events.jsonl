@@ -867,3 +867,10 @@
 {"cve_id": "CVE-2026-92592", "ts": "2026-10-03T06:34:04Z", "type": "new_poc", "url": "https://github.com/godylockz/CVE-2026-92592"}
 {"cve_id": "CVE-2026-105030", "ts": "2026-10-03T06:34:04Z", "type": "new_poc", "url": "https://github.com/asvorg/CVE-2026-105030-poc"}
 {"cve_id": "CVE-2026-9558", "ts": "2026-10-03T06:34:04Z", "type": "new_poc", "url": "https://github.com/Cimihan123/CVE-2026-9558-lab-poc-bundle"}
+{"cve_id": "CVE-2026-103648", "ts": "2026-10-03T14:20:13Z", "type": "new_poc", "url": "https://github.com/EterNullSec/CVE-2026-103648"}
+{"cve_id": "CVE-2026-48842", "ts": "2026-10-03T14:20:13Z", "type": "new_poc", "url": "https://github.com/XsanFlip/POC-CVE-2026-48842"}
+{"cve_id": "CVE-2026-19660", "ts": "2026-10-03T14:20:13Z", "type": "new_poc", "url": "https://github.com/MRdark-ops/CVE-2026-19660-exploit"}
+{"cve_id": "CVE-2022-0891", "ts": "2026-10-03T14:20:13Z", "type": "new_poc", "url": "https://github.com/flavorex0000/libtiff-cve-2022-0891-lab"}
+{"cve_id": "CVE-2026-90970", "ts": "2026-10-03T14:20:13Z", "type": "new_poc", "url": "https://github.com/techupdate24/gitlab-ai-gateway-cve-2026-90970"}
+{"cve_id": "CVE-2026-14461", "ts": "2026-10-03T14:20:13Z", "type": "new_poc", "url": "https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Beelzebub-SQLMap-Auth-CVE-2026-14461-Web-to-Root"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-03T14:20:13Z", "type": "new_poc", "url": "https://github.com/litianyuan-91/Ghostlock-Honor70Pro"}

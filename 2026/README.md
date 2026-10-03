@@ -50,6 +50,11 @@
 
 - [https://github.com/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation](https://github.com/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation) : ![starts](https://img.shields.io/github/stars/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation.svg) ![forks](https://img.shields.io/github/forks/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation.svg)
 
+## CVE-2026-103648
+> Path traversal in image-downloader 4.3.0 allows an attacker who can control the download URL to cause downloaded response data to be written outside the configured destination directory.
+
+- [https://github.com/EterNullSec/CVE-2026-103648](https://github.com/EterNullSec/CVE-2026-103648) : ![starts](https://img.shields.io/github/stars/EterNullSec/CVE-2026-103648.svg) ![forks](https://img.shields.io/github/forks/EterNullSec/CVE-2026-103648.svg)
+
 ## CVE-2026-103585
 > Improper neutralization of Script-Related HTML tags in a web page (basic XSS) vulnerability in The Wikimedia Foundation MediaWiki MediaSearch extension allows Cross-Site Scripting (XSS).
 
@@ -594,6 +599,11 @@ The Unauthenticated Stored XSS vulnerability in the WordPress core can be reprod
 - [https://github.com/Nxploited/CVE-2026-91097-CVE-2026-91106](https://github.com/Nxploited/CVE-2026-91097-CVE-2026-91106) : ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2026-91097-CVE-2026-91106.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2026-91097-CVE-2026-91106.svg)
 
 - [https://github.com/murrez/HP-HPLIP-Mass-CVE-checker-2026-09-](https://github.com/murrez/HP-HPLIP-Mass-CVE-checker-2026-09-) : ![starts](https://img.shields.io/github/stars/murrez/HP-HPLIP-Mass-CVE-checker-2026-09-.svg) ![forks](https://img.shields.io/github/forks/murrez/HP-HPLIP-Mass-CVE-checker-2026-09-.svg)
+
+## CVE-2026-90970
+> GitLab has remediated a vulnerability in the GitLab AI Gateway component affecting all versions of the AI Gateway from 18.1.6 before 19.2.4, 19.3 before 19.3.2, and 19.4 before 19.4.1 that, under certain conditions, could have allowed an authenticated user with Duo Agent Platform access to escape the prompt template sandbox via a specially crafted flow configuration, resulting in arbitrary command execution on the AI Gateway.
+
+- [https://github.com/techupdate24/gitlab-ai-gateway-cve-2026-90970](https://github.com/techupdate24/gitlab-ai-gateway-cve-2026-90970) : ![starts](https://img.shields.io/github/stars/techupdate24/gitlab-ai-gateway-cve-2026-90970.svg) ![forks](https://img.shields.io/github/forks/techupdate24/gitlab-ai-gateway-cve-2026-90970.svg)
 
 ## CVE-2026-90907
 > Joomla! Core - [20260902] - Core - Unauthorized user account creation via profile.save controller in Joomla 1.5.0-5.4.8, 6.0.0-6.1.3 - The profile.save controller did not check the login state of a user, allowing the creation of guest-level users on sites without active user registration.
@@ -6352,6 +6362,8 @@ This issue affects Gravity Forms: from n/a through 2.10.0.1.
 
 - [https://github.com/4minx/CVE-2026-48842](https://github.com/4minx/CVE-2026-48842) : ![starts](https://img.shields.io/github/stars/4minx/CVE-2026-48842.svg) ![forks](https://img.shields.io/github/forks/4minx/CVE-2026-48842.svg)
 
+- [https://github.com/XsanFlip/POC-CVE-2026-48842](https://github.com/XsanFlip/POC-CVE-2026-48842) : ![starts](https://img.shields.io/github/stars/XsanFlip/POC-CVE-2026-48842.svg) ![forks](https://img.shields.io/github/forks/XsanFlip/POC-CVE-2026-48842.svg)
+
 ## CVE-2026-48813
  Flawfinder is a a static analysis tool for finding vulnerabilities in C/C++ source code. Versions prior to 2.0.20 have an improper input neutralization issue leading to output manipulation, specifically, Terminal/ANSI Escape Sequence Injection and XML Injection. A malicious file whose name contains ANSI escape sequences can end up being included in flawfinder's standard terminal output, with many effects. Untrusted fields (such as filenames, categories, or code context text) were not properly sanitized when generating structured reports. An attacker could exploit this to corrupt CSV formats or inject arbitrary XML attributes into SonarQube outputs via output_sonar(). It impacts those who use flawfinder to evaluate intentionally malicious filenames or file contents. This issue has been fully patched in Version 2.0.20 (released 2026-05-16). There is no configuration-based workaround within older versions of flawfinder. If an immediate upgrade is not possible, users can mitigate the risk by pre-scanning filenames, inspecting raw output, and/or restricting untrusted inputs.
 
@@ -8441,6 +8453,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/yexiaoqq/rmg-s9110-research](https://github.com/yexiaoqq/rmg-s9110-research) : ![starts](https://img.shields.io/github/stars/yexiaoqq/rmg-s9110-research.svg) ![forks](https://img.shields.io/github/forks/yexiaoqq/rmg-s9110-research.svg)
 
 - [https://github.com/alfzki/ghostlock-app](https://github.com/alfzki/ghostlock-app) : ![starts](https://img.shields.io/github/stars/alfzki/ghostlock-app.svg) ![forks](https://img.shields.io/github/forks/alfzki/ghostlock-app.svg)
+
+- [https://github.com/litianyuan-91/Ghostlock-Honor70Pro](https://github.com/litianyuan-91/Ghostlock-Honor70Pro) : ![starts](https://img.shields.io/github/stars/litianyuan-91/Ghostlock-Honor70Pro.svg) ![forks](https://img.shields.io/github/forks/litianyuan-91/Ghostlock-Honor70Pro.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
@@ -16255,6 +16269,8 @@ Note: Cisco has assigned this security advisory a Security Impact Rating (SIR) o
 
 - [https://github.com/murrez/CVE-2026-19660](https://github.com/murrez/CVE-2026-19660) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-19660.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-19660.svg)
 
+- [https://github.com/MRdark-ops/CVE-2026-19660-exploit](https://github.com/MRdark-ops/CVE-2026-19660-exploit) : ![starts](https://img.shields.io/github/stars/MRdark-ops/CVE-2026-19660-exploit.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/CVE-2026-19660-exploit.svg)
+
 ## CVE-2026-19658
  The Give Tributes plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 2.3.1 via deserialization of untrusted input . This makes it possible for unauthenticated attackers to inject a PHP Object. No known POP chain is present in the vulnerable software, which means this vulnerability has no impact unless another plugin or theme containing a POP chain is installed on the site. If a POP chain is present via an additional plugin or theme installed on the target system, it may allow the attacker to perform actions like delete arbitrary files, retrieve sensitive data, or execute code depending on the POP chain present. This vulnerability is only reachable when the "Allow Multiple Recipients" option is enabled for the donation form, as the single-recipient code path applies sanitize_textarea_field() which would neutralize the payload. Exploitation additionally requires the eCard "Custom Message" option to be disabled, which is the plugin default: when it is enabled the personalized message becomes a required field and GiveWP's give_clean() blanks serialized input during validation, causing the donation to be rejected before it is stored.
 
@@ -16982,6 +16998,10 @@ condition.
 - [https://github.com/MadExploits/CVE-2026-14483](https://github.com/MadExploits/CVE-2026-14483) : ![starts](https://img.shields.io/github/stars/MadExploits/CVE-2026-14483.svg) ![forks](https://img.shields.io/github/forks/MadExploits/CVE-2026-14483.svg)
 
 - [https://github.com/0xdak/CVE-2026-14483_exploit](https://github.com/0xdak/CVE-2026-14483_exploit) : ![starts](https://img.shields.io/github/stars/0xdak/CVE-2026-14483_exploit.svg) ![forks](https://img.shields.io/github/forks/0xdak/CVE-2026-14483_exploit.svg)
+
+## CVE-2026-14461
+
+- [https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Beelzebub-SQLMap-Auth-CVE-2026-14461-Web-to-Root](https://github.com/sifatnotes/Learn-SecByte-CTF-Labs-Beelzebub-SQLMap-Auth-CVE-2026-14461-Web-to-Root) : ![starts](https://img.shields.io/github/stars/sifatnotes/Learn-SecByte-CTF-Labs-Beelzebub-SQLMap-Auth-CVE-2026-14461-Web-to-Root.svg) ![forks](https://img.shields.io/github/forks/sifatnotes/Learn-SecByte-CTF-Labs-Beelzebub-SQLMap-Auth-CVE-2026-14461-Web-to-Root.svg)
 
 ## CVE-2026-14459
  Improper neutralization of argument delimiters in a command ('argument injection') vulnerability in TUBITAK BILGEM Software Technologies Research Institute pardus-software allows Argument Injection.

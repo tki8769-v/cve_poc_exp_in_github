@@ -7694,6 +7694,10 @@ the client's API server credentials to third parties.
 
 - [https://github.com/NathanMulbrook/CVE-2022-0918](https://github.com/NathanMulbrook/CVE-2022-0918) : ![starts](https://img.shields.io/github/stars/NathanMulbrook/CVE-2022-0918.svg) ![forks](https://img.shields.io/github/forks/NathanMulbrook/CVE-2022-0918.svg)
 
+## CVE-2022-0891
+
+- [https://github.com/flavorex0000/libtiff-cve-2022-0891-lab](https://github.com/flavorex0000/libtiff-cve-2022-0891-lab) : ![starts](https://img.shields.io/github/stars/flavorex0000/libtiff-cve-2022-0891-lab.svg) ![forks](https://img.shields.io/github/forks/flavorex0000/libtiff-cve-2022-0891-lab.svg)
+
 ## CVE-2022-0853
  A flaw was found in JBoss-client. The vulnerability occurs due to a memory leak on the JBoss client-side, when using UserTransaction repeatedly and leads to information leakage vulnerability.
 
