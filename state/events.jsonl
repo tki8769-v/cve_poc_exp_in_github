@@ -1072,3 +1072,8 @@
 {"cve_id": "CVE-2021-44228", "ts": "2026-10-04T00:15:37Z", "type": "new_poc", "url": "https://github.com/aajuvonen/log4stdin"}
 {"cve_id": "CVE-2023-23752", "ts": "2026-10-04T06:50:09Z", "type": "new_poc", "url": "https://github.com/s4m98/CVE-2023-23752"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-10-04T06:50:09Z", "type": "new_poc", "url": "https://github.com/AdminHcat/CVE-2026-43499-5.15"}
+{"cve_id": "CVE-2025-57819", "ts": "2026-10-04T07:17:41Z", "type": "new_poc", "url": "https://github.com/donggle0802-code/cve-2025-57819"}
+{"cve_id": "CVE-2025-57819", "ts": "2026-10-04T07:17:41Z", "type": "new_poc", "url": "https://github.com/TheScriptKiddoz/FreePBX-SQLi-RCE"}
+{"cve_id": "CVE-2021-31805", "ts": "2026-10-04T07:17:45Z", "type": "new_poc", "url": "https://github.com/nth347/struts2-CVE-2021-31805"}
+{"cve_id": "CVE-2024-9465", "ts": "2026-10-04T07:17:47Z", "type": "new_poc", "url": "https://github.com/rszqx/CVE-2024-9465"}
+{"cve_id": "CVE-2017-9841", "ts": "2026-10-04T07:18:37Z", "type": "new_poc", "url": "https://github.com/drcrypterdotru/PHPUnit-GoScan"}

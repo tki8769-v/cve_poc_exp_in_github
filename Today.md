@@ -1,4 +1,12 @@
 # Update 2026-10-04
+## CVE-2017-9841
+
+- [https://github.com/drcrypterdotru/PHPUnit-GoScan](https://github.com/drcrypterdotru/PHPUnit-GoScan) : ![starts](https://img.shields.io/github/stars/drcrypterdotru/PHPUnit-GoScan.svg) ![forks](https://img.shields.io/github/forks/drcrypterdotru/PHPUnit-GoScan.svg)
+
+## CVE-2021-31805
+
+- [https://github.com/nth347/struts2-CVE-2021-31805](https://github.com/nth347/struts2-CVE-2021-31805) : ![starts](https://img.shields.io/github/stars/nth347/struts2-CVE-2021-31805.svg) ![forks](https://img.shields.io/github/forks/nth347/struts2-CVE-2021-31805.svg)
+
 ## CVE-2021-44228
 
 - [https://github.com/1in9e/Apache-Log4j2-RCE](https://github.com/1in9e/Apache-Log4j2-RCE) : ![starts](https://img.shields.io/github/stars/1in9e/Apache-Log4j2-RCE.svg) ![forks](https://img.shields.io/github/forks/1in9e/Apache-Log4j2-RCE.svg)
@@ -192,6 +200,15 @@
 ## CVE-2024-25600
 
 - [https://github.com/so1icitx/CVE-2024-25600](https://github.com/so1icitx/CVE-2024-25600) : ![starts](https://img.shields.io/github/stars/so1icitx/CVE-2024-25600.svg) ![forks](https://img.shields.io/github/forks/so1icitx/CVE-2024-25600.svg)
+
+## CVE-2024-9465
+
+- [https://github.com/rszqx/CVE-2024-9465](https://github.com/rszqx/CVE-2024-9465) : ![starts](https://img.shields.io/github/stars/rszqx/CVE-2024-9465.svg) ![forks](https://img.shields.io/github/forks/rszqx/CVE-2024-9465.svg)
+
+## CVE-2025-57819
+
+- [https://github.com/TheScriptKiddoz/FreePBX-SQLi-RCE](https://github.com/TheScriptKiddoz/FreePBX-SQLi-RCE) : ![starts](https://img.shields.io/github/stars/TheScriptKiddoz/FreePBX-SQLi-RCE.svg) ![forks](https://img.shields.io/github/forks/TheScriptKiddoz/FreePBX-SQLi-RCE.svg)
+- [https://github.com/donggle0802-code/cve-2025-57819](https://github.com/donggle0802-code/cve-2025-57819) : ![starts](https://img.shields.io/github/stars/donggle0802-code/cve-2025-57819.svg) ![forks](https://img.shields.io/github/forks/donggle0802-code/cve-2025-57819.svg)
 
 ## CVE-2026-43499
 

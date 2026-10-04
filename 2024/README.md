@@ -9349,6 +9349,8 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 
 - [https://github.com/Qlng/CVE-2024-9465](https://github.com/Qlng/CVE-2024-9465) : ![starts](https://img.shields.io/github/stars/Qlng/CVE-2024-9465.svg) ![forks](https://img.shields.io/github/forks/Qlng/CVE-2024-9465.svg)
 
+- [https://github.com/rszqx/CVE-2024-9465](https://github.com/rszqx/CVE-2024-9465) : ![starts](https://img.shields.io/github/stars/rszqx/CVE-2024-9465.svg) ![forks](https://img.shields.io/github/forks/rszqx/CVE-2024-9465.svg)
+
 ## CVE-2024-9464
  An OS command injection vulnerability in Palo Alto Networks Expedition allows an authenticated attacker to run arbitrary OS commands as root in Expedition, resulting in disclosure of usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls.
 

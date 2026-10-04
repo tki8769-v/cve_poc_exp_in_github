@@ -23742,6 +23742,10 @@ Users are recommended to upgrade to version 2.4.66, which fixes the issue.
 
 - [https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX) : ![starts](https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX.svg) ![forks](https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX.svg)
 
+- [https://github.com/TheScriptKiddoz/FreePBX-SQLi-RCE](https://github.com/TheScriptKiddoz/FreePBX-SQLi-RCE) : ![starts](https://img.shields.io/github/stars/TheScriptKiddoz/FreePBX-SQLi-RCE.svg) ![forks](https://img.shields.io/github/forks/TheScriptKiddoz/FreePBX-SQLi-RCE.svg)
+
+- [https://github.com/donggle0802-code/cve-2025-57819](https://github.com/donggle0802-code/cve-2025-57819) : ![starts](https://img.shields.io/github/stars/donggle0802-code/cve-2025-57819.svg) ![forks](https://img.shields.io/github/forks/donggle0802-code/cve-2025-57819.svg)
+
 ## CVE-2025-57576
  PHPGurukul Online Shopping Portal 2.1 is vulnerable to Cross Site Scripting (XSS) in /admin/updateorder.php.
 
@@ -44734,6 +44738,8 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [https://github.com/mustafaakalin/CVE-2024-9465](https://github.com/mustafaakalin/CVE-2024-9465) : ![starts](https://img.shields.io/github/stars/mustafaakalin/CVE-2024-9465.svg) ![forks](https://img.shields.io/github/forks/mustafaakalin/CVE-2024-9465.svg)
 
 - [https://github.com/Qlng/CVE-2024-9465](https://github.com/Qlng/CVE-2024-9465) : ![starts](https://img.shields.io/github/stars/Qlng/CVE-2024-9465.svg) ![forks](https://img.shields.io/github/forks/Qlng/CVE-2024-9465.svg)
+
+- [https://github.com/rszqx/CVE-2024-9465](https://github.com/rszqx/CVE-2024-9465) : ![starts](https://img.shields.io/github/stars/rszqx/CVE-2024-9465.svg) ![forks](https://img.shields.io/github/forks/rszqx/CVE-2024-9465.svg)
 
 ## CVE-2024-9464
  An OS command injection vulnerability in Palo Alto Networks Expedition allows an authenticated attacker to run arbitrary OS commands as root in Expedition, resulting in disclosure of usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls.
@@ -71242,6 +71248,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/nth347/CVE-2021-31805](https://github.com/nth347/CVE-2021-31805) : ![starts](https://img.shields.io/github/stars/nth347/CVE-2021-31805.svg) ![forks](https://img.shields.io/github/forks/nth347/CVE-2021-31805.svg)
 
+- [https://github.com/nth347/struts2-CVE-2021-31805](https://github.com/nth347/struts2-CVE-2021-31805) : ![starts](https://img.shields.io/github/stars/nth347/struts2-CVE-2021-31805.svg) ![forks](https://img.shields.io/github/forks/nth347/struts2-CVE-2021-31805.svg)
+
 ## CVE-2021-31800
  Multiple path traversal vulnerabilities exist in smbserver.py in Impacket through 0.9.22. An attacker that connects to a running smbserver instance can list and write to arbitrary files via ../ directory traversal. This could potentially be abused to achieve arbitrary code execution by replacing /etc/shadow or an SSH authorized key.
 
@@ -93346,6 +93354,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 - [https://github.com/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC](https://github.com/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC) : ![starts](https://img.shields.io/github/stars/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC.svg) ![forks](https://img.shields.io/github/forks/krisdewa/CVE-2017-9841-PHPUnit-Remote-Code-Execution-PoC.svg)
 
 - [https://github.com/CheLover86/CVE-2017-9841](https://github.com/CheLover86/CVE-2017-9841) : ![starts](https://img.shields.io/github/stars/CheLover86/CVE-2017-9841.svg) ![forks](https://img.shields.io/github/forks/CheLover86/CVE-2017-9841.svg)
+
+- [https://github.com/drcrypterdotru/PHPUnit-GoScan](https://github.com/drcrypterdotru/PHPUnit-GoScan) : ![starts](https://img.shields.io/github/stars/drcrypterdotru/PHPUnit-GoScan.svg) ![forks](https://img.shields.io/github/forks/drcrypterdotru/PHPUnit-GoScan.svg)
 
 ## CVE-2017-9833
  /cgi-bin/wapopen in Boa 0.94.14rc21 allows the injection of "../.." using the FILECAMERA variable (sent by GET) to read files with root privileges. NOTE: multiple third parties report that this is a system-integrator issue (e.g., a vulnerability on one type of camera) because Boa does not include any wapopen program or any code to read a FILECAMERA variable.

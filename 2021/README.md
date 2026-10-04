@@ -4367,6 +4367,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/nth347/CVE-2021-31805](https://github.com/nth347/CVE-2021-31805) : ![starts](https://img.shields.io/github/stars/nth347/CVE-2021-31805.svg) ![forks](https://img.shields.io/github/forks/nth347/CVE-2021-31805.svg)
 
+- [https://github.com/nth347/struts2-CVE-2021-31805](https://github.com/nth347/struts2-CVE-2021-31805) : ![starts](https://img.shields.io/github/stars/nth347/struts2-CVE-2021-31805.svg) ![forks](https://img.shields.io/github/forks/nth347/struts2-CVE-2021-31805.svg)
+
 ## CVE-2021-31800
  Multiple path traversal vulnerabilities exist in smbserver.py in Impacket through 0.9.22. An attacker that connects to a running smbserver instance can list and write to arbitrary files via ../ directory traversal. This could potentially be abused to achieve arbitrary code execution by replacing /etc/shadow or an SSH authorized key.
 

@@ -14,22 +14,24 @@
       "stop_reason": null
     },
     "clean_apply": {
-      "affected_years": [],
-      "applied_at": "2026-10-04T07:10:39Z",
+      "affected_years": [
+        "2017",
+        "2025"
+      ],
+      "applied_at": "2026-10-04T07:20:53Z",
       "applied_rejected": 0,
-      "revoked_accepted": 0,
+      "revoked_accepted": 2,
       "revoked_rejected": 0,
       "rule_version": "2",
       "still_pending_meta": 0
     },
     "queue": {
       "due_by_priority": {
-        "0": 27,
-        "5": 11697,
-        "8": 7531
+        "5": 11424,
+        "8": 7533
       },
-      "due_now": 19255,
-      "oldest_due": "2026-09-24T12:25:43Z",
+      "due_now": 18957,
+      "oldest_due": "2026-09-24T16:32:03Z",
       "tasks_total": 21482
     },
     "recheck": {
@@ -41,7 +43,7 @@
       "rule_version": "2"
     },
     "render": {
-      "changed_files": 0
+      "changed_files": 6
     },
     "repo_watch": {
       "blocked": 0,
@@ -63,9 +65,9 @@
       "budget_stopped": true,
       "incomplete": 0,
       "invalid_id_skipped": 0,
-      "needs_review": 0,
-      "new_relations": 0,
-      "rejected_at_collection": 0,
+      "needs_review": 102,
+      "new_relations": 5,
+      "rejected_at_collection": 64,
       "scanned": 300,
       "task_errors": 0,
       "tasks_due": 10000
@@ -88,5 +90,5 @@
       "problems": []
     }
   },
-  "ts": "2026-10-04T07:10:40Z"
+  "ts": "2026-10-04T07:20:54Z"
 }
