@@ -1288,6 +1288,8 @@ errors to the existing AH6 input and output error paths.
 
 - [https://github.com/HORKimhab/CVE-2026-80844](https://github.com/HORKimhab/CVE-2026-80844) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-80844.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-80844.svg)
 
+- [https://github.com/suominen/dirtyah6](https://github.com/suominen/dirtyah6) : ![starts](https://img.shields.io/github/stars/suominen/dirtyah6.svg) ![forks](https://img.shields.io/github/forks/suominen/dirtyah6.svg)
+
 ## CVE-2026-80724
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -4177,6 +4179,8 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 - [https://github.com/erberkan/CVE-2026-60004-PoC](https://github.com/erberkan/CVE-2026-60004-PoC) : ![starts](https://img.shields.io/github/stars/erberkan/CVE-2026-60004-PoC.svg) ![forks](https://img.shields.io/github/forks/erberkan/CVE-2026-60004-PoC.svg)
 
 - [https://github.com/Sachinart/CVE-2026-60004-gitea-0day](https://github.com/Sachinart/CVE-2026-60004-gitea-0day) : ![starts](https://img.shields.io/github/stars/Sachinart/CVE-2026-60004-gitea-0day.svg) ![forks](https://img.shields.io/github/forks/Sachinart/CVE-2026-60004-gitea-0day.svg)
+
+- [https://github.com/yym8538/CVE-2026-60004](https://github.com/yym8538/CVE-2026-60004) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-60004.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-60004.svg)
 
 ## CVE-2026-59941
  Dompdf is an HTML to PDF converter for PHP. Versions 3.15 and prior accept a BMP image and generates a PDF-compatible PNG based only on its declared header dimensions and never bounds width × height before the image is converted through GD. A 58-byte BMP whose header declares e.g. 6000×6000 is accepted and later drives imagecreatetruecolor($width, $height) (and PHP's native BMP decoder) to allocate the full pixel canvas. A payload can fit in a single HTTP request: the BMP can be inlined as a data:image/bmp;base64,… URI inside attacker-controlled HTML, so no upload, no remote fetch, and no chroot-reachable file is required. I measured a 169-byte request driving a dompdf render to ~412 MB peak RSS and ~4.8 s of CPU/wall time, versus ~34 MB for an identically-sized benign request — roughly a 12× memory amplification per request, repeatable and unauthenticated. This issue has been fixed in version 3.16.

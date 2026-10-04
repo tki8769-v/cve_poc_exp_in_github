@@ -820,6 +820,372 @@
 
 - [https://github.com/osflaky/exp-logpresso-CVE-2021-44228-Scanner](https://github.com/osflaky/exp-logpresso-CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/osflaky/exp-logpresso-CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/osflaky/exp-logpresso-CVE-2021-44228-Scanner.svg)
 
+- [https://github.com/roxas-tan/CVE-2021-44228](https://github.com/roxas-tan/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/roxas-tan/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/roxas-tan/CVE-2021-44228.svg)
+
+- [https://github.com/wortell/log4j](https://github.com/wortell/log4j) : ![starts](https://img.shields.io/github/stars/wortell/log4j.svg) ![forks](https://img.shields.io/github/forks/wortell/log4j.svg)
+
+- [https://github.com/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs](https://github.com/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs) : ![starts](https://img.shields.io/github/stars/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs.svg) ![forks](https://img.shields.io/github/forks/Sh0ckFR/log4j-CVE-2021-44228-Public-IoCs.svg)
+
+- [https://github.com/Tai-e/CVE-2021-44228](https://github.com/Tai-e/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/Tai-e/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/Tai-e/CVE-2021-44228.svg)
+
+- [https://github.com/immunityinc/Log4j-JNDIServer](https://github.com/immunityinc/Log4j-JNDIServer) : ![starts](https://img.shields.io/github/stars/immunityinc/Log4j-JNDIServer.svg) ![forks](https://img.shields.io/github/forks/immunityinc/Log4j-JNDIServer.svg)
+
+- [https://github.com/kubearmor/log4j-CVE-2021-44228](https://github.com/kubearmor/log4j-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/kubearmor/log4j-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/kubearmor/log4j-CVE-2021-44228.svg)
+
+- [https://github.com/obscuritylabs/log4shell-poc-lab](https://github.com/obscuritylabs/log4shell-poc-lab) : ![starts](https://img.shields.io/github/stars/obscuritylabs/log4shell-poc-lab.svg) ![forks](https://img.shields.io/github/forks/obscuritylabs/log4shell-poc-lab.svg)
+
+- [https://github.com/qingtengyun/cve-2021-44228-qingteng-patch](https://github.com/qingtengyun/cve-2021-44228-qingteng-patch) : ![starts](https://img.shields.io/github/stars/qingtengyun/cve-2021-44228-qingteng-patch.svg) ![forks](https://img.shields.io/github/forks/qingtengyun/cve-2021-44228-qingteng-patch.svg)
+
+- [https://github.com/Labout/log4shell-rmi-poc](https://github.com/Labout/log4shell-rmi-poc) : ![starts](https://img.shields.io/github/stars/Labout/log4shell-rmi-poc.svg) ![forks](https://img.shields.io/github/forks/Labout/log4shell-rmi-poc.svg)
+
+- [https://github.com/atnetws/fail2ban-log4j](https://github.com/atnetws/fail2ban-log4j) : ![starts](https://img.shields.io/github/stars/atnetws/fail2ban-log4j.svg) ![forks](https://img.shields.io/github/forks/atnetws/fail2ban-log4j.svg)
+
+- [https://github.com/cybersecurityworks553/log4j-shell-csw](https://github.com/cybersecurityworks553/log4j-shell-csw) : ![starts](https://img.shields.io/github/stars/cybersecurityworks553/log4j-shell-csw.svg) ![forks](https://img.shields.io/github/forks/cybersecurityworks553/log4j-shell-csw.svg)
+
+- [https://github.com/lfama/log4j_checker](https://github.com/lfama/log4j_checker) : ![starts](https://img.shields.io/github/stars/lfama/log4j_checker.svg) ![forks](https://img.shields.io/github/forks/lfama/log4j_checker.svg)
+
+- [https://github.com/sunnyvale-it/CVE-2021-44228-PoC](https://github.com/sunnyvale-it/CVE-2021-44228-PoC) : ![starts](https://img.shields.io/github/stars/sunnyvale-it/CVE-2021-44228-PoC.svg) ![forks](https://img.shields.io/github/forks/sunnyvale-it/CVE-2021-44228-PoC.svg)
+
+- [https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes](https://github.com/Azeemering/CVE-2021-44228-DFIR-Notes) : ![starts](https://img.shields.io/github/stars/Azeemering/CVE-2021-44228-DFIR-Notes.svg) ![forks](https://img.shields.io/github/forks/Azeemering/CVE-2021-44228-DFIR-Notes.svg)
+
+- [https://github.com/KeysAU/Get-log4j-Windows.ps1](https://github.com/KeysAU/Get-log4j-Windows.ps1) : ![starts](https://img.shields.io/github/stars/KeysAU/Get-log4j-Windows.ps1.svg) ![forks](https://img.shields.io/github/forks/KeysAU/Get-log4j-Windows.ps1.svg)
+
+- [https://github.com/KosmX/CVE-2021-44228-example](https://github.com/KosmX/CVE-2021-44228-example) : ![starts](https://img.shields.io/github/stars/KosmX/CVE-2021-44228-example.svg) ![forks](https://img.shields.io/github/forks/KosmX/CVE-2021-44228-example.svg)
+
+- [https://github.com/OopsieWoopsie/mc-log4j-patcher](https://github.com/OopsieWoopsie/mc-log4j-patcher) : ![starts](https://img.shields.io/github/stars/OopsieWoopsie/mc-log4j-patcher.svg) ![forks](https://img.shields.io/github/forks/OopsieWoopsie/mc-log4j-patcher.svg)
+
+- [https://github.com/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit](https://github.com/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit) : ![starts](https://img.shields.io/github/stars/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit.svg) ![forks](https://img.shields.io/github/forks/TaroballzChen/CVE-2021-44228-log4jVulnScanner-metasploit.svg)
+
+- [https://github.com/aajuvonen/log4j-hackrf-waveforms](https://github.com/aajuvonen/log4j-hackrf-waveforms) : ![starts](https://img.shields.io/github/stars/aajuvonen/log4j-hackrf-waveforms.svg) ![forks](https://img.shields.io/github/forks/aajuvonen/log4j-hackrf-waveforms.svg)
+
+- [https://github.com/marcourbano/CVE-2021-44228](https://github.com/marcourbano/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/marcourbano/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/marcourbano/CVE-2021-44228.svg)
+
+- [https://github.com/momos1337/Log4j-RCE](https://github.com/momos1337/Log4j-RCE) : ![starts](https://img.shields.io/github/stars/momos1337/Log4j-RCE.svg) ![forks](https://img.shields.io/github/forks/momos1337/Log4j-RCE.svg)
+
+- [https://github.com/mschmnet/Log4Shell-demo](https://github.com/mschmnet/Log4Shell-demo) : ![starts](https://img.shields.io/github/stars/mschmnet/Log4Shell-demo.svg) ![forks](https://img.shields.io/github/forks/mschmnet/Log4Shell-demo.svg)
+
+- [https://github.com/r00thunter/Log4Shell](https://github.com/r00thunter/Log4Shell) : ![starts](https://img.shields.io/github/stars/r00thunter/Log4Shell.svg) ![forks](https://img.shields.io/github/forks/r00thunter/Log4Shell.svg)
+
+- [https://github.com/4jfinder/4jfinder.github.io](https://github.com/4jfinder/4jfinder.github.io) : ![starts](https://img.shields.io/github/stars/4jfinder/4jfinder.github.io.svg) ![forks](https://img.shields.io/github/forks/4jfinder/4jfinder.github.io.svg)
+
+- [https://github.com/AlexandreHeroux/Fix-CVE-2021-44228](https://github.com/AlexandreHeroux/Fix-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/AlexandreHeroux/Fix-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/AlexandreHeroux/Fix-CVE-2021-44228.svg)
+
+- [https://github.com/DragonSurvivalEU/RCE](https://github.com/DragonSurvivalEU/RCE) : ![starts](https://img.shields.io/github/stars/DragonSurvivalEU/RCE.svg) ![forks](https://img.shields.io/github/forks/DragonSurvivalEU/RCE.svg)
+
+- [https://github.com/demining/Log4j-Vulnerability](https://github.com/demining/Log4j-Vulnerability) : ![starts](https://img.shields.io/github/stars/demining/Log4j-Vulnerability.svg) ![forks](https://img.shields.io/github/forks/demining/Log4j-Vulnerability.svg)
+
+- [https://github.com/irgoncalves/f5-waf-enforce-sig-CVE-2021-44228](https://github.com/irgoncalves/f5-waf-enforce-sig-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/irgoncalves/f5-waf-enforce-sig-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/irgoncalves/f5-waf-enforce-sig-CVE-2021-44228.svg)
+
+- [https://github.com/isuruwa/Log4j](https://github.com/isuruwa/Log4j) : ![starts](https://img.shields.io/github/stars/isuruwa/Log4j.svg) ![forks](https://img.shields.io/github/forks/isuruwa/Log4j.svg)
+
+- [https://github.com/justakazh/Log4j-CVE-2021-44228](https://github.com/justakazh/Log4j-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/justakazh/Log4j-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/justakazh/Log4j-CVE-2021-44228.svg)
+
+- [https://github.com/mrlnstk/cve-2021-44228-minecraft-poc](https://github.com/mrlnstk/cve-2021-44228-minecraft-poc) : ![starts](https://img.shields.io/github/stars/mrlnstk/cve-2021-44228-minecraft-poc.svg) ![forks](https://img.shields.io/github/forks/mrlnstk/cve-2021-44228-minecraft-poc.svg)
+
+- [https://github.com/ssl/scan4log4j](https://github.com/ssl/scan4log4j) : ![starts](https://img.shields.io/github/stars/ssl/scan4log4j.svg) ![forks](https://img.shields.io/github/forks/ssl/scan4log4j.svg)
+
+- [https://github.com/KeysAU/Get-log4j-Windows-local](https://github.com/KeysAU/Get-log4j-Windows-local) : ![starts](https://img.shields.io/github/stars/KeysAU/Get-log4j-Windows-local.svg) ![forks](https://img.shields.io/github/forks/KeysAU/Get-log4j-Windows-local.svg)
+
+- [https://github.com/OlafHaalstra/log4jcheck](https://github.com/OlafHaalstra/log4jcheck) : ![starts](https://img.shields.io/github/stars/OlafHaalstra/log4jcheck.svg) ![forks](https://img.shields.io/github/forks/OlafHaalstra/log4jcheck.svg)
+
+- [https://github.com/ankur-katiyar/log4j-docker](https://github.com/ankur-katiyar/log4j-docker) : ![starts](https://img.shields.io/github/stars/ankur-katiyar/log4j-docker.svg) ![forks](https://img.shields.io/github/forks/ankur-katiyar/log4j-docker.svg)
+
+- [https://github.com/jacobtread/L4J-Vuln-Patch](https://github.com/jacobtread/L4J-Vuln-Patch) : ![starts](https://img.shields.io/github/stars/jacobtread/L4J-Vuln-Patch.svg) ![forks](https://img.shields.io/github/forks/jacobtread/L4J-Vuln-Patch.svg)
+
+- [https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228](https://github.com/manuel-alvarez-alvarez/log4j-cve-2021-44228) : ![starts](https://img.shields.io/github/stars/manuel-alvarez-alvarez/log4j-cve-2021-44228.svg) ![forks](https://img.shields.io/github/forks/manuel-alvarez-alvarez/log4j-cve-2021-44228.svg)
+
+- [https://github.com/many-fac3d-g0d/apache-tomcat-log4j](https://github.com/many-fac3d-g0d/apache-tomcat-log4j) : ![starts](https://img.shields.io/github/stars/many-fac3d-g0d/apache-tomcat-log4j.svg) ![forks](https://img.shields.io/github/forks/many-fac3d-g0d/apache-tomcat-log4j.svg)
+
+- [https://github.com/maximofernandezriera/CVE-2021-44228](https://github.com/maximofernandezriera/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/maximofernandezriera/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/maximofernandezriera/CVE-2021-44228.svg)
+
+- [https://github.com/mrjameshamilton/log4shell-detector](https://github.com/mrjameshamilton/log4shell-detector) : ![starts](https://img.shields.io/github/stars/mrjameshamilton/log4shell-detector.svg) ![forks](https://img.shields.io/github/forks/mrjameshamilton/log4shell-detector.svg)
+
+- [https://github.com/phoswald/sample-ldap-exploit](https://github.com/phoswald/sample-ldap-exploit) : ![starts](https://img.shields.io/github/stars/phoswald/sample-ldap-exploit.svg) ![forks](https://img.shields.io/github/forks/phoswald/sample-ldap-exploit.svg)
+
+- [https://github.com/snapattack/damn-vulnerable-log4j-app](https://github.com/snapattack/damn-vulnerable-log4j-app) : ![starts](https://img.shields.io/github/stars/snapattack/damn-vulnerable-log4j-app.svg) ![forks](https://img.shields.io/github/forks/snapattack/damn-vulnerable-log4j-app.svg)
+
+- [https://github.com/sud0x00/log4j-CVE-2021-44228](https://github.com/sud0x00/log4j-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/sud0x00/log4j-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/sud0x00/log4j-CVE-2021-44228.svg)
+
+- [https://github.com/suuhm/log4shell4shell](https://github.com/suuhm/log4shell4shell) : ![starts](https://img.shields.io/github/stars/suuhm/log4shell4shell.svg) ![forks](https://img.shields.io/github/forks/suuhm/log4shell4shell.svg)
+
+- [https://github.com/winnpixie/log4noshell](https://github.com/winnpixie/log4noshell) : ![starts](https://img.shields.io/github/stars/winnpixie/log4noshell.svg) ![forks](https://img.shields.io/github/forks/winnpixie/log4noshell.svg)
+
+- [https://github.com/Koupah/MC-Log4j-Patcher](https://github.com/Koupah/MC-Log4j-Patcher) : ![starts](https://img.shields.io/github/stars/Koupah/MC-Log4j-Patcher.svg) ![forks](https://img.shields.io/github/forks/Koupah/MC-Log4j-Patcher.svg)
+
+- [https://github.com/Kr0ff/CVE-2021-44228](https://github.com/Kr0ff/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/Kr0ff/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/Kr0ff/CVE-2021-44228.svg)
+
+- [https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce](https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce) : ![starts](https://img.shields.io/github/stars/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce.svg) ![forks](https://img.shields.io/github/forks/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce.svg)
+
+- [https://github.com/MrHarshvardhan/PY-Log4j-RCE-Scanner](https://github.com/MrHarshvardhan/PY-Log4j-RCE-Scanner) : ![starts](https://img.shields.io/github/stars/MrHarshvardhan/PY-Log4j-RCE-Scanner.svg) ![forks](https://img.shields.io/github/forks/MrHarshvardhan/PY-Log4j-RCE-Scanner.svg)
+
+- [https://github.com/Occamsec/log4j-checker](https://github.com/Occamsec/log4j-checker) : ![starts](https://img.shields.io/github/stars/Occamsec/log4j-checker.svg) ![forks](https://img.shields.io/github/forks/Occamsec/log4j-checker.svg)
+
+- [https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE](https://github.com/corneacristian/Log4J-CVE-2021-44228-RCE) : ![starts](https://img.shields.io/github/stars/corneacristian/Log4J-CVE-2021-44228-RCE.svg) ![forks](https://img.shields.io/github/forks/corneacristian/Log4J-CVE-2021-44228-RCE.svg)
+
+- [https://github.com/dbzoo/log4j_scanner](https://github.com/dbzoo/log4j_scanner) : ![starts](https://img.shields.io/github/stars/dbzoo/log4j_scanner.svg) ![forks](https://img.shields.io/github/forks/dbzoo/log4j_scanner.svg)
+
+- [https://github.com/inettgmbh/checkmk-log4j-scanner](https://github.com/inettgmbh/checkmk-log4j-scanner) : ![starts](https://img.shields.io/github/stars/inettgmbh/checkmk-log4j-scanner.svg) ![forks](https://img.shields.io/github/forks/inettgmbh/checkmk-log4j-scanner.svg)
+
+- [https://github.com/lucab85/ansible-role-log4shell](https://github.com/lucab85/ansible-role-log4shell) : ![starts](https://img.shields.io/github/stars/lucab85/ansible-role-log4shell.svg) ![forks](https://img.shields.io/github/forks/lucab85/ansible-role-log4shell.svg)
+
+- [https://github.com/michaelsanford/Log4Shell-Honeypot](https://github.com/michaelsanford/Log4Shell-Honeypot) : ![starts](https://img.shields.io/github/stars/michaelsanford/Log4Shell-Honeypot.svg) ![forks](https://img.shields.io/github/forks/michaelsanford/Log4Shell-Honeypot.svg)
+
+- [https://github.com/nkoneko/VictimApp](https://github.com/nkoneko/VictimApp) : ![starts](https://img.shields.io/github/stars/nkoneko/VictimApp.svg) ![forks](https://img.shields.io/github/forks/nkoneko/VictimApp.svg)
+
+- [https://github.com/shamo0/CVE-2021-44228](https://github.com/shamo0/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/shamo0/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/shamo0/CVE-2021-44228.svg)
+
+- [https://github.com/sinakeshmiri/log4jScan](https://github.com/sinakeshmiri/log4jScan) : ![starts](https://img.shields.io/github/stars/sinakeshmiri/log4jScan.svg) ![forks](https://img.shields.io/github/forks/sinakeshmiri/log4jScan.svg)
+
+- [https://github.com/toramanemre/apache-solr-log4j-CVE-2021-44228](https://github.com/toramanemre/apache-solr-log4j-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/toramanemre/apache-solr-log4j-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/toramanemre/apache-solr-log4j-CVE-2021-44228.svg)
+
+- [https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV](https://github.com/ycdxsb/Log4Shell-CVE-2021-44228-ENV) : ![starts](https://img.shields.io/github/stars/ycdxsb/Log4Shell-CVE-2021-44228-ENV.svg) ![forks](https://img.shields.io/github/forks/ycdxsb/Log4Shell-CVE-2021-44228-ENV.svg)
+
+- [https://github.com/yesspider-hacker/log4j-payload-generator](https://github.com/yesspider-hacker/log4j-payload-generator) : ![starts](https://img.shields.io/github/stars/yesspider-hacker/log4j-payload-generator.svg) ![forks](https://img.shields.io/github/forks/yesspider-hacker/log4j-payload-generator.svg)
+
+- [https://github.com/zzzz0317/log4j2-vulnerable-spring-app](https://github.com/zzzz0317/log4j2-vulnerable-spring-app) : ![starts](https://img.shields.io/github/stars/zzzz0317/log4j2-vulnerable-spring-app.svg) ![forks](https://img.shields.io/github/forks/zzzz0317/log4j2-vulnerable-spring-app.svg)
+
+- [https://github.com/Ananya-0306/Log-4j-scanner](https://github.com/Ananya-0306/Log-4j-scanner) : ![starts](https://img.shields.io/github/stars/Ananya-0306/Log-4j-scanner.svg) ![forks](https://img.shields.io/github/forks/Ananya-0306/Log-4j-scanner.svg)
+
+- [https://github.com/ChandanShastri/Log4j_Vulnerability_Demo](https://github.com/ChandanShastri/Log4j_Vulnerability_Demo) : ![starts](https://img.shields.io/github/stars/ChandanShastri/Log4j_Vulnerability_Demo.svg) ![forks](https://img.shields.io/github/forks/ChandanShastri/Log4j_Vulnerability_Demo.svg)
+
+- [https://github.com/CrackerCat/CVE-2021-44228-Log4j-Payloads](https://github.com/CrackerCat/CVE-2021-44228-Log4j-Payloads) : ![starts](https://img.shields.io/github/stars/CrackerCat/CVE-2021-44228-Log4j-Payloads.svg) ![forks](https://img.shields.io/github/forks/CrackerCat/CVE-2021-44228-Log4j-Payloads.svg)
+
+- [https://github.com/Joefreedy/Log4j-Windows-Scanner](https://github.com/Joefreedy/Log4j-Windows-Scanner) : ![starts](https://img.shields.io/github/stars/Joefreedy/Log4j-Windows-Scanner.svg) ![forks](https://img.shields.io/github/forks/Joefreedy/Log4j-Windows-Scanner.svg)
+
+- [https://github.com/KirkDJohnson/Wireshark](https://github.com/KirkDJohnson/Wireshark) : ![starts](https://img.shields.io/github/stars/KirkDJohnson/Wireshark.svg) ![forks](https://img.shields.io/github/forks/KirkDJohnson/Wireshark.svg)
+
+- [https://github.com/Moondarker/mc-log4j-safety-check](https://github.com/Moondarker/mc-log4j-safety-check) : ![starts](https://img.shields.io/github/stars/Moondarker/mc-log4j-safety-check.svg) ![forks](https://img.shields.io/github/forks/Moondarker/mc-log4j-safety-check.svg)
+
+- [https://github.com/Sma-Das/Log4j-PoC](https://github.com/Sma-Das/Log4j-PoC) : ![starts](https://img.shields.io/github/stars/Sma-Das/Log4j-PoC.svg) ![forks](https://img.shields.io/github/forks/Sma-Das/Log4j-PoC.svg)
+
+- [https://github.com/alexandreroman/cve-2021-44228-workaround-buildpack](https://github.com/alexandreroman/cve-2021-44228-workaround-buildpack) : ![starts](https://img.shields.io/github/stars/alexandreroman/cve-2021-44228-workaround-buildpack.svg) ![forks](https://img.shields.io/github/forks/alexandreroman/cve-2021-44228-workaround-buildpack.svg)
+
+- [https://github.com/badb33f/Apache-Log4j-POC](https://github.com/badb33f/Apache-Log4j-POC) : ![starts](https://img.shields.io/github/stars/badb33f/Apache-Log4j-POC.svg) ![forks](https://img.shields.io/github/forks/badb33f/Apache-Log4j-POC.svg)
+
+- [https://github.com/codiobert/log4j-scanner](https://github.com/codiobert/log4j-scanner) : ![starts](https://img.shields.io/github/stars/codiobert/log4j-scanner.svg) ![forks](https://img.shields.io/github/forks/codiobert/log4j-scanner.svg)
+
+- [https://github.com/hotpotcookie/CVE-2021-44228-white-box](https://github.com/hotpotcookie/CVE-2021-44228-white-box) : ![starts](https://img.shields.io/github/stars/hotpotcookie/CVE-2021-44228-white-box.svg) ![forks](https://img.shields.io/github/forks/hotpotcookie/CVE-2021-44228-white-box.svg)
+
+- [https://github.com/irgoncalves/f5-waf-quick-patch-cve-2021-44228](https://github.com/irgoncalves/f5-waf-quick-patch-cve-2021-44228) : ![starts](https://img.shields.io/github/stars/irgoncalves/f5-waf-quick-patch-cve-2021-44228.svg) ![forks](https://img.shields.io/github/forks/irgoncalves/f5-waf-quick-patch-cve-2021-44228.svg)
+
+- [https://github.com/madCdan/JndiLookup](https://github.com/madCdan/JndiLookup) : ![starts](https://img.shields.io/github/stars/madCdan/JndiLookup.svg) ![forks](https://img.shields.io/github/forks/madCdan/JndiLookup.svg)
+
+- [https://github.com/mr-vill4in/log4j-fuzzer](https://github.com/mr-vill4in/log4j-fuzzer) : ![starts](https://img.shields.io/github/stars/mr-vill4in/log4j-fuzzer.svg) ![forks](https://img.shields.io/github/forks/mr-vill4in/log4j-fuzzer.svg)
+
+- [https://github.com/mss/log4shell-hotfix-side-effect](https://github.com/mss/log4shell-hotfix-side-effect) : ![starts](https://img.shields.io/github/stars/mss/log4shell-hotfix-side-effect.svg) ![forks](https://img.shields.io/github/forks/mss/log4shell-hotfix-side-effect.svg)
+
+- [https://github.com/pmontesd/log4j-cve-2021-44228](https://github.com/pmontesd/log4j-cve-2021-44228) : ![starts](https://img.shields.io/github/stars/pmontesd/log4j-cve-2021-44228.svg) ![forks](https://img.shields.io/github/forks/pmontesd/log4j-cve-2021-44228.svg)
+
+- [https://github.com/saharNooby/log4j-vulnerability-patcher-agent](https://github.com/saharNooby/log4j-vulnerability-patcher-agent) : ![starts](https://img.shields.io/github/stars/saharNooby/log4j-vulnerability-patcher-agent.svg) ![forks](https://img.shields.io/github/forks/saharNooby/log4j-vulnerability-patcher-agent.svg)
+
+- [https://github.com/tadash10/Exploiting-CVE-2021-44228-Log4Shell-in-a-Banking-Environment](https://github.com/tadash10/Exploiting-CVE-2021-44228-Log4Shell-in-a-Banking-Environment) : ![starts](https://img.shields.io/github/stars/tadash10/Exploiting-CVE-2021-44228-Log4Shell-in-a-Banking-Environment.svg) ![forks](https://img.shields.io/github/forks/tadash10/Exploiting-CVE-2021-44228-Log4Shell-in-a-Banking-Environment.svg)
+
+- [https://github.com/threatmonit/Log4j-IOCs](https://github.com/threatmonit/Log4j-IOCs) : ![starts](https://img.shields.io/github/stars/threatmonit/Log4j-IOCs.svg) ![forks](https://img.shields.io/github/forks/threatmonit/Log4j-IOCs.svg)
+
+- [https://github.com/ubitech/cve-2021-44228-rce-poc](https://github.com/ubitech/cve-2021-44228-rce-poc) : ![starts](https://img.shields.io/github/stars/ubitech/cve-2021-44228-rce-poc.svg) ![forks](https://img.shields.io/github/forks/ubitech/cve-2021-44228-rce-poc.svg)
+
+- [https://github.com/unlimitedsola/log4j2-rce-poc](https://github.com/unlimitedsola/log4j2-rce-poc) : ![starts](https://img.shields.io/github/stars/unlimitedsola/log4j2-rce-poc.svg) ![forks](https://img.shields.io/github/forks/unlimitedsola/log4j2-rce-poc.svg)
+
+- [https://github.com/vorburger/Log4j_CVE-2021-44228](https://github.com/vorburger/Log4j_CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/vorburger/Log4j_CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/vorburger/Log4j_CVE-2021-44228.svg)
+
+- [https://github.com/zlepper/CVE-2021-44228-Test-Server](https://github.com/zlepper/CVE-2021-44228-Test-Server) : ![starts](https://img.shields.io/github/stars/zlepper/CVE-2021-44228-Test-Server.svg) ![forks](https://img.shields.io/github/forks/zlepper/CVE-2021-44228-Test-Server.svg)
+
+- [https://github.com/1in9e/Apache-Log4j2-RCE](https://github.com/1in9e/Apache-Log4j2-RCE) : ![starts](https://img.shields.io/github/stars/1in9e/Apache-Log4j2-RCE.svg) ![forks](https://img.shields.io/github/forks/1in9e/Apache-Log4j2-RCE.svg)
+
+- [https://github.com/BabooPan/Log4Shell-CVE-2021-44228-Demo](https://github.com/BabooPan/Log4Shell-CVE-2021-44228-Demo) : ![starts](https://img.shields.io/github/stars/BabooPan/Log4Shell-CVE-2021-44228-Demo.svg) ![forks](https://img.shields.io/github/forks/BabooPan/Log4Shell-CVE-2021-44228-Demo.svg)
+
+- [https://github.com/ColdFusionX/CVE-2021-44228-Log4Shell-POC](https://github.com/ColdFusionX/CVE-2021-44228-Log4Shell-POC) : ![starts](https://img.shields.io/github/stars/ColdFusionX/CVE-2021-44228-Log4Shell-POC.svg) ![forks](https://img.shields.io/github/forks/ColdFusionX/CVE-2021-44228-Log4Shell-POC.svg)
+
+- [https://github.com/Fazmin/vCenter-Server-Workaround-Script-CVE-2021-44228](https://github.com/Fazmin/vCenter-Server-Workaround-Script-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/Fazmin/vCenter-Server-Workaround-Script-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/Fazmin/vCenter-Server-Workaround-Script-CVE-2021-44228.svg)
+
+- [https://github.com/VinniMarcon/Log4j-Updater](https://github.com/VinniMarcon/Log4j-Updater) : ![starts](https://img.shields.io/github/stars/VinniMarcon/Log4j-Updater.svg) ![forks](https://img.shields.io/github/forks/VinniMarcon/Log4j-Updater.svg)
+
+- [https://github.com/Vulnmachines/log4jshell_CVE-2021-44228](https://github.com/Vulnmachines/log4jshell_CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/Vulnmachines/log4jshell_CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/Vulnmachines/log4jshell_CVE-2021-44228.svg)
+
+- [https://github.com/XuCcc/ldapOOB](https://github.com/XuCcc/ldapOOB) : ![starts](https://img.shields.io/github/stars/XuCcc/ldapOOB.svg) ![forks](https://img.shields.io/github/forks/XuCcc/ldapOOB.svg)
+
+- [https://github.com/alenazi90/log4j](https://github.com/alenazi90/log4j) : ![starts](https://img.shields.io/github/stars/alenazi90/log4j.svg) ![forks](https://img.shields.io/github/forks/alenazi90/log4j.svg)
+
+- [https://github.com/alpacamybags118/log4j-cve-2021-44228-sample](https://github.com/alpacamybags118/log4j-cve-2021-44228-sample) : ![starts](https://img.shields.io/github/stars/alpacamybags118/log4j-cve-2021-44228-sample.svg) ![forks](https://img.shields.io/github/forks/alpacamybags118/log4j-cve-2021-44228-sample.svg)
+
+- [https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228](https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228.svg)
+
+- [https://github.com/avwolferen/Sitecore.Solr-log4j-mitigation](https://github.com/avwolferen/Sitecore.Solr-log4j-mitigation) : ![starts](https://img.shields.io/github/stars/avwolferen/Sitecore.Solr-log4j-mitigation.svg) ![forks](https://img.shields.io/github/forks/avwolferen/Sitecore.Solr-log4j-mitigation.svg)
+
+- [https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent](https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent) : ![starts](https://img.shields.io/github/stars/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent.svg) ![forks](https://img.shields.io/github/forks/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent.svg)
+
+- [https://github.com/b-abderrahmane/CVE-2021-44228-playground](https://github.com/b-abderrahmane/CVE-2021-44228-playground) : ![starts](https://img.shields.io/github/stars/b-abderrahmane/CVE-2021-44228-playground.svg) ![forks](https://img.shields.io/github/forks/b-abderrahmane/CVE-2021-44228-playground.svg)
+
+- [https://github.com/binganao/Log4j2-RCE](https://github.com/binganao/Log4j2-RCE) : ![starts](https://img.shields.io/github/stars/binganao/Log4j2-RCE.svg) ![forks](https://img.shields.io/github/forks/binganao/Log4j2-RCE.svg)
+
+- [https://github.com/byteboycn/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/byteboycn/CVE-2021-44228-Apache-Log4j-Rce) : ![starts](https://img.shields.io/github/stars/byteboycn/CVE-2021-44228-Apache-Log4j-Rce.svg) ![forks](https://img.shields.io/github/forks/byteboycn/CVE-2021-44228-Apache-Log4j-Rce.svg)
+
+- [https://github.com/chandru-gunasekaran/log4j-fix-CVE-2021-44228](https://github.com/chandru-gunasekaran/log4j-fix-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/chandru-gunasekaran/log4j-fix-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/chandru-gunasekaran/log4j-fix-CVE-2021-44228.svg)
+
+- [https://github.com/codexlynx/envoy-filter-log4shell](https://github.com/codexlynx/envoy-filter-log4shell) : ![starts](https://img.shields.io/github/stars/codexlynx/envoy-filter-log4shell.svg) ![forks](https://img.shields.io/github/forks/codexlynx/envoy-filter-log4shell.svg)
+
+- [https://github.com/dotPY-hax/log4py](https://github.com/dotPY-hax/log4py) : ![starts](https://img.shields.io/github/stars/dotPY-hax/log4py.svg) ![forks](https://img.shields.io/github/forks/dotPY-hax/log4py.svg)
+
+- [https://github.com/george-petrakis/log4j-scanner-CVE-2021-44228](https://github.com/george-petrakis/log4j-scanner-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/george-petrakis/log4j-scanner-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/george-petrakis/log4j-scanner-CVE-2021-44228.svg)
+
+- [https://github.com/jeffbryner/log4j-docker-vaccine](https://github.com/jeffbryner/log4j-docker-vaccine) : ![starts](https://img.shields.io/github/stars/jeffbryner/log4j-docker-vaccine.svg) ![forks](https://img.shields.io/github/forks/jeffbryner/log4j-docker-vaccine.svg)
+
+- [https://github.com/jeffli1024/log4j-rce-test](https://github.com/jeffli1024/log4j-rce-test) : ![starts](https://img.shields.io/github/stars/jeffli1024/log4j-rce-test.svg) ![forks](https://img.shields.io/github/forks/jeffli1024/log4j-rce-test.svg)
+
+- [https://github.com/julian911015/Log4j-Scanner-Exploit](https://github.com/julian911015/Log4j-Scanner-Exploit) : ![starts](https://img.shields.io/github/stars/julian911015/Log4j-Scanner-Exploit.svg) ![forks](https://img.shields.io/github/forks/julian911015/Log4j-Scanner-Exploit.svg)
+
+- [https://github.com/korteke/log4shell-demo](https://github.com/korteke/log4shell-demo) : ![starts](https://img.shields.io/github/stars/korteke/log4shell-demo.svg) ![forks](https://img.shields.io/github/forks/korteke/log4shell-demo.svg)
+
+- [https://github.com/lathika-3006/Solar-exploiting-log-4j](https://github.com/lathika-3006/Solar-exploiting-log-4j) : ![starts](https://img.shields.io/github/stars/lathika-3006/Solar-exploiting-log-4j.svg) ![forks](https://img.shields.io/github/forks/lathika-3006/Solar-exploiting-log-4j.svg)
+
+- [https://github.com/mkhazamipour/log4j-vulnerable-app-cve-2021-44228-terraform](https://github.com/mkhazamipour/log4j-vulnerable-app-cve-2021-44228-terraform) : ![starts](https://img.shields.io/github/stars/mkhazamipour/log4j-vulnerable-app-cve-2021-44228-terraform.svg) ![forks](https://img.shields.io/github/forks/mkhazamipour/log4j-vulnerable-app-cve-2021-44228-terraform.svg)
+
+- [https://github.com/motikan2010/RASP-CVE-2021-44228](https://github.com/motikan2010/RASP-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/motikan2010/RASP-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/motikan2010/RASP-CVE-2021-44228.svg)
+
+- [https://github.com/mzlogin/CVE-2021-44228-Demo](https://github.com/mzlogin/CVE-2021-44228-Demo) : ![starts](https://img.shields.io/github/stars/mzlogin/CVE-2021-44228-Demo.svg) ![forks](https://img.shields.io/github/forks/mzlogin/CVE-2021-44228-Demo.svg)
+
+- [https://github.com/perryflynn/find-log4j](https://github.com/perryflynn/find-log4j) : ![starts](https://img.shields.io/github/stars/perryflynn/find-log4j.svg) ![forks](https://img.shields.io/github/forks/perryflynn/find-log4j.svg)
+
+- [https://github.com/ph0lk3r/anti-jndi](https://github.com/ph0lk3r/anti-jndi) : ![starts](https://img.shields.io/github/stars/ph0lk3r/anti-jndi.svg) ![forks](https://img.shields.io/github/forks/ph0lk3r/anti-jndi.svg)
+
+- [https://github.com/spasam/log4j2-exploit](https://github.com/spasam/log4j2-exploit) : ![starts](https://img.shields.io/github/stars/spasam/log4j2-exploit.svg) ![forks](https://img.shields.io/github/forks/spasam/log4j2-exploit.svg)
+
+- [https://github.com/tasooshi/horrors-log4shell](https://github.com/tasooshi/horrors-log4shell) : ![starts](https://img.shields.io/github/stars/tasooshi/horrors-log4shell.svg) ![forks](https://img.shields.io/github/forks/tasooshi/horrors-log4shell.svg)
+
+- [https://github.com/taurusxin/CVE-2021-44228](https://github.com/taurusxin/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/taurusxin/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/taurusxin/CVE-2021-44228.svg)
+
+- [https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832](https://github.com/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832) : ![starts](https://img.shields.io/github/stars/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832.svg) ![forks](https://img.shields.io/github/forks/thedevappsecguy/Log4J-Mitigation-CVE-2021-44228--CVE-2021-45046--CVE-2021-45105--CVE-2021-44832.svg)
+
+- [https://github.com/y-security/yLog4j](https://github.com/y-security/yLog4j) : ![starts](https://img.shields.io/github/stars/y-security/yLog4j.svg) ![forks](https://img.shields.io/github/forks/y-security/yLog4j.svg)
+
+- [https://github.com/AhndreWalters/ProjectSecurity-Homelab](https://github.com/AhndreWalters/ProjectSecurity-Homelab) : ![starts](https://img.shields.io/github/stars/AhndreWalters/ProjectSecurity-Homelab.svg) ![forks](https://img.shields.io/github/forks/AhndreWalters/ProjectSecurity-Homelab.svg)
+
+- [https://github.com/Apipia/log4j-pcap-activity](https://github.com/Apipia/log4j-pcap-activity) : ![starts](https://img.shields.io/github/stars/Apipia/log4j-pcap-activity.svg) ![forks](https://img.shields.io/github/forks/Apipia/log4j-pcap-activity.svg)
+
+- [https://github.com/C00LN3T/Log4ShellAuditor](https://github.com/C00LN3T/Log4ShellAuditor) : ![starts](https://img.shields.io/github/stars/C00LN3T/Log4ShellAuditor.svg) ![forks](https://img.shields.io/github/forks/C00LN3T/Log4ShellAuditor.svg)
+
+- [https://github.com/Carlos-Mesquita/TPASLog4ShellPoC](https://github.com/Carlos-Mesquita/TPASLog4ShellPoC) : ![starts](https://img.shields.io/github/stars/Carlos-Mesquita/TPASLog4ShellPoC.svg) ![forks](https://img.shields.io/github/forks/Carlos-Mesquita/TPASLog4ShellPoC.svg)
+
+- [https://github.com/DiCanio/CVE-2021-44228-docker-example](https://github.com/DiCanio/CVE-2021-44228-docker-example) : ![starts](https://img.shields.io/github/stars/DiCanio/CVE-2021-44228-docker-example.svg) ![forks](https://img.shields.io/github/forks/DiCanio/CVE-2021-44228-docker-example.svg)
+
+- [https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder](https://github.com/GianlucaUlivi/log4j-firewall-blacklist-builder) : ![starts](https://img.shields.io/github/stars/GianlucaUlivi/log4j-firewall-blacklist-builder.svg) ![forks](https://img.shields.io/github/forks/GianlucaUlivi/log4j-firewall-blacklist-builder.svg)
+
+- [https://github.com/Hoanle396/CVE-2021-44228-demo](https://github.com/Hoanle396/CVE-2021-44228-demo) : ![starts](https://img.shields.io/github/stars/Hoanle396/CVE-2021-44228-demo.svg) ![forks](https://img.shields.io/github/forks/Hoanle396/CVE-2021-44228-demo.svg)
+
+- [https://github.com/Jiahong-Guan/log4j-shell-poc](https://github.com/Jiahong-Guan/log4j-shell-poc) : ![starts](https://img.shields.io/github/stars/Jiahong-Guan/log4j-shell-poc.svg) ![forks](https://img.shields.io/github/forks/Jiahong-Guan/log4j-shell-poc.svg)
+
+- [https://github.com/JiuBanSec/Log4j-CVE-2021-44228](https://github.com/JiuBanSec/Log4j-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/JiuBanSec/Log4j-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/JiuBanSec/Log4j-CVE-2021-44228.svg)
+
+- [https://github.com/MarceloLeite2604/log4j-vulnerability](https://github.com/MarceloLeite2604/log4j-vulnerability) : ![starts](https://img.shields.io/github/stars/MarceloLeite2604/log4j-vulnerability.svg) ![forks](https://img.shields.io/github/forks/MarceloLeite2604/log4j-vulnerability.svg)
+
+- [https://github.com/Panyaprach/Prove-CVE-2021-44228](https://github.com/Panyaprach/Prove-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/Panyaprach/Prove-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/Panyaprach/Prove-CVE-2021-44228.svg)
+
+- [https://github.com/Rk-000/Log4j_scan_Advance](https://github.com/Rk-000/Log4j_scan_Advance) : ![starts](https://img.shields.io/github/stars/Rk-000/Log4j_scan_Advance.svg) ![forks](https://img.shields.io/github/forks/Rk-000/Log4j_scan_Advance.svg)
+
+- [https://github.com/RrUZi/Awesome-CVE-2021-44228](https://github.com/RrUZi/Awesome-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/RrUZi/Awesome-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/RrUZi/Awesome-CVE-2021-44228.svg)
+
+- [https://github.com/TPower2112/Writing-Sample-1](https://github.com/TPower2112/Writing-Sample-1) : ![starts](https://img.shields.io/github/stars/TPower2112/Writing-Sample-1.svg) ![forks](https://img.shields.io/github/forks/TPower2112/Writing-Sample-1.svg)
+
+- [https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j](https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j) : ![starts](https://img.shields.io/github/stars/VerveIndustrialProtection/CVE-2021-44228-Log4j.svg) ![forks](https://img.shields.io/github/forks/VerveIndustrialProtection/CVE-2021-44228-Log4j.svg)
+
+- [https://github.com/Woahd/log4j-urlscanner](https://github.com/Woahd/log4j-urlscanner) : ![starts](https://img.shields.io/github/stars/Woahd/log4j-urlscanner.svg) ![forks](https://img.shields.io/github/forks/Woahd/log4j-urlscanner.svg)
+
+- [https://github.com/bcdunbar/CVE-2021-44228-poc](https://github.com/bcdunbar/CVE-2021-44228-poc) : ![starts](https://img.shields.io/github/stars/bcdunbar/CVE-2021-44228-poc.svg) ![forks](https://img.shields.io/github/forks/bcdunbar/CVE-2021-44228-poc.svg)
+
+- [https://github.com/cado-security/log4shell](https://github.com/cado-security/log4shell) : ![starts](https://img.shields.io/github/stars/cado-security/log4shell.svg) ![forks](https://img.shields.io/github/forks/cado-security/log4shell.svg)
+
+- [https://github.com/chilliwebs/CVE-2021-44228_Example](https://github.com/chilliwebs/CVE-2021-44228_Example) : ![starts](https://img.shields.io/github/stars/chilliwebs/CVE-2021-44228_Example.svg) ![forks](https://img.shields.io/github/forks/chilliwebs/CVE-2021-44228_Example.svg)
+
+- [https://github.com/danieljosmariyan7254/TryHackMe-Solar-exploiting-log4j-](https://github.com/danieljosmariyan7254/TryHackMe-Solar-exploiting-log4j-) : ![starts](https://img.shields.io/github/stars/danieljosmariyan7254/TryHackMe-Solar-exploiting-log4j-.svg) ![forks](https://img.shields.io/github/forks/danieljosmariyan7254/TryHackMe-Solar-exploiting-log4j-.svg)
+
+- [https://github.com/dpomnean/log4j_scanner_wrapper](https://github.com/dpomnean/log4j_scanner_wrapper) : ![starts](https://img.shields.io/github/stars/dpomnean/log4j_scanner_wrapper.svg) ![forks](https://img.shields.io/github/forks/dpomnean/log4j_scanner_wrapper.svg)
+
+- [https://github.com/gcmurphy/chk_log4j](https://github.com/gcmurphy/chk_log4j) : ![starts](https://img.shields.io/github/stars/gcmurphy/chk_log4j.svg) ![forks](https://img.shields.io/github/forks/gcmurphy/chk_log4j.svg)
+
+- [https://github.com/gkhns/Unified-HTB-Tier-2-](https://github.com/gkhns/Unified-HTB-Tier-2-) : ![starts](https://img.shields.io/github/stars/gkhns/Unified-HTB-Tier-2-.svg) ![forks](https://img.shields.io/github/forks/gkhns/Unified-HTB-Tier-2-.svg)
+
+- [https://github.com/guerzon/log4shellpoc](https://github.com/guerzon/log4shellpoc) : ![starts](https://img.shields.io/github/stars/guerzon/log4shellpoc.svg) ![forks](https://img.shields.io/github/forks/guerzon/log4shellpoc.svg)
+
+- [https://github.com/gyaansastra/CVE-2021-44228](https://github.com/gyaansastra/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/gyaansastra/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/gyaansastra/CVE-2021-44228.svg)
+
+- [https://github.com/halibobor/log4j2](https://github.com/halibobor/log4j2) : ![starts](https://img.shields.io/github/stars/halibobor/log4j2.svg) ![forks](https://img.shields.io/github/forks/halibobor/log4j2.svg)
+
+- [https://github.com/helsecert/CVE-2021-44228](https://github.com/helsecert/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/helsecert/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/helsecert/CVE-2021-44228.svg)
+
+- [https://github.com/horrister/log4shell-cve-2021-44228](https://github.com/horrister/log4shell-cve-2021-44228) : ![starts](https://img.shields.io/github/stars/horrister/log4shell-cve-2021-44228.svg) ![forks](https://img.shields.io/github/forks/horrister/log4shell-cve-2021-44228.svg)
+
+- [https://github.com/jaehnri/CVE-2021-44228](https://github.com/jaehnri/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/jaehnri/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/jaehnri/CVE-2021-44228.svg)
+
+- [https://github.com/jetming/Log4j2ActiveScan](https://github.com/jetming/Log4j2ActiveScan) : ![starts](https://img.shields.io/github/stars/jetming/Log4j2ActiveScan.svg) ![forks](https://img.shields.io/github/forks/jetming/Log4j2ActiveScan.svg)
+
+- [https://github.com/kal1gh0st/MyLog4Shell](https://github.com/kal1gh0st/MyLog4Shell) : ![starts](https://img.shields.io/github/stars/kal1gh0st/MyLog4Shell.svg) ![forks](https://img.shields.io/github/forks/kal1gh0st/MyLog4Shell.svg)
+
+- [https://github.com/kali-dass/CVE-2021-44228-log4Shell](https://github.com/kali-dass/CVE-2021-44228-log4Shell) : ![starts](https://img.shields.io/github/stars/kali-dass/CVE-2021-44228-log4Shell.svg) ![forks](https://img.shields.io/github/forks/kali-dass/CVE-2021-44228-log4Shell.svg)
+
+- [https://github.com/kimobu/cve-2021-44228](https://github.com/kimobu/cve-2021-44228) : ![starts](https://img.shields.io/github/stars/kimobu/cve-2021-44228.svg) ![forks](https://img.shields.io/github/forks/kimobu/cve-2021-44228.svg)
+
+- [https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228](https://github.com/lhotari/pulsar-docker-images-patch-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/lhotari/pulsar-docker-images-patch-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/lhotari/pulsar-docker-images-patch-CVE-2021-44228.svg)
+
+- [https://github.com/manishkanyal/log4j-scanner](https://github.com/manishkanyal/log4j-scanner) : ![starts](https://img.shields.io/github/stars/manishkanyal/log4j-scanner.svg) ![forks](https://img.shields.io/github/forks/manishkanyal/log4j-scanner.svg)
+
+- [https://github.com/mn-io/log4j-spring-vuln-poc](https://github.com/mn-io/log4j-spring-vuln-poc) : ![starts](https://img.shields.io/github/stars/mn-io/log4j-spring-vuln-poc.svg) ![forks](https://img.shields.io/github/forks/mn-io/log4j-spring-vuln-poc.svg)
+
+- [https://github.com/moshuum/tf-log4j-aws-poc](https://github.com/moshuum/tf-log4j-aws-poc) : ![starts](https://img.shields.io/github/stars/moshuum/tf-log4j-aws-poc.svg) ![forks](https://img.shields.io/github/forks/moshuum/tf-log4j-aws-poc.svg)
+
+- [https://github.com/nix-xin/vuln4japi](https://github.com/nix-xin/vuln4japi) : ![starts](https://img.shields.io/github/stars/nix-xin/vuln4japi.svg) ![forks](https://img.shields.io/github/forks/nix-xin/vuln4japi.svg)
+
+- [https://github.com/nu11secur1ty/CVE-2021-44228-VULN-APP](https://github.com/nu11secur1ty/CVE-2021-44228-VULN-APP) : ![starts](https://img.shields.io/github/stars/nu11secur1ty/CVE-2021-44228-VULN-APP.svg) ![forks](https://img.shields.io/github/forks/nu11secur1ty/CVE-2021-44228-VULN-APP.svg)
+
+- [https://github.com/p3dr16k/log4j-1.2.15-mod](https://github.com/p3dr16k/log4j-1.2.15-mod) : ![starts](https://img.shields.io/github/stars/p3dr16k/log4j-1.2.15-mod.svg) ![forks](https://img.shields.io/github/forks/p3dr16k/log4j-1.2.15-mod.svg)
+
+- [https://github.com/pierpaolosestito-dev/Log4Shell-CVE-2021-44228-PoC](https://github.com/pierpaolosestito-dev/Log4Shell-CVE-2021-44228-PoC) : ![starts](https://img.shields.io/github/stars/pierpaolosestito-dev/Log4Shell-CVE-2021-44228-PoC.svg) ![forks](https://img.shields.io/github/forks/pierpaolosestito-dev/Log4Shell-CVE-2021-44228-PoC.svg)
+
+- [https://github.com/pravin-pp/log4j2-CVE-2021-44228](https://github.com/pravin-pp/log4j2-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/pravin-pp/log4j2-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/pravin-pp/log4j2-CVE-2021-44228.svg)
+
+- [https://github.com/qw3rtyou/CVE-2021-44228_dockernize](https://github.com/qw3rtyou/CVE-2021-44228_dockernize) : ![starts](https://img.shields.io/github/stars/qw3rtyou/CVE-2021-44228_dockernize.svg) ![forks](https://img.shields.io/github/forks/qw3rtyou/CVE-2021-44228_dockernize.svg)
+
+- [https://github.com/razureink/cve-2021-44228-log4shell_rce_reproduction](https://github.com/razureink/cve-2021-44228-log4shell_rce_reproduction) : ![starts](https://img.shields.io/github/stars/razureink/cve-2021-44228-log4shell_rce_reproduction.svg) ![forks](https://img.shields.io/github/forks/razureink/cve-2021-44228-log4shell_rce_reproduction.svg)
+
+- [https://github.com/rgl/log4j-log4shell-playground](https://github.com/rgl/log4j-log4shell-playground) : ![starts](https://img.shields.io/github/stars/rgl/log4j-log4shell-playground.svg) ![forks](https://img.shields.io/github/forks/rgl/log4j-log4shell-playground.svg)
+
+- [https://github.com/sdogancesur/log4j_github_repository](https://github.com/sdogancesur/log4j_github_repository) : ![starts](https://img.shields.io/github/stars/sdogancesur/log4j_github_repository.svg) ![forks](https://img.shields.io/github/forks/sdogancesur/log4j_github_repository.svg)
+
+- [https://github.com/sec13b/CVE-2021-44228-POC](https://github.com/sec13b/CVE-2021-44228-POC) : ![starts](https://img.shields.io/github/stars/sec13b/CVE-2021-44228-POC.svg) ![forks](https://img.shields.io/github/forks/sec13b/CVE-2021-44228-POC.svg)
+
+- [https://github.com/sourcegraph/log4j-cve-code-search-resources](https://github.com/sourcegraph/log4j-cve-code-search-resources) : ![starts](https://img.shields.io/github/stars/sourcegraph/log4j-cve-code-search-resources.svg) ![forks](https://img.shields.io/github/forks/sourcegraph/log4j-cve-code-search-resources.svg)
+
+- [https://github.com/srcporter/CVE-2021-44228](https://github.com/srcporter/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/srcporter/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/srcporter/CVE-2021-44228.svg)
+
+- [https://github.com/uint0/cve-2021-44228--spring-hibernate](https://github.com/uint0/cve-2021-44228--spring-hibernate) : ![starts](https://img.shields.io/github/stars/uint0/cve-2021-44228--spring-hibernate.svg) ![forks](https://img.shields.io/github/forks/uint0/cve-2021-44228--spring-hibernate.svg)
+
+- [https://github.com/yatoub/Log4jVulnChecker](https://github.com/yatoub/Log4jVulnChecker) : ![starts](https://img.shields.io/github/stars/yatoub/Log4jVulnChecker.svg) ![forks](https://img.shields.io/github/forks/yatoub/Log4jVulnChecker.svg)
+
+- [https://github.com/yezzfusl/RustyLog4jGuard](https://github.com/yezzfusl/RustyLog4jGuard) : ![starts](https://img.shields.io/github/stars/yezzfusl/RustyLog4jGuard.svg) ![forks](https://img.shields.io/github/forks/yezzfusl/RustyLog4jGuard.svg)
+
+- [https://github.com/34zY/JNDI-Exploit-1.2-log4shell](https://github.com/34zY/JNDI-Exploit-1.2-log4shell) : ![starts](https://img.shields.io/github/stars/34zY/JNDI-Exploit-1.2-log4shell.svg) ![forks](https://img.shields.io/github/forks/34zY/JNDI-Exploit-1.2-log4shell.svg)
+
+- [https://github.com/3pplus/loguccino](https://github.com/3pplus/loguccino) : ![starts](https://img.shields.io/github/stars/3pplus/loguccino.svg) ![forks](https://img.shields.io/github/forks/3pplus/loguccino.svg)
+
+- [https://github.com/Contrast-Security-OSS/CVE-2021-44228](https://github.com/Contrast-Security-OSS/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/Contrast-Security-OSS/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/Contrast-Security-OSS/CVE-2021-44228.svg)
+
+- [https://github.com/Kadantte/CVE-2021-44228-poc](https://github.com/Kadantte/CVE-2021-44228-poc) : ![starts](https://img.shields.io/github/stars/Kadantte/CVE-2021-44228-poc.svg) ![forks](https://img.shields.io/github/forks/Kadantte/CVE-2021-44228-poc.svg)
+
+- [https://github.com/Timborin0/log4j-dork-scanner](https://github.com/Timborin0/log4j-dork-scanner) : ![starts](https://img.shields.io/github/stars/Timborin0/log4j-dork-scanner.svg) ![forks](https://img.shields.io/github/forks/Timborin0/log4j-dork-scanner.svg)
+
+- [https://github.com/aajuvonen/log4stdin](https://github.com/aajuvonen/log4stdin) : ![starts](https://img.shields.io/github/stars/aajuvonen/log4stdin.svg) ![forks](https://img.shields.io/github/forks/aajuvonen/log4stdin.svg)
+
+- [https://github.com/dark-ninja10/Log4j-CVE-2021-44228](https://github.com/dark-ninja10/Log4j-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/dark-ninja10/Log4j-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/dark-ninja10/Log4j-CVE-2021-44228.svg)
+
+- [https://github.com/guardicode/CVE-2021-44228_IoCs](https://github.com/guardicode/CVE-2021-44228_IoCs) : ![starts](https://img.shields.io/github/stars/guardicode/CVE-2021-44228_IoCs.svg) ![forks](https://img.shields.io/github/forks/guardicode/CVE-2021-44228_IoCs.svg)
+
+- [https://github.com/kannthu/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/kannthu/CVE-2021-44228-Apache-Log4j-Rce) : ![starts](https://img.shields.io/github/stars/kannthu/CVE-2021-44228-Apache-Log4j-Rce.svg) ![forks](https://img.shields.io/github/forks/kannthu/CVE-2021-44228-Apache-Log4j-Rce.svg)
+
+- [https://github.com/kossatzd/log4j-CVE-2021-44228-test](https://github.com/kossatzd/log4j-CVE-2021-44228-test) : ![starts](https://img.shields.io/github/stars/kossatzd/log4j-CVE-2021-44228-test.svg) ![forks](https://img.shields.io/github/forks/kossatzd/log4j-CVE-2021-44228-test.svg)
+
+- [https://github.com/ssl-user-en/Log4j-Scanner-Exploit](https://github.com/ssl-user-en/Log4j-Scanner-Exploit) : ![starts](https://img.shields.io/github/stars/ssl-user-en/Log4j-Scanner-Exploit.svg) ![forks](https://img.shields.io/github/forks/ssl-user-en/Log4j-Scanner-Exploit.svg)
+
+- [https://github.com/vulnerable-apps/log4shell-honeypot](https://github.com/vulnerable-apps/log4shell-honeypot) : ![starts](https://img.shields.io/github/stars/vulnerable-apps/log4shell-honeypot.svg) ![forks](https://img.shields.io/github/forks/vulnerable-apps/log4shell-honeypot.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 

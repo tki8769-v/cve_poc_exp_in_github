@@ -12,3 +12,11 @@
 {"cve_id": "CVE-2026-5782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-03T14:46:44Z", "url": "https://github.com/tc4dy/CVE-2026-57821-PoC-Exploit", "url_ids": ["CVE-2026-57821"]}
 {"cve_id": "CVE-2026-5782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-03T14:46:44Z", "url": "https://github.com/jjkk123123/CVE-2026-57827", "url_ids": ["CVE-2026-57827"]}
 {"cve_id": "CVE-2026-5782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-03T14:46:44Z", "url": "https://github.com/Candisexterior171/CVE-2026-57827", "url_ids": ["CVE-2026-57827"]}
+{"cve_id": "CVE-2026-1814", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T00:09:24Z", "url": "https://github.com/murrez/CVE-2026-18143", "url_ids": ["CVE-2026-18143"]}
+{"cve_id": "CVE-2026-1814", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T00:09:24Z", "url": "https://github.com/ghannyxploit404/CVE-2026-18143", "url_ids": ["CVE-2026-18143"]}
+{"cve_id": "CVE-2025-6685", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T00:10:16Z", "url": "https://github.com/joelatplay/CVE-2025-66850", "url_ids": ["CVE-2025-66850"]}
+{"cve_id": "CVE-2025-5729", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T00:11:16Z", "url": "https://github.com/minnggyuu/CVE-2025-57298", "url_ids": ["CVE-2025-57298"]}
+{"cve_id": "CVE-2024-4051", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T00:12:22Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40512", "url_ids": ["CVE-2024-40512"]}
+{"cve_id": "CVE-2024-4051", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T00:12:22Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40510", "url_ids": ["CVE-2024-40510"]}
+{"cve_id": "CVE-2024-4051", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T00:12:22Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40511", "url_ids": ["CVE-2024-40511"]}
+{"cve_id": "CVE-2020-1700", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T00:15:41Z", "url": "https://github.com/jas502n/CVE-2020-17008", "url_ids": ["CVE-2020-17008"]}
