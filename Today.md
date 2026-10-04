@@ -3,6 +3,10 @@
 
 - [https://github.com/drcrypterdotru/PHPUnit-GoScan](https://github.com/drcrypterdotru/PHPUnit-GoScan) : ![starts](https://img.shields.io/github/stars/drcrypterdotru/PHPUnit-GoScan.svg) ![forks](https://img.shields.io/github/forks/drcrypterdotru/PHPUnit-GoScan.svg)
 
+## CVE-2021-26085
+
+- [https://github.com/heidarodarkfire158/Confluence-Desktop-2026](https://github.com/heidarodarkfire158/Confluence-Desktop-2026) : ![starts](https://img.shields.io/github/stars/heidarodarkfire158/Confluence-Desktop-2026.svg) ![forks](https://img.shields.io/github/forks/heidarodarkfire158/Confluence-Desktop-2026.svg)
+
 ## CVE-2021-31805
 
 - [https://github.com/nth347/struts2-CVE-2021-31805](https://github.com/nth347/struts2-CVE-2021-31805) : ![starts](https://img.shields.io/github/stars/nth347/struts2-CVE-2021-31805.svg) ![forks](https://img.shields.io/github/forks/nth347/struts2-CVE-2021-31805.svg)

@@ -1086,3 +1086,4 @@
 {"cve_id": "CVE-2026-103355", "ts": "2026-10-04T14:47:17Z", "type": "new_poc", "url": "https://github.com/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc"}
 {"cve_id": "CVE-2026-92084", "ts": "2026-10-04T14:47:17Z", "type": "new_poc", "url": "https://github.com/Hassham1/CVE-2026-92084-beaver-builder-shortcode-poc"}
 {"cve_id": "CVE-2026-32475", "ts": "2026-10-04T14:55:28Z", "type": "new_poc", "url": "https://github.com/cyeezy08/WordPress_Exploit_Directory"}
+{"cve_id": "CVE-2021-26085", "ts": "2026-10-04T15:03:33Z", "type": "new_poc", "url": "https://github.com/heidarodarkfire158/Confluence-Desktop-2026"}

@@ -90,3 +90,17 @@
 {"cve_id": "CVE-2023-2520", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:51:22Z", "url": "https://github.com/Trackflaw/CVE-2023-25202", "url_ids": ["CVE-2023-25202"]}
 {"cve_id": "CVE-2021-2173", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:54:26Z", "url": "https://github.com/minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise", "url_ids": ["CVE-2021-21735"]}
 {"cve_id": "CVE-2021-3395", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:56:25Z", "url": "https://github.com/lixiang957/CVE-2021-33959", "url_ids": ["CVE-2021-33959"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:59:32Z", "url": "https://github.com/sfewer-r7/CVE-2026-63077", "url_ids": ["CVE-2026-63077"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:59:32Z", "url": "https://github.com/0xBlackash/CVE-2026-63072", "url_ids": ["CVE-2026-63072"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:59:32Z", "url": "https://github.com/0xCyp1337/CVE-2026-63077", "url_ids": ["CVE-2026-63077"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:59:32Z", "url": "https://github.com/AnggaTechI/CVE-2026-63077", "url_ids": ["CVE-2026-63077"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:59:32Z", "url": "https://github.com/bakos-sandor-nx/teamcity-cve-2026-63077-remediation", "url_ids": ["CVE-2026-63077"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:59:32Z", "url": "https://github.com/unveiledhistory49/teamcity-cve-2026-63077-remediation", "url_ids": ["CVE-2026-63077"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:59:32Z", "url": "https://github.com/BoredHackerBlog/teamcity-CVE-2026-63077-pcap", "url_ids": ["CVE-2026-63077"]}
+{"cve_id": "CVE-2024-1131", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T15:02:39Z", "url": "https://github.com/xthalach/CVE-2024-11318", "url_ids": ["CVE-2024-11318"]}
+{"cve_id": "CVE-2025-2620", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T15:03:41Z", "url": "https://github.com/A17-ba/CVE-2025-26202-Details", "url_ids": ["CVE-2025-26202"]}
+{"cve_id": "CVE-2018-1046", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T15:03:41Z", "url": "https://github.com/alt3kx/CVE-2018-10467", "url_ids": ["CVE-2018-10467"]}
+{"cve_id": "CVE-2020-2719", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T15:03:42Z", "url": "https://github.com/xmzyshypnc/CVE-2020-27194", "url_ids": ["CVE-2020-27194"]}
+{"cve_id": "CVE-2020-2719", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T15:03:42Z", "url": "https://github.com/9lyph/CVE-2020-27199", "url_ids": ["CVE-2020-27199"]}
+{"cve_id": "CVE-2025-5182", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T15:03:46Z", "url": "https://github.com/shk-mubashshir/CVE-2025-51820", "url_ids": ["CVE-2025-51820"]}
+{"cve_id": "CVE-2024-4408", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T15:06:44Z", "url": "https://github.com/dynamicx64/CVE-2024-44083", "url_ids": ["CVE-2024-44083"]}
