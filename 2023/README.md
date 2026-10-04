@@ -2602,6 +2602,8 @@ The vulnerability is limited to the ROOT (default) web application.
 
 - [https://github.com/datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit](https://github.com/datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit) : ![starts](https://img.shields.io/github/stars/datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit.svg) ![forks](https://img.shields.io/github/forks/datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit.svg)
 
+- [https://github.com/NCF0126/Nagios-XI-s-CVE-2023-40931-Exploit](https://github.com/NCF0126/Nagios-XI-s-CVE-2023-40931-Exploit) : ![starts](https://img.shields.io/github/stars/NCF0126/Nagios-XI-s-CVE-2023-40931-Exploit.svg) ![forks](https://img.shields.io/github/forks/NCF0126/Nagios-XI-s-CVE-2023-40931-Exploit.svg)
+
 ## CVE-2023-40930
  An issue in the directory /system/bin/blkid of Skyworth v3.0 allows attackers to perform a directory traversal via mounting the Udisk to /mnt/.
 

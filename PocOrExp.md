@@ -12289,6 +12289,384 @@ AD directly.
 
 - [https://github.com/ledlight33/copyfail-check-skill](https://github.com/ledlight33/copyfail-check-skill) : ![starts](https://img.shields.io/github/stars/ledlight33/copyfail-check-skill.svg) ![forks](https://img.shields.io/github/forks/ledlight33/copyfail-check-skill.svg)
 
+- [https://github.com/mahradbt/copyfail-mitigation](https://github.com/mahradbt/copyfail-mitigation) : ![starts](https://img.shields.io/github/stars/mahradbt/copyfail-mitigation.svg) ![forks](https://img.shields.io/github/forks/mahradbt/copyfail-mitigation.svg)
+
+- [https://github.com/st4rburn/RootRemover](https://github.com/st4rburn/RootRemover) : ![starts](https://img.shields.io/github/stars/st4rburn/RootRemover.svg) ![forks](https://img.shields.io/github/forks/st4rburn/RootRemover.svg)
+
+- [https://github.com/0xer0/CVE-2026-31431-Copy-Fail-add-arm64](https://github.com/0xer0/CVE-2026-31431-Copy-Fail-add-arm64) : ![starts](https://img.shields.io/github/stars/0xer0/CVE-2026-31431-Copy-Fail-add-arm64.svg) ![forks](https://img.shields.io/github/forks/0xer0/CVE-2026-31431-Copy-Fail-add-arm64.svg)
+
+- [https://github.com/1neptune/CopyFail](https://github.com/1neptune/CopyFail) : ![starts](https://img.shields.io/github/stars/1neptune/CopyFail.svg) ![forks](https://img.shields.io/github/forks/1neptune/CopyFail.svg)
+
+- [https://github.com/3jee/copy-fail-go](https://github.com/3jee/copy-fail-go) : ![starts](https://img.shields.io/github/stars/3jee/copy-fail-go.svg) ![forks](https://img.shields.io/github/forks/3jee/copy-fail-go.svg)
+
+- [https://github.com/TrevoCastles/CVE-2026-31431-copy-fail](https://github.com/TrevoCastles/CVE-2026-31431-copy-fail) : ![starts](https://img.shields.io/github/stars/TrevoCastles/CVE-2026-31431-copy-fail.svg) ![forks](https://img.shields.io/github/forks/TrevoCastles/CVE-2026-31431-copy-fail.svg)
+
+- [https://github.com/codesource/copyfail-check](https://github.com/codesource/copyfail-check) : ![starts](https://img.shields.io/github/stars/codesource/copyfail-check.svg) ![forks](https://img.shields.io/github/forks/codesource/copyfail-check.svg)
+
+- [https://github.com/ctzisme/copyfail-guard](https://github.com/ctzisme/copyfail-guard) : ![starts](https://img.shields.io/github/stars/ctzisme/copyfail-guard.svg) ![forks](https://img.shields.io/github/forks/ctzisme/copyfail-guard.svg)
+
+- [https://github.com/devstuff/harden-docker-seccomp](https://github.com/devstuff/harden-docker-seccomp) : ![starts](https://img.shields.io/github/stars/devstuff/harden-docker-seccomp.svg) ![forks](https://img.shields.io/github/forks/devstuff/harden-docker-seccomp.svg)
+
+- [https://github.com/juliosuas/copyfail-guard](https://github.com/juliosuas/copyfail-guard) : ![starts](https://img.shields.io/github/stars/juliosuas/copyfail-guard.svg) ![forks](https://img.shields.io/github/forks/juliosuas/copyfail-guard.svg)
+
+- [https://github.com/kvakirsanov/CVE-2026-31431-live-process-code-injection](https://github.com/kvakirsanov/CVE-2026-31431-live-process-code-injection) : ![starts](https://img.shields.io/github/stars/kvakirsanov/CVE-2026-31431-live-process-code-injection.svg) ![forks](https://img.shields.io/github/forks/kvakirsanov/CVE-2026-31431-live-process-code-injection.svg)
+
+- [https://github.com/ledlight33/copyfail-dfir](https://github.com/ledlight33/copyfail-dfir) : ![starts](https://img.shields.io/github/stars/ledlight33/copyfail-dfir.svg) ![forks](https://img.shields.io/github/forks/ledlight33/copyfail-dfir.svg)
+
+- [https://github.com/parmstro/cfDr](https://github.com/parmstro/cfDr) : ![starts](https://img.shields.io/github/stars/parmstro/cfDr.svg) ![forks](https://img.shields.io/github/forks/parmstro/cfDr.svg)
+
+- [https://github.com/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE](https://github.com/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE) : ![starts](https://img.shields.io/github/stars/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE.svg) ![forks](https://img.shields.io/github/forks/xn0kkx/CVE-2026-31431_CopyFail_LinuxKernel_LPE.svg)
+
+- [https://github.com/1amBa7Man/Linux-copy-fail-CVE-2026-31431](https://github.com/1amBa7Man/Linux-copy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/1amBa7Man/Linux-copy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/1amBa7Man/Linux-copy-fail-CVE-2026-31431.svg)
+
+- [https://github.com/4n4s4zi/copyfail-alpine](https://github.com/4n4s4zi/copyfail-alpine) : ![starts](https://img.shields.io/github/stars/4n4s4zi/copyfail-alpine.svg) ![forks](https://img.shields.io/github/forks/4n4s4zi/copyfail-alpine.svg)
+
+- [https://github.com/6abc/Copy-Fail-CVE-2026-31431-dirty-frag-CVE-2026-43284](https://github.com/6abc/Copy-Fail-CVE-2026-31431-dirty-frag-CVE-2026-43284) : ![starts](https://img.shields.io/github/stars/6abc/Copy-Fail-CVE-2026-31431-dirty-frag-CVE-2026-43284.svg) ![forks](https://img.shields.io/github/forks/6abc/Copy-Fail-CVE-2026-31431-dirty-frag-CVE-2026-43284.svg)
+
+- [https://github.com/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing](https://github.com/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing) : ![starts](https://img.shields.io/github/stars/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing.svg) ![forks](https://img.shields.io/github/forks/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing.svg)
+
+- [https://github.com/ChernStepanov/CopyFail-for-dummies](https://github.com/ChernStepanov/CopyFail-for-dummies) : ![starts](https://img.shields.io/github/stars/ChernStepanov/CopyFail-for-dummies.svg) ![forks](https://img.shields.io/github/forks/ChernStepanov/CopyFail-for-dummies.svg)
+
+- [https://github.com/DENNISDGR/CVE-2026-31431-poc](https://github.com/DENNISDGR/CVE-2026-31431-poc) : ![starts](https://img.shields.io/github/stars/DENNISDGR/CVE-2026-31431-poc.svg) ![forks](https://img.shields.io/github/forks/DENNISDGR/CVE-2026-31431-poc.svg)
+
+- [https://github.com/Emmmmllll/copy-fail-zig](https://github.com/Emmmmllll/copy-fail-zig) : ![starts](https://img.shields.io/github/stars/Emmmmllll/copy-fail-zig.svg) ![forks](https://img.shields.io/github/forks/Emmmmllll/copy-fail-zig.svg)
+
+- [https://github.com/Fulucky0-yuri/CVE-2026-31431-PocC](https://github.com/Fulucky0-yuri/CVE-2026-31431-PocC) : ![starts](https://img.shields.io/github/stars/Fulucky0-yuri/CVE-2026-31431-PocC.svg) ![forks](https://img.shields.io/github/forks/Fulucky0-yuri/CVE-2026-31431-PocC.svg)
+
+- [https://github.com/Gr-1m/CVE-2026-31431](https://github.com/Gr-1m/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/Gr-1m/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/Gr-1m/CVE-2026-31431.svg)
+
+- [https://github.com/Lutfifakee-Project/CVE-2026-31431](https://github.com/Lutfifakee-Project/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-31431.svg)
+
+- [https://github.com/Lyutoon/CopyFail-Experiment](https://github.com/Lyutoon/CopyFail-Experiment) : ![starts](https://img.shields.io/github/stars/Lyutoon/CopyFail-Experiment.svg) ![forks](https://img.shields.io/github/forks/Lyutoon/CopyFail-Experiment.svg)
+
+- [https://github.com/OneDemobird/copy-fail-CVE-2026-31431-pythonlower3.10](https://github.com/OneDemobird/copy-fail-CVE-2026-31431-pythonlower3.10) : ![starts](https://img.shields.io/github/stars/OneDemobird/copy-fail-CVE-2026-31431-pythonlower3.10.svg) ![forks](https://img.shields.io/github/forks/OneDemobird/copy-fail-CVE-2026-31431-pythonlower3.10.svg)
+
+- [https://github.com/OpenPixelSystems/c-copy-fail](https://github.com/OpenPixelSystems/c-copy-fail) : ![starts](https://img.shields.io/github/stars/OpenPixelSystems/c-copy-fail.svg) ![forks](https://img.shields.io/github/forks/OpenPixelSystems/c-copy-fail.svg)
+
+- [https://github.com/Phalanx-CCS/Copy-Fail](https://github.com/Phalanx-CCS/Copy-Fail) : ![starts](https://img.shields.io/github/stars/Phalanx-CCS/Copy-Fail.svg) ![forks](https://img.shields.io/github/forks/Phalanx-CCS/Copy-Fail.svg)
+
+- [https://github.com/Sebastian294/cve-2026-31431](https://github.com/Sebastian294/cve-2026-31431) : ![starts](https://img.shields.io/github/stars/Sebastian294/cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/Sebastian294/cve-2026-31431.svg)
+
+- [https://github.com/SunL0w/PATCH-CVE-2026-31431-Ubuntu_Debian](https://github.com/SunL0w/PATCH-CVE-2026-31431-Ubuntu_Debian) : ![starts](https://img.shields.io/github/stars/SunL0w/PATCH-CVE-2026-31431-Ubuntu_Debian.svg) ![forks](https://img.shields.io/github/forks/SunL0w/PATCH-CVE-2026-31431-Ubuntu_Debian.svg)
+
+- [https://github.com/Trex1e/copyfail-CVE-2026-31431](https://github.com/Trex1e/copyfail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/Trex1e/copyfail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/Trex1e/copyfail-CVE-2026-31431.svg)
+
+- [https://github.com/Vatson112/deny-af-alg-bpf](https://github.com/Vatson112/deny-af-alg-bpf) : ![starts](https://img.shields.io/github/stars/Vatson112/deny-af-alg-bpf.svg) ![forks](https://img.shields.io/github/forks/Vatson112/deny-af-alg-bpf.svg)
+
+- [https://github.com/Y5neKO/copy-fail-CVE-2026-31431-universal](https://github.com/Y5neKO/copy-fail-CVE-2026-31431-universal) : ![starts](https://img.shields.io/github/stars/Y5neKO/copy-fail-CVE-2026-31431-universal.svg) ![forks](https://img.shields.io/github/forks/Y5neKO/copy-fail-CVE-2026-31431-universal.svg)
+
+- [https://github.com/abdullaabdullazade/CVE-2026-31431](https://github.com/abdullaabdullazade/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/abdullaabdullazade/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/abdullaabdullazade/CVE-2026-31431.svg)
+
+- [https://github.com/alvaroguzmancode/CVE-2026-31431-mitigacion](https://github.com/alvaroguzmancode/CVE-2026-31431-mitigacion) : ![starts](https://img.shields.io/github/stars/alvaroguzmancode/CVE-2026-31431-mitigacion.svg) ![forks](https://img.shields.io/github/forks/alvaroguzmancode/CVE-2026-31431-mitigacion.svg)
+
+- [https://github.com/amdisrar/cve-2026-31431-mitigation](https://github.com/amdisrar/cve-2026-31431-mitigation) : ![starts](https://img.shields.io/github/stars/amdisrar/cve-2026-31431-mitigation.svg) ![forks](https://img.shields.io/github/forks/amdisrar/cve-2026-31431-mitigation.svg)
+
+- [https://github.com/bryanvine/copy-fail-fix](https://github.com/bryanvine/copy-fail-fix) : ![starts](https://img.shields.io/github/stars/bryanvine/copy-fail-fix.svg) ![forks](https://img.shields.io/github/forks/bryanvine/copy-fail-fix.svg)
+
+- [https://github.com/darioomatos/cve-2026-31431-copyfail](https://github.com/darioomatos/cve-2026-31431-copyfail) : ![starts](https://img.shields.io/github/stars/darioomatos/cve-2026-31431-copyfail.svg) ![forks](https://img.shields.io/github/forks/darioomatos/cve-2026-31431-copyfail.svg)
+
+- [https://github.com/dgrobinson0/CopyFile_CVE-2026-31431](https://github.com/dgrobinson0/CopyFile_CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/dgrobinson0/CopyFile_CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/dgrobinson0/CopyFile_CVE-2026-31431.svg)
+
+- [https://github.com/euriconicacio/copy-fail-CVE-2026-31431-poc](https://github.com/euriconicacio/copy-fail-CVE-2026-31431-poc) : ![starts](https://img.shields.io/github/stars/euriconicacio/copy-fail-CVE-2026-31431-poc.svg) ![forks](https://img.shields.io/github/forks/euriconicacio/copy-fail-CVE-2026-31431-poc.svg)
+
+- [https://github.com/galoryber/CVE-2026-31431-cleaned](https://github.com/galoryber/CVE-2026-31431-cleaned) : ![starts](https://img.shields.io/github/stars/galoryber/CVE-2026-31431-cleaned.svg) ![forks](https://img.shields.io/github/forks/galoryber/CVE-2026-31431-cleaned.svg)
+
+- [https://github.com/gbonacini/CVE-2026-31431](https://github.com/gbonacini/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/gbonacini/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/gbonacini/CVE-2026-31431.svg)
+
+- [https://github.com/itsystem/afalg-check](https://github.com/itsystem/afalg-check) : ![starts](https://img.shields.io/github/stars/itsystem/afalg-check.svg) ![forks](https://img.shields.io/github/forks/itsystem/afalg-check.svg)
+
+- [https://github.com/jamal-soc21/Weekly-Breach-Investigation--006](https://github.com/jamal-soc21/Weekly-Breach-Investigation--006) : ![starts](https://img.shields.io/github/stars/jamal-soc21/Weekly-Breach-Investigation--006.svg) ![forks](https://img.shields.io/github/forks/jamal-soc21/Weekly-Breach-Investigation--006.svg)
+
+- [https://github.com/jshDevs/CVE_kernellinux_jsh](https://github.com/jshDevs/CVE_kernellinux_jsh) : ![starts](https://img.shields.io/github/stars/jshDevs/CVE_kernellinux_jsh.svg) ![forks](https://img.shields.io/github/forks/jshDevs/CVE_kernellinux_jsh.svg)
+
+- [https://github.com/krish-foren6/CVE-2026-31431-Report-Copy-fail-Vulnerability-](https://github.com/krish-foren6/CVE-2026-31431-Report-Copy-fail-Vulnerability-) : ![starts](https://img.shields.io/github/stars/krish-foren6/CVE-2026-31431-Report-Copy-fail-Vulnerability-.svg) ![forks](https://img.shields.io/github/forks/krish-foren6/CVE-2026-31431-Report-Copy-fail-Vulnerability-.svg)
+
+- [https://github.com/kwilck/copyfail](https://github.com/kwilck/copyfail) : ![starts](https://img.shields.io/github/stars/kwilck/copyfail.svg) ![forks](https://img.shields.io/github/forks/kwilck/copyfail.svg)
+
+- [https://github.com/maniakh/CVE-2026-31431---Copy-Fail-PoC](https://github.com/maniakh/CVE-2026-31431---Copy-Fail-PoC) : ![starts](https://img.shields.io/github/stars/maniakh/CVE-2026-31431---Copy-Fail-PoC.svg) ![forks](https://img.shields.io/github/forks/maniakh/CVE-2026-31431---Copy-Fail-PoC.svg)
+
+- [https://github.com/mfloresdacunha/CVE-2026-31431](https://github.com/mfloresdacunha/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/mfloresdacunha/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/mfloresdacunha/CVE-2026-31431.svg)
+
+- [https://github.com/mhdgning131/CopyFail-Patcher](https://github.com/mhdgning131/CopyFail-Patcher) : ![starts](https://img.shields.io/github/stars/mhdgning131/CopyFail-Patcher.svg) ![forks](https://img.shields.io/github/forks/mhdgning131/CopyFail-Patcher.svg)
+
+- [https://github.com/mishl-dev/CVE_2026_31431](https://github.com/mishl-dev/CVE_2026_31431) : ![starts](https://img.shields.io/github/stars/mishl-dev/CVE_2026_31431.svg) ![forks](https://img.shields.io/github/forks/mishl-dev/CVE_2026_31431.svg)
+
+- [https://github.com/mrunalp/block-copyfail](https://github.com/mrunalp/block-copyfail) : ![starts](https://img.shields.io/github/stars/mrunalp/block-copyfail.svg) ![forks](https://img.shields.io/github/forks/mrunalp/block-copyfail.svg)
+
+- [https://github.com/poyea/CVE-2026-31431.c](https://github.com/poyea/CVE-2026-31431.c) : ![starts](https://img.shields.io/github/stars/poyea/CVE-2026-31431.c.svg) ![forks](https://img.shields.io/github/forks/poyea/CVE-2026-31431.c.svg)
+
+- [https://github.com/rippsec/CVE-2026-31431-Copy-Fail](https://github.com/rippsec/CVE-2026-31431-Copy-Fail) : ![starts](https://img.shields.io/github/stars/rippsec/CVE-2026-31431-Copy-Fail.svg) ![forks](https://img.shields.io/github/forks/rippsec/CVE-2026-31431-Copy-Fail.svg)
+
+- [https://github.com/sandraschi/copy-fail-mcp](https://github.com/sandraschi/copy-fail-mcp) : ![starts](https://img.shields.io/github/stars/sandraschi/copy-fail-mcp.svg) ![forks](https://img.shields.io/github/forks/sandraschi/copy-fail-mcp.svg)
+
+- [https://github.com/sbeteta42/CVE-2026-31431_je_sappelle_RoOt](https://github.com/sbeteta42/CVE-2026-31431_je_sappelle_RoOt) : ![starts](https://img.shields.io/github/stars/sbeteta42/CVE-2026-31431_je_sappelle_RoOt.svg) ![forks](https://img.shields.io/github/forks/sbeteta42/CVE-2026-31431_je_sappelle_RoOt.svg)
+
+- [https://github.com/slauger/CVE-2026-31431](https://github.com/slauger/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/slauger/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/slauger/CVE-2026-31431.svg)
+
+- [https://github.com/studiogangster/CVE-2026-31431](https://github.com/studiogangster/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/studiogangster/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/studiogangster/CVE-2026-31431.svg)
+
+- [https://github.com/thrandomv/cve-2026-31431-detection](https://github.com/thrandomv/cve-2026-31431-detection) : ![starts](https://img.shields.io/github/stars/thrandomv/cve-2026-31431-detection.svg) ![forks](https://img.shields.io/github/forks/thrandomv/cve-2026-31431-detection.svg)
+
+- [https://github.com/yiyihuohuo/CVE-2026-31431](https://github.com/yiyihuohuo/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/yiyihuohuo/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/yiyihuohuo/CVE-2026-31431.svg)
+
+- [https://github.com/yxdm02/CVE-2026-31431](https://github.com/yxdm02/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/yxdm02/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/yxdm02/CVE-2026-31431.svg)
+
+- [https://github.com/0xFuffM3/CVE-2026-31431-CopyFail](https://github.com/0xFuffM3/CVE-2026-31431-CopyFail) : ![starts](https://img.shields.io/github/stars/0xFuffM3/CVE-2026-31431-CopyFail.svg) ![forks](https://img.shields.io/github/forks/0xFuffM3/CVE-2026-31431-CopyFail.svg)
+
+- [https://github.com/0xN7y/CVE-2026-31431](https://github.com/0xN7y/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/0xN7y/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/0xN7y/CVE-2026-31431.svg)
+
+- [https://github.com/361way/CVE-2026-31431](https://github.com/361way/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/361way/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/361way/CVE-2026-31431.svg)
+
+- [https://github.com/AdemZero/CVE-2026-31431](https://github.com/AdemZero/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/AdemZero/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/AdemZero/CVE-2026-31431.svg)
+
+- [https://github.com/B1gN0Se/copy-fail-CVE-2026-31431](https://github.com/B1gN0Se/copy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/B1gN0Se/copy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/B1gN0Se/copy-fail-CVE-2026-31431.svg)
+
+- [https://github.com/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431](https://github.com/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/CybroZeus/Copy-Fail-Exploit-CVE-2026-31431.svg)
+
+- [https://github.com/Detect-DefenseLab/CVE-2026-31431-detection-defense](https://github.com/Detect-DefenseLab/CVE-2026-31431-detection-defense) : ![starts](https://img.shields.io/github/stars/Detect-DefenseLab/CVE-2026-31431-detection-defense.svg) ![forks](https://img.shields.io/github/forks/Detect-DefenseLab/CVE-2026-31431-detection-defense.svg)
+
+- [https://github.com/ECHO6789/CVE-2026-31431-fix](https://github.com/ECHO6789/CVE-2026-31431-fix) : ![starts](https://img.shields.io/github/stars/ECHO6789/CVE-2026-31431-fix.svg) ![forks](https://img.shields.io/github/forks/ECHO6789/CVE-2026-31431-fix.svg)
+
+- [https://github.com/ForensicFoundry/cve-2026-31431-check](https://github.com/ForensicFoundry/cve-2026-31431-check) : ![starts](https://img.shields.io/github/stars/ForensicFoundry/cve-2026-31431-check.svg) ![forks](https://img.shields.io/github/forks/ForensicFoundry/cve-2026-31431-check.svg)
+
+- [https://github.com/FranklinF25/cve-2026-31431](https://github.com/FranklinF25/cve-2026-31431) : ![starts](https://img.shields.io/github/stars/FranklinF25/cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/FranklinF25/cve-2026-31431.svg)
+
+- [https://github.com/FrosterDL/CVE-2026-31431](https://github.com/FrosterDL/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/FrosterDL/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/FrosterDL/CVE-2026-31431.svg)
+
+- [https://github.com/G01d3nW01f/CVE-2026-31431](https://github.com/G01d3nW01f/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/G01d3nW01f/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/G01d3nW01f/CVE-2026-31431.svg)
+
+- [https://github.com/GubiczaP/cve-2026-31431-checker](https://github.com/GubiczaP/cve-2026-31431-checker) : ![starts](https://img.shields.io/github/stars/GubiczaP/cve-2026-31431-checker.svg) ![forks](https://img.shields.io/github/forks/GubiczaP/cve-2026-31431-checker.svg)
+
+- [https://github.com/H1d3r/copy-fail_LPE_Interactive](https://github.com/H1d3r/copy-fail_LPE_Interactive) : ![starts](https://img.shields.io/github/stars/H1d3r/copy-fail_LPE_Interactive.svg) ![forks](https://img.shields.io/github/forks/H1d3r/copy-fail_LPE_Interactive.svg)
+
+- [https://github.com/Helios973/CVE-2026-31431_exp.c](https://github.com/Helios973/CVE-2026-31431_exp.c) : ![starts](https://img.shields.io/github/stars/Helios973/CVE-2026-31431_exp.c.svg) ![forks](https://img.shields.io/github/forks/Helios973/CVE-2026-31431_exp.c.svg)
+
+- [https://github.com/HulnotHutu/CVE-2026-31431](https://github.com/HulnotHutu/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/HulnotHutu/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/HulnotHutu/CVE-2026-31431.svg)
+
+- [https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail) : ![starts](https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail.svg) ![forks](https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-31431-Copy-Fail.svg)
+
+- [https://github.com/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC](https://github.com/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC) : ![starts](https://img.shields.io/github/stars/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC.svg) ![forks](https://img.shields.io/github/forks/JimmyPughtron/CVE-2026-31431-Copy-Fail---Minified-LPE-PoC.svg)
+
+- [https://github.com/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc](https://github.com/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc) : ![starts](https://img.shields.io/github/stars/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc.svg) ![forks](https://img.shields.io/github/forks/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc.svg)
+
+- [https://github.com/KhaosFarbauti/CVE-2026-31431](https://github.com/KhaosFarbauti/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/KhaosFarbauti/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/KhaosFarbauti/CVE-2026-31431.svg)
+
+- [https://github.com/Linux-zs/cve-2026-31431-mitigation](https://github.com/Linux-zs/cve-2026-31431-mitigation) : ![starts](https://img.shields.io/github/stars/Linux-zs/cve-2026-31431-mitigation.svg) ![forks](https://img.shields.io/github/forks/Linux-zs/cve-2026-31431-mitigation.svg)
+
+- [https://github.com/MarioHY/cve_2026_31431_audit](https://github.com/MarioHY/cve_2026_31431_audit) : ![starts](https://img.shields.io/github/stars/MarioHY/cve_2026_31431_audit.svg) ![forks](https://img.shields.io/github/forks/MarioHY/cve_2026_31431_audit.svg)
+
+- [https://github.com/MetaspIoit/CVE-2026-31431](https://github.com/MetaspIoit/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/MetaspIoit/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/MetaspIoit/CVE-2026-31431.svg)
+
+- [https://github.com/Minime794/copyfail](https://github.com/Minime794/copyfail) : ![starts](https://img.shields.io/github/stars/Minime794/copyfail.svg) ![forks](https://img.shields.io/github/forks/Minime794/copyfail.svg)
+
+- [https://github.com/MohamedKarrab/Copy-Fail-CVE-2026-31431](https://github.com/MohamedKarrab/Copy-Fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/MohamedKarrab/Copy-Fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/MohamedKarrab/Copy-Fail-CVE-2026-31431.svg)
+
+- [https://github.com/Morton-Li/copy-fail-CVE-2026-31431](https://github.com/Morton-Li/copy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/Morton-Li/copy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/Morton-Li/copy-fail-CVE-2026-31431.svg)
+
+- [https://github.com/MrMixies/Copy-Fail---CVE-2026-31431](https://github.com/MrMixies/Copy-Fail---CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/MrMixies/Copy-Fail---CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/MrMixies/Copy-Fail---CVE-2026-31431.svg)
+
+- [https://github.com/Mrhudson69/cve-2026-31431](https://github.com/Mrhudson69/cve-2026-31431) : ![starts](https://img.shields.io/github/stars/Mrhudson69/cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/Mrhudson69/cve-2026-31431.svg)
+
+- [https://github.com/OmerAti/almalinux-fix-cve-2026-31431](https://github.com/OmerAti/almalinux-fix-cve-2026-31431) : ![starts](https://img.shields.io/github/stars/OmerAti/almalinux-fix-cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/OmerAti/almalinux-fix-cve-2026-31431.svg)
+
+- [https://github.com/Quaerendir/copyfail-audit](https://github.com/Quaerendir/copyfail-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/copyfail-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/copyfail-audit.svg)
+
+- [https://github.com/ROSNLR5/modrosnlr5](https://github.com/ROSNLR5/modrosnlr5) : ![starts](https://img.shields.io/github/stars/ROSNLR5/modrosnlr5.svg) ![forks](https://img.shields.io/github/forks/ROSNLR5/modrosnlr5.svg)
+
+- [https://github.com/Raptoratack/CopyFail-Scanner-CVE-2026-31431](https://github.com/Raptoratack/CopyFail-Scanner-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/Raptoratack/CopyFail-Scanner-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/Raptoratack/CopyFail-Scanner-CVE-2026-31431.svg)
+
+- [https://github.com/RecoFu/CVE-2026-31431-Copy-Fail](https://github.com/RecoFu/CVE-2026-31431-Copy-Fail) : ![starts](https://img.shields.io/github/stars/RecoFu/CVE-2026-31431-Copy-Fail.svg) ![forks](https://img.shields.io/github/forks/RecoFu/CVE-2026-31431-Copy-Fail.svg)
+
+- [https://github.com/RoflSecurity/copy_fail](https://github.com/RoflSecurity/copy_fail) : ![starts](https://img.shields.io/github/stars/RoflSecurity/copy_fail.svg) ![forks](https://img.shields.io/github/forks/RoflSecurity/copy_fail.svg)
+
+- [https://github.com/ShahaB108/CVE-2026-31431_Kernel_Checker](https://github.com/ShahaB108/CVE-2026-31431_Kernel_Checker) : ![starts](https://img.shields.io/github/stars/ShahaB108/CVE-2026-31431_Kernel_Checker.svg) ![forks](https://img.shields.io/github/forks/ShahaB108/CVE-2026-31431_Kernel_Checker.svg)
+
+- [https://github.com/Silent0x0/Copy-Fail---CVE-2026-31431](https://github.com/Silent0x0/Copy-Fail---CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/Silent0x0/Copy-Fail---CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/Silent0x0/Copy-Fail---CVE-2026-31431.svg)
+
+- [https://github.com/Silent4Labs/check-copyfail-cve-2026-31431](https://github.com/Silent4Labs/check-copyfail-cve-2026-31431) : ![starts](https://img.shields.io/github/stars/Silent4Labs/check-copyfail-cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/Silent4Labs/check-copyfail-cve-2026-31431.svg)
+
+- [https://github.com/SilverRuler/copy-fail-CVE-2026-31431](https://github.com/SilverRuler/copy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/SilverRuler/copy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/SilverRuler/copy-fail-CVE-2026-31431.svg)
+
+- [https://github.com/Spoo1k/Copy-Fail-Exploit-CVE-2026-31431](https://github.com/Spoo1k/Copy-Fail-Exploit-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/Spoo1k/Copy-Fail-Exploit-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/Spoo1k/Copy-Fail-Exploit-CVE-2026-31431.svg)
+
+- [https://github.com/StarxSky/CVE-2026-31431](https://github.com/StarxSky/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/StarxSky/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/StarxSky/CVE-2026-31431.svg)
+
+- [https://github.com/SugiB3o/CVE-2026-31431](https://github.com/SugiB3o/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/SugiB3o/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/SugiB3o/CVE-2026-31431.svg)
+
+- [https://github.com/TeamN4C/SG-2026-0013](https://github.com/TeamN4C/SG-2026-0013) : ![starts](https://img.shields.io/github/stars/TeamN4C/SG-2026-0013.svg) ![forks](https://img.shields.io/github/forks/TeamN4C/SG-2026-0013.svg)
+
+- [https://github.com/TheMursalin/CVE-2026-31431](https://github.com/TheMursalin/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/TheMursalin/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/TheMursalin/CVE-2026-31431.svg)
+
+- [https://github.com/WavesMan/cve-2026-31431-fleet-remediator](https://github.com/WavesMan/cve-2026-31431-fleet-remediator) : ![starts](https://img.shields.io/github/stars/WavesMan/cve-2026-31431-fleet-remediator.svg) ![forks](https://img.shields.io/github/forks/WavesMan/cve-2026-31431-fleet-remediator.svg)
+
+- [https://github.com/Yakovyakov/cve-2026-31431-mitigation](https://github.com/Yakovyakov/cve-2026-31431-mitigation) : ![starts](https://img.shields.io/github/stars/Yakovyakov/cve-2026-31431-mitigation.svg) ![forks](https://img.shields.io/github/forks/Yakovyakov/cve-2026-31431-mitigation.svg)
+
+- [https://github.com/abhishekhargan/CVE-2026-31431](https://github.com/abhishekhargan/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/abhishekhargan/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/abhishekhargan/CVE-2026-31431.svg)
+
+- [https://github.com/adampielak/CVE-2026-31431_SCA_WAZUH](https://github.com/adampielak/CVE-2026-31431_SCA_WAZUH) : ![starts](https://img.shields.io/github/stars/adampielak/CVE-2026-31431_SCA_WAZUH.svg) ![forks](https://img.shields.io/github/forks/adampielak/CVE-2026-31431_SCA_WAZUH.svg)
+
+- [https://github.com/adilkurtulmus/linux-copy-fail-CVE-2026-31431](https://github.com/adilkurtulmus/linux-copy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/adilkurtulmus/linux-copy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/adilkurtulmus/linux-copy-fail-CVE-2026-31431.svg)
+
+- [https://github.com/arkdev1/check-cve-2026-31431](https://github.com/arkdev1/check-cve-2026-31431) : ![starts](https://img.shields.io/github/stars/arkdev1/check-cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/arkdev1/check-cve-2026-31431.svg)
+
+- [https://github.com/ashok523/cve-2026-31431](https://github.com/ashok523/cve-2026-31431) : ![starts](https://img.shields.io/github/stars/ashok523/cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/ashok523/cve-2026-31431.svg)
+
+- [https://github.com/astounds/copy-fail-CVE-2026-31431](https://github.com/astounds/copy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/astounds/copy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/astounds/copy-fail-CVE-2026-31431.svg)
+
+- [https://github.com/bedros-p/kopy-fail-CVE-2026-31431](https://github.com/bedros-p/kopy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/bedros-p/kopy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/bedros-p/kopy-fail-CVE-2026-31431.svg)
+
+- [https://github.com/boliu83/cve-2026-31431-algif-aead-remediator](https://github.com/boliu83/cve-2026-31431-algif-aead-remediator) : ![starts](https://img.shields.io/github/stars/boliu83/cve-2026-31431-algif-aead-remediator.svg) ![forks](https://img.shields.io/github/forks/boliu83/cve-2026-31431-algif-aead-remediator.svg)
+
+- [https://github.com/cj667113/OCI-Ansible-Fix-CVE-2026-31431](https://github.com/cj667113/OCI-Ansible-Fix-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/cj667113/OCI-Ansible-Fix-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/cj667113/OCI-Ansible-Fix-CVE-2026-31431.svg)
+
+- [https://github.com/cxwx/cpp-CVE-2026-31431](https://github.com/cxwx/cpp-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/cxwx/cpp-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/cxwx/cpp-CVE-2026-31431.svg)
+
+- [https://github.com/danimrtzp/CVE-2026-31431-REVSHELL](https://github.com/danimrtzp/CVE-2026-31431-REVSHELL) : ![starts](https://img.shields.io/github/stars/danimrtzp/CVE-2026-31431-REVSHELL.svg) ![forks](https://img.shields.io/github/forks/danimrtzp/CVE-2026-31431-REVSHELL.svg)
+
+- [https://github.com/deckhouse/d8-copy-fail-mitigation](https://github.com/deckhouse/d8-copy-fail-mitigation) : ![starts](https://img.shields.io/github/stars/deckhouse/d8-copy-fail-mitigation.svg) ![forks](https://img.shields.io/github/forks/deckhouse/d8-copy-fail-mitigation.svg)
+
+- [https://github.com/dev1681/CVE-2026-31431](https://github.com/dev1681/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/dev1681/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/dev1681/CVE-2026-31431.svg)
+
+- [https://github.com/devtint/CVE-2026-31431](https://github.com/devtint/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/devtint/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/devtint/CVE-2026-31431.svg)
+
+- [https://github.com/dixyes/fuck_cve_2026_31431](https://github.com/dixyes/fuck_cve_2026_31431) : ![starts](https://img.shields.io/github/stars/dixyes/fuck_cve_2026_31431.svg) ![forks](https://img.shields.io/github/forks/dixyes/fuck_cve_2026_31431.svg)
+
+- [https://github.com/dorianhhuc/CVE-2026-31431](https://github.com/dorianhhuc/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/dorianhhuc/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/dorianhhuc/CVE-2026-31431.svg)
+
+- [https://github.com/effiesec/copy-fail-cve-2026-31431](https://github.com/effiesec/copy-fail-cve-2026-31431) : ![starts](https://img.shields.io/github/stars/effiesec/copy-fail-cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/effiesec/copy-fail-cve-2026-31431.svg)
+
+- [https://github.com/eleveni386/CVE-2026-31431-Golang](https://github.com/eleveni386/CVE-2026-31431-Golang) : ![starts](https://img.shields.io/github/stars/eleveni386/CVE-2026-31431-Golang.svg) ![forks](https://img.shields.io/github/forks/eleveni386/CVE-2026-31431-Golang.svg)
+
+- [https://github.com/eximiait/CVE-2026-31431](https://github.com/eximiait/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/eximiait/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/eximiait/CVE-2026-31431.svg)
+
+- [https://github.com/freelabz/CVE-2026-31431](https://github.com/freelabz/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/freelabz/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/freelabz/CVE-2026-31431.svg)
+
+- [https://github.com/glask1d/CVE-2026-31431-PoC](https://github.com/glask1d/CVE-2026-31431-PoC) : ![starts](https://img.shields.io/github/stars/glask1d/CVE-2026-31431-PoC.svg) ![forks](https://img.shields.io/github/forks/glask1d/CVE-2026-31431-PoC.svg)
+
+- [https://github.com/gmeghnag/TEST-CVE-2026-31431](https://github.com/gmeghnag/TEST-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/gmeghnag/TEST-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/gmeghnag/TEST-CVE-2026-31431.svg)
+
+- [https://github.com/grabesec/XCP_ng_CVE-2026-31431_tester](https://github.com/grabesec/XCP_ng_CVE-2026-31431_tester) : ![starts](https://img.shields.io/github/stars/grabesec/XCP_ng_CVE-2026-31431_tester.svg) ![forks](https://img.shields.io/github/forks/grabesec/XCP_ng_CVE-2026-31431_tester.svg)
+
+- [https://github.com/grishinpv/CVE-2026-31431-old-python](https://github.com/grishinpv/CVE-2026-31431-old-python) : ![starts](https://img.shields.io/github/stars/grishinpv/CVE-2026-31431-old-python.svg) ![forks](https://img.shields.io/github/forks/grishinpv/CVE-2026-31431-old-python.svg)
+
+- [https://github.com/hans362/CVE-2026-31431-Copy-Fail-Container-Escape](https://github.com/hans362/CVE-2026-31431-Copy-Fail-Container-Escape) : ![starts](https://img.shields.io/github/stars/hans362/CVE-2026-31431-Copy-Fail-Container-Escape.svg) ![forks](https://img.shields.io/github/forks/hans362/CVE-2026-31431-Copy-Fail-Container-Escape.svg)
+
+- [https://github.com/hori0729/CVE-2026-31431-Verificador-Exploit](https://github.com/hori0729/CVE-2026-31431-Verificador-Exploit) : ![starts](https://img.shields.io/github/stars/hori0729/CVE-2026-31431-Verificador-Exploit.svg) ![forks](https://img.shields.io/github/forks/hori0729/CVE-2026-31431-Verificador-Exploit.svg)
+
+- [https://github.com/ikow/CVE-2026-31431-live-code-corruption](https://github.com/ikow/CVE-2026-31431-live-code-corruption) : ![starts](https://img.shields.io/github/stars/ikow/CVE-2026-31431-live-code-corruption.svg) ![forks](https://img.shields.io/github/forks/ikow/CVE-2026-31431-live-code-corruption.svg)
+
+- [https://github.com/jneuhauser/copy-fail-CVE-2026-31431](https://github.com/jneuhauser/copy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/jneuhauser/copy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/jneuhauser/copy-fail-CVE-2026-31431.svg)
+
+- [https://github.com/joltcan/ansible-role-cve-2026-31431](https://github.com/joltcan/ansible-role-cve-2026-31431) : ![starts](https://img.shields.io/github/stars/joltcan/ansible-role-cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/joltcan/ansible-role-cve-2026-31431.svg)
+
+- [https://github.com/julichaan/CVE-2026-31431-python-copyfail-POC](https://github.com/julichaan/CVE-2026-31431-python-copyfail-POC) : ![starts](https://img.shields.io/github/stars/julichaan/CVE-2026-31431-python-copyfail-POC.svg) ![forks](https://img.shields.io/github/forks/julichaan/CVE-2026-31431-python-copyfail-POC.svg)
+
+- [https://github.com/kaleth4/CVE-2026-31431](https://github.com/kaleth4/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/kaleth4/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/kaleth4/CVE-2026-31431.svg)
+
+- [https://github.com/kdjnb/fix_CVE-2026-31431](https://github.com/kdjnb/fix_CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/kdjnb/fix_CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/kdjnb/fix_CVE-2026-31431.svg)
+
+- [https://github.com/kuniyal08/Copy-Fail-CVE-2026-31431-Lab](https://github.com/kuniyal08/Copy-Fail-CVE-2026-31431-Lab) : ![starts](https://img.shields.io/github/stars/kuniyal08/Copy-Fail-CVE-2026-31431-Lab.svg) ![forks](https://img.shields.io/github/forks/kuniyal08/Copy-Fail-CVE-2026-31431-Lab.svg)
+
+- [https://github.com/leelong2020/cve-2026-31431](https://github.com/leelong2020/cve-2026-31431) : ![starts](https://img.shields.io/github/stars/leelong2020/cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/leelong2020/cve-2026-31431.svg)
+
+- [https://github.com/mCub3/CVE-2026-31431](https://github.com/mCub3/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/mCub3/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/mCub3/CVE-2026-31431.svg)
+
+- [https://github.com/mauricioportela/CVE-2026-31431-Analysis](https://github.com/mauricioportela/CVE-2026-31431-Analysis) : ![starts](https://img.shields.io/github/stars/mauricioportela/CVE-2026-31431-Analysis.svg) ![forks](https://img.shields.io/github/forks/mauricioportela/CVE-2026-31431-Analysis.svg)
+
+- [https://github.com/meowteusz/copyfailautopatch](https://github.com/meowteusz/copyfailautopatch) : ![starts](https://img.shields.io/github/stars/meowteusz/copyfailautopatch.svg) ![forks](https://img.shields.io/github/forks/meowteusz/copyfailautopatch.svg)
+
+- [https://github.com/mmionf/copy-fail-CVE-2026-31431](https://github.com/mmionf/copy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/mmionf/copy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/mmionf/copy-fail-CVE-2026-31431.svg)
+
+- [https://github.com/moaaz-mostafa123/CVE-2026-31431](https://github.com/moaaz-mostafa123/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/moaaz-mostafa123/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/moaaz-mostafa123/CVE-2026-31431.svg)
+
+- [https://github.com/mrmtwoj/ubuntu-cve-2026-31431-mitigation](https://github.com/mrmtwoj/ubuntu-cve-2026-31431-mitigation) : ![starts](https://img.shields.io/github/stars/mrmtwoj/ubuntu-cve-2026-31431-mitigation.svg) ![forks](https://img.shields.io/github/forks/mrmtwoj/ubuntu-cve-2026-31431-mitigation.svg)
+
+- [https://github.com/ncmprbll/copy-fail-rs](https://github.com/ncmprbll/copy-fail-rs) : ![starts](https://img.shields.io/github/stars/ncmprbll/copy-fail-rs.svg) ![forks](https://img.shields.io/github/forks/ncmprbll/copy-fail-rs.svg)
+
+- [https://github.com/net0bsd/Mitigaciones](https://github.com/net0bsd/Mitigaciones) : ![starts](https://img.shields.io/github/stars/net0bsd/Mitigaciones.svg) ![forks](https://img.shields.io/github/forks/net0bsd/Mitigaciones.svg)
+
+- [https://github.com/nonameuserosint-hue/Copyfail-sh](https://github.com/nonameuserosint-hue/Copyfail-sh) : ![starts](https://img.shields.io/github/stars/nonameuserosint-hue/Copyfail-sh.svg) ![forks](https://img.shields.io/github/forks/nonameuserosint-hue/Copyfail-sh.svg)
+
+- [https://github.com/norvethil/CVE-2026-31431-Detect](https://github.com/norvethil/CVE-2026-31431-Detect) : ![starts](https://img.shields.io/github/stars/norvethil/CVE-2026-31431-Detect.svg) ![forks](https://img.shields.io/github/forks/norvethil/CVE-2026-31431-Detect.svg)
+
+- [https://github.com/offsecguy/CVE-2026-31431](https://github.com/offsecguy/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/offsecguy/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/offsecguy/CVE-2026-31431.svg)
+
+- [https://github.com/ozergoker/CVE-2026-31431-copy-fail](https://github.com/ozergoker/CVE-2026-31431-copy-fail) : ![starts](https://img.shields.io/github/stars/ozergoker/CVE-2026-31431-copy-fail.svg) ![forks](https://img.shields.io/github/forks/ozergoker/CVE-2026-31431-copy-fail.svg)
+
+- [https://github.com/polyakovavv/copyfail](https://github.com/polyakovavv/copyfail) : ![starts](https://img.shields.io/github/stars/polyakovavv/copyfail.svg) ![forks](https://img.shields.io/github/forks/polyakovavv/copyfail.svg)
+
+- [https://github.com/professional-slacker/alg_check](https://github.com/professional-slacker/alg_check) : ![starts](https://img.shields.io/github/stars/professional-slacker/alg_check.svg) ![forks](https://img.shields.io/github/forks/professional-slacker/alg_check.svg)
+
+- [https://github.com/pulentoski/CVE-2026-31431](https://github.com/pulentoski/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/pulentoski/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/pulentoski/CVE-2026-31431.svg)
+
+- [https://github.com/pvpaulo01/cve-2026-31431](https://github.com/pvpaulo01/cve-2026-31431) : ![starts](https://img.shields.io/github/stars/pvpaulo01/cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/pvpaulo01/cve-2026-31431.svg)
+
+- [https://github.com/ravindercodes/copy-fail-CVE-2026-31431](https://github.com/ravindercodes/copy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/ravindercodes/copy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/ravindercodes/copy-fail-CVE-2026-31431.svg)
+
+- [https://github.com/reubensammut/CVE-2026-31431-Copy-Fail](https://github.com/reubensammut/CVE-2026-31431-Copy-Fail) : ![starts](https://img.shields.io/github/stars/reubensammut/CVE-2026-31431-Copy-Fail.svg) ![forks](https://img.shields.io/github/forks/reubensammut/CVE-2026-31431-Copy-Fail.svg)
+
+- [https://github.com/rio128128/copy-fail-CVE-2026-31431](https://github.com/rio128128/copy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/rio128128/copy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/rio128128/copy-fail-CVE-2026-31431.svg)
+
+- [https://github.com/royayub/CVE-2026-31431](https://github.com/royayub/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/royayub/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/royayub/CVE-2026-31431.svg)
+
+- [https://github.com/rshosting/CVE-2026-31431-patch](https://github.com/rshosting/CVE-2026-31431-patch) : ![starts](https://img.shields.io/github/stars/rshosting/CVE-2026-31431-patch.svg) ![forks](https://img.shields.io/github/forks/rshosting/CVE-2026-31431-patch.svg)
+
+- [https://github.com/ruattd/cve-2026-31431](https://github.com/ruattd/cve-2026-31431) : ![starts](https://img.shields.io/github/stars/ruattd/cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/ruattd/cve-2026-31431.svg)
+
+- [https://github.com/ryan2929/CVE-2026-31431](https://github.com/ryan2929/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/ryan2929/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/ryan2929/CVE-2026-31431.svg)
+
+- [https://github.com/sh4den/CVE-2026-31431-copyfail-aarch64](https://github.com/sh4den/CVE-2026-31431-copyfail-aarch64) : ![starts](https://img.shields.io/github/stars/sh4den/CVE-2026-31431-copyfail-aarch64.svg) ![forks](https://img.shields.io/github/forks/sh4den/CVE-2026-31431-copyfail-aarch64.svg)
+
+- [https://github.com/sibersan/cve-2026-31431-checker](https://github.com/sibersan/cve-2026-31431-checker) : ![starts](https://img.shields.io/github/stars/sibersan/cve-2026-31431-checker.svg) ![forks](https://img.shields.io/github/forks/sibersan/cve-2026-31431-checker.svg)
+
+- [https://github.com/silentbyte69/copy-fail-CVE-2026-31431-cpp](https://github.com/silentbyte69/copy-fail-CVE-2026-31431-cpp) : ![starts](https://img.shields.io/github/stars/silentbyte69/copy-fail-CVE-2026-31431-cpp.svg) ![forks](https://img.shields.io/github/forks/silentbyte69/copy-fail-CVE-2026-31431-cpp.svg)
+
+- [https://github.com/someCorp/copyFail-CVE-2026-31431-workaround-bash](https://github.com/someCorp/copyFail-CVE-2026-31431-workaround-bash) : ![starts](https://img.shields.io/github/stars/someCorp/copyFail-CVE-2026-31431-workaround-bash.svg) ![forks](https://img.shields.io/github/forks/someCorp/copyFail-CVE-2026-31431-workaround-bash.svg)
+
+- [https://github.com/songzzzz/CVE-2026-31431](https://github.com/songzzzz/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/songzzzz/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/songzzzz/CVE-2026-31431.svg)
+
+- [https://github.com/suominen/CVE-2026-31431](https://github.com/suominen/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-31431.svg)
+
+- [https://github.com/t1ckprivate/CVE-2026-31431-Copy-Fail](https://github.com/t1ckprivate/CVE-2026-31431-Copy-Fail) : ![starts](https://img.shields.io/github/stars/t1ckprivate/CVE-2026-31431-Copy-Fail.svg) ![forks](https://img.shields.io/github/forks/t1ckprivate/CVE-2026-31431-Copy-Fail.svg)
+
+- [https://github.com/tangjie1/CVE-2026-31431-Check](https://github.com/tangjie1/CVE-2026-31431-Check) : ![starts](https://img.shields.io/github/stars/tangjie1/CVE-2026-31431-Check.svg) ![forks](https://img.shields.io/github/forks/tangjie1/CVE-2026-31431-Check.svg)
+
+- [https://github.com/tematemaru/CVE-2026-31431-simple-test](https://github.com/tematemaru/CVE-2026-31431-simple-test) : ![starts](https://img.shields.io/github/stars/tematemaru/CVE-2026-31431-simple-test.svg) ![forks](https://img.shields.io/github/forks/tematemaru/CVE-2026-31431-simple-test.svg)
+
+- [https://github.com/tfawnies/CVE-2026-31431](https://github.com/tfawnies/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/tfawnies/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/tfawnies/CVE-2026-31431.svg)
+
+- [https://github.com/twowb/CVE-2026-31431-](https://github.com/twowb/CVE-2026-31431-) : ![starts](https://img.shields.io/github/stars/twowb/CVE-2026-31431-.svg) ![forks](https://img.shields.io/github/forks/twowb/CVE-2026-31431-.svg)
+
+- [https://github.com/u1tr0nex/CVE-2026-31431-CopyFail-Lab](https://github.com/u1tr0nex/CVE-2026-31431-CopyFail-Lab) : ![starts](https://img.shields.io/github/stars/u1tr0nex/CVE-2026-31431-CopyFail-Lab.svg) ![forks](https://img.shields.io/github/forks/u1tr0nex/CVE-2026-31431-CopyFail-Lab.svg)
+
+- [https://github.com/vasyapokemon/cve-2026-31431](https://github.com/vasyapokemon/cve-2026-31431) : ![starts](https://img.shields.io/github/stars/vasyapokemon/cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/vasyapokemon/cve-2026-31431.svg)
+
+- [https://github.com/vishwanathakuthota/copy-fail-CVE-2026-31431](https://github.com/vishwanathakuthota/copy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/vishwanathakuthota/copy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/vishwanathakuthota/copy-fail-CVE-2026-31431.svg)
+
+- [https://github.com/vyahello/CVE-2026-31431](https://github.com/vyahello/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/vyahello/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/vyahello/CVE-2026-31431.svg)
+
+- [https://github.com/vynazevedo/fail-CVE-2026-31431](https://github.com/vynazevedo/fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/vynazevedo/fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/vynazevedo/fail-CVE-2026-31431.svg)
+
+- [https://github.com/w3llr00t3d/CVE-2026-31431-PoC](https://github.com/w3llr00t3d/CVE-2026-31431-PoC) : ![starts](https://img.shields.io/github/stars/w3llr00t3d/CVE-2026-31431-PoC.svg) ![forks](https://img.shields.io/github/forks/w3llr00t3d/CVE-2026-31431-PoC.svg)
+
+- [https://github.com/websecnl/CVE-2026-31431](https://github.com/websecnl/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/websecnl/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/websecnl/CVE-2026-31431.svg)
+
+- [https://github.com/weirdindiankid/copy-fail](https://github.com/weirdindiankid/copy-fail) : ![starts](https://img.shields.io/github/stars/weirdindiankid/copy-fail.svg) ![forks](https://img.shields.io/github/forks/weirdindiankid/copy-fail.svg)
+
+- [https://github.com/wuzuowei/copy-fail-CVE-2026-31431](https://github.com/wuzuowei/copy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/wuzuowei/copy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/wuzuowei/copy-fail-CVE-2026-31431.svg)
+
+- [https://github.com/xd20111/CVE-2026-31431](https://github.com/xd20111/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/xd20111/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/xd20111/CVE-2026-31431.svg)
+
+- [https://github.com/yangh-beep/CVE-2026-31431-C](https://github.com/yangh-beep/CVE-2026-31431-C) : ![starts](https://img.shields.io/github/stars/yangh-beep/CVE-2026-31431-C.svg) ![forks](https://img.shields.io/github/forks/yangh-beep/CVE-2026-31431-C.svg)
+
+- [https://github.com/zKaaanon/ProyectoFinalSO](https://github.com/zKaaanon/ProyectoFinalSO) : ![starts](https://img.shields.io/github/stars/zKaaanon/ProyectoFinalSO.svg) ![forks](https://img.shields.io/github/forks/zKaaanon/ProyectoFinalSO.svg)
+
+- [https://github.com/zenzue/CVE-2026-31431-Checker-Mitigator](https://github.com/zenzue/CVE-2026-31431-Checker-Mitigator) : ![starts](https://img.shields.io/github/stars/zenzue/CVE-2026-31431-Checker-Mitigator.svg) ![forks](https://img.shields.io/github/forks/zenzue/CVE-2026-31431-Checker-Mitigator.svg)
+
+- [https://github.com/zhanghangorg/cve-2026-31431](https://github.com/zhanghangorg/cve-2026-31431) : ![starts](https://img.shields.io/github/stars/zhanghangorg/cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/zhanghangorg/cve-2026-31431.svg)
+
+- [https://github.com/zs1n/copy-fail-CVE-2026-31431](https://github.com/zs1n/copy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/zs1n/copy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/zs1n/copy-fail-CVE-2026-31431.svg)
+
 ## CVE-2026-31429
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -20014,6 +20392,8 @@ This issue affects Online Registration and Workflow Management System: through 1
 
 - [https://github.com/SimoesCTT/CTT-Sovereign-Vortex](https://github.com/SimoesCTT/CTT-Sovereign-Vortex) : ![starts](https://img.shields.io/github/stars/SimoesCTT/CTT-Sovereign-Vortex.svg) ![forks](https://img.shields.io/github/forks/SimoesCTT/CTT-Sovereign-Vortex.svg)
 
+- [https://github.com/ridpath/Terrminus-CVE-2026-2406](https://github.com/ridpath/Terrminus-CVE-2026-2406) : ![starts](https://img.shields.io/github/stars/ridpath/Terrminus-CVE-2026-2406.svg) ![forks](https://img.shields.io/github/forks/ridpath/Terrminus-CVE-2026-2406.svg)
+
 ## CVE-2026-2395
  Improper neutralization of special elements used in an SQL command ('SQL injection') vulnerability in Xpoda Türkiye Informatics Technology Inc. No Code Platform allows SQL Injection.
 
@@ -22725,6 +23105,8 @@ Django would like to thank Seokchan Yoon for reporting this issue.
 - [https://github.com/0xA1M/CVE-2025-63353](https://github.com/0xA1M/CVE-2025-63353) : ![starts](https://img.shields.io/github/stars/0xA1M/CVE-2025-63353.svg) ![forks](https://img.shields.io/github/forks/0xA1M/CVE-2025-63353.svg)
 
 - [https://github.com/Zvckster/CVE-2025-63353](https://github.com/Zvckster/CVE-2025-63353) : ![starts](https://img.shields.io/github/stars/Zvckster/CVE-2025-63353.svg) ![forks](https://img.shields.io/github/forks/Zvckster/CVE-2025-63353.svg)
+
+- [https://github.com/zvckster/CVE-2025-63353](https://github.com/zvckster/CVE-2025-63353) : ![starts](https://img.shields.io/github/stars/zvckster/CVE-2025-63353.svg) ![forks](https://img.shields.io/github/forks/zvckster/CVE-2025-63353.svg)
 
 ## CVE-2025-63314
  A static password reset token in the password reset function of DDSN Interactive Acora CMS v10.7.1 allows attackers to arbitrarily reset the user password and execute a full account takeover via a replay attack.
@@ -50688,6 +51070,8 @@ The vulnerability is limited to the ROOT (default) web application.
 
 - [https://github.com/datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit](https://github.com/datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit) : ![starts](https://img.shields.io/github/stars/datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit.svg) ![forks](https://img.shields.io/github/forks/datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit.svg)
 
+- [https://github.com/NCF0126/Nagios-XI-s-CVE-2023-40931-Exploit](https://github.com/NCF0126/Nagios-XI-s-CVE-2023-40931-Exploit) : ![starts](https://img.shields.io/github/stars/NCF0126/Nagios-XI-s-CVE-2023-40931-Exploit.svg) ![forks](https://img.shields.io/github/forks/NCF0126/Nagios-XI-s-CVE-2023-40931-Exploit.svg)
+
 ## CVE-2023-40930
  An issue in the directory /system/bin/blkid of Skyworth v3.0 allows attackers to perform a directory traversal via mounting the Udisk to /mnt/.
 
@@ -66736,6 +67120,8 @@ the client's API server credentials to third parties.
 - [https://github.com/K3ysTr0K3R/CVE-2022-0543](https://github.com/K3ysTr0K3R/CVE-2022-0543) : ![starts](https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2022-0543.svg) ![forks](https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2022-0543.svg)
 
 - [https://github.com/netw0rk7/CVE-2022-0543-Home-Lab](https://github.com/netw0rk7/CVE-2022-0543-Home-Lab) : ![starts](https://img.shields.io/github/stars/netw0rk7/CVE-2022-0543-Home-Lab.svg) ![forks](https://img.shields.io/github/forks/netw0rk7/CVE-2022-0543-Home-Lab.svg)
+
+- [https://github.com/fulxey/CVE-2022-0543](https://github.com/fulxey/CVE-2022-0543) : ![starts](https://img.shields.io/github/stars/fulxey/CVE-2022-0543.svg) ![forks](https://img.shields.io/github/forks/fulxey/CVE-2022-0543.svg)
 
 ## CVE-2022-0540
  A vulnerability in Jira Seraph allows a remote, unauthenticated attacker to bypass authentication by sending a specially crafted HTTP request. This affects Atlassian Jira Server and Data Center versions before 8.13.18, versions 8.14.0 and later before 8.20.6, and versions 8.21.0 and later before 8.22.0. This also affects Atlassian Jira Service Management Server and Data Center versions before 4.13.18, versions 4.14.0 and later before 4.20.6, and versions 4.21.0 and later before 4.22.0.
@@ -85392,6 +85778,8 @@ use after free.
 - [https://github.com/tim-karov/cmsms-sqli](https://github.com/tim-karov/cmsms-sqli) : ![starts](https://img.shields.io/github/stars/tim-karov/cmsms-sqli.svg) ![forks](https://img.shields.io/github/forks/tim-karov/cmsms-sqli.svg)
 
 - [https://github.com/ImperialX1104/Simple-CTF-Writeup](https://github.com/ImperialX1104/Simple-CTF-Writeup) : ![starts](https://img.shields.io/github/stars/ImperialX1104/Simple-CTF-Writeup.svg) ![forks](https://img.shields.io/github/forks/ImperialX1104/Simple-CTF-Writeup.svg)
+
+- [https://github.com/so1icitx/CVE-2019-9053](https://github.com/so1icitx/CVE-2019-9053) : ![starts](https://img.shields.io/github/stars/so1icitx/CVE-2019-9053.svg) ![forks](https://img.shields.io/github/forks/so1icitx/CVE-2019-9053.svg)
 
 ## CVE-2019-8997
  An XML External Entity Injection (XXE) vulnerability in the Management System (console) of BlackBerry AtHoc versions earlier than 7.6 HF-567 could allow an attacker to potentially read arbitrary local files from the application server or make requests on the network by entering maliciously crafted XML in an existing field.

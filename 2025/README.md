@@ -1836,6 +1836,8 @@ Django would like to thank Seokchan Yoon for reporting this issue.
 
 - [https://github.com/Zvckster/CVE-2025-63353](https://github.com/Zvckster/CVE-2025-63353) : ![starts](https://img.shields.io/github/stars/Zvckster/CVE-2025-63353.svg) ![forks](https://img.shields.io/github/forks/Zvckster/CVE-2025-63353.svg)
 
+- [https://github.com/zvckster/CVE-2025-63353](https://github.com/zvckster/CVE-2025-63353) : ![starts](https://img.shields.io/github/stars/zvckster/CVE-2025-63353.svg) ![forks](https://img.shields.io/github/forks/zvckster/CVE-2025-63353.svg)
+
 ## CVE-2025-63314
  A static password reset token in the password reset function of DDSN Interactive Acora CMS v10.7.1 allows attackers to arbitrarily reset the user password and execute a full account takeover via a replay attack.
 

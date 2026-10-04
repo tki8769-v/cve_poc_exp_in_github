@@ -8015,6 +8015,8 @@ the client's API server credentials to third parties.
 
 - [https://github.com/netw0rk7/CVE-2022-0543-Home-Lab](https://github.com/netw0rk7/CVE-2022-0543-Home-Lab) : ![starts](https://img.shields.io/github/stars/netw0rk7/CVE-2022-0543-Home-Lab.svg) ![forks](https://img.shields.io/github/forks/netw0rk7/CVE-2022-0543-Home-Lab.svg)
 
+- [https://github.com/fulxey/CVE-2022-0543](https://github.com/fulxey/CVE-2022-0543) : ![starts](https://img.shields.io/github/stars/fulxey/CVE-2022-0543.svg) ![forks](https://img.shields.io/github/forks/fulxey/CVE-2022-0543.svg)
+
 ## CVE-2022-0540
  A vulnerability in Jira Seraph allows a remote, unauthenticated attacker to bypass authentication by sending a specially crafted HTTP request. This affects Atlassian Jira Server and Data Center versions before 8.13.18, versions 8.14.0 and later before 8.20.6, and versions 8.21.0 and later before 8.22.0. This also affects Atlassian Jira Service Management Server and Data Center versions before 4.13.18, versions 4.14.0 and later before 4.20.6, and versions 4.21.0 and later before 4.22.0.
 
