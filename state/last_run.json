@@ -2,34 +2,32 @@
   "ok": true,
   "steps": {
     "backfill_conflicts": {
-      "cached_total": 26051,
-      "fetched": 13,
-      "requested": 13,
+      "cached_total": 26093,
+      "fetched": 42,
+      "requested": 42,
       "stop_reason": null
     },
     "backfill_queue": {
-      "cached_total": 26051,
+      "cached_total": 26093,
       "fetched": 0,
       "requested": 0,
       "stop_reason": null
     },
     "clean_apply": {
-      "affected_years": [
-        "2026"
-      ],
-      "applied_at": "2026-10-04T20:30:58Z",
+      "affected_years": [],
+      "applied_at": "2026-10-04T20:41:23Z",
       "applied_rejected": 0,
-      "revoked_accepted": 42,
+      "revoked_accepted": 0,
       "revoked_rejected": 0,
       "rule_version": "2",
       "still_pending_meta": 0
     },
     "queue": {
       "due_by_priority": {
-        "5": 10025,
+        "5": 9726,
         "8": 8437
       },
-      "due_now": 18462,
+      "due_now": 18163,
       "oldest_due": "2026-09-25T01:06:08Z",
       "tasks_total": 21536
     },
@@ -42,32 +40,32 @@
       "rule_version": "2"
     },
     "render": {
-      "changed_files": 7
+      "changed_files": 0
     },
     "repo_watch": {
       "blocked": 0,
       "complete": true,
       "cursor_advanced": true,
-      "cves_hit": 16,
+      "cves_hit": 15,
       "invalid_ids": 0,
       "needs_review": 0,
       "new_relations": 0,
       "partial_days_dropped": 0,
       "partial_days_pending": 0,
       "rejected_at_collection": 0,
-      "repos_seen": 54,
+      "repos_seen": 53,
       "warning": null,
       "window": "2026-10-04..2026-10-04"
     },
     "scan": {
       "blocked": 0,
       "budget_stopped": true,
-      "incomplete": 1,
+      "incomplete": 0,
       "invalid_id_skipped": 0,
-      "needs_review": 134,
-      "new_relations": 194,
-      "rejected_at_collection": 45,
-      "scanned": 298,
+      "needs_review": 85,
+      "new_relations": 0,
+      "rejected_at_collection": 8,
+      "scanned": 300,
       "task_errors": 0,
       "tasks_due": 10000
     },
@@ -89,5 +87,5 @@
       "problems": []
     }
   },
-  "ts": "2026-10-04T20:30:59Z"
+  "ts": "2026-10-04T20:41:23Z"
 }

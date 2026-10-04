@@ -157,3 +157,11 @@
 {"cve_id": "CVE-2025-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:28:02Z", "url": "https://github.com/24520597-blip/CVE-2025-99999", "url_ids": ["CVE-2025-99999"]}
 {"cve_id": "CVE-2026-4391", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:29:00Z", "url": "https://github.com/Boreas37/CVE-2026-43914-PoC", "url_ids": ["CVE-2026-43914"]}
 {"cve_id": "CVE-2023-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:29:52Z", "url": "https://github.com/pwndorei/CVE-2023-36407", "url_ids": ["CVE-2023-36407"]}
+{"cve_id": "CVE-2026-3333", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:31:57Z", "url": "https://github.com/abhayclasher/CVE-2026-33331", "url_ids": ["CVE-2026-33331"]}
+{"cve_id": "CVE-2024-5476", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:32:01Z", "url": "https://github.com/nscan9/CVE-2024-54761", "url_ids": ["CVE-2024-54761"]}
+{"cve_id": "CVE-2024-5476", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:32:01Z", "url": "https://github.com/lowlevelsec/AVM-FRITZ-Box-CVE-2024-54767-Exploit", "url_ids": ["CVE-2024-54767"]}
+{"cve_id": "CVE-2025-5209", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:33:55Z", "url": "https://github.com/rwilsonecs/CVE-2025-52097", "url_ids": ["CVE-2025-52097"]}
+{"cve_id": "CVE-2025-2748", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:35:05Z", "url": "https://github.com/mrk336/CVE-2025-27480", "url_ids": ["CVE-2025-27480"]}
+{"cve_id": "CVE-2025-2748", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:35:05Z", "url": "https://github.com/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk", "url_ids": ["CVE-2025-27480"]}
+{"cve_id": "CVE-2024-5737", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:39:10Z", "url": "https://github.com/DelspoN/CVE-2024-57376", "url_ids": ["CVE-2024-57376"]}
+{"cve_id": "CVE-2024-5737", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:39:10Z", "url": "https://github.com/rxerium/CVE-2024-57378", "url_ids": ["CVE-2024-57378"]}
