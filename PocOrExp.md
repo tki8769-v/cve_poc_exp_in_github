@@ -1120,6 +1120,10 @@ This issue w
 
 - [https://github.com/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC](https://github.com/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC) : ![starts](https://img.shields.io/github/stars/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC.svg) ![forks](https://img.shields.io/github/forks/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC.svg)
 
+## CVE-2026-83627
+
+- [https://github.com/K52-ai/CVE-2026-83627](https://github.com/K52-ai/CVE-2026-83627) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2026-83627.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2026-83627.svg)
+
 ## CVE-2026-83603
 > Netdata is an open source observability tool. Prior to 2.10.4, the setuid-root ndsudo helper command fail2ban-client-status-socket in src/collectors/utils/ndsudo.c accepts a caller-controlled --socket_path from the low-privileged netdata service account. The account can direct root fail2ban-client to a malicious UNIX socket, and fail2ban/client/csocket.py CSocket.receive() passes the returned data to pickle.loads(), allowing attacker-controlled code to execute as root on systems with fail2ban-cl
 
@@ -12283,6 +12287,8 @@ AD directly.
 
 - [https://github.com/rifkyards/Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/rifkyards/Copy-Fail-CVE-2026-31431-Kubernetes-PoC) : ![starts](https://img.shields.io/github/stars/rifkyards/Copy-Fail-CVE-2026-31431-Kubernetes-PoC.svg) ![forks](https://img.shields.io/github/forks/rifkyards/Copy-Fail-CVE-2026-31431-Kubernetes-PoC.svg)
 
+- [https://github.com/ledlight33/copyfail-check-skill](https://github.com/ledlight33/copyfail-check-skill) : ![starts](https://img.shields.io/github/stars/ledlight33/copyfail-check-skill.svg) ![forks](https://img.shields.io/github/forks/ledlight33/copyfail-check-skill.svg)
+
 ## CVE-2026-31429
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -15215,6 +15221,8 @@ https: //lore.kernel.org/netdev/695fb1e8.050a0220.1c677c.039f.GAE@google.com/T/#
 
 - [https://github.com/e5dfdd568a75282b712b6d93a7a18e12/CVE-2026-22777](https://github.com/e5dfdd568a75282b712b6d93a7a18e12/CVE-2026-22777) : ![starts](https://img.shields.io/github/stars/e5dfdd568a75282b712b6d93a7a18e12/CVE-2026-22777.svg) ![forks](https://img.shields.io/github/forks/e5dfdd568a75282b712b6d93a7a18e12/CVE-2026-22777.svg)
 
+- [https://github.com/Si13NTTT/CVE-2026-22777](https://github.com/Si13NTTT/CVE-2026-22777) : ![starts](https://img.shields.io/github/stars/Si13NTTT/CVE-2026-22777.svg) ![forks](https://img.shields.io/github/forks/Si13NTTT/CVE-2026-22777.svg)
+
 ## CVE-2026-22747
  Vulnerability in Spring Spring Security. SubjectX500PrincipalExtractor does not correctly handle certain malformed X.509 certificate CN values, which can lead to reading the wrong value for the username. In a carefully crafted certificate, this can lead to an attacker impersonating another user.
 This issue affects Spring Security: from 7.0.0 through 7.0.4.
@@ -17079,6 +17087,8 @@ This issue affects pardus-software: from = 1.0.4 before 1.0.5.
 
 - [https://github.com/murrez/CVE-2026-14378](https://github.com/murrez/CVE-2026-14378) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-14378.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-14378.svg)
 
+- [https://github.com/MRdark-ops/exploit-scanner-CVE-2026-14378](https://github.com/MRdark-ops/exploit-scanner-CVE-2026-14378) : ![starts](https://img.shields.io/github/stars/MRdark-ops/exploit-scanner-CVE-2026-14378.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/exploit-scanner-CVE-2026-14378.svg)
+
 ## CVE-2026-14361
  The consul-template library before version 0.42.1 is vulnerable to a path redirection issue in the writeToFile template helper that may allow template output to be written outside the intended directory or to overwrite an existing file. This vulnerability (CVE-2026-14361) is fixed in consul-template 0.42.1.
 
@@ -17182,6 +17192,10 @@ Security Update for ASUS System Control Interface  ' section on the ASUS Secur
 An attacker could potentially exploit this vulnerability, leading to the execution of malicious files and commands. Honeywell also recommends updating to the most recent firmware version, Honeywell PD45 Industrial Printer firmware F10.22.030745, wh
 
 - [https://github.com/murrez/CVE-2026-13249](https://github.com/murrez/CVE-2026-13249) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-13249.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-13249.svg)
+
+## CVE-2026-13247
+
+- [https://github.com/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat](https://github.com/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat) : ![starts](https://img.shields.io/github/stars/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat.svg) ![forks](https://img.shields.io/github/forks/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat.svg)
 
 ## CVE-2026-13233
  Server-Side Request Forgery (SSRF) vulnerability in Drupal OpenAI Provider allows Server Side Request Forgery. This issue affects OpenAI Provider versions: from 0.0.0 to 1.1.1, from 1.2.0 to 1.2.2.
@@ -40686,6 +40700,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 - [https://github.com/Tinnci/cve-2024-31317](https://github.com/Tinnci/cve-2024-31317) : ![starts](https://img.shields.io/github/stars/Tinnci/cve-2024-31317.svg) ![forks](https://img.shields.io/github/forks/Tinnci/cve-2024-31317.svg)
 
+- [https://github.com/nianfan555/PoC-Deployer-System](https://github.com/nianfan555/PoC-Deployer-System) : ![starts](https://img.shields.io/github/stars/nianfan555/PoC-Deployer-System.svg) ![forks](https://img.shields.io/github/forks/nianfan555/PoC-Deployer-System.svg)
+
 ## CVE-2024-31309
  HTTP/2 CONTINUATION DoS attack can cause Apache Traffic Server to consume more resources on the server.  Version from 8.0.0 through 8.1.9, from 9.0.0 through 9.2.3 are affected.
 
@@ -60218,6 +60234,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 - [https://github.com/Vampsecure-Labs/vamp-forticheck](https://github.com/Vampsecure-Labs/vamp-forticheck) : ![starts](https://img.shields.io/github/stars/Vampsecure-Labs/vamp-forticheck.svg) ![forks](https://img.shields.io/github/forks/Vampsecure-Labs/vamp-forticheck.svg)
 
 - [https://github.com/niklasmato/fortileak-01-2025-Be](https://github.com/niklasmato/fortileak-01-2025-Be) : ![starts](https://img.shields.io/github/stars/niklasmato/fortileak-01-2025-Be.svg) ![forks](https://img.shields.io/github/forks/niklasmato/fortileak-01-2025-Be.svg)
+
+- [https://github.com/gotr00t0day/CVE-2022-40684](https://github.com/gotr00t0day/CVE-2022-40684) : ![starts](https://img.shields.io/github/stars/gotr00t0day/CVE-2022-40684.svg) ![forks](https://img.shields.io/github/forks/gotr00t0day/CVE-2022-40684.svg)
 
 ## CVE-2022-40664
  Apache Shiro before 1.10.0, Authentication Bypass Vulnerability in Shiro when forwarding or including via RequestDispatcher.
@@ -87245,6 +87263,72 @@ The security update addresses the vulnerability by correcting how Hyper-V valida
 
 - [https://github.com/tranqtruong/Detect-BlueKeep](https://github.com/tranqtruong/Detect-BlueKeep) : ![starts](https://img.shields.io/github/stars/tranqtruong/Detect-BlueKeep.svg) ![forks](https://img.shields.io/github/forks/tranqtruong/Detect-BlueKeep.svg)
 
+- [https://github.com/adyanamul/Remote-Code-Execution-RCE-Exploit-BlueKeep-CVE-2019-0708-PoC](https://github.com/adyanamul/Remote-Code-Execution-RCE-Exploit-BlueKeep-CVE-2019-0708-PoC) : ![starts](https://img.shields.io/github/stars/adyanamul/Remote-Code-Execution-RCE-Exploit-BlueKeep-CVE-2019-0708-PoC.svg) ![forks](https://img.shields.io/github/forks/adyanamul/Remote-Code-Execution-RCE-Exploit-BlueKeep-CVE-2019-0708-PoC.svg)
+
+- [https://github.com/9b/bluekeep-marketing](https://github.com/9b/bluekeep-marketing) : ![starts](https://img.shields.io/github/stars/9b/bluekeep-marketing.svg) ![forks](https://img.shields.io/github/forks/9b/bluekeep-marketing.svg)
+
+- [https://github.com/AaronCaiii/CVE-2019-0708-POC](https://github.com/AaronCaiii/CVE-2019-0708-POC) : ![starts](https://img.shields.io/github/stars/AaronCaiii/CVE-2019-0708-POC.svg) ![forks](https://img.shields.io/github/forks/AaronCaiii/CVE-2019-0708-POC.svg)
+
+- [https://github.com/Ameg-yag/Wincrash](https://github.com/Ameg-yag/Wincrash) : ![starts](https://img.shields.io/github/stars/Ameg-yag/Wincrash.svg) ![forks](https://img.shields.io/github/forks/Ameg-yag/Wincrash.svg)
+
+- [https://github.com/Ayomide-29/bluekeep_metasploit_practice](https://github.com/Ayomide-29/bluekeep_metasploit_practice) : ![starts](https://img.shields.io/github/stars/Ayomide-29/bluekeep_metasploit_practice.svg) ![forks](https://img.shields.io/github/forks/Ayomide-29/bluekeep_metasploit_practice.svg)
+
+- [https://github.com/GopeshKachhadiya/Windows-2](https://github.com/GopeshKachhadiya/Windows-2) : ![starts](https://img.shields.io/github/stars/GopeshKachhadiya/Windows-2.svg) ![forks](https://img.shields.io/github/forks/GopeshKachhadiya/Windows-2.svg)
+
+- [https://github.com/Micr067/CVE-2019-0708RDP-MSF](https://github.com/Micr067/CVE-2019-0708RDP-MSF) : ![starts](https://img.shields.io/github/stars/Micr067/CVE-2019-0708RDP-MSF.svg) ![forks](https://img.shields.io/github/forks/Micr067/CVE-2019-0708RDP-MSF.svg)
+
+- [https://github.com/Mohaimenul370/Perform-an-RDP-exploitation-using-the-BlueKeep-vulnerability-CVE-2019-0708-on-Windows](https://github.com/Mohaimenul370/Perform-an-RDP-exploitation-using-the-BlueKeep-vulnerability-CVE-2019-0708-on-Windows) : ![starts](https://img.shields.io/github/stars/Mohaimenul370/Perform-an-RDP-exploitation-using-the-BlueKeep-vulnerability-CVE-2019-0708-on-Windows.svg) ![forks](https://img.shields.io/github/forks/Mohaimenul370/Perform-an-RDP-exploitation-using-the-BlueKeep-vulnerability-CVE-2019-0708-on-Windows.svg)
+
+- [https://github.com/Nweks/Bluekeep-Metasploit-Lab-Project](https://github.com/Nweks/Bluekeep-Metasploit-Lab-Project) : ![starts](https://img.shields.io/github/stars/Nweks/Bluekeep-Metasploit-Lab-Project.svg) ![forks](https://img.shields.io/github/forks/Nweks/Bluekeep-Metasploit-Lab-Project.svg)
+
+- [https://github.com/SQLDebugger/CVE-2019-0708-Tool](https://github.com/SQLDebugger/CVE-2019-0708-Tool) : ![starts](https://img.shields.io/github/stars/SQLDebugger/CVE-2019-0708-Tool.svg) ![forks](https://img.shields.io/github/forks/SQLDebugger/CVE-2019-0708-Tool.svg)
+
+- [https://github.com/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-](https://github.com/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-) : ![starts](https://img.shields.io/github/stars/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-.svg) ![forks](https://img.shields.io/github/forks/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-.svg)
+
+- [https://github.com/ZhaoYukai/CVE-2019-0708](https://github.com/ZhaoYukai/CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/ZhaoYukai/CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/ZhaoYukai/CVE-2019-0708.svg)
+
+- [https://github.com/ZhaoYukai/CVE-2019-0708-Batch-Blue-Screen](https://github.com/ZhaoYukai/CVE-2019-0708-Batch-Blue-Screen) : ![starts](https://img.shields.io/github/stars/ZhaoYukai/CVE-2019-0708-Batch-Blue-Screen.svg) ![forks](https://img.shields.io/github/forks/ZhaoYukai/CVE-2019-0708-Batch-Blue-Screen.svg)
+
+- [https://github.com/ayomideadams61-hub/bluekeep-metsploitable-lab](https://github.com/ayomideadams61-hub/bluekeep-metsploitable-lab) : ![starts](https://img.shields.io/github/stars/ayomideadams61-hub/bluekeep-metsploitable-lab.svg) ![forks](https://img.shields.io/github/forks/ayomideadams61-hub/bluekeep-metsploitable-lab.svg)
+
+- [https://github.com/benhe119/bluekeepscan](https://github.com/benhe119/bluekeepscan) : ![starts](https://img.shields.io/github/stars/benhe119/bluekeepscan.svg) ![forks](https://img.shields.io/github/forks/benhe119/bluekeepscan.svg)
+
+- [https://github.com/bibo318/kali-CVE-2019-0708-lab](https://github.com/bibo318/kali-CVE-2019-0708-lab) : ![starts](https://img.shields.io/github/stars/bibo318/kali-CVE-2019-0708-lab.svg) ![forks](https://img.shields.io/github/forks/bibo318/kali-CVE-2019-0708-lab.svg)
+
+- [https://github.com/davidfortytwo/bluekeep](https://github.com/davidfortytwo/bluekeep) : ![starts](https://img.shields.io/github/stars/davidfortytwo/bluekeep.svg) ![forks](https://img.shields.io/github/forks/davidfortytwo/bluekeep.svg)
+
+- [https://github.com/emmadej1234/bluekeep-metasploit-lab-project](https://github.com/emmadej1234/bluekeep-metasploit-lab-project) : ![starts](https://img.shields.io/github/stars/emmadej1234/bluekeep-metasploit-lab-project.svg) ![forks](https://img.shields.io/github/forks/emmadej1234/bluekeep-metasploit-lab-project.svg)
+
+- [https://github.com/f8al/CVE-2019-0708-POC](https://github.com/f8al/CVE-2019-0708-POC) : ![starts](https://img.shields.io/github/stars/f8al/CVE-2019-0708-POC.svg) ![forks](https://img.shields.io/github/forks/f8al/CVE-2019-0708-POC.svg)
+
+- [https://github.com/freeide/CVE-2019-0708-PoC-Exploit](https://github.com/freeide/CVE-2019-0708-PoC-Exploit) : ![starts](https://img.shields.io/github/stars/freeide/CVE-2019-0708-PoC-Exploit.svg) ![forks](https://img.shields.io/github/forks/freeide/CVE-2019-0708-PoC-Exploit.svg)
+
+- [https://github.com/hualy13/CVE-2019-0708-Check](https://github.com/hualy13/CVE-2019-0708-Check) : ![starts](https://img.shields.io/github/stars/hualy13/CVE-2019-0708-Check.svg) ![forks](https://img.shields.io/github/forks/hualy13/CVE-2019-0708-Check.svg)
+
+- [https://github.com/isabelacostaz/CVE-2019-0708-POC](https://github.com/isabelacostaz/CVE-2019-0708-POC) : ![starts](https://img.shields.io/github/stars/isabelacostaz/CVE-2019-0708-POC.svg) ![forks](https://img.shields.io/github/forks/isabelacostaz/CVE-2019-0708-POC.svg)
+
+- [https://github.com/lisinan988/CVE-2019-0708-scan](https://github.com/lisinan988/CVE-2019-0708-scan) : ![starts](https://img.shields.io/github/stars/lisinan988/CVE-2019-0708-scan.svg) ![forks](https://img.shields.io/github/forks/lisinan988/CVE-2019-0708-scan.svg)
+
+- [https://github.com/offensity/CVE-2019-0708](https://github.com/offensity/CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/offensity/CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/offensity/CVE-2019-0708.svg)
+
+- [https://github.com/oneoy/BlueKeep](https://github.com/oneoy/BlueKeep) : ![starts](https://img.shields.io/github/stars/oneoy/BlueKeep.svg) ![forks](https://img.shields.io/github/forks/oneoy/BlueKeep.svg)
+
+- [https://github.com/pywc/CVE-2019-0708](https://github.com/pywc/CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/pywc/CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/pywc/CVE-2019-0708.svg)
+
+- [https://github.com/rasan2001/Microsoft-Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708](https://github.com/rasan2001/Microsoft-Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/rasan2001/Microsoft-Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/rasan2001/Microsoft-Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708.svg)
+
+- [https://github.com/ryan-ally/rdp0708scanner](https://github.com/ryan-ally/rdp0708scanner) : ![starts](https://img.shields.io/github/stars/ryan-ally/rdp0708scanner.svg) ![forks](https://img.shields.io/github/forks/ryan-ally/rdp0708scanner.svg)
+
+- [https://github.com/sbkcbig/CVE-2019-0708-EXPloit-3389](https://github.com/sbkcbig/CVE-2019-0708-EXPloit-3389) : ![starts](https://img.shields.io/github/stars/sbkcbig/CVE-2019-0708-EXPloit-3389.svg) ![forks](https://img.shields.io/github/forks/sbkcbig/CVE-2019-0708-EXPloit-3389.svg)
+
+- [https://github.com/sezayi1972/CVE-2019-0708](https://github.com/sezayi1972/CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/sezayi1972/CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/sezayi1972/CVE-2019-0708.svg)
+
+- [https://github.com/xiyangzuishuai/Dark-Network-CVE-2019-0708](https://github.com/xiyangzuishuai/Dark-Network-CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/xiyangzuishuai/Dark-Network-CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/xiyangzuishuai/Dark-Network-CVE-2019-0708.svg)
+
+- [https://github.com/yetiddbb/CVE-2019-0708-PoC](https://github.com/yetiddbb/CVE-2019-0708-PoC) : ![starts](https://img.shields.io/github/stars/yetiddbb/CVE-2019-0708-PoC.svg) ![forks](https://img.shields.io/github/forks/yetiddbb/CVE-2019-0708-PoC.svg)
+
+- [https://github.com/zoujialan/CVE-2019-0708-RCE](https://github.com/zoujialan/CVE-2019-0708-RCE) : ![starts](https://img.shields.io/github/stars/zoujialan/CVE-2019-0708-RCE.svg) ![forks](https://img.shields.io/github/forks/zoujialan/CVE-2019-0708-RCE.svg)
+
 ## CVE-2019-0683
  An elevation of privilege vulnerability exists in Active Directory Forest trusts due to a default setting that lets an attacker in the trusting forest request delegation of a TGT for an identity from the trusted forest, aka 'Active Directory Elevation of Privilege Vulnerability'.
 
@@ -90265,6 +90349,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 
 - [https://github.com/SecPentester/CVE-7600-2018](https://github.com/SecPentester/CVE-7600-2018) : ![starts](https://img.shields.io/github/stars/SecPentester/CVE-7600-2018.svg) ![forks](https://img.shields.io/github/forks/SecPentester/CVE-7600-2018.svg)
 
+- [https://github.com/K52-ai/CVE-2018-7600](https://github.com/K52-ai/CVE-2018-7600) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2018-7600.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2018-7600.svg)
+
 ## CVE-2018-7560
  index.js in the Anton Myshenin aws-lambda-multipart-parser NPM package before 0.1.2 has a Regular Expression Denial of Service (ReDoS) issue via a crafted multipart/form-data boundary string.
 
@@ -92452,6 +92538,10 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem.  When the candidate has been publicized, the details for this candidate will be provided.
 
 - [https://github.com/ossf-cve-benchmark/CVE-2017-16087](https://github.com/ossf-cve-benchmark/CVE-2017-16087) : ![starts](https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2017-16087.svg) ![forks](https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2017-16087.svg)
+
+- [https://github.com/CQ-Tools/CVE-2017-16087-fixed](https://github.com/CQ-Tools/CVE-2017-16087-fixed) : ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16087-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16087-fixed.svg)
+
+- [https://github.com/CQ-Tools/CVE-2017-16087-unfixed](https://github.com/CQ-Tools/CVE-2017-16087-unfixed) : ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16087-unfixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16087-unfixed.svg)
 
 ## CVE-2017-16084
  list-n-stream is a server for static files to list and stream local videos. list-n-stream v0.0.10 or lower is vulnerable to a directory traversal issue, giving an attacker access to the filesystem by placing "../" in the url.

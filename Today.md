@@ -1,7 +1,52 @@
 # Update 2026-10-04
+## CVE-2017-16087
+
+- [https://github.com/CQ-Tools/CVE-2017-16087-fixed](https://github.com/CQ-Tools/CVE-2017-16087-fixed) : ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16087-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16087-fixed.svg)
+- [https://github.com/CQ-Tools/CVE-2017-16087-unfixed](https://github.com/CQ-Tools/CVE-2017-16087-unfixed) : ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16087-unfixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16087-unfixed.svg)
+
 ## CVE-2017-9841
 
 - [https://github.com/drcrypterdotru/PHPUnit-GoScan](https://github.com/drcrypterdotru/PHPUnit-GoScan) : ![starts](https://img.shields.io/github/stars/drcrypterdotru/PHPUnit-GoScan.svg) ![forks](https://img.shields.io/github/forks/drcrypterdotru/PHPUnit-GoScan.svg)
+
+## CVE-2018-7600
+
+- [https://github.com/K52-ai/CVE-2018-7600](https://github.com/K52-ai/CVE-2018-7600) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2018-7600.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2018-7600.svg)
+
+## CVE-2019-0708
+
+- [https://github.com/9b/bluekeep-marketing](https://github.com/9b/bluekeep-marketing) : ![starts](https://img.shields.io/github/stars/9b/bluekeep-marketing.svg) ![forks](https://img.shields.io/github/forks/9b/bluekeep-marketing.svg)
+- [https://github.com/AaronCaiii/CVE-2019-0708-POC](https://github.com/AaronCaiii/CVE-2019-0708-POC) : ![starts](https://img.shields.io/github/stars/AaronCaiii/CVE-2019-0708-POC.svg) ![forks](https://img.shields.io/github/forks/AaronCaiii/CVE-2019-0708-POC.svg)
+- [https://github.com/Ameg-yag/Wincrash](https://github.com/Ameg-yag/Wincrash) : ![starts](https://img.shields.io/github/stars/Ameg-yag/Wincrash.svg) ![forks](https://img.shields.io/github/forks/Ameg-yag/Wincrash.svg)
+- [https://github.com/Ayomide-29/bluekeep_metasploit_practice](https://github.com/Ayomide-29/bluekeep_metasploit_practice) : ![starts](https://img.shields.io/github/stars/Ayomide-29/bluekeep_metasploit_practice.svg) ![forks](https://img.shields.io/github/forks/Ayomide-29/bluekeep_metasploit_practice.svg)
+- [https://github.com/GopeshKachhadiya/Windows-2](https://github.com/GopeshKachhadiya/Windows-2) : ![starts](https://img.shields.io/github/stars/GopeshKachhadiya/Windows-2.svg) ![forks](https://img.shields.io/github/forks/GopeshKachhadiya/Windows-2.svg)
+- [https://github.com/Micr067/CVE-2019-0708RDP-MSF](https://github.com/Micr067/CVE-2019-0708RDP-MSF) : ![starts](https://img.shields.io/github/stars/Micr067/CVE-2019-0708RDP-MSF.svg) ![forks](https://img.shields.io/github/forks/Micr067/CVE-2019-0708RDP-MSF.svg)
+- [https://github.com/Mohaimenul370/Perform-an-RDP-exploitation-using-the-BlueKeep-vulnerability-CVE-2019-0708-on-Windows](https://github.com/Mohaimenul370/Perform-an-RDP-exploitation-using-the-BlueKeep-vulnerability-CVE-2019-0708-on-Windows) : ![starts](https://img.shields.io/github/stars/Mohaimenul370/Perform-an-RDP-exploitation-using-the-BlueKeep-vulnerability-CVE-2019-0708-on-Windows.svg) ![forks](https://img.shields.io/github/forks/Mohaimenul370/Perform-an-RDP-exploitation-using-the-BlueKeep-vulnerability-CVE-2019-0708-on-Windows.svg)
+- [https://github.com/Nweks/Bluekeep-Metasploit-Lab-Project](https://github.com/Nweks/Bluekeep-Metasploit-Lab-Project) : ![starts](https://img.shields.io/github/stars/Nweks/Bluekeep-Metasploit-Lab-Project.svg) ![forks](https://img.shields.io/github/forks/Nweks/Bluekeep-Metasploit-Lab-Project.svg)
+- [https://github.com/SQLDebugger/CVE-2019-0708-Tool](https://github.com/SQLDebugger/CVE-2019-0708-Tool) : ![starts](https://img.shields.io/github/stars/SQLDebugger/CVE-2019-0708-Tool.svg) ![forks](https://img.shields.io/github/forks/SQLDebugger/CVE-2019-0708-Tool.svg)
+- [https://github.com/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-](https://github.com/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-) : ![starts](https://img.shields.io/github/stars/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-.svg) ![forks](https://img.shields.io/github/forks/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-.svg)
+- [https://github.com/ZhaoYukai/CVE-2019-0708](https://github.com/ZhaoYukai/CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/ZhaoYukai/CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/ZhaoYukai/CVE-2019-0708.svg)
+- [https://github.com/ZhaoYukai/CVE-2019-0708-Batch-Blue-Screen](https://github.com/ZhaoYukai/CVE-2019-0708-Batch-Blue-Screen) : ![starts](https://img.shields.io/github/stars/ZhaoYukai/CVE-2019-0708-Batch-Blue-Screen.svg) ![forks](https://img.shields.io/github/forks/ZhaoYukai/CVE-2019-0708-Batch-Blue-Screen.svg)
+- [https://github.com/adyanamul/Remote-Code-Execution-RCE-Exploit-BlueKeep-CVE-2019-0708-PoC](https://github.com/adyanamul/Remote-Code-Execution-RCE-Exploit-BlueKeep-CVE-2019-0708-PoC) : ![starts](https://img.shields.io/github/stars/adyanamul/Remote-Code-Execution-RCE-Exploit-BlueKeep-CVE-2019-0708-PoC.svg) ![forks](https://img.shields.io/github/forks/adyanamul/Remote-Code-Execution-RCE-Exploit-BlueKeep-CVE-2019-0708-PoC.svg)
+- [https://github.com/ayomideadams61-hub/bluekeep-metsploitable-lab](https://github.com/ayomideadams61-hub/bluekeep-metsploitable-lab) : ![starts](https://img.shields.io/github/stars/ayomideadams61-hub/bluekeep-metsploitable-lab.svg) ![forks](https://img.shields.io/github/forks/ayomideadams61-hub/bluekeep-metsploitable-lab.svg)
+- [https://github.com/benhe119/bluekeepscan](https://github.com/benhe119/bluekeepscan) : ![starts](https://img.shields.io/github/stars/benhe119/bluekeepscan.svg) ![forks](https://img.shields.io/github/forks/benhe119/bluekeepscan.svg)
+- [https://github.com/bibo318/kali-CVE-2019-0708-lab](https://github.com/bibo318/kali-CVE-2019-0708-lab) : ![starts](https://img.shields.io/github/stars/bibo318/kali-CVE-2019-0708-lab.svg) ![forks](https://img.shields.io/github/forks/bibo318/kali-CVE-2019-0708-lab.svg)
+- [https://github.com/davidfortytwo/bluekeep](https://github.com/davidfortytwo/bluekeep) : ![starts](https://img.shields.io/github/stars/davidfortytwo/bluekeep.svg) ![forks](https://img.shields.io/github/forks/davidfortytwo/bluekeep.svg)
+- [https://github.com/emmadej1234/bluekeep-metasploit-lab-project](https://github.com/emmadej1234/bluekeep-metasploit-lab-project) : ![starts](https://img.shields.io/github/stars/emmadej1234/bluekeep-metasploit-lab-project.svg) ![forks](https://img.shields.io/github/forks/emmadej1234/bluekeep-metasploit-lab-project.svg)
+- [https://github.com/f8al/CVE-2019-0708-POC](https://github.com/f8al/CVE-2019-0708-POC) : ![starts](https://img.shields.io/github/stars/f8al/CVE-2019-0708-POC.svg) ![forks](https://img.shields.io/github/forks/f8al/CVE-2019-0708-POC.svg)
+- [https://github.com/freeide/CVE-2019-0708-PoC-Exploit](https://github.com/freeide/CVE-2019-0708-PoC-Exploit) : ![starts](https://img.shields.io/github/stars/freeide/CVE-2019-0708-PoC-Exploit.svg) ![forks](https://img.shields.io/github/forks/freeide/CVE-2019-0708-PoC-Exploit.svg)
+- [https://github.com/hualy13/CVE-2019-0708-Check](https://github.com/hualy13/CVE-2019-0708-Check) : ![starts](https://img.shields.io/github/stars/hualy13/CVE-2019-0708-Check.svg) ![forks](https://img.shields.io/github/forks/hualy13/CVE-2019-0708-Check.svg)
+- [https://github.com/isabelacostaz/CVE-2019-0708-POC](https://github.com/isabelacostaz/CVE-2019-0708-POC) : ![starts](https://img.shields.io/github/stars/isabelacostaz/CVE-2019-0708-POC.svg) ![forks](https://img.shields.io/github/forks/isabelacostaz/CVE-2019-0708-POC.svg)
+- [https://github.com/lisinan988/CVE-2019-0708-scan](https://github.com/lisinan988/CVE-2019-0708-scan) : ![starts](https://img.shields.io/github/stars/lisinan988/CVE-2019-0708-scan.svg) ![forks](https://img.shields.io/github/forks/lisinan988/CVE-2019-0708-scan.svg)
+- [https://github.com/offensity/CVE-2019-0708](https://github.com/offensity/CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/offensity/CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/offensity/CVE-2019-0708.svg)
+- [https://github.com/oneoy/BlueKeep](https://github.com/oneoy/BlueKeep) : ![starts](https://img.shields.io/github/stars/oneoy/BlueKeep.svg) ![forks](https://img.shields.io/github/forks/oneoy/BlueKeep.svg)
+- [https://github.com/pywc/CVE-2019-0708](https://github.com/pywc/CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/pywc/CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/pywc/CVE-2019-0708.svg)
+- [https://github.com/rasan2001/Microsoft-Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708](https://github.com/rasan2001/Microsoft-Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/rasan2001/Microsoft-Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/rasan2001/Microsoft-Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708.svg)
+- [https://github.com/ryan-ally/rdp0708scanner](https://github.com/ryan-ally/rdp0708scanner) : ![starts](https://img.shields.io/github/stars/ryan-ally/rdp0708scanner.svg) ![forks](https://img.shields.io/github/forks/ryan-ally/rdp0708scanner.svg)
+- [https://github.com/sbkcbig/CVE-2019-0708-EXPloit-3389](https://github.com/sbkcbig/CVE-2019-0708-EXPloit-3389) : ![starts](https://img.shields.io/github/stars/sbkcbig/CVE-2019-0708-EXPloit-3389.svg) ![forks](https://img.shields.io/github/forks/sbkcbig/CVE-2019-0708-EXPloit-3389.svg)
+- [https://github.com/sezayi1972/CVE-2019-0708](https://github.com/sezayi1972/CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/sezayi1972/CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/sezayi1972/CVE-2019-0708.svg)
+- [https://github.com/xiyangzuishuai/Dark-Network-CVE-2019-0708](https://github.com/xiyangzuishuai/Dark-Network-CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/xiyangzuishuai/Dark-Network-CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/xiyangzuishuai/Dark-Network-CVE-2019-0708.svg)
+- [https://github.com/yetiddbb/CVE-2019-0708-PoC](https://github.com/yetiddbb/CVE-2019-0708-PoC) : ![starts](https://img.shields.io/github/stars/yetiddbb/CVE-2019-0708-PoC.svg) ![forks](https://img.shields.io/github/forks/yetiddbb/CVE-2019-0708-PoC.svg)
+- [https://github.com/zoujialan/CVE-2019-0708-RCE](https://github.com/zoujialan/CVE-2019-0708-RCE) : ![starts](https://img.shields.io/github/stars/zoujialan/CVE-2019-0708-RCE.svg) ![forks](https://img.shields.io/github/forks/zoujialan/CVE-2019-0708-RCE.svg)
 
 ## CVE-2021-26085
 
@@ -201,6 +246,10 @@
 - [https://github.com/zlepper/CVE-2021-44228-Test-Server](https://github.com/zlepper/CVE-2021-44228-Test-Server) : ![starts](https://img.shields.io/github/stars/zlepper/CVE-2021-44228-Test-Server.svg) ![forks](https://img.shields.io/github/forks/zlepper/CVE-2021-44228-Test-Server.svg)
 - [https://github.com/zzzz0317/log4j2-vulnerable-spring-app](https://github.com/zzzz0317/log4j2-vulnerable-spring-app) : ![starts](https://img.shields.io/github/stars/zzzz0317/log4j2-vulnerable-spring-app.svg) ![forks](https://img.shields.io/github/forks/zzzz0317/log4j2-vulnerable-spring-app.svg)
 
+## CVE-2022-40684
+
+- [https://github.com/gotr00t0day/CVE-2022-40684](https://github.com/gotr00t0day/CVE-2022-40684) : ![starts](https://img.shields.io/github/stars/gotr00t0day/CVE-2022-40684.svg) ![forks](https://img.shields.io/github/forks/gotr00t0day/CVE-2022-40684.svg)
+
 ## CVE-2022-44384
 
 - [https://github.com/d4ytox/CVE-2022-44384](https://github.com/d4ytox/CVE-2022-44384) : ![starts](https://img.shields.io/github/stars/d4ytox/CVE-2022-44384.svg) ![forks](https://img.shields.io/github/forks/d4ytox/CVE-2022-44384.svg)
@@ -212,6 +261,10 @@
 ## CVE-2024-25600
 
 - [https://github.com/so1icitx/CVE-2024-25600](https://github.com/so1icitx/CVE-2024-25600) : ![starts](https://img.shields.io/github/stars/so1icitx/CVE-2024-25600.svg) ![forks](https://img.shields.io/github/forks/so1icitx/CVE-2024-25600.svg)
+
+## CVE-2024-31317
+
+- [https://github.com/nianfan555/PoC-Deployer-System](https://github.com/nianfan555/PoC-Deployer-System) : ![starts](https://img.shields.io/github/stars/nianfan555/PoC-Deployer-System.svg) ![forks](https://img.shields.io/github/forks/nianfan555/PoC-Deployer-System.svg)
 
 ## CVE-2024-9465
 
@@ -236,9 +289,26 @@
 
 - [https://github.com/wvllxe/CVE-2026-104991](https://github.com/wvllxe/CVE-2026-104991) : ![starts](https://img.shields.io/github/stars/wvllxe/CVE-2026-104991.svg) ![forks](https://img.shields.io/github/forks/wvllxe/CVE-2026-104991.svg)
 
+## CVE-2026-13247
+
+- [https://github.com/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat](https://github.com/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat) : ![starts](https://img.shields.io/github/stars/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat.svg) ![forks](https://img.shields.io/github/forks/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat.svg)
+
+## CVE-2026-14378
+> The DevKit Pro plugin for WordPress is vulnerable to Authentication Bypass Leading to Administrator Account Takeover in all versions up to, and including, 2.3.0 This is due to the `revert_switch` handler trusting the attacker-controlled `original_user_id` cookie as the privileged identity: `verify_nonce_and_capability()` incorrectly checks the `manage_options` capability on the user identified by the cookie rather than on the actual requester via `current_user_can()`, while the switch-back form 
+
+- [https://github.com/MRdark-ops/exploit-scanner-CVE-2026-14378](https://github.com/MRdark-ops/exploit-scanner-CVE-2026-14378) : ![starts](https://img.shields.io/github/stars/MRdark-ops/exploit-scanner-CVE-2026-14378.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/exploit-scanner-CVE-2026-14378.svg)
+
 ## CVE-2026-19632
 
 - [https://github.com/TheJesterrrr/CVE-2026-19632](https://github.com/TheJesterrrr/CVE-2026-19632) : ![starts](https://img.shields.io/github/stars/TheJesterrrr/CVE-2026-19632.svg) ![forks](https://img.shields.io/github/forks/TheJesterrrr/CVE-2026-19632.svg)
+
+## CVE-2026-22777
+
+- [https://github.com/Si13NTTT/CVE-2026-22777](https://github.com/Si13NTTT/CVE-2026-22777) : ![starts](https://img.shields.io/github/stars/Si13NTTT/CVE-2026-22777.svg) ![forks](https://img.shields.io/github/forks/Si13NTTT/CVE-2026-22777.svg)
+
+## CVE-2026-31431
+
+- [https://github.com/ledlight33/copyfail-check-skill](https://github.com/ledlight33/copyfail-check-skill) : ![starts](https://img.shields.io/github/stars/ledlight33/copyfail-check-skill.svg) ![forks](https://img.shields.io/github/forks/ledlight33/copyfail-check-skill.svg)
 
 ## CVE-2026-32475
 
@@ -263,6 +333,10 @@
 ## CVE-2026-80844
 
 - [https://github.com/suominen/dirtyah6](https://github.com/suominen/dirtyah6) : ![starts](https://img.shields.io/github/stars/suominen/dirtyah6.svg) ![forks](https://img.shields.io/github/forks/suominen/dirtyah6.svg)
+
+## CVE-2026-83627
+
+- [https://github.com/K52-ai/CVE-2026-83627](https://github.com/K52-ai/CVE-2026-83627) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2026-83627.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2026-83627.svg)
 
 ## CVE-2026-92084
 > The The Beaver Builder Page Builder – Drag and Drop Website Builder plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 2.11.0.5. This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes. Exploitation requires the target site to have a Beaver Builder page containing the Sidebar module

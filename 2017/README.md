@@ -627,6 +627,10 @@
 
 - [https://github.com/ossf-cve-benchmark/CVE-2017-16087](https://github.com/ossf-cve-benchmark/CVE-2017-16087) : ![starts](https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2017-16087.svg) ![forks](https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2017-16087.svg)
 
+- [https://github.com/CQ-Tools/CVE-2017-16087-fixed](https://github.com/CQ-Tools/CVE-2017-16087-fixed) : ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16087-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16087-fixed.svg)
+
+- [https://github.com/CQ-Tools/CVE-2017-16087-unfixed](https://github.com/CQ-Tools/CVE-2017-16087-unfixed) : ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16087-unfixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16087-unfixed.svg)
+
 ## CVE-2017-16084
  list-n-stream is a server for static files to list and stream local videos. list-n-stream v0.0.10 or lower is vulnerable to a directory traversal issue, giving an attacker access to the filesystem by placing "../" in the url.
 

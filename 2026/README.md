@@ -1119,6 +1119,10 @@ This issue w
 
 - [https://github.com/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC](https://github.com/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC) : ![starts](https://img.shields.io/github/stars/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC.svg) ![forks](https://img.shields.io/github/forks/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC.svg)
 
+## CVE-2026-83627
+
+- [https://github.com/K52-ai/CVE-2026-83627](https://github.com/K52-ai/CVE-2026-83627) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2026-83627.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2026-83627.svg)
+
 ## CVE-2026-83603
 > Netdata is an open source observability tool. Prior to 2.10.4, the setuid-root ndsudo helper command fail2ban-client-status-socket in src/collectors/utils/ndsudo.c accepts a caller-controlled --socket_path from the low-privileged netdata service account. The account can direct root fail2ban-client to a malicious UNIX socket, and fail2ban/client/csocket.py CSocket.receive() passes the returned data to pickle.loads(), allowing attacker-controlled code to execute as root on systems with fail2ban-cl
 
@@ -12282,6 +12286,8 @@ AD directly.
 
 - [https://github.com/rifkyards/Copy-Fail-CVE-2026-31431-Kubernetes-PoC](https://github.com/rifkyards/Copy-Fail-CVE-2026-31431-Kubernetes-PoC) : ![starts](https://img.shields.io/github/stars/rifkyards/Copy-Fail-CVE-2026-31431-Kubernetes-PoC.svg) ![forks](https://img.shields.io/github/forks/rifkyards/Copy-Fail-CVE-2026-31431-Kubernetes-PoC.svg)
 
+- [https://github.com/ledlight33/copyfail-check-skill](https://github.com/ledlight33/copyfail-check-skill) : ![starts](https://img.shields.io/github/stars/ledlight33/copyfail-check-skill.svg) ![forks](https://img.shields.io/github/forks/ledlight33/copyfail-check-skill.svg)
+
 ## CVE-2026-31429
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -15214,6 +15220,8 @@ https: //lore.kernel.org/netdev/695fb1e8.050a0220.1c677c.039f.GAE@google.com/T/#
 
 - [https://github.com/e5dfdd568a75282b712b6d93a7a18e12/CVE-2026-22777](https://github.com/e5dfdd568a75282b712b6d93a7a18e12/CVE-2026-22777) : ![starts](https://img.shields.io/github/stars/e5dfdd568a75282b712b6d93a7a18e12/CVE-2026-22777.svg) ![forks](https://img.shields.io/github/forks/e5dfdd568a75282b712b6d93a7a18e12/CVE-2026-22777.svg)
 
+- [https://github.com/Si13NTTT/CVE-2026-22777](https://github.com/Si13NTTT/CVE-2026-22777) : ![starts](https://img.shields.io/github/stars/Si13NTTT/CVE-2026-22777.svg) ![forks](https://img.shields.io/github/forks/Si13NTTT/CVE-2026-22777.svg)
+
 ## CVE-2026-22747
  Vulnerability in Spring Spring Security. SubjectX500PrincipalExtractor does not correctly handle certain malformed X.509 certificate CN values, which can lead to reading the wrong value for the username. In a carefully crafted certificate, this can lead to an attacker impersonating another user.
 This issue affects Spring Security: from 7.0.0 through 7.0.4.
@@ -17078,6 +17086,8 @@ This issue affects pardus-software: from = 1.0.4 before 1.0.5.
 
 - [https://github.com/murrez/CVE-2026-14378](https://github.com/murrez/CVE-2026-14378) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-14378.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-14378.svg)
 
+- [https://github.com/MRdark-ops/exploit-scanner-CVE-2026-14378](https://github.com/MRdark-ops/exploit-scanner-CVE-2026-14378) : ![starts](https://img.shields.io/github/stars/MRdark-ops/exploit-scanner-CVE-2026-14378.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/exploit-scanner-CVE-2026-14378.svg)
+
 ## CVE-2026-14361
  The consul-template library before version 0.42.1 is vulnerable to a path redirection issue in the writeToFile template helper that may allow template output to be written outside the intended directory or to overwrite an existing file. This vulnerability (CVE-2026-14361) is fixed in consul-template 0.42.1.
 
@@ -17181,6 +17191,10 @@ Security Update for ASUS System Control Interface  ' section on the ASUS Secur
 An attacker could potentially exploit this vulnerability, leading to the execution of malicious files and commands. Honeywell also recommends updating to the most recent firmware version, Honeywell PD45 Industrial Printer firmware F10.22.030745, wh
 
 - [https://github.com/murrez/CVE-2026-13249](https://github.com/murrez/CVE-2026-13249) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-13249.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-13249.svg)
+
+## CVE-2026-13247
+
+- [https://github.com/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat](https://github.com/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat) : ![starts](https://img.shields.io/github/stars/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat.svg) ![forks](https://img.shields.io/github/forks/sifatnotes/-Recon-MySQL-SSH-ICA-CVE-2026-13247-Tomcat.svg)
 
 ## CVE-2026-13233
  Server-Side Request Forgery (SSRF) vulnerability in Drupal OpenAI Provider allows Server Side Request Forgery. This issue affects OpenAI Provider versions: from 0.0.0 to 1.1.1, from 1.2.0 to 1.2.2.

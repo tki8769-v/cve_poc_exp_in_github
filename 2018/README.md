@@ -2817,6 +2817,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 
 - [https://github.com/SecPentester/CVE-7600-2018](https://github.com/SecPentester/CVE-7600-2018) : ![starts](https://img.shields.io/github/stars/SecPentester/CVE-7600-2018.svg) ![forks](https://img.shields.io/github/forks/SecPentester/CVE-7600-2018.svg)
 
+- [https://github.com/K52-ai/CVE-2018-7600](https://github.com/K52-ai/CVE-2018-7600) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2018-7600.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2018-7600.svg)
+
 ## CVE-2018-7560
  index.js in the Anton Myshenin aws-lambda-multipart-parser NPM package before 0.1.2 has a Regular Expression Denial of Service (ReDoS) issue via a crafted multipart/form-data boundary string.
 

@@ -109,3 +109,6 @@
 {"cve_id": "CVE-2025-7138", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T15:12:46Z", "url": "https://github.com/Scorpion-Security-Labs/CVE-2025-71384", "url_ids": ["CVE-2025-71384"]}
 {"cve_id": "CVE-2026-4861", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T15:12:54Z", "url": "https://github.com/Diznev/CVE-2026-48611-EXPLOIT", "url_ids": ["CVE-2026-48611"]}
 {"cve_id": "CVE-2026-4861", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T15:12:54Z", "url": "https://github.com/Ethicalgrey/phpBB-CVE-2026-48611", "url_ids": ["CVE-2026-48611"]}
+{"cve_id": "CVE-2024-2378", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:15:36Z", "url": "https://github.com/HazardLab-IO/CVE-2024-23780", "url_ids": ["CVE-2024-23780"]}
+{"cve_id": "CVE-2021-3310", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:17:49Z", "url": "https://github.com/rjt-gupta/CVE-2021-33104", "url_ids": ["CVE-2021-33104"]}
+{"cve_id": "CVE-2026-5265", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:19:54Z", "url": "https://github.com/mirackayikci/CVE-2026-52658", "url_ids": ["CVE-2026-52658"]}

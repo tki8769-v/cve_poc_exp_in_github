@@ -5185,6 +5185,72 @@ The security update addresses the vulnerability by correcting how Hyper-V valida
 
 - [https://github.com/tranqtruong/Detect-BlueKeep](https://github.com/tranqtruong/Detect-BlueKeep) : ![starts](https://img.shields.io/github/stars/tranqtruong/Detect-BlueKeep.svg) ![forks](https://img.shields.io/github/forks/tranqtruong/Detect-BlueKeep.svg)
 
+- [https://github.com/adyanamul/Remote-Code-Execution-RCE-Exploit-BlueKeep-CVE-2019-0708-PoC](https://github.com/adyanamul/Remote-Code-Execution-RCE-Exploit-BlueKeep-CVE-2019-0708-PoC) : ![starts](https://img.shields.io/github/stars/adyanamul/Remote-Code-Execution-RCE-Exploit-BlueKeep-CVE-2019-0708-PoC.svg) ![forks](https://img.shields.io/github/forks/adyanamul/Remote-Code-Execution-RCE-Exploit-BlueKeep-CVE-2019-0708-PoC.svg)
+
+- [https://github.com/9b/bluekeep-marketing](https://github.com/9b/bluekeep-marketing) : ![starts](https://img.shields.io/github/stars/9b/bluekeep-marketing.svg) ![forks](https://img.shields.io/github/forks/9b/bluekeep-marketing.svg)
+
+- [https://github.com/AaronCaiii/CVE-2019-0708-POC](https://github.com/AaronCaiii/CVE-2019-0708-POC) : ![starts](https://img.shields.io/github/stars/AaronCaiii/CVE-2019-0708-POC.svg) ![forks](https://img.shields.io/github/forks/AaronCaiii/CVE-2019-0708-POC.svg)
+
+- [https://github.com/Ameg-yag/Wincrash](https://github.com/Ameg-yag/Wincrash) : ![starts](https://img.shields.io/github/stars/Ameg-yag/Wincrash.svg) ![forks](https://img.shields.io/github/forks/Ameg-yag/Wincrash.svg)
+
+- [https://github.com/Ayomide-29/bluekeep_metasploit_practice](https://github.com/Ayomide-29/bluekeep_metasploit_practice) : ![starts](https://img.shields.io/github/stars/Ayomide-29/bluekeep_metasploit_practice.svg) ![forks](https://img.shields.io/github/forks/Ayomide-29/bluekeep_metasploit_practice.svg)
+
+- [https://github.com/GopeshKachhadiya/Windows-2](https://github.com/GopeshKachhadiya/Windows-2) : ![starts](https://img.shields.io/github/stars/GopeshKachhadiya/Windows-2.svg) ![forks](https://img.shields.io/github/forks/GopeshKachhadiya/Windows-2.svg)
+
+- [https://github.com/Micr067/CVE-2019-0708RDP-MSF](https://github.com/Micr067/CVE-2019-0708RDP-MSF) : ![starts](https://img.shields.io/github/stars/Micr067/CVE-2019-0708RDP-MSF.svg) ![forks](https://img.shields.io/github/forks/Micr067/CVE-2019-0708RDP-MSF.svg)
+
+- [https://github.com/Mohaimenul370/Perform-an-RDP-exploitation-using-the-BlueKeep-vulnerability-CVE-2019-0708-on-Windows](https://github.com/Mohaimenul370/Perform-an-RDP-exploitation-using-the-BlueKeep-vulnerability-CVE-2019-0708-on-Windows) : ![starts](https://img.shields.io/github/stars/Mohaimenul370/Perform-an-RDP-exploitation-using-the-BlueKeep-vulnerability-CVE-2019-0708-on-Windows.svg) ![forks](https://img.shields.io/github/forks/Mohaimenul370/Perform-an-RDP-exploitation-using-the-BlueKeep-vulnerability-CVE-2019-0708-on-Windows.svg)
+
+- [https://github.com/Nweks/Bluekeep-Metasploit-Lab-Project](https://github.com/Nweks/Bluekeep-Metasploit-Lab-Project) : ![starts](https://img.shields.io/github/stars/Nweks/Bluekeep-Metasploit-Lab-Project.svg) ![forks](https://img.shields.io/github/forks/Nweks/Bluekeep-Metasploit-Lab-Project.svg)
+
+- [https://github.com/SQLDebugger/CVE-2019-0708-Tool](https://github.com/SQLDebugger/CVE-2019-0708-Tool) : ![starts](https://img.shields.io/github/stars/SQLDebugger/CVE-2019-0708-Tool.svg) ![forks](https://img.shields.io/github/forks/SQLDebugger/CVE-2019-0708-Tool.svg)
+
+- [https://github.com/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-](https://github.com/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-) : ![starts](https://img.shields.io/github/stars/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-.svg) ![forks](https://img.shields.io/github/forks/SebasPV27/Explotacion-RCE-Pentesting-BlueKeep-CVE-2019-0708-.svg)
+
+- [https://github.com/ZhaoYukai/CVE-2019-0708](https://github.com/ZhaoYukai/CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/ZhaoYukai/CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/ZhaoYukai/CVE-2019-0708.svg)
+
+- [https://github.com/ZhaoYukai/CVE-2019-0708-Batch-Blue-Screen](https://github.com/ZhaoYukai/CVE-2019-0708-Batch-Blue-Screen) : ![starts](https://img.shields.io/github/stars/ZhaoYukai/CVE-2019-0708-Batch-Blue-Screen.svg) ![forks](https://img.shields.io/github/forks/ZhaoYukai/CVE-2019-0708-Batch-Blue-Screen.svg)
+
+- [https://github.com/ayomideadams61-hub/bluekeep-metsploitable-lab](https://github.com/ayomideadams61-hub/bluekeep-metsploitable-lab) : ![starts](https://img.shields.io/github/stars/ayomideadams61-hub/bluekeep-metsploitable-lab.svg) ![forks](https://img.shields.io/github/forks/ayomideadams61-hub/bluekeep-metsploitable-lab.svg)
+
+- [https://github.com/benhe119/bluekeepscan](https://github.com/benhe119/bluekeepscan) : ![starts](https://img.shields.io/github/stars/benhe119/bluekeepscan.svg) ![forks](https://img.shields.io/github/forks/benhe119/bluekeepscan.svg)
+
+- [https://github.com/bibo318/kali-CVE-2019-0708-lab](https://github.com/bibo318/kali-CVE-2019-0708-lab) : ![starts](https://img.shields.io/github/stars/bibo318/kali-CVE-2019-0708-lab.svg) ![forks](https://img.shields.io/github/forks/bibo318/kali-CVE-2019-0708-lab.svg)
+
+- [https://github.com/davidfortytwo/bluekeep](https://github.com/davidfortytwo/bluekeep) : ![starts](https://img.shields.io/github/stars/davidfortytwo/bluekeep.svg) ![forks](https://img.shields.io/github/forks/davidfortytwo/bluekeep.svg)
+
+- [https://github.com/emmadej1234/bluekeep-metasploit-lab-project](https://github.com/emmadej1234/bluekeep-metasploit-lab-project) : ![starts](https://img.shields.io/github/stars/emmadej1234/bluekeep-metasploit-lab-project.svg) ![forks](https://img.shields.io/github/forks/emmadej1234/bluekeep-metasploit-lab-project.svg)
+
+- [https://github.com/f8al/CVE-2019-0708-POC](https://github.com/f8al/CVE-2019-0708-POC) : ![starts](https://img.shields.io/github/stars/f8al/CVE-2019-0708-POC.svg) ![forks](https://img.shields.io/github/forks/f8al/CVE-2019-0708-POC.svg)
+
+- [https://github.com/freeide/CVE-2019-0708-PoC-Exploit](https://github.com/freeide/CVE-2019-0708-PoC-Exploit) : ![starts](https://img.shields.io/github/stars/freeide/CVE-2019-0708-PoC-Exploit.svg) ![forks](https://img.shields.io/github/forks/freeide/CVE-2019-0708-PoC-Exploit.svg)
+
+- [https://github.com/hualy13/CVE-2019-0708-Check](https://github.com/hualy13/CVE-2019-0708-Check) : ![starts](https://img.shields.io/github/stars/hualy13/CVE-2019-0708-Check.svg) ![forks](https://img.shields.io/github/forks/hualy13/CVE-2019-0708-Check.svg)
+
+- [https://github.com/isabelacostaz/CVE-2019-0708-POC](https://github.com/isabelacostaz/CVE-2019-0708-POC) : ![starts](https://img.shields.io/github/stars/isabelacostaz/CVE-2019-0708-POC.svg) ![forks](https://img.shields.io/github/forks/isabelacostaz/CVE-2019-0708-POC.svg)
+
+- [https://github.com/lisinan988/CVE-2019-0708-scan](https://github.com/lisinan988/CVE-2019-0708-scan) : ![starts](https://img.shields.io/github/stars/lisinan988/CVE-2019-0708-scan.svg) ![forks](https://img.shields.io/github/forks/lisinan988/CVE-2019-0708-scan.svg)
+
+- [https://github.com/offensity/CVE-2019-0708](https://github.com/offensity/CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/offensity/CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/offensity/CVE-2019-0708.svg)
+
+- [https://github.com/oneoy/BlueKeep](https://github.com/oneoy/BlueKeep) : ![starts](https://img.shields.io/github/stars/oneoy/BlueKeep.svg) ![forks](https://img.shields.io/github/forks/oneoy/BlueKeep.svg)
+
+- [https://github.com/pywc/CVE-2019-0708](https://github.com/pywc/CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/pywc/CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/pywc/CVE-2019-0708.svg)
+
+- [https://github.com/rasan2001/Microsoft-Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708](https://github.com/rasan2001/Microsoft-Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/rasan2001/Microsoft-Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/rasan2001/Microsoft-Remote-Desktop-Services-Remote-Code-Execution-Vulnerability-CVE-2019-0708.svg)
+
+- [https://github.com/ryan-ally/rdp0708scanner](https://github.com/ryan-ally/rdp0708scanner) : ![starts](https://img.shields.io/github/stars/ryan-ally/rdp0708scanner.svg) ![forks](https://img.shields.io/github/forks/ryan-ally/rdp0708scanner.svg)
+
+- [https://github.com/sbkcbig/CVE-2019-0708-EXPloit-3389](https://github.com/sbkcbig/CVE-2019-0708-EXPloit-3389) : ![starts](https://img.shields.io/github/stars/sbkcbig/CVE-2019-0708-EXPloit-3389.svg) ![forks](https://img.shields.io/github/forks/sbkcbig/CVE-2019-0708-EXPloit-3389.svg)
+
+- [https://github.com/sezayi1972/CVE-2019-0708](https://github.com/sezayi1972/CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/sezayi1972/CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/sezayi1972/CVE-2019-0708.svg)
+
+- [https://github.com/xiyangzuishuai/Dark-Network-CVE-2019-0708](https://github.com/xiyangzuishuai/Dark-Network-CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/xiyangzuishuai/Dark-Network-CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/xiyangzuishuai/Dark-Network-CVE-2019-0708.svg)
+
+- [https://github.com/yetiddbb/CVE-2019-0708-PoC](https://github.com/yetiddbb/CVE-2019-0708-PoC) : ![starts](https://img.shields.io/github/stars/yetiddbb/CVE-2019-0708-PoC.svg) ![forks](https://img.shields.io/github/forks/yetiddbb/CVE-2019-0708-PoC.svg)
+
+- [https://github.com/zoujialan/CVE-2019-0708-RCE](https://github.com/zoujialan/CVE-2019-0708-RCE) : ![starts](https://img.shields.io/github/stars/zoujialan/CVE-2019-0708-RCE.svg) ![forks](https://img.shields.io/github/forks/zoujialan/CVE-2019-0708-RCE.svg)
+
 ## CVE-2019-0683
  An elevation of privilege vulnerability exists in Active Directory Forest trusts due to a default setting that lets an attacker in the trusting forest request delegation of a TGT for an identity from the trusted forest, aka 'Active Directory Elevation of Privilege Vulnerability'.
 
