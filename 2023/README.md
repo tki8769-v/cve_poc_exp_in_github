@@ -7387,6 +7387,8 @@ Note that, like all of the file upload limits, the
 
 - [https://github.com/Sharma01672/traveller-htb](https://github.com/Sharma01672/traveller-htb) : ![starts](https://img.shields.io/github/stars/Sharma01672/traveller-htb.svg) ![forks](https://img.shields.io/github/forks/Sharma01672/traveller-htb.svg)
 
+- [https://github.com/s4m98/CVE-2023-23752](https://github.com/s4m98/CVE-2023-23752) : ![starts](https://img.shields.io/github/stars/s4m98/CVE-2023-23752.svg) ![forks](https://img.shields.io/github/forks/s4m98/CVE-2023-23752.svg)
+
 ## CVE-2023-23638
  A deserialization vulnerability existed when dubbo generic invoke, which could lead to malicious code execution. 
 

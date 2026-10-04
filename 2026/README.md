@@ -8473,6 +8473,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/litianyuan-91/Ghostlock-Honor70Pro](https://github.com/litianyuan-91/Ghostlock-Honor70Pro) : ![starts](https://img.shields.io/github/stars/litianyuan-91/Ghostlock-Honor70Pro.svg) ![forks](https://img.shields.io/github/forks/litianyuan-91/Ghostlock-Honor70Pro.svg)
 
+- [https://github.com/AdminHcat/CVE-2026-43499-5.15](https://github.com/AdminHcat/CVE-2026-43499-5.15) : ![starts](https://img.shields.io/github/stars/AdminHcat/CVE-2026-43499-5.15.svg) ![forks](https://img.shields.io/github/forks/AdminHcat/CVE-2026-43499-5.15.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 

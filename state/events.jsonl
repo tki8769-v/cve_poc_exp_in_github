@@ -1070,3 +1070,5 @@
 {"cve_id": "CVE-2021-44228", "ts": "2026-10-04T00:15:37Z", "type": "new_poc", "url": "https://github.com/vulnerable-apps/log4shell-honeypot"}
 {"cve_id": "CVE-2021-44228", "ts": "2026-10-04T00:15:37Z", "type": "new_poc", "url": "https://github.com/kossatzd/log4j-CVE-2021-44228-test"}
 {"cve_id": "CVE-2021-44228", "ts": "2026-10-04T00:15:37Z", "type": "new_poc", "url": "https://github.com/aajuvonen/log4stdin"}
+{"cve_id": "CVE-2023-23752", "ts": "2026-10-04T06:50:09Z", "type": "new_poc", "url": "https://github.com/s4m98/CVE-2023-23752"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-04T06:50:09Z", "type": "new_poc", "url": "https://github.com/AdminHcat/CVE-2026-43499-5.15"}

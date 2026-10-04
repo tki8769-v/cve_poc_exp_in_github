@@ -8474,6 +8474,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/litianyuan-91/Ghostlock-Honor70Pro](https://github.com/litianyuan-91/Ghostlock-Honor70Pro) : ![starts](https://img.shields.io/github/stars/litianyuan-91/Ghostlock-Honor70Pro.svg) ![forks](https://img.shields.io/github/forks/litianyuan-91/Ghostlock-Honor70Pro.svg)
 
+- [https://github.com/AdminHcat/CVE-2026-43499-5.15](https://github.com/AdminHcat/CVE-2026-43499-5.15) : ![starts](https://img.shields.io/github/stars/AdminHcat/CVE-2026-43499-5.15.svg) ![forks](https://img.shields.io/github/forks/AdminHcat/CVE-2026-43499-5.15.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -55418,6 +55420,8 @@ Note that, like all of the file upload limits, the
 - [https://github.com/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest](https://github.com/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest) : ![starts](https://img.shields.io/github/stars/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest.svg) ![forks](https://img.shields.io/github/forks/Marwan651/Joomla-CMS-Full-Lifecycle-Pentest.svg)
 
 - [https://github.com/Sharma01672/traveller-htb](https://github.com/Sharma01672/traveller-htb) : ![starts](https://img.shields.io/github/stars/Sharma01672/traveller-htb.svg) ![forks](https://img.shields.io/github/forks/Sharma01672/traveller-htb.svg)
+
+- [https://github.com/s4m98/CVE-2023-23752](https://github.com/s4m98/CVE-2023-23752) : ![starts](https://img.shields.io/github/stars/s4m98/CVE-2023-23752.svg) ![forks](https://img.shields.io/github/forks/s4m98/CVE-2023-23752.svg)
 
 ## CVE-2023-23638
  A deserialization vulnerability existed when dubbo generic invoke, which could lead to malicious code execution. 
