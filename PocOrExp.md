@@ -10742,6 +10742,8 @@ Users are recommended to upgrade to either version 1.20.4, 2.0.2, 2.1.2 or 2.2.1
 
 - [https://github.com/mrdebora/cups-2.4.16-lpe](https://github.com/mrdebora/cups-2.4.16-lpe) : ![starts](https://img.shields.io/github/stars/mrdebora/cups-2.4.16-lpe.svg) ![forks](https://img.shields.io/github/forks/mrdebora/cups-2.4.16-lpe.svg)
 
+- [https://github.com/TRX-0/CVE-2026-34990-cups-lpe](https://github.com/TRX-0/CVE-2026-34990-cups-lpe) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-34990-cups-lpe.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-34990-cups-lpe.svg)
+
 ## CVE-2026-34980
  OpenPrinting CUPS is an open source printing system for Linux and other Unix-like operating systems. In versions 2.4.16 and prior, in a network-exposed cupsd with a shared target queue, an unauthorized client can send a Print-Job to that shared PostScript queue without authentication. The server accepts a page-border value supplied as textWithoutLanguage, preserves an embedded newline through option escaping and reparse, and then reparses the resulting second-line PPD: text as a trusted scheduler control record. A follow-up raw print job can therefore make the server execute an attacker-chosen existing binary such as /usr/bin/vim as lp. At time of publication, there are no publicly available patches.
 
@@ -68649,6 +68651,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/nolindnaidoo/unicode-le](https://github.com/nolindnaidoo/unicode-le) : ![starts](https://img.shields.io/github/stars/nolindnaidoo/unicode-le.svg) ![forks](https://img.shields.io/github/forks/nolindnaidoo/unicode-le.svg)
 
 - [https://github.com/pierDipi/unicode-control-characters-action](https://github.com/pierDipi/unicode-control-characters-action) : ![starts](https://img.shields.io/github/stars/pierDipi/unicode-control-characters-action.svg) ![forks](https://img.shields.io/github/forks/pierDipi/unicode-control-characters-action.svg)
+
+- [https://github.com/sotiak/CVE-2021-42574](https://github.com/sotiak/CVE-2021-42574) : ![starts](https://img.shields.io/github/stars/sotiak/CVE-2021-42574.svg) ![forks](https://img.shields.io/github/forks/sotiak/CVE-2021-42574.svg)
 
 ## CVE-2021-42562
  An issue was discovered in CALDERA 2.8.1. It does not properly segregate user privileges, resulting in non-admin users having access to read and modify configuration or other components that should only be accessible by admin users.

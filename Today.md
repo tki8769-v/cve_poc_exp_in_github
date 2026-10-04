@@ -11,6 +11,10 @@
 
 - [https://github.com/nth347/struts2-CVE-2021-31805](https://github.com/nth347/struts2-CVE-2021-31805) : ![starts](https://img.shields.io/github/stars/nth347/struts2-CVE-2021-31805.svg) ![forks](https://img.shields.io/github/forks/nth347/struts2-CVE-2021-31805.svg)
 
+## CVE-2021-42574
+
+- [https://github.com/sotiak/CVE-2021-42574](https://github.com/sotiak/CVE-2021-42574) : ![starts](https://img.shields.io/github/stars/sotiak/CVE-2021-42574.svg) ![forks](https://img.shields.io/github/forks/sotiak/CVE-2021-42574.svg)
+
 ## CVE-2021-44228
 
 - [https://github.com/1in9e/Apache-Log4j2-RCE](https://github.com/1in9e/Apache-Log4j2-RCE) : ![starts](https://img.shields.io/github/stars/1in9e/Apache-Log4j2-RCE.svg) ![forks](https://img.shields.io/github/forks/1in9e/Apache-Log4j2-RCE.svg)
@@ -239,6 +243,10 @@
 ## CVE-2026-32475
 
 - [https://github.com/cyeezy08/WordPress_Exploit_Directory](https://github.com/cyeezy08/WordPress_Exploit_Directory) : ![starts](https://img.shields.io/github/stars/cyeezy08/WordPress_Exploit_Directory.svg) ![forks](https://img.shields.io/github/forks/cyeezy08/WordPress_Exploit_Directory.svg)
+
+## CVE-2026-34990
+
+- [https://github.com/TRX-0/CVE-2026-34990-cups-lpe](https://github.com/TRX-0/CVE-2026-34990-cups-lpe) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-34990-cups-lpe.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-34990-cups-lpe.svg)
 
 ## CVE-2026-43499
 
