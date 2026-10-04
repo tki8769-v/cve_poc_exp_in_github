@@ -1077,3 +1077,12 @@
 {"cve_id": "CVE-2021-31805", "ts": "2026-10-04T07:17:45Z", "type": "new_poc", "url": "https://github.com/nth347/struts2-CVE-2021-31805"}
 {"cve_id": "CVE-2024-9465", "ts": "2026-10-04T07:17:47Z", "type": "new_poc", "url": "https://github.com/rszqx/CVE-2024-9465"}
 {"cve_id": "CVE-2017-9841", "ts": "2026-10-04T07:18:37Z", "type": "new_poc", "url": "https://github.com/drcrypterdotru/PHPUnit-GoScan"}
+{"cve_id": "CVE-2022-44384", "ts": "2026-10-04T14:47:17Z", "type": "new_poc", "url": "https://github.com/d4ytox/CVE-2022-44384"}
+{"cve_id": "CVE-2026-104991", "ts": "2026-10-04T14:47:17Z", "type": "new_poc", "url": "https://github.com/wvllxe/CVE-2026-104991"}
+{"cve_id": "CVE-2026-19632", "ts": "2026-10-04T14:47:17Z", "type": "new_poc", "url": "https://github.com/TheJesterrrr/CVE-2026-19632"}
+{"cve_id": "CVE-2026-96451", "ts": "2026-10-04T14:47:17Z", "type": "new_poc", "url": "https://github.com/Nxploited/CVE-2026-96451"}
+{"cve_id": "CVE-2026-65640", "ts": "2026-10-04T14:47:17Z", "type": "new_poc", "url": "https://github.com/aufanfauzi/CVE-2026-65640"}
+{"cve_id": "CVE-2025-55182", "ts": "2026-10-04T14:47:17Z", "type": "new_poc", "url": "https://github.com/RashmithaDeSilva/React2Shell_CVE-2025-55182"}
+{"cve_id": "CVE-2026-103355", "ts": "2026-10-04T14:47:17Z", "type": "new_poc", "url": "https://github.com/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc"}
+{"cve_id": "CVE-2026-92084", "ts": "2026-10-04T14:47:17Z", "type": "new_poc", "url": "https://github.com/Hassham1/CVE-2026-92084-beaver-builder-shortcode-poc"}
+{"cve_id": "CVE-2026-32475", "ts": "2026-10-04T14:55:28Z", "type": "new_poc", "url": "https://github.com/cyeezy08/WordPress_Exploit_Directory"}

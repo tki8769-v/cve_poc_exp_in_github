@@ -84,3 +84,9 @@
 {"cve_id": "CVE-2021-4422", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T07:20:52Z", "url": "https://github.com/Kadantte/CVE-2021-44228-poc", "url_ids": ["CVE-2021-44228"]}
 {"cve_id": "CVE-2021-4422", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T07:20:52Z", "url": "https://github.com/kossatzd/log4j-CVE-2021-44228-test", "url_ids": ["CVE-2021-44228"]}
 {"cve_id": "CVE-2021-4422", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T07:20:52Z", "url": "https://github.com/Super-Binary/cve-2021-44228", "url_ids": ["CVE-2021-44228"]}
+{"cve_id": "CVE-2020-1066", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:49:31Z", "url": "https://github.com/spaceraccoon/CVE-2020-10665", "url_ids": ["CVE-2020-10665"]}
+{"cve_id": "CVE-2019-1759", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:50:27Z", "url": "https://github.com/pquerna/poc-dsa-verify-CVE-2019-17596", "url_ids": ["CVE-2019-17596"]}
+{"cve_id": "CVE-2023-2520", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:51:22Z", "url": "https://github.com/Trackflaw/CVE-2023-25203", "url_ids": ["CVE-2023-25203"]}
+{"cve_id": "CVE-2023-2520", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:51:22Z", "url": "https://github.com/Trackflaw/CVE-2023-25202", "url_ids": ["CVE-2023-25202"]}
+{"cve_id": "CVE-2021-2173", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:54:26Z", "url": "https://github.com/minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise", "url_ids": ["CVE-2021-21735"]}
+{"cve_id": "CVE-2021-3395", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T14:56:25Z", "url": "https://github.com/lixiang957/CVE-2021-33959", "url_ids": ["CVE-2021-33959"]}

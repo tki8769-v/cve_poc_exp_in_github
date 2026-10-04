@@ -705,6 +705,10 @@ This command injection vulnerability allows an unauthenticated user to execute a
 
 - [https://github.com/rweijnen/ivanti-automationmanager-exploit](https://github.com/rweijnen/ivanti-automationmanager-exploit) : ![starts](https://img.shields.io/github/stars/rweijnen/ivanti-automationmanager-exploit.svg) ![forks](https://img.shields.io/github/forks/rweijnen/ivanti-automationmanager-exploit.svg)
 
+## CVE-2022-44384
+
+- [https://github.com/d4ytox/CVE-2022-44384](https://github.com/d4ytox/CVE-2022-44384) : ![starts](https://img.shields.io/github/stars/d4ytox/CVE-2022-44384.svg) ![forks](https://img.shields.io/github/forks/d4ytox/CVE-2022-44384.svg)
+
 ## CVE-2022-44321
  PicoC Version 3.2.2 was discovered to contain a heap buffer overflow in the LexSkipComment function in lex.c when called from LexScanGetToken.
 

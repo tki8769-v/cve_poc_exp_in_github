@@ -4,6 +4,11 @@
 
 - [https://github.com/asvorg/CVE-2026-105030-poc](https://github.com/asvorg/CVE-2026-105030-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-105030-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-105030-poc.svg)
 
+## CVE-2026-104991
+> Phproject before 1.8.7 contains a missing object-level authorization vulnerability in the REST API issue endpoints (single_get, single_comments, single_comments_post) that allows authenticated API key holders to bypass the security.restrict_access confidentiality control by never invoking the allowAccess() authorization routine. Attackers can use a valid API key to read restricted issue contents and comments, including owner and author email addresses, and post unauthorized comments to issues th
+
+- [https://github.com/wvllxe/CVE-2026-104991](https://github.com/wvllxe/CVE-2026-104991) : ![starts](https://img.shields.io/github/stars/wvllxe/CVE-2026-104991.svg) ![forks](https://img.shields.io/github/forks/wvllxe/CVE-2026-104991.svg)
+
 ## CVE-2026-104826
 
 - [https://github.com/KiwKNR/CVE-2026-104826](https://github.com/KiwKNR/CVE-2026-104826) : ![starts](https://img.shields.io/github/stars/KiwKNR/CVE-2026-104826.svg) ![forks](https://img.shields.io/github/forks/KiwKNR/CVE-2026-104826.svg)
@@ -120,6 +125,11 @@ This issue affects MediaWiki PageTriage extension: 1.46, 1.45, and 1.43.
 This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 
 - [https://github.com/BomboBombone/CVE-2026-103437](https://github.com/BomboBombone/CVE-2026-103437) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103437.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103437.svg)
+
+## CVE-2026-103355
+> Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) vulnerability in Unlimited Elements Unlimited Elements For Elementor (Free Widgets, Addons, Templates) unlimited-elements-for-elementor allows Blind SQL Injection.This issue affects Unlimited Elements For Elementor (Free Widgets, Addons, Templates): from n/a through 2.0.20.
+
+- [https://github.com/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc](https://github.com/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc) : ![starts](https://img.shields.io/github/stars/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc.svg) ![forks](https://img.shields.io/github/forks/Hassham1/CVE-2026-103355-unlimited-elements-sqli-poc.svg)
 
 ## CVE-2026-102975
 
@@ -356,6 +366,11 @@ root privileges resulting in complete compromise o
 
 - [https://github.com/abraxas/CVE-2026-96512](https://github.com/abraxas/CVE-2026-96512) : ![starts](https://img.shields.io/github/stars/abraxas/CVE-2026-96512.svg) ![forks](https://img.shields.io/github/forks/abraxas/CVE-2026-96512.svg)
 
+## CVE-2026-96451
+> Authorization Bypass Through User-Controlled Key vulnerability in Ultimate Member Ultimate Member ultimate-member allows Privilege Escalation.This issue affects Ultimate Member: from n/a through 2.13.1.
+
+- [https://github.com/Nxploited/CVE-2026-96451](https://github.com/Nxploited/CVE-2026-96451) : ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2026-96451.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2026-96451.svg)
+
 ## CVE-2026-96349
 > Unauthenticated Remote Code Execution (RCE) in SiteSkite &lt;= 2.1.8 versions.
 
@@ -548,6 +563,11 @@ The Unauthenticated Stored XSS vulnerability in the WordPress core can be reprod
  The The Forminator Forms – Contact Form, Payment Form & Custom Form Builder plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 1.57.2. This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes.
 
 - [https://github.com/murrez/CVE-2026-92229](https://github.com/murrez/CVE-2026-92229) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-92229.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-92229.svg)
+
+## CVE-2026-92084
+> The The Beaver Builder Page Builder – Drag and Drop Website Builder plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 2.11.0.5. This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes. Exploitation requires the target site to have a Beaver Builder page containing the Sidebar module
+
+- [https://github.com/Hassham1/CVE-2026-92084-beaver-builder-shortcode-poc](https://github.com/Hassham1/CVE-2026-92084-beaver-builder-shortcode-poc) : ![starts](https://img.shields.io/github/stars/Hassham1/CVE-2026-92084-beaver-builder-shortcode-poc.svg) ![forks](https://img.shields.io/github/forks/Hassham1/CVE-2026-92084-beaver-builder-shortcode-poc.svg)
 
 ## CVE-2026-91843
  A stack overflow during the unauthenticated login process may allow an attacker to run arbitrary code remotely with root privileges.
@@ -2981,6 +3001,8 @@ Prerequisites:
 This issue affects all versions of WordPress. Version 7.0.4 has been released, containing a fix for the vulnerability, and as a courtesy to users on older branches the fix has been backported to all branches back to 4.7.
 
 - [https://github.com/jobusa755-a11y/CVE-2026-65640-](https://github.com/jobusa755-a11y/CVE-2026-65640-) : ![starts](https://img.shields.io/github/stars/jobusa755-a11y/CVE-2026-65640-.svg) ![forks](https://img.shields.io/github/forks/jobusa755-a11y/CVE-2026-65640-.svg)
+
+- [https://github.com/aufanfauzi/CVE-2026-65640](https://github.com/aufanfauzi/CVE-2026-65640) : ![starts](https://img.shields.io/github/stars/aufanfauzi/CVE-2026-65640.svg) ![forks](https://img.shields.io/github/forks/aufanfauzi/CVE-2026-65640.svg)
 
 ## CVE-2026-65616
  Incorrect authorization validation in refresh token signature allows non-admin users to obtain a signed JFrog administrator token.
@@ -11700,6 +11722,8 @@ This issue affects Elementor Pro: from n/a through 4.2.1.
 
 - [https://github.com/0xBlackash/CVE-2026-32475](https://github.com/0xBlackash/CVE-2026-32475) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-32475.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-32475.svg)
 
+- [https://github.com/cyeezy08/WordPress_Exploit_Directory](https://github.com/cyeezy08/WordPress_Exploit_Directory) : ![starts](https://img.shields.io/github/stars/cyeezy08/WordPress_Exploit_Directory.svg) ![forks](https://img.shields.io/github/forks/cyeezy08/WordPress_Exploit_Directory.svg)
+
 ## CVE-2026-32321
  ClipBucket v5 is an open source video sharing platform. An authenticated time-based blind SQL injection vulnerability exists in ClipBucket prior to 5.5.3 #80 within the `actions/ajax.php` endpoint. Due to insufficient input sanitization of the `userid` parameter, an authenticated attacker can execute arbitrary SQL queries, leading to full database disclosure and potential administrative account takeover. Version 5.5.3 #80 fixes the issue.
 
@@ -16313,6 +16337,8 @@ Note: Cisco has assigned this security advisory a Security Impact Rating (SIR) o
 - [https://github.com/YonLiud/CVE-2026-19632](https://github.com/YonLiud/CVE-2026-19632) : ![starts](https://img.shields.io/github/stars/YonLiud/CVE-2026-19632.svg) ![forks](https://img.shields.io/github/forks/YonLiud/CVE-2026-19632.svg)
 
 - [https://github.com/DeadExpl0it/CVE-2026-19632-POC](https://github.com/DeadExpl0it/CVE-2026-19632-POC) : ![starts](https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-19632-POC.svg) ![forks](https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-19632-POC.svg)
+
+- [https://github.com/TheJesterrrr/CVE-2026-19632](https://github.com/TheJesterrrr/CVE-2026-19632) : ![starts](https://img.shields.io/github/stars/TheJesterrrr/CVE-2026-19632.svg) ![forks](https://img.shields.io/github/forks/TheJesterrrr/CVE-2026-19632.svg)
 
 ## CVE-2026-19626
  A remote code execution vulnerability exists in Tenable Security Center's report generation functionality. An authenticated, non-administrative user could exploit this issue by supplying specially crafted input that is later processed unsafely during server-side report rendering, resulting in arbitrary code execution with the privileges of the service account.
@@ -24531,6 +24557,8 @@ Adopt appropriate SMB Server hardening measures.
 - [https://github.com/rubensuxo-eh/react2shell-exploit](https://github.com/rubensuxo-eh/react2shell-exploit) : ![starts](https://img.shields.io/github/stars/rubensuxo-eh/react2shell-exploit.svg) ![forks](https://img.shields.io/github/forks/rubensuxo-eh/react2shell-exploit.svg)
 
 - [https://github.com/chrahman/react2shell-CVE-2025-55182-full-rce-script](https://github.com/chrahman/react2shell-CVE-2025-55182-full-rce-script) : ![starts](https://img.shields.io/github/stars/chrahman/react2shell-CVE-2025-55182-full-rce-script.svg) ![forks](https://img.shields.io/github/forks/chrahman/react2shell-CVE-2025-55182-full-rce-script.svg)
+
+- [https://github.com/RashmithaDeSilva/React2Shell_CVE-2025-55182](https://github.com/RashmithaDeSilva/React2Shell_CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/RashmithaDeSilva/React2Shell_CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/RashmithaDeSilva/React2Shell_CVE-2025-55182.svg)
 
 ## CVE-2025-55177
  Incomplete authorization of linked device synchronization messages in WhatsApp for iOS prior to v2.25.21.73, WhatsApp Business for iOS v2.25.21.78, and WhatsApp for Mac v2.25.21.78 could have allowed an unrelated user to trigger processing of content from an arbitrary URL on a target’s device. We assess that this vulnerability, in combination with an OS-level vulnerability on Apple platforms (CVE-2025-43300), may have been exploited in a sophisticated attack against specific targeted users.
@@ -59380,6 +59408,10 @@ This command injection vulnerability allows an unauthenticated user to execute a
  A locally authenticated attacker with low privileges can bypass authentication due to insecure inter-process communication.
 
 - [https://github.com/rweijnen/ivanti-automationmanager-exploit](https://github.com/rweijnen/ivanti-automationmanager-exploit) : ![starts](https://img.shields.io/github/stars/rweijnen/ivanti-automationmanager-exploit.svg) ![forks](https://img.shields.io/github/forks/rweijnen/ivanti-automationmanager-exploit.svg)
+
+## CVE-2022-44384
+
+- [https://github.com/d4ytox/CVE-2022-44384](https://github.com/d4ytox/CVE-2022-44384) : ![starts](https://img.shields.io/github/stars/d4ytox/CVE-2022-44384.svg) ![forks](https://img.shields.io/github/forks/d4ytox/CVE-2022-44384.svg)
 
 ## CVE-2022-44321
  PicoC Version 3.2.2 was discovered to contain a heap buffer overflow in the LexSkipComment function in lex.c when called from LexScanGetToken.
