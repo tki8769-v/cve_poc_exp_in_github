@@ -1136,6 +1136,8 @@
 
 - [https://github.com/Everdoh/CVE-2017-12561](https://github.com/Everdoh/CVE-2017-12561) : ![starts](https://img.shields.io/github/stars/Everdoh/CVE-2017-12561.svg) ![forks](https://img.shields.io/github/forks/Everdoh/CVE-2017-12561.svg)
 
+- [https://github.com/parapapinho/CVE-2017-12561](https://github.com/parapapinho/CVE-2017-12561) : ![starts](https://img.shields.io/github/stars/parapapinho/CVE-2017-12561.svg) ![forks](https://img.shields.io/github/forks/parapapinho/CVE-2017-12561.svg)
+
 ## CVE-2017-12542
  A authentication bypass and execution of code vulnerability in HPE Integrated Lights-out 4 (iLO 4) version prior to 2.53 was found.
 

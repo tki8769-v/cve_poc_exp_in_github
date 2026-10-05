@@ -1,7 +1,15 @@
 # Update 2026-10-05
+## CVE-2017-12561
+
+- [https://github.com/parapapinho/CVE-2017-12561](https://github.com/parapapinho/CVE-2017-12561) : ![starts](https://img.shields.io/github/stars/parapapinho/CVE-2017-12561.svg) ![forks](https://img.shields.io/github/forks/parapapinho/CVE-2017-12561.svg)
+
 ## CVE-2017-7921
 
 - [https://github.com/Th3Purge/CVE-2017-7921-Exploit](https://github.com/Th3Purge/CVE-2017-7921-Exploit) : ![starts](https://img.shields.io/github/stars/Th3Purge/CVE-2017-7921-Exploit.svg) ![forks](https://img.shields.io/github/forks/Th3Purge/CVE-2017-7921-Exploit.svg)
+
+## CVE-2018-0202
+
+- [https://github.com/automateforceai/CVE-2018-0202](https://github.com/automateforceai/CVE-2018-0202) : ![starts](https://img.shields.io/github/stars/automateforceai/CVE-2018-0202.svg) ![forks](https://img.shields.io/github/forks/automateforceai/CVE-2018-0202.svg)
 
 ## CVE-2024-30088
 

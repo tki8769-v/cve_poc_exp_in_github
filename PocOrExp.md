@@ -92256,6 +92256,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 
 - [https://github.com/jcjjaidigital/CVE-2018-0202](https://github.com/jcjjaidigital/CVE-2018-0202) : ![starts](https://img.shields.io/github/stars/jcjjaidigital/CVE-2018-0202.svg) ![forks](https://img.shields.io/github/forks/jcjjaidigital/CVE-2018-0202.svg)
 
+- [https://github.com/automateforceai/CVE-2018-0202](https://github.com/automateforceai/CVE-2018-0202) : ![starts](https://img.shields.io/github/stars/automateforceai/CVE-2018-0202.svg) ![forks](https://img.shields.io/github/forks/automateforceai/CVE-2018-0202.svg)
+
 ## CVE-2018-0171
  A vulnerability in the Smart Install feature of Cisco IOS Software and Cisco IOS XE Software could allow an unauthenticated, remote attacker to trigger a reload of an affected device, resulting in a denial of service (DoS) condition, or to execute arbitrary code on an affected device. The vulnerability is due to improper validation of packet data. An attacker could exploit this vulnerability by sending a crafted Smart Install message to an affected device on TCP port 4786. A successful exploit could allow the attacker to cause a buffer overflow on the affected device, which could have the following impacts: Triggering a reload of the device, Allowing the attacker to execute arbitrary code on the device, Causing an indefinite loop on the affected device that triggers a watchdog crash. Cisco Bug IDs: CSCvg76186.
 
@@ -93439,6 +93441,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
  A remote code execution vulnerability in HPE intelligent Management Center (iMC) PLAT version Plat 7.3 E0504P4 and earlier was found.
 
 - [https://github.com/Everdoh/CVE-2017-12561](https://github.com/Everdoh/CVE-2017-12561) : ![starts](https://img.shields.io/github/stars/Everdoh/CVE-2017-12561.svg) ![forks](https://img.shields.io/github/forks/Everdoh/CVE-2017-12561.svg)
+
+- [https://github.com/parapapinho/CVE-2017-12561](https://github.com/parapapinho/CVE-2017-12561) : ![starts](https://img.shields.io/github/stars/parapapinho/CVE-2017-12561.svg) ![forks](https://img.shields.io/github/forks/parapapinho/CVE-2017-12561.svg)
 
 ## CVE-2017-12542
  A authentication bypass and execution of code vulnerability in HPE Integrated Lights-out 4 (iLO 4) version prior to 2.53 was found.
