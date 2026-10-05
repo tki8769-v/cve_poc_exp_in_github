@@ -310,3 +310,16 @@
 {"cve_id": "CVE-2026-20357", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:17:26Z", "url": "https://github.com/danish1162/CVE-2026-2035703-x300", "url_ids": ["CVE-2026-2035703"]}
 {"cve_id": "CVE-2024-1208", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:19:36Z", "url": "https://github.com/InkeyP/CVE-2024-12084", "url_ids": ["CVE-2024-12084"]}
 {"cve_id": "CVE-2024-1208", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:19:36Z", "url": "https://github.com/Otsutez/cve-2024-12085", "url_ids": ["CVE-2024-12085"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:23:48Z", "url": "https://github.com/knqyf263/CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:23:48Z", "url": "https://github.com/donky16/CVE-2021-40346-POC", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:23:48Z", "url": "https://github.com/Vulnmachines/HAProxy_CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:23:48Z", "url": "https://github.com/alexOarga/CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:23:48Z", "url": "https://github.com/jmg0929/CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2023-3463", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:23:54Z", "url": "https://github.com/radman404/CVE-2023-34634", "url_ids": ["CVE-2023-34634"]}
+{"cve_id": "CVE-2025-2624", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:26:39Z", "url": "https://github.com/Habuon/CVE-2025-26240", "url_ids": ["CVE-2025-26240"]}
+{"cve_id": "CVE-2026-8793", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:27:39Z", "url": "https://github.com/winrarzipsexploit/CVE-2026-87930", "url_ids": ["CVE-2026-87930"]}
+{"cve_id": "CVE-2023-2255", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:27:49Z", "url": "https://github.com/viswagb/CVE-2023-22551", "url_ids": ["CVE-2023-22551"]}
+{"cve_id": "CVE-2018-1263", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:27:52Z", "url": "https://github.com/nth347/CVE-2018-12636_exploit", "url_ids": ["CVE-2018-12636"]}
+{"cve_id": "CVE-2018-1263", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:27:52Z", "url": "https://github.com/wiliam227user/CVE-2018-12633-TPLink-Auth-Bypass", "url_ids": ["CVE-2018-12633"]}
+{"cve_id": "CVE-2025-3604", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:31:41Z", "url": "https://github.com/byteReaper77/CVE-2025-36041", "url_ids": ["CVE-2025-36041"]}
+{"cve_id": "CVE-2026-7355", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:31:54Z", "url": "https://github.com/HORKimhab/CVE-2026-73554", "url_ids": ["CVE-2026-73554"]}
