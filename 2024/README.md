@@ -3212,6 +3212,8 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 
 - [https://github.com/BwithE/CVE-2024-40453](https://github.com/BwithE/CVE-2024-40453) : ![starts](https://img.shields.io/github/stars/BwithE/CVE-2024-40453.svg) ![forks](https://img.shields.io/github/forks/BwithE/CVE-2024-40453.svg)
 
+- [https://github.com/AC8999/CVE-2024-40453](https://github.com/AC8999/CVE-2024-40453) : ![starts](https://img.shields.io/github/stars/AC8999/CVE-2024-40453.svg) ![forks](https://img.shields.io/github/forks/AC8999/CVE-2024-40453.svg)
+
 ## CVE-2024-40446
  An issue in forkosh Mime Tex before v.1.77 allows an attacker to execute arbitrary code via a crafted script
 

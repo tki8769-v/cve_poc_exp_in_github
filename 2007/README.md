@@ -3,6 +3,8 @@
 
 - [https://github.com/sarjanpatel22/siem-threat-detection-lab](https://github.com/sarjanpatel22/siem-threat-detection-lab) : ![starts](https://img.shields.io/github/stars/sarjanpatel22/siem-threat-detection-lab.svg) ![forks](https://img.shields.io/github/forks/sarjanpatel22/siem-threat-detection-lab.svg)
 
+- [https://github.com/RoflSecurity/nodeloris](https://github.com/RoflSecurity/nodeloris) : ![starts](https://img.shields.io/github/stars/RoflSecurity/nodeloris.svg) ![forks](https://img.shields.io/github/forks/RoflSecurity/nodeloris.svg)
+
 ## CVE-2007-6638
  March Networks DVR 3204 stores sensitive information under the web root with insufficient access control, which allows remote attackers to obtain usernames, passwords, device names, and IP addresses via a direct request for scripts/logfiles.tar.gz.
 

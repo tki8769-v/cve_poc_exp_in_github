@@ -1,3 +1,13 @@
+## CVE-2026-105314
+> Papermerge 3.5.3 allows remote code execution by a standard user via directory traversal in a /api/documents/upload call. A Python .pth file can be written to site-packages, and its code is executed upon the next start of the Python interpreter.
+
+- [https://github.com/kashishtopi/CVE-2026-105314](https://github.com/kashishtopi/CVE-2026-105314) : ![starts](https://img.shields.io/github/stars/kashishtopi/CVE-2026-105314.svg) ![forks](https://img.shields.io/github/forks/kashishtopi/CVE-2026-105314.svg)
+
+## CVE-2026-105134
+> A flaw has been found in Ahsay AhsayCBS up to 10.3.2. This vulnerability affects unknown code of the file /rps/api/json/UpdateReceivers.do of the component Replication Receiver. Executing a manipulation of the argument random can lead to os command injection. It is possible to launch the attack remotely. The exploit has been published and may be used. Upgrading to version 10.3.4 is able to resolve this issue. Upgrading the affected component is advised.
+
+- [https://github.com/RayanAlmulhim/CVE-2026-105134-lab](https://github.com/RayanAlmulhim/CVE-2026-105134-lab) : ![starts](https://img.shields.io/github/stars/RayanAlmulhim/CVE-2026-105134-lab.svg) ![forks](https://img.shields.io/github/forks/RayanAlmulhim/CVE-2026-105134-lab.svg)
+
 ## CVE-2026-105030
 > Kener 4.0.0 before 4.1.6 contains an information disclosure vulnerability that allows unauthenticated attackers to retrieve hidden or inactive monitor data by querying dashboard API handlers lacking visibility filters. Attackers can supply a known or guessed monitor tag to endpoints such as monitor-bar and monitor-latency-chart to obtain names, descriptions, status, uptime history and latency.
 
@@ -155,6 +165,7 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 - [https://github.com/tonydelouvre/CVE-2026-102425](https://github.com/tonydelouvre/CVE-2026-102425) : ![starts](https://img.shields.io/github/stars/tonydelouvre/CVE-2026-102425.svg) ![forks](https://img.shields.io/github/forks/tonydelouvre/CVE-2026-102425.svg)
 
 ## CVE-2026-102282
+> adm-zip is a JavaScript library for creating and extracting ZIP archives in Node.js. Prior to 0.6.1, adm-zip applies the Unix permission bits stored in a zip entry directly to the extracted file via `fs.chmodSync()` when `keepOriginalPermission=true` is passed to `extractAllTo()`/`extractEntryTo()` — and it never filters the setuid/setgid/sticky bits out of those bits. A zip crafted by an attacker can therefore produce an extracted binary with mode `04755`. When extraction runs as root (the defa
 
 - [https://github.com/Ahmed-Elmahgob/POC-CVE-2026-102282](https://github.com/Ahmed-Elmahgob/POC-CVE-2026-102282) : ![starts](https://img.shields.io/github/stars/Ahmed-Elmahgob/POC-CVE-2026-102282.svg) ![forks](https://img.shields.io/github/forks/Ahmed-Elmahgob/POC-CVE-2026-102282.svg)
 
@@ -380,6 +391,10 @@ root privileges resulting in complete compromise o
 
 - [https://github.com/d6fault/CVE-2026-95675](https://github.com/d6fault/CVE-2026-95675) : ![starts](https://img.shields.io/github/stars/d6fault/CVE-2026-95675.svg) ![forks](https://img.shields.io/github/forks/d6fault/CVE-2026-95675.svg)
 
+## CVE-2026-95622
+
+- [https://github.com/0xSemizzz/CVE-2026-95622](https://github.com/0xSemizzz/CVE-2026-95622) : ![starts](https://img.shields.io/github/stars/0xSemizzz/CVE-2026-95622.svg) ![forks](https://img.shields.io/github/forks/0xSemizzz/CVE-2026-95622.svg)
+
 ## CVE-2026-94609
 > authentik is an open-source identity provider. Prior to 2026.2.7, 2026.5.7, and 2026.8.2, an account with delegated permission to manage a group, group membership, or a user can grant superuser status to an account or assign an existing role to a group without holding the permissions that gate those privileges. Group hierarchy checks do not consistently account for superuser status inherited from ancestor groups, and role assignment to a group lacks the required authorization check. Only deploym
 
@@ -464,6 +479,8 @@ This vulnerability allows an unauthenticated attacker to perform remot
 > braces through 3.0.3 contains a stack overflow vulnerability in the recursive AST walkers that lack depth guards. Attackers can supply deeply nested brace patterns under the character limit to exhaust the call stack and terminate the Node.js process with an uncaught RangeError.
 
 - [https://github.com/scastillo-jp/braces-fork](https://github.com/scastillo-jp/braces-fork) : ![starts](https://img.shields.io/github/stars/scastillo-jp/braces-fork.svg) ![forks](https://img.shields.io/github/forks/scastillo-jp/braces-fork.svg)
+
+- [https://github.com/pillarsdotnet/node-braces](https://github.com/pillarsdotnet/node-braces) : ![starts](https://img.shields.io/github/stars/pillarsdotnet/node-braces.svg) ![forks](https://img.shields.io/github/forks/pillarsdotnet/node-braces.svg)
 
 ## CVE-2026-93674
 
@@ -881,6 +898,8 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 - [https://github.com/msuiche/hotcell](https://github.com/msuiche/hotcell) : ![starts](https://img.shields.io/github/stars/msuiche/hotcell.svg) ![forks](https://img.shields.io/github/forks/msuiche/hotcell.svg)
 
 - [https://github.com/decalage2/detect_CVE-2026-86950](https://github.com/decalage2/detect_CVE-2026-86950) : ![starts](https://img.shields.io/github/stars/decalage2/detect_CVE-2026-86950.svg) ![forks](https://img.shields.io/github/forks/decalage2/detect_CVE-2026-86950.svg)
+
+- [https://github.com/0xBlackash/CVE-2026-86950](https://github.com/0xBlackash/CVE-2026-86950) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-86950.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-86950.svg)
 
 ## CVE-2026-86881
 
@@ -2246,6 +2265,10 @@ call selinux_socket_connect() when MSG_FASTOPEN is passed.
  Dolibarr before 24.0.0 contains an improper authorization vulnerability in the Members REST API that allows attackers with only member-creation rights to reset the password of any user account, including the system administrator, without verifying password-change permissions. Attackers can supply an arbitrary user account identifier and new password in the request body to overwrite credentials and immediately lock out the legitimate account holder.
 
 - [https://github.com/CyberWarrior9/dolibarr](https://github.com/CyberWarrior9/dolibarr) : ![starts](https://img.shields.io/github/stars/CyberWarrior9/dolibarr.svg) ![forks](https://img.shields.io/github/forks/CyberWarrior9/dolibarr.svg)
+
+## CVE-2026-71486
+
+- [https://github.com/tmvictorpeters/jbo4rgl](https://github.com/tmvictorpeters/jbo4rgl) : ![starts](https://img.shields.io/github/stars/tmvictorpeters/jbo4rgl.svg) ![forks](https://img.shields.io/github/forks/tmvictorpeters/jbo4rgl.svg)
 
 ## CVE-2026-71362
  Adobe Commerce is affected by an Incorrect Authorization vulnerability that could result in privilege escalation. An attacker could leverage this vulnerability to gain elevated access to sensitive resources. Exploitation of this issue does not require user interaction.
@@ -7017,6 +7040,8 @@ set), and require a proper CAP_SYS_PTRACE capability to override.
 
 - [https://github.com/st4rburn/public-passwd](https://github.com/st4rburn/public-passwd) : ![starts](https://img.shields.io/github/stars/st4rburn/public-passwd.svg) ![forks](https://img.shields.io/github/forks/st4rburn/public-passwd.svg)
 
+- [https://github.com/dr4mohamed/CVE-2026-46333](https://github.com/dr4mohamed/CVE-2026-46333) : ![starts](https://img.shields.io/github/stars/dr4mohamed/CVE-2026-46333.svg) ![forks](https://img.shields.io/github/forks/dr4mohamed/CVE-2026-46333.svg)
+
 ## CVE-2026-46331
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -8505,6 +8530,10 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/AdminHcat/CVE-2026-43499-5.15](https://github.com/AdminHcat/CVE-2026-43499-5.15) : ![starts](https://img.shields.io/github/stars/AdminHcat/CVE-2026-43499-5.15.svg) ![forks](https://img.shields.io/github/forks/AdminHcat/CVE-2026-43499-5.15.svg)
 
+- [https://github.com/a23bc/ALI-AN00-cve-2026-43499](https://github.com/a23bc/ALI-AN00-cve-2026-43499) : ![starts](https://img.shields.io/github/stars/a23bc/ALI-AN00-cve-2026-43499.svg) ![forks](https://img.shields.io/github/forks/a23bc/ALI-AN00-cve-2026-43499.svg)
+
+- [https://github.com/maulanasdqn/ghostlock-honor-brpnx1](https://github.com/maulanasdqn/ghostlock-honor-brpnx1) : ![starts](https://img.shields.io/github/stars/maulanasdqn/ghostlock-honor-brpnx1.svg) ![forks](https://img.shields.io/github/forks/maulanasdqn/ghostlock-honor-brpnx1.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -9466,6 +9495,14 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/slashid/baton-retool](https://github.com/slashid/baton-retool) : ![starts](https://img.shields.io/github/stars/slashid/baton-retool.svg) ![forks](https://img.shields.io/github/forks/slashid/baton-retool.svg)
 
+## CVE-2026-41875
+> Quick.Cart is vulnerable to Cross-Site Request Forgery in admin config panel. Malicious attacker can craft special website, which when visited by the admin, will automatically send a POST request that changes admin&#x27;s login and password.
+This software does implement simple protection against this type of attack, but it is easily bypassed by manipulating the referer header. All forms available in this software are potentially vulnerable.
+
+This issue was fixed in a patch to version 6.7 published on
+
+- [https://github.com/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover](https://github.com/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover) : ![starts](https://img.shields.io/github/stars/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover.svg) ![forks](https://img.shields.io/github/forks/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover.svg)
+
 ## CVE-2026-41853
  Spring MVC and WebFlux applications are vulnerable to Multipart request smuggling attacks.
 
@@ -10078,6 +10115,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 - [https://github.com/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab](https://github.com/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab) : ![starts](https://img.shields.io/github/stars/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab.svg) ![forks](https://img.shields.io/github/forks/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab.svg)
 
 - [https://github.com/iapetus12/cohort-htb](https://github.com/iapetus12/cohort-htb) : ![starts](https://img.shields.io/github/stars/iapetus12/cohort-htb.svg) ![forks](https://img.shields.io/github/forks/iapetus12/cohort-htb.svg)
+
+- [https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE) : ![starts](https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE.svg) ![forks](https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE.svg)
 
 ## CVE-2026-39983
  basic-ftp is an FTP client for Node.js. Prior to 5.2.1, basic-ftp allows FTP command injection via CRLF sequences (\r\n) in file path parameters passed to high-level path APIs such as cd(), remove(), rename(), uploadFrom(), downloadTo(), list(), and removeDir(). The library's protectWhitespace() helper only handles leading spaces and returns other paths unchanged, while FtpContext.send() writes the resulting command string directly to the control socket with \r\n appended. This lets attacker-controlled path strings split one intended FTP command into multiple commands. This vulnerability is fixed in 5.2.1.
@@ -11846,6 +11885,8 @@ Users are recommended to upgrade to version 3.16.0, which fixes the issue.
 - [https://github.com/0xTatsuki/CVE-2026-31857](https://github.com/0xTatsuki/CVE-2026-31857) : ![starts](https://img.shields.io/github/stars/0xTatsuki/CVE-2026-31857.svg) ![forks](https://img.shields.io/github/forks/0xTatsuki/CVE-2026-31857.svg)
 
 - [https://github.com/0Asylum/CVE-2026-31857](https://github.com/0Asylum/CVE-2026-31857) : ![starts](https://img.shields.io/github/stars/0Asylum/CVE-2026-31857.svg) ![forks](https://img.shields.io/github/forks/0Asylum/CVE-2026-31857.svg)
+
+- [https://github.com/WhiteMachin3/CVE-2026-31857](https://github.com/WhiteMachin3/CVE-2026-31857) : ![starts](https://img.shields.io/github/stars/WhiteMachin3/CVE-2026-31857.svg) ![forks](https://img.shields.io/github/forks/WhiteMachin3/CVE-2026-31857.svg)
 
 ## CVE-2026-31852
  Jellyfin is an open-source media system. The code-quality.yml GitHub Actions workflow in jellyfin/jellyfin-ios is vulnerable to arbitrary code execution via pull requests from forked repositories. Due to the workflow's elevated permissions (nearly all write permissions), this vulnerability enables full repository takeover of jellyfin/jellyfin-ios, exfiltration of highly privileged secrets, Apple App Store supply chain attack, GitHub Container Registry (ghcr.io) package poisoning, and full jellyfin organization compromise via cross-repository token usage. Note: This is not a code vulnerability, but a vulnerability in the GitHub Actions workflows. No new version is required for this GHSA and end users do not need to take any actions.

@@ -1528,6 +1528,8 @@ which fixes this issue.
 
 - [https://github.com/jjjjjjjj987/cve-2023-45866-py](https://github.com/jjjjjjjj987/cve-2023-45866-py) : ![starts](https://img.shields.io/github/stars/jjjjjjjj987/cve-2023-45866-py.svg) ![forks](https://img.shields.io/github/forks/jjjjjjjj987/cve-2023-45866-py.svg)
 
+- [https://github.com/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research](https://github.com/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research) : ![starts](https://img.shields.io/github/stars/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research.svg) ![forks](https://img.shields.io/github/forks/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research.svg)
+
 ## CVE-2023-45857
  An issue discovered in Axios 1.5.1 inadvertently reveals the confidential XSRF-TOKEN stored in cookies by including it in the HTTP header X-XSRF-TOKEN for every request made to any host allowing attackers to view sensitive information.
 

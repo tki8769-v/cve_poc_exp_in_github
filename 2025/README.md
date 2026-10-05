@@ -2936,6 +2936,8 @@ Users are recommended to upgrade to version 2.4.66, which fixes the issue.
 
 - [https://github.com/donggle0802-code/cve-2025-57819](https://github.com/donggle0802-code/cve-2025-57819) : ![starts](https://img.shields.io/github/stars/donggle0802-code/cve-2025-57819.svg) ![forks](https://img.shields.io/github/forks/donggle0802-code/cve-2025-57819.svg)
 
+- [https://github.com/kelltich-756/FreePBX-Breaker](https://github.com/kelltich-756/FreePBX-Breaker) : ![starts](https://img.shields.io/github/stars/kelltich-756/FreePBX-Breaker.svg) ![forks](https://img.shields.io/github/forks/kelltich-756/FreePBX-Breaker.svg)
+
 ## CVE-2025-57576
  PHPGurukul Online Shopping Portal 2.1 is vulnerable to Cross Site Scripting (XSS) in /admin/updateorder.php.
 
@@ -3819,6 +3821,8 @@ Users are recommended to upgrade to version 3.2.2, which fixes this issue.
  An authenticated, read-only user can upload a file and perform a directory traversal to have the uploaded file placed in a location of their choosing.  This can be used to overwrite existing PERL modules within the application to achieve remote code execution (RCE) by an attacker.
 
 - [https://github.com/byteReaper77/CVE-2025-54769](https://github.com/byteReaper77/CVE-2025-54769) : ![starts](https://img.shields.io/github/stars/byteReaper77/CVE-2025-54769.svg) ![forks](https://img.shields.io/github/forks/byteReaper77/CVE-2025-54769.svg)
+
+- [https://github.com/tunahantekeoglu/CVE-2025-54769](https://github.com/tunahantekeoglu/CVE-2025-54769) : ![starts](https://img.shields.io/github/stars/tunahantekeoglu/CVE-2025-54769.svg) ![forks](https://img.shields.io/github/forks/tunahantekeoglu/CVE-2025-54769.svg)
 
 ## CVE-2025-54726
  Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Miguel Useche JS Archive List jquery-archive-list-widget allows SQL Injection.This issue affects JS Archive List: from n/a through  6.1.6.
@@ -5195,6 +5199,10 @@ Users of the artifact org.apache.commons:commons-beanutils2
 - [https://github.com/Skynoxk/CVE-2025-48703](https://github.com/Skynoxk/CVE-2025-48703) : ![starts](https://img.shields.io/github/stars/Skynoxk/CVE-2025-48703.svg) ![forks](https://img.shields.io/github/forks/Skynoxk/CVE-2025-48703.svg)
 
 - [https://github.com/itstarsec/CVE-2025-48703](https://github.com/itstarsec/CVE-2025-48703) : ![starts](https://img.shields.io/github/stars/itstarsec/CVE-2025-48703.svg) ![forks](https://img.shields.io/github/forks/itstarsec/CVE-2025-48703.svg)
+
+## CVE-2025-48617
+
+- [https://github.com/K1tor/PixelVolte5G](https://github.com/K1tor/PixelVolte5G) : ![starts](https://img.shields.io/github/stars/K1tor/PixelVolte5G.svg) ![forks](https://img.shields.io/github/forks/K1tor/PixelVolte5G.svg)
 
 ## CVE-2025-48595
  In multiple locations, there is a possible way to achieve code execution due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.

@@ -1,4 +1,14 @@
 ## 2026
+## CVE-2026-105314
+> Papermerge 3.5.3 allows remote code execution by a standard user via directory traversal in a /api/documents/upload call. A Python .pth file can be written to site-packages, and its code is executed upon the next start of the Python interpreter.
+
+- [https://github.com/kashishtopi/CVE-2026-105314](https://github.com/kashishtopi/CVE-2026-105314) : ![starts](https://img.shields.io/github/stars/kashishtopi/CVE-2026-105314.svg) ![forks](https://img.shields.io/github/forks/kashishtopi/CVE-2026-105314.svg)
+
+## CVE-2026-105134
+> A flaw has been found in Ahsay AhsayCBS up to 10.3.2. This vulnerability affects unknown code of the file /rps/api/json/UpdateReceivers.do of the component Replication Receiver. Executing a manipulation of the argument random can lead to os command injection. It is possible to launch the attack remotely. The exploit has been published and may be used. Upgrading to version 10.3.4 is able to resolve this issue. Upgrading the affected component is advised.
+
+- [https://github.com/RayanAlmulhim/CVE-2026-105134-lab](https://github.com/RayanAlmulhim/CVE-2026-105134-lab) : ![starts](https://img.shields.io/github/stars/RayanAlmulhim/CVE-2026-105134-lab.svg) ![forks](https://img.shields.io/github/forks/RayanAlmulhim/CVE-2026-105134-lab.svg)
+
 ## CVE-2026-105030
 > Kener 4.0.0 before 4.1.6 contains an information disclosure vulnerability that allows unauthenticated attackers to retrieve hidden or inactive monitor data by querying dashboard API handlers lacking visibility filters. Attackers can supply a known or guessed monitor tag to endpoints such as monitor-bar and monitor-latency-chart to obtain names, descriptions, status, uptime history and latency.
 
@@ -156,6 +166,7 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 - [https://github.com/tonydelouvre/CVE-2026-102425](https://github.com/tonydelouvre/CVE-2026-102425) : ![starts](https://img.shields.io/github/stars/tonydelouvre/CVE-2026-102425.svg) ![forks](https://img.shields.io/github/forks/tonydelouvre/CVE-2026-102425.svg)
 
 ## CVE-2026-102282
+> adm-zip is a JavaScript library for creating and extracting ZIP archives in Node.js. Prior to 0.6.1, adm-zip applies the Unix permission bits stored in a zip entry directly to the extracted file via `fs.chmodSync()` when `keepOriginalPermission=true` is passed to `extractAllTo()`/`extractEntryTo()` — and it never filters the setuid/setgid/sticky bits out of those bits. A zip crafted by an attacker can therefore produce an extracted binary with mode `04755`. When extraction runs as root (the defa
 
 - [https://github.com/Ahmed-Elmahgob/POC-CVE-2026-102282](https://github.com/Ahmed-Elmahgob/POC-CVE-2026-102282) : ![starts](https://img.shields.io/github/stars/Ahmed-Elmahgob/POC-CVE-2026-102282.svg) ![forks](https://img.shields.io/github/forks/Ahmed-Elmahgob/POC-CVE-2026-102282.svg)
 
@@ -381,6 +392,10 @@ root privileges resulting in complete compromise o
 
 - [https://github.com/d6fault/CVE-2026-95675](https://github.com/d6fault/CVE-2026-95675) : ![starts](https://img.shields.io/github/stars/d6fault/CVE-2026-95675.svg) ![forks](https://img.shields.io/github/forks/d6fault/CVE-2026-95675.svg)
 
+## CVE-2026-95622
+
+- [https://github.com/0xSemizzz/CVE-2026-95622](https://github.com/0xSemizzz/CVE-2026-95622) : ![starts](https://img.shields.io/github/stars/0xSemizzz/CVE-2026-95622.svg) ![forks](https://img.shields.io/github/forks/0xSemizzz/CVE-2026-95622.svg)
+
 ## CVE-2026-94609
 > authentik is an open-source identity provider. Prior to 2026.2.7, 2026.5.7, and 2026.8.2, an account with delegated permission to manage a group, group membership, or a user can grant superuser status to an account or assign an existing role to a group without holding the permissions that gate those privileges. Group hierarchy checks do not consistently account for superuser status inherited from ancestor groups, and role assignment to a group lacks the required authorization check. Only deploym
 
@@ -465,6 +480,8 @@ This vulnerability allows an unauthenticated attacker to perform remot
 > braces through 3.0.3 contains a stack overflow vulnerability in the recursive AST walkers that lack depth guards. Attackers can supply deeply nested brace patterns under the character limit to exhaust the call stack and terminate the Node.js process with an uncaught RangeError.
 
 - [https://github.com/scastillo-jp/braces-fork](https://github.com/scastillo-jp/braces-fork) : ![starts](https://img.shields.io/github/stars/scastillo-jp/braces-fork.svg) ![forks](https://img.shields.io/github/forks/scastillo-jp/braces-fork.svg)
+
+- [https://github.com/pillarsdotnet/node-braces](https://github.com/pillarsdotnet/node-braces) : ![starts](https://img.shields.io/github/stars/pillarsdotnet/node-braces.svg) ![forks](https://img.shields.io/github/forks/pillarsdotnet/node-braces.svg)
 
 ## CVE-2026-93674
 
@@ -882,6 +899,8 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 - [https://github.com/msuiche/hotcell](https://github.com/msuiche/hotcell) : ![starts](https://img.shields.io/github/stars/msuiche/hotcell.svg) ![forks](https://img.shields.io/github/forks/msuiche/hotcell.svg)
 
 - [https://github.com/decalage2/detect_CVE-2026-86950](https://github.com/decalage2/detect_CVE-2026-86950) : ![starts](https://img.shields.io/github/stars/decalage2/detect_CVE-2026-86950.svg) ![forks](https://img.shields.io/github/forks/decalage2/detect_CVE-2026-86950.svg)
+
+- [https://github.com/0xBlackash/CVE-2026-86950](https://github.com/0xBlackash/CVE-2026-86950) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-86950.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-86950.svg)
 
 ## CVE-2026-86881
 
@@ -2247,6 +2266,10 @@ call selinux_socket_connect() when MSG_FASTOPEN is passed.
  Dolibarr before 24.0.0 contains an improper authorization vulnerability in the Members REST API that allows attackers with only member-creation rights to reset the password of any user account, including the system administrator, without verifying password-change permissions. Attackers can supply an arbitrary user account identifier and new password in the request body to overwrite credentials and immediately lock out the legitimate account holder.
 
 - [https://github.com/CyberWarrior9/dolibarr](https://github.com/CyberWarrior9/dolibarr) : ![starts](https://img.shields.io/github/stars/CyberWarrior9/dolibarr.svg) ![forks](https://img.shields.io/github/forks/CyberWarrior9/dolibarr.svg)
+
+## CVE-2026-71486
+
+- [https://github.com/tmvictorpeters/jbo4rgl](https://github.com/tmvictorpeters/jbo4rgl) : ![starts](https://img.shields.io/github/stars/tmvictorpeters/jbo4rgl.svg) ![forks](https://img.shields.io/github/forks/tmvictorpeters/jbo4rgl.svg)
 
 ## CVE-2026-71362
  Adobe Commerce is affected by an Incorrect Authorization vulnerability that could result in privilege escalation. An attacker could leverage this vulnerability to gain elevated access to sensitive resources. Exploitation of this issue does not require user interaction.
@@ -7018,6 +7041,8 @@ set), and require a proper CAP_SYS_PTRACE capability to override.
 
 - [https://github.com/st4rburn/public-passwd](https://github.com/st4rburn/public-passwd) : ![starts](https://img.shields.io/github/stars/st4rburn/public-passwd.svg) ![forks](https://img.shields.io/github/forks/st4rburn/public-passwd.svg)
 
+- [https://github.com/dr4mohamed/CVE-2026-46333](https://github.com/dr4mohamed/CVE-2026-46333) : ![starts](https://img.shields.io/github/stars/dr4mohamed/CVE-2026-46333.svg) ![forks](https://img.shields.io/github/forks/dr4mohamed/CVE-2026-46333.svg)
+
 ## CVE-2026-46331
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -8506,6 +8531,10 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/AdminHcat/CVE-2026-43499-5.15](https://github.com/AdminHcat/CVE-2026-43499-5.15) : ![starts](https://img.shields.io/github/stars/AdminHcat/CVE-2026-43499-5.15.svg) ![forks](https://img.shields.io/github/forks/AdminHcat/CVE-2026-43499-5.15.svg)
 
+- [https://github.com/a23bc/ALI-AN00-cve-2026-43499](https://github.com/a23bc/ALI-AN00-cve-2026-43499) : ![starts](https://img.shields.io/github/stars/a23bc/ALI-AN00-cve-2026-43499.svg) ![forks](https://img.shields.io/github/forks/a23bc/ALI-AN00-cve-2026-43499.svg)
+
+- [https://github.com/maulanasdqn/ghostlock-honor-brpnx1](https://github.com/maulanasdqn/ghostlock-honor-brpnx1) : ![starts](https://img.shields.io/github/stars/maulanasdqn/ghostlock-honor-brpnx1.svg) ![forks](https://img.shields.io/github/forks/maulanasdqn/ghostlock-honor-brpnx1.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -9467,6 +9496,14 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/slashid/baton-retool](https://github.com/slashid/baton-retool) : ![starts](https://img.shields.io/github/stars/slashid/baton-retool.svg) ![forks](https://img.shields.io/github/forks/slashid/baton-retool.svg)
 
+## CVE-2026-41875
+> Quick.Cart is vulnerable to Cross-Site Request Forgery in admin config panel. Malicious attacker can craft special website, which when visited by the admin, will automatically send a POST request that changes admin&#x27;s login and password.
+This software does implement simple protection against this type of attack, but it is easily bypassed by manipulating the referer header. All forms available in this software are potentially vulnerable.
+
+This issue was fixed in a patch to version 6.7 published on
+
+- [https://github.com/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover](https://github.com/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover) : ![starts](https://img.shields.io/github/stars/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover.svg) ![forks](https://img.shields.io/github/forks/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover.svg)
+
 ## CVE-2026-41853
  Spring MVC and WebFlux applications are vulnerable to Multipart request smuggling attacks.
 
@@ -10079,6 +10116,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 - [https://github.com/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab](https://github.com/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab) : ![starts](https://img.shields.io/github/stars/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab.svg) ![forks](https://img.shields.io/github/forks/Dhiaelhak-Rached/CVE-2026-39987-lab-or-marimo-cve-lab.svg)
 
 - [https://github.com/iapetus12/cohort-htb](https://github.com/iapetus12/cohort-htb) : ![starts](https://img.shields.io/github/stars/iapetus12/cohort-htb.svg) ![forks](https://img.shields.io/github/forks/iapetus12/cohort-htb.svg)
+
+- [https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE) : ![starts](https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE.svg) ![forks](https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE.svg)
 
 ## CVE-2026-39983
  basic-ftp is an FTP client for Node.js. Prior to 5.2.1, basic-ftp allows FTP command injection via CRLF sequences (\r\n) in file path parameters passed to high-level path APIs such as cd(), remove(), rename(), uploadFrom(), downloadTo(), list(), and removeDir(). The library's protectWhitespace() helper only handles leading spaces and returns other paths unchanged, while FtpContext.send() writes the resulting command string directly to the control socket with \r\n appended. This lets attacker-controlled path strings split one intended FTP command into multiple commands. This vulnerability is fixed in 5.2.1.
@@ -11847,6 +11886,8 @@ Users are recommended to upgrade to version 3.16.0, which fixes the issue.
 - [https://github.com/0xTatsuki/CVE-2026-31857](https://github.com/0xTatsuki/CVE-2026-31857) : ![starts](https://img.shields.io/github/stars/0xTatsuki/CVE-2026-31857.svg) ![forks](https://img.shields.io/github/forks/0xTatsuki/CVE-2026-31857.svg)
 
 - [https://github.com/0Asylum/CVE-2026-31857](https://github.com/0Asylum/CVE-2026-31857) : ![starts](https://img.shields.io/github/stars/0Asylum/CVE-2026-31857.svg) ![forks](https://img.shields.io/github/forks/0Asylum/CVE-2026-31857.svg)
+
+- [https://github.com/WhiteMachin3/CVE-2026-31857](https://github.com/WhiteMachin3/CVE-2026-31857) : ![starts](https://img.shields.io/github/stars/WhiteMachin3/CVE-2026-31857.svg) ![forks](https://img.shields.io/github/forks/WhiteMachin3/CVE-2026-31857.svg)
 
 ## CVE-2026-31852
  Jellyfin is an open-source media system. The code-quality.yml GitHub Actions workflow in jellyfin/jellyfin-ios is vulnerable to arbitrary code execution via pull requests from forked repositories. Due to the workflow's elevated permissions (nearly all write permissions), this vulnerability enables full repository takeover of jellyfin/jellyfin-ios, exfiltration of highly privileged secrets, Apple App Store supply chain attack, GitHub Container Registry (ghcr.io) package poisoning, and full jellyfin organization compromise via cross-repository token usage. Note: This is not a code vulnerability, but a vulnerability in the GitHub Actions workflows. No new version is required for this GHSA and end users do not need to take any actions.
@@ -24212,6 +24253,8 @@ Users are recommended to upgrade to version 2.4.66, which fixes the issue.
 
 - [https://github.com/donggle0802-code/cve-2025-57819](https://github.com/donggle0802-code/cve-2025-57819) : ![starts](https://img.shields.io/github/stars/donggle0802-code/cve-2025-57819.svg) ![forks](https://img.shields.io/github/forks/donggle0802-code/cve-2025-57819.svg)
 
+- [https://github.com/kelltich-756/FreePBX-Breaker](https://github.com/kelltich-756/FreePBX-Breaker) : ![starts](https://img.shields.io/github/stars/kelltich-756/FreePBX-Breaker.svg) ![forks](https://img.shields.io/github/forks/kelltich-756/FreePBX-Breaker.svg)
+
 ## CVE-2025-57576
  PHPGurukul Online Shopping Portal 2.1 is vulnerable to Cross Site Scripting (XSS) in /admin/updateorder.php.
 
@@ -25095,6 +25138,8 @@ Users are recommended to upgrade to version 3.2.2, which fixes this issue.
  An authenticated, read-only user can upload a file and perform a directory traversal to have the uploaded file placed in a location of their choosing.  This can be used to overwrite existing PERL modules within the application to achieve remote code execution (RCE) by an attacker.
 
 - [https://github.com/byteReaper77/CVE-2025-54769](https://github.com/byteReaper77/CVE-2025-54769) : ![starts](https://img.shields.io/github/stars/byteReaper77/CVE-2025-54769.svg) ![forks](https://img.shields.io/github/forks/byteReaper77/CVE-2025-54769.svg)
+
+- [https://github.com/tunahantekeoglu/CVE-2025-54769](https://github.com/tunahantekeoglu/CVE-2025-54769) : ![starts](https://img.shields.io/github/stars/tunahantekeoglu/CVE-2025-54769.svg) ![forks](https://img.shields.io/github/forks/tunahantekeoglu/CVE-2025-54769.svg)
 
 ## CVE-2025-54726
  Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Miguel Useche JS Archive List jquery-archive-list-widget allows SQL Injection.This issue affects JS Archive List: from n/a through  6.1.6.
@@ -26471,6 +26516,10 @@ Users of the artifact org.apache.commons:commons-beanutils2
 - [https://github.com/Skynoxk/CVE-2025-48703](https://github.com/Skynoxk/CVE-2025-48703) : ![starts](https://img.shields.io/github/stars/Skynoxk/CVE-2025-48703.svg) ![forks](https://img.shields.io/github/forks/Skynoxk/CVE-2025-48703.svg)
 
 - [https://github.com/itstarsec/CVE-2025-48703](https://github.com/itstarsec/CVE-2025-48703) : ![starts](https://img.shields.io/github/stars/itstarsec/CVE-2025-48703.svg) ![forks](https://img.shields.io/github/forks/itstarsec/CVE-2025-48703.svg)
+
+## CVE-2025-48617
+
+- [https://github.com/K1tor/PixelVolte5G](https://github.com/K1tor/PixelVolte5G) : ![starts](https://img.shields.io/github/stars/K1tor/PixelVolte5G.svg) ![forks](https://img.shields.io/github/forks/K1tor/PixelVolte5G.svg)
 
 ## CVE-2025-48595
  In multiple locations, there is a possible way to achieve code execution due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
@@ -39072,6 +39121,8 @@ Users are recommended to upgrade to version 2.4.62, which fixes this issue.
 
 - [https://github.com/BwithE/CVE-2024-40453](https://github.com/BwithE/CVE-2024-40453) : ![starts](https://img.shields.io/github/stars/BwithE/CVE-2024-40453.svg) ![forks](https://img.shields.io/github/forks/BwithE/CVE-2024-40453.svg)
 
+- [https://github.com/AC8999/CVE-2024-40453](https://github.com/AC8999/CVE-2024-40453) : ![starts](https://img.shields.io/github/stars/AC8999/CVE-2024-40453.svg) ![forks](https://img.shields.io/github/forks/AC8999/CVE-2024-40453.svg)
+
 ## CVE-2024-40446
  An issue in forkosh Mime Tex before v.1.77 allows an attacker to execute arbitrary code via a crafted script
 
@@ -50043,6 +50094,8 @@ which fixes this issue.
 - [https://github.com/v3ilsm1th/CVE-2023-45866_WIP](https://github.com/v3ilsm1th/CVE-2023-45866_WIP) : ![starts](https://img.shields.io/github/stars/v3ilsm1th/CVE-2023-45866_WIP.svg) ![forks](https://img.shields.io/github/forks/v3ilsm1th/CVE-2023-45866_WIP.svg)
 
 - [https://github.com/jjjjjjjj987/cve-2023-45866-py](https://github.com/jjjjjjjj987/cve-2023-45866-py) : ![starts](https://img.shields.io/github/stars/jjjjjjjj987/cve-2023-45866-py.svg) ![forks](https://img.shields.io/github/forks/jjjjjjjj987/cve-2023-45866-py.svg)
+
+- [https://github.com/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research](https://github.com/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research) : ![starts](https://img.shields.io/github/stars/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research.svg) ![forks](https://img.shields.io/github/forks/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research.svg)
 
 ## CVE-2023-45857
  An issue discovered in Axios 1.5.1 inadvertently reveals the confidential XSRF-TOKEN stored in cookies by including it in the HTTP header X-XSRF-TOKEN for every request made to any host allowing attackers to view sensitive information.
@@ -75726,6 +75779,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/FakeShell/CVE-2021-1931-BBRY-KEY2](https://github.com/FakeShell/CVE-2021-1931-BBRY-KEY2) : ![starts](https://img.shields.io/github/stars/FakeShell/CVE-2021-1931-BBRY-KEY2.svg) ![forks](https://img.shields.io/github/forks/FakeShell/CVE-2021-1931-BBRY-KEY2.svg)
 
 - [https://github.com/aomsin2526/xperia_5_bl_unlocker_poc](https://github.com/aomsin2526/xperia_5_bl_unlocker_poc) : ![starts](https://img.shields.io/github/stars/aomsin2526/xperia_5_bl_unlocker_poc.svg) ![forks](https://img.shields.io/github/forks/aomsin2526/xperia_5_bl_unlocker_poc.svg)
+
+- [https://github.com/stanw47/Blackberry-Key2-Research](https://github.com/stanw47/Blackberry-Key2-Research) : ![starts](https://img.shields.io/github/stars/stanw47/Blackberry-Key2-Research.svg) ![forks](https://img.shields.io/github/forks/stanw47/Blackberry-Key2-Research.svg)
 
 ## CVE-2021-1906
  Improper handling of address deregistration on failure can lead to new GPU address allocation failure. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
@@ -101523,6 +101578,8 @@ Exploitation of this vulnerability requires that a user or application run or in
  The Apache HTTP Server 1.x and 2.x allows remote attackers to cause a denial of service (daemon outage) via partial HTTP requests, as demonstrated by Slowloris, related to the lack of the mod_reqtimeout module in versions before 2.2.15.
 
 - [https://github.com/sarjanpatel22/siem-threat-detection-lab](https://github.com/sarjanpatel22/siem-threat-detection-lab) : ![starts](https://img.shields.io/github/stars/sarjanpatel22/siem-threat-detection-lab.svg) ![forks](https://img.shields.io/github/forks/sarjanpatel22/siem-threat-detection-lab.svg)
+
+- [https://github.com/RoflSecurity/nodeloris](https://github.com/RoflSecurity/nodeloris) : ![starts](https://img.shields.io/github/stars/RoflSecurity/nodeloris.svg) ![forks](https://img.shields.io/github/forks/RoflSecurity/nodeloris.svg)
 
 ## CVE-2007-6638
  March Networks DVR 3204 stores sensitive information under the web root with insufficient access control, which allows remote attackers to obtain usernames, passwords, device names, and IP addresses via a direct request for scripts/logfiles.tar.gz.

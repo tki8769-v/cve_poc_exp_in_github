@@ -8360,6 +8360,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/aomsin2526/xperia_5_bl_unlocker_poc](https://github.com/aomsin2526/xperia_5_bl_unlocker_poc) : ![starts](https://img.shields.io/github/stars/aomsin2526/xperia_5_bl_unlocker_poc.svg) ![forks](https://img.shields.io/github/forks/aomsin2526/xperia_5_bl_unlocker_poc.svg)
 
+- [https://github.com/stanw47/Blackberry-Key2-Research](https://github.com/stanw47/Blackberry-Key2-Research) : ![starts](https://img.shields.io/github/stars/stanw47/Blackberry-Key2-Research.svg) ![forks](https://img.shields.io/github/forks/stanw47/Blackberry-Key2-Research.svg)
+
 ## CVE-2021-1906
  Improper handling of address deregistration on failure can lead to new GPU address allocation failure. in Snapdragon Auto, Snapdragon Compute, Snapdragon Connectivity, Snapdragon Consumer IOT, Snapdragon Industrial IOT, Snapdragon Mobile, Snapdragon Voice & Music, Snapdragon Wearables
 

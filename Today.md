@@ -1,4 +1,8 @@
 # Update 2026-10-05
+## CVE-2007-6750
+
+- [https://github.com/RoflSecurity/nodeloris](https://github.com/RoflSecurity/nodeloris) : ![starts](https://img.shields.io/github/stars/RoflSecurity/nodeloris.svg) ![forks](https://img.shields.io/github/forks/RoflSecurity/nodeloris.svg)
+
 ## CVE-2011-2523
 
 - [https://github.com/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523](https://github.com/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523) : ![starts](https://img.shields.io/github/stars/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523.svg) ![forks](https://img.shields.io/github/forks/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523.svg)
@@ -23,6 +27,10 @@
 ## CVE-2020-14645
 
 - [https://github.com/jlvsjp/Weblogic_CVE-2020-14645](https://github.com/jlvsjp/Weblogic_CVE-2020-14645) : ![starts](https://img.shields.io/github/stars/jlvsjp/Weblogic_CVE-2020-14645.svg) ![forks](https://img.shields.io/github/forks/jlvsjp/Weblogic_CVE-2020-14645.svg)
+
+## CVE-2021-1931
+
+- [https://github.com/stanw47/Blackberry-Key2-Research](https://github.com/stanw47/Blackberry-Key2-Research) : ![starts](https://img.shields.io/github/stars/stanw47/Blackberry-Key2-Research.svg) ![forks](https://img.shields.io/github/forks/stanw47/Blackberry-Key2-Research.svg)
 
 ## CVE-2021-4034
 
@@ -128,9 +136,17 @@
 - [https://github.com/ziadsaleemi/polkit_CVE-2021-4034](https://github.com/ziadsaleemi/polkit_CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/ziadsaleemi/polkit_CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/ziadsaleemi/polkit_CVE-2021-4034.svg)
 - [https://github.com/zxybfq/CVE-2021-4034](https://github.com/zxybfq/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/zxybfq/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/zxybfq/CVE-2021-4034.svg)
 
+## CVE-2023-45866
+
+- [https://github.com/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research](https://github.com/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research) : ![starts](https://img.shields.io/github/stars/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research.svg) ![forks](https://img.shields.io/github/forks/KiroShehata/CVE-2023-45866-Bluetooth-Security-Research.svg)
+
 ## CVE-2024-30088
 
 - [https://github.com/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit](https://github.com/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit) : ![starts](https://img.shields.io/github/stars/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit.svg) ![forks](https://img.shields.io/github/forks/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit.svg)
+
+## CVE-2024-40453
+
+- [https://github.com/AC8999/CVE-2024-40453](https://github.com/AC8999/CVE-2024-40453) : ![starts](https://img.shields.io/github/stars/AC8999/CVE-2024-40453.svg) ![forks](https://img.shields.io/github/forks/AC8999/CVE-2024-40453.svg)
 
 ## CVE-2024-4367
 
@@ -139,6 +155,18 @@
 ## CVE-2025-11926
 
 - [https://github.com/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC](https://github.com/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC) : ![starts](https://img.shields.io/github/stars/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC.svg) ![forks](https://img.shields.io/github/forks/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC.svg)
+
+## CVE-2025-48617
+
+- [https://github.com/K1tor/PixelVolte5G](https://github.com/K1tor/PixelVolte5G) : ![starts](https://img.shields.io/github/stars/K1tor/PixelVolte5G.svg) ![forks](https://img.shields.io/github/forks/K1tor/PixelVolte5G.svg)
+
+## CVE-2025-54769
+
+- [https://github.com/tunahantekeoglu/CVE-2025-54769](https://github.com/tunahantekeoglu/CVE-2025-54769) : ![starts](https://img.shields.io/github/stars/tunahantekeoglu/CVE-2025-54769.svg) ![forks](https://img.shields.io/github/forks/tunahantekeoglu/CVE-2025-54769.svg)
+
+## CVE-2025-57819
+
+- [https://github.com/kelltich-756/FreePBX-Breaker](https://github.com/kelltich-756/FreePBX-Breaker) : ![starts](https://img.shields.io/github/stars/kelltich-756/FreePBX-Breaker.svg) ![forks](https://img.shields.io/github/forks/kelltich-756/FreePBX-Breaker.svg)
 
 ## CVE-2025-66478
 
@@ -161,10 +189,63 @@
 - [https://github.com/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478) : ![starts](https://img.shields.io/github/stars/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478.svg) ![forks](https://img.shields.io/github/forks/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478.svg)
 - [https://github.com/viperh/poc-cve-next](https://github.com/viperh/poc-cve-next) : ![starts](https://img.shields.io/github/stars/viperh/poc-cve-next.svg) ![forks](https://img.shields.io/github/forks/viperh/poc-cve-next.svg)
 
+## CVE-2026-105134
+> A flaw has been found in Ahsay AhsayCBS up to 10.3.2. This vulnerability affects unknown code of the file /rps/api/json/UpdateReceivers.do of the component Replication Receiver. Executing a manipulation of the argument random can lead to os command injection. It is possible to launch the attack remotely. The exploit has been published and may be used. Upgrading to version 10.3.4 is able to resolve this issue. Upgrading the affected component is advised.
+
+- [https://github.com/RayanAlmulhim/CVE-2026-105134-lab](https://github.com/RayanAlmulhim/CVE-2026-105134-lab) : ![starts](https://img.shields.io/github/stars/RayanAlmulhim/CVE-2026-105134-lab.svg) ![forks](https://img.shields.io/github/forks/RayanAlmulhim/CVE-2026-105134-lab.svg)
+
+## CVE-2026-105314
+> Papermerge 3.5.3 allows remote code execution by a standard user via directory traversal in a /api/documents/upload call. A Python .pth file can be written to site-packages, and its code is executed upon the next start of the Python interpreter.
+
+- [https://github.com/kashishtopi/CVE-2026-105314](https://github.com/kashishtopi/CVE-2026-105314) : ![starts](https://img.shields.io/github/stars/kashishtopi/CVE-2026-105314.svg) ![forks](https://img.shields.io/github/forks/kashishtopi/CVE-2026-105314.svg)
+
+## CVE-2026-31857
+
+- [https://github.com/WhiteMachin3/CVE-2026-31857](https://github.com/WhiteMachin3/CVE-2026-31857) : ![starts](https://img.shields.io/github/stars/WhiteMachin3/CVE-2026-31857.svg) ![forks](https://img.shields.io/github/forks/WhiteMachin3/CVE-2026-31857.svg)
+
+## CVE-2026-39987
+
+- [https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE) : ![starts](https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE.svg) ![forks](https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE.svg)
+
 ## CVE-2026-40281
 
 - [https://github.com/rabakuku/CVE-2026-40281](https://github.com/rabakuku/CVE-2026-40281) : ![starts](https://img.shields.io/github/stars/rabakuku/CVE-2026-40281.svg) ![forks](https://img.shields.io/github/forks/rabakuku/CVE-2026-40281.svg)
 
+## CVE-2026-41875
+> Quick.Cart is vulnerable to Cross-Site Request Forgery in admin config panel. Malicious attacker can craft special website, which when visited by the admin, will automatically send a POST request that changes admin&#x27;s login and password.
+This software does implement simple protection against this type of attack, but it is easily bypassed by manipulating the referer header. All forms available in this software are potentially vulnerable.
+
+This issue was fixed in a patch to version 6.7 published on
+
+- [https://github.com/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover](https://github.com/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover) : ![starts](https://img.shields.io/github/stars/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover.svg) ![forks](https://img.shields.io/github/forks/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover.svg)
+
+## CVE-2026-43499
+
+- [https://github.com/a23bc/ALI-AN00-cve-2026-43499](https://github.com/a23bc/ALI-AN00-cve-2026-43499) : ![starts](https://img.shields.io/github/stars/a23bc/ALI-AN00-cve-2026-43499.svg) ![forks](https://img.shields.io/github/forks/a23bc/ALI-AN00-cve-2026-43499.svg)
+- [https://github.com/maulanasdqn/ghostlock-honor-brpnx1](https://github.com/maulanasdqn/ghostlock-honor-brpnx1) : ![starts](https://img.shields.io/github/stars/maulanasdqn/ghostlock-honor-brpnx1.svg) ![forks](https://img.shields.io/github/forks/maulanasdqn/ghostlock-honor-brpnx1.svg)
+
+## CVE-2026-46333
+
+- [https://github.com/dr4mohamed/CVE-2026-46333](https://github.com/dr4mohamed/CVE-2026-46333) : ![starts](https://img.shields.io/github/stars/dr4mohamed/CVE-2026-46333.svg) ![forks](https://img.shields.io/github/forks/dr4mohamed/CVE-2026-46333.svg)
+
+## CVE-2026-71486
+
+- [https://github.com/tmvictorpeters/jbo4rgl](https://github.com/tmvictorpeters/jbo4rgl) : ![starts](https://img.shields.io/github/stars/tmvictorpeters/jbo4rgl.svg) ![forks](https://img.shields.io/github/forks/tmvictorpeters/jbo4rgl.svg)
+
 ## CVE-2026-86881
 
 - [https://github.com/0xcrypto/CVE-2026-86881](https://github.com/0xcrypto/CVE-2026-86881) : ![starts](https://img.shields.io/github/stars/0xcrypto/CVE-2026-86881.svg) ![forks](https://img.shields.io/github/forks/0xcrypto/CVE-2026-86881.svg)
+
+## CVE-2026-86950
+> An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.1 and iPadOS 26.7.1, macOS Sequoia 15.8.1, macOS Tahoe 26.7.1. Processing a maliciously crafted file may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 27.
+
+- [https://github.com/0xBlackash/CVE-2026-86950](https://github.com/0xBlackash/CVE-2026-86950) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-86950.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-86950.svg)
+
+## CVE-2026-93687
+> braces through 3.0.3 contains a stack overflow vulnerability in the recursive AST walkers that lack depth guards. Attackers can supply deeply nested brace patterns under the character limit to exhaust the call stack and terminate the Node.js process with an uncaught RangeError.
+
+- [https://github.com/pillarsdotnet/node-braces](https://github.com/pillarsdotnet/node-braces) : ![starts](https://img.shields.io/github/stars/pillarsdotnet/node-braces.svg) ![forks](https://img.shields.io/github/forks/pillarsdotnet/node-braces.svg)
+
+## CVE-2026-95622
+
+- [https://github.com/0xSemizzz/CVE-2026-95622](https://github.com/0xSemizzz/CVE-2026-95622) : ![starts](https://img.shields.io/github/stars/0xSemizzz/CVE-2026-95622.svg) ![forks](https://img.shields.io/github/forks/0xSemizzz/CVE-2026-95622.svg)
