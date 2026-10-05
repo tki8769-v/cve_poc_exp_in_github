@@ -1328,3 +1328,4 @@
 {"cve_id": "CVE-2019-9053", "ts": "2026-10-04T20:28:57Z", "type": "new_poc", "url": "https://github.com/so1icitx/CVE-2019-9053"}
 {"cve_id": "CVE-2025-11926", "ts": "2026-10-05T00:05:29Z", "type": "new_poc", "url": "https://github.com/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC"}
 {"cve_id": "CVE-2017-7921", "ts": "2026-10-05T00:06:40Z", "type": "new_poc", "url": "https://github.com/Th3Purge/CVE-2017-7921-Exploit"}
+{"cve_id": "CVE-2024-30088", "ts": "2026-10-05T00:16:46Z", "type": "new_poc", "url": "https://github.com/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit"}

@@ -176,3 +176,20 @@
 {"cve_id": "CVE-2022-2547", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:06:38Z", "url": "https://github.com/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN", "url_ids": ["CVE-2022-25479", "CVE-2024-40431"]}
 {"cve_id": "CVE-2022-2547", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:06:38Z", "url": "https://github.com/HORKimhab/CVE-2022-25477", "url_ids": ["CVE-2022-25477"]}
 {"cve_id": "CVE-2022-2547", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:06:38Z", "url": "https://github.com/HORKimhab/CVE-2022-25476", "url_ids": ["CVE-2022-25476"]}
+{"cve_id": "CVE-2023-2732", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:08:43Z", "url": "https://github.com/Malwareman007/CVE-2023-27326", "url_ids": ["CVE-2023-27326"]}
+{"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:12:43Z", "url": "https://github.com/lockedbyte/CVE-2021-40444", "url_ids": ["CVE-2021-40444"]}
+{"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:12:43Z", "url": "https://github.com/klezVirus/CVE-2021-40444", "url_ids": ["CVE-2021-40444"]}
+{"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:12:43Z", "url": "https://github.com/aslitsecurity/CVE-2021-40444_builders", "url_ids": ["CVE-2021-40444"]}
+{"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:12:43Z", "url": "https://github.com/Kristal-g/CVE-2021-40449_poc", "url_ids": ["CVE-2021-40449"]}
+{"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:12:43Z", "url": "https://github.com/hakivvi/CVE-2021-40449", "url_ids": ["CVE-2021-40449"]}
+{"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:12:43Z", "url": "https://github.com/ozergoker/CVE-2021-40444", "url_ids": ["CVE-2021-40444"]}
+{"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:12:43Z", "url": "https://github.com/DarkSprings/CVE-2021-40444", "url_ids": ["CVE-2021-40444"]}
+{"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:12:43Z", "url": "https://github.com/k4k4/CVE-2021-40444-Sample", "url_ids": ["CVE-2021-40444"]}
+{"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:12:43Z", "url": "https://github.com/khoaduynu/CVE-2021-40444", "url_ids": ["CVE-2021-40444"]}
+{"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:12:43Z", "url": "https://github.com/skitkat/CVE-2021-40444-POC", "url_ids": ["CVE-2021-40444"]}
+{"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:12:43Z", "url": "https://github.com/MohamedAboHelal/CVE-2021-40444", "url_ids": ["CVE-2021-40444"]}
+{"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:12:43Z", "url": "https://github.com/jamesrep/cve-2021-40444", "url_ids": ["CVE-2021-40444"]}
+{"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:12:43Z", "url": "https://github.com/basim-ahmad/Follina-CVE-and-CVE-2021-40444", "url_ids": ["CVE-2021-40444"]}
+{"cve_id": "CVE-2022-4395", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:15:46Z", "url": "https://github.com/secware-ru/CVE-2022-43959", "url_ids": ["CVE-2022-43959"]}
+{"cve_id": "CVE-2020-1020", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:16:45Z", "url": "https://github.com/magicming200/CVE-2020-10199_CVE-2020-10204", "url_ids": ["CVE-2020-10199", "CVE-2020-10204"]}
+{"cve_id": "CVE-2020-1020", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:16:45Z", "url": "https://github.com/zhzyker/CVE-2020-10204", "url_ids": ["CVE-2020-10204"]}
