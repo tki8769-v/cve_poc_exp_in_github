@@ -1355,3 +1355,4 @@
 {"cve_id": "CVE-2025-66478", "ts": "2026-10-05T07:06:32Z", "type": "new_poc", "url": "https://github.com/Saied25/fix-react2shell-next"}
 {"cve_id": "CVE-2017-16034", "ts": "2026-10-05T07:09:19Z", "type": "new_poc", "url": "https://github.com/CQ-Tools/CVE-2017-16034-fixed"}
 {"cve_id": "CVE-2017-16034", "ts": "2026-10-05T07:09:19Z", "type": "new_poc", "url": "https://github.com/CQ-Tools/CVE-2017-16034-unfixed"}
+{"cve_id": "CVE-2020-14645", "ts": "2026-10-05T07:20:42Z", "type": "new_poc", "url": "https://github.com/jlvsjp/Weblogic_CVE-2020-14645"}

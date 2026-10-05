@@ -78231,6 +78231,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/HYWZ36/CVE-2020-14645-code](https://github.com/HYWZ36/CVE-2020-14645-code) : ![starts](https://img.shields.io/github/stars/HYWZ36/CVE-2020-14645-code.svg) ![forks](https://img.shields.io/github/forks/HYWZ36/CVE-2020-14645-code.svg)
 
+- [https://github.com/jlvsjp/Weblogic_CVE-2020-14645](https://github.com/jlvsjp/Weblogic_CVE-2020-14645) : ![starts](https://img.shields.io/github/stars/jlvsjp/Weblogic_CVE-2020-14645.svg) ![forks](https://img.shields.io/github/forks/jlvsjp/Weblogic_CVE-2020-14645.svg)
+
 ## CVE-2020-14644
  Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core). Supported versions that are affected are 12.2.1.3.0, 12.2.1.4.0 and 14.1.1.0.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP, T3 to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
 

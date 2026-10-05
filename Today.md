@@ -20,6 +20,10 @@
 
 - [https://github.com/automateforceai/CVE-2018-0202](https://github.com/automateforceai/CVE-2018-0202) : ![starts](https://img.shields.io/github/stars/automateforceai/CVE-2018-0202.svg) ![forks](https://img.shields.io/github/forks/automateforceai/CVE-2018-0202.svg)
 
+## CVE-2020-14645
+
+- [https://github.com/jlvsjp/Weblogic_CVE-2020-14645](https://github.com/jlvsjp/Weblogic_CVE-2020-14645) : ![starts](https://img.shields.io/github/stars/jlvsjp/Weblogic_CVE-2020-14645.svg) ![forks](https://img.shields.io/github/forks/jlvsjp/Weblogic_CVE-2020-14645.svg)
+
 ## CVE-2024-30088
 
 - [https://github.com/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit](https://github.com/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit) : ![starts](https://img.shields.io/github/stars/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit.svg) ![forks](https://img.shields.io/github/forks/repo4Chu/CVE-2024-30088__Windows-TOCTOU-exploit.svg)
