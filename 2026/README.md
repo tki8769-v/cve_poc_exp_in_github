@@ -17193,6 +17193,10 @@ This issue affects pgAdmin 4: from 9.13 before 9.17.
 
 - [https://github.com/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments](https://github.com/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments) : ![starts](https://img.shields.io/github/stars/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments.svg) ![forks](https://img.shields.io/github/forks/huseyn0vs/CVE-2026-16540-SimplyScheduleAppointments.svg)
 
+## CVE-2026-16444
+
+- [https://github.com/jamir0quai/CVE-2026-16444](https://github.com/jamir0quai/CVE-2026-16444) : ![starts](https://img.shields.io/github/stars/jamir0quai/CVE-2026-16444.svg) ![forks](https://img.shields.io/github/forks/jamir0quai/CVE-2026-16444.svg)
+
 ## CVE-2026-16348
  An authenticated command injection vulnerability in TP-Link Archer BE800 V1 allows an attacker with administrative access to execute arbitrary system commands with root privileges by injecting shell metacharacters via a VPN connection. 
 

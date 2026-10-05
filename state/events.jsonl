@@ -1476,3 +1476,5 @@
 {"cve_id": "CVE-2007-6750", "ts": "2026-10-05T18:28:58Z", "type": "new_poc", "url": "https://github.com/RoflSecurity/nodeloris"}
 {"cve_id": "CVE-2025-57819", "ts": "2026-10-05T18:28:59Z", "type": "new_poc", "url": "https://github.com/kelltich-756/FreePBX-Breaker"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-10-05T18:28:59Z", "type": "new_poc", "url": "https://github.com/maulanasdqn/ghostlock-honor-brpnx1"}
+{"cve_id": "CVE-2026-16444", "ts": "2026-10-05T18:49:36Z", "type": "new_poc", "url": "https://github.com/jamir0quai/CVE-2026-16444"}
+{"cve_id": "CVE-2025-32433", "ts": "2026-10-05T18:56:27Z", "type": "new_poc", "url": "https://github.com/giriaryan694-a11y/cve-2025-32433_rce_exploit"}

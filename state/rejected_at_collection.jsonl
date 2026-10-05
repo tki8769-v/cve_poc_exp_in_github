@@ -323,3 +323,10 @@
 {"cve_id": "CVE-2018-1263", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:27:52Z", "url": "https://github.com/wiliam227user/CVE-2018-12633-TPLink-Auth-Bypass", "url_ids": ["CVE-2018-12633"]}
 {"cve_id": "CVE-2025-3604", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:31:41Z", "url": "https://github.com/byteReaper77/CVE-2025-36041", "url_ids": ["CVE-2025-36041"]}
 {"cve_id": "CVE-2026-7355", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:31:54Z", "url": "https://github.com/HORKimhab/CVE-2026-73554", "url_ids": ["CVE-2026-73554"]}
+{"cve_id": "CVE-2026-5782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T18:51:21Z", "url": "https://github.com/shinthink/CVE-2026-57827", "url_ids": ["CVE-2026-57827"]}
+{"cve_id": "CVE-2026-5782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T18:51:21Z", "url": "https://github.com/Mohammad-008/rsfiles-CVE-2026-57827", "url_ids": ["CVE-2026-57827"]}
+{"cve_id": "CVE-2026-5782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T18:51:21Z", "url": "https://github.com/tc4dy/CVE-2026-57821-PoC-Exploit", "url_ids": ["CVE-2026-57821"]}
+{"cve_id": "CVE-2026-5782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T18:51:21Z", "url": "https://github.com/jjkk123123/CVE-2026-57827", "url_ids": ["CVE-2026-57827"]}
+{"cve_id": "CVE-2026-5782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T18:51:21Z", "url": "https://github.com/Candisexterior171/CVE-2026-57827", "url_ids": ["CVE-2026-57827"]}
+{"cve_id": "CVE-2018-1156", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T18:57:39Z", "url": "https://github.com/GeunSam2/CVE-2018-11564", "url_ids": ["CVE-2018-11564"]}
+{"cve_id": "CVE-2019-2548", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T18:59:34Z", "url": "https://github.com/TheMalwareGuardian/CVE-2019-25485", "url_ids": ["CVE-2019-25485"]}

@@ -156,6 +156,10 @@
 
 - [https://github.com/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC](https://github.com/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC) : ![starts](https://img.shields.io/github/stars/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC.svg) ![forks](https://img.shields.io/github/forks/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC.svg)
 
+## CVE-2025-32433
+
+- [https://github.com/giriaryan694-a11y/cve-2025-32433_rce_exploit](https://github.com/giriaryan694-a11y/cve-2025-32433_rce_exploit) : ![starts](https://img.shields.io/github/stars/giriaryan694-a11y/cve-2025-32433_rce_exploit.svg) ![forks](https://img.shields.io/github/forks/giriaryan694-a11y/cve-2025-32433_rce_exploit.svg)
+
 ## CVE-2025-48617
 
 - [https://github.com/K1tor/PixelVolte5G](https://github.com/K1tor/PixelVolte5G) : ![starts](https://img.shields.io/github/stars/K1tor/PixelVolte5G.svg) ![forks](https://img.shields.io/github/forks/K1tor/PixelVolte5G.svg)
@@ -198,6 +202,10 @@
 > Papermerge 3.5.3 allows remote code execution by a standard user via directory traversal in a /api/documents/upload call. A Python .pth file can be written to site-packages, and its code is executed upon the next start of the Python interpreter.
 
 - [https://github.com/kashishtopi/CVE-2026-105314](https://github.com/kashishtopi/CVE-2026-105314) : ![starts](https://img.shields.io/github/stars/kashishtopi/CVE-2026-105314.svg) ![forks](https://img.shields.io/github/forks/kashishtopi/CVE-2026-105314.svg)
+
+## CVE-2026-16444
+
+- [https://github.com/jamir0quai/CVE-2026-16444](https://github.com/jamir0quai/CVE-2026-16444) : ![starts](https://img.shields.io/github/stars/jamir0quai/CVE-2026-16444.svg) ![forks](https://img.shields.io/github/forks/jamir0quai/CVE-2026-16444.svg)
 
 ## CVE-2026-31857
 
