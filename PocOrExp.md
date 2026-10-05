@@ -32412,6 +32412,8 @@ ServiceNow has addressed this vulnerability by deploying a relevant security upd
 
 - [https://github.com/prabhatverma47/CVE-2025-11926](https://github.com/prabhatverma47/CVE-2025-11926) : ![starts](https://img.shields.io/github/stars/prabhatverma47/CVE-2025-11926.svg) ![forks](https://img.shields.io/github/forks/prabhatverma47/CVE-2025-11926.svg)
 
+- [https://github.com/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC](https://github.com/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC) : ![starts](https://img.shields.io/github/stars/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC.svg) ![forks](https://img.shields.io/github/forks/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC.svg)
+
 ## CVE-2025-11844
  Hugging Face Smolagents version 1.20.0 contains an XPath injection vulnerability in the search_item_ctrl_f function located in src/smolagents/vision_web_browser.py. The function constructs an XPath query by directly concatenating user-supplied input into the XPath expression without proper sanitization or escaping. This allows an attacker to inject malicious XPath syntax that can alter the intended query logic. The vulnerability enables attackers to bypass search filters, access unintended DOM elements, and disrupt web automation workflows. This can lead to information disclosure, manipulation of AI agent interactions, and compromise the reliability of automated web tasks. The issue is fixed in version 1.22.0.
 
@@ -94400,6 +94402,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 - [https://github.com/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor](https://github.com/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor) : ![starts](https://img.shields.io/github/stars/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor.svg) ![forks](https://img.shields.io/github/forks/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor.svg)
 
 - [https://github.com/AnonkiGroup/AnonHik](https://github.com/AnonkiGroup/AnonHik) : ![starts](https://img.shields.io/github/stars/AnonkiGroup/AnonHik.svg) ![forks](https://img.shields.io/github/forks/AnonkiGroup/AnonHik.svg)
+
+- [https://github.com/Th3Purge/CVE-2017-7921-Exploit](https://github.com/Th3Purge/CVE-2017-7921-Exploit) : ![starts](https://img.shields.io/github/stars/Th3Purge/CVE-2017-7921-Exploit.svg) ![forks](https://img.shields.io/github/forks/Th3Purge/CVE-2017-7921-Exploit.svg)
 
 ## CVE-2017-7912
  Hanwha Techwin SRN-4000, SRN-4000 firmware versions prior to SRN4000_v2.16_170401, A specially crafted http request and response could allow an attacker to gain access to the device management page with admin privileges without proper authentication.

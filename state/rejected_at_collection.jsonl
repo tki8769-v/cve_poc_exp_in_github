@@ -165,3 +165,14 @@
 {"cve_id": "CVE-2025-2748", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:35:05Z", "url": "https://github.com/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk", "url_ids": ["CVE-2025-27480"]}
 {"cve_id": "CVE-2024-5737", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:39:10Z", "url": "https://github.com/DelspoN/CVE-2024-57376", "url_ids": ["CVE-2024-57376"]}
 {"cve_id": "CVE-2024-5737", "reason": "prefix_conflict_evidenced", "ts": "2026-10-04T20:39:10Z", "url": "https://github.com/rxerium/CVE-2024-57378", "url_ids": ["CVE-2024-57378"]}
+{"cve_id": "CVE-2025-5210", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:01:28Z", "url": "https://github.com/changyaoyou/CVE-2025-52100", "url_ids": ["CVE-2025-52100"]}
+{"cve_id": "CVE-2026-3326", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:02:28Z", "url": "https://github.com/Boreas37/CVE-2026-33267-PoC", "url_ids": ["CVE-2026-33267"]}
+{"cve_id": "CVE-2023-3076", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:02:35Z", "url": "https://github.com/0xfml/CVE-2023-30765", "url_ids": ["CVE-2023-30765"]}
+{"cve_id": "CVE-2026-5050", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:03:31Z", "url": "https://github.com/HORKimhab/CVE-2026-50507", "url_ids": ["CVE-2026-50507"]}
+{"cve_id": "CVE-2026-7762", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:05:28Z", "url": "https://github.com/Squ1shification/PNGboomer-CVE-2026-77622", "url_ids": ["CVE-2026-77622"]}
+{"cve_id": "CVE-2021-3528", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:05:35Z", "url": "https://github.com/l00neyhacker/CVE-2021-35287", "url_ids": ["CVE-2021-35287"]}
+{"cve_id": "CVE-2021-3528", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:05:35Z", "url": "https://github.com/l00neyhacker/CVE-2021-35286", "url_ids": ["CVE-2021-35286"]}
+{"cve_id": "CVE-2026-5715", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:06:37Z", "url": "https://github.com/babyshen/CVE-2026-57155", "url_ids": ["CVE-2026-57155"]}
+{"cve_id": "CVE-2022-2547", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:06:38Z", "url": "https://github.com/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN", "url_ids": ["CVE-2022-25479", "CVE-2024-40431"]}
+{"cve_id": "CVE-2022-2547", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:06:38Z", "url": "https://github.com/HORKimhab/CVE-2022-25477", "url_ids": ["CVE-2022-25477"]}
+{"cve_id": "CVE-2022-2547", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:06:38Z", "url": "https://github.com/HORKimhab/CVE-2022-25476", "url_ids": ["CVE-2022-25476"]}

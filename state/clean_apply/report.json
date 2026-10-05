@@ -1,8 +1,10 @@
 {
-  "affected_years": [],
-  "applied_at": "2026-10-04T20:41:23Z",
+  "affected_years": [
+    "2025"
+  ],
+  "applied_at": "2026-10-05T00:07:28Z",
   "applied_rejected": 0,
-  "revoked_accepted": 0,
+  "revoked_accepted": 1,
   "revoked_rejected": 0,
   "rule_version": "2",
   "still_pending_meta": 0

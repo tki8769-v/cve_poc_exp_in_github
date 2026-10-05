@@ -1326,3 +1326,5 @@
 {"cve_id": "CVE-2026-31431", "ts": "2026-10-04T20:26:10Z", "type": "new_poc", "url": "https://github.com/nonameuserosint-hue/Copyfail-sh"}
 {"cve_id": "CVE-2026-31431", "ts": "2026-10-04T20:26:10Z", "type": "new_poc", "url": "https://github.com/John-Popovici/CVE-2026-31431-CopyFail-Linux-PrivEsc"}
 {"cve_id": "CVE-2019-9053", "ts": "2026-10-04T20:28:57Z", "type": "new_poc", "url": "https://github.com/so1icitx/CVE-2019-9053"}
+{"cve_id": "CVE-2025-11926", "ts": "2026-10-05T00:05:29Z", "type": "new_poc", "url": "https://github.com/prabhatverma47/Wordpress-Related-Posts-Lite-plugin-XSS-PoC"}
+{"cve_id": "CVE-2017-7921", "ts": "2026-10-05T00:06:40Z", "type": "new_poc", "url": "https://github.com/Th3Purge/CVE-2017-7921-Exploit"}
