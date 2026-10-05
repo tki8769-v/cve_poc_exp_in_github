@@ -255,3 +255,12 @@
 {"cve_id": "CVE-2024-2370", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:24:44Z", "url": "https://github.com/vinh0212/CVE-2024-23700", "url_ids": ["CVE-2024-23700"]}
 {"cve_id": "CVE-2024-2370", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:24:44Z", "url": "https://github.com/kaitokidc500/CVE-2024-23700-C2-Server", "url_ids": ["CVE-2024-23700"]}
 {"cve_id": "CVE-2018-1634", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T00:25:46Z", "url": "https://github.com/mpgn/CVE-2018-16341", "url_ids": ["CVE-2018-16341"]}
+{"cve_id": "CVE-2026-3682", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:06:26Z", "url": "https://github.com/Forklit/CVE-2026-36826", "url_ids": ["CVE-2026-36826"]}
+{"cve_id": "CVE-2018-1932", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:07:16Z", "url": "https://github.com/hmnthabit/CVE-2018-19320-LPE", "url_ids": ["CVE-2018-19320"]}
+{"cve_id": "CVE-2018-1932", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:07:16Z", "url": "https://github.com/nanabingies/CVE-2018-19321", "url_ids": ["CVE-2018-19321"]}
+{"cve_id": "CVE-2018-1932", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:07:16Z", "url": "https://github.com/blueisbeautiful/CVE-2018-19323", "url_ids": ["CVE-2018-19323"]}
+{"cve_id": "CVE-2023-2603", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:07:32Z", "url": "https://github.com/rvzsec/CVE-2023-26035", "url_ids": ["CVE-2023-26035"]}
+{"cve_id": "CVE-2023-2603", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:07:32Z", "url": "https://github.com/heapbytes/CVE-2023-26035", "url_ids": ["CVE-2023-26035"]}
+{"cve_id": "CVE-2023-2603", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:07:32Z", "url": "https://github.com/0xfalafel/zoneminder_CVE-2023-26035", "url_ids": ["CVE-2023-26035"]}
+{"cve_id": "CVE-2023-2603", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:07:32Z", "url": "https://github.com/ungabunga-ctf/CVE-2023-26039", "url_ids": ["CVE-2023-26039"]}
+{"cve_id": "CVE-2026-3132", "reason": "prefix_conflict_evidenced", "ts": "2026-10-05T07:10:21Z", "url": "https://github.com/cwjchoi01/CVE-2026-31321", "url_ids": ["CVE-2026-31321"]}

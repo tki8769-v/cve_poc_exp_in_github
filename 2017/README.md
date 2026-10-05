@@ -671,6 +671,10 @@
 
 - [https://github.com/ossf-cve-benchmark/CVE-2017-16034](https://github.com/ossf-cve-benchmark/CVE-2017-16034) : ![starts](https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2017-16034.svg) ![forks](https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2017-16034.svg)
 
+- [https://github.com/CQ-Tools/CVE-2017-16034-fixed](https://github.com/CQ-Tools/CVE-2017-16034-fixed) : ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16034-fixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16034-fixed.svg)
+
+- [https://github.com/CQ-Tools/CVE-2017-16034-unfixed](https://github.com/CQ-Tools/CVE-2017-16034-unfixed) : ![starts](https://img.shields.io/github/stars/CQ-Tools/CVE-2017-16034-unfixed.svg) ![forks](https://img.shields.io/github/forks/CQ-Tools/CVE-2017-16034-unfixed.svg)
+
 ## CVE-2017-16031
  Socket.io is a realtime application framework that provides communication via websockets. Because socket.io 0.9.6 and earlier depends on `Math.random()` to create socket IDs, the IDs are predictable. An attacker is able to guess the socket ID and gain access to socket.io servers, potentially obtaining sensitive information.
 
