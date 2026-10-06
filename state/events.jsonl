@@ -1499,3 +1499,5 @@
 {"cve_id": "CVE-2017-5638", "ts": "2026-10-06T12:04:34Z", "type": "new_poc", "url": "https://github.com/Piyush-Tiwatne/struts-patch-gap-auditor"}
 {"cve_id": "CVE-2026-74727", "ts": "2026-10-06T12:04:34Z", "type": "new_poc", "url": "https://github.com/Kosifuchs/ovpn-kernel-backport"}
 {"cve_id": "CVE-2026-15911", "ts": "2026-10-06T12:07:41Z", "type": "new_poc", "url": "https://github.com/rahulreddykarne/CVE-2026-15911-Confluent_Kafka"}
+{"cve_id": "CVE-2025-6867", "ts": "2026-10-06T12:14:50Z", "type": "new_poc", "url": "https://github.com/richard1026/CVE-2025-6867-reproduction"}
+{"cve_id": "CVE-2007-2447", "ts": "2026-10-06T12:14:50Z", "type": "new_poc", "url": "https://github.com/malredfan/gggggggggggggggggg"}

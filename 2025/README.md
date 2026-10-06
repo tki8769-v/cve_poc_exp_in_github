@@ -12343,6 +12343,10 @@ CR virtual server with type HDX
 
 - [https://github.com/byteReaper77/cve-2025-6907](https://github.com/byteReaper77/cve-2025-6907) : ![starts](https://img.shields.io/github/stars/byteReaper77/cve-2025-6907.svg) ![forks](https://img.shields.io/github/forks/byteReaper77/cve-2025-6907.svg)
 
+## CVE-2025-6867
+
+- [https://github.com/richard1026/CVE-2025-6867-reproduction](https://github.com/richard1026/CVE-2025-6867-reproduction) : ![starts](https://img.shields.io/github/stars/richard1026/CVE-2025-6867-reproduction.svg) ![forks](https://img.shields.io/github/forks/richard1026/CVE-2025-6867-reproduction.svg)
+
 ## CVE-2025-6860
  A vulnerability was found in SourceCodester Best Salon Management System 1.0. It has been declared as critical. This vulnerability affects unknown code of the file /panel/staff_commision.php. The manipulation of the argument fromdate/todate leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.
 

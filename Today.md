@@ -1,6 +1,7 @@
 # Update 2026-10-06
 ## CVE-2007-2447
 
+- [https://github.com/malredfan/gggggggggggggggggg](https://github.com/malredfan/gggggggggggggggggg) : ![starts](https://img.shields.io/github/stars/malredfan/gggggggggggggggggg.svg) ![forks](https://img.shields.io/github/forks/malredfan/gggggggggggggggggg.svg)
 - [https://github.com/malredfan/metasploitable2-pentest](https://github.com/malredfan/metasploitable2-pentest) : ![starts](https://img.shields.io/github/stars/malredfan/metasploitable2-pentest.svg) ![forks](https://img.shields.io/github/forks/malredfan/metasploitable2-pentest.svg)
 - [https://github.com/malredfan/vvvvvvvv2](https://github.com/malredfan/vvvvvvvv2) : ![starts](https://img.shields.io/github/stars/malredfan/vvvvvvvv2.svg) ![forks](https://img.shields.io/github/forks/malredfan/vvvvvvvv2.svg)
 - [https://github.com/malredfan/xxxxxxxxxxxxxxxx](https://github.com/malredfan/xxxxxxxxxxxxxxxx) : ![starts](https://img.shields.io/github/stars/malredfan/xxxxxxxxxxxxxxxx.svg) ![forks](https://img.shields.io/github/forks/malredfan/xxxxxxxxxxxxxxxx.svg)
@@ -28,6 +29,10 @@
 ## CVE-2025-5781
 
 - [https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX) : ![starts](https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX.svg) ![forks](https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX.svg)
+
+## CVE-2025-6867
+
+- [https://github.com/richard1026/CVE-2025-6867-reproduction](https://github.com/richard1026/CVE-2025-6867-reproduction) : ![starts](https://img.shields.io/github/stars/richard1026/CVE-2025-6867-reproduction.svg) ![forks](https://img.shields.io/github/forks/richard1026/CVE-2025-6867-reproduction.svg)
 
 ## CVE-2026-0603
 > A flaw was found in Hibernate. A remote attacker with low privileges could exploit a second-order SQL injection vulnerability by providing specially crafted, unsanitized non-alphanumeric characters in the ID column when the InlineIdsOrClauseBuilder is used. This could lead to sensitive information disclosure, such as reading system files, and allow for data manipulation or deletion within the application&#x27;s database, resulting in an application level denial of service.
