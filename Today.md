@@ -1,4 +1,8 @@
 # Update 2026-10-06
+## CVE-2017-3730
+
+- [https://github.com/HavocParasite/CVE-2017-3730](https://github.com/HavocParasite/CVE-2017-3730) : ![starts](https://img.shields.io/github/stars/HavocParasite/CVE-2017-3730.svg) ![forks](https://img.shields.io/github/forks/HavocParasite/CVE-2017-3730.svg)
+
 ## CVE-2025-1122
 
 - [https://github.com/MCRideable3963/RMASmoke-v2](https://github.com/MCRideable3963/RMASmoke-v2) : ![starts](https://img.shields.io/github/stars/MCRideable3963/RMASmoke-v2.svg) ![forks](https://img.shields.io/github/forks/MCRideable3963/RMASmoke-v2.svg)
@@ -6,6 +10,10 @@
 ## CVE-2025-14659
 
 - [https://github.com/PeterLinccl/CVE-2025-14659-DIR-860L](https://github.com/PeterLinccl/CVE-2025-14659-DIR-860L) : ![starts](https://img.shields.io/github/stars/PeterLinccl/CVE-2025-14659-DIR-860L.svg) ![forks](https://img.shields.io/github/forks/PeterLinccl/CVE-2025-14659-DIR-860L.svg)
+
+## CVE-2025-5781
+
+- [https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX) : ![starts](https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX.svg) ![forks](https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX.svg)
 
 ## CVE-2026-0603
 > A flaw was found in Hibernate. A remote attacker with low privileges could exploit a second-order SQL injection vulnerability by providing specially crafted, unsanitized non-alphanumeric characters in the ID column when the InlineIdsOrClauseBuilder is used. This could lead to sensitive information disclosure, such as reading system files, and allow for data manipulation or deletion within the application&#x27;s database, resulting in an application level denial of service.
@@ -24,6 +32,10 @@
 ## CVE-2026-43499
 
 - [https://github.com/Nixbones/ghostlock-rmx5085](https://github.com/Nixbones/ghostlock-rmx5085) : ![starts](https://img.shields.io/github/stars/Nixbones/ghostlock-rmx5085.svg) ![forks](https://img.shields.io/github/forks/Nixbones/ghostlock-rmx5085.svg)
+
+## CVE-2026-49975
+
+- [https://github.com/yym8538/CVE-2026-49975](https://github.com/yym8538/CVE-2026-49975) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-49975.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-49975.svg)
 
 ## CVE-2026-96940
 

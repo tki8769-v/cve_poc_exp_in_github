@@ -12795,6 +12795,8 @@ The specific flaw exists within the handling of file paths within archive files.
 
 - [https://github.com/jasonbernier/CVE-2025-5781](https://github.com/jasonbernier/CVE-2025-5781) : ![starts](https://img.shields.io/github/stars/jasonbernier/CVE-2025-5781.svg) ![forks](https://img.shields.io/github/forks/jasonbernier/CVE-2025-5781.svg)
 
+- [https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX) : ![starts](https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX.svg) ![forks](https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX.svg)
+
 ## CVE-2025-5777
  Insufficient input validation leading to memory overread when the NetScaler is configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) OR AAA virtual server
 

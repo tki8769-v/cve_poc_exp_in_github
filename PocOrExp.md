@@ -6063,6 +6063,8 @@ This issue affects Apache HTTP Server: from 2.4.17 through 2.4.67.
 
 - [https://github.com/Manisso/http2-bomb](https://github.com/Manisso/http2-bomb) : ![starts](https://img.shields.io/github/stars/Manisso/http2-bomb.svg) ![forks](https://img.shields.io/github/forks/Manisso/http2-bomb.svg)
 
+- [https://github.com/yym8538/CVE-2026-49975](https://github.com/yym8538/CVE-2026-49975) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-49975.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-49975.svg)
+
 ## CVE-2026-49952
  Discuz! X5.0 releases 20260320 through 20260501 contains an authentication bypass vulnerability that allows unauthenticated remote attackers to gain unauthorized access to database backup and restore functionality by exploiting a shared cryptographic key between UCenter integration and the database backup API exposed by dbbak.php. Attackers can inject a crafted payload through the username parameter during login to abuse the encryption oracle in logging_ctl::logging_more(), obtain a legitimately signed token, and use it to bypass authorization for database export and import operations, with the additional ability to trigger a race condition to impersonate arbitrary users.
 
@@ -34132,6 +34134,8 @@ The specific flaw exists within the handling of file paths within archive files.
  Information Exposure Vulnerability in Hitachi Ops Center API Configuration Manager, Hitachi Configuration Manager, Hitachi Device Manager allows Session Hijacking.This issue affects Hitachi Ops Center API Configuration Manager: from 10.0.0-00 before 11.0.5-00; Hitachi Configuration Manager: from 8.5.1-00 before 11.0.5-00; Hitachi Device Manager: from 8.4.1-00 before 8.6.5-00.
 
 - [https://github.com/jasonbernier/CVE-2025-5781](https://github.com/jasonbernier/CVE-2025-5781) : ![starts](https://img.shields.io/github/stars/jasonbernier/CVE-2025-5781.svg) ![forks](https://img.shields.io/github/forks/jasonbernier/CVE-2025-5781.svg)
+
+- [https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX](https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX) : ![starts](https://img.shields.io/github/stars/iamrajkumar1995/cve-2025-5781_FreePBX.svg) ![forks](https://img.shields.io/github/forks/iamrajkumar1995/cve-2025-5781_FreePBX.svg)
 
 ## CVE-2025-5777
  Insufficient input validation leading to memory overread when the NetScaler is configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) OR AAA virtual server
@@ -95588,6 +95592,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
  In OpenSSL 1.1.0 before 1.1.0d, if a malicious server supplies bad parameters for a DHE or ECDHE key exchange then this can result in the client attempting to dereference a NULL pointer leading to a client crash. This could be exploited in a Denial of Service attack.
 
 - [https://github.com/olivierh59500/CVE-2017-3730](https://github.com/olivierh59500/CVE-2017-3730) : ![starts](https://img.shields.io/github/stars/olivierh59500/CVE-2017-3730.svg) ![forks](https://img.shields.io/github/forks/olivierh59500/CVE-2017-3730.svg)
+
+- [https://github.com/HavocParasite/CVE-2017-3730](https://github.com/HavocParasite/CVE-2017-3730) : ![starts](https://img.shields.io/github/stars/HavocParasite/CVE-2017-3730.svg) ![forks](https://img.shields.io/github/forks/HavocParasite/CVE-2017-3730.svg)
 
 ## CVE-2017-3599
  Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Pluggable Auth). Supported versions that are affected are 5.6.35 and earlier and 5.7.17 and earlier. Easily "exploitable" vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 7.5 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H). NOTE: the previous information is from the April 2017 CPU. Oracle has not commented on third-party claims that this issue is an integer overflow in sql/auth/sql_authentication.cc which allows remote attackers to cause a denial of service via a crafted authentication packet.

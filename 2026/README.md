@@ -6062,6 +6062,8 @@ This issue affects Apache HTTP Server: from 2.4.17 through 2.4.67.
 
 - [https://github.com/Manisso/http2-bomb](https://github.com/Manisso/http2-bomb) : ![starts](https://img.shields.io/github/stars/Manisso/http2-bomb.svg) ![forks](https://img.shields.io/github/forks/Manisso/http2-bomb.svg)
 
+- [https://github.com/yym8538/CVE-2026-49975](https://github.com/yym8538/CVE-2026-49975) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-49975.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-49975.svg)
+
 ## CVE-2026-49952
  Discuz! X5.0 releases 20260320 through 20260501 contains an authentication bypass vulnerability that allows unauthenticated remote attackers to gain unauthorized access to database backup and restore functionality by exploiting a shared cryptographic key between UCenter integration and the database backup API exposed by dbbak.php. Attackers can inject a crafted payload through the username parameter during login to abuse the encryption oracle in logging_ctl::logging_more(), obtain a legitimately signed token, and use it to bypass authorization for database export and import operations, with the additional ability to trigger a race condition to impersonate arbitrary users.
 

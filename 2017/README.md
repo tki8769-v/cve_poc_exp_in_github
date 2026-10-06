@@ -2953,6 +2953,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 
 - [https://github.com/olivierh59500/CVE-2017-3730](https://github.com/olivierh59500/CVE-2017-3730) : ![starts](https://img.shields.io/github/stars/olivierh59500/CVE-2017-3730.svg) ![forks](https://img.shields.io/github/forks/olivierh59500/CVE-2017-3730.svg)
 
+- [https://github.com/HavocParasite/CVE-2017-3730](https://github.com/HavocParasite/CVE-2017-3730) : ![starts](https://img.shields.io/github/stars/HavocParasite/CVE-2017-3730.svg) ![forks](https://img.shields.io/github/forks/HavocParasite/CVE-2017-3730.svg)
+
 ## CVE-2017-3599
  Vulnerability in the MySQL Server component of Oracle MySQL (subcomponent: Server: Pluggable Auth). Supported versions that are affected are 5.6.35 and earlier and 5.7.17 and earlier. Easily "exploitable" vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise MySQL Server. Successful attacks of this vulnerability can result in unauthorized ability to cause a hang or frequently repeatable crash (complete DOS) of MySQL Server. CVSS 3.0 Base Score 7.5 (Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H). NOTE: the previous information is from the April 2017 CPU. Oracle has not commented on third-party claims that this issue is an integer overflow in sql/auth/sql_authentication.cc which allows remote attackers to cause a denial of service via a crafted authentication packet.
 

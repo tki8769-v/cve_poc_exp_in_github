@@ -1485,3 +1485,6 @@
 {"cve_id": "CVE-2026-105221", "ts": "2026-10-06T01:48:53Z", "type": "new_poc", "url": "https://github.com/abraxas/cve-2026-105221-gist-tls"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-10-06T01:48:54Z", "type": "new_poc", "url": "https://github.com/Nixbones/ghostlock-rmx5085"}
 {"cve_id": "CVE-2026-0603", "ts": "2026-10-06T01:49:03Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-0603"}
+{"cve_id": "CVE-2025-5781", "ts": "2026-10-06T02:14:23Z", "type": "new_poc", "url": "https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX"}
+{"cve_id": "CVE-2017-3730", "ts": "2026-10-06T02:17:20Z", "type": "new_poc", "url": "https://github.com/HavocParasite/CVE-2017-3730"}
+{"cve_id": "CVE-2026-49975", "ts": "2026-10-06T02:18:27Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-49975"}
