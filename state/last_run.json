@@ -14,22 +14,26 @@
       "stop_reason": null
     },
     "clean_apply": {
-      "affected_years": [],
-      "applied_at": "2026-10-05T18:59:38Z",
+      "affected_years": [
+        "2025",
+        "2026"
+      ],
+      "applied_at": "2026-10-06T01:59:02Z",
       "applied_rejected": 0,
-      "revoked_accepted": 0,
+      "revoked_accepted": 2,
       "revoked_rejected": 0,
       "rule_version": "2",
       "still_pending_meta": 0
     },
     "queue": {
       "due_by_priority": {
-        "5": 8013,
-        "8": 8571
+        "0": 419,
+        "5": 8026,
+        "8": 8739
       },
-      "due_now": 16584,
+      "due_now": 17184,
       "oldest_due": "2026-09-25T01:06:08Z",
-      "tasks_total": 21809
+      "tasks_total": 22017
     },
     "recheck": {
       "conflict_evidenced": 168,
@@ -46,25 +50,25 @@
       "blocked": 0,
       "complete": true,
       "cursor_advanced": true,
-      "cves_hit": 23,
+      "cves_hit": 28,
       "invalid_ids": 0,
       "needs_review": 2,
-      "new_relations": 1,
+      "new_relations": 6,
       "partial_days_dropped": 0,
       "partial_days_pending": 0,
       "rejected_at_collection": 0,
-      "repos_seen": 74,
+      "repos_seen": 89,
       "warning": null,
-      "window": "2026-10-05..2026-10-05"
+      "window": "2026-10-05..2026-10-06"
     },
     "scan": {
       "blocked": 0,
       "budget_stopped": true,
       "incomplete": 0,
       "invalid_id_skipped": 0,
-      "needs_review": 60,
+      "needs_review": 0,
       "new_relations": 1,
-      "rejected_at_collection": 7,
+      "rejected_at_collection": 0,
       "scanned": 300,
       "task_errors": 0,
       "tasks_due": 10000
@@ -72,12 +76,12 @@
     "sync": {
       "budget_stopped": false,
       "continuity_warning": false,
-      "cves_seen": 0,
+      "cves_seen": 718,
       "floor_tag": "cve_2026-09-24_0700Z",
-      "last_tag": "cve_2026-10-05_1800Z",
-      "new_tasks": 0,
+      "last_tag": "cve_2026-10-06_0100Z",
+      "new_tasks": 207,
       "rejected": 0,
-      "releases_processed": 0,
+      "releases_processed": 7,
       "releases_seen": 30
     },
     "verify": {
@@ -87,5 +91,5 @@
       "problems": []
     }
   },
-  "ts": "2026-10-05T18:59:40Z"
+  "ts": "2026-10-06T01:59:03Z"
 }

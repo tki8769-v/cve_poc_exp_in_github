@@ -4,6 +4,11 @@
 
 - [https://github.com/kashishtopi/CVE-2026-105314](https://github.com/kashishtopi/CVE-2026-105314) : ![starts](https://img.shields.io/github/stars/kashishtopi/CVE-2026-105314.svg) ![forks](https://img.shields.io/github/forks/kashishtopi/CVE-2026-105314.svg)
 
+## CVE-2026-105221
+> The gist RubyGem before 6.1.0 contains an improper certificate validation vulnerability that allows on-path attackers to intercept HTTPS traffic because http_connection in lib/gist.rb sets VERIFY_NONE. Attackers can present any certificate to read or modify GitHub API traffic, stealing OAuth tokens and login credentials to read and modify the victim&#x27;s gists.
+
+- [https://github.com/abraxas/cve-2026-105221-gist-tls](https://github.com/abraxas/cve-2026-105221-gist-tls) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-105221-gist-tls.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-105221-gist-tls.svg)
+
 ## CVE-2026-105134
 > A flaw has been found in Ahsay AhsayCBS up to 10.3.2. This vulnerability affects unknown code of the file /rps/api/json/UpdateReceivers.do of the component Replication Receiver. Executing a manipulation of the argument random can lead to os command injection. It is possible to launch the attack remotely. The exploit has been published and may be used. Upgrading to version 10.3.4 is able to resolve this issue. Upgrading the affected component is advised.
 
@@ -286,6 +291,10 @@ This issue affects Mediawiki - Wikibase Extension: from * before 1.46.1, 1.45.5,
 > Joomla Extension - lomart.fr - Authenticated, privileged PHP command injection in UP plugin extension 5.0.0-5.2.0, 6.0.0-6.0.29
 
 - [https://github.com/murrez/CVE-2026-97160](https://github.com/murrez/CVE-2026-97160) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-97160.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-97160.svg)
+
+## CVE-2026-96940
+
+- [https://github.com/HORKimhab/CVE-2026-96940](https://github.com/HORKimhab/CVE-2026-96940) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-96940.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-96940.svg)
 
 ## CVE-2026-96889
 > A flaw was found in librsvg. When processing an SVG document containing nested XML inclusions (Xincludes) with duplicate entity declarations, a use-after-free error can occur. This vulnerability arises because the library incorrectly frees an XML entity that is still in use by the parser. An attacker could potentially exploit this to cause a denial of service or execute arbitrary code.
@@ -8535,6 +8544,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/maulanasdqn/ghostlock-honor-brpnx1](https://github.com/maulanasdqn/ghostlock-honor-brpnx1) : ![starts](https://img.shields.io/github/stars/maulanasdqn/ghostlock-honor-brpnx1.svg) ![forks](https://img.shields.io/github/forks/maulanasdqn/ghostlock-honor-brpnx1.svg)
 
+- [https://github.com/Nixbones/ghostlock-rmx5085](https://github.com/Nixbones/ghostlock-rmx5085) : ![starts](https://img.shields.io/github/stars/Nixbones/ghostlock-rmx5085.svg) ![forks](https://img.shields.io/github/forks/Nixbones/ghostlock-rmx5085.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -16186,6 +16197,10 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 
 - [https://github.com/kaleth4/CVE-2026-21250](https://github.com/kaleth4/CVE-2026-21250) : ![starts](https://img.shields.io/github/stars/kaleth4/CVE-2026-21250.svg) ![forks](https://img.shields.io/github/forks/kaleth4/CVE-2026-21250.svg)
 
+## CVE-2026-21096
+
+- [https://github.com/Xen0nize/CVE-2026-21096](https://github.com/Xen0nize/CVE-2026-21096) : ![starts](https://img.shields.io/github/stars/Xen0nize/CVE-2026-21096.svg) ![forks](https://img.shields.io/github/forks/Xen0nize/CVE-2026-21096.svg)
+
 ## CVE-2026-21055
  Improper export of android application components in Bixby prior to version 4.0.70.8 allows local attackers to execute arbitrary commands with Bixby privilege.
 
@@ -21066,6 +21081,8 @@ Successful exploitation may allow authenticated attackers to get disclosure of s
  A flaw was found in Hibernate. A remote attacker with low privileges could exploit a second-order SQL injection vulnerability by providing specially crafted, unsanitized non-alphanumeric characters in the ID column when the InlineIdsOrClauseBuilder is used. This could lead to sensitive information disclosure, such as reading system files, and allow for data manipulation or deletion within the application's database, resulting in an application level denial of service.
 
 - [https://github.com/EQSTLab/CVE-2026-0603](https://github.com/EQSTLab/CVE-2026-0603) : ![starts](https://img.shields.io/github/stars/EQSTLab/CVE-2026-0603.svg) ![forks](https://img.shields.io/github/forks/EQSTLab/CVE-2026-0603.svg)
+
+- [https://github.com/yym8538/CVE-2026-0603](https://github.com/yym8538/CVE-2026-0603) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-0603.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-0603.svg)
 
 ## CVE-2026-0596
  A command injection vulnerability exists in mlflow/mlflow when serving a model with `enable_mlserver=True`. The `model_uri` is embedded directly into a shell command executed via `bash -c` without proper sanitization. If the `model_uri` contains shell metacharacters, such as `$()` or backticks, it allows for command substitution and execution of attacker-controlled commands. This vulnerability affects the latest version of mlflow/mlflow and can lead to privilege escalation if a higher-privileged service serves models from a directory writable by lower-privileged users.
@@ -32086,6 +32103,8 @@ If the Firebox was previously configured with the mobile user VPN with IKEv2 or 
 
 - [https://github.com/PeterLinccl/Vulnerability-DLink-CVE-2025-14659](https://github.com/PeterLinccl/Vulnerability-DLink-CVE-2025-14659) : ![starts](https://img.shields.io/github/stars/PeterLinccl/Vulnerability-DLink-CVE-2025-14659.svg) ![forks](https://img.shields.io/github/forks/PeterLinccl/Vulnerability-DLink-CVE-2025-14659.svg)
 
+- [https://github.com/PeterLinccl/CVE-2025-14659-DIR-860L](https://github.com/PeterLinccl/CVE-2025-14659-DIR-860L) : ![starts](https://img.shields.io/github/stars/PeterLinccl/CVE-2025-14659-DIR-860L.svg) ![forks](https://img.shields.io/github/forks/PeterLinccl/CVE-2025-14659-DIR-860L.svg)
+
 ## CVE-2025-14611
  Gladinet CentreStack and Triofox prior to version 16.12.10420.56791 used hardcoded values for their implementation of the AES cryptoscheme. This degrades security for public exposed endpoints that may make use of it and may offer arbitrary local file inclusion when provided a specially crafted request without authentication. This opens the door for future exploitation and can be leveraged with previous vulnerabilities to gain a full system compromise.
 
@@ -35668,6 +35687,8 @@ This is caused by an incomplete fix for [CVE-2024-21534](https://security.snyk.i
 Bypass operating system verification via exploiting the NV_Read functionality during the Challenge-Response process.
 
 - [https://github.com/FWNavy/RMASmoke](https://github.com/FWNavy/RMASmoke) : ![starts](https://img.shields.io/github/stars/FWNavy/RMASmoke.svg) ![forks](https://img.shields.io/github/forks/FWNavy/RMASmoke.svg)
+
+- [https://github.com/MCRideable3963/RMASmoke-v2](https://github.com/MCRideable3963/RMASmoke-v2) : ![starts](https://img.shields.io/github/stars/MCRideable3963/RMASmoke-v2.svg) ![forks](https://img.shields.io/github/forks/MCRideable3963/RMASmoke-v2.svg)
 
 ## CVE-2025-1098
  A security issue was discovered in  ingress-nginx https://github.com/kubernetes/ingress-nginx  where the `mirror-target` and `mirror-host` Ingress annotations can be used to inject arbitrary configuration into nginx. This can lead to arbitrary code execution in the context of the ingress-nginx controller, and disclosure of Secrets accessible to the controller. (Note that in the default installation, the controller can access all Secrets cluster-wide.)

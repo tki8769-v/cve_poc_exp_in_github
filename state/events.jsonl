@@ -1478,3 +1478,10 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-10-05T18:28:59Z", "type": "new_poc", "url": "https://github.com/maulanasdqn/ghostlock-honor-brpnx1"}
 {"cve_id": "CVE-2026-16444", "ts": "2026-10-05T18:49:36Z", "type": "new_poc", "url": "https://github.com/jamir0quai/CVE-2026-16444"}
 {"cve_id": "CVE-2025-32433", "ts": "2026-10-05T18:56:27Z", "type": "new_poc", "url": "https://github.com/giriaryan694-a11y/cve-2025-32433_rce_exploit"}
+{"cve_id": "CVE-2026-21096", "ts": "2026-10-06T01:48:52Z", "type": "new_poc", "url": "https://github.com/Xen0nize/CVE-2026-21096"}
+{"cve_id": "CVE-2025-14659", "ts": "2026-10-06T01:48:53Z", "type": "new_poc", "url": "https://github.com/PeterLinccl/CVE-2025-14659-DIR-860L"}
+{"cve_id": "CVE-2025-1122", "ts": "2026-10-06T01:48:53Z", "type": "new_poc", "url": "https://github.com/MCRideable3963/RMASmoke-v2"}
+{"cve_id": "CVE-2026-96940", "ts": "2026-10-06T01:48:53Z", "type": "new_poc", "url": "https://github.com/HORKimhab/CVE-2026-96940"}
+{"cve_id": "CVE-2026-105221", "ts": "2026-10-06T01:48:53Z", "type": "new_poc", "url": "https://github.com/abraxas/cve-2026-105221-gist-tls"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-06T01:48:54Z", "type": "new_poc", "url": "https://github.com/Nixbones/ghostlock-rmx5085"}
+{"cve_id": "CVE-2026-0603", "ts": "2026-10-06T01:49:03Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-0603"}

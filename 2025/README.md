@@ -10765,6 +10765,8 @@ If the Firebox was previously configured with the mobile user VPN with IKEv2 or 
 
 - [https://github.com/PeterLinccl/Vulnerability-DLink-CVE-2025-14659](https://github.com/PeterLinccl/Vulnerability-DLink-CVE-2025-14659) : ![starts](https://img.shields.io/github/stars/PeterLinccl/Vulnerability-DLink-CVE-2025-14659.svg) ![forks](https://img.shields.io/github/forks/PeterLinccl/Vulnerability-DLink-CVE-2025-14659.svg)
 
+- [https://github.com/PeterLinccl/CVE-2025-14659-DIR-860L](https://github.com/PeterLinccl/CVE-2025-14659-DIR-860L) : ![starts](https://img.shields.io/github/stars/PeterLinccl/CVE-2025-14659-DIR-860L.svg) ![forks](https://img.shields.io/github/forks/PeterLinccl/CVE-2025-14659-DIR-860L.svg)
+
 ## CVE-2025-14611
  Gladinet CentreStack and Triofox prior to version 16.12.10420.56791 used hardcoded values for their implementation of the AES cryptoscheme. This degrades security for public exposed endpoints that may make use of it and may offer arbitrary local file inclusion when provided a specially crafted request without authentication. This opens the door for future exploitation and can be leveraged with previous vulnerabilities to gain a full system compromise.
 
@@ -14347,6 +14349,8 @@ This is caused by an incomplete fix for [CVE-2024-21534](https://security.snyk.i
 Bypass operating system verification via exploiting the NV_Read functionality during the Challenge-Response process.
 
 - [https://github.com/FWNavy/RMASmoke](https://github.com/FWNavy/RMASmoke) : ![starts](https://img.shields.io/github/stars/FWNavy/RMASmoke.svg) ![forks](https://img.shields.io/github/forks/FWNavy/RMASmoke.svg)
+
+- [https://github.com/MCRideable3963/RMASmoke-v2](https://github.com/MCRideable3963/RMASmoke-v2) : ![starts](https://img.shields.io/github/stars/MCRideable3963/RMASmoke-v2.svg) ![forks](https://img.shields.io/github/forks/MCRideable3963/RMASmoke-v2.svg)
 
 ## CVE-2025-1098
  A security issue was discovered in  ingress-nginx https://github.com/kubernetes/ingress-nginx  where the `mirror-target` and `mirror-host` Ingress annotations can be used to inject arbitrary configuration into nginx. This can lead to arbitrary code execution in the context of the ingress-nginx controller, and disclosure of Secrets accessible to the controller. (Note that in the default installation, the controller can access all Secrets cluster-wide.)
