@@ -1501,3 +1501,7 @@
 {"cve_id": "CVE-2026-15911", "ts": "2026-10-06T12:07:41Z", "type": "new_poc", "url": "https://github.com/rahulreddykarne/CVE-2026-15911-Confluent_Kafka"}
 {"cve_id": "CVE-2025-6867", "ts": "2026-10-06T12:14:50Z", "type": "new_poc", "url": "https://github.com/richard1026/CVE-2025-6867-reproduction"}
 {"cve_id": "CVE-2007-2447", "ts": "2026-10-06T12:14:50Z", "type": "new_poc", "url": "https://github.com/malredfan/gggggggggggggggggg"}
+{"cve_id": "CVE-2026-33634", "ts": "2026-10-06T12:25:57Z", "type": "new_poc", "url": "https://github.com/joaovicdev/EXPLOIT-CVE-2026-33634"}
+{"cve_id": "CVE-2014-8729", "ts": "2026-10-06T12:27:56Z", "type": "new_poc", "url": "https://github.com/inso1337/TORQUE-Resource-Manager-2.5.x-2.5.13-stack-based-buffer-overflow-exploit-CVE-2014-8729-CVE-2014-878"}
+{"cve_id": "CVE-2026-21858", "ts": "2026-10-06T12:29:15Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-21858"}
+{"cve_id": "CVE-2026-40897", "ts": "2026-10-06T12:33:06Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-40897"}

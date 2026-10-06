@@ -6,6 +6,10 @@
 - [https://github.com/malredfan/vvvvvvvv2](https://github.com/malredfan/vvvvvvvv2) : ![starts](https://img.shields.io/github/stars/malredfan/vvvvvvvv2.svg) ![forks](https://img.shields.io/github/forks/malredfan/vvvvvvvv2.svg)
 - [https://github.com/malredfan/xxxxxxxxxxxxxxxx](https://github.com/malredfan/xxxxxxxxxxxxxxxx) : ![starts](https://img.shields.io/github/stars/malredfan/xxxxxxxxxxxxxxxx.svg) ![forks](https://img.shields.io/github/forks/malredfan/xxxxxxxxxxxxxxxx.svg)
 
+## CVE-2014-8729
+
+- [https://github.com/inso1337/TORQUE-Resource-Manager-2.5.x-2.5.13-stack-based-buffer-overflow-exploit-CVE-2014-8729-CVE-2014-878](https://github.com/inso1337/TORQUE-Resource-Manager-2.5.x-2.5.13-stack-based-buffer-overflow-exploit-CVE-2014-8729-CVE-2014-878) : ![starts](https://img.shields.io/github/stars/inso1337/TORQUE-Resource-Manager-2.5.x-2.5.13-stack-based-buffer-overflow-exploit-CVE-2014-8729-CVE-2014-878.svg) ![forks](https://img.shields.io/github/forks/inso1337/TORQUE-Resource-Manager-2.5.x-2.5.13-stack-based-buffer-overflow-exploit-CVE-2014-8729-CVE-2014-878.svg)
+
 ## CVE-2017-3730
 
 - [https://github.com/HavocParasite/CVE-2017-3730](https://github.com/HavocParasite/CVE-2017-3730) : ![starts](https://img.shields.io/github/stars/HavocParasite/CVE-2017-3730.svg) ![forks](https://img.shields.io/github/forks/HavocParasite/CVE-2017-3730.svg)
@@ -65,6 +69,18 @@
 ## CVE-2026-21096
 
 - [https://github.com/Xen0nize/CVE-2026-21096](https://github.com/Xen0nize/CVE-2026-21096) : ![starts](https://img.shields.io/github/stars/Xen0nize/CVE-2026-21096.svg) ![forks](https://img.shields.io/github/forks/Xen0nize/CVE-2026-21096.svg)
+
+## CVE-2026-21858
+
+- [https://github.com/yym8538/CVE-2026-21858](https://github.com/yym8538/CVE-2026-21858) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-21858.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-21858.svg)
+
+## CVE-2026-33634
+
+- [https://github.com/joaovicdev/EXPLOIT-CVE-2026-33634](https://github.com/joaovicdev/EXPLOIT-CVE-2026-33634) : ![starts](https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-33634.svg) ![forks](https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-33634.svg)
+
+## CVE-2026-40897
+
+- [https://github.com/yym8538/CVE-2026-40897](https://github.com/yym8538/CVE-2026-40897) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-40897.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-40897.svg)
 
 ## CVE-2026-43499
 
