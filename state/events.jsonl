@@ -1488,3 +1488,14 @@
 {"cve_id": "CVE-2025-5781", "ts": "2026-10-06T02:14:23Z", "type": "new_poc", "url": "https://github.com/iamrajkumar1995/cve-2025-5781_FreePBX"}
 {"cve_id": "CVE-2017-3730", "ts": "2026-10-06T02:17:20Z", "type": "new_poc", "url": "https://github.com/HavocParasite/CVE-2017-3730"}
 {"cve_id": "CVE-2026-49975", "ts": "2026-10-06T02:18:27Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-49975"}
+{"cve_id": "CVE-2026-8206", "ts": "2026-10-06T12:04:33Z", "type": "new_poc", "url": "https://github.com/Sanjith1236/CVE-2026-8206-Kirki-Exploit-Analysis"}
+{"cve_id": "CVE-2026-10196", "ts": "2026-10-06T12:04:33Z", "type": "new_poc", "url": "https://github.com/0xCyp1337/CVE-2026-10196"}
+{"cve_id": "CVE-2026-105080", "ts": "2026-10-06T12:04:33Z", "type": "new_poc", "url": "https://github.com/beyavuz/cve-2026-105080-poc"}
+{"cve_id": "CVE-2025-55182", "ts": "2026-10-06T12:04:33Z", "type": "new_poc", "url": "https://github.com/OhSoomin812/cve-2025-55182-ctf"}
+{"cve_id": "CVE-2026-104905", "ts": "2026-10-06T12:04:33Z", "type": "new_poc", "url": "https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection"}
+{"cve_id": "CVE-2007-2447", "ts": "2026-10-06T12:04:33Z", "type": "new_poc", "url": "https://github.com/malredfan/metasploitable2-pentest"}
+{"cve_id": "CVE-2007-2447", "ts": "2026-10-06T12:04:33Z", "type": "new_poc", "url": "https://github.com/malredfan/vvvvvvvv2"}
+{"cve_id": "CVE-2007-2447", "ts": "2026-10-06T12:04:33Z", "type": "new_poc", "url": "https://github.com/malredfan/xxxxxxxxxxxxxxxx"}
+{"cve_id": "CVE-2017-5638", "ts": "2026-10-06T12:04:34Z", "type": "new_poc", "url": "https://github.com/Piyush-Tiwatne/struts-patch-gap-auditor"}
+{"cve_id": "CVE-2026-74727", "ts": "2026-10-06T12:04:34Z", "type": "new_poc", "url": "https://github.com/Kosifuchs/ovpn-kernel-backport"}
+{"cve_id": "CVE-2026-15911", "ts": "2026-10-06T12:07:41Z", "type": "new_poc", "url": "https://github.com/rahulreddykarne/CVE-2026-15911-Confluent_Kafka"}

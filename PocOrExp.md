@@ -14,6 +14,10 @@
 
 - [https://github.com/RayanAlmulhim/CVE-2026-105134-lab](https://github.com/RayanAlmulhim/CVE-2026-105134-lab) : ![starts](https://img.shields.io/github/stars/RayanAlmulhim/CVE-2026-105134-lab.svg) ![forks](https://img.shields.io/github/forks/RayanAlmulhim/CVE-2026-105134-lab.svg)
 
+## CVE-2026-105080
+
+- [https://github.com/beyavuz/cve-2026-105080-poc](https://github.com/beyavuz/cve-2026-105080-poc) : ![starts](https://img.shields.io/github/stars/beyavuz/cve-2026-105080-poc.svg) ![forks](https://img.shields.io/github/forks/beyavuz/cve-2026-105080-poc.svg)
+
 ## CVE-2026-105030
 > Kener 4.0.0 before 4.1.6 contains an information disclosure vulnerability that allows unauthenticated attackers to retrieve hidden or inactive monitor data by querying dashboard API handlers lacking visibility filters. Attackers can supply a known or guessed monitor tag to endpoints such as monitor-bar and monitor-latency-chart to obtain names, descriptions, status, uptime history and latency.
 
@@ -23,6 +27,11 @@
 > Phproject before 1.8.7 contains a missing object-level authorization vulnerability in the REST API issue endpoints (single_get, single_comments, single_comments_post) that allows authenticated API key holders to bypass the security.restrict_access confidentiality control by never invoking the allowAccess() authorization routine. Attackers can use a valid API key to read restricted issue contents and comments, including owner and author email addresses, and post unauthorized comments to issues th
 
 - [https://github.com/wvllxe/CVE-2026-104991](https://github.com/wvllxe/CVE-2026-104991) : ![starts](https://img.shields.io/github/stars/wvllxe/CVE-2026-104991.svg) ![forks](https://img.shields.io/github/forks/wvllxe/CVE-2026-104991.svg)
+
+## CVE-2026-104905
+> FacturaScripts before version 2026.7 contains a PHP object injection vulnerability in WidgetSelect::processFormData() that allows authenticated attackers to trigger unserialize() on raw POST data without an allowed_classes filter for multiple-select fields. Attackers can submit a serialized XLSXWriter object as the field value to invoke its __destruct() method, deleting arbitrary attacker-specified files such as config.php or backup data, resulting in denial of service and potential application 
+
+- [https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection](https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection) : ![starts](https://img.shields.io/github/stars/wvllxe/CVE-2026-104905-facturascripts-object-injection.svg) ![forks](https://img.shields.io/github/forks/wvllxe/CVE-2026-104905-facturascripts-object-injection.svg)
 
 ## CVE-2026-104826
 
@@ -1911,6 +1920,10 @@ Successful exploitation may allow arbitrary command execution with elevated priv
  Use-after-free in the JavaScript: WebAssembly component. This vulnerability was fixed in Firefox 154, Firefox ESR 140.14, Firefox ESR 153.1, Thunderbird 154, Thunderbird 140.14, and Thunderbird 153.1.
 
 - [https://github.com/SneakyNachos/CVE-2026-74936-gc-potato](https://github.com/SneakyNachos/CVE-2026-74936-gc-potato) : ![starts](https://img.shields.io/github/stars/SneakyNachos/CVE-2026-74936-gc-potato.svg) ![forks](https://img.shields.io/github/forks/SneakyNachos/CVE-2026-74936-gc-potato.svg)
+
+## CVE-2026-74727
+
+- [https://github.com/Kosifuchs/ovpn-kernel-backport](https://github.com/Kosifuchs/ovpn-kernel-backport) : ![starts](https://img.shields.io/github/stars/Kosifuchs/ovpn-kernel-backport.svg) ![forks](https://img.shields.io/github/forks/Kosifuchs/ovpn-kernel-backport.svg)
 
 ## CVE-2026-74586
  In the Linux kernel, the following vulnerability has been resolved:
@@ -17263,6 +17276,11 @@ Successful exploitation may enable persistent backdoors, credential theft, LAN r
 
 - [https://github.com/Instructor-Admin/CVE-2026-15964-PoC](https://github.com/Instructor-Admin/CVE-2026-15964-PoC) : ![starts](https://img.shields.io/github/stars/Instructor-Admin/CVE-2026-15964-PoC.svg) ![forks](https://img.shields.io/github/forks/Instructor-Admin/CVE-2026-15964-PoC.svg)
 
+## CVE-2026-15911
+> Confluent Kafka Python client&#x27;s HashiCorp Vault KMS integration could allow a remote attacker to obtain sensitive information due to improper TLS certificate validation.
+
+- [https://github.com/rahulreddykarne/CVE-2026-15911-Confluent_Kafka](https://github.com/rahulreddykarne/CVE-2026-15911-Confluent_Kafka) : ![starts](https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-15911-Confluent_Kafka.svg) ![forks](https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-15911-Confluent_Kafka.svg)
+
 ## CVE-2026-15826
  The User Profile Builder plugin for WordPress is vulnerable to Authentication Bypass via Type Confusion in versions up to, and including, 3.16.4. This is due to the wppb_log_in_user() function calling absint() on the return value of wp_insert_user() before performing an is_wp_error() check — when a registration is submitted with a 61–70 character username, WordPress core rejects it with a WP_Error object, but absint() coerces that object to the integer 1 before the error check can short-circuit execution, causing the plugin to bind and return a transient-backed autologin nonce tied to user ID 1. This makes it possible for unauthenticated attackers to log in as the site's Administrator account (user ID 1), resulting in full administrative takeover of the site.
 
@@ -18212,6 +18230,10 @@ A successful match grants role=2 (admin-level access) and creates a valid sessio
 
 - [https://github.com/Xmyronn/CVE-2026-10243-AUTH](https://github.com/Xmyronn/CVE-2026-10243-AUTH) : ![starts](https://img.shields.io/github/stars/Xmyronn/CVE-2026-10243-AUTH.svg) ![forks](https://img.shields.io/github/forks/Xmyronn/CVE-2026-10243-AUTH.svg)
 
+## CVE-2026-10196
+
+- [https://github.com/0xCyp1337/CVE-2026-10196](https://github.com/0xCyp1337/CVE-2026-10196) : ![starts](https://img.shields.io/github/stars/0xCyp1337/CVE-2026-10196.svg) ![forks](https://img.shields.io/github/forks/0xCyp1337/CVE-2026-10196.svg)
+
 ## CVE-2026-10187
  A vulnerability was detected in Totolink N300RH 6.1c.1353_B20190305. Affected by this issue is the function setWiFiBasicConfig of the file wireless.so of the component Web Management Interface. Performing a manipulation of the argument KeyStr results in stack-based buffer overflow. The attack is possible to be carried out remotely. The exploit is now public and may be used.
 
@@ -18711,6 +18733,8 @@ This issue affects FFmpeg before version 8.1.2.
 - [https://github.com/rootdirective-sec/CVE-2026-8206-Lab](https://github.com/rootdirective-sec/CVE-2026-8206-Lab) : ![starts](https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-8206-Lab.svg) ![forks](https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-8206-Lab.svg)
 
 - [https://github.com/izxci/CVE-2026-8206](https://github.com/izxci/CVE-2026-8206) : ![starts](https://img.shields.io/github/stars/izxci/CVE-2026-8206.svg) ![forks](https://img.shields.io/github/forks/izxci/CVE-2026-8206.svg)
+
+- [https://github.com/Sanjith1236/CVE-2026-8206-Kirki-Exploit-Analysis](https://github.com/Sanjith1236/CVE-2026-8206-Kirki-Exploit-Analysis) : ![starts](https://img.shields.io/github/stars/Sanjith1236/CVE-2026-8206-Kirki-Exploit-Analysis.svg) ![forks](https://img.shields.io/github/forks/Sanjith1236/CVE-2026-8206-Kirki-Exploit-Analysis.svg)
 
 ## CVE-2026-8196
  A flaw has been found in JeecgBoot 3.9.1. The impacted element is an unknown function of the file jeecg-module-system/jeecg-system-biz/src/main/java/org/jeecg/modules/system/controller/LoginController.java of the component mLogin Endpoint. This manipulation causes authorization bypass. The attack is possible to be carried out remotely. The attack is considered to have high complexity. The exploitability is regarded as difficult. The exploit has been published and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -25065,6 +25089,8 @@ Adopt appropriate SMB Server hardening measures.
 - [https://github.com/chrahman/react2shell-CVE-2025-55182-full-rce-script](https://github.com/chrahman/react2shell-CVE-2025-55182-full-rce-script) : ![starts](https://img.shields.io/github/stars/chrahman/react2shell-CVE-2025-55182-full-rce-script.svg) ![forks](https://img.shields.io/github/forks/chrahman/react2shell-CVE-2025-55182-full-rce-script.svg)
 
 - [https://github.com/RashmithaDeSilva/React2Shell_CVE-2025-55182](https://github.com/RashmithaDeSilva/React2Shell_CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/RashmithaDeSilva/React2Shell_CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/RashmithaDeSilva/React2Shell_CVE-2025-55182.svg)
+
+- [https://github.com/OhSoomin812/cve-2025-55182-ctf](https://github.com/OhSoomin812/cve-2025-55182-ctf) : ![starts](https://img.shields.io/github/stars/OhSoomin812/cve-2025-55182-ctf.svg) ![forks](https://img.shields.io/github/forks/OhSoomin812/cve-2025-55182-ctf.svg)
 
 ## CVE-2025-55177
  Incomplete authorization of linked device synchronization messages in WhatsApp for iOS prior to v2.25.21.73, WhatsApp Business for iOS v2.25.21.78, and WhatsApp for Mac v2.25.21.78 could have allowed an unrelated user to trigger processing of content from an arbitrary URL on a target’s device. We assess that this vulnerability, in combination with an OS-level vulnerability on Apple platforms (CVE-2025-43300), may have been exploited in a sophisticated attack against specific targeted users.
@@ -95479,6 +95505,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 
 - [https://github.com/andrewkroh/auditbeat-apache-struts-demo](https://github.com/andrewkroh/auditbeat-apache-struts-demo) : ![starts](https://img.shields.io/github/stars/andrewkroh/auditbeat-apache-struts-demo.svg) ![forks](https://img.shields.io/github/forks/andrewkroh/auditbeat-apache-struts-demo.svg)
 
+- [https://github.com/Piyush-Tiwatne/struts-patch-gap-auditor](https://github.com/Piyush-Tiwatne/struts-patch-gap-auditor) : ![starts](https://img.shields.io/github/stars/Piyush-Tiwatne/struts-patch-gap-auditor.svg) ![forks](https://img.shields.io/github/forks/Piyush-Tiwatne/struts-patch-gap-auditor.svg)
+
 ## CVE-2017-5633
  Multiple cross-site request forgery (CSRF) vulnerabilities on the D-Link DI-524 Wireless Router with firmware 9.01 allow remote attackers to (1) change the admin password, (2) reboot the device, or (3) possibly have unspecified other impact via crafted requests to CGI programs.
 
@@ -101770,6 +101798,12 @@ Exploitation of this vulnerability requires that a user or application run or in
 - [https://github.com/vig9610/Exploiting-Samba-on-Metasploitable-2](https://github.com/vig9610/Exploiting-Samba-on-Metasploitable-2) : ![starts](https://img.shields.io/github/stars/vig9610/Exploiting-Samba-on-Metasploitable-2.svg) ![forks](https://img.shields.io/github/forks/vig9610/Exploiting-Samba-on-Metasploitable-2.svg)
 
 - [https://github.com/rushikesh-a-bhujbal/CVE-2007-2447](https://github.com/rushikesh-a-bhujbal/CVE-2007-2447) : ![starts](https://img.shields.io/github/stars/rushikesh-a-bhujbal/CVE-2007-2447.svg) ![forks](https://img.shields.io/github/forks/rushikesh-a-bhujbal/CVE-2007-2447.svg)
+
+- [https://github.com/malredfan/metasploitable2-pentest](https://github.com/malredfan/metasploitable2-pentest) : ![starts](https://img.shields.io/github/stars/malredfan/metasploitable2-pentest.svg) ![forks](https://img.shields.io/github/forks/malredfan/metasploitable2-pentest.svg)
+
+- [https://github.com/malredfan/vvvvvvvv2](https://github.com/malredfan/vvvvvvvv2) : ![starts](https://img.shields.io/github/stars/malredfan/vvvvvvvv2.svg) ![forks](https://img.shields.io/github/forks/malredfan/vvvvvvvv2.svg)
+
+- [https://github.com/malredfan/xxxxxxxxxxxxxxxx](https://github.com/malredfan/xxxxxxxxxxxxxxxx) : ![starts](https://img.shields.io/github/stars/malredfan/xxxxxxxxxxxxxxxx.svg) ![forks](https://img.shields.io/github/forks/malredfan/xxxxxxxxxxxxxxxx.svg)
 
 ## CVE-2007-1858
  The default SSL cipher configuration in Apache Tomcat 4.1.28 through 4.1.31, 5.0.0 through 5.0.30, and 5.5.0 through 5.5.17 uses certain insecure ciphers, including the anonymous cipher, which allows remote attackers to obtain sensitive information or have other, unspecified impacts.

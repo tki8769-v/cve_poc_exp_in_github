@@ -162,6 +162,12 @@
 
 - [https://github.com/rushikesh-a-bhujbal/CVE-2007-2447](https://github.com/rushikesh-a-bhujbal/CVE-2007-2447) : ![starts](https://img.shields.io/github/stars/rushikesh-a-bhujbal/CVE-2007-2447.svg) ![forks](https://img.shields.io/github/forks/rushikesh-a-bhujbal/CVE-2007-2447.svg)
 
+- [https://github.com/malredfan/metasploitable2-pentest](https://github.com/malredfan/metasploitable2-pentest) : ![starts](https://img.shields.io/github/stars/malredfan/metasploitable2-pentest.svg) ![forks](https://img.shields.io/github/forks/malredfan/metasploitable2-pentest.svg)
+
+- [https://github.com/malredfan/vvvvvvvv2](https://github.com/malredfan/vvvvvvvv2) : ![starts](https://img.shields.io/github/stars/malredfan/vvvvvvvv2.svg) ![forks](https://img.shields.io/github/forks/malredfan/vvvvvvvv2.svg)
+
+- [https://github.com/malredfan/xxxxxxxxxxxxxxxx](https://github.com/malredfan/xxxxxxxxxxxxxxxx) : ![starts](https://img.shields.io/github/stars/malredfan/xxxxxxxxxxxxxxxx.svg) ![forks](https://img.shields.io/github/forks/malredfan/xxxxxxxxxxxxxxxx.svg)
+
 ## CVE-2007-1858
  The default SSL cipher configuration in Apache Tomcat 4.1.28 through 4.1.31, 5.0.0 through 5.0.30, and 5.5.0 through 5.5.17 uses certain insecure ciphers, including the anonymous cipher, which allows remote attackers to obtain sensitive information or have other, unspecified impacts.
 

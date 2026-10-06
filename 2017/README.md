@@ -2839,6 +2839,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 
 - [https://github.com/andrewkroh/auditbeat-apache-struts-demo](https://github.com/andrewkroh/auditbeat-apache-struts-demo) : ![starts](https://img.shields.io/github/stars/andrewkroh/auditbeat-apache-struts-demo.svg) ![forks](https://img.shields.io/github/forks/andrewkroh/auditbeat-apache-struts-demo.svg)
 
+- [https://github.com/Piyush-Tiwatne/struts-patch-gap-auditor](https://github.com/Piyush-Tiwatne/struts-patch-gap-auditor) : ![starts](https://img.shields.io/github/stars/Piyush-Tiwatne/struts-patch-gap-auditor.svg) ![forks](https://img.shields.io/github/forks/Piyush-Tiwatne/struts-patch-gap-auditor.svg)
+
 ## CVE-2017-5633
  Multiple cross-site request forgery (CSRF) vulnerabilities on the D-Link DI-524 Wireless Router with firmware 9.01 allow remote attackers to (1) change the admin password, (2) reboot the device, or (3) possibly have unspecified other impact via crafted requests to CGI programs.
 
