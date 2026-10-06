@@ -1505,3 +1505,15 @@
 {"cve_id": "CVE-2014-8729", "ts": "2026-10-06T12:27:56Z", "type": "new_poc", "url": "https://github.com/inso1337/TORQUE-Resource-Manager-2.5.x-2.5.13-stack-based-buffer-overflow-exploit-CVE-2014-8729-CVE-2014-878"}
 {"cve_id": "CVE-2026-21858", "ts": "2026-10-06T12:29:15Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-21858"}
 {"cve_id": "CVE-2026-40897", "ts": "2026-10-06T12:33:06Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-40897"}
+{"cve_id": "CVE-2026-21589", "ts": "2026-10-06T19:00:47Z", "type": "new_poc", "url": "https://github.com/MarcusProgram/CVE-2026-21589"}
+{"cve_id": "CVE-2026-3888", "ts": "2026-10-06T19:00:47Z", "type": "new_poc", "url": "https://github.com/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation"}
+{"cve_id": "CVE-2026-63277", "ts": "2026-10-06T19:00:48Z", "type": "new_poc", "url": "https://github.com/HORKimhab/CVE-2026-63277"}
+{"cve_id": "CVE-2026-59265", "ts": "2026-10-06T19:00:48Z", "type": "new_poc", "url": "https://github.com/HORKimhab/CVE-2026-59265"}
+{"cve_id": "CVE-2026-97286", "ts": "2026-10-06T19:00:48Z", "type": "new_poc", "url": "https://github.com/Rully2212/CVE-2026-97286"}
+{"cve_id": "CVE-2025-34069", "ts": "2026-10-06T19:00:48Z", "type": "new_poc", "url": "https://github.com/cppghoul/CVE-2025-34069"}
+{"cve_id": "CVE-2026-67401", "ts": "2026-10-06T19:00:48Z", "type": "new_poc", "url": "https://github.com/hitechcloud-vietnam/CVE-2026-67401"}
+{"cve_id": "CVE-2026-43805", "ts": "2026-10-06T19:00:48Z", "type": "new_poc", "url": "https://github.com/WTCYJ/CVE-2026-43805-analysis"}
+{"cve_id": "CVE-2026-21589", "ts": "2026-10-06T19:00:48Z", "type": "new_poc", "url": "https://github.com/tc4dy/CVE-2026-21589-PoC-Exploit"}
+{"cve_id": "CVE-2026-21589", "ts": "2026-10-06T19:00:48Z", "type": "new_poc", "url": "https://github.com/watchtowrlabs/watchTowr-vs-Atlassian-CVE-2026-21589"}
+{"cve_id": "CVE-2011-4825", "ts": "2026-10-06T19:00:48Z", "type": "new_poc", "url": "https://github.com/XavLimSG/Zenphoto-1.4.1.4-CVE-2011-4825-RCE"}
+{"cve_id": "CVE-2025-71384", "ts": "2026-10-06T19:00:57Z", "type": "new_poc", "url": "https://github.com/Scorpion-Security-Labs/CVE-2025-71384"}

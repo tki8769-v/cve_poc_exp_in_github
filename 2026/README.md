@@ -14,6 +14,7 @@
 - [https://github.com/RayanAlmulhim/CVE-2026-105134-lab](https://github.com/RayanAlmulhim/CVE-2026-105134-lab) : ![starts](https://img.shields.io/github/stars/RayanAlmulhim/CVE-2026-105134-lab.svg) ![forks](https://img.shields.io/github/forks/RayanAlmulhim/CVE-2026-105134-lab.svg)
 
 ## CVE-2026-105080
+> In ConvertX before 0.19.0, converters/calibre.ts does not block recipe files, and instead passes them to the ebook-convert program from Calibre. This affects executable code in a .recipe or .downloaded_recipe file.
 
 - [https://github.com/beyavuz/cve-2026-105080-poc](https://github.com/beyavuz/cve-2026-105080-poc) : ![starts](https://img.shields.io/github/stars/beyavuz/cve-2026-105080-poc.svg) ![forks](https://img.shields.io/github/forks/beyavuz/cve-2026-105080-poc.svg)
 
@@ -280,6 +281,11 @@ This issue affects Mediawiki - Wikibase Extension: from * before 1.46.1, 1.45.5,
 > The Post Views Stats Counter plugin for WordPress is vulnerable to Stored Cross-Site Scripting via User-Agent Header in all versions up to, and including, 1.1.7 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. The plugin&#x27;s only input filter is a substring blacklist for known bot signatures (e.g. &#x27;bot&#x27;, &#x27;spider&#x27;, &#x27;crawler&#x27;), which ca
 
 - [https://github.com/JailBr3ak/CVE-2026-97347](https://github.com/JailBr3ak/CVE-2026-97347) : ![starts](https://img.shields.io/github/stars/JailBr3ak/CVE-2026-97347.svg) ![forks](https://img.shields.io/github/forks/JailBr3ak/CVE-2026-97347.svg)
+
+## CVE-2026-97286
+> Improper Neutralization of Input During Web Page Generation (&#x27;Cross-site Scripting&#x27;) vulnerability in WP Chill Strong Testimonials strong-testimonials allows Stored XSS.This issue affects Strong Testimonials: from n/a through 3.3.11.
+
+- [https://github.com/Rully2212/CVE-2026-97286](https://github.com/Rully2212/CVE-2026-97286) : ![starts](https://img.shields.io/github/stars/Rully2212/CVE-2026-97286.svg) ![forks](https://img.shields.io/github/forks/Rully2212/CVE-2026-97286.svg)
 
 ## CVE-2026-97163
 > Joomla Extension - lomart.fr - Unauthenticated remote code installation in UP plugin extension 5.0.0-5.2.0, 6.0.0-6.0.29
@@ -2710,6 +2716,8 @@ removed.
 
 - [https://github.com/jithinkrishnanrs/CVE-2026-67401-cPanel-EmailTrack-SQLi](https://github.com/jithinkrishnanrs/CVE-2026-67401-cPanel-EmailTrack-SQLi) : ![starts](https://img.shields.io/github/stars/jithinkrishnanrs/CVE-2026-67401-cPanel-EmailTrack-SQLi.svg) ![forks](https://img.shields.io/github/forks/jithinkrishnanrs/CVE-2026-67401-cPanel-EmailTrack-SQLi.svg)
 
+- [https://github.com/hitechcloud-vietnam/CVE-2026-67401](https://github.com/hitechcloud-vietnam/CVE-2026-67401) : ![starts](https://img.shields.io/github/stars/hitechcloud-vietnam/CVE-2026-67401.svg) ![forks](https://img.shields.io/github/forks/hitechcloud-vietnam/CVE-2026-67401.svg)
+
 ## CVE-2026-67363
  Joomla Extension - balbooa.com - Pre-auth Payment Amount Tampering in Balbooa Forms  2.4.3.2 - The stripeCharges and payAuthorize endpoints accept the charge total from a client-controlled request parameter and forward it to the payment gateway without recomputing it from the form's configured product prices. Neither endpoint enforces authentication or CSRF checks. An unauthenticated attacker can purchase any priced item for an arbitrary amount (e.g., $0.01), and can additionally forge line items, quantities, and shipping.
 
@@ -3687,6 +3695,11 @@ Users are recommended to upgrade to version 2.4.69, which fixes this issue.
 
 - [https://github.com/0xBlackash/CVE-2026-63292](https://github.com/0xBlackash/CVE-2026-63292) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-63292.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-63292.svg)
 
+## CVE-2026-63277
+> LibreOffice Calc can link a cell range to an external data source, and the link is saved in the document. A document could name a Java database driver for such a link to be loaded from a remote location, so opening the document could run Java code from that location. In fixed versions an entry in a Java class path has to be a file URL.
+
+- [https://github.com/HORKimhab/CVE-2026-63277](https://github.com/HORKimhab/CVE-2026-63277) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-63277.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-63277.svg)
+
 ## CVE-2026-63223
  CodeIgniter is a PHP full-stack web framework. Prior to 4.7.4, the is_image and mime_in upload validation rules do not independently enforce a safe client filename extension, allowing a remote attacker to upload executable content when an application preserves the client filename and stores uploads in a web-accessible script-enabled directory. Applications are impacted when they validate uploads using is_image or mime_in without an independent safe extension check (such as ext_in on patched versions), save uploaded files using the client-supplied filename, and place uploads in a web-accessible directory where PHP files can execute. This issue is fixed in version 4.7.4.
 
@@ -4333,6 +4346,19 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 - [https://github.com/ChinaRan0/CVE-2026-59310-POC](https://github.com/ChinaRan0/CVE-2026-59310-POC) : ![starts](https://img.shields.io/github/stars/ChinaRan0/CVE-2026-59310-POC.svg) ![forks](https://img.shields.io/github/forks/ChinaRan0/CVE-2026-59310-POC.svg)
 
 - [https://github.com/vpxuser/CVE-2026-59310](https://github.com/vpxuser/CVE-2026-59310) : ![starts](https://img.shields.io/github/stars/vpxuser/CVE-2026-59310.svg) ![forks](https://img.shields.io/github/forks/vpxuser/CVE-2026-59310.svg)
+
+## CVE-2026-59265
+> A code execution issue in the Java integration in Apache OpenOffice v4.1.16 and earlier allows a crafted untrusted document to trigger executing arbitrary (even remote) code when opened by the user.
+
+
+
+This issue is expected to be fixed in version 4.1.17, which is in the release candidate phase.
+
+
+
+Until then, users can mitigate this issue by disabling Java runtime integration in the Preferences dialog. This prevents the attack. If this is not possible, or as an extra precaution, you can avoid o
+
+- [https://github.com/HORKimhab/CVE-2026-59265](https://github.com/HORKimhab/CVE-2026-59265) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-59265.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-59265.svg)
 
 ## CVE-2026-59243
  The FAB auth manager's Azure AD OAuth login defaulted `verify_signature=False` when decoding the ID token, so an attacker able to present a forged or unsigned (`alg:none`) ID token to the OAuth callback could bypass authentication and log in as an arbitrary user, including one holding the Admin role (CWE-347). Deployments running the FAB auth manager with the Azure AD OAuth login path under its default configuration are affected; the Authentik path already defaulted to `True`. This issue affects `apache-airflow-providers-fab` before 3.7.3. Users are advised to upgrade to `apache-airflow-providers-fab` 3.7.3, which defaults `verify_signature=True`.
@@ -7933,6 +7959,8 @@ Users are recommended to upgrade to version 4.21.0, which fixes the issue. If us
 ## CVE-2026-43805
 
 - [https://github.com/tls456/CVE-2026-43805-PoC](https://github.com/tls456/CVE-2026-43805-PoC) : ![starts](https://img.shields.io/github/stars/tls456/CVE-2026-43805-PoC.svg) ![forks](https://img.shields.io/github/forks/tls456/CVE-2026-43805-PoC.svg)
+
+- [https://github.com/WTCYJ/CVE-2026-43805-analysis](https://github.com/WTCYJ/CVE-2026-43805-analysis) : ![starts](https://img.shields.io/github/stars/WTCYJ/CVE-2026-43805-analysis.svg) ![forks](https://img.shields.io/github/forks/WTCYJ/CVE-2026-43805-analysis.svg)
 
 ## CVE-2026-43786
  This issue was addressed with additional entitlement checks. This issue is fixed in macOS Golden Gate 27, macOS Sequoia 15.8, macOS Tahoe 26.7. An app may be able to gain root privileges.
@@ -16119,6 +16147,15 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 
 - [https://github.com/yallasec/CVE-2026-21627---Tassos-Novarain-Framework-plg_system_nrframework-Exploit---Joomla](https://github.com/yallasec/CVE-2026-21627---Tassos-Novarain-Framework-plg_system_nrframework-Exploit---Joomla) : ![starts](https://img.shields.io/github/stars/yallasec/CVE-2026-21627---Tassos-Novarain-Framework-plg_system_nrframework-Exploit---Joomla.svg) ![forks](https://img.shields.io/github/forks/yallasec/CVE-2026-21627---Tassos-Novarain-Framework-plg_system_nrframework-Exploit---Joomla.svg)
 
+## CVE-2026-21589
+> This is a vulnerability in Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center. Crowd Data Center, Crucible and Fisheye. This Arbitrary File Access vulnerability allows an unauthenticated attacker to access specific files within the web application root directory in affected versions. Exploitation requires prior knowledge of the target file&#x27;s exact name and path; this vulnerability does not allow attackers to enumerate
+
+- [https://github.com/MarcusProgram/CVE-2026-21589](https://github.com/MarcusProgram/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/MarcusProgram/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/MarcusProgram/CVE-2026-21589.svg)
+
+- [https://github.com/tc4dy/CVE-2026-21589-PoC-Exploit](https://github.com/tc4dy/CVE-2026-21589-PoC-Exploit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-21589-PoC-Exploit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-21589-PoC-Exploit.svg)
+
+- [https://github.com/watchtowrlabs/watchTowr-vs-Atlassian-CVE-2026-21589](https://github.com/watchtowrlabs/watchTowr-vs-Atlassian-CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Atlassian-CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Atlassian-CVE-2026-21589.svg)
+
 ## CVE-2026-21533
  Improper privilege management in Windows Remote Desktop allows an authorized attacker to elevate privileges locally.
 
@@ -19955,6 +19992,8 @@ Django would like to thank Tarek Nakkouch for reporting this issue.
 - [https://github.com/hewhomusntbenamed/CVE-2026-3888-fixed](https://github.com/hewhomusntbenamed/CVE-2026-3888-fixed) : ![starts](https://img.shields.io/github/stars/hewhomusntbenamed/CVE-2026-3888-fixed.svg) ![forks](https://img.shields.io/github/forks/hewhomusntbenamed/CVE-2026-3888-fixed.svg)
 
 - [https://github.com/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher](https://github.com/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher) : ![starts](https://img.shields.io/github/stars/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher.svg) ![forks](https://img.shields.io/github/forks/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher.svg)
+
+- [https://github.com/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation](https://github.com/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation) : ![starts](https://img.shields.io/github/stars/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation.svg) ![forks](https://img.shields.io/github/forks/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation.svg)
 
 ## CVE-2026-3854
  An improper neutralization of special elements vulnerability was identified in GitHub Enterprise Server that allowed an attacker with push access to a repository to achieve remote code execution on the instance. During a git push operation, user-supplied push option values were not properly sanitized before being included in internal service headers. Because the internal header format used a delimiter character that could also appear in user input, an attacker could inject additional metadata fields through crafted push option values. This vulnerability was reported via the GitHub Bug Bounty program and has been fixed in GitHub Enterprise Server versions 3.14.25, 3.15.20, 3.16.16, 3.17.13, 3.18.7 and 3.19.4.

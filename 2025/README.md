@@ -3,6 +3,11 @@
 
 - [https://github.com/0xdak/CVE-2025-71389_exploit](https://github.com/0xdak/CVE-2025-71389_exploit) : ![starts](https://img.shields.io/github/stars/0xdak/CVE-2025-71389_exploit.svg) ![forks](https://img.shields.io/github/forks/0xdak/CVE-2025-71389_exploit.svg)
 
+## CVE-2025-71384
+> Dbit WIFI4 N300 1.0.0 devices allows administrators (from the local Wi-Fi network) to execute OS commands by leveraging a stack-based buffer overflow via the /api/addStaticDHCP comment field,
+
+- [https://github.com/Scorpion-Security-Labs/CVE-2025-71384](https://github.com/Scorpion-Security-Labs/CVE-2025-71384) : ![starts](https://img.shields.io/github/stars/Scorpion-Security-Labs/CVE-2025-71384.svg) ![forks](https://img.shields.io/github/forks/Scorpion-Security-Labs/CVE-2025-71384.svg)
+
 ## CVE-2025-71338
  Flowise through 2.2.7 fails to sanitize path segments in the document-store loader endpoint, allowing unauthenticated attackers to write files outside the storage directory. Attackers can use parent-directory sequences to escape the storage directory and overwrite application files loaded at boot for remote code execution.
 
@@ -7077,6 +7082,10 @@ be in the smb2_sess_setup function which makes use of sess-user.
 - [https://github.com/0xgh057r3c0n/CVE-2025-34077](https://github.com/0xgh057r3c0n/CVE-2025-34077) : ![starts](https://img.shields.io/github/stars/0xgh057r3c0n/CVE-2025-34077.svg) ![forks](https://img.shields.io/github/forks/0xgh057r3c0n/CVE-2025-34077.svg)
 
 - [https://github.com/salimelh94/Web-Penetration-Test](https://github.com/salimelh94/Web-Penetration-Test) : ![starts](https://img.shields.io/github/stars/salimelh94/Web-Penetration-Test.svg) ![forks](https://img.shields.io/github/forks/salimelh94/Web-Penetration-Test.svg)
+
+## CVE-2025-34069
+
+- [https://github.com/cppghoul/CVE-2025-34069](https://github.com/cppghoul/CVE-2025-34069) : ![starts](https://img.shields.io/github/stars/cppghoul/CVE-2025-34069.svg) ![forks](https://img.shields.io/github/forks/cppghoul/CVE-2025-34069.svg)
 
 ## CVE-2025-34065
  An authentication bypass vulnerability exists in AVTECH IP camera, DVR, and NVR devices’ streamd web server. The strstr() function allows unauthenticated access to any request containing "/nobody" in the URL, bypassing login controls.

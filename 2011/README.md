@@ -17,6 +17,10 @@
 
 - [https://github.com/lol-fi/cve-2011-4862](https://github.com/lol-fi/cve-2011-4862) : ![starts](https://img.shields.io/github/stars/lol-fi/cve-2011-4862.svg) ![forks](https://img.shields.io/github/forks/lol-fi/cve-2011-4862.svg)
 
+## CVE-2011-4825
+
+- [https://github.com/XavLimSG/Zenphoto-1.4.1.4-CVE-2011-4825-RCE](https://github.com/XavLimSG/Zenphoto-1.4.1.4-CVE-2011-4825-RCE) : ![starts](https://img.shields.io/github/stars/XavLimSG/Zenphoto-1.4.1.4-CVE-2011-4825-RCE.svg) ![forks](https://img.shields.io/github/forks/XavLimSG/Zenphoto-1.4.1.4-CVE-2011-4825-RCE.svg)
+
 ## CVE-2011-4367
  Multiple directory traversal vulnerabilities in MyFaces JavaServer Faces (JSF) in Apache MyFaces Core 2.0.x before 2.0.12 and 2.1.x before 2.1.6 allow remote attackers to read arbitrary files via a .. (dot dot) in the (1) ln parameter to faces/javax.faces.resource/web.xml or (2) the PATH_INFO to faces/javax.faces.resource/.
 
