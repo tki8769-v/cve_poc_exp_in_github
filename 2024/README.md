@@ -9684,6 +9684,8 @@ authentication.
 
 - [https://github.com/mistymntncop/CVE-2024-7971](https://github.com/mistymntncop/CVE-2024-7971) : ![starts](https://img.shields.io/github/stars/mistymntncop/CVE-2024-7971.svg) ![forks](https://img.shields.io/github/forks/mistymntncop/CVE-2024-7971.svg)
 
+- [https://github.com/pepoc3/cve-2024-7971-poc](https://github.com/pepoc3/cve-2024-7971-poc) : ![starts](https://img.shields.io/github/stars/pepoc3/cve-2024-7971-poc.svg) ![forks](https://img.shields.io/github/forks/pepoc3/cve-2024-7971-poc.svg)
+
 ## CVE-2024-7966
  Out of bounds memory access in Skia in Google Chrome prior to 128.0.6613.84 allowed a remote attacker who had compromised the renderer process to perform out of bounds memory access via a crafted HTML page. (Chromium security severity: High)
 

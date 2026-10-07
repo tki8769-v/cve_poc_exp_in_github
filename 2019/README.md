@@ -4551,6 +4551,8 @@ use after free.
 
 - [https://github.com/NESTle19/CVE-2019-2215](https://github.com/NESTle19/CVE-2019-2215) : ![starts](https://img.shields.io/github/stars/NESTle19/CVE-2019-2215.svg) ![forks](https://img.shields.io/github/forks/NESTle19/CVE-2019-2215.svg)
 
+- [https://github.com/WJNKAC/cve-2019-2215-oppo-a77t](https://github.com/WJNKAC/cve-2019-2215-oppo-a77t) : ![starts](https://img.shields.io/github/stars/WJNKAC/cve-2019-2215-oppo-a77t.svg) ![forks](https://img.shields.io/github/forks/WJNKAC/cve-2019-2215-oppo-a77t.svg)
+
 ## CVE-2019-2205
  In ProxyResolverV8::SetPacScript of proxy_resolver_v8.cc, there is a possible memory corruption due to a use after free. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-139806216
 

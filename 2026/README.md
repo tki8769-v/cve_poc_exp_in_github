@@ -167,6 +167,13 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 
 - [https://github.com/BomboBombone/CVE-2026-102971](https://github.com/BomboBombone/CVE-2026-102971) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-102971.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-102971.svg)
 
+## CVE-2026-102489
+> Zammad versions 6.3.0 to 6.5.4 are vulnerable a session hijack vulnerability that leads to remote code execution as the zammad user. The bug is also present in version 7.0.0 to version 7.1.2, but not exploitable due to changes in the underlying framework.
+
+- [https://github.com/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce](https://github.com/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce) : ![starts](https://img.shields.io/github/stars/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce.svg) ![forks](https://img.shields.io/github/forks/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce.svg)
+
+- [https://github.com/horizon3ai/CVE-2026-102489](https://github.com/horizon3ai/CVE-2026-102489) : ![starts](https://img.shields.io/github/stars/horizon3ai/CVE-2026-102489.svg) ![forks](https://img.shields.io/github/forks/horizon3ai/CVE-2026-102489.svg)
+
 ## CVE-2026-102427
 > Joomla Extension - ordasoft.com - Unauthenticated Remote Code Execution in OrdaSoft Joomla CCK &lt; 8.3.16 - site/uploader.php is reached through the component’s normal frontend routing (task=getContent), a task with no authentication or ACL check anywhere in the dispatch chain. The handler validates the uploaded file’s content with a real magic-byte MIME check, but the extension allow-list that would otherwise restrict the saved file’s extension was present in the source and commented out. The sav
 
@@ -565,6 +572,11 @@ The Unauthenticated Stored XSS vulnerability in the WordPress core can be reprod
 
 - [https://github.com/murrez/CVE-2026-93399](https://github.com/murrez/CVE-2026-93399) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-93399.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-93399.svg)
 
+## CVE-2026-93355
+> LiteLLM contains a weak authentication vulnerability that allows an attacker holding a valid JWT from the configured identity provider to authenticate as any existing user by exploiting an email-based fallback lookup in the JWT authentication flow without verifying the email_verified claim. Attackers can present a token with an unverified email address matching a victim&#x27;s account to inherit the victim&#x27;s role, including proxy_admin privileges, and permanently overwrite the victim&#x27;s stored identit
+
+- [https://github.com/InertFluid/cve-2026-93355-lab](https://github.com/InertFluid/cve-2026-93355-lab) : ![starts](https://img.shields.io/github/stars/InertFluid/cve-2026-93355-lab.svg) ![forks](https://img.shields.io/github/forks/InertFluid/cve-2026-93355-lab.svg)
+
 ## CVE-2026-93349
 > Frictionless through 5.20.0rc1 contains an OS command injection vulnerability in the explore console command that allows an attacker who supplies a crafted Data Package descriptor to execute arbitrary operating system commands as the user who explores it. Attackers can place shell metacharacters in resource path values within a datapackage.json descriptor, which are passed unsanitized to os.system through a shell, causing arbitrary command execution in the victim&#x27;s security context when they run
 
@@ -887,6 +899,8 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 
 - [https://github.com/pwnVader/CVE-2026-87902-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-87902-PoC-pwnVader) : ![starts](https://img.shields.io/github/stars/pwnVader/CVE-2026-87902-PoC-pwnVader.svg) ![forks](https://img.shields.io/github/forks/pwnVader/CVE-2026-87902-PoC-pwnVader.svg)
 
+- [https://github.com/xiaxiu555/cve-2026-87902](https://github.com/xiaxiu555/cve-2026-87902) : ![starts](https://img.shields.io/github/stars/xiaxiu555/cve-2026-87902.svg) ![forks](https://img.shields.io/github/forks/xiaxiu555/cve-2026-87902.svg)
+
 ## CVE-2026-87796
  The Multi Uploader for Gravity Forms plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, and including, 1.1.9 via the move_file function. This is due to insufficient file type validation during chunked upload handling. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 
@@ -1076,6 +1090,11 @@ path involving usernames that begin with a prohibited character, allowing for th
 This issue w
 
 - [https://github.com/murrez/CVE-2026-85520](https://github.com/murrez/CVE-2026-85520) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-85520.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-85520.svg)
+
+## CVE-2026-85102
+> Improper certificate trust validation during VPN negotiation in Check Point Quantum Security Gateway may allow an unauthenticated remote attacker to execute arbitrary code on the Gateway.
+
+- [https://github.com/aduli198/CVE-2026-85102](https://github.com/aduli198/CVE-2026-85102) : ![starts](https://img.shields.io/github/stars/aduli198/CVE-2026-85102.svg) ![forks](https://img.shields.io/github/forks/aduli198/CVE-2026-85102.svg)
 
 ## CVE-2026-85048
  Use after free in Compositing in Google Chrome prior to 152.0.7977.82 allowed a remote attacker who had compromised the renderer process to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)
@@ -1296,6 +1315,8 @@ This issue affects GiveWP: from n/a through 4.16.7.1.
  Unauthenticated Arbitrary File Upload in Hash Form = 1.4.2 versions.
 
 - [https://github.com/0xTerror/CVE-2026-81780-Hash-Form](https://github.com/0xTerror/CVE-2026-81780-Hash-Form) : ![starts](https://img.shields.io/github/stars/0xTerror/CVE-2026-81780-Hash-Form.svg) ![forks](https://img.shields.io/github/forks/0xTerror/CVE-2026-81780-Hash-Form.svg)
+
+- [https://github.com/0xCyp1337/CVE-2026-81780](https://github.com/0xCyp1337/CVE-2026-81780) : ![starts](https://img.shields.io/github/stars/0xCyp1337/CVE-2026-81780.svg) ![forks](https://img.shields.io/github/forks/0xCyp1337/CVE-2026-81780.svg)
 
 ## CVE-2026-81648
  The CryptoPayment Gateway WordPress plugin from 1.2.1 to 1.2.2 does not apply an authorization check on one of its AJAX endpoints, allowing unauthenticated users to invoke administrative operations, including deleting arbitrary files on the server, overwriting the payment gateway configuration and recovering stored wallet credentials in cleartext.
@@ -3976,6 +3997,8 @@ Users are advised to upgrade to Apache InLong's  2.4.0 or cherry-pick [1] to sol
 - [https://github.com/hypnguyen1209/CVE-2026-62911](https://github.com/hypnguyen1209/CVE-2026-62911) : ![starts](https://img.shields.io/github/stars/hypnguyen1209/CVE-2026-62911.svg) ![forks](https://img.shields.io/github/forks/hypnguyen1209/CVE-2026-62911.svg)
 
 - [https://github.com/ZeroDayEvil/CVE-2026-62911](https://github.com/ZeroDayEvil/CVE-2026-62911) : ![starts](https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-62911.svg) ![forks](https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-62911.svg)
+
+- [https://github.com/bhavik08-gone/CVE-2026-62911-info](https://github.com/bhavik08-gone/CVE-2026-62911-info) : ![starts](https://img.shields.io/github/stars/bhavik08-gone/CVE-2026-62911-info.svg) ![forks](https://img.shields.io/github/forks/bhavik08-gone/CVE-2026-62911-info.svg)
 
 ## CVE-2026-62878
  Stack-based buffer overflow in Windows DNS allows an unauthorized attacker to execute code over a network.
@@ -8620,6 +8643,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/Nixbones/ghostlock-rmx5085](https://github.com/Nixbones/ghostlock-rmx5085) : ![starts](https://img.shields.io/github/stars/Nixbones/ghostlock-rmx5085.svg) ![forks](https://img.shields.io/github/forks/Nixbones/ghostlock-rmx5085.svg)
 
+- [https://github.com/GrandFuzard/redmi-13-5g-ghostlock-findings](https://github.com/GrandFuzard/redmi-13-5g-ghostlock-findings) : ![starts](https://img.shields.io/github/stars/GrandFuzard/redmi-13-5g-ghostlock-findings.svg) ![forks](https://img.shields.io/github/forks/GrandFuzard/redmi-13-5g-ghostlock-findings.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -8868,6 +8893,8 @@ destination-frag path or fall back to skb_cow_data().
 - [https://github.com/coey0814/DirtyFrag-Galaxy](https://github.com/coey0814/DirtyFrag-Galaxy) : ![starts](https://img.shields.io/github/stars/coey0814/DirtyFrag-Galaxy.svg) ![forks](https://img.shields.io/github/forks/coey0814/DirtyFrag-Galaxy.svg)
 
 - [https://github.com/ankitrawatgit/DirtyFrag-Android-Root-Jailbreak](https://github.com/ankitrawatgit/DirtyFrag-Android-Root-Jailbreak) : ![starts](https://img.shields.io/github/stars/ankitrawatgit/DirtyFrag-Android-Root-Jailbreak.svg) ![forks](https://img.shields.io/github/forks/ankitrawatgit/DirtyFrag-Android-Root-Jailbreak.svg)
+
+- [https://github.com/HirokiAkihiko/dirtyfrag-research](https://github.com/HirokiAkihiko/dirtyfrag-research) : ![starts](https://img.shields.io/github/stars/HirokiAkihiko/dirtyfrag-research.svg) ![forks](https://img.shields.io/github/forks/HirokiAkihiko/dirtyfrag-research.svg)
 
 ## CVE-2026-43074
  In the Linux kernel, the following vulnerability has been resolved:
@@ -14930,6 +14957,8 @@ been adjusted.
 
 - [https://github.com/jf-gondim/mcp-pwn](https://github.com/jf-gondim/mcp-pwn) : ![starts](https://img.shields.io/github/stars/jf-gondim/mcp-pwn.svg) ![forks](https://img.shields.io/github/forks/jf-gondim/mcp-pwn.svg)
 
+- [https://github.com/01xJB/CVE-2026-23744-POC](https://github.com/01xJB/CVE-2026-23744-POC) : ![starts](https://img.shields.io/github/stars/01xJB/CVE-2026-23744-POC.svg) ![forks](https://img.shields.io/github/forks/01xJB/CVE-2026-23744-POC.svg)
+
 ## CVE-2026-23723
  WeGIA is a web manager for charitable institutions. Prior to 3.6.2, an authenticated SQL Injection vulnerability was identified in the Atendido_ocorrenciaControle endpoint via the id_memorando parameter. This flaw allows for full database exfiltration, exposure of sensitive PII, and potential arbitrary file reads in misconfigured environments. This vulnerability is fixed in 3.6.2.
 
@@ -16189,6 +16218,12 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 - [https://github.com/tc4dy/CVE-2026-21589-PoC-Exploit](https://github.com/tc4dy/CVE-2026-21589-PoC-Exploit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-21589-PoC-Exploit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-21589-PoC-Exploit.svg)
 
 - [https://github.com/watchtowrlabs/watchTowr-vs-Atlassian-CVE-2026-21589](https://github.com/watchtowrlabs/watchTowr-vs-Atlassian-CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Atlassian-CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Atlassian-CVE-2026-21589.svg)
+
+- [https://github.com/0xBlackash/CVE-2026-21589](https://github.com/0xBlackash/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-21589.svg)
+
+- [https://github.com/BimBoxH4/CVE-2026-21589](https://github.com/BimBoxH4/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/BimBoxH4/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/BimBoxH4/CVE-2026-21589.svg)
+
+- [https://github.com/aduli198/CVE-2026-21589](https://github.com/aduli198/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/aduli198/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/aduli198/CVE-2026-21589.svg)
 
 ## CVE-2026-21533
  Improper privilege management in Windows Remote Desktop allows an authorized attacker to elevate privileges locally.
@@ -17784,6 +17819,11 @@ An attacker could potentially exploit this vulnerability, leading to the executi
 
 - [https://github.com/MinhHK68/CVE-2026-13152](https://github.com/MinhHK68/CVE-2026-13152) : ![starts](https://img.shields.io/github/stars/MinhHK68/CVE-2026-13152.svg) ![forks](https://img.shields.io/github/forks/MinhHK68/CVE-2026-13152.svg)
 
+## CVE-2026-13043
+> A missing authentication vulnerability in the Kernel Memory Access Driver (PSKMAD) used by WatchGuard endpoint security products allows a local, authenticated attacker to bypass the driver&#x27;s access-control handshake and issue arbitrary privileged commands to the driver, resulting in disclosure of kernel and process memory.
+
+- [https://github.com/TheMalwareGuardian/CVE-2026-13043](https://github.com/TheMalwareGuardian/CVE-2026-13043) : ![starts](https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2026-13043.svg) ![forks](https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2026-13043.svg)
+
 ## CVE-2026-13001
  The Podlove Podcast Publisher plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'podlove_handle_cache_files' function in all versions up to, and including, 4.5.1. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 
@@ -18285,6 +18325,8 @@ A successful match grants role=2 (admin-level access) and creates a valid sessio
 - [https://github.com/gduma-phData/patch-CVE-2026-10520](https://github.com/gduma-phData/patch-CVE-2026-10520) : ![starts](https://img.shields.io/github/stars/gduma-phData/patch-CVE-2026-10520.svg) ![forks](https://img.shields.io/github/forks/gduma-phData/patch-CVE-2026-10520.svg)
 
 - [https://github.com/imbas007/RCE-CVE-2026-10520-CVE-2026-10523](https://github.com/imbas007/RCE-CVE-2026-10520-CVE-2026-10523) : ![starts](https://img.shields.io/github/stars/imbas007/RCE-CVE-2026-10520-CVE-2026-10523.svg) ![forks](https://img.shields.io/github/forks/imbas007/RCE-CVE-2026-10520-CVE-2026-10523.svg)
+
+- [https://github.com/01xJB/CVE-2026-10520-POC](https://github.com/01xJB/CVE-2026-10520-POC) : ![starts](https://img.shields.io/github/stars/01xJB/CVE-2026-10520-POC.svg) ![forks](https://img.shields.io/github/forks/01xJB/CVE-2026-10520-POC.svg)
 
 ## CVE-2026-10290
  A weakness has been identified in code-projects Hotel and Tourism Reservation System 1.0. The affected element is an unknown function of the file tour.php of the component GET Parameter Handler. Executing a manipulation of the argument tour can lead to sql injection. The attack can be launched remotely. The exploit has been made available to the public and could be used for attacks.

@@ -8314,6 +8314,8 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
 
 - [https://github.com/vulnace/CVE-2025-29927](https://github.com/vulnace/CVE-2025-29927) : ![starts](https://img.shields.io/github/stars/vulnace/CVE-2025-29927.svg) ![forks](https://img.shields.io/github/forks/vulnace/CVE-2025-29927.svg)
 
+- [https://github.com/sungue1/CVE-2025-29927](https://github.com/sungue1/CVE-2025-29927) : ![starts](https://img.shields.io/github/stars/sungue1/CVE-2025-29927.svg) ![forks](https://img.shields.io/github/forks/sungue1/CVE-2025-29927.svg)
+
 ## CVE-2025-29824
  Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally.
 
