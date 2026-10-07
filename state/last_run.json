@@ -15,7 +15,7 @@
     },
     "clean_apply": {
       "affected_years": [],
-      "applied_at": "2026-10-07T00:59:32Z",
+      "applied_at": "2026-10-07T01:11:58Z",
       "applied_rejected": 0,
       "revoked_accepted": 0,
       "revoked_rejected": 0,
@@ -24,13 +24,13 @@
     },
     "queue": {
       "due_by_priority": {
-        "0": 1087,
+        "0": 1091,
         "5": 7546,
         "8": 8737
       },
-      "due_now": 17370,
+      "due_now": 17374,
       "oldest_due": "2026-09-25T01:06:08Z",
-      "tasks_total": 23045
+      "tasks_total": 23049
     },
     "recheck": {
       "conflict_evidenced": 168,
@@ -41,22 +41,22 @@
       "rule_version": "2"
     },
     "render": {
-      "changed_files": 4
+      "changed_files": 0
     },
     "repo_watch": {
       "blocked": 0,
       "complete": true,
       "cursor_advanced": true,
-      "cves_hit": 23,
+      "cves_hit": 0,
       "invalid_ids": 0,
-      "needs_review": 2,
-      "new_relations": 3,
+      "needs_review": 0,
+      "new_relations": 0,
       "partial_days_dropped": 0,
       "partial_days_pending": 0,
       "rejected_at_collection": 0,
-      "repos_seen": 80,
+      "repos_seen": 2,
       "warning": null,
-      "window": "2026-10-06..2026-10-07"
+      "window": "2026-10-07..2026-10-07"
     },
     "scan": {
       "blocked": 0,
@@ -73,12 +73,12 @@
     "sync": {
       "budget_stopped": false,
       "continuity_warning": false,
-      "cves_seen": 1386,
+      "cves_seen": 1390,
       "floor_tag": "cve_2026-09-24_0700Z",
-      "last_tag": "cve_2026-10-06_2300Z",
-      "new_tasks": 188,
+      "last_tag": "cve_2026-10-07_0000Z",
+      "new_tasks": 4,
       "rejected": 0,
-      "releases_processed": 4,
+      "releases_processed": 2,
       "releases_seen": 30
     },
     "verify": {
@@ -88,5 +88,5 @@
       "problems": []
     }
   },
-  "ts": "2026-10-07T00:59:34Z"
+  "ts": "2026-10-07T01:11:59Z"
 }
