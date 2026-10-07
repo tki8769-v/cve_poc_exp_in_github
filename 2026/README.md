@@ -4500,6 +4500,10 @@ This issue affects MediaWiki: from * before 1.46.0, 1.45.4, 1.44.6, 1.43.9.
 
 - [https://github.com/riddhimaan-sth404/CVE-2026-57973](https://github.com/riddhimaan-sth404/CVE-2026-57973) : ![starts](https://img.shields.io/github/stars/riddhimaan-sth404/CVE-2026-57973.svg) ![forks](https://img.shields.io/github/forks/riddhimaan-sth404/CVE-2026-57973.svg)
 
+## CVE-2026-57967
+
+- [https://github.com/c0dem4sters/CVE-2026-57967](https://github.com/c0dem4sters/CVE-2026-57967) : ![starts](https://img.shields.io/github/stars/c0dem4sters/CVE-2026-57967.svg) ![forks](https://img.shields.io/github/forks/c0dem4sters/CVE-2026-57967.svg)
+
 ## CVE-2026-57858
  Cal.com Cal.diy versions 2.1.1 through 6.2.0 contain a stored cross-site scripting vulnerability in the BookingPageTagManager component that allows authenticated event owners to inject arbitrary JavaScript by supplying a malicious analytics tracking ID without sanitization. Attackers can close the inline script string literal with a crafted payload that executes in the browser of every visitor to the affected public booking page, enabling session cookie theft, forged authenticated requests, and wormable propagation by chaining with CSRF-able endpoints to persist payloads on additional events.
 
