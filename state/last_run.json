@@ -3,8 +3,8 @@
   "steps": {
     "backfill_conflicts": {
       "cached_total": 26166,
-      "fetched": 36,
-      "requested": 36,
+      "fetched": 0,
+      "requested": 0,
       "stop_reason": null
     },
     "backfill_queue": {
@@ -14,23 +14,25 @@
       "stop_reason": null
     },
     "clean_apply": {
-      "affected_years": [],
-      "applied_at": "2026-10-07T22:35:34Z",
+      "affected_years": [
+        "2025"
+      ],
+      "applied_at": "2026-10-07T22:49:04Z",
       "applied_rejected": 0,
-      "revoked_accepted": 0,
+      "revoked_accepted": 37,
       "revoked_rejected": 0,
       "rule_version": "2",
       "still_pending_meta": 0
     },
     "queue": {
       "due_by_priority": {
-        "0": 1274,
-        "5": 7518,
-        "8": 7841
+        "0": 1596,
+        "5": 7517,
+        "8": 7833
       },
-      "due_now": 16633,
+      "due_now": 16946,
       "oldest_due": "2026-09-25T01:06:08Z",
-      "tasks_total": 23456
+      "tasks_total": 23470
     },
     "recheck": {
       "conflict_evidenced": 168,
@@ -41,7 +43,7 @@
       "rule_version": "2"
     },
     "render": {
-      "changed_files": 0
+      "changed_files": 3
     },
     "repo_watch": {
       "blocked": 0,
@@ -63,22 +65,22 @@
       "budget_stopped": true,
       "incomplete": 0,
       "invalid_id_skipped": 0,
-      "needs_review": 0,
-      "new_relations": 0,
+      "needs_review": 22,
+      "new_relations": 176,
       "rejected_at_collection": 0,
-      "scanned": 300,
+      "scanned": 299,
       "task_errors": 0,
       "tasks_due": 10000
     },
     "sync": {
       "budget_stopped": false,
       "continuity_warning": false,
-      "cves_seen": 0,
+      "cves_seen": 1896,
       "floor_tag": "cve_2026-09-24_0700Z",
-      "last_tag": "cve_2026-10-07_2100Z",
-      "new_tasks": 0,
-      "rejected": 0,
-      "releases_processed": 0,
+      "last_tag": "cve_2026-10-07_2200Z",
+      "new_tasks": 14,
+      "rejected": 3,
+      "releases_processed": 1,
       "releases_seen": 30
     },
     "verify": {
@@ -88,5 +90,5 @@
       "problems": []
     }
   },
-  "ts": "2026-10-07T22:35:35Z"
+  "ts": "2026-10-07T22:49:05Z"
 }

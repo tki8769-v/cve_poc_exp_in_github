@@ -4101,6 +4101,358 @@ Adopt appropriate SMB Server hardening measures.
 
 - [https://github.com/zxz3650/CVE-2025-55182-POC](https://github.com/zxz3650/CVE-2025-55182-POC) : ![starts](https://img.shields.io/github/stars/zxz3650/CVE-2025-55182-POC.svg) ![forks](https://img.shields.io/github/forks/zxz3650/CVE-2025-55182-POC.svg)
 
+- [https://github.com/0xN7y/CVE-2025-55182](https://github.com/0xN7y/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/0xN7y/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/0xN7y/CVE-2025-55182.svg)
+
+- [https://github.com/0xROI/CVE-2025-55182](https://github.com/0xROI/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/0xROI/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/0xROI/CVE-2025-55182.svg)
+
+- [https://github.com/4nuxd/React2Shell](https://github.com/4nuxd/React2Shell) : ![starts](https://img.shields.io/github/stars/4nuxd/React2Shell.svg) ![forks](https://img.shields.io/github/forks/4nuxd/React2Shell.svg)
+
+- [https://github.com/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-](https://github.com/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-) : ![starts](https://img.shields.io/github/stars/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-.svg) ![forks](https://img.shields.io/github/forks/6t2kydmp8k-jpg/CVE-2025-55182-Vulnerability-Proof-of-Concept-Group-Project-.svg)
+
+- [https://github.com/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500](https://github.com/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500) : ![starts](https://img.shields.io/github/stars/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500.svg) ![forks](https://img.shields.io/github/forks/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500.svg)
+
+- [https://github.com/Alejandro609x/JEFAZO-CVE-2025-55182-Checker](https://github.com/Alejandro609x/JEFAZO-CVE-2025-55182-Checker) : ![starts](https://img.shields.io/github/stars/Alejandro609x/JEFAZO-CVE-2025-55182-Checker.svg) ![forks](https://img.shields.io/github/forks/Alejandro609x/JEFAZO-CVE-2025-55182-Checker.svg)
+
+- [https://github.com/AliAbdollahiii/react2shell_detector](https://github.com/AliAbdollahiii/react2shell_detector) : ![starts](https://img.shields.io/github/stars/AliAbdollahiii/react2shell_detector.svg) ![forks](https://img.shields.io/github/forks/AliAbdollahiii/react2shell_detector.svg)
+
+- [https://github.com/Ankitspandey07/React2Shell](https://github.com/Ankitspandey07/React2Shell) : ![starts](https://img.shields.io/github/stars/Ankitspandey07/React2Shell.svg) ![forks](https://img.shields.io/github/forks/Ankitspandey07/React2Shell.svg)
+
+- [https://github.com/BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica](https://github.com/BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica) : ![starts](https://img.shields.io/github/stars/BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica.svg) ![forks](https://img.shields.io/github/forks/BIG02-bot/React2Shell-CVE-2025-55182-An-lise-T-cnica.svg)
+
+- [https://github.com/Bashamega/react-CVE-2025-55182-fixer](https://github.com/Bashamega/react-CVE-2025-55182-fixer) : ![starts](https://img.shields.io/github/stars/Bashamega/react-CVE-2025-55182-fixer.svg) ![forks](https://img.shields.io/github/forks/Bashamega/react-CVE-2025-55182-fixer.svg)
+
+- [https://github.com/Bluex707/React2Shell-CVE-2025-55182-Exploit](https://github.com/Bluex707/React2Shell-CVE-2025-55182-Exploit) : ![starts](https://img.shields.io/github/stars/Bluex707/React2Shell-CVE-2025-55182-Exploit.svg) ![forks](https://img.shields.io/github/forks/Bluex707/React2Shell-CVE-2025-55182-Exploit.svg)
+
+- [https://github.com/Chelsea486MHz/CVE-2025-55182-test](https://github.com/Chelsea486MHz/CVE-2025-55182-test) : ![starts](https://img.shields.io/github/stars/Chelsea486MHz/CVE-2025-55182-test.svg) ![forks](https://img.shields.io/github/forks/Chelsea486MHz/CVE-2025-55182-test.svg)
+
+- [https://github.com/CrazyloveforWeb/Golang-CVE-2025-55182-POC](https://github.com/CrazyloveforWeb/Golang-CVE-2025-55182-POC) : ![starts](https://img.shields.io/github/stars/CrazyloveforWeb/Golang-CVE-2025-55182-POC.svg) ![forks](https://img.shields.io/github/forks/CrazyloveforWeb/Golang-CVE-2025-55182-POC.svg)
+
+- [https://github.com/CyberPrince-hub/React2shell-ultimate-scanner](https://github.com/CyberPrince-hub/React2shell-ultimate-scanner) : ![starts](https://img.shields.io/github/stars/CyberPrince-hub/React2shell-ultimate-scanner.svg) ![forks](https://img.shields.io/github/forks/CyberPrince-hub/React2shell-ultimate-scanner.svg)
+
+- [https://github.com/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process](https://github.com/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process) : ![starts](https://img.shields.io/github/stars/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process.svg) ![forks](https://img.shields.io/github/forks/Cybersecurity-Enthusiasts-CE/CVE-2025-55182-Researching-process.svg)
+
+- [https://github.com/DanielXavierJob/-CVE-2025-55182](https://github.com/DanielXavierJob/-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/DanielXavierJob/-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/DanielXavierJob/-CVE-2025-55182.svg)
+
+- [https://github.com/Darker-Ink/react-ssr-vulnerability](https://github.com/Darker-Ink/react-ssr-vulnerability) : ![starts](https://img.shields.io/github/stars/Darker-Ink/react-ssr-vulnerability.svg) ![forks](https://img.shields.io/github/forks/Darker-Ink/react-ssr-vulnerability.svg)
+
+- [https://github.com/DeDnY/CVE-2025-55182-poc-panel](https://github.com/DeDnY/CVE-2025-55182-poc-panel) : ![starts](https://img.shields.io/github/stars/DeDnY/CVE-2025-55182-poc-panel.svg) ![forks](https://img.shields.io/github/forks/DeDnY/CVE-2025-55182-poc-panel.svg)
+
+- [https://github.com/DoobTheGoober/CVE-2025-55182-Test-Server](https://github.com/DoobTheGoober/CVE-2025-55182-Test-Server) : ![starts](https://img.shields.io/github/stars/DoobTheGoober/CVE-2025-55182-Test-Server.svg) ![forks](https://img.shields.io/github/forks/DoobTheGoober/CVE-2025-55182-Test-Server.svg)
+
+- [https://github.com/Evillm/CVE-2025-55182-PoC](https://github.com/Evillm/CVE-2025-55182-PoC) : ![starts](https://img.shields.io/github/stars/Evillm/CVE-2025-55182-PoC.svg) ![forks](https://img.shields.io/github/forks/Evillm/CVE-2025-55182-PoC.svg)
+
+- [https://github.com/Farhan9488/CVE-2025-55182-research](https://github.com/Farhan9488/CVE-2025-55182-research) : ![starts](https://img.shields.io/github/stars/Farhan9488/CVE-2025-55182-research.svg) ![forks](https://img.shields.io/github/forks/Farhan9488/CVE-2025-55182-research.svg)
+
+- [https://github.com/Goultarde/CVE-2025-55182-React2Shell-Lab](https://github.com/Goultarde/CVE-2025-55182-React2Shell-Lab) : ![starts](https://img.shields.io/github/stars/Goultarde/CVE-2025-55182-React2Shell-Lab.svg) ![forks](https://img.shields.io/github/forks/Goultarde/CVE-2025-55182-React2Shell-Lab.svg)
+
+- [https://github.com/H4R335HR/reactshell](https://github.com/H4R335HR/reactshell) : ![starts](https://img.shields.io/github/stars/H4R335HR/reactshell.svg) ![forks](https://img.shields.io/github/forks/H4R335HR/reactshell.svg)
+
+- [https://github.com/HackIndex-io/React2Shell-CVE-2025-55182](https://github.com/HackIndex-io/React2Shell-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/HackIndex-io/React2Shell-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/HackIndex-io/React2Shell-CVE-2025-55182.svg)
+
+- [https://github.com/I3r1h0n/React2Shell](https://github.com/I3r1h0n/React2Shell) : ![starts](https://img.shields.io/github/stars/I3r1h0n/React2Shell.svg) ![forks](https://img.shields.io/github/forks/I3r1h0n/React2Shell.svg)
+
+- [https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell) : ![starts](https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell.svg) ![forks](https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell.svg)
+
+- [https://github.com/Jakelife/HACKVISER-CVE-2025-55182-LAB](https://github.com/Jakelife/HACKVISER-CVE-2025-55182-LAB) : ![starts](https://img.shields.io/github/stars/Jakelife/HACKVISER-CVE-2025-55182-LAB.svg) ![forks](https://img.shields.io/github/forks/Jakelife/HACKVISER-CVE-2025-55182-LAB.svg)
+
+- [https://github.com/Jeanback1/react-rsc-cve-2025-55182-lab](https://github.com/Jeanback1/react-rsc-cve-2025-55182-lab) : ![starts](https://img.shields.io/github/stars/Jeanback1/react-rsc-cve-2025-55182-lab.svg) ![forks](https://img.shields.io/github/forks/Jeanback1/react-rsc-cve-2025-55182-lab.svg)
+
+- [https://github.com/KingHacker353/R2C-CVE-2025-55182-66478](https://github.com/KingHacker353/R2C-CVE-2025-55182-66478) : ![starts](https://img.shields.io/github/stars/KingHacker353/R2C-CVE-2025-55182-66478.svg) ![forks](https://img.shields.io/github/forks/KingHacker353/R2C-CVE-2025-55182-66478.svg)
+
+- [https://github.com/Kugelbyte/React2Shell-Analysis](https://github.com/Kugelbyte/React2Shell-Analysis) : ![starts](https://img.shields.io/github/stars/Kugelbyte/React2Shell-Analysis.svg) ![forks](https://img.shields.io/github/forks/Kugelbyte/React2Shell-Analysis.svg)
+
+- [https://github.com/LQTjim/next-bug-CVE-2025-55182](https://github.com/LQTjim/next-bug-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/LQTjim/next-bug-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/LQTjim/next-bug-CVE-2025-55182.svg)
+
+- [https://github.com/Least-Significant-Bit/CVE-2025-55182](https://github.com/Least-Significant-Bit/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/Least-Significant-Bit/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/Least-Significant-Bit/CVE-2025-55182.svg)
+
+- [https://github.com/Legus-Yeung/CVE-2025-55182-exploit](https://github.com/Legus-Yeung/CVE-2025-55182-exploit) : ![starts](https://img.shields.io/github/stars/Legus-Yeung/CVE-2025-55182-exploit.svg) ![forks](https://img.shields.io/github/forks/Legus-Yeung/CVE-2025-55182-exploit.svg)
+
+- [https://github.com/LuizHenz/PoC-CVE-2025-55182](https://github.com/LuizHenz/PoC-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/LuizHenz/PoC-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/LuizHenz/PoC-CVE-2025-55182.svg)
+
+- [https://github.com/LvMalware/CVE-2025-55182](https://github.com/LvMalware/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/LvMalware/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/LvMalware/CVE-2025-55182.svg)
+
+- [https://github.com/Macaroniwdcheese/CVE-2025-55182-Lab](https://github.com/Macaroniwdcheese/CVE-2025-55182-Lab) : ![starts](https://img.shields.io/github/stars/Macaroniwdcheese/CVE-2025-55182-Lab.svg) ![forks](https://img.shields.io/github/forks/Macaroniwdcheese/CVE-2025-55182-Lab.svg)
+
+- [https://github.com/Mayca369/CVE-2025-55182](https://github.com/Mayca369/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/Mayca369/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/Mayca369/CVE-2025-55182.svg)
+
+- [https://github.com/MeGaNeKoS/secure-by-default-rce-demo](https://github.com/MeGaNeKoS/secure-by-default-rce-demo) : ![starts](https://img.shields.io/github/stars/MeGaNeKoS/secure-by-default-rce-demo.svg) ![forks](https://img.shields.io/github/forks/MeGaNeKoS/secure-by-default-rce-demo.svg)
+
+- [https://github.com/Mohamedniane/cve-2025-55182-analysis](https://github.com/Mohamedniane/cve-2025-55182-analysis) : ![starts](https://img.shields.io/github/stars/Mohamedniane/cve-2025-55182-analysis.svg) ![forks](https://img.shields.io/github/forks/Mohamedniane/cve-2025-55182-analysis.svg)
+
+- [https://github.com/Mr-Destroyer/CVE-2025-55182](https://github.com/Mr-Destroyer/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/Mr-Destroyer/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/Mr-Destroyer/CVE-2025-55182.svg)
+
+- [https://github.com/MrMahile/MassScanning-CVE-2025-55182](https://github.com/MrMahile/MassScanning-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/MrMahile/MassScanning-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/MrMahile/MassScanning-CVE-2025-55182.svg)
+
+- [https://github.com/MrSol0/CVE-2025-55182-Terminal](https://github.com/MrSol0/CVE-2025-55182-Terminal) : ![starts](https://img.shields.io/github/stars/MrSol0/CVE-2025-55182-Terminal.svg) ![forks](https://img.shields.io/github/forks/MrSol0/CVE-2025-55182-Terminal.svg)
+
+- [https://github.com/MuharremK0/Info-Sys-Security-CVE-2025-55182](https://github.com/MuharremK0/Info-Sys-Security-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/MuharremK0/Info-Sys-Security-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/MuharremK0/Info-Sys-Security-CVE-2025-55182.svg)
+
+- [https://github.com/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478](https://github.com/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478) : ![starts](https://img.shields.io/github/stars/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478.svg) ![forks](https://img.shields.io/github/forks/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478.svg)
+
+- [https://github.com/MyCompanyOrganization/React2Shell-Kingdom](https://github.com/MyCompanyOrganization/React2Shell-Kingdom) : ![starts](https://img.shields.io/github/stars/MyCompanyOrganization/React2Shell-Kingdom.svg) ![forks](https://img.shields.io/github/forks/MyCompanyOrganization/React2Shell-Kingdom.svg)
+
+- [https://github.com/Namsom007/CVE-2025-55182-Exploit](https://github.com/Namsom007/CVE-2025-55182-Exploit) : ![starts](https://img.shields.io/github/stars/Namsom007/CVE-2025-55182-Exploit.svg) ![forks](https://img.shields.io/github/forks/Namsom007/CVE-2025-55182-Exploit.svg)
+
+- [https://github.com/NathanJ60/react2shell-interactive](https://github.com/NathanJ60/react2shell-interactive) : ![starts](https://img.shields.io/github/stars/NathanJ60/react2shell-interactive.svg) ![forks](https://img.shields.io/github/forks/NathanJ60/react2shell-interactive.svg)
+
+- [https://github.com/PedroPLCode/CVE-2025-55182_react2shell_exploit.py](https://github.com/PedroPLCode/CVE-2025-55182_react2shell_exploit.py) : ![starts](https://img.shields.io/github/stars/PedroPLCode/CVE-2025-55182_react2shell_exploit.py.svg) ![forks](https://img.shields.io/github/forks/PedroPLCode/CVE-2025-55182_react2shell_exploit.py.svg)
+
+- [https://github.com/PhanHoangKhang/React2Shell](https://github.com/PhanHoangKhang/React2Shell) : ![starts](https://img.shields.io/github/stars/PhanHoangKhang/React2Shell.svg) ![forks](https://img.shields.io/github/forks/PhanHoangKhang/React2Shell.svg)
+
+- [https://github.com/RajChowdhury240/React2Shell-CVE-2025-55182](https://github.com/RajChowdhury240/React2Shell-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/RajChowdhury240/React2Shell-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/RajChowdhury240/React2Shell-CVE-2025-55182.svg)
+
+- [https://github.com/RewantChaudhari/nextjs-rce-incident-response](https://github.com/RewantChaudhari/nextjs-rce-incident-response) : ![starts](https://img.shields.io/github/stars/RewantChaudhari/nextjs-rce-incident-response.svg) ![forks](https://img.shields.io/github/forks/RewantChaudhari/nextjs-rce-incident-response.svg)
+
+- [https://github.com/S-Mughal/NextJS-app-CVE-2025-55182](https://github.com/S-Mughal/NextJS-app-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/S-Mughal/NextJS-app-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/S-Mughal/NextJS-app-CVE-2025-55182.svg)
+
+- [https://github.com/Samir660x/React2Shell_CVE-2025-55182](https://github.com/Samir660x/React2Shell_CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/Samir660x/React2Shell_CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/Samir660x/React2Shell_CVE-2025-55182.svg)
+
+- [https://github.com/Shadowroot97/React2Shell-CVE-2025-55182](https://github.com/Shadowroot97/React2Shell-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/Shadowroot97/React2Shell-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/Shadowroot97/React2Shell-CVE-2025-55182.svg)
+
+- [https://github.com/Stonelinks/react-cve-2025-55182](https://github.com/Stonelinks/react-cve-2025-55182) : ![starts](https://img.shields.io/github/stars/Stonelinks/react-cve-2025-55182.svg) ![forks](https://img.shields.io/github/forks/Stonelinks/react-cve-2025-55182.svg)
+
+- [https://github.com/TH-SecForge/CVE-2025-55182](https://github.com/TH-SecForge/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/TH-SecForge/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/TH-SecForge/CVE-2025-55182.svg)
+
+- [https://github.com/TechWithOrgito/CVE-2025-55182-Researching-process](https://github.com/TechWithOrgito/CVE-2025-55182-Researching-process) : ![starts](https://img.shields.io/github/stars/TechWithOrgito/CVE-2025-55182-Researching-process.svg) ![forks](https://img.shields.io/github/forks/TechWithOrgito/CVE-2025-55182-Researching-process.svg)
+
+- [https://github.com/UwUGreed/CVE-2025-55182-poc](https://github.com/UwUGreed/CVE-2025-55182-poc) : ![starts](https://img.shields.io/github/stars/UwUGreed/CVE-2025-55182-poc.svg) ![forks](https://img.shields.io/github/forks/UwUGreed/CVE-2025-55182-poc.svg)
+
+- [https://github.com/Vladjrfhfg/React-site-CVE-2025-55182](https://github.com/Vladjrfhfg/React-site-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/Vladjrfhfg/React-site-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/Vladjrfhfg/React-site-CVE-2025-55182.svg)
+
+- [https://github.com/ZorvithonLeo-Null/CVE-2025-55182-exploit](https://github.com/ZorvithonLeo-Null/CVE-2025-55182-exploit) : ![starts](https://img.shields.io/github/stars/ZorvithonLeo-Null/CVE-2025-55182-exploit.svg) ![forks](https://img.shields.io/github/forks/ZorvithonLeo-Null/CVE-2025-55182-exploit.svg)
+
+- [https://github.com/aastikgakhar/CVE-2025-55182-react2shell](https://github.com/aastikgakhar/CVE-2025-55182-react2shell) : ![starts](https://img.shields.io/github/stars/aastikgakhar/CVE-2025-55182-react2shell.svg) ![forks](https://img.shields.io/github/forks/aastikgakhar/CVE-2025-55182-react2shell.svg)
+
+- [https://github.com/abhaybansal16/cve-2025-55182-lab](https://github.com/abhaybansal16/cve-2025-55182-lab) : ![starts](https://img.shields.io/github/stars/abhaybansal16/cve-2025-55182-lab.svg) ![forks](https://img.shields.io/github/forks/abhaybansal16/cve-2025-55182-lab.svg)
+
+- [https://github.com/aisha-jimoh/cve-2025-55182-react2shell-analysis](https://github.com/aisha-jimoh/cve-2025-55182-react2shell-analysis) : ![starts](https://img.shields.io/github/stars/aisha-jimoh/cve-2025-55182-react2shell-analysis.svg) ![forks](https://img.shields.io/github/forks/aisha-jimoh/cve-2025-55182-react2shell-analysis.svg)
+
+- [https://github.com/alexandre-briongos-wavestone/react-cve-2025-55182-lab](https://github.com/alexandre-briongos-wavestone/react-cve-2025-55182-lab) : ![starts](https://img.shields.io/github/stars/alexandre-briongos-wavestone/react-cve-2025-55182-lab.svg) ![forks](https://img.shields.io/github/forks/alexandre-briongos-wavestone/react-cve-2025-55182-lab.svg)
+
+- [https://github.com/alyaapm/CVE-2025-55182-shellinteractive](https://github.com/alyaapm/CVE-2025-55182-shellinteractive) : ![starts](https://img.shields.io/github/stars/alyaapm/CVE-2025-55182-shellinteractive.svg) ![forks](https://img.shields.io/github/forks/alyaapm/CVE-2025-55182-shellinteractive.svg)
+
+- [https://github.com/amikanev/CVE-2025-55182-LAB](https://github.com/amikanev/CVE-2025-55182-LAB) : ![starts](https://img.shields.io/github/stars/amikanev/CVE-2025-55182-LAB.svg) ![forks](https://img.shields.io/github/forks/amikanev/CVE-2025-55182-LAB.svg)
+
+- [https://github.com/amir-malek/react-cve-2025-55182](https://github.com/amir-malek/react-cve-2025-55182) : ![starts](https://img.shields.io/github/stars/amir-malek/react-cve-2025-55182.svg) ![forks](https://img.shields.io/github/forks/amir-malek/react-cve-2025-55182.svg)
+
+- [https://github.com/amirali-ramezani/react2shell-CVE-2025-55182-](https://github.com/amirali-ramezani/react2shell-CVE-2025-55182-) : ![starts](https://img.shields.io/github/stars/amirali-ramezani/react2shell-CVE-2025-55182-.svg) ![forks](https://img.shields.io/github/forks/amirali-ramezani/react2shell-CVE-2025-55182-.svg)
+
+- [https://github.com/androidteacher/REACT-CVE-2025-55182-Lab](https://github.com/androidteacher/REACT-CVE-2025-55182-Lab) : ![starts](https://img.shields.io/github/stars/androidteacher/REACT-CVE-2025-55182-Lab.svg) ![forks](https://img.shields.io/github/forks/androidteacher/REACT-CVE-2025-55182-Lab.svg)
+
+- [https://github.com/aquinn-r7/CVE-2025-55182-VulnCheckPOC](https://github.com/aquinn-r7/CVE-2025-55182-VulnCheckPOC) : ![starts](https://img.shields.io/github/stars/aquinn-r7/CVE-2025-55182-VulnCheckPOC.svg) ![forks](https://img.shields.io/github/forks/aquinn-r7/CVE-2025-55182-VulnCheckPOC.svg)
+
+- [https://github.com/avoidme12/CVE-2025-55182-POC](https://github.com/avoidme12/CVE-2025-55182-POC) : ![starts](https://img.shields.io/github/stars/avoidme12/CVE-2025-55182-POC.svg) ![forks](https://img.shields.io/github/forks/avoidme12/CVE-2025-55182-POC.svg)
+
+- [https://github.com/balochkainat160-cyber/cs50-cybersecurity](https://github.com/balochkainat160-cyber/cs50-cybersecurity) : ![starts](https://img.shields.io/github/stars/balochkainat160-cyber/cs50-cybersecurity.svg) ![forks](https://img.shields.io/github/forks/balochkainat160-cyber/cs50-cybersecurity.svg)
+
+- [https://github.com/bigbluewhale111/CVE-2025-55182-LAB](https://github.com/bigbluewhale111/CVE-2025-55182-LAB) : ![starts](https://img.shields.io/github/stars/bigbluewhale111/CVE-2025-55182-LAB.svg) ![forks](https://img.shields.io/github/forks/bigbluewhale111/CVE-2025-55182-LAB.svg)
+
+- [https://github.com/byte16384/CVE-2025-55182](https://github.com/byte16384/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/byte16384/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/byte16384/CVE-2025-55182.svg)
+
+- [https://github.com/cc3305/CVE-2025-55182](https://github.com/cc3305/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/cc3305/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/cc3305/CVE-2025-55182.svg)
+
+- [https://github.com/ckex/test-vuln](https://github.com/ckex/test-vuln) : ![starts](https://img.shields.io/github/stars/ckex/test-vuln.svg) ![forks](https://img.shields.io/github/forks/ckex/test-vuln.svg)
+
+- [https://github.com/d0cnull/nextjs-CVE-2025-55182](https://github.com/d0cnull/nextjs-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/d0cnull/nextjs-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/d0cnull/nextjs-CVE-2025-55182.svg)
+
+- [https://github.com/deepankarkumar1/CVE-2025-55182_Vulnerable-Application](https://github.com/deepankarkumar1/CVE-2025-55182_Vulnerable-Application) : ![starts](https://img.shields.io/github/stars/deepankarkumar1/CVE-2025-55182_Vulnerable-Application.svg) ![forks](https://img.shields.io/github/forks/deepankarkumar1/CVE-2025-55182_Vulnerable-Application.svg)
+
+- [https://github.com/degenwithheart/React2Shell-Vulnerability-Verification-Script](https://github.com/degenwithheart/React2Shell-Vulnerability-Verification-Script) : ![starts](https://img.shields.io/github/stars/degenwithheart/React2Shell-Vulnerability-Verification-Script.svg) ![forks](https://img.shields.io/github/forks/degenwithheart/React2Shell-Vulnerability-Verification-Script.svg)
+
+- [https://github.com/dhananjayakumarn/CVE-2025-55182-Lab](https://github.com/dhananjayakumarn/CVE-2025-55182-Lab) : ![starts](https://img.shields.io/github/stars/dhananjayakumarn/CVE-2025-55182-Lab.svg) ![forks](https://img.shields.io/github/forks/dhananjayakumarn/CVE-2025-55182-Lab.svg)
+
+- [https://github.com/diamorphine666/React2shell-CVE-2025-55182-Exploit](https://github.com/diamorphine666/React2shell-CVE-2025-55182-Exploit) : ![starts](https://img.shields.io/github/stars/diamorphine666/React2shell-CVE-2025-55182-Exploit.svg) ![forks](https://img.shields.io/github/forks/diamorphine666/React2shell-CVE-2025-55182-Exploit.svg)
+
+- [https://github.com/dotnetguard/CVE-2025-55182-Exploit](https://github.com/dotnetguard/CVE-2025-55182-Exploit) : ![starts](https://img.shields.io/github/stars/dotnetguard/CVE-2025-55182-Exploit.svg) ![forks](https://img.shields.io/github/forks/dotnetguard/CVE-2025-55182-Exploit.svg)
+
+- [https://github.com/ducducuc111/CVE-2025-55182-poc](https://github.com/ducducuc111/CVE-2025-55182-poc) : ![starts](https://img.shields.io/github/stars/ducducuc111/CVE-2025-55182-poc.svg) ![forks](https://img.shields.io/github/forks/ducducuc111/CVE-2025-55182-poc.svg)
+
+- [https://github.com/eagle-nett/React2Shell-PoC-CVE-2025-55182](https://github.com/eagle-nett/React2Shell-PoC-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/eagle-nett/React2Shell-PoC-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/eagle-nett/React2Shell-PoC-CVE-2025-55182.svg)
+
+- [https://github.com/en0f/CVE-2025-55182-poc-json](https://github.com/en0f/CVE-2025-55182-poc-json) : ![starts](https://img.shields.io/github/stars/en0f/CVE-2025-55182-poc-json.svg) ![forks](https://img.shields.io/github/forks/en0f/CVE-2025-55182-poc-json.svg)
+
+- [https://github.com/ethicalrohitt/React2Shell_cve-2025-55182](https://github.com/ethicalrohitt/React2Shell_cve-2025-55182) : ![starts](https://img.shields.io/github/stars/ethicalrohitt/React2Shell_cve-2025-55182.svg) ![forks](https://img.shields.io/github/forks/ethicalrohitt/React2Shell_cve-2025-55182.svg)
+
+- [https://github.com/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC](https://github.com/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC) : ![starts](https://img.shields.io/github/stars/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC.svg) ![forks](https://img.shields.io/github/forks/exrienz/CVE-2025-55182-NextJS-Scanner-React2Shell-PoC.svg)
+
+- [https://github.com/eytannatye/R2S_CVE-2025-55182](https://github.com/eytannatye/R2S_CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/eytannatye/R2S_CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/eytannatye/R2S_CVE-2025-55182.svg)
+
+- [https://github.com/f0xyx/CVE-2025-55182-Scanner](https://github.com/f0xyx/CVE-2025-55182-Scanner) : ![starts](https://img.shields.io/github/stars/f0xyx/CVE-2025-55182-Scanner.svg) ![forks](https://img.shields.io/github/forks/f0xyx/CVE-2025-55182-Scanner.svg)
+
+- [https://github.com/faisha1311/React2Shell-CVE-2025-55182-TryHackMe](https://github.com/faisha1311/React2Shell-CVE-2025-55182-TryHackMe) : ![starts](https://img.shields.io/github/stars/faisha1311/React2Shell-CVE-2025-55182-TryHackMe.svg) ![forks](https://img.shields.io/github/forks/faisha1311/React2Shell-CVE-2025-55182-TryHackMe.svg)
+
+- [https://github.com/fankh/cve-2025-55182-test-lab-windows](https://github.com/fankh/cve-2025-55182-test-lab-windows) : ![starts](https://img.shields.io/github/stars/fankh/cve-2025-55182-test-lab-windows.svg) ![forks](https://img.shields.io/github/forks/fankh/cve-2025-55182-test-lab-windows.svg)
+
+- [https://github.com/gahoole77/gahoole77.github.io](https://github.com/gahoole77/gahoole77.github.io) : ![starts](https://img.shields.io/github/stars/gahoole77/gahoole77.github.io.svg) ![forks](https://img.shields.io/github/forks/gahoole77/gahoole77.github.io.svg)
+
+- [https://github.com/garux-sec/PoC-react2shell-CVE-2025-55182](https://github.com/garux-sec/PoC-react2shell-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/garux-sec/PoC-react2shell-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/garux-sec/PoC-react2shell-CVE-2025-55182.svg)
+
+- [https://github.com/git0xLai/React2ShellPoC](https://github.com/git0xLai/React2ShellPoC) : ![starts](https://img.shields.io/github/stars/git0xLai/React2ShellPoC.svg) ![forks](https://img.shields.io/github/forks/git0xLai/React2ShellPoC.svg)
+
+- [https://github.com/gonaumov/cve-2025-55182-checker](https://github.com/gonaumov/cve-2025-55182-checker) : ![starts](https://img.shields.io/github/stars/gonaumov/cve-2025-55182-checker.svg) ![forks](https://img.shields.io/github/forks/gonaumov/cve-2025-55182-checker.svg)
+
+- [https://github.com/gunyakit/CVE-2025-55182-PoC-exploit](https://github.com/gunyakit/CVE-2025-55182-PoC-exploit) : ![starts](https://img.shields.io/github/stars/gunyakit/CVE-2025-55182-PoC-exploit.svg) ![forks](https://img.shields.io/github/forks/gunyakit/CVE-2025-55182-PoC-exploit.svg)
+
+- [https://github.com/h3n1s3/React2shell-Research](https://github.com/h3n1s3/React2shell-Research) : ![starts](https://img.shields.io/github/stars/h3n1s3/React2shell-Research.svg) ![forks](https://img.shields.io/github/forks/h3n1s3/React2shell-Research.svg)
+
+- [https://github.com/hunter24x24/CVE-2025-55182-mass](https://github.com/hunter24x24/CVE-2025-55182-mass) : ![starts](https://img.shields.io/github/stars/hunter24x24/CVE-2025-55182-mass.svg) ![forks](https://img.shields.io/github/forks/hunter24x24/CVE-2025-55182-mass.svg)
+
+- [https://github.com/hyan0116/Next.js-RCE-CVE-2025-55182](https://github.com/hyan0116/Next.js-RCE-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/hyan0116/Next.js-RCE-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/hyan0116/Next.js-RCE-CVE-2025-55182.svg)
+
+- [https://github.com/iamblacksolo2-BugBounty/POC-CVE-2025-55182](https://github.com/iamblacksolo2-BugBounty/POC-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/iamblacksolo2-BugBounty/POC-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/iamblacksolo2-BugBounty/POC-CVE-2025-55182.svg)
+
+- [https://github.com/iamblacksolo2-BugBounty/POC2-CVE-2025-55182](https://github.com/iamblacksolo2-BugBounty/POC2-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/iamblacksolo2-BugBounty/POC2-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/iamblacksolo2-BugBounty/POC2-CVE-2025-55182.svg)
+
+- [https://github.com/iapetus12/hackcar-writeup](https://github.com/iapetus12/hackcar-writeup) : ![starts](https://img.shields.io/github/stars/iapetus12/hackcar-writeup.svg) ![forks](https://img.shields.io/github/forks/iapetus12/hackcar-writeup.svg)
+
+- [https://github.com/ilixm/PoC-RCE-CVE-2025-55182](https://github.com/ilixm/PoC-RCE-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/ilixm/PoC-RCE-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/ilixm/PoC-RCE-CVE-2025-55182.svg)
+
+- [https://github.com/im-hanzou/CVE-2025-55182-POC-SCANNER](https://github.com/im-hanzou/CVE-2025-55182-POC-SCANNER) : ![starts](https://img.shields.io/github/stars/im-hanzou/CVE-2025-55182-POC-SCANNER.svg) ![forks](https://img.shields.io/github/forks/im-hanzou/CVE-2025-55182-POC-SCANNER.svg)
+
+- [https://github.com/itumo-arigatone/study-CVE-2025-55182](https://github.com/itumo-arigatone/study-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/itumo-arigatone/study-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/itumo-arigatone/study-CVE-2025-55182.svg)
+
+- [https://github.com/jan0x190/CVE-2025-55182-Simple-Scanner-main](https://github.com/jan0x190/CVE-2025-55182-Simple-Scanner-main) : ![starts](https://img.shields.io/github/stars/jan0x190/CVE-2025-55182-Simple-Scanner-main.svg) ![forks](https://img.shields.io/github/forks/jan0x190/CVE-2025-55182-Simple-Scanner-main.svg)
+
+- [https://github.com/jandelima/cve-2025-55182-poc-test](https://github.com/jandelima/cve-2025-55182-poc-test) : ![starts](https://img.shields.io/github/stars/jandelima/cve-2025-55182-poc-test.svg) ![forks](https://img.shields.io/github/forks/jandelima/cve-2025-55182-poc-test.svg)
+
+- [https://github.com/joaoreis13/flight-risk](https://github.com/joaoreis13/flight-risk) : ![starts](https://img.shields.io/github/stars/joaoreis13/flight-risk.svg) ![forks](https://img.shields.io/github/forks/joaoreis13/flight-risk.svg)
+
+- [https://github.com/joaovicdev/EXPLOIT-CVE-2025-55182](https://github.com/joaovicdev/EXPLOIT-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2025-55182.svg)
+
+- [https://github.com/joshterrill/CVE-2025-55182-realistic-poc](https://github.com/joshterrill/CVE-2025-55182-realistic-poc) : ![starts](https://img.shields.io/github/stars/joshterrill/CVE-2025-55182-realistic-poc.svg) ![forks](https://img.shields.io/github/forks/joshterrill/CVE-2025-55182-realistic-poc.svg)
+
+- [https://github.com/jumodada/react-cve-2025-55182-demo](https://github.com/jumodada/react-cve-2025-55182-demo) : ![starts](https://img.shields.io/github/stars/jumodada/react-cve-2025-55182-demo.svg) ![forks](https://img.shields.io/github/forks/jumodada/react-cve-2025-55182-demo.svg)
+
+- [https://github.com/k1llmelira/react2shell-exploit](https://github.com/k1llmelira/react2shell-exploit) : ![starts](https://img.shields.io/github/stars/k1llmelira/react2shell-exploit.svg) ![forks](https://img.shields.io/github/forks/k1llmelira/react2shell-exploit.svg)
+
+- [https://github.com/kaxm23/CVE-2025-55182-Auto-Scanner](https://github.com/kaxm23/CVE-2025-55182-Auto-Scanner) : ![starts](https://img.shields.io/github/stars/kaxm23/CVE-2025-55182-Auto-Scanner.svg) ![forks](https://img.shields.io/github/forks/kaxm23/CVE-2025-55182-Auto-Scanner.svg)
+
+- [https://github.com/kaxm23/rust-cve-2025-55182-scanner](https://github.com/kaxm23/rust-cve-2025-55182-scanner) : ![starts](https://img.shields.io/github/stars/kaxm23/rust-cve-2025-55182-scanner.svg) ![forks](https://img.shields.io/github/forks/kaxm23/rust-cve-2025-55182-scanner.svg)
+
+- [https://github.com/kevin9480/Security_incident_report](https://github.com/kevin9480/Security_incident_report) : ![starts](https://img.shields.io/github/stars/kevin9480/Security_incident_report.svg) ![forks](https://img.shields.io/github/forks/kevin9480/Security_incident_report.svg)
+
+- [https://github.com/knightwolf01/React2Shell](https://github.com/knightwolf01/React2Shell) : ![starts](https://img.shields.io/github/stars/knightwolf01/React2Shell.svg) ![forks](https://img.shields.io/github/forks/knightwolf01/React2Shell.svg)
+
+- [https://github.com/l0lsec/cve-2025-55182-lab](https://github.com/l0lsec/cve-2025-55182-lab) : ![starts](https://img.shields.io/github/stars/l0lsec/cve-2025-55182-lab.svg) ![forks](https://img.shields.io/github/forks/l0lsec/cve-2025-55182-lab.svg)
+
+- [https://github.com/lalaterry/CVE-2025-55182-React2Shell-lab](https://github.com/lalaterry/CVE-2025-55182-React2Shell-lab) : ![starts](https://img.shields.io/github/stars/lalaterry/CVE-2025-55182-React2Shell-lab.svg) ![forks](https://img.shields.io/github/forks/lalaterry/CVE-2025-55182-React2Shell-lab.svg)
+
+- [https://github.com/litndat/React2Shell-PoC-CVE-2025-55182](https://github.com/litndat/React2Shell-PoC-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/litndat/React2Shell-PoC-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/litndat/React2Shell-PoC-CVE-2025-55182.svg)
+
+- [https://github.com/lowercasenumbers/CVE-2025-55182](https://github.com/lowercasenumbers/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/lowercasenumbers/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/lowercasenumbers/CVE-2025-55182.svg)
+
+- [https://github.com/luoqichen/CVE-2025-55182-POC](https://github.com/luoqichen/CVE-2025-55182-POC) : ![starts](https://img.shields.io/github/stars/luoqichen/CVE-2025-55182-POC.svg) ![forks](https://img.shields.io/github/forks/luoqichen/CVE-2025-55182-POC.svg)
+
+- [https://github.com/lutraat/CVE-2025-55182-React-RSC-Exploit](https://github.com/lutraat/CVE-2025-55182-React-RSC-Exploit) : ![starts](https://img.shields.io/github/stars/lutraat/CVE-2025-55182-React-RSC-Exploit.svg) ![forks](https://img.shields.io/github/forks/lutraat/CVE-2025-55182-React-RSC-Exploit.svg)
+
+- [https://github.com/masterwok/PoC-CVE-2025-55182](https://github.com/masterwok/PoC-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/masterwok/PoC-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/masterwok/PoC-CVE-2025-55182.svg)
+
+- [https://github.com/mayank729/CVE-2025-55182-scanner](https://github.com/mayank729/CVE-2025-55182-scanner) : ![starts](https://img.shields.io/github/stars/mayank729/CVE-2025-55182-scanner.svg) ![forks](https://img.shields.io/github/forks/mayank729/CVE-2025-55182-scanner.svg)
+
+- [https://github.com/min8282/CVE-2025-55182](https://github.com/min8282/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/min8282/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/min8282/CVE-2025-55182.svg)
+
+- [https://github.com/mohit121312/CVE-2025-55182_full_exploit](https://github.com/mohit121312/CVE-2025-55182_full_exploit) : ![starts](https://img.shields.io/github/stars/mohit121312/CVE-2025-55182_full_exploit.svg) ![forks](https://img.shields.io/github/forks/mohit121312/CVE-2025-55182_full_exploit.svg)
+
+- [https://github.com/monarchfish/cve-2025-55182-poc](https://github.com/monarchfish/cve-2025-55182-poc) : ![starts](https://img.shields.io/github/stars/monarchfish/cve-2025-55182-poc.svg) ![forks](https://img.shields.io/github/forks/monarchfish/cve-2025-55182-poc.svg)
+
+- [https://github.com/mooowu/cve-2025-55182-poc](https://github.com/mooowu/cve-2025-55182-poc) : ![starts](https://img.shields.io/github/stars/mooowu/cve-2025-55182-poc.svg) ![forks](https://img.shields.io/github/forks/mooowu/cve-2025-55182-poc.svg)
+
+- [https://github.com/muthaiyanmani/react2shell-checker](https://github.com/muthaiyanmani/react2shell-checker) : ![starts](https://img.shields.io/github/stars/muthaiyanmani/react2shell-checker.svg) ![forks](https://img.shields.io/github/forks/muthaiyanmani/react2shell-checker.svg)
+
+- [https://github.com/mxm0z/r2s](https://github.com/mxm0z/r2s) : ![starts](https://img.shields.io/github/stars/mxm0z/r2s.svg) ![forks](https://img.shields.io/github/forks/mxm0z/r2s.svg)
+
+- [https://github.com/mythicemissarymall/zuvmwbnt](https://github.com/mythicemissarymall/zuvmwbnt) : ![starts](https://img.shields.io/github/stars/mythicemissarymall/zuvmwbnt.svg) ![forks](https://img.shields.io/github/forks/mythicemissarymall/zuvmwbnt.svg)
+
+- [https://github.com/nerium-security/CVE-2025-55182](https://github.com/nerium-security/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/nerium-security/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/nerium-security/CVE-2025-55182.svg)
+
+- [https://github.com/nexxp90/CVE-2025-55182_RCE_Exploit](https://github.com/nexxp90/CVE-2025-55182_RCE_Exploit) : ![starts](https://img.shields.io/github/stars/nexxp90/CVE-2025-55182_RCE_Exploit.svg) ![forks](https://img.shields.io/github/forks/nexxp90/CVE-2025-55182_RCE_Exploit.svg)
+
+- [https://github.com/ngvcanh/CVE-2025-55182-Attack-Analysis](https://github.com/ngvcanh/CVE-2025-55182-Attack-Analysis) : ![starts](https://img.shields.io/github/stars/ngvcanh/CVE-2025-55182-Attack-Analysis.svg) ![forks](https://img.shields.io/github/forks/ngvcanh/CVE-2025-55182-Attack-Analysis.svg)
+
+- [https://github.com/niokagi/react-cve-2025-55182](https://github.com/niokagi/react-cve-2025-55182) : ![starts](https://img.shields.io/github/stars/niokagi/react-cve-2025-55182.svg) ![forks](https://img.shields.io/github/forks/niokagi/react-cve-2025-55182.svg)
+
+- [https://github.com/nomorebreach/POC-CVE-2025-55182](https://github.com/nomorebreach/POC-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/nomorebreach/POC-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/nomorebreach/POC-CVE-2025-55182.svg)
+
+- [https://github.com/nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-](https://github.com/nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-) : ![starts](https://img.shields.io/github/stars/nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-.svg) ![forks](https://img.shields.io/github/forks/nulltrace1336/CVE-2025-55182-Metasploit-exploit-skeleton-real-flow-.svg)
+
+- [https://github.com/opsecramdan/react2shell-cve-2025-55182](https://github.com/opsecramdan/react2shell-cve-2025-55182) : ![starts](https://img.shields.io/github/stars/opsecramdan/react2shell-cve-2025-55182.svg) ![forks](https://img.shields.io/github/forks/opsecramdan/react2shell-cve-2025-55182.svg)
+
+- [https://github.com/orgito1015/CVE-2025-55182-RCE-Exploit](https://github.com/orgito1015/CVE-2025-55182-RCE-Exploit) : ![starts](https://img.shields.io/github/stars/orgito1015/CVE-2025-55182-RCE-Exploit.svg) ![forks](https://img.shields.io/github/forks/orgito1015/CVE-2025-55182-RCE-Exploit.svg)
+
+- [https://github.com/oscar-mine/R2SAE](https://github.com/oscar-mine/R2SAE) : ![starts](https://img.shields.io/github/stars/oscar-mine/R2SAE.svg) ![forks](https://img.shields.io/github/forks/oscar-mine/R2SAE.svg)
+
+- [https://github.com/osman-butt/CVE-2025-55182-demo](https://github.com/osman-butt/CVE-2025-55182-demo) : ![starts](https://img.shields.io/github/stars/osman-butt/CVE-2025-55182-demo.svg) ![forks](https://img.shields.io/github/forks/osman-butt/CVE-2025-55182-demo.svg)
+
+- [https://github.com/pitufo1721/CVE-2025-55182-GodzillaMemoryShell](https://github.com/pitufo1721/CVE-2025-55182-GodzillaMemoryShell) : ![starts](https://img.shields.io/github/stars/pitufo1721/CVE-2025-55182-GodzillaMemoryShell.svg) ![forks](https://img.shields.io/github/forks/pitufo1721/CVE-2025-55182-GodzillaMemoryShell.svg)
+
+- [https://github.com/porsellaj/cve-2025-55182-react2shell-analysis](https://github.com/porsellaj/cve-2025-55182-react2shell-analysis) : ![starts](https://img.shields.io/github/stars/porsellaj/cve-2025-55182-react2shell-analysis.svg) ![forks](https://img.shields.io/github/forks/porsellaj/cve-2025-55182-react2shell-analysis.svg)
+
+- [https://github.com/premdanav/react2shelldemo](https://github.com/premdanav/react2shelldemo) : ![starts](https://img.shields.io/github/stars/premdanav/react2shelldemo.svg) ![forks](https://img.shields.io/github/forks/premdanav/react2shelldemo.svg)
+
+- [https://github.com/pwnxpl0it/react2shell-lab](https://github.com/pwnxpl0it/react2shell-lab) : ![starts](https://img.shields.io/github/stars/pwnxpl0it/react2shell-lab.svg) ![forks](https://img.shields.io/github/forks/pwnxpl0it/react2shell-lab.svg)
+
+- [https://github.com/r4j3sh-com/CVE-2025-55182](https://github.com/r4j3sh-com/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/r4j3sh-com/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/r4j3sh-com/CVE-2025-55182.svg)
+
+- [https://github.com/rahul-securify/React2Shell-CVE-2025-55182](https://github.com/rahul-securify/React2Shell-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/rahul-securify/React2Shell-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/rahul-securify/React2Shell-CVE-2025-55182.svg)
+
+- [https://github.com/randarts/react-rce](https://github.com/randarts/react-rce) : ![starts](https://img.shields.io/github/stars/randarts/react-rce.svg) ![forks](https://img.shields.io/github/forks/randarts/react-rce.svg)
+
+- [https://github.com/rashedhasan090/cve-2025-55182-mitigator](https://github.com/rashedhasan090/cve-2025-55182-mitigator) : ![starts](https://img.shields.io/github/stars/rashedhasan090/cve-2025-55182-mitigator.svg) ![forks](https://img.shields.io/github/forks/rashedhasan090/cve-2025-55182-mitigator.svg)
+
+- [https://github.com/razureink/cve-2025-55182-react2shell_reproduction](https://github.com/razureink/cve-2025-55182-react2shell_reproduction) : ![starts](https://img.shields.io/github/stars/razureink/cve-2025-55182-react2shell_reproduction.svg) ![forks](https://img.shields.io/github/forks/razureink/cve-2025-55182-react2shell_reproduction.svg)
+
+- [https://github.com/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-parcel](https://github.com/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-parcel) : ![starts](https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-parcel.svg) ![forks](https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-parcel.svg)
+
+- [https://github.com/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-turbopack](https://github.com/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-turbopack) : ![starts](https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-turbopack.svg) ![forks](https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-turbopack.svg)
+
+- [https://github.com/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-webpack](https://github.com/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-webpack) : ![starts](https://img.shields.io/github/stars/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-webpack.svg) ![forks](https://img.shields.io/github/forks/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-webpack.svg)
+
+- [https://github.com/ryanhafid/PoC_CVE-2025-55182](https://github.com/ryanhafid/PoC_CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/ryanhafid/PoC_CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/ryanhafid/PoC_CVE-2025-55182.svg)
+
+- [https://github.com/ryanhafid/Scan_CVE-2025-55182](https://github.com/ryanhafid/Scan_CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/ryanhafid/Scan_CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/ryanhafid/Scan_CVE-2025-55182.svg)
+
+- [https://github.com/satriarizka/CVE-2025-55182-Simple-Scanner](https://github.com/satriarizka/CVE-2025-55182-Simple-Scanner) : ![starts](https://img.shields.io/github/stars/satriarizka/CVE-2025-55182-Simple-Scanner.svg) ![forks](https://img.shields.io/github/forks/satriarizka/CVE-2025-55182-Simple-Scanner.svg)
+
+- [https://github.com/scumfrog/FiberBreak](https://github.com/scumfrog/FiberBreak) : ![starts](https://img.shields.io/github/stars/scumfrog/FiberBreak.svg) ![forks](https://img.shields.io/github/forks/scumfrog/FiberBreak.svg)
+
+- [https://github.com/selectarget/CVE-2025-55182-Exploit](https://github.com/selectarget/CVE-2025-55182-Exploit) : ![starts](https://img.shields.io/github/stars/selectarget/CVE-2025-55182-Exploit.svg) ![forks](https://img.shields.io/github/forks/selectarget/CVE-2025-55182-Exploit.svg)
+
+- [https://github.com/shakilkhatri/scanner-for-CVE-2025-55182-vulnerability](https://github.com/shakilkhatri/scanner-for-CVE-2025-55182-vulnerability) : ![starts](https://img.shields.io/github/stars/shakilkhatri/scanner-for-CVE-2025-55182-vulnerability.svg) ![forks](https://img.shields.io/github/forks/shakilkhatri/scanner-for-CVE-2025-55182-vulnerability.svg)
+
+- [https://github.com/sherlocksecurity/CVE-2025-55182-Exploit-scanner](https://github.com/sherlocksecurity/CVE-2025-55182-Exploit-scanner) : ![starts](https://img.shields.io/github/stars/sherlocksecurity/CVE-2025-55182-Exploit-scanner.svg) ![forks](https://img.shields.io/github/forks/sherlocksecurity/CVE-2025-55182-Exploit-scanner.svg)
+
+- [https://github.com/shibaaa204/React2Shell](https://github.com/shibaaa204/React2Shell) : ![starts](https://img.shields.io/github/stars/shibaaa204/React2Shell.svg) ![forks](https://img.shields.io/github/forks/shibaaa204/React2Shell.svg)
+
+- [https://github.com/shreyas-malhotra/React2Shell-CVE-2025-55182](https://github.com/shreyas-malhotra/React2Shell-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/shreyas-malhotra/React2Shell-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/shreyas-malhotra/React2Shell-CVE-2025-55182.svg)
+
+- [https://github.com/simantchaudhari/CVE-2025-55182](https://github.com/simantchaudhari/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/simantchaudhari/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/simantchaudhari/CVE-2025-55182.svg)
+
+- [https://github.com/sponte/nextjs-cve-version-confusion](https://github.com/sponte/nextjs-cve-version-confusion) : ![starts](https://img.shields.io/github/stars/sponte/nextjs-cve-version-confusion.svg) ![forks](https://img.shields.io/github/forks/sponte/nextjs-cve-version-confusion.svg)
+
+- [https://github.com/tamagorengs/react2shell-poc-CVE-2025-55182](https://github.com/tamagorengs/react2shell-poc-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/tamagorengs/react2shell-poc-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/tamagorengs/react2shell-poc-CVE-2025-55182.svg)
+
+- [https://github.com/tammin86/4thProject_Team1-CVE-2025-55182-](https://github.com/tammin86/4thProject_Team1-CVE-2025-55182-) : ![starts](https://img.shields.io/github/stars/tammin86/4thProject_Team1-CVE-2025-55182-.svg) ![forks](https://img.shields.io/github/forks/tammin86/4thProject_Team1-CVE-2025-55182-.svg)
+
+- [https://github.com/thekamran/CVE-2025-55182-Proof-of-Concept](https://github.com/thekamran/CVE-2025-55182-Proof-of-Concept) : ![starts](https://img.shields.io/github/stars/thekamran/CVE-2025-55182-Proof-of-Concept.svg) ![forks](https://img.shields.io/github/forks/thekamran/CVE-2025-55182-Proof-of-Concept.svg)
+
+- [https://github.com/trax69/cve-2025-55182-poc](https://github.com/trax69/cve-2025-55182-poc) : ![starts](https://img.shields.io/github/stars/trax69/cve-2025-55182-poc.svg) ![forks](https://img.shields.io/github/forks/trax69/cve-2025-55182-poc.svg)
+
+- [https://github.com/trilogy-group/react2shell-scan](https://github.com/trilogy-group/react2shell-scan) : ![starts](https://img.shields.io/github/stars/trilogy-group/react2shell-scan.svg) ![forks](https://img.shields.io/github/forks/trilogy-group/react2shell-scan.svg)
+
+- [https://github.com/w3nch/CVE-2025-55182-in-go](https://github.com/w3nch/CVE-2025-55182-in-go) : ![starts](https://img.shields.io/github/stars/w3nch/CVE-2025-55182-in-go.svg) ![forks](https://img.shields.io/github/forks/w3nch/CVE-2025-55182-in-go.svg)
+
+- [https://github.com/yannisduvignau/react2shell-exploit](https://github.com/yannisduvignau/react2shell-exploit) : ![starts](https://img.shields.io/github/stars/yannisduvignau/react2shell-exploit.svg) ![forks](https://img.shields.io/github/forks/yannisduvignau/react2shell-exploit.svg)
+
+- [https://github.com/yaupunal/CVE-2025-55182-scanner](https://github.com/yaupunal/CVE-2025-55182-scanner) : ![starts](https://img.shields.io/github/stars/yaupunal/CVE-2025-55182-scanner.svg) ![forks](https://img.shields.io/github/forks/yaupunal/CVE-2025-55182-scanner.svg)
+
+- [https://github.com/ysfcndgr/React2Shell-CVE-2025-55182-Advanced-Scanner](https://github.com/ysfcndgr/React2Shell-CVE-2025-55182-Advanced-Scanner) : ![starts](https://img.shields.io/github/stars/ysfcndgr/React2Shell-CVE-2025-55182-Advanced-Scanner.svg) ![forks](https://img.shields.io/github/forks/ysfcndgr/React2Shell-CVE-2025-55182-Advanced-Scanner.svg)
+
+- [https://github.com/yunaranyancat/CVE-2025-55182-NSE](https://github.com/yunaranyancat/CVE-2025-55182-NSE) : ![starts](https://img.shields.io/github/stars/yunaranyancat/CVE-2025-55182-NSE.svg) ![forks](https://img.shields.io/github/forks/yunaranyancat/CVE-2025-55182-NSE.svg)
+
+- [https://github.com/zessu/CVE-2025-55182-Typescript](https://github.com/zessu/CVE-2025-55182-Typescript) : ![starts](https://img.shields.io/github/stars/zessu/CVE-2025-55182-Typescript.svg) ![forks](https://img.shields.io/github/forks/zessu/CVE-2025-55182-Typescript.svg)
+
+- [https://github.com/zorejt/Rust_CVE-2025-55182](https://github.com/zorejt/Rust_CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/zorejt/Rust_CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/zorejt/Rust_CVE-2025-55182.svg)
+
 ## CVE-2025-55177
  Incomplete authorization of linked device synchronization messages in WhatsApp for iOS prior to v2.25.21.73, WhatsApp Business for iOS v2.25.21.78, and WhatsApp for Mac v2.25.21.78 could have allowed an unrelated user to trigger processing of content from an arbitrary URL on a target’s device. We assess that this vulnerability, in combination with an OS-level vulnerability on Apple platforms (CVE-2025-43300), may have been exploited in a sophisticated attack against specific targeted users.
 
