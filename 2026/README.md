@@ -1,3 +1,8 @@
+## CVE-2026-105844
+> Payload is a free and open source headless content management system. In versions from 3.0.0 before 3.88.0 and canary versions before 4.0.0-canary.27, an unauthenticated user can submit prototype-sensitive field paths when @payloadcms/plugin-import-export is enabled, causing unintended application behavior that can lead to remote code execution. This issue is fixed in versions 3.88.0 and 4.0.0-canary.27.
+
+- [https://github.com/murrez/CVE-2026-105844](https://github.com/murrez/CVE-2026-105844) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-105844.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-105844.svg)
+
 ## CVE-2026-105314
 > Papermerge 3.5.3 allows remote code execution by a standard user via directory traversal in a /api/documents/upload call. A Python .pth file can be written to site-packages, and its code is executed upon the next start of the Python interpreter.
 
@@ -167,6 +172,11 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 
 - [https://github.com/BomboBombone/CVE-2026-102971](https://github.com/BomboBombone/CVE-2026-102971) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-102971.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-102971.svg)
 
+## CVE-2026-102782
+> Joomla Extension - ordasoft.com - Unauthenticated SQL injection in OrdaSoft Simple Membership &lt; 7.4.0 - site/simplemembership.php dispatches task=checkLoginPass with no authentication or access control check of any kind. The handler reads a login request parameter through Joomla’s generic, non-sanitizing input filter, which strips HTML/script tags but never touches quotes or SQL syntax, and concatenates it directly into a query string with no escaping or parameterization:
+
+- [https://github.com/murrez/CVE-2026-102782](https://github.com/murrez/CVE-2026-102782) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-102782.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-102782.svg)
+
 ## CVE-2026-102489
 > Zammad versions 6.3.0 to 6.5.4 are vulnerable a session hijack vulnerability that leads to remote code execution as the zammad user. The bug is also present in version 7.0.0 to version 7.1.2, but not exploitable due to changes in the underlying framework.
 
@@ -207,6 +217,11 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 > A flaw has been found in owen2345 Camaleon CMS up to 2.9.2. Impacted is the function crop of the file app/controllers/camaleon_cms/admin/media_controller.rb of the component Media Crop Handler. This manipulation of the argument saved_avatar causes authorization bypass. The attack may be initiated remotely. The exploit has been published and may be used. Upgrading to version 2.9.3 is recommended to address this issue. Patch name: c143e145caa600947e70a240e87f2fed889149d3. It is suggested to upgrad
 
 - [https://github.com/7acini/CVE-2026-102261](https://github.com/7acini/CVE-2026-102261) : ![starts](https://img.shields.io/github/stars/7acini/CVE-2026-102261.svg) ![forks](https://img.shields.io/github/forks/7acini/CVE-2026-102261.svg)
+
+## CVE-2026-102253
+> iperf3 versions prior to 3.22 contains a denial of service vulnerability that allows unauthenticated remote attackers to crash-loop the server&#x27;s UDP receive worker into an unrecoverable infinite loop by sending a single crafted control-channel parameter message followed by one 16-byte UDP datagram. Attackers can permanently pin the affected per-stream receive thread at approximately 100% CPU usage, rendering the server unusable until forcibly killed with SIGKILL, as the process does not respond 
+
+- [https://github.com/Ravi-lk/CVE-2026-102253-POC](https://github.com/Ravi-lk/CVE-2026-102253-POC) : ![starts](https://img.shields.io/github/stars/Ravi-lk/CVE-2026-102253-POC.svg) ![forks](https://img.shields.io/github/forks/Ravi-lk/CVE-2026-102253-POC.svg)
 
 ## CVE-2026-101894
 > The decompress package for Node.js extracts archives. Prior to 10.2.2 and 11.1.4, the default decompress(input, output) API relies on lexical containment checks that do not account for the kernel following a planted symlink chain. An attacker can supply a crafted archive containing chained symlink entries so that a later entry resolves outside the output directory. This allows files outside output to be read or written, and overwriting startup scripts or configuration can lead to remote code exe
@@ -293,6 +308,11 @@ This issue affects Mediawiki - Wikibase Extension: from * before 1.46.1, 1.45.5,
 > The Post Views Stats Counter plugin for WordPress is vulnerable to Stored Cross-Site Scripting via User-Agent Header in all versions up to, and including, 1.1.7 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. The plugin&#x27;s only input filter is a substring blacklist for known bot signatures (e.g. &#x27;bot&#x27;, &#x27;spider&#x27;, &#x27;crawler&#x27;), which ca
 
 - [https://github.com/JailBr3ak/CVE-2026-97347](https://github.com/JailBr3ak/CVE-2026-97347) : ![starts](https://img.shields.io/github/stars/JailBr3ak/CVE-2026-97347.svg) ![forks](https://img.shields.io/github/forks/JailBr3ak/CVE-2026-97347.svg)
+
+## CVE-2026-97332
+> The User Private Files  WordPress plugin before 2.2.0 does not properly protect its stored private files on multisite installations, where the rewrite rule it relies on to route file requests through its access check is never reached, allowing unauthenticated users to retrieve other users&#x27; private files directly.
+
+- [https://github.com/Kolya080808/CVE-2026-97332-PoC](https://github.com/Kolya080808/CVE-2026-97332-PoC) : ![starts](https://img.shields.io/github/stars/Kolya080808/CVE-2026-97332-PoC.svg) ![forks](https://img.shields.io/github/forks/Kolya080808/CVE-2026-97332-PoC.svg)
 
 ## CVE-2026-97286
 > Improper Neutralization of Input During Web Page Generation (&#x27;Cross-site Scripting&#x27;) vulnerability in WP Chill Strong Testimonials strong-testimonials allows Stored XSS.This issue affects Strong Testimonials: from n/a through 3.3.11.
@@ -416,6 +436,8 @@ root privileges resulting in complete compromise o
 > Authorization Bypass Through User-Controlled Key vulnerability in Ultimate Member Ultimate Member ultimate-member allows Privilege Escalation.This issue affects Ultimate Member: from n/a through 2.13.1.
 
 - [https://github.com/Nxploited/CVE-2026-96451](https://github.com/Nxploited/CVE-2026-96451) : ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2026-96451.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2026-96451.svg)
+
+- [https://github.com/MRdark-ops/wpexploit-CVE-2026-96451](https://github.com/MRdark-ops/wpexploit-CVE-2026-96451) : ![starts](https://img.shields.io/github/stars/MRdark-ops/wpexploit-CVE-2026-96451.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/wpexploit-CVE-2026-96451.svg)
 
 ## CVE-2026-96349
 > Unauthenticated Remote Code Execution (RCE) in SiteSkite &lt;= 2.1.8 versions.
@@ -688,6 +710,10 @@ The Unauthenticated Stored XSS vulnerability in the WordPress core can be reprod
 - [https://github.com/Nxploited/CVE-2026-91097-CVE-2026-91106](https://github.com/Nxploited/CVE-2026-91097-CVE-2026-91106) : ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2026-91097-CVE-2026-91106.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2026-91097-CVE-2026-91106.svg)
 
 - [https://github.com/murrez/HP-HPLIP-Mass-CVE-checker-2026-09-](https://github.com/murrez/HP-HPLIP-Mass-CVE-checker-2026-09-) : ![starts](https://img.shields.io/github/stars/murrez/HP-HPLIP-Mass-CVE-checker-2026-09-.svg) ![forks](https://img.shields.io/github/forks/murrez/HP-HPLIP-Mass-CVE-checker-2026-09-.svg)
+
+## CVE-2026-90977
+
+- [https://github.com/aminquliyev057/CVE-2026-90977](https://github.com/aminquliyev057/CVE-2026-90977) : ![starts](https://img.shields.io/github/stars/aminquliyev057/CVE-2026-90977.svg) ![forks](https://img.shields.io/github/forks/aminquliyev057/CVE-2026-90977.svg)
 
 ## CVE-2026-90970
 > GitLab has remediated a vulnerability in the GitLab AI Gateway component affecting all versions of the AI Gateway from 18.1.6 before 19.2.4, 19.3 before 19.3.2, and 19.4 before 19.4.1 that, under certain conditions, could have allowed an authenticated user with Duo Agent Platform access to escape the prompt template sandbox via a specially crafted flow configuration, resulting in arbitrary command execution on the AI Gateway.
@@ -14694,6 +14720,8 @@ Users are recommended to upgrade to version 2.4.67, which fixes this issue.
 
 - [https://github.com/ZeroDayEvil/CVE-2026-24061](https://github.com/ZeroDayEvil/CVE-2026-24061) : ![starts](https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-24061.svg) ![forks](https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-24061.svg)
 
+- [https://github.com/Yoksulcvt/CVE-2026-24061-Telnet-Authentication-Bypass](https://github.com/Yoksulcvt/CVE-2026-24061-Telnet-Authentication-Bypass) : ![starts](https://img.shields.io/github/stars/Yoksulcvt/CVE-2026-24061-Telnet-Authentication-Bypass.svg) ![forks](https://img.shields.io/github/forks/Yoksulcvt/CVE-2026-24061-Telnet-Authentication-Bypass.svg)
+
 ## CVE-2026-24060
  Service information is not encrypted when transmitted as BACnet packets 
 over the wire, and can be sniffed, intercepted, and modified by an 
@@ -16224,6 +16252,8 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 - [https://github.com/BimBoxH4/CVE-2026-21589](https://github.com/BimBoxH4/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/BimBoxH4/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/BimBoxH4/CVE-2026-21589.svg)
 
 - [https://github.com/aduli198/CVE-2026-21589](https://github.com/aduli198/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/aduli198/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/aduli198/CVE-2026-21589.svg)
+
+- [https://github.com/ynsmroztas/AtlasSniper](https://github.com/ynsmroztas/AtlasSniper) : ![starts](https://img.shields.io/github/stars/ynsmroztas/AtlasSniper.svg) ![forks](https://img.shields.io/github/forks/ynsmroztas/AtlasSniper.svg)
 
 ## CVE-2026-21533
  Improper privilege management in Windows Remote Desktop allows an authorized attacker to elevate privileges locally.

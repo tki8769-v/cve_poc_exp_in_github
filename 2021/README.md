@@ -3268,6 +3268,10 @@ UPDATE September 14, 2021: Microsoft has released security updates to address th
 
 - [https://github.com/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection](https://github.com/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection) : ![starts](https://img.shields.io/github/stars/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection.svg) ![forks](https://img.shields.io/github/forks/HuskyHacks/CVE-2021-38817-Remote-OS-Command-Injection.svg)
 
+## CVE-2021-38759
+
+- [https://github.com/Hu2ie/CVE-2021-38759](https://github.com/Hu2ie/CVE-2021-38759) : ![starts](https://img.shields.io/github/stars/Hu2ie/CVE-2021-38759.svg) ![forks](https://img.shields.io/github/forks/Hu2ie/CVE-2021-38759.svg)
+
 ## CVE-2021-38699
  TastyIgniter 3.0.7 allows XSS via /account, /reservation, /admin/dashboard, and /admin/system_logs.
 
