@@ -1525,3 +1525,4 @@
 {"cve_id": "CVE-2026-102422", "ts": "2026-10-07T07:13:34Z", "type": "new_poc", "url": "https://github.com/DevVaibhav07/CVE-2026-102422"}
 {"cve_id": "CVE-2026-59358", "ts": "2026-10-07T07:13:34Z", "type": "new_poc", "url": "https://github.com/abraxas/CVE-2026-59358"}
 {"cve_id": "CVE-2022-0185", "ts": "2026-10-07T07:13:34Z", "type": "new_poc", "url": "https://github.com/secjuhl/CVE-2022-0185"}
+{"cve_id": "CVE-2026-59346", "ts": "2026-10-07T07:42:06Z", "type": "new_poc", "url": "https://github.com/0xCyberstan/CVE-2026-59346-POC"}

@@ -4356,6 +4356,15 @@ UAA’s client_credentials handling does not verify that the Bearer credential s
 
 - [https://github.com/abraxas/CVE-2026-59358](https://github.com/abraxas/CVE-2026-59358) : ![starts](https://img.shields.io/github/stars/abraxas/CVE-2026-59358.svg) ![forks](https://img.shields.io/github/forks/abraxas/CVE-2026-59358.svg)
 
+## CVE-2026-59346
+> VMware Workstation and Fusion contain an integer-overflow vulnerability. A malicious actor with local administrative privileges on a virtual machine with VMXNET3 virtual network adapter may exploit this issue to execute code on the host.
+
+Affected versions:
+- VMware Workstation: 25H2, 26H1 (fixed in 26H1u1)
+- VMware Fusion: 25H2, 26H1 (fixed in 26H1u1)
+
+- [https://github.com/0xCyberstan/CVE-2026-59346-POC](https://github.com/0xCyberstan/CVE-2026-59346-POC) : ![starts](https://img.shields.io/github/stars/0xCyberstan/CVE-2026-59346-POC.svg) ![forks](https://img.shields.io/github/forks/0xCyberstan/CVE-2026-59346-POC.svg)
+
 ## CVE-2026-59310
  VMware vCenter contains a directory traversal vulnerability in the Syslog server. A malicious actor with network access to vCenter may exploit this issue to execute arbitrary code.
 
