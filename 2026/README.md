@@ -179,6 +179,11 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 
 - [https://github.com/tonydelouvre/CVE-2026-102425](https://github.com/tonydelouvre/CVE-2026-102425) : ![starts](https://img.shields.io/github/stars/tonydelouvre/CVE-2026-102425.svg) ![forks](https://img.shields.io/github/forks/tonydelouvre/CVE-2026-102425.svg)
 
+## CVE-2026-102422
+> shell-quote&#x27;s `quote()` function emits a `{ comment }` token as `#` followed by its text, which comments out the rest of the shell line, including the opening quote of any later string token. A line terminator (\n, \r, U+2028, U+2029) in that later string therefore ends the comment, and the rest of the string is parsed as shell input: `quote([&#x27;echo&#x27;, &#x27;ok&#x27;, { comment: &#x27;x&#x27; }, &#x27;a\nid;#&#x27;])` runs `id` in sh, bash, dash, ksh and zsh. `parse()` emits a comment token for a `#` in the middle of a word (f
+
+- [https://github.com/DevVaibhav07/CVE-2026-102422](https://github.com/DevVaibhav07/CVE-2026-102422) : ![starts](https://img.shields.io/github/stars/DevVaibhav07/CVE-2026-102422.svg) ![forks](https://img.shields.io/github/forks/DevVaibhav07/CVE-2026-102422.svg)
+
 ## CVE-2026-102282
 > adm-zip is a JavaScript library for creating and extracting ZIP archives in Node.js. Prior to 0.6.1, adm-zip applies the Unix permission bits stored in a zip entry directly to the extracted file via `fs.chmodSync()` when `keepOriginalPermission=true` is passed to `extractAllTo()`/`extractEntryTo()` — and it never filters the setuid/setgid/sticky bits out of those bits. A zip crafted by an attacker can therefore produce an extracted binary with mode `04755`. When extraction runs as root (the defa
 
@@ -1210,6 +1215,11 @@ This issue w
  A vulnerability was determined in TOTOLINK A720R 4.1.5cu.630_B20250509. This impacts the function setMacFilterRules of the file cstecgi.cgi of the component MAC Filtering. Executing a manipulation of the argument desc can lead to memory corruption. The attack may be launched remotely. The exploit has been publicly disclosed and may be utilized.
 
 - [https://github.com/Xernary/CVE-2026-82539](https://github.com/Xernary/CVE-2026-82539) : ![starts](https://img.shields.io/github/stars/Xernary/CVE-2026-82539.svg) ![forks](https://img.shields.io/github/forks/Xernary/CVE-2026-82539.svg)
+
+## CVE-2026-82531
+> Smarty before 4.5.8 and 5.x before 5.8.5 contains a code injection vulnerability where the top-level nocache_hash is never restored during extends:/multi-component template inheritance, leaving it null. Attackers can supply assigned data containing a forged SmartyNocache marker that is copied verbatim into the regenerated PHP cache file, executing arbitrary PHP on include for remote code execution.
+
+- [https://github.com/murrez/CVE-2026-82531](https://github.com/murrez/CVE-2026-82531) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-82531.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-82531.svg)
 
 ## CVE-2026-82384
 > Deserialization of Untrusted Data in Apache Roller 6.1.5 allows an unauthenticated remote attacker to cause deserialization of attacker-controlled bytes, because the XML-RPC endpoint accepts vendor extension types that are deserialized during request parsing, before authentication. The servlet is mapped unconditionally, so parsing occurs even when the global XML-RPC feature is set to disabled; no non-default configuration is required for this path. This can lead to remote code execution. Users a
@@ -4335,6 +4345,15 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
  Unauthenticated SQL Injection in AWP Classifieds = 4.4.7 versions.
 
 - [https://github.com/FLX-0x00/CVE-2026-59550](https://github.com/FLX-0x00/CVE-2026-59550) : ![starts](https://img.shields.io/github/stars/FLX-0x00/CVE-2026-59550.svg) ![forks](https://img.shields.io/github/forks/FLX-0x00/CVE-2026-59550.svg)
+
+## CVE-2026-59358
+> Improper authentication (CWE-287) in the OAuth token endpoint in Cloud Foundry UAA allows a remote, authenticated attacker holding a valid user access token to obtain a fully-privileged client_credentials token for the OAuth client that issued it, by presenting the user token as an OAuth 2.0 Bearer credential on a client_credentials grant request in place of the client’s configured secret.
+
+
+
+UAA’s client_credentials handling does not verify that the Bearer credential supplied for client authent
+
+- [https://github.com/abraxas/CVE-2026-59358](https://github.com/abraxas/CVE-2026-59358) : ![starts](https://img.shields.io/github/stars/abraxas/CVE-2026-59358.svg) ![forks](https://img.shields.io/github/forks/abraxas/CVE-2026-59358.svg)
 
 ## CVE-2026-59310
  VMware vCenter contains a directory traversal vulnerability in the Syslog server. A malicious actor with network access to vCenter may exploit this issue to execute arbitrary code.
@@ -11501,6 +11520,8 @@ Users are recommended to upgrade to version 4.18.1 or 4.19.0, fixing the issue.
 - [https://github.com/shreyas-malhotra/CVE-2026-33439-OpenAM](https://github.com/shreyas-malhotra/CVE-2026-33439-OpenAM) : ![starts](https://img.shields.io/github/stars/shreyas-malhotra/CVE-2026-33439-OpenAM.svg) ![forks](https://img.shields.io/github/forks/shreyas-malhotra/CVE-2026-33439-OpenAM.svg)
 
 - [https://github.com/rh33t/CVE-2026-33439-Poc](https://github.com/rh33t/CVE-2026-33439-Poc) : ![starts](https://img.shields.io/github/stars/rh33t/CVE-2026-33439-Poc.svg) ![forks](https://img.shields.io/github/forks/rh33t/CVE-2026-33439-Poc.svg)
+
+- [https://github.com/amis13/openam-clean](https://github.com/amis13/openam-clean) : ![starts](https://img.shields.io/github/stars/amis13/openam-clean.svg) ![forks](https://img.shields.io/github/forks/amis13/openam-clean.svg)
 
 ## CVE-2026-33340
  LoLLMs WEBUI provides the Web user interface for Lord of Large Language and Multi modal Systems. A critical Server-Side Request Forgery (SSRF) vulnerability has been identified in all known existing versions of `lollms-webui`. The `@router.post("/api/proxy")` endpoint allows unauthenticated attackers to force the server into making arbitrary GET requests. This can be exploited to access internal services, scan local networks, or exfiltrate sensitive cloud metadata (e.g., AWS/GCP IAM tokens). As of time of publication, no known patched versions are available.

@@ -1520,3 +1520,8 @@
 {"cve_id": "CVE-2026-57967", "ts": "2026-10-07T00:49:23Z", "type": "new_poc", "url": "https://github.com/c0dem4sters/CVE-2026-57967"}
 {"cve_id": "CVE-2025-55182", "ts": "2026-10-07T00:49:23Z", "type": "new_poc", "url": "https://github.com/Frizzardsecurity/CVE-2025-55182"}
 {"cve_id": "CVE-2025-21479", "ts": "2026-10-07T00:49:23Z", "type": "new_poc", "url": "https://github.com/Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479"}
+{"cve_id": "CVE-2026-82531", "ts": "2026-10-07T07:13:34Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-82531"}
+{"cve_id": "CVE-2026-33439", "ts": "2026-10-07T07:13:34Z", "type": "new_poc", "url": "https://github.com/amis13/openam-clean"}
+{"cve_id": "CVE-2026-102422", "ts": "2026-10-07T07:13:34Z", "type": "new_poc", "url": "https://github.com/DevVaibhav07/CVE-2026-102422"}
+{"cve_id": "CVE-2026-59358", "ts": "2026-10-07T07:13:34Z", "type": "new_poc", "url": "https://github.com/abraxas/CVE-2026-59358"}
+{"cve_id": "CVE-2022-0185", "ts": "2026-10-07T07:13:34Z", "type": "new_poc", "url": "https://github.com/secjuhl/CVE-2022-0185"}

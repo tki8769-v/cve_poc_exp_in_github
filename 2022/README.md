@@ -8188,6 +8188,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 
 - [https://github.com/sandesh9978/CVE-2022-0185-Analysis-and-Exploit](https://github.com/sandesh9978/CVE-2022-0185-Analysis-and-Exploit) : ![starts](https://img.shields.io/github/stars/sandesh9978/CVE-2022-0185-Analysis-and-Exploit.svg) ![forks](https://img.shields.io/github/forks/sandesh9978/CVE-2022-0185-Analysis-and-Exploit.svg)
 
+- [https://github.com/secjuhl/CVE-2022-0185](https://github.com/secjuhl/CVE-2022-0185) : ![starts](https://img.shields.io/github/stars/secjuhl/CVE-2022-0185.svg) ![forks](https://img.shields.io/github/forks/secjuhl/CVE-2022-0185.svg)
+
 ## CVE-2022-0169
  The Photo Gallery by 10Web WordPress plugin before 1.6.0 does not validate and escape the bwg_tag_id_bwg_thumbnails_0 parameter before using it in a SQL statement via the bwg_frontend_data AJAX action (available to unauthenticated and authenticated users), leading to an unauthenticated SQL injection
 
