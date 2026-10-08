@@ -430,6 +430,10 @@ Successful exploitation of this vulnerability may result in unauthorized access 
 - [https://github.com/davidvrns/CVE-2026-5430-WSO2](https://github.com/davidvrns/CVE-2026-5430-WSO2) : ![starts](https://img.shields.io/github/stars/davidvrns/CVE-2026-5430-WSO2.svg) ![forks](https://img.shields.io/github/forks/davidvrns/CVE-2026-5430-WSO2.svg)
 - [https://github.com/getdrive/wso2_cve-2026-5430_lab](https://github.com/getdrive/wso2_cve-2026-5430_lab) : ![starts](https://img.shields.io/github/stars/getdrive/wso2_cve-2026-5430_lab.svg) ![forks](https://img.shields.io/github/forks/getdrive/wso2_cve-2026-5430_lab.svg)
 
+## CVE-2026-55450
+
+- [https://github.com/0xBlackash/CVE-2026-55450](https://github.com/0xBlackash/CVE-2026-55450) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-55450.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-55450.svg)
+
 ## CVE-2026-56291
 
 - [https://github.com/theendofabbys/CVE-2026-56291](https://github.com/theendofabbys/CVE-2026-56291) : ![starts](https://img.shields.io/github/stars/theendofabbys/CVE-2026-56291.svg) ![forks](https://img.shields.io/github/forks/theendofabbys/CVE-2026-56291.svg)

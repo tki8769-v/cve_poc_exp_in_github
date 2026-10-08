@@ -383,3 +383,10 @@
 {"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:25:30Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11392", "url_ids": ["CVE-2024-11392"]}
 {"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:25:30Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11394", "url_ids": ["CVE-2024-11394"]}
 {"cve_id": "CVE-2019-1551", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:42:04Z", "url": "https://github.com/adenkiewicz/CVE-2019-15511", "url_ids": ["CVE-2019-15511"]}
+{"cve_id": "CVE-2021-4135", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:49:28Z", "url": "https://github.com/ImuSpirit/CVE-2021-41351-POC", "url_ids": ["CVE-2021-41351"]}
+{"cve_id": "CVE-2022-2207", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:50:18Z", "url": "https://github.com/grisuno/CVE-2022-22077", "url_ids": ["CVE-2022-22077"]}
+{"cve_id": "CVE-2022-2284", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:50:20Z", "url": "https://github.com/OmriBaso/CVE-2022-22845-Exploit", "url_ids": ["CVE-2022-22845"]}
+{"cve_id": "CVE-2022-2304", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:51:11Z", "url": "https://github.com/bernauers/CVE-2022-23046", "url_ids": ["CVE-2022-23046"]}
+{"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:54:15Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11393", "url_ids": ["CVE-2024-11393"]}
+{"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:54:15Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11392", "url_ids": ["CVE-2024-11392"]}
+{"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:54:15Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11394", "url_ids": ["CVE-2024-11394"]}
