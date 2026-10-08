@@ -2828,6 +2828,10 @@ Users are recommended to upgrade to version 2.8.0, which fixes this issue.
 
 - [https://github.com/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE](https://github.com/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE) : ![starts](https://img.shields.io/github/stars/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE.svg) ![forks](https://img.shields.io/github/forks/Joker-Wiggin/CVE-2025-58360-GeoServer-XXE.svg)
 
+## CVE-2025-58226
+
+- [https://github.com/QASIM1401/CVE-2025-58226-PoC](https://github.com/QASIM1401/CVE-2025-58226-PoC) : ![starts](https://img.shields.io/github/stars/QASIM1401/CVE-2025-58226-PoC.svg) ![forks](https://img.shields.io/github/forks/QASIM1401/CVE-2025-58226-PoC.svg)
+
 ## CVE-2025-58180
  OctoPrint provides a web interface for controlling consumer 3D printers. OctoPrint versions up until and including 1.11.2 contain a vulnerability that allows an authenticated attacker to upload a file under a specially crafted filename that will allow arbitrary command execution if said filename becomes included in a command defined in a system event handler and said event gets triggered. If no event handlers executing system commands with uploaded filenames as parameters have been configured, this vulnerability does not have an impact. The vulnerability is patched in version 1.11.3. As a workaround, OctoPrint administrators who have event handlers configured that include any kind of filename based placeholders should disable those by setting their `enabled` property to `False` or unchecking the "Enabled" checkbox in the GUI based Event Manager. Alternatively, OctoPrint administrators should set `feature.enforceReallyUniversalFilenames` to `true` in `config.yaml` and restart OctoPrint, then vet the existing uploads and make sure to delete any suspicious looking files. As always, OctoPrint administrators are advised to not expose OctoPrint on hostile networks like the public internet, and to vet who has access to their instance.
 
@@ -11012,6 +11016,8 @@ index an Out-Of-Bound class in ets_class_from_arg() when passed clid of
 - [https://github.com/longg66/cve-2025-21479_iqooneo7speed](https://github.com/longg66/cve-2025-21479_iqooneo7speed) : ![starts](https://img.shields.io/github/stars/longg66/cve-2025-21479_iqooneo7speed.svg) ![forks](https://img.shields.io/github/forks/longg66/cve-2025-21479_iqooneo7speed.svg)
 
 - [https://github.com/Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479](https://github.com/Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479) : ![starts](https://img.shields.io/github/stars/Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479.svg) ![forks](https://img.shields.io/github/forks/Shiho-Patch/linux-tools-vivo_iqoo_neo_9_root_research_on_CVE-2025-21479.svg)
+
+- [https://github.com/Type010/cheese-app](https://github.com/Type010/cheese-app) : ![starts](https://img.shields.io/github/stars/Type010/cheese-app.svg) ![forks](https://img.shields.io/github/forks/Type010/cheese-app.svg)
 
 ## CVE-2025-21420
  Windows Disk Cleanup Tool Elevation of Privilege Vulnerability

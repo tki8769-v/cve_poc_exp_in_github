@@ -1922,3 +1922,21 @@
 {"cve_id": "CVE-2025-55182", "ts": "2026-10-07T22:42:16Z", "type": "new_poc", "url": "https://github.com/AbdullahMaqbool22/Explosive-As-Hell-MCS-Qualifer-Web-500"}
 {"cve_id": "CVE-2025-55182", "ts": "2026-10-07T22:42:16Z", "type": "new_poc", "url": "https://github.com/4nuxd/React2Shell"}
 {"cve_id": "CVE-2025-55182", "ts": "2026-10-07T22:42:16Z", "type": "new_poc", "url": "https://github.com/MeGaNeKoS/secure-by-default-rce-demo"}
+{"cve_id": "CVE-2026-107354", "ts": "2026-10-08T07:23:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107355", "ts": "2026-10-08T07:23:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-39768", "ts": "2026-10-08T07:23:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97664", "ts": "2026-10-08T07:24:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107354", "ts": "2026-10-08T07:26:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107355", "ts": "2026-10-08T07:26:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-39768", "ts": "2026-10-08T07:26:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97664", "ts": "2026-10-08T07:28:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-58226", "ts": "2026-10-08T07:30:03Z", "type": "new_poc", "url": "https://github.com/QASIM1401/CVE-2025-58226-PoC"}
+{"cve_id": "CVE-2025-21479", "ts": "2026-10-08T07:30:04Z", "type": "new_poc", "url": "https://github.com/Type010/cheese-app"}
+{"cve_id": "CVE-2026-21589", "ts": "2026-10-08T07:30:04Z", "type": "new_poc", "url": "https://github.com/rxsklife/CVE-2026-21589"}
+{"cve_id": "CVE-2026-107268", "ts": "2026-10-08T07:30:04Z", "type": "new_poc", "url": "https://github.com/yuwkaaa/CVE-2026-107268"}
+{"cve_id": "CVE-2026-48907", "ts": "2026-10-08T07:30:04Z", "type": "new_poc", "url": "https://github.com/theendofabbys/CVE-2026-48907"}
+{"cve_id": "CVE-2026-61424", "ts": "2026-10-08T07:30:04Z", "type": "new_poc", "url": "https://github.com/theendofabbys/CVE-2026-61424"}
+{"cve_id": "CVE-2026-105192", "ts": "2026-10-08T07:30:04Z", "type": "new_poc", "url": "https://github.com/rxsklife/CVE-2026-105192"}
+{"cve_id": "CVE-2026-56291", "ts": "2026-10-08T07:30:04Z", "type": "new_poc", "url": "https://github.com/theendofabbys/CVE-2026-56291"}
+{"cve_id": "CVE-2026-49049", "ts": "2026-10-08T07:30:04Z", "type": "new_poc", "url": "https://github.com/theendofabbys/CVE-2026-49049"}
+{"cve_id": "CVE-2026-5430", "ts": "2026-10-08T07:30:04Z", "type": "new_poc", "url": "https://github.com/davidvrns/CVE-2026-5430-WSO2"}

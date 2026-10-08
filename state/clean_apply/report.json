@@ -2,9 +2,9 @@
   "affected_years": [
     "2025"
   ],
-  "applied_at": "2026-10-07T22:49:04Z",
+  "applied_at": "2026-10-08T07:40:28Z",
   "applied_rejected": 0,
-  "revoked_accepted": 37,
+  "revoked_accepted": 1,
   "revoked_rejected": 0,
   "rule_version": "2",
   "still_pending_meta": 0

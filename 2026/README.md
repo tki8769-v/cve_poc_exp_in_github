@@ -1,3 +1,7 @@
+## CVE-2026-107268
+
+- [https://github.com/yuwkaaa/CVE-2026-107268](https://github.com/yuwkaaa/CVE-2026-107268) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-107268.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-107268.svg)
+
 ## CVE-2026-105844
 > Payload is a free and open source headless content management system. In versions from 3.0.0 before 3.88.0 and canary versions before 4.0.0-canary.27, an unauthenticated user can submit prototype-sensitive field paths when @payloadcms/plugin-import-export is enabled, causing unintended application behavior that can lead to remote code execution. This issue is fixed in versions 3.88.0 and 4.0.0-canary.27.
 
@@ -12,6 +16,11 @@
 > The gist RubyGem before 6.1.0 contains an improper certificate validation vulnerability that allows on-path attackers to intercept HTTPS traffic because http_connection in lib/gist.rb sets VERIFY_NONE. Attackers can present any certificate to read or modify GitHub API traffic, stealing OAuth tokens and login credentials to read and modify the victim&#x27;s gists.
 
 - [https://github.com/abraxas/cve-2026-105221-gist-tls](https://github.com/abraxas/cve-2026-105221-gist-tls) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-105221-gist-tls.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-105221-gist-tls.svg)
+
+## CVE-2026-105192
+> LMCache multiprocess mode, also called distributed mode, opens an unauthenticated ZeroMQ ROUTER so worker processes can register and share KV cache blocks. Messages on that socket are msgpack. Extension code 1 is passed to DeviceIPCWrapper.Deserialize, which calls pickle.loads, while the server is still decoding request arguments and before the handler runs. A single unauthenticated ZMQ DEALER message to the transport port (default 5555) therefore executes code as the user the LMCache process ru
+
+- [https://github.com/rxsklife/CVE-2026-105192](https://github.com/rxsklife/CVE-2026-105192) : ![starts](https://img.shields.io/github/stars/rxsklife/CVE-2026-105192.svg) ![forks](https://img.shields.io/github/forks/rxsklife/CVE-2026-105192.svg)
 
 ## CVE-2026-105134
 > A flaw has been found in Ahsay AhsayCBS up to 10.3.2. This vulnerability affects unknown code of the file /rps/api/json/UpdateReceivers.do of the component Replication Receiver. Executing a manipulation of the argument random can lead to os command injection. It is possible to launch the attack remotely. The exploit has been published and may be used. Upgrading to version 10.3.4 is able to resolve this issue. Upgrading the affected component is advised.
@@ -541,6 +550,7 @@ This vulnerability allows an unauthenticated attacker to perform remot
 - [https://github.com/pillarsdotnet/node-braces](https://github.com/pillarsdotnet/node-braces) : ![starts](https://img.shields.io/github/stars/pillarsdotnet/node-braces.svg) ![forks](https://img.shields.io/github/forks/pillarsdotnet/node-braces.svg)
 
 ## CVE-2026-93674
+> IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote attacker to execute arbitrary code due to improper neutralization of special elements used in an OS command.
 
 - [https://github.com/rmhowe425/POC-CVE-2026-93674](https://github.com/rmhowe425/POC-CVE-2026-93674) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-93674.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-93674.svg)
 
@@ -4143,6 +4153,8 @@ This issue affects Elementor Website Builder: from n/a through 4.3.1.
 
 - [https://github.com/shinthink/CVE-2026-61424](https://github.com/shinthink/CVE-2026-61424) : ![starts](https://img.shields.io/github/stars/shinthink/CVE-2026-61424.svg) ![forks](https://img.shields.io/github/forks/shinthink/CVE-2026-61424.svg)
 
+- [https://github.com/theendofabbys/CVE-2026-61424](https://github.com/theendofabbys/CVE-2026-61424) : ![starts](https://img.shields.io/github/stars/theendofabbys/CVE-2026-61424.svg) ![forks](https://img.shields.io/github/forks/theendofabbys/CVE-2026-61424.svg)
+
 ## CVE-2026-61343
  LibreBooking's email template editor save action passes the submitted template name directly into the destination file path, allowing a remote attacker with administrator credentials to write an arbitrary file outside the template directory and execute code. Fixed in 5.1.0.
 
@@ -4726,6 +4738,8 @@ An authenticated attacker with the relevant broad role permission could abuse th
 - [https://github.com/rimbadirgantara/CVE-2026-56291.yaml](https://github.com/rimbadirgantara/CVE-2026-56291.yaml) : ![starts](https://img.shields.io/github/stars/rimbadirgantara/CVE-2026-56291.yaml.svg) ![forks](https://img.shields.io/github/forks/rimbadirgantara/CVE-2026-56291.yaml.svg)
 
 - [https://github.com/ChiefYoru/CVE-2026-56291_PoC](https://github.com/ChiefYoru/CVE-2026-56291_PoC) : ![starts](https://img.shields.io/github/stars/ChiefYoru/CVE-2026-56291_PoC.svg) ![forks](https://img.shields.io/github/forks/ChiefYoru/CVE-2026-56291_PoC.svg)
+
+- [https://github.com/theendofabbys/CVE-2026-56291](https://github.com/theendofabbys/CVE-2026-56291) : ![starts](https://img.shields.io/github/stars/theendofabbys/CVE-2026-56291.svg) ![forks](https://img.shields.io/github/forks/theendofabbys/CVE-2026-56291.svg)
 
 ## CVE-2026-56290
  Joomla Extension - joomlack.fr - Unauthenticated file upload in Page Builder CK extension  3.6.0 - The Joomla extension Page Builder CK is vulnerable to an unauthenticated arbitrary file upload that allows uploading executable files and leads to full RCE.
@@ -6432,6 +6446,8 @@ This issue affects Hippoo Mobile App for WooCommerce: from n/a through 1.9.4.
 
 - [https://github.com/frada321/asdsadsadasdasdsadsad](https://github.com/frada321/asdsadsadasdasdsadsad) : ![starts](https://img.shields.io/github/stars/frada321/asdsadsadasdasdsadsad.svg) ![forks](https://img.shields.io/github/forks/frada321/asdsadsadasdasdsadsad.svg)
 
+- [https://github.com/theendofabbys/CVE-2026-49049](https://github.com/theendofabbys/CVE-2026-49049) : ![starts](https://img.shields.io/github/stars/theendofabbys/CVE-2026-49049.svg) ![forks](https://img.shields.io/github/forks/theendofabbys/CVE-2026-49049.svg)
+
 ## CVE-2026-49048
  The Joomla extension JoomCCK exposes a front-end controller task, that builds two SQL statements by directly concatenating a user-supplied request parameter into the query string without escaping or parameterisation.
 
@@ -6543,6 +6559,8 @@ Arbitrary Perl in the output glob executes at the calling process's privilege.
 - [https://github.com/wearehackers160/CVE-2026-48907](https://github.com/wearehackers160/CVE-2026-48907) : ![starts](https://img.shields.io/github/stars/wearehackers160/CVE-2026-48907.svg) ![forks](https://img.shields.io/github/forks/wearehackers160/CVE-2026-48907.svg)
 
 - [https://github.com/CerberusMrXi/JCEzploit-CVE-2026-48907](https://github.com/CerberusMrXi/JCEzploit-CVE-2026-48907) : ![starts](https://img.shields.io/github/stars/CerberusMrXi/JCEzploit-CVE-2026-48907.svg) ![forks](https://img.shields.io/github/forks/CerberusMrXi/JCEzploit-CVE-2026-48907.svg)
+
+- [https://github.com/theendofabbys/CVE-2026-48907](https://github.com/theendofabbys/CVE-2026-48907) : ![starts](https://img.shields.io/github/stars/theendofabbys/CVE-2026-48907.svg) ![forks](https://img.shields.io/github/forks/theendofabbys/CVE-2026-48907.svg)
 
 ## CVE-2026-48866
  Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Rocketgenius Inc. Gravity Forms allows Path Traversal.
@@ -16255,6 +16273,8 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 
 - [https://github.com/ynsmroztas/AtlasSniper](https://github.com/ynsmroztas/AtlasSniper) : ![starts](https://img.shields.io/github/stars/ynsmroztas/AtlasSniper.svg) ![forks](https://img.shields.io/github/forks/ynsmroztas/AtlasSniper.svg)
 
+- [https://github.com/rxsklife/CVE-2026-21589](https://github.com/rxsklife/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/rxsklife/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/rxsklife/CVE-2026-21589.svg)
+
 ## CVE-2026-21533
  Improper privilege management in Windows Remote Desktop allows an authorized attacker to elevate privileges locally.
 
@@ -19557,6 +19577,8 @@ Successful exploitation of this vulnerability may result in unauthorized access 
 - [https://github.com/HORKimhab/CVE-2026-5430](https://github.com/HORKimhab/CVE-2026-5430) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-5430.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-5430.svg)
 
 - [https://github.com/abraxas/CVE-2026-5430](https://github.com/abraxas/CVE-2026-5430) : ![starts](https://img.shields.io/github/stars/abraxas/CVE-2026-5430.svg) ![forks](https://img.shields.io/github/forks/abraxas/CVE-2026-5430.svg)
+
+- [https://github.com/davidvrns/CVE-2026-5430-WSO2](https://github.com/davidvrns/CVE-2026-5430-WSO2) : ![starts](https://img.shields.io/github/stars/davidvrns/CVE-2026-5430-WSO2.svg) ![forks](https://img.shields.io/github/forks/davidvrns/CVE-2026-5430-WSO2.svg)
 
 ## CVE-2026-5426
  Hard-coded ASP.NET/IIS machineKey value in Digital Knowledge KnowledgeDeliver deployments prior to February 24, 2026 allows adversaries to circumvent ViewState validation mechanisms and achieve remote code execution via malicious ViewState deserialization attacks
