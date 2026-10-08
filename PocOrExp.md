@@ -6518,6 +6518,8 @@ Arbitrary Perl in the output glob executes at the calling process's privilege.
 
 - [https://github.com/g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection](https://github.com/g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection) : ![starts](https://img.shields.io/github/stars/g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection.svg) ![forks](https://img.shields.io/github/forks/g0thamRabb1t/CVE-2026-48908-joomla-sp-page-builder-detection.svg)
 
+- [https://github.com/theendofabbys/CVE-2026-48908](https://github.com/theendofabbys/CVE-2026-48908) : ![starts](https://img.shields.io/github/stars/theendofabbys/CVE-2026-48908.svg) ![forks](https://img.shields.io/github/forks/theendofabbys/CVE-2026-48908.svg)
+
 ## CVE-2026-48907
  A vulnerability in the JCE editor extension for Joomla allows the creation of new editor profiles for unauthenticated users, ultimately resulting in PHP code upload and execution.
 
@@ -7316,6 +7318,8 @@ bytes into @to's linear data rather than transferring frag descriptors.
 
 - [https://github.com/First-John/cve_2026_frag_family_fix](https://github.com/First-John/cve_2026_frag_family_fix) : ![starts](https://img.shields.io/github/stars/First-John/cve_2026_frag_family_fix.svg) ![forks](https://img.shields.io/github/forks/First-John/cve_2026_frag_family_fix.svg)
 
+- [https://github.com/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit](https://github.com/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit) : ![starts](https://img.shields.io/github/stars/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit.svg) ![forks](https://img.shields.io/github/forks/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit.svg)
+
 ## CVE-2026-46275
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -7445,6 +7449,8 @@ READ_ONCE(epi-dying) fast-path bailout stays.
 - [https://github.com/SaithFranklinB/ScannerBadEpoll](https://github.com/SaithFranklinB/ScannerBadEpoll) : ![starts](https://img.shields.io/github/stars/SaithFranklinB/ScannerBadEpoll.svg) ![forks](https://img.shields.io/github/forks/SaithFranklinB/ScannerBadEpoll.svg)
 
 - [https://github.com/BinaryMasc/CVE-2026-46242](https://github.com/BinaryMasc/CVE-2026-46242) : ![starts](https://img.shields.io/github/stars/BinaryMasc/CVE-2026-46242.svg) ![forks](https://img.shields.io/github/forks/BinaryMasc/CVE-2026-46242.svg)
+
+- [https://github.com/villager1314/CVE-2026-46242-Analysis](https://github.com/villager1314/CVE-2026-46242-Analysis) : ![starts](https://img.shields.io/github/stars/villager1314/CVE-2026-46242-Analysis.svg) ![forks](https://img.shields.io/github/forks/villager1314/CVE-2026-46242-Analysis.svg)
 
 ## CVE-2026-46215
  In the Linux kernel, the following vulnerability has been resolved:
@@ -9062,6 +9068,8 @@ Defer the kfree() to an RCU callback to prevent UAF.
 - [https://github.com/BarAppTeam/nginx-cve-fix](https://github.com/BarAppTeam/nginx-cve-fix) : ![starts](https://img.shields.io/github/stars/BarAppTeam/nginx-cve-fix.svg) ![forks](https://img.shields.io/github/forks/BarAppTeam/nginx-cve-fix.svg)
 
 - [https://github.com/CynepMyx/nginx-rift-check](https://github.com/CynepMyx/nginx-rift-check) : ![starts](https://img.shields.io/github/stars/CynepMyx/nginx-rift-check.svg) ![forks](https://img.shields.io/github/forks/CynepMyx/nginx-rift-check.svg)
+
+- [https://github.com/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit](https://github.com/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit) : ![starts](https://img.shields.io/github/stars/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit.svg) ![forks](https://img.shields.io/github/forks/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit.svg)
 
 ## CVE-2026-42926
  When NGINX Open Source is configured to proxy HTTP/2 traffic by setting proxy_http_version to 2, and also uses proxy_set_body, an attacker may be able to inject frame headers and payload bytes to the upstream peer.  Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
@@ -12051,6 +12059,8 @@ Users are recommended to upgrade to version 3.16.0, which fixes the issue.
 - [https://github.com/0Asylum/CVE-2026-31857](https://github.com/0Asylum/CVE-2026-31857) : ![starts](https://img.shields.io/github/stars/0Asylum/CVE-2026-31857.svg) ![forks](https://img.shields.io/github/forks/0Asylum/CVE-2026-31857.svg)
 
 - [https://github.com/WhiteMachin3/CVE-2026-31857](https://github.com/WhiteMachin3/CVE-2026-31857) : ![starts](https://img.shields.io/github/stars/WhiteMachin3/CVE-2026-31857.svg) ![forks](https://img.shields.io/github/forks/WhiteMachin3/CVE-2026-31857.svg)
+
+- [https://github.com/kaizoku73/CVE-2026-31857-PoC](https://github.com/kaizoku73/CVE-2026-31857-PoC) : ![starts](https://img.shields.io/github/stars/kaizoku73/CVE-2026-31857-PoC.svg) ![forks](https://img.shields.io/github/forks/kaizoku73/CVE-2026-31857-PoC.svg)
 
 ## CVE-2026-31852
  Jellyfin is an open-source media system. The code-quality.yml GitHub Actions workflow in jellyfin/jellyfin-ios is vulnerable to arbitrary code execution via pull requests from forked repositories. Due to the workflow's elevated permissions (nearly all write permissions), this vulnerability enables full repository takeover of jellyfin/jellyfin-ios, exfiltration of highly privileged secrets, Apple App Store supply chain attack, GitHub Container Registry (ghcr.io) package poisoning, and full jellyfin organization compromise via cross-repository token usage. Note: This is not a code vulnerability, but a vulnerability in the GitHub Actions workflows. No new version is required for this GHSA and end users do not need to take any actions.
@@ -16276,6 +16286,10 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 
 - [https://github.com/rxsklife/CVE-2026-21589](https://github.com/rxsklife/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/rxsklife/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/rxsklife/CVE-2026-21589.svg)
 
+- [https://github.com/murrez/CVE-2026-21589](https://github.com/murrez/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-21589.svg)
+
+- [https://github.com/renzi25031469/CVE-2026-21589](https://github.com/renzi25031469/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/renzi25031469/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/renzi25031469/CVE-2026-21589.svg)
+
 ## CVE-2026-21533
  Improper privilege management in Windows Remote Desktop allows an authorized attacker to elevate privileges locally.
 
@@ -17133,6 +17147,10 @@ Mitigation: keep a reference to every SSL
 - [https://github.com/minh3102011/CVE-2026-18963_analyst](https://github.com/minh3102011/CVE-2026-18963_analyst) : ![starts](https://img.shields.io/github/stars/minh3102011/CVE-2026-18963_analyst.svg) ![forks](https://img.shields.io/github/forks/minh3102011/CVE-2026-18963_analyst.svg)
 
 - [https://github.com/BlackHatExploitation/Exploit-For-CVE-2026-18963](https://github.com/BlackHatExploitation/Exploit-For-CVE-2026-18963) : ![starts](https://img.shields.io/github/stars/BlackHatExploitation/Exploit-For-CVE-2026-18963.svg) ![forks](https://img.shields.io/github/forks/BlackHatExploitation/Exploit-For-CVE-2026-18963.svg)
+
+- [https://github.com/SonOfABot/-CVE-2026-18963-POC](https://github.com/SonOfABot/-CVE-2026-18963-POC) : ![starts](https://img.shields.io/github/stars/SonOfABot/-CVE-2026-18963-POC.svg) ![forks](https://img.shields.io/github/forks/SonOfABot/-CVE-2026-18963-POC.svg)
+
+- [https://github.com/hardeep-sudo/Keycloak-CVE-2026-18963-Exploit](https://github.com/hardeep-sudo/Keycloak-CVE-2026-18963-Exploit) : ![starts](https://img.shields.io/github/stars/hardeep-sudo/Keycloak-CVE-2026-18963-Exploit.svg) ![forks](https://img.shields.io/github/forks/hardeep-sudo/Keycloak-CVE-2026-18963-Exploit.svg)
 
 ## CVE-2026-18953
  Improper limitation of a pathname to a restricted directory in the get_resource tool in Amazon awslabs.aws-transform-mcp-server 0.1.0 through 0.1.4 might allow a context-dependent actor to write arbitrary files outside the intended working directory via the savePath parameter.
@@ -19580,6 +19598,8 @@ Successful exploitation of this vulnerability may result in unauthorized access 
 - [https://github.com/abraxas/CVE-2026-5430](https://github.com/abraxas/CVE-2026-5430) : ![starts](https://img.shields.io/github/stars/abraxas/CVE-2026-5430.svg) ![forks](https://img.shields.io/github/forks/abraxas/CVE-2026-5430.svg)
 
 - [https://github.com/davidvrns/CVE-2026-5430-WSO2](https://github.com/davidvrns/CVE-2026-5430-WSO2) : ![starts](https://img.shields.io/github/stars/davidvrns/CVE-2026-5430-WSO2.svg) ![forks](https://img.shields.io/github/forks/davidvrns/CVE-2026-5430-WSO2.svg)
+
+- [https://github.com/getdrive/wso2_cve-2026-5430_lab](https://github.com/getdrive/wso2_cve-2026-5430_lab) : ![starts](https://img.shields.io/github/stars/getdrive/wso2_cve-2026-5430_lab.svg) ![forks](https://img.shields.io/github/forks/getdrive/wso2_cve-2026-5430_lab.svg)
 
 ## CVE-2026-5426
  Hard-coded ASP.NET/IIS machineKey value in Digital Knowledge KnowledgeDeliver deployments prior to February 24, 2026 allows adversaries to circumvent ViewState validation mechanisms and achieve remote code execution via malicious ViewState deserialization attacks
@@ -23552,6 +23572,8 @@ Django would like to thank Seokchan Yoon for reporting this issue.
 
 - [https://github.com/uky007/CVE-2025-62215_analysis](https://github.com/uky007/CVE-2025-62215_analysis) : ![starts](https://img.shields.io/github/stars/uky007/CVE-2025-62215_analysis.svg) ![forks](https://img.shields.io/github/forks/uky007/CVE-2025-62215_analysis.svg)
 
+- [https://github.com/Hu2ie/CVE-2025-62215-Windows-Kernel---Elevation-of-Privilege](https://github.com/Hu2ie/CVE-2025-62215-Windows-Kernel---Elevation-of-Privilege) : ![starts](https://img.shields.io/github/stars/Hu2ie/CVE-2025-62215-Windows-Kernel---Elevation-of-Privilege.svg) ![forks](https://img.shields.io/github/forks/Hu2ie/CVE-2025-62215-Windows-Kernel---Elevation-of-Privilege.svg)
+
 ## CVE-2025-62168
  Squid is a caching proxy for the Web. In Squid versions prior to 7.2, a failure to redact HTTP authentication credentials in error handling allows information disclosure. The vulnerability allows a script to bypass browser security protections and learn the credentials a trusted client uses to authenticate. This potentially allows a remote client to identify security tokens or credentials used internally by a web application using Squid for backend load balancing. These attacks do not require Squid to be configured with HTTP authentication. The vulnerability is fixed in version 7.2. As a workaround, disable debug information in administrator mailto links generated by Squid by configuring squid.conf with email_err_data off.
 
@@ -24483,6 +24505,8 @@ Users are recommended to upgrade to version 2.4.66, which fixes the issue.
 - [https://github.com/donggle0802-code/cve-2025-57819](https://github.com/donggle0802-code/cve-2025-57819) : ![starts](https://img.shields.io/github/stars/donggle0802-code/cve-2025-57819.svg) ![forks](https://img.shields.io/github/forks/donggle0802-code/cve-2025-57819.svg)
 
 - [https://github.com/kelltich-756/FreePBX-Breaker](https://github.com/kelltich-756/FreePBX-Breaker) : ![starts](https://img.shields.io/github/stars/kelltich-756/FreePBX-Breaker.svg) ![forks](https://img.shields.io/github/forks/kelltich-756/FreePBX-Breaker.svg)
+
+- [https://github.com/foxcornlab/freepbx-rce-detector](https://github.com/foxcornlab/freepbx-rce-detector) : ![starts](https://img.shields.io/github/stars/foxcornlab/freepbx-rce-detector.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/freepbx-rce-detector.svg)
 
 ## CVE-2025-57576
  PHPGurukul Online Shopping Portal 2.1 is vulnerable to Cross Site Scripting (XSS) in /admin/updateorder.php.
@@ -33858,6 +33882,8 @@ The vendor did not respond in any way. Only version 11.100001.01.28 was tested,
 ## CVE-2025-9974
 
 - [https://github.com/HORKimhab/CVE-2025-9974](https://github.com/HORKimhab/CVE-2025-9974) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2025-9974.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2025-9974.svg)
+
+- [https://github.com/xxs-2/Beacon10-Getshell](https://github.com/xxs-2/Beacon10-Getshell) : ![starts](https://img.shields.io/github/stars/xxs-2/Beacon10-Getshell.svg) ![forks](https://img.shields.io/github/forks/xxs-2/Beacon10-Getshell.svg)
 
 ## CVE-2025-9967
  The Orion SMS OTP Verification plugin for WordPress is vulnerable to privilege escalation via account takeover in all versions up to, and including, 1.1.7. This is due to the plugin not properly validating a user's identity prior to updating their password. This makes it possible for unauthenticated attackers to change arbitrary user's password to a one-time password if the attacker knows the user's phone number
@@ -69583,6 +69609,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 
 - [https://github.com/vulnerable-apps/log4shell-honeypot](https://github.com/vulnerable-apps/log4shell-honeypot) : ![starts](https://img.shields.io/github/stars/vulnerable-apps/log4shell-honeypot.svg) ![forks](https://img.shields.io/github/forks/vulnerable-apps/log4shell-honeypot.svg)
 
+- [https://github.com/ResoluteRacoons/log4-Java-logging-poc](https://github.com/ResoluteRacoons/log4-Java-logging-poc) : ![starts](https://img.shields.io/github/stars/ResoluteRacoons/log4-Java-logging-poc.svg) ![forks](https://img.shields.io/github/forks/ResoluteRacoons/log4-Java-logging-poc.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
@@ -73051,6 +73079,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
  Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 
 - [https://github.com/xmzyshypnc/CVE-2021-30551](https://github.com/xmzyshypnc/CVE-2021-30551) : ![starts](https://img.shields.io/github/stars/xmzyshypnc/CVE-2021-30551.svg) ![forks](https://img.shields.io/github/forks/xmzyshypnc/CVE-2021-30551.svg)
+
+## CVE-2021-30535
+
+- [https://github.com/califio/icu4x-crubit-demo](https://github.com/califio/icu4x-crubit-demo) : ![starts](https://img.shields.io/github/stars/califio/icu4x-crubit-demo.svg) ![forks](https://img.shields.io/github/forks/califio/icu4x-crubit-demo.svg)
 
 ## CVE-2021-30481
  Valve Steam before 2021-04-17, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.
@@ -102575,6 +102607,8 @@ Exploitation of this vulnerability requires that a user or application run or in
 - [https://github.com/sarjanpatel22/siem-threat-detection-lab](https://github.com/sarjanpatel22/siem-threat-detection-lab) : ![starts](https://img.shields.io/github/stars/sarjanpatel22/siem-threat-detection-lab.svg) ![forks](https://img.shields.io/github/forks/sarjanpatel22/siem-threat-detection-lab.svg)
 
 - [https://github.com/RoflSecurity/nodeloris](https://github.com/RoflSecurity/nodeloris) : ![starts](https://img.shields.io/github/stars/RoflSecurity/nodeloris.svg) ![forks](https://img.shields.io/github/forks/RoflSecurity/nodeloris.svg)
+
+- [https://github.com/michou79/noc21220-cybersecurity-assessment](https://github.com/michou79/noc21220-cybersecurity-assessment) : ![starts](https://img.shields.io/github/stars/michou79/noc21220-cybersecurity-assessment.svg) ![forks](https://img.shields.io/github/forks/michou79/noc21220-cybersecurity-assessment.svg)
 
 ## CVE-2007-6638
  March Networks DVR 3204 stores sensitive information under the web root with insufficient access control, which allows remote attackers to obtain usernames, passwords, device names, and IP addresses via a direct request for scripts/logfiles.tar.gz.

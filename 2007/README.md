@@ -5,6 +5,8 @@
 
 - [https://github.com/RoflSecurity/nodeloris](https://github.com/RoflSecurity/nodeloris) : ![starts](https://img.shields.io/github/stars/RoflSecurity/nodeloris.svg) ![forks](https://img.shields.io/github/forks/RoflSecurity/nodeloris.svg)
 
+- [https://github.com/michou79/noc21220-cybersecurity-assessment](https://github.com/michou79/noc21220-cybersecurity-assessment) : ![starts](https://img.shields.io/github/stars/michou79/noc21220-cybersecurity-assessment.svg) ![forks](https://img.shields.io/github/forks/michou79/noc21220-cybersecurity-assessment.svg)
+
 ## CVE-2007-6638
  March Networks DVR 3204 stores sensitive information under the web root with insufficient access control, which allows remote attackers to obtain usernames, passwords, device names, and IP addresses via a direct request for scripts/logfiles.tar.gz.
 

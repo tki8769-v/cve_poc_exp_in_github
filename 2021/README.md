@@ -1186,6 +1186,8 @@
 
 - [https://github.com/vulnerable-apps/log4shell-honeypot](https://github.com/vulnerable-apps/log4shell-honeypot) : ![starts](https://img.shields.io/github/stars/vulnerable-apps/log4shell-honeypot.svg) ![forks](https://img.shields.io/github/forks/vulnerable-apps/log4shell-honeypot.svg)
 
+- [https://github.com/ResoluteRacoons/log4-Java-logging-poc](https://github.com/ResoluteRacoons/log4-Java-logging-poc) : ![starts](https://img.shields.io/github/stars/ResoluteRacoons/log4-Java-logging-poc.svg) ![forks](https://img.shields.io/github/forks/ResoluteRacoons/log4-Java-logging-poc.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
@@ -4654,6 +4656,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
  Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 
 - [https://github.com/xmzyshypnc/CVE-2021-30551](https://github.com/xmzyshypnc/CVE-2021-30551) : ![starts](https://img.shields.io/github/stars/xmzyshypnc/CVE-2021-30551.svg) ![forks](https://img.shields.io/github/forks/xmzyshypnc/CVE-2021-30551.svg)
+
+## CVE-2021-30535
+
+- [https://github.com/califio/icu4x-crubit-demo](https://github.com/califio/icu4x-crubit-demo) : ![starts](https://img.shields.io/github/stars/califio/icu4x-crubit-demo.svg) ![forks](https://img.shields.io/github/forks/califio/icu4x-crubit-demo.svg)
 
 ## CVE-2021-30481
  Valve Steam before 2021-04-17, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.
