@@ -1,4 +1,8 @@
 # Update 2026-10-08
+## CVE-2011-2523
+
+- [https://github.com/diceverick/vulnerability-assessment-lab](https://github.com/diceverick/vulnerability-assessment-lab) : ![starts](https://img.shields.io/github/stars/diceverick/vulnerability-assessment-lab.svg) ![forks](https://img.shields.io/github/forks/diceverick/vulnerability-assessment-lab.svg)
+
 ## CVE-2025-21479
 
 - [https://github.com/Type010/cheese-app](https://github.com/Type010/cheese-app) : ![starts](https://img.shields.io/github/stars/Type010/cheese-app.svg) ![forks](https://img.shields.io/github/forks/Type010/cheese-app.svg)

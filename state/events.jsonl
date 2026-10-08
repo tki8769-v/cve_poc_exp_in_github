@@ -1940,3 +1940,4 @@
 {"cve_id": "CVE-2026-56291", "ts": "2026-10-08T07:30:04Z", "type": "new_poc", "url": "https://github.com/theendofabbys/CVE-2026-56291"}
 {"cve_id": "CVE-2026-49049", "ts": "2026-10-08T07:30:04Z", "type": "new_poc", "url": "https://github.com/theendofabbys/CVE-2026-49049"}
 {"cve_id": "CVE-2026-5430", "ts": "2026-10-08T07:30:04Z", "type": "new_poc", "url": "https://github.com/davidvrns/CVE-2026-5430-WSO2"}
+{"cve_id": "CVE-2011-2523", "ts": "2026-10-08T07:50:28Z", "type": "new_poc", "url": "https://github.com/diceverick/vulnerability-assessment-lab"}
