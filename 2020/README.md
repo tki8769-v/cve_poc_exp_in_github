@@ -2322,6 +2322,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/corsisechero/CVE-2020-13942byVulHub](https://github.com/corsisechero/CVE-2020-13942byVulHub) : ![starts](https://img.shields.io/github/stars/corsisechero/CVE-2020-13942byVulHub.svg) ![forks](https://img.shields.io/github/forks/corsisechero/CVE-2020-13942byVulHub.svg)
 
+- [https://github.com/CyberCTF/vulhub-unomi-cve-2020-13942](https://github.com/CyberCTF/vulhub-unomi-cve-2020-13942) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-unomi-cve-2020-13942.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-unomi-cve-2020-13942.svg)
+
 ## CVE-2020-13941
  Reported in SOLR-14515 (private) and fixed in SOLR-14561 (public), released in Solr version 8.6.0. The Replication handler (https://lucene.apache.org/solr/guide/8_6/index-replication.html#http-api-commands-for-the-replicationhandler) allows commands backup, restore and deleteBackup. Each of these take a location parameter, which was not validated, i.e you could read/write to any location the solr user can access.
 

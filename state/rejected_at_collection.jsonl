@@ -382,3 +382,4 @@
 {"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:25:30Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11393", "url_ids": ["CVE-2024-11393"]}
 {"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:25:30Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11392", "url_ids": ["CVE-2024-11392"]}
 {"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:25:30Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11394", "url_ids": ["CVE-2024-11394"]}
+{"cve_id": "CVE-2019-1551", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:42:04Z", "url": "https://github.com/adenkiewicz/CVE-2019-15511", "url_ids": ["CVE-2019-15511"]}

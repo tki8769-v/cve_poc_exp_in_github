@@ -12,6 +12,10 @@
 
 - [https://github.com/diceverick/vulnerability-assessment-lab](https://github.com/diceverick/vulnerability-assessment-lab) : ![starts](https://img.shields.io/github/stars/diceverick/vulnerability-assessment-lab.svg) ![forks](https://img.shields.io/github/forks/diceverick/vulnerability-assessment-lab.svg)
 
+## CVE-2012-1823
+
+- [https://github.com/CyberCTF/vulhub-php-cve-2012-1823](https://github.com/CyberCTF/vulhub-php-cve-2012-1823) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-php-cve-2012-1823.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-php-cve-2012-1823.svg)
+
 ## CVE-2012-2122
 
 - [https://github.com/CyberCTF/vulhub-mysql-cve-2012-2122](https://github.com/CyberCTF/vulhub-mysql-cve-2012-2122) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-mysql-cve-2012-2122.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-mysql-cve-2012-2122.svg)
@@ -196,6 +200,10 @@
 ## CVE-2020-11651
 
 - [https://github.com/CyberCTF/vulhub-saltstack-cve-2020-11651](https://github.com/CyberCTF/vulhub-saltstack-cve-2020-11651) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-saltstack-cve-2020-11651.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-saltstack-cve-2020-11651.svg)
+
+## CVE-2020-13942
+
+- [https://github.com/CyberCTF/vulhub-unomi-cve-2020-13942](https://github.com/CyberCTF/vulhub-unomi-cve-2020-13942) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-unomi-cve-2020-13942.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-unomi-cve-2020-13942.svg)
 
 ## CVE-2020-13945
 

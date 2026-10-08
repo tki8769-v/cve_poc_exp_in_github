@@ -18226,6 +18226,7 @@ A successful match grants role=2 (admin-level access) and creates a valid sessio
 - [https://github.com/Xmyronn/CVE-2026-11344-RCE](https://github.com/Xmyronn/CVE-2026-11344-RCE) : ![starts](https://img.shields.io/github/stars/Xmyronn/CVE-2026-11344-RCE.svg) ![forks](https://img.shields.io/github/forks/Xmyronn/CVE-2026-11344-RCE.svg)
 
 ## CVE-2026-11318
+> Deskin through 3.3.4.3 contains a privilege escalation vulnerability in the com.deskin.service.installer XPC service that allows local unprivileged attackers to execute arbitrary installer packages as root by connecting to the root-owned service without authentication. Attackers can invoke the privileged installer method to run an attacker-supplied installer, achieving full root compromise of the macOS host.
 
 - [https://github.com/Cr0wld3r/CVE-2026-11318](https://github.com/Cr0wld3r/CVE-2026-11318) : ![starts](https://img.shields.io/github/stars/Cr0wld3r/CVE-2026-11318.svg) ![forks](https://img.shields.io/github/forks/Cr0wld3r/CVE-2026-11318.svg)
 
@@ -76049,6 +76050,7 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/QiuhaoLi/CVE-2021-3929-3947](https://github.com/QiuhaoLi/CVE-2021-3929-3947) : ![starts](https://img.shields.io/github/stars/QiuhaoLi/CVE-2021-3929-3947.svg) ![forks](https://img.shields.io/github/forks/QiuhaoLi/CVE-2021-3929-3947.svg)
 
 ## CVE-2021-3928
+> vim is vulnerable to Use of Uninitialized Variable
 
 - [https://github.com/Fearless523/CVE-2021-39287-Stored-XSS](https://github.com/Fearless523/CVE-2021-39287-Stored-XSS) : ![starts](https://img.shields.io/github/stars/Fearless523/CVE-2021-39287-Stored-XSS.svg) ![forks](https://img.shields.io/github/forks/Fearless523/CVE-2021-39287-Stored-XSS.svg)
 
@@ -79805,6 +79807,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 - [https://github.com/dev-team-12x/apche_unomi_rce](https://github.com/dev-team-12x/apche_unomi_rce) : ![starts](https://img.shields.io/github/stars/dev-team-12x/apche_unomi_rce.svg) ![forks](https://img.shields.io/github/forks/dev-team-12x/apche_unomi_rce.svg)
 
 - [https://github.com/corsisechero/CVE-2020-13942byVulHub](https://github.com/corsisechero/CVE-2020-13942byVulHub) : ![starts](https://img.shields.io/github/stars/corsisechero/CVE-2020-13942byVulHub.svg) ![forks](https://img.shields.io/github/forks/corsisechero/CVE-2020-13942byVulHub.svg)
+
+- [https://github.com/CyberCTF/vulhub-unomi-cve-2020-13942](https://github.com/CyberCTF/vulhub-unomi-cve-2020-13942) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-unomi-cve-2020-13942.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-unomi-cve-2020-13942.svg)
 
 ## CVE-2020-13941
  Reported in SOLR-14515 (private) and fixed in SOLR-14561 (public), released in Solr version 8.6.0. The Replication handler (https://lucene.apache.org/solr/guide/8_6/index-replication.html#http-api-commands-for-the-replicationhandler) allows commands backup, restore and deleteBackup. Each of these take a location parameter, which was not validated, i.e you could read/write to any location the solr user can access.
@@ -101778,6 +101782,8 @@ Exploitation of this vulnerability requires that a user or application run or in
 - [https://github.com/waburig/Open-Worldwide-Application-Security-Project-OWASP-](https://github.com/waburig/Open-Worldwide-Application-Security-Project-OWASP-) : ![starts](https://img.shields.io/github/stars/waburig/Open-Worldwide-Application-Security-Project-OWASP-.svg) ![forks](https://img.shields.io/github/forks/waburig/Open-Worldwide-Application-Security-Project-OWASP-.svg)
 
 - [https://github.com/mujtaba815/metasploitable2-php-cgi-exploit](https://github.com/mujtaba815/metasploitable2-php-cgi-exploit) : ![starts](https://img.shields.io/github/stars/mujtaba815/metasploitable2-php-cgi-exploit.svg) ![forks](https://img.shields.io/github/forks/mujtaba815/metasploitable2-php-cgi-exploit.svg)
+
+- [https://github.com/CyberCTF/vulhub-php-cve-2012-1823](https://github.com/CyberCTF/vulhub-php-cve-2012-1823) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-php-cve-2012-1823.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-php-cve-2012-1823.svg)
 
 ## CVE-2012-1803
  RuggedCom Rugged Operating System (ROS) 3.10.x and earlier has a factory account with a password derived from the MAC Address field in the banner, which makes it easier for remote attackers to obtain access by performing a calculation on this address value, and then establishing a (1) TELNET, (2) remote shell (aka rsh), or (3) serial-console session.

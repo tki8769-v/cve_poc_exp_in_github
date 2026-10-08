@@ -2063,3 +2063,11 @@
 {"cve_id": "CVE-2021-44228", "ts": "2026-10-08T22:22:30Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-log4j-cve-2021-44228"}
 {"cve_id": "CVE-2026-91940", "ts": "2026-10-08T22:22:30Z", "type": "new_poc", "url": "https://github.com/BiiTts/CVE-2026-91940-crawl4ai-Arbitrary-File-Write"}
 {"cve_id": "CVE-2021-39214", "ts": "2026-10-08T22:22:30Z", "type": "new_poc", "url": "https://github.com/CyberCTF/secdevlabs-golden-hat"}
+{"cve_id": "CVE-2026-62163", "ts": "2026-10-08T22:35:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62166", "ts": "2026-10-08T22:35:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62167", "ts": "2026-10-08T22:35:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62170", "ts": "2026-10-08T22:35:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62171", "ts": "2026-10-08T22:35:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62181", "ts": "2026-10-08T22:35:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2020-13942", "ts": "2026-10-08T22:39:03Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-unomi-cve-2020-13942"}
+{"cve_id": "CVE-2012-1823", "ts": "2026-10-08T22:39:04Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-php-cve-2012-1823"}
