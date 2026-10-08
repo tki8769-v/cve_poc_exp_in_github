@@ -453,6 +453,8 @@
 
 - [https://github.com/mgiftson0/linux-env-vars-shellshock-lab](https://github.com/mgiftson0/linux-env-vars-shellshock-lab) : ![starts](https://img.shields.io/github/stars/mgiftson0/linux-env-vars-shellshock-lab.svg) ![forks](https://img.shields.io/github/forks/mgiftson0/linux-env-vars-shellshock-lab.svg)
 
+- [https://github.com/CyberCTF/vulhub-bash-cve-2014-6271](https://github.com/CyberCTF/vulhub-bash-cve-2014-6271) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-bash-cve-2014-6271.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-bash-cve-2014-6271.svg)
+
 ## CVE-2014-5460
  Unrestricted file upload vulnerability in the Tribulant Slideshow Gallery plugin before 1.4.7 for WordPress allows remote authenticated users to execute arbitrary code by uploading a PHP file, then accessing it via a direct request to the file in wp-content/uploads/slideshow-gallery/.
 
@@ -624,6 +626,8 @@
 
 - [https://github.com/fbm31/Audit-BlackBox-Web-to-Root](https://github.com/fbm31/Audit-BlackBox-Web-to-Root) : ![starts](https://img.shields.io/github/stars/fbm31/Audit-BlackBox-Web-to-Root.svg) ![forks](https://img.shields.io/github/forks/fbm31/Audit-BlackBox-Web-to-Root.svg)
 
+- [https://github.com/CyberCTF/vulhub-drupal-cve-2014-3704](https://github.com/CyberCTF/vulhub-drupal-cve-2014-3704) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-drupal-cve-2014-3704.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-drupal-cve-2014-3704.svg)
+
 ## CVE-2014-3656
  JBoss KeyCloak: XSS in login-status-iframe.html
 
@@ -734,6 +738,8 @@
 - [https://github.com/xpgdgit/CVE-2014-3120](https://github.com/xpgdgit/CVE-2014-3120) : ![starts](https://img.shields.io/github/stars/xpgdgit/CVE-2014-3120.svg) ![forks](https://img.shields.io/github/forks/xpgdgit/CVE-2014-3120.svg)
 
 - [https://github.com/Dungsocool/CVE-2014-3120](https://github.com/Dungsocool/CVE-2014-3120) : ![starts](https://img.shields.io/github/stars/Dungsocool/CVE-2014-3120.svg) ![forks](https://img.shields.io/github/forks/Dungsocool/CVE-2014-3120.svg)
+
+- [https://github.com/CyberCTF/vulhub-elasticsearch-cve-2014-3120](https://github.com/CyberCTF/vulhub-elasticsearch-cve-2014-3120) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-elasticsearch-cve-2014-3120.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-elasticsearch-cve-2014-3120.svg)
 
 ## CVE-2014-2815
  Microsoft OneNote 2007 SP3 allows remote attackers to execute arbitrary code via a crafted OneNote file that triggers creation of an executable file in a startup folder, aka "OneNote Remote Code Execution Vulnerability."
@@ -1087,6 +1093,8 @@
 - [https://github.com/ArtemCyberLab/Project-Field-Analysis-and-Memory-Leak-Demonstration](https://github.com/ArtemCyberLab/Project-Field-Analysis-and-Memory-Leak-Demonstration) : ![starts](https://img.shields.io/github/stars/ArtemCyberLab/Project-Field-Analysis-and-Memory-Leak-Demonstration.svg) ![forks](https://img.shields.io/github/forks/ArtemCyberLab/Project-Field-Analysis-and-Memory-Leak-Demonstration.svg)
 
 - [https://github.com/pierceoneill/bleeding-heart](https://github.com/pierceoneill/bleeding-heart) : ![starts](https://img.shields.io/github/stars/pierceoneill/bleeding-heart.svg) ![forks](https://img.shields.io/github/forks/pierceoneill/bleeding-heart.svg)
+
+- [https://github.com/CyberCTF/vulhub-openssl-cve-2014-0160](https://github.com/CyberCTF/vulhub-openssl-cve-2014-0160) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-openssl-cve-2014-0160.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-openssl-cve-2014-0160.svg)
 
 ## CVE-2014-0130
  Directory traversal vulnerability in actionpack/lib/abstract_controller/base.rb in the implicit-render implementation in Ruby on Rails before 3.2.18, 4.0.x before 4.0.5, and 4.1.x before 4.1.1, when certain route globbing configurations are enabled, allows remote attackers to read arbitrary files via a crafted request.

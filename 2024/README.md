@@ -5714,6 +5714,8 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 
 - [https://github.com/ReaJason/CVE-2024-28752](https://github.com/ReaJason/CVE-2024-28752) : ![starts](https://img.shields.io/github/stars/ReaJason/CVE-2024-28752.svg) ![forks](https://img.shields.io/github/forks/ReaJason/CVE-2024-28752.svg)
 
+- [https://github.com/CyberCTF/vulhub-apache-cxf-cve-2024-28752](https://github.com/CyberCTF/vulhub-apache-cxf-cve-2024-28752) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-apache-cxf-cve-2024-28752.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-apache-cxf-cve-2024-28752.svg)
+
 ## CVE-2024-28741
  Cross Site Scripting vulnerability in EginDemirbilek NorthStar C2 v1 allows a remote attacker to execute arbitrary code via the login.php component.
 
@@ -7238,6 +7240,8 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [https://github.com/aldamd/CTF](https://github.com/aldamd/CTF) : ![starts](https://img.shields.io/github/stars/aldamd/CTF.svg) ![forks](https://img.shields.io/github/forks/aldamd/CTF.svg)
 
 - [https://github.com/Alexandertanay/jenkins-cve-2024-23897-lab](https://github.com/Alexandertanay/jenkins-cve-2024-23897-lab) : ![starts](https://img.shields.io/github/stars/Alexandertanay/jenkins-cve-2024-23897-lab.svg) ![forks](https://img.shields.io/github/forks/Alexandertanay/jenkins-cve-2024-23897-lab.svg)
+
+- [https://github.com/CyberCTF/vulhub-jenkins-cve-2024-23897](https://github.com/CyberCTF/vulhub-jenkins-cve-2024-23897) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-jenkins-cve-2024-23897.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-jenkins-cve-2024-23897.svg)
 
 ## CVE-2024-23828
  Nginx-UI is a web interface to manage Nginx configurations. It is vulnerable to an authenticated arbitrary command execution via CRLF attack when changing the value of test_config_cmd or start_cmd. This vulnerability exists due to an incomplete fix for CVE-2024-22197 and CVE-2024-22198. This vulnerability has been patched in version 2.0.0.beta.12.

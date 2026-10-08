@@ -379,3 +379,6 @@
 {"cve_id": "CVE-2026-7307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-06T19:20:09Z", "url": "https://github.com/HORKimhab/CVE-2026-73072", "url_ids": ["CVE-2026-73072"]}
 {"cve_id": "CVE-2026-7307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-07T07:25:58Z", "url": "https://github.com/HORKimhab/CVE-2026-73072", "url_ids": ["CVE-2026-73072"]}
 {"cve_id": "CVE-2026-6009", "reason": "prefix_conflict_evidenced", "ts": "2026-10-07T07:42:15Z", "url": "https://github.com/oscerd/CVE-2026-60093", "url_ids": ["CVE-2026-60093"]}
+{"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:25:30Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11393", "url_ids": ["CVE-2024-11393"]}
+{"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:25:30Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11392", "url_ids": ["CVE-2024-11392"]}
+{"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-08T22:25:30Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11394", "url_ids": ["CVE-2024-11394"]}

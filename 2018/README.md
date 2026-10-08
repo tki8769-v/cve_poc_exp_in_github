@@ -62,6 +62,8 @@
 
 - [https://github.com/smokeintheshell/CVE-2018-1000861](https://github.com/smokeintheshell/CVE-2018-1000861) : ![starts](https://img.shields.io/github/stars/smokeintheshell/CVE-2018-1000861.svg) ![forks](https://img.shields.io/github/forks/smokeintheshell/CVE-2018-1000861.svg)
 
+- [https://github.com/CyberCTF/vulhub-jenkins-cve-2018-1000861](https://github.com/CyberCTF/vulhub-jenkins-cve-2018-1000861) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-jenkins-cve-2018-1000861.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-jenkins-cve-2018-1000861.svg)
+
 ## CVE-2018-1000850
  Square Retrofit version versions from (including) 2.0 and 2.5.0 (excluding) contains a Directory Traversal vulnerability in RequestBuilder class, method addPathParameter that can result in By manipulating the URL an attacker could add or delete resources otherwise unavailable to her.. This attack appear to be exploitable via An attacker should have access to an encoded path parameter on POST, PUT or DELETE request.. This vulnerability appears to have been fixed in 2.5.0 and later.
 
@@ -950,6 +952,8 @@
 
 - [https://github.com/AssassinUKG/CVE_2018_16509](https://github.com/AssassinUKG/CVE_2018_16509) : ![starts](https://img.shields.io/github/stars/AssassinUKG/CVE_2018_16509.svg) ![forks](https://img.shields.io/github/forks/AssassinUKG/CVE_2018_16509.svg)
 
+- [https://github.com/CyberCTF/vulhub-ghostscript-cve-2018-16509](https://github.com/CyberCTF/vulhub-ghostscript-cve-2018-16509) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-ghostscript-cve-2018-16509.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-ghostscript-cve-2018-16509.svg)
+
 ## CVE-2018-16492
  A prototype pollution vulnerability was found in module extend 2.0.2, ~3.0.2 that allows an attacker to inject arbitrary properties onto Object.prototype.
 
@@ -1288,6 +1292,8 @@
 - [https://github.com/makmour/open-ssh-user-enumeration](https://github.com/makmour/open-ssh-user-enumeration) : ![starts](https://img.shields.io/github/stars/makmour/open-ssh-user-enumeration.svg) ![forks](https://img.shields.io/github/forks/makmour/open-ssh-user-enumeration.svg)
 
 - [https://github.com/Alph4Sec/ssh_enum_py](https://github.com/Alph4Sec/ssh_enum_py) : ![starts](https://img.shields.io/github/stars/Alph4Sec/ssh_enum_py.svg) ![forks](https://img.shields.io/github/forks/Alph4Sec/ssh_enum_py.svg)
+
+- [https://github.com/CyberCTF/vulhub-openssh-cve-2018-15473](https://github.com/CyberCTF/vulhub-openssh-cve-2018-15473) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-openssh-cve-2018-15473.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-openssh-cve-2018-15473.svg)
 
 ## CVE-2018-15365
  A Reflected Cross-Site Scripting (XSS) vulnerability in Trend Micro Deep Discovery Inspector 3.85 and below could allow an attacker to bypass CSRF protection and conduct an attack on vulnerable installations. An attacker must be an authenticated user in order to exploit the vulnerability.
@@ -1631,6 +1637,8 @@
 - [https://github.com/ivanitlearning/CVE-2018-12613](https://github.com/ivanitlearning/CVE-2018-12613) : ![starts](https://img.shields.io/github/stars/ivanitlearning/CVE-2018-12613.svg) ![forks](https://img.shields.io/github/forks/ivanitlearning/CVE-2018-12613.svg)
 
 - [https://github.com/eastmountyxz/CVE-2018-12613-phpMyAdmin](https://github.com/eastmountyxz/CVE-2018-12613-phpMyAdmin) : ![starts](https://img.shields.io/github/stars/eastmountyxz/CVE-2018-12613-phpMyAdmin.svg) ![forks](https://img.shields.io/github/forks/eastmountyxz/CVE-2018-12613-phpMyAdmin.svg)
+
+- [https://github.com/CyberCTF/vulhub-phpmyadmin-cve-2018-12613](https://github.com/CyberCTF/vulhub-phpmyadmin-cve-2018-12613) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-phpmyadmin-cve-2018-12613.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-phpmyadmin-cve-2018-12613.svg)
 
 ## CVE-2018-12598
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem.  When the candidate has been publicized, the details for this candidate will be provided.
@@ -2032,6 +2040,8 @@
 
 - [https://github.com/0xadaw/libSSH-bypass](https://github.com/0xadaw/libSSH-bypass) : ![starts](https://img.shields.io/github/stars/0xadaw/libSSH-bypass.svg) ![forks](https://img.shields.io/github/forks/0xadaw/libSSH-bypass.svg)
 
+- [https://github.com/CyberCTF/vulhub-libssh-cve-2018-10933](https://github.com/CyberCTF/vulhub-libssh-cve-2018-10933) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-libssh-cve-2018-10933.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-libssh-cve-2018-10933.svg)
+
 ## CVE-2018-10920
  Improper input validation bug in DNS resolver component of Knot Resolver before 2.4.1 allows remote attacker to poison cache.
 
@@ -2346,6 +2356,10 @@
  Cross-site request forgery (CSRF) vulnerability in the Mailer Plugin 1.20 for Jenkins 2.111 allows remote authenticated users to send unauthorized mail as an arbitrary user via a /descriptorByName/hudson.tasks.Mailer/sendTestMail request.
 
 - [https://github.com/GeunSam2/CVE-2018-8718](https://github.com/GeunSam2/CVE-2018-8718) : ![starts](https://img.shields.io/github/stars/GeunSam2/CVE-2018-8718.svg) ![forks](https://img.shields.io/github/forks/GeunSam2/CVE-2018-8718.svg)
+
+## CVE-2018-8715
+
+- [https://github.com/CyberCTF/vulhub-appweb-cve-2018-8715](https://github.com/CyberCTF/vulhub-appweb-cve-2018-8715) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-appweb-cve-2018-8715.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-appweb-cve-2018-8715.svg)
 
 ## CVE-2018-8639
  An elevation of privilege vulnerability exists in Windows when the Win32k component fails to properly handle objects in memory, aka "Win32k Elevation of Privilege Vulnerability." This affects Windows 7, Windows Server 2012 R2, Windows RT 8.1, Windows Server 2008, Windows Server 2019, Windows Server 2012, Windows 8.1, Windows Server 2016, Windows Server 2008 R2, Windows 10, Windows 10 Servers. This CVE ID is unique from CVE-2018-8641.
@@ -2819,6 +2833,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 
 - [https://github.com/K52-ai/CVE-2018-7600](https://github.com/K52-ai/CVE-2018-7600) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2018-7600.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2018-7600.svg)
 
+- [https://github.com/CyberCTF/vulhub-drupal-cve-2018-7600](https://github.com/CyberCTF/vulhub-drupal-cve-2018-7600) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-drupal-cve-2018-7600.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-drupal-cve-2018-7600.svg)
+
 ## CVE-2018-7560
  index.js in the Anton Myshenin aws-lambda-multipart-parser NPM package before 0.1.2 has a Regular Expression Denial of Service (ReDoS) issue via a crafted multipart/form-data boundary string.
 
@@ -2828,6 +2844,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
  uWSGI before 2.0.17 mishandles a DOCUMENT_ROOT check during use of the --php-docroot option, allowing directory traversal.
 
 - [https://github.com/qinzhu111/uWSGI-CVE-2018-7490-POC](https://github.com/qinzhu111/uWSGI-CVE-2018-7490-POC) : ![starts](https://img.shields.io/github/stars/qinzhu111/uWSGI-CVE-2018-7490-POC.svg) ![forks](https://img.shields.io/github/forks/qinzhu111/uWSGI-CVE-2018-7490-POC.svg)
+
+- [https://github.com/CyberCTF/vulhub-uwsgi-cve-2018-7490](https://github.com/CyberCTF/vulhub-uwsgi-cve-2018-7490) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-uwsgi-cve-2018-7490.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-uwsgi-cve-2018-7490.svg)
 
 ## CVE-2018-7489
  FasterXML jackson-databind before 2.7.9.3, 2.8.x before 2.8.11.1 and 2.9.x before 2.9.5 allows unauthenticated remote code execution because of an incomplete fix for the CVE-2017-7525 deserialization flaw. This is exploitable by sending maliciously crafted JSON input to the readValue method of the ObjectMapper, bypassing a blacklist that is ineffective if the c3p0 libraries are available in the classpath.
@@ -3685,6 +3703,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 
 - [https://github.com/wudidwo/CVE-2018-3760-poc](https://github.com/wudidwo/CVE-2018-3760-poc) : ![starts](https://img.shields.io/github/stars/wudidwo/CVE-2018-3760-poc.svg) ![forks](https://img.shields.io/github/forks/wudidwo/CVE-2018-3760-poc.svg)
 
+- [https://github.com/CyberCTF/vulhub-rails-cve-2018-3760](https://github.com/CyberCTF/vulhub-rails-cve-2018-3760) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-rails-cve-2018-3760.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-rails-cve-2018-3760.svg)
+
 ## CVE-2018-3757
  Command injection exists in pdf-image v2.0.0 due to an unescaped string parameter.
 
@@ -4107,6 +4127,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 
 - [https://github.com/48484848484848/Jmeter-CVE-2018-1297-](https://github.com/48484848484848/Jmeter-CVE-2018-1297-) : ![starts](https://img.shields.io/github/stars/48484848484848/Jmeter-CVE-2018-1297-.svg) ![forks](https://img.shields.io/github/forks/48484848484848/Jmeter-CVE-2018-1297-.svg)
 
+- [https://github.com/CyberCTF/vulhub-jmeter-cve-2018-1297](https://github.com/CyberCTF/vulhub-jmeter-cve-2018-1297) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-jmeter-cve-2018-1297.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-jmeter-cve-2018-1297.svg)
+
 ## CVE-2018-1288
  In Apache Kafka 0.9.0.0 to 0.9.0.1, 0.10.0.0 to 0.10.2.1, 0.11.0.0 to 0.11.0.2, and 1.0.0, authenticated Kafka users may perform action reserved for the Broker via a manually created fetch request interfering with data replication, resulting in data loss.
 
@@ -4135,6 +4157,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 - [https://github.com/cved-sources/cve-2018-1273](https://github.com/cved-sources/cve-2018-1273) : ![starts](https://img.shields.io/github/stars/cved-sources/cve-2018-1273.svg) ![forks](https://img.shields.io/github/forks/cved-sources/cve-2018-1273.svg)
 
 - [https://github.com/hdgokani/CVE-2018-1273](https://github.com/hdgokani/CVE-2018-1273) : ![starts](https://img.shields.io/github/stars/hdgokani/CVE-2018-1273.svg) ![forks](https://img.shields.io/github/forks/hdgokani/CVE-2018-1273.svg)
+
+- [https://github.com/CyberCTF/vulhub-spring-cve-2018-1273](https://github.com/CyberCTF/vulhub-spring-cve-2018-1273) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-spring-cve-2018-1273.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-spring-cve-2018-1273.svg)
 
 ## CVE-2018-1270
  Spring Framework, versions 5.0 prior to 5.0.5 and versions 4.3 prior to 4.3.15 and older unsupported versions, allow applications to expose STOMP over WebSocket endpoints with a simple, in-memory STOMP broker through the spring-messaging module. A malicious user (or attacker) can craft a message to the broker that can lead to a remote code execution attack.

@@ -1957,3 +1957,109 @@
 {"cve_id": "CVE-2021-44228", "ts": "2026-10-08T16:29:44Z", "type": "new_poc", "url": "https://github.com/ResoluteRacoons/log4-Java-logging-poc"}
 {"cve_id": "CVE-2021-30535", "ts": "2026-10-08T16:29:45Z", "type": "new_poc", "url": "https://github.com/califio/icu4x-crubit-demo"}
 {"cve_id": "CVE-2025-57819", "ts": "2026-10-08T16:29:45Z", "type": "new_poc", "url": "https://github.com/foxcornlab/freepbx-rce-detector"}
+{"cve_id": "CVE-2026-62163", "ts": "2026-10-08T22:04:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62166", "ts": "2026-10-08T22:04:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62167", "ts": "2026-10-08T22:04:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62163", "ts": "2026-10-08T22:05:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62166", "ts": "2026-10-08T22:05:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62167", "ts": "2026-10-08T22:05:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62170", "ts": "2026-10-08T22:05:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62163", "ts": "2026-10-08T22:08:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62166", "ts": "2026-10-08T22:08:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62167", "ts": "2026-10-08T22:08:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62170", "ts": "2026-10-08T22:08:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62171", "ts": "2026-10-08T22:08:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62163", "ts": "2026-10-08T22:13:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62166", "ts": "2026-10-08T22:13:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62167", "ts": "2026-10-08T22:13:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62170", "ts": "2026-10-08T22:13:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62171", "ts": "2026-10-08T22:13:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62163", "ts": "2026-10-08T22:18:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62166", "ts": "2026-10-08T22:18:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62167", "ts": "2026-10-08T22:18:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62170", "ts": "2026-10-08T22:18:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62171", "ts": "2026-10-08T22:18:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62181", "ts": "2026-10-08T22:18:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-92555", "ts": "2026-10-08T22:22:25Z", "type": "new_poc", "url": "https://github.com/Enay-Project/CVE-2026-92555"}
+{"cve_id": "CVE-2020-14882", "ts": "2026-10-08T22:22:25Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-weblogic-cve-2020-14882"}
+{"cve_id": "CVE-2021-3129", "ts": "2026-10-08T22:22:26Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-laravel-cve-2021-3129"}
+{"cve_id": "CVE-2012-2122", "ts": "2026-10-08T22:22:26Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-mysql-cve-2012-2122"}
+{"cve_id": "CVE-2020-11651", "ts": "2026-10-08T22:22:26Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-saltstack-cve-2020-11651"}
+{"cve_id": "CVE-2017-11610", "ts": "2026-10-08T22:22:26Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-supervisor-cve-2017-11610"}
+{"cve_id": "CVE-2017-12635", "ts": "2026-10-08T22:22:26Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-couchdb-cve-2017-12635"}
+{"cve_id": "CVE-2020-35476", "ts": "2026-10-08T22:22:26Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-opentsdb-cve-2020-35476"}
+{"cve_id": "CVE-2022-0543", "ts": "2026-10-08T22:22:26Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-redis-cve-2022-0543"}
+{"cve_id": "CVE-2021-43798", "ts": "2026-10-08T22:22:26Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-grafana-cve-2021-43798"}
+{"cve_id": "CVE-2013-4547", "ts": "2026-10-08T22:22:26Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-nginx-cve-2013-4547"}
+{"cve_id": "CVE-2018-8715", "ts": "2026-10-08T22:22:26Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-appweb-cve-2018-8715"}
+{"cve_id": "CVE-2018-10933", "ts": "2026-10-08T22:22:26Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-libssh-cve-2018-10933"}
+{"cve_id": "CVE-2020-1938", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-tomcat-cve-2020-1938"}
+{"cve_id": "CVE-2018-16509", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-ghostscript-cve-2018-16509"}
+{"cve_id": "CVE-2018-7490", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-uwsgi-cve-2018-7490"}
+{"cve_id": "CVE-2024-23897", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-jenkins-cve-2024-23897"}
+{"cve_id": "CVE-2017-7529", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-nginx-cve-2017-7529"}
+{"cve_id": "CVE-2019-17564", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-dubbo-cve-2019-17564"}
+{"cve_id": "CVE-2020-17519", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-flink-cve-2020-17519"}
+{"cve_id": "CVE-2022-22963", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22963"}
+{"cve_id": "CVE-2019-17558", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-solr-cve-2019-17558"}
+{"cve_id": "CVE-2017-9841", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-phpunit-cve-2017-9841"}
+{"cve_id": "CVE-2014-3120", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-elasticsearch-cve-2014-3120"}
+{"cve_id": "CVE-2021-29441", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-nacos-cve-2021-29441"}
+{"cve_id": "CVE-2018-1297", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-jmeter-cve-2018-1297"}
+{"cve_id": "CVE-2018-15473", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-openssh-cve-2018-15473"}
+{"cve_id": "CVE-2021-28164", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-jetty-cve-2021-28164"}
+{"cve_id": "CVE-2023-32315", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-openfire-cve-2023-32315"}
+{"cve_id": "CVE-2017-12629", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-solr-cve-2017-12629-rce"}
+{"cve_id": "CVE-2020-7247", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-opensmtpd-cve-2020-7247"}
+{"cve_id": "CVE-2016-3088", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-activemq-cve-2016-3088"}
+{"cve_id": "CVE-2019-7609", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-kibana-cve-2019-7609"}
+{"cve_id": "CVE-2023-23752", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-joomla-cve-2023-23752"}
+{"cve_id": "CVE-2010-2861", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-coldfusion-cve-2010-2861"}
+{"cve_id": "CVE-2018-1273", "ts": "2026-10-08T22:22:27Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-spring-cve-2018-1273"}
+{"cve_id": "CVE-2016-10134", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-zabbix-cve-2016-10134"}
+{"cve_id": "CVE-2018-1000861", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-jenkins-cve-2018-1000861"}
+{"cve_id": "CVE-2018-12613", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-phpmyadmin-cve-2018-12613"}
+{"cve_id": "CVE-2022-22965", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22965"}
+{"cve_id": "CVE-2022-44268", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-imagemagick-cve-2022-44268"}
+{"cve_id": "CVE-2019-7238", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-nexus-cve-2019-7238"}
+{"cve_id": "CVE-2014-6271", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-bash-cve-2014-6271"}
+{"cve_id": "CVE-2014-3704", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-drupal-cve-2014-3704"}
+{"cve_id": "CVE-2022-46169", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-cacti-cve-2022-46169"}
+{"cve_id": "CVE-2019-11043", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-php-cve-2019-11043"}
+{"cve_id": "CVE-2017-12615", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-tomcat-cve-2017-12615"}
+{"cve_id": "CVE-2015-1427", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-elasticsearch-cve-2015-1427"}
+{"cve_id": "CVE-2017-14849", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-node-cve-2017-14849"}
+{"cve_id": "CVE-2021-42013", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-httpd-cve-2021-42013"}
+{"cve_id": "CVE-2022-34265", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-django-cve-2022-34265"}
+{"cve_id": "CVE-2019-5418", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-rails-cve-2019-5418"}
+{"cve_id": "CVE-2023-51467", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-ofbiz-cve-2023-51467"}
+{"cve_id": "CVE-2019-15107", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-webmin-cve-2019-15107"}
+{"cve_id": "CVE-2020-13945", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-apisix-cve-2020-13945"}
+{"cve_id": "CVE-2016-4977", "ts": "2026-10-08T22:22:28Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-spring-cve-2016-4977"}
+{"cve_id": "CVE-2022-22947", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-spring-cve-2022-22947"}
+{"cve_id": "CVE-2023-27524", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-superset-cve-2023-27524"}
+{"cve_id": "CVE-2019-9193", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-postgres-cve-2019-9193"}
+{"cve_id": "CVE-2021-41773", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-httpd-cve-2021-41773"}
+{"cve_id": "CVE-2016-3714", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-imagemagick-cve-2016-3714"}
+{"cve_id": "CVE-2017-1000028", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-glassfish-cve-2017-1000028"}
+{"cve_id": "CVE-2017-12149", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-jboss-cve-2017-12149"}
+{"cve_id": "CVE-2018-7600", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-drupal-cve-2018-7600"}
+{"cve_id": "CVE-2023-46604", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-activemq-cve-2023-46604"}
+{"cve_id": "CVE-2018-3760", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-rails-cve-2018-3760"}
+{"cve_id": "CVE-2016-4437", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-shiro-cve-2016-4437"}
+{"cve_id": "CVE-2019-20933", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-influxdb-cve-2019-20933"}
+{"cve_id": "CVE-2021-22205", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-gitlab-cve-2021-22205"}
+{"cve_id": "CVE-2014-0160", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-openssl-cve-2014-0160"}
+{"cve_id": "CVE-2017-7494", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-samba-cve-2017-7494"}
+{"cve_id": "CVE-2017-15715", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-httpd-cve-2017-15715"}
+{"cve_id": "CVE-2019-10758", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-mongo-express-cve-2019-10758"}
+{"cve_id": "CVE-2021-25646", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-apache-druid-cve-2021-25646"}
+{"cve_id": "CVE-2017-10271", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-weblogic-cve-2017-10271"}
+{"cve_id": "CVE-2024-28752", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-apache-cxf-cve-2024-28752"}
+{"cve_id": "CVE-2022-23221", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-h2database-cve-2022-23221"}
+{"cve_id": "CVE-2026-49881", "ts": "2026-10-08T22:22:29Z", "type": "new_poc", "url": "https://github.com/Lewason/mhl-off-hook-writeup"}
+{"cve_id": "CVE-2026-106610", "ts": "2026-10-08T22:22:30Z", "type": "new_poc", "url": "https://github.com/KevineCharles/CVE-2026-106610-miniorange-otp-ato"}
+{"cve_id": "CVE-2026-67279", "ts": "2026-10-08T22:22:30Z", "type": "new_poc", "url": "https://github.com/shmaki4/CVE-2026-67279-Mikrotik-6.42-POC"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-10-08T22:22:30Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-log4j-cve-2021-44228"}
+{"cve_id": "CVE-2026-91940", "ts": "2026-10-08T22:22:30Z", "type": "new_poc", "url": "https://github.com/BiiTts/CVE-2026-91940-crawl4ai-Arbitrary-File-Write"}
+{"cve_id": "CVE-2021-39214", "ts": "2026-10-08T22:22:30Z", "type": "new_poc", "url": "https://github.com/CyberCTF/secdevlabs-golden-hat"}

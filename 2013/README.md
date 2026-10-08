@@ -103,6 +103,8 @@
 
 - [https://github.com/rsp243/fix_nginx_CVE-2013-4547_IB](https://github.com/rsp243/fix_nginx_CVE-2013-4547_IB) : ![starts](https://img.shields.io/github/stars/rsp243/fix_nginx_CVE-2013-4547_IB.svg) ![forks](https://img.shields.io/github/forks/rsp243/fix_nginx_CVE-2013-4547_IB.svg)
 
+- [https://github.com/CyberCTF/vulhub-nginx-cve-2013-4547](https://github.com/CyberCTF/vulhub-nginx-cve-2013-4547) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-nginx-cve-2013-4547.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-nginx-cve-2013-4547.svg)
+
 ## CVE-2013-4434
  Dropbear SSH Server before 2013.59 generates error messages for a failed logon attempt with different time delays depending on whether the user account exists, which allows remote attackers to discover valid usernames.
 

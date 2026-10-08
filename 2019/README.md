@@ -125,6 +125,8 @@ use after free.
 
 - [https://github.com/Dungsocool/CVE-2019-20933](https://github.com/Dungsocool/CVE-2019-20933) : ![starts](https://img.shields.io/github/stars/Dungsocool/CVE-2019-20933.svg) ![forks](https://img.shields.io/github/forks/Dungsocool/CVE-2019-20933.svg)
 
+- [https://github.com/CyberCTF/vulhub-influxdb-cve-2019-20933](https://github.com/CyberCTF/vulhub-influxdb-cve-2019-20933) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-influxdb-cve-2019-20933.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-influxdb-cve-2019-20933.svg)
+
 ## CVE-2019-20372
  NGINX before 1.17.7, with certain error_page configurations, allows HTTP request smuggling, as demonstrated by the ability of an attacker to read unauthorized web pages in environments where NGINX is being fronted by a load balancer.
 
@@ -820,6 +822,8 @@ use after free.
 
 - [https://github.com/Exploit-3389/CVE-2019-17564](https://github.com/Exploit-3389/CVE-2019-17564) : ![starts](https://img.shields.io/github/stars/Exploit-3389/CVE-2019-17564.svg) ![forks](https://img.shields.io/github/forks/Exploit-3389/CVE-2019-17564.svg)
 
+- [https://github.com/CyberCTF/vulhub-dubbo-cve-2019-17564](https://github.com/CyberCTF/vulhub-dubbo-cve-2019-17564) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-dubbo-cve-2019-17564.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-dubbo-cve-2019-17564.svg)
+
 ## CVE-2019-17558
  Apache Solr 5.0.0 to Apache Solr 8.3.1 are vulnerable to a Remote Code Execution through the VelocityResponseWriter. A Velocity template can be provided through Velocity templates in a configset `velocity/` directory or as a parameter. A user defined configset could contain renderable, potentially malicious, templates. Parameter provided templates are disabled by default, but can be enabled by setting `params.resource.loader.enabled` by defining a response writer with that setting set to `true`. Defining a response writer requires configuration API access. Solr 8.4 removed the params resource loader entirely, and only enables the configset-provided template rendering when the configset is `trusted` (has been uploaded by an authenticated user).
 
@@ -834,6 +838,8 @@ use after free.
 - [https://github.com/rogerzeferino/cve-2019-17558-apache-solr-rce](https://github.com/rogerzeferino/cve-2019-17558-apache-solr-rce) : ![starts](https://img.shields.io/github/stars/rogerzeferino/cve-2019-17558-apache-solr-rce.svg) ![forks](https://img.shields.io/github/forks/rogerzeferino/cve-2019-17558-apache-solr-rce.svg)
 
 - [https://github.com/xkyrage/Exploit_CVE-2019-17558-RCE](https://github.com/xkyrage/Exploit_CVE-2019-17558-RCE) : ![starts](https://img.shields.io/github/stars/xkyrage/Exploit_CVE-2019-17558-RCE.svg) ![forks](https://img.shields.io/github/forks/xkyrage/Exploit_CVE-2019-17558-RCE.svg)
+
+- [https://github.com/CyberCTF/vulhub-solr-cve-2019-17558](https://github.com/CyberCTF/vulhub-solr-cve-2019-17558) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-solr-cve-2019-17558.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-solr-cve-2019-17558.svg)
 
 ## CVE-2019-17525
  The login page on D-Link DIR-615 T1 20.10 devices allows remote attackers to bypass the CAPTCHA protection mechanism and conduct brute-force attacks.
@@ -1453,6 +1459,8 @@ use after free.
 - [https://github.com/EdouardosStav/CVE-2019-15107-RCE-WebMin](https://github.com/EdouardosStav/CVE-2019-15107-RCE-WebMin) : ![starts](https://img.shields.io/github/stars/EdouardosStav/CVE-2019-15107-RCE-WebMin.svg) ![forks](https://img.shields.io/github/forks/EdouardosStav/CVE-2019-15107-RCE-WebMin.svg)
 
 - [https://github.com/ArtemCyberLab/Project-Exploitation-of-Webmin-Authentication-Vulnerability](https://github.com/ArtemCyberLab/Project-Exploitation-of-Webmin-Authentication-Vulnerability) : ![starts](https://img.shields.io/github/stars/ArtemCyberLab/Project-Exploitation-of-Webmin-Authentication-Vulnerability.svg) ![forks](https://img.shields.io/github/forks/ArtemCyberLab/Project-Exploitation-of-Webmin-Authentication-Vulnerability.svg)
+
+- [https://github.com/CyberCTF/vulhub-webmin-cve-2019-15107](https://github.com/CyberCTF/vulhub-webmin-cve-2019-15107) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-webmin-cve-2019-15107.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-webmin-cve-2019-15107.svg)
 
 ## CVE-2019-15053
  The "HTML Include and replace macro" plugin before 1.5.0 for Confluence Server allows a bypass of the includeScripts=false XSS protection mechanism via vectors involving an IFRAME element.
@@ -2601,6 +2609,8 @@ use after free.
 
 - [https://github.com/a1ex-var1amov/ctf-cve-2019-11043](https://github.com/a1ex-var1amov/ctf-cve-2019-11043) : ![starts](https://img.shields.io/github/stars/a1ex-var1amov/ctf-cve-2019-11043.svg) ![forks](https://img.shields.io/github/forks/a1ex-var1amov/ctf-cve-2019-11043.svg)
 
+- [https://github.com/CyberCTF/vulhub-php-cve-2019-11043](https://github.com/CyberCTF/vulhub-php-cve-2019-11043) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-php-cve-2019-11043.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-php-cve-2019-11043.svg)
+
 ## CVE-2019-10999
  The D-Link DCS series of Wi-Fi cameras contains a stack-based buffer overflow in alphapd, the camera's web server. The overflow allows a remotely authenticated attacker to execute arbitrary code by providing a long string in the WEPEncryption parameter when requesting wireless.htm. Vulnerable devices include DCS-5009L (1.08.11 and below), DCS-5010L (1.14.09 and below), DCS-5020L (1.15.12 and below), DCS-5025L (1.03.07 and below), DCS-5030L (1.04.10 and below), DCS-930L (2.16.01 and below), DCS-931L (1.14.11 and below), DCS-932L (2.17.01 and below), DCS-933L (1.14.11 and below), and DCS-934L (1.05.04 and below).
 
@@ -2725,6 +2735,8 @@ use after free.
 - [https://github.com/lp008/CVE-2019-10758](https://github.com/lp008/CVE-2019-10758) : ![starts](https://img.shields.io/github/stars/lp008/CVE-2019-10758.svg) ![forks](https://img.shields.io/github/forks/lp008/CVE-2019-10758.svg)
 
 - [https://github.com/ossf-cve-benchmark/CVE-2019-10758](https://github.com/ossf-cve-benchmark/CVE-2019-10758) : ![starts](https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2019-10758.svg) ![forks](https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2019-10758.svg)
+
+- [https://github.com/CyberCTF/vulhub-mongo-express-cve-2019-10758](https://github.com/CyberCTF/vulhub-mongo-express-cve-2019-10758) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-mongo-express-cve-2019-10758.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-mongo-express-cve-2019-10758.svg)
 
 ## CVE-2019-10757
  knex.js versions before 0.19.5 are vulnerable to SQL Injection attack. Identifiers are escaped incorrectly as part of the MSSQL dialect, allowing attackers to craft a malicious query to the host DB.
@@ -3189,6 +3201,8 @@ use after free.
 
 - [https://github.com/corsisechero/CVE-2019-9193byVulHub](https://github.com/corsisechero/CVE-2019-9193byVulHub) : ![starts](https://img.shields.io/github/stars/corsisechero/CVE-2019-9193byVulHub.svg) ![forks](https://img.shields.io/github/forks/corsisechero/CVE-2019-9193byVulHub.svg)
 
+- [https://github.com/CyberCTF/vulhub-postgres-cve-2019-9193](https://github.com/CyberCTF/vulhub-postgres-cve-2019-9193) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-postgres-cve-2019-9193.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-postgres-cve-2019-9193.svg)
+
 ## CVE-2019-9184
  SQL injection vulnerability in the J2Store plugin 3.x before 3.3.7 for Joomla! allows remote attackers to execute arbitrary SQL commands via the product_option[] parameter.
 
@@ -3561,6 +3575,8 @@ use after free.
 
 - [https://github.com/aleister1102/kibana-prototype-pollusion](https://github.com/aleister1102/kibana-prototype-pollusion) : ![starts](https://img.shields.io/github/stars/aleister1102/kibana-prototype-pollusion.svg) ![forks](https://img.shields.io/github/forks/aleister1102/kibana-prototype-pollusion.svg)
 
+- [https://github.com/CyberCTF/vulhub-kibana-cve-2019-7609](https://github.com/CyberCTF/vulhub-kibana-cve-2019-7609) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-kibana-cve-2019-7609.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-kibana-cve-2019-7609.svg)
+
 ## CVE-2019-7489
  A vulnerability in SonicWall Email Security appliance allow an unauthenticated user to perform remote code execution. This vulnerability affected Email Security Appliance version 10.0.2 and earlier.
 
@@ -3624,6 +3640,8 @@ use after free.
 - [https://github.com/DannyRavi/nmap-scripts](https://github.com/DannyRavi/nmap-scripts) : ![starts](https://img.shields.io/github/stars/DannyRavi/nmap-scripts.svg) ![forks](https://img.shields.io/github/forks/DannyRavi/nmap-scripts.svg)
 
 - [https://github.com/smallpiggy/CVE-2019-7238](https://github.com/smallpiggy/CVE-2019-7238) : ![starts](https://img.shields.io/github/stars/smallpiggy/CVE-2019-7238.svg) ![forks](https://img.shields.io/github/forks/smallpiggy/CVE-2019-7238.svg)
+
+- [https://github.com/CyberCTF/vulhub-nexus-cve-2019-7238](https://github.com/CyberCTF/vulhub-nexus-cve-2019-7238) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-nexus-cve-2019-7238.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-nexus-cve-2019-7238.svg)
 
 ## CVE-2019-7219
  Unauthenticated reflected cross-site scripting (XSS) exists in Zarafa Webapp 2.0.1.47791 and earlier. NOTE: this is a discontinued product. The issue was fixed in later Zarafa Webapp versions; however, some former Zarafa Webapp customers use the related Kopano product instead.
@@ -4150,6 +4168,8 @@ use after free.
 - [https://github.com/melardev/CVE-2019-5418](https://github.com/melardev/CVE-2019-5418) : ![starts](https://img.shields.io/github/stars/melardev/CVE-2019-5418.svg) ![forks](https://img.shields.io/github/forks/melardev/CVE-2019-5418.svg)
 
 - [https://github.com/ztgrace/CVE-2019-5418-Rails3](https://github.com/ztgrace/CVE-2019-5418-Rails3) : ![starts](https://img.shields.io/github/stars/ztgrace/CVE-2019-5418-Rails3.svg) ![forks](https://img.shields.io/github/forks/ztgrace/CVE-2019-5418-Rails3.svg)
+
+- [https://github.com/CyberCTF/vulhub-rails-cve-2019-5418](https://github.com/CyberCTF/vulhub-rails-cve-2019-5418) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-rails-cve-2019-5418.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-rails-cve-2019-5418.svg)
 
 ## CVE-2019-5414
  If an attacker can control the port, which in itself is a very sensitive value, they can inject arbitrary OS commands due to the usage of the exec function in a third-party module kill-port  1.3.2.

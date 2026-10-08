@@ -188,6 +188,8 @@
 
 - [https://github.com/glowbase/CVE-2020-35476](https://github.com/glowbase/CVE-2020-35476) : ![starts](https://img.shields.io/github/stars/glowbase/CVE-2020-35476.svg) ![forks](https://img.shields.io/github/forks/glowbase/CVE-2020-35476.svg)
 
+- [https://github.com/CyberCTF/vulhub-opentsdb-cve-2020-35476](https://github.com/CyberCTF/vulhub-opentsdb-cve-2020-35476) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-opentsdb-cve-2020-35476.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-opentsdb-cve-2020-35476.svg)
+
 ## CVE-2020-35460
  common/InputStreamHelper.java in Packwood MPXJ before 8.3.5 allows directory traversal in the zip stream handler flow, leading to the writing of files to arbitrary locations.
 
@@ -1436,6 +1438,8 @@
 
 - [https://github.com/shoucheng3/apache__flink_CVE-2020-17519_1-11-2](https://github.com/shoucheng3/apache__flink_CVE-2020-17519_1-11-2) : ![starts](https://img.shields.io/github/stars/shoucheng3/apache__flink_CVE-2020-17519_1-11-2.svg) ![forks](https://img.shields.io/github/forks/shoucheng3/apache__flink_CVE-2020-17519_1-11-2.svg)
 
+- [https://github.com/CyberCTF/vulhub-flink-cve-2020-17519](https://github.com/CyberCTF/vulhub-flink-cve-2020-17519) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-flink-cve-2020-17519.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-flink-cve-2020-17519.svg)
+
 ## CVE-2020-17518
  Apache Flink 1.5.1 introduced a REST handler that allows you to write an uploaded file to an arbitrary location on the local file system, through a maliciously modified HTTP HEADER. The files can be written to any location accessible by Flink 1.5.1. All users should upgrade to Flink 1.11.3 or 1.12.0 if their Flink instance(s) are exposed. The issue was fixed in commit a5264a6f41524afe8ceadf1d8ddc8c80f323ebc4 from apache/flink:master.
 
@@ -2042,6 +2046,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/hyderpwn/weblogic](https://github.com/hyderpwn/weblogic) : ![starts](https://img.shields.io/github/stars/hyderpwn/weblogic.svg) ![forks](https://img.shields.io/github/forks/hyderpwn/weblogic.svg)
 
+- [https://github.com/CyberCTF/vulhub-weblogic-cve-2020-14882](https://github.com/CyberCTF/vulhub-weblogic-cve-2020-14882) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-weblogic-cve-2020-14882.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-weblogic-cve-2020-14882.svg)
+
 ## CVE-2020-14871
  Vulnerability in the Oracle Solaris product of Oracle Systems (component: Pluggable authentication module). Supported versions that are affected are 10 and 11. Easily exploitable vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Oracle Solaris. While the vulnerability is in Oracle Solaris, attacks may significantly impact additional products. Successful attacks of this vulnerability can result in takeover of Oracle Solaris. Note: This CVE is not exploitable for Solaris 11.1 and later releases, and ZFSSA 8.7 and later releases, thus the CVSS Base Score is 0.0. CVSS 3.1 Base Score 10.0 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H).
 
@@ -2290,6 +2296,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 - [https://github.com/K3ysTr0K3R/CVE-2020-13945-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2020-13945-EXPLOIT) : ![starts](https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2020-13945-EXPLOIT.svg) ![forks](https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2020-13945-EXPLOIT.svg)
 
 - [https://github.com/YutuSec/Apisix_Crack](https://github.com/YutuSec/Apisix_Crack) : ![starts](https://img.shields.io/github/stars/YutuSec/Apisix_Crack.svg) ![forks](https://img.shields.io/github/forks/YutuSec/Apisix_Crack.svg)
+
+- [https://github.com/CyberCTF/vulhub-apisix-cve-2020-13945](https://github.com/CyberCTF/vulhub-apisix-cve-2020-13945) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-apisix-cve-2020-13945.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-apisix-cve-2020-13945.svg)
 
 ## CVE-2020-13942
  It is possible to inject malicious OGNL or MVEL scripts into the /context.json public endpoint. This was partially fixed in 1.5.1 but a new attack vector was found. In Apache Unomi version 1.5.2 scripts are now completely filtered from the input. It is highly recommended to upgrade to the latest available version of the 1.5.x release to fix this problem.
@@ -2833,6 +2841,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 - [https://github.com/s1lentf00thold/CVE-2020-11651-Poc](https://github.com/s1lentf00thold/CVE-2020-11651-Poc) : ![starts](https://img.shields.io/github/stars/s1lentf00thold/CVE-2020-11651-Poc.svg) ![forks](https://img.shields.io/github/forks/s1lentf00thold/CVE-2020-11651-Poc.svg)
 
 - [https://github.com/hardsoftsecurity/CVE-2020-11651-PoC](https://github.com/hardsoftsecurity/CVE-2020-11651-PoC) : ![starts](https://img.shields.io/github/stars/hardsoftsecurity/CVE-2020-11651-PoC.svg) ![forks](https://img.shields.io/github/forks/hardsoftsecurity/CVE-2020-11651-PoC.svg)
+
+- [https://github.com/CyberCTF/vulhub-saltstack-cve-2020-11651](https://github.com/CyberCTF/vulhub-saltstack-cve-2020-11651) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-saltstack-cve-2020-11651.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-saltstack-cve-2020-11651.svg)
 
 ## CVE-2020-11650
  An issue was discovered in iXsystems FreeNAS (and TrueNAS) 11.2 before 11.2-u8 and 11.3 before 11.3-U1. It allows a denial of service. The login authentication component has no limits on the length of an authentication message or the rate at which such messages are sent.
@@ -4163,6 +4173,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/solmin111/OpenSMTPD-CVE-2020-7247-](https://github.com/solmin111/OpenSMTPD-CVE-2020-7247-) : ![starts](https://img.shields.io/github/stars/solmin111/OpenSMTPD-CVE-2020-7247-.svg) ![forks](https://img.shields.io/github/forks/solmin111/OpenSMTPD-CVE-2020-7247-.svg)
 
+- [https://github.com/CyberCTF/vulhub-opensmtpd-cve-2020-7247](https://github.com/CyberCTF/vulhub-opensmtpd-cve-2020-7247) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-opensmtpd-cve-2020-7247.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-opensmtpd-cve-2020-7247.svg)
+
 ## CVE-2020-7246
  A remote code execution (RCE) vulnerability exists in qdPM 9.1 and earlier. An attacker can upload a malicious PHP code file via the profile photo functionality, by leveraging a path traversal vulnerability in the users['photop_preview'] delete photo feature, allowing bypass of .htaccess protection. NOTE: this issue exists because of an incomplete fix for CVE-2015-3884.
 
@@ -5121,6 +5133,8 @@ The issue has been fixed in dropwizard-validation 1.3.19 and 2.0.2.
 - [https://github.com/aidilzlkfli/Scanning](https://github.com/aidilzlkfli/Scanning) : ![starts](https://img.shields.io/github/stars/aidilzlkfli/Scanning.svg) ![forks](https://img.shields.io/github/forks/aidilzlkfli/Scanning.svg)
 
 - [https://github.com/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3](https://github.com/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3) : ![starts](https://img.shields.io/github/stars/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3.svg) ![forks](https://img.shields.io/github/forks/si1ence90/Ghostcat-Tomcat-AJP-Exploit-Py3.svg)
+
+- [https://github.com/CyberCTF/vulhub-tomcat-cve-2020-1938](https://github.com/CyberCTF/vulhub-tomcat-cve-2020-1938) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-tomcat-cve-2020-1938.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-tomcat-cve-2020-1938.svg)
 
 ## CVE-2020-1937
  Kylin has some restful apis which will concatenate SQLs with the user input string, a user is likely to be able to run malicious database queries.

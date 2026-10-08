@@ -137,6 +137,10 @@
 
 - [https://github.com/asaotomo/CVE-2016-10140-Zoneminder-Poc](https://github.com/asaotomo/CVE-2016-10140-Zoneminder-Poc) : ![starts](https://img.shields.io/github/stars/asaotomo/CVE-2016-10140-Zoneminder-Poc.svg) ![forks](https://img.shields.io/github/forks/asaotomo/CVE-2016-10140-Zoneminder-Poc.svg)
 
+## CVE-2016-10134
+
+- [https://github.com/CyberCTF/vulhub-zabbix-cve-2016-10134](https://github.com/CyberCTF/vulhub-zabbix-cve-2016-10134) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-zabbix-cve-2016-10134.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-zabbix-cve-2016-10134.svg)
+
 ## CVE-2016-10045
  The isMail transport in PHPMailer before 5.2.20 might allow remote attackers to pass extra parameters to the mail command and consequently execute arbitrary code by leveraging improper interaction between the escapeshellarg function and internal escaping performed in the mail function in PHP. NOTE: this vulnerability exists because of an incorrect fix for CVE-2016-10033.
 
@@ -847,6 +851,8 @@
 
 - [https://github.com/N0b1e6/CVE-2016-4977-POC](https://github.com/N0b1e6/CVE-2016-4977-POC) : ![starts](https://img.shields.io/github/stars/N0b1e6/CVE-2016-4977-POC.svg) ![forks](https://img.shields.io/github/forks/N0b1e6/CVE-2016-4977-POC.svg)
 
+- [https://github.com/CyberCTF/vulhub-spring-cve-2016-4977](https://github.com/CyberCTF/vulhub-spring-cve-2016-4977) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-spring-cve-2016-4977.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-spring-cve-2016-4977.svg)
+
 ## CVE-2016-4971
  GNU wget before 1.18 allows remote servers to write to arbitrary files by redirecting a request from HTTP to a crafted FTP resource.
 
@@ -959,6 +965,8 @@
 
 - [https://github.com/xiaoqiMikko/shiro-check](https://github.com/xiaoqiMikko/shiro-check) : ![starts](https://img.shields.io/github/stars/xiaoqiMikko/shiro-check.svg) ![forks](https://img.shields.io/github/forks/xiaoqiMikko/shiro-check.svg)
 
+- [https://github.com/CyberCTF/vulhub-shiro-cve-2016-4437](https://github.com/CyberCTF/vulhub-shiro-cve-2016-4437) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-shiro-cve-2016-4437.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-shiro-cve-2016-4437.svg)
+
 ## CVE-2016-4117
  Adobe Flash Player 21.0.0.226 and earlier allows remote attackers to execute arbitrary code via unspecified vectors, as exploited in the wild in May 2016.
 
@@ -1035,6 +1043,8 @@
 - [https://github.com/jackdpeterson/imagick_secure_puppet](https://github.com/jackdpeterson/imagick_secure_puppet) : ![starts](https://img.shields.io/github/stars/jackdpeterson/imagick_secure_puppet.svg) ![forks](https://img.shields.io/github/forks/jackdpeterson/imagick_secure_puppet.svg)
 
 - [https://github.com/artfreyr/wp-imagetragick](https://github.com/artfreyr/wp-imagetragick) : ![starts](https://img.shields.io/github/stars/artfreyr/wp-imagetragick.svg) ![forks](https://img.shields.io/github/forks/artfreyr/wp-imagetragick.svg)
+
+- [https://github.com/CyberCTF/vulhub-imagemagick-cve-2016-3714](https://github.com/CyberCTF/vulhub-imagemagick-cve-2016-3714) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-imagemagick-cve-2016-3714.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-imagemagick-cve-2016-3714.svg)
 
 ## CVE-2016-3627
  The xmlStringGetNodeList function in tree.c in libxml2 2.9.3 and earlier, when used in recovery mode, allows context-dependent attackers to cause a denial of service (infinite recursion, stack consumption, and application crash) via a crafted XML document.
@@ -1117,6 +1127,8 @@
 - [https://github.com/HeArtE4t3r/CVE-2016-3088](https://github.com/HeArtE4t3r/CVE-2016-3088) : ![starts](https://img.shields.io/github/stars/HeArtE4t3r/CVE-2016-3088.svg) ![forks](https://img.shields.io/github/forks/HeArtE4t3r/CVE-2016-3088.svg)
 
 - [https://github.com/wood03mm/CVE-2016-3088](https://github.com/wood03mm/CVE-2016-3088) : ![starts](https://img.shields.io/github/stars/wood03mm/CVE-2016-3088.svg) ![forks](https://img.shields.io/github/forks/wood03mm/CVE-2016-3088.svg)
+
+- [https://github.com/CyberCTF/vulhub-activemq-cve-2016-3088](https://github.com/CyberCTF/vulhub-activemq-cve-2016-3088) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-activemq-cve-2016-3088.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-activemq-cve-2016-3088.svg)
 
 ## CVE-2016-2783
  Avaya Fabric Connect Virtual Services Platform (VSP) Operating System Software (VOSS) before 4.2.3.0 and 5.x before 5.0.1.0 does not properly handle VLAN and I-SIS indexes, which allows remote attackers to obtain unauthorized access via crafted Ethernet frames.
