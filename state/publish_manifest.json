@@ -1,12 +1,9 @@
 {
-  "changed": [
-    "/home/runner/work/cve_poc_exp_in_github/cve_poc_exp_in_github/2026/README.md",
-    "/home/runner/work/cve_poc_exp_in_github/cve_poc_exp_in_github/PocOrExp.md"
-  ],
+  "changed": [],
   "relations": 29422,
   "rule_version": "2",
   "sections": 12310,
   "today_owned": true,
-  "ts": "2026-10-09T16:35:17Z",
+  "ts": "2026-10-09T16:45:27Z",
   "years": 28
 }
