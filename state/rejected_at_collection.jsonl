@@ -407,3 +407,4 @@
 {"cve_id": "CVE-2026-9352", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T22:07:12Z", "url": "https://github.com/muradislamzada/CVE-2026-93528", "url_ids": ["CVE-2026-93528"]}
 {"cve_id": "CVE-2026-2674", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T22:08:16Z", "url": "https://github.com/lorenzobruno7/CVE-2026-26744", "url_ids": ["CVE-2026-26744"]}
 {"cve_id": "CVE-2024-3177", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T22:10:21Z", "url": "https://github.com/FreySolarEye/Exploit-CVE-2024-31777", "url_ids": ["CVE-2024-31777"]}
+{"cve_id": "CVE-2025-5534", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T22:20:27Z", "url": "https://github.com/GoldenTicketLabs/CVE-2025-55349", "url_ids": ["CVE-2025-55349"]}
