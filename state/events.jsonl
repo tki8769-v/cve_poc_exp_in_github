@@ -2142,3 +2142,17 @@
 {"cve_id": "CVE-2026-64560", "ts": "2026-10-09T16:14:45Z", "type": "new_poc", "url": "https://github.com/sangsheng2026/honor-90gt-mag-an00-root-research"}
 {"cve_id": "CVE-2026-24301", "ts": "2026-10-09T16:15:55Z", "type": "new_poc", "url": "https://github.com/CSOAI-ORG/memory-poisoning-axis"}
 {"cve_id": "CVE-2026-50055", "ts": "2026-10-09T16:21:51Z", "type": "new_poc", "url": "https://github.com/HORKimhab/CVE-2026-50055"}
+{"cve_id": "CVE-2026-105398", "ts": "2026-10-09T16:25:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105399", "ts": "2026-10-09T16:25:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105400", "ts": "2026-10-09T16:25:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105401", "ts": "2026-10-09T16:25:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105402", "ts": "2026-10-09T16:25:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105403", "ts": "2026-10-09T16:25:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105404", "ts": "2026-10-09T16:25:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105405", "ts": "2026-10-09T16:25:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105823", "ts": "2026-10-09T16:25:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105824", "ts": "2026-10-09T16:25:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105825", "ts": "2026-10-09T16:25:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105826", "ts": "2026-10-09T16:25:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105827", "ts": "2026-10-09T16:25:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-39725", "ts": "2026-10-09T16:25:21Z", "type": "cve_rejected"}
