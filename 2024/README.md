@@ -4153,6 +4153,10 @@ Call Trace:
 
 - [https://github.com/IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821) : ![starts](https://img.shields.io/github/stars/IvanGlinkin/CVE-2024-36821.svg) ![forks](https://img.shields.io/github/forks/IvanGlinkin/CVE-2024-36821.svg)
 
+## CVE-2024-36774
+
+- [https://github.com/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC](https://github.com/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC) : ![starts](https://img.shields.io/github/stars/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC.svg) ![forks](https://img.shields.io/github/forks/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC.svg)
+
 ## CVE-2024-36587
  Insecure permissions in DNSCrypt-proxy v2.0.0alpha9 to v2.1.5 allows non-privileged attackers to escalate privileges to root via overwriting the binary dnscrypt-proxy.
 

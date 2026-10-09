@@ -7813,6 +7813,10 @@ be in the smb2_sess_setup function which makes use of sess-user.
 
 - [https://github.com/salimelh94/Web-Penetration-Test](https://github.com/salimelh94/Web-Penetration-Test) : ![starts](https://img.shields.io/github/stars/salimelh94/Web-Penetration-Test.svg) ![forks](https://img.shields.io/github/forks/salimelh94/Web-Penetration-Test.svg)
 
+## CVE-2025-34071
+
+- [https://github.com/cppghoul/CVE-2025-34071](https://github.com/cppghoul/CVE-2025-34071) : ![starts](https://img.shields.io/github/stars/cppghoul/CVE-2025-34071.svg) ![forks](https://img.shields.io/github/forks/cppghoul/CVE-2025-34071.svg)
+
 ## CVE-2025-34069
 
 - [https://github.com/cppghoul/CVE-2025-34069](https://github.com/cppghoul/CVE-2025-34069) : ![starts](https://img.shields.io/github/stars/cppghoul/CVE-2025-34069.svg) ![forks](https://img.shields.io/github/forks/cppghoul/CVE-2025-34069.svg)

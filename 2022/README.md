@@ -6318,6 +6318,10 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 
 - [https://github.com/usutani/study-turbolinks-link](https://github.com/usutani/study-turbolinks-link) : ![starts](https://img.shields.io/github/stars/usutani/study-turbolinks-link.svg) ![forks](https://img.shields.io/github/forks/usutani/study-turbolinks-link.svg)
 
+## CVE-2022-21812
+
+- [https://github.com/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812](https://github.com/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812) : ![starts](https://img.shields.io/github/stars/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812.svg) ![forks](https://img.shields.io/github/forks/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812.svg)
+
 ## CVE-2022-21789
  In audio ipi, there is a possible memory corruption due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06478101; Issue ID: ALPS06478101.
 

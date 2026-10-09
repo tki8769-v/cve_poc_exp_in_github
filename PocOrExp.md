@@ -15,6 +15,8 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 - [https://github.com/techupdate24/citrix-netscaler-rce-cve-2026-107406](https://github.com/techupdate24/citrix-netscaler-rce-cve-2026-107406) : ![starts](https://img.shields.io/github/stars/techupdate24/citrix-netscaler-rce-cve-2026-107406.svg) ![forks](https://img.shields.io/github/forks/techupdate24/citrix-netscaler-rce-cve-2026-107406.svg)
 
+- [https://github.com/ApexBreach/CVE-2026-107406-Poc](https://github.com/ApexBreach/CVE-2026-107406-Poc) : ![starts](https://img.shields.io/github/stars/ApexBreach/CVE-2026-107406-Poc.svg) ![forks](https://img.shields.io/github/forks/ApexBreach/CVE-2026-107406-Poc.svg)
+
 ## CVE-2026-107268
 
 - [https://github.com/yuwkaaa/CVE-2026-107268](https://github.com/yuwkaaa/CVE-2026-107268) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-107268.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-107268.svg)
@@ -71,6 +73,22 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 ## CVE-2026-104826
 
 - [https://github.com/KiwKNR/CVE-2026-104826](https://github.com/KiwKNR/CVE-2026-104826) : ![starts](https://img.shields.io/github/stars/KiwKNR/CVE-2026-104826.svg) ![forks](https://img.shields.io/github/forks/KiwKNR/CVE-2026-104826.svg)
+
+## CVE-2026-104587
+
+- [https://github.com/AmalJafarzade/CVE-2026-104587](https://github.com/AmalJafarzade/CVE-2026-104587) : ![starts](https://img.shields.io/github/stars/AmalJafarzade/CVE-2026-104587.svg) ![forks](https://img.shields.io/github/forks/AmalJafarzade/CVE-2026-104587.svg)
+
+## CVE-2026-104586
+
+- [https://github.com/AmalJafarzade/CVE-2026-104586](https://github.com/AmalJafarzade/CVE-2026-104586) : ![starts](https://img.shields.io/github/stars/AmalJafarzade/CVE-2026-104586.svg) ![forks](https://img.shields.io/github/forks/AmalJafarzade/CVE-2026-104586.svg)
+
+## CVE-2026-104585
+
+- [https://github.com/AmalJafarzade/CVE-2026-104585](https://github.com/AmalJafarzade/CVE-2026-104585) : ![starts](https://img.shields.io/github/stars/AmalJafarzade/CVE-2026-104585.svg) ![forks](https://img.shields.io/github/forks/AmalJafarzade/CVE-2026-104585.svg)
+
+## CVE-2026-104584
+
+- [https://github.com/AmalJafarzade/CVE-2026-104584](https://github.com/AmalJafarzade/CVE-2026-104584) : ![starts](https://img.shields.io/github/stars/AmalJafarzade/CVE-2026-104584.svg) ![forks](https://img.shields.io/github/forks/AmalJafarzade/CVE-2026-104584.svg)
 
 ## CVE-2026-104356
 > PictShare before version 3.7.1 contains a weak randomness vulnerability where the getRandomString() function uses the non-cryptographic rand() PRNG to generate the delete_code authorization token in src/inc/core.php. Attackers can predict or infer the PRNG state to guess valid delete_code values and perform unauthorized deletion of hosted files without needing to read the code from the info endpoint.
@@ -877,6 +895,12 @@ The default is governance.auth_config.is_enabled=false. Auth off means every cal
 The extension supplies its own Xalan-backed TransformerFactory to the xslt component and registers it
 
 - [https://github.com/oscerd/CVE-2026-88789](https://github.com/oscerd/CVE-2026-88789) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-88789.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-88789.svg)
+
+## CVE-2026-88776
+> Memory overflow vulnerability vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.
+This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1.37.279 FIPS and NDcPP; Gateway: before 14.1-73.37 and before 13.1-64.23  leading to unpredictable or erroneous behavior or Denial of Service
+
+- [https://github.com/Scyrix-LLC/CVE-2026-88776](https://github.com/Scyrix-LLC/CVE-2026-88776) : ![starts](https://img.shields.io/github/stars/Scyrix-LLC/CVE-2026-88776.svg) ![forks](https://img.shields.io/github/forks/Scyrix-LLC/CVE-2026-88776.svg)
 
 ## CVE-2026-88773
 > Inconsistent interpretation of HTTP requests (&#x27;HTTP Request/Response smuggling&#x27;) vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.
@@ -3654,6 +3678,8 @@ with mt exec") added a temporary workaround for that in 2010 which surv
 
 - [https://github.com/Meniben/redmi14c-pond-cve-2026-64560](https://github.com/Meniben/redmi14c-pond-cve-2026-64560) : ![starts](https://img.shields.io/github/stars/Meniben/redmi14c-pond-cve-2026-64560.svg) ![forks](https://img.shields.io/github/forks/Meniben/redmi14c-pond-cve-2026-64560.svg)
 
+- [https://github.com/sangsheng2026/honor-90gt-mag-an00-root-research](https://github.com/sangsheng2026/honor-90gt-mag-an00-root-research) : ![starts](https://img.shields.io/github/stars/sangsheng2026/honor-90gt-mag-an00-root-research.svg) ![forks](https://img.shields.io/github/forks/sangsheng2026/honor-90gt-mag-an00-root-research.svg)
+
 ## CVE-2026-64531
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -6205,6 +6231,11 @@ Users are recommended to upgrade to version 11.0.23, 10.1.56 or 9.0.119, which f
  Fedify is a TypeScript library for building federated server apps powered by ActivityPub. Fedify previously addressed SSRF/internal network access in GHSA-p9cg-vqcc-grcx by adding public URL validation before runtime document and media fetching. However, the IPv4 validation logic present starting in version 0.11.2 and prior to versions 1.9.12, 1.10.11, 2.0.19, 2.1.15, and 2.2.4 appears incomplete. The `validatePublicUrl()` protection relies on `isValidPublicIPv4Address()` to reject non-public IPv4 destinations. The function blocks common private and local ranges such as `10.0.0.0/8`, `127.0.0.0/8`, `169.254.0.0/16`, `172.16.0.0/12`, and `192.168.0.0/16`, but it still treats several special-use, reserved, multicast, benchmarking, and carrier-grade NAT IPv4 ranges as valid public destinations. Because this validation is used as an SSRF defense before outbound fetches, this appears to be an incomplete mitigation or bypass class for the previous SSRF issue. Versions 1.9.12, 1.10.11, 2.0.19, 2.1.15, and 2.2.4 contain an updated patch.
 
 - [https://github.com/chaitanyagarware/CVE-2026-50131](https://github.com/chaitanyagarware/CVE-2026-50131) : ![starts](https://img.shields.io/github/stars/chaitanyagarware/CVE-2026-50131.svg) ![forks](https://img.shields.io/github/forks/chaitanyagarware/CVE-2026-50131.svg)
+
+## CVE-2026-50055
+> A policy-enforcement flaw in Zimbra Collaboration Suite allows an authenticated user to bypass disabled mail forwarding by using a Sieve notify action to send copies of email content and headers to an arbitrary address.
+
+- [https://github.com/HORKimhab/CVE-2026-50055](https://github.com/HORKimhab/CVE-2026-50055) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-50055.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-50055.svg)
 
 ## CVE-2026-50011
  Netty is a network application framework for development of protocol servers and clients. Prior to versions 4.1.135.Final and 4.2.15.Final, RedisArrayAggregator pre-allocates ArrayList with initial capacity equal to the RESP array element count declared in an array header. That count is taken from the wire before the corresponding child messages exist. A small malicious header can claim a huge initial capacity. Versions 4.1.135.Final and 4.2.15.Final patch the issue.
@@ -13453,6 +13484,10 @@ trusted by those clients and undermine the certificate trust chain.
 
 - [https://github.com/qianlijaingshan/ragflow-audit](https://github.com/qianlijaingshan/ragflow-audit) : ![starts](https://img.shields.io/github/stars/qianlijaingshan/ragflow-audit.svg) ![forks](https://img.shields.io/github/forks/qianlijaingshan/ragflow-audit.svg)
 
+## CVE-2026-28775
+
+- [https://github.com/Udyz/CVE-2026-28775](https://github.com/Udyz/CVE-2026-28775) : ![starts](https://img.shields.io/github/stars/Udyz/CVE-2026-28775.svg) ![forks](https://img.shields.io/github/forks/Udyz/CVE-2026-28775.svg)
+
 ## CVE-2026-28767
  A specific administrative endpoint notifications is accessible without proper authentication.
 
@@ -14590,6 +14625,10 @@ Users are recommended to upgrade to version 11.0.15 or later, 10.1.50 or later o
 
 - [https://github.com/ExploreUnknowed/CVE-2026-24306](https://github.com/ExploreUnknowed/CVE-2026-24306) : ![starts](https://img.shields.io/github/stars/ExploreUnknowed/CVE-2026-24306.svg) ![forks](https://img.shields.io/github/forks/ExploreUnknowed/CVE-2026-24306.svg)
 
+## CVE-2026-24301
+
+- [https://github.com/CSOAI-ORG/memory-poisoning-axis](https://github.com/CSOAI-ORG/memory-poisoning-axis) : ![starts](https://img.shields.io/github/stars/CSOAI-ORG/memory-poisoning-axis.svg) ![forks](https://img.shields.io/github/forks/CSOAI-ORG/memory-poisoning-axis.svg)
+
 ## CVE-2026-24294
  Improper authentication in Windows SMB Server allows an authorized attacker to elevate privileges locally.
 
@@ -14823,6 +14862,10 @@ updates from the PLC can also be sniffed and reverse engineered.
  wheel is a command line tool for manipulating Python wheel files, as defined in PEP 427. In versions 0.40.0 through 0.46.1, the unpack function is vulnerable to file permission modification through mishandling of file permissions after extraction. The logic blindly trusts the filename from the archive header for the chmod operation, even though the extraction process itself might have sanitized the path. Attackers can craft a malicious wheel file that, when unpacked, changes the permissions of critical system files (e.g., /etc/passwd, SSH keys, config files), allowing for Privilege Escalation or arbitrary code execution by modifying now-writable scripts. This issue has been fixed in version 0.46.2.
 
 - [https://github.com/kriskimmerle/wheelaudit](https://github.com/kriskimmerle/wheelaudit) : ![starts](https://img.shields.io/github/stars/kriskimmerle/wheelaudit.svg) ![forks](https://img.shields.io/github/forks/kriskimmerle/wheelaudit.svg)
+
+## CVE-2026-24046
+
+- [https://github.com/Rem1L/cve-2026-24046-poc](https://github.com/Rem1L/cve-2026-24046-poc) : ![starts](https://img.shields.io/github/stars/Rem1L/cve-2026-24046-poc.svg) ![forks](https://img.shields.io/github/forks/Rem1L/cve-2026-24046-poc.svg)
 
 ## CVE-2026-24031
  Dovecot SQL based authentication can be bypassed when auth_username_chars is cleared by admin. This vulnerability allows bypassing authentication for any user and user enumeration. Do not clear auth_username_chars. If this is not possible, install latest fixed version. No publicly available exploits are known.
@@ -29424,6 +29467,10 @@ be in the smb2_sess_setup function which makes use of sess-user.
 
 - [https://github.com/salimelh94/Web-Penetration-Test](https://github.com/salimelh94/Web-Penetration-Test) : ![starts](https://img.shields.io/github/stars/salimelh94/Web-Penetration-Test.svg) ![forks](https://img.shields.io/github/forks/salimelh94/Web-Penetration-Test.svg)
 
+## CVE-2025-34071
+
+- [https://github.com/cppghoul/CVE-2025-34071](https://github.com/cppghoul/CVE-2025-34071) : ![starts](https://img.shields.io/github/stars/cppghoul/CVE-2025-34071.svg) ![forks](https://img.shields.io/github/forks/cppghoul/CVE-2025-34071.svg)
+
 ## CVE-2025-34069
 
 - [https://github.com/cppghoul/CVE-2025-34069](https://github.com/cppghoul/CVE-2025-34069) : ![starts](https://img.shields.io/github/stars/cppghoul/CVE-2025-34069.svg) ![forks](https://img.shields.io/github/forks/cppghoul/CVE-2025-34069.svg)
@@ -41120,6 +41167,10 @@ Call Trace:
  Insecure permissions in Linksys Velop WiFi 5 (WHW01v1) 1.1.13.202617 allows attackers to escalate privileges from Guest to root.
 
 - [https://github.com/IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821) : ![starts](https://img.shields.io/github/stars/IvanGlinkin/CVE-2024-36821.svg) ![forks](https://img.shields.io/github/forks/IvanGlinkin/CVE-2024-36821.svg)
+
+## CVE-2024-36774
+
+- [https://github.com/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC](https://github.com/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC) : ![starts](https://img.shields.io/github/stars/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC.svg) ![forks](https://img.shields.io/github/forks/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC.svg)
 
 ## CVE-2024-36587
  Insecure permissions in DNSCrypt-proxy v2.0.0alpha9 to v2.1.5 allows non-privileged attackers to escalate privileges to root via overwriting the binary dnscrypt-proxy.
@@ -66600,6 +66651,10 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 
 - [https://github.com/usutani/study-turbolinks-link](https://github.com/usutani/study-turbolinks-link) : ![starts](https://img.shields.io/github/stars/usutani/study-turbolinks-link.svg) ![forks](https://img.shields.io/github/forks/usutani/study-turbolinks-link.svg)
 
+## CVE-2022-21812
+
+- [https://github.com/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812](https://github.com/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812) : ![starts](https://img.shields.io/github/stars/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812.svg) ![forks](https://img.shields.io/github/forks/NeroMinddd/intel-haxm-kernel-reverse-engineering-cve-2022-21812.svg)
+
 ## CVE-2022-21789
  In audio ipi, there is a possible memory corruption due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS06478101; Issue ID: ALPS06478101.
 
@@ -69702,6 +69757,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/ResoluteRacoons/log4-Java-logging-poc](https://github.com/ResoluteRacoons/log4-Java-logging-poc) : ![starts](https://img.shields.io/github/stars/ResoluteRacoons/log4-Java-logging-poc.svg) ![forks](https://img.shields.io/github/forks/ResoluteRacoons/log4-Java-logging-poc.svg)
 
 - [https://github.com/CyberCTF/vulhub-log4j-cve-2021-44228](https://github.com/CyberCTF/vulhub-log4j-cve-2021-44228) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-log4j-cve-2021-44228.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-log4j-cve-2021-44228.svg)
+
+- [https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab](https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab) : ![starts](https://img.shields.io/github/stars/hoangvvthu/CVE-2021-44228-Log4Shell-Lab.svg) ![forks](https://img.shields.io/github/forks/hoangvvthu/CVE-2021-44228-Log4Shell-Lab.svg)
 
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
