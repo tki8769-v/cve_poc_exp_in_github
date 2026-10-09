@@ -5439,6 +5439,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/ridpath/CVE-2021-26828-Ultimate](https://github.com/ridpath/CVE-2021-26828-Ultimate) : ![starts](https://img.shields.io/github/stars/ridpath/CVE-2021-26828-Ultimate.svg) ![forks](https://img.shields.io/github/forks/ridpath/CVE-2021-26828-Ultimate.svg)
 
+- [https://github.com/h002733/CVE-2021-26828](https://github.com/h002733/CVE-2021-26828) : ![starts](https://img.shields.io/github/stars/h002733/CVE-2021-26828.svg) ![forks](https://img.shields.io/github/forks/h002733/CVE-2021-26828.svg)
+
 ## CVE-2021-26814
  Wazuh API in Wazuh from 4.0.0 to 4.0.3 allows authenticated users to execute arbitrary code with administrative privileges via /manager/files URI. An authenticated user to the service may exploit incomplete input validation on the /manager/files API to inject arbitrary code within the API service script.
 

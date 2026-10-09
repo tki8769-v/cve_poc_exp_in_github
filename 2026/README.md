@@ -1,3 +1,19 @@
+## CVE-2026-107406
+> Memory overflow vulnerability leading to Remote Code Execution or Denial of Service Vulnerability in NetScaler ADC.
+
+
+NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, subject to the following version-specific requirements:
+
+
+
+ 
+
+  *  For the following versions: Applicable only when configured as a SAML IdP:
+  *  NetScaler ADC and NetScaler Gateway between 14.1-73.37 and 14.1-73.41, inclusive
+  *  NetScaler ADC 14.1-FIPS between 14.1-73.37 FIPS and 14.1-73.41 FIPS, 
+
+- [https://github.com/techupdate24/citrix-netscaler-rce-cve-2026-107406](https://github.com/techupdate24/citrix-netscaler-rce-cve-2026-107406) : ![starts](https://img.shields.io/github/stars/techupdate24/citrix-netscaler-rce-cve-2026-107406.svg) ![forks](https://img.shields.io/github/forks/techupdate24/citrix-netscaler-rce-cve-2026-107406.svg)
+
 ## CVE-2026-107268
 
 - [https://github.com/yuwkaaa/CVE-2026-107268](https://github.com/yuwkaaa/CVE-2026-107268) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-107268.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-107268.svg)
@@ -466,10 +482,18 @@ root privileges resulting in complete compromise o
 
 - [https://github.com/0xSemizzz/CVE-2026-95622](https://github.com/0xSemizzz/CVE-2026-95622) : ![starts](https://img.shields.io/github/stars/0xSemizzz/CVE-2026-95622.svg) ![forks](https://img.shields.io/github/forks/0xSemizzz/CVE-2026-95622.svg)
 
+## CVE-2026-95149
+
+- [https://github.com/reputati0n/CVE-2026-95149](https://github.com/reputati0n/CVE-2026-95149) : ![starts](https://img.shields.io/github/stars/reputati0n/CVE-2026-95149.svg) ![forks](https://img.shields.io/github/forks/reputati0n/CVE-2026-95149.svg)
+
 ## CVE-2026-94609
 > authentik is an open-source identity provider. Prior to 2026.2.7, 2026.5.7, and 2026.8.2, an account with delegated permission to manage a group, group membership, or a user can grant superuser status to an account or assign an existing role to a group without holding the permissions that gate those privileges. Group hierarchy checks do not consistently account for superuser status inherited from ancestor groups, and role assignment to a group lacks the required authorization check. Only deploym
 
 - [https://github.com/anthonyk2923/CVE-2026-94609](https://github.com/anthonyk2923/CVE-2026-94609) : ![starts](https://img.shields.io/github/stars/anthonyk2923/CVE-2026-94609.svg) ![forks](https://img.shields.io/github/forks/anthonyk2923/CVE-2026-94609.svg)
+
+## CVE-2026-94597
+
+- [https://github.com/canhieu/CVE-2026-94597-poc](https://github.com/canhieu/CVE-2026-94597-poc) : ![starts](https://img.shields.io/github/stars/canhieu/CVE-2026-94597-poc.svg) ![forks](https://img.shields.io/github/forks/canhieu/CVE-2026-94597-poc.svg)
 
 ## CVE-2026-94545
 > Satori is a library to convert HTML and CSS to SVG. Starting in version 0.0.27 and prior to version 0.33.5, Satori does not properly escape certain values before including them in generated SVG output. This can allow crafted values to be interpreted as SVG markup. The impact depends on how the generated SVG is consumed. Version 0.33.5 contains a patch. No complete workaround exists besides upgrading. Applications that cannot immediately upgrade should not render attacker-controlled content with 
@@ -1516,6 +1540,8 @@ Let's unlink scc_entry before freeing the vertex in unix_del_edge().
 - [https://github.com/digiprosec/CVE-2026-80428](https://github.com/digiprosec/CVE-2026-80428) : ![starts](https://img.shields.io/github/stars/digiprosec/CVE-2026-80428.svg) ![forks](https://img.shields.io/github/forks/digiprosec/CVE-2026-80428.svg)
 
 - [https://github.com/shivammittal2403/cve-2026-80428-ctf](https://github.com/shivammittal2403/cve-2026-80428-ctf) : ![starts](https://img.shields.io/github/stars/shivammittal2403/cve-2026-80428-ctf.svg) ![forks](https://img.shields.io/github/forks/shivammittal2403/cve-2026-80428-ctf.svg)
+
+- [https://github.com/HackfutSecRoot/CVE-2026-80428](https://github.com/HackfutSecRoot/CVE-2026-80428) : ![starts](https://img.shields.io/github/stars/HackfutSecRoot/CVE-2026-80428.svg) ![forks](https://img.shields.io/github/forks/HackfutSecRoot/CVE-2026-80428.svg)
 
 ## CVE-2026-80099
  Several Newfold plugins are vulnerable to Authentication Bypass. The vulnerability exists because the plugins bundle the wp-module-data module. In the module, the `authenticate()` method — registered on the `rest_authentication_errors` filter and therefore evaluated for every unauthenticated REST API request — performs an HMAC-style Bearer token comparison that degenerates when `HiiveConnection::get_auth_token()` returns `false`: PHP coerces `strrev(false)` to `strrev('')`, collapsing the secret salt to the publicly known constant `hash('sha256', '') = e3b0c44...`, while all remaining hash inputs (HTTP method, request URL, raw request body, and the `X-Timestamp` header) remain fully attacker-controlled. This makes it possible for unauthenticated attackers to compute a valid Bearer token entirely offline, pass the token equality check, and have `wp_set_current_user()` invoked against the first administrator returned by `get_users(['role' = 'administrator'])`, granting full administrator-level access and enabling arbitrary REST API operations such as creating new administrator accounts and achieving complete site takeover. Vulnerable versions are WP Plugin Crazy Domains (= 2.5.2), WP Plugin Web (= 2.3.4), WP Plugin Hostgator (= 3.1.0), WP Plugin Bluehost (= 4.17.1). The affected module is vulnerable in versions up to, and including, 2.9.4.
@@ -8717,6 +8743,10 @@ remove_waiter() to cure those problems.
 - [https://github.com/Nixbones/ghostlock-rmx5085](https://github.com/Nixbones/ghostlock-rmx5085) : ![starts](https://img.shields.io/github/stars/Nixbones/ghostlock-rmx5085.svg) ![forks](https://img.shields.io/github/forks/Nixbones/ghostlock-rmx5085.svg)
 
 - [https://github.com/GrandFuzard/redmi-13-5g-ghostlock-findings](https://github.com/GrandFuzard/redmi-13-5g-ghostlock-findings) : ![starts](https://img.shields.io/github/stars/GrandFuzard/redmi-13-5g-ghostlock-findings.svg) ![forks](https://img.shields.io/github/forks/GrandFuzard/redmi-13-5g-ghostlock-findings.svg)
+
+- [https://github.com/d16ug-a1l/REDMI_Root](https://github.com/d16ug-a1l/REDMI_Root) : ![starts](https://img.shields.io/github/stars/d16ug-a1l/REDMI_Root.svg) ![forks](https://img.shields.io/github/forks/d16ug-a1l/REDMI_Root.svg)
+
+- [https://github.com/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N](https://github.com/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N) : ![starts](https://img.shields.io/github/stars/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N.svg) ![forks](https://img.shields.io/github/forks/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:

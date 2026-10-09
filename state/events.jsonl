@@ -2072,3 +2072,27 @@
 {"cve_id": "CVE-2020-13942", "ts": "2026-10-08T22:39:03Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-unomi-cve-2020-13942"}
 {"cve_id": "CVE-2012-1823", "ts": "2026-10-08T22:39:04Z", "type": "new_poc", "url": "https://github.com/CyberCTF/vulhub-php-cve-2012-1823"}
 {"cve_id": "CVE-2026-55450", "ts": "2026-10-08T22:49:22Z", "type": "new_poc", "url": "https://github.com/0xBlackash/CVE-2026-55450"}
+{"cve_id": "CVE-2026-100197", "ts": "2026-10-09T07:23:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62163", "ts": "2026-10-09T07:24:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62166", "ts": "2026-10-09T07:24:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62167", "ts": "2026-10-09T07:24:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62170", "ts": "2026-10-09T07:24:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62171", "ts": "2026-10-09T07:24:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62181", "ts": "2026-10-09T07:24:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-100197", "ts": "2026-10-09T07:29:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62163", "ts": "2026-10-09T07:31:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62166", "ts": "2026-10-09T07:31:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62167", "ts": "2026-10-09T07:31:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62170", "ts": "2026-10-09T07:31:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62171", "ts": "2026-10-09T07:31:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62181", "ts": "2026-10-09T07:31:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-09T07:36:55Z", "type": "new_poc", "url": "https://github.com/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N"}
+{"cve_id": "CVE-2026-80428", "ts": "2026-10-09T07:36:56Z", "type": "new_poc", "url": "https://github.com/HackfutSecRoot/CVE-2026-80428"}
+{"cve_id": "CVE-2026-94597", "ts": "2026-10-09T07:36:56Z", "type": "new_poc", "url": "https://github.com/canhieu/CVE-2026-94597-poc"}
+{"cve_id": "CVE-2026-95149", "ts": "2026-10-09T07:36:56Z", "type": "new_poc", "url": "https://github.com/reputati0n/CVE-2026-95149"}
+{"cve_id": "CVE-2021-26828", "ts": "2026-10-09T07:36:56Z", "type": "new_poc", "url": "https://github.com/h002733/CVE-2021-26828"}
+{"cve_id": "CVE-2025-41249", "ts": "2026-10-09T07:36:56Z", "type": "new_poc", "url": "https://github.com/edwin/simulating-cve-2025-41249"}
+{"cve_id": "CVE-2025-26466", "ts": "2026-10-09T07:36:56Z", "type": "new_poc", "url": "https://github.com/K0n9-log/cve-2025-26466-canvas"}
+{"cve_id": "CVE-2026-107406", "ts": "2026-10-09T07:36:56Z", "type": "new_poc", "url": "https://github.com/techupdate24/citrix-netscaler-rce-cve-2026-107406"}
+{"cve_id": "CVE-2025-1122", "ts": "2026-10-09T07:36:56Z", "type": "new_poc", "url": "https://github.com/MCRideable3963/exploit-docs"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-09T07:36:56Z", "type": "new_poc", "url": "https://github.com/d16ug-a1l/REDMI_Root"}
