@@ -128,6 +128,7 @@ def scan(client, root: Path, limit_tasks: int = 50, budget_requests: int | None 
     stats = {
         "tasks_due": len(tasks),
         "scanned": 0,
+        "scanned_by_priority": {},  # P1.4：分类服务数（验证防饿死轮转）
         "new_relations": 0,
         "rejected_at_collection": 0,
         "needs_review": 0,
@@ -196,6 +197,8 @@ def scan(client, root: Path, limit_tasks: int = 50, budget_requests: int | None 
                 state_mod.append_jsonl(state_mod.state_dir(root) / "events.jsonl", new_events)
 
             stats["scanned"] += 1
+            prio_key = str(task.get("priority", 9))
+            stats["scanned_by_priority"][prio_key] = stats["scanned_by_priority"].get(prio_key, 0) + 1
 
             if result.stop_reason == "budget":
                 # F3/F12：预算耗尽与截断走同一"提交已完成页 + 保存断点"路径

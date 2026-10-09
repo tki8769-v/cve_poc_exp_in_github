@@ -227,6 +227,7 @@ def discover(client, root: Path, max_pages: int = 10, dry_run: bool = False,
 
     stats["cves_hit"] = len(hit_cves)
     stats["partial_days_pending"] = len(queue)
+    stats["requests_used"] = budget.requests_used if budget is not None else None  # P1.4 渠道成本骨架
     if not dry_run:
         if stats["complete"]:
             next_cursor = {"last_date": today, "partial_days": queue}

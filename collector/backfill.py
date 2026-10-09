@@ -77,6 +77,7 @@ def backfill(client, root: Path, limit: int = 100, priority_conflicts: bool = Fa
         targets = [
             (o, r) for o, r in order
             if (o, r) not in meta or meta[(o, r)].get("fetched_at", "") < cutoff
+            or "topics" not in meta[(o, r)]  # P1.1：旧缓存证据不完整，优先刷新补齐
         ][: max(limit, 0)]
 
     budget = Budget(max_seconds=budget_seconds) if budget_seconds is not None else None
@@ -101,6 +102,7 @@ def backfill(client, root: Path, limit: int = 100, priority_conflicts: bool = Fa
                 {
                     "repo_id": info.get("id"),
                     "description": info.get("description") or "",
+                    "topics": list(info.get("topics") or []),  # P1.1：采集与重审证据一致
                     "stars": info.get("stargazers_count"),
                     "forks": info.get("forks_count"),
                     "updated_at": info.get("updated_at"),

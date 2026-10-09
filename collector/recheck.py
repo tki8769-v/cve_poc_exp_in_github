@@ -47,8 +47,16 @@ def recheck(root: Path) -> dict:
             record["reason"] = f"repo_{info['error']}"
             gone.append(record)
             continue
-        verdict = classify_relation(cve_id, url, repo_description=info.get("description") or "")
+        # P1.1：topics 是采集证据的一部分；缓存无该字段（旧缓存）时证据不
+        # 完整——不得据此得出"充分排除证据"（缺失 ≠ 已确认为空）
+        if "topics" not in info:
+            record["reason"] = "incomplete_meta_no_topics"
+            needs_review.append(record)
+            continue
+        verdict = classify_relation(cve_id, url, repo_description=info.get("description") or "",
+                                    extra_text=" ".join(info.get("topics") or []))
         record["evidence_description"] = info.get("description") or ""
+        record["evidence_topics"] = list(info.get("topics") or [])
         record["evidence_fetched_at"] = info.get("fetched_at", "")
         record["reason"] = verdict.reason
         if verdict.state == CONFLICT_CANDIDATE:

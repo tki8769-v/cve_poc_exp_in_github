@@ -108,8 +108,46 @@ def cancel_many(root: Path, cve_ids: list[str]) -> None:
 
 
 def due_tasks(root: Path, limit: int = 50) -> list[dict]:
+    """到期任务选取：按优先级类加权轮转（P1.3），类内最老优先。
+
+    现状缺陷：纯优先级排序下，bulk 放号持续到达的 priority-0 任务会无限
+    饿死周期重扫（found/not_found），历史任务永远排不上队。改为每轮按
+    5(P0) : 3(P5) : 2(P8) 细粒度交错——高优先级仍占多数，但周期重扫每轮
+    必有确定份额；某类到期不足时份额自然让渡给其他类。
+    """
     now = state_mod.now_iso()
-    return [t for t in load_tasks(root) if t.get("due_at", "") <= now][:limit]
+    due = [t for t in load_tasks(root) if t.get("due_at", "") <= now]
+    if len(due) <= limit:
+        return due
+
+    buckets: dict[int, list] = {}
+    other: list[dict] = []
+    for task in due:
+        priority = task.get("priority")
+        if priority in (PRIORITY_NEW, PRIORITY_FOUND, PRIORITY_NOT_FOUND):
+            buckets.setdefault(priority, []).append(task)
+        else:
+            other.append(task)
+    for bucket in buckets.values():
+        bucket.sort(key=lambda t: (t.get("due_at", ""), t.get("cve_id", "")))
+    other.sort(key=lambda t: (t.get("due_at", ""), t.get("cve_id", "")))
+
+    selected: list[dict] = []
+    while len(selected) < limit:
+        progressed = False
+        for priority, chunk in ((PRIORITY_NEW, 5), (PRIORITY_FOUND, 3),
+                                (PRIORITY_NOT_FOUND, 2)):
+            bucket = buckets.get(priority)
+            if bucket and len(selected) < limit:
+                take = min(chunk, len(bucket), limit - len(selected))
+                selected.extend(bucket[:take])
+                del bucket[:take]
+                progressed = True
+        if not progressed:
+            break
+    if len(selected) < limit and other:
+        selected.extend(other[: limit - len(selected)])
+    return selected
 
 
 def enqueue_many(root: Path, items: list[dict]) -> int:

@@ -182,6 +182,7 @@ def test_clean_apply_revives_stale_tombstones_on_new_evidence(tmp_path: Path):
     state_mod.write_jsonl(state_mod.state_dir(root) / "repo_meta.jsonl", [{
         "owner": "b", "repo": "gone-wrong", "fetched_at": state_mod.now_iso(),
         "description": "poc and checker for CVE-2026-0002",
+        "topics": [],  # P1.1：证据完整 = 描述 + topics 均在缓存
     }])
     recheck_dir = state_mod.state_dir(root) / "recheck"
     state_mod.write_json(recheck_dir / "report.json", {"missing_meta": 0, "conflicts_total": 0})
@@ -223,9 +224,10 @@ def test_clean_apply_reviews_desc_based_accepted(tmp_path: Path):
     # （a/new-poc 元数据仍支持目标 → 刷新保留，见第二段断言）
     state_mod.write_jsonl(state_mod.state_dir(root) / "repo_meta.jsonl", [
         {"owner": "a", "repo": "old", "fetched_at": state_mod.now_iso(),
-         "description": "regression of CVE-2026-0100, related to CVE-2026-0002"},
+         "description": "regression of CVE-2026-0100, related to CVE-2026-0002",
+         "topics": []},
         {"owner": "a", "repo": "new-poc", "fetched_at": state_mod.now_iso(),
-         "description": "poc for CVE-2026-0100"},
+         "description": "poc for CVE-2026-0100", "topics": []},
     ])
     report = clean_apply(root)
     assert report["revoked_accepted"] == 1
@@ -243,9 +245,9 @@ def test_clean_apply_reviews_desc_based_accepted(tmp_path: Path):
     state_mod.write_jsonl(relations_path, records)
     state_mod.write_jsonl(state_mod.state_dir(root) / "repo_meta.jsonl", [
         {"owner": "a", "repo": "old", "fetched_at": state_mod.now_iso(),
-         "description": "poc and regression of CVE-2026-0100"},
+         "description": "poc and regression of CVE-2026-0100", "topics": []},
         {"owner": "a", "repo": "new-poc", "fetched_at": state_mod.now_iso(),
-         "description": "poc for CVE-2026-0100"},
+         "description": "poc for CVE-2026-0100", "topics": []},
     ])
     report = clean_apply(root)
     assert report["revoked_accepted"] == 0

@@ -165,14 +165,14 @@ def clean_apply(root: Path, strict: bool = True) -> dict:
                 if verification == "accepted" and not _url_evidence(record) and (
                         record.get("accepted_reason") == "desc_contains_target_only"
                         or not record.get("accepted_reason")):
-                    # 采集期 desc 接受重审（R4/F6/H5）：URL 不含目标的记录才需
-                    # 重审（URL 证据是结构性的，不会随时间失效）；当前证据仍
-                    # 支持接受 → 刷新原因与证据，不降级；元数据缺失时凭 URL
-                    # 与空描述保守判定
-                    info = meta.get((record.get("owner"), record.get("repo")))
-                    description = (info or {}).get("description") or ""
-                    verdict = classify_relation(record["cve_id"], record["url"],
-                                                repo_description=description)
+                    # 采集期 desc/topics 接受重审（R4/F6/H5/P1.1）：URL 不含
+                    # 目标的记录才需重审（URL 证据是结构性的）；证据完整
+                    # （含 topics）且仍支持接受 → 刷新原因与证据，不降级；
+                    # 证据不完整（元数据/topics 缺失）→ 维持原状，缺证据
+                    # 不充当反证
+                    verdict = _verdict_with_meta(root, record, meta)
+                    if verdict is None:
+                        continue
                     if verdict.state == ACCEPTED:
                         record["accepted_reason"] = verdict.reason
                         record["accepted_url_ids"] = sorted(verdict.url_ids)
@@ -180,12 +180,11 @@ def clean_apply(root: Path, strict: bool = True) -> dict:
                         record["accepted_at"] = now
                         changed = True
                         continue
-                    reason = verdict.reason if verdict else "multi_id_mention_unresolved"
                     record.update({
                         "verification": "needs_review",
                         "revoked_from": "accepted",
                         "revoked_at": now,
-                        "revoked_reason": reason,
+                        "revoked_reason": verdict.reason,
                         "rule_version": RULES_VERSION,
                     })
                     revoked_accepted += 1
@@ -210,15 +209,23 @@ def clean_apply(root: Path, strict: bool = True) -> dict:
 
 
 def _verdict_with_meta(root: Path, record: dict, meta: dict):
-    """用当前元数据对一条关系重审；元数据缺失返回 None（维持原状）。"""
+    """用当前元数据对一条关系重审；证据不完整时返回 None（维持原状）。
+
+    P1.1：证据完整 = 描述 + topics 均在缓存中。元数据缺失、请求失败或旧
+    缓存没有 topics 字段（缺失 ≠ 已确认为空）都不能充当反证——采集端
+    topics 命中接受的记录不得因此被降级。
+    """
     owner, repo = record.get("owner"), record.get("repo")
     if not (owner and repo):
         return None
     info = meta.get((owner, repo))
     if info is None or info.get("error"):
         return None
+    if "topics" not in info:
+        return None
     return classify_relation(record["cve_id"], record["url"],
-                             repo_description=info.get("description"))
+                             repo_description=info.get("description"),
+                             extra_text=" ".join(info.get("topics") or []))
 
 
 def _url_evidence(record: dict) -> bool:
