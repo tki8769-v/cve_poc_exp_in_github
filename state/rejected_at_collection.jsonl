@@ -398,3 +398,9 @@
 {"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T07:51:15Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11393", "url_ids": ["CVE-2024-11393"]}
 {"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T07:51:15Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11392", "url_ids": ["CVE-2024-11392"]}
 {"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T07:51:15Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11394", "url_ids": ["CVE-2024-11394"]}
+{"cve_id": "CVE-2022-2586", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T21:51:42Z", "url": "https://github.com/neverendingsupport/angularjs-poc-cve-2022-25869", "url_ids": ["CVE-2022-25869"]}
+{"cve_id": "CVE-2019-2022", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T21:51:43Z", "url": "https://github.com/mhaskar/CVE-2019-20224", "url_ids": ["CVE-2019-20224"]}
+{"cve_id": "CVE-2022-3653", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T21:54:45Z", "url": "https://github.com/Malwareman007/CVE-2022-36537", "url_ids": ["CVE-2022-36537"]}
+{"cve_id": "CVE-2022-3653", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T21:54:45Z", "url": "https://github.com/agnihackers/CVE-2022-36537-EXPLOIT", "url_ids": ["CVE-2022-36537"]}
+{"cve_id": "CVE-2022-3653", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T21:54:45Z", "url": "https://github.com/lutrasecurity/CVE-2022-36532", "url_ids": ["CVE-2022-36532"]}
+{"cve_id": "CVE-2026-2394", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T21:56:44Z", "url": "https://github.com/boroeurnprach/CVE-2026-23947-PoC", "url_ids": ["CVE-2026-23947"]}

@@ -2448,6 +2448,10 @@
 
 - [https://github.com/guwudoor/CVE-2018-8214](https://github.com/guwudoor/CVE-2018-8214) : ![starts](https://img.shields.io/github/stars/guwudoor/CVE-2018-8214.svg) ![forks](https://img.shields.io/github/forks/guwudoor/CVE-2018-8214.svg)
 
+## CVE-2018-8210
+
+- [https://github.com/rip1s/CVE-2018-8120](https://github.com/rip1s/CVE-2018-8120) : ![starts](https://img.shields.io/github/stars/rip1s/CVE-2018-8120.svg) ![forks](https://img.shields.io/github/forks/rip1s/CVE-2018-8120.svg)
+
 ## CVE-2018-8208
  An elevation of privilege vulnerability exists in Windows when Desktop Bridge does not properly manage the virtual registry, aka "Windows Desktop Bridge Elevation of Privilege Vulnerability." This affects Windows Server 2016, Windows 10, Windows 10 Servers. This CVE ID is unique from CVE-2018-8214.
 

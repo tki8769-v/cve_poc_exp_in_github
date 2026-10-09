@@ -51,6 +51,10 @@ visconti_clk_register_gates().
 
 - [https://github.com/SahilH4ck4you/-CVE-2022-48150](https://github.com/SahilH4ck4you/-CVE-2022-48150) : ![starts](https://img.shields.io/github/stars/SahilH4ck4you/-CVE-2022-48150.svg) ![forks](https://img.shields.io/github/forks/SahilH4ck4you/-CVE-2022-48150.svg)
 
+## CVE-2022-48019
+
+- [https://github.com/kkent030315/CVE-2022-42046](https://github.com/kkent030315/CVE-2022-42046) : ![starts](https://img.shields.io/github/stars/kkent030315/CVE-2022-42046.svg) ![forks](https://img.shields.io/github/forks/kkent030315/CVE-2022-42046.svg)
+
 ## CVE-2022-47986
  IBM Aspera Faspex 4.4.2 Patch Level 1 and earlier could allow a remote attacker to execute arbitrary code on the system, caused by a YAML deserialization flaw. By sending a specially crafted obsolete API call, an attacker could exploit this vulnerability to execute arbitrary code on the system. The obsolete API call was removed in Faspex 4.4.2 PL2. IBM X-Force ID: 243512.
 
@@ -2490,6 +2494,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/TheMalwareGuardian/CVE-2022-34303](https://github.com/TheMalwareGuardian/CVE-2022-34303) : ![starts](https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2022-34303.svg) ![forks](https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2022-34303.svg)
 
+- [https://github.com/TheMalwareGuardian/CVE-2022-34301](https://github.com/TheMalwareGuardian/CVE-2022-34301) : ![starts](https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2022-34301.svg) ![forks](https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2022-34301.svg)
+
 ## CVE-2022-34302
  A flaw was found in New Horizon Datasys bootloaders before 2022-06-01. An attacker may use this bootloader to bypass or tamper with Secure Boot protections. In order to load and execute arbitrary code in the pre-boot stage, an attacker simply needs to replace the existing signed bootloader currently in use with this bootloader. Access to the EFI System Partition is required for booting using external media.
 
@@ -3493,6 +3499,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 - [https://github.com/Immersive-Labs-Sec/nimbuspwn](https://github.com/Immersive-Labs-Sec/nimbuspwn) : ![starts](https://img.shields.io/github/stars/Immersive-Labs-Sec/nimbuspwn.svg) ![forks](https://img.shields.io/github/forks/Immersive-Labs-Sec/nimbuspwn.svg)
 
 - [https://github.com/ngtuonghung/nimbuspwn-CVE-2022-29800-CVE-2022-29799](https://github.com/ngtuonghung/nimbuspwn-CVE-2022-29800-CVE-2022-29799) : ![starts](https://img.shields.io/github/stars/ngtuonghung/nimbuspwn-CVE-2022-29800-CVE-2022-29799.svg) ![forks](https://img.shields.io/github/forks/ngtuonghung/nimbuspwn-CVE-2022-29800-CVE-2022-29799.svg)
+
+- [https://github.com/joshuavanderpoll/NimbusPWN-CVE-2022-29799-29800](https://github.com/joshuavanderpoll/NimbusPWN-CVE-2022-29799-29800) : ![starts](https://img.shields.io/github/stars/joshuavanderpoll/NimbusPWN-CVE-2022-29799-29800.svg) ![forks](https://img.shields.io/github/forks/joshuavanderpoll/NimbusPWN-CVE-2022-29799-29800.svg)
 
 ## CVE-2022-29799
  A vulnerability was found in networkd-dispatcher. This flaw exists because no functions are sanitized by the OperationalState or the AdministrativeState of networkd-dispatcher. This attack leads to a directory traversal to escape from the “/etc/networkd-dispatcher” base directory.
@@ -4541,6 +4549,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 
 - [https://github.com/mbadanoiu/CVE-2022-25813](https://github.com/mbadanoiu/CVE-2022-25813) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2022-25813.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2022-25813.svg)
 
+- [https://github.com/mbadanoiu/CVE-2025-26865](https://github.com/mbadanoiu/CVE-2025-26865) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2025-26865.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2025-26865.svg)
+
 ## CVE-2022-25765
  The package pdfkit from 0.0.0 are vulnerable to Command Injection where the URL is not properly sanitized.
 
@@ -5304,6 +5314,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 
 - [https://github.com/scopion/ansible-role-cve_2022-23307](https://github.com/scopion/ansible-role-cve_2022-23307) : ![starts](https://img.shields.io/github/stars/scopion/ansible-role-cve_2022-23307.svg) ![forks](https://img.shields.io/github/forks/scopion/ansible-role-cve_2022-23307.svg)
 
+- [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
+
 ## CVE-2022-23305
  By design, the JDBCAppender in Log4j 1.2.x accepts an SQL statement as a configuration parameter where the values to be inserted are converters from PatternLayout. The message converter, %m, is likely to always be included. This allows attackers to manipulate the SQL by entering crafted strings into input fields or headers of an application that are logged allowing unintended SQL queries to be executed. Note this issue only affects Log4j 1.x when specifically configured to use the JDBCAppender, which is not the default. Beginning in version 2.0-beta8, the JDBCAppender was re-introduced with proper support for parameterized SQL queries and further customization over the columns written to in logs. Apache Log4j 1.2 reached end of life in August 2015. Users should upgrade to Log4j 2 as it addresses numerous other issues from the previous versions.
 
@@ -5312,6 +5324,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 - [https://github.com/AlphabugX/CVE-2022-RCE](https://github.com/AlphabugX/CVE-2022-RCE) : ![starts](https://img.shields.io/github/stars/AlphabugX/CVE-2022-RCE.svg) ![forks](https://img.shields.io/github/forks/AlphabugX/CVE-2022-RCE.svg)
 
 - [https://github.com/tkomlodi/CVE-2022-23305_POC](https://github.com/tkomlodi/CVE-2022-23305_POC) : ![starts](https://img.shields.io/github/stars/tkomlodi/CVE-2022-23305_POC.svg) ![forks](https://img.shields.io/github/forks/tkomlodi/CVE-2022-23305_POC.svg)
+
+- [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
 
 ## CVE-2022-23303
  The implementations of SAE in hostapd before 2.10 and wpa_supplicant before 2.10 are vulnerable to side channel attacks as a result of cache access patterns. NOTE: this issue exists because of an incomplete fix for CVE-2019-9494.
@@ -5324,6 +5338,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 - [https://github.com/HynekPetrak/log4shell-finder](https://github.com/HynekPetrak/log4shell-finder) : ![starts](https://img.shields.io/github/stars/HynekPetrak/log4shell-finder.svg) ![forks](https://img.shields.io/github/forks/HynekPetrak/log4shell-finder.svg)
 
 - [https://github.com/Chrisync/CVE-Scanner](https://github.com/Chrisync/CVE-Scanner) : ![starts](https://img.shields.io/github/stars/Chrisync/CVE-Scanner.svg) ![forks](https://img.shields.io/github/forks/Chrisync/CVE-Scanner.svg)
+
+- [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
 
 ## CVE-2022-23277
  Microsoft Exchange Server Remote Code Execution Vulnerability

@@ -4503,6 +4503,8 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 
 - [https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-00](https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-00) : ![starts](https://img.shields.io/github/stars/shoucheng3/asf__nifi_CVE-2023-34468_1-21-00.svg) ![forks](https://img.shields.io/github/forks/shoucheng3/asf__nifi_CVE-2023-34468_1-21-00.svg)
 
+- [https://github.com/mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2023-40037.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2023-40037.svg)
+
 ## CVE-2023-34446
  iTop is an open source, web-based IT service management platform. Prior to versions 3.0.4 and 3.1.0, when displaying `pages/preferences.php`, cross site scripting is possible. This issue is fixed in versions 3.0.4 and 3.1.0.
 
@@ -4564,6 +4566,8 @@ The resolution validates the JNDI URL and restricts locations to a set of allowe
 You are recommended to upgrade to version 1.22.0 or later which fixes this issue.
 
 - [https://github.com/mbadanoiu/CVE-2023-34212](https://github.com/mbadanoiu/CVE-2023-34212) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2023-34212.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2023-34212.svg)
+
+- [https://github.com/mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2023-40037.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2023-40037.svg)
 
 ## CVE-2023-34194
  StringEqual in TiXmlDeclaration::Parse in tinyxmlparser.cpp in TinyXML through 2.6.2 has a reachable assertion (and application exit) via a crafted XML document with a '\0' located after whitespace.
@@ -7087,6 +7091,8 @@ Note that, like all of the file upload limits, the
 - [https://github.com/v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en](https://github.com/v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en) : ![starts](https://img.shields.io/github/stars/v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en.svg) ![forks](https://img.shields.io/github/forks/v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en.svg)
 
 - [https://github.com/ETS-MSE/secure-boot-cert-servicing](https://github.com/ETS-MSE/secure-boot-cert-servicing) : ![starts](https://img.shields.io/github/stars/ETS-MSE/secure-boot-cert-servicing.svg) ![forks](https://img.shields.io/github/forks/ETS-MSE/secure-boot-cert-servicing.svg)
+
+- [https://github.com/Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894) : ![starts](https://img.shields.io/github/stars/Wack0/CVE-2022-21894.svg) ![forks](https://img.shields.io/github/forks/Wack0/CVE-2022-21894.svg)
 
 ## CVE-2023-24871
  Windows Bluetooth Service Remote Code Execution Vulnerability

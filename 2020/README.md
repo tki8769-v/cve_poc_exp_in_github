@@ -752,6 +752,10 @@
 
 - [https://github.com/rauc/rauc-1.5-integration](https://github.com/rauc/rauc-1.5-integration) : ![starts](https://img.shields.io/github/stars/rauc/rauc-1.5-integration.svg) ![forks](https://img.shields.io/github/forks/rauc/rauc-1.5-integration.svg)
 
+## CVE-2020-25803
+
+- [https://github.com/mbadanoiu/CVE-2022-40634](https://github.com/mbadanoiu/CVE-2022-40634) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2022-40634.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2022-40634.svg)
+
 ## CVE-2020-25790
  Typesetter CMS 5.x through 5.1 allows admins to upload and execute arbitrary PHP code via a .php file inside a ZIP archive. NOTE: the vendor disputes the significance of this report because "admins are considered trustworthy"; however, the behavior "contradicts our security policy" and is being fixed for 5.2
 
@@ -2522,6 +2526,10 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/ch4rli3kop/CVE-2020-12928](https://github.com/ch4rli3kop/CVE-2020-12928) : ![starts](https://img.shields.io/github/stars/ch4rli3kop/CVE-2020-12928.svg) ![forks](https://img.shields.io/github/forks/ch4rli3kop/CVE-2020-12928.svg)
 
+## CVE-2020-12873
+
+- [https://github.com/mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2023-49964.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2023-49964.svg)
+
 ## CVE-2020-12856
  OpenTrace, as used in COVIDSafe through v1.0.17, TraceTogether, ABTraceTogether, and other applications on iOS and Android, allows remote attackers to conduct long-term re-identification attacks and possibly have unspecified other impact, because of how Bluetooth is used.
 
@@ -2808,6 +2816,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 - [https://github.com/Drew-Alleman/CVE-2020-11651](https://github.com/Drew-Alleman/CVE-2020-11651) : ![starts](https://img.shields.io/github/stars/Drew-Alleman/CVE-2020-11651.svg) ![forks](https://img.shields.io/github/forks/Drew-Alleman/CVE-2020-11651.svg)
 
 - [https://github.com/fanjq99/CVE-2020-11652](https://github.com/fanjq99/CVE-2020-11652) : ![starts](https://img.shields.io/github/stars/fanjq99/CVE-2020-11652.svg) ![forks](https://img.shields.io/github/forks/fanjq99/CVE-2020-11652.svg)
+
+- [https://github.com/0xc0d/CVE-2020-11651](https://github.com/0xc0d/CVE-2020-11651) : ![starts](https://img.shields.io/github/stars/0xc0d/CVE-2020-11651.svg) ![forks](https://img.shields.io/github/forks/0xc0d/CVE-2020-11651.svg)
 
 ## CVE-2020-11651
  An issue was discovered in SaltStack Salt before 2019.2.4 and 3000 before 3000.2. The salt-master process ClearFuncs class does not properly validate method calls. This allows a remote user to access some methods without authentication. These methods can be used to retrieve user tokens from the salt master and/or run arbitrary commands on salt minions.

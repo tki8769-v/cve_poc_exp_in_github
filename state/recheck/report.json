@@ -1,8 +1,8 @@
 {
-  "conflict_evidenced": 168,
+  "conflict_evidenced": 167,
   "conflicts_total": 903,
-  "gone": 3,
+  "gone": 5,
   "missing_meta": 0,
-  "needs_review": 732,
+  "needs_review": 731,
   "rule_version": "2"
 }

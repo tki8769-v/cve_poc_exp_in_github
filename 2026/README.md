@@ -3556,6 +3556,8 @@ far from ideal; that flaw will be addressed separately.
 
 - [https://github.com/hitechcloud-vietnam/Zapscape](https://github.com/hitechcloud-vietnam/Zapscape) : ![starts](https://img.shields.io/github/stars/hitechcloud-vietnam/Zapscape.svg) ![forks](https://img.shields.io/github/forks/hitechcloud-vietnam/Zapscape.svg)
 
+- [https://github.com/suominen/zapscape](https://github.com/suominen/zapscape) : ![starts](https://img.shields.io/github/stars/suominen/zapscape.svg) ![forks](https://img.shields.io/github/forks/suominen/zapscape.svg)
+
 ## CVE-2026-64560
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -8787,6 +8789,10 @@ remove_waiter() to cure those problems.
 - [https://github.com/d16ug-a1l/REDMI_Root](https://github.com/d16ug-a1l/REDMI_Root) : ![starts](https://img.shields.io/github/stars/d16ug-a1l/REDMI_Root.svg) ![forks](https://img.shields.io/github/forks/d16ug-a1l/REDMI_Root.svg)
 
 - [https://github.com/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N](https://github.com/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N) : ![starts](https://img.shields.io/github/stars/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N.svg) ![forks](https://img.shields.io/github/forks/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N.svg)
+
+- [https://github.com/tingao/debian-on-s23-ultra](https://github.com/tingao/debian-on-s23-ultra) : ![starts](https://img.shields.io/github/stars/tingao/debian-on-s23-ultra.svg) ![forks](https://img.shields.io/github/forks/tingao/debian-on-s23-ultra.svg)
+
+- [https://github.com/cyrrp/honor90-ghostlock](https://github.com/cyrrp/honor90-ghostlock) : ![starts](https://img.shields.io/github/stars/cyrrp/honor90-ghostlock.svg) ![forks](https://img.shields.io/github/forks/cyrrp/honor90-ghostlock.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
@@ -14660,6 +14666,10 @@ Users are recommended to upgrade to version 11.0.15 or later, 10.1.50 or later o
 
 - [https://github.com/offseckit/CVE-2026-24207](https://github.com/offseckit/CVE-2026-24207) : ![starts](https://img.shields.io/github/stars/offseckit/CVE-2026-24207.svg) ![forks](https://img.shields.io/github/forks/offseckit/CVE-2026-24207.svg)
 
+## CVE-2026-24206
+
+- [https://github.com/offseckit/CVE-2026-24207](https://github.com/offseckit/CVE-2026-24207) : ![starts](https://img.shields.io/github/stars/offseckit/CVE-2026-24207.svg) ![forks](https://img.shields.io/github/forks/offseckit/CVE-2026-24207.svg)
+
 ## CVE-2026-24136
  Saleor is an e-commerce platform. Versions 3.2.0 through 3.20.109, 3.21.0-a.0 through 3.21.44 and 3.22.0-a.0 through 3.22.28 have a n Insecure Direct Object Reference (IDOR) vulnerability that allows unauthenticated actors to extract sensitive information in plain text. Orders created before Saleor 3.2.0 could have PIIs exfiltrated. The issue has been patched in Saleor versions: 3.22.29, 3.21.45, and 3.20.110. To workaround, temporarily block non-staff users from fetching order information (the order() GraphQL query) using a WAF.
 
@@ -16393,6 +16403,8 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 - [https://github.com/murrez/CVE-2026-21589](https://github.com/murrez/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-21589.svg)
 
 - [https://github.com/renzi25031469/CVE-2026-21589](https://github.com/renzi25031469/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/renzi25031469/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/renzi25031469/CVE-2026-21589.svg)
+
+- [https://github.com/gotr00t0day/CVE-2026-21589](https://github.com/gotr00t0day/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/gotr00t0day/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/gotr00t0day/CVE-2026-21589.svg)
 
 ## CVE-2026-21533
  Improper privilege management in Windows Remote Desktop allows an authorized attacker to elevate privileges locally.
@@ -20152,11 +20164,6 @@ substitution character without escaping shell meta characters. A remote attacker
 
 - [https://github.com/ydking0911/CVE-2026-4060-PoC](https://github.com/ydking0911/CVE-2026-4060-PoC) : ![starts](https://img.shields.io/github/stars/ydking0911/CVE-2026-4060-PoC.svg) ![forks](https://img.shields.io/github/forks/ydking0911/CVE-2026-4060-PoC.svg)
 
-## CVE-2026-4057
- The Download Manager plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the `makeMediaPublic()` and `makeMediaPrivate()` functions in all versions up to, and including, 3.3.51. This is due to the functions only checking for `edit_posts` capability without verifying post ownership via `current_user_can('edit_post', $id)`, and the destructive operations executing before the admin-level check in `mediaAccessControl()`. This makes it possible for authenticated attackers, with Contributor-level access and above, to strip all protection metadata (password, access restrictions, private flag) from any media file they do not own, making admin-protected files publicly accessible via their direct URL.
-
-- [https://github.com/zebbernCVE/CVE-2026-40579](https://github.com/zebbernCVE/CVE-2026-40579) : ![starts](https://img.shields.io/github/stars/zebbernCVE/CVE-2026-40579.svg) ![forks](https://img.shields.io/github/forks/zebbernCVE/CVE-2026-40579.svg)
-
 ## CVE-2026-4040
  A vulnerability was identified in OpenClaw up to 2026.2.17. This issue affects the function tools.exec.safeBins of the component File Existence Handler. The manipulation leads to information exposure through discrepancy. The attack needs to be performed locally. Upgrading to version 2026.2.19-beta.1 is capable of addressing this issue. The identifier of the patch is bafdbb6f112409a65decd3d4e7350fbd637c7754. Upgrading the affected component is advised.
 
@@ -20516,8 +20523,6 @@ Successful exploitation allows an authenticated attacker to execute system comma
 - [https://github.com/mishl-dev/CVE_2026_31431](https://github.com/mishl-dev/CVE_2026_31431) : ![starts](https://img.shields.io/github/stars/mishl-dev/CVE_2026_31431.svg) ![forks](https://img.shields.io/github/forks/mishl-dev/CVE_2026_31431.svg)
 
 - [https://github.com/Naimadx123/cve_2026_31431](https://github.com/Naimadx123/cve_2026_31431) : ![starts](https://img.shields.io/github/stars/Naimadx123/cve_2026_31431.svg) ![forks](https://img.shields.io/github/forks/Naimadx123/cve_2026_31431.svg)
-
-- [https://github.com/Sebastian294/cve-2026-31431](https://github.com/Sebastian294/cve-2026-31431) : ![starts](https://img.shields.io/github/stars/Sebastian294/cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/Sebastian294/cve-2026-31431.svg)
 
 - [https://github.com/alvaroguzmancode/CVE-2026-31431-mitigacion](https://github.com/alvaroguzmancode/CVE-2026-31431-mitigacion) : ![starts](https://img.shields.io/github/stars/alvaroguzmancode/CVE-2026-31431-mitigacion.svg) ![forks](https://img.shields.io/github/forks/alvaroguzmancode/CVE-2026-31431-mitigacion.svg)
 

@@ -1288,6 +1288,8 @@ use after free.
 
 - [https://github.com/EXP-Docs/CVE-2019-15588](https://github.com/EXP-Docs/CVE-2019-15588) : ![starts](https://img.shields.io/github/stars/EXP-Docs/CVE-2019-15588.svg) ![forks](https://img.shields.io/github/forks/EXP-Docs/CVE-2019-15588.svg)
 
+- [https://github.com/EXP-Docs/CVE-2019-5475](https://github.com/EXP-Docs/CVE-2019-5475) : ![starts](https://img.shields.io/github/stars/EXP-Docs/CVE-2019-5475.svg) ![forks](https://img.shields.io/github/forks/EXP-Docs/CVE-2019-5475.svg)
+
 ## CVE-2019-15532
  CyberChef before 8.31.2 allows XSS in core/operations/TextEncodingBruteForce.mjs.
 

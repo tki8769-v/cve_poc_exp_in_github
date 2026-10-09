@@ -1218,6 +1218,12 @@ Second, the original report failed to mention that in the 1.x Tika releases, the
 
 - [https://github.com/viperh/poc-cve-next](https://github.com/viperh/poc-cve-next) : ![starts](https://img.shields.io/github/stars/viperh/poc-cve-next.svg) ![forks](https://img.shields.io/github/forks/viperh/poc-cve-next.svg)
 
+- [https://github.com/Saturate/CVE-2025-55182-react2shell](https://github.com/Saturate/CVE-2025-55182-react2shell) : ![starts](https://img.shields.io/github/stars/Saturate/CVE-2025-55182-react2shell.svg) ![forks](https://img.shields.io/github/forks/Saturate/CVE-2025-55182-react2shell.svg)
+
+- [https://github.com/ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182.svg)
+
+- [https://github.com/kOaDT/poc-cve-2025-55182](https://github.com/kOaDT/poc-cve-2025-55182) : ![starts](https://img.shields.io/github/stars/kOaDT/poc-cve-2025-55182.svg) ![forks](https://img.shields.io/github/forks/kOaDT/poc-cve-2025-55182.svg)
+
 ## CVE-2025-66470
  NiceGUI is a Python-based UI framework. Versions 3.3.1 and below are subject to a XSS vulnerability through the ui.interactive_image component of NiceGUI. The component renders SVG content using Vue's v-html directive without any sanitization. This allows attackers to inject malicious HTML or JavaScript via the SVG foreignObject tag whenever the image component is rendered or updated. This is particularly dangerous for dashboards or multi-user applications displaying user-generated content or annotations. This issue is fixed in version 3.4.0.
 
@@ -7691,6 +7697,10 @@ be in the smb2_sess_setup function which makes use of sess-user.
 
 - [https://github.com/gduma-phData/patch-CVE-2025-34555](https://github.com/gduma-phData/patch-CVE-2025-34555) : ![starts](https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-34555.svg) ![forks](https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-34555.svg)
 
+## CVE-2025-34462
+
+- [https://github.com/NSM-Barii/CVE-2025-15474](https://github.com/NSM-Barii/CVE-2025-15474) : ![starts](https://img.shields.io/github/stars/NSM-Barii/CVE-2025-15474.svg) ![forks](https://img.shields.io/github/forks/NSM-Barii/CVE-2025-15474.svg)
+
 ## CVE-2025-34327
  This CVE ID was rejected because it was reserved but not used for a vulnerability disclosure.
 
@@ -13737,8 +13747,6 @@ This issue affects BILGER: before 2.4.6.
 
 - [https://github.com/timsonner/React2Shell-CVE-2025-55182](https://github.com/timsonner/React2Shell-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/timsonner/React2Shell-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/timsonner/React2Shell-CVE-2025-55182.svg)
 
-- [https://github.com/MuhammadWaseem29/React2Shell_Rce-cve-2025-55182](https://github.com/MuhammadWaseem29/React2Shell_Rce-cve-2025-55182) : ![starts](https://img.shields.io/github/stars/MuhammadWaseem29/React2Shell_Rce-cve-2025-55182.svg) ![forks](https://img.shields.io/github/forks/MuhammadWaseem29/React2Shell_Rce-cve-2025-55182.svg)
-
 - [https://github.com/hoosin/CVE-2025-55182](https://github.com/hoosin/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/hoosin/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/hoosin/CVE-2025-55182.svg)
 
 - [https://github.com/techgaun/cve-2025-55182-scanner](https://github.com/techgaun/cve-2025-55182-scanner) : ![starts](https://img.shields.io/github/stars/techgaun/cve-2025-55182-scanner.svg) ![forks](https://img.shields.io/github/forks/techgaun/cve-2025-55182-scanner.svg)
@@ -13750,8 +13758,6 @@ This issue affects BILGER: before 2.4.6.
 - [https://github.com/hzhsec/cve_2025_55182_test](https://github.com/hzhsec/cve_2025_55182_test) : ![starts](https://img.shields.io/github/stars/hzhsec/cve_2025_55182_test.svg) ![forks](https://img.shields.io/github/forks/hzhsec/cve_2025_55182_test.svg)
 
 - [https://github.com/logesh-GIT001/CVE-2025-55182](https://github.com/logesh-GIT001/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/logesh-GIT001/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/logesh-GIT001/CVE-2025-55182.svg)
-
-- [https://github.com/LucasPDiniz/CVE-2025-55182](https://github.com/LucasPDiniz/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/LucasPDiniz/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/LucasPDiniz/CVE-2025-55182.svg)
 
 - [https://github.com/kindone09/CVE-2025-55182](https://github.com/kindone09/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/kindone09/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/kindone09/CVE-2025-55182.svg)
 
@@ -14304,6 +14310,10 @@ The default Content-Security-Policy (CSP) in Grafana will block the XSS though t
  A vulnerability was found in codeprojects News Publishing Site Dashboard 1.0. It has been rated as critical. This issue affects some unknown processing of the file /edit-category.php of the component Edit Category Page. The manipulation of the argument category_image leads to unrestricted upload. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.
 
 - [https://github.com/Stuub/CVE-2025-3969-Exploit](https://github.com/Stuub/CVE-2025-3969-Exploit) : ![starts](https://img.shields.io/github/stars/Stuub/CVE-2025-3969-Exploit.svg) ![forks](https://img.shields.io/github/forks/Stuub/CVE-2025-3969-Exploit.svg)
+
+## CVE-2025-3915
+
+- [https://github.com/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload](https://github.com/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload) : ![starts](https://img.shields.io/github/stars/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload.svg) ![forks](https://img.shields.io/github/forks/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload.svg)
 
 ## CVE-2025-3914
  The Aeropage Sync for Airtable plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'aeropage_media_downloader' function in all versions up to, and including, 3.2.0. This makes it possible for authenticated attackers, with Subscriber-level access and above, to upload arbitrary files on the affected site's server which may make remote code execution possible.

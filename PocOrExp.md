@@ -3557,6 +3557,8 @@ far from ideal; that flaw will be addressed separately.
 
 - [https://github.com/hitechcloud-vietnam/Zapscape](https://github.com/hitechcloud-vietnam/Zapscape) : ![starts](https://img.shields.io/github/stars/hitechcloud-vietnam/Zapscape.svg) ![forks](https://img.shields.io/github/forks/hitechcloud-vietnam/Zapscape.svg)
 
+- [https://github.com/suominen/zapscape](https://github.com/suominen/zapscape) : ![starts](https://img.shields.io/github/stars/suominen/zapscape.svg) ![forks](https://img.shields.io/github/forks/suominen/zapscape.svg)
+
 ## CVE-2026-64560
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -8788,6 +8790,10 @@ remove_waiter() to cure those problems.
 - [https://github.com/d16ug-a1l/REDMI_Root](https://github.com/d16ug-a1l/REDMI_Root) : ![starts](https://img.shields.io/github/stars/d16ug-a1l/REDMI_Root.svg) ![forks](https://img.shields.io/github/forks/d16ug-a1l/REDMI_Root.svg)
 
 - [https://github.com/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N](https://github.com/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N) : ![starts](https://img.shields.io/github/stars/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N.svg) ![forks](https://img.shields.io/github/forks/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N.svg)
+
+- [https://github.com/tingao/debian-on-s23-ultra](https://github.com/tingao/debian-on-s23-ultra) : ![starts](https://img.shields.io/github/stars/tingao/debian-on-s23-ultra.svg) ![forks](https://img.shields.io/github/forks/tingao/debian-on-s23-ultra.svg)
+
+- [https://github.com/cyrrp/honor90-ghostlock](https://github.com/cyrrp/honor90-ghostlock) : ![starts](https://img.shields.io/github/stars/cyrrp/honor90-ghostlock.svg) ![forks](https://img.shields.io/github/forks/cyrrp/honor90-ghostlock.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
@@ -14661,6 +14667,10 @@ Users are recommended to upgrade to version 11.0.15 or later, 10.1.50 or later o
 
 - [https://github.com/offseckit/CVE-2026-24207](https://github.com/offseckit/CVE-2026-24207) : ![starts](https://img.shields.io/github/stars/offseckit/CVE-2026-24207.svg) ![forks](https://img.shields.io/github/forks/offseckit/CVE-2026-24207.svg)
 
+## CVE-2026-24206
+
+- [https://github.com/offseckit/CVE-2026-24207](https://github.com/offseckit/CVE-2026-24207) : ![starts](https://img.shields.io/github/stars/offseckit/CVE-2026-24207.svg) ![forks](https://img.shields.io/github/forks/offseckit/CVE-2026-24207.svg)
+
 ## CVE-2026-24136
  Saleor is an e-commerce platform. Versions 3.2.0 through 3.20.109, 3.21.0-a.0 through 3.21.44 and 3.22.0-a.0 through 3.22.28 have a n Insecure Direct Object Reference (IDOR) vulnerability that allows unauthenticated actors to extract sensitive information in plain text. Orders created before Saleor 3.2.0 could have PIIs exfiltrated. The issue has been patched in Saleor versions: 3.22.29, 3.21.45, and 3.20.110. To workaround, temporarily block non-staff users from fetching order information (the order() GraphQL query) using a WAF.
 
@@ -16394,6 +16404,8 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 - [https://github.com/murrez/CVE-2026-21589](https://github.com/murrez/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-21589.svg)
 
 - [https://github.com/renzi25031469/CVE-2026-21589](https://github.com/renzi25031469/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/renzi25031469/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/renzi25031469/CVE-2026-21589.svg)
+
+- [https://github.com/gotr00t0day/CVE-2026-21589](https://github.com/gotr00t0day/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/gotr00t0day/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/gotr00t0day/CVE-2026-21589.svg)
 
 ## CVE-2026-21533
  Improper privilege management in Windows Remote Desktop allows an authorized attacker to elevate privileges locally.
@@ -20153,11 +20165,6 @@ substitution character without escaping shell meta characters. A remote attacker
 
 - [https://github.com/ydking0911/CVE-2026-4060-PoC](https://github.com/ydking0911/CVE-2026-4060-PoC) : ![starts](https://img.shields.io/github/stars/ydking0911/CVE-2026-4060-PoC.svg) ![forks](https://img.shields.io/github/forks/ydking0911/CVE-2026-4060-PoC.svg)
 
-## CVE-2026-4057
- The Download Manager plugin for WordPress is vulnerable to unauthorized modification of data due to a missing capability check on the `makeMediaPublic()` and `makeMediaPrivate()` functions in all versions up to, and including, 3.3.51. This is due to the functions only checking for `edit_posts` capability without verifying post ownership via `current_user_can('edit_post', $id)`, and the destructive operations executing before the admin-level check in `mediaAccessControl()`. This makes it possible for authenticated attackers, with Contributor-level access and above, to strip all protection metadata (password, access restrictions, private flag) from any media file they do not own, making admin-protected files publicly accessible via their direct URL.
-
-- [https://github.com/zebbernCVE/CVE-2026-40579](https://github.com/zebbernCVE/CVE-2026-40579) : ![starts](https://img.shields.io/github/stars/zebbernCVE/CVE-2026-40579.svg) ![forks](https://img.shields.io/github/forks/zebbernCVE/CVE-2026-40579.svg)
-
 ## CVE-2026-4040
  A vulnerability was identified in OpenClaw up to 2026.2.17. This issue affects the function tools.exec.safeBins of the component File Existence Handler. The manipulation leads to information exposure through discrepancy. The attack needs to be performed locally. Upgrading to version 2026.2.19-beta.1 is capable of addressing this issue. The identifier of the patch is bafdbb6f112409a65decd3d4e7350fbd637c7754. Upgrading the affected component is advised.
 
@@ -20517,8 +20524,6 @@ Successful exploitation allows an authenticated attacker to execute system comma
 - [https://github.com/mishl-dev/CVE_2026_31431](https://github.com/mishl-dev/CVE_2026_31431) : ![starts](https://img.shields.io/github/stars/mishl-dev/CVE_2026_31431.svg) ![forks](https://img.shields.io/github/forks/mishl-dev/CVE_2026_31431.svg)
 
 - [https://github.com/Naimadx123/cve_2026_31431](https://github.com/Naimadx123/cve_2026_31431) : ![starts](https://img.shields.io/github/stars/Naimadx123/cve_2026_31431.svg) ![forks](https://img.shields.io/github/forks/Naimadx123/cve_2026_31431.svg)
-
-- [https://github.com/Sebastian294/cve-2026-31431](https://github.com/Sebastian294/cve-2026-31431) : ![starts](https://img.shields.io/github/stars/Sebastian294/cve-2026-31431.svg) ![forks](https://img.shields.io/github/forks/Sebastian294/cve-2026-31431.svg)
 
 - [https://github.com/alvaroguzmancode/CVE-2026-31431-mitigacion](https://github.com/alvaroguzmancode/CVE-2026-31431-mitigacion) : ![starts](https://img.shields.io/github/stars/alvaroguzmancode/CVE-2026-31431-mitigacion.svg) ![forks](https://img.shields.io/github/forks/alvaroguzmancode/CVE-2026-31431-mitigacion.svg)
 
@@ -22880,6 +22885,12 @@ Second, the original report failed to mention that in the 1.x Tika releases, the
 - [https://github.com/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478](https://github.com/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478) : ![starts](https://img.shields.io/github/stars/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478.svg) ![forks](https://img.shields.io/github/forks/thedarckpassenger/Next.js-RSC-RCE-Scanner-CVE-2025-66478.svg)
 
 - [https://github.com/viperh/poc-cve-next](https://github.com/viperh/poc-cve-next) : ![starts](https://img.shields.io/github/stars/viperh/poc-cve-next.svg) ![forks](https://img.shields.io/github/forks/viperh/poc-cve-next.svg)
+
+- [https://github.com/Saturate/CVE-2025-55182-react2shell](https://github.com/Saturate/CVE-2025-55182-react2shell) : ![starts](https://img.shields.io/github/stars/Saturate/CVE-2025-55182-react2shell.svg) ![forks](https://img.shields.io/github/forks/Saturate/CVE-2025-55182-react2shell.svg)
+
+- [https://github.com/ihsansencan/React2Shell-CVE-2025-55182](https://github.com/ihsansencan/React2Shell-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/ihsansencan/React2Shell-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/ihsansencan/React2Shell-CVE-2025-55182.svg)
+
+- [https://github.com/kOaDT/poc-cve-2025-55182](https://github.com/kOaDT/poc-cve-2025-55182) : ![starts](https://img.shields.io/github/stars/kOaDT/poc-cve-2025-55182.svg) ![forks](https://img.shields.io/github/forks/kOaDT/poc-cve-2025-55182.svg)
 
 ## CVE-2025-66470
  NiceGUI is a Python-based UI framework. Versions 3.3.1 and below are subject to a XSS vulnerability through the ui.interactive_image component of NiceGUI. The component renders SVG content using Vue's v-html directive without any sanitization. This allows attackers to inject malicious HTML or JavaScript via the SVG foreignObject tag whenever the image component is rendered or updated. This is particularly dangerous for dashboards or multi-user applications displaying user-generated content or annotations. This issue is fixed in version 3.4.0.
@@ -29354,6 +29365,10 @@ be in the smb2_sess_setup function which makes use of sess-user.
 
 - [https://github.com/gduma-phData/patch-CVE-2025-34555](https://github.com/gduma-phData/patch-CVE-2025-34555) : ![starts](https://img.shields.io/github/stars/gduma-phData/patch-CVE-2025-34555.svg) ![forks](https://img.shields.io/github/forks/gduma-phData/patch-CVE-2025-34555.svg)
 
+## CVE-2025-34462
+
+- [https://github.com/NSM-Barii/CVE-2025-15474](https://github.com/NSM-Barii/CVE-2025-15474) : ![starts](https://img.shields.io/github/stars/NSM-Barii/CVE-2025-15474.svg) ![forks](https://img.shields.io/github/forks/NSM-Barii/CVE-2025-15474.svg)
+
 ## CVE-2025-34327
  This CVE ID was rejected because it was reserved but not used for a vulnerability disclosure.
 
@@ -35400,8 +35415,6 @@ This issue affects BILGER: before 2.4.6.
 
 - [https://github.com/timsonner/React2Shell-CVE-2025-55182](https://github.com/timsonner/React2Shell-CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/timsonner/React2Shell-CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/timsonner/React2Shell-CVE-2025-55182.svg)
 
-- [https://github.com/MuhammadWaseem29/React2Shell_Rce-cve-2025-55182](https://github.com/MuhammadWaseem29/React2Shell_Rce-cve-2025-55182) : ![starts](https://img.shields.io/github/stars/MuhammadWaseem29/React2Shell_Rce-cve-2025-55182.svg) ![forks](https://img.shields.io/github/forks/MuhammadWaseem29/React2Shell_Rce-cve-2025-55182.svg)
-
 - [https://github.com/hoosin/CVE-2025-55182](https://github.com/hoosin/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/hoosin/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/hoosin/CVE-2025-55182.svg)
 
 - [https://github.com/techgaun/cve-2025-55182-scanner](https://github.com/techgaun/cve-2025-55182-scanner) : ![starts](https://img.shields.io/github/stars/techgaun/cve-2025-55182-scanner.svg) ![forks](https://img.shields.io/github/forks/techgaun/cve-2025-55182-scanner.svg)
@@ -35413,8 +35426,6 @@ This issue affects BILGER: before 2.4.6.
 - [https://github.com/hzhsec/cve_2025_55182_test](https://github.com/hzhsec/cve_2025_55182_test) : ![starts](https://img.shields.io/github/stars/hzhsec/cve_2025_55182_test.svg) ![forks](https://img.shields.io/github/forks/hzhsec/cve_2025_55182_test.svg)
 
 - [https://github.com/logesh-GIT001/CVE-2025-55182](https://github.com/logesh-GIT001/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/logesh-GIT001/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/logesh-GIT001/CVE-2025-55182.svg)
-
-- [https://github.com/LucasPDiniz/CVE-2025-55182](https://github.com/LucasPDiniz/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/LucasPDiniz/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/LucasPDiniz/CVE-2025-55182.svg)
 
 - [https://github.com/kindone09/CVE-2025-55182](https://github.com/kindone09/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/kindone09/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/kindone09/CVE-2025-55182.svg)
 
@@ -35967,6 +35978,10 @@ The default Content-Security-Policy (CSP) in Grafana will block the XSS though t
  A vulnerability was found in codeprojects News Publishing Site Dashboard 1.0. It has been rated as critical. This issue affects some unknown processing of the file /edit-category.php of the component Edit Category Page. The manipulation of the argument category_image leads to unrestricted upload. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used.
 
 - [https://github.com/Stuub/CVE-2025-3969-Exploit](https://github.com/Stuub/CVE-2025-3969-Exploit) : ![starts](https://img.shields.io/github/stars/Stuub/CVE-2025-3969-Exploit.svg) ![forks](https://img.shields.io/github/forks/Stuub/CVE-2025-3969-Exploit.svg)
+
+## CVE-2025-3915
+
+- [https://github.com/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload](https://github.com/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload) : ![starts](https://img.shields.io/github/stars/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload.svg) ![forks](https://img.shields.io/github/forks/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload.svg)
 
 ## CVE-2025-3914
  The Aeropage Sync for Airtable plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'aeropage_media_downloader' function in all versions up to, and including, 3.2.0. This makes it possible for authenticated attackers, with Subscriber-level access and above, to upload arbitrary files on the affected site's server which may make remote code execution possible.
@@ -42187,6 +42202,18 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 - [https://github.com/ReversecLabs/ibm-sterling-b2b-integrator-poc](https://github.com/ReversecLabs/ibm-sterling-b2b-integrator-poc) : ![starts](https://img.shields.io/github/stars/ReversecLabs/ibm-sterling-b2b-integrator-poc.svg) ![forks](https://img.shields.io/github/forks/ReversecLabs/ibm-sterling-b2b-integrator-poc.svg)
 
+## CVE-2024-31851
+
+- [https://github.com/Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) : ![starts](https://img.shields.io/github/stars/Stuub/CVE-2024-31848-PoC.svg) ![forks](https://img.shields.io/github/forks/Stuub/CVE-2024-31848-PoC.svg)
+
+## CVE-2024-31850
+
+- [https://github.com/Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) : ![starts](https://img.shields.io/github/stars/Stuub/CVE-2024-31848-PoC.svg) ![forks](https://img.shields.io/github/forks/Stuub/CVE-2024-31848-PoC.svg)
+
+## CVE-2024-31849
+
+- [https://github.com/Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) : ![starts](https://img.shields.io/github/stars/Stuub/CVE-2024-31848-PoC.svg) ![forks](https://img.shields.io/github/forks/Stuub/CVE-2024-31848-PoC.svg)
+
 ## CVE-2024-31848
  A path traversal vulnerability exists in the Java version of CData API Server  23.4.8844 when running using the embedded Jetty server, which could allow an unauthenticated remote attacker to gain complete administrative access to the application.
 
@@ -43459,6 +43486,10 @@ Users are recommended to upgrade to version 1.26, which fixes the issue.
 
 ## CVE-2024-25832
  F-logic DataCube3 v1.0 is vulnerable to unrestricted file upload, which could allow an authenticated malicious actor to upload a file of dangerous type by manipulating the filename extension.
+
+- [https://github.com/0xNslabs/CVE-2024-25832-PoC](https://github.com/0xNslabs/CVE-2024-25832-PoC) : ![starts](https://img.shields.io/github/stars/0xNslabs/CVE-2024-25832-PoC.svg) ![forks](https://img.shields.io/github/forks/0xNslabs/CVE-2024-25832-PoC.svg)
+
+## CVE-2024-25830
 
 - [https://github.com/0xNslabs/CVE-2024-25832-PoC](https://github.com/0xNslabs/CVE-2024-25832-PoC) : ![starts](https://img.shields.io/github/stars/0xNslabs/CVE-2024-25832-PoC.svg) ![forks](https://img.shields.io/github/forks/0xNslabs/CVE-2024-25832-PoC.svg)
 
@@ -44933,6 +44964,8 @@ This vulnerability affects all users using version greater or equal than Node.js
 - [https://github.com/rxwx/pulse-meter](https://github.com/rxwx/pulse-meter) : ![starts](https://img.shields.io/github/stars/rxwx/pulse-meter.svg) ![forks](https://img.shields.io/github/forks/rxwx/pulse-meter.svg)
 
 - [https://github.com/pwniel/ivanti_shell](https://github.com/pwniel/ivanti_shell) : ![starts](https://img.shields.io/github/stars/pwniel/ivanti_shell.svg) ![forks](https://img.shields.io/github/forks/pwniel/ivanti_shell.svg)
+
+- [https://github.com/yoryio/CVE-2023-46805](https://github.com/yoryio/CVE-2023-46805) : ![starts](https://img.shields.io/github/stars/yoryio/CVE-2023-46805.svg) ![forks](https://img.shields.io/github/forks/yoryio/CVE-2023-46805.svg)
 
 ## CVE-2024-21793
  An OData injection vulnerability exists in the BIG-IP Next Central Manager API (URI).  Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
@@ -47594,15 +47627,6 @@ The specific flaw exists within the handling of DNS names. The issue results fro
 
 - [https://github.com/gogo2464/CVE-2024-5124](https://github.com/gogo2464/CVE-2024-5124) : ![starts](https://img.shields.io/github/stars/gogo2464/CVE-2024-5124.svg) ![forks](https://img.shields.io/github/forks/gogo2464/CVE-2024-5124.svg)
 
-## CVE-2024-5096
- A vulnerability classified as problematic was found in Hipcam Device up to 20240511. This vulnerability affects unknown code of the file /log/wifi.mac of the component MAC Address Handler. The manipulation leads to information disclosure. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-265078 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
-
-- [https://github.com/fdzdev/CVE-2024-50964](https://github.com/fdzdev/CVE-2024-50964) : ![starts](https://img.shields.io/github/stars/fdzdev/CVE-2024-50964.svg) ![forks](https://img.shields.io/github/forks/fdzdev/CVE-2024-50964.svg)
-
-- [https://github.com/fdzdev/CVE-2024-50961](https://github.com/fdzdev/CVE-2024-50961) : ![starts](https://img.shields.io/github/stars/fdzdev/CVE-2024-50961.svg) ![forks](https://img.shields.io/github/forks/fdzdev/CVE-2024-50961.svg)
-
-- [https://github.com/fdzdev/CVE-2024-50962](https://github.com/fdzdev/CVE-2024-50962) : ![starts](https://img.shields.io/github/stars/fdzdev/CVE-2024-50962.svg) ![forks](https://img.shields.io/github/forks/fdzdev/CVE-2024-50962.svg)
-
 ## CVE-2024-5084
  The Hash Form – Drag & Drop Form Builder plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'file_upload_action' function in all versions up to, and including, 1.1.0. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 
@@ -49193,11 +49217,6 @@ authentication.   
  The WP Booking Calendar plugin for WordPress is vulnerable to SQL Injection via the 'calendar_request_params[dates_ddmmyy_csv]' parameter in all versions up to, and including, 9.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 
 - [https://github.com/sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207) : ![starts](https://img.shields.io/github/stars/sahar042/CVE-2024-1207.svg) ![forks](https://img.shields.io/github/forks/sahar042/CVE-2024-1207.svg)
-
-## CVE-2024-1131
- ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.
-
-- [https://github.com/xthalach/CVE-2024-11318](https://github.com/xthalach/CVE-2024-11318) : ![starts](https://img.shields.io/github/stars/xthalach/CVE-2024-11318.svg) ![forks](https://img.shields.io/github/forks/xthalach/CVE-2024-11318.svg)
 
 ## CVE-2024-1112
  Heap-based buffer overflow vulnerability in Resource Hacker, developed by Angus Johnson, affecting version 3.6.0.92. This vulnerability could allow an attacker to execute arbitrary code via a long filename argument.
@@ -54195,6 +54214,8 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 
 - [https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-00](https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-00) : ![starts](https://img.shields.io/github/stars/shoucheng3/asf__nifi_CVE-2023-34468_1-21-00.svg) ![forks](https://img.shields.io/github/forks/shoucheng3/asf__nifi_CVE-2023-34468_1-21-00.svg)
 
+- [https://github.com/mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2023-40037.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2023-40037.svg)
+
 ## CVE-2023-34446
  iTop is an open source, web-based IT service management platform. Prior to versions 3.0.4 and 3.1.0, when displaying `pages/preferences.php`, cross site scripting is possible. This issue is fixed in versions 3.0.4 and 3.1.0.
 
@@ -54256,6 +54277,8 @@ The resolution validates the JNDI URL and restricts locations to a set of allowe
 You are recommended to upgrade to version 1.22.0 or later which fixes this issue.
 
 - [https://github.com/mbadanoiu/CVE-2023-34212](https://github.com/mbadanoiu/CVE-2023-34212) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2023-34212.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2023-34212.svg)
+
+- [https://github.com/mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2023-40037.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2023-40037.svg)
 
 ## CVE-2023-34194
  StringEqual in TiXmlDeclaration::Parse in tinyxmlparser.cpp in TinyXML through 2.6.2 has a reachable assertion (and application exit) via a crafted XML document with a '\0' located after whitespace.
@@ -56779,6 +56802,8 @@ Note that, like all of the file upload limits, the
 - [https://github.com/v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en](https://github.com/v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en) : ![starts](https://img.shields.io/github/stars/v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en.svg) ![forks](https://img.shields.io/github/forks/v1ckxy/Orchestrated-Powershell-for-CVE-2023-24932-en.svg)
 
 - [https://github.com/ETS-MSE/secure-boot-cert-servicing](https://github.com/ETS-MSE/secure-boot-cert-servicing) : ![starts](https://img.shields.io/github/stars/ETS-MSE/secure-boot-cert-servicing.svg) ![forks](https://img.shields.io/github/forks/ETS-MSE/secure-boot-cert-servicing.svg)
+
+- [https://github.com/Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894) : ![starts](https://img.shields.io/github/stars/Wack0/CVE-2022-21894.svg) ![forks](https://img.shields.io/github/forks/Wack0/CVE-2022-21894.svg)
 
 ## CVE-2023-24871
  Windows Bluetooth Service Remote Code Execution Vulnerability
@@ -60393,6 +60418,10 @@ visconti_clk_register_gates().
 
 - [https://github.com/SahilH4ck4you/-CVE-2022-48150](https://github.com/SahilH4ck4you/-CVE-2022-48150) : ![starts](https://img.shields.io/github/stars/SahilH4ck4you/-CVE-2022-48150.svg) ![forks](https://img.shields.io/github/forks/SahilH4ck4you/-CVE-2022-48150.svg)
 
+## CVE-2022-48019
+
+- [https://github.com/kkent030315/CVE-2022-42046](https://github.com/kkent030315/CVE-2022-42046) : ![starts](https://img.shields.io/github/stars/kkent030315/CVE-2022-42046.svg) ![forks](https://img.shields.io/github/forks/kkent030315/CVE-2022-42046.svg)
+
 ## CVE-2022-47986
  IBM Aspera Faspex 4.4.2 Patch Level 1 and earlier could allow a remote attacker to execute arbitrary code on the system, caused by a YAML deserialization flaw. By sending a specially crafted obsolete API call, an attacker could exploit this vulnerability to execute arbitrary code on the system. The obsolete API call was removed in Faspex 4.4.2 PL2. IBM X-Force ID: 243512.
 
@@ -62832,6 +62861,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/TheMalwareGuardian/CVE-2022-34303](https://github.com/TheMalwareGuardian/CVE-2022-34303) : ![starts](https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2022-34303.svg) ![forks](https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2022-34303.svg)
 
+- [https://github.com/TheMalwareGuardian/CVE-2022-34301](https://github.com/TheMalwareGuardian/CVE-2022-34301) : ![starts](https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2022-34301.svg) ![forks](https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2022-34301.svg)
+
 ## CVE-2022-34302
  A flaw was found in New Horizon Datasys bootloaders before 2022-06-01. An attacker may use this bootloader to bypass or tamper with Secure Boot protections. In order to load and execute arbitrary code in the pre-boot stage, an attacker simply needs to replace the existing signed bootloader currently in use with this bootloader. Access to the EFI System Partition is required for booting using external media.
 
@@ -63835,6 +63866,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 - [https://github.com/Immersive-Labs-Sec/nimbuspwn](https://github.com/Immersive-Labs-Sec/nimbuspwn) : ![starts](https://img.shields.io/github/stars/Immersive-Labs-Sec/nimbuspwn.svg) ![forks](https://img.shields.io/github/forks/Immersive-Labs-Sec/nimbuspwn.svg)
 
 - [https://github.com/ngtuonghung/nimbuspwn-CVE-2022-29800-CVE-2022-29799](https://github.com/ngtuonghung/nimbuspwn-CVE-2022-29800-CVE-2022-29799) : ![starts](https://img.shields.io/github/stars/ngtuonghung/nimbuspwn-CVE-2022-29800-CVE-2022-29799.svg) ![forks](https://img.shields.io/github/forks/ngtuonghung/nimbuspwn-CVE-2022-29800-CVE-2022-29799.svg)
+
+- [https://github.com/joshuavanderpoll/NimbusPWN-CVE-2022-29799-29800](https://github.com/joshuavanderpoll/NimbusPWN-CVE-2022-29799-29800) : ![starts](https://img.shields.io/github/stars/joshuavanderpoll/NimbusPWN-CVE-2022-29799-29800.svg) ![forks](https://img.shields.io/github/forks/joshuavanderpoll/NimbusPWN-CVE-2022-29799-29800.svg)
 
 ## CVE-2022-29799
  A vulnerability was found in networkd-dispatcher. This flaw exists because no functions are sanitized by the OperationalState or the AdministrativeState of networkd-dispatcher. This attack leads to a directory traversal to escape from the “/etc/networkd-dispatcher” base directory.
@@ -64883,6 +64916,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 
 - [https://github.com/mbadanoiu/CVE-2022-25813](https://github.com/mbadanoiu/CVE-2022-25813) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2022-25813.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2022-25813.svg)
 
+- [https://github.com/mbadanoiu/CVE-2025-26865](https://github.com/mbadanoiu/CVE-2025-26865) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2025-26865.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2025-26865.svg)
+
 ## CVE-2022-25765
  The package pdfkit from 0.0.0 are vulnerable to Command Injection where the URL is not properly sanitized.
 
@@ -65646,6 +65681,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 
 - [https://github.com/scopion/ansible-role-cve_2022-23307](https://github.com/scopion/ansible-role-cve_2022-23307) : ![starts](https://img.shields.io/github/stars/scopion/ansible-role-cve_2022-23307.svg) ![forks](https://img.shields.io/github/forks/scopion/ansible-role-cve_2022-23307.svg)
 
+- [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
+
 ## CVE-2022-23305
  By design, the JDBCAppender in Log4j 1.2.x accepts an SQL statement as a configuration parameter where the values to be inserted are converters from PatternLayout. The message converter, %m, is likely to always be included. This allows attackers to manipulate the SQL by entering crafted strings into input fields or headers of an application that are logged allowing unintended SQL queries to be executed. Note this issue only affects Log4j 1.x when specifically configured to use the JDBCAppender, which is not the default. Beginning in version 2.0-beta8, the JDBCAppender was re-introduced with proper support for parameterized SQL queries and further customization over the columns written to in logs. Apache Log4j 1.2 reached end of life in August 2015. Users should upgrade to Log4j 2 as it addresses numerous other issues from the previous versions.
 
@@ -65654,6 +65691,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 - [https://github.com/AlphabugX/CVE-2022-RCE](https://github.com/AlphabugX/CVE-2022-RCE) : ![starts](https://img.shields.io/github/stars/AlphabugX/CVE-2022-RCE.svg) ![forks](https://img.shields.io/github/forks/AlphabugX/CVE-2022-RCE.svg)
 
 - [https://github.com/tkomlodi/CVE-2022-23305_POC](https://github.com/tkomlodi/CVE-2022-23305_POC) : ![starts](https://img.shields.io/github/stars/tkomlodi/CVE-2022-23305_POC.svg) ![forks](https://img.shields.io/github/forks/tkomlodi/CVE-2022-23305_POC.svg)
+
+- [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
 
 ## CVE-2022-23303
  The implementations of SAE in hostapd before 2.10 and wpa_supplicant before 2.10 are vulnerable to side channel attacks as a result of cache access patterns. NOTE: this issue exists because of an incomplete fix for CVE-2019-9494.
@@ -65666,6 +65705,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 - [https://github.com/HynekPetrak/log4shell-finder](https://github.com/HynekPetrak/log4shell-finder) : ![starts](https://img.shields.io/github/stars/HynekPetrak/log4shell-finder.svg) ![forks](https://img.shields.io/github/forks/HynekPetrak/log4shell-finder.svg)
 
 - [https://github.com/Chrisync/CVE-Scanner](https://github.com/Chrisync/CVE-Scanner) : ![starts](https://img.shields.io/github/stars/Chrisync/CVE-Scanner.svg) ![forks](https://img.shields.io/github/forks/Chrisync/CVE-Scanner.svg)
+
+- [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
 
 ## CVE-2022-23277
  Microsoft Exchange Server Remote Code Execution Vulnerability
@@ -68931,6 +68972,10 @@ Discovered by Eugene Lim of GovTech Singapore.
 
 - [https://github.com/richardbischof/log4j-detector-to-csv](https://github.com/richardbischof/log4j-detector-to-csv) : ![starts](https://img.shields.io/github/stars/richardbischof/log4j-detector-to-csv.svg) ![forks](https://img.shields.io/github/forks/richardbischof/log4j-detector-to-csv.svg)
 
+- [https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words) : ![starts](https://img.shields.io/github/stars/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words.svg) ![forks](https://img.shields.io/github/forks/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words.svg)
+
+- [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
+
 ## CVE-2021-45067
  Acrobat Reader DC version 21.007.20099 (and earlier), 20.004.30017 (and earlier) and 17.011.30204 (and earlier) are affected by an Access of Memory Location After End of Buffer vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 
@@ -69029,6 +69074,10 @@ Discovered by Eugene Lim of GovTech Singapore.
 
 - [https://github.com/Chrisync/CVE-Scanner](https://github.com/Chrisync/CVE-Scanner) : ![starts](https://img.shields.io/github/stars/Chrisync/CVE-Scanner.svg) ![forks](https://img.shields.io/github/forks/Chrisync/CVE-Scanner.svg)
 
+- [https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words) : ![starts](https://img.shields.io/github/stars/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words.svg) ![forks](https://img.shields.io/github/forks/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words.svg)
+
+- [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
+
 ## CVE-2021-45043
  HD-Network Real-time Monitoring System 2.0 allows ../ directory traversal to read /etc/shadow via the /language/lang s_Language parameter.
 
@@ -69121,6 +69170,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/yannart/log4shell-scanner-rs](https://github.com/yannart/log4shell-scanner-rs) : ![starts](https://img.shields.io/github/stars/yannart/log4shell-scanner-rs.svg) ![forks](https://img.shields.io/github/forks/yannart/log4shell-scanner-rs.svg)
 
 - [https://github.com/Chrisync/CVE-Scanner](https://github.com/Chrisync/CVE-Scanner) : ![starts](https://img.shields.io/github/stars/Chrisync/CVE-Scanner.svg) ![forks](https://img.shields.io/github/forks/Chrisync/CVE-Scanner.svg)
+
+- [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
 
 ## CVE-2021-44827
  There is remote authenticated OS command injection on TP-Link Archer C20i 0.9.1 3.2 v003a.0 Build 170221 Rel.55462n devices vie the X_TP_ExternalIPv6Address HTTP parameter, allowing a remote attacker to run arbitrary commands on the router with root privileges.
@@ -70361,6 +70412,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 
 - [https://github.com/thl-cmk/CVE-log4j-check_mk-plugin](https://github.com/thl-cmk/CVE-log4j-check_mk-plugin) : ![starts](https://img.shields.io/github/stars/thl-cmk/CVE-log4j-check_mk-plugin.svg) ![forks](https://img.shields.io/github/forks/thl-cmk/CVE-log4j-check_mk-plugin.svg)
 
+- [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
+
 ## CVE-2021-42392
  The org.h2.util.JdbcUtils.getConnection method of the H2 database takes as parameters the class name of the driver and URL of the database. An attacker may pass a JNDI driver name and a URL leading to a LDAP or RMI servers, causing remote code execution. This can be exploited through various attack vectors, most notably through the H2 Console which leads to unauthenticated remote code execution.
 
@@ -71566,6 +71619,8 @@ UPDATE September 14, 2021: Microsoft has released security updates to address th
 - [https://github.com/W1kyri3/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx](https://github.com/W1kyri3/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx) : ![starts](https://img.shields.io/github/stars/W1kyri3/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx.svg) ![forks](https://img.shields.io/github/forks/W1kyri3/Exploit-PoC-CVE-2021-40444-inject-ma-doc-vao-docx.svg)
 
 - [https://github.com/rankthree/SOC-Detection-T1003.001-CVE-2021-40444](https://github.com/rankthree/SOC-Detection-T1003.001-CVE-2021-40444) : ![starts](https://img.shields.io/github/stars/rankthree/SOC-Detection-T1003.001-CVE-2021-40444.svg) ![forks](https://img.shields.io/github/forks/rankthree/SOC-Detection-T1003.001-CVE-2021-40444.svg)
+
+- [https://github.com/winstxnhdw/CVE-2022-30190](https://github.com/winstxnhdw/CVE-2022-30190) : ![starts](https://img.shields.io/github/stars/winstxnhdw/CVE-2022-30190.svg) ![forks](https://img.shields.io/github/forks/winstxnhdw/CVE-2022-30190.svg)
 
 ## CVE-2021-40438
  A crafted request uri-path can cause mod_proxy to forward the request to an origin server choosen by the remote user. This issue affects Apache HTTP Server 2.4.48 and earlier.
@@ -74241,6 +74296,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS](https://github.com/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS) : ![starts](https://img.shields.io/github/stars/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS.svg) ![forks](https://img.shields.io/github/forks/MrCraniums/CVE-2021-25790-Multiple-Stored-XSS.svg)
 
+## CVE-2021-25770
+
+- [https://github.com/mbadanoiu/CVE-2022-24442](https://github.com/mbadanoiu/CVE-2022-24442) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2022-24442.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2022-24442.svg)
+
 ## CVE-2021-25741
  A security issue was discovered in Kubernetes where a user may be able to create a container with subpath volume mounts to access files & directories outside of the volume, including on the host filesystem.
 
@@ -75070,6 +75129,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/DarkFunct/exp_hub](https://github.com/DarkFunct/exp_hub) : ![starts](https://img.shields.io/github/stars/DarkFunct/exp_hub.svg) ![forks](https://img.shields.io/github/forks/DarkFunct/exp_hub.svg)
 
+- [https://github.com/murataydemir/CVE-2021-21983](https://github.com/murataydemir/CVE-2021-21983) : ![starts](https://img.shields.io/github/stars/murataydemir/CVE-2021-21983.svg) ![forks](https://img.shields.io/github/forks/murataydemir/CVE-2021-21983.svg)
+
 ## CVE-2021-21974
  OpenSLP as used in ESXi (7.0 before ESXi70U1c-17325551, 6.7 before ESXi670-202102401-SG, 6.5 before ESXi650-202102101-SG) has a heap-overflow vulnerability. A malicious actor residing within the same network segment as ESXi who has access to port 427 may be able to trigger the heap-overflow issue in OpenSLP service resulting in remote code execution.
 
@@ -75551,8 +75612,6 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/JiuBanSec/Log4j-CVE-2021-44228](https://github.com/JiuBanSec/Log4j-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/JiuBanSec/Log4j-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/JiuBanSec/Log4j-CVE-2021-44228.svg)
 
-- [https://github.com/KosmX/CVE-2021-44228-example](https://github.com/KosmX/CVE-2021-44228-example) : ![starts](https://img.shields.io/github/stars/KosmX/CVE-2021-44228-example.svg) ![forks](https://img.shields.io/github/forks/KosmX/CVE-2021-44228-example.svg)
-
 - [https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce](https://github.com/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce) : ![starts](https://img.shields.io/github/stars/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce.svg) ![forks](https://img.shields.io/github/forks/M1ngGod/CVE-2021-44228-Log4j-lookup-Rce.svg)
 
 - [https://github.com/Panyaprach/Prove-CVE-2021-44228](https://github.com/Panyaprach/Prove-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/Panyaprach/Prove-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/Panyaprach/Prove-CVE-2021-44228.svg)
@@ -75560,8 +75619,6 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j](https://github.com/VerveIndustrialProtection/CVE-2021-44228-Log4j) : ![starts](https://img.shields.io/github/stars/VerveIndustrialProtection/CVE-2021-44228-Log4j.svg) ![forks](https://img.shields.io/github/forks/VerveIndustrialProtection/CVE-2021-44228-Log4j.svg)
 
 - [https://github.com/alpacamybags118/log4j-cve-2021-44228-sample](https://github.com/alpacamybags118/log4j-cve-2021-44228-sample) : ![starts](https://img.shields.io/github/stars/alpacamybags118/log4j-cve-2021-44228-sample.svg) ![forks](https://img.shields.io/github/forks/alpacamybags118/log4j-cve-2021-44228-sample.svg)
-
-- [https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228](https://github.com/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/anuvindhs/how-to-check-patch-secure-log4j-CVE-2021-44228.svg)
 
 - [https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent](https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent) : ![starts](https://img.shields.io/github/stars/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent.svg) ![forks](https://img.shields.io/github/forks/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent.svg)
 
@@ -75633,8 +75690,6 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 ## CVE-2021-4177
 
-- [https://github.com/12345qwert123456/CVE-2021-41773](https://github.com/12345qwert123456/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/12345qwert123456/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/12345qwert123456/CVE-2021-41773.svg)
-
 - [https://github.com/AzkOsDev/CVE-2021-41773](https://github.com/AzkOsDev/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/AzkOsDev/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/AzkOsDev/CVE-2021-41773.svg)
 
 - [https://github.com/BabyTeam1024/CVE-2021-41773](https://github.com/BabyTeam1024/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/BabyTeam1024/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/BabyTeam1024/CVE-2021-41773.svg)
@@ -75652,8 +75707,6 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/ch4os443/CVE-2021-41773](https://github.com/ch4os443/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/ch4os443/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/ch4os443/CVE-2021-41773.svg)
 
 - [https://github.com/faizdotid/CVE-2021-41773](https://github.com/faizdotid/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/faizdotid/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/faizdotid/CVE-2021-41773.svg)
-
-- [https://github.com/gunzf0x/CVE-2021-41773](https://github.com/gunzf0x/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/gunzf0x/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/gunzf0x/CVE-2021-41773.svg)
 
 - [https://github.com/lucastran05/CVE-2021-41773](https://github.com/lucastran05/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/lucastran05/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/lucastran05/CVE-2021-41773.svg)
 
@@ -75708,6 +75761,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/cuijiung/log4j-CVE-2021-4104](https://github.com/cuijiung/log4j-CVE-2021-4104) : ![starts](https://img.shields.io/github/stars/cuijiung/log4j-CVE-2021-4104.svg) ![forks](https://img.shields.io/github/forks/cuijiung/log4j-CVE-2021-4104.svg)
 
 - [https://github.com/open-AIMS/log4j](https://github.com/open-AIMS/log4j) : ![starts](https://img.shields.io/github/stars/open-AIMS/log4j.svg) ![forks](https://img.shields.io/github/forks/open-AIMS/log4j.svg)
+
+- [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
 
 ## CVE-2021-4045
  TP-Link Tapo C200 IP camera, on its 1.1.15 firmware version and below, is affected by an unauthenticated RCE vulnerability, present in the uhttpd binary running by default as root. The exploitation of this vulnerability allows an attacker to take full control of the camera.
@@ -78346,6 +78401,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/rauc/rauc-1.5-integration](https://github.com/rauc/rauc-1.5-integration) : ![starts](https://img.shields.io/github/stars/rauc/rauc-1.5-integration.svg) ![forks](https://img.shields.io/github/forks/rauc/rauc-1.5-integration.svg)
 
+## CVE-2020-25803
+
+- [https://github.com/mbadanoiu/CVE-2022-40634](https://github.com/mbadanoiu/CVE-2022-40634) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2022-40634.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2022-40634.svg)
+
 ## CVE-2020-25790
  Typesetter CMS 5.x through 5.1 allows admins to upload and execute arbitrary PHP code via a .php file inside a ZIP archive. NOTE: the vendor disputes the significance of this report because "admins are considered trustworthy"; however, the behavior "contradicts our security policy" and is being fixed for 5.2
 
@@ -80116,6 +80175,10 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/ch4rli3kop/CVE-2020-12928](https://github.com/ch4rli3kop/CVE-2020-12928) : ![starts](https://img.shields.io/github/stars/ch4rli3kop/CVE-2020-12928.svg) ![forks](https://img.shields.io/github/forks/ch4rli3kop/CVE-2020-12928.svg)
 
+## CVE-2020-12873
+
+- [https://github.com/mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2023-49964.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2023-49964.svg)
+
 ## CVE-2020-12856
  OpenTrace, as used in COVIDSafe through v1.0.17, TraceTogether, ABTraceTogether, and other applications on iOS and Android, allows remote attackers to conduct long-term re-identification attacks and possibly have unspecified other impact, because of how Bluetooth is used.
 
@@ -80402,6 +80465,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 - [https://github.com/Drew-Alleman/CVE-2020-11651](https://github.com/Drew-Alleman/CVE-2020-11651) : ![starts](https://img.shields.io/github/stars/Drew-Alleman/CVE-2020-11651.svg) ![forks](https://img.shields.io/github/forks/Drew-Alleman/CVE-2020-11651.svg)
 
 - [https://github.com/fanjq99/CVE-2020-11652](https://github.com/fanjq99/CVE-2020-11652) : ![starts](https://img.shields.io/github/stars/fanjq99/CVE-2020-11652.svg) ![forks](https://img.shields.io/github/forks/fanjq99/CVE-2020-11652.svg)
+
+- [https://github.com/0xc0d/CVE-2020-11651](https://github.com/0xc0d/CVE-2020-11651) : ![starts](https://img.shields.io/github/stars/0xc0d/CVE-2020-11651.svg) ![forks](https://img.shields.io/github/forks/0xc0d/CVE-2020-11651.svg)
 
 ## CVE-2020-11651
  An issue was discovered in SaltStack Salt before 2019.2.4 and 3000 before 3000.2. The salt-master process ClearFuncs class does not properly validate method calls. This allows a remote user to access some methods without authentication. These methods can be used to retrieve user tokens from the salt master and/or run arbitrary commands on salt minions.
@@ -85268,6 +85333,8 @@ use after free.
  There is an OS Command Injection in Nexus Repository Manager = 2.14.14 (bypass CVE-2019-5475) that could allow an attacker a Remote Code Execution (RCE). All instances using CommandLineExecutor.java with user-supplied data is vulnerable, such as the Yum Configuration Capability.
 
 - [https://github.com/EXP-Docs/CVE-2019-15588](https://github.com/EXP-Docs/CVE-2019-15588) : ![starts](https://img.shields.io/github/stars/EXP-Docs/CVE-2019-15588.svg) ![forks](https://img.shields.io/github/forks/EXP-Docs/CVE-2019-15588.svg)
+
+- [https://github.com/EXP-Docs/CVE-2019-5475](https://github.com/EXP-Docs/CVE-2019-5475) : ![starts](https://img.shields.io/github/stars/EXP-Docs/CVE-2019-5475.svg) ![forks](https://img.shields.io/github/forks/EXP-Docs/CVE-2019-5475.svg)
 
 ## CVE-2019-15532
  CyberChef before 8.31.2 allows XSS in core/operations/TextEncodingBruteForce.mjs.
@@ -91906,6 +91973,10 @@ The security update addresses the vulnerability by correcting how Hyper-V valida
  An elevation of privilege vulnerability exists in Windows when Desktop Bridge does not properly manage the virtual registry, aka "Windows Desktop Bridge Elevation of Privilege Vulnerability." This affects Windows Server 2016, Windows 10, Windows 10 Servers. This CVE ID is unique from CVE-2018-8208.
 
 - [https://github.com/guwudoor/CVE-2018-8214](https://github.com/guwudoor/CVE-2018-8214) : ![starts](https://img.shields.io/github/stars/guwudoor/CVE-2018-8214.svg) ![forks](https://img.shields.io/github/forks/guwudoor/CVE-2018-8214.svg)
+
+## CVE-2018-8210
+
+- [https://github.com/rip1s/CVE-2018-8120](https://github.com/rip1s/CVE-2018-8120) : ![starts](https://img.shields.io/github/stars/rip1s/CVE-2018-8120.svg) ![forks](https://img.shields.io/github/forks/rip1s/CVE-2018-8120.svg)
 
 ## CVE-2018-8208
  An elevation of privilege vulnerability exists in Windows when Desktop Bridge does not properly manage the virtual registry, aka "Windows Desktop Bridge Elevation of Privilege Vulnerability." This affects Windows Server 2016, Windows 10, Windows 10 Servers. This CVE ID is unique from CVE-2018-8214.
@@ -98729,6 +98800,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 - [https://github.com/readloud/PoC](https://github.com/readloud/PoC) : ![starts](https://img.shields.io/github/stars/readloud/PoC.svg) ![forks](https://img.shields.io/github/forks/readloud/PoC.svg)
 
 - [https://github.com/hamzamalik3461/CVE-2026-20841](https://github.com/hamzamalik3461/CVE-2026-20841) : ![starts](https://img.shields.io/github/stars/hamzamalik3461/CVE-2026-20841.svg) ![forks](https://img.shields.io/github/forks/hamzamalik3461/CVE-2026-20841.svg)
+
+- [https://github.com/404godd/CVE-2026-20841-PoC](https://github.com/404godd/CVE-2026-20841-PoC) : ![starts](https://img.shields.io/github/stars/404godd/CVE-2026-20841-PoC.svg) ![forks](https://img.shields.io/github/forks/404godd/CVE-2026-20841-PoC.svg)
 
 ## CVE-2016-0846
  libs/binder/IMemory.cpp in the IMemory Native Interface in Android 4.x before 4.4.4, 5.0.x before 5.0.2, 5.1.x before 5.1.1, and 6.x before 2016-04-01 does not properly consider the heap size, which allows attackers to gain privileges via a crafted application, as demonstrated by obtaining Signature or SignatureOrSystem access, aka internal bug 26877992.

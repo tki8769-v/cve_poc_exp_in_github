@@ -5163,6 +5163,18 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 - [https://github.com/ReversecLabs/ibm-sterling-b2b-integrator-poc](https://github.com/ReversecLabs/ibm-sterling-b2b-integrator-poc) : ![starts](https://img.shields.io/github/stars/ReversecLabs/ibm-sterling-b2b-integrator-poc.svg) ![forks](https://img.shields.io/github/forks/ReversecLabs/ibm-sterling-b2b-integrator-poc.svg)
 
+## CVE-2024-31851
+
+- [https://github.com/Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) : ![starts](https://img.shields.io/github/stars/Stuub/CVE-2024-31848-PoC.svg) ![forks](https://img.shields.io/github/forks/Stuub/CVE-2024-31848-PoC.svg)
+
+## CVE-2024-31850
+
+- [https://github.com/Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) : ![starts](https://img.shields.io/github/stars/Stuub/CVE-2024-31848-PoC.svg) ![forks](https://img.shields.io/github/forks/Stuub/CVE-2024-31848-PoC.svg)
+
+## CVE-2024-31849
+
+- [https://github.com/Stuub/CVE-2024-31848-PoC](https://github.com/Stuub/CVE-2024-31848-PoC) : ![starts](https://img.shields.io/github/stars/Stuub/CVE-2024-31848-PoC.svg) ![forks](https://img.shields.io/github/forks/Stuub/CVE-2024-31848-PoC.svg)
+
 ## CVE-2024-31848
  A path traversal vulnerability exists in the Java version of CData API Server  23.4.8844 when running using the embedded Jetty server, which could allow an unauthenticated remote attacker to gain complete administrative access to the application.
 
@@ -6435,6 +6447,10 @@ Users are recommended to upgrade to version 1.26, which fixes the issue.
 
 ## CVE-2024-25832
  F-logic DataCube3 v1.0 is vulnerable to unrestricted file upload, which could allow an authenticated malicious actor to upload a file of dangerous type by manipulating the filename extension.
+
+- [https://github.com/0xNslabs/CVE-2024-25832-PoC](https://github.com/0xNslabs/CVE-2024-25832-PoC) : ![starts](https://img.shields.io/github/stars/0xNslabs/CVE-2024-25832-PoC.svg) ![forks](https://img.shields.io/github/forks/0xNslabs/CVE-2024-25832-PoC.svg)
+
+## CVE-2024-25830
 
 - [https://github.com/0xNslabs/CVE-2024-25832-PoC](https://github.com/0xNslabs/CVE-2024-25832-PoC) : ![starts](https://img.shields.io/github/stars/0xNslabs/CVE-2024-25832-PoC.svg) ![forks](https://img.shields.io/github/forks/0xNslabs/CVE-2024-25832-PoC.svg)
 
@@ -7909,6 +7925,8 @@ This vulnerability affects all users using version greater or equal than Node.js
 - [https://github.com/rxwx/pulse-meter](https://github.com/rxwx/pulse-meter) : ![starts](https://img.shields.io/github/stars/rxwx/pulse-meter.svg) ![forks](https://img.shields.io/github/forks/rxwx/pulse-meter.svg)
 
 - [https://github.com/pwniel/ivanti_shell](https://github.com/pwniel/ivanti_shell) : ![starts](https://img.shields.io/github/stars/pwniel/ivanti_shell.svg) ![forks](https://img.shields.io/github/forks/pwniel/ivanti_shell.svg)
+
+- [https://github.com/yoryio/CVE-2023-46805](https://github.com/yoryio/CVE-2023-46805) : ![starts](https://img.shields.io/github/stars/yoryio/CVE-2023-46805.svg) ![forks](https://img.shields.io/github/forks/yoryio/CVE-2023-46805.svg)
 
 ## CVE-2024-21793
  An OData injection vulnerability exists in the BIG-IP Next Central Manager API (URI).  Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
@@ -10570,15 +10588,6 @@ The specific flaw exists within the handling of DNS names. The issue results fro
 
 - [https://github.com/gogo2464/CVE-2024-5124](https://github.com/gogo2464/CVE-2024-5124) : ![starts](https://img.shields.io/github/stars/gogo2464/CVE-2024-5124.svg) ![forks](https://img.shields.io/github/forks/gogo2464/CVE-2024-5124.svg)
 
-## CVE-2024-5096
- A vulnerability classified as problematic was found in Hipcam Device up to 20240511. This vulnerability affects unknown code of the file /log/wifi.mac of the component MAC Address Handler. The manipulation leads to information disclosure. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-265078 is the identifier assigned to this vulnerability. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
-
-- [https://github.com/fdzdev/CVE-2024-50964](https://github.com/fdzdev/CVE-2024-50964) : ![starts](https://img.shields.io/github/stars/fdzdev/CVE-2024-50964.svg) ![forks](https://img.shields.io/github/forks/fdzdev/CVE-2024-50964.svg)
-
-- [https://github.com/fdzdev/CVE-2024-50961](https://github.com/fdzdev/CVE-2024-50961) : ![starts](https://img.shields.io/github/stars/fdzdev/CVE-2024-50961.svg) ![forks](https://img.shields.io/github/forks/fdzdev/CVE-2024-50961.svg)
-
-- [https://github.com/fdzdev/CVE-2024-50962](https://github.com/fdzdev/CVE-2024-50962) : ![starts](https://img.shields.io/github/stars/fdzdev/CVE-2024-50962.svg) ![forks](https://img.shields.io/github/forks/fdzdev/CVE-2024-50962.svg)
-
 ## CVE-2024-5084
  The Hash Form – Drag & Drop Form Builder plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'file_upload_action' function in all versions up to, and including, 1.1.0. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.
 
@@ -12169,11 +12178,6 @@ authentication.   
  The WP Booking Calendar plugin for WordPress is vulnerable to SQL Injection via the 'calendar_request_params[dates_ddmmyy_csv]' parameter in all versions up to, and including, 9.9 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 
 - [https://github.com/sahar042/CVE-2024-1207](https://github.com/sahar042/CVE-2024-1207) : ![starts](https://img.shields.io/github/stars/sahar042/CVE-2024-1207.svg) ![forks](https://img.shields.io/github/forks/sahar042/CVE-2024-1207.svg)
-
-## CVE-2024-1131
- ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.
-
-- [https://github.com/xthalach/CVE-2024-11318](https://github.com/xthalach/CVE-2024-11318) : ![starts](https://img.shields.io/github/stars/xthalach/CVE-2024-11318.svg) ![forks](https://img.shields.io/github/forks/xthalach/CVE-2024-11318.svg)
 
 ## CVE-2024-1112
  Heap-based buffer overflow vulnerability in Resource Hacker, developed by Angus Johnson, affecting version 3.6.0.92. This vulnerability could allow an attacker to execute arbitrary code via a long filename argument.

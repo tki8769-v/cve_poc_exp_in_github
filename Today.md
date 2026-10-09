@@ -65,6 +65,11 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 - [https://github.com/ApexBreach/CVE-2026-107406-Poc](https://github.com/ApexBreach/CVE-2026-107406-Poc) : ![starts](https://img.shields.io/github/stars/ApexBreach/CVE-2026-107406-Poc.svg) ![forks](https://img.shields.io/github/forks/ApexBreach/CVE-2026-107406-Poc.svg)
 - [https://github.com/techupdate24/citrix-netscaler-rce-cve-2026-107406](https://github.com/techupdate24/citrix-netscaler-rce-cve-2026-107406) : ![starts](https://img.shields.io/github/stars/techupdate24/citrix-netscaler-rce-cve-2026-107406.svg) ![forks](https://img.shields.io/github/forks/techupdate24/citrix-netscaler-rce-cve-2026-107406.svg)
 
+## CVE-2026-21589
+> This is a vulnerability in Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center. Crowd Data Center, Crucible and Fisheye. This Arbitrary File Access vulnerability allows an unauthenticated attacker to access specific files within the web application root directory in affected versions. Exploitation requires prior knowledge of the target file&#x27;s exact name and path; this vulnerability does not allow attackers to enumerate
+
+- [https://github.com/gotr00t0day/CVE-2026-21589](https://github.com/gotr00t0day/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/gotr00t0day/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/gotr00t0day/CVE-2026-21589.svg)
+
 ## CVE-2026-24046
 
 - [https://github.com/Rem1L/cve-2026-24046-poc](https://github.com/Rem1L/cve-2026-24046-poc) : ![starts](https://img.shields.io/github/stars/Rem1L/cve-2026-24046-poc.svg) ![forks](https://img.shields.io/github/forks/Rem1L/cve-2026-24046-poc.svg)
@@ -79,7 +84,9 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 ## CVE-2026-43499
 
+- [https://github.com/cyrrp/honor90-ghostlock](https://github.com/cyrrp/honor90-ghostlock) : ![starts](https://img.shields.io/github/stars/cyrrp/honor90-ghostlock.svg) ![forks](https://img.shields.io/github/forks/cyrrp/honor90-ghostlock.svg)
 - [https://github.com/d16ug-a1l/REDMI_Root](https://github.com/d16ug-a1l/REDMI_Root) : ![starts](https://img.shields.io/github/stars/d16ug-a1l/REDMI_Root.svg) ![forks](https://img.shields.io/github/forks/d16ug-a1l/REDMI_Root.svg)
+- [https://github.com/tingao/debian-on-s23-ultra](https://github.com/tingao/debian-on-s23-ultra) : ![starts](https://img.shields.io/github/stars/tingao/debian-on-s23-ultra.svg) ![forks](https://img.shields.io/github/forks/tingao/debian-on-s23-ultra.svg)
 - [https://github.com/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N](https://github.com/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N) : ![starts](https://img.shields.io/github/stars/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N.svg) ![forks](https://img.shields.io/github/forks/zimza1abim/Root-My-Galaxy-Payloads-SM-S928N.svg)
 
 ## CVE-2026-50055
@@ -90,6 +97,10 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 ## CVE-2026-64560
 
 - [https://github.com/sangsheng2026/honor-90gt-mag-an00-root-research](https://github.com/sangsheng2026/honor-90gt-mag-an00-root-research) : ![starts](https://img.shields.io/github/stars/sangsheng2026/honor-90gt-mag-an00-root-research.svg) ![forks](https://img.shields.io/github/forks/sangsheng2026/honor-90gt-mag-an00-root-research.svg)
+
+## CVE-2026-64561
+
+- [https://github.com/suominen/zapscape](https://github.com/suominen/zapscape) : ![starts](https://img.shields.io/github/stars/suominen/zapscape.svg) ![forks](https://img.shields.io/github/forks/suominen/zapscape.svg)
 
 ## CVE-2026-80428
 > ILIAS before versions 9.22, 10.10, and 11.3 contains an unauthenticated PHP object injection vulnerability that allows unauthenticated attackers to execute arbitrary code by injecting serialized objects through the LTI authentication endpoint and triggering deserialization via the Shibboleth back-channel logout endpoint. Attackers can write arbitrary serialized objects into session storage, then exploit an available POP gadget through the logout endpoint&#x27;s unrestricted deserialization to write a
