@@ -913,6 +913,11 @@ The default is governance.auth_config.is_enabled=false. Auth off means every cal
 
 - [https://github.com/uziii2208/CVE-2026-88899](https://github.com/uziii2208/CVE-2026-88899) : ![starts](https://img.shields.io/github/stars/uziii2208/CVE-2026-88899.svg) ![forks](https://img.shields.io/github/forks/uziii2208/CVE-2026-88899.svg)
 
+## CVE-2026-88877
+> Traefik is a HTTP reverse proxy and load balancer. In versions &gt;= v3.7.0 and &lt;= v3.7.11, the Kubernetes ingress-nginx provider mishandles Ingresses that carry both an authentication annotation and the nginx.ingress.kubernetes.io/from-to-www-redirect annotation. For such Ingresses the provider creates an additional &#x27;sibling&#x27; router that matches on the host alone, carries only the RedirectRegex middleware, and still points at the parent router&#x27;s protected backend service. Because RedirectRegex is 
+
+- [https://github.com/pwnVader/CVE-2026-88877-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-88877-PoC-pwnVader) : ![starts](https://img.shields.io/github/stars/pwnVader/CVE-2026-88877-PoC-pwnVader.svg) ![forks](https://img.shields.io/github/forks/pwnVader/CVE-2026-88877-PoC-pwnVader.svg)
+
 ## CVE-2026-88861
  Capgo (Cap-go/capgo.app) contains an authentication bypass affecting all versions (no patched version available at time of publication). The Edge authorization path allows a password-only Supabase aal1 session to exercise privileged RBAC permissions even when the account has a verified MFA factor that has not been used for the session: the Edge JWT middleware (foundJWT() in supabase/functions/_backend/utils/hono_middleware.ts) accepts the JWT without validating its assurance level, and the direct RBAC path (checkPermission()/checkPermissionPg() in supabase/functions/_backend/utils/rbac.ts calling public.rbac_check_permission_direct()) authorizes by user ID without passing or checking the session aal, unlike the public.verify_mfa() control which correctly requires aal2. An attacker who knows only the victim's password can therefore authenticate, mint a persistent app-scoped app_admin API key that remains valid after the aal1 session is logged out, and perform privileged operations such as modifying production OTA channel configurations (validated by changing a public production channel from bundle 1.0.0 to 1.0.1), defeating the protection provided by MFA.
 

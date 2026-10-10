@@ -37,6 +37,10 @@
 - [https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project](https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project) : ![starts](https://img.shields.io/github/stars/Developer-Dynamo/cs50-cybersecurity-final-project.svg) ![forks](https://img.shields.io/github/forks/Developer-Dynamo/cs50-cybersecurity-final-project.svg)
 - [https://github.com/sajanapamuditha/Cyber-Attack-Simulation-](https://github.com/sajanapamuditha/Cyber-Attack-Simulation-) : ![starts](https://img.shields.io/github/stars/sajanapamuditha/Cyber-Attack-Simulation-.svg) ![forks](https://img.shields.io/github/forks/sajanapamuditha/Cyber-Attack-Simulation-.svg)
 
+## CVE-2023-32233
+
+- [https://github.com/adeadukagi/CVE-2023-32233-reproduction](https://github.com/adeadukagi/CVE-2023-32233-reproduction) : ![starts](https://img.shields.io/github/stars/adeadukagi/CVE-2023-32233-reproduction.svg) ![forks](https://img.shields.io/github/forks/adeadukagi/CVE-2023-32233-reproduction.svg)
+
 ## CVE-2023-49496
 
 - [https://github.com/HuangYanQwQ/CVE-2023-49496_PoC](https://github.com/HuangYanQwQ/CVE-2023-49496_PoC) : ![starts](https://img.shields.io/github/stars/HuangYanQwQ/CVE-2023-49496_PoC.svg) ![forks](https://img.shields.io/github/forks/HuangYanQwQ/CVE-2023-49496_PoC.svg)
@@ -61,6 +65,10 @@
 ## CVE-2025-32432
 
 - [https://github.com/Si13NTTT/CVE-2025-32432](https://github.com/Si13NTTT/CVE-2025-32432) : ![starts](https://img.shields.io/github/stars/Si13NTTT/CVE-2025-32432.svg) ![forks](https://img.shields.io/github/forks/Si13NTTT/CVE-2025-32432.svg)
+
+## CVE-2025-49144
+
+- [https://github.com/GiZcesi/HJregsvr32](https://github.com/GiZcesi/HJregsvr32) : ![starts](https://img.shields.io/github/stars/GiZcesi/HJregsvr32.svg) ![forks](https://img.shields.io/github/forks/GiZcesi/HJregsvr32.svg)
 
 ## CVE-2025-68664
 
@@ -168,6 +176,11 @@
 > The Bricksforge plugin for WordPress is vulnerable to unauthenticated arbitrary file upload in versions up to, and including, 3.1.8.9. This is due to insufficient validation of the attacker-controlled URL field in the &#x27;temporaryFileUploads&#x27; parameter during form submission. An unauthenticated attacker can first obtain a valid nonce via the bricksforge_regenerate_nonce AJAX endpoint, then upload a GIF/PHP polyglot file to the temporary upload directory where MIME type validation is correctly perf
 
 - [https://github.com/Wayang1337/CVE-2026-85097](https://github.com/Wayang1337/CVE-2026-85097) : ![starts](https://img.shields.io/github/stars/Wayang1337/CVE-2026-85097.svg) ![forks](https://img.shields.io/github/forks/Wayang1337/CVE-2026-85097.svg)
+
+## CVE-2026-88877
+> Traefik is a HTTP reverse proxy and load balancer. In versions &gt;= v3.7.0 and &lt;= v3.7.11, the Kubernetes ingress-nginx provider mishandles Ingresses that carry both an authentication annotation and the nginx.ingress.kubernetes.io/from-to-www-redirect annotation. For such Ingresses the provider creates an additional &#x27;sibling&#x27; router that matches on the host alone, carries only the RedirectRegex middleware, and still points at the parent router&#x27;s protected backend service. Because RedirectRegex is 
+
+- [https://github.com/pwnVader/CVE-2026-88877-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-88877-PoC-pwnVader) : ![starts](https://img.shields.io/github/stars/pwnVader/CVE-2026-88877-PoC-pwnVader.svg) ![forks](https://img.shields.io/github/forks/pwnVader/CVE-2026-88877-PoC-pwnVader.svg)
 
 ## CVE-2026-93687
 > braces through 3.0.3 contains a stack overflow vulnerability in the recursive AST walkers that lack depth guards. Attackers can supply deeply nested brace patterns under the character limit to exhaust the call stack and terminate the Node.js process with an uncaught RangeError.

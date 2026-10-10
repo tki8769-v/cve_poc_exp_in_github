@@ -914,6 +914,11 @@ The default is governance.auth_config.is_enabled=false. Auth off means every cal
 
 - [https://github.com/uziii2208/CVE-2026-88899](https://github.com/uziii2208/CVE-2026-88899) : ![starts](https://img.shields.io/github/stars/uziii2208/CVE-2026-88899.svg) ![forks](https://img.shields.io/github/forks/uziii2208/CVE-2026-88899.svg)
 
+## CVE-2026-88877
+> Traefik is a HTTP reverse proxy and load balancer. In versions &gt;= v3.7.0 and &lt;= v3.7.11, the Kubernetes ingress-nginx provider mishandles Ingresses that carry both an authentication annotation and the nginx.ingress.kubernetes.io/from-to-www-redirect annotation. For such Ingresses the provider creates an additional &#x27;sibling&#x27; router that matches on the host alone, carries only the RedirectRegex middleware, and still points at the parent router&#x27;s protected backend service. Because RedirectRegex is 
+
+- [https://github.com/pwnVader/CVE-2026-88877-PoC-pwnVader](https://github.com/pwnVader/CVE-2026-88877-PoC-pwnVader) : ![starts](https://img.shields.io/github/stars/pwnVader/CVE-2026-88877-PoC-pwnVader.svg) ![forks](https://img.shields.io/github/forks/pwnVader/CVE-2026-88877-PoC-pwnVader.svg)
+
 ## CVE-2026-88861
  Capgo (Cap-go/capgo.app) contains an authentication bypass affecting all versions (no patched version available at time of publication). The Edge authorization path allows a password-only Supabase aal1 session to exercise privileged RBAC permissions even when the account has a verified MFA factor that has not been used for the session: the Edge JWT middleware (foundJWT() in supabase/functions/_backend/utils/hono_middleware.ts) accepts the JWT without validating its assurance level, and the direct RBAC path (checkPermission()/checkPermissionPg() in supabase/functions/_backend/utils/rbac.ts calling public.rbac_check_permission_direct()) authorizes by user ID without passing or checking the session aal, unlike the public.verify_mfa() control which correctly requires aal2. An attacker who knows only the victim's password can therefore authenticate, mint a persistent app-scoped app_admin API key that remains valid after the aal1 session is logged out, and perform privileged operations such as modifying production OTA channel configurations (validated by changing a public production channel from bundle 1.0.0 to 1.0.1), defeating the protection provided by MFA.
 
@@ -27421,6 +27426,8 @@ Users are recommended to upgrade to version 11.0.9, 10.1.43 or 9.0.107, which fi
 - [https://github.com/havertz2110/CVE-2025-49144-PoC](https://github.com/havertz2110/CVE-2025-49144-PoC) : ![starts](https://img.shields.io/github/stars/havertz2110/CVE-2025-49144-PoC.svg) ![forks](https://img.shields.io/github/forks/havertz2110/CVE-2025-49144-PoC.svg)
 
 - [https://github.com/assad12341/notepad-v8.8.1-LPE-CVE-](https://github.com/assad12341/notepad-v8.8.1-LPE-CVE-) : ![starts](https://img.shields.io/github/stars/assad12341/notepad-v8.8.1-LPE-CVE-.svg) ![forks](https://img.shields.io/github/forks/assad12341/notepad-v8.8.1-LPE-CVE-.svg)
+
+- [https://github.com/GiZcesi/HJregsvr32](https://github.com/GiZcesi/HJregsvr32) : ![starts](https://img.shields.io/github/stars/GiZcesi/HJregsvr32.svg) ![forks](https://img.shields.io/github/forks/GiZcesi/HJregsvr32.svg)
 
 ## CVE-2025-49132
  Pterodactyl is a free, open-source game server management panel. Prior to version 1.11.11, using the /locales/locale.json with the locale and namespace query parameters, a malicious actor is able to execute arbitrary code without being authenticated. With the ability to execute arbitrary code it could be used to gain access to the Panel's server, read credentials from the Panel's config, extract sensitive information from the database, access files of servers managed by the panel, etc. This issue has been patched in version 1.11.11. There are no software workarounds for this vulnerability, but use of an external Web Application Firewall (WAF) could help mitigate this attack.
@@ -55053,6 +55060,8 @@ Fixed in version 6.4.1.
 - [https://github.com/BurnSkyup/CVE-2023-32233-reproduction](https://github.com/BurnSkyup/CVE-2023-32233-reproduction) : ![starts](https://img.shields.io/github/stars/BurnSkyup/CVE-2023-32233-reproduction.svg) ![forks](https://img.shields.io/github/forks/BurnSkyup/CVE-2023-32233-reproduction.svg)
 
 - [https://github.com/Destawell/gemini-2.5-pro-nf-tables-red-teamin](https://github.com/Destawell/gemini-2.5-pro-nf-tables-red-teamin) : ![starts](https://img.shields.io/github/stars/Destawell/gemini-2.5-pro-nf-tables-red-teamin.svg) ![forks](https://img.shields.io/github/forks/Destawell/gemini-2.5-pro-nf-tables-red-teamin.svg)
+
+- [https://github.com/adeadukagi/CVE-2023-32233-reproduction](https://github.com/adeadukagi/CVE-2023-32233-reproduction) : ![starts](https://img.shields.io/github/stars/adeadukagi/CVE-2023-32233-reproduction.svg) ![forks](https://img.shields.io/github/forks/adeadukagi/CVE-2023-32233-reproduction.svg)
 
 ## CVE-2023-32174
  Unified Automation UaGateway NodeManagerOpcUa Use-After-Free Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Unified Automation UaGateway. Authentication is required to exploit this vulnerability when the product is in its default configuration.
