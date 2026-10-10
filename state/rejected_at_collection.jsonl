@@ -549,3 +549,4 @@
 {"cve_id": "CVE-2026-3143", "reason": "prefix_conflict_evidenced", "ts": "2026-10-10T07:31:34Z", "url": "https://github.com/YuCc777/Copy-Fail-CVE-2026-31431-Linux-exp-tools-C-EXP", "url_ids": ["CVE-2026-31431"]}
 {"cve_id": "CVE-2026-3143", "reason": "prefix_conflict_evidenced", "ts": "2026-10-10T07:31:34Z", "url": "https://github.com/iblamenear/CVE-2026-31431-Copy-Fail---Advanced-LPE-Proof-of-Concept---C-Rewrite", "url_ids": ["CVE-2026-31431"]}
 {"cve_id": "CVE-2022-4140", "reason": "prefix_conflict_evidenced", "ts": "2026-10-10T07:33:41Z", "url": "https://github.com/fdjy1234/CVE-2022-41404-DoS-Protection", "url_ids": ["CVE-2022-41404"]}
+{"cve_id": "CVE-2022-3721", "reason": "prefix_conflict_evidenced", "ts": "2026-10-10T15:32:19Z", "url": "https://github.com/AgainstTheLight/CVE-2022-37210", "url_ids": ["CVE-2022-37210"]}

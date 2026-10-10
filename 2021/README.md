@@ -1960,6 +1960,10 @@
 
 - [https://github.com/z00z00z00/Safenet_SAC_CVE-2021-42056](https://github.com/z00z00z00/Safenet_SAC_CVE-2021-42056) : ![starts](https://img.shields.io/github/stars/z00z00z00/Safenet_SAC_CVE-2021-42056.svg) ![forks](https://img.shields.io/github/forks/z00z00z00/Safenet_SAC_CVE-2021-42056.svg)
 
+## CVE-2021-42023
+
+- [https://github.com/Geeoon/ModelSim-Decryptor](https://github.com/Geeoon/ModelSim-Decryptor) : ![starts](https://img.shields.io/github/stars/Geeoon/ModelSim-Decryptor.svg) ![forks](https://img.shields.io/github/forks/Geeoon/ModelSim-Decryptor.svg)
+
 ## CVE-2021-42013
  It was found that the fix for CVE-2021-41773 in Apache HTTP Server 2.4.50 was insufficient. An attacker could use a path traversal attack to map URLs to files outside the directories configured by Alias-like directives. If files outside of these directories are not protected by the usual default configuration "require all denied", these requests can succeed. If CGI scripts are also enabled for these aliased pathes, this could allow for remote code execution. This issue only affects Apache 2.4.49 and Apache 2.4.50 and not earlier versions.
 

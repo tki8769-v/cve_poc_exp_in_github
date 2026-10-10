@@ -1,3 +1,8 @@
+## CVE-2026-107806
+> Nginx UI is a web user interface for the Nginx web server. From 2.3.8 until 2.5.0, an authenticated administrator with an active secure session can submit attacker-controlled portable backup key material and a matching manifest to POST /api/restore. The restore flow trusts the supplied key, decrypts attacker-controlled contents, and replaces the live app.ini, including protected nginx command settings such as TestConfigCmd. Triggering POST /api/nginx/test then executes the restored command in th
+
+- [https://github.com/murrez/CVE-2026-107806](https://github.com/murrez/CVE-2026-107806) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-107806.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-107806.svg)
+
 ## CVE-2026-107406
 > Memory overflow vulnerability leading to Remote Code Execution or Denial of Service Vulnerability in NetScaler ADC.
 
@@ -28,6 +33,11 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 ## CVE-2026-106610
 
 - [https://github.com/KevineCharles/CVE-2026-106610-miniorange-otp-ato](https://github.com/KevineCharles/CVE-2026-106610-miniorange-otp-ato) : ![starts](https://img.shields.io/github/stars/KevineCharles/CVE-2026-106610-miniorange-otp-ato.svg) ![forks](https://img.shields.io/github/forks/KevineCharles/CVE-2026-106610-miniorange-otp-ato.svg)
+
+## CVE-2026-106445
+> Handlebars provides the power necessary to let users build semantic templates. From 4.0.0 until 4.7.10, Handlebars lookupProperty returns Function.prototype.constructor before applying the prototype-access deny list because constructor is an own property of Function.prototype. When an attacker can render a controlled template with allowProtoMethodsByDefault enabled and an accessible function in the template context, the template can traverse from that function through its prototype to Function.p
+
+- [https://github.com/murrez/CVE-2026-106445](https://github.com/murrez/CVE-2026-106445) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-106445.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-106445.svg)
 
 ## CVE-2026-105844
 > Payload is a free and open source headless content management system. In versions from 3.0.0 before 3.88.0 and canary versions before 4.0.0-canary.27, an unauthenticated user can submit prototype-sensitive field paths when @payloadcms/plugin-import-export is enabled, causing unintended application behavior that can lead to remote code execution. This issue is fixed in versions 3.88.0 and 4.0.0-canary.27.
@@ -148,6 +158,11 @@ To remediate this issue, users should upgrade to version 1.6.1 o
 
 - [https://github.com/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation](https://github.com/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation) : ![starts](https://img.shields.io/github/stars/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation.svg) ![forks](https://img.shields.io/github/forks/anoxhunterdump-ctrl/CVE-2026-103752-Authorizer-Privilege-Escalation.svg)
 
+## CVE-2026-103690
+> A flaw has been found in itsourcecode Leave Management System 1.0. This vulnerability affects unknown code of the file /module/leave/controller.php. Executing a manipulation of the argument LEAVEID can lead to sql injection. The attack may be performed from remote. The exploit has been published and may be used.
+
+- [https://github.com/Masuer-mengxing/CVE-2026-103690](https://github.com/Masuer-mengxing/CVE-2026-103690) : ![starts](https://img.shields.io/github/stars/Masuer-mengxing/CVE-2026-103690.svg) ![forks](https://img.shields.io/github/forks/Masuer-mengxing/CVE-2026-103690.svg)
+
 ## CVE-2026-103648
 > Path traversal in image-downloader 4.3.0 allows an attacker who can control the download URL to cause downloaded response data to be written outside the configured destination directory.
 
@@ -237,6 +252,11 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 - [https://github.com/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce](https://github.com/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce) : ![starts](https://img.shields.io/github/stars/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce.svg) ![forks](https://img.shields.io/github/forks/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce.svg)
 
 - [https://github.com/horizon3ai/CVE-2026-102489](https://github.com/horizon3ai/CVE-2026-102489) : ![starts](https://img.shields.io/github/stars/horizon3ai/CVE-2026-102489.svg) ![forks](https://img.shields.io/github/forks/horizon3ai/CVE-2026-102489.svg)
+
+## CVE-2026-102428
+> Joomla Extension - ordasoft.com - Unauthenticated SQL injection in OrdaSoft Joomla CCK &lt; 8.3.16 - The order column for records was user provided and not properly validated, leading to a SQL injection vector.
+
+- [https://github.com/murrez/CVE-2026-102428](https://github.com/murrez/CVE-2026-102428) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-102428.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-102428.svg)
 
 ## CVE-2026-102427
 > Joomla Extension - ordasoft.com - Unauthenticated Remote Code Execution in OrdaSoft Joomla CCK &lt; 8.3.16 - site/uploader.php is reached through the component’s normal frontend routing (task=getContent), a task with no authentication or ACL check anywhere in the dispatch chain. The handler validates the uploaded file’s content with a real magic-byte MIME check, but the extension allow-list that would otherwise restrict the saved file’s extension was present in the source and commented out. The sav
@@ -16436,6 +16456,8 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 - [https://github.com/renzi25031469/CVE-2026-21589](https://github.com/renzi25031469/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/renzi25031469/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/renzi25031469/CVE-2026-21589.svg)
 
 - [https://github.com/gotr00t0day/CVE-2026-21589](https://github.com/gotr00t0day/CVE-2026-21589) : ![starts](https://img.shields.io/github/stars/gotr00t0day/CVE-2026-21589.svg) ![forks](https://img.shields.io/github/forks/gotr00t0day/CVE-2026-21589.svg)
+
+- [https://github.com/webserverdude/f5_CVE-2026-21589_mitigation](https://github.com/webserverdude/f5_CVE-2026-21589_mitigation) : ![starts](https://img.shields.io/github/stars/webserverdude/f5_CVE-2026-21589_mitigation.svg) ![forks](https://img.shields.io/github/forks/webserverdude/f5_CVE-2026-21589_mitigation.svg)
 
 ## CVE-2026-21533
  Improper privilege management in Windows Remote Desktop allows an authorized attacker to elevate privileges locally.

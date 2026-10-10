@@ -2304,3 +2304,9 @@
 {"cve_id": "CVE-2026-43284", "ts": "2026-10-10T07:23:32Z", "type": "new_poc", "url": "https://github.com/mhdnihan/CVE-2026-43284-DIRTY-FRAG-"}
 {"cve_id": "CVE-2026-3143", "ts": "2026-10-10T07:31:34Z", "type": "new_poc", "url": "https://github.com/ClimbMunchkin/fix-cve-2026-3143"}
 {"cve_id": "CVE-2026-34220", "ts": "2026-10-10T07:39:36Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-34220"}
+{"cve_id": "CVE-2021-42023", "ts": "2026-10-10T15:25:58Z", "type": "new_poc", "url": "https://github.com/Geeoon/ModelSim-Decryptor"}
+{"cve_id": "CVE-2026-106445", "ts": "2026-10-10T15:25:58Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-106445"}
+{"cve_id": "CVE-2026-107806", "ts": "2026-10-10T15:25:58Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-107806"}
+{"cve_id": "CVE-2026-102428", "ts": "2026-10-10T15:25:58Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-102428"}
+{"cve_id": "CVE-2026-103690", "ts": "2026-10-10T15:25:58Z", "type": "new_poc", "url": "https://github.com/Masuer-mengxing/CVE-2026-103690"}
+{"cve_id": "CVE-2026-21589", "ts": "2026-10-10T15:25:58Z", "type": "new_poc", "url": "https://github.com/webserverdude/f5_CVE-2026-21589_mitigation"}
