@@ -45,6 +45,17 @@ def main(argv: list[str] | None = None) -> int:
     parser_discover.add_argument("--dry-run", action="store_true",
                                  help="只读模式：不写关系/事件/任务/游标")
 
+    parser_pushed = sub.add_parser(
+        "pushed", help="仓库侧 pushed 增量通道：近期有推送且元数据含 CVE 线索的仓库（阶段 2B）")
+    parser_pushed.add_argument("--dry-run", action="store_true",
+                               help="只读模式：不写关系/事件/游标")
+    parser_pushed.add_argument("--budget-minutes", type=float, default=None)
+
+    parser_refs = sub.add_parser(
+        "refs", help="官方 CNA/ADP 引用候选：小预算取证处理（阶段 2A）")
+    parser_refs.add_argument("--limit", type=int, default=30)
+    parser_refs.add_argument("--budget-minutes", type=float, default=None)
+
     parser_daily = sub.add_parser(
         "daily", help="单命令编排一轮：sync→scan→backfill→recheck→apply→render→verify")
     parser_daily.add_argument("--scan-requests", type=int, default=300)
@@ -184,6 +195,35 @@ def main(argv: list[str] | None = None) -> int:
               + ("（不完整，游标未推进，下轮重试）" if not stats["complete"] else ""))
         return 0
 
+    if args.command == "pushed":
+        from .ghsearch import Budget
+        from .pushed_watch import discover_pushed
+
+        budget = (Budget(max_seconds=args.budget_minutes * 60)
+                  if args.budget_minutes is not None else None)
+        stats = discover_pushed(GitHubClient(), root, dry_run=args.dry_run, budget=budget)
+        print(f"pushed 完成{' (dry-run)' if args.dry_run else ''}: "
+              f"window={stats['window']}, repos_seen={stats['repos_seen']}, "
+              f"new_relations={stats['new_relations']}, accepted_existing={stats['accepted_existing']}, "
+              f"windows_done={stats['windows_done']}, splits={stats['splits']}, "
+              f"pending={stats['windows_pending']}, unresolved={stats['unresolved_total']}"
+              + ("（未完成，游标未推进）" if stats["stop_reason"] else ""))
+        return 0
+
+    if args.command == "refs":
+        from .ghsearch import Budget
+        from .refs import process_official_refs
+
+        budget = (Budget(max_seconds=args.budget_minutes * 60)
+                  if args.budget_minutes is not None else None)
+        stats = process_official_refs(GitHubClient(), root, limit=args.limit, budget=budget)
+        print(f"refs 完成: pending={stats['pending_before']}->{stats['pending_after']}, "
+              f"processed={stats['processed']}, accepted={stats['accepted']}, "
+              f"kept_for_review={stats['kept_for_review']}, "
+              f"patchlike_deferred={stats['patchlike_skipped']}"
+              + (f"，提前停止: {stats['stop_reason']}" if stats["stop_reason"] else ""))
+        return 0
+
     if args.command == "daily":
         from .pipeline import daily
 
@@ -196,9 +236,13 @@ def main(argv: list[str] | None = None) -> int:
             time_budget_minutes=args.time_budget_minutes,
         )
         steps = summary["steps"]
+        pushed = steps.get("repo_pushed", {})
+        refs = steps.get("official_refs", {})
         print(f"daily 完成 ({summary['ts']}): "
               f"sync new_tasks={steps['sync']['new_tasks']}, "
               f"repo_watch hit={steps['repo_watch']['cves_hit']} new={steps['repo_watch']['new_relations']}, "
+              f"pushed new={pushed.get('new_relations')} pending_windows={pushed.get('windows_pending')}, "
+              f"refs accepted={refs.get('accepted')} pending={refs.get('pending_after')}, "
               f"scan scanned={steps['scan']['scanned']} new_relations={steps['scan']['new_relations']}, "
               f"backfill fetched={steps['backfill_conflicts']['fetched'] + steps['backfill_queue']['fetched']}, "
               f"apply rejected={steps['clean_apply'].get('applied_rejected', 0)}, "

@@ -40,14 +40,17 @@ def _shard_path(root: Path, year: str) -> Path:
 
 
 def merge_accepted(root: Path, cve_id: str, url: str, item: dict,
-                   verdict=None) -> bool:
+                   verdict=None, source: str = "github_search",
+                   extra: dict | None = None) -> bool:
     """合并一条 accepted 关系。返回 True 表示新增（首次发现）。
 
     - 跨通道去重：legacy 分片已有同键时不重复建关系/事件；
     - 墓碑恢复（评审 R5）：legacy 同键已被自动 rejected 而本轮取到
       accepted 证据（新描述等）→ 回退 needs_review 等待复核，不让
       同键去重吞掉新证据；
-    - H5：verdict 提供时持久化接受原因与证据编号/时间，可追溯可重审。
+    - H5：verdict 提供时持久化接受原因与证据编号/时间，可追溯可重审；
+    - 阶段 2：source 标注发现通道（github_search/github_pushed/
+      official_reference），extra 附加通道专属证据（如官方引用原文）。
     """
     year = cve_id.split("-")[1]
     legacy_path = state_mod.state_dir(root) / "relations" / f"{year}.jsonl"
@@ -85,7 +88,7 @@ def merge_accepted(root: Path, cve_id: str, url: str, item: dict,
         "url": url,
         "owner": owner,
         "repo": repo,
-        "source": "github_search",
+        "source": source,
         "verification": ACCEPTED,
         "first_seen_at": state_mod.now_iso(),
         "stars": item.get("stargazers_count"),
@@ -99,6 +102,8 @@ def merge_accepted(root: Path, cve_id: str, url: str, item: dict,
             "accepted_evidence_ids": sorted(verdict.evidence_ids),
             "accepted_at": state_mod.now_iso(),
         })
+    if extra:
+        accepted.update(extra)
     existing.append(accepted)
     existing.sort(key=lambda r: (r["cve_id"], r["url"]))
     state_mod.write_jsonl(path, existing)

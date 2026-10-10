@@ -102,8 +102,9 @@ def test_daily_end_to_end(tmp_path: Path):
     assert steps["verify"]["ok"] is True
     last_run = state_mod.read_json(state_mod.state_dir(root) / "last_run.json")
     assert last_run["ok"] is True
-    # 仓库侧窗口查询 3 次（首跑回看 3 天）+ CVE 定向搜索 1 次
-    assert client.search_calls == 4
+    # 仓库侧 created 窗口 3 次（首跑回看 3 天）+ CVE 定向搜索 1 次
+    # + pushed 通道窗口 3 次（首跑回看 2 天，阶段 2B）
+    assert client.search_calls == 7
 
 
 def test_daily_idempotent_rerun(tmp_path: Path):

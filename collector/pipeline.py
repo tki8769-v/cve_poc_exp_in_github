@@ -29,10 +29,13 @@ __all__ = ["daily"]
 
 META_REFRESH_DAYS = 30  # 冲突仓库元数据缓存过期（墓碑重审需要新描述，R5/R11）
 
-# P1.2：前置阶段不得吃光整轮预算——sync 与 repo_watch 各设独立份额上限，
-# 保证 scan/backfill 每轮必有执行机会（防"整条流水线饿死"，评审校正 4）
-SYNC_STAGE_SHARE = 0.30
-DISCOVER_STAGE_SHARE = 0.30
+# P1.2：前置阶段不得吃光整轮预算——各发现阶段设独立份额上限，保证
+# scan/backfill 每轮必有执行机会（防"整条流水线饿死"，评审校正 4）。
+# 阶段 2 加入 pushed 通道与官方引用取证后重平衡：发现类合计 50%。
+SYNC_STAGE_SHARE = 0.15
+DISCOVER_STAGE_SHARE = 0.20
+PUSHED_STAGE_SHARE = 0.20
+OFFICIAL_REFS_SHARE = 0.10
 
 
 def daily(
@@ -91,6 +94,12 @@ def daily(
             client, root, budget=capped_budget(SYNC_STAGE_SHARE)))
         steps["repo_watch"] = _stage("repo_watch", lambda: discover(
             client, root, budget=capped_budget(DISCOVER_STAGE_SHARE)))
+        from .pushed_watch import discover_pushed
+        from .refs import process_official_refs
+        steps["repo_pushed"] = _stage("repo_pushed", lambda: discover_pushed(
+            client, root, budget=capped_budget(PUSHED_STAGE_SHARE)))
+        steps["official_refs"] = _stage("official_refs", lambda: process_official_refs(
+            client, root, budget=capped_budget(OFFICIAL_REFS_SHARE)))
 
         scan_time = stage_seconds(scan_minutes)
         steps["scan"] = _stage("scan", lambda: scan(

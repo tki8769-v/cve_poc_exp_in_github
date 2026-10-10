@@ -29,7 +29,7 @@ from .ghsearch import Budget
 from .parse import extract_cve_ids, is_valid_cve_id
 from .scan import merge_accepted
 
-__all__ = ["discover"]
+__all__ = ["discover", "process_repo_items"]
 
 CURSOR_FILE = "repo_watch_cursor.json"
 QUERY_TEMPLATE = "CVE in:name,description created:{start}..{end}"
@@ -52,6 +52,64 @@ def _load_cursor(root: Path) -> dict:
                                default={"last_date": None, "partial_days": []})
 
 
+def process_repo_items(root: Path, items: list, stats: dict, *,
+                       dry_run: bool = False, source: str = "github_search",
+                       blacklist: list | None = None) -> set[str]:
+    """仓库搜索结果的统一归属判定与合并（阶段 2：created/pushed 通道共用）。
+
+    返回命中的合法 CVE 集合；统计沿用 created 通道口径，另计
+    accepted_existing（重复命中已收录关系）供渠道成本核算。
+    """
+    if blacklist is None:
+        blacklist = load_blacklist(root)
+    hits: set[str] = set()
+    for item in items:
+        url = item.get("html_url") or ""
+        if not url:
+            continue
+        if is_blocked(url, blacklist):
+            stats["blocked"] += 1
+            continue
+        description = item.get("description") or ""
+        topics = " ".join(item.get("topics") or [])
+        ids = extract_cve_ids(item.get("name") or "", description, topics)
+        if not ids:
+            continue  # 仓库无编号线索（如仅 README 提及），由正向通道兜底
+        for cve_id in sorted(ids):
+            if not is_valid_cve_id(cve_id):
+                stats["invalid_ids"] += 1  # H2：非法编号不进入状态
+                continue
+            if cvestate.is_rejected(root, cve_id):
+                continue  # R9：官方撤回的编号不激活
+            verdict = classify_relation(cve_id, url, repo_description=description,
+                                        extra_text=topics)
+            if verdict.state == ACCEPTED:
+                hits.add(cve_id)
+                if dry_run:
+                    continue
+                if merge_accepted(root, cve_id, url, item, verdict=verdict,
+                                  source=source):
+                    stats["new_relations"] += 1
+                    state_mod.append_jsonl(
+                        state_mod.state_dir(root) / "events.jsonl",
+                        [{"ts": state_mod.now_iso(), "type": "new_poc",
+                          "cve_id": cve_id, "url": url}],
+                    )
+                else:
+                    stats["accepted_existing"] += 1
+            elif verdict.state == CONFLICT_CANDIDATE:
+                stats["rejected_at_collection"] += 1
+                if not dry_run:
+                    state_mod.append_jsonl(
+                        state_mod.state_dir(root) / "rejected_at_collection.jsonl",
+                        [{"ts": state_mod.now_iso(), "cve_id": cve_id, "url": url,
+                          "reason": verdict.reason, "channel": source}],
+                    )
+            else:
+                stats["needs_review"] += 1
+    return hits
+
+
 def discover(client, root: Path, max_pages: int = 10, dry_run: bool = False,
              budget: Budget | None = None) -> dict:
     cursor = _load_cursor(root)
@@ -70,6 +128,7 @@ def discover(client, root: Path, max_pages: int = 10, dry_run: bool = False,
         "needs_review": 0,
         "blocked": 0,
         "invalid_ids": 0,
+        "accepted_existing": 0,
         "partial_days_pending": 0,
         "partial_days_dropped": 0,
         "complete": True,
@@ -99,46 +158,9 @@ def discover(client, root: Path, max_pages: int = 10, dry_run: bool = False,
     def _absorb(result) -> str:
         """合并一个日窗口的已取得结果。返回 complete / cap / incomplete。"""
         stats["repos_seen"] += len(result.items)
-        for item in result.items:
-            url = item.get("html_url") or ""
-            if not url:
-                continue
-            if is_blocked(url, blacklist):
-                stats["blocked"] += 1
-                continue
-            description = item.get("description") or ""
-            topics = " ".join(item.get("topics") or [])
-            ids = extract_cve_ids(item.get("name") or "", description, topics)
-            if not ids:
-                continue  # 仓库无编号线索（如仅 README 提及），由正向通道兜底
-            for cve_id in sorted(ids):
-                if not is_valid_cve_id(cve_id):
-                    stats["invalid_ids"] += 1  # H2：非法编号不进入状态
-                    continue
-                if cvestate.is_rejected(root, cve_id):
-                    continue  # R9：官方撤回的编号不激活
-                verdict = classify_relation(cve_id, url, repo_description=description,
-                                            extra_text=topics)
-                if verdict.state == ACCEPTED:
-                    hit_cves.add(cve_id)
-                    if not dry_run and merge_accepted(root, cve_id, url, item,
-                                                      verdict=verdict):
-                        stats["new_relations"] += 1
-                        state_mod.append_jsonl(
-                            state_mod.state_dir(root) / "events.jsonl",
-                            [{"ts": state_mod.now_iso(), "type": "new_poc",
-                              "cve_id": cve_id, "url": url}],
-                        )
-                elif verdict.state == CONFLICT_CANDIDATE:
-                    stats["rejected_at_collection"] += 1
-                    if not dry_run:
-                        state_mod.append_jsonl(
-                            state_mod.state_dir(root) / "rejected_at_collection.jsonl",
-                            [{"ts": state_mod.now_iso(), "cve_id": cve_id, "url": url,
-                              "reason": verdict.reason, "channel": "repo_watch"}],
-                        )
-                else:
-                    stats["needs_review"] += 1
+        hit_cves.update(process_repo_items(
+            root, result.items, stats, dry_run=dry_run,
+            source="github_created", blacklist=blacklist))
         if result.complete:
             return "complete"
         if result.stop_reason == "pagination_cap":

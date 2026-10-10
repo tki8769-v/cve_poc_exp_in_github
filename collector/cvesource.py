@@ -17,6 +17,7 @@ import zipfile
 from pathlib import Path
 
 from . import cvestate
+from . import refs
 from . import scheduler
 from . import state as state_mod
 from .ghsearch import BudgetExhausted
@@ -40,7 +41,10 @@ def parse_cve_record(data: dict) -> dict | None:
         if item.get("lang") == "en":
             description = item.get("value", "")
             break
-    return {"cve_id": str(cve_id).upper(), "state": state, "description": description}
+    # 阶段 2A：CNA/ADP GitHub 引用作为发现线索随记录提取（refs 模块分级）
+    return {"cve_id": str(cve_id).upper(), "state": state,
+            "description": description,
+            "references": refs.extract_references(data)}
 
 
 def extract_records(zip_bytes: bytes) -> dict[str, dict]:
@@ -129,6 +133,7 @@ def sync(client, root: Path, all_releases: bool = False, max_releases: int = 30,
                 "new_tasks": 0, "rejected": 0, "last_tag": last_tag,
                 "floor_tag": floor_tag,
                 "continuity_warning": bool(cursor.get("continuity_gap")),
+                "ref_candidates_added": 0,
                 "budget_stopped": True}
 
     # F1：连续性 = 能追溯到最近已应用检查点（而非 floor 是否可见）
@@ -138,6 +143,7 @@ def sync(client, root: Path, all_releases: bool = False, max_releases: int = 30,
                 "new_tasks": 0, "rejected": 0, "last_tag": last_tag,
                 "floor_tag": floor_tag,
                 "continuity_warning": continuity_warning or bool(cursor.get("continuity_gap")),
+                "ref_candidates_added": 0,
                 "budget_stopped": False}
 
     # G2/H1/I2：断档在检测时立即持久化（处理前写盘，崩溃不丢降级状态）。
@@ -176,6 +182,7 @@ def sync(client, root: Path, all_releases: bool = False, max_releases: int = 30,
     cves_seen: set[str] = set()
     rejected = 0
     new_tasks = 0
+    new_ref_candidates = 0
     processed_releases = 0
     budget_stopped = False
     task_index = {t["cve_id"] for t in scheduler.load_tasks(root)}
@@ -196,11 +203,15 @@ def sync(client, root: Path, all_releases: bool = False, max_releases: int = 30,
                 budget_stopped = True
                 break
             records = extract_records(zip_bytes)
-            # R1：先应用记录（按资产批量提交任务），后提交游标——崩溃
-            # 重跑最多重复应用（幂等），不会丢任务
+            # R1：先应用记录（按资产批量提交任务与候选），后提交游标——崩溃
+            # 重跑最多重复应用（幂等），不会丢任务；阶段 2A：引用候选同样
+            # 先持久化，游标不越过未保存结果
             asset_items: list[dict] = []
             for cve_id, record in records.items():
                 cves_seen.add(cve_id)
+                if record.get("references"):
+                    new_ref_candidates += refs.record_candidates(
+                        root, cve_id, record["references"], source_tag=tag)
                 if record["state"] == "REJECTED":
                     rejected += 1
                     # G7：仅当版本更新被接受才执行任务取消/事件副作用；
@@ -252,6 +263,7 @@ def sync(client, root: Path, all_releases: bool = False, max_releases: int = 30,
         "cves_seen": len(cves_seen),
         "new_tasks": new_tasks,
         "rejected": rejected,
+        "ref_candidates_added": new_ref_candidates,
         "last_tag": cursor.get("last_tag"),
         "floor_tag": floor_tag,
         "continuity_warning": report_gap,
