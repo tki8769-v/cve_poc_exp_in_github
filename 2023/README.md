@@ -5,6 +5,8 @@
 
 - [https://github.com/disqualifier/psa-2026-00043-recovery](https://github.com/disqualifier/psa-2026-00043-recovery) : ![starts](https://img.shields.io/github/stars/disqualifier/psa-2026-00043-recovery.svg) ![forks](https://img.shields.io/github/forks/disqualifier/psa-2026-00043-recovery.svg)
 
+- [https://github.com/alexand0www/CVE-2023-54391-RCE](https://github.com/alexand0www/CVE-2023-54391-RCE) : ![starts](https://img.shields.io/github/stars/alexand0www/CVE-2023-54391-RCE.svg) ![forks](https://img.shields.io/github/forks/alexand0www/CVE-2023-54391-RCE.svg)
+
 ## CVE-2023-52927
  In the Linux kernel, the following vulnerability has been resolved:
 

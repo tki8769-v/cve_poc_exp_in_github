@@ -2314,3 +2314,17 @@
 {"cve_id": "CVE-2026-72778", "ts": "2026-10-10T15:42:17Z", "type": "new_poc", "url": "https://github.com/TRX-0/CVE-2026-72778-craftcms-rce"}
 {"cve_id": "CVE-2026-72781", "ts": "2026-10-10T15:42:18Z", "type": "new_poc", "url": "https://github.com/TRX-0/CVE-2026-72781-craftcms-sandbox-rce"}
 {"cve_id": "CVE-2023-49496", "ts": "2026-10-10T15:43:15Z", "type": "new_poc", "url": "https://github.com/HuangYanQwQ/CVE-2023-49496_PoC"}
+{"cve_id": "CVE-2026-69414", "ts": "2026-10-10T20:37:16Z", "type": "new_poc", "url": "https://github.com/maxprog-svg/CVE-2026-69414"}
+{"cve_id": "CVE-2025-9548", "ts": "2026-10-10T20:37:16Z", "type": "new_poc", "url": "https://github.com/CyberFrenchie/CVE-2025-9548"}
+{"cve_id": "CVE-2026-84568", "ts": "2026-10-10T20:37:17Z", "type": "new_poc", "url": "https://github.com/redinpulse/CVE-2026-84568"}
+{"cve_id": "CVE-2026-84411", "ts": "2026-10-10T20:37:17Z", "type": "new_poc", "url": "https://github.com/maxprog-svg/CVE-2026-84411"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-10-10T20:37:17Z", "type": "new_poc", "url": "https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project"}
+{"cve_id": "CVE-2019-2215", "ts": "2026-10-10T20:37:17Z", "type": "new_poc", "url": "https://github.com/FDLAlfrid/odin-od105-devkit"}
+{"cve_id": "CVE-2023-54391", "ts": "2026-10-10T20:37:23Z", "type": "new_poc", "url": "https://github.com/alexand0www/CVE-2023-54391-RCE"}
+{"cve_id": "CVE-2017-0199", "ts": "2026-10-10T20:37:23Z", "type": "new_poc", "url": "https://github.com/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office."}
+{"cve_id": "CVE-2025-68664", "ts": "2026-10-10T20:37:24Z", "type": "new_poc", "url": "https://github.com/t-sorger/cve-2025-68664-langgrinch"}
+{"cve_id": "CVE-2026-53921", "ts": "2026-10-10T20:37:33Z", "type": "new_poc", "url": "https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit"}
+{"cve_id": "CVE-2011-2523", "ts": "2026-10-10T20:37:33Z", "type": "new_poc", "url": "https://github.com/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-10-10T20:37:34Z", "type": "new_poc", "url": "https://github.com/sajanapamuditha/Cyber-Attack-Simulation-"}
+{"cve_id": "CVE-2021-3156", "ts": "2026-10-10T20:47:28Z", "type": "new_poc", "url": "https://github.com/ConstantineFedorov/Review.CVE-2021-3156"}
+{"cve_id": "CVE-2021-3156", "ts": "2026-10-10T20:47:28Z", "type": "new_poc", "url": "https://github.com/sandesh9978/CVE-2021-3156-Sudo-Checker"}

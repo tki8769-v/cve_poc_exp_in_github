@@ -1,7 +1,19 @@
 # Update 2026-10-10
+## CVE-2011-2523
+
+- [https://github.com/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit](https://github.com/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit) : ![starts](https://img.shields.io/github/stars/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit.svg) ![forks](https://img.shields.io/github/forks/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit.svg)
+
+## CVE-2017-0199
+
+- [https://github.com/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office.](https://github.com/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office.) : ![starts](https://img.shields.io/github/stars/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office..svg) ![forks](https://img.shields.io/github/forks/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office..svg)
+
 ## CVE-2017-12615
 
 - [https://github.com/nouhaila2030/apache-tomcat-security-audit](https://github.com/nouhaila2030/apache-tomcat-security-audit) : ![starts](https://img.shields.io/github/stars/nouhaila2030/apache-tomcat-security-audit.svg) ![forks](https://img.shields.io/github/forks/nouhaila2030/apache-tomcat-security-audit.svg)
+
+## CVE-2019-2215
+
+- [https://github.com/FDLAlfrid/odin-od105-devkit](https://github.com/FDLAlfrid/odin-od105-devkit) : ![starts](https://img.shields.io/github/stars/FDLAlfrid/odin-od105-devkit.svg) ![forks](https://img.shields.io/github/forks/FDLAlfrid/odin-od105-devkit.svg)
 
 ## CVE-2020-17530
 
@@ -11,13 +23,28 @@
 
 - [https://github.com/cchiaravalentini/CVE-2021-3129](https://github.com/cchiaravalentini/CVE-2021-3129) : ![starts](https://img.shields.io/github/stars/cchiaravalentini/CVE-2021-3129.svg) ![forks](https://img.shields.io/github/forks/cchiaravalentini/CVE-2021-3129.svg)
 
+## CVE-2021-3156
+
+- [https://github.com/ConstantineFedorov/Review.CVE-2021-3156](https://github.com/ConstantineFedorov/Review.CVE-2021-3156) : ![starts](https://img.shields.io/github/stars/ConstantineFedorov/Review.CVE-2021-3156.svg) ![forks](https://img.shields.io/github/forks/ConstantineFedorov/Review.CVE-2021-3156.svg)
+- [https://github.com/sandesh9978/CVE-2021-3156-Sudo-Checker](https://github.com/sandesh9978/CVE-2021-3156-Sudo-Checker) : ![starts](https://img.shields.io/github/stars/sandesh9978/CVE-2021-3156-Sudo-Checker.svg) ![forks](https://img.shields.io/github/forks/sandesh9978/CVE-2021-3156-Sudo-Checker.svg)
+
 ## CVE-2021-42023
 
 - [https://github.com/Geeoon/ModelSim-Decryptor](https://github.com/Geeoon/ModelSim-Decryptor) : ![starts](https://img.shields.io/github/stars/Geeoon/ModelSim-Decryptor.svg) ![forks](https://img.shields.io/github/forks/Geeoon/ModelSim-Decryptor.svg)
 
+## CVE-2021-44228
+
+- [https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project](https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project) : ![starts](https://img.shields.io/github/stars/Developer-Dynamo/cs50-cybersecurity-final-project.svg) ![forks](https://img.shields.io/github/forks/Developer-Dynamo/cs50-cybersecurity-final-project.svg)
+- [https://github.com/sajanapamuditha/Cyber-Attack-Simulation-](https://github.com/sajanapamuditha/Cyber-Attack-Simulation-) : ![starts](https://img.shields.io/github/stars/sajanapamuditha/Cyber-Attack-Simulation-.svg) ![forks](https://img.shields.io/github/forks/sajanapamuditha/Cyber-Attack-Simulation-.svg)
+
 ## CVE-2023-49496
 
 - [https://github.com/HuangYanQwQ/CVE-2023-49496_PoC](https://github.com/HuangYanQwQ/CVE-2023-49496_PoC) : ![starts](https://img.shields.io/github/stars/HuangYanQwQ/CVE-2023-49496_PoC.svg) ![forks](https://img.shields.io/github/forks/HuangYanQwQ/CVE-2023-49496_PoC.svg)
+
+## CVE-2023-54391
+> Proxmox Virtual Environment (VE) 7.0 through 8.0 contains an authentication bypass vulnerability in libpve-access-control before 8.0.4 that allows unauthenticated attackers to authenticate as any existing enabled user without a configured second factor by supplying an arbitrary tfa-challenge value in the API login endpoint. Attackers can send a POST request to the access ticket API endpoint with any value in the tfa-challenge parameter to completely skip password verification, gaining unauthoriz
+
+- [https://github.com/alexand0www/CVE-2023-54391-RCE](https://github.com/alexand0www/CVE-2023-54391-RCE) : ![starts](https://img.shields.io/github/stars/alexand0www/CVE-2023-54391-RCE.svg) ![forks](https://img.shields.io/github/forks/alexand0www/CVE-2023-54391-RCE.svg)
 
 ## CVE-2024-4367
 
@@ -30,6 +57,14 @@
 ## CVE-2025-32432
 
 - [https://github.com/Si13NTTT/CVE-2025-32432](https://github.com/Si13NTTT/CVE-2025-32432) : ![starts](https://img.shields.io/github/stars/Si13NTTT/CVE-2025-32432.svg) ![forks](https://img.shields.io/github/forks/Si13NTTT/CVE-2025-32432.svg)
+
+## CVE-2025-68664
+
+- [https://github.com/t-sorger/cve-2025-68664-langgrinch](https://github.com/t-sorger/cve-2025-68664-langgrinch) : ![starts](https://img.shields.io/github/stars/t-sorger/cve-2025-68664-langgrinch.svg) ![forks](https://img.shields.io/github/forks/t-sorger/cve-2025-68664-langgrinch.svg)
+
+## CVE-2025-9548
+
+- [https://github.com/CyberFrenchie/CVE-2025-9548](https://github.com/CyberFrenchie/CVE-2025-9548) : ![starts](https://img.shields.io/github/stars/CyberFrenchie/CVE-2025-9548.svg) ![forks](https://img.shields.io/github/forks/CyberFrenchie/CVE-2025-9548.svg)
 
 ## CVE-2026-102428
 > Joomla Extension - ordasoft.com - Unauthenticated SQL injection in OrdaSoft Joomla CCK &lt; 8.3.16 - The order column for records was user provided and not properly validated, leading to a SQL injection vector.
@@ -86,6 +121,14 @@
 
 - [https://github.com/mhdnihan/CVE-2026-43284-DIRTY-FRAG-](https://github.com/mhdnihan/CVE-2026-43284-DIRTY-FRAG-) : ![starts](https://img.shields.io/github/stars/mhdnihan/CVE-2026-43284-DIRTY-FRAG-.svg) ![forks](https://img.shields.io/github/forks/mhdnihan/CVE-2026-43284-DIRTY-FRAG-.svg)
 
+## CVE-2026-53921
+
+- [https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit](https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-53921-PoC-Exploit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-53921-PoC-Exploit.svg)
+
+## CVE-2026-69414
+
+- [https://github.com/maxprog-svg/CVE-2026-69414](https://github.com/maxprog-svg/CVE-2026-69414) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-69414.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-69414.svg)
+
 ## CVE-2026-72778
 > Craft CMS versions from 4.0.0-RC1 before 4.18.2 and from 5.0.0-RC1 before 5.10.6 contain an authenticated remote code execution vulnerability in the control panel element-search condition handling. Craft cleanses the outer request-controlled condition array via Component::cleanseConfig(), but Conditions::createCondition() later decodes and merges the JSON string in condition.config without re-running cleanseConfig() on the decoded configuration. Because condition.config is a JSON string during t
 
@@ -96,9 +139,18 @@
 
 - [https://github.com/TRX-0/CVE-2026-72781-craftcms-sandbox-rce](https://github.com/TRX-0/CVE-2026-72781-craftcms-sandbox-rce) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-72781-craftcms-sandbox-rce.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-72781-craftcms-sandbox-rce.svg)
 
+## CVE-2026-84411
+> The web management service in affected RouterOS versions contains an integer underflow in its HTTP request body handling that is reachable before authentication. This can be leveraged by an unauthenticated network attacker to achieve arbitrary code execution as root, or to cause a denial of service, using a single crafted request.
+
+- [https://github.com/maxprog-svg/CVE-2026-84411](https://github.com/maxprog-svg/CVE-2026-84411) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-84411.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-84411.svg)
+
 ## CVE-2026-84520
 
 - [https://github.com/csrXamfi/CVE-2026-84520](https://github.com/csrXamfi/CVE-2026-84520) : ![starts](https://img.shields.io/github/stars/csrXamfi/CVE-2026-84520.svg) ![forks](https://img.shields.io/github/forks/csrXamfi/CVE-2026-84520.svg)
+
+## CVE-2026-84568
+
+- [https://github.com/redinpulse/CVE-2026-84568](https://github.com/redinpulse/CVE-2026-84568) : ![starts](https://img.shields.io/github/stars/redinpulse/CVE-2026-84568.svg) ![forks](https://img.shields.io/github/forks/redinpulse/CVE-2026-84568.svg)
 
 ## CVE-2026-85097
 > The Bricksforge plugin for WordPress is vulnerable to unauthenticated arbitrary file upload in versions up to, and including, 3.1.8.9. This is due to insufficient validation of the attacker-controlled URL field in the &#x27;temporaryFileUploads&#x27; parameter during form submission. An unauthenticated attacker can first obtain a valid nonce via the bricksforge_regenerate_nonce AJAX endpoint, then upload a GIF/PHP polyglot file to the temporary upload directory where MIME type validation is correctly perf

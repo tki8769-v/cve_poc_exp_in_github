@@ -31,6 +31,7 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 - [https://github.com/SeanDishman/telegram-cve-2026-107181](https://github.com/SeanDishman/telegram-cve-2026-107181) : ![starts](https://img.shields.io/github/stars/SeanDishman/telegram-cve-2026-107181.svg) ![forks](https://img.shields.io/github/forks/SeanDishman/telegram-cve-2026-107181.svg)
 
 ## CVE-2026-106610
+> Incorrect Privilege Assignment vulnerability in miniOrange miniorange otp verification miniorange-otp-verification allows Privilege Escalation.This issue affects miniorange otp verification: from n/a through 5.5.7.
 
 - [https://github.com/KevineCharles/CVE-2026-106610-miniorange-otp-ato](https://github.com/KevineCharles/CVE-2026-106610-miniorange-otp-ato) : ![starts](https://img.shields.io/github/stars/KevineCharles/CVE-2026-106610-miniorange-otp-ato.svg) ![forks](https://img.shields.io/github/forks/KevineCharles/CVE-2026-106610-miniorange-otp-ato.svg)
 
@@ -1293,6 +1294,8 @@ This issue w
 
 - [https://github.com/jvidhan/autofs-cve-2026-84568](https://github.com/jvidhan/autofs-cve-2026-84568) : ![starts](https://img.shields.io/github/stars/jvidhan/autofs-cve-2026-84568.svg) ![forks](https://img.shields.io/github/forks/jvidhan/autofs-cve-2026-84568.svg)
 
+- [https://github.com/redinpulse/CVE-2026-84568](https://github.com/redinpulse/CVE-2026-84568) : ![starts](https://img.shields.io/github/stars/redinpulse/CVE-2026-84568.svg) ![forks](https://img.shields.io/github/forks/redinpulse/CVE-2026-84568.svg)
+
 ## CVE-2026-84543
 
 - [https://github.com/petermalone/CVE-2026-84543](https://github.com/petermalone/CVE-2026-84543) : ![starts](https://img.shields.io/github/stars/petermalone/CVE-2026-84543.svg) ![forks](https://img.shields.io/github/forks/petermalone/CVE-2026-84543.svg)
@@ -1305,6 +1308,11 @@ This issue w
  The Gravity Forms plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, and including, 3.1.0.4 via the upload_file function. This is due to a mismatch between the field validation pipeline and the file persistence pipeline, where hidden file upload fields bypass extension validation and a rejected file's intact upload state is later passed to upload_file() without re-validation. This makes it possible for unauthenticated attackers to upload files that may be executable, which makes remote code execution possible. Exploitation requires the targeted form to contain a File Upload field with its Visibility set to 'Hidden'; the vulnerability is reachable by unauthenticated attackers on any publicly accessible form meeting this condition.
 
 - [https://github.com/murrez/CVE-2026-84434](https://github.com/murrez/CVE-2026-84434) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-84434.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-84434.svg)
+
+## CVE-2026-84411
+> The web management service in affected RouterOS versions contains an integer underflow in its HTTP request body handling that is reachable before authentication. This can be leveraged by an unauthenticated network attacker to achieve arbitrary code execution as root, or to cause a denial of service, using a single crafted request.
+
+- [https://github.com/maxprog-svg/CVE-2026-84411](https://github.com/maxprog-svg/CVE-2026-84411) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-84411.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-84411.svg)
 
 ## CVE-2026-84388
  A improper restriction of rendered ui layers or frames vulnerability in Fortinet FortiPAM Chrome Extension 8.0 all versions, FortiPAM Chrome Extension 7.4 all versions may allow attacker to information disclosure via remote unauthenticated attack
@@ -2593,6 +2601,8 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 - [https://github.com/1neptune/ShieldBreak](https://github.com/1neptune/ShieldBreak) : ![starts](https://img.shields.io/github/stars/1neptune/ShieldBreak.svg) ![forks](https://img.shields.io/github/forks/1neptune/ShieldBreak.svg)
 
 - [https://github.com/HORKimhab/CVE-2026-50656](https://github.com/HORKimhab/CVE-2026-50656) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-50656.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-50656.svg)
+
+- [https://github.com/maxprog-svg/CVE-2026-69414](https://github.com/maxprog-svg/CVE-2026-69414) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-69414.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-69414.svg)
 
 ## CVE-2026-69328
  Untrusted search path in Windows Storage allows an authorized attacker to elevate privileges locally.
@@ -5279,6 +5289,10 @@ Users are recommended to upgrade to version 11.0.23, 10.1.56 or 9.0.119 which fi
  4gaBoards is a boards system for realtime project management. Prior to 3.3.9, 4gaBoards allows any authenticated user to enumerate account information for every user through GET /api/users and retrieve arbitrary accounts through GET /api/users/:id. The users/index and users/show actions rely only on the default is-authenticated policy in server/config/policies.js, and server/api/controllers/users/index.js returns the result of sails.helpers.users.getMany() without requester-specific authorization or response sanitization. Responses expose email, phone, organization, name, isAdmin, ssoGoogleEmail, ssoGithubEmail, and other SSO-linked email fields, including data for administrators. This enables instance-wide user enumeration, privacy loss, and targeted phishing reconnaissance. This issue is fixed in version 3.3.9.
 
 - [https://github.com/anirbala98/CVE-2026-53959](https://github.com/anirbala98/CVE-2026-53959) : ![starts](https://img.shields.io/github/stars/anirbala98/CVE-2026-53959.svg) ![forks](https://img.shields.io/github/forks/anirbala98/CVE-2026-53959.svg)
+
+## CVE-2026-53921
+
+- [https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit](https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-53921-PoC-Exploit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-53921-PoC-Exploit.svg)
 
 ## CVE-2026-53913
  Improper Authentication, Missing Authentication for Critical Function, Not Failing Securely ('Failing Open') vulnerability in Apache Camel Keycloak Component.

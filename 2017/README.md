@@ -3339,6 +3339,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 
 - [https://github.com/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant](https://github.com/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant) : ![starts](https://img.shields.io/github/stars/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant.svg) ![forks](https://img.shields.io/github/forks/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant.svg)
 
+- [https://github.com/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office.](https://github.com/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office.) : ![starts](https://img.shields.io/github/stars/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office..svg) ![forks](https://img.shields.io/github/forks/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office..svg)
+
 ## CVE-2017-0147
  The SMBv1 server in Microsoft Windows Vista SP2; Windows Server 2008 SP2 and R2 SP1; Windows 7 SP1; Windows 8.1; Windows Server 2012 Gold and R2; Windows RT 8.1; and Windows 10 Gold, 1511, and 1607; and Windows Server 2016 allows remote attackers to obtain sensitive information from process memory via a crafted packets, aka "Windows SMB Information Disclosure Vulnerability."
 

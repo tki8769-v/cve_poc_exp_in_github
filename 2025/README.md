@@ -488,6 +488,8 @@ You should upgrade to version 6.0.0 of the provider to avoid even that risk.
 
 - [https://github.com/Johnnyzhou666/langgrinch-cve-2025-68664-analysis](https://github.com/Johnnyzhou666/langgrinch-cve-2025-68664-analysis) : ![starts](https://img.shields.io/github/stars/Johnnyzhou666/langgrinch-cve-2025-68664-analysis.svg) ![forks](https://img.shields.io/github/forks/Johnnyzhou666/langgrinch-cve-2025-68664-analysis.svg)
 
+- [https://github.com/t-sorger/cve-2025-68664-langgrinch](https://github.com/t-sorger/cve-2025-68664-langgrinch) : ![starts](https://img.shields.io/github/stars/t-sorger/cve-2025-68664-langgrinch.svg) ![forks](https://img.shields.io/github/forks/t-sorger/cve-2025-68664-langgrinch.svg)
+
 ## CVE-2025-68645
  A Local File Inclusion (LFI) vulnerability exists in the Webmail Classic UI of Zimbra Collaboration (ZCS) 10.0 and 10.1 because of improper handling of user-supplied request parameters in the RestFilter servlet. An unauthenticated remote attacker can craft requests to the /h/rest endpoint to influence internal request dispatching, allowing inclusion of arbitrary files from the WebRoot directory.
 
@@ -12413,6 +12415,10 @@ This issue affects AX10 V1/V1.2/V2/V2.6/V3/V3.6: before 1.2.1; AX1500 V1/V1.20/V
  A security vulnerability has been detected in givanz Vvveb 1.0.7.2. This affects an unknown part of the file app/template/user/login.tpl. Such manipulation of the argument Email/Password leads to cross site scripting. The attack can be executed remotely. The name of the patch is bbd4c42c66ab818142240348173a669d1d2537fe. Applying a patch is advised to resolve this issue.
 
 - [https://github.com/helloandrewpaul/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2](https://github.com/helloandrewpaul/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2) : ![starts](https://img.shields.io/github/stars/helloandrewpaul/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2.svg) ![forks](https://img.shields.io/github/forks/helloandrewpaul/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2.svg)
+
+## CVE-2025-9548
+
+- [https://github.com/CyberFrenchie/CVE-2025-9548](https://github.com/CyberFrenchie/CVE-2025-9548) : ![starts](https://img.shields.io/github/stars/CyberFrenchie/CVE-2025-9548.svg) ![forks](https://img.shields.io/github/forks/CyberFrenchie/CVE-2025-9548.svg)
 
 ## CVE-2025-9519
  The Easy Timer plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 4.2.1 via the plugin's shortcodes. This is due to insufficient restriction of shortcode attributes. This makes it possible for authenticated attackers, with Editor-level access and above, to execute code on the server.

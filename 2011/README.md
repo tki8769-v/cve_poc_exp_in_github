@@ -228,6 +228,8 @@
 
 - [https://github.com/diceverick/vulnerability-assessment-lab](https://github.com/diceverick/vulnerability-assessment-lab) : ![starts](https://img.shields.io/github/stars/diceverick/vulnerability-assessment-lab.svg) ![forks](https://img.shields.io/github/forks/diceverick/vulnerability-assessment-lab.svg)
 
+- [https://github.com/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit](https://github.com/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit) : ![starts](https://img.shields.io/github/stars/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit.svg) ![forks](https://img.shields.io/github/forks/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit.svg)
+
 ## CVE-2011-2461
  Cross-site scripting (XSS) vulnerability in the Adobe Flex SDK 3.x and 4.x before 4.6 allows remote attackers to inject arbitrary web script or HTML via vectors related to the loading of modules from different domains.
 

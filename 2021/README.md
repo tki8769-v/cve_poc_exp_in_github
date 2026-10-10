@@ -1202,6 +1202,10 @@
 
 - [https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab](https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab) : ![starts](https://img.shields.io/github/stars/hoangvvthu/CVE-2021-44228-Log4Shell-Lab.svg) ![forks](https://img.shields.io/github/forks/hoangvvthu/CVE-2021-44228-Log4Shell-Lab.svg)
 
+- [https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project](https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project) : ![starts](https://img.shields.io/github/stars/Developer-Dynamo/cs50-cybersecurity-final-project.svg) ![forks](https://img.shields.io/github/forks/Developer-Dynamo/cs50-cybersecurity-final-project.svg)
+
+- [https://github.com/sajanapamuditha/Cyber-Attack-Simulation-](https://github.com/sajanapamuditha/Cyber-Attack-Simulation-) : ![starts](https://img.shields.io/github/stars/sajanapamuditha/Cyber-Attack-Simulation-.svg) ![forks](https://img.shields.io/github/forks/sajanapamuditha/Cyber-Attack-Simulation-.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
@@ -8136,6 +8140,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/DanielAzulayy/CTF-2021](https://github.com/DanielAzulayy/CTF-2021) : ![starts](https://img.shields.io/github/stars/DanielAzulayy/CTF-2021.svg) ![forks](https://img.shields.io/github/forks/DanielAzulayy/CTF-2021.svg)
 
 - [https://github.com/czeti/baron-samedit](https://github.com/czeti/baron-samedit) : ![starts](https://img.shields.io/github/stars/czeti/baron-samedit.svg) ![forks](https://img.shields.io/github/forks/czeti/baron-samedit.svg)
+
+- [https://github.com/ConstantineFedorov/Review.CVE-2021-3156](https://github.com/ConstantineFedorov/Review.CVE-2021-3156) : ![starts](https://img.shields.io/github/stars/ConstantineFedorov/Review.CVE-2021-3156.svg) ![forks](https://img.shields.io/github/forks/ConstantineFedorov/Review.CVE-2021-3156.svg)
+
+- [https://github.com/sandesh9978/CVE-2021-3156-Sudo-Checker](https://github.com/sandesh9978/CVE-2021-3156-Sudo-Checker) : ![starts](https://img.shields.io/github/stars/sandesh9978/CVE-2021-3156-Sudo-Checker.svg) ![forks](https://img.shields.io/github/forks/sandesh9978/CVE-2021-3156-Sudo-Checker.svg)
 
 ## CVE-2021-3138
  In Discourse 2.7.0 through beta1, a rate-limit bypass leads to a bypass of the 2FA requirement for certain forms.

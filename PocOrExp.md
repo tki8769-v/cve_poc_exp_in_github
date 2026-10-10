@@ -32,6 +32,7 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 - [https://github.com/SeanDishman/telegram-cve-2026-107181](https://github.com/SeanDishman/telegram-cve-2026-107181) : ![starts](https://img.shields.io/github/stars/SeanDishman/telegram-cve-2026-107181.svg) ![forks](https://img.shields.io/github/forks/SeanDishman/telegram-cve-2026-107181.svg)
 
 ## CVE-2026-106610
+> Incorrect Privilege Assignment vulnerability in miniOrange miniorange otp verification miniorange-otp-verification allows Privilege Escalation.This issue affects miniorange otp verification: from n/a through 5.5.7.
 
 - [https://github.com/KevineCharles/CVE-2026-106610-miniorange-otp-ato](https://github.com/KevineCharles/CVE-2026-106610-miniorange-otp-ato) : ![starts](https://img.shields.io/github/stars/KevineCharles/CVE-2026-106610-miniorange-otp-ato.svg) ![forks](https://img.shields.io/github/forks/KevineCharles/CVE-2026-106610-miniorange-otp-ato.svg)
 
@@ -1294,6 +1295,8 @@ This issue w
 
 - [https://github.com/jvidhan/autofs-cve-2026-84568](https://github.com/jvidhan/autofs-cve-2026-84568) : ![starts](https://img.shields.io/github/stars/jvidhan/autofs-cve-2026-84568.svg) ![forks](https://img.shields.io/github/forks/jvidhan/autofs-cve-2026-84568.svg)
 
+- [https://github.com/redinpulse/CVE-2026-84568](https://github.com/redinpulse/CVE-2026-84568) : ![starts](https://img.shields.io/github/stars/redinpulse/CVE-2026-84568.svg) ![forks](https://img.shields.io/github/forks/redinpulse/CVE-2026-84568.svg)
+
 ## CVE-2026-84543
 
 - [https://github.com/petermalone/CVE-2026-84543](https://github.com/petermalone/CVE-2026-84543) : ![starts](https://img.shields.io/github/stars/petermalone/CVE-2026-84543.svg) ![forks](https://img.shields.io/github/forks/petermalone/CVE-2026-84543.svg)
@@ -1306,6 +1309,11 @@ This issue w
  The Gravity Forms plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, and including, 3.1.0.4 via the upload_file function. This is due to a mismatch between the field validation pipeline and the file persistence pipeline, where hidden file upload fields bypass extension validation and a rejected file's intact upload state is later passed to upload_file() without re-validation. This makes it possible for unauthenticated attackers to upload files that may be executable, which makes remote code execution possible. Exploitation requires the targeted form to contain a File Upload field with its Visibility set to 'Hidden'; the vulnerability is reachable by unauthenticated attackers on any publicly accessible form meeting this condition.
 
 - [https://github.com/murrez/CVE-2026-84434](https://github.com/murrez/CVE-2026-84434) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-84434.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-84434.svg)
+
+## CVE-2026-84411
+> The web management service in affected RouterOS versions contains an integer underflow in its HTTP request body handling that is reachable before authentication. This can be leveraged by an unauthenticated network attacker to achieve arbitrary code execution as root, or to cause a denial of service, using a single crafted request.
+
+- [https://github.com/maxprog-svg/CVE-2026-84411](https://github.com/maxprog-svg/CVE-2026-84411) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-84411.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-84411.svg)
 
 ## CVE-2026-84388
  A improper restriction of rendered ui layers or frames vulnerability in Fortinet FortiPAM Chrome Extension 8.0 all versions, FortiPAM Chrome Extension 7.4 all versions may allow attacker to information disclosure via remote unauthenticated attack
@@ -2594,6 +2602,8 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 - [https://github.com/1neptune/ShieldBreak](https://github.com/1neptune/ShieldBreak) : ![starts](https://img.shields.io/github/stars/1neptune/ShieldBreak.svg) ![forks](https://img.shields.io/github/forks/1neptune/ShieldBreak.svg)
 
 - [https://github.com/HORKimhab/CVE-2026-50656](https://github.com/HORKimhab/CVE-2026-50656) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-50656.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-50656.svg)
+
+- [https://github.com/maxprog-svg/CVE-2026-69414](https://github.com/maxprog-svg/CVE-2026-69414) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-69414.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-69414.svg)
 
 ## CVE-2026-69328
  Untrusted search path in Windows Storage allows an authorized attacker to elevate privileges locally.
@@ -5280,6 +5290,10 @@ Users are recommended to upgrade to version 11.0.23, 10.1.56 or 9.0.119 which fi
  4gaBoards is a boards system for realtime project management. Prior to 3.3.9, 4gaBoards allows any authenticated user to enumerate account information for every user through GET /api/users and retrieve arbitrary accounts through GET /api/users/:id. The users/index and users/show actions rely only on the default is-authenticated policy in server/config/policies.js, and server/api/controllers/users/index.js returns the result of sails.helpers.users.getMany() without requester-specific authorization or response sanitization. Responses expose email, phone, organization, name, isAdmin, ssoGoogleEmail, ssoGithubEmail, and other SSO-linked email fields, including data for administrators. This enables instance-wide user enumeration, privacy loss, and targeted phishing reconnaissance. This issue is fixed in version 3.3.9.
 
 - [https://github.com/anirbala98/CVE-2026-53959](https://github.com/anirbala98/CVE-2026-53959) : ![starts](https://img.shields.io/github/stars/anirbala98/CVE-2026-53959.svg) ![forks](https://img.shields.io/github/forks/anirbala98/CVE-2026-53959.svg)
+
+## CVE-2026-53921
+
+- [https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit](https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-53921-PoC-Exploit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-53921-PoC-Exploit.svg)
 
 ## CVE-2026-53913
  Improper Authentication, Missing Authentication for Critical Function, Not Failing Securely ('Failing Open') vulnerability in Apache Camel Keycloak Component.
@@ -22223,6 +22237,8 @@ You should upgrade to version 6.0.0 of the provider to avoid even that risk.
 
 - [https://github.com/Johnnyzhou666/langgrinch-cve-2025-68664-analysis](https://github.com/Johnnyzhou666/langgrinch-cve-2025-68664-analysis) : ![starts](https://img.shields.io/github/stars/Johnnyzhou666/langgrinch-cve-2025-68664-analysis.svg) ![forks](https://img.shields.io/github/forks/Johnnyzhou666/langgrinch-cve-2025-68664-analysis.svg)
 
+- [https://github.com/t-sorger/cve-2025-68664-langgrinch](https://github.com/t-sorger/cve-2025-68664-langgrinch) : ![starts](https://img.shields.io/github/stars/t-sorger/cve-2025-68664-langgrinch.svg) ![forks](https://img.shields.io/github/forks/t-sorger/cve-2025-68664-langgrinch.svg)
+
 ## CVE-2025-68645
  A Local File Inclusion (LFI) vulnerability exists in the Webmail Classic UI of Zimbra Collaboration (ZCS) 10.0 and 10.1 because of improper handling of user-supplied request parameters in the RestFilter servlet. An unauthenticated remote attacker can craft requests to the /h/rest endpoint to influence internal request dispatching, allowing inclusion of arbitrary files from the WebRoot directory.
 
@@ -34148,6 +34164,10 @@ This issue affects AX10 V1/V1.2/V2/V2.6/V3/V3.6: before 1.2.1; AX1500 V1/V1.20/V
  A security vulnerability has been detected in givanz Vvveb 1.0.7.2. This affects an unknown part of the file app/template/user/login.tpl. Such manipulation of the argument Email/Password leads to cross site scripting. The attack can be executed remotely. The name of the patch is bbd4c42c66ab818142240348173a669d1d2537fe. Applying a patch is advised to resolve this issue.
 
 - [https://github.com/helloandrewpaul/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2](https://github.com/helloandrewpaul/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2) : ![starts](https://img.shields.io/github/stars/helloandrewpaul/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2.svg) ![forks](https://img.shields.io/github/forks/helloandrewpaul/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2.svg)
+
+## CVE-2025-9548
+
+- [https://github.com/CyberFrenchie/CVE-2025-9548](https://github.com/CyberFrenchie/CVE-2025-9548) : ![starts](https://img.shields.io/github/stars/CyberFrenchie/CVE-2025-9548.svg) ![forks](https://img.shields.io/github/forks/CyberFrenchie/CVE-2025-9548.svg)
 
 ## CVE-2025-9519
  The Easy Timer plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 4.2.1 via the plugin's shortcodes. This is due to insufficient restriction of shortcode attributes. This makes it possible for authenticated attackers, with Editor-level access and above, to execute code on the server.
@@ -49788,6 +49808,8 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [https://github.com/neeythann/Proxmox-VE-7-RCE](https://github.com/neeythann/Proxmox-VE-7-RCE) : ![starts](https://img.shields.io/github/stars/neeythann/Proxmox-VE-7-RCE.svg) ![forks](https://img.shields.io/github/forks/neeythann/Proxmox-VE-7-RCE.svg)
 
 - [https://github.com/disqualifier/psa-2026-00043-recovery](https://github.com/disqualifier/psa-2026-00043-recovery) : ![starts](https://img.shields.io/github/stars/disqualifier/psa-2026-00043-recovery.svg) ![forks](https://img.shields.io/github/forks/disqualifier/psa-2026-00043-recovery.svg)
+
+- [https://github.com/alexand0www/CVE-2023-54391-RCE](https://github.com/alexand0www/CVE-2023-54391-RCE) : ![starts](https://img.shields.io/github/stars/alexand0www/CVE-2023-54391-RCE.svg) ![forks](https://img.shields.io/github/forks/alexand0www/CVE-2023-54391-RCE.svg)
 
 ## CVE-2023-52927
  In the Linux kernel, the following vulnerability has been resolved:
@@ -69895,6 +69917,10 @@ Discovered by Eugene Lim of GovTech Singapore.
 
 - [https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab](https://github.com/hoangvvthu/CVE-2021-44228-Log4Shell-Lab) : ![starts](https://img.shields.io/github/stars/hoangvvthu/CVE-2021-44228-Log4Shell-Lab.svg) ![forks](https://img.shields.io/github/forks/hoangvvthu/CVE-2021-44228-Log4Shell-Lab.svg)
 
+- [https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project](https://github.com/Developer-Dynamo/cs50-cybersecurity-final-project) : ![starts](https://img.shields.io/github/stars/Developer-Dynamo/cs50-cybersecurity-final-project.svg) ![forks](https://img.shields.io/github/forks/Developer-Dynamo/cs50-cybersecurity-final-project.svg)
+
+- [https://github.com/sajanapamuditha/Cyber-Attack-Simulation-](https://github.com/sajanapamuditha/Cyber-Attack-Simulation-) : ![starts](https://img.shields.io/github/stars/sajanapamuditha/Cyber-Attack-Simulation-.svg) ![forks](https://img.shields.io/github/forks/sajanapamuditha/Cyber-Attack-Simulation-.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
@@ -76829,6 +76855,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/DanielAzulayy/CTF-2021](https://github.com/DanielAzulayy/CTF-2021) : ![starts](https://img.shields.io/github/stars/DanielAzulayy/CTF-2021.svg) ![forks](https://img.shields.io/github/forks/DanielAzulayy/CTF-2021.svg)
 
 - [https://github.com/czeti/baron-samedit](https://github.com/czeti/baron-samedit) : ![starts](https://img.shields.io/github/stars/czeti/baron-samedit.svg) ![forks](https://img.shields.io/github/forks/czeti/baron-samedit.svg)
+
+- [https://github.com/ConstantineFedorov/Review.CVE-2021-3156](https://github.com/ConstantineFedorov/Review.CVE-2021-3156) : ![starts](https://img.shields.io/github/stars/ConstantineFedorov/Review.CVE-2021-3156.svg) ![forks](https://img.shields.io/github/forks/ConstantineFedorov/Review.CVE-2021-3156.svg)
+
+- [https://github.com/sandesh9978/CVE-2021-3156-Sudo-Checker](https://github.com/sandesh9978/CVE-2021-3156-Sudo-Checker) : ![starts](https://img.shields.io/github/stars/sandesh9978/CVE-2021-3156-Sudo-Checker.svg) ![forks](https://img.shields.io/github/forks/sandesh9978/CVE-2021-3156-Sudo-Checker.svg)
 
 ## CVE-2021-3138
  In Discourse 2.7.0 through beta1, a rate-limit bypass leads to a bypass of the 2FA requirement for certain forms.
@@ -88704,6 +88734,8 @@ use after free.
 
 - [https://github.com/WJNKAC/cve-2019-2215-oppo-a77t](https://github.com/WJNKAC/cve-2019-2215-oppo-a77t) : ![starts](https://img.shields.io/github/stars/WJNKAC/cve-2019-2215-oppo-a77t.svg) ![forks](https://img.shields.io/github/forks/WJNKAC/cve-2019-2215-oppo-a77t.svg)
 
+- [https://github.com/FDLAlfrid/odin-od105-devkit](https://github.com/FDLAlfrid/odin-od105-devkit) : ![starts](https://img.shields.io/github/stars/FDLAlfrid/odin-od105-devkit.svg) ![forks](https://img.shields.io/github/forks/FDLAlfrid/odin-od105-devkit.svg)
+
 ## CVE-2019-2205
  In ProxyResolverV8::SetPacScript of proxy_resolver_v8.cc, there is a possible memory corruption due to a use after free. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-139806216
 
@@ -97358,6 +97390,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 
 - [https://github.com/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant](https://github.com/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant) : ![starts](https://img.shields.io/github/stars/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant.svg) ![forks](https://img.shields.io/github/forks/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant.svg)
 
+- [https://github.com/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office.](https://github.com/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office.) : ![starts](https://img.shields.io/github/stars/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office..svg) ![forks](https://img.shields.io/github/forks/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office..svg)
+
 ## CVE-2017-0147
  The SMBv1 server in Microsoft Windows Vista SP2; Windows Server 2008 SP2 and R2 SP1; Windows 7 SP1; Windows 8.1; Windows Server 2012 Gold and R2; Windows RT 8.1; and Windows 10 Gold, 1511, and 1607; and Windows Server 2016 allows remote attackers to obtain sensitive information from process memory via a crafted packets, aka "Windows SMB Information Disclosure Vulnerability."
 
@@ -102344,6 +102378,8 @@ Exploitation of this vulnerability requires that a user or application run or in
 - [https://github.com/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523](https://github.com/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523) : ![starts](https://img.shields.io/github/stars/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523.svg) ![forks](https://img.shields.io/github/forks/Vijishanmugavel/metasploitable2-vsftpd-cve-2011-2523.svg)
 
 - [https://github.com/diceverick/vulnerability-assessment-lab](https://github.com/diceverick/vulnerability-assessment-lab) : ![starts](https://img.shields.io/github/stars/diceverick/vulnerability-assessment-lab.svg) ![forks](https://img.shields.io/github/forks/diceverick/vulnerability-assessment-lab.svg)
+
+- [https://github.com/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit](https://github.com/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit) : ![starts](https://img.shields.io/github/stars/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit.svg) ![forks](https://img.shields.io/github/forks/Maalfer/CVE-2011-2523-vsftpd-2.3.4-exploit.svg)
 
 ## CVE-2011-2461
  Cross-site scripting (XSS) vulnerability in the Adobe Flex SDK 3.x and 4.x before 4.6 allows remote attackers to inject arbitrary web script or HTML via vectors related to the loading of modules from different domains.
