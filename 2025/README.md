@@ -11500,6 +11500,8 @@ The specific flaw exists within the parsing of SFD files. The issue results from
 
 - [https://github.com/ZeroEthical/CVE-2025-14783-POC](https://github.com/ZeroEthical/CVE-2025-14783-POC) : ![starts](https://img.shields.io/github/stars/ZeroEthical/CVE-2025-14783-POC.svg) ![forks](https://img.shields.io/github/forks/ZeroEthical/CVE-2025-14783-POC.svg)
 
+- [https://github.com/Ngagne-Demba-Dia/CVE-2025-14783-POC](https://github.com/Ngagne-Demba-Dia/CVE-2025-14783-POC) : ![starts](https://img.shields.io/github/stars/Ngagne-Demba-Dia/CVE-2025-14783-POC.svg) ![forks](https://img.shields.io/github/forks/Ngagne-Demba-Dia/CVE-2025-14783-POC.svg)
+
 ## CVE-2025-14766
  Out of bounds read and write in V8 in Google Chrome prior to 143.0.7499.147 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 

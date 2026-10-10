@@ -2328,3 +2328,6 @@
 {"cve_id": "CVE-2021-44228", "ts": "2026-10-10T20:37:34Z", "type": "new_poc", "url": "https://github.com/sajanapamuditha/Cyber-Attack-Simulation-"}
 {"cve_id": "CVE-2021-3156", "ts": "2026-10-10T20:47:28Z", "type": "new_poc", "url": "https://github.com/ConstantineFedorov/Review.CVE-2021-3156"}
 {"cve_id": "CVE-2021-3156", "ts": "2026-10-10T20:47:28Z", "type": "new_poc", "url": "https://github.com/sandesh9978/CVE-2021-3156-Sudo-Checker"}
+{"cve_id": "CVE-2025-14783", "ts": "2026-10-10T20:48:37Z", "type": "new_poc", "url": "https://github.com/Ngagne-Demba-Dia/CVE-2025-14783-POC"}
+{"cve_id": "CVE-2026-30951", "ts": "2026-10-10T20:50:32Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-30951"}
+{"cve_id": "CVE-2026-20896", "ts": "2026-10-10T20:54:34Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-20896"}

@@ -50,6 +50,10 @@
 
 - [https://github.com/lewiskb/Docker-Lab-CVE-2024-4367](https://github.com/lewiskb/Docker-Lab-CVE-2024-4367) : ![starts](https://img.shields.io/github/stars/lewiskb/Docker-Lab-CVE-2024-4367.svg) ![forks](https://img.shields.io/github/forks/lewiskb/Docker-Lab-CVE-2024-4367.svg)
 
+## CVE-2025-14783
+
+- [https://github.com/Ngagne-Demba-Dia/CVE-2025-14783-POC](https://github.com/Ngagne-Demba-Dia/CVE-2025-14783-POC) : ![starts](https://img.shields.io/github/stars/Ngagne-Demba-Dia/CVE-2025-14783-POC.svg) ![forks](https://img.shields.io/github/forks/Ngagne-Demba-Dia/CVE-2025-14783-POC.svg)
+
 ## CVE-2025-29927
 
 - [https://github.com/gadaugherty/larkspur-billing](https://github.com/gadaugherty/larkspur-billing) : ![starts](https://img.shields.io/github/stars/gadaugherty/larkspur-billing.svg) ![forks](https://img.shields.io/github/forks/gadaugherty/larkspur-billing.svg)
@@ -100,10 +104,18 @@
 
 - [https://github.com/yym8538/CVE-2026-16723](https://github.com/yym8538/CVE-2026-16723) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-16723.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-16723.svg)
 
+## CVE-2026-20896
+
+- [https://github.com/yym8538/CVE-2026-20896](https://github.com/yym8538/CVE-2026-20896) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-20896.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-20896.svg)
+
 ## CVE-2026-21589
 > This is a vulnerability in Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center. Crowd Data Center, Crucible and Fisheye. This Arbitrary File Access vulnerability allows an unauthenticated attacker to access specific files within the web application root directory in affected versions. Exploitation requires prior knowledge of the target file&#x27;s exact name and path; this vulnerability does not allow attackers to enumerate
 
 - [https://github.com/webserverdude/f5_CVE-2026-21589_mitigation](https://github.com/webserverdude/f5_CVE-2026-21589_mitigation) : ![starts](https://img.shields.io/github/stars/webserverdude/f5_CVE-2026-21589_mitigation.svg) ![forks](https://img.shields.io/github/forks/webserverdude/f5_CVE-2026-21589_mitigation.svg)
+
+## CVE-2026-30951
+
+- [https://github.com/yym8538/CVE-2026-30951](https://github.com/yym8538/CVE-2026-30951) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-30951.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-30951.svg)
 
 ## CVE-2026-3143
 

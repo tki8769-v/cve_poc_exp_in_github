@@ -13202,6 +13202,8 @@ correct response on the original request.
 
 - [https://github.com/EQSTLab/CVE-2026-30951](https://github.com/EQSTLab/CVE-2026-30951) : ![starts](https://img.shields.io/github/stars/EQSTLab/CVE-2026-30951.svg) ![forks](https://img.shields.io/github/forks/EQSTLab/CVE-2026-30951.svg)
 
+- [https://github.com/yym8538/CVE-2026-30951](https://github.com/yym8538/CVE-2026-30951) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-30951.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-30951.svg)
+
 ## CVE-2026-30950
  AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agents. Versions 0.6.36 through 0.6.50 are vulnerable to Authenticated Session Hijacking via IDOR. If an authenticated attacker can determine the session_id of another user's session, they can take it over, reading any messages in it and locking the legitimate user out. The PATCH /sessions/{session_id}/assign-user endpoint authenticates the caller but never verifies session ownership: the service layer invokes the session lookup with user_id=None, which the data access layer interprets as a privileged/system call that bypasses the ownership filter, allowing any authenticated user to reassign an arbitrary session to themselves. This issue has been patched in version 0.6.51.
 
@@ -16732,6 +16734,8 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 - [https://github.com/EQSTLab/CVE-2026-20896](https://github.com/EQSTLab/CVE-2026-20896) : ![starts](https://img.shields.io/github/stars/EQSTLab/CVE-2026-20896.svg) ![forks](https://img.shields.io/github/forks/EQSTLab/CVE-2026-20896.svg)
 
 - [https://github.com/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass](https://github.com/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass) : ![starts](https://img.shields.io/github/stars/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass.svg) ![forks](https://img.shields.io/github/forks/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass.svg)
+
+- [https://github.com/yym8538/CVE-2026-20896](https://github.com/yym8538/CVE-2026-20896) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-20896.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-20896.svg)
 
 ## CVE-2026-20871
  Use after free in Desktop Windows Manager allows an authorized attacker to elevate privileges locally.
@@ -33248,6 +33252,8 @@ The specific flaw exists within the parsing of SFD files. The issue results from
  The Easy Digital Downloads plugin for WordPress is vulnerable to Unvalidated Redirect in all versions up to, and including, 3.6.2. This is due to insufficient validation on the redirect url supplied via the 'edd_redirect' parameter. This makes it possible for unauthenticated attackers to redirect users with the password reset email to potentially malicious sites if they can successfully trick them into performing an action.
 
 - [https://github.com/ZeroEthical/CVE-2025-14783-POC](https://github.com/ZeroEthical/CVE-2025-14783-POC) : ![starts](https://img.shields.io/github/stars/ZeroEthical/CVE-2025-14783-POC.svg) ![forks](https://img.shields.io/github/forks/ZeroEthical/CVE-2025-14783-POC.svg)
+
+- [https://github.com/Ngagne-Demba-Dia/CVE-2025-14783-POC](https://github.com/Ngagne-Demba-Dia/CVE-2025-14783-POC) : ![starts](https://img.shields.io/github/stars/Ngagne-Demba-Dia/CVE-2025-14783-POC.svg) ![forks](https://img.shields.io/github/forks/Ngagne-Demba-Dia/CVE-2025-14783-POC.svg)
 
 ## CVE-2025-14766
  Out of bounds read and write in V8 in Google Chrome prior to 143.0.7499.147 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)

@@ -13201,6 +13201,8 @@ correct response on the original request.
 
 - [https://github.com/EQSTLab/CVE-2026-30951](https://github.com/EQSTLab/CVE-2026-30951) : ![starts](https://img.shields.io/github/stars/EQSTLab/CVE-2026-30951.svg) ![forks](https://img.shields.io/github/forks/EQSTLab/CVE-2026-30951.svg)
 
+- [https://github.com/yym8538/CVE-2026-30951](https://github.com/yym8538/CVE-2026-30951) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-30951.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-30951.svg)
+
 ## CVE-2026-30950
  AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agents. Versions 0.6.36 through 0.6.50 are vulnerable to Authenticated Session Hijacking via IDOR. If an authenticated attacker can determine the session_id of another user's session, they can take it over, reading any messages in it and locking the legitimate user out. The PATCH /sessions/{session_id}/assign-user endpoint authenticates the caller but never verifies session ownership: the service layer invokes the session lookup with user_id=None, which the data access layer interprets as a privileged/system call that bypasses the ownership filter, allowing any authenticated user to reassign an arbitrary session to themselves. This issue has been patched in version 0.6.51.
 
@@ -16731,6 +16733,8 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 - [https://github.com/EQSTLab/CVE-2026-20896](https://github.com/EQSTLab/CVE-2026-20896) : ![starts](https://img.shields.io/github/stars/EQSTLab/CVE-2026-20896.svg) ![forks](https://img.shields.io/github/forks/EQSTLab/CVE-2026-20896.svg)
 
 - [https://github.com/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass](https://github.com/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass) : ![starts](https://img.shields.io/github/stars/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass.svg) ![forks](https://img.shields.io/github/forks/judgedbykira/CVE-2026-20896-Gitea-Authentication-Bypass.svg)
+
+- [https://github.com/yym8538/CVE-2026-20896](https://github.com/yym8538/CVE-2026-20896) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-20896.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-20896.svg)
 
 ## CVE-2026-20871
  Use after free in Desktop Windows Manager allows an authorized attacker to elevate privileges locally.
