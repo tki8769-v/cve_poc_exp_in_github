@@ -408,3 +408,9 @@
 {"cve_id": "CVE-2026-2674", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T22:08:16Z", "url": "https://github.com/lorenzobruno7/CVE-2026-26744", "url_ids": ["CVE-2026-26744"]}
 {"cve_id": "CVE-2024-3177", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T22:10:21Z", "url": "https://github.com/FreySolarEye/Exploit-CVE-2024-31777", "url_ids": ["CVE-2024-31777"]}
 {"cve_id": "CVE-2025-5534", "reason": "prefix_conflict_evidenced", "ts": "2026-10-09T22:20:27Z", "url": "https://github.com/GoldenTicketLabs/CVE-2025-55349", "url_ids": ["CVE-2025-55349"]}
+{"cve_id": "CVE-2026-6919", "reason": "prefix_conflict_evidenced", "ts": "2026-10-10T07:10:15Z", "url": "https://github.com/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass", "url_ids": ["CVE-2026-69191"]}
+{"cve_id": "CVE-2026-9367", "reason": "prefix_conflict_evidenced", "ts": "2026-10-10T07:13:13Z", "url": "https://github.com/rmhowe425/POC-CVE-2026-93674", "url_ids": ["CVE-2026-93674"]}
+{"cve_id": "CVE-2026-3775", "reason": "prefix_conflict_evidenced", "ts": "2026-10-10T07:14:15Z", "url": "https://github.com/menevarad007/CVE-2026-37750", "url_ids": ["CVE-2026-37750"]}
+{"cve_id": "CVE-2025-4601", "reason": "prefix_conflict_evidenced", "ts": "2026-10-10T07:14:19Z", "url": "https://github.com/niranjangaire1995/CVE-2025-46018-CSC-Pay-Mobile-App-Payment-Authentication-Bypass", "url_ids": ["CVE-2025-46018"]}
+{"cve_id": "CVE-2025-6264", "reason": "prefix_conflict_evidenced", "ts": "2026-10-10T07:14:25Z", "url": "https://github.com/Al-Lord0x/CVE-2025-62641", "url_ids": ["CVE-2025-62641"]}
+{"cve_id": "CVE-2024-4937", "reason": "prefix_conflict_evidenced", "ts": "2026-10-10T07:15:26Z", "url": "https://github.com/OHDUDEOKNICE/CVE-2024-49379", "url_ids": ["CVE-2024-49379"]}
