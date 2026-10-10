@@ -2375,6 +2375,16 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
 
 - [https://github.com/Saku0512/CVE-2026-72815-poc](https://github.com/Saku0512/CVE-2026-72815-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-72815-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-72815-poc.svg)
 
+## CVE-2026-72781
+> Craft CMS versions &gt;= 5.0.0-RC1 before 5.10.7 and &gt;= 4.0.0-RC1 before 4.18.3 contain a remote code execution vulnerability in the Twig sandbox mechanism. Because Craft marks the ElementInterface as safe (via the AllowedInSandbox attribute) and the sandbox allowlisting extends to the entire class hierarchy (craft\base\Component up to yii\base\Component), an authenticated attacker with permission to access the control panel can render a malicious Twig template that abuses the yii\base\Component ar
+
+- [https://github.com/TRX-0/CVE-2026-72781-craftcms-sandbox-rce](https://github.com/TRX-0/CVE-2026-72781-craftcms-sandbox-rce) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-72781-craftcms-sandbox-rce.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-72781-craftcms-sandbox-rce.svg)
+
+## CVE-2026-72778
+> Craft CMS versions from 4.0.0-RC1 before 4.18.2 and from 5.0.0-RC1 before 5.10.6 contain an authenticated remote code execution vulnerability in the control panel element-search condition handling. Craft cleanses the outer request-controlled condition array via Component::cleanseConfig(), but Conditions::createCondition() later decodes and merges the JSON string in condition.config without re-running cleanseConfig() on the decoded configuration. Because condition.config is a JSON string during t
+
+- [https://github.com/TRX-0/CVE-2026-72778-craftcms-rce](https://github.com/TRX-0/CVE-2026-72778-craftcms-rce) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-72778-craftcms-rce.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-72778-craftcms-rce.svg)
+
 ## CVE-2026-72744
  Nuxt versions = 4.4.7 and  4.5.1, and = 3.21.7 and  3.21.10, contain an information disclosure vulnerability in the development server's Chrome DevTools workspace endpoint (GET /.well-known/appspecific/com.chrome.devtools.json). The endpoint's local-request gate (isLocalDevRequest) is header-based and trusts the attacker-supplied Host header rather than the connected peer address. When the dev server is bound to a network-reachable interface (e.g. nuxt dev --host) and experimental.chromeDevtoolsProjectSettings is enabled (the default), an unauthenticated attacker on the LAN can send a request with a spoofed Host header and no browser-specific headers (Sec-Fetch-Site, Origin, Referer) to retrieve the project's absolute filesystem root path (rootDir) and a persistent per-project workspace UUID. Production builds are unaffected. Fixed in 4.5.1 and 3.21.10.
 
@@ -50453,6 +50463,8 @@ Users are recommended to upgrade to versions Struts 2.5.33 or Struts 6.3.0.2 or 
 
 - [https://github.com/HuangYanQwQ/CVE-2023-49496](https://github.com/HuangYanQwQ/CVE-2023-49496) : ![starts](https://img.shields.io/github/stars/HuangYanQwQ/CVE-2023-49496.svg) ![forks](https://img.shields.io/github/forks/HuangYanQwQ/CVE-2023-49496.svg)
 
+- [https://github.com/HuangYanQwQ/CVE-2023-49496_PoC](https://github.com/HuangYanQwQ/CVE-2023-49496_PoC) : ![starts](https://img.shields.io/github/stars/HuangYanQwQ/CVE-2023-49496_PoC.svg) ![forks](https://img.shields.io/github/forks/HuangYanQwQ/CVE-2023-49496_PoC.svg)
+
 ## CVE-2023-49471
  Blind Server-Side Request Forgery (SSRF) vulnerability in karlomikus Bar Assistant before version 3.2.0 does not validate a parameter before making a request through Image::make(), which could allow authenticated remote attackers to execute arbitrary code.
 
@@ -79118,6 +79130,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/shoucheng3/apache__struts_CVE-2020-17530_2-5-25](https://github.com/shoucheng3/apache__struts_CVE-2020-17530_2-5-25) : ![starts](https://img.shields.io/github/stars/shoucheng3/apache__struts_CVE-2020-17530_2-5-25.svg) ![forks](https://img.shields.io/github/forks/shoucheng3/apache__struts_CVE-2020-17530_2-5-25.svg)
 
 - [https://github.com/154802388/CVE-2020-17531](https://github.com/154802388/CVE-2020-17531) : ![starts](https://img.shields.io/github/stars/154802388/CVE-2020-17531.svg) ![forks](https://img.shields.io/github/forks/154802388/CVE-2020-17531.svg)
+
+- [https://github.com/nth347/struts2-CVE-2020-17530](https://github.com/nth347/struts2-CVE-2020-17530) : ![starts](https://img.shields.io/github/stars/nth347/struts2-CVE-2020-17530.svg) ![forks](https://img.shields.io/github/forks/nth347/struts2-CVE-2020-17530.svg)
 
 ## CVE-2020-17527
  While investigating bug 64830 it was discovered that Apache Tomcat 10.0.0-M1 to 10.0.0-M9, 9.0.0-M1 to 9.0.39 and 8.5.0 to 8.5.59 could re-use an HTTP request header value from the previous stream received on an HTTP/2 connection for the request associated with the subsequent stream. While this would most likely lead to an error and the closure of the HTTP/2 connection, it is possible that information could leak between requests.

@@ -2374,6 +2374,16 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
 
 - [https://github.com/Saku0512/CVE-2026-72815-poc](https://github.com/Saku0512/CVE-2026-72815-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-72815-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-72815-poc.svg)
 
+## CVE-2026-72781
+> Craft CMS versions &gt;= 5.0.0-RC1 before 5.10.7 and &gt;= 4.0.0-RC1 before 4.18.3 contain a remote code execution vulnerability in the Twig sandbox mechanism. Because Craft marks the ElementInterface as safe (via the AllowedInSandbox attribute) and the sandbox allowlisting extends to the entire class hierarchy (craft\base\Component up to yii\base\Component), an authenticated attacker with permission to access the control panel can render a malicious Twig template that abuses the yii\base\Component ar
+
+- [https://github.com/TRX-0/CVE-2026-72781-craftcms-sandbox-rce](https://github.com/TRX-0/CVE-2026-72781-craftcms-sandbox-rce) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-72781-craftcms-sandbox-rce.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-72781-craftcms-sandbox-rce.svg)
+
+## CVE-2026-72778
+> Craft CMS versions from 4.0.0-RC1 before 4.18.2 and from 5.0.0-RC1 before 5.10.6 contain an authenticated remote code execution vulnerability in the control panel element-search condition handling. Craft cleanses the outer request-controlled condition array via Component::cleanseConfig(), but Conditions::createCondition() later decodes and merges the JSON string in condition.config without re-running cleanseConfig() on the decoded configuration. Because condition.config is a JSON string during t
+
+- [https://github.com/TRX-0/CVE-2026-72778-craftcms-rce](https://github.com/TRX-0/CVE-2026-72778-craftcms-rce) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-72778-craftcms-rce.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-72778-craftcms-rce.svg)
+
 ## CVE-2026-72744
  Nuxt versions = 4.4.7 and  4.5.1, and = 3.21.7 and  3.21.10, contain an information disclosure vulnerability in the development server's Chrome DevTools workspace endpoint (GET /.well-known/appspecific/com.chrome.devtools.json). The endpoint's local-request gate (isLocalDevRequest) is header-based and trusts the attacker-supplied Host header rather than the connected peer address. When the dev server is bound to a network-reachable interface (e.g. nuxt dev --host) and experimental.chromeDevtoolsProjectSettings is enabled (the default), an unauthenticated attacker on the LAN can send a request with a spoofed Host header and no browser-specific headers (Sec-Fetch-Site, Origin, Referer) to retrieve the project's absolute filesystem root path (rootDir) and a persistent per-project workspace UUID. Production builds are unaffected. Fixed in 4.5.1 and 3.21.10.
 

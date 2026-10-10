@@ -1401,6 +1401,8 @@
 
 - [https://github.com/154802388/CVE-2020-17531](https://github.com/154802388/CVE-2020-17531) : ![starts](https://img.shields.io/github/stars/154802388/CVE-2020-17531.svg) ![forks](https://img.shields.io/github/forks/154802388/CVE-2020-17531.svg)
 
+- [https://github.com/nth347/struts2-CVE-2020-17530](https://github.com/nth347/struts2-CVE-2020-17530) : ![starts](https://img.shields.io/github/stars/nth347/struts2-CVE-2020-17530.svg) ![forks](https://img.shields.io/github/forks/nth347/struts2-CVE-2020-17530.svg)
+
 ## CVE-2020-17527
  While investigating bug 64830 it was discovered that Apache Tomcat 10.0.0-M1 to 10.0.0-M9, 9.0.0-M1 to 9.0.39 and 8.5.0 to 8.5.59 could re-use an HTTP request header value from the previous stream received on an HTTP/2 connection for the request associated with the subsequent stream. While this would most likely lead to an error and the closure of the HTTP/2 connection, it is possible that information could leak between requests.
 

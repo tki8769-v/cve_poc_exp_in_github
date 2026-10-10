@@ -2310,3 +2310,7 @@
 {"cve_id": "CVE-2026-102428", "ts": "2026-10-10T15:25:58Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-102428"}
 {"cve_id": "CVE-2026-103690", "ts": "2026-10-10T15:25:58Z", "type": "new_poc", "url": "https://github.com/Masuer-mengxing/CVE-2026-103690"}
 {"cve_id": "CVE-2026-21589", "ts": "2026-10-10T15:25:58Z", "type": "new_poc", "url": "https://github.com/webserverdude/f5_CVE-2026-21589_mitigation"}
+{"cve_id": "CVE-2020-17530", "ts": "2026-10-10T15:39:12Z", "type": "new_poc", "url": "https://github.com/nth347/struts2-CVE-2020-17530"}
+{"cve_id": "CVE-2026-72778", "ts": "2026-10-10T15:42:17Z", "type": "new_poc", "url": "https://github.com/TRX-0/CVE-2026-72778-craftcms-rce"}
+{"cve_id": "CVE-2026-72781", "ts": "2026-10-10T15:42:18Z", "type": "new_poc", "url": "https://github.com/TRX-0/CVE-2026-72781-craftcms-sandbox-rce"}
+{"cve_id": "CVE-2023-49496", "ts": "2026-10-10T15:43:15Z", "type": "new_poc", "url": "https://github.com/HuangYanQwQ/CVE-2023-49496_PoC"}

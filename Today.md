@@ -3,6 +3,10 @@
 
 - [https://github.com/nouhaila2030/apache-tomcat-security-audit](https://github.com/nouhaila2030/apache-tomcat-security-audit) : ![starts](https://img.shields.io/github/stars/nouhaila2030/apache-tomcat-security-audit.svg) ![forks](https://img.shields.io/github/forks/nouhaila2030/apache-tomcat-security-audit.svg)
 
+## CVE-2020-17530
+
+- [https://github.com/nth347/struts2-CVE-2020-17530](https://github.com/nth347/struts2-CVE-2020-17530) : ![starts](https://img.shields.io/github/stars/nth347/struts2-CVE-2020-17530.svg) ![forks](https://img.shields.io/github/forks/nth347/struts2-CVE-2020-17530.svg)
+
 ## CVE-2021-3129
 
 - [https://github.com/cchiaravalentini/CVE-2021-3129](https://github.com/cchiaravalentini/CVE-2021-3129) : ![starts](https://img.shields.io/github/stars/cchiaravalentini/CVE-2021-3129.svg) ![forks](https://img.shields.io/github/forks/cchiaravalentini/CVE-2021-3129.svg)
@@ -10,6 +14,10 @@
 ## CVE-2021-42023
 
 - [https://github.com/Geeoon/ModelSim-Decryptor](https://github.com/Geeoon/ModelSim-Decryptor) : ![starts](https://img.shields.io/github/stars/Geeoon/ModelSim-Decryptor.svg) ![forks](https://img.shields.io/github/forks/Geeoon/ModelSim-Decryptor.svg)
+
+## CVE-2023-49496
+
+- [https://github.com/HuangYanQwQ/CVE-2023-49496_PoC](https://github.com/HuangYanQwQ/CVE-2023-49496_PoC) : ![starts](https://img.shields.io/github/stars/HuangYanQwQ/CVE-2023-49496_PoC.svg) ![forks](https://img.shields.io/github/forks/HuangYanQwQ/CVE-2023-49496_PoC.svg)
 
 ## CVE-2024-4367
 
@@ -77,6 +85,16 @@
 ## CVE-2026-43284
 
 - [https://github.com/mhdnihan/CVE-2026-43284-DIRTY-FRAG-](https://github.com/mhdnihan/CVE-2026-43284-DIRTY-FRAG-) : ![starts](https://img.shields.io/github/stars/mhdnihan/CVE-2026-43284-DIRTY-FRAG-.svg) ![forks](https://img.shields.io/github/forks/mhdnihan/CVE-2026-43284-DIRTY-FRAG-.svg)
+
+## CVE-2026-72778
+> Craft CMS versions from 4.0.0-RC1 before 4.18.2 and from 5.0.0-RC1 before 5.10.6 contain an authenticated remote code execution vulnerability in the control panel element-search condition handling. Craft cleanses the outer request-controlled condition array via Component::cleanseConfig(), but Conditions::createCondition() later decodes and merges the JSON string in condition.config without re-running cleanseConfig() on the decoded configuration. Because condition.config is a JSON string during t
+
+- [https://github.com/TRX-0/CVE-2026-72778-craftcms-rce](https://github.com/TRX-0/CVE-2026-72778-craftcms-rce) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-72778-craftcms-rce.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-72778-craftcms-rce.svg)
+
+## CVE-2026-72781
+> Craft CMS versions &gt;= 5.0.0-RC1 before 5.10.7 and &gt;= 4.0.0-RC1 before 4.18.3 contain a remote code execution vulnerability in the Twig sandbox mechanism. Because Craft marks the ElementInterface as safe (via the AllowedInSandbox attribute) and the sandbox allowlisting extends to the entire class hierarchy (craft\base\Component up to yii\base\Component), an authenticated attacker with permission to access the control panel can render a malicious Twig template that abuses the yii\base\Component ar
+
+- [https://github.com/TRX-0/CVE-2026-72781-craftcms-sandbox-rce](https://github.com/TRX-0/CVE-2026-72781-craftcms-sandbox-rce) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-72781-craftcms-sandbox-rce.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-72781-craftcms-sandbox-rce.svg)
 
 ## CVE-2026-84520
 
