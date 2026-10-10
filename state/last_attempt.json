@@ -15,7 +15,7 @@
     },
     "clean_apply": {
       "affected_years": [],
-      "applied_at": "2026-10-10T07:30:38Z",
+      "applied_at": "2026-10-10T07:40:48Z",
       "applied_rejected": 0,
       "revoked_accepted": 0,
       "revoked_rejected": 0,
@@ -24,16 +24,16 @@
     },
     "queue": {
       "due_by_priority": {
-        "0": 1839,
-        "5": 7160,
-        "8": 7177
+        "0": 1689,
+        "5": 7070,
+        "8": 7120
       },
-      "due_now": 16176,
-      "oldest_due": "2026-09-27T06:40:56Z",
+      "due_now": 15879,
+      "oldest_due": "2026-09-27T07:52:49Z",
       "oldest_due_by_priority": {
         "0": "2026-10-09T07:33:56Z",
-        "5": "2026-09-27T06:40:56Z",
-        "8": "2026-09-29T08:36:46Z"
+        "5": "2026-09-27T07:52:49Z",
+        "8": "2026-09-29T08:38:53Z"
       },
       "tasks_total": 25156
     },
@@ -69,14 +69,14 @@
       "budget_stopped": true,
       "incomplete": 0,
       "invalid_id_skipped": 0,
-      "needs_review": 44,
-      "new_relations": 1,
-      "rejected_at_collection": 0,
-      "scanned": 300,
+      "needs_review": 128,
+      "new_relations": 2,
+      "rejected_at_collection": 135,
+      "scanned": 298,
       "scanned_by_priority": {
-        "0": 151,
+        "0": 150,
         "5": 90,
-        "8": 60
+        "8": 59
       },
       "task_errors": 0,
       "tasks_due": 10000
@@ -93,16 +93,16 @@
       "releases_seen": 30
     },
     "timing": {
-      "backfill_conflicts": 8.908,
-      "backfill_queue": 0.208,
-      "clean_apply": 0.257,
-      "queue": 0.117,
-      "recheck": 0.174,
-      "render": 0.657,
-      "repo_watch": 1.225,
-      "scan": 592.478,
-      "sync": 0.608,
-      "verify": 0.52
+      "backfill_conflicts": 8.841,
+      "backfill_queue": 0.231,
+      "clean_apply": 0.264,
+      "queue": 0.123,
+      "recheck": 0.17,
+      "render": 0.695,
+      "repo_watch": 1.289,
+      "scan": 593.497,
+      "sync": 0.642,
+      "verify": 0.537
     },
     "verify": {
       "downstream_checked": true,
@@ -111,5 +111,5 @@
       "problems": []
     }
   },
-  "ts": "2026-10-10T07:30:39Z"
+  "ts": "2026-10-10T07:40:50Z"
 }

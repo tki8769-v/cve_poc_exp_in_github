@@ -11316,6 +11316,8 @@ Users are advised to upgrade to Apache Log4j Core 2.25.4, which corrects this is
 
 - [https://github.com/EQSTLab/CVE-2026-34220](https://github.com/EQSTLab/CVE-2026-34220) : ![starts](https://img.shields.io/github/stars/EQSTLab/CVE-2026-34220.svg) ![forks](https://img.shields.io/github/forks/EQSTLab/CVE-2026-34220.svg)
 
+- [https://github.com/yym8538/CVE-2026-34220](https://github.com/yym8538/CVE-2026-34220) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-34220.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-34220.svg)
+
 ## CVE-2026-34213
  Docmost is open-source collaborative wiki and documentation software. Starting in version 0.3.0 and prior to version 0.71.0, improper authorization in Docmost allows a low-privileged authenticated user to overwrite another page's attachment within the same workspace by supplying a victim `attachmentId` to `POST /api/files/upload`. This is a remote integrity issue requiring no victim interaction. Version 0.71.0 contains a patch.
 
@@ -20566,6 +20568,8 @@ Successful exploitation allows an authenticated attacker to execute system comma
 - [https://github.com/Y5neKO/copy-fail-CVE-2026-31431-universal](https://github.com/Y5neKO/copy-fail-CVE-2026-31431-universal) : ![starts](https://img.shields.io/github/stars/Y5neKO/copy-fail-CVE-2026-31431-universal.svg) ![forks](https://img.shields.io/github/forks/Y5neKO/copy-fail-CVE-2026-31431-universal.svg)
 
 - [https://github.com/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing](https://github.com/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing) : ![starts](https://img.shields.io/github/stars/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing.svg) ![forks](https://img.shields.io/github/forks/AvPrince26/copy-fail-CVE-2026-31431-Python-Golfing.svg)
+
+- [https://github.com/ClimbMunchkin/fix-cve-2026-3143](https://github.com/ClimbMunchkin/fix-cve-2026-3143) : ![starts](https://img.shields.io/github/stars/ClimbMunchkin/fix-cve-2026-3143.svg) ![forks](https://img.shields.io/github/forks/ClimbMunchkin/fix-cve-2026-3143.svg)
 
 ## CVE-2026-3136
  An improper authorization vulnerability in GitHub Trigger Comment Control in Google Cloud Build prior to 2026-1-26 allows a remote attacker to execute arbitrary code in the build environment.

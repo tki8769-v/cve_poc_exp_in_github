@@ -2302,3 +2302,5 @@
 {"cve_id": "CVE-2021-3129", "ts": "2026-10-10T07:13:19Z", "type": "new_poc", "url": "https://github.com/cchiaravalentini/CVE-2021-3129"}
 {"cve_id": "CVE-2026-16723", "ts": "2026-10-10T07:19:20Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-16723"}
 {"cve_id": "CVE-2026-43284", "ts": "2026-10-10T07:23:32Z", "type": "new_poc", "url": "https://github.com/mhdnihan/CVE-2026-43284-DIRTY-FRAG-"}
+{"cve_id": "CVE-2026-3143", "ts": "2026-10-10T07:31:34Z", "type": "new_poc", "url": "https://github.com/ClimbMunchkin/fix-cve-2026-3143"}
+{"cve_id": "CVE-2026-34220", "ts": "2026-10-10T07:39:36Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-34220"}

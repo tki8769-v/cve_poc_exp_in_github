@@ -33,6 +33,14 @@
 
 - [https://github.com/yym8538/CVE-2026-16723](https://github.com/yym8538/CVE-2026-16723) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-16723.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-16723.svg)
 
+## CVE-2026-3143
+
+- [https://github.com/ClimbMunchkin/fix-cve-2026-3143](https://github.com/ClimbMunchkin/fix-cve-2026-3143) : ![starts](https://img.shields.io/github/stars/ClimbMunchkin/fix-cve-2026-3143.svg) ![forks](https://img.shields.io/github/forks/ClimbMunchkin/fix-cve-2026-3143.svg)
+
+## CVE-2026-34220
+
+- [https://github.com/yym8538/CVE-2026-34220](https://github.com/yym8538/CVE-2026-34220) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-34220.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-34220.svg)
+
 ## CVE-2026-37107
 
 - [https://github.com/KyrieKlay/CVE-2026-37107](https://github.com/KyrieKlay/CVE-2026-37107) : ![starts](https://img.shields.io/github/stars/KyrieKlay/CVE-2026-37107.svg) ![forks](https://img.shields.io/github/forks/KyrieKlay/CVE-2026-37107.svg)
