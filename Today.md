@@ -37,6 +37,10 @@
 
 - [https://github.com/KyrieKlay/CVE-2026-37107](https://github.com/KyrieKlay/CVE-2026-37107) : ![starts](https://img.shields.io/github/stars/KyrieKlay/CVE-2026-37107.svg) ![forks](https://img.shields.io/github/forks/KyrieKlay/CVE-2026-37107.svg)
 
+## CVE-2026-43284
+
+- [https://github.com/mhdnihan/CVE-2026-43284-DIRTY-FRAG-](https://github.com/mhdnihan/CVE-2026-43284-DIRTY-FRAG-) : ![starts](https://img.shields.io/github/stars/mhdnihan/CVE-2026-43284-DIRTY-FRAG-.svg) ![forks](https://img.shields.io/github/forks/mhdnihan/CVE-2026-43284-DIRTY-FRAG-.svg)
+
 ## CVE-2026-84520
 
 - [https://github.com/csrXamfi/CVE-2026-84520](https://github.com/csrXamfi/CVE-2026-84520) : ![starts](https://img.shields.io/github/stars/csrXamfi/CVE-2026-84520.svg) ![forks](https://img.shields.io/github/forks/csrXamfi/CVE-2026-84520.svg)
