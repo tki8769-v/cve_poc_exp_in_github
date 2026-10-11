@@ -2384,3 +2384,4 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-10-11T15:43:04Z", "type": "new_poc", "url": "https://github.com/OhMyDitzzy/GhostLock-Next"}
 {"cve_id": "CVE-2026-42945", "ts": "2026-10-11T15:43:04Z", "type": "new_poc", "url": "https://github.com/rune42/ElasticRift"}
 {"cve_id": "CVE-2026-81000", "ts": "2026-10-11T15:43:33Z", "type": "new_poc", "url": "https://github.com/suominen/tunderflow"}
+{"cve_id": "CVE-2026-29000", "ts": "2026-10-11T16:04:58Z", "type": "new_poc", "url": "https://github.com/Erikgavs/CVE-2026-29000"}

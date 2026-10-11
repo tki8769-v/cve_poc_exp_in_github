@@ -659,3 +659,17 @@
 {"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T15:54:26Z", "url": "https://github.com/Cappricio-Securities/CVE-2021-40438", "url_ids": ["CVE-2021-40438"]}
 {"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T15:54:26Z", "url": "https://github.com/gassara-kys/CVE-2021-40438", "url_ids": ["CVE-2021-40438"]}
 {"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T15:54:26Z", "url": "https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2024-4434", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:05:16Z", "url": "https://github.com/sahil3276/CVE-2024-44346", "url_ids": ["CVE-2024-44346"]}
+{"cve_id": "CVE-2023-2877", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:09:46Z", "url": "https://github.com/benjaminhays/CVE-2023-28771-PoC", "url_ids": ["CVE-2023-28771"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:12:40Z", "url": "https://github.com/H454NSec/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:12:40Z", "url": "https://github.com/B4l3rI0n/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:12:40Z", "url": "https://github.com/Zenmovie/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:12:40Z", "url": "https://github.com/synacktiv/CVE-2023-42791_CVE-2024-23666", "url_ids": ["CVE-2023-42791", "CVE-2024-23666"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:12:40Z", "url": "https://github.com/hhesenjan/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:12:40Z", "url": "https://github.com/junnythemarksman/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:12:40Z", "url": "https://github.com/SwiftSecur/teamcity-exploit-cve-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:12:40Z", "url": "https://github.com/cxdxnt/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:12:40Z", "url": "https://github.com/FlojBoj/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:12:40Z", "url": "https://github.com/becrevex/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:12:40Z", "url": "https://github.com/burakacar6/CVE-2023-42793-TeamCity-Unauthenticated-RCE", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2026-5159", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:13:46Z", "url": "https://github.com/ardakrg/CVE-2026-51592", "url_ids": ["CVE-2026-51592"]}
