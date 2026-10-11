@@ -1,4 +1,8 @@
 # Update 2026-10-11
+## CVE-2021-41773
+
+- [https://github.com/Atamutlu33/cve-to-shell](https://github.com/Atamutlu33/cve-to-shell) : ![starts](https://img.shields.io/github/stars/Atamutlu33/cve-to-shell.svg) ![forks](https://img.shields.io/github/forks/Atamutlu33/cve-to-shell.svg)
+
 ## CVE-2025-24813
 
 - [https://github.com/toyplan/cve-2025-24813](https://github.com/toyplan/cve-2025-24813) : ![starts](https://img.shields.io/github/stars/toyplan/cve-2025-24813.svg) ![forks](https://img.shields.io/github/forks/toyplan/cve-2025-24813.svg)
@@ -53,17 +57,46 @@
 
 - [https://github.com/Farih123/CVE-2026-104335](https://github.com/Farih123/CVE-2026-104335) : ![starts](https://img.shields.io/github/stars/Farih123/CVE-2026-104335.svg) ![forks](https://img.shields.io/github/forks/Farih123/CVE-2026-104335.svg)
 
+## CVE-2026-107406
+> Memory overflow vulnerability leading to Remote Code Execution or Denial of Service Vulnerability in NetScaler ADC.
+
+
+NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, subject to the following version-specific requirements:
+
+
+
+ 
+
+  *  For the following versions: Applicable only when configured as a SAML IdP:
+  *  NetScaler ADC and NetScaler Gateway between 14.1-73.37 and 14.1-73.41, inclusive
+  *  NetScaler ADC 14.1-FIPS between 14.1-73.37 FIPS and 14.1-73.41 FIPS, 
+
+- [https://github.com/ctroy999/CVE-2026-107406](https://github.com/ctroy999/CVE-2026-107406) : ![starts](https://img.shields.io/github/stars/ctroy999/CVE-2026-107406.svg) ![forks](https://img.shields.io/github/forks/ctroy999/CVE-2026-107406.svg)
+
 ## CVE-2026-108592
 > mini-swe-agent 1.10.0 through 2.4.6 contains an information exposure vulnerability in BubblewrapEnvironment because bwrap omits --clearenv, so sandboxed commands inherit the host environment. Attackers using prompt injection in processed task content can make the agent read API keys from the environment and exfiltrate them over the shared network.
 
 - [https://github.com/asvorg/CVE-2026-108592-poc](https://github.com/asvorg/CVE-2026-108592-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-108592-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-108592-poc.svg)
 
+## CVE-2026-27626
+
+- [https://github.com/Shisones/CVE-2026-27626](https://github.com/Shisones/CVE-2026-27626) : ![starts](https://img.shields.io/github/stars/Shisones/CVE-2026-27626.svg) ![forks](https://img.shields.io/github/forks/Shisones/CVE-2026-27626.svg)
+
 ## CVE-2026-38812
 
 - [https://github.com/YYF1337/RuoYi-CVE-2026-38812-UNFIX](https://github.com/YYF1337/RuoYi-CVE-2026-38812-UNFIX) : ![starts](https://img.shields.io/github/stars/YYF1337/RuoYi-CVE-2026-38812-UNFIX.svg) ![forks](https://img.shields.io/github/forks/YYF1337/RuoYi-CVE-2026-38812-UNFIX.svg)
 
+## CVE-2026-40224
+
+- [https://github.com/0xparad0x/Exploit-CVE-2026-40224](https://github.com/0xparad0x/Exploit-CVE-2026-40224) : ![starts](https://img.shields.io/github/stars/0xparad0x/Exploit-CVE-2026-40224.svg) ![forks](https://img.shields.io/github/forks/0xparad0x/Exploit-CVE-2026-40224.svg)
+
+## CVE-2026-42945
+
+- [https://github.com/rune42/ElasticRift](https://github.com/rune42/ElasticRift) : ![starts](https://img.shields.io/github/stars/rune42/ElasticRift.svg) ![forks](https://img.shields.io/github/forks/rune42/ElasticRift.svg)
+
 ## CVE-2026-43499
 
+- [https://github.com/OhMyDitzzy/GhostLock-Next](https://github.com/OhMyDitzzy/GhostLock-Next) : ![starts](https://img.shields.io/github/stars/OhMyDitzzy/GhostLock-Next.svg) ![forks](https://img.shields.io/github/forks/OhMyDitzzy/GhostLock-Next.svg)
 - [https://github.com/pubglite55/oppofindN2-ghostlock](https://github.com/pubglite55/oppofindN2-ghostlock) : ![starts](https://img.shields.io/github/stars/pubglite55/oppofindN2-ghostlock.svg) ![forks](https://img.shields.io/github/forks/pubglite55/oppofindN2-ghostlock.svg)
 - [https://github.com/villager1314/CVE-2026-43499-Analysis](https://github.com/villager1314/CVE-2026-43499-Analysis) : ![starts](https://img.shields.io/github/stars/villager1314/CVE-2026-43499-Analysis.svg) ![forks](https://img.shields.io/github/forks/villager1314/CVE-2026-43499-Analysis.svg)
 
@@ -82,3 +115,7 @@
 This issue affects AVESİS: from 202608201331 before 202608240351.
 
 - [https://github.com/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti](https://github.com/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti) : ![starts](https://img.shields.io/github/stars/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti.svg) ![forks](https://img.shields.io/github/forks/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti.svg)
+
+## CVE-2026-81000
+
+- [https://github.com/suominen/tunderflow](https://github.com/suominen/tunderflow) : ![starts](https://img.shields.io/github/stars/suominen/tunderflow.svg) ![forks](https://img.shields.io/github/forks/suominen/tunderflow.svg)

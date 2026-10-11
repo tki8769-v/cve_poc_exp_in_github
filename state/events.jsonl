@@ -2377,3 +2377,10 @@
 {"cve_id": "CVE-2025-29927", "ts": "2026-10-11T07:31:03Z", "type": "new_poc", "url": "https://github.com/mickhacking/Thank-u-Next"}
 {"cve_id": "CVE-2025-29927", "ts": "2026-10-11T07:31:03Z", "type": "new_poc", "url": "https://github.com/bk-security/auth-header-trust-rules"}
 {"cve_id": "CVE-2025-29927", "ts": "2026-10-11T07:31:03Z", "type": "new_poc", "url": "https://github.com/kazuya256/nextjs-auth-bypass-poc"}
+{"cve_id": "CVE-2026-27626", "ts": "2026-10-11T15:43:04Z", "type": "new_poc", "url": "https://github.com/Shisones/CVE-2026-27626"}
+{"cve_id": "CVE-2021-41773", "ts": "2026-10-11T15:43:04Z", "type": "new_poc", "url": "https://github.com/Atamutlu33/cve-to-shell"}
+{"cve_id": "CVE-2026-107406", "ts": "2026-10-11T15:43:04Z", "type": "new_poc", "url": "https://github.com/ctroy999/CVE-2026-107406"}
+{"cve_id": "CVE-2026-40224", "ts": "2026-10-11T15:43:04Z", "type": "new_poc", "url": "https://github.com/0xparad0x/Exploit-CVE-2026-40224"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-11T15:43:04Z", "type": "new_poc", "url": "https://github.com/OhMyDitzzy/GhostLock-Next"}
+{"cve_id": "CVE-2026-42945", "ts": "2026-10-11T15:43:04Z", "type": "new_poc", "url": "https://github.com/rune42/ElasticRift"}
+{"cve_id": "CVE-2026-81000", "ts": "2026-10-11T15:43:33Z", "type": "new_poc", "url": "https://github.com/suominen/tunderflow"}

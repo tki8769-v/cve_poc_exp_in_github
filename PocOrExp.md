@@ -27,6 +27,8 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 - [https://github.com/ApexBreach/CVE-2026-107406-Poc](https://github.com/ApexBreach/CVE-2026-107406-Poc) : ![starts](https://img.shields.io/github/stars/ApexBreach/CVE-2026-107406-Poc.svg) ![forks](https://img.shields.io/github/forks/ApexBreach/CVE-2026-107406-Poc.svg)
 
+- [https://github.com/ctroy999/CVE-2026-107406](https://github.com/ctroy999/CVE-2026-107406) : ![starts](https://img.shields.io/github/stars/ctroy999/CVE-2026-107406.svg) ![forks](https://img.shields.io/github/forks/ctroy999/CVE-2026-107406.svg)
+
 ## CVE-2026-107268
 
 - [https://github.com/yuwkaaa/CVE-2026-107268](https://github.com/yuwkaaa/CVE-2026-107268) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-107268.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-107268.svg)
@@ -1534,6 +1536,8 @@ other allocation paths.
 - [https://github.com/HORKimhab/CVE-2026-81000](https://github.com/HORKimhab/CVE-2026-81000) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-81000.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-81000.svg)
 
 - [https://github.com/0xBlackash/CVE-2026-81000](https://github.com/0xBlackash/CVE-2026-81000) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-81000.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-81000.svg)
+
+- [https://github.com/suominen/tunderflow](https://github.com/suominen/tunderflow) : ![starts](https://img.shields.io/github/stars/suominen/tunderflow.svg) ![forks](https://img.shields.io/github/forks/suominen/tunderflow.svg)
 
 ## CVE-2026-80844
  In the Linux kernel, the following vulnerability has been resolved:
@@ -8897,6 +8901,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/villager1314/CVE-2026-43499-Analysis](https://github.com/villager1314/CVE-2026-43499-Analysis) : ![starts](https://img.shields.io/github/stars/villager1314/CVE-2026-43499-Analysis.svg) ![forks](https://img.shields.io/github/forks/villager1314/CVE-2026-43499-Analysis.svg)
 
+- [https://github.com/OhMyDitzzy/GhostLock-Next](https://github.com/OhMyDitzzy/GhostLock-Next) : ![starts](https://img.shields.io/github/stars/OhMyDitzzy/GhostLock-Next.svg) ![forks](https://img.shields.io/github/forks/OhMyDitzzy/GhostLock-Next.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -9273,6 +9279,8 @@ Defer the kfree() to an RCU callback to prevent UAF.
 - [https://github.com/CynepMyx/nginx-rift-check](https://github.com/CynepMyx/nginx-rift-check) : ![starts](https://img.shields.io/github/stars/CynepMyx/nginx-rift-check.svg) ![forks](https://img.shields.io/github/forks/CynepMyx/nginx-rift-check.svg)
 
 - [https://github.com/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit](https://github.com/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit) : ![starts](https://img.shields.io/github/stars/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit.svg) ![forks](https://img.shields.io/github/forks/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit.svg)
+
+- [https://github.com/rune42/ElasticRift](https://github.com/rune42/ElasticRift) : ![starts](https://img.shields.io/github/stars/rune42/ElasticRift.svg) ![forks](https://img.shields.io/github/forks/rune42/ElasticRift.svg)
 
 ## CVE-2026-42926
  When NGINX Open Source is configured to proxy HTTP/2 traffic by setting proxy_http_version to 2, and also uses proxy_set_body, an attacker may be able to inject frame headers and payload bytes to the upstream peer.  Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
@@ -10347,6 +10355,10 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 - [https://github.com/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC](https://github.com/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC) : ![starts](https://img.shields.io/github/stars/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC.svg) ![forks](https://img.shields.io/github/forks/terminat0r7031/composer-CVE-2026-40261-CVE-2026-40176-PoC.svg)
 
 - [https://github.com/daptheHuman/cve-2026-40176-cve-2026-40261](https://github.com/daptheHuman/cve-2026-40176-cve-2026-40261) : ![starts](https://img.shields.io/github/stars/daptheHuman/cve-2026-40176-cve-2026-40261.svg) ![forks](https://img.shields.io/github/forks/daptheHuman/cve-2026-40176-cve-2026-40261.svg)
+
+## CVE-2026-40224
+
+- [https://github.com/0xparad0x/Exploit-CVE-2026-40224](https://github.com/0xparad0x/Exploit-CVE-2026-40224) : ![starts](https://img.shields.io/github/stars/0xparad0x/Exploit-CVE-2026-40224.svg) ![forks](https://img.shields.io/github/forks/0xparad0x/Exploit-CVE-2026-40224.svg)
 
 ## CVE-2026-40217
  LiteLLM through 2026-04-08 allows remote attackers to execute arbitrary code via bytecode rewriting at the /guardrails/test_custom_code URI.
@@ -13885,6 +13897,8 @@ Only instances in the following version ranges are affected:
 - [https://github.com/0xh7ml/CVE-2026-27626-PoC](https://github.com/0xh7ml/CVE-2026-27626-PoC) : ![starts](https://img.shields.io/github/stars/0xh7ml/CVE-2026-27626-PoC.svg) ![forks](https://img.shields.io/github/forks/0xh7ml/CVE-2026-27626-PoC.svg)
 
 - [https://github.com/abdelhakimgaferNetworkSec/Enigm-Writeup](https://github.com/abdelhakimgaferNetworkSec/Enigm-Writeup) : ![starts](https://img.shields.io/github/stars/abdelhakimgaferNetworkSec/Enigm-Writeup.svg) ![forks](https://img.shields.io/github/forks/abdelhakimgaferNetworkSec/Enigm-Writeup.svg)
+
+- [https://github.com/Shisones/CVE-2026-27626](https://github.com/Shisones/CVE-2026-27626) : ![starts](https://img.shields.io/github/stars/Shisones/CVE-2026-27626.svg) ![forks](https://img.shields.io/github/forks/Shisones/CVE-2026-27626.svg)
 
 ## CVE-2026-27621
  TypiCMS is a multilingual content management system based on the Laravel framework. A Stored Cross-Site Scripting (XSS) vulnerability exists in the file upload module of TypiCMS prior to version 16.1.7. The application allows users with file upload permissions to upload SVG files. While there is a MIME type validation, the content of the SVG file is not sanitized. An attacker can upload a specially crafted SVG file containing malicious JavaScript code. When another user (such as an administrator) views or accesses this file through the application, the script executes in their browser, leading to a compromise of that user's session. The issue is exacerbated by a bug in the SVG parsing logic, which can cause a 500 error if the uploaded SVG does not contain a `viewBox` attribute. However, this does not mitigate the XSS vulnerability, as an attacker can easily include a valid `viewBox` attribute in their malicious payload. Version 16.1.7 of TypiCMS Core fixes the issue.
@@ -71318,6 +71332,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/zubairahm3d/apache-cve-2021-41773-lab](https://github.com/zubairahm3d/apache-cve-2021-41773-lab) : ![starts](https://img.shields.io/github/stars/zubairahm3d/apache-cve-2021-41773-lab.svg) ![forks](https://img.shields.io/github/forks/zubairahm3d/apache-cve-2021-41773-lab.svg)
 
 - [https://github.com/CyberCTF/vulhub-httpd-cve-2021-41773](https://github.com/CyberCTF/vulhub-httpd-cve-2021-41773) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-httpd-cve-2021-41773.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-httpd-cve-2021-41773.svg)
+
+- [https://github.com/Atamutlu33/cve-to-shell](https://github.com/Atamutlu33/cve-to-shell) : ![starts](https://img.shields.io/github/stars/Atamutlu33/cve-to-shell.svg) ![forks](https://img.shields.io/github/forks/Atamutlu33/cve-to-shell.svg)
 
 ## CVE-2021-41753
  A denial-of-service attack in WPA2, and WPA3-SAE authentication methods in D-Link DIR-X1560, v1.04B04, and DIR-X6060, v1.11B04 allows a remote unauthenticated attacker to disconnect a wireless client via sending specific spoofed SAE authentication frames.
