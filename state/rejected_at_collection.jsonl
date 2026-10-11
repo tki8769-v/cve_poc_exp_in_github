@@ -654,3 +654,8 @@
 {"cve_id": "CVE-2025-4460", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T15:45:18Z", "url": "https://github.com/mr-xmen786/CVE-2025-44608", "url_ids": ["CVE-2025-44608"]}
 {"cve_id": "CVE-2022-3860", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T15:53:15Z", "url": "https://github.com/LucaBarile/CVE-2022-38604", "url_ids": ["CVE-2022-38604"]}
 {"cve_id": "CVE-2022-3860", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T15:53:15Z", "url": "https://github.com/jet-pentest/CVE-2022-38601", "url_ids": ["CVE-2022-38601"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T15:54:26Z", "url": "https://github.com/sixpacksecurity/CVE-2021-40438", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T15:54:26Z", "url": "https://github.com/sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T15:54:26Z", "url": "https://github.com/Cappricio-Securities/CVE-2021-40438", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T15:54:26Z", "url": "https://github.com/gassara-kys/CVE-2021-40438", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T15:54:26Z", "url": "https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt", "url_ids": ["CVE-2021-40438"]}
