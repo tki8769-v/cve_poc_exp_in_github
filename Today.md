@@ -1,4 +1,8 @@
 # Update 2026-10-11
+## CVE-2018-7600
+
+- [https://github.com/Aihikk/DC-1_Vulnhub_Walkthrough](https://github.com/Aihikk/DC-1_Vulnhub_Walkthrough) : ![starts](https://img.shields.io/github/stars/Aihikk/DC-1_Vulnhub_Walkthrough.svg) ![forks](https://img.shields.io/github/forks/Aihikk/DC-1_Vulnhub_Walkthrough.svg)
+
 ## CVE-2021-41773
 
 - [https://github.com/Atamutlu33/cve-to-shell](https://github.com/Atamutlu33/cve-to-shell) : ![starts](https://img.shields.io/github/stars/Atamutlu33/cve-to-shell.svg) ![forks](https://img.shields.io/github/forks/Atamutlu33/cve-to-shell.svg)
