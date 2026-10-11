@@ -674,3 +674,6 @@
 {"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:12:40Z", "url": "https://github.com/burakacar6/CVE-2023-42793-TeamCity-Unauthenticated-RCE", "url_ids": ["CVE-2023-42793"]}
 {"cve_id": "CVE-2026-5159", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T16:13:46Z", "url": "https://github.com/ardakrg/CVE-2026-51592", "url_ids": ["CVE-2026-51592"]}
 {"cve_id": "CVE-2026-4484", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T21:17:16Z", "url": "https://github.com/Boreas37/CVE-2026-44848-PoC", "url_ids": ["CVE-2026-44848"]}
+{"cve_id": "CVE-2026-5392", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T21:27:26Z", "url": "https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit", "url_ids": ["CVE-2026-53921"]}
+{"cve_id": "CVE-2026-5392", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T21:27:26Z", "url": "https://github.com/0xBlackash/CVE-2026-53921", "url_ids": ["CVE-2026-53921"]}
+{"cve_id": "CVE-2022-1111", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T21:33:26Z", "url": "https://github.com/thelostworldFree/CVE-2022-111111", "url_ids": ["CVE-2022-111111"]}
