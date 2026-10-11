@@ -1,4 +1,9 @@
 ## 2026
+## CVE-2026-108592
+> mini-swe-agent 1.10.0 through 2.4.6 contains an information exposure vulnerability in BubblewrapEnvironment because bwrap omits --clearenv, so sandboxed commands inherit the host environment. Attackers using prompt injection in processed task content can make the agent read API keys from the environment and exfiltrate them over the shared network.
+
+- [https://github.com/asvorg/CVE-2026-108592-poc](https://github.com/asvorg/CVE-2026-108592-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-108592-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-108592-poc.svg)
+
 ## CVE-2026-107806
 > Nginx UI is a web user interface for the Nginx web server. From 2.3.8 until 2.5.0, an authenticated administrator with an active secure session can submit attacker-controlled portable backup key material and a matching manifest to POST /api/restore. The restore flow trusts the supplied key, decrypts attacker-controlled contents, and replaces the live app.ini, including protected nginx command settings such as TestConfigCmd. Triggering POST /api/nginx/test then executes the restored command in th
 
@@ -259,6 +264,8 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 > Joomla Extension - ordasoft.com - Unauthenticated SQL injection in OrdaSoft Joomla CCK &lt; 8.3.16 - The order column for records was user provided and not properly validated, leading to a SQL injection vector.
 
 - [https://github.com/murrez/CVE-2026-102428](https://github.com/murrez/CVE-2026-102428) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-102428.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-102428.svg)
+
+- [https://github.com/MRdark-ops/sqli-cve-2026-102428](https://github.com/MRdark-ops/sqli-cve-2026-102428) : ![starts](https://img.shields.io/github/stars/MRdark-ops/sqli-cve-2026-102428.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/sqli-cve-2026-102428.svg)
 
 ## CVE-2026-102427
 > Joomla Extension - ordasoft.com - Unauthenticated Remote Code Execution in OrdaSoft Joomla CCK &lt; 8.3.16 - site/uploader.php is reached through the component’s normal frontend routing (task=getContent), a task with no authentication or ACL check anywhere in the dispatch chain. The handler validates the uploaded file’s content with a real magic-byte MIME check, but the extension allow-list that would otherwise restrict the saved file’s extension was present in the source and commented out. The sav
@@ -6114,6 +6121,11 @@ Users are recommended to upgrade to version 1.12.0, which fixes the issue.
 
 - [https://github.com/nk7667/-linx-server-vulnerability-report](https://github.com/nk7667/-linx-server-vulnerability-report) : ![starts](https://img.shields.io/github/stars/nk7667/-linx-server-vulnerability-report.svg) ![forks](https://img.shields.io/github/forks/nk7667/-linx-server-vulnerability-report.svg)
 
+## CVE-2026-51994
+> mcp-remote versions 0.1.32 through 0.1.38 are vulnerable to Server-Side Request Forgery (SSRF) via the resource_metadata URL extracted from a remote MCP server&#x27;s WWW-Authenticate header
+
+- [https://github.com/playb0t/mcp-remote-oauth-security](https://github.com/playb0t/mcp-remote-oauth-security) : ![starts](https://img.shields.io/github/stars/playb0t/mcp-remote-oauth-security.svg) ![forks](https://img.shields.io/github/forks/playb0t/mcp-remote-oauth-security.svg)
+
 ## CVE-2026-51992
  This CVE ID has been rejected or withdrawn by its CVE Numbering Authority. ClickHouse's PostgreSQL integration intentionally allows users with valid PostgreSQL credentials to execute queries against a remote PostgreSQL server. No vulnerability in ClickHouse is exploited; code execution occurs on the downstream PostgreSQL server using credentials explicitly provided by the user with specific pg_execute_server_program permission, exploiting a feature that was wrongly reported as CVE-2019-9193 in PostgreSQL (https://www.postgresql.org/about/news/cve-2019-9193-not-a-security-vulnerability-1935/).
 
@@ -8866,6 +8878,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/tingao/debian-on-s23-ultra](https://github.com/tingao/debian-on-s23-ultra) : ![starts](https://img.shields.io/github/stars/tingao/debian-on-s23-ultra.svg) ![forks](https://img.shields.io/github/forks/tingao/debian-on-s23-ultra.svg)
 
 - [https://github.com/cyrrp/honor90-ghostlock](https://github.com/cyrrp/honor90-ghostlock) : ![starts](https://img.shields.io/github/stars/cyrrp/honor90-ghostlock.svg) ![forks](https://img.shields.io/github/forks/cyrrp/honor90-ghostlock.svg)
+
+- [https://github.com/pubglite55/oppofindN2-ghostlock](https://github.com/pubglite55/oppofindN2-ghostlock) : ![starts](https://img.shields.io/github/stars/pubglite55/oppofindN2-ghostlock.svg) ![forks](https://img.shields.io/github/forks/pubglite55/oppofindN2-ghostlock.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
