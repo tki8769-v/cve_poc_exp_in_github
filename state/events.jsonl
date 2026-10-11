@@ -2340,3 +2340,11 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-10-11T00:17:24Z", "type": "new_poc", "url": "https://github.com/pubglite55/oppofindN2-ghostlock"}
 {"cve_id": "CVE-2026-51994", "ts": "2026-10-11T00:17:25Z", "type": "new_poc", "url": "https://github.com/playb0t/mcp-remote-oauth-security"}
 {"cve_id": "CVE-2026-80444", "ts": "2026-10-11T00:41:38Z", "type": "new_poc", "url": "https://github.com/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti"}
+{"cve_id": "CVE-2026-104841", "ts": "2026-10-11T07:10:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-69872", "ts": "2026-10-11T07:12:26Z", "type": "new_poc", "url": "https://github.com/secondwindoss/diskcache-community"}
+{"cve_id": "CVE-2026-104335", "ts": "2026-10-11T07:12:26Z", "type": "new_poc", "url": "https://github.com/Farih123/CVE-2026-104335"}
+{"cve_id": "CVE-2025-24813", "ts": "2026-10-11T07:12:26Z", "type": "new_poc", "url": "https://github.com/toyplan/cve-2025-24813"}
+{"cve_id": "CVE-2025-57819", "ts": "2026-10-11T07:12:26Z", "type": "new_poc", "url": "https://github.com/Wayang1337/CVE-2025-57819"}
+{"cve_id": "CVE-2026-43805", "ts": "2026-10-11T07:12:27Z", "type": "new_poc", "url": "https://github.com/whysocscs/CVE-2026-43805"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-11T07:12:27Z", "type": "new_poc", "url": "https://github.com/villager1314/CVE-2026-43499-Analysis"}
+{"cve_id": "CVE-2026-38812", "ts": "2026-10-11T07:12:27Z", "type": "new_poc", "url": "https://github.com/YYF1337/RuoYi-CVE-2026-38812-UNFIX"}

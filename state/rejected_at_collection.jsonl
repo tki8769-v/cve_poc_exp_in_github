@@ -642,3 +642,7 @@
 {"cve_id": "CVE-2017-1182", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T00:45:41Z", "url": "https://github.com/thatskriptkid/CVE-2017-11826", "url_ids": ["CVE-2017-11826"]}
 {"cve_id": "CVE-2026-1647", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T00:46:42Z", "url": "https://github.com/afertar/CVE-2026-16475-PoC", "url_ids": ["CVE-2026-16475"]}
 {"cve_id": "CVE-2018-1071", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T00:46:47Z", "url": "https://github.com/alt3kx/CVE-2018-10715", "url_ids": ["CVE-2018-10715"]}
+{"cve_id": "CVE-2026-6327", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T07:15:32Z", "url": "https://github.com/HORKimhab/CVE-2026-63277", "url_ids": ["CVE-2026-63277"]}
+{"cve_id": "CVE-2026-3415", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T07:16:33Z", "url": "https://github.com/casp3r0x0/CVE-2026-34159", "url_ids": ["CVE-2026-34159"]}
+{"cve_id": "CVE-2026-3415", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T07:16:33Z", "url": "https://github.com/0xBlackash/CVE-2026-34156", "url_ids": ["CVE-2026-34156"]}
+{"cve_id": "CVE-2025-1461", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T07:17:44Z", "url": "https://github.com/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit", "url_ids": ["CVE-2025-14611"]}

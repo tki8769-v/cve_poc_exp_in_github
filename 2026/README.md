@@ -115,6 +115,11 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 - [https://github.com/wvllxe/CVE-2026-104356-pictshare-weak-delete-code](https://github.com/wvllxe/CVE-2026-104356-pictshare-weak-delete-code) : ![starts](https://img.shields.io/github/stars/wvllxe/CVE-2026-104356-pictshare-weak-delete-code.svg) ![forks](https://img.shields.io/github/forks/wvllxe/CVE-2026-104356-pictshare-weak-delete-code.svg)
 
+## CVE-2026-104335
+> IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to execute arbitrary code due to improper access control.
+
+- [https://github.com/Farih123/CVE-2026-104335](https://github.com/Farih123/CVE-2026-104335) : ![starts](https://img.shields.io/github/stars/Farih123/CVE-2026-104335.svg) ![forks](https://img.shields.io/github/forks/Farih123/CVE-2026-104335.svg)
+
 ## CVE-2026-104286
 > An improper limitation of a pathname to a restricted directory (&#x27;path traversal&#x27;) vulnerability in Fortinet FortiMail 8.0.0 through 8.0.1, FortiMail 7.6.0 through 7.6.6, FortiMail 7.4.0 through 7.4.8, FortiMail 7.2.0 through 7.2.9 may allow an unauthenticated attacker to write arbitrary files on the underlying system via crafted HTTP or HTTPS requests.
 
@@ -8249,6 +8254,8 @@ Users are recommended to upgrade to version 4.21.0, which fixes the issue. If us
 
 - [https://github.com/WTCYJ/CVE-2026-43805-analysis](https://github.com/WTCYJ/CVE-2026-43805-analysis) : ![starts](https://img.shields.io/github/stars/WTCYJ/CVE-2026-43805-analysis.svg) ![forks](https://img.shields.io/github/forks/WTCYJ/CVE-2026-43805-analysis.svg)
 
+- [https://github.com/whysocscs/CVE-2026-43805](https://github.com/whysocscs/CVE-2026-43805) : ![starts](https://img.shields.io/github/stars/whysocscs/CVE-2026-43805.svg) ![forks](https://img.shields.io/github/forks/whysocscs/CVE-2026-43805.svg)
+
 ## CVE-2026-43786
  This issue was addressed with additional entitlement checks. This issue is fixed in macOS Golden Gate 27, macOS Sequoia 15.8, macOS Tahoe 26.7. An app may be able to gain root privileges.
 
@@ -8886,6 +8893,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/cyrrp/honor90-ghostlock](https://github.com/cyrrp/honor90-ghostlock) : ![starts](https://img.shields.io/github/stars/cyrrp/honor90-ghostlock.svg) ![forks](https://img.shields.io/github/forks/cyrrp/honor90-ghostlock.svg)
 
 - [https://github.com/pubglite55/oppofindN2-ghostlock](https://github.com/pubglite55/oppofindN2-ghostlock) : ![starts](https://img.shields.io/github/stars/pubglite55/oppofindN2-ghostlock.svg) ![forks](https://img.shields.io/github/forks/pubglite55/oppofindN2-ghostlock.svg)
+
+- [https://github.com/villager1314/CVE-2026-43499-Analysis](https://github.com/villager1314/CVE-2026-43499-Analysis) : ![starts](https://img.shields.io/github/stars/villager1314/CVE-2026-43499-Analysis.svg) ![forks](https://img.shields.io/github/forks/villager1314/CVE-2026-43499-Analysis.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
@@ -10664,6 +10673,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
  RuoYi v4.8.2 is vulnerable to SQL Injection via the /tool/gen/createTable endpoint. The issue affects the code generation module and may allow an authenticated attacker with administrative privileges to access sensitive database information.
 
 - [https://github.com/jjcjgo/CVE-2026-38812-RuoYi-SQL-Injection](https://github.com/jjcjgo/CVE-2026-38812-RuoYi-SQL-Injection) : ![starts](https://img.shields.io/github/stars/jjcjgo/CVE-2026-38812-RuoYi-SQL-Injection.svg) ![forks](https://img.shields.io/github/forks/jjcjgo/CVE-2026-38812-RuoYi-SQL-Injection.svg)
+
+- [https://github.com/YYF1337/RuoYi-CVE-2026-38812-UNFIX](https://github.com/YYF1337/RuoYi-CVE-2026-38812-UNFIX) : ![starts](https://img.shields.io/github/stars/YYF1337/RuoYi-CVE-2026-38812-UNFIX.svg) ![forks](https://img.shields.io/github/forks/YYF1337/RuoYi-CVE-2026-38812-UNFIX.svg)
 
 ## CVE-2026-38766
  An issue in Unistal Systems Pvt. Ltd.Protegent 360 v2.0.0.4 allows a local attacker to escalate privileges via the sub_186f4 function
