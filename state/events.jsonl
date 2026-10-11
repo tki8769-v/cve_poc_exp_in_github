@@ -2339,3 +2339,4 @@
 {"cve_id": "CVE-2026-108592", "ts": "2026-10-11T00:17:07Z", "type": "new_poc", "url": "https://github.com/asvorg/CVE-2026-108592-poc"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-10-11T00:17:24Z", "type": "new_poc", "url": "https://github.com/pubglite55/oppofindN2-ghostlock"}
 {"cve_id": "CVE-2026-51994", "ts": "2026-10-11T00:17:25Z", "type": "new_poc", "url": "https://github.com/playb0t/mcp-remote-oauth-security"}
+{"cve_id": "CVE-2026-80444", "ts": "2026-10-11T00:41:38Z", "type": "new_poc", "url": "https://github.com/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti"}

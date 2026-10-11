@@ -1622,6 +1622,13 @@ Let's unlink scc_entry before freeing the vertex in unix_del_edge().
 
 - [https://github.com/SangSenimanWartefak/CVE-2026-80467](https://github.com/SangSenimanWartefak/CVE-2026-80467) : ![starts](https://img.shields.io/github/stars/SangSenimanWartefak/CVE-2026-80467.svg) ![forks](https://img.shields.io/github/forks/SangSenimanWartefak/CVE-2026-80467.svg)
 
+## CVE-2026-80444
+> URL redirection to untrusted site (&#x27;open redirect&#x27;) vulnerability in Abis Technology Ltd. Co. AVESİS allows Input Data Manipulation.
+
+This issue affects AVESİS: from 202608201331 before 202608240351.
+
+- [https://github.com/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti](https://github.com/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti) : ![starts](https://img.shields.io/github/stars/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti.svg) ![forks](https://img.shields.io/github/forks/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti.svg)
+
 ## CVE-2026-80428
  ILIAS before versions 9.22, 10.10, and 11.3 contains an unauthenticated PHP object injection vulnerability that allows unauthenticated attackers to execute arbitrary code by injecting serialized objects through the LTI authentication endpoint and triggering deserialization via the Shibboleth back-channel logout endpoint. Attackers can write arbitrary serialized objects into session storage, then exploit an available POP gadget through the logout endpoint's unrestricted deserialization to write attacker-controlled PHP content to a web-accessible path and achieve remote code execution as the web server user.
 

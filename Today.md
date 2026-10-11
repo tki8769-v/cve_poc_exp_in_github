@@ -17,3 +17,10 @@
 > mcp-remote versions 0.1.32 through 0.1.38 are vulnerable to Server-Side Request Forgery (SSRF) via the resource_metadata URL extracted from a remote MCP server&#x27;s WWW-Authenticate header
 
 - [https://github.com/playb0t/mcp-remote-oauth-security](https://github.com/playb0t/mcp-remote-oauth-security) : ![starts](https://img.shields.io/github/stars/playb0t/mcp-remote-oauth-security.svg) ![forks](https://img.shields.io/github/forks/playb0t/mcp-remote-oauth-security.svg)
+
+## CVE-2026-80444
+> URL redirection to untrusted site (&#x27;open redirect&#x27;) vulnerability in Abis Technology Ltd. Co. AVESİS allows Input Data Manipulation.
+
+This issue affects AVESİS: from 202608201331 before 202608240351.
+
+- [https://github.com/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti](https://github.com/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti) : ![starts](https://img.shields.io/github/stars/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti.svg) ![forks](https://img.shields.io/github/forks/Hasanuyarrr/CVE-2026-80444-Avesis-Uygulamasinda-Open-Redirect-Zafiyeti.svg)
