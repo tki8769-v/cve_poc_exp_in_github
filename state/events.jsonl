@@ -2385,3 +2385,11 @@
 {"cve_id": "CVE-2026-42945", "ts": "2026-10-11T15:43:04Z", "type": "new_poc", "url": "https://github.com/rune42/ElasticRift"}
 {"cve_id": "CVE-2026-81000", "ts": "2026-10-11T15:43:33Z", "type": "new_poc", "url": "https://github.com/suominen/tunderflow"}
 {"cve_id": "CVE-2026-29000", "ts": "2026-10-11T16:04:58Z", "type": "new_poc", "url": "https://github.com/Erikgavs/CVE-2026-29000"}
+{"cve_id": "CVE-2026-105306", "ts": "2026-10-11T21:02:52Z", "type": "new_poc", "url": "https://github.com/Dungsocool/CVE-2026-105306"}
+{"cve_id": "CVE-2026-102489", "ts": "2026-10-11T21:02:52Z", "type": "new_poc", "url": "https://github.com/1xPwn/CVE-2026-102489"}
+{"cve_id": "CVE-2026-15748", "ts": "2026-10-11T21:02:52Z", "type": "new_poc", "url": "https://github.com/0x4cr/CVE-2026-15748"}
+{"cve_id": "CVE-2026-104286", "ts": "2026-10-11T21:02:52Z", "type": "new_poc", "url": "https://github.com/0xREBYTE/CVE-2026-104286-PoC"}
+{"cve_id": "CVE-2026-41940", "ts": "2026-10-11T21:02:52Z", "type": "new_poc", "url": "https://github.com/sakidekin/CVE-2026-41940-PoC"}
+{"cve_id": "CVE-2025-55182", "ts": "2026-10-11T21:02:52Z", "type": "new_poc", "url": "https://github.com/M4rc3l08/ReactorWriteUp-HackTheBox"}
+{"cve_id": "CVE-2026-2035703", "ts": "2026-10-11T21:03:18Z", "type": "new_poc", "url": "https://github.com/danish1162/CVE-2026-2035703-x300"}
+{"cve_id": "CVE-2025-4802", "ts": "2026-10-11T21:05:06Z", "type": "new_poc", "url": "https://github.com/betizzel/CVE-2025-4802-Proof-of-Concept"}

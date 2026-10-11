@@ -4475,6 +4475,8 @@ Adopt appropriate SMB Server hardening measures.
 
 - [https://github.com/zorejt/Rust_CVE-2025-55182](https://github.com/zorejt/Rust_CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/zorejt/Rust_CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/zorejt/Rust_CVE-2025-55182.svg)
 
+- [https://github.com/M4rc3l08/ReactorWriteUp-HackTheBox](https://github.com/M4rc3l08/ReactorWriteUp-HackTheBox) : ![starts](https://img.shields.io/github/stars/M4rc3l08/ReactorWriteUp-HackTheBox.svg) ![forks](https://img.shields.io/github/forks/M4rc3l08/ReactorWriteUp-HackTheBox.svg)
+
 ## CVE-2025-55177
  Incomplete authorization of linked device synchronization messages in WhatsApp for iOS prior to v2.25.21.73, WhatsApp Business for iOS v2.25.21.78, and WhatsApp for Mac v2.25.21.78 could have allowed an unrelated user to trigger processing of content from an arbitrary URL on a target’s device. We assess that this vulnerability, in combination with an OS-level vulnerability on Apple platforms (CVE-2025-43300), may have been exploited in a sophisticated attack against specific targeted users.
 
@@ -14023,6 +14025,8 @@ This issue affects ScadaWatt Otopilot: before 27.05.2025.
  Untrusted LD_LIBRARY_PATH environment variable vulnerability in the GNU C Library version 2.27 to 2.38 allows attacker controlled loading of dynamically shared library in statically compiled setuid binaries that call dlopen (including internal dlopen calls after setlocale or calls to NSS functions such as getaddrinfo).
 
 - [https://github.com/Betim-Hodza/CVE-2025-4802-Proof-of-Concept](https://github.com/Betim-Hodza/CVE-2025-4802-Proof-of-Concept) : ![starts](https://img.shields.io/github/stars/Betim-Hodza/CVE-2025-4802-Proof-of-Concept.svg) ![forks](https://img.shields.io/github/forks/Betim-Hodza/CVE-2025-4802-Proof-of-Concept.svg)
+
+- [https://github.com/betizzel/CVE-2025-4802-Proof-of-Concept](https://github.com/betizzel/CVE-2025-4802-Proof-of-Concept) : ![starts](https://img.shields.io/github/stars/betizzel/CVE-2025-4802-Proof-of-Concept.svg) ![forks](https://img.shields.io/github/forks/betizzel/CVE-2025-4802-Proof-of-Concept.svg)
 
 ## CVE-2025-4796
  The Eventin plugin for WordPress is vulnerable to privilege escalation via account takeover in all versions up to, and including, 4.0.34. This is due to the plugin not properly validating a user's identity or capability prior to updating their details like email in the 'Eventin\Speaker\Api\SpeakerController::update_item' function. This makes it possible for unauthenticated attackers with contributor-level and above permissions to change arbitrary user's email addresses, including administrators, and leverage that to reset the user's password and gain access to their account.

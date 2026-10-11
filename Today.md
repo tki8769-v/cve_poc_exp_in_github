@@ -39,6 +39,15 @@
 - [https://github.com/rgvillanueva28/vulnbox-easy-CVE-2025-29927](https://github.com/rgvillanueva28/vulnbox-easy-CVE-2025-29927) : ![starts](https://img.shields.io/github/stars/rgvillanueva28/vulnbox-easy-CVE-2025-29927.svg) ![forks](https://img.shields.io/github/forks/rgvillanueva28/vulnbox-easy-CVE-2025-29927.svg)
 - [https://github.com/shahin-shadow/nextjs-auth-bypass](https://github.com/shahin-shadow/nextjs-auth-bypass) : ![starts](https://img.shields.io/github/stars/shahin-shadow/nextjs-auth-bypass.svg) ![forks](https://img.shields.io/github/forks/shahin-shadow/nextjs-auth-bypass.svg)
 
+## CVE-2025-4802
+
+- [https://github.com/betizzel/CVE-2025-4802-Proof-of-Concept](https://github.com/betizzel/CVE-2025-4802-Proof-of-Concept) : ![starts](https://img.shields.io/github/stars/betizzel/CVE-2025-4802-Proof-of-Concept.svg) ![forks](https://img.shields.io/github/forks/betizzel/CVE-2025-4802-Proof-of-Concept.svg)
+
+## CVE-2025-55182
+> A pre-authentication remote code execution vulnerability exists in React Server Components versions 19.0.0, 19.1.0, 19.1.1, and 19.2.0 including the following packages: react-server-dom-parcel, react-server-dom-turbopack, and react-server-dom-webpack. The vulnerable code unsafely deserializes payloads from HTTP requests to Server Function endpoints.
+
+- [https://github.com/M4rc3l08/ReactorWriteUp-HackTheBox](https://github.com/M4rc3l08/ReactorWriteUp-HackTheBox) : ![starts](https://img.shields.io/github/stars/M4rc3l08/ReactorWriteUp-HackTheBox.svg) ![forks](https://img.shields.io/github/forks/M4rc3l08/ReactorWriteUp-HackTheBox.svg)
+
 ## CVE-2025-57819
 
 - [https://github.com/Wayang1337/CVE-2025-57819](https://github.com/Wayang1337/CVE-2025-57819) : ![starts](https://img.shields.io/github/stars/Wayang1337/CVE-2025-57819.svg) ![forks](https://img.shields.io/github/forks/Wayang1337/CVE-2025-57819.svg)
@@ -52,10 +61,25 @@
 
 - [https://github.com/MRdark-ops/sqli-cve-2026-102428](https://github.com/MRdark-ops/sqli-cve-2026-102428) : ![starts](https://img.shields.io/github/stars/MRdark-ops/sqli-cve-2026-102428.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/sqli-cve-2026-102428.svg)
 
+## CVE-2026-102489
+> Zammad versions 6.3.0 to 6.5.4 are vulnerable a session hijack vulnerability that leads to remote code execution as the zammad user. The bug is also present in version 7.0.0 to version 7.1.2, but not exploitable due to changes in the underlying framework.
+
+- [https://github.com/1xPwn/CVE-2026-102489](https://github.com/1xPwn/CVE-2026-102489) : ![starts](https://img.shields.io/github/stars/1xPwn/CVE-2026-102489.svg) ![forks](https://img.shields.io/github/forks/1xPwn/CVE-2026-102489.svg)
+
+## CVE-2026-104286
+> An improper limitation of a pathname to a restricted directory (&#x27;path traversal&#x27;) vulnerability in Fortinet FortiMail 8.0.0 through 8.0.1, FortiMail 7.6.0 through 7.6.6, FortiMail 7.4.0 through 7.4.8, FortiMail 7.2.0 through 7.2.9 may allow an unauthenticated attacker to write arbitrary files on the underlying system via crafted HTTP or HTTPS requests.
+
+- [https://github.com/0xREBYTE/CVE-2026-104286-PoC](https://github.com/0xREBYTE/CVE-2026-104286-PoC) : ![starts](https://img.shields.io/github/stars/0xREBYTE/CVE-2026-104286-PoC.svg) ![forks](https://img.shields.io/github/forks/0xREBYTE/CVE-2026-104286-PoC.svg)
+
 ## CVE-2026-104335
 > IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote authenticated attacker to execute arbitrary code due to improper access control.
 
 - [https://github.com/Farih123/CVE-2026-104335](https://github.com/Farih123/CVE-2026-104335) : ![starts](https://img.shields.io/github/stars/Farih123/CVE-2026-104335.svg) ![forks](https://img.shields.io/github/forks/Farih123/CVE-2026-104335.svg)
+
+## CVE-2026-105306
+> A flaw was found in the Dynamic Client Registration flow of the Keycloak identity and access management server. The issue occurs because the registration process fails to filter security-sensitive client attributes when a new client is created. An attacker with a valid Initial Access Token can register a client that bypasses audience checks during token introspection. This allows the attacker to view sensitive identity information, roles, and session details from access tokens belonging to other
+
+- [https://github.com/Dungsocool/CVE-2026-105306](https://github.com/Dungsocool/CVE-2026-105306) : ![starts](https://img.shields.io/github/stars/Dungsocool/CVE-2026-105306.svg) ![forks](https://img.shields.io/github/forks/Dungsocool/CVE-2026-105306.svg)
 
 ## CVE-2026-107406
 > Memory overflow vulnerability leading to Remote Code Execution or Denial of Service Vulnerability in NetScaler ADC.
@@ -78,6 +102,14 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 - [https://github.com/asvorg/CVE-2026-108592-poc](https://github.com/asvorg/CVE-2026-108592-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-108592-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-108592-poc.svg)
 
+## CVE-2026-15748
+
+- [https://github.com/0x4cr/CVE-2026-15748](https://github.com/0x4cr/CVE-2026-15748) : ![starts](https://img.shields.io/github/stars/0x4cr/CVE-2026-15748.svg) ![forks](https://img.shields.io/github/forks/0x4cr/CVE-2026-15748.svg)
+
+## CVE-2026-2035703
+
+- [https://github.com/danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300) : ![starts](https://img.shields.io/github/stars/danish1162/CVE-2026-2035703-x300.svg) ![forks](https://img.shields.io/github/forks/danish1162/CVE-2026-2035703-x300.svg)
+
 ## CVE-2026-27626
 
 - [https://github.com/Shisones/CVE-2026-27626](https://github.com/Shisones/CVE-2026-27626) : ![starts](https://img.shields.io/github/stars/Shisones/CVE-2026-27626.svg) ![forks](https://img.shields.io/github/forks/Shisones/CVE-2026-27626.svg)
@@ -94,6 +126,11 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 ## CVE-2026-40224
 
 - [https://github.com/0xparad0x/Exploit-CVE-2026-40224](https://github.com/0xparad0x/Exploit-CVE-2026-40224) : ![starts](https://img.shields.io/github/stars/0xparad0x/Exploit-CVE-2026-40224.svg) ![forks](https://img.shields.io/github/forks/0xparad0x/Exploit-CVE-2026-40224.svg)
+
+## CVE-2026-41940
+> cPanel and WHM versions after 11.40 contain an authentication bypass vulnerability in the login flow that allows unauthenticated remote attackers to gain unauthorized access to the control panel.
+
+- [https://github.com/sakidekin/CVE-2026-41940-PoC](https://github.com/sakidekin/CVE-2026-41940-PoC) : ![starts](https://img.shields.io/github/stars/sakidekin/CVE-2026-41940-PoC.svg) ![forks](https://img.shields.io/github/forks/sakidekin/CVE-2026-41940-PoC.svg)
 
 ## CVE-2026-42945
 

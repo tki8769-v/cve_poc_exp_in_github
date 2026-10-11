@@ -1,4 +1,8 @@
 ## 2026
+## CVE-2026-2035703
+
+- [https://github.com/danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300) : ![starts](https://img.shields.io/github/stars/danish1162/CVE-2026-2035703-x300.svg) ![forks](https://img.shields.io/github/forks/danish1162/CVE-2026-2035703-x300.svg)
+
 ## CVE-2026-108592
 > mini-swe-agent 1.10.0 through 2.4.6 contains an information exposure vulnerability in BubblewrapEnvironment because bwrap omits --clearenv, so sandboxed commands inherit the host environment. Attackers using prompt injection in processed task content can make the agent read API keys from the environment and exfiltrate them over the shared network.
 
@@ -57,6 +61,11 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 > Papermerge 3.5.3 allows remote code execution by a standard user via directory traversal in a /api/documents/upload call. A Python .pth file can be written to site-packages, and its code is executed upon the next start of the Python interpreter.
 
 - [https://github.com/kashishtopi/CVE-2026-105314](https://github.com/kashishtopi/CVE-2026-105314) : ![starts](https://img.shields.io/github/stars/kashishtopi/CVE-2026-105314.svg) ![forks](https://img.shields.io/github/forks/kashishtopi/CVE-2026-105314.svg)
+
+## CVE-2026-105306
+> A flaw was found in the Dynamic Client Registration flow of the Keycloak identity and access management server. The issue occurs because the registration process fails to filter security-sensitive client attributes when a new client is created. An attacker with a valid Initial Access Token can register a client that bypasses audience checks during token introspection. This allows the attacker to view sensitive identity information, roles, and session details from access tokens belonging to other
+
+- [https://github.com/Dungsocool/CVE-2026-105306](https://github.com/Dungsocool/CVE-2026-105306) : ![starts](https://img.shields.io/github/stars/Dungsocool/CVE-2026-105306.svg) ![forks](https://img.shields.io/github/forks/Dungsocool/CVE-2026-105306.svg)
 
 ## CVE-2026-105221
 > The gist RubyGem before 6.1.0 contains an improper certificate validation vulnerability that allows on-path attackers to intercept HTTPS traffic because http_connection in lib/gist.rb sets VERIFY_NONE. Attackers can present any certificate to read or modify GitHub API traffic, stealing OAuth tokens and login credentials to read and modify the victim&#x27;s gists.
@@ -131,6 +140,8 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 - [https://github.com/techupdate24/fortimail-zero-day-cve-2026-104286](https://github.com/techupdate24/fortimail-zero-day-cve-2026-104286) : ![starts](https://img.shields.io/github/stars/techupdate24/fortimail-zero-day-cve-2026-104286.svg) ![forks](https://img.shields.io/github/forks/techupdate24/fortimail-zero-day-cve-2026-104286.svg)
 
 - [https://github.com/kh20134/fortimail-cve-2026-104286-response](https://github.com/kh20134/fortimail-cve-2026-104286-response) : ![starts](https://img.shields.io/github/stars/kh20134/fortimail-cve-2026-104286-response.svg) ![forks](https://img.shields.io/github/forks/kh20134/fortimail-cve-2026-104286-response.svg)
+
+- [https://github.com/0xREBYTE/CVE-2026-104286-PoC](https://github.com/0xREBYTE/CVE-2026-104286-PoC) : ![starts](https://img.shields.io/github/stars/0xREBYTE/CVE-2026-104286-PoC.svg) ![forks](https://img.shields.io/github/forks/0xREBYTE/CVE-2026-104286-PoC.svg)
 
 ## CVE-2026-104110
 
@@ -266,6 +277,8 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 - [https://github.com/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce](https://github.com/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce) : ![starts](https://img.shields.io/github/stars/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce.svg) ![forks](https://img.shields.io/github/forks/Hunt-Benito/the-cookie-in-the-error-message-cve-2026-102489-zammad-session-hijack-to-rce.svg)
 
 - [https://github.com/horizon3ai/CVE-2026-102489](https://github.com/horizon3ai/CVE-2026-102489) : ![starts](https://img.shields.io/github/stars/horizon3ai/CVE-2026-102489.svg) ![forks](https://img.shields.io/github/forks/horizon3ai/CVE-2026-102489.svg)
+
+- [https://github.com/1xPwn/CVE-2026-102489](https://github.com/1xPwn/CVE-2026-102489) : ![starts](https://img.shields.io/github/stars/1xPwn/CVE-2026-102489.svg) ![forks](https://img.shields.io/github/forks/1xPwn/CVE-2026-102489.svg)
 
 ## CVE-2026-102428
 > Joomla Extension - ordasoft.com - Unauthenticated SQL injection in OrdaSoft Joomla CCK &lt; 8.3.16 - The order column for records was user provided and not properly validated, leading to a SQL injection vector.
@@ -9855,6 +9868,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/ZeroDayEvil/CVE-2026-41940-PoC](https://github.com/ZeroDayEvil/CVE-2026-41940-PoC) : ![starts](https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-41940-PoC.svg) ![forks](https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-41940-PoC.svg)
 
+- [https://github.com/sakidekin/CVE-2026-41940-PoC](https://github.com/sakidekin/CVE-2026-41940-PoC) : ![starts](https://img.shields.io/github/stars/sakidekin/CVE-2026-41940-PoC.svg) ![forks](https://img.shields.io/github/forks/sakidekin/CVE-2026-41940-PoC.svg)
+
 ## CVE-2026-41901
  Thymeleaf is a server-side Java template engine for web and standalone environments. Prior to 3.1.5.RELEASE, a security bypass vulnerability exists in the expression execution mechanisms of Thymeleaf. Although the library provides mechanisms to avoid the execution of potentially dangerous expressions in some specific sandboxed (restricted) contexts, it fails to properly neutralize specific constructs that allow this kind of expressions to be executed. If an application developer passes to the template engine unsanitized variables that contain such expressions, and these values are used in sandboxed contexts inside the templates, these expressions can be executed achieving Server-Side Template Injection (SSTI). This vulnerability is fixed in 3.1.5.RELEASE.
 
@@ -17727,6 +17742,8 @@ Successful exploitation may enable persistent backdoors, credential theft, LAN r
 - [https://github.com/HORKimhab/CVE-2026-15826-CVE-2026-15748](https://github.com/HORKimhab/CVE-2026-15826-CVE-2026-15748) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-15826-CVE-2026-15748.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-15826-CVE-2026-15748.svg)
 
 - [https://github.com/ubaydev/CVE-2026-15748](https://github.com/ubaydev/CVE-2026-15748) : ![starts](https://img.shields.io/github/stars/ubaydev/CVE-2026-15748.svg) ![forks](https://img.shields.io/github/forks/ubaydev/CVE-2026-15748.svg)
+
+- [https://github.com/0x4cr/CVE-2026-15748](https://github.com/0x4cr/CVE-2026-15748) : ![starts](https://img.shields.io/github/stars/0x4cr/CVE-2026-15748.svg) ![forks](https://img.shields.io/github/forks/0x4cr/CVE-2026-15748.svg)
 
 ## CVE-2026-15718
  We are aware that exploit code for this is public however we are not aware of any attacks in the wild abusing this flaw. This vulnerability was fixed in Firefox 152.0.6, Firefox ESR 140.13, and Thunderbird 140.13.
@@ -26280,6 +26297,8 @@ Adopt appropriate SMB Server hardening measures.
 - [https://github.com/zessu/CVE-2025-55182-Typescript](https://github.com/zessu/CVE-2025-55182-Typescript) : ![starts](https://img.shields.io/github/stars/zessu/CVE-2025-55182-Typescript.svg) ![forks](https://img.shields.io/github/forks/zessu/CVE-2025-55182-Typescript.svg)
 
 - [https://github.com/zorejt/Rust_CVE-2025-55182](https://github.com/zorejt/Rust_CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/zorejt/Rust_CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/zorejt/Rust_CVE-2025-55182.svg)
+
+- [https://github.com/M4rc3l08/ReactorWriteUp-HackTheBox](https://github.com/M4rc3l08/ReactorWriteUp-HackTheBox) : ![starts](https://img.shields.io/github/stars/M4rc3l08/ReactorWriteUp-HackTheBox.svg) ![forks](https://img.shields.io/github/forks/M4rc3l08/ReactorWriteUp-HackTheBox.svg)
 
 ## CVE-2025-55177
  Incomplete authorization of linked device synchronization messages in WhatsApp for iOS prior to v2.25.21.73, WhatsApp Business for iOS v2.25.21.78, and WhatsApp for Mac v2.25.21.78 could have allowed an unrelated user to trigger processing of content from an arbitrary URL on a target’s device. We assess that this vulnerability, in combination with an OS-level vulnerability on Apple platforms (CVE-2025-43300), may have been exploited in a sophisticated attack against specific targeted users.
@@ -35829,6 +35848,8 @@ This issue affects ScadaWatt Otopilot: before 27.05.2025.
  Untrusted LD_LIBRARY_PATH environment variable vulnerability in the GNU C Library version 2.27 to 2.38 allows attacker controlled loading of dynamically shared library in statically compiled setuid binaries that call dlopen (including internal dlopen calls after setlocale or calls to NSS functions such as getaddrinfo).
 
 - [https://github.com/Betim-Hodza/CVE-2025-4802-Proof-of-Concept](https://github.com/Betim-Hodza/CVE-2025-4802-Proof-of-Concept) : ![starts](https://img.shields.io/github/stars/Betim-Hodza/CVE-2025-4802-Proof-of-Concept.svg) ![forks](https://img.shields.io/github/forks/Betim-Hodza/CVE-2025-4802-Proof-of-Concept.svg)
+
+- [https://github.com/betizzel/CVE-2025-4802-Proof-of-Concept](https://github.com/betizzel/CVE-2025-4802-Proof-of-Concept) : ![starts](https://img.shields.io/github/stars/betizzel/CVE-2025-4802-Proof-of-Concept.svg) ![forks](https://img.shields.io/github/forks/betizzel/CVE-2025-4802-Proof-of-Concept.svg)
 
 ## CVE-2025-4796
  The Eventin plugin for WordPress is vulnerable to privilege escalation via account takeover in all versions up to, and including, 4.0.34. This is due to the plugin not properly validating a user's identity or capability prior to updating their details like email in the 'Eventin\Speaker\Api\SpeakerController::update_item' function. This makes it possible for unauthenticated attackers with contributor-level and above permissions to change arbitrary user's email addresses, including administrators, and leverage that to reset the user's password and gain access to their account.
