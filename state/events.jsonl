@@ -2444,3 +2444,8 @@
 {"cve_id": "CVE-2026-102255", "ts": "2026-10-12T19:07:28Z", "type": "new_poc", "url": "https://github.com/techupdate24/sonicwall-sma-1000-cve-2026-102255"}
 {"cve_id": "CVE-2021-1905", "ts": "2026-10-12T19:07:28Z", "type": "new_poc", "url": "https://github.com/Gonvar/kgsl-1905-msm8953"}
 {"cve_id": "CVE-2025-1122", "ts": "2026-10-12T19:07:37Z", "type": "new_poc", "url": "https://github.com/ts2023dev/exploit-docs"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-12T19:28:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-12T19:28:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109222", "ts": "2026-10-12T19:28:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-68764", "ts": "2026-10-12T19:28:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-93661", "ts": "2026-10-12T19:38:28Z", "type": "new_poc", "url": "https://github.com/Hasyros/CVE-2026-93661-idor-events-manager"}

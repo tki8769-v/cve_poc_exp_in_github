@@ -674,6 +674,11 @@ This vulnerability allows an unauthenticated attacker to perform remot
 
 - [https://github.com/rmhowe425/POC-CVE-2026-93674](https://github.com/rmhowe425/POC-CVE-2026-93674) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-93674.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-93674.svg)
 
+## CVE-2026-93661
+> The Events Manager  WordPress plugin before 7.4.5 does not stop a ticket-update request from replacing the identifiers of the ticket it was authorized against, letting a user who can manage one event&#x27;s tickets overwrite and reassign any ticket on the site to their own event.
+
+- [https://github.com/Hasyros/CVE-2026-93661-idor-events-manager](https://github.com/Hasyros/CVE-2026-93661-idor-events-manager) : ![starts](https://img.shields.io/github/stars/Hasyros/CVE-2026-93661-idor-events-manager.svg) ![forks](https://img.shields.io/github/forks/Hasyros/CVE-2026-93661-idor-events-manager.svg)
+
 ## CVE-2026-93659
  Concrete CMS Community Store before 2.7.8 renders customer-supplied order fields without HTML escaping in checkout and admin views. Unauthenticated attackers can store script payloads in billing name, email, or phone fields that execute in authenticated manager sessions to create rogue accounts or exfiltrate data.
 

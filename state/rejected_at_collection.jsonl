@@ -708,3 +708,5 @@
 {"cve_id": "CVE-2024-4050", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T07:45:06Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40509", "url_ids": ["CVE-2024-40509"]}
 {"cve_id": "CVE-2025-4330", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T19:19:44Z", "url": "https://github.com/hunters-sec/CVE-2025-43300", "url_ids": ["CVE-2025-43300"]}
 {"cve_id": "CVE-2025-4330", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T19:19:44Z", "url": "https://github.com/PwnToday/CVE-2025-43300", "url_ids": ["CVE-2025-43300"]}
+{"cve_id": "CVE-2023-4278", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T19:31:16Z", "url": "https://github.com/jhonnybonny/CVE-2023-42789", "url_ids": ["CVE-2023-42789"]}
+{"cve_id": "CVE-2025-1383", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T19:33:32Z", "url": "https://github.com/sastraadiwiguna-purpleeliteteaming/CVE-2025-13834-A-Bluetooth-RFCOMM-Out-of-Bounds-Read-Vulnerability-in-Modern-Wireless-Devices", "url_ids": ["CVE-2025-13834"]}

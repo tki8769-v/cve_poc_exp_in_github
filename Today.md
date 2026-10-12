@@ -96,6 +96,11 @@
 
 - [https://github.com/Riftweld/langflow-cve-2026-9198](https://github.com/Riftweld/langflow-cve-2026-9198) : ![starts](https://img.shields.io/github/stars/Riftweld/langflow-cve-2026-9198.svg) ![forks](https://img.shields.io/github/forks/Riftweld/langflow-cve-2026-9198.svg)
 
+## CVE-2026-93661
+> The Events Manager  WordPress plugin before 7.4.5 does not stop a ticket-update request from replacing the identifiers of the ticket it was authorized against, letting a user who can manage one event&#x27;s tickets overwrite and reassign any ticket on the site to their own event.
+
+- [https://github.com/Hasyros/CVE-2026-93661-idor-events-manager](https://github.com/Hasyros/CVE-2026-93661-idor-events-manager) : ![starts](https://img.shields.io/github/stars/Hasyros/CVE-2026-93661-idor-events-manager.svg) ![forks](https://img.shields.io/github/forks/Hasyros/CVE-2026-93661-idor-events-manager.svg)
+
 ## CVE-2026-9586
 
 - [https://github.com/fromABUV/CVE-2026-9586_POC_EXPLOIT](https://github.com/fromABUV/CVE-2026-9586_POC_EXPLOIT) : ![starts](https://img.shields.io/github/stars/fromABUV/CVE-2026-9586_POC_EXPLOIT.svg) ![forks](https://img.shields.io/github/forks/fromABUV/CVE-2026-9586_POC_EXPLOIT.svg)
