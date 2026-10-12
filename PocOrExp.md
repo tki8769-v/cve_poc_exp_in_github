@@ -178,6 +178,11 @@ To remediate this issue, users should upgrade to version 1.6.1 o
 
 - [https://github.com/techupdate24/capacitor-flaw-cve-2026-103922](https://github.com/techupdate24/capacitor-flaw-cve-2026-103922) : ![starts](https://img.shields.io/github/stars/techupdate24/capacitor-flaw-cve-2026-103922.svg) ![forks](https://img.shields.io/github/forks/techupdate24/capacitor-flaw-cve-2026-103922.svg)
 
+## CVE-2026-103889
+> The 3D Product configurator for WooCommerce plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 2.16.2 via the &#x27;xpv_image&#x27; parameter parameter. This is due to missing authentication and nonce checks on the wp_loaded handler combined with no sanitization of the xpv_image POST parameter before it is echoed unescaped into a Dompdf-rendered HTML template with PHP execution enabled. This makes it possible for unauthenticated attackers to execute code on t
+
+- [https://github.com/kayes817/CVE-2026-103889](https://github.com/kayes817/CVE-2026-103889) : ![starts](https://img.shields.io/github/stars/kayes817/CVE-2026-103889.svg) ![forks](https://img.shields.io/github/forks/kayes817/CVE-2026-103889.svg)
+
 ## CVE-2026-103752
 > Unauthenticated Privilege Escalation in Authorizer &lt;= 3.15.3 versions.
 
@@ -786,6 +791,11 @@ This issue affects AKINSOFT WOLVOX Control Panel: from 26.02.25 before 26.02.26.
 ## CVE-2026-91159
 
 - [https://github.com/sl4x0/autheo-cve-2026-91159-poc](https://github.com/sl4x0/autheo-cve-2026-91159-poc) : ![starts](https://img.shields.io/github/stars/sl4x0/autheo-cve-2026-91159-poc.svg) ![forks](https://img.shields.io/github/forks/sl4x0/autheo-cve-2026-91159-poc.svg)
+
+## CVE-2026-91136
+> The Divi Plus plugin for WordPress is vulnerable to Arbitrary File Read in versions up to, and including, 2.4.0 via the &#x27;svg_image&#x27; parameter of the /wp-json/elicus/v1/dipl-modules/svg-animator REST endpoint. This is due to the endpoint&#x27;s permission callback (SVGAnimatorController::index_permission) returning true unconditionally combined with insufficient validation of the &#x27;svg_image&#x27; input — sanitize_text_field() and esc_html() do not restrict filesystem paths, the file:// stream wrapper, or a
+
+- [https://github.com/fl0ydsec/CVE-2026-91136](https://github.com/fl0ydsec/CVE-2026-91136) : ![starts](https://img.shields.io/github/stars/fl0ydsec/CVE-2026-91136.svg) ![forks](https://img.shields.io/github/forks/fl0ydsec/CVE-2026-91136.svg)
 
 ## CVE-2026-91106
  HP has identified and remediated multiple externally reported vulnerabilities within HPLIP. The findings affect several software components that could potentially enable remote code execution, privilege escalation, denial of service, information disclosure, or unauthorized file modification under certain conditions.
@@ -3219,6 +3229,8 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 - [https://github.com/ivanesk315/CVE-2026-66066](https://github.com/ivanesk315/CVE-2026-66066) : ![starts](https://img.shields.io/github/stars/ivanesk315/CVE-2026-66066.svg) ![forks](https://img.shields.io/github/forks/ivanesk315/CVE-2026-66066.svg)
 
 - [https://github.com/paveg/rails-activestorage-vips-audit](https://github.com/paveg/rails-activestorage-vips-audit) : ![starts](https://img.shields.io/github/stars/paveg/rails-activestorage-vips-audit.svg) ![forks](https://img.shields.io/github/forks/paveg/rails-activestorage-vips-audit.svg)
+
+- [https://github.com/honghyewon29/CVE-2026-66066](https://github.com/honghyewon29/CVE-2026-66066) : ![starts](https://img.shields.io/github/stars/honghyewon29/CVE-2026-66066.svg) ![forks](https://img.shields.io/github/forks/honghyewon29/CVE-2026-66066.svg)
 
 ## CVE-2026-66012
  SiYuan before v3.7.2 contains a missing authorization vulnerability in the POST /mcp kernel endpoint, which is gated only by a general auth check (model.CheckAuth) with no admin-role or read-only enforcement. This exposes 31 MCP tools, including a file tool with list/read/write/delete/rename/copy actions across the entire workspace. When the Publish server is enabled in anonymous mode (Conf.Publish.Enable=true and Conf.Publish.Auth.Enable=false), the Publish reverse proxy attaches an anonymous RoleReader JWT to proxied requests, allowing a remote unauthenticated attacker to reach /mcp. The attacker can read conf/conf.json to extract accessAuthCode, api.token, and cookieKey in plaintext, write arbitrary files in the workspace, and plant a plugin into data/plugins/ that executes with nodeIntegration:true and no contextIsolation on the next desktop launch, leading to administrator takeover.
@@ -13127,6 +13139,8 @@ AD directly.
 
 - [https://github.com/zs1n/copy-fail-CVE-2026-31431](https://github.com/zs1n/copy-fail-CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/zs1n/copy-fail-CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/zs1n/copy-fail-CVE-2026-31431.svg)
 
+- [https://github.com/Liverwortenuresis371/copyfail-rs](https://github.com/Liverwortenuresis371/copyfail-rs) : ![starts](https://img.shields.io/github/stars/Liverwortenuresis371/copyfail-rs.svg) ![forks](https://img.shields.io/github/forks/Liverwortenuresis371/copyfail-rs.svg)
+
 ## CVE-2026-31429
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -18815,6 +18829,8 @@ A successful match grants role=2 (admin-level access) and creates a valid sessio
 
 - [https://github.com/HORKimhab/CVE-2026-9586](https://github.com/HORKimhab/CVE-2026-9586) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-9586.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-9586.svg)
 
+- [https://github.com/fromABUV/CVE-2026-9586_POC_EXPLOIT](https://github.com/fromABUV/CVE-2026-9586_POC_EXPLOIT) : ![starts](https://img.shields.io/github/stars/fromABUV/CVE-2026-9586_POC_EXPLOIT.svg) ![forks](https://img.shields.io/github/forks/fromABUV/CVE-2026-9586_POC_EXPLOIT.svg)
+
 ## CVE-2026-9560
  Privilege escalation via background service of OpenVPN Connect 3.5.1 through 3.8.1 on macOS allows attackers to execute arbitrary commands with elevated privileges via local IPC channel
 
@@ -18902,6 +18918,8 @@ Successful exploitation may result in complete device compromise and impact the 
 - [https://github.com/chessalekin/cve-2026-9198_exploit](https://github.com/chessalekin/cve-2026-9198_exploit) : ![starts](https://img.shields.io/github/stars/chessalekin/cve-2026-9198_exploit.svg) ![forks](https://img.shields.io/github/forks/chessalekin/cve-2026-9198_exploit.svg)
 
 - [https://github.com/joaovicdev/EXPLOIT-CVE-2026-9198](https://github.com/joaovicdev/EXPLOIT-CVE-2026-9198) : ![starts](https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2026-9198.svg) ![forks](https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2026-9198.svg)
+
+- [https://github.com/Riftweld/langflow-cve-2026-9198](https://github.com/Riftweld/langflow-cve-2026-9198) : ![starts](https://img.shields.io/github/stars/Riftweld/langflow-cve-2026-9198.svg) ![forks](https://img.shields.io/github/forks/Riftweld/langflow-cve-2026-9198.svg)
 
 ## CVE-2026-9158
  In Eclipse 4diac FORTE versions 3.0.0 to 3.1.0, a specially crafted DELETE connection command to the management interface can lead to a dangling pointer. This allows subsequent commands to access freed memory (use-after-free).
@@ -19597,6 +19615,10 @@ Affected products and versions include: from ADM 4.1.0 through ADM 4.3.3.RR42 as
 This issue affects Liderahenk: from 2.0.1 before 2.0.2.
 
 - [https://github.com/jackalkarlos/EvilAhenk](https://github.com/jackalkarlos/EvilAhenk) : ![starts](https://img.shields.io/github/stars/jackalkarlos/EvilAhenk.svg) ![forks](https://img.shields.io/github/forks/jackalkarlos/EvilAhenk.svg)
+
+## CVE-2026-6475
+
+- [https://github.com/abraxas/postgres-basebackup-symlink](https://github.com/abraxas/postgres-basebackup-symlink) : ![starts](https://img.shields.io/github/stars/abraxas/postgres-basebackup-symlink.svg) ![forks](https://img.shields.io/github/forks/abraxas/postgres-basebackup-symlink.svg)
 
 ## CVE-2026-6471
  Missing authorization in PostgreSQL logical decoding allows a non-superuser holding REPLICATION privilege to dlopen any file visible to the operating system account running the server, via the choice of logical decoding plugin.  This in turn runs arbitrary code as that account.  Versions before PostgreSQL 18.6, 17.11, 16.15, 15.19, and 14.24 are affected.
@@ -22420,6 +22442,8 @@ You should upgrade to version 6.0.0 of the provider to avoid even that risk.
 - [https://github.com/qianlijaingshan/n8n-cve-2026-21858](https://github.com/qianlijaingshan/n8n-cve-2026-21858) : ![starts](https://img.shields.io/github/stars/qianlijaingshan/n8n-cve-2026-21858.svg) ![forks](https://img.shields.io/github/forks/qianlijaingshan/n8n-cve-2026-21858.svg)
 
 - [https://github.com/AbdulRKB/n8n-RCE](https://github.com/AbdulRKB/n8n-RCE) : ![starts](https://img.shields.io/github/stars/AbdulRKB/n8n-RCE.svg) ![forks](https://img.shields.io/github/forks/AbdulRKB/n8n-RCE.svg)
+
+- [https://github.com/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613](https://github.com/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613) : ![starts](https://img.shields.io/github/stars/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613.svg) ![forks](https://img.shields.io/github/forks/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613.svg)
 
 ## CVE-2025-68493
  Missing XML Validation vulnerability in Apache Struts, Apache Struts.

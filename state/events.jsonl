@@ -2397,3 +2397,11 @@
 {"cve_id": "CVE-2026-104703", "ts": "2026-10-12T00:33:11Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-72898", "ts": "2026-10-12T00:34:01Z", "type": "new_poc", "url": "https://github.com/Riftweld/metabase-cve-2026-72898"}
 {"cve_id": "CVE-2026-104703", "ts": "2026-10-12T00:54:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-91136", "ts": "2026-10-12T07:20:39Z", "type": "new_poc", "url": "https://github.com/fl0ydsec/CVE-2026-91136"}
+{"cve_id": "CVE-2026-103889", "ts": "2026-10-12T07:20:39Z", "type": "new_poc", "url": "https://github.com/kayes817/CVE-2026-103889"}
+{"cve_id": "CVE-2026-66066", "ts": "2026-10-12T07:20:39Z", "type": "new_poc", "url": "https://github.com/honghyewon29/CVE-2026-66066"}
+{"cve_id": "CVE-2026-9198", "ts": "2026-10-12T07:20:39Z", "type": "new_poc", "url": "https://github.com/Riftweld/langflow-cve-2026-9198"}
+{"cve_id": "CVE-2026-9586", "ts": "2026-10-12T07:20:39Z", "type": "new_poc", "url": "https://github.com/fromABUV/CVE-2026-9586_POC_EXPLOIT"}
+{"cve_id": "CVE-2026-6475", "ts": "2026-10-12T07:20:39Z", "type": "new_poc", "url": "https://github.com/abraxas/postgres-basebackup-symlink"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-12T07:21:00Z", "type": "new_poc", "url": "https://github.com/Liverwortenuresis371/copyfail-rs"}
+{"cve_id": "CVE-2025-68613", "ts": "2026-10-12T07:25:51Z", "type": "new_poc", "url": "https://github.com/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613"}

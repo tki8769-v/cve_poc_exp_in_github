@@ -682,3 +682,5 @@
 {"cve_id": "CVE-2022-3000", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T00:48:22Z", "url": "https://github.com/ComparedArray/printix-CVE-2022-30006", "url_ids": ["CVE-2022-30006"]}
 {"cve_id": "CVE-2026-5549", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T01:04:52Z", "url": "https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE", "url_ids": ["CVE-2026-55494", "CVE-2026-62308"]}
 {"cve_id": "CVE-2023-3881", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T01:05:42Z", "url": "https://github.com/SecSecBurger/CVE-2023-38817", "url_ids": ["CVE-2023-38817"]}
+{"cve_id": "CVE-2024-1642", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T07:27:52Z", "url": "https://github.com/Symbolexe/CVE-2024-1642470", "url_ids": ["CVE-2024-1642470"]}
+{"cve_id": "CVE-2026-10110", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T07:29:50Z", "url": "https://github.com/murrez/CVE-2026-101108", "url_ids": ["CVE-2026-101108"]}

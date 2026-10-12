@@ -1,5 +1,16 @@
 {
-  "last_date": null,
+  "last_date": "2026-10-12",
   "unresolved": [],
-  "windows": []
+  "windows": [
+    {
+      "attempts": 1,
+      "end": "2026-10-11T12:00:00Z",
+      "start": "2026-10-11T00:00:00Z"
+    },
+    {
+      "attempts": 1,
+      "end": "2026-10-12T00:00:00Z",
+      "start": "2026-10-11T12:00:00Z"
+    }
+  ]
 }
