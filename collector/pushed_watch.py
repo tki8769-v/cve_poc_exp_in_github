@@ -98,8 +98,10 @@ def discover_pushed(client, root: Path, max_pages: int = DEFAULT_MAX_PAGES,
     from .blacklist import load_blacklist
     blacklist = load_blacklist(root)
 
-    def _run_window(start: datetime, end: datetime, attempts: int) -> str:
-        """处理一个时间窗口，返回 complete / cap / incomplete。"""
+    def _run_window(start: datetime, end: datetime) -> str:
+        """处理一个时间窗口，返回 complete / cap / truncated / budget / incomplete。"""
+        if end <= start:
+            return "complete"  # 零长度窗口（当日刚过零点）：无需查询
         result = client.search_repositories(
             QUERY_TEMPLATE.format(start=_fmt(start), end=_fmt(end)),
             max_pages=max_pages, budget=budget,
@@ -110,9 +112,8 @@ def discover_pushed(client, root: Path, max_pages: int = DEFAULT_MAX_PAGES,
         stats["windows_done"] += 1
         if result.complete:
             return "complete"
-        if result.stop_reason == "pagination_cap":
-            return "cap"
-        return "incomplete"
+        reason = result.stop_reason or "incomplete"
+        return {"pagination_cap": "cap"}.get(reason, reason)
 
     def _split_or_unresolve(start: datetime, end: datetime, total_hint: str) -> None:
         if end - start > MIN_WINDOW:
@@ -132,12 +133,12 @@ def discover_pushed(client, root: Path, max_pages: int = DEFAULT_MAX_PAGES,
         if not pending:
             break
         entry = pending.pop(0)
-        outcome = _run_window(_parse(entry["start"]), _parse(entry["end"]),
-                              int(entry.get("attempts", 1)))
+        outcome = _run_window(_parse(entry["start"]), _parse(entry["end"]))
         if outcome == "complete":
             continue
-        if outcome == "cap":
-            _split_or_unresolve(_parse(entry["start"]), _parse(entry["end"]), "cap")
+        if outcome in ("cap", "truncated"):
+            # 超量（1000 上限）与本轮页数截断同治：时间拆分
+            _split_or_unresolve(_parse(entry["start"]), _parse(entry["end"]), outcome)
             continue
         # 预算/网络不完整：原窗口放回队首，下轮续跑
         entry["attempts"] = int(entry.get("attempts", 1)) + 1
@@ -146,24 +147,35 @@ def discover_pushed(client, root: Path, max_pages: int = DEFAULT_MAX_PAGES,
         stopped = True
         break
 
-    # 2) 日期窗口推进：超量拆分入队后继续下一日，不阻塞
+    # 2) 完整日期窗口（结束于此刻之前）：complete 或已拆分入队即视为该日
+    #    已处理（覆盖状态由窗口队列承载，J1 模式），游标推进不被拆分阻塞；
+    #    预算/网络不完整停在该日，下轮重扫（幂等合并去重）
     day = start_day
+    covered_through = None  # 最后一个已处理（完整覆盖或已拆分）的完整日
     while not stopped:
         day_start = datetime.strptime(day, "%Y-%m-%d").replace(tzinfo=timezone.utc)
         day_end = day_start + timedelta(days=1)
-        if day_start > now:
-            break
-        end = min(day_end, now)
-        outcome = _run_window(day_start, end, 1)
-        if outcome == "incomplete":
-            stopped = True
-            stats["stop_reason"] = "incomplete current window"
-            break  # last_date 不推进，该日下轮重扫（幂等合并去重）
-        if outcome == "cap":
-            _split_or_unresolve(day_start, end, "cap")
-        if day >= today:
-            break
-        day = (day_start + timedelta(days=1)).strftime("%Y-%m-%d")
+        if day_end > now:
+            break  # 剩下的只有"当日"，交给快照处理
+        outcome = _run_window(day_start, day_end)
+        if outcome in ("complete", "cap", "truncated"):
+            if outcome != "complete":
+                _split_or_unresolve(day_start, day_end, outcome)
+            covered_through = day
+            day = (day_start + timedelta(days=1)).strftime("%Y-%m-%d")
+            continue
+        # budget / 服务端不完整：停住，游标不越过该日
+        stats["stop_reason"] = f"{outcome} full day window"
+        stopped = True
+        break
+
+    # 3) 当日快照（天然部分覆盖：只到此刻）：仅吸收结果，不影响游标语义
+    #    ——当日的权威覆盖由次日的完整日查询完成（幂等合并去重）。
+    #    修复实测缺陷：此前当日窗口的截断/预算结果会永久阻塞游标推进。
+    if not stopped:
+        today_start = datetime.strptime(today, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        if now > today_start:
+            _run_window(today_start, now)
 
     stats["window"] = f"{start_day}..{today}"
     stats["windows_pending"] = len(pending)
@@ -171,10 +183,18 @@ def discover_pushed(client, root: Path, max_pages: int = DEFAULT_MAX_PAGES,
     stats["requests_used"] = budget.requests_used if budget is not None else None
 
     if not dry_run:
-        advanced = (not stopped) and day >= today and not pending
-        cursor.update({"last_date": today if advanced else last_date,
+        # 游标推进：全部完整日处理完毕（无预算停）→ last_date=今天（与
+        # created 通道的重叠日语义一致：当日每轮重查）；中途预算停 →
+        # 停在前一个已处理日。待处理窗口队列不阻塞日期推进。
+        if covered_through is not None and not stopped:
+            new_last_date = today
+        elif covered_through is not None:
+            new_last_date = covered_through
+        else:
+            new_last_date = last_date
+        cursor.update({"last_date": new_last_date,
                        "windows": pending, "unresolved": unresolved})
-        if advanced:
+        if new_last_date != last_date:
             stats["cursor_advanced"] = True
         _save_cursor(root, cursor)
     return stats

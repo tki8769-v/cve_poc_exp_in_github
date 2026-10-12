@@ -63,9 +63,11 @@ def test_p2b_cap_splits_by_time(tmp_path: Path):
 
     assert stats["splits"] >= 1                 # 拆分而非放弃
     assert stats["windows_pending"] >= 2
-    assert stats["cursor_advanced"] is False    # 子窗口未完成，last_date 不推进
+    # J1 模式：拆分入队 = 该日已处理，游标推进（覆盖状态由窗口队列承载）
+    assert stats["cursor_advanced"] is True
     cursor = state_mod.read_json(tmp_path / "state" / CURSOR_FILE)
     assert len(cursor["windows"]) == stats["windows_pending"]
+    assert cursor["last_date"] == datetime.now(timezone.utc).strftime("%Y-%m-%d")
     assert cursor["unresolved"] == []           # 尚未到最小粒度，无未解缺口
 
 
