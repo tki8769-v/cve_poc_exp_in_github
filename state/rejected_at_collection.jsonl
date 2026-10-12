@@ -701,3 +701,8 @@
 {"cve_id": "CVE-2023-2636", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T07:41:00Z", "url": "https://github.com/yosef0x01/CVE-2023-26360", "url_ids": ["CVE-2023-26360"]}
 {"cve_id": "CVE-2023-2636", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T07:41:00Z", "url": "https://github.com/H3rm1tR3b0rn/CVE-2023-26360-RCE", "url_ids": ["CVE-2023-26360"]}
 {"cve_id": "CVE-2023-2636", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T07:41:00Z", "url": "https://github.com/RyanRodrigues880/CVE-2023-26360", "url_ids": ["CVE-2023-26360"]}
+{"cve_id": "CVE-2026-2576", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T07:42:13Z", "url": "https://github.com/0xBlackash/CVE-2026-25769", "url_ids": ["CVE-2026-25769"]}
+{"cve_id": "CVE-2024-4050", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T07:45:06Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40507", "url_ids": ["CVE-2024-40507"]}
+{"cve_id": "CVE-2024-4050", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T07:45:06Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40506", "url_ids": ["CVE-2024-40506"]}
+{"cve_id": "CVE-2024-4050", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T07:45:06Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40508", "url_ids": ["CVE-2024-40508"]}
+{"cve_id": "CVE-2024-4050", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T07:45:06Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40509", "url_ids": ["CVE-2024-40509"]}

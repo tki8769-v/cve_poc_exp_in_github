@@ -263,6 +263,8 @@ Exploitation of this vulnerability requires that a user or application run or in
 
 - [https://github.com/nth347/CVE-2013-2251](https://github.com/nth347/CVE-2013-2251) : ![starts](https://img.shields.io/github/stars/nth347/CVE-2013-2251.svg) ![forks](https://img.shields.io/github/forks/nth347/CVE-2013-2251.svg)
 
+- [https://github.com/nth347/struts2-CVE-2013-2251](https://github.com/nth347/struts2-CVE-2013-2251) : ![starts](https://img.shields.io/github/stars/nth347/struts2-CVE-2013-2251.svg) ![forks](https://img.shields.io/github/forks/nth347/struts2-CVE-2013-2251.svg)
+
 ## CVE-2013-2217
  cache.py in Suds 0.4, when tempdir is set to None, allows local users to redirect SOAP queries and possibly have other unspecified impact via a symlink attack on a cache file with a predictable name in /tmp/suds/.
 

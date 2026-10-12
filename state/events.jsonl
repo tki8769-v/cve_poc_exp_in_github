@@ -2405,3 +2405,4 @@
 {"cve_id": "CVE-2026-6475", "ts": "2026-10-12T07:20:39Z", "type": "new_poc", "url": "https://github.com/abraxas/postgres-basebackup-symlink"}
 {"cve_id": "CVE-2026-31431", "ts": "2026-10-12T07:21:00Z", "type": "new_poc", "url": "https://github.com/Liverwortenuresis371/copyfail-rs"}
 {"cve_id": "CVE-2025-68613", "ts": "2026-10-12T07:25:51Z", "type": "new_poc", "url": "https://github.com/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613"}
+{"cve_id": "CVE-2013-2251", "ts": "2026-10-12T07:42:02Z", "type": "new_poc", "url": "https://github.com/nth347/struts2-CVE-2013-2251"}

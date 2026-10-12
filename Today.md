@@ -1,4 +1,8 @@
 # Update 2026-10-12
+## CVE-2013-2251
+
+- [https://github.com/nth347/struts2-CVE-2013-2251](https://github.com/nth347/struts2-CVE-2013-2251) : ![starts](https://img.shields.io/github/stars/nth347/struts2-CVE-2013-2251.svg) ![forks](https://img.shields.io/github/forks/nth347/struts2-CVE-2013-2251.svg)
+
 ## CVE-2025-68613
 
 - [https://github.com/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613](https://github.com/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613) : ![starts](https://img.shields.io/github/stars/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613.svg) ![forks](https://img.shields.io/github/forks/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613.svg)
