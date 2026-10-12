@@ -8566,6 +8566,8 @@ Users are recommended to upgrade to version 9.0.104, 10.1.40 or 11.0.6 which fix
 
 - [https://github.com/harshitvarma05/CVE-2025-31324-Exploits](https://github.com/harshitvarma05/CVE-2025-31324-Exploits) : ![starts](https://img.shields.io/github/stars/harshitvarma05/CVE-2025-31324-Exploits.svg) ![forks](https://img.shields.io/github/forks/harshitvarma05/CVE-2025-31324-Exploits.svg)
 
+- [https://github.com/harisandhusingh-cmyk/cs50-cve-2025-31324-analysis](https://github.com/harisandhusingh-cmyk/cs50-cve-2025-31324-analysis) : ![starts](https://img.shields.io/github/stars/harisandhusingh-cmyk/cs50-cve-2025-31324-analysis.svg) ![forks](https://img.shields.io/github/forks/harisandhusingh-cmyk/cs50-cve-2025-31324-analysis.svg)
+
 ## CVE-2025-31277
  The issue was addressed with improved memory handling. This issue is fixed in Safari 18.6, iOS 18.6 and iPadOS 18.6, macOS Sequoia 15.6, tvOS 18.6, visionOS 2.6, watchOS 11.6. Processing maliciously crafted web content may lead to memory corruption.
 
@@ -15210,6 +15212,8 @@ Bypass operating system verification via exploiting the NV_Read functionality du
 - [https://github.com/MCRideable3963/RMASmoke-v2](https://github.com/MCRideable3963/RMASmoke-v2) : ![starts](https://img.shields.io/github/stars/MCRideable3963/RMASmoke-v2.svg) ![forks](https://img.shields.io/github/forks/MCRideable3963/RMASmoke-v2.svg)
 
 - [https://github.com/MCRideable3963/exploit-docs](https://github.com/MCRideable3963/exploit-docs) : ![starts](https://img.shields.io/github/stars/MCRideable3963/exploit-docs.svg) ![forks](https://img.shields.io/github/forks/MCRideable3963/exploit-docs.svg)
+
+- [https://github.com/ts2023dev/exploit-docs](https://github.com/ts2023dev/exploit-docs) : ![starts](https://img.shields.io/github/stars/ts2023dev/exploit-docs.svg) ![forks](https://img.shields.io/github/forks/ts2023dev/exploit-docs.svg)
 
 ## CVE-2025-1098
  A security issue was discovered in  ingress-nginx https://github.com/kubernetes/ingress-nginx  where the `mirror-target` and `mirror-host` Ingress annotations can be used to inject arbitrary configuration into nginx. This can lead to arbitrary code execution in the context of the ingress-nginx controller, and disclosure of Secrets accessible to the controller. (Note that in the default installation, the controller can access all Secrets cluster-wide.)

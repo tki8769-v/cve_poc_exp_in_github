@@ -2406,3 +2406,41 @@
 {"cve_id": "CVE-2026-31431", "ts": "2026-10-12T07:21:00Z", "type": "new_poc", "url": "https://github.com/Liverwortenuresis371/copyfail-rs"}
 {"cve_id": "CVE-2025-68613", "ts": "2026-10-12T07:25:51Z", "type": "new_poc", "url": "https://github.com/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613"}
 {"cve_id": "CVE-2013-2251", "ts": "2026-10-12T07:42:02Z", "type": "new_poc", "url": "https://github.com/nth347/struts2-CVE-2013-2251"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-12T19:01:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-12T19:02:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-12T19:02:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-12T19:02:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-12T19:02:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-12T19:02:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-12T19:02:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-12T19:03:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-12T19:03:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-12T19:03:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-12T19:03:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-68764", "ts": "2026-10-12T19:03:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-12T19:04:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-12T19:04:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-68764", "ts": "2026-10-12T19:04:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-12T19:04:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-12T19:04:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-68764", "ts": "2026-10-12T19:05:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-12T19:05:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-12T19:05:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-68764", "ts": "2026-10-12T19:05:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-12T19:06:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-12T19:06:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-68764", "ts": "2026-10-12T19:06:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-85097", "ts": "2026-10-12T19:07:26Z", "type": "new_poc", "url": "https://github.com/tc4dy/CVE-2026-85097-Toolkit"}
+{"cve_id": "CVE-2026-60137", "ts": "2026-10-12T19:07:27Z", "type": "new_poc", "url": "https://github.com/0xCyp1337/CVE-2026-63030-CVE-2026-60137-WP2SHELL"}
+{"cve_id": "CVE-2026-63030", "ts": "2026-10-12T19:07:27Z", "type": "new_poc", "url": "https://github.com/0xCyp1337/CVE-2026-63030-CVE-2026-60137-WP2SHELL"}
+{"cve_id": "CVE-2024-21626", "ts": "2026-10-12T19:07:27Z", "type": "new_poc", "url": "https://github.com/ghs053020-stack/cve-2024-21626"}
+{"cve_id": "CVE-2026-102255", "ts": "2026-10-12T19:07:27Z", "type": "new_poc", "url": "https://github.com/HORKimhab/CVE-2026-102255"}
+{"cve_id": "CVE-2026-91737", "ts": "2026-10-12T19:07:27Z", "type": "new_poc", "url": "https://github.com/sm1ee/CVE-2026-91737"}
+{"cve_id": "CVE-2026-84251", "ts": "2026-10-12T19:07:27Z", "type": "new_poc", "url": "https://github.com/Exploit-Kun/CVE-2026-84251"}
+{"cve_id": "CVE-2026-84411", "ts": "2026-10-12T19:07:27Z", "type": "new_poc", "url": "https://github.com/Apiratchai/CVE-2026-84411-reproduction"}
+{"cve_id": "CVE-2026-13078", "ts": "2026-10-12T19:07:27Z", "type": "new_poc", "url": "https://github.com/0xad3m/CVE-2026-13078-POC"}
+{"cve_id": "CVE-2026-79987", "ts": "2026-10-12T19:07:28Z", "type": "new_poc", "url": "https://github.com/y3g1/CraftCMS-CVE-2026-79987"}
+{"cve_id": "CVE-2025-31324", "ts": "2026-10-12T19:07:28Z", "type": "new_poc", "url": "https://github.com/harisandhusingh-cmyk/cs50-cve-2025-31324-analysis"}
+{"cve_id": "CVE-2026-102255", "ts": "2026-10-12T19:07:28Z", "type": "new_poc", "url": "https://github.com/techupdate24/sonicwall-sma-1000-cve-2026-102255"}
+{"cve_id": "CVE-2021-1905", "ts": "2026-10-12T19:07:28Z", "type": "new_poc", "url": "https://github.com/Gonvar/kgsl-1905-msm8953"}
+{"cve_id": "CVE-2025-1122", "ts": "2026-10-12T19:07:37Z", "type": "new_poc", "url": "https://github.com/ts2023dev/exploit-docs"}
