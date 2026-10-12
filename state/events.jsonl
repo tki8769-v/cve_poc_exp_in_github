@@ -2394,3 +2394,5 @@
 {"cve_id": "CVE-2026-2035703", "ts": "2026-10-11T21:03:18Z", "type": "new_poc", "url": "https://github.com/danish1162/CVE-2026-2035703-x300"}
 {"cve_id": "CVE-2025-4802", "ts": "2026-10-11T21:05:06Z", "type": "new_poc", "url": "https://github.com/betizzel/CVE-2025-4802-Proof-of-Concept"}
 {"cve_id": "CVE-2018-7600", "ts": "2026-10-11T21:16:21Z", "type": "new_poc", "url": "https://github.com/Aihikk/DC-1_Vulnhub_Walkthrough"}
+{"cve_id": "CVE-2026-104703", "ts": "2026-10-12T00:33:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-72898", "ts": "2026-10-12T00:34:01Z", "type": "new_poc", "url": "https://github.com/Riftweld/metabase-cve-2026-72898"}
