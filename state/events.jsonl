@@ -2396,3 +2396,4 @@
 {"cve_id": "CVE-2018-7600", "ts": "2026-10-11T21:16:21Z", "type": "new_poc", "url": "https://github.com/Aihikk/DC-1_Vulnhub_Walkthrough"}
 {"cve_id": "CVE-2026-104703", "ts": "2026-10-12T00:33:11Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-72898", "ts": "2026-10-12T00:34:01Z", "type": "new_poc", "url": "https://github.com/Riftweld/metabase-cve-2026-72898"}
+{"cve_id": "CVE-2026-104703", "ts": "2026-10-12T00:54:42Z", "type": "cve_rejected"}

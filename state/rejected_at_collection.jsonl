@@ -680,3 +680,5 @@
 {"cve_id": "CVE-2022-2725", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T00:48:12Z", "url": "https://github.com/nonamecoder/CVE-2022-27254", "url_ids": ["CVE-2022-27254"]}
 {"cve_id": "CVE-2022-2725", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T00:48:12Z", "url": "https://github.com/stryker-project/CVE-2022-27255-checker", "url_ids": ["CVE-2022-27255"]}
 {"cve_id": "CVE-2022-3000", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T00:48:22Z", "url": "https://github.com/ComparedArray/printix-CVE-2022-30006", "url_ids": ["CVE-2022-30006"]}
+{"cve_id": "CVE-2026-5549", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T01:04:52Z", "url": "https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE", "url_ids": ["CVE-2026-55494", "CVE-2026-62308"]}
+{"cve_id": "CVE-2023-3881", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T01:05:42Z", "url": "https://github.com/SecSecBurger/CVE-2023-38817", "url_ids": ["CVE-2023-38817"]}
