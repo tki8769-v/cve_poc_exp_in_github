@@ -677,3 +677,6 @@
 {"cve_id": "CVE-2026-5392", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T21:27:26Z", "url": "https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit", "url_ids": ["CVE-2026-53921"]}
 {"cve_id": "CVE-2026-5392", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T21:27:26Z", "url": "https://github.com/0xBlackash/CVE-2026-53921", "url_ids": ["CVE-2026-53921"]}
 {"cve_id": "CVE-2022-1111", "reason": "prefix_conflict_evidenced", "ts": "2026-10-11T21:33:26Z", "url": "https://github.com/thelostworldFree/CVE-2022-111111", "url_ids": ["CVE-2022-111111"]}
+{"cve_id": "CVE-2022-2725", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T00:48:12Z", "url": "https://github.com/nonamecoder/CVE-2022-27254", "url_ids": ["CVE-2022-27254"]}
+{"cve_id": "CVE-2022-2725", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T00:48:12Z", "url": "https://github.com/stryker-project/CVE-2022-27255-checker", "url_ids": ["CVE-2022-27255"]}
+{"cve_id": "CVE-2022-3000", "reason": "prefix_conflict_evidenced", "ts": "2026-10-12T00:48:22Z", "url": "https://github.com/ComparedArray/printix-CVE-2022-30006", "url_ids": ["CVE-2022-30006"]}
