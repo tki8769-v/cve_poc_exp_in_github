@@ -3614,6 +3614,10 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/FssAy/OpenSMTPD-RS](https://github.com/FssAy/OpenSMTPD-RS) : ![starts](https://img.shields.io/github/stars/FssAy/OpenSMTPD-RS.svg) ![forks](https://img.shields.io/github/forks/FssAy/OpenSMTPD-RS.svg)
 
+## CVE-2020-8694
+
+- [https://github.com/kcherry497/tmog-rapl-gate](https://github.com/kcherry497/tmog-rapl-gate) : ![starts](https://img.shields.io/github/stars/kcherry497/tmog-rapl-gate.svg) ![forks](https://img.shields.io/github/forks/kcherry497/tmog-rapl-gate.svg)
+
 ## CVE-2020-8644
  PlaySMS before 1.4.3 does not sanitize inputs from a malicious string.
 

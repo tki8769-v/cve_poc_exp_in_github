@@ -730,3 +730,8 @@
 {"cve_id": "CVE-2023-3338", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T13:01:30Z", "url": "https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC", "url_ids": ["CVE-2023-33381"]}
 {"cve_id": "CVE-2026-3643", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T13:15:21Z", "url": "https://github.com/kensh1k/CVE-2026-36438", "url_ids": ["CVE-2026-36438"]}
 {"cve_id": "CVE-2026-3003", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T20:04:03Z", "url": "https://github.com/bx33661/CVE-2026-30039", "url_ids": ["CVE-2026-30039"]}
+{"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T20:20:48Z", "url": "https://github.com/duck-sec/CVE-2023-28252-Compiled-exe", "url_ids": ["CVE-2023-28252"]}
+{"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T20:20:48Z", "url": "https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252", "url_ids": ["CVE-2023-28252"]}
+{"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T20:20:48Z", "url": "https://github.com/Vulmatch/CVE-2023-28252", "url_ids": ["CVE-2023-28252"]}
+{"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T20:20:48Z", "url": "https://github.com/Danasuley/CVE-2023-28252-", "url_ids": ["CVE-2023-28252"]}
+{"cve_id": "CVE-2025-6129", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T20:23:01Z", "url": "https://github.com/GovindPalakkal/CVE-2025-61299_POC", "url_ids": ["CVE-2025-61299"]}

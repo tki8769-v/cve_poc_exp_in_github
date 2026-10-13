@@ -1325,6 +1325,10 @@ path involving usernames that begin with a prohibited character, allowing for th
 
 - [https://github.com/murrez/CVE-2026-85984](https://github.com/murrez/CVE-2026-85984) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-85984.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-85984.svg)
 
+## CVE-2026-85884
+
+- [https://github.com/Beardhammer/CVE-2026-85884](https://github.com/Beardhammer/CVE-2026-85884) : ![starts](https://img.shields.io/github/stars/Beardhammer/CVE-2026-85884.svg) ![forks](https://img.shields.io/github/forks/Beardhammer/CVE-2026-85884.svg)
+
 ## CVE-2026-85769
  A flaw was found in libtpms, a library that provides software TPM 2.0 emulation. When restoring TPM 2.0 state (for example during a virtual machine's power-on or state/migration restore), a malformed state blob can supply an oversized skip-block length that is not validated against the remaining size of the input buffer. This can drive an internal size counter negative, which bypasses a subsequent bounds check due to an unsafe signed-to-unsigned conversion, causing the parser to read memory outside the bounds of the heap buffer holding the state data. Successful exploitation can crash the process hosting libtpms (such as swtpm), resulting in a denial of service of the emulated TPM device and the virtual machine that depends on it. No data corruption or information disclosure was confirmed.
 
@@ -1516,6 +1520,10 @@ This issue w
 - [https://github.com/karollooool/CVE-2026-83991-writeup-and-poc](https://github.com/karollooool/CVE-2026-83991-writeup-and-poc) : ![starts](https://img.shields.io/github/stars/karollooool/CVE-2026-83991-writeup-and-poc.svg) ![forks](https://img.shields.io/github/forks/karollooool/CVE-2026-83991-writeup-and-poc.svg)
 
 - [https://github.com/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC](https://github.com/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC) : ![starts](https://img.shields.io/github/stars/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC.svg) ![forks](https://img.shields.io/github/forks/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC.svg)
+
+## CVE-2026-83792
+
+- [https://github.com/unkn0w1ngNightmare/CVE-2026-83792](https://github.com/unkn0w1ngNightmare/CVE-2026-83792) : ![starts](https://img.shields.io/github/stars/unkn0w1ngNightmare/CVE-2026-83792.svg) ![forks](https://img.shields.io/github/forks/unkn0w1ngNightmare/CVE-2026-83792.svg)
 
 ## CVE-2026-83627
 
@@ -11017,6 +11025,7 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 - [https://github.com/pateldhyeyit/CVE-2026-37149](https://github.com/pateldhyeyit/CVE-2026-37149) : ![starts](https://img.shields.io/github/stars/pateldhyeyit/CVE-2026-37149.svg) ![forks](https://img.shields.io/github/forks/pateldhyeyit/CVE-2026-37149.svg)
 
 ## CVE-2026-37107
+> An issue in HTMLy v.3.1.1 allows a remote attacker to escalate privileges via the get_feed function in the admin.php component
 
 - [https://github.com/KyrieKlay/CVE-2026-37107](https://github.com/KyrieKlay/CVE-2026-37107) : ![starts](https://img.shields.io/github/stars/KyrieKlay/CVE-2026-37107.svg) ![forks](https://img.shields.io/github/forks/KyrieKlay/CVE-2026-37107.svg)
 

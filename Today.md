@@ -7,6 +7,10 @@
 
 - [https://github.com/hiratazx/CVE-2020-0041](https://github.com/hiratazx/CVE-2020-0041) : ![starts](https://img.shields.io/github/stars/hiratazx/CVE-2020-0041.svg) ![forks](https://img.shields.io/github/forks/hiratazx/CVE-2020-0041.svg)
 
+## CVE-2020-8694
+
+- [https://github.com/kcherry497/tmog-rapl-gate](https://github.com/kcherry497/tmog-rapl-gate) : ![starts](https://img.shields.io/github/stars/kcherry497/tmog-rapl-gate.svg) ![forks](https://img.shields.io/github/forks/kcherry497/tmog-rapl-gate.svg)
+
 ## CVE-2021-26882
 
 - [https://github.com/songjianyang/CVE-2021-26882](https://github.com/songjianyang/CVE-2021-26882) : ![starts](https://img.shields.io/github/stars/songjianyang/CVE-2021-26882.svg) ![forks](https://img.shields.io/github/forks/songjianyang/CVE-2021-26882.svg)
@@ -165,10 +169,18 @@ repeatedly disr
 
 - [https://github.com/hakaioffsec/CVE-2026-82957](https://github.com/hakaioffsec/CVE-2026-82957) : ![starts](https://img.shields.io/github/stars/hakaioffsec/CVE-2026-82957.svg) ![forks](https://img.shields.io/github/forks/hakaioffsec/CVE-2026-82957.svg)
 
+## CVE-2026-83792
+
+- [https://github.com/unkn0w1ngNightmare/CVE-2026-83792](https://github.com/unkn0w1ngNightmare/CVE-2026-83792) : ![starts](https://img.shields.io/github/stars/unkn0w1ngNightmare/CVE-2026-83792.svg) ![forks](https://img.shields.io/github/forks/unkn0w1ngNightmare/CVE-2026-83792.svg)
+
 ## CVE-2026-85097
 > The Bricksforge plugin for WordPress is vulnerable to unauthenticated arbitrary file upload in versions up to, and including, 3.1.8.9. This is due to insufficient validation of the attacker-controlled URL field in the &#x27;temporaryFileUploads&#x27; parameter during form submission. An unauthenticated attacker can first obtain a valid nonce via the bricksforge_regenerate_nonce AJAX endpoint, then upload a GIF/PHP polyglot file to the temporary upload directory where MIME type validation is correctly perf
 
 - [https://github.com/Masriyan/CVE-2026-85097](https://github.com/Masriyan/CVE-2026-85097) : ![starts](https://img.shields.io/github/stars/Masriyan/CVE-2026-85097.svg) ![forks](https://img.shields.io/github/forks/Masriyan/CVE-2026-85097.svg)
+
+## CVE-2026-85884
+
+- [https://github.com/Beardhammer/CVE-2026-85884](https://github.com/Beardhammer/CVE-2026-85884) : ![starts](https://img.shields.io/github/stars/Beardhammer/CVE-2026-85884.svg) ![forks](https://img.shields.io/github/forks/Beardhammer/CVE-2026-85884.svg)
 
 ## CVE-2026-86086
 
