@@ -99,7 +99,7 @@ def daily(
         steps["repo_pushed"] = _stage("repo_pushed", lambda: discover_pushed(
             client, root, budget=capped_budget(PUSHED_STAGE_SHARE)))
         steps["official_refs"] = _stage("official_refs", lambda: process_official_refs(
-            client, root, budget=capped_budget(OFFICIAL_REFS_SHARE)))
+            client, root, limit=90, budget=capped_budget(OFFICIAL_REFS_SHARE)))
 
         scan_time = stage_seconds(scan_minutes)
         steps["scan"] = _stage("scan", lambda: scan(

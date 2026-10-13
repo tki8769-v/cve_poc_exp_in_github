@@ -110,7 +110,7 @@ def record_candidates(root: Path, cve_id: str, references: list[dict],
     return added
 
 
-def process_official_refs(client, root: Path, limit: int = 30,
+def process_official_refs(client, root: Path, limit: int = 90,
                           budget: Budget | None = None) -> dict:
     """小预算取证处理候选：仅用仓库自身元数据判定（反循环证明）。
 
@@ -124,9 +124,17 @@ def process_official_refs(client, root: Path, limit: int = 30,
 
     path = _candidates_path(root)
     rows = state_mod.read_jsonl(path)
+    def _pending_by_kind() -> dict:
+        by_kind: dict[str, int] = {}
+        for r in rows:
+            if r.get("status") == "pending":
+                by_kind[r.get("kind", "?")] = by_kind.get(r.get("kind", "?"), 0) + 1
+        return by_kind
+
     stats = {
         "candidates_total": len(rows),
         "pending_before": sum(1 for r in rows if r.get("status") == "pending"),
+        "pending_by_kind": _pending_by_kind(),
         "processed": 0,
         "accepted": 0,
         "kept_for_review": 0,
@@ -203,6 +211,7 @@ def process_official_refs(client, root: Path, limit: int = 30,
 
     stats["requests_used"] = budget.requests_used if budget is not None else None
     stats["pending_after"] = sum(1 for r in rows if r.get("status") == "pending")
+    stats["pending_by_kind_after"] = _pending_by_kind()
     if changed:
         state_mod.write_jsonl(path, rows)
     return stats
