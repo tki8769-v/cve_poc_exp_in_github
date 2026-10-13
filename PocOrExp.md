@@ -3,6 +3,10 @@
 
 - [https://github.com/danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300) : ![starts](https://img.shields.io/github/stars/danish1162/CVE-2026-2035703-x300.svg) ![forks](https://img.shields.io/github/forks/danish1162/CVE-2026-2035703-x300.svg)
 
+## CVE-2026-109519
+
+- [https://github.com/0xgh0stri13y/CVE-2026-109519](https://github.com/0xgh0stri13y/CVE-2026-109519) : ![starts](https://img.shields.io/github/stars/0xgh0stri13y/CVE-2026-109519.svg) ![forks](https://img.shields.io/github/forks/0xgh0stri13y/CVE-2026-109519.svg)
+
 ## CVE-2026-108592
 > mini-swe-agent 1.10.0 through 2.4.6 contains an information exposure vulnerability in BubblewrapEnvironment because bwrap omits --clearenv, so sandboxed commands inherit the host environment. Attackers using prompt injection in processed task content can make the agent read API keys from the environment and exfiltrate them over the shared network.
 
@@ -744,6 +748,10 @@ The Unauthenticated Stored XSS vulnerability in the WordPress core can be reprod
 > The The Appointment Booking Plugin – LatePoint | Calendar &amp; Scheduling for WordPress plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 5.7.0. This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes. The payload is planted during the unauthenticated booking flow and triggered when t
 
 - [https://github.com/murrez/CVE-2026-92966](https://github.com/murrez/CVE-2026-92966) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-92966.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-92966.svg)
+
+## CVE-2026-92956
+
+- [https://github.com/AraxyAI/CVE-2026-92956__vm2__test__20261012](https://github.com/AraxyAI/CVE-2026-92956__vm2__test__20261012) : ![starts](https://img.shields.io/github/stars/AraxyAI/CVE-2026-92956__vm2__test__20261012.svg) ![forks](https://img.shields.io/github/forks/AraxyAI/CVE-2026-92956__vm2__test__20261012.svg)
 
 ## CVE-2026-92805
  UVdesk Community Skeleton through 1.1.8 fails to authenticate or validate installation state on wizard endpoints in ConfigureHelpdesk controller actions. Unauthenticated attackers can repoint the database and create super administrator accounts by submitting crafted requests to wizard endpoints, gaining full control of the instance.
@@ -2454,6 +2462,8 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
 - [https://github.com/Franc-Zar/CVE-2026-72898-safe-detection](https://github.com/Franc-Zar/CVE-2026-72898-safe-detection) : ![starts](https://img.shields.io/github/stars/Franc-Zar/CVE-2026-72898-safe-detection.svg) ![forks](https://img.shields.io/github/forks/Franc-Zar/CVE-2026-72898-safe-detection.svg)
 
 - [https://github.com/Riftweld/metabase-cve-2026-72898](https://github.com/Riftweld/metabase-cve-2026-72898) : ![starts](https://img.shields.io/github/stars/Riftweld/metabase-cve-2026-72898.svg) ![forks](https://img.shields.io/github/forks/Riftweld/metabase-cve-2026-72898.svg)
+
+- [https://github.com/amier-ge/CVE-2026-72898](https://github.com/amier-ge/CVE-2026-72898) : ![starts](https://img.shields.io/github/stars/amier-ge/CVE-2026-72898.svg) ![forks](https://img.shields.io/github/forks/amier-ge/CVE-2026-72898.svg)
 
 ## CVE-2026-72844
  The Lean 4 kernel does not verify that the structure named in a projection expression matches the type of the value being projected, and environment::add_inductive in src/kernel/inductive.cpp did not type check the nested inductive applications that are replaced by auxiliary types, so their parametric arguments escaped checking. A metaprogram running in the Lean process can register an ill-typed nested inductive whose constructor applies a .proj C 0 projection to a value of the unrelated type W, and the kernel admits the declaration through the ordinary checked addDecl path at maximum kernel checking, without sorry, unsafeCast, debug.skipKernelTC, addDeclWithoutChecking, FFI, or a modified .olean file. The result is a type confusion yielding a proof of False that carries no axioms, from which any proposition can be derived. The published proof of concept additionally pads two expressions until their hashes and approximate depths collide, which defeats kernel caching; that is the technique used to reach the flaw, not its cause. Exploitation requires running a metaprogram in-process, for example by building a project or importing a malicious Lake dependency.
@@ -12076,6 +12086,8 @@ Django would like to thank Seokchan Yoon for reporting this issue.
 
 - [https://github.com/SimoesCTT/Sovereign-Echo-33017](https://github.com/SimoesCTT/Sovereign-Echo-33017) : ![starts](https://img.shields.io/github/stars/SimoesCTT/Sovereign-Echo-33017.svg) ![forks](https://img.shields.io/github/forks/SimoesCTT/Sovereign-Echo-33017.svg)
 
+- [https://github.com/yym8538/CVE-2026-33017](https://github.com/yym8538/CVE-2026-33017) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-33017.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-33017.svg)
+
 ## CVE-2026-33006
  A timing attack against mod_auth_digest in Apache HTTP Server 2.4.66 allows a bypass of Digest authentication by a remote attacker.
 
@@ -20470,6 +20482,8 @@ Django would like to thank Tarek Nakkouch for reporting this issue.
 - [https://github.com/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher](https://github.com/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher) : ![starts](https://img.shields.io/github/stars/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher.svg) ![forks](https://img.shields.io/github/forks/Many-Hat-Group/Ubuntu-CVE-2026-3888-patcher.svg)
 
 - [https://github.com/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation](https://github.com/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation) : ![starts](https://img.shields.io/github/stars/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation.svg) ![forks](https://img.shields.io/github/forks/AlanNewberry/CVE-2026-3888-snap-confine-privilege-escalation.svg)
+
+- [https://github.com/alinpfan/CVE-2026-3888-PoC](https://github.com/alinpfan/CVE-2026-3888-PoC) : ![starts](https://img.shields.io/github/stars/alinpfan/CVE-2026-3888-PoC.svg) ![forks](https://img.shields.io/github/forks/alinpfan/CVE-2026-3888-PoC.svg)
 
 ## CVE-2026-3854
  An improper neutralization of special elements vulnerability was identified in GitHub Enterprise Server that allowed an attacker with push access to a repository to achieve remote code execution on the instance. During a git push operation, user-supplied push option values were not properly sanitized before being included in internal service headers. Because the internal header format used a delimiter character that could also appear in user input, an attacker could inject additional metadata fields through crafted push option values. This vulnerability was reported via the GitHub Bug Bounty program and has been fixed in GitHub Enterprise Server versions 3.14.25, 3.15.20, 3.16.16, 3.17.13, 3.18.7 and 3.19.4.
@@ -30216,6 +30230,8 @@ This issue affects Command Center Innovation Release: 11.38.0 to 11.38.20. The v
 - [https://github.com/EzraMansor/CVE-2025-32432-PoC](https://github.com/EzraMansor/CVE-2025-32432-PoC) : ![starts](https://img.shields.io/github/stars/EzraMansor/CVE-2025-32432-PoC.svg) ![forks](https://img.shields.io/github/forks/EzraMansor/CVE-2025-32432-PoC.svg)
 
 - [https://github.com/Si13NTTT/CVE-2025-32432](https://github.com/Si13NTTT/CVE-2025-32432) : ![starts](https://img.shields.io/github/stars/Si13NTTT/CVE-2025-32432.svg) ![forks](https://img.shields.io/github/forks/Si13NTTT/CVE-2025-32432.svg)
+
+- [https://github.com/l0lsuit/CVE-2025-32432-craftcms-rce](https://github.com/l0lsuit/CVE-2025-32432-craftcms-rce) : ![starts](https://img.shields.io/github/stars/l0lsuit/CVE-2025-32432-craftcms-rce.svg) ![forks](https://img.shields.io/github/forks/l0lsuit/CVE-2025-32432-craftcms-rce.svg)
 
 ## CVE-2025-32429
  XWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. In versions 9.4-rc-1 through 16.10.5 and 17.0.0-rc-1 through 17.2.2, it's possible for anyone to inject SQL using the parameter sort of the getdeleteddocuments.vm. It's injected as is as an ORDER BY value. This is fixed in versions 16.10.6 and 17.3.0-rc-1.

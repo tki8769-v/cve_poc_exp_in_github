@@ -2449,3 +2449,42 @@
 {"cve_id": "CVE-2026-109222", "ts": "2026-10-12T19:28:25Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-68764", "ts": "2026-10-12T19:28:46Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-93661", "ts": "2026-10-12T19:38:28Z", "type": "new_poc", "url": "https://github.com/Hasyros/CVE-2026-93661-idor-events-manager"}
+{"cve_id": "CVE-2021-48009", "ts": "2026-10-13T02:34:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-13T02:34:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-13T02:34:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109222", "ts": "2026-10-13T02:34:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-68764", "ts": "2026-10-13T02:34:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97058", "ts": "2026-10-13T02:34:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2021-48009", "ts": "2026-10-13T02:35:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-13T02:35:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-13T02:35:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109222", "ts": "2026-10-13T02:35:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-68764", "ts": "2026-10-13T02:36:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97058", "ts": "2026-10-13T02:36:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2021-48009", "ts": "2026-10-13T02:36:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-13T02:36:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-13T02:36:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109222", "ts": "2026-10-13T02:36:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58462", "ts": "2026-10-13T02:37:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-68764", "ts": "2026-10-13T02:37:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97058", "ts": "2026-10-13T02:37:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2021-48009", "ts": "2026-10-13T02:37:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-13T02:37:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-13T02:38:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109222", "ts": "2026-10-13T02:38:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58462", "ts": "2026-10-13T02:38:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-68764", "ts": "2026-10-13T02:38:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97058", "ts": "2026-10-13T02:38:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2021-48009", "ts": "2026-10-13T02:39:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104710", "ts": "2026-10-13T02:39:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108979", "ts": "2026-10-13T02:39:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109222", "ts": "2026-10-13T02:39:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58462", "ts": "2026-10-13T02:40:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-68764", "ts": "2026-10-13T02:40:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97058", "ts": "2026-10-13T02:40:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-3888", "ts": "2026-10-13T02:41:00Z", "type": "new_poc", "url": "https://github.com/alinpfan/CVE-2026-3888-PoC"}
+{"cve_id": "CVE-2025-32432", "ts": "2026-10-13T02:41:00Z", "type": "new_poc", "url": "https://github.com/l0lsuit/CVE-2025-32432-craftcms-rce"}
+{"cve_id": "CVE-2026-92956", "ts": "2026-10-13T02:41:00Z", "type": "new_poc", "url": "https://github.com/AraxyAI/CVE-2026-92956__vm2__test__20261012"}
+{"cve_id": "CVE-2026-109519", "ts": "2026-10-13T02:41:10Z", "type": "new_poc", "url": "https://github.com/0xgh0stri13y/CVE-2026-109519"}
+{"cve_id": "CVE-2026-72898", "ts": "2026-10-13T02:46:04Z", "type": "new_poc", "url": "https://github.com/amier-ge/CVE-2026-72898"}
+{"cve_id": "CVE-2026-33017", "ts": "2026-10-13T02:48:11Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-33017"}
