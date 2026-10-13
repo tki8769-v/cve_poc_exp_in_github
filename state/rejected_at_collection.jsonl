@@ -727,3 +727,4 @@
 {"cve_id": "CVE-2026-5261", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:13:02Z", "url": "https://github.com/s1ko/CVE-2026-52617", "url_ids": ["CVE-2026-52617"]}
 {"cve_id": "CVE-2026-5261", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:13:02Z", "url": "https://github.com/s1ko/CVE-2026-52618", "url_ids": ["CVE-2026-52618"]}
 {"cve_id": "CVE-2026-5261", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:13:02Z", "url": "https://github.com/s1ko/CVE-2026-52616", "url_ids": ["CVE-2026-52616"]}
+{"cve_id": "CVE-2023-3338", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T13:01:30Z", "url": "https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC", "url_ids": ["CVE-2023-33381"]}
