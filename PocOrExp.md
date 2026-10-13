@@ -4,6 +4,7 @@
 - [https://github.com/danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300) : ![starts](https://img.shields.io/github/stars/danish1162/CVE-2026-2035703-x300.svg) ![forks](https://img.shields.io/github/forks/danish1162/CVE-2026-2035703-x300.svg)
 
 ## CVE-2026-109519
+> A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/0xgh0stri13y/CVE-2026-109519](https://github.com/0xgh0stri13y/CVE-2026-109519) : ![starts](https://img.shields.io/github/stars/0xgh0stri13y/CVE-2026-109519.svg) ![forks](https://img.shields.io/github/forks/0xgh0stri13y/CVE-2026-109519.svg)
 
@@ -46,6 +47,8 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 - [https://github.com/SeanDishman/telegram-cve-2026-107181](https://github.com/SeanDishman/telegram-cve-2026-107181) : ![starts](https://img.shields.io/github/stars/SeanDishman/telegram-cve-2026-107181.svg) ![forks](https://img.shields.io/github/forks/SeanDishman/telegram-cve-2026-107181.svg)
 
+- [https://github.com/00nx/telegram-account-takeover-poc](https://github.com/00nx/telegram-account-takeover-poc) : ![starts](https://img.shields.io/github/stars/00nx/telegram-account-takeover-poc.svg) ![forks](https://img.shields.io/github/forks/00nx/telegram-account-takeover-poc.svg)
+
 ## CVE-2026-107159
 > MiniUPnPd through 2.3.11 built with --strict contains a divide-by-zero vulnerability in ProcessSSDPData() that allows unauthenticated local network attackers to crash the daemon. Attackers can send a single multicast M-SEARCH datagram with MX: 0 and a known ST to port 1900, triggering SIGFPE and denying UPnP IGD service.
 
@@ -60,6 +63,11 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 > Handlebars provides the power necessary to let users build semantic templates. From 4.0.0 until 4.7.10, Handlebars lookupProperty returns Function.prototype.constructor before applying the prototype-access deny list because constructor is an own property of Function.prototype. When an attacker can render a controlled template with allowProtoMethodsByDefault enabled and an accessible function in the template context, the template can traverse from that function through its prototype to Function.p
 
 - [https://github.com/murrez/CVE-2026-106445](https://github.com/murrez/CVE-2026-106445) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-106445.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-106445.svg)
+
+## CVE-2026-105950
+> A security vulnerability has been detected in getformwork formwork up to 2.3.12. Impacted is the function DomSanitizer::sanitizeNodeAttribute of the file formwork/src/Sanitizer/DomSanitizer.php of the component URI Sanitizer. Such manipulation of the argument formaction leads to cross site scripting. The attack may be launched remotely. Upgrading to version 2.3.13 is recommended to address this issue. The name of the patch is 729701e59c5886685c5a1d477bdc3035e41f18b1. Upgrading the affected compo
+
+- [https://github.com/capivara-research/CVE-2026-105950](https://github.com/capivara-research/CVE-2026-105950) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-105950.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-105950.svg)
 
 ## CVE-2026-105844
 > Payload is a free and open source headless content management system. In versions from 3.0.0 before 3.88.0 and canary versions before 4.0.0-canary.27, an unauthenticated user can submit prototype-sensitive field paths when @payloadcms/plugin-import-export is enabled, causing unintended application behavior that can lead to remote code execution. This issue is fixed in versions 3.88.0 and 4.0.0-canary.27.
@@ -106,6 +114,51 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 - [https://github.com/wvllxe/CVE-2026-104991](https://github.com/wvllxe/CVE-2026-104991) : ![starts](https://img.shields.io/github/stars/wvllxe/CVE-2026-104991.svg) ![forks](https://img.shields.io/github/forks/wvllxe/CVE-2026-104991.svg)
 
+## CVE-2026-104945
+> TP-Link Tapo
+C500 v2.0 contains an out-of-bounds stack write vulnerability in its ONVIF PTZ
+SOAP handlers. An authenticated ONVIF client can submit an excessive number of
+preset-related elements, causing writes beyond the bounds of fixed-size stack
+arrays and resulting in a crash of the affected service.
+
+
+
+
+
+
+
+
+
+Successful
+exploitation may allow an authenticated attacker to cause the affected service
+to crash, resulting in a denial-of-service condition. Repeated exploitation may
+repeatedly disr
+
+- [https://github.com/anaskalt/CVE-2026-104945](https://github.com/anaskalt/CVE-2026-104945) : ![starts](https://img.shields.io/github/stars/anaskalt/CVE-2026-104945.svg) ![forks](https://img.shields.io/github/forks/anaskalt/CVE-2026-104945.svg)
+
+## CVE-2026-104944
+> TP-Link Tapo
+C500 v2.0 contains an out-of-bounds function-pointer dispatch in its TDP
+(TP-Link Device Protocol) daemon. A single unauthenticated UDP datagram can
+cause an invalid indirect call, crashing the main service and resulting in a
+denial-of-service condition.
+
+
+
+
+
+Successful
+exploitation may allow an unauthenticated attacker with network access to the
+affected UDP service to repeatedly crash the TDP daemon, disrupting normal
+device operation and availability. No authentication, session e
+
+- [https://github.com/anaskalt/CVE-2026-104944](https://github.com/anaskalt/CVE-2026-104944) : ![starts](https://img.shields.io/github/stars/anaskalt/CVE-2026-104944.svg) ![forks](https://img.shields.io/github/forks/anaskalt/CVE-2026-104944.svg)
+
+## CVE-2026-104935
+> Authentication bypass by spoofing in ICS before version 25.1.3.0 allows a remote unauthenticated attacker to execute arbitrary commands. This does not impact ICS version 22.7R2.14 or prior.
+
+- [https://github.com/ApexBreach/CVE-2026-104935-Proof-of-concept](https://github.com/ApexBreach/CVE-2026-104935-Proof-of-concept) : ![starts](https://img.shields.io/github/stars/ApexBreach/CVE-2026-104935-Proof-of-concept.svg) ![forks](https://img.shields.io/github/forks/ApexBreach/CVE-2026-104935-Proof-of-concept.svg)
+
 ## CVE-2026-104905
 > FacturaScripts before version 2026.7 contains a PHP object injection vulnerability in WidgetSelect::processFormData() that allows authenticated attackers to trigger unserialize() on raw POST data without an allowed_classes filter for multiple-select fields. Attackers can submit a serialized XLSXWriter object as the field value to invoke its __destruct() method, deleting arbitrary attacker-specified files such as config.php or backup data, resulting in denial of service and potential application 
 
@@ -125,6 +178,12 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 - [https://github.com/uday952/CVE-2026-104711-POC-Variant3](https://github.com/uday952/CVE-2026-104711-POC-Variant3) : ![starts](https://img.shields.io/github/stars/uday952/CVE-2026-104711-POC-Variant3.svg) ![forks](https://img.shields.io/github/forks/uday952/CVE-2026-104711-POC-Variant3.svg)
 
 - [https://github.com/uday952/CVE-2026-104711-exploit-payload-4](https://github.com/uday952/CVE-2026-104711-exploit-payload-4) : ![starts](https://img.shields.io/github/stars/uday952/CVE-2026-104711-exploit-payload-4.svg) ![forks](https://img.shields.io/github/forks/uday952/CVE-2026-104711-exploit-payload-4.svg)
+
+- [https://github.com/pochunter/POC-EXPLOIT-CVE-2026-104711](https://github.com/pochunter/POC-EXPLOIT-CVE-2026-104711) : ![starts](https://img.shields.io/github/stars/pochunter/POC-EXPLOIT-CVE-2026-104711.svg) ![forks](https://img.shields.io/github/forks/pochunter/POC-EXPLOIT-CVE-2026-104711.svg)
+
+- [https://github.com/pochunter/POC-for-CVE-2026-104711---New](https://github.com/pochunter/POC-for-CVE-2026-104711---New) : ![starts](https://img.shields.io/github/stars/pochunter/POC-for-CVE-2026-104711---New.svg) ![forks](https://img.shields.io/github/forks/pochunter/POC-for-CVE-2026-104711---New.svg)
+
+- [https://github.com/uday952/CVE-2026-104711-RestPlugin-PoC](https://github.com/uday952/CVE-2026-104711-RestPlugin-PoC) : ![starts](https://img.shields.io/github/stars/uday952/CVE-2026-104711-RestPlugin-PoC.svg) ![forks](https://img.shields.io/github/forks/uday952/CVE-2026-104711-RestPlugin-PoC.svg)
 
 ## CVE-2026-104587
 
@@ -291,10 +350,24 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 
 - [https://github.com/BomboBombone/CVE-2026-102971](https://github.com/BomboBombone/CVE-2026-102971) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-102971.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-102971.svg)
 
+## CVE-2026-102827
+> simple-git, an interface for running git commands in any node.js application, enables applications to execute Git operations from JavaScript. Prior to 4.0.0, the default blockUnsafeOperationsPlugin compares parsed option names with literal dangerous option spellings while Git accepts unambiguous long-option abbreviations. Attacker-influenced push arguments such as abbreviated --receive-pack or --exec forms can therefore bypass detectVulnerableFlags, reach git push against a local or file remote 
+
+- [https://github.com/D7EAD/CVE-2026-102827](https://github.com/D7EAD/CVE-2026-102827) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-102827.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-102827.svg)
+
 ## CVE-2026-102782
 > Joomla Extension - ordasoft.com - Unauthenticated SQL injection in OrdaSoft Simple Membership &lt; 7.4.0 - site/simplemembership.php dispatches task=checkLoginPass with no authentication or access control check of any kind. The handler reads a login request parameter through Joomla’s generic, non-sanitizing input filter, which strips HTML/script tags but never touches quotes or SQL syntax, and concatenates it directly into a query string with no escaping or parameterization:
 
 - [https://github.com/murrez/CVE-2026-102782](https://github.com/murrez/CVE-2026-102782) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-102782.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-102782.svg)
+
+## CVE-2026-102718
+> hey,
+
+
+
+`_nx_snmp_utility_object_id_get` in the NetX Duo SNMP addon does not validate the claimed OID data length against the actual buffer size when the OID uses BER multibyte length encoding, so a remote attacker can send a crafted SNMP packet with a multibyte OID length larger than the available buffer, causing the parser to read past the packet buffer boundary into adjacent heap memory. the OOB bytes are decoded as OID component values and written into the agents internal OID string buffer, 
+
+- [https://github.com/D7EAD/CVE-2026-102718](https://github.com/D7EAD/CVE-2026-102718) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-102718.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-102718.svg)
 
 ## CVE-2026-102489
 > Zammad versions 6.3.0 to 6.5.4 are vulnerable a session hijack vulnerability that leads to remote code execution as the zammad user. The bug is also present in version 7.0.0 to version 7.1.2, but not exploitable due to changes in the underlying framework.
@@ -458,6 +531,8 @@ This issue affects Mediawiki - Wikibase Extension: from * before 1.46.1, 1.45.5,
 > GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 19.2.8, 19.3 before 19.3.5, and 19.4 before 19.4.2 that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression validation.
 
 - [https://github.com/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE](https://github.com/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE) : ![starts](https://img.shields.io/github/stars/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE.svg) ![forks](https://img.shields.io/github/forks/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE.svg)
+
+- [https://github.com/jburgess-r7/CVE-2026-97229-PoC](https://github.com/jburgess-r7/CVE-2026-97229-PoC) : ![starts](https://img.shields.io/github/stars/jburgess-r7/CVE-2026-97229-PoC.svg) ![forks](https://img.shields.io/github/forks/jburgess-r7/CVE-2026-97229-PoC.svg)
 
 ## CVE-2026-97163
 > Joomla Extension - lomart.fr - Unauthenticated remote code installation in UP plugin extension 5.0.0-5.2.0, 6.0.0-6.0.29
@@ -1234,6 +1309,10 @@ Users are recommended to upgrade to version 11.0.26, 10.1.60 or 9.0.122, which f
 
 - [https://github.com/super-meuw/CVE-2026-86218](https://github.com/super-meuw/CVE-2026-86218) : ![starts](https://img.shields.io/github/stars/super-meuw/CVE-2026-86218.svg) ![forks](https://img.shields.io/github/forks/super-meuw/CVE-2026-86218.svg)
 
+## CVE-2026-86086
+
+- [https://github.com/D7EAD/CVE-2026-86086](https://github.com/D7EAD/CVE-2026-86086) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-86086.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-86086.svg)
+
 ## CVE-2026-86060
  RouterOS contains an argument-handling flaw in the SSH login
 path involving usernames that begin with a prohibited character, allowing for the trusted RouterOS policy mask to be changed, leading to privilege escalation. Exploitation requires an unauthenticated SSH session to reach the RouterOS login helper.This issue was fixed in versions: 6.49.21 (Long-term), 7.23.4 (Long-term) and 7.24.2 (Stable)
@@ -1461,6 +1540,10 @@ This issue w
 - [https://github.com/HORKimhab/CVE-2026-83548-CVE-2026-83549](https://github.com/HORKimhab/CVE-2026-83548-CVE-2026-83549) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-83548-CVE-2026-83549.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-83548-CVE-2026-83549.svg)
 
 - [https://github.com/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis](https://github.com/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis) : ![starts](https://img.shields.io/github/stars/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis.svg) ![forks](https://img.shields.io/github/forks/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis.svg)
+
+## CVE-2026-82957
+
+- [https://github.com/hakaioffsec/CVE-2026-82957](https://github.com/hakaioffsec/CVE-2026-82957) : ![starts](https://img.shields.io/github/stars/hakaioffsec/CVE-2026-82957.svg) ![forks](https://img.shields.io/github/forks/hakaioffsec/CVE-2026-82957.svg)
 
 ## CVE-2026-82901
 > The Ultra Addons for Contact Form 7 plugin for WordPress is vulnerable to Arbitrary File Upload due to insufficient file type validation in the &#x27;uacf7_wpcf7_mail_components&#x27; function in all versions up to, and including, 3.5.50. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site&#x27;s server which may make remote code execution possible. Note: This is only exploitable when the plugin&#x27;s PDF Generator module is enabled, which is disabled by default.
@@ -2090,6 +2173,11 @@ This vulnerability is due to insufficient validation in the email parsing logic.
 This vulnerability is due to insufficient authentication control on an API endpoint. An attacker could exploit this vulnerability by sending a crafted request to an affected API endpoint. A successful exploit could allow the attacker to gain unauthorized access to the affected device by bypassing the web-based management interface.
 
 - [https://github.com/S3v3n-JG/CVE-2026-76460](https://github.com/S3v3n-JG/CVE-2026-76460) : ![starts](https://img.shields.io/github/stars/S3v3n-JG/CVE-2026-76460.svg) ![forks](https://img.shields.io/github/forks/S3v3n-JG/CVE-2026-76460.svg)
+
+## CVE-2026-76268
+> In Splunk Enterprise versions below 10.4.3 and 10.2.7, an unauthenticated user with network access to the Patroni Representational State Transfer (REST) Application Programming Interface (API) on a search head cluster member could execute attacker-controlled operating-system commands. The vulnerability is possible because this interface does not require authentication for critical configuration operations. For more information see Sidecar configuration settings (https://help.splunk.com/en/data-m
+
+- [https://github.com/murrez/CVE-2026-76268](https://github.com/murrez/CVE-2026-76268) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-76268.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-76268.svg)
 
 ## CVE-2026-76071
  Netis NC63 firmware through V3.0.0.3327 contains a stack-based buffer overflow vulnerability that allows unauthenticated remote attackers to overwrite saved stack state by supplying an oversized destHost parameter to the ipFilterList=mod action in netis.cgi. Attackers can exploit widthless sscanf conversions that copy user-supplied input into fixed-size stack buffers before authentication is verified, achieving remote code execution as root due to the Boa web server executing the CGI environment with root privileges.
@@ -28678,6 +28766,8 @@ allow an unauthenticated attacker to read or manipulate device data.
 ## CVE-2025-41450
 
 - [https://github.com/msuiche/fromagegate](https://github.com/msuiche/fromagegate) : ![starts](https://img.shields.io/github/stars/msuiche/fromagegate.svg) ![forks](https://img.shields.io/github/forks/msuiche/fromagegate.svg)
+
+- [https://github.com/Nero22k/CVE-2025-41450_poc](https://github.com/Nero22k/CVE-2025-41450_poc) : ![starts](https://img.shields.io/github/stars/Nero22k/CVE-2025-41450_poc.svg) ![forks](https://img.shields.io/github/forks/Nero22k/CVE-2025-41450_poc.svg)
 
 ## CVE-2025-41373
  A SQL injection vulnerability has been found in Gandia Integra Total of TESI from version 2.1.2217.3 to v4.4.2236.1. The vulnerability allows an authenticated attacker to retrieve, create, update and delete databases through the 'idestudio' parameter in /encuestas/integraweb[_v4]/integra/html/view/hislistadoacciones.php.

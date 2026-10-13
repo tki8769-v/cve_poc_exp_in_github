@@ -6736,6 +6736,8 @@ allow an unauthenticated attacker to read or manipulate device data.
 
 - [https://github.com/msuiche/fromagegate](https://github.com/msuiche/fromagegate) : ![starts](https://img.shields.io/github/stars/msuiche/fromagegate.svg) ![forks](https://img.shields.io/github/forks/msuiche/fromagegate.svg)
 
+- [https://github.com/Nero22k/CVE-2025-41450_poc](https://github.com/Nero22k/CVE-2025-41450_poc) : ![starts](https://img.shields.io/github/stars/Nero22k/CVE-2025-41450_poc.svg) ![forks](https://img.shields.io/github/forks/Nero22k/CVE-2025-41450_poc.svg)
+
 ## CVE-2025-41373
  A SQL injection vulnerability has been found in Gandia Integra Total of TESI from version 2.1.2217.3 to v4.4.2236.1. The vulnerability allows an authenticated attacker to retrieve, create, update and delete databases through the 'idestudio' parameter in /encuestas/integraweb[_v4]/integra/html/view/hislistadoacciones.php.
 

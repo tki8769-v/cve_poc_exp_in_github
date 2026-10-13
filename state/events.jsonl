@@ -2515,3 +2515,33 @@
 {"cve_id": "CVE-2026-58222", "ts": "2026-10-13T12:45:10Z", "type": "new_poc", "url": "https://github.com/abdelaaziz0/KDSExtract"}
 {"cve_id": "CVE-2025-41450", "ts": "2026-10-13T12:45:10Z", "type": "new_poc", "url": "https://github.com/msuiche/fromagegate"}
 {"cve_id": "CVE-2021-26882", "ts": "2026-10-13T12:50:28Z", "type": "new_poc", "url": "https://github.com/songjianyang/CVE-2021-26882"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-13T19:52:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22314", "ts": "2026-10-13T19:53:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-13T19:53:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22314", "ts": "2026-10-13T19:54:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-13T19:54:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22314", "ts": "2026-10-13T19:56:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-13T19:56:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-88836", "ts": "2026-10-13T19:56:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94489", "ts": "2026-10-13T19:56:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94490", "ts": "2026-10-13T19:56:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22314", "ts": "2026-10-13T19:58:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-13T19:58:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-88836", "ts": "2026-10-13T19:58:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94489", "ts": "2026-10-13T19:59:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94490", "ts": "2026-10-13T19:59:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97229", "ts": "2026-10-13T19:59:50Z", "type": "new_poc", "url": "https://github.com/jburgess-r7/CVE-2026-97229-PoC"}
+{"cve_id": "CVE-2026-105950", "ts": "2026-10-13T19:59:51Z", "type": "new_poc", "url": "https://github.com/capivara-research/CVE-2026-105950"}
+{"cve_id": "CVE-2026-104945", "ts": "2026-10-13T19:59:51Z", "type": "new_poc", "url": "https://github.com/anaskalt/CVE-2026-104945"}
+{"cve_id": "CVE-2026-82957", "ts": "2026-10-13T19:59:51Z", "type": "new_poc", "url": "https://github.com/hakaioffsec/CVE-2026-82957"}
+{"cve_id": "CVE-2026-86086", "ts": "2026-10-13T19:59:51Z", "type": "new_poc", "url": "https://github.com/D7EAD/CVE-2026-86086"}
+{"cve_id": "CVE-2026-76268", "ts": "2026-10-13T19:59:51Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-76268"}
+{"cve_id": "CVE-2026-104944", "ts": "2026-10-13T19:59:51Z", "type": "new_poc", "url": "https://github.com/anaskalt/CVE-2026-104944"}
+{"cve_id": "CVE-2026-102827", "ts": "2026-10-13T19:59:51Z", "type": "new_poc", "url": "https://github.com/D7EAD/CVE-2026-102827"}
+{"cve_id": "CVE-2026-104711", "ts": "2026-10-13T19:59:52Z", "type": "new_poc", "url": "https://github.com/pochunter/POC-EXPLOIT-CVE-2026-104711"}
+{"cve_id": "CVE-2026-102718", "ts": "2026-10-13T19:59:52Z", "type": "new_poc", "url": "https://github.com/D7EAD/CVE-2026-102718"}
+{"cve_id": "CVE-2025-41450", "ts": "2026-10-13T19:59:52Z", "type": "new_poc", "url": "https://github.com/Nero22k/CVE-2025-41450_poc"}
+{"cve_id": "CVE-2026-104711", "ts": "2026-10-13T19:59:52Z", "type": "new_poc", "url": "https://github.com/uday952/CVE-2026-104711-RestPlugin-PoC"}
+{"cve_id": "CVE-2026-104711", "ts": "2026-10-13T19:59:52Z", "type": "new_poc", "url": "https://github.com/pochunter/POC-for-CVE-2026-104711---New"}
+{"cve_id": "CVE-2026-104935", "ts": "2026-10-13T19:59:53Z", "type": "new_poc", "url": "https://github.com/ApexBreach/CVE-2026-104935-Proof-of-concept"}
+{"cve_id": "CVE-2026-107181", "ts": "2026-10-13T19:59:53Z", "type": "new_poc", "url": "https://github.com/00nx/telegram-account-takeover-poc"}
