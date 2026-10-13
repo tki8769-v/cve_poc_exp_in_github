@@ -2560,3 +2560,9 @@
 {"cve_id": "CVE-2026-85884", "ts": "2026-10-13T20:16:34Z", "type": "new_poc", "url": "https://github.com/Beardhammer/CVE-2026-85884"}
 {"cve_id": "CVE-2026-83792", "ts": "2026-10-13T20:16:35Z", "type": "new_poc", "url": "https://github.com/unkn0w1ngNightmare/CVE-2026-83792"}
 {"cve_id": "CVE-2020-8694", "ts": "2026-10-13T20:16:36Z", "type": "new_poc", "url": "https://github.com/kcherry497/tmog-rapl-gate"}
+{"cve_id": "CVE-2026-104011", "ts": "2026-10-13T20:27:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22314", "ts": "2026-10-13T20:29:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-13T20:30:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-88836", "ts": "2026-10-13T20:32:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94489", "ts": "2026-10-13T20:32:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94490", "ts": "2026-10-13T20:32:29Z", "type": "cve_rejected"}

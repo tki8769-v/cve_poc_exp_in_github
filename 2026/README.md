@@ -193,10 +193,12 @@ device operation and availability. No authentication, session e
 - [https://github.com/AmalJafarzade/CVE-2026-104586](https://github.com/AmalJafarzade/CVE-2026-104586) : ![starts](https://img.shields.io/github/stars/AmalJafarzade/CVE-2026-104586.svg) ![forks](https://img.shields.io/github/forks/AmalJafarzade/CVE-2026-104586.svg)
 
 ## CVE-2026-104585
+> Mobile Security Framework (MobSF) v4.5.2 is vulnerable to Command Injection in /download_data/, /api/v1/scan, Dynamic Analyzer ADB integration module.
 
 - [https://github.com/AmalJafarzade/CVE-2026-104585](https://github.com/AmalJafarzade/CVE-2026-104585) : ![starts](https://img.shields.io/github/stars/AmalJafarzade/CVE-2026-104585.svg) ![forks](https://img.shields.io/github/forks/AmalJafarzade/CVE-2026-104585.svg)
 
 ## CVE-2026-104584
+> reNgine up to v2.2.0 and current master branch (commit de4199222cca5618f1255930ce78987e47d43a99) is vulnerable to OS Command Injection via the custom_headers scan engine configuration field in web/reNgine/tasks.py (fetch_url and dir_file_fuzz functions).
 
 - [https://github.com/AmalJafarzade/CVE-2026-104584](https://github.com/AmalJafarzade/CVE-2026-104584) : ![starts](https://img.shields.io/github/stars/AmalJafarzade/CVE-2026-104584.svg) ![forks](https://img.shields.io/github/forks/AmalJafarzade/CVE-2026-104584.svg)
 
