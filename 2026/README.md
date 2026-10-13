@@ -7827,6 +7827,10 @@ No, if you are using TPM+PIN the vulnerability is not exploitable.
 
 - [https://github.com/YellowKeyBitLocker-CVE/YellowKey-BitLocker-CVE-2026-45585](https://github.com/YellowKeyBitLocker-CVE/YellowKey-BitLocker-CVE-2026-45585) : ![starts](https://img.shields.io/github/stars/YellowKeyBitLocker-CVE/YellowKey-BitLocker-CVE-2026-45585.svg) ![forks](https://img.shields.io/github/forks/YellowKeyBitLocker-CVE/YellowKey-BitLocker-CVE-2026-45585.svg)
 
+- [https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585](https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585) : ![starts](https://img.shields.io/github/stars/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585.svg) ![forks](https://img.shields.io/github/forks/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585.svg)
+
+- [https://github.com/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io](https://github.com/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io) : ![starts](https://img.shields.io/github/stars/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io.svg) ![forks](https://img.shields.io/github/forks/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io.svg)
+
 ## CVE-2026-45584
  Heap-based buffer overflow in Microsoft Defender allows an unauthorized attacker to execute code over a network.
 

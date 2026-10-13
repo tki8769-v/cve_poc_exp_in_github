@@ -2488,3 +2488,5 @@
 {"cve_id": "CVE-2026-109519", "ts": "2026-10-13T02:41:10Z", "type": "new_poc", "url": "https://github.com/0xgh0stri13y/CVE-2026-109519"}
 {"cve_id": "CVE-2026-72898", "ts": "2026-10-13T02:46:04Z", "type": "new_poc", "url": "https://github.com/amier-ge/CVE-2026-72898"}
 {"cve_id": "CVE-2026-33017", "ts": "2026-10-13T02:48:11Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-33017"}
+{"cve_id": "CVE-2026-45585", "ts": "2026-10-13T02:51:51Z", "type": "new_poc", "url": "https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585"}
+{"cve_id": "CVE-2026-45585", "ts": "2026-10-13T02:51:51Z", "type": "new_poc", "url": "https://github.com/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io"}

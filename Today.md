@@ -15,6 +15,11 @@
 
 - [https://github.com/alinpfan/CVE-2026-3888-PoC](https://github.com/alinpfan/CVE-2026-3888-PoC) : ![starts](https://img.shields.io/github/stars/alinpfan/CVE-2026-3888-PoC.svg) ![forks](https://img.shields.io/github/forks/alinpfan/CVE-2026-3888-PoC.svg)
 
+## CVE-2026-45585
+
+- [https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585](https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585) : ![starts](https://img.shields.io/github/stars/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585.svg) ![forks](https://img.shields.io/github/forks/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585.svg)
+- [https://github.com/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io](https://github.com/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io) : ![starts](https://img.shields.io/github/stars/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io.svg) ![forks](https://img.shields.io/github/forks/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io.svg)
+
 ## CVE-2026-72898
 
 - [https://github.com/amier-ge/CVE-2026-72898](https://github.com/amier-ge/CVE-2026-72898) : ![starts](https://img.shields.io/github/stars/amier-ge/CVE-2026-72898.svg) ![forks](https://img.shields.io/github/forks/amier-ge/CVE-2026-72898.svg)
