@@ -1,4 +1,8 @@
 # Update 2026-10-13
+## CVE-2007-2447
+
+- [https://github.com/ddiazcr/home-soc-lab](https://github.com/ddiazcr/home-soc-lab) : ![starts](https://img.shields.io/github/stars/ddiazcr/home-soc-lab.svg) ![forks](https://img.shields.io/github/forks/ddiazcr/home-soc-lab.svg)
+
 ## CVE-2025-32432
 
 - [https://github.com/l0lsuit/CVE-2025-32432-craftcms-rce](https://github.com/l0lsuit/CVE-2025-32432-craftcms-rce) : ![starts](https://img.shields.io/github/stars/l0lsuit/CVE-2025-32432-craftcms-rce.svg) ![forks](https://img.shields.io/github/forks/l0lsuit/CVE-2025-32432-craftcms-rce.svg)

@@ -714,3 +714,16 @@
 {"cve_id": "CVE-2022-2463", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T02:42:09Z", "url": "https://github.com/icebreack/CVE-2022-24637", "url_ids": ["CVE-2022-24637"]}
 {"cve_id": "CVE-2026-6230", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T02:49:17Z", "url": "https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE", "url_ids": ["CVE-2026-55494", "CVE-2026-62308"]}
 {"cve_id": "CVE-2024-5643", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T02:51:08Z", "url": "https://github.com/JonnyWhatshisface/CVE-2024-56433", "url_ids": ["CVE-2024-56433"]}
+{"cve_id": "CVE-2024-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:10:10Z", "url": "https://github.com/Mr-xn/CVE-2024-36401", "url_ids": ["CVE-2024-36401"]}
+{"cve_id": "CVE-2024-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:10:10Z", "url": "https://github.com/bmth666/GeoServer-Tools-CVE-2024-36401", "url_ids": ["CVE-2024-36401"]}
+{"cve_id": "CVE-2024-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:10:10Z", "url": "https://github.com/bigb0x/CVE-2024-36401", "url_ids": ["CVE-2024-36401"]}
+{"cve_id": "CVE-2024-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:10:10Z", "url": "https://github.com/daniellowrie/CVE-2024-36401-PoC", "url_ids": ["CVE-2024-36401"]}
+{"cve_id": "CVE-2024-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:10:10Z", "url": "https://github.com/0x0d3ad/CVE-2024-36401", "url_ids": ["CVE-2024-36401"]}
+{"cve_id": "CVE-2024-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:10:10Z", "url": "https://github.com/amoy6228/CVE-2024-36401_Geoserver_RCE_POC", "url_ids": ["CVE-2024-36401"]}
+{"cve_id": "CVE-2024-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:10:10Z", "url": "https://github.com/RevoltSecurities/CVE-2024-36401", "url_ids": ["CVE-2024-36401"]}
+{"cve_id": "CVE-2024-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:10:10Z", "url": "https://github.com/keelanbrady1011/CVE-2024-36401", "url_ids": ["CVE-2024-36401"]}
+{"cve_id": "CVE-2024-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:10:10Z", "url": "https://github.com/ArcticDU/Exploit-CVE-2024-36401", "url_ids": ["CVE-2024-36401"]}
+{"cve_id": "CVE-2024-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:10:10Z", "url": "https://github.com/funnyDog896/CVE-2024-36401-WoodpeckerPlugin", "url_ids": ["CVE-2024-36401"]}
+{"cve_id": "CVE-2026-5261", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:13:02Z", "url": "https://github.com/s1ko/CVE-2026-52617", "url_ids": ["CVE-2026-52617"]}
+{"cve_id": "CVE-2026-5261", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:13:02Z", "url": "https://github.com/s1ko/CVE-2026-52618", "url_ids": ["CVE-2026-52618"]}
+{"cve_id": "CVE-2026-5261", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T03:13:02Z", "url": "https://github.com/s1ko/CVE-2026-52616", "url_ids": ["CVE-2026-52616"]}

@@ -172,6 +172,8 @@
 
 - [https://github.com/malredfan/gggggggggggggggggg](https://github.com/malredfan/gggggggggggggggggg) : ![starts](https://img.shields.io/github/stars/malredfan/gggggggggggggggggg.svg) ![forks](https://img.shields.io/github/forks/malredfan/gggggggggggggggggg.svg)
 
+- [https://github.com/ddiazcr/home-soc-lab](https://github.com/ddiazcr/home-soc-lab) : ![starts](https://img.shields.io/github/stars/ddiazcr/home-soc-lab.svg) ![forks](https://img.shields.io/github/forks/ddiazcr/home-soc-lab.svg)
+
 ## CVE-2007-1858
  The default SSL cipher configuration in Apache Tomcat 4.1.28 through 4.1.31, 5.0.0 through 5.0.30, and 5.5.0 through 5.5.17 uses certain insecure ciphers, including the anonymous cipher, which allows remote attackers to obtain sensitive information or have other, unspecified impacts.
 
