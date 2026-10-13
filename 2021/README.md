@@ -5255,6 +5255,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/taiji-xo/CVE-2021-26882](https://github.com/taiji-xo/CVE-2021-26882) : ![starts](https://img.shields.io/github/stars/taiji-xo/CVE-2021-26882.svg) ![forks](https://img.shields.io/github/forks/taiji-xo/CVE-2021-26882.svg)
 
+- [https://github.com/songjianyang/CVE-2021-26882](https://github.com/songjianyang/CVE-2021-26882) : ![starts](https://img.shields.io/github/stars/songjianyang/CVE-2021-26882.svg) ![forks](https://img.shields.io/github/forks/songjianyang/CVE-2021-26882.svg)
+
 ## CVE-2021-26871
  Windows WalletService Elevation of Privilege Vulnerability
 

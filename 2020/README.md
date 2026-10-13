@@ -6352,6 +6352,8 @@ pThe security update addresses the vulnerability by resolving the conditions whe
 
 - [https://github.com/koharin/CVE-2020-0041](https://github.com/koharin/CVE-2020-0041) : ![starts](https://img.shields.io/github/stars/koharin/CVE-2020-0041.svg) ![forks](https://img.shields.io/github/forks/koharin/CVE-2020-0041.svg)
 
+- [https://github.com/hiratazx/CVE-2020-0041](https://github.com/hiratazx/CVE-2020-0041) : ![starts](https://img.shields.io/github/stars/hiratazx/CVE-2020-0041.svg) ![forks](https://img.shields.io/github/forks/hiratazx/CVE-2020-0041.svg)
+
 ## CVE-2020-0022
  In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715
 

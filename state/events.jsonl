@@ -2491,3 +2491,27 @@
 {"cve_id": "CVE-2026-45585", "ts": "2026-10-13T02:51:51Z", "type": "new_poc", "url": "https://github.com/sinhalese-congocopal6379/YellowKey-BitLocker-CVE-2026-45585"}
 {"cve_id": "CVE-2026-45585", "ts": "2026-10-13T02:51:51Z", "type": "new_poc", "url": "https://github.com/sinhalese-congocopal6379/sinhalese-congocopal6379.github.io"}
 {"cve_id": "CVE-2007-2447", "ts": "2026-10-13T03:02:52Z", "type": "new_poc", "url": "https://github.com/ddiazcr/home-soc-lab"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-13T12:42:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-13T12:43:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-13T12:43:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-13T12:43:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-13T12:44:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-13T12:44:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-85097", "ts": "2026-10-13T12:45:08Z", "type": "new_poc", "url": "https://github.com/Masriyan/CVE-2026-85097"}
+{"cve_id": "CVE-2026-104711", "ts": "2026-10-13T12:45:08Z", "type": "new_poc", "url": "https://github.com/uday952/CVE-2026-104711"}
+{"cve_id": "CVE-2026-107159", "ts": "2026-10-13T12:45:08Z", "type": "new_poc", "url": "https://github.com/azuk4r/CVE-2026-107159"}
+{"cve_id": "CVE-2024-53677", "ts": "2026-10-13T12:45:08Z", "type": "new_poc", "url": "https://github.com/choyj358/cve-2024-53677"}
+{"cve_id": "CVE-2026-1357", "ts": "2026-10-13T12:45:09Z", "type": "new_poc", "url": "https://github.com/stj8703-web/CVE-2026-1357"}
+{"cve_id": "CVE-2020-0041", "ts": "2026-10-13T12:45:09Z", "type": "new_poc", "url": "https://github.com/hiratazx/CVE-2020-0041"}
+{"cve_id": "CVE-2026-72898", "ts": "2026-10-13T12:45:09Z", "type": "new_poc", "url": "https://github.com/gagaltotal/CVE-2026-72898-metabase"}
+{"cve_id": "CVE-2026-41992", "ts": "2026-10-13T12:45:09Z", "type": "new_poc", "url": "https://github.com/uday952/CVE-2026-41992-poc"}
+{"cve_id": "CVE-2025-8110", "ts": "2026-10-13T12:45:09Z", "type": "new_poc", "url": "https://github.com/eds1268/cve-2025-8110-ctf"}
+{"cve_id": "CVE-2026-44825", "ts": "2026-10-13T12:45:09Z", "type": "new_poc", "url": "https://github.com/q0524/CVE-2026-44825_test"}
+{"cve_id": "CVE-2026-68582", "ts": "2026-10-13T12:45:09Z", "type": "new_poc", "url": "https://github.com/comradezephyr/CVE-2026-68582-PoC"}
+{"cve_id": "CVE-2026-104711", "ts": "2026-10-13T12:45:09Z", "type": "new_poc", "url": "https://github.com/uday952/CVE-2026-104711-Advanced-Variant"}
+{"cve_id": "CVE-2026-104711", "ts": "2026-10-13T12:45:09Z", "type": "new_poc", "url": "https://github.com/uday952/CVE-2026-104711-exploit-payload-4"}
+{"cve_id": "CVE-2026-104711", "ts": "2026-10-13T12:45:09Z", "type": "new_poc", "url": "https://github.com/uday952/CVE-2026-104711-POC-Variant3"}
+{"cve_id": "CVE-2026-97229", "ts": "2026-10-13T12:45:09Z", "type": "new_poc", "url": "https://github.com/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE"}
+{"cve_id": "CVE-2026-58222", "ts": "2026-10-13T12:45:10Z", "type": "new_poc", "url": "https://github.com/abdelaaziz0/KDSExtract"}
+{"cve_id": "CVE-2025-41450", "ts": "2026-10-13T12:45:10Z", "type": "new_poc", "url": "https://github.com/msuiche/fromagegate"}
+{"cve_id": "CVE-2021-26882", "ts": "2026-10-13T12:50:28Z", "type": "new_poc", "url": "https://github.com/songjianyang/CVE-2021-26882"}

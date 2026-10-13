@@ -46,6 +46,11 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 - [https://github.com/SeanDishman/telegram-cve-2026-107181](https://github.com/SeanDishman/telegram-cve-2026-107181) : ![starts](https://img.shields.io/github/stars/SeanDishman/telegram-cve-2026-107181.svg) ![forks](https://img.shields.io/github/forks/SeanDishman/telegram-cve-2026-107181.svg)
 
+## CVE-2026-107159
+> MiniUPnPd through 2.3.11 built with --strict contains a divide-by-zero vulnerability in ProcessSSDPData() that allows unauthenticated local network attackers to crash the daemon. Attackers can send a single multicast M-SEARCH datagram with MX: 0 and a known ST to port 1900, triggering SIGFPE and denying UPnP IGD service.
+
+- [https://github.com/azuk4r/CVE-2026-107159](https://github.com/azuk4r/CVE-2026-107159) : ![starts](https://img.shields.io/github/stars/azuk4r/CVE-2026-107159.svg) ![forks](https://img.shields.io/github/forks/azuk4r/CVE-2026-107159.svg)
+
 ## CVE-2026-106610
 > Incorrect Privilege Assignment vulnerability in miniOrange miniorange otp verification miniorange-otp-verification allows Privilege Escalation.This issue affects miniorange otp verification: from n/a through 5.5.7.
 
@@ -109,6 +114,17 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 ## CVE-2026-104826
 
 - [https://github.com/KiwKNR/CVE-2026-104826](https://github.com/KiwKNR/CVE-2026-104826) : ![starts](https://img.shields.io/github/stars/KiwKNR/CVE-2026-104826.svg) ![forks](https://img.shields.io/github/forks/KiwKNR/CVE-2026-104826.svg)
+
+## CVE-2026-104711
+> Improper neutralization of special elements used in an expression language statement (&#x27;Expression Language Injection&#x27;) vulnerability in Apache Struts. If the application is configured to use the legacy RESTful action mapper, a crafted request can inject an OGNL expression that may lead to remote code execution. Struts 7 is affected only when the OGNL allowlist is disabled; it is enabled by default. Applications using the default action mapper, the restful2 mapper, or the Struts REST plugin are n
+
+- [https://github.com/uday952/CVE-2026-104711](https://github.com/uday952/CVE-2026-104711) : ![starts](https://img.shields.io/github/stars/uday952/CVE-2026-104711.svg) ![forks](https://img.shields.io/github/forks/uday952/CVE-2026-104711.svg)
+
+- [https://github.com/uday952/CVE-2026-104711-Advanced-Variant](https://github.com/uday952/CVE-2026-104711-Advanced-Variant) : ![starts](https://img.shields.io/github/stars/uday952/CVE-2026-104711-Advanced-Variant.svg) ![forks](https://img.shields.io/github/forks/uday952/CVE-2026-104711-Advanced-Variant.svg)
+
+- [https://github.com/uday952/CVE-2026-104711-POC-Variant3](https://github.com/uday952/CVE-2026-104711-POC-Variant3) : ![starts](https://img.shields.io/github/stars/uday952/CVE-2026-104711-POC-Variant3.svg) ![forks](https://img.shields.io/github/forks/uday952/CVE-2026-104711-POC-Variant3.svg)
+
+- [https://github.com/uday952/CVE-2026-104711-exploit-payload-4](https://github.com/uday952/CVE-2026-104711-exploit-payload-4) : ![starts](https://img.shields.io/github/stars/uday952/CVE-2026-104711-exploit-payload-4.svg) ![forks](https://img.shields.io/github/forks/uday952/CVE-2026-104711-exploit-payload-4.svg)
 
 ## CVE-2026-104587
 
@@ -437,6 +453,11 @@ This issue affects Mediawiki - Wikibase Extension: from * before 1.46.1, 1.45.5,
 > Improper Neutralization of Input During Web Page Generation (&#x27;Cross-site Scripting&#x27;) vulnerability in WP Chill Strong Testimonials strong-testimonials allows Stored XSS.This issue affects Strong Testimonials: from n/a through 3.3.11.
 
 - [https://github.com/Rully2212/CVE-2026-97286](https://github.com/Rully2212/CVE-2026-97286) : ![starts](https://img.shields.io/github/stars/Rully2212/CVE-2026-97286.svg) ![forks](https://img.shields.io/github/forks/Rully2212/CVE-2026-97286.svg)
+
+## CVE-2026-97229
+> GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 19.2.8, 19.3 before 19.3.5, and 19.4 before 19.4.2 that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression validation.
+
+- [https://github.com/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE](https://github.com/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE) : ![starts](https://img.shields.io/github/stars/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE.svg) ![forks](https://img.shields.io/github/forks/AmpedWasTaken/CVE-2026-97229-GitLab-CI-CD-Regex-Compiler-RCE.svg)
 
 ## CVE-2026-97163
 > Joomla Extension - lomart.fr - Unauthenticated remote code installation in UP plugin extension 5.0.0-5.2.0, 6.0.0-6.0.29
@@ -1303,6 +1324,8 @@ This issue w
 - [https://github.com/Wayang1337/CVE-2026-85097](https://github.com/Wayang1337/CVE-2026-85097) : ![starts](https://img.shields.io/github/stars/Wayang1337/CVE-2026-85097.svg) ![forks](https://img.shields.io/github/forks/Wayang1337/CVE-2026-85097.svg)
 
 - [https://github.com/tc4dy/CVE-2026-85097-Toolkit](https://github.com/tc4dy/CVE-2026-85097-Toolkit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-85097-Toolkit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-85097-Toolkit.svg)
+
+- [https://github.com/Masriyan/CVE-2026-85097](https://github.com/Masriyan/CVE-2026-85097) : ![starts](https://img.shields.io/github/stars/Masriyan/CVE-2026-85097.svg) ![forks](https://img.shields.io/github/forks/Masriyan/CVE-2026-85097.svg)
 
 ## CVE-2026-85048
  Use after free in Compositing in Google Chrome prior to 152.0.7977.82 allowed a remote attacker who had compromised the renderer process to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)
@@ -2465,6 +2488,8 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
 
 - [https://github.com/amier-ge/CVE-2026-72898](https://github.com/amier-ge/CVE-2026-72898) : ![starts](https://img.shields.io/github/stars/amier-ge/CVE-2026-72898.svg) ![forks](https://img.shields.io/github/forks/amier-ge/CVE-2026-72898.svg)
 
+- [https://github.com/gagaltotal/CVE-2026-72898-metabase](https://github.com/gagaltotal/CVE-2026-72898-metabase) : ![starts](https://img.shields.io/github/stars/gagaltotal/CVE-2026-72898-metabase.svg) ![forks](https://img.shields.io/github/forks/gagaltotal/CVE-2026-72898-metabase.svg)
+
 ## CVE-2026-72844
  The Lean 4 kernel does not verify that the structure named in a projection expression matches the type of the value being projected, and environment::add_inductive in src/kernel/inductive.cpp did not type check the nested inductive applications that are replaced by auxiliary types, so their parametric arguments escaped checking. A metaprogram running in the Lean process can register an ill-typed nested inductive whose constructor applies a .proj C 0 projection to a value of the unrelated type W, and the kernel admits the declaration through the ordinary checked addDecl path at maximum kernel checking, without sorry, unsafeCast, debug.skipKernelTC, addDeclWithoutChecking, FFI, or a modified .olean file. The result is a type confusion yielding a proof of False that carries no axioms, from which any proposition can be derived. The published proof of concept additionally pads two expressions until their hashes and approximate depths collide, which defeats kernel caching; that is the technique used to reach the flaw, not its cause. Exploitation requires running a metaprogram in-process, for example by building a project or importing a malicious Lake dependency.
 
@@ -2776,6 +2801,10 @@ The impact is CPU exhaustion only. Nothing is read, modified or disclosed.
 This issue affects html_sanitize_ex: from 0.3.1 before 1.4.5 and from 1.5.0-rc.0 before 1.5.3.
 
 - [https://github.com/Hunt-Benito/the-sanitizer-is-the-weapon-cve-2026-68749-cve-2026-68750-quadratic-dos-in-elixir-html-sanitize-ex](https://github.com/Hunt-Benito/the-sanitizer-is-the-weapon-cve-2026-68749-cve-2026-68750-quadratic-dos-in-elixir-html-sanitize-ex) : ![starts](https://img.shields.io/github/stars/Hunt-Benito/the-sanitizer-is-the-weapon-cve-2026-68749-cve-2026-68750-quadratic-dos-in-elixir-html-sanitize-ex.svg) ![forks](https://img.shields.io/github/forks/Hunt-Benito/the-sanitizer-is-the-weapon-cve-2026-68749-cve-2026-68750-quadratic-dos-in-elixir-html-sanitize-ex.svg)
+
+## CVE-2026-68582
+
+- [https://github.com/comradezephyr/CVE-2026-68582-PoC](https://github.com/comradezephyr/CVE-2026-68582-PoC) : ![starts](https://img.shields.io/github/stars/comradezephyr/CVE-2026-68582-PoC.svg) ![forks](https://img.shields.io/github/forks/comradezephyr/CVE-2026-68582-PoC.svg)
 
 ## CVE-2026-68398
  In the Linux kernel, the following vulnerability has been resolved:
@@ -4762,6 +4791,10 @@ availability of the application.
 ## CVE-2026-58225
 
 - [https://github.com/sifatnotes/Learn-SecByte-CMS-CVE-Shell-to-Root-Privilege-Escalation-CTF-Labs](https://github.com/sifatnotes/Learn-SecByte-CMS-CVE-Shell-to-Root-Privilege-Escalation-CTF-Labs) : ![starts](https://img.shields.io/github/stars/sifatnotes/Learn-SecByte-CMS-CVE-Shell-to-Root-Privilege-Escalation-CTF-Labs.svg) ![forks](https://img.shields.io/github/forks/sifatnotes/Learn-SecByte-CMS-CVE-Shell-to-Root-Privilege-Escalation-CTF-Labs.svg)
+
+## CVE-2026-58222
+
+- [https://github.com/abdelaaziz0/KDSExtract](https://github.com/abdelaaziz0/KDSExtract) : ![starts](https://img.shields.io/github/stars/abdelaaziz0/KDSExtract.svg) ![forks](https://img.shields.io/github/forks/abdelaaziz0/KDSExtract.svg)
 
 ## CVE-2026-58138
  Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote attackers to execute arbitrary OS commands by submitting inline workflow definitions containing malicious JavaScript or Python expressions to the workflow API endpoint prior to authentication. Attackers can exploit unsandboxed GraalVM evaluators configured with HostAccess.ALL or allowAllAccess(true) through INLINE, LAMBDA, DO_WHILE, and SWITCH task types to invoke arbitrary system commands via Java reflection or direct subprocess calls.
@@ -8055,6 +8088,8 @@ Not affected:
 
 - [https://github.com/shinthink/solrradar](https://github.com/shinthink/solrradar) : ![starts](https://img.shields.io/github/stars/shinthink/solrradar.svg) ![forks](https://img.shields.io/github/forks/shinthink/solrradar.svg)
 
+- [https://github.com/q0524/CVE-2026-44825_test](https://github.com/q0524/CVE-2026-44825_test) : ![starts](https://img.shields.io/github/stars/q0524/CVE-2026-44825_test.svg) ![forks](https://img.shields.io/github/forks/q0524/CVE-2026-44825_test.svg)
+
 ## CVE-2026-44789
  n8n is an open source workflow automation platform. Prior to 1.123.43, 2.22.1, and 2.20.7, an authenticated user with permission to create or modify workflows could achieve global prototype pollution via an unvalidated pagination parameter in the HTTP Request node. Combined with other techniques this could lead to RCE on the instance. This vulnerability is fixed in 1.123.43, 2.22.1, and 2.20.7.
 
@@ -9763,6 +9798,10 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
  JFrog Artifactory could return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled, potentially exposing sensitive resources.
 
 - [https://github.com/BL0odz/JFrog_CVE-2026-65615-ByGLM](https://github.com/BL0odz/JFrog_CVE-2026-65615-ByGLM) : ![starts](https://img.shields.io/github/stars/BL0odz/JFrog_CVE-2026-65615-ByGLM.svg) ![forks](https://img.shields.io/github/forks/BL0odz/JFrog_CVE-2026-65615-ByGLM.svg)
+
+## CVE-2026-41992
+
+- [https://github.com/uday952/CVE-2026-41992-poc](https://github.com/uday952/CVE-2026-41992-poc) : ![starts](https://img.shields.io/github/stars/uday952/CVE-2026-41992-poc.svg) ![forks](https://img.shields.io/github/forks/uday952/CVE-2026-41992-poc.svg)
 
 ## CVE-2026-41940
  cPanel and WHM versions after 11.40 contain an authentication bypass vulnerability in the login flow that allows unauthenticated remote attackers to gain unauthorized access to the control panel.
@@ -21324,6 +21363,8 @@ This issue was fixed in 4.6.7.
 
 - [https://github.com/masterwok/PoC-CVE-2026-1357](https://github.com/masterwok/PoC-CVE-2026-1357) : ![starts](https://img.shields.io/github/stars/masterwok/PoC-CVE-2026-1357.svg) ![forks](https://img.shields.io/github/forks/masterwok/PoC-CVE-2026-1357.svg)
 
+- [https://github.com/stj8703-web/CVE-2026-1357](https://github.com/stj8703-web/CVE-2026-1357) : ![starts](https://img.shields.io/github/stars/stj8703-web/CVE-2026-1357.svg) ![forks](https://img.shields.io/github/forks/stj8703-web/CVE-2026-1357.svg)
+
 ## CVE-2026-1340
  A code injection in Ivanti Endpoint Manager Mobile allowing attackers to achieve unauthenticated remote code execution.
 
@@ -28634,6 +28675,10 @@ allow an unauthenticated attacker to read or manipulate device data.
 
 - [https://github.com/r0otk3r/CVE-2025-41646](https://github.com/r0otk3r/CVE-2025-41646) : ![starts](https://img.shields.io/github/stars/r0otk3r/CVE-2025-41646.svg) ![forks](https://img.shields.io/github/forks/r0otk3r/CVE-2025-41646.svg)
 
+## CVE-2025-41450
+
+- [https://github.com/msuiche/fromagegate](https://github.com/msuiche/fromagegate) : ![starts](https://img.shields.io/github/stars/msuiche/fromagegate.svg) ![forks](https://img.shields.io/github/forks/msuiche/fromagegate.svg)
+
 ## CVE-2025-41373
  A SQL injection vulnerability has been found in Gandia Integra Total of TESI from version 2.1.2217.3 to v4.4.2236.1. The vulnerability allows an authenticated attacker to retrieve, create, update and delete databases through the 'idestudio' parameter in /encuestas/integraweb[_v4]/integra/html/view/hislistadoacciones.php.
 
@@ -34732,6 +34777,8 @@ This can lead to execution of a wide range of privileged commands to the engine 
 
 - [https://github.com/Makis6/CVE-2025-8110](https://github.com/Makis6/CVE-2025-8110) : ![starts](https://img.shields.io/github/stars/Makis6/CVE-2025-8110.svg) ![forks](https://img.shields.io/github/forks/Makis6/CVE-2025-8110.svg)
 
+- [https://github.com/eds1268/cve-2025-8110-ctf](https://github.com/eds1268/cve-2025-8110-ctf) : ![starts](https://img.shields.io/github/stars/eds1268/cve-2025-8110-ctf.svg) ![forks](https://img.shields.io/github/forks/eds1268/cve-2025-8110-ctf.svg)
+
 ## CVE-2025-8091
  The EventON Lite plugin for WordPress is vulnerable to Information Exposure in all versions less than, or equal to, 2.4.6 via the add_single_eventon and add_eventon shortcodes due to insufficient restrictions on which posts can be included. This makes it possible for unauthenticated attackers to extract data from password protected, private, or draft posts that they should not have access to.
 
@@ -38111,6 +38158,8 @@ You can find more details in  https://cwiki.apache.org/confluence/display/WW/S2
 - [https://github.com/sangrok-jeon/CVE-2024-53677-Analysis](https://github.com/sangrok-jeon/CVE-2024-53677-Analysis) : ![starts](https://img.shields.io/github/stars/sangrok-jeon/CVE-2024-53677-Analysis.svg) ![forks](https://img.shields.io/github/forks/sangrok-jeon/CVE-2024-53677-Analysis.svg)
 
 - [https://github.com/0xPThree/struts_cve-2024-53677](https://github.com/0xPThree/struts_cve-2024-53677) : ![starts](https://img.shields.io/github/stars/0xPThree/struts_cve-2024-53677.svg) ![forks](https://img.shields.io/github/forks/0xPThree/struts_cve-2024-53677.svg)
+
+- [https://github.com/choyj358/cve-2024-53677](https://github.com/choyj358/cve-2024-53677) : ![starts](https://img.shields.io/github/stars/choyj358/cve-2024-53677.svg) ![forks](https://img.shields.io/github/forks/choyj358/cve-2024-53677.svg)
 
 ## CVE-2024-53617
  A Cross Site Scripting vulnerability in LibrePhotos before commit 32237 allows attackers to takeover any account via uploading an HTML file on behalf of the admin user using IDOR in file upload.
@@ -74209,6 +74258,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/taiji-xo/CVE-2021-26882](https://github.com/taiji-xo/CVE-2021-26882) : ![starts](https://img.shields.io/github/stars/taiji-xo/CVE-2021-26882.svg) ![forks](https://img.shields.io/github/forks/taiji-xo/CVE-2021-26882.svg)
 
+- [https://github.com/songjianyang/CVE-2021-26882](https://github.com/songjianyang/CVE-2021-26882) : ![starts](https://img.shields.io/github/stars/songjianyang/CVE-2021-26882.svg) ![forks](https://img.shields.io/github/forks/songjianyang/CVE-2021-26882.svg)
+
 ## CVE-2021-26871
  Windows WalletService Elevation of Privilege Vulnerability
 
@@ -84354,6 +84405,8 @@ pThe security update addresses the vulnerability by resolving the conditions whe
 - [https://github.com/vaginessa/CVE-2020-0041-Pixel-3a](https://github.com/vaginessa/CVE-2020-0041-Pixel-3a) : ![starts](https://img.shields.io/github/stars/vaginessa/CVE-2020-0041-Pixel-3a.svg) ![forks](https://img.shields.io/github/forks/vaginessa/CVE-2020-0041-Pixel-3a.svg)
 
 - [https://github.com/koharin/CVE-2020-0041](https://github.com/koharin/CVE-2020-0041) : ![starts](https://img.shields.io/github/stars/koharin/CVE-2020-0041.svg) ![forks](https://img.shields.io/github/forks/koharin/CVE-2020-0041.svg)
+
+- [https://github.com/hiratazx/CVE-2020-0041](https://github.com/hiratazx/CVE-2020-0041) : ![starts](https://img.shields.io/github/stars/hiratazx/CVE-2020-0041.svg) ![forks](https://img.shields.io/github/forks/hiratazx/CVE-2020-0041.svg)
 
 ## CVE-2020-0022
  In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715
