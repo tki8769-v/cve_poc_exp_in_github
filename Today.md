@@ -15,6 +15,10 @@
 
 - [https://github.com/SyedaQuratulain098/factura-malware-analysis-lab](https://github.com/SyedaQuratulain098/factura-malware-analysis-lab) : ![starts](https://img.shields.io/github/stars/SyedaQuratulain098/factura-malware-analysis-lab.svg) ![forks](https://img.shields.io/github/forks/SyedaQuratulain098/factura-malware-analysis-lab.svg)
 
+## CVE-2017-7921
+
+- [https://github.com/m7arm4n/CVE-2017-7921](https://github.com/m7arm4n/CVE-2017-7921) : ![starts](https://img.shields.io/github/stars/m7arm4n/CVE-2017-7921.svg) ![forks](https://img.shields.io/github/forks/m7arm4n/CVE-2017-7921.svg)
+
 ## CVE-2018-4125
 
 - [https://github.com/jamezx32/CVE-2018-4125-4161-4162-4163](https://github.com/jamezx32/CVE-2018-4125-4161-4162-4163) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2018-4125-4161-4162-4163.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2018-4125-4161-4162-4163.svg)
@@ -146,6 +150,10 @@
 ## CVE-2026-18116
 
 - [https://github.com/EndlssNightmare/CVE-2026-18116](https://github.com/EndlssNightmare/CVE-2026-18116) : ![starts](https://img.shields.io/github/stars/EndlssNightmare/CVE-2026-18116.svg) ![forks](https://img.shields.io/github/forks/EndlssNightmare/CVE-2026-18116.svg)
+
+## CVE-2026-23111
+
+- [https://github.com/imeiplus/CVE-2026-23111-PoC](https://github.com/imeiplus/CVE-2026-23111-PoC) : ![starts](https://img.shields.io/github/stars/imeiplus/CVE-2026-23111-PoC.svg) ![forks](https://img.shields.io/github/forks/imeiplus/CVE-2026-23111-PoC.svg)
 
 ## CVE-2026-25253
 

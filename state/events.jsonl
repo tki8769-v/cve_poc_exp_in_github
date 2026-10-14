@@ -2656,3 +2656,7 @@
 {"cve_id": "CVE-2012-2459", "ts": "2026-10-14T14:38:10Z", "type": "new_poc", "url": "https://github.com/GJ504b123/merkle-lab"}
 {"cve_id": "CVE-2026-107692", "ts": "2026-10-14T14:38:22Z", "type": "new_poc", "url": "https://github.com/thewhatdohe/CVE-2026-107692"}
 {"cve_id": "CVE-2026-48611", "ts": "2026-10-14T14:40:18Z", "type": "new_poc", "url": "https://github.com/lxdwnpiper/CVE-2026-48611-phpBB"}
+{"cve_id": "CVE-2026-107913", "ts": "2026-10-14T14:52:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107913", "ts": "2026-10-14T14:54:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2017-7921", "ts": "2026-10-14T14:56:12Z", "type": "new_poc", "url": "https://github.com/m7arm4n/CVE-2017-7921"}
+{"cve_id": "CVE-2026-23111", "ts": "2026-10-14T15:05:32Z", "type": "new_poc", "url": "https://github.com/imeiplus/CVE-2026-23111-PoC"}

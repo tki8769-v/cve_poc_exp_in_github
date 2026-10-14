@@ -15823,6 +15823,8 @@ skip active elements, process inactive ones.
 
 - [https://github.com/vvsy46/CVE-2026-23111-PoC](https://github.com/vvsy46/CVE-2026-23111-PoC) : ![starts](https://img.shields.io/github/stars/vvsy46/CVE-2026-23111-PoC.svg) ![forks](https://img.shields.io/github/forks/vvsy46/CVE-2026-23111-PoC.svg)
 
+- [https://github.com/imeiplus/CVE-2026-23111-PoC](https://github.com/imeiplus/CVE-2026-23111-PoC) : ![starts](https://img.shields.io/github/stars/imeiplus/CVE-2026-23111-PoC.svg) ![forks](https://img.shields.io/github/forks/imeiplus/CVE-2026-23111-PoC.svg)
+
 ## CVE-2026-23010
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -96757,6 +96759,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 - [https://github.com/AnonkiGroup/AnonHik](https://github.com/AnonkiGroup/AnonHik) : ![starts](https://img.shields.io/github/stars/AnonkiGroup/AnonHik.svg) ![forks](https://img.shields.io/github/forks/AnonkiGroup/AnonHik.svg)
 
 - [https://github.com/Th3Purge/CVE-2017-7921-Exploit](https://github.com/Th3Purge/CVE-2017-7921-Exploit) : ![starts](https://img.shields.io/github/stars/Th3Purge/CVE-2017-7921-Exploit.svg) ![forks](https://img.shields.io/github/forks/Th3Purge/CVE-2017-7921-Exploit.svg)
+
+- [https://github.com/m7arm4n/CVE-2017-7921](https://github.com/m7arm4n/CVE-2017-7921) : ![starts](https://img.shields.io/github/stars/m7arm4n/CVE-2017-7921.svg) ![forks](https://img.shields.io/github/forks/m7arm4n/CVE-2017-7921.svg)
 
 ## CVE-2017-7912
  Hanwha Techwin SRN-4000, SRN-4000 firmware versions prior to SRN4000_v2.16_170401, A specially crafted http request and response could allow an attacker to gain access to the device management page with admin privileges without proper authentication.

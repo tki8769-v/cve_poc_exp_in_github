@@ -15822,6 +15822,8 @@ skip active elements, process inactive ones.
 
 - [https://github.com/vvsy46/CVE-2026-23111-PoC](https://github.com/vvsy46/CVE-2026-23111-PoC) : ![starts](https://img.shields.io/github/stars/vvsy46/CVE-2026-23111-PoC.svg) ![forks](https://img.shields.io/github/forks/vvsy46/CVE-2026-23111-PoC.svg)
 
+- [https://github.com/imeiplus/CVE-2026-23111-PoC](https://github.com/imeiplus/CVE-2026-23111-PoC) : ![starts](https://img.shields.io/github/stars/imeiplus/CVE-2026-23111-PoC.svg) ![forks](https://img.shields.io/github/forks/imeiplus/CVE-2026-23111-PoC.svg)
+
 ## CVE-2026-23010
  In the Linux kernel, the following vulnerability has been resolved:
 
