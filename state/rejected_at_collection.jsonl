@@ -749,3 +749,4 @@
 {"cve_id": "CVE-2019-1422", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T01:01:44Z", "url": "https://github.com/mbadanoiu/CVE-2019-14222", "url_ids": ["CVE-2019-14222"]}
 {"cve_id": "CVE-2019-1422", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T01:01:44Z", "url": "https://github.com/mbadanoiu/CVE-2019-14223", "url_ids": ["CVE-2019-14223"]}
 {"cve_id": "CVE-2026-5177", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T01:05:03Z", "url": "https://github.com/sadandbset/CVE-2026-51772-CVE-2026-51773", "url_ids": ["CVE-2026-51772", "CVE-2026-51773"]}
+{"cve_id": "CVE-2025-5555", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T06:13:59Z", "url": "https://github.com/aydin5245/CVE-2025-55555-CVE", "url_ids": ["CVE-2025-55555"]}
