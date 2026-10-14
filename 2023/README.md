@@ -8976,6 +8976,8 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 
 - [https://github.com/mad3E7cat/CVE-2023-5612](https://github.com/mad3E7cat/CVE-2023-5612) : ![starts](https://img.shields.io/github/stars/mad3E7cat/CVE-2023-5612.svg) ![forks](https://img.shields.io/github/forks/mad3E7cat/CVE-2023-5612.svg)
 
+- [https://github.com/ConstantineFedorov/Review.CVE-2023-5612](https://github.com/ConstantineFedorov/Review.CVE-2023-5612) : ![starts](https://img.shields.io/github/stars/ConstantineFedorov/Review.CVE-2023-5612.svg) ![forks](https://img.shields.io/github/forks/ConstantineFedorov/Review.CVE-2023-5612.svg)
+
 ## CVE-2023-5561
  WordPress does not properly restrict which user fields are searchable via the REST API, allowing unauthenticated attackers to discern the email addresses of users who have published public posts on an affected website via an Oracle style attack
 

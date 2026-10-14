@@ -2585,3 +2585,23 @@
 {"cve_id": "CVE-2026-41456", "ts": "2026-10-14T00:27:35Z", "type": "new_poc", "url": "https://github.com/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456"}
 {"cve_id": "CVE-2017-11882", "ts": "2026-10-14T00:27:35Z", "type": "new_poc", "url": "https://github.com/SyedaQuratulain098/factura-malware-analysis-lab"}
 {"cve_id": "CVE-2021-21413", "ts": "2026-10-14T00:27:35Z", "type": "new_poc", "url": "https://github.com/sm1ee/CVE-2021-21413"}
+{"cve_id": "CVE-2026-104011", "ts": "2026-10-14T00:38:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104922", "ts": "2026-10-14T00:38:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105142", "ts": "2026-10-14T00:38:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105151", "ts": "2026-10-14T00:38:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22314", "ts": "2026-10-14T00:39:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-14T00:40:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-88836", "ts": "2026-10-14T00:41:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94489", "ts": "2026-10-14T00:41:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94490", "ts": "2026-10-14T00:41:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104011", "ts": "2026-10-14T00:43:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104922", "ts": "2026-10-14T00:44:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105142", "ts": "2026-10-14T00:44:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105151", "ts": "2026-10-14T00:44:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22314", "ts": "2026-10-14T00:45:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-14T00:45:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-88836", "ts": "2026-10-14T00:47:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94489", "ts": "2026-10-14T00:47:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94490", "ts": "2026-10-14T00:47:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-5612", "ts": "2026-10-14T00:56:41Z", "type": "new_poc", "url": "https://github.com/ConstantineFedorov/Review.CVE-2023-5612"}
+{"cve_id": "CVE-2026-25253", "ts": "2026-10-14T00:58:54Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-25253"}

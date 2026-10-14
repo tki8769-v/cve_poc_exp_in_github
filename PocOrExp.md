@@ -14761,6 +14761,8 @@ You should upgrade to 9.22.0 version of provider if you use AWS Auth Manager.
 
 - [https://github.com/Cyber-Warrior-Network/trust-gate-mcp](https://github.com/Cyber-Warrior-Network/trust-gate-mcp) : ![starts](https://img.shields.io/github/stars/Cyber-Warrior-Network/trust-gate-mcp.svg) ![forks](https://img.shields.io/github/forks/Cyber-Warrior-Network/trust-gate-mcp.svg)
 
+- [https://github.com/yym8538/CVE-2026-25253](https://github.com/yym8538/CVE-2026-25253) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-25253.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-25253.svg)
+
 ## CVE-2026-25250
  EAZ EazyFix 12.9 allows a Security Feature Bypass related to a "Missing Cryptographic Step" associated with "Secure Boot disable."
 
@@ -59188,6 +59190,8 @@ We recommend upgrading past commit 32671e3799ca2e4590773fd0e63aaa4229e50c06.
 - [https://github.com/TopskiyPavelQwertyGang/Review.CVE-2023-5612](https://github.com/TopskiyPavelQwertyGang/Review.CVE-2023-5612) : ![starts](https://img.shields.io/github/stars/TopskiyPavelQwertyGang/Review.CVE-2023-5612.svg) ![forks](https://img.shields.io/github/forks/TopskiyPavelQwertyGang/Review.CVE-2023-5612.svg)
 
 - [https://github.com/mad3E7cat/CVE-2023-5612](https://github.com/mad3E7cat/CVE-2023-5612) : ![starts](https://img.shields.io/github/stars/mad3E7cat/CVE-2023-5612.svg) ![forks](https://img.shields.io/github/forks/mad3E7cat/CVE-2023-5612.svg)
+
+- [https://github.com/ConstantineFedorov/Review.CVE-2023-5612](https://github.com/ConstantineFedorov/Review.CVE-2023-5612) : ![starts](https://img.shields.io/github/stars/ConstantineFedorov/Review.CVE-2023-5612.svg) ![forks](https://img.shields.io/github/forks/ConstantineFedorov/Review.CVE-2023-5612.svg)
 
 ## CVE-2023-5561
  WordPress does not properly restrict which user fields are searchable via the REST API, allowing unauthenticated attackers to discern the email addresses of users who have published public posts on an affected website via an Oracle style attack

@@ -742,3 +742,5 @@
 {"cve_id": "CVE-2019-1279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T00:34:49Z", "url": "https://github.com/PeterUpfold/CVE-2019-12796", "url_ids": ["CVE-2019-12796"]}
 {"cve_id": "CVE-2022-4063", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T00:36:40Z", "url": "https://github.com/mbadanoiu/CVE-2022-40635", "url_ids": ["CVE-2022-40635"]}
 {"cve_id": "CVE-2022-4063", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T00:36:40Z", "url": "https://github.com/mbadanoiu/CVE-2022-40634", "url_ids": ["CVE-2022-40634"]}
+{"cve_id": "CVE-2024-2236", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T00:51:40Z", "url": "https://github.com/oscerd/CVE-2024-22369", "url_ids": ["CVE-2024-22369"]}
+{"cve_id": "CVE-2026-3869", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T00:52:43Z", "url": "https://github.com/vital-information-resource-under-siege/CVE-2026-38698-and-CVE-2026-38699", "url_ids": ["CVE-2026-38698", "CVE-2026-38699"]}
