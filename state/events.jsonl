@@ -2605,3 +2605,4 @@
 {"cve_id": "CVE-2026-94490", "ts": "2026-10-14T00:47:20Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2023-5612", "ts": "2026-10-14T00:56:41Z", "type": "new_poc", "url": "https://github.com/ConstantineFedorov/Review.CVE-2023-5612"}
 {"cve_id": "CVE-2026-25253", "ts": "2026-10-14T00:58:54Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-25253"}
+{"cve_id": "CVE-2026-107821", "ts": "2026-10-14T01:00:45Z", "type": "new_poc", "url": "https://github.com/pinebudweiser/CVE-2026-107821"}
