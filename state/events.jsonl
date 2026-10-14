@@ -2566,3 +2566,22 @@
 {"cve_id": "CVE-2026-88836", "ts": "2026-10-13T20:32:19Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-94489", "ts": "2026-10-13T20:32:28Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-94490", "ts": "2026-10-13T20:32:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104011", "ts": "2026-10-14T00:17:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22314", "ts": "2026-10-14T00:18:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-14T00:18:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-88836", "ts": "2026-10-14T00:19:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94489", "ts": "2026-10-14T00:19:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94490", "ts": "2026-10-14T00:19:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104011", "ts": "2026-10-14T00:22:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-22314", "ts": "2026-10-14T00:23:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66588", "ts": "2026-10-14T00:23:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-88836", "ts": "2026-10-14T00:25:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94489", "ts": "2026-10-14T00:25:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94490", "ts": "2026-10-14T00:25:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109721", "ts": "2026-10-14T00:27:33Z", "type": "new_poc", "url": "https://github.com/Scyrix-LLC/CVE-2026-109721"}
+{"cve_id": "CVE-2026-108924", "ts": "2026-10-14T00:27:34Z", "type": "new_poc", "url": "https://github.com/capivara-research/CVE-2026-108924"}
+{"cve_id": "CVE-2026-110025", "ts": "2026-10-14T00:27:34Z", "type": "new_poc", "url": "https://github.com/capivara-research/CVE-2026-110025"}
+{"cve_id": "CVE-2026-84411", "ts": "2026-10-14T00:27:34Z", "type": "new_poc", "url": "https://github.com/MikroTikDojo/CVE-2026-84411"}
+{"cve_id": "CVE-2026-41456", "ts": "2026-10-14T00:27:35Z", "type": "new_poc", "url": "https://github.com/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456"}
+{"cve_id": "CVE-2017-11882", "ts": "2026-10-14T00:27:35Z", "type": "new_poc", "url": "https://github.com/SyedaQuratulain098/factura-malware-analysis-lab"}
+{"cve_id": "CVE-2021-21413", "ts": "2026-10-14T00:27:35Z", "type": "new_poc", "url": "https://github.com/sm1ee/CVE-2021-21413"}

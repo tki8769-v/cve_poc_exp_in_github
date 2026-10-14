@@ -2,10 +2,25 @@
 
 - [https://github.com/danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300) : ![starts](https://img.shields.io/github/stars/danish1162/CVE-2026-2035703-x300.svg) ![forks](https://img.shields.io/github/forks/danish1162/CVE-2026-2035703-x300.svg)
 
+## CVE-2026-110025
+> A flaw has been found in slackero phpwcms up to 1.9.49/1.12.3. This issue affects some unknown processing of the file include/inc_front/content/cnt23.article.inc.php of the component Extension Check. This manipulation of the argument POST_name causes unrestricted upload. The attack can be initiated remotely. Upgrading to version 1.9.50 and 1.12.4 is capable of addressing this issue. Patch name: 118c978430f5a9668b30535f6e592c7ae8df711f/f4c136b467565b2d16ebe2b8276b9a03547a9a69/8571cb47df8d66804d1e
+
+- [https://github.com/capivara-research/CVE-2026-110025](https://github.com/capivara-research/CVE-2026-110025) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-110025.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-110025.svg)
+
+## CVE-2026-109721
+> Incorrect boundary conditions in the JavaScript Engine: JIT component. This vulnerability was fixed in Firefox 158, Firefox ESR 153.5, Thunderbird 158, and Thunderbird 153.5.
+
+- [https://github.com/Scyrix-LLC/CVE-2026-109721](https://github.com/Scyrix-LLC/CVE-2026-109721) : ![starts](https://img.shields.io/github/stars/Scyrix-LLC/CVE-2026-109721.svg) ![forks](https://img.shields.io/github/forks/Scyrix-LLC/CVE-2026-109721.svg)
+
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/0xgh0stri13y/CVE-2026-109519](https://github.com/0xgh0stri13y/CVE-2026-109519) : ![starts](https://img.shields.io/github/stars/0xgh0stri13y/CVE-2026-109519.svg) ![forks](https://img.shields.io/github/forks/0xgh0stri13y/CVE-2026-109519.svg)
+
+## CVE-2026-108924
+> A vulnerability was identified in getkirby Kirby up to 4.9.5/5.5.3. Affected by this issue is the function OptionsQuery::resolve of the file src/Option/OptionsQuery.php of the component Dynamic Option Generation. The manipulation leads to authorization bypass. The attack is possible to be carried out remotely. Upgrading to version 4.9.6 and 5.6.0 can resolve this issue. You should upgrade the affected component.
+
+- [https://github.com/capivara-research/CVE-2026-108924](https://github.com/capivara-research/CVE-2026-108924) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-108924.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-108924.svg)
 
 ## CVE-2026-108592
 > mini-swe-agent 1.10.0 through 2.4.6 contains an information exposure vulnerability in BubblewrapEnvironment because bwrap omits --clearenv, so sandboxed commands inherit the host environment. Attackers using prompt injection in processed task content can make the agent read API keys from the environment and exfiltrate them over the shared network.
@@ -185,6 +200,7 @@ device operation and availability. No authentication, session e
 - [https://github.com/uday952/CVE-2026-104711-RestPlugin-PoC](https://github.com/uday952/CVE-2026-104711-RestPlugin-PoC) : ![starts](https://img.shields.io/github/stars/uday952/CVE-2026-104711-RestPlugin-PoC.svg) ![forks](https://img.shields.io/github/forks/uday952/CVE-2026-104711-RestPlugin-PoC.svg)
 
 ## CVE-2026-104587
+> blob42 gosuki through commit 6e2bf34 contains a Stored Cross-Site Scripting (XSS) vulnerability. The application uses text/template instead of html/template, failing to perform context-aware auto-escaping on the URL and DisplayURL fields of bookmarks in internal/webui/templates/bookmarks.html. An attacker can craft a malicious bookmark URL containing HTML attribute-breaking payloads that execute arbitrary JavaScript in the victim&#x27;s browser context when rendered in the local web interface.
 
 - [https://github.com/AmalJafarzade/CVE-2026-104587](https://github.com/AmalJafarzade/CVE-2026-104587) : ![starts](https://img.shields.io/github/stars/AmalJafarzade/CVE-2026-104587.svg) ![forks](https://img.shields.io/github/forks/AmalJafarzade/CVE-2026-104587.svg)
 
@@ -1491,6 +1507,8 @@ This issue w
 - [https://github.com/maxprog-svg/CVE-2026-84411](https://github.com/maxprog-svg/CVE-2026-84411) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-84411.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-84411.svg)
 
 - [https://github.com/Apiratchai/CVE-2026-84411-reproduction](https://github.com/Apiratchai/CVE-2026-84411-reproduction) : ![starts](https://img.shields.io/github/stars/Apiratchai/CVE-2026-84411-reproduction.svg) ![forks](https://img.shields.io/github/forks/Apiratchai/CVE-2026-84411-reproduction.svg)
+
+- [https://github.com/MikroTikDojo/CVE-2026-84411](https://github.com/MikroTikDojo/CVE-2026-84411) : ![starts](https://img.shields.io/github/stars/MikroTikDojo/CVE-2026-84411.svg) ![forks](https://img.shields.io/github/forks/MikroTikDojo/CVE-2026-84411.svg)
 
 ## CVE-2026-84388
  A improper restriction of rendered ui layers or frames vulnerability in Fortinet FortiPAM Chrome Extension 8.0 all versions, FortiPAM Chrome Extension 7.4 all versions may allow attacker to information disclosure via remote unauthenticated attack
@@ -10231,6 +10249,10 @@ This could allow a remote attacker to access arbitrary files on the device.
  ProjeQtor versions 7.0 through 12.4.3 contain an unauthenticated SQL injection vulnerability in the login functionality where the login variable is directly concatenated into a SQL query without parameterization or sanitization. Attackers can inject arbitrary SQL expressions through the username field at the authentication endpoint to create privileged accounts, read sensitive data, and execute operating system commands if the database user has elevated permissions.
 
 - [https://github.com/0xBlackash/CVE-2026-41462](https://github.com/0xBlackash/CVE-2026-41462) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-41462.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-41462.svg)
+
+## CVE-2026-41456
+
+- [https://github.com/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456](https://github.com/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456) : ![starts](https://img.shields.io/github/stars/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456.svg) ![forks](https://img.shields.io/github/forks/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456.svg)
 
 ## CVE-2026-41452
  Krayin CRM 2.2.4 contains a missing authentication vulnerability in the installer middleware that allows unauthenticated remote attackers to overwrite the primary administrator account by sending a crafted HTTP POST request with the X-Requested-With: XMLHttpRequest header to bypass the CanInstall middleware redirect check. Attackers can supply arbitrary name, email, and password values to the admin-config-setup endpoint, which performs an unauthenticated updateOrInsert targeting the hardcoded administrator user ID, enabling full administrative access to all CRM data.

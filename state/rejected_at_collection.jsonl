@@ -735,3 +735,10 @@
 {"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T20:20:48Z", "url": "https://github.com/Vulmatch/CVE-2023-28252", "url_ids": ["CVE-2023-28252"]}
 {"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T20:20:48Z", "url": "https://github.com/Danasuley/CVE-2023-28252-", "url_ids": ["CVE-2023-28252"]}
 {"cve_id": "CVE-2025-6129", "reason": "prefix_conflict_evidenced", "ts": "2026-10-13T20:23:01Z", "url": "https://github.com/GovindPalakkal/CVE-2025-61299_POC", "url_ids": ["CVE-2025-61299"]}
+{"cve_id": "CVE-2024-2236", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T00:28:46Z", "url": "https://github.com/oscerd/CVE-2024-22369", "url_ids": ["CVE-2024-22369"]}
+{"cve_id": "CVE-2025-4540", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T00:31:36Z", "url": "https://github.com/yallasec/CVE-2025-45407", "url_ids": ["CVE-2025-45407"]}
+{"cve_id": "CVE-2026-3533", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T00:33:43Z", "url": "https://github.com/JohannesLks/CVE-2026-35330", "url_ids": ["CVE-2026-35330"]}
+{"cve_id": "CVE-2026-3533", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T00:33:43Z", "url": "https://github.com/JohannesLks/CVE-2026-35333", "url_ids": ["CVE-2026-35333"]}
+{"cve_id": "CVE-2019-1279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T00:34:49Z", "url": "https://github.com/PeterUpfold/CVE-2019-12796", "url_ids": ["CVE-2019-12796"]}
+{"cve_id": "CVE-2022-4063", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T00:36:40Z", "url": "https://github.com/mbadanoiu/CVE-2022-40635", "url_ids": ["CVE-2022-40635"]}
+{"cve_id": "CVE-2022-4063", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T00:36:40Z", "url": "https://github.com/mbadanoiu/CVE-2022-40634", "url_ids": ["CVE-2022-40634"]}

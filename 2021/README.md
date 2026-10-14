@@ -6703,6 +6703,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/pvharmo2/gha-lab-b9842b12c0](https://github.com/pvharmo2/gha-lab-b9842b12c0) : ![starts](https://img.shields.io/github/stars/pvharmo2/gha-lab-b9842b12c0.svg) ![forks](https://img.shields.io/github/forks/pvharmo2/gha-lab-b9842b12c0.svg)
 
+## CVE-2021-21413
+
+- [https://github.com/sm1ee/CVE-2021-21413](https://github.com/sm1ee/CVE-2021-21413) : ![starts](https://img.shields.io/github/stars/sm1ee/CVE-2021-21413.svg) ![forks](https://img.shields.io/github/forks/sm1ee/CVE-2021-21413.svg)
+
 ## CVE-2021-21402
  Jellyfin is a Free Software Media System. In Jellyfin before version 10.7.1, with certain endpoints, well crafted requests will allow arbitrary file read from a Jellyfin server's file system. This issue is more prevalent when Windows is used as the host OS. Servers that are exposed to the public Internet are potentially at risk. This is fixed in version 10.7.1. As a workaround, users may be able to restrict some access by enforcing strict security permissions on their filesystem, however, it is recommended to update as soon as possible.
 

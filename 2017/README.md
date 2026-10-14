@@ -1278,6 +1278,8 @@
 
 - [https://github.com/jadeapar/Dragonfish-s-Malware-Cyber-Analysis](https://github.com/jadeapar/Dragonfish-s-Malware-Cyber-Analysis) : ![starts](https://img.shields.io/github/stars/jadeapar/Dragonfish-s-Malware-Cyber-Analysis.svg) ![forks](https://img.shields.io/github/forks/jadeapar/Dragonfish-s-Malware-Cyber-Analysis.svg)
 
+- [https://github.com/SyedaQuratulain098/factura-malware-analysis-lab](https://github.com/SyedaQuratulain098/factura-malware-analysis-lab) : ![starts](https://img.shields.io/github/stars/SyedaQuratulain098/factura-malware-analysis-lab.svg) ![forks](https://img.shields.io/github/forks/SyedaQuratulain098/factura-malware-analysis-lab.svg)
+
 ## CVE-2017-11826
  Microsoft Office 2010, SharePoint Enterprise Server 2010, SharePoint Server 2010, Web Applications, Office Web Apps Server 2010 and 2013, Word Viewer, Word 2007, 2010, 2013 and 2016, Word Automation Services, and Office Online Server allow remote code execution when the software fails to properly handle objects in memory.
 
