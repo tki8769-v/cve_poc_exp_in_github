@@ -2660,3 +2660,5 @@
 {"cve_id": "CVE-2026-107913", "ts": "2026-10-14T14:54:32Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2017-7921", "ts": "2026-10-14T14:56:12Z", "type": "new_poc", "url": "https://github.com/m7arm4n/CVE-2017-7921"}
 {"cve_id": "CVE-2026-23111", "ts": "2026-10-14T15:05:32Z", "type": "new_poc", "url": "https://github.com/imeiplus/CVE-2026-23111-PoC"}
+{"cve_id": "CVE-2026-107913", "ts": "2026-10-14T15:07:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-41080", "ts": "2026-10-14T15:17:08Z", "type": "new_poc", "url": "https://github.com/sotiak/CVE-2023-41080"}

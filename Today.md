@@ -72,6 +72,10 @@
 
 - [https://github.com/jamezx32/CVE-2023-2033](https://github.com/jamezx32/CVE-2023-2033) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2023-2033.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2023-2033.svg)
 
+## CVE-2023-41080
+
+- [https://github.com/sotiak/CVE-2023-41080](https://github.com/sotiak/CVE-2023-41080) : ![starts](https://img.shields.io/github/stars/sotiak/CVE-2023-41080.svg) ![forks](https://img.shields.io/github/forks/sotiak/CVE-2023-41080.svg)
+
 ## CVE-2023-41993
 
 - [https://github.com/jamezx32/CVE-2023-41993](https://github.com/jamezx32/CVE-2023-41993) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2023-41993.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2023-41993.svg)

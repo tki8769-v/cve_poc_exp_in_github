@@ -2570,6 +2570,8 @@ The vulnerability is limited to the ROOT (default) web application.
 
 - [https://github.com/shiomiyan/CVE-2023-41080](https://github.com/shiomiyan/CVE-2023-41080) : ![starts](https://img.shields.io/github/stars/shiomiyan/CVE-2023-41080.svg) ![forks](https://img.shields.io/github/forks/shiomiyan/CVE-2023-41080.svg)
 
+- [https://github.com/sotiak/CVE-2023-41080](https://github.com/sotiak/CVE-2023-41080) : ![starts](https://img.shields.io/github/stars/sotiak/CVE-2023-41080.svg) ![forks](https://img.shields.io/github/forks/sotiak/CVE-2023-41080.svg)
+
 ## CVE-2023-41064
  A buffer overflow issue was addressed with improved memory handling. This issue is fixed in iOS 16.6.1 and iPadOS 16.6.1, macOS Monterey 12.6.9, macOS Ventura 13.5.2, iOS 15.7.9 and iPadOS 15.7.9, macOS Big Sur 11.7.10. Processing a maliciously crafted image may lead to arbitrary code execution. Apple is aware of a report that this issue may have been actively exploited.
 
