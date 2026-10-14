@@ -3,6 +3,11 @@
 
 - [https://github.com/danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300) : ![starts](https://img.shields.io/github/stars/danish1162/CVE-2026-2035703-x300.svg) ![forks](https://img.shields.io/github/forks/danish1162/CVE-2026-2035703-x300.svg)
 
+## CVE-2026-110447
+> Collabora Online Built-in CODE Server before 26.4.303 (richdocumentscode), a Nextcloud app, allows remote code execution, as exploited in the wild in September and October 2026, a different vulnerability than CVE-2025-66208. This is an OS command injection in proxy.php when the CODE server isn&#x27;t running (e.g., the product was recently restarted). The vulnerability is not present in standalone Collabora Online servers; only this deployment with CODE Server is affected.
+
+- [https://github.com/adriyansyah-mf/cve-2026-110447](https://github.com/adriyansyah-mf/cve-2026-110447) : ![starts](https://img.shields.io/github/stars/adriyansyah-mf/cve-2026-110447.svg) ![forks](https://img.shields.io/github/forks/adriyansyah-mf/cve-2026-110447.svg)
+
 ## CVE-2026-110025
 > A flaw has been found in slackero phpwcms up to 1.9.49/1.12.3. This issue affects some unknown processing of the file include/inc_front/content/cnt23.article.inc.php of the component Extension Check. This manipulation of the argument POST_name causes unrestricted upload. The attack can be initiated remotely. Upgrading to version 1.9.50 and 1.12.4 is capable of addressing this issue. Patch name: 118c978430f5a9668b30535f6e592c7ae8df711f/f4c136b467565b2d16ebe2b8276b9a03547a9a69/8571cb47df8d66804d1e
 
@@ -17,6 +22,10 @@
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/0xgh0stri13y/CVE-2026-109519](https://github.com/0xgh0stri13y/CVE-2026-109519) : ![starts](https://img.shields.io/github/stars/0xgh0stri13y/CVE-2026-109519.svg) ![forks](https://img.shields.io/github/forks/0xgh0stri13y/CVE-2026-109519.svg)
+
+## CVE-2026-109506
+
+- [https://github.com/lukaspalm/CVE-2026-109506](https://github.com/lukaspalm/CVE-2026-109506) : ![starts](https://img.shields.io/github/stars/lukaspalm/CVE-2026-109506.svg) ![forks](https://img.shields.io/github/forks/lukaspalm/CVE-2026-109506.svg)
 
 ## CVE-2026-108924
 > A vulnerability was identified in getkirby Kirby up to 4.9.5/5.5.3. Affected by this issue is the function OptionsQuery::resolve of the file src/Option/OptionsQuery.php of the component Dynamic Option Generation. The manipulation leads to authorization bypass. The attack is possible to be carried out remotely. Upgrading to version 4.9.6 and 5.6.0 can resolve this issue. You should upgrade the affected component.
@@ -75,6 +84,8 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 - [https://github.com/00nx/telegram-account-takeover-poc](https://github.com/00nx/telegram-account-takeover-poc) : ![starts](https://img.shields.io/github/stars/00nx/telegram-account-takeover-poc.svg) ![forks](https://img.shields.io/github/forks/00nx/telegram-account-takeover-poc.svg)
 
+- [https://github.com/abdugafforov-bobur/cve-2026-107181-poc](https://github.com/abdugafforov-bobur/cve-2026-107181-poc) : ![starts](https://img.shields.io/github/stars/abdugafforov-bobur/cve-2026-107181-poc.svg) ![forks](https://img.shields.io/github/forks/abdugafforov-bobur/cve-2026-107181-poc.svg)
+
 ## CVE-2026-107159
 > MiniUPnPd through 2.3.11 built with --strict contains a divide-by-zero vulnerability in ProcessSSDPData() that allows unauthenticated local network attackers to crash the daemon. Attackers can send a single multicast M-SEARCH datagram with MX: 0 and a known ST to port 1900, triggering SIGFPE and denying UPnP IGD service.
 
@@ -99,6 +110,11 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 > Payload is a free and open source headless content management system. In versions from 3.0.0 before 3.88.0 and canary versions before 4.0.0-canary.27, an unauthenticated user can submit prototype-sensitive field paths when @payloadcms/plugin-import-export is enabled, causing unintended application behavior that can lead to remote code execution. This issue is fixed in versions 3.88.0 and 4.0.0-canary.27.
 
 - [https://github.com/murrez/CVE-2026-105844](https://github.com/murrez/CVE-2026-105844) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-105844.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-105844.svg)
+
+## CVE-2026-105445
+> An Incorrect Privilege Assignment vulnerability in Docker Hub&#x27;s account-to-organization conversion feature allowed an authenticated attacker to reassign a personal access token (PAT) they controlled to another Docker Hub user without rotating or revoking the token secret. The unchanged PAT then authenticated to the registry as the recipient and could pull, push, or delete images, within its scopes, in repositories accessible to that user, including organization repositories.
+
+- [https://github.com/Mothchui/CVE-2026-105445](https://github.com/Mothchui/CVE-2026-105445) : ![starts](https://img.shields.io/github/stars/Mothchui/CVE-2026-105445.svg) ![forks](https://img.shields.io/github/forks/Mothchui/CVE-2026-105445.svg)
 
 ## CVE-2026-105314
 > Papermerge 3.5.3 allows remote code execution by a standard user via directory traversal in a /api/documents/upload call. A Python .pth file can be written to site-packages, and its code is executed upon the next start of the Python interpreter.
@@ -198,6 +214,8 @@ device operation and availability. No authentication, session e
 > The SimpleForm – Form Maker to Chat Apps with Quiz, Poll and Multi Lead Notifications plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including, 3.10.0 This is due to the `wp_ajax_nopriv_simpleform_wp_register` AJAX action lacking any capability check for role assignment and the `save_custom_fields_to_user_meta()` function using an exclusion list that omits `wp_capabilities`, combined with `get_form_settings()` returning a hard-coded defaults array that unco
 
 - [https://github.com/joshuavanderpoll/CVE-2026-104748](https://github.com/joshuavanderpoll/CVE-2026-104748) : ![starts](https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-104748.svg) ![forks](https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-104748.svg)
+
+- [https://github.com/MrjHaxcore/CVE-2026-104748](https://github.com/MrjHaxcore/CVE-2026-104748) : ![starts](https://img.shields.io/github/stars/MrjHaxcore/CVE-2026-104748.svg) ![forks](https://img.shields.io/github/forks/MrjHaxcore/CVE-2026-104748.svg)
 
 ## CVE-2026-104711
 > Improper neutralization of special elements used in an expression language statement (&#x27;Expression Language Injection&#x27;) vulnerability in Apache Struts. If the application is configured to use the legacy RESTful action mapper, a crafted request can inject an OGNL expression that may lead to remote code execution. Struts 7 is affected only when the OGNL allowlist is disabled; it is enabled by default. Applications using the default action mapper, the restful2 mapper, or the Struts REST plugin are n
@@ -957,6 +975,7 @@ free of a `struct Curl_easy` object.
 - [https://github.com/sm1ee/CVE-2026-91737](https://github.com/sm1ee/CVE-2026-91737) : ![starts](https://img.shields.io/github/stars/sm1ee/CVE-2026-91737.svg) ![forks](https://img.shields.io/github/forks/sm1ee/CVE-2026-91737.svg)
 
 ## CVE-2026-91159
+> Discourse is an open-source discussion platform. Prior to 2026.9.0, 2026.8.1, 2026.7.3, and 2026.1.9, oEmbed processing treated an entire attacker-controlled HTML fragment as trusted when the fragment contained an iframe whose source matched the configured allowlist. A user with posting permission who controlled a public webpage and its oEmbed response could combine an allowlisted iframe with unrelated sibling HTML or CSS, causing stored visual overlays or other styled content to appear in post 
 
 - [https://github.com/sl4x0/autheo-cve-2026-91159-poc](https://github.com/sl4x0/autheo-cve-2026-91159-poc) : ![starts](https://img.shields.io/github/stars/sl4x0/autheo-cve-2026-91159-poc.svg) ![forks](https://img.shields.io/github/forks/sl4x0/autheo-cve-2026-91159-poc.svg)
 
@@ -1460,6 +1479,8 @@ This issue w
 
 - [https://github.com/RootMantap/CVE-2026-85097](https://github.com/RootMantap/CVE-2026-85097) : ![starts](https://img.shields.io/github/stars/RootMantap/CVE-2026-85097.svg) ![forks](https://img.shields.io/github/forks/RootMantap/CVE-2026-85097.svg)
 
+- [https://github.com/Tarangj07/Wordpress-Lab-CVE-2026-85097](https://github.com/Tarangj07/Wordpress-Lab-CVE-2026-85097) : ![starts](https://img.shields.io/github/stars/Tarangj07/Wordpress-Lab-CVE-2026-85097.svg) ![forks](https://img.shields.io/github/forks/Tarangj07/Wordpress-Lab-CVE-2026-85097.svg)
+
 ## CVE-2026-85048
  Use after free in Compositing in Google Chrome prior to 152.0.7977.82 allowed a remote attacker who had compromised the renderer process to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)
 
@@ -1575,6 +1596,10 @@ This issue w
 - [https://github.com/karollooool/CVE-2026-83991-writeup-and-poc](https://github.com/karollooool/CVE-2026-83991-writeup-and-poc) : ![starts](https://img.shields.io/github/stars/karollooool/CVE-2026-83991-writeup-and-poc.svg) ![forks](https://img.shields.io/github/forks/karollooool/CVE-2026-83991-writeup-and-poc.svg)
 
 - [https://github.com/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC](https://github.com/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC) : ![starts](https://img.shields.io/github/stars/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC.svg) ![forks](https://img.shields.io/github/forks/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC.svg)
+
+## CVE-2026-83834
+
+- [https://github.com/wkpwn/CVE-2026-83834](https://github.com/wkpwn/CVE-2026-83834) : ![starts](https://img.shields.io/github/stars/wkpwn/CVE-2026-83834.svg) ![forks](https://img.shields.io/github/forks/wkpwn/CVE-2026-83834.svg)
 
 ## CVE-2026-83792
 
@@ -2208,6 +2233,10 @@ Remediation requires a firmware update from the vendor. There is no user-side mi
 ## CVE-2026-76547
 
 - [https://github.com/H4zaz/CVE-2026-76547](https://github.com/H4zaz/CVE-2026-76547) : ![starts](https://img.shields.io/github/stars/H4zaz/CVE-2026-76547.svg) ![forks](https://img.shields.io/github/forks/H4zaz/CVE-2026-76547.svg)
+
+## CVE-2026-76519
+
+- [https://github.com/Mickysalivan/CVE-2026-76519-POC](https://github.com/Mickysalivan/CVE-2026-76519-POC) : ![starts](https://img.shields.io/github/stars/Mickysalivan/CVE-2026-76519-POC.svg) ![forks](https://img.shields.io/github/forks/Mickysalivan/CVE-2026-76519-POC.svg)
 
 ## CVE-2026-76504
 > A vulnerability in the API session-based authentication management of Cisco Catalyst SD-WAN Manager could allow an unauthenticated, remote attacker to access an affected system with privileges of the admin user.
@@ -9446,6 +9475,8 @@ destination-frag path or fall back to skb_cow_data().
 
 - [https://github.com/mhdnihan/CVE-2026-43284-DIRTY-FRAG-](https://github.com/mhdnihan/CVE-2026-43284-DIRTY-FRAG-) : ![starts](https://img.shields.io/github/stars/mhdnihan/CVE-2026-43284-DIRTY-FRAG-.svg) ![forks](https://img.shields.io/github/forks/mhdnihan/CVE-2026-43284-DIRTY-FRAG-.svg)
 
+- [https://github.com/SudoXDdX/DirtyFrag](https://github.com/SudoXDdX/DirtyFrag) : ![starts](https://img.shields.io/github/stars/SudoXDdX/DirtyFrag.svg) ![forks](https://img.shields.io/github/forks/SudoXDdX/DirtyFrag.svg)
+
 ## CVE-2026-43074
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -10800,6 +10831,10 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 - [https://github.com/iapetus12/cohort-htb](https://github.com/iapetus12/cohort-htb) : ![starts](https://img.shields.io/github/stars/iapetus12/cohort-htb.svg) ![forks](https://img.shields.io/github/forks/iapetus12/cohort-htb.svg)
 
 - [https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE](https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE) : ![starts](https://img.shields.io/github/stars/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE.svg) ![forks](https://img.shields.io/github/forks/Industri4l-H3ll-Xpl0it3rs/CVE-2026-39987-Marimo-RCE.svg)
+
+- [https://github.com/Th3Purge/CVE-2026-39987](https://github.com/Th3Purge/CVE-2026-39987) : ![starts](https://img.shields.io/github/stars/Th3Purge/CVE-2026-39987.svg) ![forks](https://img.shields.io/github/forks/Th3Purge/CVE-2026-39987.svg)
+
+- [https://github.com/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE](https://github.com/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE) : ![starts](https://img.shields.io/github/stars/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE.svg) ![forks](https://img.shields.io/github/forks/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE.svg)
 
 ## CVE-2026-39983
  basic-ftp is an FTP client for Node.js. Prior to 5.2.1, basic-ftp allows FTP command injection via CRLF sequences (\r\n) in file path parameters passed to high-level path APIs such as cd(), remove(), rename(), uploadFrom(), downloadTo(), list(), and removeDir(). The library's protectWhitespace() helper only handles leading spaces and returns other paths unchanged, while FtpContext.send() writes the resulting command string directly to the control socket with \r\n appended. This lets attacker-controlled path strings split one intended FTP command into multiple commands. This vulnerability is fixed in 5.2.1.
@@ -32432,6 +32467,8 @@ Users are recommended to upgrade to version 11.0.3, 10.1.35 or 9.0.99, which fix
 
 - [https://github.com/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE](https://github.com/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE) : ![starts](https://img.shields.io/github/stars/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE.svg) ![forks](https://img.shields.io/github/forks/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE.svg)
 
+- [https://github.com/PeaMatNgu/cve-2025-24801-glpi](https://github.com/PeaMatNgu/cve-2025-24801-glpi) : ![starts](https://img.shields.io/github/stars/PeaMatNgu/cve-2025-24801-glpi.svg) ![forks](https://img.shields.io/github/forks/PeaMatNgu/cve-2025-24801-glpi.svg)
+
 ## CVE-2025-24799
  GLPI is a free asset and IT management software package. An unauthenticated user can perform a SQL injection through the inventory endpoint. This vulnerability is fixed in 10.0.18.
 
@@ -37373,6 +37410,8 @@ Bypass operating system verification via exploiting the NV_Read functionality du
 - [https://github.com/MCRideable3963/exploit-docs](https://github.com/MCRideable3963/exploit-docs) : ![starts](https://img.shields.io/github/stars/MCRideable3963/exploit-docs.svg) ![forks](https://img.shields.io/github/forks/MCRideable3963/exploit-docs.svg)
 
 - [https://github.com/ts2023dev/exploit-docs](https://github.com/ts2023dev/exploit-docs) : ![starts](https://img.shields.io/github/stars/ts2023dev/exploit-docs.svg) ![forks](https://img.shields.io/github/forks/ts2023dev/exploit-docs.svg)
+
+- [https://github.com/ts2023dev/RMASmoke-v2](https://github.com/ts2023dev/RMASmoke-v2) : ![starts](https://img.shields.io/github/stars/ts2023dev/RMASmoke-v2.svg) ![forks](https://img.shields.io/github/forks/ts2023dev/RMASmoke-v2.svg)
 
 ## CVE-2025-1098
  A security issue was discovered in  ingress-nginx https://github.com/kubernetes/ingress-nginx  where the `mirror-target` and `mirror-host` Ingress annotations can be used to inject arbitrary configuration into nginx. This can lead to arbitrary code execution in the context of the ingress-nginx controller, and disclosure of Secrets accessible to the controller. (Note that in the default installation, the controller can access all Secrets cluster-wide.)
@@ -79293,6 +79332,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon](https://github.com/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon) : ![starts](https://img.shields.io/github/stars/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon.svg) ![forks](https://img.shields.io/github/forks/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon.svg)
 
+- [https://github.com/Maalfer/CVE-2020-25213-exploit](https://github.com/Maalfer/CVE-2020-25213-exploit) : ![starts](https://img.shields.io/github/stars/Maalfer/CVE-2020-25213-exploit.svg) ![forks](https://img.shields.io/github/forks/Maalfer/CVE-2020-25213-exploit.svg)
+
 ## CVE-2020-25200
  Pritunl 1.29.2145.25 allows attackers to enumerate valid VPN usernames via a series of /auth/session login attempts. Initially, the server will return error 401. However, if the username is valid, then after 20 login attempts, the server will start responding with error 400. Invalid usernames will receive error 401 indefinitely. Note: This has been disputed by the vendor as not a vulnerability. They argue that this is an intended design
 
@@ -80574,6 +80615,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 - [https://github.com/0x0d3ad/CVE-2020-14008](https://github.com/0x0d3ad/CVE-2020-14008) : ![starts](https://img.shields.io/github/stars/0x0d3ad/CVE-2020-14008.svg) ![forks](https://img.shields.io/github/forks/0x0d3ad/CVE-2020-14008.svg)
 
 - [https://github.com/raflesiait/CVE-2020-14008---ManageEngine](https://github.com/raflesiait/CVE-2020-14008---ManageEngine) : ![starts](https://img.shields.io/github/stars/raflesiait/CVE-2020-14008---ManageEngine.svg) ![forks](https://img.shields.io/github/forks/raflesiait/CVE-2020-14008---ManageEngine.svg)
+
+- [https://github.com/raflesiait/CVE-2020-14008_ManageEngine](https://github.com/raflesiait/CVE-2020-14008_ManageEngine) : ![starts](https://img.shields.io/github/stars/raflesiait/CVE-2020-14008_ManageEngine.svg) ![forks](https://img.shields.io/github/forks/raflesiait/CVE-2020-14008_ManageEngine.svg)
 
 ## CVE-2020-14000
  MIT Lifelong Kindergarten Scratch scratch-vm before 0.2.0-prerelease.20200714185213 loads extension URLs from untrusted project.json files with certain _ characters, resulting in remote code execution because the URL's content is treated as a script and is executed as a worker. The responsible code is getExtensionIdForOpcode in serialization/sb3.js. The use of _ is incompatible with a protection mechanism in older versions, in which URLs were split and consequently deserialization attacks were prevented. NOTE: the scratch.mit.edu hosted service is not affected because of the lack of worker scripts.

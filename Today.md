@@ -31,6 +31,14 @@
 
 - [https://github.com/jamezx32/CVE-2019-0567](https://github.com/jamezx32/CVE-2019-0567) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2019-0567.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2019-0567.svg)
 
+## CVE-2020-14008
+
+- [https://github.com/raflesiait/CVE-2020-14008_ManageEngine](https://github.com/raflesiait/CVE-2020-14008_ManageEngine) : ![starts](https://img.shields.io/github/stars/raflesiait/CVE-2020-14008_ManageEngine.svg) ![forks](https://img.shields.io/github/forks/raflesiait/CVE-2020-14008_ManageEngine.svg)
+
+## CVE-2020-25213
+
+- [https://github.com/Maalfer/CVE-2020-25213-exploit](https://github.com/Maalfer/CVE-2020-25213-exploit) : ![starts](https://img.shields.io/github/stars/Maalfer/CVE-2020-25213-exploit.svg) ![forks](https://img.shields.io/github/forks/Maalfer/CVE-2020-25213-exploit.svg)
+
 ## CVE-2021-21413
 
 - [https://github.com/sm1ee/CVE-2021-21413](https://github.com/sm1ee/CVE-2021-21413) : ![starts](https://img.shields.io/github/stars/sm1ee/CVE-2021-21413.svg) ![forks](https://img.shields.io/github/forks/sm1ee/CVE-2021-21413.svg)
@@ -100,6 +108,10 @@
 
 - [https://github.com/jamezx32/CVE-2024-5274](https://github.com/jamezx32/CVE-2024-5274) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2024-5274.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2024-5274.svg)
 
+## CVE-2025-1122
+
+- [https://github.com/ts2023dev/RMASmoke-v2](https://github.com/ts2023dev/RMASmoke-v2) : ![starts](https://img.shields.io/github/stars/ts2023dev/RMASmoke-v2.svg) ![forks](https://img.shields.io/github/forks/ts2023dev/RMASmoke-v2.svg)
+
 ## CVE-2025-12433
 
 - [https://github.com/jamezx32/CVE-2025-12433](https://github.com/jamezx32/CVE-2025-12433) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2025-12433.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2025-12433.svg)
@@ -107,6 +119,10 @@
 ## CVE-2025-13224
 
 - [https://github.com/jamezx32/CVE-2025-13224](https://github.com/jamezx32/CVE-2025-13224) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2025-13224.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2025-13224.svg)
+
+## CVE-2025-24801
+
+- [https://github.com/PeaMatNgu/cve-2025-24801-glpi](https://github.com/PeaMatNgu/cve-2025-24801-glpi) : ![starts](https://img.shields.io/github/stars/PeaMatNgu/cve-2025-24801-glpi.svg) ![forks](https://img.shields.io/github/forks/PeaMatNgu/cve-2025-24801-glpi.svg)
 
 ## CVE-2025-49132
 
@@ -124,7 +140,18 @@
 ## CVE-2026-104748
 > The SimpleForm – Form Maker to Chat Apps with Quiz, Poll and Multi Lead Notifications plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including, 3.10.0 This is due to the `wp_ajax_nopriv_simpleform_wp_register` AJAX action lacking any capability check for role assignment and the `save_custom_fields_to_user_meta()` function using an exclusion list that omits `wp_capabilities`, combined with `get_form_settings()` returning a hard-coded defaults array that unco
 
+- [https://github.com/MrjHaxcore/CVE-2026-104748](https://github.com/MrjHaxcore/CVE-2026-104748) : ![starts](https://img.shields.io/github/stars/MrjHaxcore/CVE-2026-104748.svg) ![forks](https://img.shields.io/github/forks/MrjHaxcore/CVE-2026-104748.svg)
 - [https://github.com/joshuavanderpoll/CVE-2026-104748](https://github.com/joshuavanderpoll/CVE-2026-104748) : ![starts](https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-104748.svg) ![forks](https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-104748.svg)
+
+## CVE-2026-105445
+> An Incorrect Privilege Assignment vulnerability in Docker Hub&#x27;s account-to-organization conversion feature allowed an authenticated attacker to reassign a personal access token (PAT) they controlled to another Docker Hub user without rotating or revoking the token secret. The unchanged PAT then authenticated to the registry as the recipient and could pull, push, or delete images, within its scopes, in repositories accessible to that user, including organization repositories.
+
+- [https://github.com/Mothchui/CVE-2026-105445](https://github.com/Mothchui/CVE-2026-105445) : ![starts](https://img.shields.io/github/stars/Mothchui/CVE-2026-105445.svg) ![forks](https://img.shields.io/github/forks/Mothchui/CVE-2026-105445.svg)
+
+## CVE-2026-107181
+> Telegram Desktop before 7.2.9 contains an IPC record-separator injection vulnerability in Core::Sandbox that allows remote attackers to inject OPEN: records via crafted tg:// links containing unescaped semicolons. Attackers can reach the interpret: scheme handler to upload local files, including tdata session keys, to an attacker channel, enabling account takeover.
+
+- [https://github.com/abdugafforov-bobur/cve-2026-107181-poc](https://github.com/abdugafforov-bobur/cve-2026-107181-poc) : ![starts](https://img.shields.io/github/stars/abdugafforov-bobur/cve-2026-107181-poc.svg) ![forks](https://img.shields.io/github/forks/abdugafforov-bobur/cve-2026-107181-poc.svg)
 
 ## CVE-2026-107692
 
@@ -141,6 +168,10 @@
 
 - [https://github.com/capivara-research/CVE-2026-108924](https://github.com/capivara-research/CVE-2026-108924) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-108924.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-108924.svg)
 
+## CVE-2026-109506
+
+- [https://github.com/lukaspalm/CVE-2026-109506](https://github.com/lukaspalm/CVE-2026-109506) : ![starts](https://img.shields.io/github/stars/lukaspalm/CVE-2026-109506.svg) ![forks](https://img.shields.io/github/forks/lukaspalm/CVE-2026-109506.svg)
+
 ## CVE-2026-109721
 > Incorrect boundary conditions in the JavaScript Engine: JIT component. This vulnerability was fixed in Firefox 158, Firefox ESR 153.5, Thunderbird 158, and Thunderbird 153.5.
 
@@ -150,6 +181,11 @@
 > A flaw has been found in slackero phpwcms up to 1.9.49/1.12.3. This issue affects some unknown processing of the file include/inc_front/content/cnt23.article.inc.php of the component Extension Check. This manipulation of the argument POST_name causes unrestricted upload. The attack can be initiated remotely. Upgrading to version 1.9.50 and 1.12.4 is capable of addressing this issue. Patch name: 118c978430f5a9668b30535f6e592c7ae8df711f/f4c136b467565b2d16ebe2b8276b9a03547a9a69/8571cb47df8d66804d1e
 
 - [https://github.com/capivara-research/CVE-2026-110025](https://github.com/capivara-research/CVE-2026-110025) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-110025.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-110025.svg)
+
+## CVE-2026-110447
+> Collabora Online Built-in CODE Server before 26.4.303 (richdocumentscode), a Nextcloud app, allows remote code execution, as exploited in the wild in September and October 2026, a different vulnerability than CVE-2025-66208. This is an OS command injection in proxy.php when the CODE server isn&#x27;t running (e.g., the product was recently restarted). The vulnerability is not present in standalone Collabora Online servers; only this deployment with CODE Server is affected.
+
+- [https://github.com/adriyansyah-mf/cve-2026-110447](https://github.com/adriyansyah-mf/cve-2026-110447) : ![starts](https://img.shields.io/github/stars/adriyansyah-mf/cve-2026-110447.svg) ![forks](https://img.shields.io/github/forks/adriyansyah-mf/cve-2026-110447.svg)
 
 ## CVE-2026-18116
 
@@ -163,9 +199,18 @@
 
 - [https://github.com/yym8538/CVE-2026-25253](https://github.com/yym8538/CVE-2026-25253) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-25253.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-25253.svg)
 
+## CVE-2026-39987
+
+- [https://github.com/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE](https://github.com/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE) : ![starts](https://img.shields.io/github/stars/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE.svg) ![forks](https://img.shields.io/github/forks/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE.svg)
+- [https://github.com/Th3Purge/CVE-2026-39987](https://github.com/Th3Purge/CVE-2026-39987) : ![starts](https://img.shields.io/github/stars/Th3Purge/CVE-2026-39987.svg) ![forks](https://img.shields.io/github/forks/Th3Purge/CVE-2026-39987.svg)
+
 ## CVE-2026-41456
 
 - [https://github.com/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456](https://github.com/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456) : ![starts](https://img.shields.io/github/stars/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456.svg) ![forks](https://img.shields.io/github/forks/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456.svg)
+
+## CVE-2026-43284
+
+- [https://github.com/SudoXDdX/DirtyFrag](https://github.com/SudoXDdX/DirtyFrag) : ![starts](https://img.shields.io/github/stars/SudoXDdX/DirtyFrag.svg) ![forks](https://img.shields.io/github/forks/SudoXDdX/DirtyFrag.svg)
 
 ## CVE-2026-44825
 
@@ -205,6 +250,14 @@ device IOTLB (re)initialisat
 - [https://github.com/ABC00012345/CVE-2026-74580](https://github.com/ABC00012345/CVE-2026-74580) : ![starts](https://img.shields.io/github/stars/ABC00012345/CVE-2026-74580.svg) ![forks](https://img.shields.io/github/forks/ABC00012345/CVE-2026-74580.svg)
 - [https://github.com/techupdate24/linux-kernel-cve-2026-74580-vghost](https://github.com/techupdate24/linux-kernel-cve-2026-74580-vghost) : ![starts](https://img.shields.io/github/stars/techupdate24/linux-kernel-cve-2026-74580-vghost.svg) ![forks](https://img.shields.io/github/forks/techupdate24/linux-kernel-cve-2026-74580-vghost.svg)
 
+## CVE-2026-76519
+
+- [https://github.com/Mickysalivan/CVE-2026-76519-POC](https://github.com/Mickysalivan/CVE-2026-76519-POC) : ![starts](https://img.shields.io/github/stars/Mickysalivan/CVE-2026-76519-POC.svg) ![forks](https://img.shields.io/github/forks/Mickysalivan/CVE-2026-76519-POC.svg)
+
+## CVE-2026-83834
+
+- [https://github.com/wkpwn/CVE-2026-83834](https://github.com/wkpwn/CVE-2026-83834) : ![starts](https://img.shields.io/github/stars/wkpwn/CVE-2026-83834.svg) ![forks](https://img.shields.io/github/forks/wkpwn/CVE-2026-83834.svg)
+
 ## CVE-2026-84411
 > The web management service in affected RouterOS versions contains an integer underflow in its HTTP request body handling that is reachable before authentication. This can be leveraged by an unauthenticated network attacker to achieve arbitrary code execution as root, or to cause a denial of service, using a single crafted request.
 
@@ -218,6 +271,7 @@ device IOTLB (re)initialisat
 > The Bricksforge plugin for WordPress is vulnerable to unauthenticated arbitrary file upload in versions up to, and including, 3.1.8.9. This is due to insufficient validation of the attacker-controlled URL field in the &#x27;temporaryFileUploads&#x27; parameter during form submission. An unauthenticated attacker can first obtain a valid nonce via the bricksforge_regenerate_nonce AJAX endpoint, then upload a GIF/PHP polyglot file to the temporary upload directory where MIME type validation is correctly perf
 
 - [https://github.com/RootMantap/CVE-2026-85097](https://github.com/RootMantap/CVE-2026-85097) : ![starts](https://img.shields.io/github/stars/RootMantap/CVE-2026-85097.svg) ![forks](https://img.shields.io/github/forks/RootMantap/CVE-2026-85097.svg)
+- [https://github.com/Tarangj07/Wordpress-Lab-CVE-2026-85097](https://github.com/Tarangj07/Wordpress-Lab-CVE-2026-85097) : ![starts](https://img.shields.io/github/stars/Tarangj07/Wordpress-Lab-CVE-2026-85097.svg) ![forks](https://img.shields.io/github/forks/Tarangj07/Wordpress-Lab-CVE-2026-85097.svg)
 
 ## CVE-2026-92392
 > During an upload, curl mishandles HTTP/2 `RST_STREAM` received from the server

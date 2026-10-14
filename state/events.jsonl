@@ -2662,3 +2662,20 @@
 {"cve_id": "CVE-2026-23111", "ts": "2026-10-14T15:05:32Z", "type": "new_poc", "url": "https://github.com/imeiplus/CVE-2026-23111-PoC"}
 {"cve_id": "CVE-2026-107913", "ts": "2026-10-14T15:07:47Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2023-41080", "ts": "2026-10-14T15:17:08Z", "type": "new_poc", "url": "https://github.com/sotiak/CVE-2023-41080"}
+{"cve_id": "CVE-2026-107913", "ts": "2026-10-14T20:42:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107913", "ts": "2026-10-14T20:46:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107181", "ts": "2026-10-14T20:49:01Z", "type": "new_poc", "url": "https://github.com/abdugafforov-bobur/cve-2026-107181-poc"}
+{"cve_id": "CVE-2026-83834", "ts": "2026-10-14T20:49:02Z", "type": "new_poc", "url": "https://github.com/wkpwn/CVE-2026-83834"}
+{"cve_id": "CVE-2020-25213", "ts": "2026-10-14T20:49:02Z", "type": "new_poc", "url": "https://github.com/Maalfer/CVE-2020-25213-exploit"}
+{"cve_id": "CVE-2026-104748", "ts": "2026-10-14T20:49:02Z", "type": "new_poc", "url": "https://github.com/MrjHaxcore/CVE-2026-104748"}
+{"cve_id": "CVE-2026-105445", "ts": "2026-10-14T20:49:02Z", "type": "new_poc", "url": "https://github.com/Mothchui/CVE-2026-105445"}
+{"cve_id": "CVE-2026-109506", "ts": "2026-10-14T20:49:03Z", "type": "new_poc", "url": "https://github.com/lukaspalm/CVE-2026-109506"}
+{"cve_id": "CVE-2026-110447", "ts": "2026-10-14T20:49:03Z", "type": "new_poc", "url": "https://github.com/adriyansyah-mf/cve-2026-110447"}
+{"cve_id": "CVE-2025-24801", "ts": "2026-10-14T20:49:03Z", "type": "new_poc", "url": "https://github.com/PeaMatNgu/cve-2025-24801-glpi"}
+{"cve_id": "CVE-2026-76519", "ts": "2026-10-14T20:49:04Z", "type": "new_poc", "url": "https://github.com/Mickysalivan/CVE-2026-76519-POC"}
+{"cve_id": "CVE-2026-85097", "ts": "2026-10-14T20:49:04Z", "type": "new_poc", "url": "https://github.com/Tarangj07/Wordpress-Lab-CVE-2026-85097"}
+{"cve_id": "CVE-2026-43284", "ts": "2026-10-14T20:49:04Z", "type": "new_poc", "url": "https://github.com/SudoXDdX/DirtyFrag"}
+{"cve_id": "CVE-2026-39987", "ts": "2026-10-14T20:51:17Z", "type": "new_poc", "url": "https://github.com/Th3Purge/CVE-2026-39987"}
+{"cve_id": "CVE-2026-39987", "ts": "2026-10-14T20:51:17Z", "type": "new_poc", "url": "https://github.com/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE"}
+{"cve_id": "CVE-2020-14008", "ts": "2026-10-14T20:54:19Z", "type": "new_poc", "url": "https://github.com/raflesiait/CVE-2020-14008_ManageEngine"}
+{"cve_id": "CVE-2025-1122", "ts": "2026-10-14T20:55:10Z", "type": "new_poc", "url": "https://github.com/ts2023dev/RMASmoke-v2"}

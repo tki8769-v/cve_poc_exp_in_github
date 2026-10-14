@@ -10293,6 +10293,8 @@ Users are recommended to upgrade to version 11.0.3, 10.1.35 or 9.0.99, which fix
 
 - [https://github.com/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE](https://github.com/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE) : ![starts](https://img.shields.io/github/stars/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE.svg) ![forks](https://img.shields.io/github/forks/kevenpanchal/CVE-2025-24801-GLPI-10.0.17-and-prior-Authenticated-RCE.svg)
 
+- [https://github.com/PeaMatNgu/cve-2025-24801-glpi](https://github.com/PeaMatNgu/cve-2025-24801-glpi) : ![starts](https://img.shields.io/github/stars/PeaMatNgu/cve-2025-24801-glpi.svg) ![forks](https://img.shields.io/github/forks/PeaMatNgu/cve-2025-24801-glpi.svg)
+
 ## CVE-2025-24799
  GLPI is a free asset and IT management software package. An unauthenticated user can perform a SQL injection through the inventory endpoint. This vulnerability is fixed in 10.0.18.
 
@@ -15234,6 +15236,8 @@ Bypass operating system verification via exploiting the NV_Read functionality du
 - [https://github.com/MCRideable3963/exploit-docs](https://github.com/MCRideable3963/exploit-docs) : ![starts](https://img.shields.io/github/stars/MCRideable3963/exploit-docs.svg) ![forks](https://img.shields.io/github/forks/MCRideable3963/exploit-docs.svg)
 
 - [https://github.com/ts2023dev/exploit-docs](https://github.com/ts2023dev/exploit-docs) : ![starts](https://img.shields.io/github/stars/ts2023dev/exploit-docs.svg) ![forks](https://img.shields.io/github/forks/ts2023dev/exploit-docs.svg)
+
+- [https://github.com/ts2023dev/RMASmoke-v2](https://github.com/ts2023dev/RMASmoke-v2) : ![starts](https://img.shields.io/github/stars/ts2023dev/RMASmoke-v2.svg) ![forks](https://img.shields.io/github/forks/ts2023dev/RMASmoke-v2.svg)
 
 ## CVE-2025-1098
  A security issue was discovered in  ingress-nginx https://github.com/kubernetes/ingress-nginx  where the `mirror-target` and `mirror-host` Ingress annotations can be used to inject arbitrary configuration into nginx. This can lead to arbitrary code execution in the context of the ingress-nginx controller, and disclosure of Secrets accessible to the controller. (Note that in the default installation, the controller can access all Secrets cluster-wide.)

@@ -973,6 +973,8 @@
 
 - [https://github.com/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon](https://github.com/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon) : ![starts](https://img.shields.io/github/stars/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon.svg) ![forks](https://img.shields.io/github/forks/KienHoSD/wp-file-manager-exploit-CVE-2020-25213-with-Zerologon.svg)
 
+- [https://github.com/Maalfer/CVE-2020-25213-exploit](https://github.com/Maalfer/CVE-2020-25213-exploit) : ![starts](https://img.shields.io/github/stars/Maalfer/CVE-2020-25213-exploit.svg) ![forks](https://img.shields.io/github/forks/Maalfer/CVE-2020-25213-exploit.svg)
+
 ## CVE-2020-25200
  Pritunl 1.29.2145.25 allows attackers to enumerate valid VPN usernames via a series of /auth/session login attempts. Initially, the server will return error 401. However, if the username is valid, then after 20 login attempts, the server will start responding with error 400. Invalid usernames will receive error 401 indefinitely. Note: This has been disputed by the vendor as not a vulnerability. They argue that this is an intended design
 
@@ -2254,6 +2256,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 - [https://github.com/0x0d3ad/CVE-2020-14008](https://github.com/0x0d3ad/CVE-2020-14008) : ![starts](https://img.shields.io/github/stars/0x0d3ad/CVE-2020-14008.svg) ![forks](https://img.shields.io/github/forks/0x0d3ad/CVE-2020-14008.svg)
 
 - [https://github.com/raflesiait/CVE-2020-14008---ManageEngine](https://github.com/raflesiait/CVE-2020-14008---ManageEngine) : ![starts](https://img.shields.io/github/stars/raflesiait/CVE-2020-14008---ManageEngine.svg) ![forks](https://img.shields.io/github/forks/raflesiait/CVE-2020-14008---ManageEngine.svg)
+
+- [https://github.com/raflesiait/CVE-2020-14008_ManageEngine](https://github.com/raflesiait/CVE-2020-14008_ManageEngine) : ![starts](https://img.shields.io/github/stars/raflesiait/CVE-2020-14008_ManageEngine.svg) ![forks](https://img.shields.io/github/forks/raflesiait/CVE-2020-14008_ManageEngine.svg)
 
 ## CVE-2020-14000
  MIT Lifelong Kindergarten Scratch scratch-vm before 0.2.0-prerelease.20200714185213 loads extension URLs from untrusted project.json files with certain _ characters, resulting in remote code execution because the URL's content is treated as a script and is executed as a worker. The responsible code is getExtensionIdForOpcode in serialization/sb3.js. The use of _ is incompatible with a protection mechanism in older versions, in which URLs were split and consequently deserialization attacks were prevented. NOTE: the scratch.mit.edu hosted service is not affected because of the lack of worker scripts.
