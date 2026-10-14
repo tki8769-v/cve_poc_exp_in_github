@@ -56,6 +56,10 @@
 
 - [https://github.com/jamezx32/CVE-2021-38003](https://github.com/jamezx32/CVE-2021-38003) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2021-38003.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2021-38003.svg)
 
+## CVE-2021-4034
+
+- [https://github.com/SerhiiMaruniak/CVE-2021-4034](https://github.com/SerhiiMaruniak/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/SerhiiMaruniak/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/SerhiiMaruniak/CVE-2021-4034.svg)
+
 ## CVE-2022-1364
 
 - [https://github.com/jamezx32/CVE-2022-1364](https://github.com/jamezx32/CVE-2022-1364) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2022-1364.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2022-1364.svg)

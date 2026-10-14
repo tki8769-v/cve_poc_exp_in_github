@@ -76900,6 +76900,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/zxybfq/CVE-2021-4034](https://github.com/zxybfq/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/zxybfq/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/zxybfq/CVE-2021-4034.svg)
 
+- [https://github.com/SerhiiMaruniak/CVE-2021-4034](https://github.com/SerhiiMaruniak/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/SerhiiMaruniak/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/SerhiiMaruniak/CVE-2021-4034.svg)
+
 ## CVE-2021-3975
  A use-after-free flaw was found in libvirt. The qemuMonitorUnregister() function in qemuProcessHandleMonitorEOF is called using multiple threads without being adequately protected by a monitor lock. This flaw could be triggered by the virConnectGetAllDomainStats API when the guest is shutting down. An unprivileged client with a read-only connection could use this flaw to perform a denial of service attack by causing the libvirt daemon to crash.
 
