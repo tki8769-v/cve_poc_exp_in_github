@@ -936,3 +936,8 @@
 {"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T20:54:15Z", "url": "https://github.com/masterwok/PoC-CVE-2025-55182", "url_ids": ["CVE-2025-55182"]}
 {"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T20:54:15Z", "url": "https://github.com/Alejandro609x/JEFAZO-CVE-2025-55182-Checker", "url_ids": ["CVE-2025-55182"]}
 {"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T20:54:15Z", "url": "https://github.com/satriarizka/CVE-2025-55182-Simple-Scanner", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-6358", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T21:12:12Z", "url": "https://github.com/NRTLOX/CVE-2025-63587", "url_ids": ["CVE-2025-63587"]}
+{"cve_id": "CVE-2026-3494", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T21:18:18Z", "url": "https://github.com/romain-deperne/CVE-2026-34940", "url_ids": ["CVE-2026-34940"]}
+{"cve_id": "CVE-2026-9216", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T21:18:21Z", "url": "https://github.com/0xSemizzz/CVE-2026-92162", "url_ids": ["CVE-2026-92162"]}
+{"cve_id": "CVE-2026-3652", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T21:18:24Z", "url": "https://github.com/deepwoodssec/CVE-2026-36522", "url_ids": ["CVE-2026-36522"]}
+{"cve_id": "CVE-2026-9268", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T21:18:26Z", "url": "https://github.com/grepstrength/CVE-2026-92680", "url_ids": ["CVE-2026-92680"]}

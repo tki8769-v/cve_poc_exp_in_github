@@ -2679,3 +2679,8 @@
 {"cve_id": "CVE-2026-39987", "ts": "2026-10-14T20:51:17Z", "type": "new_poc", "url": "https://github.com/LaArana12/CVE-2026-39987-Marimo-Preauth-RCE"}
 {"cve_id": "CVE-2020-14008", "ts": "2026-10-14T20:54:19Z", "type": "new_poc", "url": "https://github.com/raflesiait/CVE-2020-14008_ManageEngine"}
 {"cve_id": "CVE-2025-1122", "ts": "2026-10-14T20:55:10Z", "type": "new_poc", "url": "https://github.com/ts2023dev/RMASmoke-v2"}
+{"cve_id": "CVE-2026-107913", "ts": "2026-10-14T21:01:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-31635", "ts": "2026-10-14T21:11:11Z", "type": "new_poc", "url": "https://github.com/Koshmare-Blossom/DirtyDecrypt-go"}
+{"cve_id": "CVE-2018-6574", "ts": "2026-10-14T21:12:21Z", "type": "new_poc", "url": "https://github.com/hasharmujahid/CVE-2018-6574-go-get-RCE"}
+{"cve_id": "CVE-2018-6574", "ts": "2026-10-14T21:12:21Z", "type": "new_poc", "url": "https://github.com/Saptaktdk/go-get-RCE"}
+{"cve_id": "CVE-2026-26980", "ts": "2026-10-14T21:15:16Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-26980"}
