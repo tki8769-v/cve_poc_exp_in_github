@@ -7550,6 +7550,8 @@ the client's API server credentials to third parties.
 
 - [https://github.com/A1Lin/cve-2022-1364](https://github.com/A1Lin/cve-2022-1364) : ![starts](https://img.shields.io/github/stars/A1Lin/cve-2022-1364.svg) ![forks](https://img.shields.io/github/forks/A1Lin/cve-2022-1364.svg)
 
+- [https://github.com/jamezx32/CVE-2022-1364](https://github.com/jamezx32/CVE-2022-1364) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2022-1364.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2022-1364.svg)
+
 ## CVE-2022-1329
  The Elementor Website Builder plugin for WordPress is vulnerable to unauthorized execution of several AJAX actions due to a missing capability check in the ~/core/app/modules/onboarding/module.php file that make it possible for attackers to modify site data in addition to uploading malicious files that can be used to obtain remote code execution, in versions 3.6.0 to 3.6.2.
 

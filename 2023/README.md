@@ -2357,6 +2357,8 @@ The specific flaw exists within the smtp service, which listens on TCP port 25 b
 
 - [https://github.com/J3Ss0u/CVE-2023-41993](https://github.com/J3Ss0u/CVE-2023-41993) : ![starts](https://img.shields.io/github/stars/J3Ss0u/CVE-2023-41993.svg) ![forks](https://img.shields.io/github/forks/J3Ss0u/CVE-2023-41993.svg)
 
+- [https://github.com/jamezx32/CVE-2023-41993](https://github.com/jamezx32/CVE-2023-41993) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2023-41993.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2023-41993.svg)
+
 ## CVE-2023-41992
  The issue was addressed with improved checks. This issue is fixed in macOS Monterey 12.7, iOS 16.7 and iPadOS 16.7, macOS Ventura 13.6. A local attacker may be able to elevate their privileges. Apple is aware of a report that this issue may have been actively exploited against versions of iOS before iOS 16.7.
 
@@ -10200,6 +10202,8 @@ kernel memory, lateral privilege escalation, and container escape.
 - [https://github.com/tianstcht/CVE-2023-2033](https://github.com/tianstcht/CVE-2023-2033) : ![starts](https://img.shields.io/github/stars/tianstcht/CVE-2023-2033.svg) ![forks](https://img.shields.io/github/forks/tianstcht/CVE-2023-2033.svg)
 
 - [https://github.com/gretchenfrage/CVE-2023-2033-analysis](https://github.com/gretchenfrage/CVE-2023-2033-analysis) : ![starts](https://img.shields.io/github/stars/gretchenfrage/CVE-2023-2033-analysis.svg) ![forks](https://img.shields.io/github/forks/gretchenfrage/CVE-2023-2033-analysis.svg)
+
+- [https://github.com/jamezx32/CVE-2023-2033](https://github.com/jamezx32/CVE-2023-2033) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2023-2033.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2023-2033.svg)
 
 ## CVE-2023-2024
  Improper authentication in OpenBlue Enterprise Manager Data Collector versions prior to 3.2.5.75 allow access to an unauthorized user under certain circumstances.

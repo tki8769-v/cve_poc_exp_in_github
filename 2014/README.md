@@ -1096,6 +1096,8 @@
 
 - [https://github.com/CyberCTF/vulhub-openssl-cve-2014-0160](https://github.com/CyberCTF/vulhub-openssl-cve-2014-0160) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-openssl-cve-2014-0160.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-openssl-cve-2014-0160.svg)
 
+- [https://github.com/0xTaoZ/Heartbleed-CSP-project](https://github.com/0xTaoZ/Heartbleed-CSP-project) : ![starts](https://img.shields.io/github/stars/0xTaoZ/Heartbleed-CSP-project.svg) ![forks](https://img.shields.io/github/forks/0xTaoZ/Heartbleed-CSP-project.svg)
+
 ## CVE-2014-0130
  Directory traversal vulnerability in actionpack/lib/abstract_controller/base.rb in the implicit-render implementation in Ruby on Rails before 3.2.18, 4.0.x before 4.0.5, and 4.1.x before 4.1.1, when certain route globbing configurations are enabled, allows remote attackers to read arbitrary files via a crafted request.
 

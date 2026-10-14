@@ -3446,6 +3446,8 @@ UPDATE September 14, 2021: Microsoft has released security updates to address th
 
 - [https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003](https://github.com/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003) : ![starts](https://img.shields.io/github/stars/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003.svg) ![forks](https://img.shields.io/github/forks/SpiralBL0CK/Chrome-V8-RCE-CVE-2021-38003.svg)
 
+- [https://github.com/jamezx32/CVE-2021-38003](https://github.com/jamezx32/CVE-2021-38003) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2021-38003.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2021-38003.svg)
+
 ## CVE-2021-38001
  Type confusion in V8 in Google Chrome prior to 95.0.4638.69 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.
 
@@ -4698,6 +4700,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 ## CVE-2021-30535
 
 - [https://github.com/califio/icu4x-crubit-demo](https://github.com/califio/icu4x-crubit-demo) : ![starts](https://img.shields.io/github/stars/califio/icu4x-crubit-demo.svg) ![forks](https://img.shields.io/github/forks/califio/icu4x-crubit-demo.svg)
+
+## CVE-2021-30517
+
+- [https://github.com/jamezx32/CVE-2021-30517](https://github.com/jamezx32/CVE-2021-30517) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2021-30517.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2021-30517.svg)
 
 ## CVE-2021-30481
  Valve Steam before 2021-04-17, when a Source engine game is installed, allows remote authenticated users to execute arbitrary code because of a buffer overflow that occurs for a Steam invite after one click.

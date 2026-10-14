@@ -39,6 +39,10 @@
 
 - [https://github.com/murrez/CVE-2026-107806](https://github.com/murrez/CVE-2026-107806) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-107806.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-107806.svg)
 
+## CVE-2026-107692
+
+- [https://github.com/thewhatdohe/CVE-2026-107692](https://github.com/thewhatdohe/CVE-2026-107692) : ![starts](https://img.shields.io/github/stars/thewhatdohe/CVE-2026-107692.svg) ![forks](https://img.shields.io/github/forks/thewhatdohe/CVE-2026-107692.svg)
+
 ## CVE-2026-107406
 > Memory overflow vulnerability leading to Remote Code Execution or Denial of Service Vulnerability in NetScaler ADC.
 
@@ -188,6 +192,11 @@ device operation and availability. No authentication, session e
 ## CVE-2026-104826
 
 - [https://github.com/KiwKNR/CVE-2026-104826](https://github.com/KiwKNR/CVE-2026-104826) : ![starts](https://img.shields.io/github/stars/KiwKNR/CVE-2026-104826.svg) ![forks](https://img.shields.io/github/forks/KiwKNR/CVE-2026-104826.svg)
+
+## CVE-2026-104748
+> The SimpleForm – Form Maker to Chat Apps with Quiz, Poll and Multi Lead Notifications plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including, 3.10.0 This is due to the `wp_ajax_nopriv_simpleform_wp_register` AJAX action lacking any capability check for role assignment and the `save_custom_fields_to_user_meta()` function using an exclusion list that omits `wp_capabilities`, combined with `get_form_settings()` returning a hard-coded defaults array that unco
+
+- [https://github.com/joshuavanderpoll/CVE-2026-104748](https://github.com/joshuavanderpoll/CVE-2026-104748) : ![starts](https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-104748.svg) ![forks](https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-104748.svg)
 
 ## CVE-2026-104711
 > Improper neutralization of special elements used in an expression language statement (&#x27;Expression Language Injection&#x27;) vulnerability in Apache Struts. If the application is configured to use the legacy RESTful action mapper, a crafted request can inject an OGNL expression that may lead to remote code execution. Struts 7 is affected only when the OGNL allowlist is disabled; it is enabled by default. Applications using the default action mapper, the restful2 mapper, or the Struts REST plugin are n
@@ -537,6 +546,11 @@ This issue affects Mediawiki - UploadWizard Extension: from * before 1.46.1, 1.4
 This issue affects Mediawiki - Wikibase Extension: from * before 1.46.1, 1.45.5, 1.43.10.
 
 - [https://github.com/BomboBombone/CVE-2026-100380](https://github.com/BomboBombone/CVE-2026-100380) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-100380.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-100380.svg)
+
+## CVE-2026-97657
+> The Abandoned Cart Pro for WooCommerce plugin for WordPress is vulnerable to Authentication Bypass via Malleable Encryption and Bypassable HMAC in all versions up to, and including, 10.8.0. This is due to the use of MAC-free AES-CTR encryption for cart-recovery link tokens — where the 8-byte CTR nonce is carried inside the ciphertext blob and the encryption key is looked up using the attacker-supplied `user_email` GET parameter — combined with an HMAC nonce check in `wcap_email_track_links()` th
+
+- [https://github.com/murrez/CVE-2026-97657](https://github.com/murrez/CVE-2026-97657) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-97657.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-97657.svg)
 
 ## CVE-2026-97347
 > The Post Views Stats Counter plugin for WordPress is vulnerable to Stored Cross-Site Scripting via User-Agent Header in all versions up to, and including, 1.1.7 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. The plugin&#x27;s only input filter is a substring blacklist for known bot signatures (e.g. &#x27;bot&#x27;, &#x27;spider&#x27;, &#x27;crawler&#x27;), which ca
@@ -905,6 +919,13 @@ The Unauthenticated Stored XSS vulnerability in the WordPress core can be reprod
 This issue affects AKINSOFT WOLVOX Control Panel: from 26.02.25 before 26.02.26.
 
 - [https://github.com/Enay-Project/CVE-2026-92555](https://github.com/Enay-Project/CVE-2026-92555) : ![starts](https://img.shields.io/github/stars/Enay-Project/CVE-2026-92555.svg) ![forks](https://img.shields.io/github/forks/Enay-Project/CVE-2026-92555.svg)
+
+## CVE-2026-92392
+> During an upload, curl mishandles HTTP/2 `RST_STREAM` received from the server
+(with reason `HTTP_1_1_REQUIRED` or `REFUSED_STREAM`) leading to a use after
+free of a `struct Curl_easy` object.
+
+- [https://github.com/ashu7ank/CVE-2026-92392](https://github.com/ashu7ank/CVE-2026-92392) : ![starts](https://img.shields.io/github/stars/ashu7ank/CVE-2026-92392.svg) ![forks](https://img.shields.io/github/forks/ashu7ank/CVE-2026-92392.svg)
 
 ## CVE-2026-92247
  A security vulnerability has been detected in synaptikcms synaptik-cms up to 1.3.4.4. This affects the function rename of the file admin/file-manager.php of the component Admin File Manager. The manipulation leads to unrestricted upload. The attack can be initiated remotely. The exploit has been disclosed publicly and may be used. Upgrading to version 1.3.5 is able to mitigate this issue. It is suggested to upgrade the affected component.
@@ -1461,6 +1482,8 @@ This issue w
 - [https://github.com/Eliot-code/CVE-2026-85046](https://github.com/Eliot-code/CVE-2026-85046) : ![starts](https://img.shields.io/github/stars/Eliot-code/CVE-2026-85046.svg) ![forks](https://img.shields.io/github/forks/Eliot-code/CVE-2026-85046.svg)
 
 - [https://github.com/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine](https://github.com/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine) : ![starts](https://img.shields.io/github/stars/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine.svg) ![forks](https://img.shields.io/github/forks/ubitquity/CVE-2026-85046-Patch-confusion-zero-day-vulnerability-in-Google-Chrome-s-V8-engine.svg)
+
+- [https://github.com/jamezx32/CVE-2026-85046](https://github.com/jamezx32/CVE-2026-85046) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2026-85046.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2026-85046.svg)
 
 ## CVE-2026-85045
  Race condition in V8 in Google Chrome prior to 152.0.7977.82 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)
@@ -2408,6 +2431,25 @@ create the HEARTBEAT.
 
 - [https://github.com/TarPeg007/CVE-2026-74586](https://github.com/TarPeg007/CVE-2026-74586) : ![starts](https://img.shields.io/github/stars/TarPeg007/CVE-2026-74586.svg) ![forks](https://img.shields.io/github/forks/TarPeg007/CVE-2026-74586.svg)
 
+## CVE-2026-74580
+> In the Linux kernel, the following vulnerability has been resolved:
+
+vhost: reset the vring metadata cache on vring reconfiguration
+
+vq-&gt;meta_iotlb[] caches the vhost_iotlb_map that backs each vring
+metadata region, and iotlb_access_ok() returns early on a cache hit,
+taking the hit as proof that the region has already been validated:
+
+	if (vhost_vq_meta_fetch(vq, addr, len, type))
+		return true;
+
+The cache is reset on VHOST_IOTLB_UPDATE and VHOST_IOTLB_INVALIDATE, on
+device IOTLB (re)initialisat
+
+- [https://github.com/ABC00012345/CVE-2026-74580](https://github.com/ABC00012345/CVE-2026-74580) : ![starts](https://img.shields.io/github/stars/ABC00012345/CVE-2026-74580.svg) ![forks](https://img.shields.io/github/forks/ABC00012345/CVE-2026-74580.svg)
+
+- [https://github.com/techupdate24/linux-kernel-cve-2026-74580-vghost](https://github.com/techupdate24/linux-kernel-cve-2026-74580-vghost) : ![starts](https://img.shields.io/github/stars/techupdate24/linux-kernel-cve-2026-74580-vghost.svg) ![forks](https://img.shields.io/github/forks/techupdate24/linux-kernel-cve-2026-74580-vghost.svg)
+
 ## CVE-2026-74469
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3175,6 +3217,10 @@ removed.
  ArcadeDB before 26.7.2 (arcadedb-engine) allows trigger scripts to look up host classes in java.lang.* (via Java.type) because ScriptTriggerExecutor adds java.lang.* to the allowed packages. An authenticated user with UPDATE_SCHEMA permission can create a JavaScript trigger that invokes java.lang.Runtime.getRuntime().exec() (or ProcessBuilder), achieving OS command execution when the trigger fires.
 
 - [https://github.com/0xdak/CVE-2026-67340_exploit](https://github.com/0xdak/CVE-2026-67340_exploit) : ![starts](https://img.shields.io/github/stars/0xdak/CVE-2026-67340_exploit.svg) ![forks](https://img.shields.io/github/forks/0xdak/CVE-2026-67340_exploit.svg)
+
+## CVE-2026-67281
+
+- [https://github.com/sohel160/Webfig-jsproxy-unauthenticated-file-read-CVE-2026-67281-](https://github.com/sohel160/Webfig-jsproxy-unauthenticated-file-read-CVE-2026-67281-) : ![starts](https://img.shields.io/github/stars/sohel160/Webfig-jsproxy-unauthenticated-file-read-CVE-2026-67281-.svg) ![forks](https://img.shields.io/github/forks/sohel160/Webfig-jsproxy-unauthenticated-file-read-CVE-2026-67281-.svg)
 
 ## CVE-2026-67279
 > RouterOS SSH enters the connection protocol after a client-requested rekey even though user authentication was never attempted, allowing an unauthenticated client to open a session channel and send an exec request. On affected builds the server dispatches the command, enabling unauthenticated creation, overwrite, and reconstruction of files in the RouterOS managed file namespace, including support files containing configuration and diagnostic data.This issue was fixed in versions: 6.49.21 (Long-
@@ -5535,6 +5581,8 @@ Users are recommended to upgrade to version 11.0.23, 10.1.56 or 9.0.119 which fi
 
 - [https://github.com/ZeroDayEvil/CVE-2026-54121](https://github.com/ZeroDayEvil/CVE-2026-54121) : ![starts](https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-54121.svg) ![forks](https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-54121.svg)
 
+- [https://github.com/ushst/CVE-2026-54121-adcs-chase-nxc](https://github.com/ushst/CVE-2026-54121-adcs-chase-nxc) : ![starts](https://img.shields.io/github/stars/ushst/CVE-2026-54121-adcs-chase-nxc.svg) ![forks](https://img.shields.io/github/forks/ushst/CVE-2026-54121-adcs-chase-nxc.svg)
+
 ## CVE-2026-54107
  Concurrent execution using shared resource with improper synchronization ('race condition') in Windows Win32K allows an authorized attacker to elevate privileges locally.
 
@@ -7061,6 +7109,8 @@ This issue affects Gravity Forms: from n/a through 2.10.0.1.
 
 - [https://github.com/Ethicalgrey/phpBB-CVE-2026-48611](https://github.com/Ethicalgrey/phpBB-CVE-2026-48611) : ![starts](https://img.shields.io/github/stars/Ethicalgrey/phpBB-CVE-2026-48611.svg) ![forks](https://img.shields.io/github/forks/Ethicalgrey/phpBB-CVE-2026-48611.svg)
 
+- [https://github.com/lxdwnpiper/CVE-2026-48611-phpBB](https://github.com/lxdwnpiper/CVE-2026-48611-phpBB) : ![starts](https://img.shields.io/github/stars/lxdwnpiper/CVE-2026-48611-phpBB.svg) ![forks](https://img.shields.io/github/forks/lxdwnpiper/CVE-2026-48611-phpBB.svg)
+
 ## CVE-2026-48598
  Improper Encoding or Escaping of Output vulnerability in elixir-tesla tesla allows multipart part header injection via unescaped Content-Disposition parameter values.
 
@@ -8217,6 +8267,8 @@ Not affected:
 - [https://github.com/shinthink/solrradar](https://github.com/shinthink/solrradar) : ![starts](https://img.shields.io/github/stars/shinthink/solrradar.svg) ![forks](https://img.shields.io/github/forks/shinthink/solrradar.svg)
 
 - [https://github.com/q0524/CVE-2026-44825_test](https://github.com/q0524/CVE-2026-44825_test) : ![starts](https://img.shields.io/github/stars/q0524/CVE-2026-44825_test.svg) ![forks](https://img.shields.io/github/forks/q0524/CVE-2026-44825_test.svg)
+
+- [https://github.com/q0524/cve-2026-44825-challenge](https://github.com/q0524/cve-2026-44825-challenge) : ![starts](https://img.shields.io/github/stars/q0524/cve-2026-44825-challenge.svg) ![forks](https://img.shields.io/github/forks/q0524/cve-2026-44825-challenge.svg)
 
 ## CVE-2026-44789
  n8n is an open source workflow automation platform. Prior to 1.123.43, 2.22.1, and 2.20.7, an authenticated user with permission to create or modify workflows could achieve global prototype pollution via an unvalidated pagination parameter in the HTTP Request node. Combined with other techniques this could lead to RCE on the instance. This vulnerability is fixed in 1.123.43, 2.22.1, and 2.20.7.
@@ -21755,6 +21807,8 @@ The specific flaw exists within the handling of the code parameter provided to t
 - [https://github.com/HORKimhab/CVE-2026-0768](https://github.com/HORKimhab/CVE-2026-0768) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-0768.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-0768.svg)
 
 - [https://github.com/rmhowe425/POC-CVE-2026-0768](https://github.com/rmhowe425/POC-CVE-2026-0768) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-0768.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-0768.svg)
+
+- [https://github.com/opthandsome/langflow_diff_cve-2026-0768](https://github.com/opthandsome/langflow_diff_cve-2026-0768) : ![starts](https://img.shields.io/github/stars/opthandsome/langflow_diff_cve-2026-0768.svg) ![forks](https://img.shields.io/github/forks/opthandsome/langflow_diff_cve-2026-0768.svg)
 
 ## CVE-2026-0766
  Open WebU's investigation further investigation showed that this is intended functionality of the Plugins extension system, in which users granted the relevant permission author Python that the server executes by design, and not a security issue. https://docs.openwebui.com/security/vendor-dispositions/cve-2026-0766

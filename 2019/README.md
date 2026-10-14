@@ -5326,6 +5326,8 @@ The security update addresses the vulnerability by correcting how Hyper-V valida
 
 - [https://github.com/NatteeSetobol/CVE-2019-0567-MS-Edge](https://github.com/NatteeSetobol/CVE-2019-0567-MS-Edge) : ![starts](https://img.shields.io/github/stars/NatteeSetobol/CVE-2019-0567-MS-Edge.svg) ![forks](https://img.shields.io/github/forks/NatteeSetobol/CVE-2019-0567-MS-Edge.svg)
 
+- [https://github.com/jamezx32/CVE-2019-0567](https://github.com/jamezx32/CVE-2019-0567) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2019-0567.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2019-0567.svg)
+
 ## CVE-2019-0555
  An elevation of privilege vulnerability exists in the Microsoft XmlDocument class that could allow an attacker to escape from the AppContainer sandbox in the browser, aka "Microsoft XmlDocument Elevation of Privilege Vulnerability." This affects Windows Server 2012 R2, Windows RT 8.1, Windows Server 2012, Windows Server 2019, Windows Server 2016, Windows 8.1, Windows 10, Windows 10 Servers.
 

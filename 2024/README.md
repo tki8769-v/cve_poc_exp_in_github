@@ -7519,6 +7519,8 @@ at least version 7.4.0 and 7.2.0 through 7.2.6 and 7.0.1 through 7.0.6 and 6.4.5
 
 - [https://github.com/Rohitberiwala/CVE-2024-23222-Coruna-Exploit-Kit-Deobfuscated](https://github.com/Rohitberiwala/CVE-2024-23222-Coruna-Exploit-Kit-Deobfuscated) : ![starts](https://img.shields.io/github/stars/Rohitberiwala/CVE-2024-23222-Coruna-Exploit-Kit-Deobfuscated.svg) ![forks](https://img.shields.io/github/forks/Rohitberiwala/CVE-2024-23222-Coruna-Exploit-Kit-Deobfuscated.svg)
 
+- [https://github.com/jamezx32/CVE-2024-23222](https://github.com/jamezx32/CVE-2024-23222) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2024-23222.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2024-23222.svg)
+
 ## CVE-2024-23208
  The issue was addressed with improved memory handling. This issue is fixed in iOS 17.3 and iPadOS 17.3, macOS Sonoma 14.3, tvOS 17.3, watchOS 10.3. An app may be able to execute arbitrary code with kernel privileges.
 
@@ -10556,6 +10558,8 @@ become available.
 
 - [https://github.com/Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection) : ![starts](https://img.shields.io/github/stars/Alchemist3dot14/CVE-2024-5274-Detection.svg) ![forks](https://img.shields.io/github/forks/Alchemist3dot14/CVE-2024-5274-Detection.svg)
 
+- [https://github.com/jamezx32/CVE-2024-5274](https://github.com/jamezx32/CVE-2024-5274) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2024-5274.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2024-5274.svg)
+
 ## CVE-2024-5246
  NETGEAR ProSAFE Network Management System Tomcat Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of NETGEAR ProSAFE Network Management System. Authentication is required to exploit this vulnerability.
 
@@ -11754,6 +11758,8 @@ Through a series of complex obfuscations, the liblzma build process extracts a p
 - [https://github.com/jjyuorg/reproduce-cve-2024-2887](https://github.com/jjyuorg/reproduce-cve-2024-2887) : ![starts](https://img.shields.io/github/stars/jjyuorg/reproduce-cve-2024-2887.svg) ![forks](https://img.shields.io/github/forks/jjyuorg/reproduce-cve-2024-2887.svg)
 
 - [https://github.com/ad3210/CVE-2024-2887-REPORT](https://github.com/ad3210/CVE-2024-2887-REPORT) : ![starts](https://img.shields.io/github/stars/ad3210/CVE-2024-2887-REPORT.svg) ![forks](https://img.shields.io/github/forks/ad3210/CVE-2024-2887-REPORT.svg)
+
+- [https://github.com/jamezx32/CVE-2024-2887](https://github.com/jamezx32/CVE-2024-2887) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2024-2887.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2024-2887.svg)
 
 ## CVE-2024-2879
  The LayerSlider plugin for WordPress is vulnerable to SQL Injection via the ls_get_popup_markup action in versions 7.9.11 and 7.10.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.

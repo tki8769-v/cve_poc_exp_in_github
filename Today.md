@@ -1,11 +1,47 @@
 # Update 2026-10-14
+## CVE-2012-2459
+
+- [https://github.com/GJ504b123/merkle-lab](https://github.com/GJ504b123/merkle-lab) : ![starts](https://img.shields.io/github/stars/GJ504b123/merkle-lab.svg) ![forks](https://img.shields.io/github/forks/GJ504b123/merkle-lab.svg)
+
+## CVE-2014-0160
+
+- [https://github.com/0xTaoZ/Heartbleed-CSP-project](https://github.com/0xTaoZ/Heartbleed-CSP-project) : ![starts](https://img.shields.io/github/stars/0xTaoZ/Heartbleed-CSP-project.svg) ![forks](https://img.shields.io/github/forks/0xTaoZ/Heartbleed-CSP-project.svg)
+
+## CVE-2016-5195
+
+- [https://github.com/Mr-Ochobot/CVE-2016-5195](https://github.com/Mr-Ochobot/CVE-2016-5195) : ![starts](https://img.shields.io/github/stars/Mr-Ochobot/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/Mr-Ochobot/CVE-2016-5195.svg)
+
 ## CVE-2017-11882
 
 - [https://github.com/SyedaQuratulain098/factura-malware-analysis-lab](https://github.com/SyedaQuratulain098/factura-malware-analysis-lab) : ![starts](https://img.shields.io/github/stars/SyedaQuratulain098/factura-malware-analysis-lab.svg) ![forks](https://img.shields.io/github/forks/SyedaQuratulain098/factura-malware-analysis-lab.svg)
 
+## CVE-2018-4125
+
+- [https://github.com/jamezx32/CVE-2018-4125-4161-4162-4163](https://github.com/jamezx32/CVE-2018-4125-4161-4162-4163) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2018-4125-4161-4162-4163.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2018-4125-4161-4162-4163.svg)
+
+## CVE-2018-7600
+
+- [https://github.com/SanCody/DC1-Penetration-Testing-Report](https://github.com/SanCody/DC1-Penetration-Testing-Report) : ![starts](https://img.shields.io/github/stars/SanCody/DC1-Penetration-Testing-Report.svg) ![forks](https://img.shields.io/github/forks/SanCody/DC1-Penetration-Testing-Report.svg)
+
+## CVE-2019-0567
+
+- [https://github.com/jamezx32/CVE-2019-0567](https://github.com/jamezx32/CVE-2019-0567) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2019-0567.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2019-0567.svg)
+
 ## CVE-2021-21413
 
 - [https://github.com/sm1ee/CVE-2021-21413](https://github.com/sm1ee/CVE-2021-21413) : ![starts](https://img.shields.io/github/stars/sm1ee/CVE-2021-21413.svg) ![forks](https://img.shields.io/github/forks/sm1ee/CVE-2021-21413.svg)
+
+## CVE-2021-30517
+
+- [https://github.com/jamezx32/CVE-2021-30517](https://github.com/jamezx32/CVE-2021-30517) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2021-30517.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2021-30517.svg)
+
+## CVE-2021-38003
+
+- [https://github.com/jamezx32/CVE-2021-38003](https://github.com/jamezx32/CVE-2021-38003) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2021-38003.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2021-38003.svg)
+
+## CVE-2022-1364
+
+- [https://github.com/jamezx32/CVE-2022-1364](https://github.com/jamezx32/CVE-2022-1364) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2022-1364.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2022-1364.svg)
 
 ## CVE-2022-22965
 
@@ -28,22 +64,63 @@
 
 - [https://github.com/mpse-engineering/BLU_G35](https://github.com/mpse-engineering/BLU_G35) : ![starts](https://img.shields.io/github/stars/mpse-engineering/BLU_G35.svg) ![forks](https://img.shields.io/github/forks/mpse-engineering/BLU_G35.svg)
 
+## CVE-2023-2033
+
+- [https://github.com/jamezx32/CVE-2023-2033](https://github.com/jamezx32/CVE-2023-2033) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2023-2033.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2023-2033.svg)
+
+## CVE-2023-41993
+
+- [https://github.com/jamezx32/CVE-2023-41993](https://github.com/jamezx32/CVE-2023-41993) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2023-41993.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2023-41993.svg)
+
 ## CVE-2023-5612
 
 - [https://github.com/ConstantineFedorov/Review.CVE-2023-5612](https://github.com/ConstantineFedorov/Review.CVE-2023-5612) : ![starts](https://img.shields.io/github/stars/ConstantineFedorov/Review.CVE-2023-5612.svg) ![forks](https://img.shields.io/github/forks/ConstantineFedorov/Review.CVE-2023-5612.svg)
+
+## CVE-2024-23222
+
+- [https://github.com/jamezx32/CVE-2024-23222](https://github.com/jamezx32/CVE-2024-23222) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2024-23222.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2024-23222.svg)
+
+## CVE-2024-2887
+
+- [https://github.com/jamezx32/CVE-2024-2887](https://github.com/jamezx32/CVE-2024-2887) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2024-2887.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2024-2887.svg)
 
 ## CVE-2024-4577
 
 - [https://github.com/lockbitblack-ai/CVE-2024-4577-new](https://github.com/lockbitblack-ai/CVE-2024-4577-new) : ![starts](https://img.shields.io/github/stars/lockbitblack-ai/CVE-2024-4577-new.svg) ![forks](https://img.shields.io/github/forks/lockbitblack-ai/CVE-2024-4577-new.svg)
 
+## CVE-2024-5274
+
+- [https://github.com/jamezx32/CVE-2024-5274](https://github.com/jamezx32/CVE-2024-5274) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2024-5274.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2024-5274.svg)
+
+## CVE-2025-12433
+
+- [https://github.com/jamezx32/CVE-2025-12433](https://github.com/jamezx32/CVE-2025-12433) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2025-12433.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2025-12433.svg)
+
+## CVE-2025-13224
+
+- [https://github.com/jamezx32/CVE-2025-13224](https://github.com/jamezx32/CVE-2025-13224) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2025-13224.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2025-13224.svg)
+
 ## CVE-2025-49132
 
 - [https://github.com/2t8a/CVE-2025-49132](https://github.com/2t8a/CVE-2025-49132) : ![starts](https://img.shields.io/github/stars/2t8a/CVE-2025-49132.svg) ![forks](https://img.shields.io/github/forks/2t8a/CVE-2025-49132.svg)
+
+## CVE-2026-0768
+
+- [https://github.com/opthandsome/langflow_diff_cve-2026-0768](https://github.com/opthandsome/langflow_diff_cve-2026-0768) : ![starts](https://img.shields.io/github/stars/opthandsome/langflow_diff_cve-2026-0768.svg) ![forks](https://img.shields.io/github/forks/opthandsome/langflow_diff_cve-2026-0768.svg)
 
 ## CVE-2026-104711
 > Improper neutralization of special elements used in an expression language statement (&#x27;Expression Language Injection&#x27;) vulnerability in Apache Struts. If the application is configured to use the legacy RESTful action mapper, a crafted request can inject an OGNL expression that may lead to remote code execution. Struts 7 is affected only when the OGNL allowlist is disabled; it is enabled by default. Applications using the default action mapper, the restful2 mapper, or the Struts REST plugin are n
 
 - [https://github.com/uday952/CVE-2026-104711-POC---Brand-New](https://github.com/uday952/CVE-2026-104711-POC---Brand-New) : ![starts](https://img.shields.io/github/stars/uday952/CVE-2026-104711-POC---Brand-New.svg) ![forks](https://img.shields.io/github/forks/uday952/CVE-2026-104711-POC---Brand-New.svg)
+
+## CVE-2026-104748
+> The SimpleForm – Form Maker to Chat Apps with Quiz, Poll and Multi Lead Notifications plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including, 3.10.0 This is due to the `wp_ajax_nopriv_simpleform_wp_register` AJAX action lacking any capability check for role assignment and the `save_custom_fields_to_user_meta()` function using an exclusion list that omits `wp_capabilities`, combined with `get_form_settings()` returning a hard-coded defaults array that unco
+
+- [https://github.com/joshuavanderpoll/CVE-2026-104748](https://github.com/joshuavanderpoll/CVE-2026-104748) : ![starts](https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-104748.svg) ![forks](https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-104748.svg)
+
+## CVE-2026-107692
+
+- [https://github.com/thewhatdohe/CVE-2026-107692](https://github.com/thewhatdohe/CVE-2026-107692) : ![starts](https://img.shields.io/github/stars/thewhatdohe/CVE-2026-107692.svg) ![forks](https://img.shields.io/github/forks/thewhatdohe/CVE-2026-107692.svg)
 
 ## CVE-2026-107821
 > MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, and 13.0.2, MariaDB insufficiently validated counts, offsets, lengths, and field boundaries in FRM metadata while opening binary FRM files. An attacker able to place a crafted FRM file in the data directory could trigger out-of-bounds reads or writes, crash the server, or potentially execute code. This issue is fixed in versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, a
@@ -78,16 +155,66 @@
 
 - [https://github.com/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456](https://github.com/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456) : ![starts](https://img.shields.io/github/stars/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456.svg) ![forks](https://img.shields.io/github/forks/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456.svg)
 
+## CVE-2026-44825
+
+- [https://github.com/q0524/cve-2026-44825-challenge](https://github.com/q0524/cve-2026-44825-challenge) : ![starts](https://img.shields.io/github/stars/q0524/cve-2026-44825-challenge.svg) ![forks](https://img.shields.io/github/forks/q0524/cve-2026-44825-challenge.svg)
+
+## CVE-2026-48611
+
+- [https://github.com/lxdwnpiper/CVE-2026-48611-phpBB](https://github.com/lxdwnpiper/CVE-2026-48611-phpBB) : ![starts](https://img.shields.io/github/stars/lxdwnpiper/CVE-2026-48611-phpBB.svg) ![forks](https://img.shields.io/github/forks/lxdwnpiper/CVE-2026-48611-phpBB.svg)
+
+## CVE-2026-54121
+
+- [https://github.com/ushst/CVE-2026-54121-adcs-chase-nxc](https://github.com/ushst/CVE-2026-54121-adcs-chase-nxc) : ![starts](https://img.shields.io/github/stars/ushst/CVE-2026-54121-adcs-chase-nxc.svg) ![forks](https://img.shields.io/github/forks/ushst/CVE-2026-54121-adcs-chase-nxc.svg)
+
 ## CVE-2026-63223
 
 - [https://github.com/myeongji1/cve-2026-63223-ctf](https://github.com/myeongji1/cve-2026-63223-ctf) : ![starts](https://img.shields.io/github/stars/myeongji1/cve-2026-63223-ctf.svg) ![forks](https://img.shields.io/github/forks/myeongji1/cve-2026-63223-ctf.svg)
+
+## CVE-2026-67281
+
+- [https://github.com/sohel160/Webfig-jsproxy-unauthenticated-file-read-CVE-2026-67281-](https://github.com/sohel160/Webfig-jsproxy-unauthenticated-file-read-CVE-2026-67281-) : ![starts](https://img.shields.io/github/stars/sohel160/Webfig-jsproxy-unauthenticated-file-read-CVE-2026-67281-.svg) ![forks](https://img.shields.io/github/forks/sohel160/Webfig-jsproxy-unauthenticated-file-read-CVE-2026-67281-.svg)
+
+## CVE-2026-74580
+> In the Linux kernel, the following vulnerability has been resolved:
+
+vhost: reset the vring metadata cache on vring reconfiguration
+
+vq-&gt;meta_iotlb[] caches the vhost_iotlb_map that backs each vring
+metadata region, and iotlb_access_ok() returns early on a cache hit,
+taking the hit as proof that the region has already been validated:
+
+	if (vhost_vq_meta_fetch(vq, addr, len, type))
+		return true;
+
+The cache is reset on VHOST_IOTLB_UPDATE and VHOST_IOTLB_INVALIDATE, on
+device IOTLB (re)initialisat
+
+- [https://github.com/ABC00012345/CVE-2026-74580](https://github.com/ABC00012345/CVE-2026-74580) : ![starts](https://img.shields.io/github/stars/ABC00012345/CVE-2026-74580.svg) ![forks](https://img.shields.io/github/forks/ABC00012345/CVE-2026-74580.svg)
+- [https://github.com/techupdate24/linux-kernel-cve-2026-74580-vghost](https://github.com/techupdate24/linux-kernel-cve-2026-74580-vghost) : ![starts](https://img.shields.io/github/stars/techupdate24/linux-kernel-cve-2026-74580-vghost.svg) ![forks](https://img.shields.io/github/forks/techupdate24/linux-kernel-cve-2026-74580-vghost.svg)
 
 ## CVE-2026-84411
 > The web management service in affected RouterOS versions contains an integer underflow in its HTTP request body handling that is reachable before authentication. This can be leveraged by an unauthenticated network attacker to achieve arbitrary code execution as root, or to cause a denial of service, using a single crafted request.
 
 - [https://github.com/MikroTikDojo/CVE-2026-84411](https://github.com/MikroTikDojo/CVE-2026-84411) : ![starts](https://img.shields.io/github/stars/MikroTikDojo/CVE-2026-84411.svg) ![forks](https://img.shields.io/github/forks/MikroTikDojo/CVE-2026-84411.svg)
 
+## CVE-2026-85046
+
+- [https://github.com/jamezx32/CVE-2026-85046](https://github.com/jamezx32/CVE-2026-85046) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2026-85046.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2026-85046.svg)
+
 ## CVE-2026-85097
 > The Bricksforge plugin for WordPress is vulnerable to unauthenticated arbitrary file upload in versions up to, and including, 3.1.8.9. This is due to insufficient validation of the attacker-controlled URL field in the &#x27;temporaryFileUploads&#x27; parameter during form submission. An unauthenticated attacker can first obtain a valid nonce via the bricksforge_regenerate_nonce AJAX endpoint, then upload a GIF/PHP polyglot file to the temporary upload directory where MIME type validation is correctly perf
 
 - [https://github.com/RootMantap/CVE-2026-85097](https://github.com/RootMantap/CVE-2026-85097) : ![starts](https://img.shields.io/github/stars/RootMantap/CVE-2026-85097.svg) ![forks](https://img.shields.io/github/forks/RootMantap/CVE-2026-85097.svg)
+
+## CVE-2026-92392
+> During an upload, curl mishandles HTTP/2 `RST_STREAM` received from the server
+(with reason `HTTP_1_1_REQUIRED` or `REFUSED_STREAM`) leading to a use after
+free of a `struct Curl_easy` object.
+
+- [https://github.com/ashu7ank/CVE-2026-92392](https://github.com/ashu7ank/CVE-2026-92392) : ![starts](https://img.shields.io/github/stars/ashu7ank/CVE-2026-92392.svg) ![forks](https://img.shields.io/github/forks/ashu7ank/CVE-2026-92392.svg)
+
+## CVE-2026-97657
+> The Abandoned Cart Pro for WooCommerce plugin for WordPress is vulnerable to Authentication Bypass via Malleable Encryption and Bypassable HMAC in all versions up to, and including, 10.8.0. This is due to the use of MAC-free AES-CTR encryption for cart-recovery link tokens — where the 8-byte CTR nonce is carried inside the ciphertext blob and the encryption key is looked up using the attacker-supplied `user_email` GET parameter — combined with an HMAC nonce check in `wcap_email_track_links()` th
+
+- [https://github.com/murrez/CVE-2026-97657](https://github.com/murrez/CVE-2026-97657) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-97657.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-97657.svg)
