@@ -32,6 +32,10 @@
 
 - [https://github.com/ConstantineFedorov/Review.CVE-2023-5612](https://github.com/ConstantineFedorov/Review.CVE-2023-5612) : ![starts](https://img.shields.io/github/stars/ConstantineFedorov/Review.CVE-2023-5612.svg) ![forks](https://img.shields.io/github/forks/ConstantineFedorov/Review.CVE-2023-5612.svg)
 
+## CVE-2024-4577
+
+- [https://github.com/lockbitblack-ai/CVE-2024-4577-new](https://github.com/lockbitblack-ai/CVE-2024-4577-new) : ![starts](https://img.shields.io/github/stars/lockbitblack-ai/CVE-2024-4577-new.svg) ![forks](https://img.shields.io/github/forks/lockbitblack-ai/CVE-2024-4577-new.svg)
+
 ## CVE-2025-49132
 
 - [https://github.com/2t8a/CVE-2025-49132](https://github.com/2t8a/CVE-2025-49132) : ![starts](https://img.shields.io/github/stars/2t8a/CVE-2025-49132.svg) ![forks](https://img.shields.io/github/forks/2t8a/CVE-2025-49132.svg)

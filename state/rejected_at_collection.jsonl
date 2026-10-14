@@ -756,3 +756,4 @@
 {"cve_id": "CVE-2026-2828", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T06:27:24Z", "url": "https://github.com/0xBlackash/CVE-2026-28289", "url_ids": ["CVE-2026-28289"]}
 {"cve_id": "CVE-2024-3196", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T06:28:34Z", "url": "https://github.com/d-Raco/CVE-2024-31964", "url_ids": ["CVE-2024-31964"]}
 {"cve_id": "CVE-2024-3196", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T06:28:34Z", "url": "https://github.com/gmh5225/CVE-2024-31969", "url_ids": ["CVE-2024-31969"]}
+{"cve_id": "CVE-2025-1426", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T06:42:35Z", "url": "https://github.com/r0binak/CVE-2025-14269", "url_ids": ["CVE-2025-14269"]}

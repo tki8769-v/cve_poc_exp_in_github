@@ -15,7 +15,7 @@
     },
     "clean_apply": {
       "affected_years": [],
-      "applied_at": "2026-10-14T06:31:50Z",
+      "applied_at": "2026-10-14T06:43:43Z",
       "applied_rejected": 0,
       "revoked_accepted": 0,
       "revoked_rejected": 0,
@@ -25,40 +25,36 @@
     "official_refs": {
       "accepted": 0,
       "candidates_total": 3041,
-      "kept_for_review": 89,
-      "meta_fetched": 90,
-      "patchlike_skipped": 69,
-      "pending_after": 74,
-      "pending_before": 233,
+      "kept_for_review": 49,
+      "meta_fetched": 50,
+      "patchlike_skipped": 24,
+      "pending_after": 0,
+      "pending_before": 74,
       "pending_by_kind": {
-        "advisory": 2,
-        "patch": 91,
-        "reference": 140
-      },
-      "pending_by_kind_after": {
         "advisory": 1,
         "patch": 23,
         "reference": 50
       },
-      "processed": 90,
+      "pending_by_kind_after": {},
+      "processed": 50,
       "rejected_lead": 0,
-      "requests_used": 90,
+      "requests_used": 50,
       "stop_reason": null
     },
     "queue": {
       "due_by_priority": {
-        "0": 2533,
-        "5": 7351,
-        "8": 10541
+        "0": 2396,
+        "5": 7261,
+        "8": 10481
       },
-      "due_now": 20425,
-      "oldest_due": "2026-09-29T12:56:31Z",
+      "due_now": 20138,
+      "oldest_due": "2026-09-29T14:25:58Z",
       "oldest_due_by_priority": {
         "0": "2026-10-14T00:47:47Z",
-        "5": "2026-09-29T12:56:31Z",
-        "8": "2026-10-02T22:02:50Z"
+        "5": "2026-09-29T14:25:58Z",
+        "8": "2026-10-02T22:17:33Z"
       },
-      "tasks_total": 28856
+      "tasks_total": 28869
     },
     "recheck": {
       "conflict_evidenced": 167,
@@ -69,7 +65,7 @@
       "rule_version": "2"
     },
     "render": {
-      "changed_files": 0
+      "changed_files": 3
     },
     "repo_pushed": {
       "accepted_existing": 22,
@@ -79,7 +75,7 @@
       "needs_review": 4,
       "new_relations": 0,
       "rejected_at_collection": 0,
-      "repos_seen": 241,
+      "repos_seen": 235,
       "requests_used": 3,
       "splits": 0,
       "stop_reason": null,
@@ -102,7 +98,7 @@
       "partial_days_dropped": 0,
       "partial_days_pending": 0,
       "rejected_at_collection": 0,
-      "repos_seen": 21,
+      "repos_seen": 24,
       "requests_used": 1,
       "warning": null,
       "window": "2026-10-14..2026-10-14"
@@ -112,9 +108,9 @@
       "budget_stopped": true,
       "incomplete": 0,
       "invalid_id_skipped": 0,
-      "needs_review": 29,
-      "new_relations": 0,
-      "rejected_at_collection": 6,
+      "needs_review": 15,
+      "new_relations": 1,
+      "rejected_at_collection": 1,
       "scanned": 300,
       "scanned_by_priority": {
         "0": 151,
@@ -127,28 +123,28 @@
     "sync": {
       "budget_stopped": false,
       "continuity_warning": false,
-      "cves_seen": 0,
+      "cves_seen": 503,
       "floor_tag": "cve_2026-09-24_0700Z",
-      "last_tag": "cve_2026-10-14_0500Z",
-      "new_tasks": 0,
+      "last_tag": "cve_2026-10-14_0600Z",
+      "new_tasks": 13,
       "ref_candidates_added": 0,
       "rejected": 0,
-      "releases_processed": 0,
+      "releases_processed": 1,
       "releases_seen": 30
     },
     "timing": {
-      "backfill_conflicts": 8.319,
-      "backfill_queue": 0.229,
-      "clean_apply": 0.264,
-      "official_refs": 42.794,
-      "queue": 0.14,
-      "recheck": 0.172,
-      "render": 0.688,
-      "repo_pushed": 7.69,
-      "repo_watch": 1.148,
-      "scan": 565.57,
-      "sync": 0.653,
-      "verify": 0.542
+      "backfill_conflicts": 8.487,
+      "backfill_queue": 0.227,
+      "clean_apply": 0.262,
+      "official_refs": 23.48,
+      "queue": 0.143,
+      "recheck": 0.176,
+      "render": 0.698,
+      "repo_pushed": 7.003,
+      "repo_watch": 1.313,
+      "scan": 580.066,
+      "sync": 86.593,
+      "verify": 0.537
     },
     "verify": {
       "downstream_checked": true,
@@ -157,5 +153,5 @@
       "problems": []
     }
   },
-  "ts": "2026-10-14T06:31:51Z"
+  "ts": "2026-10-14T06:43:44Z"
 }

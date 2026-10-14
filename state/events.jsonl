@@ -2627,3 +2627,4 @@
 {"cve_id": "CVE-2022-22965", "ts": "2026-10-14T06:14:59Z", "type": "new_poc", "url": "https://github.com/delyee/Spring4Shell"}
 {"cve_id": "CVE-2022-22965", "ts": "2026-10-14T06:14:59Z", "type": "new_poc", "url": "https://github.com/e21-AS/telstra-cybersecurity-experience"}
 {"cve_id": "CVE-2025-49132", "ts": "2026-10-14T06:15:57Z", "type": "new_poc", "url": "https://github.com/2t8a/CVE-2025-49132"}
+{"cve_id": "CVE-2024-4577", "ts": "2026-10-14T06:41:37Z", "type": "new_poc", "url": "https://github.com/lockbitblack-ai/CVE-2024-4577-new"}

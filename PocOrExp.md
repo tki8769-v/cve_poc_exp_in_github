@@ -48466,6 +48466,8 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 
 - [https://github.com/yeee3642/edu-recon](https://github.com/yeee3642/edu-recon) : ![starts](https://img.shields.io/github/stars/yeee3642/edu-recon.svg) ![forks](https://img.shields.io/github/forks/yeee3642/edu-recon.svg)
 
+- [https://github.com/lockbitblack-ai/CVE-2024-4577-new](https://github.com/lockbitblack-ai/CVE-2024-4577-new) : ![starts](https://img.shields.io/github/stars/lockbitblack-ai/CVE-2024-4577-new.svg) ![forks](https://img.shields.io/github/forks/lockbitblack-ai/CVE-2024-4577-new.svg)
+
 ## CVE-2024-4573
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.
 
