@@ -2743,3 +2743,5 @@
 {"cve_id": "CVE-2014-6271", "ts": "2026-10-15T20:54:04Z", "type": "new_poc", "url": "https://github.com/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report"}
 {"cve_id": "CVE-2021-39512", "ts": "2026-10-15T21:12:01Z", "type": "new_poc", "url": "https://github.com/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver"}
 {"cve_id": "CVE-2026-74469", "ts": "2026-10-15T21:13:58Z", "type": "new_poc", "url": "https://github.com/suominen/diagspill"}
+{"cve_id": "CVE-2026-64507", "ts": "2026-10-15T23:47:40Z", "type": "new_poc", "url": "https://github.com/manalejandro/CVE-2026-64507"}
+{"cve_id": "CVE-2026-104715", "ts": "2026-10-15T23:47:40Z", "type": "new_poc", "url": "https://github.com/M3aCulpa/CVE-2026-104715"}

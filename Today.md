@@ -62,6 +62,10 @@ The security risk posed by this issue is minimized by restricting access to the 
 
 - [https://github.com/uday952/CVE-2026-104711-POC-NEW-VARIANT](https://github.com/uday952/CVE-2026-104711-POC-NEW-VARIANT) : ![starts](https://img.shields.io/github/stars/uday952/CVE-2026-104711-POC-NEW-VARIANT.svg) ![forks](https://img.shields.io/github/forks/uday952/CVE-2026-104711-POC-NEW-VARIANT.svg)
 
+## CVE-2026-104715
+
+- [https://github.com/M3aCulpa/CVE-2026-104715](https://github.com/M3aCulpa/CVE-2026-104715) : ![starts](https://img.shields.io/github/stars/M3aCulpa/CVE-2026-104715.svg) ![forks](https://img.shields.io/github/forks/M3aCulpa/CVE-2026-104715.svg)
+
 ## CVE-2026-104935
 > Authentication bypass by spoofing in ICS before version 25.1.3.0 allows a remote unauthenticated attacker to execute arbitrary commands. This does not impact ICS version 22.7R2.14 or prior.
 
@@ -160,6 +164,10 @@ problems:
 ## CVE-2026-56129
 
 - [https://github.com/valium007/CVE-2026-56129](https://github.com/valium007/CVE-2026-56129) : ![starts](https://img.shields.io/github/stars/valium007/CVE-2026-56129.svg) ![forks](https://img.shields.io/github/forks/valium007/CVE-2026-56129.svg)
+
+## CVE-2026-64507
+
+- [https://github.com/manalejandro/CVE-2026-64507](https://github.com/manalejandro/CVE-2026-64507) : ![starts](https://img.shields.io/github/stars/manalejandro/CVE-2026-64507.svg) ![forks](https://img.shields.io/github/forks/manalejandro/CVE-2026-64507.svg)
 
 ## CVE-2026-64560
 > In the Linux kernel, the following vulnerability has been resolved:
