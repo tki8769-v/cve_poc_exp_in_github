@@ -2699,3 +2699,9 @@
 {"cve_id": "CVE-2026-107913", "ts": "2026-10-15T00:36:43Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-44963", "ts": "2026-10-15T00:45:19Z", "type": "new_poc", "url": "https://github.com/jockerjml/CVE-2026-44963-veeam-checker"}
 {"cve_id": "CVE-2025-30208", "ts": "2026-10-15T00:53:23Z", "type": "new_poc", "url": "https://github.com/Minseo9503/cve-2025-30208"}
+{"cve_id": "CVE-2026-107913", "ts": "2026-10-15T05:56:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-0322", "ts": "2026-10-15T06:03:53Z", "type": "new_poc", "url": "https://github.com/Ife-ella/CVE-vulnerability"}
+{"cve_id": "CVE-2026-47644", "ts": "2026-10-15T06:03:53Z", "type": "new_poc", "url": "https://github.com/songjianyang/CVE-2026-47644"}
+{"cve_id": "CVE-2023-41991", "ts": "2026-10-15T06:03:53Z", "type": "new_poc", "url": "https://github.com/lambertse/MOcha"}
+{"cve_id": "CVE-2026-44825", "ts": "2026-10-15T06:03:53Z", "type": "new_poc", "url": "https://github.com/q0524/CVE-2026-44825_CTF"}
+{"cve_id": "CVE-2025-66034", "ts": "2026-10-15T06:07:57Z", "type": "new_poc", "url": "https://github.com/Liquid-Sec/Variatype.htb-CVE-2025-66034"}

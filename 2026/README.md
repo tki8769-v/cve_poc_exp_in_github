@@ -7382,6 +7382,10 @@ Spring Tools for VSCode / Cursor / Theia: 2.2.0 and earlier
 
 - [https://github.com/s-vx/CVE-2026-47668](https://github.com/s-vx/CVE-2026-47668) : ![starts](https://img.shields.io/github/stars/s-vx/CVE-2026-47668.svg) ![forks](https://img.shields.io/github/forks/s-vx/CVE-2026-47668.svg)
 
+## CVE-2026-47644
+
+- [https://github.com/songjianyang/CVE-2026-47644](https://github.com/songjianyang/CVE-2026-47644) : ![starts](https://img.shields.io/github/stars/songjianyang/CVE-2026-47644.svg) ![forks](https://img.shields.io/github/forks/songjianyang/CVE-2026-47644.svg)
+
 ## CVE-2026-47630
  NVIDIA Triton Inference Server for Linux contains a vulnerability where an attacker could cause an absolute path traversal. A successful exploit might lead to code execution.
 
@@ -8327,6 +8331,8 @@ Not affected:
 - [https://github.com/q0524/CVE-2026-44825_test](https://github.com/q0524/CVE-2026-44825_test) : ![starts](https://img.shields.io/github/stars/q0524/CVE-2026-44825_test.svg) ![forks](https://img.shields.io/github/forks/q0524/CVE-2026-44825_test.svg)
 
 - [https://github.com/q0524/cve-2026-44825-challenge](https://github.com/q0524/cve-2026-44825-challenge) : ![starts](https://img.shields.io/github/stars/q0524/cve-2026-44825-challenge.svg) ![forks](https://img.shields.io/github/forks/q0524/cve-2026-44825-challenge.svg)
+
+- [https://github.com/q0524/CVE-2026-44825_CTF](https://github.com/q0524/CVE-2026-44825_CTF) : ![starts](https://img.shields.io/github/stars/q0524/CVE-2026-44825_CTF.svg) ![forks](https://img.shields.io/github/forks/q0524/CVE-2026-44825_CTF.svg)
 
 ## CVE-2026-44789
  n8n is an open source workflow automation platform. Prior to 1.123.43, 2.22.1, and 2.20.7, an authenticated user with permission to create or modify workflows could achieve global prototype pollution via an unvalidated pagination parameter in the HTTP Request node. Combined with other techniques this could lead to RCE on the instance. This vulnerability is fixed in 1.123.43, 2.22.1, and 2.20.7.
@@ -21993,6 +21999,15 @@ ServiceNow addressed this vulnerability by deploying a security update to hosted
  Incorrect default permissions in the installation directory for the AMD chipset driver could allow an attacker to achieve privilege escalation resulting in arbitrary code execution.
 
 - [https://github.com/gduma-phData/patch-CVE-2026-04321](https://github.com/gduma-phData/patch-CVE-2026-04321) : ![starts](https://img.shields.io/github/stars/gduma-phData/patch-CVE-2026-04321.svg) ![forks](https://img.shields.io/github/forks/gduma-phData/patch-CVE-2026-04321.svg)
+
+## CVE-2026-0322
+> A remote code execution (RCE) vulnerability in the management interface of Palo Alto Networks PAN-OS® software enables an authenticated attacker with network access to execute arbitrary code with root privileges on the firewall.
+
+
+
+The security risk posed by this issue is minimized by restricting access to the management interface to only trusted internal IP addresses according to our recommended  best practice deployment guidelines https://live.paloaltonetworks.com/t5/community-blogs/tips-amp-t
+
+- [https://github.com/Ife-ella/CVE-vulnerability](https://github.com/Ife-ella/CVE-vulnerability) : ![starts](https://img.shields.io/github/stars/Ife-ella/CVE-vulnerability.svg) ![forks](https://img.shields.io/github/forks/Ife-ella/CVE-vulnerability.svg)
 
 ## CVE-2026-0303
  A code execution vulnerability in Palo Alto Networks Checkov by Prisma® Cloud can allow arbitrary code execution when Checkov scans a directory that contains an attacker-controlled configuration file.

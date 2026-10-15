@@ -1334,6 +1334,8 @@ Users are recommended to upgrade to version 0.9.0, which fixes the issue.
 
 - [https://github.com/4nuxd/CVE-2025-66034](https://github.com/4nuxd/CVE-2025-66034) : ![starts](https://img.shields.io/github/stars/4nuxd/CVE-2025-66034.svg) ![forks](https://img.shields.io/github/forks/4nuxd/CVE-2025-66034.svg)
 
+- [https://github.com/Liquid-Sec/Variatype.htb-CVE-2025-66034](https://github.com/Liquid-Sec/Variatype.htb-CVE-2025-66034) : ![starts](https://img.shields.io/github/stars/Liquid-Sec/Variatype.htb-CVE-2025-66034.svg) ![forks](https://img.shields.io/github/forks/Liquid-Sec/Variatype.htb-CVE-2025-66034.svg)
+
 ## CVE-2025-66024
  The XWiki blog application allows users of the XWiki platform to create and manage blog posts. Versions starting with 9.15 and prior to 9.15.7 are vulnerable to Stored Cross-Site Scripting (XSS) via the Blog Post Title. The vulnerability arises because the post title is injected directly into the HTML title tag without proper escaping. An attacker with permissions to create or edit blog posts can inject malicious JavaScript into the title field. This script will execute in the browser of any user (including administrators) who views the blog post. This leads to potential session hijacking or privilege escalation. The vulnerability has been patched in the blog application version 9.15.7 by adding missing escaping. No known workarounds are available.
 

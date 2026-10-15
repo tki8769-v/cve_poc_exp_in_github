@@ -943,3 +943,12 @@
 {"cve_id": "CVE-2026-9268", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T21:18:26Z", "url": "https://github.com/grepstrength/CVE-2026-92680", "url_ids": ["CVE-2026-92680"]}
 {"cve_id": "CVE-2025-4571", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T00:51:16Z", "url": "https://github.com/partywavesec/CVE-2025-45710", "url_ids": ["CVE-2025-45710"]}
 {"cve_id": "CVE-2026-5362", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T00:52:17Z", "url": "https://github.com/7h30th3r0n3/CVE-2026-53625-GLPI-PoC", "url_ids": ["CVE-2026-53625"]}
+{"cve_id": "CVE-2023-4622", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T06:08:08Z", "url": "https://github.com/JarvisDing-sdu/Yasa-CVE-2023-46229", "url_ids": ["CVE-2023-46229"]}
+{"cve_id": "CVE-2026-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T06:09:04Z", "url": "https://github.com/Jvr2022/CVE-2026-40345", "url_ids": ["CVE-2026-40345"]}
+{"cve_id": "CVE-2021-3679", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T06:10:10Z", "url": "https://github.com/M-Kings/CVE-2021-36798", "url_ids": ["CVE-2021-36798"]}
+{"cve_id": "CVE-2022-2408", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T06:13:02Z", "url": "https://github.com/Mr-xn/CVE-2022-24086", "url_ids": ["CVE-2022-24086"]}
+{"cve_id": "CVE-2022-2408", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T06:13:02Z", "url": "https://github.com/pescepilota/CVE-2022-24086", "url_ids": ["CVE-2022-24086"]}
+{"cve_id": "CVE-2022-2408", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T06:13:02Z", "url": "https://github.com/oK0mo/CVE-2022-24086-RCE-PoC", "url_ids": ["CVE-2022-24086"]}
+{"cve_id": "CVE-2022-2408", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T06:13:02Z", "url": "https://github.com/akr3ch/CVE-2022-24086", "url_ids": ["CVE-2022-24086"]}
+{"cve_id": "CVE-2022-2408", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T06:13:02Z", "url": "https://github.com/nanaao/CVE-2022-24086-RCE", "url_ids": ["CVE-2022-24086"]}
+{"cve_id": "CVE-2022-2408", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T06:13:02Z", "url": "https://github.com/BurpRoot/CVE-2022-24086", "url_ids": ["CVE-2022-24086"]}

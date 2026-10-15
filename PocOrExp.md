@@ -7383,6 +7383,10 @@ Spring Tools for VSCode / Cursor / Theia: 2.2.0 and earlier
 
 - [https://github.com/s-vx/CVE-2026-47668](https://github.com/s-vx/CVE-2026-47668) : ![starts](https://img.shields.io/github/stars/s-vx/CVE-2026-47668.svg) ![forks](https://img.shields.io/github/forks/s-vx/CVE-2026-47668.svg)
 
+## CVE-2026-47644
+
+- [https://github.com/songjianyang/CVE-2026-47644](https://github.com/songjianyang/CVE-2026-47644) : ![starts](https://img.shields.io/github/stars/songjianyang/CVE-2026-47644.svg) ![forks](https://img.shields.io/github/forks/songjianyang/CVE-2026-47644.svg)
+
 ## CVE-2026-47630
  NVIDIA Triton Inference Server for Linux contains a vulnerability where an attacker could cause an absolute path traversal. A successful exploit might lead to code execution.
 
@@ -8328,6 +8332,8 @@ Not affected:
 - [https://github.com/q0524/CVE-2026-44825_test](https://github.com/q0524/CVE-2026-44825_test) : ![starts](https://img.shields.io/github/stars/q0524/CVE-2026-44825_test.svg) ![forks](https://img.shields.io/github/forks/q0524/CVE-2026-44825_test.svg)
 
 - [https://github.com/q0524/cve-2026-44825-challenge](https://github.com/q0524/cve-2026-44825-challenge) : ![starts](https://img.shields.io/github/stars/q0524/cve-2026-44825-challenge.svg) ![forks](https://img.shields.io/github/forks/q0524/cve-2026-44825-challenge.svg)
+
+- [https://github.com/q0524/CVE-2026-44825_CTF](https://github.com/q0524/CVE-2026-44825_CTF) : ![starts](https://img.shields.io/github/stars/q0524/CVE-2026-44825_CTF.svg) ![forks](https://img.shields.io/github/forks/q0524/CVE-2026-44825_CTF.svg)
 
 ## CVE-2026-44789
  n8n is an open source workflow automation platform. Prior to 1.123.43, 2.22.1, and 2.20.7, an authenticated user with permission to create or modify workflows could achieve global prototype pollution via an unvalidated pagination parameter in the HTTP Request node. Combined with other techniques this could lead to RCE on the instance. This vulnerability is fixed in 1.123.43, 2.22.1, and 2.20.7.
@@ -21995,6 +22001,15 @@ ServiceNow addressed this vulnerability by deploying a security update to hosted
 
 - [https://github.com/gduma-phData/patch-CVE-2026-04321](https://github.com/gduma-phData/patch-CVE-2026-04321) : ![starts](https://img.shields.io/github/stars/gduma-phData/patch-CVE-2026-04321.svg) ![forks](https://img.shields.io/github/forks/gduma-phData/patch-CVE-2026-04321.svg)
 
+## CVE-2026-0322
+> A remote code execution (RCE) vulnerability in the management interface of Palo Alto Networks PAN-OS® software enables an authenticated attacker with network access to execute arbitrary code with root privileges on the firewall.
+
+
+
+The security risk posed by this issue is minimized by restricting access to the management interface to only trusted internal IP addresses according to our recommended  best practice deployment guidelines https://live.paloaltonetworks.com/t5/community-blogs/tips-amp-t
+
+- [https://github.com/Ife-ella/CVE-vulnerability](https://github.com/Ife-ella/CVE-vulnerability) : ![starts](https://img.shields.io/github/stars/Ife-ella/CVE-vulnerability.svg) ![forks](https://img.shields.io/github/forks/Ife-ella/CVE-vulnerability.svg)
+
 ## CVE-2026-0303
  A code execution vulnerability in Palo Alto Networks Checkov by Prisma® Cloud can allow arbitrary code execution when Checkov scans a directory that contains an attacker-controlled configuration file.
 
@@ -23546,6 +23561,8 @@ Users are recommended to upgrade to version 0.9.0, which fixes the issue.
 - [https://github.com/jwsly12/CVE-2025-66034-htb-ctf](https://github.com/jwsly12/CVE-2025-66034-htb-ctf) : ![starts](https://img.shields.io/github/stars/jwsly12/CVE-2025-66034-htb-ctf.svg) ![forks](https://img.shields.io/github/forks/jwsly12/CVE-2025-66034-htb-ctf.svg)
 
 - [https://github.com/4nuxd/CVE-2025-66034](https://github.com/4nuxd/CVE-2025-66034) : ![starts](https://img.shields.io/github/stars/4nuxd/CVE-2025-66034.svg) ![forks](https://img.shields.io/github/forks/4nuxd/CVE-2025-66034.svg)
+
+- [https://github.com/Liquid-Sec/Variatype.htb-CVE-2025-66034](https://github.com/Liquid-Sec/Variatype.htb-CVE-2025-66034) : ![starts](https://img.shields.io/github/stars/Liquid-Sec/Variatype.htb-CVE-2025-66034.svg) ![forks](https://img.shields.io/github/forks/Liquid-Sec/Variatype.htb-CVE-2025-66034.svg)
 
 ## CVE-2025-66024
  The XWiki blog application allows users of the XWiki platform to create and manage blog posts. Versions starting with 9.15 and prior to 9.15.7 are vulnerable to Stored Cross-Site Scripting (XSS) via the Blog Post Title. The vulnerability arises because the post title is injected directly into the HTML title tag without proper escaping. An attacker with permissions to create or edit blog posts can inject malicious JavaScript into the title field. This script will execute in the browser of any user (including administrators) who views the blog post. This leads to potential session hijacking or privilege escalation. The vulnerability has been patched in the blog application version 9.15.7 by adding missing escaping. No known workarounds are available.
@@ -52756,6 +52773,8 @@ The specific flaw exists within the smtp service, which listens on TCP port 25 b
 - [https://github.com/itsgiddd/CVE-2023-41991](https://github.com/itsgiddd/CVE-2023-41991) : ![starts](https://img.shields.io/github/stars/itsgiddd/CVE-2023-41991.svg) ![forks](https://img.shields.io/github/forks/itsgiddd/CVE-2023-41991.svg)
 
 - [https://github.com/dmytrozykov/appsign](https://github.com/dmytrozykov/appsign) : ![starts](https://img.shields.io/github/stars/dmytrozykov/appsign.svg) ![forks](https://img.shields.io/github/forks/dmytrozykov/appsign.svg)
+
+- [https://github.com/lambertse/MOcha](https://github.com/lambertse/MOcha) : ![starts](https://img.shields.io/github/stars/lambertse/MOcha.svg) ![forks](https://img.shields.io/github/forks/lambertse/MOcha.svg)
 
 ## CVE-2023-41898
  Home assistant is an open source home automation. The Home Assistant Companion for Android app up to version 2023.8.2 is vulnerable to arbitrary URL loading in a WebView. This enables all sorts of attacks, including arbitrary JavaScript execution, limited native code execution, and credential theft. This issue has been patched in version 2023.9.2 and all users are advised to upgrade. There are no known workarounds for this vulnerability. This issue is also tracked as GitHub Security Lab (GHSL) Vulnerability Report: `GHSL-2023-142`.
