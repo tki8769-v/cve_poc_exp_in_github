@@ -2690,3 +2690,9 @@
 {"cve_id": "CVE-2026-107081", "ts": "2026-10-15T00:03:29Z", "type": "new_poc", "url": "https://github.com/Primandito/CVE-2026-107081"}
 {"cve_id": "CVE-2026-96230", "ts": "2026-10-15T00:03:31Z", "type": "new_poc", "url": "https://github.com/codevalai/microsoft-security-advisory-cv"}
 {"cve_id": "CVE-2026-56129", "ts": "2026-10-15T00:08:42Z", "type": "new_poc", "url": "https://github.com/valium007/CVE-2026-56129"}
+{"cve_id": "CVE-2026-107913", "ts": "2026-10-15T00:16:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104935", "ts": "2026-10-15T00:23:25Z", "type": "new_poc", "url": "https://github.com/0x45dd/ivanti-cve-2026-104935-check"}
+{"cve_id": "CVE-2026-17001", "ts": "2026-10-15T00:23:44Z", "type": "new_poc", "url": "https://github.com/llaytynher/CVE-2026-17001"}
+{"cve_id": "CVE-2021-1905", "ts": "2026-10-15T00:23:55Z", "type": "new_poc", "url": "https://github.com/Gonvar/movistar-home-root-"}
+{"cve_id": "CVE-2026-68121", "ts": "2026-10-15T00:25:47Z", "type": "new_poc", "url": "https://github.com/suominen/pppoeject"}
+{"cve_id": "CVE-2026-41089", "ts": "2026-10-15T00:26:56Z", "type": "new_poc", "url": "https://github.com/1posix/CVE-2026-41089-PoC"}

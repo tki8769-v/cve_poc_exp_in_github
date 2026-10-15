@@ -8455,6 +8455,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/Gonvar/kgsl-1905-msm8953](https://github.com/Gonvar/kgsl-1905-msm8953) : ![starts](https://img.shields.io/github/stars/Gonvar/kgsl-1905-msm8953.svg) ![forks](https://img.shields.io/github/forks/Gonvar/kgsl-1905-msm8953.svg)
 
+- [https://github.com/Gonvar/movistar-home-root-](https://github.com/Gonvar/movistar-home-root-) : ![starts](https://img.shields.io/github/stars/Gonvar/movistar-home-root-.svg) ![forks](https://img.shields.io/github/forks/Gonvar/movistar-home-root-.svg)
+
 ## CVE-2021-1883
  This issue was addressed with improved checks. This issue is fixed in Security Update 2021-004 Mojave, iOS 14.5 and iPadOS 14.5, watchOS 7.4, Security Update 2021-003 Catalina, tvOS 14.5, macOS Big Sur 11.3. Processing maliciously crafted server messages may lead to heap corruption.
 
