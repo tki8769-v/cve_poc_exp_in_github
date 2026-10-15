@@ -2561,6 +2561,8 @@ to return its existing transport at the limit.
 
 - [https://github.com/HORKimhab/CVE-2026-74469](https://github.com/HORKimhab/CVE-2026-74469) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-74469.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-74469.svg)
 
+- [https://github.com/suominen/diagspill](https://github.com/suominen/diagspill) : ![starts](https://img.shields.io/github/stars/suominen/diagspill.svg) ![forks](https://img.shields.io/github/forks/suominen/diagspill.svg)
+
 ## CVE-2026-74252
  Joomla Extension - j2commerce.com - Stored XSS in Guest checkout in J2Store 1.0.0-3.3.20, 4.0.0-4.0.20, 4.1.0-4.1.5 - J2Commerce 4.1.5 is vulnerable to Stored Cross-Site Scripting (XSS) through the guest checkout billing address fields. An unauthenticated attacker exploits a filter bypass in Joomla's Input::getArray() combined with PHP's variables_order=EGPCS (Cookie overrides POST in $_REQUEST ) to store unsanitized HTML in fields such as billing_first_name.
 

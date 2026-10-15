@@ -2562,6 +2562,8 @@ to return its existing transport at the limit.
 
 - [https://github.com/HORKimhab/CVE-2026-74469](https://github.com/HORKimhab/CVE-2026-74469) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-74469.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-74469.svg)
 
+- [https://github.com/suominen/diagspill](https://github.com/suominen/diagspill) : ![starts](https://img.shields.io/github/stars/suominen/diagspill.svg) ![forks](https://img.shields.io/github/forks/suominen/diagspill.svg)
+
 ## CVE-2026-74252
  Joomla Extension - j2commerce.com - Stored XSS in Guest checkout in J2Store 1.0.0-3.3.20, 4.0.0-4.0.20, 4.1.0-4.1.5 - J2Commerce 4.1.5 is vulnerable to Stored Cross-Site Scripting (XSS) through the guest checkout billing address fields. An unauthenticated attacker exploits a filter bypass in Joomla's Input::getArray() combined with PHP's variables_order=EGPCS (Cookie overrides POST in $_REQUEST ) to store unsanitized HTML in fields such as billing_first_name.
 
@@ -72616,6 +72618,8 @@ UPDATE September 14, 2021: Microsoft has released security updates to address th
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.
 
 - [https://github.com/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver](https://github.com/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver) : ![starts](https://img.shields.io/github/stars/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver.svg) ![forks](https://img.shields.io/github/forks/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver.svg)
+
+- [https://github.com/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver](https://github.com/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver) : ![starts](https://img.shields.io/github/stars/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver.svg) ![forks](https://img.shields.io/github/forks/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver.svg)
 
 ## CVE-2021-39476
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.

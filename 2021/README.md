@@ -3185,6 +3185,8 @@ UPDATE September 14, 2021: Microsoft has released security updates to address th
 
 - [https://github.com/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver](https://github.com/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver) : ![starts](https://img.shields.io/github/stars/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver.svg) ![forks](https://img.shields.io/github/forks/guusec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver.svg)
 
+- [https://github.com/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver](https://github.com/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver) : ![starts](https://img.shields.io/github/stars/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver.svg) ![forks](https://img.shields.io/github/forks/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver.svg)
+
 ## CVE-2021-39476
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.
 

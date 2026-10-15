@@ -11,6 +11,10 @@
 
 - [https://github.com/Gonvar/movistar-home-root-](https://github.com/Gonvar/movistar-home-root-) : ![starts](https://img.shields.io/github/stars/Gonvar/movistar-home-root-.svg) ![forks](https://img.shields.io/github/forks/Gonvar/movistar-home-root-.svg)
 
+## CVE-2021-39512
+
+- [https://github.com/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver](https://github.com/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver) : ![starts](https://img.shields.io/github/stars/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver.svg) ![forks](https://img.shields.io/github/forks/giuseppesec/CVE-2021-39512-BigTreeCMS-v4.4.14-AccountTakeOver.svg)
+
 ## CVE-2023-41991
 
 - [https://github.com/lambertse/MOcha](https://github.com/lambertse/MOcha) : ![starts](https://img.shields.io/github/stars/lambertse/MOcha.svg) ![forks](https://img.shields.io/github/forks/lambertse/MOcha.svg)
@@ -180,6 +184,10 @@ which can result in an UAF:
 ## CVE-2026-68121
 
 - [https://github.com/suominen/pppoeject](https://github.com/suominen/pppoeject) : ![starts](https://img.shields.io/github/stars/suominen/pppoeject.svg) ![forks](https://img.shields.io/github/forks/suominen/pppoeject.svg)
+
+## CVE-2026-74469
+
+- [https://github.com/suominen/diagspill](https://github.com/suominen/diagspill) : ![starts](https://img.shields.io/github/stars/suominen/diagspill.svg) ![forks](https://img.shields.io/github/forks/suominen/diagspill.svg)
 
 ## CVE-2026-77521
 > MaxKB is an open-source AI assistant for enterprise. Prior to version 2.10.5-lts, assistants with a tool, MCP tool, skill, or sub-application use SandboxShellBackend, which exposes an execute shell tool without excluding it and omits execute from interrupt_on, so human approval is not required. Untrusted chat or ingested content can therefore cause command execution; source deployments with MAXKB_SANDBOX disabled run commands directly as the application user, while the official root container&#x27;s
