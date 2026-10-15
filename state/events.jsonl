@@ -2686,3 +2686,7 @@
 {"cve_id": "CVE-2026-26980", "ts": "2026-10-14T21:15:16Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-26980"}
 {"cve_id": "CVE-2026-107913", "ts": "2026-10-14T21:20:48Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2021-4034", "ts": "2026-10-14T21:27:29Z", "type": "new_poc", "url": "https://github.com/SerhiiMaruniak/CVE-2021-4034"}
+{"cve_id": "CVE-2026-107913", "ts": "2026-10-14T23:56:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107081", "ts": "2026-10-15T00:03:29Z", "type": "new_poc", "url": "https://github.com/Primandito/CVE-2026-107081"}
+{"cve_id": "CVE-2026-96230", "ts": "2026-10-15T00:03:31Z", "type": "new_poc", "url": "https://github.com/codevalai/microsoft-security-advisory-cv"}
+{"cve_id": "CVE-2026-56129", "ts": "2026-10-15T00:08:42Z", "type": "new_poc", "url": "https://github.com/valium007/CVE-2026-56129"}

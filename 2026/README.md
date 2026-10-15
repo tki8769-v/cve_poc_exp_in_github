@@ -23,6 +23,14 @@
 - [https://github.com/0xgh0stri13y/CVE-2026-109519](https://github.com/0xgh0stri13y/CVE-2026-109519) : ![starts](https://img.shields.io/github/stars/0xgh0stri13y/CVE-2026-109519.svg) ![forks](https://img.shields.io/github/forks/0xgh0stri13y/CVE-2026-109519.svg)
 
 ## CVE-2026-109506
+> Multiple
+TP-Link Wi-Fi range extenders use a custom, reversible XOR-and-dictionary
+transformation in the HTTP web-management login flow. An unauthenticated attacker
+on the same local network who can capture the network traffic associated with
+legitimate administrator login may be able to derive an alternative credential
+value that produces the same accepted authentication result and use it to
+authenticate to the device’s web-management interface with administrator
+privileges. Exploitation requir
 
 - [https://github.com/lukaspalm/CVE-2026-109506](https://github.com/lukaspalm/CVE-2026-109506) : ![starts](https://img.shields.io/github/stars/lukaspalm/CVE-2026-109506.svg) ![forks](https://img.shields.io/github/forks/lukaspalm/CVE-2026-109506.svg)
 
@@ -89,6 +97,10 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 > MiniUPnPd through 2.3.11 built with --strict contains a divide-by-zero vulnerability in ProcessSSDPData() that allows unauthenticated local network attackers to crash the daemon. Attackers can send a single multicast M-SEARCH datagram with MX: 0 and a known ST to port 1900, triggering SIGFPE and denying UPnP IGD service.
 
 - [https://github.com/azuk4r/CVE-2026-107159](https://github.com/azuk4r/CVE-2026-107159) : ![starts](https://img.shields.io/github/stars/azuk4r/CVE-2026-107159.svg) ![forks](https://img.shields.io/github/forks/azuk4r/CVE-2026-107159.svg)
+
+## CVE-2026-107081
+
+- [https://github.com/Primandito/CVE-2026-107081](https://github.com/Primandito/CVE-2026-107081) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-107081.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-107081.svg)
 
 ## CVE-2026-106610
 > Incorrect Privilege Assignment vulnerability in miniOrange miniorange otp verification miniorange-otp-verification allows Privilege Escalation.This issue affects miniorange otp verification: from n/a through 5.5.7.
@@ -716,6 +728,10 @@ root privileges resulting in complete compromise o
 > Unauthenticated Remote Code Execution (RCE) in SiteSkite &lt;= 2.1.8 versions.
 
 - [https://github.com/murrez/CVE-2026-96349](https://github.com/murrez/CVE-2026-96349) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-96349.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-96349.svg)
+
+## CVE-2026-96230
+
+- [https://github.com/codevalai/microsoft-security-advisory-cv](https://github.com/codevalai/microsoft-security-advisory-cv) : ![starts](https://img.shields.io/github/stars/codevalai/microsoft-security-advisory-cv.svg) ![forks](https://img.shields.io/github/forks/codevalai/microsoft-security-advisory-cv.svg)
 
 ## CVE-2026-95675
 > D-Link DAP-1360 firmware version 6.14 and earlier contains an unauthenticated remote code execution vulnerability that allows remote attackers to execute arbitrary commands as root by sending crafted requests to the device&#x27;s web management interface without valid credentials. Attackers can fully compromise the device to persistently modify its configuration and use it as a pivot point into the local network.
@@ -5272,6 +5288,8 @@ Upgrade to version 3.0.0 or later, which fixes the issue.
  Generic IO & Memory Access driver for PCs provided by TOSHIBA CORPORATION and Dynabook Inc. exposes its IOCTL with insufficient access control. A logged-in user with no administrative privilege may access physical memory.
 
 - [https://github.com/valium007/qiomem](https://github.com/valium007/qiomem) : ![starts](https://img.shields.io/github/stars/valium007/qiomem.svg) ![forks](https://img.shields.io/github/forks/valium007/qiomem.svg)
+
+- [https://github.com/valium007/CVE-2026-56129](https://github.com/valium007/CVE-2026-56129) : ![starts](https://img.shields.io/github/stars/valium007/CVE-2026-56129.svg) ![forks](https://img.shields.io/github/forks/valium007/CVE-2026-56129.svg)
 
 ## CVE-2026-56121
  Feast before 0.63.0 contains an unsafe deserialization vulnerability that allows unauthenticated or unauthorized attackers to achieve remote code execution by sending a crafted gRPC request to the registry server. The user_defined_function.body field of an OnDemandFeatureView spec is decoded from base64 and passed to dill.loads() before any authorization check is performed, enabling attackers to embed a malicious serialized Python object with an arbitrary __reduce__ method to execute OS commands as the feast service account.
