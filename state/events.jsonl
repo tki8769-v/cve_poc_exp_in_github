@@ -2705,3 +2705,8 @@
 {"cve_id": "CVE-2023-41991", "ts": "2026-10-15T06:03:53Z", "type": "new_poc", "url": "https://github.com/lambertse/MOcha"}
 {"cve_id": "CVE-2026-44825", "ts": "2026-10-15T06:03:53Z", "type": "new_poc", "url": "https://github.com/q0524/CVE-2026-44825_CTF"}
 {"cve_id": "CVE-2025-66034", "ts": "2026-10-15T06:07:57Z", "type": "new_poc", "url": "https://github.com/Liquid-Sec/Variatype.htb-CVE-2025-66034"}
+{"cve_id": "CVE-2026-105627", "ts": "2026-10-15T06:16:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-106006", "ts": "2026-10-15T06:16:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-106068", "ts": "2026-10-15T06:16:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-106485", "ts": "2026-10-15T06:16:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107913", "ts": "2026-10-15T06:16:53Z", "type": "cve_rejected"}
