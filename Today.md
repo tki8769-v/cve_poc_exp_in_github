@@ -3,6 +3,10 @@
 
 - [https://github.com/Gonvar/movistar-home-root-](https://github.com/Gonvar/movistar-home-root-) : ![starts](https://img.shields.io/github/stars/Gonvar/movistar-home-root-.svg) ![forks](https://img.shields.io/github/forks/Gonvar/movistar-home-root-.svg)
 
+## CVE-2025-30208
+
+- [https://github.com/Minseo9503/cve-2025-30208](https://github.com/Minseo9503/cve-2025-30208) : ![starts](https://img.shields.io/github/stars/Minseo9503/cve-2025-30208.svg) ![forks](https://img.shields.io/github/forks/Minseo9503/cve-2025-30208.svg)
+
 ## CVE-2026-104935
 > Authentication bypass by spoofing in ICS before version 25.1.3.0 allows a remote unauthenticated attacker to execute arbitrary commands. This does not impact ICS version 22.7R2.14 or prior.
 
@@ -19,6 +23,10 @@
 ## CVE-2026-41089
 
 - [https://github.com/1posix/CVE-2026-41089-PoC](https://github.com/1posix/CVE-2026-41089-PoC) : ![starts](https://img.shields.io/github/stars/1posix/CVE-2026-41089-PoC.svg) ![forks](https://img.shields.io/github/forks/1posix/CVE-2026-41089-PoC.svg)
+
+## CVE-2026-44963
+
+- [https://github.com/jockerjml/CVE-2026-44963-veeam-checker](https://github.com/jockerjml/CVE-2026-44963-veeam-checker) : ![starts](https://img.shields.io/github/stars/jockerjml/CVE-2026-44963-veeam-checker.svg) ![forks](https://img.shields.io/github/forks/jockerjml/CVE-2026-44963-veeam-checker.svg)
 
 ## CVE-2026-56129
 

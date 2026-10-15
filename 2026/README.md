@@ -290,6 +290,7 @@ device operation and availability. No authentication, session e
 - [https://github.com/0xREBYTE/CVE-2026-104286-PoC](https://github.com/0xREBYTE/CVE-2026-104286-PoC) : ![starts](https://img.shields.io/github/stars/0xREBYTE/CVE-2026-104286-PoC.svg) ![forks](https://img.shields.io/github/forks/0xREBYTE/CVE-2026-104286-PoC.svg)
 
 ## CVE-2026-104110
+> FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch operations. Prior to 3.24.0, FileRise Pro /api/pro/portals/get.php returns a configured client portal&#x27;s full internal record to an unauthenticated caller who knows or guesses the portal slug. The response includes the internal storage folder path, client contact email, form settings, and upload-policy details, while the separate publicMeta.php endpoint intentionally exposes only curated branding data. Exp
 
 - [https://github.com/pervinzahidli/CVE-2026-104110](https://github.com/pervinzahidli/CVE-2026-104110) : ![starts](https://img.shields.io/github/stars/pervinzahidli/CVE-2026-104110.svg) ![forks](https://img.shields.io/github/forks/pervinzahidli/CVE-2026-104110.svg)
 
@@ -303,6 +304,7 @@ device operation and availability. No authentication, session e
 - [https://github.com/KiwKNR/CVE-2026-103978](https://github.com/KiwKNR/CVE-2026-103978) : ![starts](https://img.shields.io/github/stars/KiwKNR/CVE-2026-103978.svg) ![forks](https://img.shields.io/github/forks/KiwKNR/CVE-2026-103978.svg)
 
 ## CVE-2026-103977
+> FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch operations. Prior to 3.23.0, FileRise stores failed TOTP verification attempts in $_SESSION. An attacker who already possesses a target account&#x27;s valid primary credential can restart the login workflow in a new session and restore the second-factor attempt allowance, permitting continued online TOTP guessing beyond the intended five-attempt limit. The pending-login TOTP handlers did not share a durable ac
 
 - [https://github.com/pervinzahidli/CVE-2026-103977](https://github.com/pervinzahidli/CVE-2026-103977) : ![starts](https://img.shields.io/github/stars/pervinzahidli/CVE-2026-103977.svg) ![forks](https://img.shields.io/github/forks/pervinzahidli/CVE-2026-103977.svg)
 
@@ -8290,6 +8292,8 @@ We would like to thank Claude Mythos Preview (via Project Glasswing) for reporti
 - [https://github.com/suce0155/CVE_2026_44963](https://github.com/suce0155/CVE_2026_44963) : ![starts](https://img.shields.io/github/stars/suce0155/CVE_2026_44963.svg) ![forks](https://img.shields.io/github/forks/suce0155/CVE_2026_44963.svg)
 
 - [https://github.com/HORKimhab/CVE-2026-44963](https://github.com/HORKimhab/CVE-2026-44963) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-44963.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-44963.svg)
+
+- [https://github.com/jockerjml/CVE-2026-44963-veeam-checker](https://github.com/jockerjml/CVE-2026-44963-veeam-checker) : ![starts](https://img.shields.io/github/stars/jockerjml/CVE-2026-44963-veeam-checker.svg) ![forks](https://img.shields.io/github/forks/jockerjml/CVE-2026-44963-veeam-checker.svg)
 
 ## CVE-2026-44881
  Portainer Community Edition is a lightweight service delivery platform for containerized applications that can be used to manage Docker, Swarm, Kubernetes and ACI environments. From 2.33.0 to before 2.33.8, 2.39.2, and 2.41.0, Portainer supports deploying stacks from Git repositories. When a Git-backed stack is created or updated, Portainer clones the repository using go-git v5, which translates Git blob entries with mode 0o120000 (symlink) into real OS symlinks on the host filesystem via os.Symlink. The only entry blocked from becoming a symlink is .gitmodules; every other path is created as a symlink without validation. Portainer's GET /api/stacks/{id}/file endpoint then reads the stack entry point with os.ReadFile, which follows OS symlinks transparently. A repository containing docker-compose.yml as a symlink to an arbitrary filesystem path causes the symlink target's contents to be returned verbatim in the HTTP response. Any authenticated user with rights to create or update a Git-backed stack — the default configuration in Portainer CE — can read arbitrary files accessible to the Portainer process. This vulnerability is fixed in 2.33.8, 2.39.2, and 2.41.0.

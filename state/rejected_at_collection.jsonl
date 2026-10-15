@@ -941,3 +941,5 @@
 {"cve_id": "CVE-2026-9216", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T21:18:21Z", "url": "https://github.com/0xSemizzz/CVE-2026-92162", "url_ids": ["CVE-2026-92162"]}
 {"cve_id": "CVE-2026-3652", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T21:18:24Z", "url": "https://github.com/deepwoodssec/CVE-2026-36522", "url_ids": ["CVE-2026-36522"]}
 {"cve_id": "CVE-2026-9268", "reason": "prefix_conflict_evidenced", "ts": "2026-10-14T21:18:26Z", "url": "https://github.com/grepstrength/CVE-2026-92680", "url_ids": ["CVE-2026-92680"]}
+{"cve_id": "CVE-2025-4571", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T00:51:16Z", "url": "https://github.com/partywavesec/CVE-2025-45710", "url_ids": ["CVE-2025-45710"]}
+{"cve_id": "CVE-2026-5362", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T00:52:17Z", "url": "https://github.com/7h30th3r0n3/CVE-2026-53625-GLPI-PoC", "url_ids": ["CVE-2026-53625"]}

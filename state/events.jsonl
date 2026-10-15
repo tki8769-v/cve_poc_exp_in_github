@@ -2696,3 +2696,6 @@
 {"cve_id": "CVE-2021-1905", "ts": "2026-10-15T00:23:55Z", "type": "new_poc", "url": "https://github.com/Gonvar/movistar-home-root-"}
 {"cve_id": "CVE-2026-68121", "ts": "2026-10-15T00:25:47Z", "type": "new_poc", "url": "https://github.com/suominen/pppoeject"}
 {"cve_id": "CVE-2026-41089", "ts": "2026-10-15T00:26:56Z", "type": "new_poc", "url": "https://github.com/1posix/CVE-2026-41089-PoC"}
+{"cve_id": "CVE-2026-107913", "ts": "2026-10-15T00:36:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-44963", "ts": "2026-10-15T00:45:19Z", "type": "new_poc", "url": "https://github.com/jockerjml/CVE-2026-44963-veeam-checker"}
+{"cve_id": "CVE-2025-30208", "ts": "2026-10-15T00:53:23Z", "type": "new_poc", "url": "https://github.com/Minseo9503/cve-2025-30208"}
