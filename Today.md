@@ -73,6 +73,7 @@ The security risk posed by this issue is minimized by restricting access to the 
 - [https://github.com/uday952/CVE-2026-12118-POC-](https://github.com/uday952/CVE-2026-12118-POC-) : ![starts](https://img.shields.io/github/stars/uday952/CVE-2026-12118-POC-.svg) ![forks](https://img.shields.io/github/forks/uday952/CVE-2026-12118-POC-.svg)
 
 ## CVE-2026-17001
+> The Import and export users and customers plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Custom Column User Meta Profile Fields in all versions up to, and including, 2.4.5 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with custom-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 
 - [https://github.com/llaytynher/CVE-2026-17001](https://github.com/llaytynher/CVE-2026-17001) : ![starts](https://img.shields.io/github/stars/llaytynher/CVE-2026-17001.svg) ![forks](https://img.shields.io/github/forks/llaytynher/CVE-2026-17001.svg)
 
