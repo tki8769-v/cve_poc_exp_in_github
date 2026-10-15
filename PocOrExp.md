@@ -20590,6 +20590,8 @@ substitution character without escaping shell meta characters. A remote attacker
 
 - [https://github.com/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce](https://github.com/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce) : ![starts](https://img.shields.io/github/stars/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce.svg) ![forks](https://img.shields.io/github/forks/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce.svg)
 
+- [https://github.com/saitoken241/CVE-2026-4480-POC](https://github.com/saitoken241/CVE-2026-4480-POC) : ![starts](https://img.shields.io/github/stars/saitoken241/CVE-2026-4480-POC.svg) ![forks](https://img.shields.io/github/forks/saitoken241/CVE-2026-4480-POC.svg)
+
 ## CVE-2026-4447
  Inappropriate implementation in V8 in Google Chrome prior to 146.0.7680.153 allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. (Chromium security severity: High)
 
@@ -46015,6 +46017,8 @@ This package is EOL and will not receive any updates to address this issue. User
 - [https://github.com/hackyboiz/kcfg-bypass](https://github.com/hackyboiz/kcfg-bypass) : ![starts](https://img.shields.io/github/stars/hackyboiz/kcfg-bypass.svg) ![forks](https://img.shields.io/github/forks/hackyboiz/kcfg-bypass.svg)
 
 - [https://github.com/UMU618/CVE-2024-21338](https://github.com/UMU618/CVE-2024-21338) : ![starts](https://img.shields.io/github/stars/UMU618/CVE-2024-21338.svg) ![forks](https://img.shields.io/github/forks/UMU618/CVE-2024-21338.svg)
+
+- [https://github.com/kikozz/CVE-2024-21338](https://github.com/kikozz/CVE-2024-21338) : ![starts](https://img.shields.io/github/stars/kikozz/CVE-2024-21338.svg) ![forks](https://img.shields.io/github/forks/kikozz/CVE-2024-21338.svg)
 
 ## CVE-2024-21320
  Windows Themes Spoofing Vulnerability

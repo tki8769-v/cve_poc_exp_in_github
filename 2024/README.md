@@ -8299,6 +8299,8 @@ This package is EOL and will not receive any updates to address this issue. User
 
 - [https://github.com/UMU618/CVE-2024-21338](https://github.com/UMU618/CVE-2024-21338) : ![starts](https://img.shields.io/github/stars/UMU618/CVE-2024-21338.svg) ![forks](https://img.shields.io/github/forks/UMU618/CVE-2024-21338.svg)
 
+- [https://github.com/kikozz/CVE-2024-21338](https://github.com/kikozz/CVE-2024-21338) : ![starts](https://img.shields.io/github/stars/kikozz/CVE-2024-21338.svg) ![forks](https://img.shields.io/github/forks/kikozz/CVE-2024-21338.svg)
+
 ## CVE-2024-21320
  Windows Themes Spoofing Vulnerability
 

@@ -957,3 +957,4 @@
 {"cve_id": "CVE-2026-4350", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T06:26:42Z", "url": "https://github.com/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan", "url_ids": ["CVE-2026-43284", "CVE-2026-43500"]}
 {"cve_id": "CVE-2026-4350", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T06:26:42Z", "url": "https://github.com/SecureWithUmer/CVE-2026-43503", "url_ids": ["CVE-2026-43503"]}
 {"cve_id": "CVE-2026-4350", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T06:26:42Z", "url": "https://github.com/attaattaatta/CVE-2026-43500", "url_ids": ["CVE-2026-43500"]}
+{"cve_id": "CVE-2026-2222", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T06:49:20Z", "url": "https://github.com/LucasVanHaaren/CVE-2026-22226", "url_ids": ["CVE-2026-22226"]}

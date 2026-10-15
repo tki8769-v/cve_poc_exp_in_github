@@ -7,6 +7,10 @@
 
 - [https://github.com/lambertse/MOcha](https://github.com/lambertse/MOcha) : ![starts](https://img.shields.io/github/stars/lambertse/MOcha.svg) ![forks](https://img.shields.io/github/forks/lambertse/MOcha.svg)
 
+## CVE-2024-21338
+
+- [https://github.com/kikozz/CVE-2024-21338](https://github.com/kikozz/CVE-2024-21338) : ![starts](https://img.shields.io/github/stars/kikozz/CVE-2024-21338.svg) ![forks](https://img.shields.io/github/forks/kikozz/CVE-2024-21338.svg)
+
 ## CVE-2025-30208
 
 - [https://github.com/Minseo9503/cve-2025-30208](https://github.com/Minseo9503/cve-2025-30208) : ![starts](https://img.shields.io/github/stars/Minseo9503/cve-2025-30208.svg) ![forks](https://img.shields.io/github/forks/Minseo9503/cve-2025-30208.svg)
@@ -40,6 +44,10 @@ The security risk posed by this issue is minimized by restricting access to the 
 ## CVE-2026-41089
 
 - [https://github.com/1posix/CVE-2026-41089-PoC](https://github.com/1posix/CVE-2026-41089-PoC) : ![starts](https://img.shields.io/github/stars/1posix/CVE-2026-41089-PoC.svg) ![forks](https://img.shields.io/github/forks/1posix/CVE-2026-41089-PoC.svg)
+
+## CVE-2026-4480
+
+- [https://github.com/saitoken241/CVE-2026-4480-POC](https://github.com/saitoken241/CVE-2026-4480-POC) : ![starts](https://img.shields.io/github/stars/saitoken241/CVE-2026-4480-POC.svg) ![forks](https://img.shields.io/github/forks/saitoken241/CVE-2026-4480-POC.svg)
 
 ## CVE-2026-44825
 

@@ -2710,3 +2710,10 @@
 {"cve_id": "CVE-2026-106068", "ts": "2026-10-15T06:16:38Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-106485", "ts": "2026-10-15T06:16:40Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-107913", "ts": "2026-10-15T06:16:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105627", "ts": "2026-10-15T06:37:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-106006", "ts": "2026-10-15T06:37:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-106068", "ts": "2026-10-15T06:37:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-106485", "ts": "2026-10-15T06:37:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107913", "ts": "2026-10-15T06:37:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-21338", "ts": "2026-10-15T06:50:04Z", "type": "new_poc", "url": "https://github.com/kikozz/CVE-2024-21338"}
+{"cve_id": "CVE-2026-4480", "ts": "2026-10-15T06:52:58Z", "type": "new_poc", "url": "https://github.com/saitoken241/CVE-2026-4480-POC"}
