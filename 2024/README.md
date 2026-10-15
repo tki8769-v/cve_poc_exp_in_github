@@ -9987,6 +9987,8 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 
 - [https://github.com/n0d0n/CVE-2024-6648](https://github.com/n0d0n/CVE-2024-6648) : ![starts](https://img.shields.io/github/stars/n0d0n/CVE-2024-6648.svg) ![forks](https://img.shields.io/github/forks/n0d0n/CVE-2024-6648.svg)
 
+- [https://github.com/alexb616/CVE-2024-6648-RCE](https://github.com/alexb616/CVE-2024-6648-RCE) : ![starts](https://img.shields.io/github/stars/alexb616/CVE-2024-6648-RCE.svg) ![forks](https://img.shields.io/github/forks/alexb616/CVE-2024-6648-RCE.svg)
+
 ## CVE-2024-6624
  The JSON API User plugin for WordPress is vulnerable to privilege escalation in all versions up to, and including, 3.9.3. This is due to improper controls on custom user meta fields. This makes it possible for unauthenticated attackers to register as administrators on the site. The plugin requires the JSON API plugin to also be installed.
 

@@ -2717,3 +2717,19 @@
 {"cve_id": "CVE-2026-107913", "ts": "2026-10-15T06:37:46Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2024-21338", "ts": "2026-10-15T06:50:04Z", "type": "new_poc", "url": "https://github.com/kikozz/CVE-2024-21338"}
 {"cve_id": "CVE-2026-4480", "ts": "2026-10-15T06:52:58Z", "type": "new_poc", "url": "https://github.com/saitoken241/CVE-2026-4480-POC"}
+{"cve_id": "CVE-2026-20329", "ts": "2026-10-15T14:19:31Z", "type": "new_poc", "url": "https://github.com/ekacs/predicted-CVE-2026-20329"}
+{"cve_id": "CVE-2026-12118", "ts": "2026-10-15T14:19:31Z", "type": "new_poc", "url": "https://github.com/uday952/CVE-2026-12118-POC-"}
+{"cve_id": "CVE-2026-97205", "ts": "2026-10-15T14:19:31Z", "type": "new_poc", "url": "https://github.com/suominen/CVE-2026-97205"}
+{"cve_id": "CVE-2026-110912", "ts": "2026-10-15T14:19:32Z", "type": "new_poc", "url": "https://github.com/dreamfast/CVE-2026-110912"}
+{"cve_id": "CVE-2026-85097", "ts": "2026-10-15T14:19:32Z", "type": "new_poc", "url": "https://github.com/BlackHatExploitation/CVE-2026-85097"}
+{"cve_id": "CVE-2025-66645", "ts": "2026-10-15T14:19:32Z", "type": "new_poc", "url": "https://github.com/prokeon5991-wq/cve-2025-66645"}
+{"cve_id": "CVE-2026-110958", "ts": "2026-10-15T14:19:32Z", "type": "new_poc", "url": "https://github.com/shlln/CVE-2026-110958"}
+{"cve_id": "CVE-2026-110447", "ts": "2026-10-15T14:19:32Z", "type": "new_poc", "url": "https://github.com/Iceman2050/cve-2026-110447-checker"}
+{"cve_id": "CVE-2026-77521", "ts": "2026-10-15T14:19:32Z", "type": "new_poc", "url": "https://github.com/InertFluid/cve-2026-77521-lab"}
+{"cve_id": "CVE-2026-18963", "ts": "2026-10-15T14:19:32Z", "type": "new_poc", "url": "https://github.com/orevim/CVE-2026-18963-PoC"}
+{"cve_id": "CVE-2026-20896", "ts": "2026-10-15T14:19:32Z", "type": "new_poc", "url": "https://github.com/Raincombat/CVE-2026-20896-Gitea-CTF"}
+{"cve_id": "CVE-2026-104711", "ts": "2026-10-15T14:19:33Z", "type": "new_poc", "url": "https://github.com/uday952/CVE-2026-104711-POC-NEW-VARIANT"}
+{"cve_id": "CVE-2026-24090", "ts": "2026-10-15T14:19:33Z", "type": "new_poc", "url": "https://github.com/wnduddld0513/Lenovo_Qcom_RPMB_Tool"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-15T14:19:33Z", "type": "new_poc", "url": "https://github.com/y896406256-lang/ghostlock-brt-w09"}
+{"cve_id": "CVE-2024-6648", "ts": "2026-10-15T14:19:45Z", "type": "new_poc", "url": "https://github.com/alexb616/CVE-2024-6648-RCE"}
+{"cve_id": "CVE-2025-68613", "ts": "2026-10-15T14:19:45Z", "type": "new_poc", "url": "https://github.com/bijoumj/cve-2025-68613-ctf"}

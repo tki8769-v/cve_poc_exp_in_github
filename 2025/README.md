@@ -598,6 +598,8 @@ You should upgrade to version 6.0.0 of the provider to avoid even that risk.
 
 - [https://github.com/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613](https://github.com/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613) : ![starts](https://img.shields.io/github/stars/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613.svg) ![forks](https://img.shields.io/github/forks/RianJuniorSf/Analysis-And-POC-N8N-CVE-2025-68613.svg)
 
+- [https://github.com/bijoumj/cve-2025-68613-ctf](https://github.com/bijoumj/cve-2025-68613-ctf) : ![starts](https://img.shields.io/github/stars/bijoumj/cve-2025-68613-ctf.svg) ![forks](https://img.shields.io/github/forks/bijoumj/cve-2025-68613-ctf.svg)
+
 ## CVE-2025-68493
  Missing XML Validation vulnerability in Apache Struts, Apache Struts.
 
@@ -944,6 +946,10 @@ As an alternative mitigation, the Socket Appender may be configured to use a pri
  An issue in IObit Unlocker v1.3.0.11 allows attackers to cause a Denial of Service (DoS) via a crafted request.
 
 - [https://github.com/cwjchoi01/CVE-2025-66676](https://github.com/cwjchoi01/CVE-2025-66676) : ![starts](https://img.shields.io/github/stars/cwjchoi01/CVE-2025-66676.svg) ![forks](https://img.shields.io/github/forks/cwjchoi01/CVE-2025-66676.svg)
+
+## CVE-2025-66645
+
+- [https://github.com/prokeon5991-wq/cve-2025-66645](https://github.com/prokeon5991-wq/cve-2025-66645) : ![starts](https://img.shields.io/github/stars/prokeon5991-wq/cve-2025-66645.svg) ![forks](https://img.shields.io/github/forks/prokeon5991-wq/cve-2025-66645.svg)
 
 ## CVE-2025-66628
  ImageMagick is a software suite to create, edit, compose, or convert bitmap images. In versions 7.1.2-9 and prior, the TIM (PSX TIM) image parser contains a critical integer overflow vulnerability in its ReadTIMImage function (coders/tim.c). The code reads width and height (16-bit values) from the file header and calculates image_size = 2 * width * height without checking for overflow. On 32-bit systems (or where size_t is 32-bit), this calculation can overflow if width and height are large (e.g., 65535), wrapping around to a small value. This results in a small heap allocation via AcquireQuantumMemory and later operations relying on the dimensions can trigger an out of bounds read. This issue is fixed in version 7.1.2-10.
