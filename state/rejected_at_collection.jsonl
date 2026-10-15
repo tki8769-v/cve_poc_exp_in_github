@@ -978,3 +978,15 @@
 {"cve_id": "CVE-2019-2017", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:25:42Z", "url": "https://github.com/CQ-Tools/CVE-2019-20174-fixed", "url_ids": ["CVE-2019-20174"]}
 {"cve_id": "CVE-2024-4110", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:25:43Z", "url": "https://github.com/d0rb/CVE-2024-41107", "url_ids": ["CVE-2024-41107"]}
 {"cve_id": "CVE-2025-5652", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:28:50Z", "url": "https://github.com/HanTul/Kotaemon-CVE-2025-56526-56527-disclosure", "url_ids": ["CVE-2025-56526"]}
+{"cve_id": "CVE-2021-4037", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:39:59Z", "url": "https://github.com/maikroservice/CVE-2021-40373", "url_ids": ["CVE-2021-40373"]}
+{"cve_id": "CVE-2021-4090", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:40:00Z", "url": "https://github.com/vulnz/CVE-2021-40903", "url_ids": ["CVE-2021-40903"]}
+{"cve_id": "CVE-2022-2327", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:43:47Z", "url": "https://github.com/7BitsTeam/CVE-2022-23277", "url_ids": ["CVE-2022-23277"]}
+{"cve_id": "CVE-2022-2327", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:43:47Z", "url": "https://github.com/corelight/CVE-2022-23270-PPTP", "url_ids": ["CVE-2022-23270"]}
+{"cve_id": "CVE-2022-2586", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:44:48Z", "url": "https://github.com/neverendingsupport/angularjs-poc-cve-2022-25869", "url_ids": ["CVE-2022-25869"]}
+{"cve_id": "CVE-2025-6668", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:45:56Z", "url": "https://github.com/cwjchoi01/CVE-2025-66680", "url_ids": ["CVE-2025-66680"]}
+{"cve_id": "CVE-2022-3169", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:46:43Z", "url": "https://github.com/blipzip/cve-2022-31692", "url_ids": ["CVE-2022-31692"]}
+{"cve_id": "CVE-2022-3169", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:46:43Z", "url": "https://github.com/blipzip/CVE-2022-31691", "url_ids": ["CVE-2022-31691"]}
+{"cve_id": "CVE-2022-3169", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:46:43Z", "url": "https://github.com/hotblac/cve-2022-31692", "url_ids": ["CVE-2022-31692"]}
+{"cve_id": "CVE-2022-3564", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:47:46Z", "url": "https://github.com/antoinenguyen-09/CVE-2022-35649", "url_ids": ["CVE-2022-35649"]}
+{"cve_id": "CVE-2022-3565", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:47:46Z", "url": "https://github.com/Gr4y-r0se/CVE-2022-35650", "url_ids": ["CVE-2022-35650"]}
+{"cve_id": "CVE-2022-3606", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T14:47:51Z", "url": "https://github.com/prathamhasnotchanged/Exploit-For-CVE-2022-36067", "url_ids": ["CVE-2022-36067"]}

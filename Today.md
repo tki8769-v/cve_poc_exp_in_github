@@ -60,6 +60,7 @@ The security risk posed by this issue is minimized by restricting access to the 
 - [https://github.com/Iceman2050/cve-2026-110447-checker](https://github.com/Iceman2050/cve-2026-110447-checker) : ![starts](https://img.shields.io/github/stars/Iceman2050/cve-2026-110447-checker.svg) ![forks](https://img.shields.io/github/forks/Iceman2050/cve-2026-110447-checker.svg)
 
 ## CVE-2026-110912
+> In DragonFly BSD through 6.4.2 before 4bb22ff, the ARP input handlers arpintr() and in_arpinput() (sys/netinet/if_ether.c) do not validate the hardware address length (ar_hln) and protocol address length (ar_pln) fields of incoming ARP packets. in_arpreply() then uses these attacker-controlled values as memcpy lengths when copying from kernel buffers that are only 6 and 4 bytes long, resulting in an out-of-bounds read of kernel heap and stack memory that is copied into the ARP reply sent back to
 
 - [https://github.com/dreamfast/CVE-2026-110912](https://github.com/dreamfast/CVE-2026-110912) : ![starts](https://img.shields.io/github/stars/dreamfast/CVE-2026-110912.svg) ![forks](https://img.shields.io/github/forks/dreamfast/CVE-2026-110912.svg)
 
@@ -131,6 +132,25 @@ problems:
 ## CVE-2026-56129
 
 - [https://github.com/valium007/CVE-2026-56129](https://github.com/valium007/CVE-2026-56129) : ![starts](https://img.shields.io/github/stars/valium007/CVE-2026-56129.svg) ![forks](https://img.shields.io/github/forks/valium007/CVE-2026-56129.svg)
+
+## CVE-2026-64560
+> In the Linux kernel, the following vulnerability has been resolved:
+
+posix-cpu-timers: Prevent UAF caused by non-leader exec() race
+
+Wongi and Jungwoo decoded and reported a non-leader exec() related race
+which can result in an UAF:
+
+ sys_timer_delete()			exec()
+   posix_cpu_timer_del()
+   // Observes old leader
+   p = pid_task(pid, pid_type);		de_thread()
+   					  switch_leader();
+					  release_task(old_leader)
+					    __exit_signal(old_leader)
+					      sighand = lock(old_leader, sighand);
+
+- [https://github.com/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu](https://github.com/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu) : ![starts](https://img.shields.io/github/stars/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu.svg) ![forks](https://img.shields.io/github/forks/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu.svg)
 
 ## CVE-2026-68121
 

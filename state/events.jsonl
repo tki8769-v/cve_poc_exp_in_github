@@ -2733,3 +2733,4 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-10-15T14:19:33Z", "type": "new_poc", "url": "https://github.com/y896406256-lang/ghostlock-brt-w09"}
 {"cve_id": "CVE-2024-6648", "ts": "2026-10-15T14:19:45Z", "type": "new_poc", "url": "https://github.com/alexb616/CVE-2024-6648-RCE"}
 {"cve_id": "CVE-2025-68613", "ts": "2026-10-15T14:19:45Z", "type": "new_poc", "url": "https://github.com/bijoumj/cve-2025-68613-ctf"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-10-15T14:39:35Z", "type": "new_poc", "url": "https://github.com/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu"}
