@@ -2740,3 +2740,4 @@
 {"cve_id": "CVE-2026-64560", "ts": "2026-10-15T20:31:20Z", "type": "new_poc", "url": "https://github.com/imkidz0/CVE-2026-64560-exploit"}
 {"cve_id": "CVE-2020-1472", "ts": "2026-10-15T20:34:25Z", "type": "new_poc", "url": "https://github.com/erk3/zeroscan"}
 {"cve_id": "CVE-2026-5027", "ts": "2026-10-15T20:37:15Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-5027"}
+{"cve_id": "CVE-2014-6271", "ts": "2026-10-15T20:54:04Z", "type": "new_poc", "url": "https://github.com/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report"}

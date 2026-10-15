@@ -1057,3 +1057,6 @@
 {"cve_id": "CVE-2026-7515", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T20:34:23Z", "url": "https://github.com/licitrasimone/cve-2026-75157-poc", "url_ids": ["CVE-2026-75157"]}
 {"cve_id": "CVE-2025-6075", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T20:40:24Z", "url": "https://github.com/zer0matt/CVE-2025-60752", "url_ids": ["CVE-2025-60752"]}
 {"cve_id": "CVE-2025-6075", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T20:40:24Z", "url": "https://github.com/zer0matt/CVE-2025-60751", "url_ids": ["CVE-2025-60751"]}
+{"cve_id": "CVE-2026-5005", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T20:48:03Z", "url": "https://github.com/HORKimhab/CVE-2026-50055", "url_ids": ["CVE-2026-50055"]}
+{"cve_id": "CVE-2023-4150", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T20:48:51Z", "url": "https://github.com/redblueteam/CVE-2023-41508", "url_ids": ["CVE-2023-41508"]}
+{"cve_id": "CVE-2023-4150", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T20:48:51Z", "url": "https://github.com/redblueteam/CVE-2023-41507", "url_ids": ["CVE-2023-41507"]}

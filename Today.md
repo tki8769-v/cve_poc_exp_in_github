@@ -1,4 +1,8 @@
 # Update 2026-10-15
+## CVE-2014-6271
+
+- [https://github.com/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report](https://github.com/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report) : ![starts](https://img.shields.io/github/stars/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report.svg) ![forks](https://img.shields.io/github/forks/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report.svg)
+
 ## CVE-2020-1472
 
 - [https://github.com/erk3/zeroscan](https://github.com/erk3/zeroscan) : ![starts](https://img.shields.io/github/stars/erk3/zeroscan.svg) ![forks](https://img.shields.io/github/forks/erk3/zeroscan.svg)
