@@ -1,4 +1,8 @@
 # Update 2026-10-15
+## CVE-2020-1472
+
+- [https://github.com/erk3/zeroscan](https://github.com/erk3/zeroscan) : ![starts](https://img.shields.io/github/stars/erk3/zeroscan.svg) ![forks](https://img.shields.io/github/forks/erk3/zeroscan.svg)
+
 ## CVE-2021-1905
 
 - [https://github.com/Gonvar/movistar-home-root-](https://github.com/Gonvar/movistar-home-root-) : ![starts](https://img.shields.io/github/stars/Gonvar/movistar-home-root-.svg) ![forks](https://img.shields.io/github/forks/Gonvar/movistar-home-root-.svg)
@@ -40,6 +44,11 @@ The security risk posed by this issue is minimized by restricting access to the 
 
 - [https://github.com/Ife-ella/CVE-vulnerability](https://github.com/Ife-ella/CVE-vulnerability) : ![starts](https://img.shields.io/github/stars/Ife-ella/CVE-vulnerability.svg) ![forks](https://img.shields.io/github/forks/Ife-ella/CVE-vulnerability.svg)
 
+## CVE-2026-102697
+> Ollama versions 0.14.0 before 0.31.2 contain an incorrect authorization vulnerability in the experimental agent mode Bash tool approval mechanism that fails to properly parse shell syntax. Attackers who can influence model output through prompt injection can execute additional shell commands by appending control operators like semicolons or logical operators to approved commands, bypassing the session approval requirement.
+
+- [https://github.com/akinerkisa/blindllama-cve-2026-102697](https://github.com/akinerkisa/blindllama-cve-2026-102697) : ![starts](https://img.shields.io/github/stars/akinerkisa/blindllama-cve-2026-102697.svg) ![forks](https://img.shields.io/github/forks/akinerkisa/blindllama-cve-2026-102697.svg)
+
 ## CVE-2026-104711
 > Improper neutralization of special elements used in an expression language statement (&#x27;Expression Language Injection&#x27;) vulnerability in Apache Struts. If the application is configured to use the legacy RESTful action mapper, a crafted request can inject an OGNL expression that may lead to remote code execution. Struts 7 is affected only when the OGNL allowlist is disabled; it is enabled by default. Applications using the default action mapper, the restful2 mapper, or the Struts REST plugin are n
 
@@ -54,6 +63,11 @@ The security risk posed by this issue is minimized by restricting access to the 
 
 - [https://github.com/Primandito/CVE-2026-107081](https://github.com/Primandito/CVE-2026-107081) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-107081.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-107081.svg)
 
+## CVE-2026-108578
+> A vulnerability was identified in Neterbit NW-431F 20250715. Impacted is an unknown function of the file /sms.json of the component Embedded Web Server. Such manipulation leads to information disclosure. The attack may be launched remotely. The vendor was contacted early about this disclosure but did not respond in any way.
+
+- [https://github.com/KernelDotDLL/CVE-2026-108578](https://github.com/KernelDotDLL/CVE-2026-108578) : ![starts](https://img.shields.io/github/stars/KernelDotDLL/CVE-2026-108578.svg) ![forks](https://img.shields.io/github/forks/KernelDotDLL/CVE-2026-108578.svg)
+
 ## CVE-2026-110447
 > Collabora Online Built-in CODE Server before 26.4.303 (richdocumentscode), a Nextcloud app, allows remote code execution, as exploited in the wild in September and October 2026, a different vulnerability than CVE-2025-66208. This is an OS command injection in proxy.php when the CODE server isn&#x27;t running (e.g., the product was recently restarted). The vulnerability is not present in standalone Collabora Online servers; only this deployment with CODE Server is affected.
 
@@ -62,6 +76,7 @@ The security risk posed by this issue is minimized by restricting access to the 
 ## CVE-2026-110912
 > In DragonFly BSD through 6.4.2 before 4bb22ff, the ARP input handlers arpintr() and in_arpinput() (sys/netinet/if_ether.c) do not validate the hardware address length (ar_hln) and protocol address length (ar_pln) fields of incoming ARP packets. in_arpreply() then uses these attacker-controlled values as memcpy lengths when copying from kernel buffers that are only 6 and 4 bytes long, resulting in an out-of-bounds read of kernel heap and stack memory that is copied into the ARP reply sent back to
 
+- [https://github.com/0xBlackash/CVE-2026-110912](https://github.com/0xBlackash/CVE-2026-110912) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-110912.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-110912.svg)
 - [https://github.com/dreamfast/CVE-2026-110912](https://github.com/dreamfast/CVE-2026-110912) : ![starts](https://img.shields.io/github/stars/dreamfast/CVE-2026-110912.svg) ![forks](https://img.shields.io/github/forks/dreamfast/CVE-2026-110912.svg)
 
 ## CVE-2026-110958
@@ -130,6 +145,10 @@ problems:
 
 - [https://github.com/songjianyang/CVE-2026-47644](https://github.com/songjianyang/CVE-2026-47644) : ![starts](https://img.shields.io/github/stars/songjianyang/CVE-2026-47644.svg) ![forks](https://img.shields.io/github/forks/songjianyang/CVE-2026-47644.svg)
 
+## CVE-2026-5027
+
+- [https://github.com/yym8538/CVE-2026-5027](https://github.com/yym8538/CVE-2026-5027) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-5027.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-5027.svg)
+
 ## CVE-2026-56129
 
 - [https://github.com/valium007/CVE-2026-56129](https://github.com/valium007/CVE-2026-56129) : ![starts](https://img.shields.io/github/stars/valium007/CVE-2026-56129.svg) ![forks](https://img.shields.io/github/forks/valium007/CVE-2026-56129.svg)
@@ -152,6 +171,7 @@ which can result in an UAF:
 					      sighand = lock(old_leader, sighand);
 
 - [https://github.com/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu](https://github.com/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu) : ![starts](https://img.shields.io/github/stars/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu.svg) ![forks](https://img.shields.io/github/forks/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu.svg)
+- [https://github.com/imkidz0/CVE-2026-64560-exploit](https://github.com/imkidz0/CVE-2026-64560-exploit) : ![starts](https://img.shields.io/github/stars/imkidz0/CVE-2026-64560-exploit.svg) ![forks](https://img.shields.io/github/forks/imkidz0/CVE-2026-64560-exploit.svg)
 
 ## CVE-2026-68121
 

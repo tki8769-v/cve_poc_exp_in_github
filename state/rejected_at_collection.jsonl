@@ -1053,3 +1053,7 @@
 {"cve_id": "CVE-2021-2220", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T15:10:26Z", "url": "https://github.com/ccordeiro/CVE-2021-22205", "url_ids": ["CVE-2021-22205"]}
 {"cve_id": "CVE-2021-2220", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T15:10:26Z", "url": "https://github.com/cc3305/CVE-2021-22204", "url_ids": ["CVE-2021-22204"]}
 {"cve_id": "CVE-2021-2220", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T15:10:26Z", "url": "https://github.com/CyberCTF/vulhub-gitlab-cve-2021-22205", "url_ids": ["CVE-2021-22205"]}
+{"cve_id": "CVE-2025-6998", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T20:31:44Z", "url": "https://github.com/joshuavanderpoll/CVE-2025-69985", "url_ids": ["CVE-2025-69985"]}
+{"cve_id": "CVE-2026-7515", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T20:34:23Z", "url": "https://github.com/licitrasimone/cve-2026-75157-poc", "url_ids": ["CVE-2026-75157"]}
+{"cve_id": "CVE-2025-6075", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T20:40:24Z", "url": "https://github.com/zer0matt/CVE-2025-60752", "url_ids": ["CVE-2025-60752"]}
+{"cve_id": "CVE-2025-6075", "reason": "prefix_conflict_evidenced", "ts": "2026-10-15T20:40:24Z", "url": "https://github.com/zer0matt/CVE-2025-60751", "url_ids": ["CVE-2025-60751"]}

@@ -2734,3 +2734,9 @@
 {"cve_id": "CVE-2024-6648", "ts": "2026-10-15T14:19:45Z", "type": "new_poc", "url": "https://github.com/alexb616/CVE-2024-6648-RCE"}
 {"cve_id": "CVE-2025-68613", "ts": "2026-10-15T14:19:45Z", "type": "new_poc", "url": "https://github.com/bijoumj/cve-2025-68613-ctf"}
 {"cve_id": "CVE-2026-64560", "ts": "2026-10-15T14:39:35Z", "type": "new_poc", "url": "https://github.com/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu"}
+{"cve_id": "CVE-2026-110912", "ts": "2026-10-15T20:31:10Z", "type": "new_poc", "url": "https://github.com/0xBlackash/CVE-2026-110912"}
+{"cve_id": "CVE-2026-108578", "ts": "2026-10-15T20:31:11Z", "type": "new_poc", "url": "https://github.com/KernelDotDLL/CVE-2026-108578"}
+{"cve_id": "CVE-2026-102697", "ts": "2026-10-15T20:31:11Z", "type": "new_poc", "url": "https://github.com/akinerkisa/blindllama-cve-2026-102697"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-10-15T20:31:20Z", "type": "new_poc", "url": "https://github.com/imkidz0/CVE-2026-64560-exploit"}
+{"cve_id": "CVE-2020-1472", "ts": "2026-10-15T20:34:25Z", "type": "new_poc", "url": "https://github.com/erk3/zeroscan"}
+{"cve_id": "CVE-2026-5027", "ts": "2026-10-15T20:37:15Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2026-5027"}
