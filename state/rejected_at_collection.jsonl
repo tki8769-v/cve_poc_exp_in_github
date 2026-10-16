@@ -1175,3 +1175,13 @@
 {"cve_id": "CVE-2026-2689", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T00:09:12Z", "url": "https://github.com/iwallplace/CVE-2026-26897-EcoOnline-DeepLink", "url_ids": ["CVE-2026-26897"]}
 {"cve_id": "CVE-2026-6173", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:00:46Z", "url": "https://github.com/InertFluid/cve-2026-61732-lab", "url_ids": ["CVE-2026-61732"]}
 {"cve_id": "CVE-2025-5585", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:03:48Z", "url": "https://github.com/PushkarAyengar/CVE-2025-55854-PoC", "url_ids": ["CVE-2025-55854"]}
+{"cve_id": "CVE-2025-2596", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:19:12Z", "url": "https://github.com/Sudo-Sakib/CVE-2025-25964", "url_ids": ["CVE-2025-25964"]}
+{"cve_id": "CVE-2025-2596", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:19:12Z", "url": "https://github.com/Sudo-Sakib/CVE-2025-25965", "url_ids": ["CVE-2025-25965"]}
+{"cve_id": "CVE-2026-3180", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:23:16Z", "url": "https://github.com/Recorded-texteditor120/CVE-2026-31802", "url_ids": ["CVE-2026-31802"]}
+{"cve_id": "CVE-2026-3180", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:23:16Z", "url": "https://github.com/Jvr2022/CVE-2026-31802", "url_ids": ["CVE-2026-31802"]}
+{"cve_id": "CVE-2025-6335", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:24:07Z", "url": "https://github.com/r0otk3r/CVE-2025-63353", "url_ids": ["CVE-2025-63353"]}
+{"cve_id": "CVE-2025-6335", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:24:07Z", "url": "https://github.com/0xA1M/CVE-2025-63353", "url_ids": ["CVE-2025-63353"]}
+{"cve_id": "CVE-2025-6335", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:24:07Z", "url": "https://github.com/zvckster/CVE-2025-63353", "url_ids": ["CVE-2025-63353"]}
+{"cve_id": "CVE-2023-2313", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:25:20Z", "url": "https://github.com/l00neyhacker/CVE-2023-23130", "url_ids": ["CVE-2023-23130"]}
+{"cve_id": "CVE-2023-2313", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:25:20Z", "url": "https://github.com/l00neyhacker/CVE-2023-23131", "url_ids": ["CVE-2023-23131"]}
+{"cve_id": "CVE-2023-2313", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:25:20Z", "url": "https://github.com/l00neyhacker/CVE-2023-23132", "url_ids": ["CVE-2023-23132"]}

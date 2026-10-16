@@ -3,6 +3,10 @@
 
 - [https://github.com/yilmaz8596/metasploitable-vulnerability-assessment](https://github.com/yilmaz8596/metasploitable-vulnerability-assessment) : ![starts](https://img.shields.io/github/stars/yilmaz8596/metasploitable-vulnerability-assessment.svg) ![forks](https://img.shields.io/github/forks/yilmaz8596/metasploitable-vulnerability-assessment.svg)
 
+## CVE-2021-42013
+
+- [https://github.com/lmcewen9/cve-2021-42013](https://github.com/lmcewen9/cve-2021-42013) : ![starts](https://img.shields.io/github/stars/lmcewen9/cve-2021-42013.svg) ![forks](https://img.shields.io/github/forks/lmcewen9/cve-2021-42013.svg)
+
 ## CVE-2021-42574
 
 - [https://github.com/gitstq/GlyphGuard](https://github.com/gitstq/GlyphGuard) : ![starts](https://img.shields.io/github/stars/gitstq/GlyphGuard.svg) ![forks](https://img.shields.io/github/forks/gitstq/GlyphGuard.svg)
