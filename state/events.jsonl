@@ -2781,3 +2781,4 @@
 {"cve_id": "CVE-2026-108598", "ts": "2026-10-16T14:05:13Z", "type": "new_poc", "url": "https://github.com/Sidesploitx/CVE-2026-108598"}
 {"cve_id": "CVE-2026-108097", "ts": "2026-10-16T14:05:13Z", "type": "new_poc", "url": "https://github.com/FurkanKAYAPINAR/CVE-2026-108097"}
 {"cve_id": "CVE-2024-14027", "ts": "2026-10-16T14:09:01Z", "type": "new_poc", "url": "https://github.com/lcfr-hax/CVE-2024-14027_slop"}
+{"cve_id": "CVE-2026-103910", "ts": "2026-10-16T14:38:17Z", "type": "cve_rejected"}

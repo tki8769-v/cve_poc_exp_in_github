@@ -1192,3 +1192,4 @@
 {"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T14:31:45Z", "url": "https://github.com/twseptian/cve-2021-38314", "url_ids": ["CVE-2021-38314"]}
 {"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T14:31:45Z", "url": "https://github.com/0xGabe/CVE-2021-38314", "url_ids": ["CVE-2021-38314"]}
 {"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T14:31:45Z", "url": "https://github.com/c0ff33b34n/CVE-2021-38314", "url_ids": ["CVE-2021-38314"]}
+{"cve_id": "CVE-2026-9368", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T14:53:07Z", "url": "https://github.com/rmhowe425/POC-CVE-2026-93680", "url_ids": ["CVE-2026-93680"]}
