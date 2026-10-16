@@ -2,6 +2,14 @@
 
 - [https://github.com/danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300) : ![starts](https://img.shields.io/github/stars/danish1162/CVE-2026-2035703-x300.svg) ![forks](https://img.shields.io/github/forks/danish1162/CVE-2026-2035703-x300.svg)
 
+## CVE-2026-111444
+
+- [https://github.com/Syscallh00k/CVE-2026-111444](https://github.com/Syscallh00k/CVE-2026-111444) : ![starts](https://img.shields.io/github/stars/Syscallh00k/CVE-2026-111444.svg) ![forks](https://img.shields.io/github/forks/Syscallh00k/CVE-2026-111444.svg)
+
+## CVE-2026-111389
+
+- [https://github.com/Syscallh00k/CVE-2026-111389](https://github.com/Syscallh00k/CVE-2026-111389) : ![starts](https://img.shields.io/github/stars/Syscallh00k/CVE-2026-111389.svg) ![forks](https://img.shields.io/github/forks/Syscallh00k/CVE-2026-111389.svg)
+
 ## CVE-2026-110958
 
 - [https://github.com/shlln/CVE-2026-110958](https://github.com/shlln/CVE-2026-110958) : ![starts](https://img.shields.io/github/stars/shlln/CVE-2026-110958.svg) ![forks](https://img.shields.io/github/forks/shlln/CVE-2026-110958.svg)
@@ -279,6 +287,7 @@ device operation and availability. No authentication, session e
 - [https://github.com/AmalJafarzade/CVE-2026-104587](https://github.com/AmalJafarzade/CVE-2026-104587) : ![starts](https://img.shields.io/github/stars/AmalJafarzade/CVE-2026-104587.svg) ![forks](https://img.shields.io/github/forks/AmalJafarzade/CVE-2026-104587.svg)
 
 ## CVE-2026-104586
+> AUTOM8N (WHM/cPanel plugin) through commit 82821f7 contains an OS Command Injection in borg_restore.cgi.
 
 - [https://github.com/AmalJafarzade/CVE-2026-104586](https://github.com/AmalJafarzade/CVE-2026-104586) : ![starts](https://img.shields.io/github/stars/AmalJafarzade/CVE-2026-104586.svg) ![forks](https://img.shields.io/github/forks/AmalJafarzade/CVE-2026-104586.svg)
 
@@ -5868,6 +5877,8 @@ but was pre-existing.
 - [https://github.com/HackSpeak/CVE-2026-53365](https://github.com/HackSpeak/CVE-2026-53365) : ![starts](https://img.shields.io/github/stars/HackSpeak/CVE-2026-53365.svg) ![forks](https://img.shields.io/github/forks/HackSpeak/CVE-2026-53365.svg)
 
 - [https://github.com/HORKimhab/CVE-2026-53365](https://github.com/HORKimhab/CVE-2026-53365) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-53365.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-53365.svg)
+
+- [https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365](https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365) : ![starts](https://img.shields.io/github/stars/hoodoer/VsockDrop-Adapted-CVE-2026-53365.svg) ![forks](https://img.shields.io/github/forks/hoodoer/VsockDrop-Adapted-CVE-2026-53365.svg)
 
 ## CVE-2026-53362
  In the Linux kernel, the following vulnerability has been resolved:

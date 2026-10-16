@@ -1173,3 +1173,5 @@
 {"cve_id": "CVE-2026-5934", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T00:07:10Z", "url": "https://github.com/0xCyberstan/CVE-2026-59346-POC", "url_ids": ["CVE-2026-59346"]}
 {"cve_id": "CVE-2026-2689", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T00:09:12Z", "url": "https://github.com/iwallplace/CVE-2026-26898-Xiaomi-SSRF-HostHeaderInjection", "url_ids": ["CVE-2026-26898"]}
 {"cve_id": "CVE-2026-2689", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T00:09:12Z", "url": "https://github.com/iwallplace/CVE-2026-26897-EcoOnline-DeepLink", "url_ids": ["CVE-2026-26897"]}
+{"cve_id": "CVE-2026-6173", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:00:46Z", "url": "https://github.com/InertFluid/cve-2026-61732-lab", "url_ids": ["CVE-2026-61732"]}
+{"cve_id": "CVE-2025-5585", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:03:48Z", "url": "https://github.com/PushkarAyengar/CVE-2025-55854-PoC", "url_ids": ["CVE-2025-55854"]}

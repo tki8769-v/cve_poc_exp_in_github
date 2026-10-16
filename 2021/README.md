@@ -1761,6 +1761,8 @@
 
 - [https://github.com/sotiak/CVE-2021-42574](https://github.com/sotiak/CVE-2021-42574) : ![starts](https://img.shields.io/github/stars/sotiak/CVE-2021-42574.svg) ![forks](https://img.shields.io/github/forks/sotiak/CVE-2021-42574.svg)
 
+- [https://github.com/gitstq/GlyphGuard](https://github.com/gitstq/GlyphGuard) : ![starts](https://img.shields.io/github/stars/gitstq/GlyphGuard.svg) ![forks](https://img.shields.io/github/forks/gitstq/GlyphGuard.svg)
+
 ## CVE-2021-42562
  An issue was discovered in CALDERA 2.8.1. It does not properly segregate user privileges, resulting in non-admin users having access to read and modify configuration or other components that should only be accessible by admin users.
 

@@ -2751,3 +2751,8 @@
 {"cve_id": "CVE-2025-24813", "ts": "2026-10-16T00:26:53Z", "type": "new_poc", "url": "https://github.com/yym8538/CVE-2025-24813"}
 {"cve_id": "CVE-2025-24813", "ts": "2026-10-16T00:26:53Z", "type": "new_poc", "url": "https://github.com/Si13NTTT/CVE-2025-24813"}
 {"cve_id": "CVE-2025-24813", "ts": "2026-10-16T00:26:53Z", "type": "new_poc", "url": "https://github.com/HwangEojin/CVE-2025-24813-Tomcat11-Lab"}
+{"cve_id": "CVE-2024-2961", "ts": "2026-10-16T05:57:37Z", "type": "new_poc", "url": "https://github.com/Sib1110/cve-2024-2961"}
+{"cve_id": "CVE-2026-111389", "ts": "2026-10-16T05:57:37Z", "type": "new_poc", "url": "https://github.com/Syscallh00k/CVE-2026-111389"}
+{"cve_id": "CVE-2026-111444", "ts": "2026-10-16T05:57:38Z", "type": "new_poc", "url": "https://github.com/Syscallh00k/CVE-2026-111444"}
+{"cve_id": "CVE-2026-53365", "ts": "2026-10-16T05:57:38Z", "type": "new_poc", "url": "https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365"}
+{"cve_id": "CVE-2021-42574", "ts": "2026-10-16T05:57:38Z", "type": "new_poc", "url": "https://github.com/gitstq/GlyphGuard"}

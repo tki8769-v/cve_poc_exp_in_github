@@ -3,6 +3,14 @@
 
 - [https://github.com/danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300) : ![starts](https://img.shields.io/github/stars/danish1162/CVE-2026-2035703-x300.svg) ![forks](https://img.shields.io/github/forks/danish1162/CVE-2026-2035703-x300.svg)
 
+## CVE-2026-111444
+
+- [https://github.com/Syscallh00k/CVE-2026-111444](https://github.com/Syscallh00k/CVE-2026-111444) : ![starts](https://img.shields.io/github/stars/Syscallh00k/CVE-2026-111444.svg) ![forks](https://img.shields.io/github/forks/Syscallh00k/CVE-2026-111444.svg)
+
+## CVE-2026-111389
+
+- [https://github.com/Syscallh00k/CVE-2026-111389](https://github.com/Syscallh00k/CVE-2026-111389) : ![starts](https://img.shields.io/github/stars/Syscallh00k/CVE-2026-111389.svg) ![forks](https://img.shields.io/github/forks/Syscallh00k/CVE-2026-111389.svg)
+
 ## CVE-2026-110958
 
 - [https://github.com/shlln/CVE-2026-110958](https://github.com/shlln/CVE-2026-110958) : ![starts](https://img.shields.io/github/stars/shlln/CVE-2026-110958.svg) ![forks](https://img.shields.io/github/forks/shlln/CVE-2026-110958.svg)
@@ -280,6 +288,7 @@ device operation and availability. No authentication, session e
 - [https://github.com/AmalJafarzade/CVE-2026-104587](https://github.com/AmalJafarzade/CVE-2026-104587) : ![starts](https://img.shields.io/github/stars/AmalJafarzade/CVE-2026-104587.svg) ![forks](https://img.shields.io/github/forks/AmalJafarzade/CVE-2026-104587.svg)
 
 ## CVE-2026-104586
+> AUTOM8N (WHM/cPanel plugin) through commit 82821f7 contains an OS Command Injection in borg_restore.cgi.
 
 - [https://github.com/AmalJafarzade/CVE-2026-104586](https://github.com/AmalJafarzade/CVE-2026-104586) : ![starts](https://img.shields.io/github/stars/AmalJafarzade/CVE-2026-104586.svg) ![forks](https://img.shields.io/github/forks/AmalJafarzade/CVE-2026-104586.svg)
 
@@ -5869,6 +5878,8 @@ but was pre-existing.
 - [https://github.com/HackSpeak/CVE-2026-53365](https://github.com/HackSpeak/CVE-2026-53365) : ![starts](https://img.shields.io/github/stars/HackSpeak/CVE-2026-53365.svg) ![forks](https://img.shields.io/github/forks/HackSpeak/CVE-2026-53365.svg)
 
 - [https://github.com/HORKimhab/CVE-2026-53365](https://github.com/HORKimhab/CVE-2026-53365) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-53365.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-53365.svg)
+
+- [https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365](https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365) : ![starts](https://img.shields.io/github/stars/hoodoer/VsockDrop-Adapted-CVE-2026-53365.svg) ![forks](https://img.shields.io/github/forks/hoodoer/VsockDrop-Adapted-CVE-2026-53365.svg)
 
 ## CVE-2026-53362
  In the Linux kernel, the following vulnerability has been resolved:
@@ -49555,6 +49566,8 @@ Through a series of complex obfuscations, the liblzma build process extracts a p
 
 - [https://github.com/Clarissss/osTicketFileReadIntoRCE](https://github.com/Clarissss/osTicketFileReadIntoRCE) : ![starts](https://img.shields.io/github/stars/Clarissss/osTicketFileReadIntoRCE.svg) ![forks](https://img.shields.io/github/forks/Clarissss/osTicketFileReadIntoRCE.svg)
 
+- [https://github.com/Sib1110/cve-2024-2961](https://github.com/Sib1110/cve-2024-2961) : ![starts](https://img.shields.io/github/stars/Sib1110/cve-2024-2961.svg) ![forks](https://img.shields.io/github/forks/Sib1110/cve-2024-2961.svg)
+
 ## CVE-2024-2928
  A Local File Inclusion (LFI) vulnerability was identified in mlflow/mlflow, specifically in version 2.9.2, which was fixed in version 2.11.3. This vulnerability arises from the application's failure to properly validate URI fragments for directory traversal sequences such as '../'. An attacker can exploit this flaw by manipulating the fragment part of the URI to read arbitrary files on the local file system, including sensitive files like '/etc/passwd'. The vulnerability is a bypass to a previous patch that only addressed similar manipulation within the URI's query string, highlighting the need for comprehensive validation of all parts of a URI to prevent LFI attacks.
 
@@ -71215,6 +71228,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/pierDipi/unicode-control-characters-action](https://github.com/pierDipi/unicode-control-characters-action) : ![starts](https://img.shields.io/github/stars/pierDipi/unicode-control-characters-action.svg) ![forks](https://img.shields.io/github/forks/pierDipi/unicode-control-characters-action.svg)
 
 - [https://github.com/sotiak/CVE-2021-42574](https://github.com/sotiak/CVE-2021-42574) : ![starts](https://img.shields.io/github/stars/sotiak/CVE-2021-42574.svg) ![forks](https://img.shields.io/github/forks/sotiak/CVE-2021-42574.svg)
+
+- [https://github.com/gitstq/GlyphGuard](https://github.com/gitstq/GlyphGuard) : ![starts](https://img.shields.io/github/stars/gitstq/GlyphGuard.svg) ![forks](https://img.shields.io/github/forks/gitstq/GlyphGuard.svg)
 
 ## CVE-2021-42562
  An issue was discovered in CALDERA 2.8.1. It does not properly segregate user privileges, resulting in non-admin users having access to read and modify configuration or other components that should only be accessible by admin users.

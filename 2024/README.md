@@ -11745,6 +11745,8 @@ Through a series of complex obfuscations, the liblzma build process extracts a p
 
 - [https://github.com/Clarissss/osTicketFileReadIntoRCE](https://github.com/Clarissss/osTicketFileReadIntoRCE) : ![starts](https://img.shields.io/github/stars/Clarissss/osTicketFileReadIntoRCE.svg) ![forks](https://img.shields.io/github/forks/Clarissss/osTicketFileReadIntoRCE.svg)
 
+- [https://github.com/Sib1110/cve-2024-2961](https://github.com/Sib1110/cve-2024-2961) : ![starts](https://img.shields.io/github/stars/Sib1110/cve-2024-2961.svg) ![forks](https://img.shields.io/github/forks/Sib1110/cve-2024-2961.svg)
+
 ## CVE-2024-2928
  A Local File Inclusion (LFI) vulnerability was identified in mlflow/mlflow, specifically in version 2.9.2, which was fixed in version 2.11.3. This vulnerability arises from the application's failure to properly validate URI fragments for directory traversal sequences such as '../'. An attacker can exploit this flaw by manipulating the fragment part of the URI to read arbitrary files on the local file system, including sensitive files like '/etc/passwd'. The vulnerability is a bypass to a previous patch that only addressed similar manipulation within the URI's query string, highlighting the need for comprehensive validation of all parts of a URI to prevent LFI attacks.
 
