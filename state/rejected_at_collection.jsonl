@@ -1212,3 +1212,4 @@
 {"cve_id": "CVE-2024-3806", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T20:36:56Z", "url": "https://github.com/almogopp/Disable-IPv6-CVE-2024-38063-Fix", "url_ids": ["CVE-2024-38063"]}
 {"cve_id": "CVE-2026-4255", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T20:39:58Z", "url": "https://github.com/joaovicdev/EXPLOIT-CVE-2026-42559", "url_ids": ["CVE-2026-42559"]}
 {"cve_id": "CVE-2026-9090", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T20:42:56Z", "url": "https://github.com/aorozco-sys/CVE-2026-90907", "url_ids": ["CVE-2026-90907"]}
+{"cve_id": "CVE-2022-3317", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T21:10:46Z", "url": "https://github.com/open-flaw/CVE-2022-33171", "url_ids": ["CVE-2022-33171"]}

@@ -48,6 +48,10 @@
 
 - [https://github.com/Worthes/CVE-2026-102764-Proof-of-concept](https://github.com/Worthes/CVE-2026-102764-Proof-of-concept) : ![starts](https://img.shields.io/github/stars/Worthes/CVE-2026-102764-Proof-of-concept.svg) ![forks](https://img.shields.io/github/forks/Worthes/CVE-2026-102764-Proof-of-concept.svg)
 
+## CVE-2026-104736
+
+- [https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details](https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details) : ![starts](https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details.svg) ![forks](https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details.svg)
+
 ## CVE-2026-104745
 
 - [https://github.com/rxsklife/CVE-2026-104745](https://github.com/rxsklife/CVE-2026-104745) : ![starts](https://img.shields.io/github/stars/rxsklife/CVE-2026-104745.svg) ![forks](https://img.shields.io/github/forks/rxsklife/CVE-2026-104745.svg)
@@ -77,6 +81,10 @@
 > The cleanup of tempfile.TemporaryDirectory is vulnerable to a race condition. An attacker who can modify the tree during cleanup can replace a directory with a symbolic link, causing files outside of the temporary directory to be deleted or have their permissions and file flags reset, with the privileges of the process performing the cleanup. Note that platforms where shutil.rmtree.avoids_symlink_attacks is false, remain affected, and file flags may still be reset outside of the tree on all plat
 
 - [https://github.com/zahidec0de/CVE-2026-12345-poc](https://github.com/zahidec0de/CVE-2026-12345-poc) : ![starts](https://img.shields.io/github/stars/zahidec0de/CVE-2026-12345-poc.svg) ![forks](https://img.shields.io/github/forks/zahidec0de/CVE-2026-12345-poc.svg)
+
+## CVE-2026-19607
+
+- [https://github.com/7Ragnarok7/CVE-2026-19607](https://github.com/7Ragnarok7/CVE-2026-19607) : ![starts](https://img.shields.io/github/stars/7Ragnarok7/CVE-2026-19607.svg) ![forks](https://img.shields.io/github/forks/7Ragnarok7/CVE-2026-19607.svg)
 
 ## CVE-2026-36436
 > An issue in Trisolutions BRPerfX version 1.4.4.0 exposes LDAP credentials in plaintext within the administrative configuration interface. An authenticated administrator can inspect the client-side code to retrieve the credential.
@@ -129,6 +137,15 @@ Let&#x27;s illustrate with CPU0 running NEWTFILTER and CPU1 running DELFILTER:
 ## CVE-2026-53365
 
 - [https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365](https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365) : ![starts](https://img.shields.io/github/stars/hoodoer/VsockDrop-Adapted-CVE-2026-53365.svg) ![forks](https://img.shields.io/github/forks/hoodoer/VsockDrop-Adapted-CVE-2026-53365.svg)
+
+## CVE-2026-60137
+> WordPress 6.8.x before 6.8.6, 6.9.x before 6.9.5, and 7.0.x before 7.0.2 does not properly sanitise the author__not_in parameter of WP_Query, which could allow SQL Injection when a plugin or theme passes untrusted input to the parameter.
+
+- [https://github.com/BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC](https://github.com/BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC) : ![starts](https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC.svg) ![forks](https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC.svg)
+
+## CVE-2026-61979
+
+- [https://github.com/BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit](https://github.com/BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit) : ![starts](https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit.svg) ![forks](https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit.svg)
 
 ## CVE-2026-78162
 

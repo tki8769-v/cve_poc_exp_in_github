@@ -274,6 +274,10 @@ device operation and availability. No authentication, session e
 
 - [https://github.com/rxsklife/CVE-2026-104745](https://github.com/rxsklife/CVE-2026-104745) : ![starts](https://img.shields.io/github/stars/rxsklife/CVE-2026-104745.svg) ![forks](https://img.shields.io/github/forks/rxsklife/CVE-2026-104745.svg)
 
+## CVE-2026-104736
+
+- [https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details](https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details) : ![starts](https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details.svg) ![forks](https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details.svg)
+
 ## CVE-2026-104715
 
 - [https://github.com/M3aCulpa/CVE-2026-104715](https://github.com/M3aCulpa/CVE-2026-104715) : ![starts](https://img.shields.io/github/stars/M3aCulpa/CVE-2026-104715.svg) ![forks](https://img.shields.io/github/forks/M3aCulpa/CVE-2026-104715.svg)
@@ -4765,6 +4769,10 @@ This issue affects Elementor Website Builder: from n/a through 4.3.1.
 
 - [https://github.com/Hassham1/CVE-2026-62059-ultimate-member-sqli-poc](https://github.com/Hassham1/CVE-2026-62059-ultimate-member-sqli-poc) : ![starts](https://img.shields.io/github/stars/Hassham1/CVE-2026-62059-ultimate-member-sqli-poc.svg) ![forks](https://img.shields.io/github/forks/Hassham1/CVE-2026-62059-ultimate-member-sqli-poc.svg)
 
+## CVE-2026-61979
+
+- [https://github.com/BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit](https://github.com/BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit) : ![starts](https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit.svg) ![forks](https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-61979-miniOrange-SAML-Auth-Bypass-Exploit.svg)
+
 ## CVE-2026-61946
  Unauthenticated Insecure Direct Object References (IDOR) in Easy Appointments = 3.12.27 versions.
 
@@ -4950,6 +4958,8 @@ This issue affects Elementor Website Builder: from n/a through 4.3.1.
 - [https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-](https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-) : ![starts](https://img.shields.io/github/stars/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-.svg)
 
 - [https://github.com/0xCyp1337/CVE-2026-63030-CVE-2026-60137-WP2SHELL](https://github.com/0xCyp1337/CVE-2026-63030-CVE-2026-60137-WP2SHELL) : ![starts](https://img.shields.io/github/stars/0xCyp1337/CVE-2026-63030-CVE-2026-60137-WP2SHELL.svg) ![forks](https://img.shields.io/github/forks/0xCyp1337/CVE-2026-63030-CVE-2026-60137-WP2SHELL.svg)
+
+- [https://github.com/BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC](https://github.com/BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC) : ![starts](https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC.svg) ![forks](https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC.svg)
 
 ## CVE-2026-60121
  Vitec Flamingo 4.12.2 contains an unauthenticated OS command injection vulnerability in the admin/ajax/ping.php endpoint that allows remote attackers to execute arbitrary commands by exploiting a double-evaluation flaw in shell argument handling. The endpoint applies escapeshellarg() to the user-supplied host POST parameter before passing it to a system wrapper, but the wrapper retrieves the decoded value from argv and incorporates it into a second shell_exec() call without escaping, allowing injected commands to execute with root privileges via passwordless sudo.
@@ -17820,6 +17830,10 @@ Note: Cisco has assigned this security advisory a Security Impact Rating (SIR) o
  A remote code execution vulnerability exists in Tenable Security Center's report generation functionality. An authenticated, non-administrative user could exploit this issue by supplying specially crafted input that is later processed unsafely during server-side report rendering, resulting in arbitrary code execution with the privileges of the service account.
 
 - [https://github.com/h00die/POC-CVE-2026-19626](https://github.com/h00die/POC-CVE-2026-19626) : ![starts](https://img.shields.io/github/stars/h00die/POC-CVE-2026-19626.svg) ![forks](https://img.shields.io/github/forks/h00die/POC-CVE-2026-19626.svg)
+
+## CVE-2026-19607
+
+- [https://github.com/7Ragnarok7/CVE-2026-19607](https://github.com/7Ragnarok7/CVE-2026-19607) : ![starts](https://img.shields.io/github/stars/7Ragnarok7/CVE-2026-19607.svg) ![forks](https://img.shields.io/github/forks/7Ragnarok7/CVE-2026-19607.svg)
 
 ## CVE-2026-19598
  The Pods – Custom Content Types and Fields plugin for WordPress is vulnerable to Privilege Escalation via Authorization Bypass in all versions up to, and including, 3.3.9. The vulnerability exists because the pods_admin AJAX router funnels every access check — including the method allowlist, nonce verification, login enforcement, and capability gate — through pods_error(), which under the JSON meta-box-loader compatibility path only writes failures to the PHP error log and returns false instead of terminating the request, rendering all guards ineffective.  This makes it possible for unauthenticated attackers to escalate their privileges to Administrator or overwrite the password of any user account, including the site owner's, enabling complete site takeover, or perform another administrator action.
