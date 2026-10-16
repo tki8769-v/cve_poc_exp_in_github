@@ -18725,6 +18725,11 @@ The following code is vulnerable to a stack overflow that is attacker-controlled
 
 - [https://github.com/nvicloud/CVE-2026-12352](https://github.com/nvicloud/CVE-2026-12352) : ![starts](https://img.shields.io/github/stars/nvicloud/CVE-2026-12352.svg) ![forks](https://img.shields.io/github/forks/nvicloud/CVE-2026-12352.svg)
 
+## CVE-2026-12345
+> The cleanup of tempfile.TemporaryDirectory is vulnerable to a race condition. An attacker who can modify the tree during cleanup can replace a directory with a symbolic link, causing files outside of the temporary directory to be deleted or have their permissions and file flags reset, with the privileges of the process performing the cleanup. Note that platforms where shutil.rmtree.avoids_symlink_attacks is false, remain affected, and file flags may still be reset outside of the tree on all plat
+
+- [https://github.com/zahidec0de/CVE-2026-12345-poc](https://github.com/zahidec0de/CVE-2026-12345-poc) : ![starts](https://img.shields.io/github/stars/zahidec0de/CVE-2026-12345-poc.svg) ![forks](https://img.shields.io/github/forks/zahidec0de/CVE-2026-12345-poc.svg)
+
 ## CVE-2026-12295
  Sandbox escape in the DOM: Navigation component. This vulnerability was fixed in Firefox 152, Firefox ESR 140.12, Firefox ESR 115.37, Thunderbird 152, and Thunderbird 140.12.
 
