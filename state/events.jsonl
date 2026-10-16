@@ -2790,3 +2790,4 @@
 {"cve_id": "CVE-2025-53770", "ts": "2026-10-16T20:07:53Z", "type": "new_poc", "url": "https://github.com/thiconickid/sharepoint-zero-day-cs50-cybersecurity"}
 {"cve_id": "CVE-2026-99999", "ts": "2026-10-16T20:07:53Z", "type": "new_poc", "url": "https://github.com/MChorfa/csumguard"}
 {"cve_id": "CVE-2019-7139", "ts": "2026-10-16T20:11:57Z", "type": "new_poc", "url": "https://github.com/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC"}
+{"cve_id": "CVE-2026-103910", "ts": "2026-10-16T20:22:37Z", "type": "cve_rejected"}

@@ -876,6 +876,9 @@ root privileges resulting in complete compromise o
 - [https://github.com/Wayang1337/CVE-2026-94503](https://github.com/Wayang1337/CVE-2026-94503) : ![starts](https://img.shields.io/github/stars/Wayang1337/CVE-2026-94503.svg) ![forks](https://img.shields.io/github/forks/Wayang1337/CVE-2026-94503.svg)
 
 ## CVE-2026-94134
+> The Apache Airflow SSH provider hook disables SSH host-key verification by default: unless `host_key` is configured or `no_host_key_check` is explicitly set to false, it accepts any server key. This affects SSH and SFTP connections that rely on the default. An attacker in a machine-in-the-middle position between the worker and the SSH or SFTP server can impersonate the server and capture the credentials or data a task sends.
+
+Users of apache-airflow-providers-ssh and apache-airflow-providers-sft
 
 - [https://github.com/MosesOX/POC-CVE-2026-94134](https://github.com/MosesOX/POC-CVE-2026-94134) : ![starts](https://img.shields.io/github/stars/MosesOX/POC-CVE-2026-94134.svg) ![forks](https://img.shields.io/github/forks/MosesOX/POC-CVE-2026-94134.svg)
 
@@ -11486,6 +11489,11 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
  An issue in Intelbras VIP-1230-D-G4 Version V2.800.00IB00C.0.T allows a remote attacker to obtain sensitive information via password reset functionality under /OutsideCmd
 
 - [https://github.com/kensh1k/CVE-2026-36438](https://github.com/kensh1k/CVE-2026-36438) : ![starts](https://img.shields.io/github/stars/kensh1k/CVE-2026-36438.svg) ![forks](https://img.shields.io/github/forks/kensh1k/CVE-2026-36438.svg)
+
+## CVE-2026-36436
+> An issue in Trisolutions BRPerfX version 1.4.4.0 exposes LDAP credentials in plaintext within the administrative configuration interface. An authenticated administrator can inspect the client-side code to retrieve the credential.
+
+- [https://github.com/vtrmk/CVE-2026-36436-Public-Reference-Pack](https://github.com/vtrmk/CVE-2026-36436-Public-Reference-Pack) : ![starts](https://img.shields.io/github/stars/vtrmk/CVE-2026-36436-Public-Reference-Pack.svg) ![forks](https://img.shields.io/github/forks/vtrmk/CVE-2026-36436-Public-Reference-Pack.svg)
 
 ## CVE-2026-36425
  An issue in OPSWAT AppRemover Driver (ardrv.sys) v2017.10.02.1551 and earlier in IOCTL handler 0x2420031. Any local user can open the device and send process termination requests without privilege validation.
