@@ -23,6 +23,10 @@
 
 - [https://github.com/0xBlackash/CVE-2026-110912](https://github.com/0xBlackash/CVE-2026-110912) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-110912.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-110912.svg)
 
+## CVE-2026-110896
+
+- [https://github.com/azqzazq1/CVE-2026-110896](https://github.com/azqzazq1/CVE-2026-110896) : ![starts](https://img.shields.io/github/stars/azqzazq1/CVE-2026-110896.svg) ![forks](https://img.shields.io/github/forks/azqzazq1/CVE-2026-110896.svg)
+
 ## CVE-2026-110447
 > Collabora Online Built-in CODE Server before 26.4.303 (richdocumentscode), a Nextcloud app, allows remote code execution, as exploited in the wild in September and October 2026, a different vulnerability than CVE-2025-66208. This is an OS command injection in proxy.php when the CODE server isn&#x27;t running (e.g., the product was recently restarted). The vulnerability is not present in standalone Collabora Online servers; only this deployment with CODE Server is affected.
 
@@ -62,6 +66,11 @@ privileges. Exploitation requir
 
 - [https://github.com/capivara-research/CVE-2026-108924](https://github.com/capivara-research/CVE-2026-108924) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-108924.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-108924.svg)
 
+## CVE-2026-108598
+> Floci 1.1.0 before 2.2.0 contains a code injection vulnerability in VtlTemplateEngine that allows unauthenticated attackers to execute commands via unrestricted Velocity mapping templates. Attackers can create a REST API with a MOCK integration whose template uses $util reflection to reach Runtime or ProcessBuilder, executing OS commands in the Floci JVM.
+
+- [https://github.com/Sidesploitx/CVE-2026-108598](https://github.com/Sidesploitx/CVE-2026-108598) : ![starts](https://img.shields.io/github/stars/Sidesploitx/CVE-2026-108598.svg) ![forks](https://img.shields.io/github/forks/Sidesploitx/CVE-2026-108598.svg)
+
 ## CVE-2026-108592
 > mini-swe-agent 1.10.0 through 2.4.6 contains an information exposure vulnerability in BubblewrapEnvironment because bwrap omits --clearenv, so sandboxed commands inherit the host environment. Attackers using prompt injection in processed task content can make the agent read API keys from the environment and exfiltrate them over the shared network.
 
@@ -71,6 +80,10 @@ privileges. Exploitation requir
 > A vulnerability was identified in Neterbit NW-431F 20250715. Impacted is an unknown function of the file /sms.json of the component Embedded Web Server. Such manipulation leads to information disclosure. The attack may be launched remotely. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/KernelDotDLL/CVE-2026-108578](https://github.com/KernelDotDLL/CVE-2026-108578) : ![starts](https://img.shields.io/github/stars/KernelDotDLL/CVE-2026-108578.svg) ![forks](https://img.shields.io/github/forks/KernelDotDLL/CVE-2026-108578.svg)
+
+## CVE-2026-108097
+
+- [https://github.com/FurkanKAYAPINAR/CVE-2026-108097](https://github.com/FurkanKAYAPINAR/CVE-2026-108097) : ![starts](https://img.shields.io/github/stars/FurkanKAYAPINAR/CVE-2026-108097.svg) ![forks](https://img.shields.io/github/forks/FurkanKAYAPINAR/CVE-2026-108097.svg)
 
 ## CVE-2026-107821
 > MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, and 13.0.2, MariaDB insufficiently validated counts, offsets, lengths, and field boundaries in FRM metadata while opening binary FRM files. An attacker able to place a crafted FRM file in the data directory could trigger out-of-bounds reads or writes, crash the server, or potentially execute code. This issue is fixed in versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, a
@@ -652,6 +665,8 @@ This issue affects Mediawiki - Wikibase Extension: from * before 1.46.1, 1.45.5,
 
 - [https://github.com/jburgess-r7/CVE-2026-97229-PoC](https://github.com/jburgess-r7/CVE-2026-97229-PoC) : ![starts](https://img.shields.io/github/stars/jburgess-r7/CVE-2026-97229-PoC.svg) ![forks](https://img.shields.io/github/forks/jburgess-r7/CVE-2026-97229-PoC.svg)
 
+- [https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-97229](https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-97229) : ![starts](https://img.shields.io/github/stars/OppositDeer/Gitlab-RCE-CVE-2026-97229.svg) ![forks](https://img.shields.io/github/forks/OppositDeer/Gitlab-RCE-CVE-2026-97229.svg)
+
 ## CVE-2026-97205
 > NGINX Plus and NGINX Open Source have a vulnerability in the ngx_http_core_module module. When asynchronous file I/O (AIO) is enabled in certain configurations, processing a Server Side Includes (SSI) page containing “include virtual” commands may trigger a Use-After-Free (UAF) in the NGINX worker process. This may cause memory corruption or a worker process crash. Additionally, attackers can execute code on systems with Address Space Layout Randomization (ASLR) disabled or when the attacker can
 
@@ -837,6 +852,10 @@ root privileges resulting in complete compromise o
 > Unrestricted Upload of File with Dangerous Type vulnerability in PX-lab Zombify zombify allows Upload a Web Shell to a Web Server.This issue affects Zombify: from n/a through 1.7.7.
 
 - [https://github.com/Wayang1337/CVE-2026-94503](https://github.com/Wayang1337/CVE-2026-94503) : ![starts](https://img.shields.io/github/stars/Wayang1337/CVE-2026-94503.svg) ![forks](https://img.shields.io/github/forks/Wayang1337/CVE-2026-94503.svg)
+
+## CVE-2026-94134
+
+- [https://github.com/MosesOX/POC-CVE-2026-94134](https://github.com/MosesOX/POC-CVE-2026-94134) : ![starts](https://img.shields.io/github/stars/MosesOX/POC-CVE-2026-94134.svg) ![forks](https://img.shields.io/github/forks/MosesOX/POC-CVE-2026-94134.svg)
 
 ## CVE-2026-94132
 > Joomla Extension - acymailing.com - Remote Code Execution vulnerability in mailbox action feature in AcyMailing Enterprise extension &lt; 11.1.0 - MIME parts of incoming emails were saved to media/com_acym/upload/ with no extension check, so anyone who could email the monitored mailbox could write a PHP file into the web root.
@@ -1152,6 +1171,8 @@ The default is governance.auth_config.is_enabled=false. Auth off means every cal
 
 - [https://github.com/securifera/CVE-2026-90817](https://github.com/securifera/CVE-2026-90817) : ![starts](https://img.shields.io/github/stars/securifera/CVE-2026-90817.svg) ![forks](https://img.shields.io/github/forks/securifera/CVE-2026-90817.svg)
 
+- [https://github.com/ctsit/redcap_cve_2026_90817_scan](https://github.com/ctsit/redcap_cve_2026_90817_scan) : ![starts](https://img.shields.io/github/stars/ctsit/redcap_cve_2026_90817_scan.svg) ![forks](https://img.shields.io/github/forks/ctsit/redcap_cve_2026_90817_scan.svg)
+
 ## CVE-2026-90782
  S2OPC through 1.7.3 contains a null pointer dereference in msg_subscription_publish_bs__alloc_notification_message_items() where a failed allocation for DataChangeNotification is overwritten by a successful allocation for EventNotificationList. Attackers can trigger heap allocation failures on sessions with both data-change and event notifications to cause the server process to terminate.
 
@@ -1170,6 +1191,10 @@ The default is governance.auth_config.is_enabled=false. Auth off means every cal
 - [https://github.com/Polosss/By-Poloss..-.CVE-2026-89274](https://github.com/Polosss/By-Poloss..-.CVE-2026-89274) : ![starts](https://img.shields.io/github/stars/Polosss/By-Poloss..-.CVE-2026-89274.svg) ![forks](https://img.shields.io/github/forks/Polosss/By-Poloss..-.CVE-2026-89274.svg)
 
 - [https://github.com/Hassham1/CVE-2026-89274-wp-recipe-maker-poc](https://github.com/Hassham1/CVE-2026-89274-wp-recipe-maker-poc) : ![starts](https://img.shields.io/github/stars/Hassham1/CVE-2026-89274-wp-recipe-maker-poc.svg) ![forks](https://img.shields.io/github/forks/Hassham1/CVE-2026-89274-wp-recipe-maker-poc.svg)
+
+## CVE-2026-89079
+
+- [https://github.com/murrez/CVE-2026-89079](https://github.com/murrez/CVE-2026-89079) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-89079.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-89079.svg)
 
 ## CVE-2026-89055
 > The Customer Reviews for WooCommerce plugin for WordPress is vulnerable to authorization bypass in all versions up to, and including, 5.120.0. This is due to the plugin not properly verifying that a user is authorized to perform an action. This makes it possible for unauthenticated attackers to permanently delete arbitrary attachments from the Media Library — including administrator-owned product images, logos, and documents — by injecting their IDs into a review that is later trashed and purged
@@ -1977,6 +2002,22 @@ This issue affects AVESİS: from 202608201331 before 202608240351.
 
 - [https://github.com/y3g1/CraftCMS-CVE-2026-79987](https://github.com/y3g1/CraftCMS-CVE-2026-79987) : ![starts](https://img.shields.io/github/stars/y3g1/CraftCMS-CVE-2026-79987.svg) ![forks](https://img.shields.io/github/forks/y3g1/CraftCMS-CVE-2026-79987.svg)
 
+## CVE-2026-79986
+
+- [https://github.com/oscerd/CVE-2026-79986](https://github.com/oscerd/CVE-2026-79986) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-79986.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-79986.svg)
+
+## CVE-2026-79985
+
+- [https://github.com/oscerd/CVE-2026-79985](https://github.com/oscerd/CVE-2026-79985) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-79985.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-79985.svg)
+
+## CVE-2026-79984
+
+- [https://github.com/oscerd/CVE-2026-79984](https://github.com/oscerd/CVE-2026-79984) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-79984.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-79984.svg)
+
+## CVE-2026-79983
+
+- [https://github.com/oscerd/CVE-2026-79983](https://github.com/oscerd/CVE-2026-79983) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-79983.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-79983.svg)
+
 ## CVE-2026-79752
  CakePHP is a rapid development framework for PHP. Prior to 4.5.12, 4.6.5, 5.1.9, 5.2.14, and 5.3.7, FunctionsBuilder::cast, FunctionsBuilder::extract, FunctionsBuilder::datePart, and FunctionsBuilder::dateAdd in src/Database/FunctionsBuilder.php accept user-controlled dataType, part, or unit values and incorporate them into generated SQL as unescaped structural fragments. An application that passes untrusted input to these parameters can permit SQL injection with confidentiality, integrity, and availability impact according to the database connection's privileges. This issue is fixed in versions 4.5.12, 4.6.5, 5.1.9, 5.2.14, and 5.3.7.
 
@@ -2119,6 +2160,22 @@ Remediation requires a firmware update from the vendor.
 - [https://github.com/Wh02m1/CVE-2026-78306](https://github.com/Wh02m1/CVE-2026-78306) : ![starts](https://img.shields.io/github/stars/Wh02m1/CVE-2026-78306.svg) ![forks](https://img.shields.io/github/forks/Wh02m1/CVE-2026-78306.svg)
 
 - [https://github.com/FEEDBEEF/Dji_ble_vuln](https://github.com/FEEDBEEF/Dji_ble_vuln) : ![starts](https://img.shields.io/github/stars/FEEDBEEF/Dji_ble_vuln.svg) ![forks](https://img.shields.io/github/forks/FEEDBEEF/Dji_ble_vuln.svg)
+
+## CVE-2026-78165
+
+- [https://github.com/oscerd/CVE-2026-78165](https://github.com/oscerd/CVE-2026-78165) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-78165.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-78165.svg)
+
+## CVE-2026-78164
+
+- [https://github.com/oscerd/CVE-2026-78164](https://github.com/oscerd/CVE-2026-78164) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-78164.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-78164.svg)
+
+## CVE-2026-78163
+
+- [https://github.com/oscerd/CVE-2026-78163](https://github.com/oscerd/CVE-2026-78163) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-78163.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-78163.svg)
+
+## CVE-2026-78162
+
+- [https://github.com/oscerd/CVE-2026-78162](https://github.com/oscerd/CVE-2026-78162) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-78162.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-78162.svg)
 
 ## CVE-2026-78159
  The The Events Calendar plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 6.17.3 via the parse_array function. This is due to insufficient validation of the widget 'classes' map, allowing a plain-array payload to bypass the is_safe_widget_instance() object check and reach the callable-invocation sink in Element_Classes::parse_array(). This makes it possible for unauthenticated attackers to execute code on the server. Exploitation requires that the targeted site has comments enabled on tribe_events posts and that at least one comment containing a crafted wp:legacy-widget block has been submitted, as the attack chain is triggered when do_blocks() processes the single-event HTML including the comment area.
@@ -6612,6 +6669,14 @@ Users are recommended to upgrade to version 1.12.0, which fixes the issue.
 
 - [https://github.com/BARGHEST-ngo/CVE-2026-51376](https://github.com/BARGHEST-ngo/CVE-2026-51376) : ![starts](https://img.shields.io/github/stars/BARGHEST-ngo/CVE-2026-51376.svg) ![forks](https://img.shields.io/github/forks/BARGHEST-ngo/CVE-2026-51376.svg)
 
+## CVE-2026-51367
+
+- [https://github.com/StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR](https://github.com/StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR) : ![starts](https://img.shields.io/github/stars/StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR.svg) ![forks](https://img.shields.io/github/forks/StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR.svg)
+
+## CVE-2026-51366
+
+- [https://github.com/StefanoAndreatta/CVE-2026-51366-SQL-Injection-leading-to-Remote-Code-Execution](https://github.com/StefanoAndreatta/CVE-2026-51366-SQL-Injection-leading-to-Remote-Code-Execution) : ![starts](https://img.shields.io/github/stars/StefanoAndreatta/CVE-2026-51366-SQL-Injection-leading-to-Remote-Code-Execution.svg) ![forks](https://img.shields.io/github/forks/StefanoAndreatta/CVE-2026-51366-SQL-Injection-leading-to-Remote-Code-Execution.svg)
+
 ## CVE-2026-51302
  DO NOT USE THIS CVE RECORD. ConsultIDs: none. Reason: This record was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none.
 
@@ -9337,6 +9402,10 @@ remove_waiter() to cure those problems.
 - [https://github.com/OhMyDitzzy/GhostLock-Next](https://github.com/OhMyDitzzy/GhostLock-Next) : ![starts](https://img.shields.io/github/stars/OhMyDitzzy/GhostLock-Next.svg) ![forks](https://img.shields.io/github/forks/OhMyDitzzy/GhostLock-Next.svg)
 
 - [https://github.com/y896406256-lang/ghostlock-brt-w09](https://github.com/y896406256-lang/ghostlock-brt-w09) : ![starts](https://img.shields.io/github/stars/y896406256-lang/ghostlock-brt-w09.svg) ![forks](https://img.shields.io/github/forks/y896406256-lang/ghostlock-brt-w09.svg)
+
+- [https://github.com/MSEDGE-CORE/GhostLock-HonorFne](https://github.com/MSEDGE-CORE/GhostLock-HonorFne) : ![starts](https://img.shields.io/github/stars/MSEDGE-CORE/GhostLock-HonorFne.svg) ![forks](https://img.shields.io/github/forks/MSEDGE-CORE/GhostLock-HonorFne.svg)
+
+- [https://github.com/saltlyfish666/magicpad3-root-research](https://github.com/saltlyfish666/magicpad3-root-research) : ![starts](https://img.shields.io/github/stars/saltlyfish666/magicpad3-root-research.svg) ![forks](https://img.shields.io/github/forks/saltlyfish666/magicpad3-root-research.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
@@ -46367,6 +46436,8 @@ a71874379ec8 ("xattr: switch to CLASS(fd)").
 
 - [https://github.com/lcfr-eth/CVE-2024-14027_slop](https://github.com/lcfr-eth/CVE-2024-14027_slop) : ![starts](https://img.shields.io/github/stars/lcfr-eth/CVE-2024-14027_slop.svg) ![forks](https://img.shields.io/github/forks/lcfr-eth/CVE-2024-14027_slop.svg)
 
+- [https://github.com/lcfr-hax/CVE-2024-14027_slop](https://github.com/lcfr-hax/CVE-2024-14027_slop) : ![starts](https://img.shields.io/github/stars/lcfr-hax/CVE-2024-14027_slop.svg) ![forks](https://img.shields.io/github/forks/lcfr-hax/CVE-2024-14027_slop.svg)
+
 ## CVE-2024-13985
  A command injection vulnerability in Dahua EIMS versions prior to 2240008 allows unauthenticated remote attackers to execute arbitrary system commands via the capture_handle.action interface. The flaw stems from improper input validation in the captureCommand parameter, which is processed without sanitization or authentication. By sending crafted HTTP requests, attackers can inject OS-level commands that are executed on the server, leading to full system compromise. Exploitation evidence was first observed by the Shadowserver Foundation on 2024-04-06 UTC.
 
@@ -49536,6 +49607,8 @@ Through a series of complex obfuscations, the liblzma build process extracts a p
 - [https://github.com/x-cmd-build/xz](https://github.com/x-cmd-build/xz) : ![starts](https://img.shields.io/github/stars/x-cmd-build/xz.svg) ![forks](https://img.shields.io/github/forks/x-cmd-build/xz.svg)
 
 - [https://github.com/Michel-DV/xz-utils-backdoor-case-study](https://github.com/Michel-DV/xz-utils-backdoor-case-study) : ![starts](https://img.shields.io/github/stars/Michel-DV/xz-utils-backdoor-case-study.svg) ![forks](https://img.shields.io/github/forks/Michel-DV/xz-utils-backdoor-case-study.svg)
+
+- [https://github.com/Subzero710/CVE-2024-3094-demo](https://github.com/Subzero710/CVE-2024-3094-demo) : ![starts](https://img.shields.io/github/stars/Subzero710/CVE-2024-3094-demo.svg) ![forks](https://img.shields.io/github/forks/Subzero710/CVE-2024-3094-demo.svg)
 
 ## CVE-2024-2997
  A vulnerability was found in Bdtask Multi-Store Inventory Management System up to 20240320. It has been declared as problematic. Affected by this vulnerability is an unknown functionality. The manipulation of the argument Category Name/Model Name/Brand Name/Unit Name leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-258199. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
@@ -75842,6 +75915,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/Asaad27/CVE-2021-22204-RSE](https://github.com/Asaad27/CVE-2021-22204-RSE) : ![starts](https://img.shields.io/github/stars/Asaad27/CVE-2021-22204-RSE.svg) ![forks](https://img.shields.io/github/forks/Asaad27/CVE-2021-22204-RSE.svg)
 
 - [https://github.com/battleofthebots/dejavu](https://github.com/battleofthebots/dejavu) : ![starts](https://img.shields.io/github/stars/battleofthebots/dejavu.svg) ![forks](https://img.shields.io/github/forks/battleofthebots/dejavu.svg)
+
+- [https://github.com/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204](https://github.com/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204) : ![starts](https://img.shields.io/github/stars/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204.svg) ![forks](https://img.shields.io/github/forks/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204.svg)
 
 ## CVE-2021-22201
  An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.9. A specially crafted import file could read files on the server.

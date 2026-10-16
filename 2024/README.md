@@ -8529,6 +8529,8 @@ a71874379ec8 ("xattr: switch to CLASS(fd)").
 
 - [https://github.com/lcfr-eth/CVE-2024-14027_slop](https://github.com/lcfr-eth/CVE-2024-14027_slop) : ![starts](https://img.shields.io/github/stars/lcfr-eth/CVE-2024-14027_slop.svg) ![forks](https://img.shields.io/github/forks/lcfr-eth/CVE-2024-14027_slop.svg)
 
+- [https://github.com/lcfr-hax/CVE-2024-14027_slop](https://github.com/lcfr-hax/CVE-2024-14027_slop) : ![starts](https://img.shields.io/github/stars/lcfr-hax/CVE-2024-14027_slop.svg) ![forks](https://img.shields.io/github/forks/lcfr-hax/CVE-2024-14027_slop.svg)
+
 ## CVE-2024-13985
  A command injection vulnerability in Dahua EIMS versions prior to 2240008 allows unauthenticated remote attackers to execute arbitrary system commands via the capture_handle.action interface. The flaw stems from improper input validation in the captureCommand parameter, which is processed without sanitization or authentication. By sending crafted HTTP requests, attackers can inject OS-level commands that are executed on the server, leading to full system compromise. Exploitation evidence was first observed by the Shadowserver Foundation on 2024-04-06 UTC.
 
@@ -11698,6 +11700,8 @@ Through a series of complex obfuscations, the liblzma build process extracts a p
 - [https://github.com/x-cmd-build/xz](https://github.com/x-cmd-build/xz) : ![starts](https://img.shields.io/github/stars/x-cmd-build/xz.svg) ![forks](https://img.shields.io/github/forks/x-cmd-build/xz.svg)
 
 - [https://github.com/Michel-DV/xz-utils-backdoor-case-study](https://github.com/Michel-DV/xz-utils-backdoor-case-study) : ![starts](https://img.shields.io/github/stars/Michel-DV/xz-utils-backdoor-case-study.svg) ![forks](https://img.shields.io/github/forks/Michel-DV/xz-utils-backdoor-case-study.svg)
+
+- [https://github.com/Subzero710/CVE-2024-3094-demo](https://github.com/Subzero710/CVE-2024-3094-demo) : ![starts](https://img.shields.io/github/stars/Subzero710/CVE-2024-3094-demo.svg) ![forks](https://img.shields.io/github/forks/Subzero710/CVE-2024-3094-demo.svg)
 
 ## CVE-2024-2997
  A vulnerability was found in Bdtask Multi-Store Inventory Management System up to 20240320. It has been declared as problematic. Affected by this vulnerability is an unknown functionality. The manipulation of the argument Category Name/Model Name/Brand Name/Unit Name leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-258199. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
