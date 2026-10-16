@@ -2757,3 +2757,5 @@
 {"cve_id": "CVE-2026-53365", "ts": "2026-10-16T05:57:38Z", "type": "new_poc", "url": "https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365"}
 {"cve_id": "CVE-2021-42574", "ts": "2026-10-16T05:57:38Z", "type": "new_poc", "url": "https://github.com/gitstq/GlyphGuard"}
 {"cve_id": "CVE-2021-42013", "ts": "2026-10-16T06:25:14Z", "type": "new_poc", "url": "https://github.com/lmcewen9/cve-2021-42013"}
+{"cve_id": "CVE-2026-104745", "ts": "2026-10-16T06:36:48Z", "type": "new_poc", "url": "https://github.com/rxsklife/CVE-2026-104745"}
+{"cve_id": "CVE-2026-96889", "ts": "2026-10-16T06:36:48Z", "type": "new_poc", "url": "https://github.com/lion9453/CVE-2026-96889-nextjs-rce"}

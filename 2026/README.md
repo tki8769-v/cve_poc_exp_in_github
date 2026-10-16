@@ -257,6 +257,10 @@ device operation and availability. No authentication, session e
 
 - [https://github.com/MrjHaxcore/CVE-2026-104748](https://github.com/MrjHaxcore/CVE-2026-104748) : ![starts](https://img.shields.io/github/stars/MrjHaxcore/CVE-2026-104748.svg) ![forks](https://img.shields.io/github/forks/MrjHaxcore/CVE-2026-104748.svg)
 
+## CVE-2026-104745
+
+- [https://github.com/rxsklife/CVE-2026-104745](https://github.com/rxsklife/CVE-2026-104745) : ![starts](https://img.shields.io/github/stars/rxsklife/CVE-2026-104745.svg) ![forks](https://img.shields.io/github/forks/rxsklife/CVE-2026-104745.svg)
+
 ## CVE-2026-104715
 
 - [https://github.com/M3aCulpa/CVE-2026-104715](https://github.com/M3aCulpa/CVE-2026-104715) : ![starts](https://img.shields.io/github/stars/M3aCulpa/CVE-2026-104715.svg) ![forks](https://img.shields.io/github/forks/M3aCulpa/CVE-2026-104715.svg)
@@ -679,6 +683,8 @@ This issue affects Mediawiki - Wikibase Extension: from * before 1.46.1, 1.45.5,
 > A flaw was found in librsvg. When processing an SVG document containing nested XML inclusions (Xincludes) with duplicate entity declarations, a use-after-free error can occur. This vulnerability arises because the library incorrectly frees an XML entity that is still in use by the parser. An attacker could potentially exploit this to cause a denial of service or execute arbitrary code.
 
 - [https://github.com/rafabd1/VectorFreed](https://github.com/rafabd1/VectorFreed) : ![starts](https://img.shields.io/github/stars/rafabd1/VectorFreed.svg) ![forks](https://img.shields.io/github/forks/rafabd1/VectorFreed.svg)
+
+- [https://github.com/lion9453/CVE-2026-96889-nextjs-rce](https://github.com/lion9453/CVE-2026-96889-nextjs-rce) : ![starts](https://img.shields.io/github/stars/lion9453/CVE-2026-96889-nextjs-rce.svg) ![forks](https://img.shields.io/github/forks/lion9453/CVE-2026-96889-nextjs-rce.svg)
 
 ## CVE-2026-96878
 > Improper neutralization of input during web page generation (&#x27;cross-site scripting&#x27;) vulnerability in Mediawiki - Cargo extension allows Reflected XSS.
@@ -2053,6 +2059,16 @@ This issue affects Pardus LightDM Greeter: before 0.4.15.
  Incomplete cleanup in SiteIsolation in Google Chrome prior to 152.0.7977.65 allowed a remote attacker who had compromised the renderer process to bypass site isolation via a crafted HTML page. (Chromium security severity: Medium)
 
 - [https://github.com/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds](https://github.com/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds) : ![starts](https://img.shields.io/github/stars/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds.svg) ![forks](https://img.shields.io/github/forks/vxssroott/CVE-2026-78903-SWIFT-Kick-to-the-Creds.svg)
+
+## CVE-2026-78851
+> Directory Traversal vulnerability in Grav CMS 2.0.3 through 2.0.6 allows a remote attacker to obtain sensitive information via the GravExtension.php and the mediaDirFunc method.
+
+- [https://github.com/SLO-CYBER-SEC/CVE-2026-78851](https://github.com/SLO-CYBER-SEC/CVE-2026-78851) : ![starts](https://img.shields.io/github/stars/SLO-CYBER-SEC/CVE-2026-78851.svg) ![forks](https://img.shields.io/github/forks/SLO-CYBER-SEC/CVE-2026-78851.svg)
+
+## CVE-2026-78850
+> An issue in Matomo v.5.11.2 allows a remote attacker to obtain sensitive information via the SiteContentDetector / SitesManager component
+
+- [https://github.com/SLO-CYBER-SEC/CVE-2026-78850](https://github.com/SLO-CYBER-SEC/CVE-2026-78850) : ![starts](https://img.shields.io/github/stars/SLO-CYBER-SEC/CVE-2026-78850.svg) ![forks](https://img.shields.io/github/forks/SLO-CYBER-SEC/CVE-2026-78850.svg)
 
 ## CVE-2026-78839
  An arbitrary file upload vulnerability in AppNitro MachForm v30 allows attackers to execute arbitrary code via uploading a crafted .phar file.
