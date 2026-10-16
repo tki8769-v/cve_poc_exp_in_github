@@ -2782,3 +2782,11 @@
 {"cve_id": "CVE-2026-108097", "ts": "2026-10-16T14:05:13Z", "type": "new_poc", "url": "https://github.com/FurkanKAYAPINAR/CVE-2026-108097"}
 {"cve_id": "CVE-2024-14027", "ts": "2026-10-16T14:09:01Z", "type": "new_poc", "url": "https://github.com/lcfr-hax/CVE-2024-14027_slop"}
 {"cve_id": "CVE-2026-103910", "ts": "2026-10-16T14:38:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-103910", "ts": "2026-10-16T19:59:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-92209", "ts": "2026-10-16T20:07:51Z", "type": "new_poc", "url": "https://github.com/do4choo/CVE-2026-92209_NoMachine_LPE"}
+{"cve_id": "CVE-2026-92208", "ts": "2026-10-16T20:07:51Z", "type": "new_poc", "url": "https://github.com/do4choo/CVE-2026-92208_remote_mDNS_overflow"}
+{"cve_id": "CVE-2026-53264", "ts": "2026-10-16T20:07:52Z", "type": "new_poc", "url": "https://github.com/b1nhack/CVE-2026-53264"}
+{"cve_id": "CVE-2026-102764", "ts": "2026-10-16T20:07:53Z", "type": "new_poc", "url": "https://github.com/Worthes/CVE-2026-102764-Proof-of-concept"}
+{"cve_id": "CVE-2025-53770", "ts": "2026-10-16T20:07:53Z", "type": "new_poc", "url": "https://github.com/thiconickid/sharepoint-zero-day-cs50-cybersecurity"}
+{"cve_id": "CVE-2026-99999", "ts": "2026-10-16T20:07:53Z", "type": "new_poc", "url": "https://github.com/MChorfa/csumguard"}
+{"cve_id": "CVE-2019-7139", "ts": "2026-10-16T20:11:57Z", "type": "new_poc", "url": "https://github.com/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC"}

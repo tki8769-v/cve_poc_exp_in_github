@@ -3695,6 +3695,8 @@ use after free.
 
 - [https://github.com/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC](https://github.com/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC) : ![starts](https://img.shields.io/github/stars/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC.svg) ![forks](https://img.shields.io/github/forks/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC.svg)
 
+- [https://github.com/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC](https://github.com/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC) : ![starts](https://img.shields.io/github/stars/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC.svg) ![forks](https://img.shields.io/github/forks/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC.svg)
+
 ## CVE-2019-7069
  Adobe Acrobat and Reader versions 2019.010.20069 and earlier, 2019.010.20069 and earlier, 2017.011.30113 and earlier version, and 2015.006.30464 and earlier have a type confusion vulnerability. Successful exploitation could lead to arbitrary code execution .
 

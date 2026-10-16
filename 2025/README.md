@@ -4966,6 +4966,8 @@ Microsoft is preparing and fully testing a comprehensive update to address this 
 
 - [https://github.com/chrisalee27-dotcom/SOC-Incident-Response-Portfolio](https://github.com/chrisalee27-dotcom/SOC-Incident-Response-Portfolio) : ![starts](https://img.shields.io/github/stars/chrisalee27-dotcom/SOC-Incident-Response-Portfolio.svg) ![forks](https://img.shields.io/github/forks/chrisalee27-dotcom/SOC-Incident-Response-Portfolio.svg)
 
+- [https://github.com/thiconickid/sharepoint-zero-day-cs50-cybersecurity](https://github.com/thiconickid/sharepoint-zero-day-cs50-cybersecurity) : ![starts](https://img.shields.io/github/stars/thiconickid/sharepoint-zero-day-cs50-cybersecurity.svg) ![forks](https://img.shields.io/github/forks/thiconickid/sharepoint-zero-day-cs50-cybersecurity.svg)
+
 ## CVE-2025-53766
  Heap-based buffer overflow in Windows GDI+ allows an unauthorized attacker to execute code over a network.
 

@@ -481,6 +481,11 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 
 - [https://github.com/murrez/CVE-2026-102782](https://github.com/murrez/CVE-2026-102782) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-102782.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-102782.svg)
 
+## CVE-2026-102764
+> The vulnerability exists within internal components of BeyondTrust’s Remote Support product. The components did not adequately validate the origin of the messages it received. Under the right conditions, this could allow an attacker to perform file operations on the appliance.
+
+- [https://github.com/Worthes/CVE-2026-102764-Proof-of-concept](https://github.com/Worthes/CVE-2026-102764-Proof-of-concept) : ![starts](https://img.shields.io/github/stars/Worthes/CVE-2026-102764-Proof-of-concept.svg) ![forks](https://img.shields.io/github/forks/Worthes/CVE-2026-102764-Proof-of-concept.svg)
+
 ## CVE-2026-102718
 > hey,
 
@@ -637,6 +642,23 @@ This issue affects Mediawiki - UploadWizard Extension: from * before 1.46.1, 1.4
 This issue affects Mediawiki - Wikibase Extension: from * before 1.46.1, 1.45.5, 1.43.10.
 
 - [https://github.com/BomboBombone/CVE-2026-100380](https://github.com/BomboBombone/CVE-2026-100380) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-100380.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-100380.svg)
+
+## CVE-2026-99999
+> In the Linux kernel, the following vulnerability has been resolved:
+
+ipv4: validate checksum_start before completing checksum
+
+If a packet with bad checksum metadata gets into the ipv4 stack,
+skb_checksum_help can corrupt the network header and cause a bunch of
+mischief.
+
+This was discovered and reported by Paulos, and has been reporoduced
+by others independently since.
+
+We really shouldn&#x27;t allow such packets in, but as a defence
+in depth measure, let&#x27;s also check before we complete the checksum
+
+- [https://github.com/MChorfa/csumguard](https://github.com/MChorfa/csumguard) : ![starts](https://img.shields.io/github/stars/MChorfa/csumguard.svg) ![forks](https://img.shields.io/github/forks/MChorfa/csumguard.svg)
 
 ## CVE-2026-97657
 > The Abandoned Cart Pro for WooCommerce plugin for WordPress is vulnerable to Authentication Bypass via Malleable Encryption and Bypassable HMAC in all versions up to, and including, 10.8.0. This is due to the use of MAC-free AES-CTR encryption for cart-recovery link tokens — where the 8-byte CTR nonce is carried inside the ciphertext blob and the encryption key is looked up using the attacker-supplied `user_email` GET parameter — combined with an HMAC nonce check in `wcap_email_track_links()` th
@@ -1044,6 +1066,14 @@ free of a `struct Curl_easy` object.
  The The Forminator Forms – Contact Form, Payment Form & Custom Form Builder plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 1.57.2. This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes.
 
 - [https://github.com/murrez/CVE-2026-92229](https://github.com/murrez/CVE-2026-92229) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-92229.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-92229.svg)
+
+## CVE-2026-92209
+
+- [https://github.com/do4choo/CVE-2026-92209_NoMachine_LPE](https://github.com/do4choo/CVE-2026-92209_NoMachine_LPE) : ![starts](https://img.shields.io/github/stars/do4choo/CVE-2026-92209_NoMachine_LPE.svg) ![forks](https://img.shields.io/github/forks/do4choo/CVE-2026-92209_NoMachine_LPE.svg)
+
+## CVE-2026-92208
+
+- [https://github.com/do4choo/CVE-2026-92208_remote_mDNS_overflow](https://github.com/do4choo/CVE-2026-92208_remote_mDNS_overflow) : ![starts](https://img.shields.io/github/stars/do4choo/CVE-2026-92208_remote_mDNS_overflow.svg) ![forks](https://img.shields.io/github/forks/do4choo/CVE-2026-92208_remote_mDNS_overflow.svg)
 
 ## CVE-2026-92084
 > The The Beaver Builder Page Builder – Drag and Drop Website Builder plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 2.11.0.5. This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes. Exploitation requires the target site to have a Beaver Builder page containing the Sidebar module
@@ -6227,6 +6257,8 @@ stale pointer, the immediate kfree() is now deferred until after the RCU grace
 period, so no UAF can occur.
 
 - [https://github.com/HORKimhab/CVE-2026-53264](https://github.com/HORKimhab/CVE-2026-53264) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-53264.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-53264.svg)
+
+- [https://github.com/b1nhack/CVE-2026-53264](https://github.com/b1nhack/CVE-2026-53264) : ![starts](https://img.shields.io/github/stars/b1nhack/CVE-2026-53264.svg) ![forks](https://img.shields.io/github/forks/b1nhack/CVE-2026-53264.svg)
 
 ## CVE-2026-53075
  In the Linux kernel, the following vulnerability has been resolved:
@@ -27369,6 +27401,8 @@ Microsoft is preparing and fully testing a comprehensive update to address this 
 - [https://github.com/gmh5225/ZeroPoint](https://github.com/gmh5225/ZeroPoint) : ![starts](https://img.shields.io/github/stars/gmh5225/ZeroPoint.svg) ![forks](https://img.shields.io/github/forks/gmh5225/ZeroPoint.svg)
 
 - [https://github.com/chrisalee27-dotcom/SOC-Incident-Response-Portfolio](https://github.com/chrisalee27-dotcom/SOC-Incident-Response-Portfolio) : ![starts](https://img.shields.io/github/stars/chrisalee27-dotcom/SOC-Incident-Response-Portfolio.svg) ![forks](https://img.shields.io/github/forks/chrisalee27-dotcom/SOC-Incident-Response-Portfolio.svg)
+
+- [https://github.com/thiconickid/sharepoint-zero-day-cs50-cybersecurity](https://github.com/thiconickid/sharepoint-zero-day-cs50-cybersecurity) : ![starts](https://img.shields.io/github/stars/thiconickid/sharepoint-zero-day-cs50-cybersecurity.svg) ![forks](https://img.shields.io/github/forks/thiconickid/sharepoint-zero-day-cs50-cybersecurity.svg)
 
 ## CVE-2025-53766
  Heap-based buffer overflow in Windows GDI+ allows an unauthorized attacker to execute code over a network.
@@ -88736,6 +88770,8 @@ use after free.
  An unauthenticated user can execute SQL statements that allow arbitrary read access to the underlying database, which causes sensitive data leakage. This issue is fixed in Magento 2.1 prior to 2.1.18, Magento 2.2 prior to 2.2.9, Magento 2.3 prior to 2.3.2.
 
 - [https://github.com/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC](https://github.com/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC) : ![starts](https://img.shields.io/github/stars/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC.svg) ![forks](https://img.shields.io/github/forks/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC.svg)
+
+- [https://github.com/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC](https://github.com/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC) : ![starts](https://img.shields.io/github/stars/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC.svg) ![forks](https://img.shields.io/github/forks/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC.svg)
 
 ## CVE-2019-7069
  Adobe Acrobat and Reader versions 2019.010.20069 and earlier, 2019.010.20069 and earlier, 2017.011.30113 and earlier version, and 2015.006.30464 and earlier have a type confusion vulnerability. Successful exploitation could lead to arbitrary code execution .

@@ -3,6 +3,10 @@
 
 - [https://github.com/yilmaz8596/metasploitable-vulnerability-assessment](https://github.com/yilmaz8596/metasploitable-vulnerability-assessment) : ![starts](https://img.shields.io/github/stars/yilmaz8596/metasploitable-vulnerability-assessment.svg) ![forks](https://img.shields.io/github/forks/yilmaz8596/metasploitable-vulnerability-assessment.svg)
 
+## CVE-2019-7139
+
+- [https://github.com/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC](https://github.com/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC) : ![starts](https://img.shields.io/github/stars/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC.svg) ![forks](https://img.shields.io/github/forks/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC.svg)
+
 ## CVE-2021-22204
 
 - [https://github.com/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204](https://github.com/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204) : ![starts](https://img.shields.io/github/stars/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204.svg) ![forks](https://img.shields.io/github/forks/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204.svg)
@@ -34,6 +38,15 @@
 - [https://github.com/Si13NTTT/CVE-2025-24813](https://github.com/Si13NTTT/CVE-2025-24813) : ![starts](https://img.shields.io/github/stars/Si13NTTT/CVE-2025-24813.svg) ![forks](https://img.shields.io/github/forks/Si13NTTT/CVE-2025-24813.svg)
 - [https://github.com/drcrypterdotru/Apache-GOExploiter](https://github.com/drcrypterdotru/Apache-GOExploiter) : ![starts](https://img.shields.io/github/stars/drcrypterdotru/Apache-GOExploiter.svg) ![forks](https://img.shields.io/github/forks/drcrypterdotru/Apache-GOExploiter.svg)
 - [https://github.com/yym8538/CVE-2025-24813](https://github.com/yym8538/CVE-2025-24813) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2025-24813.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2025-24813.svg)
+
+## CVE-2025-53770
+
+- [https://github.com/thiconickid/sharepoint-zero-day-cs50-cybersecurity](https://github.com/thiconickid/sharepoint-zero-day-cs50-cybersecurity) : ![starts](https://img.shields.io/github/stars/thiconickid/sharepoint-zero-day-cs50-cybersecurity.svg) ![forks](https://img.shields.io/github/forks/thiconickid/sharepoint-zero-day-cs50-cybersecurity.svg)
+
+## CVE-2026-102764
+> The vulnerability exists within internal components of BeyondTrust’s Remote Support product. The components did not adequately validate the origin of the messages it received. Under the right conditions, this could allow an attacker to perform file operations on the appliance.
+
+- [https://github.com/Worthes/CVE-2026-102764-Proof-of-concept](https://github.com/Worthes/CVE-2026-102764-Proof-of-concept) : ![starts](https://img.shields.io/github/stars/Worthes/CVE-2026-102764-Proof-of-concept.svg) ![forks](https://img.shields.io/github/forks/Worthes/CVE-2026-102764-Proof-of-concept.svg)
 
 ## CVE-2026-104745
 
@@ -91,6 +104,23 @@ problems:
 
 - [https://github.com/StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR](https://github.com/StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR) : ![starts](https://img.shields.io/github/stars/StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR.svg) ![forks](https://img.shields.io/github/forks/StefanoAndreatta/CVE-2026-51367-Insecure-Direct-Object-Reference-IDOR.svg)
 
+## CVE-2026-53264
+> In the Linux kernel, the following vulnerability has been resolved:
+
+net/sched: act_api: use RCU with deferred freeing for action lifecycle
+
+When NEWTFILTER and DELFILTER are run concurrently it is possible to create a
+race with an associated action.
+
+Let&#x27;s illustrate with CPU0 running NEWTFILTER and CPU1 running DELFILTER:
+
+ 0: mutex_lock() &lt;-- holds the idr lock
+ 0: rcu_read_lock()
+ 0: p = idr_find(idr, index) &lt;-- action p is valid (RCU protects IDR)
+ 0: mutex_unlock() &lt;-- releases the idr loc
+
+- [https://github.com/b1nhack/CVE-2026-53264](https://github.com/b1nhack/CVE-2026-53264) : ![starts](https://img.shields.io/github/stars/b1nhack/CVE-2026-53264.svg) ![forks](https://img.shields.io/github/forks/b1nhack/CVE-2026-53264.svg)
+
 ## CVE-2026-53365
 
 - [https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365](https://github.com/hoodoer/VsockDrop-Adapted-CVE-2026-53365) : ![starts](https://img.shields.io/github/stars/hoodoer/VsockDrop-Adapted-CVE-2026-53365.svg) ![forks](https://img.shields.io/github/forks/hoodoer/VsockDrop-Adapted-CVE-2026-53365.svg)
@@ -145,6 +175,14 @@ problems:
 
 - [https://github.com/ctsit/redcap_cve_2026_90817_scan](https://github.com/ctsit/redcap_cve_2026_90817_scan) : ![starts](https://img.shields.io/github/stars/ctsit/redcap_cve_2026_90817_scan.svg) ![forks](https://img.shields.io/github/forks/ctsit/redcap_cve_2026_90817_scan.svg)
 
+## CVE-2026-92208
+
+- [https://github.com/do4choo/CVE-2026-92208_remote_mDNS_overflow](https://github.com/do4choo/CVE-2026-92208_remote_mDNS_overflow) : ![starts](https://img.shields.io/github/stars/do4choo/CVE-2026-92208_remote_mDNS_overflow.svg) ![forks](https://img.shields.io/github/forks/do4choo/CVE-2026-92208_remote_mDNS_overflow.svg)
+
+## CVE-2026-92209
+
+- [https://github.com/do4choo/CVE-2026-92209_NoMachine_LPE](https://github.com/do4choo/CVE-2026-92209_NoMachine_LPE) : ![starts](https://img.shields.io/github/stars/do4choo/CVE-2026-92209_NoMachine_LPE.svg) ![forks](https://img.shields.io/github/forks/do4choo/CVE-2026-92209_NoMachine_LPE.svg)
+
 ## CVE-2026-94134
 
 - [https://github.com/MosesOX/POC-CVE-2026-94134](https://github.com/MosesOX/POC-CVE-2026-94134) : ![starts](https://img.shields.io/github/stars/MosesOX/POC-CVE-2026-94134.svg) ![forks](https://img.shields.io/github/forks/MosesOX/POC-CVE-2026-94134.svg)
@@ -158,3 +196,20 @@ problems:
 > GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 19.2.8, 19.3 before 19.3.5, and 19.4 before 19.4.2 that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression validation.
 
 - [https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-97229](https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-97229) : ![starts](https://img.shields.io/github/stars/OppositDeer/Gitlab-RCE-CVE-2026-97229.svg) ![forks](https://img.shields.io/github/forks/OppositDeer/Gitlab-RCE-CVE-2026-97229.svg)
+
+## CVE-2026-99999
+> In the Linux kernel, the following vulnerability has been resolved:
+
+ipv4: validate checksum_start before completing checksum
+
+If a packet with bad checksum metadata gets into the ipv4 stack,
+skb_checksum_help can corrupt the network header and cause a bunch of
+mischief.
+
+This was discovered and reported by Paulos, and has been reporoduced
+by others independently since.
+
+We really shouldn&#x27;t allow such packets in, but as a defence
+in depth measure, let&#x27;s also check before we complete the checksum
+
+- [https://github.com/MChorfa/csumguard](https://github.com/MChorfa/csumguard) : ![starts](https://img.shields.io/github/stars/MChorfa/csumguard.svg) ![forks](https://img.shields.io/github/forks/MChorfa/csumguard.svg)
