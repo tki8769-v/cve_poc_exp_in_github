@@ -1186,3 +1186,9 @@
 {"cve_id": "CVE-2023-2313", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:25:20Z", "url": "https://github.com/l00neyhacker/CVE-2023-23131", "url_ids": ["CVE-2023-23131"]}
 {"cve_id": "CVE-2023-2313", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:25:20Z", "url": "https://github.com/l00neyhacker/CVE-2023-23132", "url_ids": ["CVE-2023-23132"]}
 {"cve_id": "CVE-2024-2289", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T06:37:20Z", "url": "https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain", "url_ids": ["CVE-2024-22899"]}
+{"cve_id": "CVE-2024-3435", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T14:26:32Z", "url": "https://github.com/God4n/nextjs-CVE-2024-34351-_exploit", "url_ids": ["CVE-2024-34351"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T14:31:45Z", "url": "https://github.com/orangmuda/CVE-2021-38314", "url_ids": ["CVE-2021-38314"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T14:31:45Z", "url": "https://github.com/akhilkoradiya/CVE-2021-38314", "url_ids": ["CVE-2021-38314"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T14:31:45Z", "url": "https://github.com/twseptian/cve-2021-38314", "url_ids": ["CVE-2021-38314"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T14:31:45Z", "url": "https://github.com/0xGabe/CVE-2021-38314", "url_ids": ["CVE-2021-38314"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T14:31:45Z", "url": "https://github.com/c0ff33b34n/CVE-2021-38314", "url_ids": ["CVE-2021-38314"]}
