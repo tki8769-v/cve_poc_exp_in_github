@@ -4830,6 +4830,10 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 
 - [https://github.com/sammings/CVE-2024-32640](https://github.com/sammings/CVE-2024-32640) : ![starts](https://img.shields.io/github/stars/sammings/CVE-2024-32640.svg) ![forks](https://img.shields.io/github/forks/sammings/CVE-2024-32640.svg)
 
+## CVE-2024-32507
+
+- [https://github.com/4minx/CVE-2024-32507](https://github.com/4minx/CVE-2024-32507) : ![starts](https://img.shields.io/github/stars/4minx/CVE-2024-32507.svg) ![forks](https://img.shields.io/github/forks/4minx/CVE-2024-32507.svg)
+
 ## CVE-2024-32462
  Flatpak is a system for building, distributing, and running sandboxed desktop applications on Linux. in versions before 1.10.9, 1.12.9, 1.14.6, and 1.15.8, a malicious or compromised Flatpak app could execute arbitrary code outside its sandbox. Normally, the `--command` argument of `flatpak run` expects to be given a command to run in the specified Flatpak app, optionally along with some arguments. However it is possible to instead pass `bwrap` arguments to `--command=`, such as `--bind`. It's possible to pass an arbitrary `commandline` to the portal interface `org.freedesktop.portal.Background.RequestBackground` from within a Flatpak app. When this is converted into a `--command` and arguments, it achieves the same effect of passing arguments directly to `bwrap`, and thus can be used for a sandbox escape. The solution is to pass the `--` argument to `bwrap`, which makes it stop processing options. This has been supported since bubblewrap 0.3.0. All supported versions of Flatpak require at least that version of bubblewrap. xdg-desktop-portal version 1.18.4 will mitigate this vulnerability by only allowing Flatpak apps to create .desktop files for commands that do not start with --. The vulnerability is patched in 1.15.8, 1.10.9, 1.12.9, and 1.14.6.
 

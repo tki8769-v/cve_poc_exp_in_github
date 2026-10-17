@@ -3102,3 +3102,12 @@
 {"cve_id": "CVE-2026-15398", "ts": "2026-10-17T13:46:43Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-21589", "ts": "2026-10-17T13:46:52Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-89603", "ts": "2026-10-17T13:53:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108749", "ts": "2026-10-17T16:25:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111593", "ts": "2026-10-17T16:26:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-15354", "ts": "2026-10-17T16:26:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-15398", "ts": "2026-10-17T16:26:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-21589", "ts": "2026-10-17T16:27:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-89603", "ts": "2026-10-17T16:33:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-32507", "ts": "2026-10-17T16:38:57Z", "type": "new_poc", "url": "https://github.com/4minx/CVE-2024-32507"}
+{"cve_id": "CVE-2026-111437", "ts": "2026-10-17T16:38:58Z", "type": "new_poc", "url": "https://github.com/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report"}
+{"cve_id": "CVE-2026-104850", "ts": "2026-10-17T16:38:58Z", "type": "new_poc", "url": "https://github.com/Iceman2050/mcp-oauth-discovery-prober"}

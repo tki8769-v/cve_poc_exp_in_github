@@ -240,6 +240,10 @@
 
 - [https://github.com/Zedocun/Sharepoint-cve-2023-29357-incident-response](https://github.com/Zedocun/Sharepoint-cve-2023-29357-incident-response) : ![starts](https://img.shields.io/github/stars/Zedocun/Sharepoint-cve-2023-29357-incident-response.svg) ![forks](https://img.shields.io/github/forks/Zedocun/Sharepoint-cve-2023-29357-incident-response.svg)
 
+## CVE-2024-32507
+
+- [https://github.com/4minx/CVE-2024-32507](https://github.com/4minx/CVE-2024-32507) : ![starts](https://img.shields.io/github/stars/4minx/CVE-2024-32507.svg) ![forks](https://img.shields.io/github/forks/4minx/CVE-2024-32507.svg)
+
 ## CVE-2024-6387
 > A security regression (CVE-2006-5051) was discovered in OpenSSH&#x27;s server (sshd). There is a race condition which can lead sshd to handle some signals in an unsafe manner. An unauthenticated, remote attacker may be able to trigger it by failing to authenticate within a set time period.
 
@@ -258,6 +262,11 @@
 
 - [https://github.com/GustavoLopreto/cve-2025-54068-vuln-intel](https://github.com/GustavoLopreto/cve-2025-54068-vuln-intel) : ![starts](https://img.shields.io/github/stars/GustavoLopreto/cve-2025-54068-vuln-intel.svg) ![forks](https://img.shields.io/github/forks/GustavoLopreto/cve-2025-54068-vuln-intel.svg)
 
+## CVE-2026-104850
+> MCP TypeScript SDK is the official TypeScript SDK for Model Context Protocol servers and clients. Starting in version 1.12.0 and prior to versions 1.31.0 and 2.2.0, the SDK&#x27;s OAuth client support let the MCP server a client connected to decide which authorization server received the client&#x27;s OAuth credentials. Stored and pre-provisioned credentials were not bound to the authorization server they belong to. A malicious or compromised MCP server could name its own authorization server in its prote
+
+- [https://github.com/Iceman2050/mcp-oauth-discovery-prober](https://github.com/Iceman2050/mcp-oauth-discovery-prober) : ![starts](https://img.shields.io/github/stars/Iceman2050/mcp-oauth-discovery-prober.svg) ![forks](https://img.shields.io/github/forks/Iceman2050/mcp-oauth-discovery-prober.svg)
+
 ## CVE-2026-107082
 
 - [https://github.com/Primandito/CVE-2026-107082](https://github.com/Primandito/CVE-2026-107082) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-107082.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-107082.svg)
@@ -269,6 +278,10 @@
 ## CVE-2026-107084
 
 - [https://github.com/Primandito/CVE-2026-107084](https://github.com/Primandito/CVE-2026-107084) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-107084.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-107084.svg)
+
+## CVE-2026-111437
+
+- [https://github.com/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report](https://github.com/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report) : ![starts](https://img.shields.io/github/stars/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report.svg) ![forks](https://img.shields.io/github/forks/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report.svg)
 
 ## CVE-2026-111823
 

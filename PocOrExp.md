@@ -12,6 +12,10 @@
 
 - [https://github.com/Syscallh00k/CVE-2026-111444](https://github.com/Syscallh00k/CVE-2026-111444) : ![starts](https://img.shields.io/github/stars/Syscallh00k/CVE-2026-111444.svg) ![forks](https://img.shields.io/github/forks/Syscallh00k/CVE-2026-111444.svg)
 
+## CVE-2026-111437
+
+- [https://github.com/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report](https://github.com/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report) : ![starts](https://img.shields.io/github/stars/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report.svg) ![forks](https://img.shields.io/github/forks/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report.svg)
+
 ## CVE-2026-111389
 > Frappe HRMS 14.x before 14.38.2, 15.x before 15.64.0, and 16.x before 16.18.0 contains a SQL injection vulnerability in some endpoints caused by missing input validation. Any authenticated attacker, including a low-privilege account, can send specially crafted requests to these endpoints to extract sensitive information from the database.
 
@@ -283,6 +287,11 @@ device operation and availability. No authentication, session e
 > FacturaScripts before version 2026.7 contains a PHP object injection vulnerability in WidgetSelect::processFormData() that allows authenticated attackers to trigger unserialize() on raw POST data without an allowed_classes filter for multiple-select fields. Attackers can submit a serialized XLSXWriter object as the field value to invoke its __destruct() method, deleting arbitrary attacker-specified files such as config.php or backup data, resulting in denial of service and potential application 
 
 - [https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection](https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection) : ![starts](https://img.shields.io/github/stars/wvllxe/CVE-2026-104905-facturascripts-object-injection.svg) ![forks](https://img.shields.io/github/forks/wvllxe/CVE-2026-104905-facturascripts-object-injection.svg)
+
+## CVE-2026-104850
+> MCP TypeScript SDK is the official TypeScript SDK for Model Context Protocol servers and clients. Starting in version 1.12.0 and prior to versions 1.31.0 and 2.2.0, the SDK&#x27;s OAuth client support let the MCP server a client connected to decide which authorization server received the client&#x27;s OAuth credentials. Stored and pre-provisioned credentials were not bound to the authorization server they belong to. A malicious or compromised MCP server could name its own authorization server in its prote
+
+- [https://github.com/Iceman2050/mcp-oauth-discovery-prober](https://github.com/Iceman2050/mcp-oauth-discovery-prober) : ![starts](https://img.shields.io/github/stars/Iceman2050/mcp-oauth-discovery-prober.svg) ![forks](https://img.shields.io/github/forks/Iceman2050/mcp-oauth-discovery-prober.svg)
 
 ## CVE-2026-104826
 
@@ -42876,6 +42885,10 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [https://github.com/0xYumeko/CVE-2024-32640-SQLI-MuraCMS](https://github.com/0xYumeko/CVE-2024-32640-SQLI-MuraCMS) : ![starts](https://img.shields.io/github/stars/0xYumeko/CVE-2024-32640-SQLI-MuraCMS.svg) ![forks](https://img.shields.io/github/forks/0xYumeko/CVE-2024-32640-SQLI-MuraCMS.svg)
 
 - [https://github.com/sammings/CVE-2024-32640](https://github.com/sammings/CVE-2024-32640) : ![starts](https://img.shields.io/github/stars/sammings/CVE-2024-32640.svg) ![forks](https://img.shields.io/github/forks/sammings/CVE-2024-32640.svg)
+
+## CVE-2024-32507
+
+- [https://github.com/4minx/CVE-2024-32507](https://github.com/4minx/CVE-2024-32507) : ![starts](https://img.shields.io/github/stars/4minx/CVE-2024-32507.svg) ![forks](https://img.shields.io/github/forks/4minx/CVE-2024-32507.svg)
 
 ## CVE-2024-32462
  Flatpak is a system for building, distributing, and running sandboxed desktop applications on Linux. in versions before 1.10.9, 1.12.9, 1.14.6, and 1.15.8, a malicious or compromised Flatpak app could execute arbitrary code outside its sandbox. Normally, the `--command` argument of `flatpak run` expects to be given a command to run in the specified Flatpak app, optionally along with some arguments. However it is possible to instead pass `bwrap` arguments to `--command=`, such as `--bind`. It's possible to pass an arbitrary `commandline` to the portal interface `org.freedesktop.portal.Background.RequestBackground` from within a Flatpak app. When this is converted into a `--command` and arguments, it achieves the same effect of passing arguments directly to `bwrap`, and thus can be used for a sandbox escape. The solution is to pass the `--` argument to `bwrap`, which makes it stop processing options. This has been supported since bubblewrap 0.3.0. All supported versions of Flatpak require at least that version of bubblewrap. xdg-desktop-portal version 1.18.4 will mitigate this vulnerability by only allowing Flatpak apps to create .desktop files for commands that do not start with --. The vulnerability is patched in 1.15.8, 1.10.9, 1.12.9, and 1.14.6.

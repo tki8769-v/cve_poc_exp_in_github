@@ -11,6 +11,10 @@
 
 - [https://github.com/Syscallh00k/CVE-2026-111444](https://github.com/Syscallh00k/CVE-2026-111444) : ![starts](https://img.shields.io/github/stars/Syscallh00k/CVE-2026-111444.svg) ![forks](https://img.shields.io/github/forks/Syscallh00k/CVE-2026-111444.svg)
 
+## CVE-2026-111437
+
+- [https://github.com/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report](https://github.com/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report) : ![starts](https://img.shields.io/github/stars/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report.svg) ![forks](https://img.shields.io/github/forks/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report.svg)
+
 ## CVE-2026-111389
 > Frappe HRMS 14.x before 14.38.2, 15.x before 15.64.0, and 16.x before 16.18.0 contains a SQL injection vulnerability in some endpoints caused by missing input validation. Any authenticated attacker, including a low-privilege account, can send specially crafted requests to these endpoints to extract sensitive information from the database.
 
@@ -282,6 +286,11 @@ device operation and availability. No authentication, session e
 > FacturaScripts before version 2026.7 contains a PHP object injection vulnerability in WidgetSelect::processFormData() that allows authenticated attackers to trigger unserialize() on raw POST data without an allowed_classes filter for multiple-select fields. Attackers can submit a serialized XLSXWriter object as the field value to invoke its __destruct() method, deleting arbitrary attacker-specified files such as config.php or backup data, resulting in denial of service and potential application 
 
 - [https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection](https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection) : ![starts](https://img.shields.io/github/stars/wvllxe/CVE-2026-104905-facturascripts-object-injection.svg) ![forks](https://img.shields.io/github/forks/wvllxe/CVE-2026-104905-facturascripts-object-injection.svg)
+
+## CVE-2026-104850
+> MCP TypeScript SDK is the official TypeScript SDK for Model Context Protocol servers and clients. Starting in version 1.12.0 and prior to versions 1.31.0 and 2.2.0, the SDK&#x27;s OAuth client support let the MCP server a client connected to decide which authorization server received the client&#x27;s OAuth credentials. Stored and pre-provisioned credentials were not bound to the authorization server they belong to. A malicious or compromised MCP server could name its own authorization server in its prote
+
+- [https://github.com/Iceman2050/mcp-oauth-discovery-prober](https://github.com/Iceman2050/mcp-oauth-discovery-prober) : ![starts](https://img.shields.io/github/stars/Iceman2050/mcp-oauth-discovery-prober.svg) ![forks](https://img.shields.io/github/forks/Iceman2050/mcp-oauth-discovery-prober.svg)
 
 ## CVE-2026-104826
 
