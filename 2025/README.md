@@ -6502,6 +6502,8 @@ allow an unauthenticated attacker to read or manipulate device data.
 
 - [https://github.com/Shinn-Home/CVE-2025-45737](https://github.com/Shinn-Home/CVE-2025-45737) : ![starts](https://img.shields.io/github/stars/Shinn-Home/CVE-2025-45737.svg) ![forks](https://img.shields.io/github/forks/Shinn-Home/CVE-2025-45737.svg)
 
+- [https://github.com/LanBaiCode/CVE-2025-45737](https://github.com/LanBaiCode/CVE-2025-45737) : ![starts](https://img.shields.io/github/stars/LanBaiCode/CVE-2025-45737.svg) ![forks](https://img.shields.io/github/forks/LanBaiCode/CVE-2025-45737.svg)
+
 ## CVE-2025-45620
  An issue in Aver PTC310UV2 v.0.1.0000.59 allows a remote attacker to obtain sensitive information via a crafted request
 

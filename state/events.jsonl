@@ -3075,3 +3075,18 @@
 {"cve_id": "CVE-2026-89603", "ts": "2026-10-17T06:25:48Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-86950", "ts": "2026-10-17T06:38:36Z", "type": "new_poc", "url": "https://github.com/34zY/CVE-2026-86950"}
 {"cve_id": "CVE-2026-86950", "ts": "2026-10-17T06:38:36Z", "type": "new_poc", "url": "https://github.com/java99999/CVE-2026-86950-POC"}
+{"cve_id": "CVE-2026-108749", "ts": "2026-10-17T12:58:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111593", "ts": "2026-10-17T12:59:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-15354", "ts": "2026-10-17T13:00:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-15398", "ts": "2026-10-17T13:00:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-89603", "ts": "2026-10-17T13:05:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99999", "ts": "2026-10-17T13:09:45Z", "type": "new_poc", "url": "https://github.com/PeronGH/CVE-2026-99999"}
+{"cve_id": "CVE-2026-111823", "ts": "2026-10-17T13:09:45Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-111823"}
+{"cve_id": "CVE-2026-99999", "ts": "2026-10-17T13:09:45Z", "type": "new_poc", "url": "https://github.com/Quaerendir/cve-2026-99999-audit"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-10-17T13:09:45Z", "type": "new_poc", "url": "https://github.com/totsiaw/cve-2026-64560-rmx6699"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-10-17T13:09:46Z", "type": "new_poc", "url": "https://github.com/maosasagawa/pmx110-cve-2026-64560"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-10-17T13:09:46Z", "type": "new_poc", "url": "https://github.com/ChaYeWuu/prague-CVE-2026-64560-OS4.0"}
+{"cve_id": "CVE-2022-23305", "ts": "2026-10-17T13:09:46Z", "type": "new_poc", "url": "https://github.com/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report"}
+{"cve_id": "CVE-2023-29357", "ts": "2026-10-17T13:09:54Z", "type": "new_poc", "url": "https://github.com/Zedocun/Sharepoint-cve-2023-29357-incident-response"}
+{"cve_id": "CVE-2025-45737", "ts": "2026-10-17T13:10:43Z", "type": "new_poc", "url": "https://github.com/LanBaiCode/CVE-2025-45737"}
+{"cve_id": "CVE-2026-65343", "ts": "2026-10-17T13:18:58Z", "type": "new_poc", "url": "https://github.com/lkop32788/iOS26.6-CVE-2026-65343"}

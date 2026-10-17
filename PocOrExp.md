@@ -3,6 +3,10 @@
 
 - [https://github.com/danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300) : ![starts](https://img.shields.io/github/stars/danish1162/CVE-2026-2035703-x300.svg) ![forks](https://img.shields.io/github/forks/danish1162/CVE-2026-2035703-x300.svg)
 
+## CVE-2026-111823
+
+- [https://github.com/murrez/CVE-2026-111823](https://github.com/murrez/CVE-2026-111823) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-111823.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-111823.svg)
+
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
 
@@ -685,6 +689,10 @@ We really shouldn&#x27;t allow such packets in, but as a defence
 in depth measure, let&#x27;s also check before we complete the checksum
 
 - [https://github.com/MChorfa/csumguard](https://github.com/MChorfa/csumguard) : ![starts](https://img.shields.io/github/stars/MChorfa/csumguard.svg) ![forks](https://img.shields.io/github/forks/MChorfa/csumguard.svg)
+
+- [https://github.com/PeronGH/CVE-2026-99999](https://github.com/PeronGH/CVE-2026-99999) : ![starts](https://img.shields.io/github/stars/PeronGH/CVE-2026-99999.svg) ![forks](https://img.shields.io/github/forks/PeronGH/CVE-2026-99999.svg)
+
+- [https://github.com/Quaerendir/cve-2026-99999-audit](https://github.com/Quaerendir/cve-2026-99999-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/cve-2026-99999-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/cve-2026-99999-audit.svg)
 
 ## CVE-2026-97657
 > The Abandoned Cart Pro for WooCommerce plugin for WordPress is vulnerable to Authentication Bypass via Malleable Encryption and Bypassable HMAC in all versions up to, and including, 10.8.0. This is due to the use of MAC-free AES-CTR encryption for cart-recovery link tokens — where the 8-byte CTR nonce is carried inside the ciphertext blob and the encryption key is looked up using the attacker-supplied `user_email` GET parameter — combined with an HMAC nonce check in `wcap_email_track_links()` th
@@ -2980,6 +2988,17 @@ call selinux_socket_connect() when MSG_FASTOPEN is passed.
 - [https://github.com/4n4s4zi/tfo-connect-bypass](https://github.com/4n4s4zi/tfo-connect-bypass) : ![starts](https://img.shields.io/github/stars/4n4s4zi/tfo-connect-bypass.svg) ![forks](https://img.shields.io/github/forks/4n4s4zi/tfo-connect-bypass.svg)
 
 ## CVE-2026-72018
+> In the Linux kernel, the following vulnerability has been resolved:
+
+dibs: loopback: validate offset and size in move_data()
+
+The loopback move_data() performs a memcpy into the registered DMB
+without checking whether offset + size exceeds the DMB length.  Unlike
+real ISM hardware, which enforces memory region bounds natively, the
+software loopback has no such protection.
+
+A peer-supplied out-of-bounds offset or oversized write would result in
+an OOB write past the allocated kernel buffer.  Add 
 
 - [https://github.com/0xBlackash/CVE-2026-72018](https://github.com/0xBlackash/CVE-2026-72018) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-72018.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-72018.svg)
 
@@ -3865,6 +3884,8 @@ This issue affects all versions of WordPress. Version 7.0.4 has been released, c
 
 - [https://github.com/AmorCool/iOS26.6-CVE-2026-65343](https://github.com/AmorCool/iOS26.6-CVE-2026-65343) : ![starts](https://img.shields.io/github/stars/AmorCool/iOS26.6-CVE-2026-65343.svg) ![forks](https://img.shields.io/github/forks/AmorCool/iOS26.6-CVE-2026-65343.svg)
 
+- [https://github.com/lkop32788/iOS26.6-CVE-2026-65343](https://github.com/lkop32788/iOS26.6-CVE-2026-65343) : ![starts](https://img.shields.io/github/stars/lkop32788/iOS26.6-CVE-2026-65343.svg) ![forks](https://img.shields.io/github/forks/lkop32788/iOS26.6-CVE-2026-65343.svg)
+
 ## CVE-2026-65330
  The issue was addressed with improved memory handling. This issue is fixed in iOS 26.6.1 and iPadOS 26.6.1, macOS Sequoia 15.8, macOS Tahoe 26.6.2, tvOS 27, visionOS 27, watchOS 27. An app may be able to cause unexpected system termination or corrupt kernel memory.
 
@@ -4299,6 +4320,12 @@ with mt exec") added a temporary workaround for that in 2010 which surv
 - [https://github.com/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu](https://github.com/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu) : ![starts](https://img.shields.io/github/stars/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu.svg) ![forks](https://img.shields.io/github/forks/feiguang-ai/plz110-6.12.69-cve-2026-64560-ksu.svg)
 
 - [https://github.com/imkidz0/CVE-2026-64560-exploit](https://github.com/imkidz0/CVE-2026-64560-exploit) : ![starts](https://img.shields.io/github/stars/imkidz0/CVE-2026-64560-exploit.svg) ![forks](https://img.shields.io/github/forks/imkidz0/CVE-2026-64560-exploit.svg)
+
+- [https://github.com/ChaYeWuu/prague-CVE-2026-64560-OS4.0](https://github.com/ChaYeWuu/prague-CVE-2026-64560-OS4.0) : ![starts](https://img.shields.io/github/stars/ChaYeWuu/prague-CVE-2026-64560-OS4.0.svg) ![forks](https://img.shields.io/github/forks/ChaYeWuu/prague-CVE-2026-64560-OS4.0.svg)
+
+- [https://github.com/maosasagawa/pmx110-cve-2026-64560](https://github.com/maosasagawa/pmx110-cve-2026-64560) : ![starts](https://img.shields.io/github/stars/maosasagawa/pmx110-cve-2026-64560.svg) ![forks](https://img.shields.io/github/forks/maosasagawa/pmx110-cve-2026-64560.svg)
+
+- [https://github.com/totsiaw/cve-2026-64560-rmx6699](https://github.com/totsiaw/cve-2026-64560-rmx6699) : ![starts](https://img.shields.io/github/stars/totsiaw/cve-2026-64560-rmx6699.svg) ![forks](https://img.shields.io/github/forks/totsiaw/cve-2026-64560-rmx6699.svg)
 
 ## CVE-2026-64531
  In the Linux kernel, the following vulnerability has been resolved:
@@ -29033,6 +29060,8 @@ allow an unauthenticated attacker to read or manipulate device data.
 ## CVE-2025-45737
 
 - [https://github.com/Shinn-Home/CVE-2025-45737](https://github.com/Shinn-Home/CVE-2025-45737) : ![starts](https://img.shields.io/github/stars/Shinn-Home/CVE-2025-45737.svg) ![forks](https://img.shields.io/github/forks/Shinn-Home/CVE-2025-45737.svg)
+
+- [https://github.com/LanBaiCode/CVE-2025-45737](https://github.com/LanBaiCode/CVE-2025-45737) : ![starts](https://img.shields.io/github/stars/LanBaiCode/CVE-2025-45737.svg) ![forks](https://img.shields.io/github/forks/LanBaiCode/CVE-2025-45737.svg)
 
 ## CVE-2025-45620
  An issue in Aver PTC310UV2 v.0.1.0000.59 allows a remote attacker to obtain sensitive information via a crafted request
@@ -56772,6 +56801,8 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 
 - [https://github.com/DeividasTerechovas/SOC227-Microsoft-SharePoint-Server-Elevation-of-Privilege-Possible-CVE-2023-29357-Exploitation](https://github.com/DeividasTerechovas/SOC227-Microsoft-SharePoint-Server-Elevation-of-Privilege-Possible-CVE-2023-29357-Exploitation) : ![starts](https://img.shields.io/github/stars/DeividasTerechovas/SOC227-Microsoft-SharePoint-Server-Elevation-of-Privilege-Possible-CVE-2023-29357-Exploitation.svg) ![forks](https://img.shields.io/github/forks/DeividasTerechovas/SOC227-Microsoft-SharePoint-Server-Elevation-of-Privilege-Possible-CVE-2023-29357-Exploitation.svg)
 
+- [https://github.com/Zedocun/Sharepoint-cve-2023-29357-incident-response](https://github.com/Zedocun/Sharepoint-cve-2023-29357-incident-response) : ![starts](https://img.shields.io/github/stars/Zedocun/Sharepoint-cve-2023-29357-incident-response.svg) ![forks](https://img.shields.io/github/forks/Zedocun/Sharepoint-cve-2023-29357-incident-response.svg)
+
 ## CVE-2023-29343
  SysInternals Sysmon for Windows Elevation of Privilege Vulnerability
 
@@ -66742,6 +66773,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 - [https://github.com/tkomlodi/CVE-2022-23305_POC](https://github.com/tkomlodi/CVE-2022-23305_POC) : ![starts](https://img.shields.io/github/stars/tkomlodi/CVE-2022-23305_POC.svg) ![forks](https://img.shields.io/github/forks/tkomlodi/CVE-2022-23305_POC.svg)
 
 - [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
+
+- [https://github.com/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report](https://github.com/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report) : ![starts](https://img.shields.io/github/stars/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report.svg) ![forks](https://img.shields.io/github/forks/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report.svg)
 
 ## CVE-2022-23303
  The implementations of SAE in hostapd before 2.10 and wpa_supplicant before 2.10 are vulnerable to side channel attacks as a result of cache access patterns. NOTE: this issue exists because of an incomplete fix for CVE-2019-9494.

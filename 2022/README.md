@@ -5329,6 +5329,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 
 - [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
 
+- [https://github.com/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report](https://github.com/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report) : ![starts](https://img.shields.io/github/stars/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report.svg) ![forks](https://img.shields.io/github/forks/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report.svg)
+
 ## CVE-2022-23303
  The implementations of SAE in hostapd before 2.10 and wpa_supplicant before 2.10 are vulnerable to side channel attacks as a result of cache access patterns. NOTE: this issue exists because of an incomplete fix for CVE-2019-9494.
 

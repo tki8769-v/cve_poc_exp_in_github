@@ -232,6 +232,18 @@
 - [https://github.com/stfnw/Debugging_Dirty_Pipe_CVE-2022-0847](https://github.com/stfnw/Debugging_Dirty_Pipe_CVE-2022-0847) : ![starts](https://img.shields.io/github/stars/stfnw/Debugging_Dirty_Pipe_CVE-2022-0847.svg) ![forks](https://img.shields.io/github/forks/stfnw/Debugging_Dirty_Pipe_CVE-2022-0847.svg)
 - [https://github.com/tufanturhan/CVE-2022-0847-L-nux-PrivEsc](https://github.com/tufanturhan/CVE-2022-0847-L-nux-PrivEsc) : ![starts](https://img.shields.io/github/stars/tufanturhan/CVE-2022-0847-L-nux-PrivEsc.svg) ![forks](https://img.shields.io/github/forks/tufanturhan/CVE-2022-0847-L-nux-PrivEsc.svg)
 
+## CVE-2022-23305
+
+- [https://github.com/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report](https://github.com/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report) : ![starts](https://img.shields.io/github/stars/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report.svg) ![forks](https://img.shields.io/github/forks/hoor113/CVE-2022-23305-Demo-and-Whitebox-Report.svg)
+
+## CVE-2023-29357
+
+- [https://github.com/Zedocun/Sharepoint-cve-2023-29357-incident-response](https://github.com/Zedocun/Sharepoint-cve-2023-29357-incident-response) : ![starts](https://img.shields.io/github/stars/Zedocun/Sharepoint-cve-2023-29357-incident-response.svg) ![forks](https://img.shields.io/github/forks/Zedocun/Sharepoint-cve-2023-29357-incident-response.svg)
+
+## CVE-2025-45737
+
+- [https://github.com/LanBaiCode/CVE-2025-45737](https://github.com/LanBaiCode/CVE-2025-45737) : ![starts](https://img.shields.io/github/stars/LanBaiCode/CVE-2025-45737.svg) ![forks](https://img.shields.io/github/forks/LanBaiCode/CVE-2025-45737.svg)
+
 ## CVE-2025-52097
 > Cross Site Scripting vulnerability in InstantASP ltd, InstantForum.NET v.4.1.4 allows an attacker to execute arbitrary code via reflecting un-sanitized input from query string parameters directly into the HTML response without proper output encoding
 
@@ -252,6 +264,10 @@
 ## CVE-2026-107084
 
 - [https://github.com/Primandito/CVE-2026-107084](https://github.com/Primandito/CVE-2026-107084) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-107084.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-107084.svg)
+
+## CVE-2026-111823
+
+- [https://github.com/murrez/CVE-2026-111823](https://github.com/murrez/CVE-2026-111823) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-111823.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-111823.svg)
 
 ## CVE-2026-17588
 
@@ -294,6 +310,31 @@ problems:
 
 - [https://github.com/do4choo/CVE-2026-5054_NoMachine_LPE](https://github.com/do4choo/CVE-2026-5054_NoMachine_LPE) : ![starts](https://img.shields.io/github/stars/do4choo/CVE-2026-5054_NoMachine_LPE.svg) ![forks](https://img.shields.io/github/forks/do4choo/CVE-2026-5054_NoMachine_LPE.svg)
 
+## CVE-2026-64560
+> In the Linux kernel, the following vulnerability has been resolved:
+
+posix-cpu-timers: Prevent UAF caused by non-leader exec() race
+
+Wongi and Jungwoo decoded and reported a non-leader exec() related race
+which can result in an UAF:
+
+ sys_timer_delete()			exec()
+   posix_cpu_timer_del()
+   // Observes old leader
+   p = pid_task(pid, pid_type);		de_thread()
+   					  switch_leader();
+					  release_task(old_leader)
+					    __exit_signal(old_leader)
+					      sighand = lock(old_leader, sighand);
+
+- [https://github.com/ChaYeWuu/prague-CVE-2026-64560-OS4.0](https://github.com/ChaYeWuu/prague-CVE-2026-64560-OS4.0) : ![starts](https://img.shields.io/github/stars/ChaYeWuu/prague-CVE-2026-64560-OS4.0.svg) ![forks](https://img.shields.io/github/forks/ChaYeWuu/prague-CVE-2026-64560-OS4.0.svg)
+- [https://github.com/maosasagawa/pmx110-cve-2026-64560](https://github.com/maosasagawa/pmx110-cve-2026-64560) : ![starts](https://img.shields.io/github/stars/maosasagawa/pmx110-cve-2026-64560.svg) ![forks](https://img.shields.io/github/forks/maosasagawa/pmx110-cve-2026-64560.svg)
+- [https://github.com/totsiaw/cve-2026-64560-rmx6699](https://github.com/totsiaw/cve-2026-64560-rmx6699) : ![starts](https://img.shields.io/github/stars/totsiaw/cve-2026-64560-rmx6699.svg) ![forks](https://img.shields.io/github/forks/totsiaw/cve-2026-64560-rmx6699.svg)
+
+## CVE-2026-65343
+
+- [https://github.com/lkop32788/iOS26.6-CVE-2026-65343](https://github.com/lkop32788/iOS26.6-CVE-2026-65343) : ![starts](https://img.shields.io/github/stars/lkop32788/iOS26.6-CVE-2026-65343.svg) ![forks](https://img.shields.io/github/forks/lkop32788/iOS26.6-CVE-2026-65343.svg)
+
 ## CVE-2026-86950
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.1 and iPadOS 26.7.1, macOS Sequoia 15.8.1, macOS Tahoe 26.7.1. Processing a maliciously crafted file may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 27.
 
@@ -321,3 +362,21 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 > A flaw was found in librsvg. When processing an SVG document containing nested XML inclusions (Xincludes) with duplicate entity declarations, a use-after-free error can occur. This vulnerability arises because the library incorrectly frees an XML entity that is still in use by the parser. An attacker could potentially exploit this to cause a denial of service or execute arbitrary code.
 
 - [https://github.com/pauleprichna/cybersecurity](https://github.com/pauleprichna/cybersecurity) : ![starts](https://img.shields.io/github/stars/pauleprichna/cybersecurity.svg) ![forks](https://img.shields.io/github/forks/pauleprichna/cybersecurity.svg)
+
+## CVE-2026-99999
+> In the Linux kernel, the following vulnerability has been resolved:
+
+ipv4: validate checksum_start before completing checksum
+
+If a packet with bad checksum metadata gets into the ipv4 stack,
+skb_checksum_help can corrupt the network header and cause a bunch of
+mischief.
+
+This was discovered and reported by Paulos, and has been reporoduced
+by others independently since.
+
+We really shouldn&#x27;t allow such packets in, but as a defence
+in depth measure, let&#x27;s also check before we complete the checksum
+
+- [https://github.com/PeronGH/CVE-2026-99999](https://github.com/PeronGH/CVE-2026-99999) : ![starts](https://img.shields.io/github/stars/PeronGH/CVE-2026-99999.svg) ![forks](https://img.shields.io/github/forks/PeronGH/CVE-2026-99999.svg)
+- [https://github.com/Quaerendir/cve-2026-99999-audit](https://github.com/Quaerendir/cve-2026-99999-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/cve-2026-99999-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/cve-2026-99999-audit.svg)
