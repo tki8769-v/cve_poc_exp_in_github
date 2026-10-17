@@ -248,6 +248,10 @@
 
 - [https://github.com/4minx/CVE-2024-32507](https://github.com/4minx/CVE-2024-32507) : ![starts](https://img.shields.io/github/stars/4minx/CVE-2024-32507.svg) ![forks](https://img.shields.io/github/forks/4minx/CVE-2024-32507.svg)
 
+## CVE-2024-38475
+
+- [https://github.com/akabul0us/apache_poc](https://github.com/akabul0us/apache_poc) : ![starts](https://img.shields.io/github/stars/akabul0us/apache_poc.svg) ![forks](https://img.shields.io/github/forks/akabul0us/apache_poc.svg)
+
 ## CVE-2024-6387
 > A security regression (CVE-2006-5051) was discovered in OpenSSH&#x27;s server (sshd). There is a race condition which can lead sshd to handle some signals in an unsafe manner. An unauthenticated, remote attacker may be able to trigger it by failing to authenticate within a set time period.
 
@@ -260,6 +264,10 @@
 ## CVE-2025-45737
 
 - [https://github.com/LanBaiCode/CVE-2025-45737](https://github.com/LanBaiCode/CVE-2025-45737) : ![starts](https://img.shields.io/github/stars/LanBaiCode/CVE-2025-45737.svg) ![forks](https://img.shields.io/github/forks/LanBaiCode/CVE-2025-45737.svg)
+
+## CVE-2025-49113
+
+- [https://github.com/rank03031/CVE-2025-49113-CTF](https://github.com/rank03031/CVE-2025-49113-CTF) : ![starts](https://img.shields.io/github/stars/rank03031/CVE-2025-49113-CTF.svg) ![forks](https://img.shields.io/github/forks/rank03031/CVE-2025-49113-CTF.svg)
 
 ## CVE-2025-52097
 > Cross Site Scripting vulnerability in InstantASP ltd, InstantForum.NET v.4.1.4 allows an attacker to execute arbitrary code via reflecting un-sanitized input from query string parameters directly into the HTML response without proper output encoding
@@ -354,6 +362,10 @@ problems:
 
 - [https://github.com/do4choo/CVE-2026-5054_NoMachine_LPE](https://github.com/do4choo/CVE-2026-5054_NoMachine_LPE) : ![starts](https://img.shields.io/github/stars/do4choo/CVE-2026-5054_NoMachine_LPE.svg) ![forks](https://img.shields.io/github/forks/do4choo/CVE-2026-5054_NoMachine_LPE.svg)
 
+## CVE-2026-53995
+
+- [https://github.com/SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal](https://github.com/SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal) : ![starts](https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal.svg) ![forks](https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal.svg)
+
 ## CVE-2026-64560
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -378,6 +390,28 @@ which can result in an UAF:
 ## CVE-2026-65343
 
 - [https://github.com/lkop32788/iOS26.6-CVE-2026-65343](https://github.com/lkop32788/iOS26.6-CVE-2026-65343) : ![starts](https://img.shields.io/github/stars/lkop32788/iOS26.6-CVE-2026-65343.svg) ![forks](https://img.shields.io/github/forks/lkop32788/iOS26.6-CVE-2026-65343.svg)
+
+## CVE-2026-67279
+> RouterOS SSH enters the connection protocol after a client-requested rekey even though user authentication was never attempted, allowing an unauthenticated client to open a session channel and send an exec request. On affected builds the server dispatches the command, enabling unauthenticated creation, overwrite, and reconstruction of files in the RouterOS managed file namespace, including support files containing configuration and diagnostic data.This issue was fixed in versions: 6.49.21 (Long-
+
+- [https://github.com/GoldAden/mikrotrick-verifier](https://github.com/GoldAden/mikrotrick-verifier) : ![starts](https://img.shields.io/github/stars/GoldAden/mikrotrick-verifier.svg) ![forks](https://img.shields.io/github/forks/GoldAden/mikrotrick-verifier.svg)
+
+## CVE-2026-74580
+> In the Linux kernel, the following vulnerability has been resolved:
+
+vhost: reset the vring metadata cache on vring reconfiguration
+
+vq-&gt;meta_iotlb[] caches the vhost_iotlb_map that backs each vring
+metadata region, and iotlb_access_ok() returns early on a cache hit,
+taking the hit as proof that the region has already been validated:
+
+	if (vhost_vq_meta_fetch(vq, addr, len, type))
+		return true;
+
+The cache is reset on VHOST_IOTLB_UPDATE and VHOST_IOTLB_INVALIDATE, on
+device IOTLB (re)initialisat
+
+- [https://github.com/V01DL1NG/vghost-watch](https://github.com/V01DL1NG/vghost-watch) : ![starts](https://img.shields.io/github/stars/V01DL1NG/vghost-watch.svg) ![forks](https://img.shields.io/github/forks/V01DL1NG/vghost-watch.svg)
 
 ## CVE-2026-86950
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.1 and iPadOS 26.7.1, macOS Sequoia 15.8.1, macOS Tahoe 26.7.1. Processing a maliciously crafted file may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 27.

@@ -3618,6 +3618,8 @@ Substitutions in server context that use a backreferences or variables as the f
 
 - [https://github.com/abrewer251/CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC](https://github.com/abrewer251/CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC) : ![starts](https://img.shields.io/github/stars/abrewer251/CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC.svg) ![forks](https://img.shields.io/github/forks/abrewer251/CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC.svg)
 
+- [https://github.com/akabul0us/apache_poc](https://github.com/akabul0us/apache_poc) : ![starts](https://img.shields.io/github/stars/akabul0us/apache_poc.svg) ![forks](https://img.shields.io/github/forks/akabul0us/apache_poc.svg)
+
 ## CVE-2024-38474
  Substitution encoding issue in mod_rewrite in Apache HTTP Server 2.4.59 and earlier allows attacker to execute scripts in
 directories permitted by the configuration but not directly reachable by any URL or source disclosure of scripts meant to only to be executed as CGI.

@@ -2732,6 +2732,8 @@ device IOTLB (re)initialisat
 
 - [https://github.com/techupdate24/linux-kernel-cve-2026-74580-vghost](https://github.com/techupdate24/linux-kernel-cve-2026-74580-vghost) : ![starts](https://img.shields.io/github/stars/techupdate24/linux-kernel-cve-2026-74580-vghost.svg) ![forks](https://img.shields.io/github/forks/techupdate24/linux-kernel-cve-2026-74580-vghost.svg)
 
+- [https://github.com/V01DL1NG/vghost-watch](https://github.com/V01DL1NG/vghost-watch) : ![starts](https://img.shields.io/github/stars/V01DL1NG/vghost-watch.svg) ![forks](https://img.shields.io/github/forks/V01DL1NG/vghost-watch.svg)
+
 ## CVE-2026-74469
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3527,6 +3529,8 @@ removed.
 - [https://github.com/tc4dy/CVE-2026-67279-86060-Toolkit](https://github.com/tc4dy/CVE-2026-67279-86060-Toolkit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-67279-86060-Toolkit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-67279-86060-Toolkit.svg)
 
 - [https://github.com/shmaki4/CVE-2026-67279-Mikrotik-6.42-POC](https://github.com/shmaki4/CVE-2026-67279-Mikrotik-6.42-POC) : ![starts](https://img.shields.io/github/stars/shmaki4/CVE-2026-67279-Mikrotik-6.42-POC.svg) ![forks](https://img.shields.io/github/forks/shmaki4/CVE-2026-67279-Mikrotik-6.42-POC.svg)
+
+- [https://github.com/GoldAden/mikrotrick-verifier](https://github.com/GoldAden/mikrotrick-verifier) : ![starts](https://img.shields.io/github/stars/GoldAden/mikrotrick-verifier.svg) ![forks](https://img.shields.io/github/forks/GoldAden/mikrotrick-verifier.svg)
 
 ## CVE-2026-67276
  RouterOS does not compare the complete RSA public key when matching an SSH authentication request to an authorized user key, checking the key type and modulus but omitting the exponent. Because signature verification uses the client-supplied key, an attacker knowing an authorized RSA modulus can supply a key with exponent one, forge a valid signature, and open an SSH command channel as the target user without the private key.This issue affects only 7.x branch was fixed in versions: 7.23.4 (Long-term) and 7.24.2 (Stable)
@@ -5918,6 +5922,10 @@ Users are recommended to upgrade to version 11.0.23, 10.1.56 or 9.0.119 which fi
  File Browser is a file managing interface for uploading, deleting, previewing, renaming, and editing files within a specified directory. Prior to 2.63.6, the Hook Authentication feature in File Browser allows administrators to delegate login verification to an external shell command. User-supplied credentials (username and password) are interpolated into this command string using os.Expand without sanitization. An unauthenticated remote attacker can inject shell metacharacters in the username or password field at the login screen, causing the server to execute arbitrary OS commands before any authentication takes place. This is a critical pre-authentication RCE. This vulnerability is fixed in 2.63.6.
 
 - [https://github.com/Saku0512/CVE-2026-54088-poc](https://github.com/Saku0512/CVE-2026-54088-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-54088-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-54088-poc.svg)
+
+## CVE-2026-53995
+
+- [https://github.com/SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal](https://github.com/SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal) : ![starts](https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal.svg) ![forks](https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal.svg)
 
 ## CVE-2026-53959
  4gaBoards is a boards system for realtime project management. Prior to 3.3.9, 4gaBoards allows any authenticated user to enumerate account information for every user through GET /api/users and retrieve arbitrary accounts through GET /api/users/:id. The users/index and users/show actions rely only on the default is-authenticated policy in server/config/policies.js, and server/api/controllers/users/index.js returns the result of sails.helpers.users.getMany() without requester-specific authorization or response sanitization. Responses expose email, phone, organization, name, isAdmin, ssoGoogleEmail, ssoGithubEmail, and other SSO-linked email fields, including data for administrators. This enables instance-wide user enumeration, privacy loss, and targeted phishing reconnaissance. This issue is fixed in version 3.3.9.

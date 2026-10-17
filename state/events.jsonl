@@ -3135,3 +3135,8 @@
 {"cve_id": "CVE-2026-110916", "ts": "2026-10-17T19:28:13Z", "type": "new_poc", "url": "https://github.com/SeanDishman/Google-Chrome-CVE-2026-110916-POC"}
 {"cve_id": "CVE-2025-1122", "ts": "2026-10-17T19:28:22Z", "type": "new_poc", "url": "https://github.com/jenson8161/exploit-docs"}
 {"cve_id": "CVE-2015-1328", "ts": "2026-10-17T19:47:33Z", "type": "new_poc", "url": "https://github.com/saqibnet/blackbox-pentesting-infsecos"}
+{"cve_id": "CVE-2024-38475", "ts": "2026-10-17T23:09:21Z", "type": "new_poc", "url": "https://github.com/akabul0us/apache_poc"}
+{"cve_id": "CVE-2025-49113", "ts": "2026-10-17T23:09:22Z", "type": "new_poc", "url": "https://github.com/rank03031/CVE-2025-49113-CTF"}
+{"cve_id": "CVE-2026-53995", "ts": "2026-10-17T23:09:22Z", "type": "new_poc", "url": "https://github.com/SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal"}
+{"cve_id": "CVE-2026-67279", "ts": "2026-10-17T23:09:23Z", "type": "new_poc", "url": "https://github.com/GoldAden/mikrotrick-verifier"}
+{"cve_id": "CVE-2026-74580", "ts": "2026-10-17T23:09:23Z", "type": "new_poc", "url": "https://github.com/V01DL1NG/vghost-watch"}
