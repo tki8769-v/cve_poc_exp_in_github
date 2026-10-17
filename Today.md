@@ -249,6 +249,10 @@
 
 - [https://github.com/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH](https://github.com/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH) : ![starts](https://img.shields.io/github/stars/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH.svg) ![forks](https://img.shields.io/github/forks/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH.svg)
 
+## CVE-2025-1122
+
+- [https://github.com/jenson8161/exploit-docs](https://github.com/jenson8161/exploit-docs) : ![starts](https://img.shields.io/github/stars/jenson8161/exploit-docs.svg) ![forks](https://img.shields.io/github/forks/jenson8161/exploit-docs.svg)
+
 ## CVE-2025-45737
 
 - [https://github.com/LanBaiCode/CVE-2025-45737](https://github.com/LanBaiCode/CVE-2025-45737) : ![starts](https://img.shields.io/github/stars/LanBaiCode/CVE-2025-45737.svg) ![forks](https://img.shields.io/github/forks/LanBaiCode/CVE-2025-45737.svg)
@@ -283,6 +287,11 @@
 
 - [https://github.com/Primandito/CVE-2026-107084](https://github.com/Primandito/CVE-2026-107084) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-107084.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-107084.svg)
 
+## CVE-2026-110916
+> Improper input validation in Desktop in Google Chrome prior to 155.0.8059.84 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Medium)
+
+- [https://github.com/SeanDishman/Google-Chrome-CVE-2026-110916-POC](https://github.com/SeanDishman/Google-Chrome-CVE-2026-110916-POC) : ![starts](https://img.shields.io/github/stars/SeanDishman/Google-Chrome-CVE-2026-110916-POC.svg) ![forks](https://img.shields.io/github/forks/SeanDishman/Google-Chrome-CVE-2026-110916-POC.svg)
+
 ## CVE-2026-111437
 
 - [https://github.com/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report](https://github.com/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report) : ![starts](https://img.shields.io/github/stars/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report.svg) ![forks](https://img.shields.io/github/forks/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report.svg)
@@ -304,6 +313,10 @@
 
 - [https://github.com/TRX-0/CVE-2026-31857-craftcms-ssti](https://github.com/TRX-0/CVE-2026-31857-craftcms-ssti) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-31857-craftcms-ssti.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-31857-craftcms-ssti.svg)
 
+## CVE-2026-38838
+
+- [https://github.com/pawelskokowski/CVE-2026-38838](https://github.com/pawelskokowski/CVE-2026-38838) : ![starts](https://img.shields.io/github/stars/pawelskokowski/CVE-2026-38838.svg) ![forks](https://img.shields.io/github/forks/pawelskokowski/CVE-2026-38838.svg)
+
 ## CVE-2026-43499
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -324,6 +337,10 @@ problems:
 ## CVE-2026-44011
 
 - [https://github.com/TRX-0/CVE-2026-44011-craftcms-rce](https://github.com/TRX-0/CVE-2026-44011-craftcms-rce) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-44011-craftcms-rce.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-44011-craftcms-rce.svg)
+
+## CVE-2026-48907
+
+- [https://github.com/0xCyp1337/CVE-2026-48907-RCE](https://github.com/0xCyp1337/CVE-2026-48907-RCE) : ![starts](https://img.shields.io/github/stars/0xCyp1337/CVE-2026-48907-RCE.svg) ![forks](https://img.shields.io/github/forks/0xCyp1337/CVE-2026-48907-RCE.svg)
 
 ## CVE-2026-5053
 
@@ -381,10 +398,20 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 
 - [https://github.com/songzzzz/CVE-2026-8933](https://github.com/songzzzz/CVE-2026-8933) : ![starts](https://img.shields.io/github/stars/songzzzz/CVE-2026-8933.svg) ![forks](https://img.shields.io/github/forks/songzzzz/CVE-2026-8933.svg)
 
+## CVE-2026-94169
+> Improper Control of Generation of Code (&#x27;Code Injection&#x27;) vulnerability in Theme-one The Grid the-grid allows Command Injection.This issue affects The Grid: from n/a through 2.8.1.
+
+- [https://github.com/kize7/CVE-2026-94169](https://github.com/kize7/CVE-2026-94169) : ![starts](https://img.shields.io/github/stars/kize7/CVE-2026-94169.svg) ![forks](https://img.shields.io/github/forks/kize7/CVE-2026-94169.svg)
+
 ## CVE-2026-96889
 > A flaw was found in librsvg. When processing an SVG document containing nested XML inclusions (Xincludes) with duplicate entity declarations, a use-after-free error can occur. This vulnerability arises because the library incorrectly frees an XML entity that is still in use by the parser. An attacker could potentially exploit this to cause a denial of service or execute arbitrary code.
 
 - [https://github.com/pauleprichna/cybersecurity](https://github.com/pauleprichna/cybersecurity) : ![starts](https://img.shields.io/github/stars/pauleprichna/cybersecurity.svg) ![forks](https://img.shields.io/github/forks/pauleprichna/cybersecurity.svg)
+
+## CVE-2026-97229
+> GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 19.2.8, 19.3 before 19.3.5, and 19.4 before 19.4.2 that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression validation.
+
+- [https://github.com/gandli/cve-2026-97229-lab](https://github.com/gandli/cve-2026-97229-lab) : ![starts](https://img.shields.io/github/stars/gandli/cve-2026-97229-lab.svg) ![forks](https://img.shields.io/github/forks/gandli/cve-2026-97229-lab.svg)
 
 ## CVE-2026-99999
 > In the Linux kernel, the following vulnerability has been resolved:

@@ -32,6 +32,11 @@
 
 - [https://github.com/shlln/CVE-2026-110958](https://github.com/shlln/CVE-2026-110958) : ![starts](https://img.shields.io/github/stars/shlln/CVE-2026-110958.svg) ![forks](https://img.shields.io/github/forks/shlln/CVE-2026-110958.svg)
 
+## CVE-2026-110916
+> Improper input validation in Desktop in Google Chrome prior to 155.0.8059.84 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Medium)
+
+- [https://github.com/SeanDishman/Google-Chrome-CVE-2026-110916-POC](https://github.com/SeanDishman/Google-Chrome-CVE-2026-110916-POC) : ![starts](https://img.shields.io/github/stars/SeanDishman/Google-Chrome-CVE-2026-110916-POC.svg) ![forks](https://img.shields.io/github/forks/SeanDishman/Google-Chrome-CVE-2026-110916-POC.svg)
+
 ## CVE-2026-110912
 > In DragonFly BSD through 6.4.2 before 4bb22ff, the ARP input handlers arpintr() and in_arpinput() (sys/netinet/if_ether.c) do not validate the hardware address length (ar_hln) and protocol address length (ar_pln) fields of incoming ARP packets. in_arpreply() then uses these attacker-controlled values as memcpy lengths when copying from kernel buffers that are only 6 and 4 bytes long, resulting in an out-of-bounds read of kernel heap and stack memory that is copied into the ARP reply sent back to
 
@@ -311,6 +316,7 @@ device operation and availability. No authentication, session e
 - [https://github.com/rxsklife/CVE-2026-104745](https://github.com/rxsklife/CVE-2026-104745) : ![starts](https://img.shields.io/github/stars/rxsklife/CVE-2026-104745.svg) ![forks](https://img.shields.io/github/forks/rxsklife/CVE-2026-104745.svg)
 
 ## CVE-2026-104736
+> The LearnPress plugin for WordPress is vulnerable to PHP Object Injection in versions up to, and including, 4.4.10 via deserialization of untrusted input from the &#x27;checkout-email&#x27; request parameter during the checkout AJAX action. The value is passed through sanitize_text_field(), which does not strip serialized object syntax, then stored in the LearnPress session table and later fed to LP_Helper::maybe_unserialize() → unserialize() (without an allowed_classes restriction) by LP_Session_Handler:
 
 - [https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details](https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details) : ![starts](https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details.svg) ![forks](https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details.svg)
 
@@ -733,6 +739,8 @@ in depth measure, let&#x27;s also check before we complete the checksum
 
 - [https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-97229](https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-97229) : ![starts](https://img.shields.io/github/stars/OppositDeer/Gitlab-RCE-CVE-2026-97229.svg) ![forks](https://img.shields.io/github/forks/OppositDeer/Gitlab-RCE-CVE-2026-97229.svg)
 
+- [https://github.com/gandli/cve-2026-97229-lab](https://github.com/gandli/cve-2026-97229-lab) : ![starts](https://img.shields.io/github/stars/gandli/cve-2026-97229-lab.svg) ![forks](https://img.shields.io/github/forks/gandli/cve-2026-97229-lab.svg)
+
 ## CVE-2026-97205
 > NGINX Plus and NGINX Open Source have a vulnerability in the ngx_http_core_module module. When asynchronous file I/O (AIO) is enabled in certain configurations, processing a Server Side Includes (SSI) page containing “include virtual” commands may trigger a Use-After-Free (UAF) in the NGINX worker process. This may cause memory corruption or a worker process crash. Additionally, attackers can execute code on systems with Address Space Layout Randomization (ASLR) disabled or when the attacker can
 
@@ -920,6 +928,11 @@ root privileges resulting in complete compromise o
 > Unrestricted Upload of File with Dangerous Type vulnerability in PX-lab Zombify zombify allows Upload a Web Shell to a Web Server.This issue affects Zombify: from n/a through 1.7.7.
 
 - [https://github.com/Wayang1337/CVE-2026-94503](https://github.com/Wayang1337/CVE-2026-94503) : ![starts](https://img.shields.io/github/stars/Wayang1337/CVE-2026-94503.svg) ![forks](https://img.shields.io/github/forks/Wayang1337/CVE-2026-94503.svg)
+
+## CVE-2026-94169
+> Improper Control of Generation of Code (&#x27;Code Injection&#x27;) vulnerability in Theme-one The Grid the-grid allows Command Injection.This issue affects The Grid: from n/a through 2.8.1.
+
+- [https://github.com/kize7/CVE-2026-94169](https://github.com/kize7/CVE-2026-94169) : ![starts](https://img.shields.io/github/stars/kize7/CVE-2026-94169.svg) ![forks](https://img.shields.io/github/forks/kize7/CVE-2026-94169.svg)
 
 ## CVE-2026-94134
 > The Apache Airflow SSH provider hook disables SSH host-key verification by default: unless `host_key` is configured or `no_host_key_check` is explicitly set to false, it accepts any server key. This affects SSH and SFTP connections that rely on the default. An attacker in a machine-in-the-middle position between the worker and the SSH or SFTP server can impersonate the server and capture the credentials or data a task sends.
@@ -7373,6 +7386,8 @@ Arbitrary Perl in the output glob executes at the calling process's privilege.
 
 - [https://github.com/theendofabbys/CVE-2026-48907](https://github.com/theendofabbys/CVE-2026-48907) : ![starts](https://img.shields.io/github/stars/theendofabbys/CVE-2026-48907.svg) ![forks](https://img.shields.io/github/forks/theendofabbys/CVE-2026-48907.svg)
 
+- [https://github.com/0xCyp1337/CVE-2026-48907-RCE](https://github.com/0xCyp1337/CVE-2026-48907-RCE) : ![starts](https://img.shields.io/github/stars/0xCyp1337/CVE-2026-48907-RCE.svg) ![forks](https://img.shields.io/github/forks/0xCyp1337/CVE-2026-48907-RCE.svg)
+
 ## CVE-2026-48866
  Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in Rocketgenius Inc. Gravity Forms allows Path Traversal.
 
@@ -11344,6 +11359,10 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
  Cross Site Request Forgery vulnerability in diskoverdata diskover-community v.2.3.5. and before allows a remote attacker to escalate privileges and obtain sensitive information via the public/settings_process.php
 
 - [https://github.com/VadlaReddySai/cve-writeups](https://github.com/VadlaReddySai/cve-writeups) : ![starts](https://img.shields.io/github/stars/VadlaReddySai/cve-writeups.svg) ![forks](https://img.shields.io/github/forks/VadlaReddySai/cve-writeups.svg)
+
+## CVE-2026-38838
+
+- [https://github.com/pawelskokowski/CVE-2026-38838](https://github.com/pawelskokowski/CVE-2026-38838) : ![starts](https://img.shields.io/github/stars/pawelskokowski/CVE-2026-38838.svg) ![forks](https://img.shields.io/github/forks/pawelskokowski/CVE-2026-38838.svg)
 
 ## CVE-2026-38812
  RuoYi v4.8.2 is vulnerable to SQL Injection via the /tool/gen/createTable endpoint. The issue affects the code generation module and may allow an authenticated attacker with administrative privileges to access sensitive database information.
@@ -37812,6 +37831,8 @@ Bypass operating system verification via exploiting the NV_Read functionality du
 - [https://github.com/ts2023dev/exploit-docs](https://github.com/ts2023dev/exploit-docs) : ![starts](https://img.shields.io/github/stars/ts2023dev/exploit-docs.svg) ![forks](https://img.shields.io/github/forks/ts2023dev/exploit-docs.svg)
 
 - [https://github.com/ts2023dev/RMASmoke-v2](https://github.com/ts2023dev/RMASmoke-v2) : ![starts](https://img.shields.io/github/stars/ts2023dev/RMASmoke-v2.svg) ![forks](https://img.shields.io/github/forks/ts2023dev/RMASmoke-v2.svg)
+
+- [https://github.com/jenson8161/exploit-docs](https://github.com/jenson8161/exploit-docs) : ![starts](https://img.shields.io/github/stars/jenson8161/exploit-docs.svg) ![forks](https://img.shields.io/github/forks/jenson8161/exploit-docs.svg)
 
 ## CVE-2025-1098
  A security issue was discovered in  ingress-nginx https://github.com/kubernetes/ingress-nginx  where the `mirror-target` and `mirror-host` Ingress annotations can be used to inject arbitrary configuration into nginx. This can lead to arbitrary code execution in the context of the ingress-nginx controller, and disclosure of Secrets accessible to the controller. (Note that in the default installation, the controller can access all Secrets cluster-wide.)
