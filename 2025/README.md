@@ -4813,6 +4813,8 @@ Users are recommended to upgrade to version 3.2.2, which fixes this issue.
 
 - [https://github.com/Jenderal92/livewire-vuln-scanner](https://github.com/Jenderal92/livewire-vuln-scanner) : ![starts](https://img.shields.io/github/stars/Jenderal92/livewire-vuln-scanner.svg) ![forks](https://img.shields.io/github/forks/Jenderal92/livewire-vuln-scanner.svg)
 
+- [https://github.com/GustavoLopreto/cve-2025-54068-vuln-intel](https://github.com/GustavoLopreto/cve-2025-54068-vuln-intel) : ![starts](https://img.shields.io/github/stars/GustavoLopreto/cve-2025-54068-vuln-intel.svg) ![forks](https://img.shields.io/github/forks/GustavoLopreto/cve-2025-54068-vuln-intel.svg)
+
 ## CVE-2025-53964
  GoldenDict 1.5.0 and 1.5.1 has an exposed dangerous method that allows reading and modifying files when a user adds a crafted dictionary and then searches for any term included in that dictionary.
 
@@ -5239,6 +5241,11 @@ Users are recommended to upgrade to version 11.0.9, 10.1.43 or 9.0.107, which fi
  DO NOT USE THIS CVE RECORD. ConsultIDs: CVE-2025-29088. Reason: This record is a duplicate of CVE-2025-29088. Notes: All CVE users should reference CVE-2025-29088 instead of this record. All references and descriptions in this record have been removed to prevent accidental usage.
 
 - [https://github.com/SCREAMBBY/CVE-2025-52099](https://github.com/SCREAMBBY/CVE-2025-52099) : ![starts](https://img.shields.io/github/stars/SCREAMBBY/CVE-2025-52099.svg) ![forks](https://img.shields.io/github/forks/SCREAMBBY/CVE-2025-52099.svg)
+
+## CVE-2025-52097
+> Cross Site Scripting vulnerability in InstantASP ltd, InstantForum.NET v.4.1.4 allows an attacker to execute arbitrary code via reflecting un-sanitized input from query string parameters directly into the HTML response without proper output encoding
+
+- [https://github.com/rwilsonecs/CVE-2025-52097](https://github.com/rwilsonecs/CVE-2025-52097) : ![starts](https://img.shields.io/github/stars/rwilsonecs/CVE-2025-52097.svg) ![forks](https://img.shields.io/github/forks/rwilsonecs/CVE-2025-52097.svg)
 
 ## CVE-2025-52078
  File upload vulnerability in Writebot AI Content Generator SaaS React Template thru 4.0.0, allowing remote attackers to gain escalated privileges via a crafted POST request to the /file-upload endpoint.

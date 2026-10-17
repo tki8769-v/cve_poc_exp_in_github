@@ -146,6 +146,18 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 - [https://github.com/azuk4r/CVE-2026-107159](https://github.com/azuk4r/CVE-2026-107159) : ![starts](https://img.shields.io/github/stars/azuk4r/CVE-2026-107159.svg) ![forks](https://img.shields.io/github/forks/azuk4r/CVE-2026-107159.svg)
 
+## CVE-2026-107084
+
+- [https://github.com/Primandito/CVE-2026-107084](https://github.com/Primandito/CVE-2026-107084) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-107084.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-107084.svg)
+
+## CVE-2026-107083
+
+- [https://github.com/Primandito/CVE-2026-107083](https://github.com/Primandito/CVE-2026-107083) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-107083.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-107083.svg)
+
+## CVE-2026-107082
+
+- [https://github.com/Primandito/CVE-2026-107082](https://github.com/Primandito/CVE-2026-107082) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-107082.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-107082.svg)
+
 ## CVE-2026-107081
 
 - [https://github.com/Primandito/CVE-2026-107081](https://github.com/Primandito/CVE-2026-107081) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-107081.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-107081.svg)
@@ -736,6 +748,8 @@ in depth measure, let&#x27;s also check before we complete the checksum
 - [https://github.com/rafabd1/VectorFreed](https://github.com/rafabd1/VectorFreed) : ![starts](https://img.shields.io/github/stars/rafabd1/VectorFreed.svg) ![forks](https://img.shields.io/github/forks/rafabd1/VectorFreed.svg)
 
 - [https://github.com/lion9453/CVE-2026-96889-nextjs-rce](https://github.com/lion9453/CVE-2026-96889-nextjs-rce) : ![starts](https://img.shields.io/github/stars/lion9453/CVE-2026-96889-nextjs-rce.svg) ![forks](https://img.shields.io/github/forks/lion9453/CVE-2026-96889-nextjs-rce.svg)
+
+- [https://github.com/pauleprichna/cybersecurity](https://github.com/pauleprichna/cybersecurity) : ![starts](https://img.shields.io/github/stars/pauleprichna/cybersecurity.svg) ![forks](https://img.shields.io/github/forks/pauleprichna/cybersecurity.svg)
 
 ## CVE-2026-96878
 > Improper neutralization of input during web page generation (&#x27;cross-site scripting&#x27;) vulnerability in Mediawiki - Cargo extension allows Reflected XSS.
@@ -6312,6 +6326,18 @@ case.
 - [https://github.com/foxirain/linux-kernel-codex-harness-v2](https://github.com/foxirain/linux-kernel-codex-harness-v2) : ![starts](https://img.shields.io/github/stars/foxirain/linux-kernel-codex-harness-v2.svg) ![forks](https://img.shields.io/github/forks/foxirain/linux-kernel-codex-harness-v2.svg)
 
 ## CVE-2026-52993
+> In the Linux kernel, the following vulnerability has been resolved:
+
+tipc: fix double-free in tipc_buf_append()
+
+tipc_msg_validate() can potentially reallocate the skb it is validating,
+freeing the old one.  In tipc_buf_append(), it was being called with a
+pointer to a local variable which was a copy of the caller&#x27;s skb
+pointer.
+
+If the skb was reallocated and validation subsequently failed, the error
+handling path would free the original skb pointer, which had already
+been freed, leading to dou
 
 - [https://github.com/CaptainAI-Labs/CaptainAI-LPE-CVE-2026-52993](https://github.com/CaptainAI-Labs/CaptainAI-LPE-CVE-2026-52993) : ![starts](https://img.shields.io/github/stars/CaptainAI-Labs/CaptainAI-LPE-CVE-2026-52993.svg) ![forks](https://img.shields.io/github/forks/CaptainAI-Labs/CaptainAI-LPE-CVE-2026-52993.svg)
 
@@ -8765,6 +8791,8 @@ Not affected:
 
 - [https://github.com/0xyngtg/CraftCMS-CVE-2026-44011-PoC-RCE](https://github.com/0xyngtg/CraftCMS-CVE-2026-44011-PoC-RCE) : ![starts](https://img.shields.io/github/stars/0xyngtg/CraftCMS-CVE-2026-44011-PoC-RCE.svg) ![forks](https://img.shields.io/github/forks/0xyngtg/CraftCMS-CVE-2026-44011-PoC-RCE.svg)
 
+- [https://github.com/TRX-0/CVE-2026-44011-craftcms-rce](https://github.com/TRX-0/CVE-2026-44011-craftcms-rce) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-44011-craftcms-rce.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-44011-craftcms-rce.svg)
+
 ## CVE-2026-43914
  Vaultwarden is a Bitwarden-compatible server written in Rust. Prior to 1.35.4, there is a security vulnerability in Vaultwarden that allows bypassing the login brute-force protection if email 2fa is enabled. If email 2fa is enabled, the unprotected 2fa-function send_email_login (email.rs, api endpoint /api/two-factor/send-email-login) also acts as an oracle determining whether a username-password combination is correct. An attacker can abuse that endpoint to brute-force passwords without rate-limiting. This works even for users who don't have email 2fa configured. This vulnerability is fixed in 1.35.4.
 
@@ -9465,6 +9493,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/MSEDGE-CORE/GhostLock-HonorFne](https://github.com/MSEDGE-CORE/GhostLock-HonorFne) : ![starts](https://img.shields.io/github/stars/MSEDGE-CORE/GhostLock-HonorFne.svg) ![forks](https://img.shields.io/github/forks/MSEDGE-CORE/GhostLock-HonorFne.svg)
 
 - [https://github.com/saltlyfish666/magicpad3-root-research](https://github.com/saltlyfish666/magicpad3-root-research) : ![starts](https://img.shields.io/github/stars/saltlyfish666/magicpad3-root-research.svg) ![forks](https://img.shields.io/github/forks/saltlyfish666/magicpad3-root-research.svg)
+
+- [https://github.com/Venshell/hlk-al00-kernel-build](https://github.com/Venshell/hlk-al00-kernel-build) : ![starts](https://img.shields.io/github/stars/Venshell/hlk-al00-kernel-build.svg) ![forks](https://img.shields.io/github/forks/Venshell/hlk-al00-kernel-build.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
@@ -14598,6 +14628,8 @@ Only instances in the following version ranges are affected:
 
 - [https://github.com/R3n3r0/CVE-2026-27280](https://github.com/R3n3r0/CVE-2026-27280) : ![starts](https://img.shields.io/github/stars/R3n3r0/CVE-2026-27280.svg) ![forks](https://img.shields.io/github/forks/R3n3r0/CVE-2026-27280.svg)
 
+- [https://github.com/Nehust/CVE-2026-27280](https://github.com/Nehust/CVE-2026-27280) : ![starts](https://img.shields.io/github/stars/Nehust/CVE-2026-27280.svg) ![forks](https://img.shields.io/github/forks/Nehust/CVE-2026-27280.svg)
+
 ## CVE-2026-27212
  Swiper is a free and mobile touch slider with hardware accelerated transitions and native behavior. Versions 6.5.1 through 12.1.1 have a Prototype pollution vulnerability. The vulnerability resides in line 94 of shared/utils.mjs, where the indexOf() function is used to check whether user provided input contain forbidden strings. Despite a previous fix that attempted to mitigate prototype pollution by checking whether user input contained a forbidden key, it is still possible to pollute Object.prototype via a crafted input using Array.prototype. The exploit works across Windows and Linux and on Node and Bun runtimes.  Any application that processes attacker-controlled input using this package may be affected  by the following: Authentication Bypass, Denial of Service and RCE. This issue is fixed in version 12.1.2.
 
@@ -18180,6 +18212,10 @@ Note: This vulnerability is only exploitable when binutils is built with the DLX
 
 - [https://github.com/Oscar-Collado/langflow-CVE-2026-17633-PoC](https://github.com/Oscar-Collado/langflow-CVE-2026-17633-PoC) : ![starts](https://img.shields.io/github/stars/Oscar-Collado/langflow-CVE-2026-17633-PoC.svg) ![forks](https://img.shields.io/github/forks/Oscar-Collado/langflow-CVE-2026-17633-PoC.svg)
 
+## CVE-2026-17588
+
+- [https://github.com/abraxas/qemu-xhci-complete-uaf](https://github.com/abraxas/qemu-xhci-complete-uaf) : ![starts](https://img.shields.io/github/stars/abraxas/qemu-xhci-complete-uaf.svg) ![forks](https://img.shields.io/github/forks/abraxas/qemu-xhci-complete-uaf.svg)
+
 ## CVE-2026-17583
  The affected
 
@@ -19592,6 +19628,10 @@ This issue affects Drupal core: from 8.9.0 before 10.4.10, from 10.5.0 before 10
  The Easy Elements for Elementor – Addons & Website Templates plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including, 1.4.5 via the `easyel_handle_register()` function. This is due to the `wp_ajax_nopriv_eel_register` AJAX handler iterating the attacker-controlled `custom_meta` POST array and writing every supplied key-value pair to the newly created user's meta via `update_user_meta()` without any key whitelist or blocklist, allowing the `wp_capabilities` user meta key to be overwritten after `wp_insert_user()` has already assigned a safe role. This makes it possible for unauthenticated attackers to register a new account with full administrator-level privileges by supplying `custom_meta[wp_capabilities][administrator]=1`. Exploitation requires that user registration is enabled on the site and that at least one page exposes the Login/Register widget, which publishes the required `easy_elements_nonce` into the page DOM where it can be retrieved by any unauthenticated visitor via a simple GET request.
 
 - [https://github.com/xxconi/CVE-2026-9018](https://github.com/xxconi/CVE-2026-9018) : ![starts](https://img.shields.io/github/stars/xxconi/CVE-2026-9018.svg) ![forks](https://img.shields.io/github/forks/xxconi/CVE-2026-9018.svg)
+
+## CVE-2026-8933
+
+- [https://github.com/songzzzz/CVE-2026-8933](https://github.com/songzzzz/CVE-2026-8933) : ![starts](https://img.shields.io/github/stars/songzzzz/CVE-2026-8933.svg) ![forks](https://img.shields.io/github/forks/songzzzz/CVE-2026-8933.svg)
 
 ## CVE-2026-8932
  libcurl would reuse a previously created connection even when some mTLS config
