@@ -262,6 +262,10 @@
 
 - [https://github.com/GustavoLopreto/cve-2025-54068-vuln-intel](https://github.com/GustavoLopreto/cve-2025-54068-vuln-intel) : ![starts](https://img.shields.io/github/stars/GustavoLopreto/cve-2025-54068-vuln-intel.svg) ![forks](https://img.shields.io/github/forks/GustavoLopreto/cve-2025-54068-vuln-intel.svg)
 
+## CVE-2025-57819
+
+- [https://github.com/HexBytee/FreePBX-SQLi-RCE](https://github.com/HexBytee/FreePBX-SQLi-RCE) : ![starts](https://img.shields.io/github/stars/HexBytee/FreePBX-SQLi-RCE.svg) ![forks](https://img.shields.io/github/forks/HexBytee/FreePBX-SQLi-RCE.svg)
+
 ## CVE-2026-104850
 > MCP TypeScript SDK is the official TypeScript SDK for Model Context Protocol servers and clients. Starting in version 1.12.0 and prior to versions 1.31.0 and 2.2.0, the SDK&#x27;s OAuth client support let the MCP server a client connected to decide which authorization server received the client&#x27;s OAuth credentials. Stored and pre-provisioned credentials were not bound to the authorization server they belong to. A malicious or compromised MCP server could name its own authorization server in its prote
 

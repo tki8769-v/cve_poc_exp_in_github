@@ -3111,3 +3111,12 @@
 {"cve_id": "CVE-2024-32507", "ts": "2026-10-17T16:38:57Z", "type": "new_poc", "url": "https://github.com/4minx/CVE-2024-32507"}
 {"cve_id": "CVE-2026-111437", "ts": "2026-10-17T16:38:58Z", "type": "new_poc", "url": "https://github.com/ulvigulmaliyev/CVE-2026-111437-Denial-of-Service-Advisory-Technical-Report"}
 {"cve_id": "CVE-2026-104850", "ts": "2026-10-17T16:38:58Z", "type": "new_poc", "url": "https://github.com/Iceman2050/mcp-oauth-discovery-prober"}
+{"cve_id": "CVE-2026-106549", "ts": "2026-10-17T16:50:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107346", "ts": "2026-10-17T16:50:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108749", "ts": "2026-10-17T16:50:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111593", "ts": "2026-10-17T16:51:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-15354", "ts": "2026-10-17T16:51:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-15398", "ts": "2026-10-17T16:51:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-21589", "ts": "2026-10-17T16:52:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-89603", "ts": "2026-10-17T16:59:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-57819", "ts": "2026-10-17T17:10:26Z", "type": "new_poc", "url": "https://github.com/HexBytee/FreePBX-SQLi-RCE"}
