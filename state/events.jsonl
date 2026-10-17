@@ -3096,3 +3096,9 @@
 {"cve_id": "CVE-2026-15398", "ts": "2026-10-17T13:22:35Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-89603", "ts": "2026-10-17T13:29:06Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2024-6387", "ts": "2026-10-17T13:44:03Z", "type": "new_poc", "url": "https://github.com/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH"}
+{"cve_id": "CVE-2026-108749", "ts": "2026-10-17T13:45:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111593", "ts": "2026-10-17T13:46:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-15354", "ts": "2026-10-17T13:46:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-15398", "ts": "2026-10-17T13:46:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-21589", "ts": "2026-10-17T13:46:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-89603", "ts": "2026-10-17T13:53:17Z", "type": "cve_rejected"}
