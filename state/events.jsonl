@@ -3140,3 +3140,8 @@
 {"cve_id": "CVE-2026-53995", "ts": "2026-10-17T23:09:22Z", "type": "new_poc", "url": "https://github.com/SaiTeja-Erukude/CVE-2026-53995-mlflow-path-traversal"}
 {"cve_id": "CVE-2026-67279", "ts": "2026-10-17T23:09:23Z", "type": "new_poc", "url": "https://github.com/GoldAden/mikrotrick-verifier"}
 {"cve_id": "CVE-2026-74580", "ts": "2026-10-17T23:09:23Z", "type": "new_poc", "url": "https://github.com/V01DL1NG/vghost-watch"}
+{"cve_id": "CVE-2026-105391", "ts": "2026-10-17T23:19:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107274", "ts": "2026-10-17T23:19:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107345", "ts": "2026-10-17T23:19:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107772", "ts": "2026-10-17T23:19:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108117", "ts": "2026-10-17T23:19:55Z", "type": "cve_rejected"}
