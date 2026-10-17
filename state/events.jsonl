@@ -3070,3 +3070,8 @@
 {"cve_id": "CVE-2026-31857", "ts": "2026-10-17T06:15:49Z", "type": "new_poc", "url": "https://github.com/TRX-0/CVE-2026-31857-craftcms-ssti"}
 {"cve_id": "CVE-2026-88771", "ts": "2026-10-17T06:16:50Z", "type": "new_poc", "url": "https://github.com/LETHAL-FORENSICS/Get-NetScalerTimeline"}
 {"cve_id": "CVE-2026-88771", "ts": "2026-10-17T06:16:50Z", "type": "new_poc", "url": "https://github.com/watchtowrlabs/citrix-netscaler-cve-2026-88771-iocs"}
+{"cve_id": "CVE-2026-108749", "ts": "2026-10-17T06:20:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111593", "ts": "2026-10-17T06:20:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-89603", "ts": "2026-10-17T06:25:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-86950", "ts": "2026-10-17T06:38:36Z", "type": "new_poc", "url": "https://github.com/34zY/CVE-2026-86950"}
+{"cve_id": "CVE-2026-86950", "ts": "2026-10-17T06:38:36Z", "type": "new_poc", "url": "https://github.com/java99999/CVE-2026-86950-POC"}
