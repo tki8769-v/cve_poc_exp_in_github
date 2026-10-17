@@ -3,6 +3,10 @@
 
 - [https://github.com/Nutsulejustine/pentest-metasploitable](https://github.com/Nutsulejustine/pentest-metasploitable) : ![starts](https://img.shields.io/github/stars/Nutsulejustine/pentest-metasploitable.svg) ![forks](https://img.shields.io/github/forks/Nutsulejustine/pentest-metasploitable.svg)
 
+## CVE-2015-1328
+
+- [https://github.com/saqibnet/blackbox-pentesting-infsecos](https://github.com/saqibnet/blackbox-pentesting-infsecos) : ![starts](https://img.shields.io/github/stars/saqibnet/blackbox-pentesting-infsecos.svg) ![forks](https://img.shields.io/github/forks/saqibnet/blackbox-pentesting-infsecos.svg)
+
 ## CVE-2021-3929
 
 - [https://github.com/abraxas/qemu-nvme-sgl-bar](https://github.com/abraxas/qemu-nvme-sgl-bar) : ![starts](https://img.shields.io/github/stars/abraxas/qemu-nvme-sgl-bar.svg) ![forks](https://img.shields.io/github/forks/abraxas/qemu-nvme-sgl-bar.svg)

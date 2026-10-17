@@ -101605,6 +101605,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 
 - [https://github.com/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM](https://github.com/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM) : ![starts](https://img.shields.io/github/stars/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM.svg) ![forks](https://img.shields.io/github/forks/thieveshkar/RootQuest-CTF-Box-Multi-Stage-Exploitation-VM.svg)
 
+- [https://github.com/saqibnet/blackbox-pentesting-infsecos](https://github.com/saqibnet/blackbox-pentesting-infsecos) : ![starts](https://img.shields.io/github/stars/saqibnet/blackbox-pentesting-infsecos.svg) ![forks](https://img.shields.io/github/forks/saqibnet/blackbox-pentesting-infsecos.svg)
+
 ## CVE-2015-1318
  The crash reporting feature in Apport 2.13 through 2.17.x before 2.17.1 allows local users to gain privileges via a crafted usr/share/apport/apport file in a namespace (container).
 

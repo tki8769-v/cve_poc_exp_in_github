@@ -3134,3 +3134,4 @@
 {"cve_id": "CVE-2026-97229", "ts": "2026-10-17T19:28:13Z", "type": "new_poc", "url": "https://github.com/gandli/cve-2026-97229-lab"}
 {"cve_id": "CVE-2026-110916", "ts": "2026-10-17T19:28:13Z", "type": "new_poc", "url": "https://github.com/SeanDishman/Google-Chrome-CVE-2026-110916-POC"}
 {"cve_id": "CVE-2025-1122", "ts": "2026-10-17T19:28:22Z", "type": "new_poc", "url": "https://github.com/jenson8161/exploit-docs"}
+{"cve_id": "CVE-2015-1328", "ts": "2026-10-17T19:47:33Z", "type": "new_poc", "url": "https://github.com/saqibnet/blackbox-pentesting-infsecos"}
