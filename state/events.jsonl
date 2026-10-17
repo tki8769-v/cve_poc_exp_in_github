@@ -2816,3 +2816,32 @@
 {"cve_id": "CVE-2026-89603", "ts": "2026-10-17T00:07:08Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-89603", "ts": "2026-10-17T00:08:09Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-89603", "ts": "2026-10-17T00:09:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-89603", "ts": "2026-10-17T00:20:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108749", "ts": "2026-10-17T00:21:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-89603", "ts": "2026-10-17T00:22:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108749", "ts": "2026-10-17T00:22:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-89603", "ts": "2026-10-17T00:23:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108749", "ts": "2026-10-17T00:24:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111593", "ts": "2026-10-17T00:25:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-89603", "ts": "2026-10-17T00:28:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2021-3929", "ts": "2026-10-17T00:30:34Z", "type": "new_poc", "url": "https://github.com/abraxas/qemu-nvme-sgl-bar"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/morgenm/dirtypipe"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe-"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/Greetdawn/CVE-2022-0847-DirtyPipe"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/MingqiZhang7710/cve-2022-0847-poc-dockerimage"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/osungjinwoo/CVE-2022-0847-Dirty-Pipe"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/cypherlobo/DirtyPipe-BSI"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/muhammad1596/CVE-2022-0847-DirtyPipe-Exploits"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/stfnw/Debugging_Dirty_Pipe_CVE-2022-0847"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/ayushx007/CVE-2022-0847-dirty-pipe-checker"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/orsuprasad/CVE-2022-0847-DirtyPipe-Exploits"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/ayushx007/CVE-2022-0847-DirtyPipe-Exploits"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/tufanturhan/CVE-2022-0847-L-nux-PrivEsc"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/SimoesCTT/Chrono-Drip-Temporal-Viscosity-Exploitation-Framework-CVE-2022-0847"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/real-tim-johnston/megaquagga-pentest-report"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/notl0cal/dpipe"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/isaiahsimeone/COMP3320-VAPT"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/aswanepo/DirtyPipe"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/nanaao/Dirtypipe-exploit"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/JeevanAnand1202/Penetration-Test"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-10-17T00:31:35Z", "type": "new_poc", "url": "https://github.com/mithunmadhukuttan/Dirty-Pipe-Exploit"}
