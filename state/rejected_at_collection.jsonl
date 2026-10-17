@@ -1215,3 +1215,8 @@
 {"cve_id": "CVE-2022-3317", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T21:10:46Z", "url": "https://github.com/open-flaw/CVE-2022-33171", "url_ids": ["CVE-2022-33171"]}
 {"cve_id": "CVE-2015-5711", "reason": "prefix_conflict_evidenced", "ts": "2026-10-16T23:54:37Z", "url": "https://github.com/TrixSec/CVE-2015-57115", "url_ids": ["CVE-2015-57115"]}
 {"cve_id": "CVE-2026-6837", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T00:02:39Z", "url": "https://github.com/gagaltotal/CVE-2026-68376-Ubuntu-7.0.0-30-Poc", "url_ids": ["CVE-2026-68376"]}
+{"cve_id": "CVE-2026-2690", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T00:14:52Z", "url": "https://github.com/John-Jung/CVE-2026-26903-PoC", "url_ids": ["CVE-2026-26903"]}
+{"cve_id": "CVE-2026-9268", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T00:15:42Z", "url": "https://github.com/grepstrength/CVE-2026-92680", "url_ids": ["CVE-2026-92680"]}
+{"cve_id": "CVE-2019-1006", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T00:19:47Z", "url": "https://github.com/CQ-Tools/CVE-2019-10061-fixed", "url_ids": ["CVE-2019-10061"]}
+{"cve_id": "CVE-2019-1006", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T00:19:47Z", "url": "https://github.com/CQ-Tools/CVE-2019-10061-unfixed", "url_ids": ["CVE-2019-10061"]}
+{"cve_id": "CVE-2019-1006", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T00:19:47Z", "url": "https://github.com/crukz404/CVE-2019-10068-PoC", "url_ids": ["CVE-2019-10068"]}
