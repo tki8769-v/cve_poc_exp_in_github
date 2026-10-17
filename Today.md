@@ -261,6 +261,10 @@
 
 - [https://github.com/Nehust/CVE-2026-27280](https://github.com/Nehust/CVE-2026-27280) : ![starts](https://img.shields.io/github/stars/Nehust/CVE-2026-27280.svg) ![forks](https://img.shields.io/github/forks/Nehust/CVE-2026-27280.svg)
 
+## CVE-2026-31857
+
+- [https://github.com/TRX-0/CVE-2026-31857-craftcms-ssti](https://github.com/TRX-0/CVE-2026-31857-craftcms-ssti) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-31857-craftcms-ssti.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-31857-craftcms-ssti.svg)
+
 ## CVE-2026-43499
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -281,6 +285,27 @@ problems:
 ## CVE-2026-44011
 
 - [https://github.com/TRX-0/CVE-2026-44011-craftcms-rce](https://github.com/TRX-0/CVE-2026-44011-craftcms-rce) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-44011-craftcms-rce.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-44011-craftcms-rce.svg)
+
+## CVE-2026-5053
+
+- [https://github.com/do4choo/CVE-2026-5053_NoMachine_LPE](https://github.com/do4choo/CVE-2026-5053_NoMachine_LPE) : ![starts](https://img.shields.io/github/stars/do4choo/CVE-2026-5053_NoMachine_LPE.svg) ![forks](https://img.shields.io/github/forks/do4choo/CVE-2026-5053_NoMachine_LPE.svg)
+
+## CVE-2026-5054
+
+- [https://github.com/do4choo/CVE-2026-5054_NoMachine_LPE](https://github.com/do4choo/CVE-2026-5054_NoMachine_LPE) : ![starts](https://img.shields.io/github/stars/do4choo/CVE-2026-5054_NoMachine_LPE.svg) ![forks](https://img.shields.io/github/forks/do4choo/CVE-2026-5054_NoMachine_LPE.svg)
+
+## CVE-2026-88771
+> Improper input validation vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.
+
+This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1.37.279 FIPS and NDcPP; Gateway: before 14.1-73.37 and before 13.1-64.23 leading to an unauthenticated attacker to execute arbitrary commands.
+
+- [https://github.com/LETHAL-FORENSICS/Get-NetScalerTimeline](https://github.com/LETHAL-FORENSICS/Get-NetScalerTimeline) : ![starts](https://img.shields.io/github/stars/LETHAL-FORENSICS/Get-NetScalerTimeline.svg) ![forks](https://img.shields.io/github/forks/LETHAL-FORENSICS/Get-NetScalerTimeline.svg)
+- [https://github.com/watchtowrlabs/citrix-netscaler-cve-2026-88771-iocs](https://github.com/watchtowrlabs/citrix-netscaler-cve-2026-88771-iocs) : ![starts](https://img.shields.io/github/stars/watchtowrlabs/citrix-netscaler-cve-2026-88771-iocs.svg) ![forks](https://img.shields.io/github/forks/watchtowrlabs/citrix-netscaler-cve-2026-88771-iocs.svg)
+
+## CVE-2026-89282
+> The Apache Lounge Windows distribution of Apache HTTP Server build contains an insecure installation directory permissions vulnerability through its default install directory on C:\, which inherits write access for Authenticated Users.
+
+- [https://github.com/dorkerdevil/CVE-2026-89282](https://github.com/dorkerdevil/CVE-2026-89282) : ![starts](https://img.shields.io/github/stars/dorkerdevil/CVE-2026-89282.svg) ![forks](https://img.shields.io/github/forks/dorkerdevil/CVE-2026-89282.svg)
 
 ## CVE-2026-8933
 

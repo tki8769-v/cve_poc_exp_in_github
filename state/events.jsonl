@@ -3061,3 +3061,12 @@
 {"cve_id": "CVE-2021-44228", "ts": "2026-10-17T05:50:23Z", "type": "new_poc", "url": "https://github.com/tlsky07/Discord-Image-Logger-Stealer"}
 {"cve_id": "CVE-2011-2523", "ts": "2026-10-17T05:52:19Z", "type": "new_poc", "url": "https://github.com/Nutsulejustine/pentest-metasploitable"}
 {"cve_id": "CVE-2026-44011", "ts": "2026-10-17T05:58:20Z", "type": "new_poc", "url": "https://github.com/TRX-0/CVE-2026-44011-craftcms-rce"}
+{"cve_id": "CVE-2026-108749", "ts": "2026-10-17T06:00:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111593", "ts": "2026-10-17T06:00:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-89603", "ts": "2026-10-17T06:05:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-89282", "ts": "2026-10-17T06:08:42Z", "type": "new_poc", "url": "https://github.com/dorkerdevil/CVE-2026-89282"}
+{"cve_id": "CVE-2026-5053", "ts": "2026-10-17T06:13:56Z", "type": "new_poc", "url": "https://github.com/do4choo/CVE-2026-5053_NoMachine_LPE"}
+{"cve_id": "CVE-2026-5054", "ts": "2026-10-17T06:13:56Z", "type": "new_poc", "url": "https://github.com/do4choo/CVE-2026-5054_NoMachine_LPE"}
+{"cve_id": "CVE-2026-31857", "ts": "2026-10-17T06:15:49Z", "type": "new_poc", "url": "https://github.com/TRX-0/CVE-2026-31857-craftcms-ssti"}
+{"cve_id": "CVE-2026-88771", "ts": "2026-10-17T06:16:50Z", "type": "new_poc", "url": "https://github.com/LETHAL-FORENSICS/Get-NetScalerTimeline"}
+{"cve_id": "CVE-2026-88771", "ts": "2026-10-17T06:16:50Z", "type": "new_poc", "url": "https://github.com/watchtowrlabs/citrix-netscaler-cve-2026-88771-iocs"}
