@@ -5075,6 +5075,7 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 - [https://github.com/yym8538/CVE-2026-60004](https://github.com/yym8538/CVE-2026-60004) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-60004.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-60004.svg)
 
 ## CVE-2026-59970
+> Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists. Prior to 2.6.10, passes an administrator-controlled AI provider URL directly to LiteLLM without applying the server&#x27;s outbound-request SSRF checks when an authenticated user creates a Space, configures an AI provider with a URL targeting an internal address, and invokes an AI action. In cookbook/views/api.py, the affected AI actions call completion through TARGET/api/ai-import/ and api/ai-step-so
 
 - [https://github.com/asvorg/CVE-2026-59970-poc](https://github.com/asvorg/CVE-2026-59970-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-59970-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-59970-poc.svg)
 
@@ -48340,6 +48341,8 @@ In the event an attacker has already gained network access, they could exploit t
 - [https://github.com/vkaushik-chef/regreSSHion](https://github.com/vkaushik-chef/regreSSHion) : ![starts](https://img.shields.io/github/stars/vkaushik-chef/regreSSHion.svg) ![forks](https://img.shields.io/github/forks/vkaushik-chef/regreSSHion.svg)
 
 - [https://github.com/CiderAndWhisky/regression-scanner](https://github.com/CiderAndWhisky/regression-scanner) : ![starts](https://img.shields.io/github/stars/CiderAndWhisky/regression-scanner.svg) ![forks](https://img.shields.io/github/forks/CiderAndWhisky/regression-scanner.svg)
+
+- [https://github.com/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH](https://github.com/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH) : ![starts](https://img.shields.io/github/stars/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH.svg) ![forks](https://img.shields.io/github/forks/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH.svg)
 
 ## CVE-2024-6386
  The WPML plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 4.6.12 via Twig Server-Side Template Injection. This is due to missing input validation and sanitization on the render function. This makes it possible for authenticated attackers, with Contributor-level access and above, to execute code on the server.

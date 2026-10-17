@@ -1254,3 +1254,6 @@
 {"cve_id": "CVE-2021-4422", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T05:50:24Z", "url": "https://github.com/snatalius/log4j2-CVE-2021-44228-poc-local", "url_ids": ["CVE-2021-44228"]}
 {"cve_id": "CVE-2024-2236", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T06:12:58Z", "url": "https://github.com/oscerd/CVE-2024-22369", "url_ids": ["CVE-2024-22369"]}
 {"cve_id": "CVE-2026-1814", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T13:15:04Z", "url": "https://github.com/murrez/CVE-2026-18143", "url_ids": ["CVE-2026-18143"]}
+{"cve_id": "CVE-2024-5742", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T13:39:56Z", "url": "https://github.com/ahrixia/CVE-2024-57427", "url_ids": ["CVE-2024-57427"]}
+{"cve_id": "CVE-2024-5742", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T13:39:56Z", "url": "https://github.com/ahrixia/CVE-2024-57429", "url_ids": ["CVE-2024-57429"]}
+{"cve_id": "CVE-2024-5742", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T13:39:56Z", "url": "https://github.com/ahrixia/CVE-2024-57428", "url_ids": ["CVE-2024-57428"]}

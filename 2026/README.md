@@ -5074,6 +5074,7 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 - [https://github.com/yym8538/CVE-2026-60004](https://github.com/yym8538/CVE-2026-60004) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-60004.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-60004.svg)
 
 ## CVE-2026-59970
+> Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists. Prior to 2.6.10, passes an administrator-controlled AI provider URL directly to LiteLLM without applying the server&#x27;s outbound-request SSRF checks when an authenticated user creates a Space, configures an AI provider with a URL targeting an internal address, and invokes an AI action. In cookbook/views/api.py, the affected AI actions call completion through TARGET/api/ai-import/ and api/ai-step-so
 
 - [https://github.com/asvorg/CVE-2026-59970-poc](https://github.com/asvorg/CVE-2026-59970-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-59970-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-59970-poc.svg)
 

@@ -3090,3 +3090,9 @@
 {"cve_id": "CVE-2023-29357", "ts": "2026-10-17T13:09:54Z", "type": "new_poc", "url": "https://github.com/Zedocun/Sharepoint-cve-2023-29357-incident-response"}
 {"cve_id": "CVE-2025-45737", "ts": "2026-10-17T13:10:43Z", "type": "new_poc", "url": "https://github.com/LanBaiCode/CVE-2025-45737"}
 {"cve_id": "CVE-2026-65343", "ts": "2026-10-17T13:18:58Z", "type": "new_poc", "url": "https://github.com/lkop32788/iOS26.6-CVE-2026-65343"}
+{"cve_id": "CVE-2026-108749", "ts": "2026-10-17T13:21:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111593", "ts": "2026-10-17T13:22:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-15354", "ts": "2026-10-17T13:22:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-15398", "ts": "2026-10-17T13:22:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-89603", "ts": "2026-10-17T13:29:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-6387", "ts": "2026-10-17T13:44:03Z", "type": "new_poc", "url": "https://github.com/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH"}

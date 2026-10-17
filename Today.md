@@ -240,6 +240,11 @@
 
 - [https://github.com/Zedocun/Sharepoint-cve-2023-29357-incident-response](https://github.com/Zedocun/Sharepoint-cve-2023-29357-incident-response) : ![starts](https://img.shields.io/github/stars/Zedocun/Sharepoint-cve-2023-29357-incident-response.svg) ![forks](https://img.shields.io/github/forks/Zedocun/Sharepoint-cve-2023-29357-incident-response.svg)
 
+## CVE-2024-6387
+> A security regression (CVE-2006-5051) was discovered in OpenSSH&#x27;s server (sshd). There is a race condition which can lead sshd to handle some signals in an unsafe manner. An unauthenticated, remote attacker may be able to trigger it by failing to authenticate within a set time period.
+
+- [https://github.com/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH](https://github.com/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH) : ![starts](https://img.shields.io/github/stars/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH.svg) ![forks](https://img.shields.io/github/forks/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH.svg)
+
 ## CVE-2025-45737
 
 - [https://github.com/LanBaiCode/CVE-2025-45737](https://github.com/LanBaiCode/CVE-2025-45737) : ![starts](https://img.shields.io/github/stars/LanBaiCode/CVE-2025-45737.svg) ![forks](https://img.shields.io/github/forks/LanBaiCode/CVE-2025-45737.svg)
