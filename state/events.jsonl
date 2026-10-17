@@ -2802,3 +2802,13 @@
 {"cve_id": "CVE-2026-104736", "ts": "2026-10-16T21:03:43Z", "type": "new_poc", "url": "https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details"}
 {"cve_id": "CVE-2026-60137", "ts": "2026-10-16T21:03:43Z", "type": "new_poc", "url": "https://github.com/BIBILZERODAY/CVE-2026-60137---WordPress-Core-Critical-SQL-Injection-SQLi-PoC"}
 {"cve_id": "CVE-2026-19607", "ts": "2026-10-16T21:03:53Z", "type": "new_poc", "url": "https://github.com/7Ragnarok7/CVE-2026-19607"}
+{"cve_id": "CVE-2025-3778", "ts": "2026-10-16T23:36:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-103910", "ts": "2026-10-16T23:38:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107172", "ts": "2026-10-16T23:39:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107316", "ts": "2026-10-16T23:39:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-2937", "ts": "2026-10-16T23:41:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-5819", "ts": "2026-10-16T23:42:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-8311", "ts": "2026-10-16T23:44:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-59970", "ts": "2026-10-16T23:52:34Z", "type": "new_poc", "url": "https://github.com/asvorg/CVE-2026-59970-poc"}
+{"cve_id": "CVE-2026-111283", "ts": "2026-10-16T23:52:35Z", "type": "new_poc", "url": "https://github.com/cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password"}
+{"cve_id": "CVE-2024-10924", "ts": "2026-10-16T23:52:35Z", "type": "new_poc", "url": "https://github.com/rafaelsoje/infosec-audit-tools"}
