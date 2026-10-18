@@ -1502,3 +1502,6 @@
 {"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T23:37:48Z", "url": "https://github.com/MohamedAboHelal/CVE-2021-40444", "url_ids": ["CVE-2021-40444"]}
 {"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T23:37:48Z", "url": "https://github.com/jamesrep/cve-2021-40444", "url_ids": ["CVE-2021-40444"]}
 {"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T23:37:48Z", "url": "https://github.com/basim-ahmad/Follina-CVE-and-CVE-2021-40444", "url_ids": ["CVE-2021-40444"]}
+{"cve_id": "CVE-2022-4395", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T23:46:48Z", "url": "https://github.com/secware-ru/CVE-2022-43959", "url_ids": ["CVE-2022-43959"]}
+{"cve_id": "CVE-2020-1020", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T23:49:00Z", "url": "https://github.com/magicming200/CVE-2020-10199_CVE-2020-10204", "url_ids": ["CVE-2020-10199", "CVE-2020-10204"]}
+{"cve_id": "CVE-2020-1020", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T23:49:00Z", "url": "https://github.com/zhzyker/CVE-2020-10204", "url_ids": ["CVE-2020-10204"]}

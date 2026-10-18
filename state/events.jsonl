@@ -3252,3 +3252,10 @@
 {"cve_id": "CVE-2026-36436", "ts": "2026-10-18T23:33:37Z", "type": "new_poc", "url": "https://github.com/vtrmK/CVE-2026-36436-Public-Reference-Pack"}
 {"cve_id": "CVE-2024-28397", "ts": "2026-10-18T23:35:52Z", "type": "new_poc", "url": "https://github.com/RianJuniorSf/exploit-js2py"}
 {"cve_id": "CVE-2020-17103", "ts": "2026-10-18T23:37:37Z", "type": "new_poc", "url": "https://github.com/dooodad/MiniPlasma"}
+{"cve_id": "CVE-2026-89754", "ts": "2026-10-18T23:41:03Z", "type": "new_poc", "url": "https://github.com/ylh440104/InfinityCore-Android-CVE-2026-89754"}
+{"cve_id": "CVE-2026-98385", "ts": "2026-10-18T23:41:03Z", "type": "new_poc", "url": "https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98385"}
+{"cve_id": "CVE-2026-80775", "ts": "2026-10-18T23:41:03Z", "type": "new_poc", "url": "https://github.com/ylh440104/InfinityCore-Android-CVE-2026-80775"}
+{"cve_id": "CVE-2026-98256", "ts": "2026-10-18T23:41:03Z", "type": "new_poc", "url": "https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98256"}
+{"cve_id": "CVE-2026-97941", "ts": "2026-10-18T23:41:03Z", "type": "new_poc", "url": "https://github.com/ylh440104/InfinityCore-Android-CVE-2026-97941"}
+{"cve_id": "CVE-2026-46300", "ts": "2026-10-18T23:46:46Z", "type": "new_poc", "url": "https://github.com/Koshmare-Blossom/Fragnesia-go"}
+{"cve_id": "CVE-2026-59310", "ts": "2026-10-18T23:47:48Z", "type": "new_poc", "url": "https://github.com/zgsfsec/CVE-2026-59310-POC"}

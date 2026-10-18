@@ -734,6 +734,21 @@ in depth measure, let&#x27;s also check before we complete the checksum
 
 - [https://github.com/zakinko/kpatch-alma-cve-2026-99999](https://github.com/zakinko/kpatch-alma-cve-2026-99999) : ![starts](https://img.shields.io/github/stars/zakinko/kpatch-alma-cve-2026-99999.svg) ![forks](https://img.shields.io/github/forks/zakinko/kpatch-alma-cve-2026-99999.svg)
 
+## CVE-2026-98385
+> In the Linux kernel, the following vulnerability has been resolved:
+
+sched/cache: Decouple sched_cache_group from mm to fix UAF
+
+Currently the sched cache grouping is by mm and the scheduling statistics
+sched_cache_stat lives in the mm structure.  This ties the life cycle
+of scheduling stats with mm.
+
+In account_mm_sched(), the scheduling stats are accessed by
+task-&gt;mm-&gt;sc_stat.  However, a task may be switching mm on one CPU when
+another CPU is running account_mm_sched(), and possibly accessing
+
+- [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98385](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98385) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-98385.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-98385.svg)
+
 ## CVE-2026-98260
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -773,6 +788,8 @@ Hyunwoo debugged the following KASAN UAF splat:
 
 - [https://github.com/villager1314/CVE-2026-98256-Analysis](https://github.com/villager1314/CVE-2026-98256-Analysis) : ![starts](https://img.shields.io/github/stars/villager1314/CVE-2026-98256-Analysis.svg) ![forks](https://img.shields.io/github/forks/villager1314/CVE-2026-98256-Analysis.svg)
 
+- [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98256](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98256) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-98256.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-98256.svg)
+
 ## CVE-2026-98180
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -787,6 +804,22 @@ drm_sched_fence_get_timeline_name() returns fence-&gt;sched-&gt;name, and the
 scheduler fence keeps a .release callb
 
 - [https://github.com/MalHyuk/CVE-2026-98180](https://github.com/MalHyuk/CVE-2026-98180) : ![starts](https://img.shields.io/github/stars/MalHyuk/CVE-2026-98180.svg) ![forks](https://img.shields.io/github/forks/MalHyuk/CVE-2026-98180.svg)
+
+## CVE-2026-97941
+> In the Linux kernel, the following vulnerability has been resolved:
+
+mm/slab: take n-&gt;list_lock in __slab_try_return_freelist() to avoid race
+
+Commit ba7425312607 (&quot;mm, slab: add an optimistic
+__slab_try_return_freelist()&quot;) incorrectly assumed that nobody has freed
+an object to the slab as long as slab-&gt;freelist is NULL and cmpxchg
+succeeds.
+
+However, as reported by Hyunwoo Kim [1], other CPUs might have freed
+an object to the slab, insert the slab to the partial list, then
+allocated an object f
+
+- [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-97941](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-97941) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-97941.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-97941.svg)
 
 ## CVE-2026-97657
 > The Abandoned Cart Pro for WooCommerce plugin for WordPress is vulnerable to Authentication Bypass via Malleable Encryption and Bypassable HMAC in all versions up to, and including, 10.8.0. This is due to the use of MAC-free AES-CTR encryption for cart-recovery link tokens — where the 8-byte CTR nonce is carried inside the ciphertext blob and the encryption key is looked up using the attacker-supplied `user_email` GET parameter — combined with an HMAC nonce check in `wcap_email_track_links()` th
@@ -1362,6 +1395,10 @@ The default is governance.auth_config.is_enabled=false. Auth off means every cal
  alsa-lib through 1.2.16.1 contains a stack buffer overflow in the __snd_ctl_ascii_elem_id_parse() function that writes one byte past a 64-byte buffer when parsing a name= field with 64 or more characters. Attackers can supply a long control-element identifier string through saved state files or command-line arguments to overwrite adjacent stack memory and crash the calling process.
 
 - [https://github.com/HarshRajSinghania/CVE-2026-90781-alsa-lib-oob](https://github.com/HarshRajSinghania/CVE-2026-90781-alsa-lib-oob) : ![starts](https://img.shields.io/github/stars/HarshRajSinghania/CVE-2026-90781-alsa-lib-oob.svg) ![forks](https://img.shields.io/github/forks/HarshRajSinghania/CVE-2026-90781-alsa-lib-oob.svg)
+
+## CVE-2026-89754
+
+- [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-89754](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-89754) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-89754.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-89754.svg)
 
 ## CVE-2026-89282
 > The Apache Lounge Windows distribution of Apache HTTP Server build contains an insecure installation directory permissions vulnerability through its default install directory on C:\, which inherits write access for Authenticated Users.
@@ -2103,6 +2140,10 @@ errors to the existing AH6 input and output error paths.
 - [https://github.com/HORKimhab/CVE-2026-80844](https://github.com/HORKimhab/CVE-2026-80844) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-80844.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-80844.svg)
 
 - [https://github.com/suominen/dirtyah6](https://github.com/suominen/dirtyah6) : ![starts](https://img.shields.io/github/stars/suominen/dirtyah6.svg) ![forks](https://img.shields.io/github/forks/suominen/dirtyah6.svg)
+
+## CVE-2026-80775
+
+- [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-80775](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-80775) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-80775.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-80775.svg)
 
 ## CVE-2026-80724
  In the Linux kernel, the following vulnerability has been resolved:
@@ -5313,6 +5354,8 @@ Affected versions:
 
 - [https://github.com/vpxuser/CVE-2026-59310](https://github.com/vpxuser/CVE-2026-59310) : ![starts](https://img.shields.io/github/stars/vpxuser/CVE-2026-59310.svg) ![forks](https://img.shields.io/github/forks/vpxuser/CVE-2026-59310.svg)
 
+- [https://github.com/zgsfsec/CVE-2026-59310-POC](https://github.com/zgsfsec/CVE-2026-59310-POC) : ![starts](https://img.shields.io/github/stars/zgsfsec/CVE-2026-59310-POC.svg) ![forks](https://img.shields.io/github/forks/zgsfsec/CVE-2026-59310-POC.svg)
+
 ## CVE-2026-59265
 > A code execution issue in the Java integration in Apache OpenOffice v4.1.16 and earlier allows a crafted untrusted document to trigger executing arbitrary (even remote) code when opened by the user.
 
@@ -8290,6 +8333,8 @@ bytes into @to's linear data rather than transferring frag descriptors.
 - [https://github.com/First-John/cve_2026_frag_family_fix](https://github.com/First-John/cve_2026_frag_family_fix) : ![starts](https://img.shields.io/github/stars/First-John/cve_2026_frag_family_fix.svg) ![forks](https://img.shields.io/github/forks/First-John/cve_2026_frag_family_fix.svg)
 
 - [https://github.com/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit](https://github.com/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit) : ![starts](https://img.shields.io/github/stars/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit.svg) ![forks](https://img.shields.io/github/forks/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit.svg)
+
+- [https://github.com/Koshmare-Blossom/Fragnesia-go](https://github.com/Koshmare-Blossom/Fragnesia-go) : ![starts](https://img.shields.io/github/stars/Koshmare-Blossom/Fragnesia-go.svg) ![forks](https://img.shields.io/github/forks/Koshmare-Blossom/Fragnesia-go.svg)
 
 ## CVE-2026-46275
  In the Linux kernel, the following vulnerability has been resolved:

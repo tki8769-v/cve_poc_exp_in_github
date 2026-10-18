@@ -234,6 +234,22 @@ Only accept cifs.spnego descriptions while CIFS is using its pri
 
 - [https://github.com/Koshmare-Blossom/CIFSwitch-go](https://github.com/Koshmare-Blossom/CIFSwitch-go) : ![starts](https://img.shields.io/github/stars/Koshmare-Blossom/CIFSwitch-go.svg) ![forks](https://img.shields.io/github/forks/Koshmare-Blossom/CIFSwitch-go.svg)
 
+## CVE-2026-46300
+> In the Linux kernel, the following vulnerability has been resolved:
+
+net: skbuff: preserve shared-frag marker during coalescing
+
+skb_try_coalesce() can attach paged frags from @from to @to.  If @from
+has SKBFL_SHARED_FRAG set, the resulting @to skb can contain the same
+externally-owned or page-cache-backed frags, but the shared-frag marker
+is currently lost.
+
+That breaks the invariant relied on by later in-place writers.  In
+particular, ESP input checks skb_has_shared_frag() before deciding
+whet
+
+- [https://github.com/Koshmare-Blossom/Fragnesia-go](https://github.com/Koshmare-Blossom/Fragnesia-go) : ![starts](https://img.shields.io/github/stars/Koshmare-Blossom/Fragnesia-go.svg) ![forks](https://img.shields.io/github/forks/Koshmare-Blossom/Fragnesia-go.svg)
+
 ## CVE-2026-50229
 
 - [https://github.com/flvzx/CVE-2026-50229](https://github.com/flvzx/CVE-2026-50229) : ![starts](https://img.shields.io/github/stars/flvzx/CVE-2026-50229.svg) ![forks](https://img.shields.io/github/forks/flvzx/CVE-2026-50229.svg)
@@ -257,6 +273,10 @@ Only accept cifs.spnego descriptions while CIFS is using its pri
 ## CVE-2026-58221
 
 - [https://github.com/DevAli00/CVE-2026-58221](https://github.com/DevAli00/CVE-2026-58221) : ![starts](https://img.shields.io/github/stars/DevAli00/CVE-2026-58221.svg) ![forks](https://img.shields.io/github/forks/DevAli00/CVE-2026-58221.svg)
+
+## CVE-2026-59310
+
+- [https://github.com/zgsfsec/CVE-2026-59310-POC](https://github.com/zgsfsec/CVE-2026-59310-POC) : ![starts](https://img.shields.io/github/stars/zgsfsec/CVE-2026-59310-POC.svg) ![forks](https://img.shields.io/github/forks/zgsfsec/CVE-2026-59310-POC.svg)
 
 ## CVE-2026-59774
 > Gitea&#x27;s Org-mode markup renderer processes INCLUDE directives supplied to the repository markup endpoint without preventing access to server-side files. An unauthenticated attacker can use a suitable public repository to read files accessible to the Gitea service account. If the disclosed files include app.ini and its INTERNAL_TOKEN, the attacker can chain the disclosure with internal logger access to modify a Git hook and execute commands as the Gitea service account.
@@ -292,6 +312,14 @@ This vulnerability is due to improper handling of email attachments when the fil
 
 - [https://github.com/oscerd/CVE-2026-80343](https://github.com/oscerd/CVE-2026-80343) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-80343.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-80343.svg)
 
+## CVE-2026-80775
+
+- [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-80775](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-80775) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-80775.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-80775.svg)
+
+## CVE-2026-89754
+
+- [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-89754](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-89754) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-89754.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-89754.svg)
+
 ## CVE-2026-92262
 > MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, and 13.0.2, the #mysql50# bypass prefix is affected because it allows the #mysql50# prefix to bypass normal table-name filesystem encoding. An attacker can trigger the issue with a table name using the #mysql50# prefix, then use a #mysql50# table name to access files under their legacy unencoded name and cause crashes, data corruption, data exfiltration, or remote code exec
 
@@ -301,6 +329,22 @@ This vulnerability is due to improper handling of email attachments when the fil
 > Plex Media Server before 1.43.3.10861 allows an admin user to write arbitrary files that may be executed on load. The preference TranscoderH264Options is appended verbatim to x264&#x27;s option string on every transcode. At startup, all .so files are run without signature, execute bit, or symbol checks.
 
 - [https://github.com/a3igner/plex-codec-cache-implant](https://github.com/a3igner/plex-codec-cache-implant) : ![starts](https://img.shields.io/github/stars/a3igner/plex-codec-cache-implant.svg) ![forks](https://img.shields.io/github/forks/a3igner/plex-codec-cache-implant.svg)
+
+## CVE-2026-97941
+> In the Linux kernel, the following vulnerability has been resolved:
+
+mm/slab: take n-&gt;list_lock in __slab_try_return_freelist() to avoid race
+
+Commit ba7425312607 (&quot;mm, slab: add an optimistic
+__slab_try_return_freelist()&quot;) incorrectly assumed that nobody has freed
+an object to the slab as long as slab-&gt;freelist is NULL and cmpxchg
+succeeds.
+
+However, as reported by Hyunwoo Kim [1], other CPUs might have freed
+an object to the slab, insert the slab to the partial list, then
+allocated an object f
+
+- [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-97941](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-97941) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-97941.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-97941.svg)
 
 ## CVE-2026-98180
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -338,6 +382,7 @@ Hyunwoo debugged the following KASAN UAF splat:
    __x64_sys_t
 
 - [https://github.com/villager1314/CVE-2026-98256-Analysis](https://github.com/villager1314/CVE-2026-98256-Analysis) : ![starts](https://img.shields.io/github/stars/villager1314/CVE-2026-98256-Analysis.svg) ![forks](https://img.shields.io/github/forks/villager1314/CVE-2026-98256-Analysis.svg)
+- [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98256](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98256) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-98256.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-98256.svg)
 
 ## CVE-2026-98260
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -354,6 +399,21 @@ but the node is still queued on tsk, which
 
 - [https://github.com/jadedFella/lpe-study-notes](https://github.com/jadedFella/lpe-study-notes) : ![starts](https://img.shields.io/github/stars/jadedFella/lpe-study-notes.svg) ![forks](https://img.shields.io/github/forks/jadedFella/lpe-study-notes.svg)
 - [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98260](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98260) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-98260.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-98260.svg)
+
+## CVE-2026-98385
+> In the Linux kernel, the following vulnerability has been resolved:
+
+sched/cache: Decouple sched_cache_group from mm to fix UAF
+
+Currently the sched cache grouping is by mm and the scheduling statistics
+sched_cache_stat lives in the mm structure.  This ties the life cycle
+of scheduling stats with mm.
+
+In account_mm_sched(), the scheduling stats are accessed by
+task-&gt;mm-&gt;sc_stat.  However, a task may be switching mm on one CPU when
+another CPU is running account_mm_sched(), and possibly accessing
+
+- [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98385](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98385) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-98385.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-98385.svg)
 
 ## CVE-2026-99999
 > In the Linux kernel, the following vulnerability has been resolved:
