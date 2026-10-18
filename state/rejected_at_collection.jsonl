@@ -1280,3 +1280,10 @@
 {"cve_id": "CVE-2025-5182", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T23:23:34Z", "url": "https://github.com/shk-mubashshir/CVE-2025-51820", "url_ids": ["CVE-2025-51820"]}
 {"cve_id": "CVE-2026-4861", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T06:01:47Z", "url": "https://github.com/Ethicalgrey/phpBB-CVE-2026-48611", "url_ids": ["CVE-2026-48611"]}
 {"cve_id": "CVE-2026-3497", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T06:06:56Z", "url": "https://github.com/romain-deperne/CVE-2026-34975", "url_ids": ["CVE-2026-34975"]}
+{"cve_id": "CVE-2025-6685", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T06:16:59Z", "url": "https://github.com/joelatplay/CVE-2025-66850", "url_ids": ["CVE-2025-66850"]}
+{"cve_id": "CVE-2025-5729", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T06:17:54Z", "url": "https://github.com/minnggyuu/CVE-2025-57298", "url_ids": ["CVE-2025-57298"]}
+{"cve_id": "CVE-2024-4051", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T06:18:55Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40512", "url_ids": ["CVE-2024-40512"]}
+{"cve_id": "CVE-2024-4051", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T06:18:55Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40510", "url_ids": ["CVE-2024-40510"]}
+{"cve_id": "CVE-2024-4051", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T06:18:55Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40511", "url_ids": ["CVE-2024-40511"]}
+{"cve_id": "CVE-2020-1700", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T06:21:02Z", "url": "https://github.com/jas502n/CVE-2020-17008", "url_ids": ["CVE-2020-17008"]}
+{"cve_id": "CVE-2026-5435", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T06:21:55Z", "url": "https://github.com/BiiTts/CVE-2026-54350-Budibase-NoSQL-Injection", "url_ids": ["CVE-2026-54350"]}

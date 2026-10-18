@@ -5441,6 +5441,11 @@ Users are recommended to upgrade to version 2.57.0, which fixes the issue.
 
 - [https://github.com/Paradoxis/CVE-2026-57239](https://github.com/Paradoxis/CVE-2026-57239) : ![starts](https://img.shields.io/github/stars/Paradoxis/CVE-2026-57239.svg) ![forks](https://img.shields.io/github/forks/Paradoxis/CVE-2026-57239.svg)
 
+## CVE-2026-57155
+> OPNsense is a FreeBSD based firewall and routing platform. Prior to version 26.1.11, the Firewall Alias GeoIP importer&#x27;s process_zip() and process_gzip() paths in src/opnsense/scripts/filter/lib/alias/geoip.py use an unvalidated CSV country_code value to construct output filenames below /usr/local/share/GeoIP/alias. A user with Firewall Alias Edit privilege can configure an attacker-controlled GeoIP source URL and supply an archive whose country code traverses into another existing directory, ca
+
+- [https://github.com/babyshen/CVE-2026-57155](https://github.com/babyshen/CVE-2026-57155) : ![starts](https://img.shields.io/github/stars/babyshen/CVE-2026-57155.svg) ![forks](https://img.shields.io/github/forks/babyshen/CVE-2026-57155.svg)
+
 ## CVE-2026-57062
  CMS (Cryptographic Message Syntax) parsing in gpgsm in GnuPG through 2.5.20 mishandles the CMS format for AES-GCM because aes-ICVlen is supposed to be 12 bytes but 4 bytes is accepted. NOTE: this is related to CVE-2026-34182.
 
@@ -5989,6 +5994,11 @@ Users are recommended to upgrade to version 4.21.0, which fixes the issue. If us
 > GLPI is a free asset and IT management software package. From 0.70 until 10.0.26 and 11.0.8, a technician can manipulate the authtype value through the API to change another user&#x27;s authentication method. Under configurations using the legacy API REST interface or SSO logins, this can change a super-administrator&#x27;s authentication method and enable account takeover. This issue is fixed in versions 11.0.8 and 10.0.26.
 
 - [https://github.com/7h30th3r0n3/CVE-2026-53625-GLPI-PoC](https://github.com/7h30th3r0n3/CVE-2026-53625-GLPI-PoC) : ![starts](https://img.shields.io/github/stars/7h30th3r0n3/CVE-2026-53625-GLPI-PoC.svg) ![forks](https://img.shields.io/github/forks/7h30th3r0n3/CVE-2026-53625-GLPI-PoC.svg)
+
+## CVE-2026-53613
+> util-linux is a random collection of Linux utilities. In util-linux 2.17 through 2.41.6 and 2.42 through 2.42.3, and in 2.42.4 when the legacy `mount(2)` path is used without `/proc`, restricted non-root `mount` requests validate an `/etc/fstab` target before the mount operation re-resolves that pathname. A local low-privileged user authorized by an fstab `user` or `users` entry whose target has an attacker-writable ancestor can use `renameat2(RENAME_EXCHANGE)` to swap a path component and redir
+
+- [https://github.com/mohamedjawady/CVE-2026-53613-poc](https://github.com/mohamedjawady/CVE-2026-53613-poc) : ![starts](https://img.shields.io/github/stars/mohamedjawady/CVE-2026-53613-poc.svg) ![forks](https://img.shields.io/github/forks/mohamedjawady/CVE-2026-53613-poc.svg)
 
 ## CVE-2026-53595
  FreeScout is a free help desk and shared inbox built with PHP's Laravel framework. Prior to version 1.8.224, the public endpoint `POST /user-setup/{hash}/{invite_sent_at}` (`OpenController@userSetupSave`) selects the target account solely by its `invite_hash` column, then overwrites that account's email and password and logs in as it. No authentication, cookie, or prior session is required. After a user activates, FreeScout sets `invite_hash` to the empty string. On MySQL and MariaDB, `VARCHAR` equality ignores trailing spaces, so a single URL-encoded space (`%20`) matches the stored empty string and selects the lowest-id activated user. The expiry guard decrypts `invite_sent_at` with the target's password hash, but `Helper::decrypt` returns its raw input unchanged when decryption fails. A plaintext numeric value such as `9999999999` therefore passes the time-to-live check without any secret. The result is that an anonymous attacker sets the email and password of the lowest-id activated FreeScout account (a support agent, or an administrator if one was added by invitation) and authenticates as that account. Version 1.8.224 contains a fix.
@@ -8235,6 +8245,8 @@ spnego_cred to request the key.
 - [https://github.com/liamromanis101/cifswitch-check](https://github.com/liamromanis101/cifswitch-check) : ![starts](https://img.shields.io/github/stars/liamromanis101/cifswitch-check.svg) ![forks](https://img.shields.io/github/forks/liamromanis101/cifswitch-check.svg)
 
 - [https://github.com/suominen/cifswitch](https://github.com/suominen/cifswitch) : ![starts](https://img.shields.io/github/stars/suominen/cifswitch.svg) ![forks](https://img.shields.io/github/forks/suominen/cifswitch.svg)
+
+- [https://github.com/Koshmare-Blossom/CIFSwitch-go](https://github.com/Koshmare-Blossom/CIFSwitch-go) : ![starts](https://img.shields.io/github/stars/Koshmare-Blossom/CIFSwitch-go.svg) ![forks](https://img.shields.io/github/forks/Koshmare-Blossom/CIFSwitch-go.svg)
 
 ## CVE-2026-46242
  In the Linux kernel, the following vulnerability has been resolved:

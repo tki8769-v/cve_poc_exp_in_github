@@ -84,9 +84,34 @@ problems:
 - [https://github.com/xyxdaily/oppo-pgem10-ghostlock-cve](https://github.com/xyxdaily/oppo-pgem10-ghostlock-cve) : ![starts](https://img.shields.io/github/stars/xyxdaily/oppo-pgem10-ghostlock-cve.svg) ![forks](https://img.shields.io/github/forks/xyxdaily/oppo-pgem10-ghostlock-cve.svg)
 - [https://github.com/zhubaohe123/ghostlock-kit-v2](https://github.com/zhubaohe123/ghostlock-kit-v2) : ![starts](https://img.shields.io/github/stars/zhubaohe123/ghostlock-kit-v2.svg) ![forks](https://img.shields.io/github/forks/zhubaohe123/ghostlock-kit-v2.svg)
 
+## CVE-2026-46243
+> In the Linux kernel, the following vulnerability has been resolved:
+
+smb: client: reject userspace cifs.spnego descriptions
+
+cifs.spnego key descriptions contain authority-bearing fields such as
+pid, uid, creduid, and upcall_target that cifs.upcall treats as
+kernel-originating inputs. However, userspace can also create keys of
+this type through request_key(2) or add_key(2), allowing those fields to
+be supplied without CIFS origin.
+
+Only accept cifs.spnego descriptions while CIFS is using its pri
+
+- [https://github.com/Koshmare-Blossom/CIFSwitch-go](https://github.com/Koshmare-Blossom/CIFSwitch-go) : ![starts](https://img.shields.io/github/stars/Koshmare-Blossom/CIFSwitch-go.svg) ![forks](https://img.shields.io/github/forks/Koshmare-Blossom/CIFSwitch-go.svg)
+
 ## CVE-2026-50229
 
 - [https://github.com/flvzx/CVE-2026-50229](https://github.com/flvzx/CVE-2026-50229) : ![starts](https://img.shields.io/github/stars/flvzx/CVE-2026-50229.svg) ![forks](https://img.shields.io/github/forks/flvzx/CVE-2026-50229.svg)
+
+## CVE-2026-53613
+> util-linux is a random collection of Linux utilities. In util-linux 2.17 through 2.41.6 and 2.42 through 2.42.3, and in 2.42.4 when the legacy `mount(2)` path is used without `/proc`, restricted non-root `mount` requests validate an `/etc/fstab` target before the mount operation re-resolves that pathname. A local low-privileged user authorized by an fstab `user` or `users` entry whose target has an attacker-writable ancestor can use `renameat2(RENAME_EXCHANGE)` to swap a path component and redir
+
+- [https://github.com/mohamedjawady/CVE-2026-53613-poc](https://github.com/mohamedjawady/CVE-2026-53613-poc) : ![starts](https://img.shields.io/github/stars/mohamedjawady/CVE-2026-53613-poc.svg) ![forks](https://img.shields.io/github/forks/mohamedjawady/CVE-2026-53613-poc.svg)
+
+## CVE-2026-57155
+> OPNsense is a FreeBSD based firewall and routing platform. Prior to version 26.1.11, the Firewall Alias GeoIP importer&#x27;s process_zip() and process_gzip() paths in src/opnsense/scripts/filter/lib/alias/geoip.py use an unvalidated CSV country_code value to construct output filenames below /usr/local/share/GeoIP/alias. A user with Firewall Alias Edit privilege can configure an attacker-controlled GeoIP source URL and supply an archive whose country code traverses into another existing directory, ca
+
+- [https://github.com/babyshen/CVE-2026-57155](https://github.com/babyshen/CVE-2026-57155) : ![starts](https://img.shields.io/github/stars/babyshen/CVE-2026-57155.svg) ![forks](https://img.shields.io/github/forks/babyshen/CVE-2026-57155.svg)
 
 ## CVE-2026-71557
 
