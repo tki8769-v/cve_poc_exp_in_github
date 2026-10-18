@@ -5797,6 +5797,8 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 
 - [https://github.com/Udayveer17/Remote-Code-Execution-CVE-2024-28397-pyload-ng-js2py-](https://github.com/Udayveer17/Remote-Code-Execution-CVE-2024-28397-pyload-ng-js2py-) : ![starts](https://img.shields.io/github/stars/Udayveer17/Remote-Code-Execution-CVE-2024-28397-pyload-ng-js2py-.svg) ![forks](https://img.shields.io/github/forks/Udayveer17/Remote-Code-Execution-CVE-2024-28397-pyload-ng-js2py-.svg)
 
+- [https://github.com/RianJuniorSf/exploit-js2py](https://github.com/RianJuniorSf/exploit-js2py) : ![starts](https://img.shields.io/github/stars/RianJuniorSf/exploit-js2py.svg) ![forks](https://img.shields.io/github/forks/RianJuniorSf/exploit-js2py.svg)
+
 ## CVE-2024-28328
  CSV Injection vulnerability in the Asus RT-N12+ router allows administrator users to inject arbitrary commands or formulas in the client name parameter which can be triggered and executed in a different user session upon exporting to CSV format.
 

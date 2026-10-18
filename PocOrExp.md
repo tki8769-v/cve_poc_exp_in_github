@@ -749,6 +749,8 @@ but the node is still queued on tsk, which
 
 - [https://github.com/jadedFella/lpe-study-notes](https://github.com/jadedFella/lpe-study-notes) : ![starts](https://img.shields.io/github/stars/jadedFella/lpe-study-notes.svg) ![forks](https://img.shields.io/github/forks/jadedFella/lpe-study-notes.svg)
 
+- [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98260](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98260) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-98260.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-98260.svg)
+
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -11785,6 +11787,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 > An issue in Trisolutions BRPerfX version 1.4.4.0 exposes LDAP credentials in plaintext within the administrative configuration interface. An authenticated administrator can inspect the client-side code to retrieve the credential.
 
 - [https://github.com/vtrmk/CVE-2026-36436-Public-Reference-Pack](https://github.com/vtrmk/CVE-2026-36436-Public-Reference-Pack) : ![starts](https://img.shields.io/github/stars/vtrmk/CVE-2026-36436-Public-Reference-Pack.svg) ![forks](https://img.shields.io/github/forks/vtrmk/CVE-2026-36436-Public-Reference-Pack.svg)
+
+- [https://github.com/vtrmK/CVE-2026-36436-Public-Reference-Pack](https://github.com/vtrmK/CVE-2026-36436-Public-Reference-Pack) : ![starts](https://img.shields.io/github/stars/vtrmK/CVE-2026-36436-Public-Reference-Pack.svg) ![forks](https://img.shields.io/github/forks/vtrmK/CVE-2026-36436-Public-Reference-Pack.svg)
 
 ## CVE-2026-36425
  An issue in OPSWAT AppRemover Driver (ardrv.sys) v2017.10.02.1551 and earlier in IOCTL handler 0x2420031. Any local user can open the device and send process termination requests without privilege validation.
@@ -44146,6 +44150,8 @@ Users are recommended to upgrade to version 0.95.0, which fixes the issue.
 - [https://github.com/Naved124/CVE-2024-28397-js2py-Sandbox-Escape](https://github.com/Naved124/CVE-2024-28397-js2py-Sandbox-Escape) : ![starts](https://img.shields.io/github/stars/Naved124/CVE-2024-28397-js2py-Sandbox-Escape.svg) ![forks](https://img.shields.io/github/forks/Naved124/CVE-2024-28397-js2py-Sandbox-Escape.svg)
 
 - [https://github.com/Udayveer17/Remote-Code-Execution-CVE-2024-28397-pyload-ng-js2py-](https://github.com/Udayveer17/Remote-Code-Execution-CVE-2024-28397-pyload-ng-js2py-) : ![starts](https://img.shields.io/github/stars/Udayveer17/Remote-Code-Execution-CVE-2024-28397-pyload-ng-js2py-.svg) ![forks](https://img.shields.io/github/forks/Udayveer17/Remote-Code-Execution-CVE-2024-28397-pyload-ng-js2py-.svg)
+
+- [https://github.com/RianJuniorSf/exploit-js2py](https://github.com/RianJuniorSf/exploit-js2py) : ![starts](https://img.shields.io/github/stars/RianJuniorSf/exploit-js2py.svg) ![forks](https://img.shields.io/github/forks/RianJuniorSf/exploit-js2py.svg)
 
 ## CVE-2024-28328
  CSV Injection vulnerability in the Asus RT-N12+ router allows administrator users to inject arbitrary commands or formulas in the client name parameter which can be triggered and executed in a different user session upon exporting to CSV format.
@@ -81060,6 +81066,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/0xBlackash/CVE-2020-17103](https://github.com/0xBlackash/CVE-2020-17103) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2020-17103.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2020-17103.svg)
 
 - [https://github.com/rfranca777/miniplasma-advisory](https://github.com/rfranca777/miniplasma-advisory) : ![starts](https://img.shields.io/github/stars/rfranca777/miniplasma-advisory.svg) ![forks](https://img.shields.io/github/forks/rfranca777/miniplasma-advisory.svg)
+
+- [https://github.com/dooodad/MiniPlasma](https://github.com/dooodad/MiniPlasma) : ![starts](https://img.shields.io/github/stars/dooodad/MiniPlasma.svg) ![forks](https://img.shields.io/github/forks/dooodad/MiniPlasma.svg)
 
 ## CVE-2020-17087
  Windows Kernel Local Elevation of Privilege Vulnerability

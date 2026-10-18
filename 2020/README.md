@@ -1523,6 +1523,8 @@
 
 - [https://github.com/rfranca777/miniplasma-advisory](https://github.com/rfranca777/miniplasma-advisory) : ![starts](https://img.shields.io/github/stars/rfranca777/miniplasma-advisory.svg) ![forks](https://img.shields.io/github/forks/rfranca777/miniplasma-advisory.svg)
 
+- [https://github.com/dooodad/MiniPlasma](https://github.com/dooodad/MiniPlasma) : ![starts](https://img.shields.io/github/stars/dooodad/MiniPlasma.svg) ![forks](https://img.shields.io/github/forks/dooodad/MiniPlasma.svg)
+
 ## CVE-2020-17087
  Windows Kernel Local Elevation of Privilege Vulnerability
 

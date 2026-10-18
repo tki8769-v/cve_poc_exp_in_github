@@ -3247,3 +3247,8 @@
 {"cve_id": "CVE-2025-3248", "ts": "2026-10-18T23:17:38Z", "type": "new_poc", "url": "https://github.com/cpwjdgh/CVE-2025-3248-CTF-Lab"}
 {"cve_id": "CVE-2026-39127", "ts": "2026-10-18T23:17:38Z", "type": "new_poc", "url": "https://github.com/haera/boboverflow"}
 {"cve_id": "CVE-2025-32711", "ts": "2026-10-18T23:17:39Z", "type": "new_poc", "url": "https://github.com/Danielle-Respes/Threat-Hunt-EchoLeak-Copilot-Prompt-Injection-Sentinel-KQL-Oct-2026"}
+{"cve_id": "CVE-2026-108519", "ts": "2026-10-18T23:28:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-10-18T23:30:34Z", "type": "new_poc", "url": "https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98260"}
+{"cve_id": "CVE-2026-36436", "ts": "2026-10-18T23:33:37Z", "type": "new_poc", "url": "https://github.com/vtrmK/CVE-2026-36436-Public-Reference-Pack"}
+{"cve_id": "CVE-2024-28397", "ts": "2026-10-18T23:35:52Z", "type": "new_poc", "url": "https://github.com/RianJuniorSf/exploit-js2py"}
+{"cve_id": "CVE-2020-17103", "ts": "2026-10-18T23:37:37Z", "type": "new_poc", "url": "https://github.com/dooodad/MiniPlasma"}

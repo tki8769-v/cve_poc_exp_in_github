@@ -20,6 +20,10 @@
 
 - [https://github.com/NAIRBS/SC3010-Grp-33](https://github.com/NAIRBS/SC3010-Grp-33) : ![starts](https://img.shields.io/github/stars/NAIRBS/SC3010-Grp-33.svg) ![forks](https://img.shields.io/github/forks/NAIRBS/SC3010-Grp-33.svg)
 
+## CVE-2020-17103
+
+- [https://github.com/dooodad/MiniPlasma](https://github.com/dooodad/MiniPlasma) : ![starts](https://img.shields.io/github/stars/dooodad/MiniPlasma.svg) ![forks](https://img.shields.io/github/forks/dooodad/MiniPlasma.svg)
+
 ## CVE-2020-36847
 
 - [https://github.com/K52-ai/CVE-2020-36847](https://github.com/K52-ai/CVE-2020-36847) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2020-36847.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2020-36847.svg)
@@ -43,6 +47,10 @@
 ## CVE-2024-25600
 
 - [https://github.com/K52-ai/CVE-2024-25600](https://github.com/K52-ai/CVE-2024-25600) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2024-25600.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2024-25600.svg)
+
+## CVE-2024-28397
+
+- [https://github.com/RianJuniorSf/exploit-js2py](https://github.com/RianJuniorSf/exploit-js2py) : ![starts](https://img.shields.io/github/stars/RianJuniorSf/exploit-js2py.svg) ![forks](https://img.shields.io/github/forks/RianJuniorSf/exploit-js2py.svg)
 
 ## CVE-2025-30208
 
@@ -160,6 +168,11 @@ AD directly.
 ## CVE-2026-34157
 
 - [https://github.com/Saku0512/CVE-2026-34157-poc](https://github.com/Saku0512/CVE-2026-34157-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-34157-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-34157-poc.svg)
+
+## CVE-2026-36436
+> An issue in Trisolutions BRPerfX version 1.4.4.0 exposes LDAP credentials in plaintext within the administrative configuration interface. An authenticated administrator can inspect the client-side code to retrieve the credential.
+
+- [https://github.com/vtrmK/CVE-2026-36436-Public-Reference-Pack](https://github.com/vtrmK/CVE-2026-36436-Public-Reference-Pack) : ![starts](https://img.shields.io/github/stars/vtrmK/CVE-2026-36436-Public-Reference-Pack.svg) ![forks](https://img.shields.io/github/forks/vtrmK/CVE-2026-36436-Public-Reference-Pack.svg)
 
 ## CVE-2026-39127
 
@@ -340,6 +353,7 @@ that PID. pid_task(timer-&gt;it.cpu.pid, PIDTYPE_PID) then returns NULL,
 but the node is still queued on tsk, which
 
 - [https://github.com/jadedFella/lpe-study-notes](https://github.com/jadedFella/lpe-study-notes) : ![starts](https://img.shields.io/github/stars/jadedFella/lpe-study-notes.svg) ![forks](https://img.shields.io/github/forks/jadedFella/lpe-study-notes.svg)
+- [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98260](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98260) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-98260.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-98260.svg)
 
 ## CVE-2026-99999
 > In the Linux kernel, the following vulnerability has been resolved:
