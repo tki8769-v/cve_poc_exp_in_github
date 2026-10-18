@@ -1468,3 +1468,9 @@
 {"cve_id": "CVE-2025-2624", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:50:37Z", "url": "https://github.com/Habuon/CVE-2025-26240", "url_ids": ["CVE-2025-26240"]}
 {"cve_id": "CVE-2026-3326", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:51:37Z", "url": "https://github.com/Boreas37/CVE-2026-33267-PoC", "url_ids": ["CVE-2026-33267"]}
 {"cve_id": "CVE-2023-3076", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:52:34Z", "url": "https://github.com/0xfml/CVE-2023-30765", "url_ids": ["CVE-2023-30765"]}
+{"cve_id": "CVE-2026-5050", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:55:11Z", "url": "https://github.com/HORKimhab/CVE-2026-50507", "url_ids": ["CVE-2026-50507"]}
+{"cve_id": "CVE-2026-7355", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:55:12Z", "url": "https://github.com/HORKimhab/CVE-2026-73554", "url_ids": ["CVE-2026-73554"]}
+{"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:56:34Z", "url": "https://github.com/PeronGH/CVE-2026-99999", "url_ids": ["CVE-2026-99999"]}
+{"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:56:34Z", "url": "https://github.com/Quaerendir/cve-2026-99999-audit", "url_ids": ["CVE-2026-99999"]}
+{"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:56:34Z", "url": "https://github.com/01luyicheng/CVE-2026-99999", "url_ids": ["CVE-2026-99999"]}
+{"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:56:34Z", "url": "https://github.com/zakinko/kpatch-alma-cve-2026-99999", "url_ids": ["CVE-2026-99999"]}
