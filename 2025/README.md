@@ -8013,6 +8013,8 @@ This issue affects Command Center Innovation Release: 11.38.0 to 11.38.20. The v
 
 - [https://github.com/TreRB/markdown-exfil-tester](https://github.com/TreRB/markdown-exfil-tester) : ![starts](https://img.shields.io/github/stars/TreRB/markdown-exfil-tester.svg) ![forks](https://img.shields.io/github/forks/TreRB/markdown-exfil-tester.svg)
 
+- [https://github.com/Danielle-Respes/Threat-Hunt-EchoLeak-Copilot-Prompt-Injection-Sentinel-KQL-Oct-2026](https://github.com/Danielle-Respes/Threat-Hunt-EchoLeak-Copilot-Prompt-Injection-Sentinel-KQL-Oct-2026) : ![starts](https://img.shields.io/github/stars/Danielle-Respes/Threat-Hunt-EchoLeak-Copilot-Prompt-Injection-Sentinel-KQL-Oct-2026.svg) ![forks](https://img.shields.io/github/forks/Danielle-Respes/Threat-Hunt-EchoLeak-Copilot-Prompt-Injection-Sentinel-KQL-Oct-2026.svg)
+
 ## CVE-2025-32710
  Use after free in Windows Remote Desktop Services allows an unauthorized attacker to execute code over a network.
 
@@ -14617,6 +14619,8 @@ code.
 - [https://github.com/Atomics-hub/exposecheck](https://github.com/Atomics-hub/exposecheck) : ![starts](https://img.shields.io/github/stars/Atomics-hub/exposecheck.svg) ![forks](https://img.shields.io/github/forks/Atomics-hub/exposecheck.svg)
 
 - [https://github.com/get-xor/coreweave-demo-2026-05](https://github.com/get-xor/coreweave-demo-2026-05) : ![starts](https://img.shields.io/github/stars/get-xor/coreweave-demo-2026-05.svg) ![forks](https://img.shields.io/github/forks/get-xor/coreweave-demo-2026-05.svg)
+
+- [https://github.com/cpwjdgh/CVE-2025-3248-CTF-Lab](https://github.com/cpwjdgh/CVE-2025-3248-CTF-Lab) : ![starts](https://img.shields.io/github/stars/cpwjdgh/CVE-2025-3248-CTF-Lab.svg) ![forks](https://img.shields.io/github/forks/cpwjdgh/CVE-2025-3248-CTF-Lab.svg)
 
 ## CVE-2025-3194
  Versions of the package bigint-buffer from 0.0.0 are vulnerable to Buffer Overflow in the toBigIntLE() function. Attackers can exploit this to crash the application.

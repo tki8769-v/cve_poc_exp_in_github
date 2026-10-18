@@ -3243,3 +3243,7 @@
 {"cve_id": "CVE-2026-98260", "ts": "2026-10-18T19:30:59Z", "type": "new_poc", "url": "https://github.com/jadedFella/lpe-study-notes"}
 {"cve_id": "CVE-2024-23897", "ts": "2026-10-18T19:36:12Z", "type": "new_poc", "url": "https://github.com/Maalfer/CVE-2024-23897-exploit"}
 {"cve_id": "CVE-2017-5638", "ts": "2026-10-18T19:45:22Z", "type": "new_poc", "url": "https://github.com/NAIRBS/SC3010-Grp-33"}
+{"cve_id": "CVE-2026-104736", "ts": "2026-10-18T23:17:37Z", "type": "new_poc", "url": "https://github.com/murrez/CVE-2026-104736"}
+{"cve_id": "CVE-2025-3248", "ts": "2026-10-18T23:17:38Z", "type": "new_poc", "url": "https://github.com/cpwjdgh/CVE-2025-3248-CTF-Lab"}
+{"cve_id": "CVE-2026-39127", "ts": "2026-10-18T23:17:38Z", "type": "new_poc", "url": "https://github.com/haera/boboverflow"}
+{"cve_id": "CVE-2025-32711", "ts": "2026-10-18T23:17:39Z", "type": "new_poc", "url": "https://github.com/Danielle-Respes/Threat-Hunt-EchoLeak-Copilot-Prompt-Injection-Sentinel-KQL-Oct-2026"}

@@ -52,6 +52,17 @@
 
 - [https://github.com/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125](https://github.com/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125) : ![starts](https://img.shields.io/github/stars/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125.svg) ![forks](https://img.shields.io/github/forks/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125.svg)
 
+## CVE-2025-3248
+> Langflow versions prior to 1.3.0 are susceptible to code injection in 
+the /api/v1/validate/code endpoint. A remote and unauthenticated attacker can send crafted HTTP requests to execute arbitrary
+code.
+
+- [https://github.com/cpwjdgh/CVE-2025-3248-CTF-Lab](https://github.com/cpwjdgh/CVE-2025-3248-CTF-Lab) : ![starts](https://img.shields.io/github/stars/cpwjdgh/CVE-2025-3248-CTF-Lab.svg) ![forks](https://img.shields.io/github/forks/cpwjdgh/CVE-2025-3248-CTF-Lab.svg)
+
+## CVE-2025-32711
+
+- [https://github.com/Danielle-Respes/Threat-Hunt-EchoLeak-Copilot-Prompt-Injection-Sentinel-KQL-Oct-2026](https://github.com/Danielle-Respes/Threat-Hunt-EchoLeak-Copilot-Prompt-Injection-Sentinel-KQL-Oct-2026) : ![starts](https://img.shields.io/github/stars/Danielle-Respes/Threat-Hunt-EchoLeak-Copilot-Prompt-Injection-Sentinel-KQL-Oct-2026.svg) ![forks](https://img.shields.io/github/forks/Danielle-Respes/Threat-Hunt-EchoLeak-Copilot-Prompt-Injection-Sentinel-KQL-Oct-2026.svg)
+
 ## CVE-2025-49812
 
 - [https://github.com/kimdongjun22/cve-2025-49812-ctf](https://github.com/kimdongjun22/cve-2025-49812-ctf) : ![starts](https://img.shields.io/github/stars/kimdongjun22/cve-2025-49812-ctf.svg) ![forks](https://img.shields.io/github/forks/kimdongjun22/cve-2025-49812-ctf.svg)
@@ -81,6 +92,11 @@
 ## CVE-2026-104100
 
 - [https://github.com/Saku0512/CVE-2026-104100-poc](https://github.com/Saku0512/CVE-2026-104100-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-104100-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-104100-poc.svg)
+
+## CVE-2026-104736
+> The LearnPress plugin for WordPress is vulnerable to PHP Object Injection in versions up to, and including, 4.4.10 via deserialization of untrusted input from the &#x27;checkout-email&#x27; request parameter during the checkout AJAX action. The value is passed through sanitize_text_field(), which does not strip serialized object syntax, then stored in the LearnPress session table and later fed to LP_Helper::maybe_unserialize() → unserialize() (without an allowed_classes restriction) by LP_Session_Handler:
+
+- [https://github.com/murrez/CVE-2026-104736](https://github.com/murrez/CVE-2026-104736) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-104736.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-104736.svg)
 
 ## CVE-2026-108097
 
@@ -144,6 +160,10 @@ AD directly.
 ## CVE-2026-34157
 
 - [https://github.com/Saku0512/CVE-2026-34157-poc](https://github.com/Saku0512/CVE-2026-34157-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-34157-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-34157-poc.svg)
+
+## CVE-2026-39127
+
+- [https://github.com/haera/boboverflow](https://github.com/haera/boboverflow) : ![starts](https://img.shields.io/github/stars/haera/boboverflow.svg) ![forks](https://img.shields.io/github/forks/haera/boboverflow.svg)
 
 ## CVE-2026-43284
 > In the Linux kernel, the following vulnerability has been resolved:

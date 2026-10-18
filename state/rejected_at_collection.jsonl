@@ -1474,3 +1474,8 @@
 {"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:56:34Z", "url": "https://github.com/Quaerendir/cve-2026-99999-audit", "url_ids": ["CVE-2026-99999"]}
 {"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:56:34Z", "url": "https://github.com/01luyicheng/CVE-2026-99999", "url_ids": ["CVE-2026-99999"]}
 {"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:56:34Z", "url": "https://github.com/zakinko/kpatch-alma-cve-2026-99999", "url_ids": ["CVE-2026-99999"]}
+{"cve_id": "CVE-2025-5670", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T23:21:45Z", "url": "https://github.com/xkaneiki/rtty_CVE-2025-56708-CVE-2025-56709", "url_ids": ["CVE-2025-56708", "CVE-2025-56709"]}
+{"cve_id": "CVE-2023-2732", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T23:24:41Z", "url": "https://github.com/Malwareman007/CVE-2023-27326", "url_ids": ["CVE-2023-27326"]}
+{"cve_id": "CVE-2026-6179", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T23:24:54Z", "url": "https://github.com/itres-labs/CVE-2026-61797", "url_ids": ["CVE-2026-61797"]}
+{"cve_id": "CVE-2025-2536", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T23:25:50Z", "url": "https://github.com/lkasjkasj/CVE-2025-25369", "url_ids": ["CVE-2025-25369"]}
+{"cve_id": "CVE-2016-1611", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T23:25:56Z", "url": "https://github.com/d3vn0mi/CVE-2016-16113-POC", "url_ids": ["CVE-2016-16113"]}

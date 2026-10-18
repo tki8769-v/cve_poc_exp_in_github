@@ -321,6 +321,8 @@ device operation and availability. No authentication, session e
 
 - [https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details](https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details) : ![starts](https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details.svg) ![forks](https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details.svg)
 
+- [https://github.com/murrez/CVE-2026-104736](https://github.com/murrez/CVE-2026-104736) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-104736.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-104736.svg)
+
 ## CVE-2026-104715
 > A flaw was found in cifs-utils. This flaw allows an unprivileged local user to achieve privilege escalation. When a privileged service mounts a Common Internet File System (CIFS) share using a user-controlled credentials file, input values are not properly sanitized before being assembled into mount options. A local attacker can exploit this vulnerability to inject unauthorized mount options, allowing them to bypass permission checks and execute files with administrative (root) privileges.
 
@@ -11476,6 +11478,10 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
  An issue in Pivotal CRM v.6.6.04.08 allows a remote attacker to execute arbitrary code via the Pivotal.Core.Common.dll and Pivotal.Engine.Client.Services.Conversion.dll components.
 
 - [https://github.com/timtimxs/CVE-2026-39253-Advisory](https://github.com/timtimxs/CVE-2026-39253-Advisory) : ![starts](https://img.shields.io/github/stars/timtimxs/CVE-2026-39253-Advisory.svg) ![forks](https://img.shields.io/github/forks/timtimxs/CVE-2026-39253-Advisory.svg)
+
+## CVE-2026-39127
+
+- [https://github.com/haera/boboverflow](https://github.com/haera/boboverflow) : ![starts](https://img.shields.io/github/stars/haera/boboverflow.svg) ![forks](https://img.shields.io/github/forks/haera/boboverflow.svg)
 
 ## CVE-2026-39113
  Buffer Overflow vulnerability in SQLite affected version source snapshots/builds containing Fossil check-in 8bdc0d485e3ad0c7a1e818da66f106951d496b05cbe61d12c2c448f2f24b6d5d (Git mirror 169f68ed88b34cb68f720191c64c058f2ccec508, 2026-03-11) and later snapshots/builds allows an attacker to cause a denial of service via the ext/misc/sqlar.c, sqlarUncompressFunc(), sqlar_uncompress(), sqlite3_value_int64(), sqlite3_malloc(int), uncompress() components
