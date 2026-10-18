@@ -3221,3 +3221,4 @@
 {"cve_id": "CVE-2026-59774", "ts": "2026-10-18T13:17:56Z", "type": "new_poc", "url": "https://github.com/FlowerWitch/CVE-2026-59774_docker"}
 {"cve_id": "CVE-2026-69191", "ts": "2026-10-18T13:21:56Z", "type": "new_poc", "url": "https://github.com/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass"}
 {"cve_id": "CVE-2026-76519", "ts": "2026-10-18T13:26:08Z", "type": "new_poc", "url": "https://github.com/Mickysalivan/CVE-2026-76519-Proof-of-concept"}
+{"cve_id": "CVE-2013-3660", "ts": "2026-10-18T13:34:18Z", "type": "new_poc", "url": "https://github.com/kikozz/CVE-2013-3660-win32k.sys"}

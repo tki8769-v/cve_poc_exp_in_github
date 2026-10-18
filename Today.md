@@ -3,6 +3,10 @@
 
 - [https://github.com/Nutsulejustine/pentest-kioptrix](https://github.com/Nutsulejustine/pentest-kioptrix) : ![starts](https://img.shields.io/github/stars/Nutsulejustine/pentest-kioptrix.svg) ![forks](https://img.shields.io/github/forks/Nutsulejustine/pentest-kioptrix.svg)
 
+## CVE-2013-3660
+
+- [https://github.com/kikozz/CVE-2013-3660-win32k.sys](https://github.com/kikozz/CVE-2013-3660-win32k.sys) : ![starts](https://img.shields.io/github/stars/kikozz/CVE-2013-3660-win32k.sys.svg) ![forks](https://img.shields.io/github/forks/kikozz/CVE-2013-3660-win32k.sys.svg)
+
 ## CVE-2015-2291
 > (1) IQVW32.sys before 1.3.1.0 and (2) IQVW64.sys before 1.3.1.0 in the Intel Ethernet diagnostics driver for Windows allows local users to cause a denial of service or possibly execute arbitrary code with kernel privileges via a crafted (a) 0x80862013, (b) 0x8086200B, (c) 0x8086200F, or (d) 0x80862007 IOCTL call.
 

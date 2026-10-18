@@ -1290,3 +1290,6 @@
 {"cve_id": "CVE-2026-8853", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T13:18:06Z", "url": "https://github.com/HEMLOCK-LYK/CVE-2026-88533", "url_ids": ["CVE-2026-88533"]}
 {"cve_id": "CVE-2023-4740", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T13:19:08Z", "url": "https://github.com/LucasVanHaaren/CVE-2023-47400", "url_ids": ["CVE-2023-47400"]}
 {"cve_id": "CVE-2021-3310", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T13:22:59Z", "url": "https://github.com/rjt-gupta/CVE-2021-33104", "url_ids": ["CVE-2021-33104"]}
+{"cve_id": "CVE-2023-2520", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T13:32:06Z", "url": "https://github.com/Trackflaw/CVE-2023-25203", "url_ids": ["CVE-2023-25203"]}
+{"cve_id": "CVE-2023-2520", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T13:32:06Z", "url": "https://github.com/Trackflaw/CVE-2023-25202", "url_ids": ["CVE-2023-25202"]}
+{"cve_id": "CVE-2024-1131", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T13:37:11Z", "url": "https://github.com/xthalach/CVE-2024-11318", "url_ids": ["CVE-2024-11318"]}
