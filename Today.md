@@ -28,6 +28,10 @@
 
 - [https://github.com/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125](https://github.com/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125) : ![starts](https://img.shields.io/github/stars/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125.svg) ![forks](https://img.shields.io/github/forks/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125.svg)
 
+## CVE-2025-6019
+
+- [https://github.com/JustThinkingHard/HID-Attack](https://github.com/JustThinkingHard/HID-Attack) : ![starts](https://img.shields.io/github/stars/JustThinkingHard/HID-Attack.svg) ![forks](https://img.shields.io/github/forks/JustThinkingHard/HID-Attack.svg)
+
 ## CVE-2025-6440
 
 - [https://github.com/0xCyp1337/CVE-2025-6440-BypassExt](https://github.com/0xCyp1337/CVE-2025-6440-BypassExt) : ![starts](https://img.shields.io/github/stars/0xCyp1337/CVE-2025-6440-BypassExt.svg) ![forks](https://img.shields.io/github/forks/0xCyp1337/CVE-2025-6440-BypassExt.svg)

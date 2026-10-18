@@ -36355,6 +36355,8 @@ The specific flaw exists within the handling of file paths within archive files.
 
 - [https://github.com/V0idW1re/HTB-Pterodactyl-Writeup](https://github.com/V0idW1re/HTB-Pterodactyl-Writeup) : ![starts](https://img.shields.io/github/stars/V0idW1re/HTB-Pterodactyl-Writeup.svg) ![forks](https://img.shields.io/github/forks/V0idW1re/HTB-Pterodactyl-Writeup.svg)
 
+- [https://github.com/JustThinkingHard/HID-Attack](https://github.com/JustThinkingHard/HID-Attack) : ![starts](https://img.shields.io/github/stars/JustThinkingHard/HID-Attack.svg) ![forks](https://img.shields.io/github/forks/JustThinkingHard/HID-Attack.svg)
+
 ## CVE-2025-6018
  A Local Privilege Escalation (LPE) vulnerability has been discovered in pam-config within Linux Pluggable Authentication Modules (PAM). This flaw allows an unprivileged local attacker (for example, a user logged in via SSH) to obtain the elevated privileges normally reserved for a physically present, "allow_active" user. The highest risk is that the attacker can then perform all allow_active yes Polkit actions, which are typically restricted to console users, potentially gaining unauthorized control over system configurations, services, or other sensitive operations.
 
