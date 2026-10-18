@@ -1279,3 +1279,4 @@
 {"cve_id": "CVE-2025-2620", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T23:22:33Z", "url": "https://github.com/xibhi/CVE-2025-26206", "url_ids": ["CVE-2025-26206"]}
 {"cve_id": "CVE-2025-5182", "reason": "prefix_conflict_evidenced", "ts": "2026-10-17T23:23:34Z", "url": "https://github.com/shk-mubashshir/CVE-2025-51820", "url_ids": ["CVE-2025-51820"]}
 {"cve_id": "CVE-2026-4861", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T06:01:47Z", "url": "https://github.com/Ethicalgrey/phpBB-CVE-2026-48611", "url_ids": ["CVE-2026-48611"]}
+{"cve_id": "CVE-2026-3497", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T06:06:56Z", "url": "https://github.com/romain-deperne/CVE-2026-34975", "url_ids": ["CVE-2026-34975"]}

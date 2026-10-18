@@ -9576,6 +9576,22 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/AuroraMythweaver/iqoo-neo9-ghostlock-pc](https://github.com/AuroraMythweaver/iqoo-neo9-ghostlock-pc) : ![starts](https://img.shields.io/github/stars/AuroraMythweaver/iqoo-neo9-ghostlock-pc.svg) ![forks](https://img.shields.io/github/forks/AuroraMythweaver/iqoo-neo9-ghostlock-pc.svg)
 
+- [https://github.com/zhubaohe123/ghostlock-kit-v2](https://github.com/zhubaohe123/ghostlock-kit-v2) : ![starts](https://img.shields.io/github/stars/zhubaohe123/ghostlock-kit-v2.svg) ![forks](https://img.shields.io/github/forks/zhubaohe123/ghostlock-kit-v2.svg)
+
+- [https://github.com/ihamn/matisse-public](https://github.com/ihamn/matisse-public) : ![starts](https://img.shields.io/github/stars/ihamn/matisse-public.svg) ![forks](https://img.shields.io/github/forks/ihamn/matisse-public.svg)
+
+- [https://github.com/stupidgiraffe/aquos-r8-ghostlock](https://github.com/stupidgiraffe/aquos-r8-ghostlock) : ![starts](https://img.shields.io/github/stars/stupidgiraffe/aquos-r8-ghostlock.svg) ![forks](https://img.shields.io/github/forks/stupidgiraffe/aquos-r8-ghostlock.svg)
+
+- [https://github.com/Frog27v/Galaxy-S24-Ultra-S928U-Root-Semi-Tether-KSU](https://github.com/Frog27v/Galaxy-S24-Ultra-S928U-Root-Semi-Tether-KSU) : ![starts](https://img.shields.io/github/stars/Frog27v/Galaxy-S24-Ultra-S928U-Root-Semi-Tether-KSU.svg) ![forks](https://img.shields.io/github/forks/Frog27v/Galaxy-S24-Ultra-S928U-Root-Semi-Tether-KSU.svg)
+
+- [https://github.com/THORBHAIxTRUSTED/RootMyVivo-Exploit](https://github.com/THORBHAIxTRUSTED/RootMyVivo-Exploit) : ![starts](https://img.shields.io/github/stars/THORBHAIxTRUSTED/RootMyVivo-Exploit.svg) ![forks](https://img.shields.io/github/forks/THORBHAIxTRUSTED/RootMyVivo-Exploit.svg)
+
+- [https://github.com/jiusi1-cpu/manet-persistent-root-research](https://github.com/jiusi1-cpu/manet-persistent-root-research) : ![starts](https://img.shields.io/github/stars/jiusi1-cpu/manet-persistent-root-research.svg) ![forks](https://img.shields.io/github/forks/jiusi1-cpu/manet-persistent-root-research.svg)
+
+- [https://github.com/vn-ncvinh/CVE-2026-43499-OPPO-6.12.58](https://github.com/vn-ncvinh/CVE-2026-43499-OPPO-6.12.58) : ![starts](https://img.shields.io/github/stars/vn-ncvinh/CVE-2026-43499-OPPO-6.12.58.svg) ![forks](https://img.shields.io/github/forks/vn-ncvinh/CVE-2026-43499-OPPO-6.12.58.svg)
+
+- [https://github.com/xyxdaily/oppo-pgem10-ghostlock-cve](https://github.com/xyxdaily/oppo-pgem10-ghostlock-cve) : ![starts](https://img.shields.io/github/stars/xyxdaily/oppo-pgem10-ghostlock-cve.svg) ![forks](https://img.shields.io/github/forks/xyxdaily/oppo-pgem10-ghostlock-cve.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 

@@ -3191,3 +3191,12 @@
 {"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/chavezvic/CopyFail-Penguin"}
 {"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/deadRabbit92/mitigate-copy-fail.yml"}
 {"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/vorkampfer/copyfail2_electric_boogaloo_fix"}
+{"cve_id": "CVE-2022-1388", "ts": "2026-10-18T06:06:53Z", "type": "new_poc", "url": "https://github.com/jermainlaforce/CVE-2022-1388-POC"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-18T06:10:52Z", "type": "new_poc", "url": "https://github.com/zhubaohe123/ghostlock-kit-v2"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-18T06:10:52Z", "type": "new_poc", "url": "https://github.com/ihamn/matisse-public"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-18T06:10:53Z", "type": "new_poc", "url": "https://github.com/stupidgiraffe/aquos-r8-ghostlock"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-18T06:10:54Z", "type": "new_poc", "url": "https://github.com/vn-ncvinh/CVE-2026-43499-OPPO-6.12.58"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-18T06:10:54Z", "type": "new_poc", "url": "https://github.com/xyxdaily/oppo-pgem10-ghostlock-cve"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-18T06:10:54Z", "type": "new_poc", "url": "https://github.com/THORBHAIxTRUSTED/RootMyVivo-Exploit"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-18T06:10:54Z", "type": "new_poc", "url": "https://github.com/Frog27v/Galaxy-S24-Ultra-S928U-Root-Semi-Tether-KSU"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-18T06:10:54Z", "type": "new_poc", "url": "https://github.com/jiusi1-cpu/manet-persistent-root-research"}
