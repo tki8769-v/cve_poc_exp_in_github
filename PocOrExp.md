@@ -107,6 +107,8 @@ privileges. Exploitation requir
 
 - [https://github.com/FurkanKAYAPINAR/CVE-2026-108097](https://github.com/FurkanKAYAPINAR/CVE-2026-108097) : ![starts](https://img.shields.io/github/stars/FurkanKAYAPINAR/CVE-2026-108097.svg) ![forks](https://img.shields.io/github/forks/FurkanKAYAPINAR/CVE-2026-108097.svg)
 
+- [https://github.com/fortbridge/cve-2026-108097-research](https://github.com/fortbridge/cve-2026-108097-research) : ![starts](https://img.shields.io/github/stars/fortbridge/cve-2026-108097-research.svg) ![forks](https://img.shields.io/github/forks/fortbridge/cve-2026-108097-research.svg)
+
 ## CVE-2026-107821
 > MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, and 13.0.2, MariaDB insufficiently validated counts, offsets, lengths, and field boundaries in FRM metadata while opening binary FRM files. An attacker able to place a crafted FRM file in the data directory could trigger out-of-bounds reads or writes, crash the server, or potentially execute code. This issue is fixed in versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, a
 
@@ -730,6 +732,21 @@ in depth measure, let&#x27;s also check before we complete the checksum
 
 - [https://github.com/zakinko/kpatch-alma-cve-2026-99999](https://github.com/zakinko/kpatch-alma-cve-2026-99999) : ![starts](https://img.shields.io/github/stars/zakinko/kpatch-alma-cve-2026-99999.svg) ![forks](https://img.shields.io/github/forks/zakinko/kpatch-alma-cve-2026-99999.svg)
 
+## CVE-2026-98260
+> In the Linux kernel, the following vulnerability has been resolved:
+
+exec: Cleanup POSIX timers right after de_thread()
+
+A per-thread CPU timer holds a reference to the PID of the thread it is
+attached to and, while it is armed, its node is queued in that thread&#x27;s
+posix_cputimers. The task is looked up by that PID.
+
+When a non-leader thread exec()s, de_thread() changes which task owns
+that PID. pid_task(timer-&gt;it.cpu.pid, PIDTYPE_PID) then returns NULL,
+but the node is still queued on tsk, which
+
+- [https://github.com/jadedFella/lpe-study-notes](https://github.com/jadedFella/lpe-study-notes) : ![starts](https://img.shields.io/github/stars/jadedFella/lpe-study-notes.svg) ![forks](https://img.shields.io/github/forks/jadedFella/lpe-study-notes.svg)
+
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -1180,6 +1197,11 @@ This issue affects AKINSOFT WOLVOX Control Panel: from 26.02.25 before 26.02.26.
 free of a `struct Curl_easy` object.
 
 - [https://github.com/ashu7ank/CVE-2026-92392](https://github.com/ashu7ank/CVE-2026-92392) : ![starts](https://img.shields.io/github/stars/ashu7ank/CVE-2026-92392.svg) ![forks](https://img.shields.io/github/forks/ashu7ank/CVE-2026-92392.svg)
+
+## CVE-2026-92262
+> MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, and 13.0.2, the #mysql50# bypass prefix is affected because it allows the #mysql50# prefix to bypass normal table-name filesystem encoding. An attacker can trigger the issue with a table name using the #mysql50# prefix, then use a #mysql50# table name to access files under their legacy unencoded name and cause crashes, data corruption, data exfiltration, or remote code exec
+
+- [https://github.com/SeanDishman/mariadb-cve-2026-92262](https://github.com/SeanDishman/mariadb-cve-2026-92262) : ![starts](https://img.shields.io/github/stars/SeanDishman/mariadb-cve-2026-92262.svg) ![forks](https://img.shields.io/github/forks/SeanDishman/mariadb-cve-2026-92262.svg)
 
 ## CVE-2026-92247
  A security vulnerability has been detected in synaptikcms synaptik-cms up to 1.3.4.4. This affects the function rename of the file admin/file-manager.php of the component Admin File Manager. The manipulation leads to unrestricted upload. The attack can be initiated remotely. The exploit has been disclosed publicly and may be used. Upgrading to version 1.3.5 is able to mitigate this issue. It is suggested to upgrade the affected component.
@@ -6054,6 +6076,8 @@ Users are recommended to upgrade to version 4.21.0, which fixes the issue. If us
 
 - [https://github.com/elitexspam/Def4cer](https://github.com/elitexspam/Def4cer) : ![starts](https://img.shields.io/github/stars/elitexspam/Def4cer.svg) ![forks](https://img.shields.io/github/forks/elitexspam/Def4cer.svg)
 
+- [https://github.com/MRdark-ops/CVE-2026-53787-poc](https://github.com/MRdark-ops/CVE-2026-53787-poc) : ![starts](https://img.shields.io/github/stars/MRdark-ops/CVE-2026-53787-poc.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/CVE-2026-53787-poc.svg)
+
 ## CVE-2026-53753
  Crawl4AI is an open-source LLM friendly web crawler & scraper. Prior to 0.8.7, the _safe_eval_expression() function in the computed fields feature uses an AST validator that only blocks attributes starting with underscore. Python generator and frame object attributes (gi_frame, f_back, f_builtins) do NOT start with underscore, enabling a complete sandbox escape to achieve arbitrary code execution. The attack requires no authentication (JWT disabled by default) and is triggered via POST /crawl with a crafted extraction schema. This vulnerability is fixed in 0.8.7.
 
@@ -7064,6 +7088,8 @@ Users are recommended to upgrade to version 11.0.23, 10.1.56 or 9.0.119, which f
 - [https://github.com/zero-trace7/CVE-2026-50229](https://github.com/zero-trace7/CVE-2026-50229) : ![starts](https://img.shields.io/github/stars/zero-trace7/CVE-2026-50229.svg) ![forks](https://img.shields.io/github/forks/zero-trace7/CVE-2026-50229.svg)
 
 - [https://github.com/flvzx/CVE-2026-50229](https://github.com/flvzx/CVE-2026-50229) : ![starts](https://img.shields.io/github/stars/flvzx/CVE-2026-50229.svg) ![forks](https://img.shields.io/github/forks/flvzx/CVE-2026-50229.svg)
+
+- [https://github.com/qsuv/CVE-2026-50229](https://github.com/qsuv/CVE-2026-50229) : ![starts](https://img.shields.io/github/stars/qsuv/CVE-2026-50229.svg) ![forks](https://img.shields.io/github/forks/qsuv/CVE-2026-50229.svg)
 
 ## CVE-2026-50193
  jackson-databind contains the general-purpose data-binding functionality and tree-model for Jackson Data Processor. From 2.13.0 until 2.14.0, a potential Denial-of-Service exists when attacker sends deeply nested JSON if (and only if) the service reads deeply nested (1000s of levels) JSON as JsonNode (ObjectMapper.readTree()) and writes out same (or modifided) node using JsonNode.toString(). This can consume significant amount of resources with concurrent relatively small requests (1000 nested arrays is 2kB). This vulnerability is fixed in 2.14.0.
@@ -9949,6 +9975,8 @@ destination-frag path or fall back to skb_cow_data().
 - [https://github.com/mhdnihan/CVE-2026-43284-DIRTY-FRAG-](https://github.com/mhdnihan/CVE-2026-43284-DIRTY-FRAG-) : ![starts](https://img.shields.io/github/stars/mhdnihan/CVE-2026-43284-DIRTY-FRAG-.svg) ![forks](https://img.shields.io/github/forks/mhdnihan/CVE-2026-43284-DIRTY-FRAG-.svg)
 
 - [https://github.com/SudoXDdX/DirtyFrag](https://github.com/SudoXDdX/DirtyFrag) : ![starts](https://img.shields.io/github/stars/SudoXDdX/DirtyFrag.svg) ![forks](https://img.shields.io/github/forks/SudoXDdX/DirtyFrag.svg)
+
+- [https://github.com/tangdino222/DirtyFrag](https://github.com/tangdino222/DirtyFrag) : ![starts](https://img.shields.io/github/stars/tangdino222/DirtyFrag.svg) ![forks](https://img.shields.io/github/forks/tangdino222/DirtyFrag.svg)
 
 ## CVE-2026-43074
  In the Linux kernel, the following vulnerability has been resolved:
@@ -45585,6 +45613,8 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 
 - [https://github.com/CyberCTF/vulhub-jenkins-cve-2024-23897](https://github.com/CyberCTF/vulhub-jenkins-cve-2024-23897) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-jenkins-cve-2024-23897.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-jenkins-cve-2024-23897.svg)
 
+- [https://github.com/Maalfer/CVE-2024-23897-exploit](https://github.com/Maalfer/CVE-2024-23897-exploit) : ![starts](https://img.shields.io/github/stars/Maalfer/CVE-2024-23897-exploit.svg) ![forks](https://img.shields.io/github/forks/Maalfer/CVE-2024-23897-exploit.svg)
+
 ## CVE-2024-23828
  Nginx-UI is a web interface to manage Nginx configurations. It is vulnerable to an authenticated arbitrary command execution via CRLF attack when changing the value of test_config_cmd or start_cmd. This vulnerability exists due to an incomplete fix for CVE-2024-22197 and CVE-2024-22198. This vulnerability has been patched in version 2.0.0.beta.12.
 
@@ -65108,6 +65138,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 - [https://github.com/KaritaMW/follina-vulnerability-analysis-lab](https://github.com/KaritaMW/follina-vulnerability-analysis-lab) : ![starts](https://img.shields.io/github/stars/KaritaMW/follina-vulnerability-analysis-lab.svg) ![forks](https://img.shields.io/github/forks/KaritaMW/follina-vulnerability-analysis-lab.svg)
 
 - [https://github.com/maxgestic/Follina-Generator](https://github.com/maxgestic/Follina-Generator) : ![starts](https://img.shields.io/github/stars/maxgestic/Follina-Generator.svg) ![forks](https://img.shields.io/github/forks/maxgestic/Follina-Generator.svg)
+
+- [https://github.com/dayobamiii/OMOTOSO-AYOBAMI](https://github.com/dayobamiii/OMOTOSO-AYOBAMI) : ![starts](https://img.shields.io/github/stars/dayobamiii/OMOTOSO-AYOBAMI.svg) ![forks](https://img.shields.io/github/forks/dayobamiii/OMOTOSO-AYOBAMI.svg)
 
 ## CVE-2022-30136
  Windows Network File System Remote Code Execution Vulnerability
@@ -97098,6 +97130,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 - [https://github.com/jadeapar/Dragonfish-s-Malware-Cyber-Analysis](https://github.com/jadeapar/Dragonfish-s-Malware-Cyber-Analysis) : ![starts](https://img.shields.io/github/stars/jadeapar/Dragonfish-s-Malware-Cyber-Analysis.svg) ![forks](https://img.shields.io/github/forks/jadeapar/Dragonfish-s-Malware-Cyber-Analysis.svg)
 
 - [https://github.com/SyedaQuratulain098/factura-malware-analysis-lab](https://github.com/SyedaQuratulain098/factura-malware-analysis-lab) : ![starts](https://img.shields.io/github/stars/SyedaQuratulain098/factura-malware-analysis-lab.svg) ![forks](https://img.shields.io/github/forks/SyedaQuratulain098/factura-malware-analysis-lab.svg)
+
+- [https://github.com/danielakin417/CVE-2017-11882-analysis](https://github.com/danielakin417/CVE-2017-11882-analysis) : ![starts](https://img.shields.io/github/stars/danielakin417/CVE-2017-11882-analysis.svg) ![forks](https://img.shields.io/github/forks/danielakin417/CVE-2017-11882-analysis.svg)
 
 ## CVE-2017-11826
  Microsoft Office 2010, SharePoint Enterprise Server 2010, SharePoint Server 2010, Web Applications, Office Web Apps Server 2010 and 2013, Word Viewer, Word 2007, 2010, 2013 and 2016, Word Automation Services, and Office Online Server allow remote code execution when the software fails to properly handle objects in memory.

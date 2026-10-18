@@ -3415,6 +3415,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 
 - [https://github.com/maxgestic/Follina-Generator](https://github.com/maxgestic/Follina-Generator) : ![starts](https://img.shields.io/github/stars/maxgestic/Follina-Generator.svg) ![forks](https://img.shields.io/github/forks/maxgestic/Follina-Generator.svg)
 
+- [https://github.com/dayobamiii/OMOTOSO-AYOBAMI](https://github.com/dayobamiii/OMOTOSO-AYOBAMI) : ![starts](https://img.shields.io/github/stars/dayobamiii/OMOTOSO-AYOBAMI.svg) ![forks](https://img.shields.io/github/forks/dayobamiii/OMOTOSO-AYOBAMI.svg)
+
 ## CVE-2022-30136
  Windows Network File System Remote Code Execution Vulnerability
 

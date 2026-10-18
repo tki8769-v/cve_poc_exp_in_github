@@ -12,6 +12,10 @@
 
 - [https://github.com/antoniorauso/NalCaller](https://github.com/antoniorauso/NalCaller) : ![starts](https://img.shields.io/github/stars/antoniorauso/NalCaller.svg) ![forks](https://img.shields.io/github/forks/antoniorauso/NalCaller.svg)
 
+## CVE-2017-11882
+
+- [https://github.com/danielakin417/CVE-2017-11882-analysis](https://github.com/danielakin417/CVE-2017-11882-analysis) : ![starts](https://img.shields.io/github/stars/danielakin417/CVE-2017-11882-analysis.svg) ![forks](https://img.shields.io/github/forks/danielakin417/CVE-2017-11882-analysis.svg)
+
 ## CVE-2020-36847
 
 - [https://github.com/K52-ai/CVE-2020-36847](https://github.com/K52-ai/CVE-2020-36847) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2020-36847.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2020-36847.svg)
@@ -23,6 +27,14 @@
 ## CVE-2022-22706
 
 - [https://github.com/BennyWaitWhat/Sony-XBR-65X850D](https://github.com/BennyWaitWhat/Sony-XBR-65X850D) : ![starts](https://img.shields.io/github/stars/BennyWaitWhat/Sony-XBR-65X850D.svg) ![forks](https://img.shields.io/github/forks/BennyWaitWhat/Sony-XBR-65X850D.svg)
+
+## CVE-2022-30190
+
+- [https://github.com/dayobamiii/OMOTOSO-AYOBAMI](https://github.com/dayobamiii/OMOTOSO-AYOBAMI) : ![starts](https://img.shields.io/github/stars/dayobamiii/OMOTOSO-AYOBAMI.svg) ![forks](https://img.shields.io/github/forks/dayobamiii/OMOTOSO-AYOBAMI.svg)
+
+## CVE-2024-23897
+
+- [https://github.com/Maalfer/CVE-2024-23897-exploit](https://github.com/Maalfer/CVE-2024-23897-exploit) : ![starts](https://img.shields.io/github/stars/Maalfer/CVE-2024-23897-exploit.svg) ![forks](https://img.shields.io/github/forks/Maalfer/CVE-2024-23897-exploit.svg)
 
 ## CVE-2024-25600
 
@@ -65,6 +77,10 @@
 ## CVE-2026-104100
 
 - [https://github.com/Saku0512/CVE-2026-104100-poc](https://github.com/Saku0512/CVE-2026-104100-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-104100-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-104100-poc.svg)
+
+## CVE-2026-108097
+
+- [https://github.com/fortbridge/cve-2026-108097-research](https://github.com/fortbridge/cve-2026-108097-research) : ![starts](https://img.shields.io/github/stars/fortbridge/cve-2026-108097-research.svg) ![forks](https://img.shields.io/github/forks/fortbridge/cve-2026-108097-research.svg)
 
 ## CVE-2026-20349
 
@@ -125,6 +141,22 @@ AD directly.
 
 - [https://github.com/Saku0512/CVE-2026-34157-poc](https://github.com/Saku0512/CVE-2026-34157-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-34157-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-34157-poc.svg)
 
+## CVE-2026-43284
+> In the Linux kernel, the following vulnerability has been resolved:
+
+xfrm: esp: avoid in-place decrypt on shared skb frags
+
+MSG_SPLICE_PAGES can attach pages from a pipe directly to an skb. TCP
+marks such skbs with SKBFL_SHARED_FRAG after skb_splice_from_iter(),
+so later paths that may modify packet data can first make a private
+copy. The IPv4/IPv6 datagram append paths did not set this flag when
+splicing pages into UDP skbs.
+
+That leaves an ESP-in-UDP packet made from shared pipe pages looking
+
+
+- [https://github.com/tangdino222/DirtyFrag](https://github.com/tangdino222/DirtyFrag) : ![starts](https://img.shields.io/github/stars/tangdino222/DirtyFrag.svg) ![forks](https://img.shields.io/github/forks/tangdino222/DirtyFrag.svg)
+
 ## CVE-2026-43499
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -168,6 +200,7 @@ Only accept cifs.spnego descriptions while CIFS is using its pri
 ## CVE-2026-50229
 
 - [https://github.com/flvzx/CVE-2026-50229](https://github.com/flvzx/CVE-2026-50229) : ![starts](https://img.shields.io/github/stars/flvzx/CVE-2026-50229.svg) ![forks](https://img.shields.io/github/forks/flvzx/CVE-2026-50229.svg)
+- [https://github.com/qsuv/CVE-2026-50229](https://github.com/qsuv/CVE-2026-50229) : ![starts](https://img.shields.io/github/stars/qsuv/CVE-2026-50229.svg) ![forks](https://img.shields.io/github/forks/qsuv/CVE-2026-50229.svg)
 
 ## CVE-2026-53613
 > util-linux is a random collection of Linux utilities. In util-linux 2.17 through 2.41.6 and 2.42 through 2.42.3, and in 2.42.4 when the legacy `mount(2)` path is used without `/proc`, restricted non-root `mount` requests validate an `/etc/fstab` target before the mount operation re-resolves that pathname. A local low-privileged user authorized by an fstab `user` or `users` entry whose target has an attacker-writable ancestor can use `renameat2(RENAME_EXCHANGE)` to swap a path component and redir
@@ -176,6 +209,7 @@ Only accept cifs.spnego descriptions while CIFS is using its pri
 
 ## CVE-2026-53787
 
+- [https://github.com/MRdark-ops/CVE-2026-53787-poc](https://github.com/MRdark-ops/CVE-2026-53787-poc) : ![starts](https://img.shields.io/github/stars/MRdark-ops/CVE-2026-53787-poc.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/CVE-2026-53787-poc.svg)
 - [https://github.com/elitexspam/Def4cer](https://github.com/elitexspam/Def4cer) : ![starts](https://img.shields.io/github/stars/elitexspam/Def4cer.svg) ![forks](https://img.shields.io/github/forks/elitexspam/Def4cer.svg)
 
 ## CVE-2026-57155
@@ -221,6 +255,11 @@ This vulnerability is due to improper handling of email attachments when the fil
 
 - [https://github.com/oscerd/CVE-2026-80343](https://github.com/oscerd/CVE-2026-80343) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-80343.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-80343.svg)
 
+## CVE-2026-92262
+> MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, and 13.0.2, the #mysql50# bypass prefix is affected because it allows the #mysql50# prefix to bypass normal table-name filesystem encoding. An attacker can trigger the issue with a table name using the #mysql50# prefix, then use a #mysql50# table name to access files under their legacy unencoded name and cause crashes, data corruption, data exfiltration, or remote code exec
+
+- [https://github.com/SeanDishman/mariadb-cve-2026-92262](https://github.com/SeanDishman/mariadb-cve-2026-92262) : ![starts](https://img.shields.io/github/stars/SeanDishman/mariadb-cve-2026-92262.svg) ![forks](https://img.shields.io/github/forks/SeanDishman/mariadb-cve-2026-92262.svg)
+
 ## CVE-2026-96656
 > Plex Media Server before 1.43.3.10861 allows an admin user to write arbitrary files that may be executed on load. The preference TranscoderH264Options is appended verbatim to x264&#x27;s option string on every transcode. At startup, all .so files are run without signature, execute bit, or symbol checks.
 
@@ -262,6 +301,21 @@ Hyunwoo debugged the following KASAN UAF splat:
    __x64_sys_t
 
 - [https://github.com/villager1314/CVE-2026-98256-Analysis](https://github.com/villager1314/CVE-2026-98256-Analysis) : ![starts](https://img.shields.io/github/stars/villager1314/CVE-2026-98256-Analysis.svg) ![forks](https://img.shields.io/github/forks/villager1314/CVE-2026-98256-Analysis.svg)
+
+## CVE-2026-98260
+> In the Linux kernel, the following vulnerability has been resolved:
+
+exec: Cleanup POSIX timers right after de_thread()
+
+A per-thread CPU timer holds a reference to the PID of the thread it is
+attached to and, while it is armed, its node is queued in that thread&#x27;s
+posix_cputimers. The task is looked up by that PID.
+
+When a non-leader thread exec()s, de_thread() changes which task owns
+that PID. pid_task(timer-&gt;it.cpu.pid, PIDTYPE_PID) then returns NULL,
+but the node is still queued on tsk, which
+
+- [https://github.com/jadedFella/lpe-study-notes](https://github.com/jadedFella/lpe-study-notes) : ![starts](https://img.shields.io/github/stars/jadedFella/lpe-study-notes.svg) ![forks](https://img.shields.io/github/forks/jadedFella/lpe-study-notes.svg)
 
 ## CVE-2026-99999
 > In the Linux kernel, the following vulnerability has been resolved:

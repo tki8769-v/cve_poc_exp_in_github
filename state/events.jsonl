@@ -3233,3 +3233,12 @@
 {"cve_id": "CVE-2026-53787", "ts": "2026-10-18T16:38:56Z", "type": "new_poc", "url": "https://github.com/elitexspam/Def4cer"}
 {"cve_id": "CVE-2026-61732", "ts": "2026-10-18T16:38:56Z", "type": "new_poc", "url": "https://github.com/Iceman2050/chatml-role-token-probe"}
 {"cve_id": "CVE-2026-102607", "ts": "2026-10-18T16:54:13Z", "type": "new_poc", "url": "https://github.com/d4kw1n/CVE-2026-102607-ZoneMinder"}
+{"cve_id": "CVE-2026-92262", "ts": "2026-10-18T19:30:57Z", "type": "new_poc", "url": "https://github.com/SeanDishman/mariadb-cve-2026-92262"}
+{"cve_id": "CVE-2022-30190", "ts": "2026-10-18T19:30:57Z", "type": "new_poc", "url": "https://github.com/dayobamiii/OMOTOSO-AYOBAMI"}
+{"cve_id": "CVE-2026-50229", "ts": "2026-10-18T19:30:58Z", "type": "new_poc", "url": "https://github.com/qsuv/CVE-2026-50229"}
+{"cve_id": "CVE-2026-108097", "ts": "2026-10-18T19:30:58Z", "type": "new_poc", "url": "https://github.com/fortbridge/cve-2026-108097-research"}
+{"cve_id": "CVE-2017-11882", "ts": "2026-10-18T19:30:59Z", "type": "new_poc", "url": "https://github.com/danielakin417/CVE-2017-11882-analysis"}
+{"cve_id": "CVE-2026-53787", "ts": "2026-10-18T19:30:59Z", "type": "new_poc", "url": "https://github.com/MRdark-ops/CVE-2026-53787-poc"}
+{"cve_id": "CVE-2026-43284", "ts": "2026-10-18T19:30:59Z", "type": "new_poc", "url": "https://github.com/tangdino222/DirtyFrag"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-10-18T19:30:59Z", "type": "new_poc", "url": "https://github.com/jadedFella/lpe-study-notes"}
+{"cve_id": "CVE-2024-23897", "ts": "2026-10-18T19:36:12Z", "type": "new_poc", "url": "https://github.com/Maalfer/CVE-2024-23897-exploit"}
