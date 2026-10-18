@@ -3145,3 +3145,49 @@
 {"cve_id": "CVE-2026-107345", "ts": "2026-10-17T23:19:53Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-107772", "ts": "2026-10-17T23:19:54Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-108117", "ts": "2026-10-17T23:19:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105391", "ts": "2026-10-18T05:52:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107274", "ts": "2026-10-18T05:52:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107345", "ts": "2026-10-18T05:52:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107772", "ts": "2026-10-18T05:52:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108117", "ts": "2026-10-18T05:52:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-18T05:53:29Z", "type": "new_poc", "url": "https://github.com/AuroraMythweaver/iqoo-neo9-ghostlock-pc"}
+{"cve_id": "CVE-2026-50229", "ts": "2026-10-18T05:53:30Z", "type": "new_poc", "url": "https://github.com/flvzx/CVE-2026-50229"}
+{"cve_id": "CVE-2026-71557", "ts": "2026-10-18T05:53:30Z", "type": "new_poc", "url": "https://github.com/Saku0512/reprokit-go-git-cve-2026-71557-lab"}
+{"cve_id": "CVE-2015-2291", "ts": "2026-10-18T05:53:31Z", "type": "new_poc", "url": "https://github.com/antoniorauso/NalCaller"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/imkk000/play-go-copy-fail-cve-2026-31431"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/Rat5ak/CVE-2026-31431-CopyFail-static-ELF--POC"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/vishvacyber/Detection-Tool-Kit-for-CVE-2026-31431"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/luoqianlin/copyfail-c"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/jihwan77/Linux-Kernel-Copy-Fail-CVE-2026-31431-"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/jiangban046-spec/CVE-2026-31431-exploit_py2_py3"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/starscow/Copy-Fail-CVE-2026-31431-Kubernetes-PoC"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/mlazzarotto/copy-fail-CVE-2026-31431-mitigation-ansible-playbook"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/dicatalin/Copy_Fail_CVE-2026-31431_test_and_fix"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/nrnw/CVE-2026-31431-Linux-Kernel-Copy-Fail-Detector"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/pedro-lucas-melo/Estudo-de-Caso-CVE-2026-31431-CopyFail"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/Mr-bv/Copy-fail-CVE-2026-31431-Exploit-in-C"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/jodonnel/copyfail-briefing"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/mrowkoob/copy-fail-mitigate-no-reboot"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/ROSNLR5/MitigationToolkit-ROSN-LR5-Full"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/Maxime288/CVE-2026-31431-Copy-Fail-R-pertoire-de-Pr-vention"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/Hunt-Benito/copy-fail-cve-2026-31431-linux-kernel-page-cache-lpe"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/YuCc777/Copy-Fail-CVE-2026-31431-Linux-exp-tools-C-EXP"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/RazvanDuda/GhostShell"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:43Z", "type": "new_poc", "url": "https://github.com/voxcia-io/copy-fail"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/vorkampfer/copy_fail_mitigation"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/selectel/mks-copy-fail-mitigation"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/iblamenear/CVE-2026-31431-Copy-Fail---Advanced-LPE-Proof-of-Concept---C-Rewrite"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/jbiniek/copy.fail-mitigation-MLM"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/tang-yikai/copy-fail-mitigation-with-bpftrace"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/monobrau/copyfailscan"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/dotPY-hax/CopyFail"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/paulorlima9/copyfail-fix"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/p401a-ops/Copy-Fail"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/ridhinva/linux-kernel-algif-aead-checker"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/joaocalciolari07/copyfail-guard"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/cleozi/Copy_Grail"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/DroPZsec/SplicePrivillegeEscalationFIX"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/kvendler/BigFix-CopyFail-AlmaLinux-Content"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/chavezvic/CopyFail-Penguin"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/deadRabbit92/mitigate-copy-fail.yml"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-10-18T05:54:44Z", "type": "new_poc", "url": "https://github.com/vorkampfer/copyfail2_electric_boogaloo_fix"}
