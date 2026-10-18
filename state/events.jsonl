@@ -3242,3 +3242,4 @@
 {"cve_id": "CVE-2026-43284", "ts": "2026-10-18T19:30:59Z", "type": "new_poc", "url": "https://github.com/tangdino222/DirtyFrag"}
 {"cve_id": "CVE-2026-98260", "ts": "2026-10-18T19:30:59Z", "type": "new_poc", "url": "https://github.com/jadedFella/lpe-study-notes"}
 {"cve_id": "CVE-2024-23897", "ts": "2026-10-18T19:36:12Z", "type": "new_poc", "url": "https://github.com/Maalfer/CVE-2024-23897-exploit"}
+{"cve_id": "CVE-2017-5638", "ts": "2026-10-18T19:45:22Z", "type": "new_poc", "url": "https://github.com/NAIRBS/SC3010-Grp-33"}

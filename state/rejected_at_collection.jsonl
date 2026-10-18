@@ -1461,3 +1461,10 @@
 {"cve_id": "CVE-2026-4349", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:40:16Z", "url": "https://github.com/a23bc/ALI-AN00-cve-2026-43499", "url_ids": ["CVE-2026-43499"]}
 {"cve_id": "CVE-2026-4349", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:40:16Z", "url": "https://github.com/Bobikl/CVE-2026-43499-T807D", "url_ids": ["CVE-2026-43499"]}
 {"cve_id": "CVE-2026-4349", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:40:16Z", "url": "https://github.com/zychen027/CVE-2026-43499_HW-CLT-AL01", "url_ids": ["CVE-2026-43499"]}
+{"cve_id": "CVE-2026-6597", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:44:49Z", "url": "https://github.com/BiiTts/POC-CVE-2026-65971", "url_ids": ["CVE-2026-65971"]}
+{"cve_id": "CVE-2020-1345", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:45:33Z", "url": "https://github.com/alt3kx/CVE-2020-13457", "url_ids": ["CVE-2020-13457"]}
+{"cve_id": "CVE-2026-20357", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:46:27Z", "url": "https://github.com/danish1162/CVE-2026-2035703-x300", "url_ids": ["CVE-2026-2035703"]}
+{"cve_id": "CVE-2023-3463", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:50:26Z", "url": "https://github.com/radman404/CVE-2023-34634", "url_ids": ["CVE-2023-34634"]}
+{"cve_id": "CVE-2025-2624", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:50:37Z", "url": "https://github.com/Habuon/CVE-2025-26240", "url_ids": ["CVE-2025-26240"]}
+{"cve_id": "CVE-2026-3326", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:51:37Z", "url": "https://github.com/Boreas37/CVE-2026-33267-PoC", "url_ids": ["CVE-2026-33267"]}
+{"cve_id": "CVE-2023-3076", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T19:52:34Z", "url": "https://github.com/0xfml/CVE-2023-30765", "url_ids": ["CVE-2023-30765"]}
