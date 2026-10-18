@@ -1344,3 +1344,9 @@
 {"cve_id": "CVE-2017-1079", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:46:12Z", "url": "https://github.com/n4xh4ck5/CVE-2017-10797", "url_ids": ["CVE-2017-10797"]}
 {"cve_id": "CVE-2023-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:47:06Z", "url": "https://github.com/pwndorei/CVE-2023-36407", "url_ids": ["CVE-2023-36407"]}
 {"cve_id": "CVE-2025-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:49:04Z", "url": "https://github.com/24520597-blip/CVE-2025-99999", "url_ids": ["CVE-2025-99999"]}
+{"cve_id": "CVE-2026-4391", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:50:07Z", "url": "https://github.com/Boreas37/CVE-2026-43914-PoC", "url_ids": ["CVE-2026-43914"]}
+{"cve_id": "CVE-2024-5476", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:52:10Z", "url": "https://github.com/nscan9/CVE-2024-54761", "url_ids": ["CVE-2024-54761"]}
+{"cve_id": "CVE-2024-5476", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:52:10Z", "url": "https://github.com/lowlevelsec/AVM-FRITZ-Box-CVE-2024-54767-Exploit", "url_ids": ["CVE-2024-54767"]}
+{"cve_id": "CVE-2026-3333", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:53:14Z", "url": "https://github.com/abhayclasher/CVE-2026-33331", "url_ids": ["CVE-2026-33331"]}
+{"cve_id": "CVE-2025-5209", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:53:15Z", "url": "https://github.com/rwilsonecs/CVE-2025-52097", "url_ids": ["CVE-2025-52097"]}
+{"cve_id": "CVE-2025-5210", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:58:21Z", "url": "https://github.com/changyaoyou/CVE-2025-52100", "url_ids": ["CVE-2025-52100"]}

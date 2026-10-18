@@ -3232,3 +3232,4 @@
 {"cve_id": "CVE-2025-49812", "ts": "2026-10-18T16:38:56Z", "type": "new_poc", "url": "https://github.com/kimdongjun22/cve-2025-49812-ctf"}
 {"cve_id": "CVE-2026-53787", "ts": "2026-10-18T16:38:56Z", "type": "new_poc", "url": "https://github.com/elitexspam/Def4cer"}
 {"cve_id": "CVE-2026-61732", "ts": "2026-10-18T16:38:56Z", "type": "new_poc", "url": "https://github.com/Iceman2050/chatml-role-token-probe"}
+{"cve_id": "CVE-2026-102607", "ts": "2026-10-18T16:54:13Z", "type": "new_poc", "url": "https://github.com/d4kw1n/CVE-2026-102607-ZoneMinder"}
