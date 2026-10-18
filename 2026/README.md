@@ -428,6 +428,11 @@ To remediate this issue, users should upgrade to version 1.6.1 o
 
 - [https://github.com/kayes817/CVE-2026-103889](https://github.com/kayes817/CVE-2026-103889) : ![starts](https://img.shields.io/github/stars/kayes817/CVE-2026-103889.svg) ![forks](https://img.shields.io/github/forks/kayes817/CVE-2026-103889.svg)
 
+## CVE-2026-103849
+> Adobe Commerce is affected by an Improper Neutralization of Special Elements Used in a Template Engine vulnerability that could result in arbitrary code execution in the context of the current user, potentially gaining elevated access or control over the victim&#x27;s account or session. Exploitation of this issue does not require user interaction. Scope is changed.
+
+- [https://github.com/dinosn/cve-2026-103849-blockstrap-lab](https://github.com/dinosn/cve-2026-103849-blockstrap-lab) : ![starts](https://img.shields.io/github/stars/dinosn/cve-2026-103849-blockstrap-lab.svg) ![forks](https://img.shields.io/github/forks/dinosn/cve-2026-103849-blockstrap-lab.svg)
+
 ## CVE-2026-103752
 > Unauthenticated Privilege Escalation in Authorizer &lt;= 3.15.3 versions.
 
@@ -709,6 +714,34 @@ in depth measure, let&#x27;s also check before we complete the checksum
 
 - [https://github.com/Quaerendir/cve-2026-99999-audit](https://github.com/Quaerendir/cve-2026-99999-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/cve-2026-99999-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/cve-2026-99999-audit.svg)
 
+- [https://github.com/01luyicheng/CVE-2026-99999](https://github.com/01luyicheng/CVE-2026-99999) : ![starts](https://img.shields.io/github/stars/01luyicheng/CVE-2026-99999.svg) ![forks](https://img.shields.io/github/forks/01luyicheng/CVE-2026-99999.svg)
+
+- [https://github.com/kingahmadr/CVE-2026-99999-kernel-check](https://github.com/kingahmadr/CVE-2026-99999-kernel-check) : ![starts](https://img.shields.io/github/stars/kingahmadr/CVE-2026-99999-kernel-check.svg) ![forks](https://img.shields.io/github/forks/kingahmadr/CVE-2026-99999-kernel-check.svg)
+
+- [https://github.com/zakinko/kpatch-alma-cve-2026-99999](https://github.com/zakinko/kpatch-alma-cve-2026-99999) : ![starts](https://img.shields.io/github/stars/zakinko/kpatch-alma-cve-2026-99999.svg) ![forks](https://img.shields.io/github/forks/zakinko/kpatch-alma-cve-2026-99999.svg)
+
+## CVE-2026-98256
+> In the Linux kernel, the following vulnerability has been resolved:
+
+signal: Prevent exec() race
+
+Hyunwoo debugged the following KASAN UAF splat:
+
+  BUG: KASAN: slab-use-after-free in __send_signal_locked+0xb27/0xba0
+  Write of size 8 at addr ffff888007ed80c8 by task poc/79
+  ...
+  Call Trace:
+   __send_signal_locked+0xb27/0xba0
+   do_send_sig_info+0xa7/0x160
+   do_send_specific+0x76/0xa0
+   __x64_sys_tgkill+0x193/0x270
+  ...
+  Allocated by task 80:
+   do_timer_create+0x1a4/0x1030
+   __x64_sys_t
+
+- [https://github.com/villager1314/CVE-2026-98256-Analysis](https://github.com/villager1314/CVE-2026-98256-Analysis) : ![starts](https://img.shields.io/github/stars/villager1314/CVE-2026-98256-Analysis.svg) ![forks](https://img.shields.io/github/forks/villager1314/CVE-2026-98256-Analysis.svg)
+
 ## CVE-2026-97657
 > The Abandoned Cart Pro for WooCommerce plugin for WordPress is vulnerable to Authentication Bypass via Malleable Encryption and Bypassable HMAC in all versions up to, and including, 10.8.0. This is due to the use of MAC-free AES-CTR encryption for cart-recovery link tokens — where the 8-byte CTR nonce is carried inside the ciphertext blob and the encryption key is looked up using the attacker-supplied `user_email` GET parameter — combined with an HMAC nonce check in `wcap_email_track_links()` th
 
@@ -836,6 +869,11 @@ This issue affects Mediawiki - WikiLambda Extension: before 1.47.0.
 > Authlib (v1.7.2 and below) contains a signature verification bypass vulnerability. The JsonWebSignature.deserialize_json() method accepts a JSON Serialization JWS object and returns the payload as successfully verified without checking for a signature and without requiring a cryptographic key.
 
 - [https://github.com/uziii2208/CVE-2026-96760](https://github.com/uziii2208/CVE-2026-96760) : ![starts](https://img.shields.io/github/stars/uziii2208/CVE-2026-96760.svg) ![forks](https://img.shields.io/github/forks/uziii2208/CVE-2026-96760.svg)
+
+## CVE-2026-96656
+> Plex Media Server before 1.43.3.10861 allows an admin user to write arbitrary files that may be executed on load. The preference TranscoderH264Options is appended verbatim to x264&#x27;s option string on every transcode. At startup, all .so files are run without signature, execute bit, or symbol checks.
+
+- [https://github.com/a3igner/plex-codec-cache-implant](https://github.com/a3igner/plex-codec-cache-implant) : ![starts](https://img.shields.io/github/stars/a3igner/plex-codec-cache-implant.svg) ![forks](https://img.shields.io/github/forks/a3igner/plex-codec-cache-implant.svg)
 
 ## CVE-2026-96515
 > This
@@ -2098,6 +2136,14 @@ This issue affects AVESİS: from 202608201331 before 202608240351.
 
 - [https://github.com/HackfutSecRoot/CVE-2026-80428](https://github.com/HackfutSecRoot/CVE-2026-80428) : ![starts](https://img.shields.io/github/stars/HackfutSecRoot/CVE-2026-80428.svg) ![forks](https://img.shields.io/github/forks/HackfutSecRoot/CVE-2026-80428.svg)
 
+## CVE-2026-80343
+
+- [https://github.com/oscerd/CVE-2026-80343](https://github.com/oscerd/CVE-2026-80343) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-80343.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-80343.svg)
+
+## CVE-2026-80312
+
+- [https://github.com/oscerd/CVE-2026-80312](https://github.com/oscerd/CVE-2026-80312) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-80312.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-80312.svg)
+
 ## CVE-2026-80099
  Several Newfold plugins are vulnerable to Authentication Bypass. The vulnerability exists because the plugins bundle the wp-module-data module. In the module, the `authenticate()` method — registered on the `rest_authentication_errors` filter and therefore evaluated for every unauthenticated REST API request — performs an HMAC-style Bearer token comparison that degenerates when `HiiveConnection::get_auth_token()` returns `false`: PHP coerces `strrev(false)` to `strrev('')`, collapsing the secret salt to the publicly known constant `hash('sha256', '') = e3b0c44...`, while all remaining hash inputs (HTTP method, request URL, raw request body, and the `X-Timestamp` header) remain fully attacker-controlled. This makes it possible for unauthenticated attackers to compute a valid Bearer token entirely offline, pass the token equality check, and have `wp_set_current_user()` invoked against the first administrator returned by `get_users(['role' = 'administrator'])`, granting full administrator-level access and enabling arbitrary REST API operations such as creating new administrator accounts and achieving complete site takeover. Vulnerable versions are WP Plugin Crazy Domains (= 2.5.2), WP Plugin Web (= 2.3.4), WP Plugin Hostgator (= 3.1.0), WP Plugin Bluehost (= 4.17.1). The affected module is vulnerable in versions up to, and including, 2.9.4.
 
@@ -2489,6 +2535,8 @@ Remediation requires a firmware update from the vendor. There is no user-side mi
 This vulnerability is due to improper handling of email attachments when the file reputation service is enabled. An attacker could exploit this vulnerability by sending an email that contains a crafted attachment through an affected device. A successful exploit could allow the attacker to wri
 
 - [https://github.com/Mickysalivan/CVE-2026-76519-POC](https://github.com/Mickysalivan/CVE-2026-76519-POC) : ![starts](https://img.shields.io/github/stars/Mickysalivan/CVE-2026-76519-POC.svg) ![forks](https://img.shields.io/github/forks/Mickysalivan/CVE-2026-76519-POC.svg)
+
+- [https://github.com/Mickysalivan/CVE-2026-76519-Proof-of-concept](https://github.com/Mickysalivan/CVE-2026-76519-Proof-of-concept) : ![starts](https://img.shields.io/github/stars/Mickysalivan/CVE-2026-76519-Proof-of-concept.svg) ![forks](https://img.shields.io/github/forks/Mickysalivan/CVE-2026-76519-Proof-of-concept.svg)
 
 ## CVE-2026-76504
 > A vulnerability in the API session-based authentication management of Cisco Catalyst SD-WAN Manager could allow an unauthenticated, remote attacker to access an affected system with privileges of the admin user.
@@ -3208,6 +3256,11 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
  Http4s is a Scala interface for HTTP services. Prior to 0.23.35 and 1.0.0-M47, The FollowRedirect client middleware strips Authorization and Cookie headers only when a redirect changes authority, but authority comparison excludes the URI scheme. A same-authority redirect from HTTPS to HTTP therefore preserves credentials and transmits them over a plaintext connection. An attacker who can induce the downgrade and observe the network can capture those sensitive headers from applications using FollowRedirect. This issue is fixed in versions 0.23.35 and 1.0.0-M47.
 
 - [https://github.com/c0gnit00/CVE-2026-69212](https://github.com/c0gnit00/CVE-2026-69212) : ![starts](https://img.shields.io/github/stars/c0gnit00/CVE-2026-69212.svg) ![forks](https://img.shields.io/github/forks/c0gnit00/CVE-2026-69212.svg)
+
+## CVE-2026-69191
+> FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch operations. Prior to 3.21.0, FileRise enforces disableFormLogin, disableBasicAuth, and disableOIDCLogin in the client interface but not consistently in the corresponding server-side authentication flows. A user with otherwise valid credentials for a disabled method can call its backend endpoint directly and authenticate despite the administrator&#x27;s login-method policy. The flaw does not permit credential-f
+
+- [https://github.com/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass](https://github.com/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass) : ![starts](https://img.shields.io/github/stars/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass.svg) ![forks](https://img.shields.io/github/forks/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass.svg)
 
 ## CVE-2026-69137
 
@@ -5148,6 +5201,11 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 
 - [https://github.com/HORKimhab/CVE-2026-59822](https://github.com/HORKimhab/CVE-2026-59822) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-59822.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-59822.svg)
 
+## CVE-2026-59774
+> Gitea&#x27;s Org-mode markup renderer processes INCLUDE directives supplied to the repository markup endpoint without preventing access to server-side files. An unauthenticated attacker can use a suitable public repository to read files accessible to the Gitea service account. If the disclosed files include app.ini and its INTERNAL_TOKEN, the attacker can chain the disclosure with internal logger access to modify a Git hook and execute commands as the Gitea service account.
+
+- [https://github.com/FlowerWitch/CVE-2026-59774_docker](https://github.com/FlowerWitch/CVE-2026-59774_docker) : ![starts](https://img.shields.io/github/stars/FlowerWitch/CVE-2026-59774_docker.svg) ![forks](https://img.shields.io/github/forks/FlowerWitch/CVE-2026-59774_docker.svg)
+
 ## CVE-2026-59734
  Coolify is an open-source and self-hostable tool for managing servers, applications, and databases. Prior to 4.0.0-beta.469, Coolify's app/Jobs/ApplicationDeploymentJob.php generate_healthcheck_commands() function directly interpolated the health_check_host, health_check_method, and health_check_path parameters into shell commands without proper sanitization, allowing authenticated users to execute arbitrary commands inside deployment containers. This issue is fixed in version 4.0.0-beta.469.
 
@@ -5299,6 +5357,10 @@ availability of the application.
 ## CVE-2026-58222
 
 - [https://github.com/abdelaaziz0/KDSExtract](https://github.com/abdelaaziz0/KDSExtract) : ![starts](https://img.shields.io/github/stars/abdelaaziz0/KDSExtract.svg) ![forks](https://img.shields.io/github/forks/abdelaaziz0/KDSExtract.svg)
+
+## CVE-2026-58221
+
+- [https://github.com/DevAli00/CVE-2026-58221](https://github.com/DevAli00/CVE-2026-58221) : ![starts](https://img.shields.io/github/stars/DevAli00/CVE-2026-58221.svg) ![forks](https://img.shields.io/github/forks/DevAli00/CVE-2026-58221.svg)
 
 ## CVE-2026-58138
  Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote attackers to execute arbitrary OS commands by submitting inline workflow definitions containing malicious JavaScript or Python expressions to the workflow API endpoint prior to authentication. Attackers can exploit unsandboxed GraalVM evaluators configured with HostAccess.ALL or allowAllAccess(true) through INLINE, LAMBDA, DO_WHILE, and SWITCH task types to invoke arbitrary system commands via Java reflection or direct subprocess calls.
@@ -17721,6 +17783,10 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
  In Modem, there is a possible system crash due to improper input validation. This could lead to remote denial of service, if a UE has connected to a rogue base station controlled by the attacker, with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: MOLY01689248; Issue ID: MSV-4837.
 
 - [https://github.com/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-](https://github.com/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-) : ![starts](https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-.svg) ![forks](https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-20404-MediaTek-modem-remote-DoS-rogue-base-station-scenario-.svg)
+
+## CVE-2026-20349
+
+- [https://github.com/ekacs/predicted-cve-2026-20349](https://github.com/ekacs/predicted-cve-2026-20349) : ![starts](https://img.shields.io/github/stars/ekacs/predicted-cve-2026-20349.svg) ![forks](https://img.shields.io/github/forks/ekacs/predicted-cve-2026-20349.svg)
 
 ## CVE-2026-20329
 

@@ -1287,3 +1287,6 @@
 {"cve_id": "CVE-2024-4051", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T06:18:55Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40511", "url_ids": ["CVE-2024-40511"]}
 {"cve_id": "CVE-2020-1700", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T06:21:02Z", "url": "https://github.com/jas502n/CVE-2020-17008", "url_ids": ["CVE-2020-17008"]}
 {"cve_id": "CVE-2026-5435", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T06:21:55Z", "url": "https://github.com/BiiTts/CVE-2026-54350-Budibase-NoSQL-Injection", "url_ids": ["CVE-2026-54350"]}
+{"cve_id": "CVE-2026-8853", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T13:18:06Z", "url": "https://github.com/HEMLOCK-LYK/CVE-2026-88533", "url_ids": ["CVE-2026-88533"]}
+{"cve_id": "CVE-2023-4740", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T13:19:08Z", "url": "https://github.com/LucasVanHaaren/CVE-2023-47400", "url_ids": ["CVE-2023-47400"]}
+{"cve_id": "CVE-2021-3310", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T13:22:59Z", "url": "https://github.com/rjt-gupta/CVE-2021-33104", "url_ids": ["CVE-2021-33104"]}

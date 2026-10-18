@@ -1,4 +1,8 @@
 # Update 2026-10-18
+## CVE-2002-0082
+
+- [https://github.com/Nutsulejustine/pentest-kioptrix](https://github.com/Nutsulejustine/pentest-kioptrix) : ![starts](https://img.shields.io/github/stars/Nutsulejustine/pentest-kioptrix.svg) ![forks](https://img.shields.io/github/forks/Nutsulejustine/pentest-kioptrix.svg)
+
 ## CVE-2015-2291
 > (1) IQVW32.sys before 1.3.1.0 and (2) IQVW64.sys before 1.3.1.0 in the Intel Ethernet diagnostics driver for Windows allows local users to cause a denial of service or possibly execute arbitrary code with kernel privileges via a crafted (a) 0x80862013, (b) 0x8086200B, (c) 0x8086200F, or (d) 0x80862007 IOCTL call.
 
@@ -7,6 +11,31 @@
 ## CVE-2022-1388
 
 - [https://github.com/jermainlaforce/CVE-2022-1388-POC](https://github.com/jermainlaforce/CVE-2022-1388-POC) : ![starts](https://img.shields.io/github/stars/jermainlaforce/CVE-2022-1388-POC.svg) ![forks](https://img.shields.io/github/forks/jermainlaforce/CVE-2022-1388-POC.svg)
+
+## CVE-2022-22706
+
+- [https://github.com/BennyWaitWhat/Sony-XBR-65X850D](https://github.com/BennyWaitWhat/Sony-XBR-65X850D) : ![starts](https://img.shields.io/github/stars/BennyWaitWhat/Sony-XBR-65X850D.svg) ![forks](https://img.shields.io/github/forks/BennyWaitWhat/Sony-XBR-65X850D.svg)
+
+## CVE-2025-30208
+
+- [https://github.com/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125](https://github.com/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125) : ![starts](https://img.shields.io/github/stars/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125.svg) ![forks](https://img.shields.io/github/forks/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125.svg)
+
+## CVE-2025-31125
+
+- [https://github.com/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125](https://github.com/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125) : ![starts](https://img.shields.io/github/stars/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125.svg) ![forks](https://img.shields.io/github/forks/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125.svg)
+
+## CVE-2025-6440
+
+- [https://github.com/0xCyp1337/CVE-2025-6440-BypassExt](https://github.com/0xCyp1337/CVE-2025-6440-BypassExt) : ![starts](https://img.shields.io/github/stars/0xCyp1337/CVE-2025-6440-BypassExt.svg) ![forks](https://img.shields.io/github/forks/0xCyp1337/CVE-2025-6440-BypassExt.svg)
+
+## CVE-2026-103849
+> Adobe Commerce is affected by an Improper Neutralization of Special Elements Used in a Template Engine vulnerability that could result in arbitrary code execution in the context of the current user, potentially gaining elevated access or control over the victim&#x27;s account or session. Exploitation of this issue does not require user interaction. Scope is changed.
+
+- [https://github.com/dinosn/cve-2026-103849-blockstrap-lab](https://github.com/dinosn/cve-2026-103849-blockstrap-lab) : ![starts](https://img.shields.io/github/stars/dinosn/cve-2026-103849-blockstrap-lab.svg) ![forks](https://img.shields.io/github/forks/dinosn/cve-2026-103849-blockstrap-lab.svg)
+
+## CVE-2026-20349
+
+- [https://github.com/ekacs/predicted-cve-2026-20349](https://github.com/ekacs/predicted-cve-2026-20349) : ![starts](https://img.shields.io/github/stars/ekacs/predicted-cve-2026-20349.svg) ![forks](https://img.shields.io/github/forks/ekacs/predicted-cve-2026-20349.svg)
 
 ## CVE-2026-31431
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -113,6 +142,81 @@ Only accept cifs.spnego descriptions while CIFS is using its pri
 
 - [https://github.com/babyshen/CVE-2026-57155](https://github.com/babyshen/CVE-2026-57155) : ![starts](https://img.shields.io/github/stars/babyshen/CVE-2026-57155.svg) ![forks](https://img.shields.io/github/forks/babyshen/CVE-2026-57155.svg)
 
+## CVE-2026-58221
+
+- [https://github.com/DevAli00/CVE-2026-58221](https://github.com/DevAli00/CVE-2026-58221) : ![starts](https://img.shields.io/github/stars/DevAli00/CVE-2026-58221.svg) ![forks](https://img.shields.io/github/forks/DevAli00/CVE-2026-58221.svg)
+
+## CVE-2026-59774
+> Gitea&#x27;s Org-mode markup renderer processes INCLUDE directives supplied to the repository markup endpoint without preventing access to server-side files. An unauthenticated attacker can use a suitable public repository to read files accessible to the Gitea service account. If the disclosed files include app.ini and its INTERNAL_TOKEN, the attacker can chain the disclosure with internal logger access to modify a Git hook and execute commands as the Gitea service account.
+
+- [https://github.com/FlowerWitch/CVE-2026-59774_docker](https://github.com/FlowerWitch/CVE-2026-59774_docker) : ![starts](https://img.shields.io/github/stars/FlowerWitch/CVE-2026-59774_docker.svg) ![forks](https://img.shields.io/github/forks/FlowerWitch/CVE-2026-59774_docker.svg)
+
+## CVE-2026-69191
+> FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch operations. Prior to 3.21.0, FileRise enforces disableFormLogin, disableBasicAuth, and disableOIDCLogin in the client interface but not consistently in the corresponding server-side authentication flows. A user with otherwise valid credentials for a disabled method can call its backend endpoint directly and authenticate despite the administrator&#x27;s login-method policy. The flaw does not permit credential-f
+
+- [https://github.com/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass](https://github.com/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass) : ![starts](https://img.shields.io/github/stars/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass.svg) ![forks](https://img.shields.io/github/forks/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass.svg)
+
 ## CVE-2026-71557
 
 - [https://github.com/Saku0512/reprokit-go-git-cve-2026-71557-lab](https://github.com/Saku0512/reprokit-go-git-cve-2026-71557-lab) : ![starts](https://img.shields.io/github/stars/Saku0512/reprokit-go-git-cve-2026-71557-lab.svg) ![forks](https://img.shields.io/github/forks/Saku0512/reprokit-go-git-cve-2026-71557-lab.svg)
+
+## CVE-2026-76519
+> A vulnerability in the Advanced Malware Protection (AMP) feature of Cisco Secure Email Gateway could allow an unauthenticated, remote attacker to write arbitrary files on the underlying operating system.
+
+This vulnerability is due to improper handling of email attachments when the file reputation service is enabled. An attacker could exploit this vulnerability by sending an email that contains a crafted attachment through an affected device. A successful exploit could allow the attacker to wri
+
+- [https://github.com/Mickysalivan/CVE-2026-76519-Proof-of-concept](https://github.com/Mickysalivan/CVE-2026-76519-Proof-of-concept) : ![starts](https://img.shields.io/github/stars/Mickysalivan/CVE-2026-76519-Proof-of-concept.svg) ![forks](https://img.shields.io/github/forks/Mickysalivan/CVE-2026-76519-Proof-of-concept.svg)
+
+## CVE-2026-80312
+
+- [https://github.com/oscerd/CVE-2026-80312](https://github.com/oscerd/CVE-2026-80312) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-80312.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-80312.svg)
+
+## CVE-2026-80343
+
+- [https://github.com/oscerd/CVE-2026-80343](https://github.com/oscerd/CVE-2026-80343) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-80343.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-80343.svg)
+
+## CVE-2026-96656
+> Plex Media Server before 1.43.3.10861 allows an admin user to write arbitrary files that may be executed on load. The preference TranscoderH264Options is appended verbatim to x264&#x27;s option string on every transcode. At startup, all .so files are run without signature, execute bit, or symbol checks.
+
+- [https://github.com/a3igner/plex-codec-cache-implant](https://github.com/a3igner/plex-codec-cache-implant) : ![starts](https://img.shields.io/github/stars/a3igner/plex-codec-cache-implant.svg) ![forks](https://img.shields.io/github/forks/a3igner/plex-codec-cache-implant.svg)
+
+## CVE-2026-98256
+> In the Linux kernel, the following vulnerability has been resolved:
+
+signal: Prevent exec() race
+
+Hyunwoo debugged the following KASAN UAF splat:
+
+  BUG: KASAN: slab-use-after-free in __send_signal_locked+0xb27/0xba0
+  Write of size 8 at addr ffff888007ed80c8 by task poc/79
+  ...
+  Call Trace:
+   __send_signal_locked+0xb27/0xba0
+   do_send_sig_info+0xa7/0x160
+   do_send_specific+0x76/0xa0
+   __x64_sys_tgkill+0x193/0x270
+  ...
+  Allocated by task 80:
+   do_timer_create+0x1a4/0x1030
+   __x64_sys_t
+
+- [https://github.com/villager1314/CVE-2026-98256-Analysis](https://github.com/villager1314/CVE-2026-98256-Analysis) : ![starts](https://img.shields.io/github/stars/villager1314/CVE-2026-98256-Analysis.svg) ![forks](https://img.shields.io/github/forks/villager1314/CVE-2026-98256-Analysis.svg)
+
+## CVE-2026-99999
+> In the Linux kernel, the following vulnerability has been resolved:
+
+ipv4: validate checksum_start before completing checksum
+
+If a packet with bad checksum metadata gets into the ipv4 stack,
+skb_checksum_help can corrupt the network header and cause a bunch of
+mischief.
+
+This was discovered and reported by Paulos, and has been reporoduced
+by others independently since.
+
+We really shouldn&#x27;t allow such packets in, but as a defence
+in depth measure, let&#x27;s also check before we complete the checksum
+
+- [https://github.com/01luyicheng/CVE-2026-99999](https://github.com/01luyicheng/CVE-2026-99999) : ![starts](https://img.shields.io/github/stars/01luyicheng/CVE-2026-99999.svg) ![forks](https://img.shields.io/github/forks/01luyicheng/CVE-2026-99999.svg)
+- [https://github.com/kingahmadr/CVE-2026-99999-kernel-check](https://github.com/kingahmadr/CVE-2026-99999-kernel-check) : ![starts](https://img.shields.io/github/stars/kingahmadr/CVE-2026-99999-kernel-check.svg) ![forks](https://img.shields.io/github/forks/kingahmadr/CVE-2026-99999-kernel-check.svg)
+- [https://github.com/zakinko/kpatch-alma-cve-2026-99999](https://github.com/zakinko/kpatch-alma-cve-2026-99999) : ![starts](https://img.shields.io/github/stars/zakinko/kpatch-alma-cve-2026-99999.svg) ![forks](https://img.shields.io/github/forks/zakinko/kpatch-alma-cve-2026-99999.svg)
