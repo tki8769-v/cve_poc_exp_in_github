@@ -392,6 +392,10 @@ device operation and availability. No authentication, session e
 
 - [https://github.com/pervinzahidli/CVE-2026-104110](https://github.com/pervinzahidli/CVE-2026-104110) : ![starts](https://img.shields.io/github/stars/pervinzahidli/CVE-2026-104110.svg) ![forks](https://img.shields.io/github/forks/pervinzahidli/CVE-2026-104110.svg)
 
+## CVE-2026-104100
+
+- [https://github.com/Saku0512/CVE-2026-104100-poc](https://github.com/Saku0512/CVE-2026-104100-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-104100-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-104100-poc.svg)
+
 ## CVE-2026-104051
 > PictShare before 3.7.1 contains an information disclosure vulnerability that allows unauthenticated attackers to obtain the secret delete_code and uploader metadata by calling the API::info() endpoint which returns the complete raw metadata object without a field whitelist. Attackers can use the publicly visible file hash to retrieve the delete_code via the info API and then invoke the delete API to permanently delete arbitrary files, while also exposing uploader IP, User Agent, remote port, and
 
@@ -742,6 +746,21 @@ Hyunwoo debugged the following KASAN UAF splat:
    __x64_sys_t
 
 - [https://github.com/villager1314/CVE-2026-98256-Analysis](https://github.com/villager1314/CVE-2026-98256-Analysis) : ![starts](https://img.shields.io/github/stars/villager1314/CVE-2026-98256-Analysis.svg) ![forks](https://img.shields.io/github/forks/villager1314/CVE-2026-98256-Analysis.svg)
+
+## CVE-2026-98180
+> In the Linux kernel, the following vulnerability has been resolved:
+
+drm/msm: RCU-free the scheduler-containing ring and VM objects
+
+Both struct msm_ringbuffer and struct msm_gem_vm embed a struct
+drm_gpu_scheduler.  msm_ringbuffer_destroy() and the VM free callback
+msm_gem_vm_free() call drm_sched_fini() on the embedded scheduler and then
+free the containing object with plain kfree().
+
+drm_sched_fence_get_timeline_name() returns fence-&gt;sched-&gt;name, and the
+scheduler fence keeps a .release callb
+
+- [https://github.com/MalHyuk/CVE-2026-98180](https://github.com/MalHyuk/CVE-2026-98180) : ![starts](https://img.shields.io/github/stars/MalHyuk/CVE-2026-98180.svg) ![forks](https://img.shields.io/github/forks/MalHyuk/CVE-2026-98180.svg)
 
 ## CVE-2026-97657
 > The Abandoned Cart Pro for WooCommerce plugin for WordPress is vulnerable to Authentication Bypass via Malleable Encryption and Bypassable HMAC in all versions up to, and including, 10.8.0. This is due to the use of MAC-free AES-CTR encryption for cart-recovery link tokens — where the 8-byte CTR nonce is carried inside the ciphertext blob and the encryption key is looked up using the attacker-supplied `user_email` GET parameter — combined with an HMAC nonce check in `wcap_email_track_links()` th
@@ -4931,6 +4950,8 @@ This issue affects Elementor Website Builder: from n/a through 4.3.1.
 
 - [https://github.com/InertFluid/cve-2026-61732-lab](https://github.com/InertFluid/cve-2026-61732-lab) : ![starts](https://img.shields.io/github/stars/InertFluid/cve-2026-61732-lab.svg) ![forks](https://img.shields.io/github/forks/InertFluid/cve-2026-61732-lab.svg)
 
+- [https://github.com/Iceman2050/chatml-role-token-probe](https://github.com/Iceman2050/chatml-role-token-probe) : ![starts](https://img.shields.io/github/stars/Iceman2050/chatml-role-token-probe.svg) ![forks](https://img.shields.io/github/forks/Iceman2050/chatml-role-token-probe.svg)
+
 ## CVE-2026-61628
  nginx ignition is a user interface for the nginx web server. Prior to version 2.41.1, `POST /api/users/onboarding/finish` is registered as anonymous (unauthenticated) and creates a user with full ReadWrite admin permissions. Because the handler uses a check-then-act (TOCTOU) pattern between the "onboarding already completed?" check and the user-creation write, with no atomic guard, a remote unauthenticated attacker who can reach an instance in its pre-onboarding state can create an administrator account for themselves — and concurrent requests can create multiple admin accounts in a single race. Version 2.41.1 patches the issue.
 
@@ -6025,6 +6046,8 @@ Users are recommended to upgrade to version 4.21.0, which fixes the issue. If us
  Amasty Order Attributes for Magento 2 before version 4.0.0 contains an unauthenticated arbitrary file upload vulnerability that allows unauthenticated attackers to write arbitrary files to the store's media directory by submitting files of any type or name to the upload endpoint without authentication, session validation, or cart context. Attackers can upload PHP files to achieve remote code execution on servers where the media directory permits PHP execution, or alternatively enable malware hosting, stored cross-site scripting via HTML or SVG uploads, and path traversal to write files outside the intended upload directory.
 
 - [https://github.com/ChrisSEC2014/amasty-chekout-POC-rce](https://github.com/ChrisSEC2014/amasty-chekout-POC-rce) : ![starts](https://img.shields.io/github/stars/ChrisSEC2014/amasty-chekout-POC-rce.svg) ![forks](https://img.shields.io/github/forks/ChrisSEC2014/amasty-chekout-POC-rce.svg)
+
+- [https://github.com/elitexspam/Def4cer](https://github.com/elitexspam/Def4cer) : ![starts](https://img.shields.io/github/stars/elitexspam/Def4cer.svg) ![forks](https://img.shields.io/github/forks/elitexspam/Def4cer.svg)
 
 ## CVE-2026-53753
  Crawl4AI is an open-source LLM friendly web crawler & scraper. Prior to 0.8.7, the _safe_eval_expression() function in the computed fields feature uses an AST validator that only blocks attributes starting with underscore. Python generator and frame object attributes (gi_frame, f_back, f_builtins) do NOT start with underscore, enabling a complete sandbox escape to achieve arbitrary code execution. The attack requires no authentication (JWT disabled by default) and is triggered via POST /crawl with a crafted extraction schema. This vulnerability is fixed in 0.8.7.
@@ -12286,6 +12309,10 @@ Users are recommended to upgrade to version 5.19.4 or 6.2.3, which fixes the iss
 - [https://github.com/TeamN4C/SG-2026-0021](https://github.com/TeamN4C/SG-2026-0021) : ![starts](https://img.shields.io/github/stars/TeamN4C/SG-2026-0021.svg) ![forks](https://img.shields.io/github/forks/TeamN4C/SG-2026-0021.svg)
 
 - [https://github.com/rohithronanki/CVE-2026-34159-Vulnerability-Research-Analysis-Detection](https://github.com/rohithronanki/CVE-2026-34159-Vulnerability-Research-Analysis-Detection) : ![starts](https://img.shields.io/github/stars/rohithronanki/CVE-2026-34159-Vulnerability-Research-Analysis-Detection.svg) ![forks](https://img.shields.io/github/forks/rohithronanki/CVE-2026-34159-Vulnerability-Research-Analysis-Detection.svg)
+
+## CVE-2026-34157
+
+- [https://github.com/Saku0512/CVE-2026-34157-poc](https://github.com/Saku0512/CVE-2026-34157-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-34157-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-34157-poc.svg)
 
 ## CVE-2026-34156
  NocoBase is an AI-powered no-code/low-code platform for building business applications and enterprise solutions. Prior to version 2.0.28, NocoBase's Workflow Script Node executes user-supplied JavaScript inside a Node.js vm sandbox with a custom require allowlist (controlled by WORKFLOW_SCRIPT_MODULES env var). However, the console object passed into the sandbox context exposes host-realm WritableWorkerStdio stream objects via console._stdout and console._stderr. An authenticated attacker can traverse the prototype chain to escape the sandbox and achieve Remote Code Execution as root. This issue has been patched in version 2.0.28.
@@ -27830,6 +27857,10 @@ Users are recommended to upgrade to version 11.0.9, 10.1.43 or 9.0.107, which fi
 
 - [https://github.com/rxerium/CVE-2025-53072-CVE-2025-62481](https://github.com/rxerium/CVE-2025-53072-CVE-2025-62481) : ![starts](https://img.shields.io/github/stars/rxerium/CVE-2025-53072-CVE-2025-62481.svg) ![forks](https://img.shields.io/github/forks/rxerium/CVE-2025-53072-CVE-2025-62481.svg)
 
+## CVE-2025-53051
+
+- [https://github.com/emad-almousa/CVE-2025-53051](https://github.com/emad-almousa/CVE-2025-53051) : ![starts](https://img.shields.io/github/stars/emad-almousa/CVE-2025-53051.svg) ![forks](https://img.shields.io/github/forks/emad-almousa/CVE-2025-53051.svg)
+
 ## CVE-2025-53024
  Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core).   The supported version that is affected is 7.1.10. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox.  While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. CVSS 3.1 Base Score 8.2 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:C/C:H/I:H/A:H).
 
@@ -28367,6 +28398,10 @@ Users are recommended to upgrade to version 11.0.9, 10.1.43 or 9.0.107, which fi
 - [https://github.com/srozb/reditrap](https://github.com/srozb/reditrap) : ![starts](https://img.shields.io/github/stars/srozb/reditrap.svg) ![forks](https://img.shields.io/github/forks/srozb/reditrap.svg)
 
 - [https://github.com/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell) : ![starts](https://img.shields.io/github/stars/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell.svg) ![forks](https://img.shields.io/github/forks/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell.svg)
+
+## CVE-2025-49812
+
+- [https://github.com/kimdongjun22/cve-2025-49812-ctf](https://github.com/kimdongjun22/cve-2025-49812-ctf) : ![starts](https://img.shields.io/github/stars/kimdongjun22/cve-2025-49812-ctf.svg) ![forks](https://img.shields.io/github/forks/kimdongjun22/cve-2025-49812-ctf.svg)
 
 ## CVE-2025-49706
  Improper authentication in Microsoft Office SharePoint allows an unauthorized attacker to perform spoofing over a network.
@@ -44826,6 +44861,8 @@ Users are recommended to upgrade to version 1.26, which fixes the issue.
 - [https://github.com/Anjai7/TryHack3M-Bricks-Heist](https://github.com/Anjai7/TryHack3M-Bricks-Heist) : ![starts](https://img.shields.io/github/stars/Anjai7/TryHack3M-Bricks-Heist.svg) ![forks](https://img.shields.io/github/forks/Anjai7/TryHack3M-Bricks-Heist.svg)
 
 - [https://github.com/so1icitx/CVE-2024-25600](https://github.com/so1icitx/CVE-2024-25600) : ![starts](https://img.shields.io/github/stars/so1icitx/CVE-2024-25600.svg) ![forks](https://img.shields.io/github/forks/so1icitx/CVE-2024-25600.svg)
+
+- [https://github.com/K52-ai/CVE-2024-25600](https://github.com/K52-ai/CVE-2024-25600) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2024-25600.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2024-25600.svg)
 
 ## CVE-2024-25503
  Cross Site Scripting (XSS) vulnerability in Advanced REST Client v.17.0.9 allows a remote attacker to execute arbitrary code and obtain sensitive information via a crafted script to the edit details parameter of the New Project function.
@@ -79452,6 +79489,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302](https://github.com/ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302) : ![starts](https://img.shields.io/github/stars/ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302.svg) ![forks](https://img.shields.io/github/forks/ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302.svg)
 
 ## 2020
+## CVE-2020-36847
+
+- [https://github.com/K52-ai/CVE-2020-36847](https://github.com/K52-ai/CVE-2020-36847) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2020-36847.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2020-36847.svg)
+
 ## CVE-2020-36842
  The Migration, Backup, Staging – WPvivid plugin for WordPress is vulnerable to arbitrary file uploads due to a missing capability check on the wpvivid_upload_import_files and wpvivid_upload_files AJAX actions that allows low-level authenticated attackers to upload zip files that can be subsequently extracted. This affects versions up to, and including 0.9.35.
 

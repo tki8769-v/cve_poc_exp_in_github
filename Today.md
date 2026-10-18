@@ -12,6 +12,10 @@
 
 - [https://github.com/antoniorauso/NalCaller](https://github.com/antoniorauso/NalCaller) : ![starts](https://img.shields.io/github/stars/antoniorauso/NalCaller.svg) ![forks](https://img.shields.io/github/forks/antoniorauso/NalCaller.svg)
 
+## CVE-2020-36847
+
+- [https://github.com/K52-ai/CVE-2020-36847](https://github.com/K52-ai/CVE-2020-36847) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2020-36847.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2020-36847.svg)
+
 ## CVE-2022-1388
 
 - [https://github.com/jermainlaforce/CVE-2022-1388-POC](https://github.com/jermainlaforce/CVE-2022-1388-POC) : ![starts](https://img.shields.io/github/stars/jermainlaforce/CVE-2022-1388-POC.svg) ![forks](https://img.shields.io/github/forks/jermainlaforce/CVE-2022-1388-POC.svg)
@@ -20,6 +24,10 @@
 
 - [https://github.com/BennyWaitWhat/Sony-XBR-65X850D](https://github.com/BennyWaitWhat/Sony-XBR-65X850D) : ![starts](https://img.shields.io/github/stars/BennyWaitWhat/Sony-XBR-65X850D.svg) ![forks](https://img.shields.io/github/forks/BennyWaitWhat/Sony-XBR-65X850D.svg)
 
+## CVE-2024-25600
+
+- [https://github.com/K52-ai/CVE-2024-25600](https://github.com/K52-ai/CVE-2024-25600) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2024-25600.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2024-25600.svg)
+
 ## CVE-2025-30208
 
 - [https://github.com/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125](https://github.com/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125) : ![starts](https://img.shields.io/github/stars/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125.svg) ![forks](https://img.shields.io/github/forks/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125.svg)
@@ -27,6 +35,14 @@
 ## CVE-2025-31125
 
 - [https://github.com/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125](https://github.com/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125) : ![starts](https://img.shields.io/github/stars/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125.svg) ![forks](https://img.shields.io/github/forks/L15B04/Exploit-VITE-CVE-2025-30208-CVE-2025-31125.svg)
+
+## CVE-2025-49812
+
+- [https://github.com/kimdongjun22/cve-2025-49812-ctf](https://github.com/kimdongjun22/cve-2025-49812-ctf) : ![starts](https://img.shields.io/github/stars/kimdongjun22/cve-2025-49812-ctf.svg) ![forks](https://img.shields.io/github/forks/kimdongjun22/cve-2025-49812-ctf.svg)
+
+## CVE-2025-53051
+
+- [https://github.com/emad-almousa/CVE-2025-53051](https://github.com/emad-almousa/CVE-2025-53051) : ![starts](https://img.shields.io/github/stars/emad-almousa/CVE-2025-53051.svg) ![forks](https://img.shields.io/github/forks/emad-almousa/CVE-2025-53051.svg)
 
 ## CVE-2025-6019
 
@@ -40,6 +56,10 @@
 > Adobe Commerce is affected by an Improper Neutralization of Special Elements Used in a Template Engine vulnerability that could result in arbitrary code execution in the context of the current user, potentially gaining elevated access or control over the victim&#x27;s account or session. Exploitation of this issue does not require user interaction. Scope is changed.
 
 - [https://github.com/dinosn/cve-2026-103849-blockstrap-lab](https://github.com/dinosn/cve-2026-103849-blockstrap-lab) : ![starts](https://img.shields.io/github/stars/dinosn/cve-2026-103849-blockstrap-lab.svg) ![forks](https://img.shields.io/github/forks/dinosn/cve-2026-103849-blockstrap-lab.svg)
+
+## CVE-2026-104100
+
+- [https://github.com/Saku0512/CVE-2026-104100-poc](https://github.com/Saku0512/CVE-2026-104100-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-104100-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-104100-poc.svg)
 
 ## CVE-2026-20349
 
@@ -96,6 +116,10 @@ AD directly.
 - [https://github.com/vorkampfer/copyfail2_electric_boogaloo_fix](https://github.com/vorkampfer/copyfail2_electric_boogaloo_fix) : ![starts](https://img.shields.io/github/stars/vorkampfer/copyfail2_electric_boogaloo_fix.svg) ![forks](https://img.shields.io/github/forks/vorkampfer/copyfail2_electric_boogaloo_fix.svg)
 - [https://github.com/voxcia-io/copy-fail](https://github.com/voxcia-io/copy-fail) : ![starts](https://img.shields.io/github/stars/voxcia-io/copy-fail.svg) ![forks](https://img.shields.io/github/forks/voxcia-io/copy-fail.svg)
 
+## CVE-2026-34157
+
+- [https://github.com/Saku0512/CVE-2026-34157-poc](https://github.com/Saku0512/CVE-2026-34157-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-34157-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-34157-poc.svg)
+
 ## CVE-2026-43499
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -145,6 +169,10 @@ Only accept cifs.spnego descriptions while CIFS is using its pri
 
 - [https://github.com/mohamedjawady/CVE-2026-53613-poc](https://github.com/mohamedjawady/CVE-2026-53613-poc) : ![starts](https://img.shields.io/github/stars/mohamedjawady/CVE-2026-53613-poc.svg) ![forks](https://img.shields.io/github/forks/mohamedjawady/CVE-2026-53613-poc.svg)
 
+## CVE-2026-53787
+
+- [https://github.com/elitexspam/Def4cer](https://github.com/elitexspam/Def4cer) : ![starts](https://img.shields.io/github/stars/elitexspam/Def4cer.svg) ![forks](https://img.shields.io/github/forks/elitexspam/Def4cer.svg)
+
 ## CVE-2026-57155
 > OPNsense is a FreeBSD based firewall and routing platform. Prior to version 26.1.11, the Firewall Alias GeoIP importer&#x27;s process_zip() and process_gzip() paths in src/opnsense/scripts/filter/lib/alias/geoip.py use an unvalidated CSV country_code value to construct output filenames below /usr/local/share/GeoIP/alias. A user with Firewall Alias Edit privilege can configure an attacker-controlled GeoIP source URL and supply an archive whose country code traverses into another existing directory, ca
 
@@ -158,6 +186,11 @@ Only accept cifs.spnego descriptions while CIFS is using its pri
 > Gitea&#x27;s Org-mode markup renderer processes INCLUDE directives supplied to the repository markup endpoint without preventing access to server-side files. An unauthenticated attacker can use a suitable public repository to read files accessible to the Gitea service account. If the disclosed files include app.ini and its INTERNAL_TOKEN, the attacker can chain the disclosure with internal logger access to modify a Git hook and execute commands as the Gitea service account.
 
 - [https://github.com/FlowerWitch/CVE-2026-59774_docker](https://github.com/FlowerWitch/CVE-2026-59774_docker) : ![starts](https://img.shields.io/github/stars/FlowerWitch/CVE-2026-59774_docker.svg) ![forks](https://img.shields.io/github/forks/FlowerWitch/CVE-2026-59774_docker.svg)
+
+## CVE-2026-61732
+> Decepticon is an autonomous hacking agent for red teams. Versions prior to 1.1.17 wrap web crawl results — the output of agent reconnaissance against target services — into LLM messages without neutralizing ChatML special-token literals. Under the BYOK (Bring Your Own Key) deployment model, users configure their own LLM credentials to any OpenAI-compatible endpoint. Most open-source and self-deployed model providers (vLLM, SGLang, Ollama, LM Studio, text-generation-webui, etc.) do not filter spe
+
+- [https://github.com/Iceman2050/chatml-role-token-probe](https://github.com/Iceman2050/chatml-role-token-probe) : ![starts](https://img.shields.io/github/stars/Iceman2050/chatml-role-token-probe.svg) ![forks](https://img.shields.io/github/forks/Iceman2050/chatml-role-token-probe.svg)
 
 ## CVE-2026-69191
 > FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch operations. Prior to 3.21.0, FileRise enforces disableFormLogin, disableBasicAuth, and disableOIDCLogin in the client interface but not consistently in the corresponding server-side authentication flows. A user with otherwise valid credentials for a disabled method can call its backend endpoint directly and authenticate despite the administrator&#x27;s login-method policy. The flaw does not permit credential-f
@@ -187,6 +220,21 @@ This vulnerability is due to improper handling of email attachments when the fil
 > Plex Media Server before 1.43.3.10861 allows an admin user to write arbitrary files that may be executed on load. The preference TranscoderH264Options is appended verbatim to x264&#x27;s option string on every transcode. At startup, all .so files are run without signature, execute bit, or symbol checks.
 
 - [https://github.com/a3igner/plex-codec-cache-implant](https://github.com/a3igner/plex-codec-cache-implant) : ![starts](https://img.shields.io/github/stars/a3igner/plex-codec-cache-implant.svg) ![forks](https://img.shields.io/github/forks/a3igner/plex-codec-cache-implant.svg)
+
+## CVE-2026-98180
+> In the Linux kernel, the following vulnerability has been resolved:
+
+drm/msm: RCU-free the scheduler-containing ring and VM objects
+
+Both struct msm_ringbuffer and struct msm_gem_vm embed a struct
+drm_gpu_scheduler.  msm_ringbuffer_destroy() and the VM free callback
+msm_gem_vm_free() call drm_sched_fini() on the embedded scheduler and then
+free the containing object with plain kfree().
+
+drm_sched_fence_get_timeline_name() returns fence-&gt;sched-&gt;name, and the
+scheduler fence keeps a .release callb
+
+- [https://github.com/MalHyuk/CVE-2026-98180](https://github.com/MalHyuk/CVE-2026-98180) : ![starts](https://img.shields.io/github/stars/MalHyuk/CVE-2026-98180.svg) ![forks](https://img.shields.io/github/forks/MalHyuk/CVE-2026-98180.svg)
 
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:

@@ -3223,3 +3223,12 @@
 {"cve_id": "CVE-2026-76519", "ts": "2026-10-18T13:26:08Z", "type": "new_poc", "url": "https://github.com/Mickysalivan/CVE-2026-76519-Proof-of-concept"}
 {"cve_id": "CVE-2013-3660", "ts": "2026-10-18T13:34:18Z", "type": "new_poc", "url": "https://github.com/kikozz/CVE-2013-3660-win32k.sys"}
 {"cve_id": "CVE-2025-6019", "ts": "2026-10-18T13:42:43Z", "type": "new_poc", "url": "https://github.com/JustThinkingHard/HID-Attack"}
+{"cve_id": "CVE-2026-98180", "ts": "2026-10-18T16:38:55Z", "type": "new_poc", "url": "https://github.com/MalHyuk/CVE-2026-98180"}
+{"cve_id": "CVE-2020-36847", "ts": "2026-10-18T16:38:55Z", "type": "new_poc", "url": "https://github.com/K52-ai/CVE-2020-36847"}
+{"cve_id": "CVE-2025-53051", "ts": "2026-10-18T16:38:55Z", "type": "new_poc", "url": "https://github.com/emad-almousa/CVE-2025-53051"}
+{"cve_id": "CVE-2024-25600", "ts": "2026-10-18T16:38:55Z", "type": "new_poc", "url": "https://github.com/K52-ai/CVE-2024-25600"}
+{"cve_id": "CVE-2026-104100", "ts": "2026-10-18T16:38:55Z", "type": "new_poc", "url": "https://github.com/Saku0512/CVE-2026-104100-poc"}
+{"cve_id": "CVE-2026-34157", "ts": "2026-10-18T16:38:56Z", "type": "new_poc", "url": "https://github.com/Saku0512/CVE-2026-34157-poc"}
+{"cve_id": "CVE-2025-49812", "ts": "2026-10-18T16:38:56Z", "type": "new_poc", "url": "https://github.com/kimdongjun22/cve-2025-49812-ctf"}
+{"cve_id": "CVE-2026-53787", "ts": "2026-10-18T16:38:56Z", "type": "new_poc", "url": "https://github.com/elitexspam/Def4cer"}
+{"cve_id": "CVE-2026-61732", "ts": "2026-10-18T16:38:56Z", "type": "new_poc", "url": "https://github.com/Iceman2050/chatml-role-token-probe"}

@@ -1,3 +1,7 @@
+## CVE-2020-36847
+
+- [https://github.com/K52-ai/CVE-2020-36847](https://github.com/K52-ai/CVE-2020-36847) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2020-36847.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2020-36847.svg)
+
 ## CVE-2020-36842
  The Migration, Backup, Staging – WPvivid plugin for WordPress is vulnerable to arbitrary file uploads due to a missing capability check on the wpvivid_upload_import_files and wpvivid_upload_files AJAX actions that allows low-level authenticated attackers to upload zip files that can be subsequently extracted. This affects versions up to, and including 0.9.35.
 

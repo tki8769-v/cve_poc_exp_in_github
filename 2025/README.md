@@ -5086,6 +5086,10 @@ Users are recommended to upgrade to version 11.0.9, 10.1.43 or 9.0.107, which fi
 
 - [https://github.com/rxerium/CVE-2025-53072-CVE-2025-62481](https://github.com/rxerium/CVE-2025-53072-CVE-2025-62481) : ![starts](https://img.shields.io/github/stars/rxerium/CVE-2025-53072-CVE-2025-62481.svg) ![forks](https://img.shields.io/github/forks/rxerium/CVE-2025-53072-CVE-2025-62481.svg)
 
+## CVE-2025-53051
+
+- [https://github.com/emad-almousa/CVE-2025-53051](https://github.com/emad-almousa/CVE-2025-53051) : ![starts](https://img.shields.io/github/stars/emad-almousa/CVE-2025-53051.svg) ![forks](https://img.shields.io/github/forks/emad-almousa/CVE-2025-53051.svg)
+
 ## CVE-2025-53024
  Vulnerability in the Oracle VM VirtualBox product of Oracle Virtualization (component: Core).   The supported version that is affected is 7.1.10. Easily exploitable vulnerability allows high privileged attacker with logon to the infrastructure where Oracle VM VirtualBox executes to compromise Oracle VM VirtualBox.  While the vulnerability is in Oracle VM VirtualBox, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in takeover of Oracle VM VirtualBox. CVSS 3.1 Base Score 8.2 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:C/C:H/I:H/A:H).
 
@@ -5623,6 +5627,10 @@ Users are recommended to upgrade to version 11.0.9, 10.1.43 or 9.0.107, which fi
 - [https://github.com/srozb/reditrap](https://github.com/srozb/reditrap) : ![starts](https://img.shields.io/github/stars/srozb/reditrap.svg) ![forks](https://img.shields.io/github/forks/srozb/reditrap.svg)
 
 - [https://github.com/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell) : ![starts](https://img.shields.io/github/stars/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell.svg) ![forks](https://img.shields.io/github/forks/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell.svg)
+
+## CVE-2025-49812
+
+- [https://github.com/kimdongjun22/cve-2025-49812-ctf](https://github.com/kimdongjun22/cve-2025-49812-ctf) : ![starts](https://img.shields.io/github/stars/kimdongjun22/cve-2025-49812-ctf.svg) ![forks](https://img.shields.io/github/forks/kimdongjun22/cve-2025-49812-ctf.svg)
 
 ## CVE-2025-49706
  Improper authentication in Microsoft Office SharePoint allows an unauthorized attacker to perform spoofing over a network.

@@ -6555,6 +6555,8 @@ Users are recommended to upgrade to version 1.26, which fixes the issue.
 
 - [https://github.com/so1icitx/CVE-2024-25600](https://github.com/so1icitx/CVE-2024-25600) : ![starts](https://img.shields.io/github/stars/so1icitx/CVE-2024-25600.svg) ![forks](https://img.shields.io/github/forks/so1icitx/CVE-2024-25600.svg)
 
+- [https://github.com/K52-ai/CVE-2024-25600](https://github.com/K52-ai/CVE-2024-25600) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2024-25600.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2024-25600.svg)
+
 ## CVE-2024-25503
  Cross Site Scripting (XSS) vulnerability in Advanced REST Client v.17.0.9 allows a remote attacker to execute arbitrary code and obtain sensitive information via a crafted script to the edit details parameter of the New Project function.
 

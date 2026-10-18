@@ -1334,3 +1334,13 @@
 {"cve_id": "CVE-2023-3107", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T13:41:30Z", "url": "https://github.com/bugprove/cve-2023-31070", "url_ids": ["CVE-2023-31070"]}
 {"cve_id": "CVE-2026-3069", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T13:41:43Z", "url": "https://github.com/walidriouah/CVE-2026-30691", "url_ids": ["CVE-2026-30691"]}
 {"cve_id": "CVE-2025-7138", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T13:44:39Z", "url": "https://github.com/Scorpion-Security-Labs/CVE-2025-71384", "url_ids": ["CVE-2025-71384"]}
+{"cve_id": "CVE-2024-2378", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:41:01Z", "url": "https://github.com/HazardLab-IO/CVE-2024-23780", "url_ids": ["CVE-2024-23780"]}
+{"cve_id": "CVE-2026-5265", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:43:04Z", "url": "https://github.com/mirackayikci/CVE-2026-52658", "url_ids": ["CVE-2026-52658"]}
+{"cve_id": "CVE-2024-4476", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:43:04Z", "url": "https://github.com/josephgodwinkimani/cloudpanel-2.4.2-CVE-2024-44765-recovery", "url_ids": ["CVE-2024-44765"]}
+{"cve_id": "CVE-2025-5581", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:43:59Z", "url": "https://github.com/partywavesec/CVE-2025-55816", "url_ids": ["CVE-2025-55816"]}
+{"cve_id": "CVE-2017-1624", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:43:59Z", "url": "https://github.com/AOCorsaire/CVE-2017-16245", "url_ids": ["CVE-2017-16245"]}
+{"cve_id": "CVE-2026-2749", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:45:12Z", "url": "https://github.com/DexSemon/CVE-2026-27495", "url_ids": ["CVE-2026-27495"]}
+{"cve_id": "CVE-2025-4893", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:46:01Z", "url": "https://github.com/CerberusMrXi/CVE-2025-48932-Invision-Community-SQLi-Exploit", "url_ids": ["CVE-2025-48932"]}
+{"cve_id": "CVE-2017-1079", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:46:12Z", "url": "https://github.com/n4xh4ck5/CVE-2017-10797", "url_ids": ["CVE-2017-10797"]}
+{"cve_id": "CVE-2023-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:47:06Z", "url": "https://github.com/pwndorei/CVE-2023-36407", "url_ids": ["CVE-2023-36407"]}
+{"cve_id": "CVE-2025-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T16:49:04Z", "url": "https://github.com/24520597-blip/CVE-2025-99999", "url_ids": ["CVE-2025-99999"]}
