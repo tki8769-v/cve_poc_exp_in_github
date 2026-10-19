@@ -1509,3 +1509,4 @@
 {"cve_id": "CVE-2024-2997", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:20:59Z", "url": "https://github.com/bigb0x/CVE-2024-29973", "url_ids": ["CVE-2024-29973"]}
 {"cve_id": "CVE-2024-2997", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:20:59Z", "url": "https://github.com/RevoltSecurities/CVE-2024-29973", "url_ids": ["CVE-2024-29973"]}
 {"cve_id": "CVE-2024-2997", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:20:59Z", "url": "https://github.com/p0et08/CVE-2024-29973", "url_ids": ["CVE-2024-29973"]}
+{"cve_id": "CVE-2022-2022", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:25:07Z", "url": "https://github.com/dsp-security-workflows/cve-2022-20223", "url_ids": ["CVE-2022-20223"]}

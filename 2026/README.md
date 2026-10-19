@@ -4503,6 +4503,8 @@ with mt exec") added a temporary workaround for that in 2010 which surv
 
 - [https://github.com/Feng1586/CVE-2026-64560-public](https://github.com/Feng1586/CVE-2026-64560-public) : ![starts](https://img.shields.io/github/stars/Feng1586/CVE-2026-64560-public.svg) ![forks](https://img.shields.io/github/forks/Feng1586/CVE-2026-64560-public.svg)
 
+- [https://github.com/Feng1586/CVE-2026-64560-sources](https://github.com/Feng1586/CVE-2026-64560-sources) : ![starts](https://img.shields.io/github/stars/Feng1586/CVE-2026-64560-sources.svg) ![forks](https://img.shields.io/github/forks/Feng1586/CVE-2026-64560-sources.svg)
+
 ## CVE-2026-64531
  In the Linux kernel, the following vulnerability has been resolved:
 
