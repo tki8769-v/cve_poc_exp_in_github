@@ -1520,3 +1520,8 @@
 {"cve_id": "CVE-2026-4893", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T17:03:11Z", "url": "https://github.com/shinthink/CVE-2026-48939", "url_ids": ["CVE-2026-48939"]}
 {"cve_id": "CVE-2024-1208", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T21:46:27Z", "url": "https://github.com/InkeyP/CVE-2024-12084", "url_ids": ["CVE-2024-12084"]}
 {"cve_id": "CVE-2024-1208", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T21:46:27Z", "url": "https://github.com/Otsutez/cve-2024-12085", "url_ids": ["CVE-2024-12085"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T22:10:47Z", "url": "https://github.com/knqyf263/CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T22:10:47Z", "url": "https://github.com/donky16/CVE-2021-40346-POC", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T22:10:47Z", "url": "https://github.com/Vulnmachines/HAProxy_CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T22:10:47Z", "url": "https://github.com/alexOarga/CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T22:10:47Z", "url": "https://github.com/jmg0929/CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
