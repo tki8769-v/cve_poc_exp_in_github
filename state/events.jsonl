@@ -3259,3 +3259,12 @@
 {"cve_id": "CVE-2026-97941", "ts": "2026-10-18T23:41:03Z", "type": "new_poc", "url": "https://github.com/ylh440104/InfinityCore-Android-CVE-2026-97941"}
 {"cve_id": "CVE-2026-46300", "ts": "2026-10-18T23:46:46Z", "type": "new_poc", "url": "https://github.com/Koshmare-Blossom/Fragnesia-go"}
 {"cve_id": "CVE-2026-59310", "ts": "2026-10-18T23:47:48Z", "type": "new_poc", "url": "https://github.com/zgsfsec/CVE-2026-59310-POC"}
+{"cve_id": "CVE-2026-108519", "ts": "2026-10-19T06:11:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-10-19T06:13:49Z", "type": "new_poc", "url": "https://github.com/Feng1586/CVE-2026-64560-public"}
+{"cve_id": "CVE-2025-55182", "ts": "2026-10-19T06:13:49Z", "type": "new_poc", "url": "https://github.com/0xRAM-bit/CVE-2025-55182"}
+{"cve_id": "CVE-2024-27198", "ts": "2026-10-19T06:13:49Z", "type": "new_poc", "url": "https://github.com/wonnnggge/CVE-2024-27198_CTF"}
+{"cve_id": "CVE-2024-23897", "ts": "2026-10-19T06:13:49Z", "type": "new_poc", "url": "https://github.com/ydkdk12345-bot/CVE-2024-23897-CTF"}
+{"cve_id": "CVE-2026-99999", "ts": "2026-10-19T06:13:49Z", "type": "new_poc", "url": "https://github.com/gandli/CVE-2026-99999-pwnescape"}
+{"cve_id": "CVE-2024-23334", "ts": "2026-10-19T06:13:49Z", "type": "new_poc", "url": "https://github.com/JohnnyWang108/hdu-is-lab1-secure-api"}
+{"cve_id": "CVE-2026-27606", "ts": "2026-10-19T06:14:06Z", "type": "new_poc", "url": "https://github.com/AaaronP/Seguridad---Proyecto-de-investigaci-n"}
+{"cve_id": "CVE-2026-53582", "ts": "2026-10-19T06:21:02Z", "type": "new_poc", "url": "https://github.com/eev4n/CVE-2026-53582"}

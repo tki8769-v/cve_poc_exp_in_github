@@ -1505,3 +1505,7 @@
 {"cve_id": "CVE-2022-4395", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T23:46:48Z", "url": "https://github.com/secware-ru/CVE-2022-43959", "url_ids": ["CVE-2022-43959"]}
 {"cve_id": "CVE-2020-1020", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T23:49:00Z", "url": "https://github.com/magicming200/CVE-2020-10199_CVE-2020-10204", "url_ids": ["CVE-2020-10199", "CVE-2020-10204"]}
 {"cve_id": "CVE-2020-1020", "reason": "prefix_conflict_evidenced", "ts": "2026-10-18T23:49:00Z", "url": "https://github.com/zhzyker/CVE-2020-10204", "url_ids": ["CVE-2020-10204"]}
+{"cve_id": "CVE-2024-4358", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:14:34Z", "url": "https://github.com/Kvngtheta/CVE-2024-43583-PoC", "url_ids": ["CVE-2024-43583"]}
+{"cve_id": "CVE-2024-2997", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:20:59Z", "url": "https://github.com/bigb0x/CVE-2024-29973", "url_ids": ["CVE-2024-29973"]}
+{"cve_id": "CVE-2024-2997", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:20:59Z", "url": "https://github.com/RevoltSecurities/CVE-2024-29973", "url_ids": ["CVE-2024-29973"]}
+{"cve_id": "CVE-2024-2997", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:20:59Z", "url": "https://github.com/p0et08/CVE-2024-29973", "url_ids": ["CVE-2024-29973"]}
