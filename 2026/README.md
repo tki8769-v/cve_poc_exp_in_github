@@ -1814,6 +1814,10 @@ This issue w
 
 - [https://github.com/murrez/CVE-2026-85520](https://github.com/murrez/CVE-2026-85520) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-85520.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-85520.svg)
 
+## CVE-2026-85254
+
+- [https://github.com/oscerd/CVE-2026-85254](https://github.com/oscerd/CVE-2026-85254) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85254.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85254.svg)
+
 ## CVE-2026-85251
 
 - [https://github.com/oscerd/CVE-2026-85251](https://github.com/oscerd/CVE-2026-85251) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85251.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85251.svg)

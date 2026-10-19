@@ -1815,6 +1815,10 @@ This issue w
 
 - [https://github.com/murrez/CVE-2026-85520](https://github.com/murrez/CVE-2026-85520) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-85520.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-85520.svg)
 
+## CVE-2026-85254
+
+- [https://github.com/oscerd/CVE-2026-85254](https://github.com/oscerd/CVE-2026-85254) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85254.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85254.svg)
+
 ## CVE-2026-85251
 
 - [https://github.com/oscerd/CVE-2026-85251](https://github.com/oscerd/CVE-2026-85251) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85251.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85251.svg)
@@ -42899,6 +42903,8 @@ Users are recommended to upgrade to version 18.12.14, which fixes the issue.
 - [https://github.com/xvalegendary/HVCIPwned](https://github.com/xvalegendary/HVCIPwned) : ![starts](https://img.shields.io/github/stars/xvalegendary/HVCIPwned.svg) ![forks](https://img.shields.io/github/forks/xvalegendary/HVCIPwned.svg)
 
 - [https://github.com/0xROOTPLS/GiveMeKernel](https://github.com/0xROOTPLS/GiveMeKernel) : ![starts](https://img.shields.io/github/stars/0xROOTPLS/GiveMeKernel.svg) ![forks](https://img.shields.io/github/forks/0xROOTPLS/GiveMeKernel.svg)
+
+- [https://github.com/m01000xd/CVE-2024-35250](https://github.com/m01000xd/CVE-2024-35250) : ![starts](https://img.shields.io/github/stars/m01000xd/CVE-2024-35250.svg) ![forks](https://img.shields.io/github/forks/m01000xd/CVE-2024-35250.svg)
 
 ## CVE-2024-35242
  Composer is a dependency manager for PHP. On the 2.x branch prior to versions 2.2.24 and 2.7.7, the `composer install` command running inside a git/hg repository which has specially crafted branch names can lead to command injection. This requires cloning untrusted repositories. Patches are available in version 2.2.24 for 2.2 LTS or 2.7.7 for mainline. As a workaround, avoid cloning potentially compromised repositories.

@@ -3311,3 +3311,5 @@
 {"cve_id": "CVE-2026-16723", "ts": "2026-10-19T16:33:32Z", "type": "new_poc", "url": "https://github.com/cuttlefish520/FastJson1.2.83-GenProbe2"}
 {"cve_id": "CVE-2025-27515", "ts": "2026-10-19T16:33:32Z", "type": "new_poc", "url": "https://github.com/Shanks2001/Progetto-sicurezza"}
 {"cve_id": "CVE-2026-39987", "ts": "2026-10-19T16:33:52Z", "type": "new_poc", "url": "https://github.com/LaRemontada12/CVE-2026-39987-Marimo-Preauth-RCE"}
+{"cve_id": "CVE-2024-35250", "ts": "2026-10-19T16:54:59Z", "type": "new_poc", "url": "https://github.com/m01000xd/CVE-2024-35250"}
+{"cve_id": "CVE-2026-85254", "ts": "2026-10-19T16:55:00Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-85254"}

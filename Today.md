@@ -54,6 +54,10 @@
 
 - [https://github.com/Onosetalease/CVE-2024-3400-Vulnerability-Analysis](https://github.com/Onosetalease/CVE-2024-3400-Vulnerability-Analysis) : ![starts](https://img.shields.io/github/stars/Onosetalease/CVE-2024-3400-Vulnerability-Analysis.svg) ![forks](https://img.shields.io/github/forks/Onosetalease/CVE-2024-3400-Vulnerability-Analysis.svg)
 
+## CVE-2024-35250
+
+- [https://github.com/m01000xd/CVE-2024-35250](https://github.com/m01000xd/CVE-2024-35250) : ![starts](https://img.shields.io/github/stars/m01000xd/CVE-2024-35250.svg) ![forks](https://img.shields.io/github/forks/m01000xd/CVE-2024-35250.svg)
+
 ## CVE-2024-58299
 
 - [https://github.com/CyberWarrior10101/CVE-2024-58299](https://github.com/CyberWarrior10101/CVE-2024-58299) : ![starts](https://img.shields.io/github/stars/CyberWarrior10101/CVE-2024-58299.svg) ![forks](https://img.shields.io/github/forks/CyberWarrior10101/CVE-2024-58299.svg)
@@ -235,6 +239,10 @@ which can result in an UAF:
 ## CVE-2026-85251
 
 - [https://github.com/oscerd/CVE-2026-85251](https://github.com/oscerd/CVE-2026-85251) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85251.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85251.svg)
+
+## CVE-2026-85254
+
+- [https://github.com/oscerd/CVE-2026-85254](https://github.com/oscerd/CVE-2026-85254) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85254.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85254.svg)
 
 ## CVE-2026-99999
 > In the Linux kernel, the following vulnerability has been resolved:
