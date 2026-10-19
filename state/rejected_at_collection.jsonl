@@ -1510,3 +1510,6 @@
 {"cve_id": "CVE-2024-2997", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:20:59Z", "url": "https://github.com/RevoltSecurities/CVE-2024-29973", "url_ids": ["CVE-2024-29973"]}
 {"cve_id": "CVE-2024-2997", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:20:59Z", "url": "https://github.com/p0et08/CVE-2024-29973", "url_ids": ["CVE-2024-29973"]}
 {"cve_id": "CVE-2022-2022", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:25:07Z", "url": "https://github.com/dsp-security-workflows/cve-2022-20223", "url_ids": ["CVE-2022-20223"]}
+{"cve_id": "CVE-2018-1932", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:42:26Z", "url": "https://github.com/hmnthabit/CVE-2018-19320-LPE", "url_ids": ["CVE-2018-19320"]}
+{"cve_id": "CVE-2018-1932", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:42:26Z", "url": "https://github.com/nanabingies/CVE-2018-19321", "url_ids": ["CVE-2018-19321"]}
+{"cve_id": "CVE-2018-1932", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:42:26Z", "url": "https://github.com/blueisbeautiful/CVE-2018-19323", "url_ids": ["CVE-2018-19323"]}

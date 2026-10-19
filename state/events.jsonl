@@ -3269,3 +3269,4 @@
 {"cve_id": "CVE-2026-27606", "ts": "2026-10-19T06:14:06Z", "type": "new_poc", "url": "https://github.com/AaaronP/Seguridad---Proyecto-de-investigaci-n"}
 {"cve_id": "CVE-2026-53582", "ts": "2026-10-19T06:21:02Z", "type": "new_poc", "url": "https://github.com/eev4n/CVE-2026-53582"}
 {"cve_id": "CVE-2026-64560", "ts": "2026-10-19T06:24:16Z", "type": "new_poc", "url": "https://github.com/Feng1586/CVE-2026-64560-sources"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-10-19T06:42:18Z", "type": "new_poc", "url": "https://github.com/itsmichiya/exploit-CVE-2026-64560"}
