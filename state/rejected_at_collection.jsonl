@@ -1513,3 +1513,7 @@
 {"cve_id": "CVE-2018-1932", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:42:26Z", "url": "https://github.com/hmnthabit/CVE-2018-19320-LPE", "url_ids": ["CVE-2018-19320"]}
 {"cve_id": "CVE-2018-1932", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:42:26Z", "url": "https://github.com/nanabingies/CVE-2018-19321", "url_ids": ["CVE-2018-19321"]}
 {"cve_id": "CVE-2018-1932", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T06:42:26Z", "url": "https://github.com/blueisbeautiful/CVE-2018-19323", "url_ids": ["CVE-2018-19323"]}
+{"cve_id": "CVE-2023-2603", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T16:34:38Z", "url": "https://github.com/rvzsec/CVE-2023-26035", "url_ids": ["CVE-2023-26035"]}
+{"cve_id": "CVE-2023-2603", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T16:34:38Z", "url": "https://github.com/heapbytes/CVE-2023-26035", "url_ids": ["CVE-2023-26035"]}
+{"cve_id": "CVE-2023-2603", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T16:34:38Z", "url": "https://github.com/0xfalafel/zoneminder_CVE-2023-26035", "url_ids": ["CVE-2023-26035"]}
+{"cve_id": "CVE-2023-2603", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T16:34:38Z", "url": "https://github.com/ungabunga-ctf/CVE-2023-26039", "url_ids": ["CVE-2023-26039"]}

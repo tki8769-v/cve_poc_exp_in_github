@@ -2211,6 +2211,8 @@
 
 - [https://github.com/CyberCTF/vulhub-nginx-cve-2017-7529](https://github.com/CyberCTF/vulhub-nginx-cve-2017-7529) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-nginx-cve-2017-7529.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-nginx-cve-2017-7529.svg)
 
+- [https://github.com/Guanyu-Zhou/hdu-is-work1-secure-flask-api](https://github.com/Guanyu-Zhou/hdu-is-work1-secure-flask-api) : ![starts](https://img.shields.io/github/stars/Guanyu-Zhou/hdu-is-work1-secure-flask-api.svg) ![forks](https://img.shields.io/github/forks/Guanyu-Zhou/hdu-is-work1-secure-flask-api.svg)
+
 ## CVE-2017-7525
  A deserialization flaw was discovered in the jackson-databind, versions before 2.6.7.1, 2.7.9.1 and 2.8.9, which could allow an unauthenticated user to perform code execution by sending the maliciously crafted input to the readValue method of the ObjectMapper.
 

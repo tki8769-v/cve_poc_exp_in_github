@@ -7,6 +7,8 @@
 
 - [https://github.com/alexand0www/CVE-2023-54391-RCE](https://github.com/alexand0www/CVE-2023-54391-RCE) : ![starts](https://img.shields.io/github/stars/alexand0www/CVE-2023-54391-RCE.svg) ![forks](https://img.shields.io/github/forks/alexand0www/CVE-2023-54391-RCE.svg)
 
+- [https://github.com/Lewis1766/CVE-2023-54391-POC](https://github.com/Lewis1766/CVE-2023-54391-POC) : ![starts](https://img.shields.io/github/stars/Lewis1766/CVE-2023-54391-POC.svg) ![forks](https://img.shields.io/github/forks/Lewis1766/CVE-2023-54391-POC.svg)
+
 ## CVE-2023-52927
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -8546,6 +8548,8 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 
 - [https://github.com/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-](https://github.com/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-) : ![starts](https://img.shields.io/github/stars/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-.svg) ![forks](https://img.shields.io/github/forks/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-.svg)
 
+- [https://github.com/waynec1eated-bot/CVE-2023-20198-Cisco-IOS-XE](https://github.com/waynec1eated-bot/CVE-2023-20198-Cisco-IOS-XE) : ![starts](https://img.shields.io/github/stars/waynec1eated-bot/CVE-2023-20198-Cisco-IOS-XE.svg) ![forks](https://img.shields.io/github/forks/waynec1eated-bot/CVE-2023-20198-Cisco-IOS-XE.svg)
+
 ## CVE-2023-20178
  A vulnerability in the client update process of Cisco AnyConnect Secure Mobility Client Software for Windows and Cisco Secure Client Software for Windows could allow a low-privileged, authenticated, local attacker to elevate privileges to those of SYSTEM. The client update process is executed after a successful VPN connection is established.
 
@@ -9240,6 +9244,8 @@ Santesoft Sante FFT Imaging lacks proper validation of user-supplied data when p
 - [https://github.com/Aryan20057/CVE-2023-4911](https://github.com/Aryan20057/CVE-2023-4911) : ![starts](https://img.shields.io/github/stars/Aryan20057/CVE-2023-4911.svg) ![forks](https://img.shields.io/github/forks/Aryan20057/CVE-2023-4911.svg)
 
 - [https://github.com/0xMOGA/CVE-2023-4911-Lab](https://github.com/0xMOGA/CVE-2023-4911-Lab) : ![starts](https://img.shields.io/github/stars/0xMOGA/CVE-2023-4911-Lab.svg) ![forks](https://img.shields.io/github/forks/0xMOGA/CVE-2023-4911-Lab.svg)
+
+- [https://github.com/adewlee87-rgb/cve-2023-4911-looney-tunables](https://github.com/adewlee87-rgb/cve-2023-4911-looney-tunables) : ![starts](https://img.shields.io/github/stars/adewlee87-rgb/cve-2023-4911-looney-tunables.svg) ![forks](https://img.shields.io/github/forks/adewlee87-rgb/cve-2023-4911-looney-tunables.svg)
 
 ## CVE-2023-4898
  Authentication Bypass by Primary Weakness in GitHub repository mintplex-labs/anything-llm prior to 0.0.1.

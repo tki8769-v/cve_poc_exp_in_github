@@ -1604,6 +1604,8 @@
 
 - [https://github.com/zhangxvx/Log4j-Rec-CVE-2021-44228](https://github.com/zhangxvx/Log4j-Rec-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/zhangxvx/Log4j-Rec-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/zhangxvx/Log4j-Rec-CVE-2021-44228.svg)
 
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-remediation](https://github.com/mcpmark-eval-liuhezi/log4shell-remediation) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-remediation.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-remediation.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
@@ -2894,6 +2896,8 @@
 - [https://github.com/CyberCTF/vulhub-httpd-cve-2021-41773](https://github.com/CyberCTF/vulhub-httpd-cve-2021-41773) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-httpd-cve-2021-41773.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-httpd-cve-2021-41773.svg)
 
 - [https://github.com/Atamutlu33/cve-to-shell](https://github.com/Atamutlu33/cve-to-shell) : ![starts](https://img.shields.io/github/stars/Atamutlu33/cve-to-shell.svg) ![forks](https://img.shields.io/github/forks/Atamutlu33/cve-to-shell.svg)
+
+- [https://github.com/AlaIchhe/hdu-is-work1-secure-api](https://github.com/AlaIchhe/hdu-is-work1-secure-api) : ![starts](https://img.shields.io/github/stars/AlaIchhe/hdu-is-work1-secure-api.svg) ![forks](https://img.shields.io/github/forks/AlaIchhe/hdu-is-work1-secure-api.svg)
 
 ## CVE-2021-41753
  A denial-of-service attack in WPA2, and WPA3-SAE authentication methods in D-Link DIR-X1560, v1.04B04, and DIR-X6060, v1.11B04 allows a remote unauthenticated attacker to disconnect a wireless client via sending specific spoofed SAE authentication frames.

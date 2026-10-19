@@ -9599,6 +9599,8 @@ Existing users may implement mutual TLS to mitigate the risk on affected brokers
 
 - [https://github.com/joaovicdev/EXPLOIT-CVE-2025-27515](https://github.com/joaovicdev/EXPLOIT-CVE-2025-27515) : ![starts](https://img.shields.io/github/stars/joaovicdev/EXPLOIT-CVE-2025-27515.svg) ![forks](https://img.shields.io/github/forks/joaovicdev/EXPLOIT-CVE-2025-27515.svg)
 
+- [https://github.com/Shanks2001/Progetto-sicurezza](https://github.com/Shanks2001/Progetto-sicurezza) : ![starts](https://img.shields.io/github/stars/Shanks2001/Progetto-sicurezza.svg) ![forks](https://img.shields.io/github/forks/Shanks2001/Progetto-sicurezza.svg)
+
 ## CVE-2025-27480
  Use after free in Remote Desktop Gateway Service allows an unauthorized attacker to execute code over a network.
 
