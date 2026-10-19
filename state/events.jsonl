@@ -3313,3 +3313,8 @@
 {"cve_id": "CVE-2026-39987", "ts": "2026-10-19T16:33:52Z", "type": "new_poc", "url": "https://github.com/LaRemontada12/CVE-2026-39987-Marimo-Preauth-RCE"}
 {"cve_id": "CVE-2024-35250", "ts": "2026-10-19T16:54:59Z", "type": "new_poc", "url": "https://github.com/m01000xd/CVE-2024-35250"}
 {"cve_id": "CVE-2026-85254", "ts": "2026-10-19T16:55:00Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-85254"}
+{"cve_id": "CVE-2026-103663", "ts": "2026-10-19T21:43:22Z", "type": "new_poc", "url": "https://github.com/striga-ai/CVE-2026-103663"}
+{"cve_id": "CVE-2026-63030", "ts": "2026-10-19T21:43:22Z", "type": "new_poc", "url": "https://github.com/K52-ai/CVE-2026-63030"}
+{"cve_id": "CVE-2026-85257", "ts": "2026-10-19T21:43:23Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-85257"}
+{"cve_id": "CVE-2026-75045", "ts": "2026-10-19T21:43:24Z", "type": "new_poc", "url": "https://github.com/LHeiakim/CVE-2026-75045-PoC"}
+{"cve_id": "CVE-2017-0144", "ts": "2026-10-19T21:43:25Z", "type": "new_poc", "url": "https://github.com/duycao2311/eternalblue-ms17010-study"}

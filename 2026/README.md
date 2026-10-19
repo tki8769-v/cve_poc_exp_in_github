@@ -456,6 +456,13 @@ To remediate this issue, users should upgrade to version 1.6.1 o
 
 - [https://github.com/Masuer-mengxing/CVE-2026-103690](https://github.com/Masuer-mengxing/CVE-2026-103690) : ![starts](https://img.shields.io/github/stars/Masuer-mengxing/CVE-2026-103690.svg) ![forks](https://img.shields.io/github/forks/Masuer-mengxing/CVE-2026-103690.svg)
 
+## CVE-2026-103663
+> Ollama is vulnerable to path traversal in the `/api/pull` endpoint due to insufficient validation of layer digests by the `digestToPath` function. An unauthenticated remote attacker can specify a path traversal sequence as a layer digest, causing a malicious binary to be written outside the model store. 
+
+Critically if the server process has write access to `/usr/lib/ollama` (the default in most Ollama Docker images), an attacker can write the malicious file to that directory. On the next server
+
+- [https://github.com/striga-ai/CVE-2026-103663](https://github.com/striga-ai/CVE-2026-103663) : ![starts](https://img.shields.io/github/stars/striga-ai/CVE-2026-103663.svg) ![forks](https://img.shields.io/github/forks/striga-ai/CVE-2026-103663.svg)
+
 ## CVE-2026-103648
 > Path traversal in image-downloader 4.3.0 allows an attacker who can control the download URL to cause downloaded response data to be written outside the configured destination directory.
 
@@ -1814,6 +1821,15 @@ This issue w
 
 - [https://github.com/murrez/CVE-2026-85520](https://github.com/murrez/CVE-2026-85520) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-85520.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-85520.svg)
 
+## CVE-2026-85257
+> Generation of Error Message Containing Sensitive Information vulnerability in Apache Camel CXF component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+When a route behind a CXF SOAP consumer failed with an exception the service contract does not declare, the exception was described back to the SOAP client in the fault: CXF copies the message into the SOAP faultstring, and can be configured to place the stack trace in the fault detail. An external caller
+
+- [https://github.com/oscerd/CVE-2026-85257](https://github.com/oscerd/CVE-2026-85257) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85257.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85257.svg)
+
 ## CVE-2026-85254
 > Improper Handling of Case Sensitivity vulnerability in Apache Camel Platform HTTP component.
 
@@ -3043,6 +3059,10 @@ Successful exploitation may allow arbitrary command execution with elevated priv
  Apache Airflow's asset queued-events DELETE endpoints checked the caller's Dag-axis permission with `READ` instead of `EDIT`. Any authenticated user who could read a Dag could therefore delete that Dag's queued asset events, silently suppressing asset-triggered scheduling for it — a state-changing action gated on a read-only permission. Deployments are affected whenever asset-triggered scheduling is in use and Dag read access is granted more widely than Dag edit access, which is the normal RBAC arrangement; no special configuration is required. Upgrade to apache-airflow 3.3.2 or later.
 
 - [https://github.com/licitrasimone/cve-2026-75157-poc](https://github.com/licitrasimone/cve-2026-75157-poc) : ![starts](https://img.shields.io/github/stars/licitrasimone/cve-2026-75157-poc.svg) ![forks](https://img.shields.io/github/forks/licitrasimone/cve-2026-75157-poc.svg)
+
+## CVE-2026-75045
+
+- [https://github.com/LHeiakim/CVE-2026-75045-PoC](https://github.com/LHeiakim/CVE-2026-75045-PoC) : ![starts](https://img.shields.io/github/stars/LHeiakim/CVE-2026-75045-PoC.svg) ![forks](https://img.shields.io/github/forks/LHeiakim/CVE-2026-75045-PoC.svg)
 
 ## CVE-2026-74970
  Site isolation issue in the Graphics component. This vulnerability was fixed in Firefox 154, Firefox ESR 153.1, Thunderbird 154, and Thunderbird 153.1.
@@ -5207,6 +5227,8 @@ Users are advised to upgrade to Apache InLong's  2.4.0 or cherry-pick [1] to sol
 - [https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-](https://github.com/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-) : ![starts](https://img.shields.io/github/stars/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/WP2Shell--CVE-2026-63030-CVE-2026-60137-.svg)
 
 - [https://github.com/0xCyp1337/CVE-2026-63030-CVE-2026-60137-WP2SHELL](https://github.com/0xCyp1337/CVE-2026-63030-CVE-2026-60137-WP2SHELL) : ![starts](https://img.shields.io/github/stars/0xCyp1337/CVE-2026-63030-CVE-2026-60137-WP2SHELL.svg) ![forks](https://img.shields.io/github/forks/0xCyp1337/CVE-2026-63030-CVE-2026-60137-WP2SHELL.svg)
+
+- [https://github.com/K52-ai/CVE-2026-63030](https://github.com/K52-ai/CVE-2026-63030) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2026-63030.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2026-63030.svg)
 
 ## CVE-2026-62911
  Authentication bypass by capture-replay in Microsoft Exchange Server allows an authorized attacker to elevate privileges over a network.

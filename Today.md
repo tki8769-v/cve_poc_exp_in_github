@@ -7,6 +7,10 @@
 
 - [https://github.com/bL8nCO/Dirty-cow](https://github.com/bL8nCO/Dirty-cow) : ![starts](https://img.shields.io/github/stars/bL8nCO/Dirty-cow.svg) ![forks](https://img.shields.io/github/forks/bL8nCO/Dirty-cow.svg)
 
+## CVE-2017-0144
+
+- [https://github.com/duycao2311/eternalblue-ms17010-study](https://github.com/duycao2311/eternalblue-ms17010-study) : ![starts](https://img.shields.io/github/stars/duycao2311/eternalblue-ms17010-study.svg) ![forks](https://img.shields.io/github/forks/duycao2311/eternalblue-ms17010-study.svg)
+
 ## CVE-2017-7529
 
 - [https://github.com/Guanyu-Zhou/hdu-is-work1-secure-flask-api](https://github.com/Guanyu-Zhou/hdu-is-work1-secure-flask-api) : ![starts](https://img.shields.io/github/stars/Guanyu-Zhou/hdu-is-work1-secure-flask-api.svg) ![forks](https://img.shields.io/github/forks/Guanyu-Zhou/hdu-is-work1-secure-flask-api.svg)
@@ -75,6 +79,13 @@
 > A pre-authentication remote code execution vulnerability exists in React Server Components versions 19.0.0, 19.1.0, 19.1.1, and 19.2.0 including the following packages: react-server-dom-parcel, react-server-dom-turbopack, and react-server-dom-webpack. The vulnerable code unsafely deserializes payloads from HTTP requests to Server Function endpoints.
 
 - [https://github.com/0xRAM-bit/CVE-2025-55182](https://github.com/0xRAM-bit/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/0xRAM-bit/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/0xRAM-bit/CVE-2025-55182.svg)
+
+## CVE-2026-103663
+> Ollama is vulnerable to path traversal in the `/api/pull` endpoint due to insufficient validation of layer digests by the `digestToPath` function. An unauthenticated remote attacker can specify a path traversal sequence as a layer digest, causing a malicious binary to be written outside the model store. 
+
+Critically if the server process has write access to `/usr/lib/ollama` (the default in most Ollama Docker images), an attacker can write the malicious file to that directory. On the next server
+
+- [https://github.com/striga-ai/CVE-2026-103663](https://github.com/striga-ai/CVE-2026-103663) : ![starts](https://img.shields.io/github/stars/striga-ai/CVE-2026-103663.svg) ![forks](https://img.shields.io/github/forks/striga-ai/CVE-2026-103663.svg)
 
 ## CVE-2026-105105
 > CWE-306: Missing Authentication for Critical Function in the ait.core.server telemetry and command broker (ait-server) in NASA-AMMOS AIT-Core through 3.1.1 allows an unauthenticated remote attacker with network access to the ZeroMQ message bus to inject spacecraft command data, exfiltrate command and telemetry traffic, inject forged telemetry, or disrupt the command and telemetry bus. The ait-server ZeroMQ broker binds its XSUB and XPUB sockets to all network interfaces by default without authen
@@ -163,6 +174,11 @@ problems:
 
 - [https://github.com/Toluwanimi7/CYB401-CVE-2026-58249-Analysis](https://github.com/Toluwanimi7/CYB401-CVE-2026-58249-Analysis) : ![starts](https://img.shields.io/github/stars/Toluwanimi7/CYB401-CVE-2026-58249-Analysis.svg) ![forks](https://img.shields.io/github/forks/Toluwanimi7/CYB401-CVE-2026-58249-Analysis.svg)
 
+## CVE-2026-63030
+> WordPress 6.9.x before 6.9.5 and 7.0.x before 7.0.2 is affected by a REST API batch endpoint route confusion issue which, combined with the author__not_in WP_Query SQL Injection (CVE-2026-60137), could allow an attacker to perform SQL Injection and achieve Remote Code Execution.
+
+- [https://github.com/K52-ai/CVE-2026-63030](https://github.com/K52-ai/CVE-2026-63030) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2026-63030.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2026-63030.svg)
+
 ## CVE-2026-64560
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -183,6 +199,10 @@ which can result in an UAF:
 - [https://github.com/Feng1586/CVE-2026-64560-public](https://github.com/Feng1586/CVE-2026-64560-public) : ![starts](https://img.shields.io/github/stars/Feng1586/CVE-2026-64560-public.svg) ![forks](https://img.shields.io/github/forks/Feng1586/CVE-2026-64560-public.svg)
 - [https://github.com/Feng1586/CVE-2026-64560-sources](https://github.com/Feng1586/CVE-2026-64560-sources) : ![starts](https://img.shields.io/github/stars/Feng1586/CVE-2026-64560-sources.svg) ![forks](https://img.shields.io/github/forks/Feng1586/CVE-2026-64560-sources.svg)
 - [https://github.com/itsmichiya/exploit-CVE-2026-64560](https://github.com/itsmichiya/exploit-CVE-2026-64560) : ![starts](https://img.shields.io/github/stars/itsmichiya/exploit-CVE-2026-64560.svg) ![forks](https://img.shields.io/github/forks/itsmichiya/exploit-CVE-2026-64560.svg)
+
+## CVE-2026-75045
+
+- [https://github.com/LHeiakim/CVE-2026-75045-PoC](https://github.com/LHeiakim/CVE-2026-75045-PoC) : ![starts](https://img.shields.io/github/stars/LHeiakim/CVE-2026-75045-PoC.svg) ![forks](https://img.shields.io/github/forks/LHeiakim/CVE-2026-75045-PoC.svg)
 
 ## CVE-2026-80344
 > Server-Side Request Forgery (SSRF) vulnerability in Apache Camel AS2 component.
@@ -334,6 +354,15 @@ This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.
 The guard that prevents a request header being reflected into the response compared header names case sensitively, while HTTP header names are case insensitive. A caller could therefore defeat the suppression simply by varying the case of the header name. HTTP/2 makes the problem unconditional rather than optional: th
 
 - [https://github.com/oscerd/CVE-2026-85254](https://github.com/oscerd/CVE-2026-85254) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85254.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85254.svg)
+
+## CVE-2026-85257
+> Generation of Error Message Containing Sensitive Information vulnerability in Apache Camel CXF component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+When a route behind a CXF SOAP consumer failed with an exception the service contract does not declare, the exception was described back to the SOAP client in the fault: CXF copies the message into the SOAP faultstring, and can be configured to place the stack trace in the fault detail. An external caller
+
+- [https://github.com/oscerd/CVE-2026-85257](https://github.com/oscerd/CVE-2026-85257) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85257.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85257.svg)
 
 ## CVE-2026-99999
 > In the Linux kernel, the following vulnerability has been resolved:
