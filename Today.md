@@ -185,62 +185,153 @@ which can result in an UAF:
 - [https://github.com/itsmichiya/exploit-CVE-2026-64560](https://github.com/itsmichiya/exploit-CVE-2026-64560) : ![starts](https://img.shields.io/github/stars/itsmichiya/exploit-CVE-2026-64560.svg) ![forks](https://img.shields.io/github/forks/itsmichiya/exploit-CVE-2026-64560.svg)
 
 ## CVE-2026-80344
+> Server-Side Request Forgery (SSRF) vulnerability in Apache Camel AS2 component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+In the AS2 protocol the sender of a message may request that the Message Disposition Notification be returned asynchronously to an address the sender supplies. camel-as2 took that address from the inbound message and used it as the destination for the outgoing receipt without constraining it to anything the deployment had configur
 
 - [https://github.com/oscerd/CVE-2026-80344](https://github.com/oscerd/CVE-2026-80344) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-80344.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-80344.svg)
 
 ## CVE-2026-83531
+> Improper Control of Generation of Code (&#x27;Code Injection&#x27;), Improper Neutralization of Special Elements used in an Expression Language Statement (&#x27;Expression Language Injection&#x27;) vulnerability in Apache Camel.
+
+
+
+This issue affects Apache Camel: from 4.4.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+
+
+The dynamic-router-control endpoint, introduced in 4.4.0, lets routing participants manage Dynamic Router subscriptions by sending control messages. When it handled a subscribe or update request, Dyn
 
 - [https://github.com/oscerd/CVE-2026-83531](https://github.com/oscerd/CVE-2026-83531) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-83531.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-83531.svg)
 
 ## CVE-2026-84176
+> Permissive Cross-domain Policy with Untrusted Domains vulnerability in Apache Camel Platform HTTP Vertx component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+
+
+
+createCorsHandler() set Access-Control-Allow-Credentials: true outside the origin check, so the header went out on every response to a request carrying an Origin header, including responses to origins the handler had just decided not to allow. When camel.server.cors.origins is unset, the handl
 
 - [https://github.com/oscerd/CVE-2026-84176](https://github.com/oscerd/CVE-2026-84176) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-84176.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-84176.svg)
 
 ## CVE-2026-84178
+> Cross-Site Request Forgery (CSRF) vulnerability in Apache Camel OAuth component.
+
+
+
+This issue affects Apache Camel: from 4.11.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+The authorization code callback did not carry a state parameter binding it to the authorization request that started the flow, and the callback did not verify one. An authorization code obtained in any browser could therefore be redeemed at the callback and associated with whichever session presented it, which is login cross-s
 
 - [https://github.com/oscerd/CVE-2026-84178](https://github.com/oscerd/CVE-2026-84178) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-84178.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-84178.svg)
 
 ## CVE-2026-84180
+> Generation of Error Message Containing Sensitive Information vulnerability in Apache Camel Knative component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+When processing of an exchange failed on the consumer side, the Knative HTTP consumer wrote the resulting exception back to the remote caller as the response body, including its class name, message and stack trace. An external sender could therefore provoke a failure and read internal detail about the
 
 - [https://github.com/oscerd/CVE-2026-84180](https://github.com/oscerd/CVE-2026-84180) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-84180.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-84180.svg)
 
 ## CVE-2026-84181
+> Improper Authentication vulnerability in Apache Camel Shiro component.
+
+
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+The Shiro security processor skipped credential verification when the subject already bound to the current thread carried the same principal as the incoming exchange. Because the thread that carries a Camel exchange is drawn from a pool and reused across exchanges, a subject left bound by an earlier authenticated exchange could satisfy t
 
 - [https://github.com/oscerd/CVE-2026-84181](https://github.com/oscerd/CVE-2026-84181) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-84181.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-84181.svg)
 
 ## CVE-2026-85243
+> Improper Validation of Integrity Check Value vulnerability in Apache Camel Crypto PGP component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+unmarshal() verified the modification detection code only when the message was an OpenPGP symmetrically encrypted integrity protected data packet. The older symmetrically encrypted data packet carries no such code, and OpenPGP&#x27;s CFB mode is malleable without one, so a message using that packet skipped the check al
 
 - [https://github.com/oscerd/CVE-2026-85243](https://github.com/oscerd/CVE-2026-85243) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85243.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85243.svg)
 
 ## CVE-2026-85245
+> Exposure of Data Element to Wrong Session vulnerability in Apache Camel Thrift component.
+
+
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+The Thrift data format unmarshalled incoming data into the shared defaultInstance of the target type rather than into a fresh copy, and returned that shared object as the exchange body. Because the instance is shared process-wide, state written while unmarshalling one message stayed on the object and was visible to eve
 
 - [https://github.com/oscerd/CVE-2026-85245](https://github.com/oscerd/CVE-2026-85245) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85245.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85245.svg)
 
 ## CVE-2026-85246
+> Generation of Error Message Containing Sensitive Information vulnerability in Apache Camel Mina component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+When processing of an exchange failed, the Mina consumer wrote exchange.getException() straight back over the socket to the remote peer. Over a textline codec that hands the peer the exception&#x27;s class name and message; over the object codec it hands over the serialised exception, cause chain included. A 
 
 - [https://github.com/oscerd/CVE-2026-85246](https://github.com/oscerd/CVE-2026-85246) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85246.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85246.svg)
 
 ## CVE-2026-85247
+> Improper Certificate Validation vulnerability in Apache Camel Knative component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+When SSL was enabled on the Knative HTTP client but no truststore was configured, the client options fell back to trusting every presented certificate rather than to the JVM&#x27;s default trust anchors. A deployment that switched TLS on without also configuring a truststore therefore obtained an encrypted connection with no peer auth
 
 - [https://github.com/oscerd/CVE-2026-85247](https://github.com/oscerd/CVE-2026-85247) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85247.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85247.svg)
 
 ## CVE-2026-85248
+> Concurrent Execution using Shared Resource with Improper Synchronization (&#x27;Race Condition&#x27;) vulnerability in Apache Camel PQC component.
+
+This issue affects Apache Camel: from 4.12.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+
+
+
+The producer held a single java.security.Signature instance and used it for every exchange without synchronizing access. Signature is stateful and is not thread safe: update() accumulates the data to be signed or verified, and verify() consumes that accumulated state. Wi
 
 - [https://github.com/oscerd/CVE-2026-85248](https://github.com/oscerd/CVE-2026-85248) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85248.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85248.svg)
 
 ## CVE-2026-85249
+> Improper Input Validation vulnerability in Apache Camel Tika component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+The Tika producer mapped every metadata key parsed out of the submitted document onto the Exchange as a header, with no filter applied. Document metadata is attacker-controlled content: the party that supplies the file chooses the metadata keys it carries. A crafted document could therefore set Exchange headers that the rest of the route 
 
 - [https://github.com/oscerd/CVE-2026-85249](https://github.com/oscerd/CVE-2026-85249) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85249.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85249.svg)
 
 ## CVE-2026-85250
+> Improper Restriction of XML External Entity Reference vulnerability in Apache Camel XPath component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+With documentType set to InputSource, XPathBuilder handed the payload straight to javax.xml.xpath, which builds a DocumentBuilder of its own using the JDK defaults. The hardening applied to Camel&#x27;s default document type was therefore bypassed: a DOCTYPE declaration that is refused on the default type was accep
 
 - [https://github.com/oscerd/CVE-2026-85250](https://github.com/oscerd/CVE-2026-85250) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85250.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85250.svg)
 
 ## CVE-2026-85251
+> Exposure of Sensitive Information to an Unauthorized Actor vulnerability in Apache Camel HTTP component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+Two paths handed credentials to a redirect target, which is a host chosen by the remote server rather than by the route, once followRedirects=true. OAuth2ClientConfigurer registers its interceptor with addRequestInterceptorFirst, and HttpClient runs protocol-level request interceptors inside ProtocolExec, 
 
 - [https://github.com/oscerd/CVE-2026-85251](https://github.com/oscerd/CVE-2026-85251) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85251.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85251.svg)
 
 ## CVE-2026-85254
+> Improper Handling of Case Sensitivity vulnerability in Apache Camel Platform HTTP component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+The guard that prevents a request header being reflected into the response compared header names case sensitively, while HTTP header names are case insensitive. A caller could therefore defeat the suppression simply by varying the case of the header name. HTTP/2 makes the problem unconditional rather than optional: th
 
 - [https://github.com/oscerd/CVE-2026-85254](https://github.com/oscerd/CVE-2026-85254) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85254.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85254.svg)
 
