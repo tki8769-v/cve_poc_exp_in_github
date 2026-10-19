@@ -80,6 +80,10 @@
 
 - [https://github.com/0xRAM-bit/CVE-2025-55182](https://github.com/0xRAM-bit/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/0xRAM-bit/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/0xRAM-bit/CVE-2025-55182.svg)
 
+## CVE-2026-0006
+
+- [https://github.com/R3n3r0/CVE-2026-0006-step-2](https://github.com/R3n3r0/CVE-2026-0006-step-2) : ![starts](https://img.shields.io/github/stars/R3n3r0/CVE-2026-0006-step-2.svg) ![forks](https://img.shields.io/github/forks/R3n3r0/CVE-2026-0006-step-2.svg)
+
 ## CVE-2026-103663
 > Ollama is vulnerable to path traversal in the `/api/pull` endpoint due to insufficient validation of layer digests by the `digestToPath` function. An unauthenticated remote attacker can specify a path traversal sequence as a layer digest, causing a malicious binary to be written outside the model store. 
 

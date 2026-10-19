@@ -1525,3 +1525,7 @@
 {"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T22:10:47Z", "url": "https://github.com/Vulnmachines/HAProxy_CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
 {"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T22:10:47Z", "url": "https://github.com/alexOarga/CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
 {"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T22:10:47Z", "url": "https://github.com/jmg0929/CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2026-8793", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T22:35:32Z", "url": "https://github.com/winrarzipsexploit/CVE-2026-87930", "url_ids": ["CVE-2026-87930"]}
+{"cve_id": "CVE-2023-2255", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T22:36:34Z", "url": "https://github.com/viswagb/CVE-2023-22551", "url_ids": ["CVE-2023-22551"]}
+{"cve_id": "CVE-2018-1263", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T22:36:39Z", "url": "https://github.com/nth347/CVE-2018-12636_exploit", "url_ids": ["CVE-2018-12636"]}
+{"cve_id": "CVE-2018-1263", "reason": "prefix_conflict_evidenced", "ts": "2026-10-19T22:36:39Z", "url": "https://github.com/wiliam227user/CVE-2018-12633-TPLink-Auth-Bypass", "url_ids": ["CVE-2018-12633"]}

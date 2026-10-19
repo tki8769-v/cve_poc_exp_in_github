@@ -23182,6 +23182,8 @@ Panorama and Cloud NGFW are not impacted by these issues.
 
 - [https://github.com/aydin5245/cve-2026-0006](https://github.com/aydin5245/cve-2026-0006) : ![starts](https://img.shields.io/github/stars/aydin5245/cve-2026-0006.svg) ![forks](https://img.shields.io/github/forks/aydin5245/cve-2026-0006.svg)
 
+- [https://github.com/R3n3r0/CVE-2026-0006-step-2](https://github.com/R3n3r0/CVE-2026-0006-step-2) : ![starts](https://img.shields.io/github/stars/R3n3r0/CVE-2026-0006-step-2.svg) ![forks](https://img.shields.io/github/forks/R3n3r0/CVE-2026-0006-step-2.svg)
+
 ## CVE-2026-0001
  Use After Free vulnerability in Arm Ltd Bifrost GPU Kernel Driver, Arm Ltd Valhall GPU Kernel Driver, Arm Ltd Arm 5th Gen GPU Architecture Kernel Driver allows a local non-privileged user process to perform valid GPU memory processing operations to access already freed memory.
 

@@ -3318,3 +3318,4 @@
 {"cve_id": "CVE-2026-85257", "ts": "2026-10-19T21:43:23Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-85257"}
 {"cve_id": "CVE-2026-75045", "ts": "2026-10-19T21:43:24Z", "type": "new_poc", "url": "https://github.com/LHeiakim/CVE-2026-75045-PoC"}
 {"cve_id": "CVE-2017-0144", "ts": "2026-10-19T21:43:25Z", "type": "new_poc", "url": "https://github.com/duycao2311/eternalblue-ms17010-study"}
+{"cve_id": "CVE-2026-0006", "ts": "2026-10-19T22:28:24Z", "type": "new_poc", "url": "https://github.com/R3n3r0/CVE-2026-0006-step-2"}
