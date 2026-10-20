@@ -3332,3 +3332,11 @@
 {"cve_id": "CVE-2024-21762", "ts": "2026-10-20T06:07:10Z", "type": "new_poc", "url": "https://github.com/Deekshitha2203/security-triage-agent-cybersec590"}
 {"cve_id": "CVE-2026-96652", "ts": "2026-10-20T06:07:10Z", "type": "new_poc", "url": "https://github.com/ChrisLPJones/plex2shell-check"}
 {"cve_id": "CVE-2026-99999", "ts": "2026-10-20T06:07:29Z", "type": "new_poc", "url": "https://github.com/nsrg-fmlorg/kpatch-alma-cve-2026-99999"}
+{"cve_id": "CVE-2026-77225", "ts": "2026-10-20T06:18:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77227", "ts": "2026-10-20T06:18:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77228", "ts": "2026-10-20T06:18:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-90050", "ts": "2026-10-20T06:19:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-90052", "ts": "2026-10-20T06:19:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98165", "ts": "2026-10-20T06:21:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98654", "ts": "2026-10-20T06:22:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-20T06:25:49Z", "type": "new_poc", "url": "https://github.com/Escosis/V2463A-LPE"}
