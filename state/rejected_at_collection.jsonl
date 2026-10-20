@@ -1567,3 +1567,5 @@
 {"cve_id": "CVE-2026-2441", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:06:40Z", "url": "https://github.com/lukasz-rybak/CVE-2026-24417", "url_ids": ["CVE-2026-24417"]}
 {"cve_id": "CVE-2026-2441", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:06:40Z", "url": "https://github.com/lukasz-rybak/CVE-2026-24419", "url_ids": ["CVE-2026-24419"]}
 {"cve_id": "CVE-2026-2441", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:06:40Z", "url": "https://github.com/lukasz-rybak/CVE-2026-24416", "url_ids": ["CVE-2026-24416"]}
+{"cve_id": "CVE-2025-5534", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:38:00Z", "url": "https://github.com/GoldenTicketLabs/CVE-2025-55349", "url_ids": ["CVE-2025-55349"]}
+{"cve_id": "CVE-2026-6009", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:41:07Z", "url": "https://github.com/oscerd/CVE-2026-60093", "url_ids": ["CVE-2026-60093"]}
