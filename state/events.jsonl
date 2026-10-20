@@ -3319,3 +3319,16 @@
 {"cve_id": "CVE-2026-75045", "ts": "2026-10-19T21:43:24Z", "type": "new_poc", "url": "https://github.com/LHeiakim/CVE-2026-75045-PoC"}
 {"cve_id": "CVE-2017-0144", "ts": "2026-10-19T21:43:25Z", "type": "new_poc", "url": "https://github.com/duycao2311/eternalblue-ms17010-study"}
 {"cve_id": "CVE-2026-0006", "ts": "2026-10-19T22:28:24Z", "type": "new_poc", "url": "https://github.com/R3n3r0/CVE-2026-0006-step-2"}
+{"cve_id": "CVE-2026-90050", "ts": "2026-10-20T06:02:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-90052", "ts": "2026-10-20T06:02:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98165", "ts": "2026-10-20T06:03:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98654", "ts": "2026-10-20T06:04:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2017-7494", "ts": "2026-10-20T06:07:09Z", "type": "new_poc", "url": "https://github.com/JA-Cyber365/home-network-security-assessment"}
+{"cve_id": "CVE-2026-111057", "ts": "2026-10-20T06:07:10Z", "type": "new_poc", "url": "https://github.com/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce"}
+{"cve_id": "CVE-2026-111058", "ts": "2026-10-20T06:07:10Z", "type": "new_poc", "url": "https://github.com/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce"}
+{"cve_id": "CVE-2017-0143", "ts": "2026-10-20T06:07:10Z", "type": "new_poc", "url": "https://github.com/BlessingOlaniyan/cve-2017-0143-smbv1-analysis"}
+{"cve_id": "CVE-2026-35273", "ts": "2026-10-20T06:07:10Z", "type": "new_poc", "url": "https://github.com/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-"}
+{"cve_id": "CVE-2021-41773", "ts": "2026-10-20T06:07:10Z", "type": "new_poc", "url": "https://github.com/twq0316/work1-secure-rest-api"}
+{"cve_id": "CVE-2024-21762", "ts": "2026-10-20T06:07:10Z", "type": "new_poc", "url": "https://github.com/Deekshitha2203/security-triage-agent-cybersec590"}
+{"cve_id": "CVE-2026-96652", "ts": "2026-10-20T06:07:10Z", "type": "new_poc", "url": "https://github.com/ChrisLPJones/plex2shell-check"}
+{"cve_id": "CVE-2026-99999", "ts": "2026-10-20T06:07:29Z", "type": "new_poc", "url": "https://github.com/nsrg-fmlorg/kpatch-alma-cve-2026-99999"}

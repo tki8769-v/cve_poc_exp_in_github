@@ -27,6 +27,14 @@
 
 - [https://github.com/cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password](https://github.com/cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password) : ![starts](https://img.shields.io/github/stars/cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password.svg) ![forks](https://img.shields.io/github/forks/cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password.svg)
 
+## CVE-2026-111058
+
+- [https://github.com/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce](https://github.com/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce) : ![starts](https://img.shields.io/github/stars/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce.svg) ![forks](https://img.shields.io/github/forks/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce.svg)
+
+## CVE-2026-111057
+
+- [https://github.com/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce](https://github.com/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce) : ![starts](https://img.shields.io/github/stars/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce.svg) ![forks](https://img.shields.io/github/forks/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce.svg)
+
 ## CVE-2026-110958
 > A vulnerability was found in Wavlink WN530HG4B M30HG4B_V260724. The impacted element is an unknown function of the file api.cgi. The manipulation results in heap-based buffer overflow. It is possible to launch the attack remotely. The exploit has been made public and could be used. Upgrading to version 2026-09-24-841a51c6d5_tclinux.bin is sufficient to resolve this issue. The affected component should be upgraded. The vendor confirms: &quot;We confirm the finding, and it has already been addressed. I
 
@@ -754,6 +762,8 @@ in depth measure, let&#x27;s also check before we complete the checksum
 
 - [https://github.com/shizuku198411/CVE-2026-99999-KVM-checksum-metadata-non-destructive-PoC](https://github.com/shizuku198411/CVE-2026-99999-KVM-checksum-metadata-non-destructive-PoC) : ![starts](https://img.shields.io/github/stars/shizuku198411/CVE-2026-99999-KVM-checksum-metadata-non-destructive-PoC.svg) ![forks](https://img.shields.io/github/forks/shizuku198411/CVE-2026-99999-KVM-checksum-metadata-non-destructive-PoC.svg)
 
+- [https://github.com/nsrg-fmlorg/kpatch-alma-cve-2026-99999](https://github.com/nsrg-fmlorg/kpatch-alma-cve-2026-99999) : ![starts](https://img.shields.io/github/stars/nsrg-fmlorg/kpatch-alma-cve-2026-99999.svg) ![forks](https://img.shields.io/github/forks/nsrg-fmlorg/kpatch-alma-cve-2026-99999.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -973,6 +983,11 @@ This issue affects Mediawiki - WikiLambda Extension: before 1.47.0.
 > Plex Media Server before 1.43.3.10861 allows an admin user to write arbitrary files that may be executed on load. The preference TranscoderH264Options is appended verbatim to x264&#x27;s option string on every transcode. At startup, all .so files are run without signature, execute bit, or symbol checks.
 
 - [https://github.com/a3igner/plex-codec-cache-implant](https://github.com/a3igner/plex-codec-cache-implant) : ![starts](https://img.shields.io/github/stars/a3igner/plex-codec-cache-implant.svg) ![forks](https://img.shields.io/github/forks/a3igner/plex-codec-cache-implant.svg)
+
+## CVE-2026-96652
+> Plex Media Server before 1.43.3.10861 allows SSRF via &#x27;/player/timeline&#x27;. An attacker using any X-Plex-Token value can include a full URL in the &#x27;protocol&#x27; parameter and force the Plex server to POST to the attacker&#x27;s chosen destination.
+
+- [https://github.com/ChrisLPJones/plex2shell-check](https://github.com/ChrisLPJones/plex2shell-check) : ![starts](https://img.shields.io/github/stars/ChrisLPJones/plex2shell-check.svg) ![forks](https://img.shields.io/github/forks/ChrisLPJones/plex2shell-check.svg)
 
 ## CVE-2026-96515
 > This
@@ -12340,6 +12355,8 @@ Version 2.18.0 contains a fix. As a workaround, ensure folder names do not share
 - [https://github.com/0xBlackash/CVE-2026-35273](https://github.com/0xBlackash/CVE-2026-35273) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-35273.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-35273.svg)
 
 - [https://github.com/12hrformat/CVE-2026-35273-POC](https://github.com/12hrformat/CVE-2026-35273-POC) : ![starts](https://img.shields.io/github/stars/12hrformat/CVE-2026-35273-POC.svg) ![forks](https://img.shields.io/github/forks/12hrformat/CVE-2026-35273-POC.svg)
+
+- [https://github.com/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-](https://github.com/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-) : ![starts](https://img.shields.io/github/stars/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-.svg) ![forks](https://img.shields.io/github/forks/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-.svg)
 
 ## CVE-2026-35204
  Helm is a package manager for Charts for Kubernetes. From 4.0.0 to 4.1.3, a specially crafted Helm plugin, when installed or updated, will cause Helm to write the contents of the plugin to an arbitrary filesystem location. To prevent this, validate that the plugin.yaml of the Helm plugin does not include a version: field containing POSIX dot-dot path separators ie. "/../". This vulnerability is fixed in 4.1.4.
@@ -46737,6 +46754,8 @@ This vulnerability affects all users using version greater or equal than Node.js
 
 - [https://github.com/Vampsecure-Labs/vamp-forticheck](https://github.com/Vampsecure-Labs/vamp-forticheck) : ![starts](https://img.shields.io/github/stars/Vampsecure-Labs/vamp-forticheck.svg) ![forks](https://img.shields.io/github/forks/Vampsecure-Labs/vamp-forticheck.svg)
 
+- [https://github.com/Deekshitha2203/security-triage-agent-cybersec590](https://github.com/Deekshitha2203/security-triage-agent-cybersec590) : ![starts](https://img.shields.io/github/stars/Deekshitha2203/security-triage-agent-cybersec590.svg) ![forks](https://img.shields.io/github/forks/Deekshitha2203/security-triage-agent-cybersec590.svg)
+
 ## CVE-2024-21754
  A use of password hash with insufficient computational effort vulnerability [CWE-916] affecting FortiOS version 7.4.3 and below, 7.2 all versions, 7.0 all versions, 6.4 all versions and FortiProxy version 7.4.2 and below, 7.2 all versions, 7.0 all versions, 2.0 all versions may allow a privileged attacker with super-admin profile and CLI access to decrypting the backup file.
 
@@ -73387,6 +73406,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 
 - [https://github.com/AlaIchhe/hdu-is-work1-secure-api](https://github.com/AlaIchhe/hdu-is-work1-secure-api) : ![starts](https://img.shields.io/github/stars/AlaIchhe/hdu-is-work1-secure-api.svg) ![forks](https://img.shields.io/github/forks/AlaIchhe/hdu-is-work1-secure-api.svg)
 
+- [https://github.com/twq0316/work1-secure-rest-api](https://github.com/twq0316/work1-secure-rest-api) : ![starts](https://img.shields.io/github/stars/twq0316/work1-secure-rest-api.svg) ![forks](https://img.shields.io/github/forks/twq0316/work1-secure-rest-api.svg)
+
 ## CVE-2021-41753
  A denial-of-service attack in WPA2, and WPA3-SAE authentication methods in D-Link DIR-X1560, v1.04B04, and DIR-X6060, v1.11B04 allows a remote unauthenticated attacker to disconnect a wireless client via sending specific spoofed SAE authentication frames.
 
@@ -98572,6 +98593,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 
 - [https://github.com/CyberCTF/vulhub-samba-cve-2017-7494](https://github.com/CyberCTF/vulhub-samba-cve-2017-7494) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-samba-cve-2017-7494.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-samba-cve-2017-7494.svg)
 
+- [https://github.com/JA-Cyber365/home-network-security-assessment](https://github.com/JA-Cyber365/home-network-security-assessment) : ![starts](https://img.shields.io/github/stars/JA-Cyber365/home-network-security-assessment.svg) ![forks](https://img.shields.io/github/forks/JA-Cyber365/home-network-security-assessment.svg)
+
 ## CVE-2017-7472
  The KEYS subsystem in the Linux kernel before 4.10.13 allows local users to cause a denial of service (memory consumption) via a series of KEY_REQKEY_DEFL_THREAD_KEYRING keyctl_set_reqkey_keyring calls.
 
@@ -99736,6 +99759,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 - [https://github.com/Mafiosohack/offensive-security-lab-1](https://github.com/Mafiosohack/offensive-security-lab-1) : ![starts](https://img.shields.io/github/stars/Mafiosohack/offensive-security-lab-1.svg) ![forks](https://img.shields.io/github/forks/Mafiosohack/offensive-security-lab-1.svg)
 
 - [https://github.com/gousseine-systems/vuln-rabilit-windows7](https://github.com/gousseine-systems/vuln-rabilit-windows7) : ![starts](https://img.shields.io/github/stars/gousseine-systems/vuln-rabilit-windows7.svg) ![forks](https://img.shields.io/github/forks/gousseine-systems/vuln-rabilit-windows7.svg)
+
+- [https://github.com/BlessingOlaniyan/cve-2017-0143-smbv1-analysis](https://github.com/BlessingOlaniyan/cve-2017-0143-smbv1-analysis) : ![starts](https://img.shields.io/github/stars/BlessingOlaniyan/cve-2017-0143-smbv1-analysis.svg) ![forks](https://img.shields.io/github/forks/BlessingOlaniyan/cve-2017-0143-smbv1-analysis.svg)
 
 ## CVE-2017-0108
  The Windows Graphics Component in Microsoft Office 2007 SP3; 2010 SP2; and Word Viewer; Skype for Business 2016; Lync 2013 SP1; Lync 2010; Live Meeting 2007; Silverlight 5; Windows Vista SP2; Windows Server 2008 SP2 and R2 SP1; and Windows 7 SP1 allows remote attackers to execute arbitrary code via a crafted web site, aka "Graphics Component Remote Code Execution Vulnerability." This vulnerability is different from that described in CVE-2017-0014.
