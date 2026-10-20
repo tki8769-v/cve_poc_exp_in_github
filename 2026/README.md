@@ -2,10 +2,18 @@
 
 - [https://github.com/danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300) : ![starts](https://img.shields.io/github/stars/danish1162/CVE-2026-2035703-x300.svg) ![forks](https://img.shields.io/github/forks/danish1162/CVE-2026-2035703-x300.svg)
 
+## CVE-2026-113468
+
+- [https://github.com/yuwkaaa/CVE-2026-113468](https://github.com/yuwkaaa/CVE-2026-113468) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-113468.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-113468.svg)
+
 ## CVE-2026-112195
 > A flaw has been found in FusionPBX up to 5.4.4/5.5.7/5.6.5. The affected element is an unknown function of the file app/dialplans/resources/classes/dialplan.php of the component Dialplan Editor. Executing a manipulation can lead to os command injection. The attack can be executed remotely. The exploit has been published and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/jasonbernier/Dialplan-Escape-RCE](https://github.com/jasonbernier/Dialplan-Escape-RCE) : ![starts](https://img.shields.io/github/stars/jasonbernier/Dialplan-Escape-RCE.svg) ![forks](https://img.shields.io/github/forks/jasonbernier/Dialplan-Escape-RCE.svg)
+
+## CVE-2026-112071
+
+- [https://github.com/yuwkaaa/CVE-2026-112071](https://github.com/yuwkaaa/CVE-2026-112071) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-112071.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-112071.svg)
 
 ## CVE-2026-111823
 > Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encountering an unknown OAuth provider.
@@ -123,6 +131,8 @@ privileges. Exploitation requir
 
 - [https://github.com/fortbridge/cve-2026-108097-research](https://github.com/fortbridge/cve-2026-108097-research) : ![starts](https://img.shields.io/github/stars/fortbridge/cve-2026-108097-research.svg) ![forks](https://img.shields.io/github/forks/fortbridge/cve-2026-108097-research.svg)
 
+- [https://github.com/ExDev994/CVE-2026-108097](https://github.com/ExDev994/CVE-2026-108097) : ![starts](https://img.shields.io/github/stars/ExDev994/CVE-2026-108097.svg) ![forks](https://img.shields.io/github/forks/ExDev994/CVE-2026-108097.svg)
+
 ## CVE-2026-107821
 > MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, and 13.0.2, MariaDB insufficiently validated counts, offsets, lengths, and field boundaries in FRM metadata while opening binary FRM files. An attacker able to place a crafted FRM file in the data directory could trigger out-of-bounds reads or writes, crash the server, or potentially execute code. This issue is fixed in versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, a
 
@@ -223,6 +233,25 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 > Payload is a free and open source headless content management system. In versions from 3.0.0 before 3.88.0 and canary versions before 4.0.0-canary.27, an unauthenticated user can submit prototype-sensitive field paths when @payloadcms/plugin-import-export is enabled, causing unintended application behavior that can lead to remote code execution. This issue is fixed in versions 3.88.0 and 4.0.0-canary.27.
 
 - [https://github.com/murrez/CVE-2026-105844](https://github.com/murrez/CVE-2026-105844) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-105844.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-105844.svg)
+
+## CVE-2026-105810
+> Tapo C320WS
+V2.0 contains an authenticated stack-based buffer overflow in the local
+onboarding Wi-Fi configuration path. An authenticated attacker on the
+adjacent network can submit a crafted request containing an oversized encrypted
+password field, overwrite stack state, and execute commands with root
+privileges.
+
+
+
+
+
+Successful
+exploitation may allow an authenticated adjacent-network attacker to take
+control of the affected camera, modify camera behavior, access sensitive local
+configuration, 
+
+- [https://github.com/M0ud4/CVE-2026-105810](https://github.com/M0ud4/CVE-2026-105810) : ![starts](https://img.shields.io/github/stars/M0ud4/CVE-2026-105810.svg) ![forks](https://img.shields.io/github/forks/M0ud4/CVE-2026-105810.svg)
 
 ## CVE-2026-105484
 > A security vulnerability has been detected in TOTOLINK X6000R 9.4.0cu.652_B20230116. The impacted element is the function firmware_check of the file /cgi-bin/cstecgi.cgi of the component UploadFirmwareFile Handler. Such manipulation of the argument file_name leads to os command injection. The attack may be performed from remote.
@@ -1672,6 +1701,11 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 
 - [https://github.com/abraxas/CVE-2026-87796](https://github.com/abraxas/CVE-2026-87796) : ![starts](https://img.shields.io/github/stars/abraxas/CVE-2026-87796.svg) ![forks](https://img.shields.io/github/forks/abraxas/CVE-2026-87796.svg)
 
+## CVE-2026-87690
+> The Metasploit Framework post module post/apple_ios/gather/ios_image_gather is affected by a relative path traversal vulnerability (CWE-22). The module interpolates file names taken from a Meterpreter directory listing — data fully controlled by a hostile or tampered iOS device — directly into the local destination path passed to client.fs.file.download_file(), with no sanitization. The underlying stdapi sink (lib/rex/post/meterpreter/extensions/stdapi/fs/file.rb) writes to whatever path is supp
+
+- [https://github.com/h00die/CVE-2026-87690-POC](https://github.com/h00die/CVE-2026-87690-POC) : ![starts](https://img.shields.io/github/stars/h00die/CVE-2026-87690-POC.svg) ![forks](https://img.shields.io/github/forks/h00die/CVE-2026-87690-POC.svg)
+
 ## CVE-2026-87606
  Missing authorization in SiteIsolation in Google Chrome prior to 153.0.8010.36 allowed a remote attacker who had compromised the renderer process to bypass site isolation via a crafted HTML page. (Chromium security severity: Medium)
 
@@ -2774,6 +2808,10 @@ Remediation requires a firmware update from the vendor.
 - [https://github.com/Wh02m1/CVE-2026-78306](https://github.com/Wh02m1/CVE-2026-78306) : ![starts](https://img.shields.io/github/stars/Wh02m1/CVE-2026-78306.svg) ![forks](https://img.shields.io/github/forks/Wh02m1/CVE-2026-78306.svg)
 
 - [https://github.com/FEEDBEEF/Dji_ble_vuln](https://github.com/FEEDBEEF/Dji_ble_vuln) : ![starts](https://img.shields.io/github/stars/FEEDBEEF/Dji_ble_vuln.svg) ![forks](https://img.shields.io/github/forks/FEEDBEEF/Dji_ble_vuln.svg)
+
+## CVE-2026-78250
+
+- [https://github.com/n1kat/forkybot_AI](https://github.com/n1kat/forkybot_AI) : ![starts](https://img.shields.io/github/stars/n1kat/forkybot_AI.svg) ![forks](https://img.shields.io/github/forks/n1kat/forkybot_AI.svg)
 
 ## CVE-2026-78165
 > Deserialization of Untrusted Data vulnerability in Apache Camel Spring Redis component.
@@ -4620,6 +4658,8 @@ Discovered and responsibly disclosed by [the team at pwn.ai](https://pwn.ai/).
 - [https://github.com/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638](https://github.com/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638) : ![starts](https://img.shields.io/github/stars/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638.svg) ![forks](https://img.shields.io/github/forks/686f6c61/POC-WP-XSS2Shell-CVE-2026-64638.svg)
 
 - [https://github.com/Alixploit22/CVEX2SHEL](https://github.com/Alixploit22/CVEX2SHEL) : ![starts](https://img.shields.io/github/stars/Alixploit22/CVEX2SHEL.svg) ![forks](https://img.shields.io/github/forks/Alixploit22/CVEX2SHEL.svg)
+
+- [https://github.com/OFRPurpose/poc-cve-2026-64638](https://github.com/OFRPurpose/poc-cve-2026-64638) : ![starts](https://img.shields.io/github/stars/OFRPurpose/poc-cve-2026-64638.svg) ![forks](https://img.shields.io/github/forks/OFRPurpose/poc-cve-2026-64638.svg)
 
 ## CVE-2026-64633
  A vulnerability allowing remote unauthenticated code execution on the agent host.
@@ -16712,6 +16752,8 @@ been adjusted.
 - [https://github.com/jf-gondim/mcp-pwn](https://github.com/jf-gondim/mcp-pwn) : ![starts](https://img.shields.io/github/stars/jf-gondim/mcp-pwn.svg) ![forks](https://img.shields.io/github/forks/jf-gondim/mcp-pwn.svg)
 
 - [https://github.com/01xJB/CVE-2026-23744-POC](https://github.com/01xJB/CVE-2026-23744-POC) : ![starts](https://img.shields.io/github/stars/01xJB/CVE-2026-23744-POC.svg) ![forks](https://img.shields.io/github/forks/01xJB/CVE-2026-23744-POC.svg)
+
+- [https://github.com/wvverez/CVE-2026-23744](https://github.com/wvverez/CVE-2026-23744) : ![starts](https://img.shields.io/github/stars/wvverez/CVE-2026-23744.svg) ![forks](https://img.shields.io/github/forks/wvverez/CVE-2026-23744.svg)
 
 ## CVE-2026-23723
  WeGIA is a web manager for charitable institutions. Prior to 3.6.2, an authenticated SQL Injection vulnerability was identified in the Atendido_ocorrenciaControle endpoint via the id_memorando parameter. This flaw allows for full database exfiltration, exposure of sensitive PII, and potential arbitrary file reads in misconfigured environments. This vulnerability is fixed in 3.6.2.

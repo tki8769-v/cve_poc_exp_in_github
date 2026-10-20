@@ -2903,6 +2903,8 @@
 
 - [https://github.com/twq0316/work1-secure-rest-api](https://github.com/twq0316/work1-secure-rest-api) : ![starts](https://img.shields.io/github/stars/twq0316/work1-secure-rest-api.svg) ![forks](https://img.shields.io/github/forks/twq0316/work1-secure-rest-api.svg)
 
+- [https://github.com/foreverlanterns/secure-demo-api](https://github.com/foreverlanterns/secure-demo-api) : ![starts](https://img.shields.io/github/stars/foreverlanterns/secure-demo-api.svg) ![forks](https://img.shields.io/github/forks/foreverlanterns/secure-demo-api.svg)
+
 ## CVE-2021-41753
  A denial-of-service attack in WPA2, and WPA3-SAE authentication methods in D-Link DIR-X1560, v1.04B04, and DIR-X6060, v1.11B04 allows a remote unauthenticated attacker to disconnect a wireless client via sending specific spoofed SAE authentication frames.
 
@@ -8010,6 +8012,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/zxybfq/CVE-2021-4034](https://github.com/zxybfq/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/zxybfq/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/zxybfq/CVE-2021-4034.svg)
 
 - [https://github.com/SerhiiMaruniak/CVE-2021-4034](https://github.com/SerhiiMaruniak/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/SerhiiMaruniak/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/SerhiiMaruniak/CVE-2021-4034.svg)
+
+- [https://github.com/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab](https://github.com/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab) : ![starts](https://img.shields.io/github/stars/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab.svg) ![forks](https://img.shields.io/github/forks/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab.svg)
 
 ## CVE-2021-3975
  A use-after-free flaw was found in libvirt. The qemuMonitorUnregister() function in qemuProcessHandleMonitorEOF is called using multiple threads without being adequately protected by a monitor lock. This flaw could be triggered by the virConnectGetAllDomainStats API when the guest is shutting down. An unprivileged client with a read-only connection could use this flaw to perform a denial of service attack by causing the libvirt daemon to crash.

@@ -15,8 +15,13 @@
 
 - [https://github.com/kilokite/old-phone-temp-root](https://github.com/kilokite/old-phone-temp-root) : ![starts](https://img.shields.io/github/stars/kilokite/old-phone-temp-root.svg) ![forks](https://img.shields.io/github/forks/kilokite/old-phone-temp-root.svg)
 
+## CVE-2021-4034
+
+- [https://github.com/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab](https://github.com/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab) : ![starts](https://img.shields.io/github/stars/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab.svg) ![forks](https://img.shields.io/github/forks/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab.svg)
+
 ## CVE-2021-41773
 
+- [https://github.com/foreverlanterns/secure-demo-api](https://github.com/foreverlanterns/secure-demo-api) : ![starts](https://img.shields.io/github/stars/foreverlanterns/secure-demo-api.svg) ![forks](https://img.shields.io/github/forks/foreverlanterns/secure-demo-api.svg)
 - [https://github.com/twq0316/work1-secure-rest-api](https://github.com/twq0316/work1-secure-rest-api) : ![starts](https://img.shields.io/github/stars/twq0316/work1-secure-rest-api.svg) ![forks](https://img.shields.io/github/forks/twq0316/work1-secure-rest-api.svg)
 
 ## CVE-2021-44228
@@ -32,6 +37,10 @@
 
 - [https://github.com/UpWguyy/CVE-2023-24329-PoC](https://github.com/UpWguyy/CVE-2023-24329-PoC) : ![starts](https://img.shields.io/github/stars/UpWguyy/CVE-2023-24329-PoC.svg) ![forks](https://img.shields.io/github/forks/UpWguyy/CVE-2023-24329-PoC.svg)
 
+## CVE-2024-11142
+
+- [https://github.com/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability](https://github.com/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability) : ![starts](https://img.shields.io/github/stars/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability.svg) ![forks](https://img.shields.io/github/forks/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability.svg)
+
 ## CVE-2024-21762
 
 - [https://github.com/Deekshitha2203/security-triage-agent-cybersec590](https://github.com/Deekshitha2203/security-triage-agent-cybersec590) : ![starts](https://img.shields.io/github/stars/Deekshitha2203/security-triage-agent-cybersec590.svg) ![forks](https://img.shields.io/github/forks/Deekshitha2203/security-triage-agent-cybersec590.svg)
@@ -39,6 +48,10 @@
 ## CVE-2025-31324
 
 - [https://github.com/CyberGramps007/CYB-403](https://github.com/CyberGramps007/CYB-403) : ![starts](https://img.shields.io/github/stars/CyberGramps007/CYB-403.svg) ![forks](https://img.shields.io/github/forks/CyberGramps007/CYB-403.svg)
+
+## CVE-2025-5243
+
+- [https://github.com/ersinerenler/CVE-2025-5243-SMG-Software-Information-Portal-Arbitrary-File-Upload-Vulnerability](https://github.com/ersinerenler/CVE-2025-5243-SMG-Software-Information-Portal-Arbitrary-File-Upload-Vulnerability) : ![starts](https://img.shields.io/github/stars/ersinerenler/CVE-2025-5243-SMG-Software-Information-Portal-Arbitrary-File-Upload-Vulnerability.svg) ![forks](https://img.shields.io/github/forks/ersinerenler/CVE-2025-5243-SMG-Software-Information-Portal-Arbitrary-File-Upload-Vulnerability.svg)
 
 ## CVE-2025-5548
 
@@ -49,11 +62,34 @@
 
 - [https://github.com/xiaobai718-ab/CVE-2026-105484](https://github.com/xiaobai718-ab/CVE-2026-105484) : ![starts](https://img.shields.io/github/stars/xiaobai718-ab/CVE-2026-105484.svg) ![forks](https://img.shields.io/github/forks/xiaobai718-ab/CVE-2026-105484.svg)
 
+## CVE-2026-105810
+> Tapo C320WS
+V2.0 contains an authenticated stack-based buffer overflow in the local
+onboarding Wi-Fi configuration path. An authenticated attacker on the
+adjacent network can submit a crafted request containing an oversized encrypted
+password field, overwrite stack state, and execute commands with root
+privileges.
+
+
+
+
+
+Successful
+exploitation may allow an authenticated adjacent-network attacker to take
+control of the affected camera, modify camera behavior, access sensitive local
+configuration, 
+
+- [https://github.com/M0ud4/CVE-2026-105810](https://github.com/M0ud4/CVE-2026-105810) : ![starts](https://img.shields.io/github/stars/M0ud4/CVE-2026-105810.svg) ![forks](https://img.shields.io/github/forks/M0ud4/CVE-2026-105810.svg)
+
 ## CVE-2026-106173
 > A improper limitation of a pathname to a restricted directory (&#x27;path traversal&#x27;) vulnerability in Fortinet FortiSIEM 7.5.0 may allow attacker to execute unauthorized code or commands via specially crafted packets.
 
 - [https://github.com/0xBlackash/CVE-2026-106173](https://github.com/0xBlackash/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-106173.svg)
 - [https://github.com/horizon3ai/CVE-2026-106173](https://github.com/horizon3ai/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/horizon3ai/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/horizon3ai/CVE-2026-106173.svg)
+
+## CVE-2026-108097
+
+- [https://github.com/ExDev994/CVE-2026-108097](https://github.com/ExDev994/CVE-2026-108097) : ![starts](https://img.shields.io/github/stars/ExDev994/CVE-2026-108097.svg) ![forks](https://img.shields.io/github/forks/ExDev994/CVE-2026-108097.svg)
 
 ## CVE-2026-111057
 > Mercury is a Python framework for sharing Jupyter notebooks as web applications and dashboards. From 3.0.0 until 3.2.4, a missing comma in BLOCKED_PATTERNS concatenates the /lab and /api/terminals regular-expression literals. Requests to /api/terminals therefore bypass the anonymous endpoint blocklist and reach Jupyter Server&#x27;s terminal API. An unauthenticated attacker can use the resulting interactive operating-system shell to execute commands and access data available to the Mercury process. T
@@ -65,10 +101,22 @@
 
 - [https://github.com/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce](https://github.com/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce) : ![starts](https://img.shields.io/github/stars/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce.svg) ![forks](https://img.shields.io/github/forks/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce.svg)
 
+## CVE-2026-112071
+
+- [https://github.com/yuwkaaa/CVE-2026-112071](https://github.com/yuwkaaa/CVE-2026-112071) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-112071.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-112071.svg)
+
 ## CVE-2026-112195
 > A flaw has been found in FusionPBX up to 5.4.4/5.5.7/5.6.5. The affected element is an unknown function of the file app/dialplans/resources/classes/dialplan.php of the component Dialplan Editor. Executing a manipulation can lead to os command injection. The attack can be executed remotely. The exploit has been published and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/jasonbernier/Dialplan-Escape-RCE](https://github.com/jasonbernier/Dialplan-Escape-RCE) : ![starts](https://img.shields.io/github/stars/jasonbernier/Dialplan-Escape-RCE.svg) ![forks](https://img.shields.io/github/forks/jasonbernier/Dialplan-Escape-RCE.svg)
+
+## CVE-2026-113468
+
+- [https://github.com/yuwkaaa/CVE-2026-113468](https://github.com/yuwkaaa/CVE-2026-113468) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-113468.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-113468.svg)
+
+## CVE-2026-23744
+
+- [https://github.com/wvverez/CVE-2026-23744](https://github.com/wvverez/CVE-2026-23744) : ![starts](https://img.shields.io/github/stars/wvverez/CVE-2026-23744.svg) ![forks](https://img.shields.io/github/forks/wvverez/CVE-2026-23744.svg)
 
 ## CVE-2026-35273
 
@@ -113,6 +161,14 @@ which can result in an UAF:
 					      sighand = lock(old_leader, sighand);
 
 - [https://github.com/Yunnijian/OnePlus16-Jailbreak](https://github.com/Yunnijian/OnePlus16-Jailbreak) : ![starts](https://img.shields.io/github/stars/Yunnijian/OnePlus16-Jailbreak.svg) ![forks](https://img.shields.io/github/forks/Yunnijian/OnePlus16-Jailbreak.svg)
+
+## CVE-2026-64638
+
+- [https://github.com/OFRPurpose/poc-cve-2026-64638](https://github.com/OFRPurpose/poc-cve-2026-64638) : ![starts](https://img.shields.io/github/stars/OFRPurpose/poc-cve-2026-64638.svg) ![forks](https://img.shields.io/github/forks/OFRPurpose/poc-cve-2026-64638.svg)
+
+## CVE-2026-78250
+
+- [https://github.com/n1kat/forkybot_AI](https://github.com/n1kat/forkybot_AI) : ![starts](https://img.shields.io/github/stars/n1kat/forkybot_AI.svg) ![forks](https://img.shields.io/github/forks/n1kat/forkybot_AI.svg)
 
 ## CVE-2026-85260
 > Insertion of Sensitive Information into Log File vulnerability in Apache Camel MLLP component.
@@ -179,6 +235,11 @@ This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.
 CVE-2026-46584 addressed mail headers reaching the Exchange without passing through a header filter, but the MimeMultipart data format retained an unfiltered path: unmarshalling a multipart message mapped mail.smtp headers onto the Exchange with no filter applied. Those names sit outside the Camel namespace that consumer filters block, so
 
 - [https://github.com/oscerd/CVE-2026-85314](https://github.com/oscerd/CVE-2026-85314) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85314.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85314.svg)
+
+## CVE-2026-87690
+> The Metasploit Framework post module post/apple_ios/gather/ios_image_gather is affected by a relative path traversal vulnerability (CWE-22). The module interpolates file names taken from a Meterpreter directory listing — data fully controlled by a hostile or tampered iOS device — directly into the local destination path passed to client.fs.file.download_file(), with no sanitization. The underlying stdapi sink (lib/rex/post/meterpreter/extensions/stdapi/fs/file.rb) writes to whatever path is supp
+
+- [https://github.com/h00die/CVE-2026-87690-POC](https://github.com/h00die/CVE-2026-87690-POC) : ![starts](https://img.shields.io/github/stars/h00die/CVE-2026-87690-POC.svg) ![forks](https://img.shields.io/github/forks/h00die/CVE-2026-87690-POC.svg)
 
 ## CVE-2026-93300
 

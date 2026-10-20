@@ -8987,6 +8987,10 @@ The specific flaw exists within the handling of configuration files. The issue r
 
 - [https://github.com/NSQAQ/CVE-2024-11201](https://github.com/NSQAQ/CVE-2024-11201) : ![starts](https://img.shields.io/github/stars/NSQAQ/CVE-2024-11201.svg) ![forks](https://img.shields.io/github/forks/NSQAQ/CVE-2024-11201.svg)
 
+## CVE-2024-11142
+
+- [https://github.com/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability](https://github.com/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability) : ![starts](https://img.shields.io/github/stars/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability.svg) ![forks](https://img.shields.io/github/forks/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability.svg)
+
 ## CVE-2024-11042
  In invoke-ai/invokeai version v5.0.2, the web API `POST /api/v1/images/delete` is vulnerable to Arbitrary File Deletion. This vulnerability allows unauthorized attackers to delete arbitrary files on the server, potentially including critical or sensitive system files such as SSH keys, SQLite databases, and configuration files. This can impact the integrity and availability of applications relying on these files.
 

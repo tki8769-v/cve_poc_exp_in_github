@@ -14014,6 +14014,10 @@ NOTE: The vendor was contacted early about this disclosure but did not respond i
 
 - [https://github.com/aydin5245/CVE-2025-5252-CVE-ivanti](https://github.com/aydin5245/CVE-2025-5252-CVE-ivanti) : ![starts](https://img.shields.io/github/stars/aydin5245/CVE-2025-5252-CVE-ivanti.svg) ![forks](https://img.shields.io/github/forks/aydin5245/CVE-2025-5252-CVE-ivanti.svg)
 
+## CVE-2025-5243
+
+- [https://github.com/ersinerenler/CVE-2025-5243-SMG-Software-Information-Portal-Arbitrary-File-Upload-Vulnerability](https://github.com/ersinerenler/CVE-2025-5243-SMG-Software-Information-Portal-Arbitrary-File-Upload-Vulnerability) : ![starts](https://img.shields.io/github/stars/ersinerenler/CVE-2025-5243-SMG-Software-Information-Portal-Arbitrary-File-Upload-Vulnerability.svg) ![forks](https://img.shields.io/github/forks/ersinerenler/CVE-2025-5243-SMG-Software-Information-Portal-Arbitrary-File-Upload-Vulnerability.svg)
+
 ## CVE-2025-5239
  The Domain For Sale plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the ‘class_name’ parameter in all versions up to, and including, 3.0.10 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with Contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 

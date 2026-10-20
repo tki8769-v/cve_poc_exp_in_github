@@ -3392,3 +3392,23 @@
 {"cve_id": "CVE-2023-24329", "ts": "2026-10-20T15:23:39Z", "type": "new_poc", "url": "https://github.com/UpWguyy/CVE-2023-24329-PoC"}
 {"cve_id": "CVE-2026-36213", "ts": "2026-10-20T15:29:48Z", "type": "new_poc", "url": "https://github.com/NT2DEV/CVE-2026-36213-poc"}
 {"cve_id": "CVE-2016-5195", "ts": "2026-10-20T15:30:58Z", "type": "new_poc", "url": "https://github.com/joshfng/root-honda"}
+{"cve_id": "CVE-2024-54581", "ts": "2026-10-20T20:34:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77225", "ts": "2026-10-20T20:40:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77227", "ts": "2026-10-20T20:40:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77228", "ts": "2026-10-20T20:40:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-90050", "ts": "2026-10-20T20:45:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-90052", "ts": "2026-10-20T20:45:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98165", "ts": "2026-10-20T20:49:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98654", "ts": "2026-10-20T20:50:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105810", "ts": "2026-10-20T20:58:22Z", "type": "new_poc", "url": "https://github.com/M0ud4/CVE-2026-105810"}
+{"cve_id": "CVE-2026-108097", "ts": "2026-10-20T20:58:23Z", "type": "new_poc", "url": "https://github.com/ExDev994/CVE-2026-108097"}
+{"cve_id": "CVE-2026-113468", "ts": "2026-10-20T20:58:23Z", "type": "new_poc", "url": "https://github.com/yuwkaaa/CVE-2026-113468"}
+{"cve_id": "CVE-2026-112071", "ts": "2026-10-20T20:58:24Z", "type": "new_poc", "url": "https://github.com/yuwkaaa/CVE-2026-112071"}
+{"cve_id": "CVE-2026-23744", "ts": "2026-10-20T20:58:24Z", "type": "new_poc", "url": "https://github.com/wvverez/CVE-2026-23744"}
+{"cve_id": "CVE-2026-87690", "ts": "2026-10-20T20:58:24Z", "type": "new_poc", "url": "https://github.com/h00die/CVE-2026-87690-POC"}
+{"cve_id": "CVE-2026-64638", "ts": "2026-10-20T20:58:25Z", "type": "new_poc", "url": "https://github.com/OFRPurpose/poc-cve-2026-64638"}
+{"cve_id": "CVE-2024-11142", "ts": "2026-10-20T20:58:25Z", "type": "new_poc", "url": "https://github.com/ersinerenler/CVE-2024-11142-Gosoft-Proticaret-E-Commerce-CSRF-Vulnerability"}
+{"cve_id": "CVE-2025-5243", "ts": "2026-10-20T20:58:26Z", "type": "new_poc", "url": "https://github.com/ersinerenler/CVE-2025-5243-SMG-Software-Information-Portal-Arbitrary-File-Upload-Vulnerability"}
+{"cve_id": "CVE-2021-41773", "ts": "2026-10-20T20:58:26Z", "type": "new_poc", "url": "https://github.com/foreverlanterns/secure-demo-api"}
+{"cve_id": "CVE-2021-4034", "ts": "2026-10-20T20:58:26Z", "type": "new_poc", "url": "https://github.com/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab"}
+{"cve_id": "CVE-2026-78250", "ts": "2026-10-20T20:58:26Z", "type": "new_poc", "url": "https://github.com/n1kat/forkybot_AI"}

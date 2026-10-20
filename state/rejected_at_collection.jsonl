@@ -1557,3 +1557,13 @@
 {"cve_id": "CVE-2019-1218", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:51:05Z", "url": "https://github.com/Drew-Alleman/CVE-2019-12185", "url_ids": ["CVE-2019-12185"]}
 {"cve_id": "CVE-2018-1259", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T15:00:45Z", "url": "https://github.com/alt3kx/CVE-2018-12597", "url_ids": ["CVE-2018-12597"]}
 {"cve_id": "CVE-2018-1259", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T15:00:45Z", "url": "https://github.com/alt3kx/CVE-2018-12598", "url_ids": ["CVE-2018-12598"]}
+{"cve_id": "CVE-2026-9226", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T20:59:01Z", "url": "https://github.com/SeanDishman/mariadb-cve-2026-92262", "url_ids": ["CVE-2026-92262"]}
+{"cve_id": "CVE-2025-4396", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T20:59:05Z", "url": "https://github.com/far00t01/CVE-2025-43960", "url_ids": ["CVE-2025-43960"]}
+{"cve_id": "CVE-2019-2022", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:05:35Z", "url": "https://github.com/mhaskar/CVE-2019-20224", "url_ids": ["CVE-2019-20224"]}
+{"cve_id": "CVE-2026-9352", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:05:42Z", "url": "https://github.com/muradislamzada/CVE-2026-93528", "url_ids": ["CVE-2026-93528"]}
+{"cve_id": "CVE-2024-3177", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:06:35Z", "url": "https://github.com/FreySolarEye/Exploit-CVE-2024-31777", "url_ids": ["CVE-2024-31777"]}
+{"cve_id": "CVE-2026-2441", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:06:40Z", "url": "https://github.com/lukasz-rybak/CVE-2026-24418", "url_ids": ["CVE-2026-24418"]}
+{"cve_id": "CVE-2026-2441", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:06:40Z", "url": "https://github.com/lukasz-rybak/CVE-2026-24415", "url_ids": ["CVE-2026-24415"]}
+{"cve_id": "CVE-2026-2441", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:06:40Z", "url": "https://github.com/lukasz-rybak/CVE-2026-24417", "url_ids": ["CVE-2026-24417"]}
+{"cve_id": "CVE-2026-2441", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:06:40Z", "url": "https://github.com/lukasz-rybak/CVE-2026-24419", "url_ids": ["CVE-2026-24419"]}
+{"cve_id": "CVE-2026-2441", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:06:40Z", "url": "https://github.com/lukasz-rybak/CVE-2026-24416", "url_ids": ["CVE-2026-24416"]}
