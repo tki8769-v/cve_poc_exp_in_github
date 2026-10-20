@@ -1555,3 +1555,5 @@
 {"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678", "url_ids": ["CVE-2025-57819", "CVE-2025-61678"]}
 {"cve_id": "CVE-2019-1218", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:51:05Z", "url": "https://github.com/mavlevin/CVE-2019-12181", "url_ids": ["CVE-2019-12181"]}
 {"cve_id": "CVE-2019-1218", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:51:05Z", "url": "https://github.com/Drew-Alleman/CVE-2019-12185", "url_ids": ["CVE-2019-12185"]}
+{"cve_id": "CVE-2018-1259", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T15:00:45Z", "url": "https://github.com/alt3kx/CVE-2018-12597", "url_ids": ["CVE-2018-12597"]}
+{"cve_id": "CVE-2018-1259", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T15:00:45Z", "url": "https://github.com/alt3kx/CVE-2018-12598", "url_ids": ["CVE-2018-12598"]}

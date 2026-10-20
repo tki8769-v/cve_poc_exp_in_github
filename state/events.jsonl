@@ -3373,3 +3373,10 @@
 {"cve_id": "CVE-2021-44228", "ts": "2026-10-20T14:29:42Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2026"}
 {"cve_id": "CVE-2026-64560", "ts": "2026-10-20T14:29:42Z", "type": "new_poc", "url": "https://github.com/Yunnijian/OnePlus16-Jailbreak"}
 {"cve_id": "CVE-2019-2215", "ts": "2026-10-20T14:29:42Z", "type": "new_poc", "url": "https://github.com/kilokite/old-phone-temp-root"}
+{"cve_id": "CVE-2026-77225", "ts": "2026-10-20T14:42:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77227", "ts": "2026-10-20T14:42:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77228", "ts": "2026-10-20T14:42:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-90050", "ts": "2026-10-20T14:45:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-90052", "ts": "2026-10-20T14:45:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98165", "ts": "2026-10-20T14:47:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98654", "ts": "2026-10-20T14:49:13Z", "type": "cve_rejected"}
