@@ -213,6 +213,8 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 - [https://github.com/horizon3ai/CVE-2026-106173](https://github.com/horizon3ai/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/horizon3ai/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/horizon3ai/CVE-2026-106173.svg)
 
+- [https://github.com/0xBlackash/CVE-2026-106173](https://github.com/0xBlackash/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-106173.svg)
+
 ## CVE-2026-105950
 > A security vulnerability has been detected in getformwork formwork up to 2.3.12. Impacted is the function DomSanitizer::sanitizeNodeAttribute of the file formwork/src/Sanitizer/DomSanitizer.php of the component URI Sanitizer. Such manipulation of the argument formaction leads to cross site scripting. The attack may be launched remotely. Upgrading to version 2.3.13 is recommended to address this issue. The name of the patch is 729701e59c5886685c5a1d477bdc3035e41f18b1. Upgrading the affected compo
 
@@ -12347,6 +12349,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 - [https://github.com/sec-zone/CVE-2026-36213](https://github.com/sec-zone/CVE-2026-36213) : ![starts](https://img.shields.io/github/stars/sec-zone/CVE-2026-36213.svg) ![forks](https://img.shields.io/github/forks/sec-zone/CVE-2026-36213.svg)
 
 - [https://github.com/yzy0okrkv1hngo0r/CVE-2026-36213-poc](https://github.com/yzy0okrkv1hngo0r/CVE-2026-36213-poc) : ![starts](https://img.shields.io/github/stars/yzy0okrkv1hngo0r/CVE-2026-36213-poc.svg) ![forks](https://img.shields.io/github/forks/yzy0okrkv1hngo0r/CVE-2026-36213-poc.svg)
+
+- [https://github.com/NT2DEV/CVE-2026-36213-poc](https://github.com/NT2DEV/CVE-2026-36213-poc) : ![starts](https://img.shields.io/github/stars/NT2DEV/CVE-2026-36213-poc.svg) ![forks](https://img.shields.io/github/forks/NT2DEV/CVE-2026-36213-poc.svg)
 
 ## CVE-2026-36028
  A protection mechanism failure in the Code 27 Companion Hub allows an attacker with physical access to completely bypass kiosk restrictions via a factory reset
@@ -30112,6 +30116,7 @@ allow an unauthenticated attacker to read or manipulate device data.
 - [https://github.com/r0otk3r/CVE-2025-41646](https://github.com/r0otk3r/CVE-2025-41646) : ![starts](https://img.shields.io/github/stars/r0otk3r/CVE-2025-41646.svg) ![forks](https://img.shields.io/github/forks/r0otk3r/CVE-2025-41646.svg)
 
 ## CVE-2025-41450
+> Improper Authentication vulnerability in Danfoss AKSM8xxA Series.This issue affects Danfoss AK-SM 8xxA Series prior to version 4.2
 
 - [https://github.com/msuiche/fromagegate](https://github.com/msuiche/fromagegate) : ![starts](https://img.shields.io/github/stars/msuiche/fromagegate.svg) ![forks](https://img.shields.io/github/forks/msuiche/fromagegate.svg)
 
@@ -58828,6 +58833,8 @@ Note that, like all of the file upload limits, the
 - [https://github.com/Pandante-Central/CVE-2023-24329-codeql-test](https://github.com/Pandante-Central/CVE-2023-24329-codeql-test) : ![starts](https://img.shields.io/github/stars/Pandante-Central/CVE-2023-24329-codeql-test.svg) ![forks](https://img.shields.io/github/forks/Pandante-Central/CVE-2023-24329-codeql-test.svg)
 
 - [https://github.com/H4R335HR/CVE-2023-24329-PoC](https://github.com/H4R335HR/CVE-2023-24329-PoC) : ![starts](https://img.shields.io/github/stars/H4R335HR/CVE-2023-24329-PoC.svg) ![forks](https://img.shields.io/github/forks/H4R335HR/CVE-2023-24329-PoC.svg)
+
+- [https://github.com/UpWguyy/CVE-2023-24329-PoC](https://github.com/UpWguyy/CVE-2023-24329-PoC) : ![starts](https://img.shields.io/github/stars/UpWguyy/CVE-2023-24329-PoC.svg) ![forks](https://img.shields.io/github/forks/UpWguyy/CVE-2023-24329-PoC.svg)
 
 ## CVE-2023-24317
  Judging Management System 1.0 was discovered to contain an arbitrary file upload vulnerability via the component edit_organizer.php.
@@ -100785,6 +100792,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 - [https://github.com/Mr-Ochobot/CVE-2016-5195](https://github.com/Mr-Ochobot/CVE-2016-5195) : ![starts](https://img.shields.io/github/stars/Mr-Ochobot/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/Mr-Ochobot/CVE-2016-5195.svg)
 
 - [https://github.com/bL8nCO/Dirty-cow](https://github.com/bL8nCO/Dirty-cow) : ![starts](https://img.shields.io/github/stars/bL8nCO/Dirty-cow.svg) ![forks](https://img.shields.io/github/forks/bL8nCO/Dirty-cow.svg)
+
+- [https://github.com/joshfng/root-honda](https://github.com/joshfng/root-honda) : ![starts](https://img.shields.io/github/stars/joshfng/root-honda.svg) ![forks](https://img.shields.io/github/forks/joshfng/root-honda.svg)
 
 ## CVE-2016-5180
  Heap-based buffer overflow in the ares_create_query function in c-ares 1.x before 1.12.0 allows remote attackers to cause a denial of service (out-of-bounds write) or possibly execute arbitrary code via a hostname with an escaped trailing dot.

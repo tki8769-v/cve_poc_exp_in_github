@@ -6768,6 +6768,7 @@ allow an unauthenticated attacker to read or manipulate device data.
 - [https://github.com/r0otk3r/CVE-2025-41646](https://github.com/r0otk3r/CVE-2025-41646) : ![starts](https://img.shields.io/github/stars/r0otk3r/CVE-2025-41646.svg) ![forks](https://img.shields.io/github/forks/r0otk3r/CVE-2025-41646.svg)
 
 ## CVE-2025-41450
+> Improper Authentication vulnerability in Danfoss AKSM8xxA Series.This issue affects Danfoss AK-SM 8xxA Series prior to version 4.2
 
 - [https://github.com/msuiche/fromagegate](https://github.com/msuiche/fromagegate) : ![starts](https://img.shields.io/github/stars/msuiche/fromagegate.svg) ![forks](https://img.shields.io/github/forks/msuiche/fromagegate.svg)
 

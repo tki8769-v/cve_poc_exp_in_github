@@ -1,4 +1,8 @@
 # Update 2026-10-20
+## CVE-2016-5195
+
+- [https://github.com/joshfng/root-honda](https://github.com/joshfng/root-honda) : ![starts](https://img.shields.io/github/stars/joshfng/root-honda.svg) ![forks](https://img.shields.io/github/forks/joshfng/root-honda.svg)
+
 ## CVE-2017-0143
 
 - [https://github.com/BlessingOlaniyan/cve-2017-0143-smbv1-analysis](https://github.com/BlessingOlaniyan/cve-2017-0143-smbv1-analysis) : ![starts](https://img.shields.io/github/stars/BlessingOlaniyan/cve-2017-0143-smbv1-analysis.svg) ![forks](https://img.shields.io/github/forks/BlessingOlaniyan/cve-2017-0143-smbv1-analysis.svg)
@@ -23,6 +27,11 @@
 
 - [https://github.com/toluwanimidurosomo/CYB-401-](https://github.com/toluwanimidurosomo/CYB-401-) : ![starts](https://img.shields.io/github/stars/toluwanimidurosomo/CYB-401-.svg) ![forks](https://img.shields.io/github/forks/toluwanimidurosomo/CYB-401-.svg)
 
+## CVE-2023-24329
+> An issue in the urllib.parse component of Python before 3.11.4 allows attackers to bypass blocklisting methods by supplying a URL that starts with blank characters.
+
+- [https://github.com/UpWguyy/CVE-2023-24329-PoC](https://github.com/UpWguyy/CVE-2023-24329-PoC) : ![starts](https://img.shields.io/github/stars/UpWguyy/CVE-2023-24329-PoC.svg) ![forks](https://img.shields.io/github/forks/UpWguyy/CVE-2023-24329-PoC.svg)
+
 ## CVE-2024-21762
 
 - [https://github.com/Deekshitha2203/security-triage-agent-cybersec590](https://github.com/Deekshitha2203/security-triage-agent-cybersec590) : ![starts](https://img.shields.io/github/stars/Deekshitha2203/security-triage-agent-cybersec590.svg) ![forks](https://img.shields.io/github/forks/Deekshitha2203/security-triage-agent-cybersec590.svg)
@@ -43,6 +52,7 @@
 ## CVE-2026-106173
 > A improper limitation of a pathname to a restricted directory (&#x27;path traversal&#x27;) vulnerability in Fortinet FortiSIEM 7.5.0 may allow attacker to execute unauthorized code or commands via specially crafted packets.
 
+- [https://github.com/0xBlackash/CVE-2026-106173](https://github.com/0xBlackash/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-106173.svg)
 - [https://github.com/horizon3ai/CVE-2026-106173](https://github.com/horizon3ai/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/horizon3ai/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/horizon3ai/CVE-2026-106173.svg)
 
 ## CVE-2026-111057
@@ -63,6 +73,10 @@
 ## CVE-2026-35273
 
 - [https://github.com/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-](https://github.com/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-) : ![starts](https://img.shields.io/github/stars/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-.svg) ![forks](https://img.shields.io/github/forks/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-.svg)
+
+## CVE-2026-36213
+
+- [https://github.com/NT2DEV/CVE-2026-36213-poc](https://github.com/NT2DEV/CVE-2026-36213-poc) : ![starts](https://img.shields.io/github/stars/NT2DEV/CVE-2026-36213-poc.svg) ![forks](https://img.shields.io/github/forks/NT2DEV/CVE-2026-36213-poc.svg)
 
 ## CVE-2026-43499
 > In the Linux kernel, the following vulnerability has been resolved:

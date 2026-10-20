@@ -212,6 +212,8 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 - [https://github.com/horizon3ai/CVE-2026-106173](https://github.com/horizon3ai/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/horizon3ai/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/horizon3ai/CVE-2026-106173.svg)
 
+- [https://github.com/0xBlackash/CVE-2026-106173](https://github.com/0xBlackash/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-106173.svg)
+
 ## CVE-2026-105950
 > A security vulnerability has been detected in getformwork formwork up to 2.3.12. Impacted is the function DomSanitizer::sanitizeNodeAttribute of the file formwork/src/Sanitizer/DomSanitizer.php of the component URI Sanitizer. Such manipulation of the argument formaction leads to cross site scripting. The attack may be launched remotely. Upgrading to version 2.3.13 is recommended to address this issue. The name of the patch is 729701e59c5886685c5a1d477bdc3035e41f18b1. Upgrading the affected compo
 
@@ -12346,6 +12348,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 - [https://github.com/sec-zone/CVE-2026-36213](https://github.com/sec-zone/CVE-2026-36213) : ![starts](https://img.shields.io/github/stars/sec-zone/CVE-2026-36213.svg) ![forks](https://img.shields.io/github/forks/sec-zone/CVE-2026-36213.svg)
 
 - [https://github.com/yzy0okrkv1hngo0r/CVE-2026-36213-poc](https://github.com/yzy0okrkv1hngo0r/CVE-2026-36213-poc) : ![starts](https://img.shields.io/github/stars/yzy0okrkv1hngo0r/CVE-2026-36213-poc.svg) ![forks](https://img.shields.io/github/forks/yzy0okrkv1hngo0r/CVE-2026-36213-poc.svg)
+
+- [https://github.com/NT2DEV/CVE-2026-36213-poc](https://github.com/NT2DEV/CVE-2026-36213-poc) : ![starts](https://img.shields.io/github/stars/NT2DEV/CVE-2026-36213-poc.svg) ![forks](https://img.shields.io/github/forks/NT2DEV/CVE-2026-36213-poc.svg)
 
 ## CVE-2026-36028
  A protection mechanism failure in the Code 27 Companion Hub allows an attacker with physical access to completely bypass kiosk restrictions via a factory reset
