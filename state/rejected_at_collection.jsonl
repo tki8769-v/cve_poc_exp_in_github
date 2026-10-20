@@ -1536,3 +1536,22 @@
 {"cve_id": "CVE-2026-5782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:10:16Z", "url": "https://github.com/Candisexterior171/CVE-2026-57827", "url_ids": ["CVE-2026-57827"]}
 {"cve_id": "CVE-2025-3604", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:13:18Z", "url": "https://github.com/byteReaper77/CVE-2025-36041", "url_ids": ["CVE-2025-36041"]}
 {"cve_id": "CVE-2018-1156", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:32:47Z", "url": "https://github.com/GeunSam2/CVE-2018-11564", "url_ids": ["CVE-2018-11564"]}
+{"cve_id": "CVE-2019-2548", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:45:54Z", "url": "https://github.com/TheMalwareGuardian/CVE-2019-25485", "url_ids": ["CVE-2019-25485"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/MuhammadWaseem29/SQL-Injection-and-RCE_CVE-2025-57819", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/b4sh2/CVE-2025-57819-poc", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/cybertechajju/cve-2025-57819", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/Jeanback1/CVE-2025-57819-exploit", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/orange0Mint/CVE-2025-57819_FreePBX", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/ozcanpng/CVE-2025-57819-FreePBX-RCE2Root", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/ImBIOS/lab-cve-2025-57819", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/rxerium/CVE-2025-57819", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/YuvrajSHAD/FreePBX-CVE-2025-57819", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/xV4nd3Rx/CVE-2025-57819_FreePBX-PoC", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/donggle0802-code/cve-2025-57819", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/r3vpwnx/CVE-2025-57819", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/TeteREN/CVE-2025-57819-RCE", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/shivammittal2403/cve-2025-57819-freepbx-range", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/Sucuri-Labs/CVE-2025-57819-ioc-check", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:50:54Z", "url": "https://github.com/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678", "url_ids": ["CVE-2025-57819", "CVE-2025-61678"]}
+{"cve_id": "CVE-2019-1218", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:51:05Z", "url": "https://github.com/mavlevin/CVE-2019-12181", "url_ids": ["CVE-2019-12181"]}
+{"cve_id": "CVE-2019-1218", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T06:51:05Z", "url": "https://github.com/Drew-Alleman/CVE-2019-12185", "url_ids": ["CVE-2019-12185"]}

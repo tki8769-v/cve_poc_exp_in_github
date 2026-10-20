@@ -3340,3 +3340,10 @@
 {"cve_id": "CVE-2026-98165", "ts": "2026-10-20T06:21:44Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-98654", "ts": "2026-10-20T06:22:44Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-10-20T06:25:49Z", "type": "new_poc", "url": "https://github.com/Escosis/V2463A-LPE"}
+{"cve_id": "CVE-2026-77225", "ts": "2026-10-20T06:36:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77227", "ts": "2026-10-20T06:36:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77228", "ts": "2026-10-20T06:36:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-90050", "ts": "2026-10-20T06:38:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-90052", "ts": "2026-10-20T06:38:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98165", "ts": "2026-10-20T06:40:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98654", "ts": "2026-10-20T06:41:19Z", "type": "cve_rejected"}
