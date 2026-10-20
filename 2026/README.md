@@ -2,6 +2,11 @@
 
 - [https://github.com/danish1162/CVE-2026-2035703-x300](https://github.com/danish1162/CVE-2026-2035703-x300) : ![starts](https://img.shields.io/github/stars/danish1162/CVE-2026-2035703-x300.svg) ![forks](https://img.shields.io/github/forks/danish1162/CVE-2026-2035703-x300.svg)
 
+## CVE-2026-112195
+> A flaw has been found in FusionPBX up to 5.4.4/5.5.7/5.6.5. The affected element is an unknown function of the file app/dialplans/resources/classes/dialplan.php of the component Dialplan Editor. Executing a manipulation can lead to os command injection. The attack can be executed remotely. The exploit has been published and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
+
+- [https://github.com/jasonbernier/Dialplan-Escape-RCE](https://github.com/jasonbernier/Dialplan-Escape-RCE) : ![starts](https://img.shields.io/github/stars/jasonbernier/Dialplan-Escape-RCE.svg) ![forks](https://img.shields.io/github/forks/jasonbernier/Dialplan-Escape-RCE.svg)
+
 ## CVE-2026-111823
 > Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encountering an unknown OAuth provider.
 
@@ -173,6 +178,7 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 - [https://github.com/azuk4r/CVE-2026-107159](https://github.com/azuk4r/CVE-2026-107159) : ![starts](https://img.shields.io/github/stars/azuk4r/CVE-2026-107159.svg) ![forks](https://img.shields.io/github/forks/azuk4r/CVE-2026-107159.svg)
 
 ## CVE-2026-107084
+> Slims (Senayan Library Management Systems) 9 Bulian 9.8.0 allows cross-site request forgery (CSRF) against admin/modules/circulation/loan_history_maintenance.php because the action=run GET parameter performs privileged, destructive operations with no CSRF token or POST confirmation, leading to data loss of loan history records.
 
 - [https://github.com/Primandito/CVE-2026-107084](https://github.com/Primandito/CVE-2026-107084) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-107084.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-107084.svg)
 
@@ -201,6 +207,11 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 - [https://github.com/murrez/CVE-2026-106445](https://github.com/murrez/CVE-2026-106445) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-106445.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-106445.svg)
 
+## CVE-2026-106173
+> A improper limitation of a pathname to a restricted directory (&#x27;path traversal&#x27;) vulnerability in Fortinet FortiSIEM 7.5.0 may allow attacker to execute unauthorized code or commands via specially crafted packets.
+
+- [https://github.com/horizon3ai/CVE-2026-106173](https://github.com/horizon3ai/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/horizon3ai/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/horizon3ai/CVE-2026-106173.svg)
+
 ## CVE-2026-105950
 > A security vulnerability has been detected in getformwork formwork up to 2.3.12. Impacted is the function DomSanitizer::sanitizeNodeAttribute of the file formwork/src/Sanitizer/DomSanitizer.php of the component URI Sanitizer. Such manipulation of the argument formaction leads to cross site scripting. The attack may be launched remotely. Upgrading to version 2.3.13 is recommended to address this issue. The name of the patch is 729701e59c5886685c5a1d477bdc3035e41f18b1. Upgrading the affected compo
 
@@ -210,6 +221,11 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 > Payload is a free and open source headless content management system. In versions from 3.0.0 before 3.88.0 and canary versions before 4.0.0-canary.27, an unauthenticated user can submit prototype-sensitive field paths when @payloadcms/plugin-import-export is enabled, causing unintended application behavior that can lead to remote code execution. This issue is fixed in versions 3.88.0 and 4.0.0-canary.27.
 
 - [https://github.com/murrez/CVE-2026-105844](https://github.com/murrez/CVE-2026-105844) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-105844.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-105844.svg)
+
+## CVE-2026-105484
+> A security vulnerability has been detected in TOTOLINK X6000R 9.4.0cu.652_B20230116. The impacted element is the function firmware_check of the file /cgi-bin/cstecgi.cgi of the component UploadFirmwareFile Handler. Such manipulation of the argument file_name leads to os command injection. The attack may be performed from remote.
+
+- [https://github.com/xiaobai718-ab/CVE-2026-105484](https://github.com/xiaobai718-ab/CVE-2026-105484) : ![starts](https://img.shields.io/github/stars/xiaobai718-ab/CVE-2026-105484.svg) ![forks](https://img.shields.io/github/forks/xiaobai718-ab/CVE-2026-105484.svg)
 
 ## CVE-2026-105445
 > An Incorrect Privilege Assignment vulnerability in Docker Hub&#x27;s account-to-organization conversion feature allowed an authenticated attacker to reassign a personal access token (PAT) they controlled to another Docker Hub user without rotating or revoking the token secret. The unchanged PAT then authenticated to the registry as the recipient and could pull, push, or delete images, within its scopes, in repositories accessible to that user, including organization repositories.
@@ -768,6 +784,12 @@ in depth measure, let&#x27;s also check before we complete the checksum
 
 - [https://github.com/nsrg-fmlorg/kpatch-alma-cve-2026-99999](https://github.com/nsrg-fmlorg/kpatch-alma-cve-2026-99999) : ![starts](https://img.shields.io/github/stars/nsrg-fmlorg/kpatch-alma-cve-2026-99999.svg) ![forks](https://img.shields.io/github/forks/nsrg-fmlorg/kpatch-alma-cve-2026-99999.svg)
 
+- [https://github.com/01luyicheng/CVE-2026-99999-analysis](https://github.com/01luyicheng/CVE-2026-99999-analysis) : ![starts](https://img.shields.io/github/stars/01luyicheng/CVE-2026-99999-analysis.svg) ![forks](https://img.shields.io/github/forks/01luyicheng/CVE-2026-99999-analysis.svg)
+
+- [https://github.com/01luyicheng/CVE-2026-99999-exploit](https://github.com/01luyicheng/CVE-2026-99999-exploit) : ![starts](https://img.shields.io/github/stars/01luyicheng/CVE-2026-99999-exploit.svg) ![forks](https://img.shields.io/github/forks/01luyicheng/CVE-2026-99999-exploit.svg)
+
+- [https://github.com/sqzer-x/cve-2026-99999-scanner](https://github.com/sqzer-x/cve-2026-99999-scanner) : ![starts](https://img.shields.io/github/stars/sqzer-x/cve-2026-99999-scanner.svg) ![forks](https://img.shields.io/github/forks/sqzer-x/cve-2026-99999-scanner.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -1226,6 +1248,10 @@ The Unauthenticated Stored XSS vulnerability in the WordPress core can be reprod
 > Frictionless through 5.20.0rc1 contains an OS command injection vulnerability in the explore console command that allows an attacker who supplies a crafted Data Package descriptor to execute arbitrary operating system commands as the user who explores it. Attackers can place shell metacharacters in resource path values within a datapackage.json descriptor, which are passed unsanitized to os.system through a shell, causing arbitrary command execution in the victim&#x27;s security context when they run
 
 - [https://github.com/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection](https://github.com/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection) : ![starts](https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection.svg) ![forks](https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection.svg)
+
+## CVE-2026-93300
+
+- [https://github.com/Datxzzz/CVE-2026-93300](https://github.com/Datxzzz/CVE-2026-93300) : ![starts](https://img.shields.io/github/stars/Datxzzz/CVE-2026-93300.svg) ![forks](https://img.shields.io/github/forks/Datxzzz/CVE-2026-93300.svg)
 
 ## CVE-2026-92966
 > The The Appointment Booking Plugin – LatePoint | Calendar &amp; Scheduling for WordPress plugin for WordPress is vulnerable to arbitrary shortcode execution in all versions up to, and including, 5.7.0. This is due to the software allowing users to execute an action that does not properly validate a value before running do_shortcode. This makes it possible for unauthenticated attackers to execute arbitrary shortcodes. The payload is planted during the unauthenticated booking flow and triggered when t
@@ -1840,6 +1866,72 @@ path involving usernames that begin with a prohibited character, allowing for th
 This issue w
 
 - [https://github.com/murrez/CVE-2026-85520](https://github.com/murrez/CVE-2026-85520) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-85520.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-85520.svg)
+
+## CVE-2026-85314
+> Improper Input Validation vulnerability in Apache Camel Mail component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+CVE-2026-46584 addressed mail headers reaching the Exchange without passing through a header filter, but the MimeMultipart data format retained an unfiltered path: unmarshalling a multipart message mapped mail.smtp headers onto the Exchange with no filter applied. Those names sit outside the Camel namespace that consumer filters block, so
+
+- [https://github.com/oscerd/CVE-2026-85314](https://github.com/oscerd/CVE-2026-85314) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85314.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85314.svg)
+
+## CVE-2026-85313
+> Permissive Cross-domain Policy with Untrusted Domains vulnerability in Apache Camel Jetty component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+Setting enableCORS on a Jetty endpoint installed Jetty&#x27;s CrossOriginFilter with its stock defaults, which accept every origin and allow credentials. An operator asking for CORS therefore obtained a policy that lets a page on any origin make credentialed cross-origin requests to the endpoint and read the respon
+
+- [https://github.com/oscerd/CVE-2026-85313](https://github.com/oscerd/CVE-2026-85313) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85313.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85313.svg)
+
+## CVE-2026-85312
+> Improper Input Validation vulnerability in Apache Camel Core component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+The saga processor consulted a header named Long-Running-Action to decide which saga an exchange belonged to. The name carries no Camel prefix, so it sits outside the namespace that consumer header filters block, and an external sender could supply it on an inbound message. That let the sender name the saga the exchange joined, attaching 
+
+- [https://github.com/oscerd/CVE-2026-85312](https://github.com/oscerd/CVE-2026-85312) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85312.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85312.svg)
+
+## CVE-2026-85301
+> Improper Authentication vulnerability in Apache Camel Keycloak component.
+
+This issue affects Apache Camel: from 4.15.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+
+
+
+The security processor validated the issuer of an introspected token only when the introspection response actually carried an iss claim. When the claim was absent the check was skipped rather than treated as a failure, so a token that the configured issuer did not mint could be accepted provided the introspection endpoint answered w
+
+- [https://github.com/oscerd/CVE-2026-85301](https://github.com/oscerd/CVE-2026-85301) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85301.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85301.svg)
+
+## CVE-2026-85300
+> Incorrect Default Permissions vulnerability in Apache Camel PQC component.
+
+This issue affects Apache Camel: from 4.12.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+When the component wrote generated key material to disk it did so with the permissions the process default umask produced, rather than restricting the file to its owner. On a host whose umask allows group or world read, the private key was therefore readable by other local accounts. The exposure is to a local party rather than to the 
+
+- [https://github.com/oscerd/CVE-2026-85300](https://github.com/oscerd/CVE-2026-85300) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85300.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85300.svg)
+
+## CVE-2026-85296
+> Exposure of Data Element to Wrong Session vulnerability in Apache Camel AS2 component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+Signing material belonging to an individual request was stored in state that is shared across requests rather than confined to the request being processed. Where a deployment serves more than one trading partner, concurrent or successive requests could therefore observe each other&#x27;s material, and a Message Disposition Notif
+
+- [https://github.com/oscerd/CVE-2026-85296](https://github.com/oscerd/CVE-2026-85296) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85296.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85296.svg)
+
+## CVE-2026-85260
+> Insertion of Sensitive Information into Log File vulnerability in Apache Camel MLLP component.
+
+This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.22.1.
+
+The camel-mllp component carries a logPhi option that governs whether HL7 payload content may be written to the log. It defaulted to true, so a deployment that did nothing logged protected health information out of the box. Two further paths wrote payload content to the log regardless of the setting, so even an oper
+
+- [https://github.com/oscerd/CVE-2026-85260](https://github.com/oscerd/CVE-2026-85260) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85260.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85260.svg)
 
 ## CVE-2026-85257
 > Generation of Error Message Containing Sensitive Information vulnerability in Apache Camel CXF component.
@@ -4822,6 +4914,8 @@ with mt exec") added a temporary workaround for that in 2010 which surv
 - [https://github.com/Feng1586/CVE-2026-64560-sources](https://github.com/Feng1586/CVE-2026-64560-sources) : ![starts](https://img.shields.io/github/stars/Feng1586/CVE-2026-64560-sources.svg) ![forks](https://img.shields.io/github/forks/Feng1586/CVE-2026-64560-sources.svg)
 
 - [https://github.com/itsmichiya/exploit-CVE-2026-64560](https://github.com/itsmichiya/exploit-CVE-2026-64560) : ![starts](https://img.shields.io/github/stars/itsmichiya/exploit-CVE-2026-64560.svg) ![forks](https://img.shields.io/github/forks/itsmichiya/exploit-CVE-2026-64560.svg)
+
+- [https://github.com/Yunnijian/OnePlus16-Jailbreak](https://github.com/Yunnijian/OnePlus16-Jailbreak) : ![starts](https://img.shields.io/github/stars/Yunnijian/OnePlus16-Jailbreak.svg) ![forks](https://img.shields.io/github/forks/Yunnijian/OnePlus16-Jailbreak.svg)
 
 ## CVE-2026-64531
  In the Linux kernel, the following vulnerability has been resolved:

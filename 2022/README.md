@@ -7031,6 +7031,10 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 
 - [https://github.com/lohith19/CVE-2022-3518](https://github.com/lohith19/CVE-2022-3518) : ![starts](https://img.shields.io/github/stars/lohith19/CVE-2022-3518.svg) ![forks](https://img.shields.io/github/forks/lohith19/CVE-2022-3518.svg)
 
+## CVE-2022-3509
+
+- [https://github.com/toluwanimidurosomo/CYB-401-](https://github.com/toluwanimidurosomo/CYB-401-) : ![starts](https://img.shields.io/github/stars/toluwanimidurosomo/CYB-401-.svg) ![forks](https://img.shields.io/github/forks/toluwanimidurosomo/CYB-401-.svg)
+
 ## CVE-2022-3464
  A vulnerability classified as problematic has been found in puppyCMS up to 5.1. This affects an unknown part of the file /admin/settings.php. The manipulation of the argument site_name leads to cross site scripting. It is possible to initiate the attack remotely. The associated identifier of this vulnerability is VDB-210699.
 

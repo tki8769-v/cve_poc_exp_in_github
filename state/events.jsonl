@@ -3347,3 +3347,29 @@
 {"cve_id": "CVE-2026-90052", "ts": "2026-10-20T06:38:32Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-98165", "ts": "2026-10-20T06:40:30Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-98654", "ts": "2026-10-20T06:41:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77225", "ts": "2026-10-20T14:19:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77227", "ts": "2026-10-20T14:19:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77228", "ts": "2026-10-20T14:19:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-90050", "ts": "2026-10-20T14:21:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-90052", "ts": "2026-10-20T14:21:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98165", "ts": "2026-10-20T14:24:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98654", "ts": "2026-10-20T14:25:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-85296", "ts": "2026-10-20T14:29:40Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-85296"}
+{"cve_id": "CVE-2026-85314", "ts": "2026-10-20T14:29:40Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-85314"}
+{"cve_id": "CVE-2026-85260", "ts": "2026-10-20T14:29:40Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-85260"}
+{"cve_id": "CVE-2026-93300", "ts": "2026-10-20T14:29:40Z", "type": "new_poc", "url": "https://github.com/Datxzzz/CVE-2026-93300"}
+{"cve_id": "CVE-2026-85300", "ts": "2026-10-20T14:29:40Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-85300"}
+{"cve_id": "CVE-2026-105484", "ts": "2026-10-20T14:29:40Z", "type": "new_poc", "url": "https://github.com/xiaobai718-ab/CVE-2026-105484"}
+{"cve_id": "CVE-2026-85313", "ts": "2026-10-20T14:29:41Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-85313"}
+{"cve_id": "CVE-2025-5548", "ts": "2026-10-20T14:29:41Z", "type": "new_poc", "url": "https://github.com/jonbondani/CVE-2025-5548"}
+{"cve_id": "CVE-2026-85301", "ts": "2026-10-20T14:29:41Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-85301"}
+{"cve_id": "CVE-2026-106173", "ts": "2026-10-20T14:29:41Z", "type": "new_poc", "url": "https://github.com/horizon3ai/CVE-2026-106173"}
+{"cve_id": "CVE-2026-85312", "ts": "2026-10-20T14:29:41Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-85312"}
+{"cve_id": "CVE-2026-99999", "ts": "2026-10-20T14:29:41Z", "type": "new_poc", "url": "https://github.com/sqzer-x/cve-2026-99999-scanner"}
+{"cve_id": "CVE-2026-99999", "ts": "2026-10-20T14:29:41Z", "type": "new_poc", "url": "https://github.com/01luyicheng/CVE-2026-99999-analysis"}
+{"cve_id": "CVE-2026-99999", "ts": "2026-10-20T14:29:41Z", "type": "new_poc", "url": "https://github.com/01luyicheng/CVE-2026-99999-exploit"}
+{"cve_id": "CVE-2022-3509", "ts": "2026-10-20T14:29:41Z", "type": "new_poc", "url": "https://github.com/toluwanimidurosomo/CYB-401-"}
+{"cve_id": "CVE-2025-31324", "ts": "2026-10-20T14:29:41Z", "type": "new_poc", "url": "https://github.com/CyberGramps007/CYB-403"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-10-20T14:29:42Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2026"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-10-20T14:29:42Z", "type": "new_poc", "url": "https://github.com/Yunnijian/OnePlus16-Jailbreak"}
+{"cve_id": "CVE-2019-2215", "ts": "2026-10-20T14:29:42Z", "type": "new_poc", "url": "https://github.com/kilokite/old-phone-temp-root"}
