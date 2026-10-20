@@ -1569,3 +1569,32 @@
 {"cve_id": "CVE-2026-2441", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:06:40Z", "url": "https://github.com/lukasz-rybak/CVE-2026-24416", "url_ids": ["CVE-2026-24416"]}
 {"cve_id": "CVE-2025-5534", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:38:00Z", "url": "https://github.com/GoldenTicketLabs/CVE-2025-55349", "url_ids": ["CVE-2025-55349"]}
 {"cve_id": "CVE-2026-6009", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T21:41:07Z", "url": "https://github.com/oscerd/CVE-2026-60093", "url_ids": ["CVE-2026-60093"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/ngvcanh/CVE-2025-55182-Attack-Analysis", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/kaxm23/CVE-2025-55182-Auto-Scanner", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/chitoz1300/React2Shell-CVE-2025-55182", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/shreyas-malhotra/React2Shell-CVE-2025-55182", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/Shadowroot97/React2Shell-CVE-2025-55182", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/JSH-data/CVE-2025-55184_CVE-2025-67779", "url_ids": ["CVE-2025-55184", "CVE-2025-67779"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/RashmithaDeSilva/React2Shell_CVE-2025-55182", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/lutraat/CVE-2025-55182-React-RSC-Exploit", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/aastikgakhar/CVE-2025-55182-react2shell", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/shakilkhatri/scanner-for-CVE-2025-55182-vulnerability", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/Industri4l-H3ll-Xpl0it3rs/CVE-2025-55182-React2Shell", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/aquinn-r7/CVE-2025-55182-VulnCheckPOC", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/RajChowdhury240/React2Shell-CVE-2025-55182", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/Jeanback1/react-rsc-cve-2025-55182-lab", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/aisha-jimoh/cve-2025-55182-react2shell-analysis", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/diamorphine666/React2shell-CVE-2025-55182-Exploit", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/porsellaj/cve-2025-55182-react2shell-analysis", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/razureink/cve-2025-55182-react2shell_reproduction", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/garux-sec/PoC-react2shell-CVE-2025-55182", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-parcel", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-turbopack", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/litndat/React2Shell-PoC-CVE-2025-55182", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/react2shell-repo-menagerie/CVE-2025-55182-single-nextjs-npm-rsc-webpack", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/eagle-nett/React2Shell-PoC-CVE-2025-55182", "url_ids": ["CVE-2025-55182"]}
+{"cve_id": "CVE-2025-5518", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:11:56Z", "url": "https://github.com/Mustafa1p/Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478", "url_ids": ["CVE-2025-55182", "CVE-2025-66478"]}
+{"cve_id": "CVE-2026-6919", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:14:38Z", "url": "https://github.com/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass", "url_ids": ["CVE-2026-69191"]}
+{"cve_id": "CVE-2026-9367", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:15:31Z", "url": "https://github.com/rmhowe425/POC-CVE-2026-93674", "url_ids": ["CVE-2026-93674"]}
+{"cve_id": "CVE-2026-3775", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:15:42Z", "url": "https://github.com/menevarad007/CVE-2026-37750", "url_ids": ["CVE-2026-37750"]}
+{"cve_id": "CVE-2024-4937", "reason": "prefix_conflict_evidenced", "ts": "2026-10-20T22:16:40Z", "url": "https://github.com/OHDUDEOKNICE/CVE-2024-49379", "url_ids": ["CVE-2024-49379"]}

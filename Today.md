@@ -57,6 +57,10 @@
 
 - [https://github.com/jonbondani/CVE-2025-5548](https://github.com/jonbondani/CVE-2025-5548) : ![starts](https://img.shields.io/github/stars/jonbondani/CVE-2025-5548.svg) ![forks](https://img.shields.io/github/forks/jonbondani/CVE-2025-5548.svg)
 
+## CVE-2025-8110
+
+- [https://github.com/kur0bai/CVE-2025-8110](https://github.com/kur0bai/CVE-2025-8110) : ![starts](https://img.shields.io/github/stars/kur0bai/CVE-2025-8110.svg) ![forks](https://img.shields.io/github/forks/kur0bai/CVE-2025-8110.svg)
+
 ## CVE-2026-105484
 > A security vulnerability has been detected in TOTOLINK X6000R 9.4.0cu.652_B20230116. The impacted element is the function firmware_check of the file /cgi-bin/cstecgi.cgi of the component UploadFirmwareFile Handler. Such manipulation of the argument file_name leads to os command injection. The attack may be performed from remote.
 
@@ -118,6 +122,10 @@ configuration,
 
 - [https://github.com/wvverez/CVE-2026-23744](https://github.com/wvverez/CVE-2026-23744) : ![starts](https://img.shields.io/github/stars/wvverez/CVE-2026-23744.svg) ![forks](https://img.shields.io/github/forks/wvverez/CVE-2026-23744.svg)
 
+## CVE-2026-24332
+
+- [https://github.com/LinkMakesMods/invisible-detector](https://github.com/LinkMakesMods/invisible-detector) : ![starts](https://img.shields.io/github/stars/LinkMakesMods/invisible-detector.svg) ![forks](https://img.shields.io/github/forks/LinkMakesMods/invisible-detector.svg)
+
 ## CVE-2026-35273
 
 - [https://github.com/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-](https://github.com/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-) : ![starts](https://img.shields.io/github/stars/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-.svg) ![forks](https://img.shields.io/github/forks/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-.svg)
@@ -165,6 +173,11 @@ which can result in an UAF:
 ## CVE-2026-64638
 
 - [https://github.com/OFRPurpose/poc-cve-2026-64638](https://github.com/OFRPurpose/poc-cve-2026-64638) : ![starts](https://img.shields.io/github/stars/OFRPurpose/poc-cve-2026-64638.svg) ![forks](https://img.shields.io/github/forks/OFRPurpose/poc-cve-2026-64638.svg)
+- [https://github.com/alisalive/xss2shell](https://github.com/alisalive/xss2shell) : ![starts](https://img.shields.io/github/stars/alisalive/xss2shell.svg) ![forks](https://img.shields.io/github/forks/alisalive/xss2shell.svg)
+
+## CVE-2026-72867
+
+- [https://github.com/Lulztigre/CVE-2026-72867](https://github.com/Lulztigre/CVE-2026-72867) : ![starts](https://img.shields.io/github/stars/Lulztigre/CVE-2026-72867.svg) ![forks](https://img.shields.io/github/forks/Lulztigre/CVE-2026-72867.svg)
 
 ## CVE-2026-78250
 

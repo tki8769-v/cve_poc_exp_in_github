@@ -3533,6 +3533,10 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
 
 - [https://github.com/gagaltotal/CVE-2026-72898-metabase](https://github.com/gagaltotal/CVE-2026-72898-metabase) : ![starts](https://img.shields.io/github/stars/gagaltotal/CVE-2026-72898-metabase.svg) ![forks](https://img.shields.io/github/forks/gagaltotal/CVE-2026-72898-metabase.svg)
 
+## CVE-2026-72867
+
+- [https://github.com/Lulztigre/CVE-2026-72867](https://github.com/Lulztigre/CVE-2026-72867) : ![starts](https://img.shields.io/github/stars/Lulztigre/CVE-2026-72867.svg) ![forks](https://img.shields.io/github/forks/Lulztigre/CVE-2026-72867.svg)
+
 ## CVE-2026-72844
  The Lean 4 kernel does not verify that the structure named in a projection expression matches the type of the value being projected, and environment::add_inductive in src/kernel/inductive.cpp did not type check the nested inductive applications that are replaced by auxiliary types, so their parametric arguments escaped checking. A metaprogram running in the Lean process can register an ill-typed nested inductive whose constructor applies a .proj C 0 projection to a value of the unrelated type W, and the kernel admits the declaration through the ordinary checked addDecl path at maximum kernel checking, without sorry, unsafeCast, debug.skipKernelTC, addDeclWithoutChecking, FFI, or a modified .olean file. The result is a type confusion yielding a proof of False that carries no axioms, from which any proposition can be derived. The published proof of concept additionally pads two expressions until their hashes and approximate depths collide, which defeats kernel caching; that is the technique used to reach the flaw, not its cause. Exploitation requires running a metaprogram in-process, for example by building a project or importing a malicious Lake dependency.
 
@@ -4660,6 +4664,8 @@ Discovered and responsibly disclosed by [the team at pwn.ai](https://pwn.ai/).
 - [https://github.com/Alixploit22/CVEX2SHEL](https://github.com/Alixploit22/CVEX2SHEL) : ![starts](https://img.shields.io/github/stars/Alixploit22/CVEX2SHEL.svg) ![forks](https://img.shields.io/github/forks/Alixploit22/CVEX2SHEL.svg)
 
 - [https://github.com/OFRPurpose/poc-cve-2026-64638](https://github.com/OFRPurpose/poc-cve-2026-64638) : ![starts](https://img.shields.io/github/stars/OFRPurpose/poc-cve-2026-64638.svg) ![forks](https://img.shields.io/github/forks/OFRPurpose/poc-cve-2026-64638.svg)
+
+- [https://github.com/alisalive/xss2shell](https://github.com/alisalive/xss2shell) : ![starts](https://img.shields.io/github/stars/alisalive/xss2shell.svg) ![forks](https://img.shields.io/github/forks/alisalive/xss2shell.svg)
 
 ## CVE-2026-64633
  A vulnerability allowing remote unauthenticated code execution on the agent host.
@@ -16253,6 +16259,8 @@ Users are recommended to upgrade to version 11.0.15 or later, 10.1.50 or later o
 - [https://github.com/0cqb/CVE-2026-24332](https://github.com/0cqb/CVE-2026-24332) : ![starts](https://img.shields.io/github/stars/0cqb/CVE-2026-24332.svg) ![forks](https://img.shields.io/github/forks/0cqb/CVE-2026-24332.svg)
 
 - [https://github.com/WhiteTPoison100/Discord-CVE-2026-24332-demo](https://github.com/WhiteTPoison100/Discord-CVE-2026-24332-demo) : ![starts](https://img.shields.io/github/stars/WhiteTPoison100/Discord-CVE-2026-24332-demo.svg) ![forks](https://img.shields.io/github/forks/WhiteTPoison100/Discord-CVE-2026-24332-demo.svg)
+
+- [https://github.com/LinkMakesMods/invisible-detector](https://github.com/LinkMakesMods/invisible-detector) : ![starts](https://img.shields.io/github/stars/LinkMakesMods/invisible-detector.svg) ![forks](https://img.shields.io/github/forks/LinkMakesMods/invisible-detector.svg)
 
 ## CVE-2026-24306
  Improper access control in Azure Front Door (AFD) allows an unauthorized attacker to elevate privileges over a network.
