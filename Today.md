@@ -7,6 +7,11 @@
 
 - [https://github.com/fahise/cve-2018-16763](https://github.com/fahise/cve-2018-16763) : ![starts](https://img.shields.io/github/stars/fahise/cve-2018-16763.svg) ![forks](https://img.shields.io/github/forks/fahise/cve-2018-16763.svg)
 
+## CVE-2020-1712
+> A heap use-after-free vulnerability was found in systemd before version v245-rc1, where asynchronous Polkit queries are performed while handling dbus messages. A local unprivileged attacker can abuse this flaw to crash systemd services or potentially execute code and elevate their privileges, by sending specially crafted dbus messages.
+
+- [https://github.com/davidajagbe/Vulnerability-assessment](https://github.com/davidajagbe/Vulnerability-assessment) : ![starts](https://img.shields.io/github/stars/davidajagbe/Vulnerability-assessment.svg) ![forks](https://img.shields.io/github/forks/davidajagbe/Vulnerability-assessment.svg)
+
 ## CVE-2021-26855
 
 - [https://github.com/ifeoluwaayodeji/CVE-2021-26855-Analysis](https://github.com/ifeoluwaayodeji/CVE-2021-26855-Analysis) : ![starts](https://img.shields.io/github/stars/ifeoluwaayodeji/CVE-2021-26855-Analysis.svg) ![forks](https://img.shields.io/github/forks/ifeoluwaayodeji/CVE-2021-26855-Analysis.svg)

@@ -1747,3 +1747,6 @@
 {"cve_id": "CVE-2018-1058", "reason": "prefix_conflict_evidenced", "ts": "2026-10-21T21:10:08Z", "url": "https://github.com/MrTaherAmine/CVE-2018-10583", "url_ids": ["CVE-2018-10583"]}
 {"cve_id": "CVE-2018-1058", "reason": "prefix_conflict_evidenced", "ts": "2026-10-21T21:10:08Z", "url": "https://github.com/octodi/CVE-2018-10583", "url_ids": ["CVE-2018-10583"]}
 {"cve_id": "CVE-2023-4281", "reason": "prefix_conflict_evidenced", "ts": "2026-10-21T21:12:10Z", "url": "https://github.com/C1ph3rX13/CVE-2023-42819", "url_ids": ["CVE-2023-42819"]}
+{"cve_id": "CVE-2019-1749", "reason": "prefix_conflict_evidenced", "ts": "2026-10-21T21:23:24Z", "url": "https://github.com/JM-Lemmi/cve-2019-17497", "url_ids": ["CVE-2019-17497"]}
+{"cve_id": "CVE-2026-5281", "reason": "prefix_conflict_evidenced", "ts": "2026-10-21T21:26:15Z", "url": "https://github.com/iqx6889/CVE-2026-52813-Gogs-RCE", "url_ids": ["CVE-2026-52813"]}
+{"cve_id": "CVE-2026-5281", "reason": "prefix_conflict_evidenced", "ts": "2026-10-21T21:26:15Z", "url": "https://github.com/HORKimhab/CVE-2026-52810", "url_ids": ["CVE-2026-52810"]}
