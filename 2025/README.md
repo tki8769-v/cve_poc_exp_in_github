@@ -6025,6 +6025,8 @@ Users of the artifact org.apache.commons:commons-beanutils2
 
 - [https://github.com/demining/Pixnapping-Attack-on-Android](https://github.com/demining/Pixnapping-Attack-on-Android) : ![starts](https://img.shields.io/github/stars/demining/Pixnapping-Attack-on-Android.svg) ![forks](https://img.shields.io/github/forks/demining/Pixnapping-Attack-on-Android.svg)
 
+- [https://github.com/Ife-cyb/CYB-401-Pixnapping-CVE-2025-48561](https://github.com/Ife-cyb/CYB-401-Pixnapping-CVE-2025-48561) : ![starts](https://img.shields.io/github/stars/Ife-cyb/CYB-401-Pixnapping-CVE-2025-48561.svg) ![forks](https://img.shields.io/github/forks/Ife-cyb/CYB-401-Pixnapping-CVE-2025-48561.svg)
+
 ## CVE-2025-48543
  In multiple locations, there is a possible way to escape chrome sandbox to attack android system_server due to a use after free. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 

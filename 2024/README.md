@@ -4808,6 +4808,10 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 
 - [https://github.com/absholi7ly/Poc-CVE-2024-32962-xml-crypto](https://github.com/absholi7ly/Poc-CVE-2024-32962-xml-crypto) : ![starts](https://img.shields.io/github/stars/absholi7ly/Poc-CVE-2024-32962-xml-crypto.svg) ![forks](https://img.shields.io/github/forks/absholi7ly/Poc-CVE-2024-32962-xml-crypto.svg)
 
+## CVE-2024-32868
+
+- [https://github.com/taiwoonileowo16-creator/CVE-2024-32868-Assignment-1](https://github.com/taiwoonileowo16-creator/CVE-2024-32868-Assignment-1) : ![starts](https://img.shields.io/github/stars/taiwoonileowo16-creator/CVE-2024-32868-Assignment-1.svg) ![forks](https://img.shields.io/github/forks/taiwoonileowo16-creator/CVE-2024-32868-Assignment-1.svg)
+
 ## CVE-2024-32830
  Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in ThemeKraft BuddyForms allows Server Side Request Forgery, Relative Path Traversal.This issue affects BuddyForms: from n/a through 2.8.8.
 
