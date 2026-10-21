@@ -10505,6 +10505,10 @@ This issue affects NSRW: from 4.3.0.0 before 4.3.0.119, from 4.4.0.0 before 4.4.
 
 - [https://github.com/RandomRobbieBF/CVE-2023-0630](https://github.com/RandomRobbieBF/CVE-2023-0630) : ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-0630.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-0630.svg)
 
+## CVE-2023-0482
+
+- [https://github.com/Bethel904/CVE-2023-0482-Analysis](https://github.com/Bethel904/CVE-2023-0482-Analysis) : ![starts](https://img.shields.io/github/stars/Bethel904/CVE-2023-0482-Analysis.svg) ![forks](https://img.shields.io/github/forks/Bethel904/CVE-2023-0482-Analysis.svg)
+
 ## CVE-2023-0464
  A security vulnerability has been identified in all supported versions
 

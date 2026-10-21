@@ -1744,3 +1744,6 @@
 {"cve_id": "CVE-2022-2284", "reason": "prefix_conflict_evidenced", "ts": "2026-10-21T14:53:05Z", "url": "https://github.com/OmriBaso/CVE-2022-22845-Exploit", "url_ids": ["CVE-2022-22845"]}
 {"cve_id": "CVE-2022-2304", "reason": "prefix_conflict_evidenced", "ts": "2026-10-21T14:54:00Z", "url": "https://github.com/bernauers/CVE-2022-23046", "url_ids": ["CVE-2022-23046"]}
 {"cve_id": "CVE-2022-3721", "reason": "prefix_conflict_evidenced", "ts": "2026-10-21T15:46:35Z", "url": "https://github.com/AgainstTheLight/CVE-2022-37210", "url_ids": ["CVE-2022-37210"]}
+{"cve_id": "CVE-2018-1058", "reason": "prefix_conflict_evidenced", "ts": "2026-10-21T21:10:08Z", "url": "https://github.com/MrTaherAmine/CVE-2018-10583", "url_ids": ["CVE-2018-10583"]}
+{"cve_id": "CVE-2018-1058", "reason": "prefix_conflict_evidenced", "ts": "2026-10-21T21:10:08Z", "url": "https://github.com/octodi/CVE-2018-10583", "url_ids": ["CVE-2018-10583"]}
+{"cve_id": "CVE-2023-4281", "reason": "prefix_conflict_evidenced", "ts": "2026-10-21T21:12:10Z", "url": "https://github.com/C1ph3rX13/CVE-2023-42819", "url_ids": ["CVE-2023-42819"]}

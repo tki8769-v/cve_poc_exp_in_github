@@ -3991,3 +3991,29 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-21T20:45:04Z", "type": "new_poc", "url": "https://github.com/luivc1/php-vuln-responder"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-21T20:45:05Z", "type": "new_poc", "url": "https://github.com/cseelhoff-ms/php2shell-hunting-pack"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-21T20:45:05Z", "type": "new_poc", "url": "https://github.com/denizkoekden/php56-el-backports"}
+{"cve_id": "CVE-2026-110923", "ts": "2026-10-21T20:55:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110924", "ts": "2026-10-21T20:55:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110925", "ts": "2026-10-21T20:55:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110926", "ts": "2026-10-21T20:55:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110927", "ts": "2026-10-21T20:55:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-16487", "ts": "2026-10-21T20:56:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110923", "ts": "2026-10-21T20:57:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110924", "ts": "2026-10-21T20:57:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110925", "ts": "2026-10-21T20:57:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110926", "ts": "2026-10-21T20:57:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110927", "ts": "2026-10-21T20:57:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-16487", "ts": "2026-10-21T20:57:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110923", "ts": "2026-10-21T20:58:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110924", "ts": "2026-10-21T20:58:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110925", "ts": "2026-10-21T20:58:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110926", "ts": "2026-10-21T20:58:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110927", "ts": "2026-10-21T20:58:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-16487", "ts": "2026-10-21T20:59:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110923", "ts": "2026-10-21T21:00:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110924", "ts": "2026-10-21T21:00:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110925", "ts": "2026-10-21T21:00:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110926", "ts": "2026-10-21T21:00:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110927", "ts": "2026-10-21T21:00:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-16487", "ts": "2026-10-21T21:00:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-0482", "ts": "2026-10-21T21:02:18Z", "type": "new_poc", "url": "https://github.com/Bethel904/CVE-2023-0482-Analysis"}
+{"cve_id": "CVE-2021-34527", "ts": "2026-10-21T21:02:21Z", "type": "new_poc", "url": "https://github.com/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md"}

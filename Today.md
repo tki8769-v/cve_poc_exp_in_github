@@ -12,6 +12,10 @@
 - [https://github.com/ifeoluwaayodeji/CVE-2021-26855-Analysis](https://github.com/ifeoluwaayodeji/CVE-2021-26855-Analysis) : ![starts](https://img.shields.io/github/stars/ifeoluwaayodeji/CVE-2021-26855-Analysis.svg) ![forks](https://img.shields.io/github/forks/ifeoluwaayodeji/CVE-2021-26855-Analysis.svg)
 - [https://github.com/layee27/JIMOH-ABDULLAHI](https://github.com/layee27/JIMOH-ABDULLAHI) : ![starts](https://img.shields.io/github/stars/layee27/JIMOH-ABDULLAHI.svg) ![forks](https://img.shields.io/github/forks/layee27/JIMOH-ABDULLAHI.svg)
 
+## CVE-2021-34527
+
+- [https://github.com/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md](https://github.com/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md) : ![starts](https://img.shields.io/github/stars/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md.svg) ![forks](https://img.shields.io/github/forks/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md.svg)
+
 ## CVE-2021-44228
 
 - [https://github.com/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell](https://github.com/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell) : ![starts](https://img.shields.io/github/stars/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell.svg) ![forks](https://img.shields.io/github/forks/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell.svg)
@@ -24,6 +28,10 @@
 ## CVE-2022-30190
 
 - [https://github.com/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research](https://github.com/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research) : ![starts](https://img.shields.io/github/stars/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research.svg) ![forks](https://img.shields.io/github/forks/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research.svg)
+
+## CVE-2023-0482
+
+- [https://github.com/Bethel904/CVE-2023-0482-Analysis](https://github.com/Bethel904/CVE-2023-0482-Analysis) : ![starts](https://img.shields.io/github/stars/Bethel904/CVE-2023-0482-Analysis.svg) ![forks](https://img.shields.io/github/forks/Bethel904/CVE-2023-0482-Analysis.svg)
 
 ## CVE-2023-32681
 

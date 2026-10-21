@@ -4423,6 +4423,8 @@ Note that the security updates released on and after July 6, 2021 contain protec
 
 - [https://github.com/HKenzoKimura/CVE-2021-1675](https://github.com/HKenzoKimura/CVE-2021-1675) : ![starts](https://img.shields.io/github/stars/HKenzoKimura/CVE-2021-1675.svg) ![forks](https://img.shields.io/github/forks/HKenzoKimura/CVE-2021-1675.svg)
 
+- [https://github.com/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md](https://github.com/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md) : ![starts](https://img.shields.io/github/stars/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md.svg) ![forks](https://img.shields.io/github/forks/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md.svg)
+
 ## CVE-2021-34523
  Microsoft Exchange Server Elevation of Privilege Vulnerability
 

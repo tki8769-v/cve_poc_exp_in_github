@@ -6948,3 +6948,9 @@
 {"cve_id": "CVE-2024-5775", "description": "", "reason": "empty_description_no_evidence", "ts": "2026-10-21T20:54:55Z", "url": "https://github.com/l00neyhacker/CVE-2024-57753"}
 {"cve_id": "CVE-2024-5775", "description": "", "reason": "empty_description_no_evidence", "ts": "2026-10-21T20:54:55Z", "url": "https://github.com/l00neyhacker/CVE-2024-57756"}
 {"cve_id": "CVE-2024-5775", "description": "", "reason": "empty_description_no_evidence", "ts": "2026-10-21T20:54:55Z", "url": "https://github.com/l00neyhacker/CVE-2024-57750"}
+{"cve_id": "CVE-2019-15126", "description": "Raw-packet Project", "reason": "multi_id_mention_unresolved", "ts": "2026-10-21T21:04:01Z", "url": "https://github.com/raw-packet/raw-packet"}
+{"cve_id": "CVE-2020-4464", "description": "CVE-2020-4464 / CVE-2020-4450", "reason": "multi_id_mention_unresolved", "ts": "2026-10-21T21:06:16Z", "url": "https://github.com/silentsignal/WebSphere-WSIF-gadget"}
+{"cve_id": "CVE-2023-39910", "description": "RAMnesia Attack: A Scientific Investigation of WireTap Threats to Bitcoin Infrastructure, Hardware Vulnerabilities (CVE-2025-6202, CVE-2023-39910), and Cryptanalytic Methods for ECDSA Key Recovery", "reason": "multi_id_mention_unresolved", "ts": "2026-10-21T21:07:10Z", "url": "https://github.com/demining/RAMnesia-Attack"}
+{"cve_id": "CVE-2017-8890", "description": "Android Root Zap Framework, Lazy and Powerful :)", "reason": "multi_id_mention_unresolved", "ts": "2026-10-21T21:09:07Z", "url": "https://github.com/idhyt/androotzf"}
+{"cve_id": "CVE-2019-14271", "description": "", "reason": "no_cve_id_in_evidence", "ts": "2026-10-21T21:09:12Z", "url": "https://github.com/ilahgl3/CVE_2019_14271"}
+{"cve_id": "CVE-2019-6447", "description": "", "reason": "no_cve_id_in_evidence", "ts": "2026-10-21T21:12:17Z", "url": "https://github.com/KasunPriyashan/CVE-2019_6447-ES-File-Explorer-Exploitation"}

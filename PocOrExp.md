@@ -62677,6 +62677,10 @@ This issue affects NSRW: from 4.3.0.0 before 4.3.0.119, from 4.4.0.0 before 4.4.
 
 - [https://github.com/RandomRobbieBF/CVE-2023-0630](https://github.com/RandomRobbieBF/CVE-2023-0630) : ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2023-0630.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2023-0630.svg)
 
+## CVE-2023-0482
+
+- [https://github.com/Bethel904/CVE-2023-0482-Analysis](https://github.com/Bethel904/CVE-2023-0482-Analysis) : ![starts](https://img.shields.io/github/stars/Bethel904/CVE-2023-0482-Analysis.svg) ![forks](https://img.shields.io/github/forks/Bethel904/CVE-2023-0482-Analysis.svg)
+
 ## CVE-2023-0464
  A security vulnerability has been identified in all supported versions
 
@@ -75625,6 +75629,8 @@ Note that the security updates released on and after July 6, 2021 contain protec
 - [https://github.com/joertx07/printnightmare-detection-lab](https://github.com/joertx07/printnightmare-detection-lab) : ![starts](https://img.shields.io/github/stars/joertx07/printnightmare-detection-lab.svg) ![forks](https://img.shields.io/github/forks/joertx07/printnightmare-detection-lab.svg)
 
 - [https://github.com/HKenzoKimura/CVE-2021-1675](https://github.com/HKenzoKimura/CVE-2021-1675) : ![starts](https://img.shields.io/github/stars/HKenzoKimura/CVE-2021-1675.svg) ![forks](https://img.shields.io/github/forks/HKenzoKimura/CVE-2021-1675.svg)
+
+- [https://github.com/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md](https://github.com/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md) : ![starts](https://img.shields.io/github/stars/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md.svg) ![forks](https://img.shields.io/github/forks/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md.svg)
 
 ## CVE-2021-34523
  Microsoft Exchange Server Elevation of Privilege Vulnerability
