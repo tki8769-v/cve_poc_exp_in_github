@@ -163,6 +163,7 @@ privileges. Exploitation requir
 - [https://github.com/murrez/CVE-2026-107806](https://github.com/murrez/CVE-2026-107806) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-107806.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-107806.svg)
 
 ## CVE-2026-107692
+> The War Thunder game client transmits its authentication bearer token (auth_jwt) in the very first data packet after the TCP handshake, using only LZ4 compression rather than encryption. An attacker positioned on the network path can passively intercept and decompress this packet to reveal the plaintext JSON payload. This vulnerability allows for temporary authenticated impersonation, enabling an attacker to access game services and certain user data (such as email address and displayed phone nu
 
 - [https://github.com/thewhatdohe/CVE-2026-107692](https://github.com/thewhatdohe/CVE-2026-107692) : ![starts](https://img.shields.io/github/stars/thewhatdohe/CVE-2026-107692.svg) ![forks](https://img.shields.io/github/forks/thewhatdohe/CVE-2026-107692.svg)
 
@@ -7470,6 +7471,10 @@ Users are recommended to upgrade to version 1.12.0, which fixes the issue.
  An issue in Sogou Sogou Input Method  16.3.0.3498 (fixed in 16.3.0.3498) allows a remote attacker to execute arbitrary code via the biz_helper.exe component
 
 - [https://github.com/HORKimhab/CVE-2026-51990](https://github.com/HORKimhab/CVE-2026-51990) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-51990.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-51990.svg)
+
+## CVE-2026-51954
+
+- [https://github.com/Envincion/CVE-2026-51954](https://github.com/Envincion/CVE-2026-51954) : ![starts](https://img.shields.io/github/stars/Envincion/CVE-2026-51954.svg) ![forks](https://img.shields.io/github/forks/Envincion/CVE-2026-51954.svg)
 
 ## CVE-2026-51947
  An issue in Pivotal CRM 6.6.4.08 and systems using patch-ghi-15381-cwe-502-20251225.zip (fixed in Pivotal CRM 6.6.5.10 and Patch_CWE502_20260316.zip) allows a remote attacker to execute arbitrary code via the Pivotal.Engine.Client.Services.Conversion.dll component. NOTE: this issue exists because of an incomplete fix for CVE-2026-39253.

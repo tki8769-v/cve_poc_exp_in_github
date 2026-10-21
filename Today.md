@@ -64,6 +64,10 @@ problems:
 - [https://github.com/Bitcoinjimmy/BABEF](https://github.com/Bitcoinjimmy/BABEF) : ![starts](https://img.shields.io/github/stars/Bitcoinjimmy/BABEF.svg) ![forks](https://img.shields.io/github/forks/Bitcoinjimmy/BABEF.svg)
 - [https://github.com/dntaskmehow/BABEF](https://github.com/dntaskmehow/BABEF) : ![starts](https://img.shields.io/github/stars/dntaskmehow/BABEF.svg) ![forks](https://img.shields.io/github/forks/dntaskmehow/BABEF.svg)
 
+## CVE-2026-51954
+
+- [https://github.com/Envincion/CVE-2026-51954](https://github.com/Envincion/CVE-2026-51954) : ![starts](https://img.shields.io/github/stars/Envincion/CVE-2026-51954.svg) ![forks](https://img.shields.io/github/forks/Envincion/CVE-2026-51954.svg)
+
 ## CVE-2026-62911
 
 - [https://github.com/fahise/cve-2026-62911](https://github.com/fahise/cve-2026-62911) : ![starts](https://img.shields.io/github/stars/fahise/cve-2026-62911.svg) ![forks](https://img.shields.io/github/forks/fahise/cve-2026-62911.svg)
