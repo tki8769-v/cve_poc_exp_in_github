@@ -3770,3 +3770,12 @@
 {"cve_id": "CVE-2026-75997", "ts": "2026-10-21T06:23:47Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-80726", "ts": "2026-10-21T06:23:53Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-51954", "ts": "2026-10-21T06:27:43Z", "type": "new_poc", "url": "https://github.com/Envincion/CVE-2026-51954"}
+{"cve_id": "CVE-2026-21266", "ts": "2026-10-21T06:39:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-21270", "ts": "2026-10-21T06:39:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-21356", "ts": "2026-10-21T06:39:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-48279", "ts": "2026-10-21T06:40:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75747", "ts": "2026-10-21T06:40:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75751", "ts": "2026-10-21T06:40:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75997", "ts": "2026-10-21T06:40:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80726", "ts": "2026-10-21T06:40:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T06:44:56Z", "type": "new_poc", "url": "https://github.com/cm-suzuki-ryo/aws-waf-php2shell-post-guard"}

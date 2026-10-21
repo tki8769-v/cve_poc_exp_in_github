@@ -105,6 +105,8 @@
 
 - [https://github.com/mikensec/php2shell-lab](https://github.com/mikensec/php2shell-lab) : ![starts](https://img.shields.io/github/stars/mikensec/php2shell-lab.svg) ![forks](https://img.shields.io/github/forks/mikensec/php2shell-lab.svg)
 
+- [https://github.com/cm-suzuki-ryo/aws-waf-php2shell-post-guard](https://github.com/cm-suzuki-ryo/aws-waf-php2shell-post-guard) : ![starts](https://img.shields.io/github/stars/cm-suzuki-ryo/aws-waf-php2shell-post-guard.svg) ![forks](https://img.shields.io/github/forks/cm-suzuki-ryo/aws-waf-php2shell-post-guard.svg)
+
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 

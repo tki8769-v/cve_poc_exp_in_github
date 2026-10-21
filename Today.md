@@ -25,6 +25,7 @@
 - [https://github.com/19h/CVE-2026-109618](https://github.com/19h/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/19h/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/19h/CVE-2026-109618.svg)
 - [https://github.com/Zer061/CVE-2026-109618](https://github.com/Zer061/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/Zer061/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/Zer061/CVE-2026-109618.svg)
 - [https://github.com/break-the-build/php-uploadprogress-waf](https://github.com/break-the-build/php-uploadprogress-waf) : ![starts](https://img.shields.io/github/stars/break-the-build/php-uploadprogress-waf.svg) ![forks](https://img.shields.io/github/forks/break-the-build/php-uploadprogress-waf.svg)
+- [https://github.com/cm-suzuki-ryo/aws-waf-php2shell-post-guard](https://github.com/cm-suzuki-ryo/aws-waf-php2shell-post-guard) : ![starts](https://img.shields.io/github/stars/cm-suzuki-ryo/aws-waf-php2shell-post-guard.svg) ![forks](https://img.shields.io/github/forks/cm-suzuki-ryo/aws-waf-php2shell-post-guard.svg)
 - [https://github.com/mikensec/php2shell-lab](https://github.com/mikensec/php2shell-lab) : ![starts](https://img.shields.io/github/stars/mikensec/php2shell-lab.svg) ![forks](https://img.shields.io/github/forks/mikensec/php2shell-lab.svg)
 
 ## CVE-2026-110372
