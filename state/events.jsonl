@@ -3890,3 +3890,18 @@
 {"cve_id": "CVE-2025-63353", "ts": "2026-10-21T15:14:10Z", "type": "new_poc", "url": "https://github.com/code-fanatic/fiberhome-password-calculator"}
 {"cve_id": "CVE-2026-10961", "ts": "2026-10-21T15:14:20Z", "type": "new_poc", "url": "https://github.com/dinosn/php-cve-2026-10961x-lab-poc"}
 {"cve_id": "CVE-2025-27591", "ts": "2026-10-21T15:15:52Z", "type": "new_poc", "url": "https://github.com/sefafl77/CVE-2025-27591-PoC"}
+{"cve_id": "CVE-2026-21266", "ts": "2026-10-21T15:29:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-21270", "ts": "2026-10-21T15:29:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-21356", "ts": "2026-10-21T15:29:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-48279", "ts": "2026-10-21T15:29:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-6945", "ts": "2026-10-21T15:30:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75747", "ts": "2026-10-21T15:31:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75751", "ts": "2026-10-21T15:31:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75997", "ts": "2026-10-21T15:31:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80726", "ts": "2026-10-21T15:31:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T15:41:37Z", "type": "new_poc", "url": "https://github.com/goodcoddeo/pterodactyl_PHP-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T15:41:37Z", "type": "new_poc", "url": "https://github.com/goodcoddeo/pterodactyl_PHP-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T15:41:43Z", "type": "new_poc", "url": "https://github.com/alvaroguzmancode/CVE-2026-109618"}
+{"cve_id": "CVE-2026-56190", "ts": "2026-10-21T15:41:46Z", "type": "new_poc", "url": "https://github.com/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T15:41:49Z", "type": "new_poc", "url": "https://github.com/lzz0403/CVE-2026-109618-PHP2Shell-poc"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T15:41:50Z", "type": "new_poc", "url": "https://github.com/DandanLLab/PHP-5.6.40-CVE-2026-109618-109619"}

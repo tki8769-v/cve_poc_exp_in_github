@@ -132,6 +132,8 @@
 
 - [https://github.com/AvaterXXX/CVE-2026-109618-CVE-2026-109619-](https://github.com/AvaterXXX/CVE-2026-109618-CVE-2026-109619-) : ![starts](https://img.shields.io/github/stars/AvaterXXX/CVE-2026-109618-CVE-2026-109619-.svg) ![forks](https://img.shields.io/github/forks/AvaterXXX/CVE-2026-109618-CVE-2026-109619-.svg)
 
+- [https://github.com/goodcoddeo/pterodactyl_PHP-CVE-2026-109618-CVE-2026-109619](https://github.com/goodcoddeo/pterodactyl_PHP-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/goodcoddeo/pterodactyl_PHP-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/goodcoddeo/pterodactyl_PHP-CVE-2026-109618-CVE-2026-109619.svg)
+
 ## CVE-2026-109618
 
 - [https://github.com/Zer061/CVE-2026-109618](https://github.com/Zer061/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/Zer061/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/Zer061/CVE-2026-109618.svg)
@@ -255,6 +257,14 @@
 - [https://github.com/syrex1013/php2shell](https://github.com/syrex1013/php2shell) : ![starts](https://img.shields.io/github/stars/syrex1013/php2shell.svg) ![forks](https://img.shields.io/github/forks/syrex1013/php2shell.svg)
 
 - [https://github.com/wind884/CVE-2026-109618-109619-PHP2Shell](https://github.com/wind884/CVE-2026-109618-109619-PHP2Shell) : ![starts](https://img.shields.io/github/stars/wind884/CVE-2026-109618-109619-PHP2Shell.svg) ![forks](https://img.shields.io/github/forks/wind884/CVE-2026-109618-109619-PHP2Shell.svg)
+
+- [https://github.com/goodcoddeo/pterodactyl_PHP-CVE-2026-109618-CVE-2026-109619](https://github.com/goodcoddeo/pterodactyl_PHP-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/goodcoddeo/pterodactyl_PHP-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/goodcoddeo/pterodactyl_PHP-CVE-2026-109618-CVE-2026-109619.svg)
+
+- [https://github.com/DandanLLab/PHP-5.6.40-CVE-2026-109618-109619](https://github.com/DandanLLab/PHP-5.6.40-CVE-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/DandanLLab/PHP-5.6.40-CVE-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/DandanLLab/PHP-5.6.40-CVE-2026-109618-109619.svg)
+
+- [https://github.com/alvaroguzmancode/CVE-2026-109618](https://github.com/alvaroguzmancode/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/alvaroguzmancode/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/alvaroguzmancode/CVE-2026-109618.svg)
+
+- [https://github.com/lzz0403/CVE-2026-109618-PHP2Shell-poc](https://github.com/lzz0403/CVE-2026-109618-PHP2Shell-poc) : ![starts](https://img.shields.io/github/stars/lzz0403/CVE-2026-109618-PHP2Shell-poc.svg) ![forks](https://img.shields.io/github/forks/lzz0403/CVE-2026-109618-PHP2Shell-poc.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -6422,6 +6432,10 @@ An authenticated attacker with the relevant broad role permission could abuse th
  Improper neutralization of special elements used in a command ('command injection') in Windows Admin Center allows an authorized attacker to execute code over a network.
 
 - [https://github.com/victorbonato/PoCs](https://github.com/victorbonato/PoCs) : ![starts](https://img.shields.io/github/stars/victorbonato/PoCs.svg) ![forks](https://img.shields.io/github/forks/victorbonato/PoCs.svg)
+
+## CVE-2026-56190
+
+- [https://github.com/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis](https://github.com/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis) : ![starts](https://img.shields.io/github/stars/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis.svg) ![forks](https://img.shields.io/github/forks/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis.svg)
 
 ## CVE-2026-56164
  Missing authentication for critical function in Microsoft Office SharePoint allows an unauthorized attacker to elevate privileges over a network.
