@@ -25,6 +25,10 @@
 
 - [https://github.com/fahise/cve-2026-62911](https://github.com/fahise/cve-2026-62911) : ![starts](https://img.shields.io/github/stars/fahise/cve-2026-62911.svg) ![forks](https://img.shields.io/github/forks/fahise/cve-2026-62911.svg)
 
+## CVE-2026-77770
+
+- [https://github.com/gmh5225/CVE-2026-77770](https://github.com/gmh5225/CVE-2026-77770) : ![starts](https://img.shields.io/github/stars/gmh5225/CVE-2026-77770.svg) ![forks](https://img.shields.io/github/forks/gmh5225/CVE-2026-77770.svg)
+
 ## CVE-2026-86950
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.1 and iPadOS 26.7.1, macOS Sequoia 15.8.1, macOS Tahoe 26.7.1. Processing a maliciously crafted file may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 27.
 

@@ -2943,6 +2943,8 @@ Remediation requires a firmware update from the vendor. There is no user-side mi
 
 - [https://github.com/cflowsec/CVE-2026-77770](https://github.com/cflowsec/CVE-2026-77770) : ![starts](https://img.shields.io/github/stars/cflowsec/CVE-2026-77770.svg) ![forks](https://img.shields.io/github/forks/cflowsec/CVE-2026-77770.svg)
 
+- [https://github.com/gmh5225/CVE-2026-77770](https://github.com/gmh5225/CVE-2026-77770) : ![starts](https://img.shields.io/github/stars/gmh5225/CVE-2026-77770.svg) ![forks](https://img.shields.io/github/forks/gmh5225/CVE-2026-77770.svg)
+
 ## CVE-2026-77635
  CakePHP is a rapid development framework for PHP. Prior to versions 5.1.10, 5.2.15, and 5.3.7 on their respective release lines, FunctionsBuilder::jsonValue() with PostgresDriver is vulnerable to SQL injection when user-controlled data is supplied to the jsonPath parameter. This issue is fixed in versions 5.1.10, 5.2.15, and 5.3.7.
 

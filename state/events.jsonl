@@ -3734,3 +3734,7 @@
 {"cve_id": "CVE-2026-44714", "ts": "2026-10-21T00:17:54Z", "type": "new_poc", "url": "https://github.com/Bitcoinjimmy/BABEF"}
 {"cve_id": "CVE-2026-44714", "ts": "2026-10-21T00:34:46Z", "type": "new_poc", "url": "https://github.com/dntaskmehow/BABEF"}
 {"cve_id": "CVE-2026-39987", "ts": "2026-10-21T00:35:16Z", "type": "new_poc", "url": "https://github.com/dntaskmehow/MARABUSE-"}
+{"cve_id": "CVE-2026-80726", "ts": "2026-10-21T00:49:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80726", "ts": "2026-10-21T00:50:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80726", "ts": "2026-10-21T00:52:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77770", "ts": "2026-10-21T00:54:53Z", "type": "new_poc", "url": "https://github.com/gmh5225/CVE-2026-77770"}
