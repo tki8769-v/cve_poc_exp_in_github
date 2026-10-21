@@ -80,6 +80,11 @@
 
 - [https://github.com/Iceman2050/cve-2026-110447-checker](https://github.com/Iceman2050/cve-2026-110447-checker) : ![starts](https://img.shields.io/github/stars/Iceman2050/cve-2026-110447-checker.svg) ![forks](https://img.shields.io/github/forks/Iceman2050/cve-2026-110447-checker.svg)
 
+## CVE-2026-110372
+> Incorrect Privilege Assignment vulnerability in Brainstorm Force OttoKit suretriggers allows Privilege Escalation.This issue affects OttoKit: from n/a through 1.1.40.
+
+- [https://github.com/BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE](https://github.com/BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE) : ![starts](https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE.svg) ![forks](https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE.svg)
+
 ## CVE-2026-110025
 > A flaw has been found in slackero phpwcms up to 1.9.49/1.12.3. This issue affects some unknown processing of the file include/inc_front/content/cnt23.article.inc.php of the component Extension Check. This manipulation of the argument POST_name causes unrestricted upload. The attack can be initiated remotely. Upgrading to version 1.9.50 and 1.12.4 is capable of addressing this issue. Patch name: 118c978430f5a9668b30535f6e592c7ae8df711f/f4c136b467565b2d16ebe2b8276b9a03547a9a69/8571cb47df8d66804d1e
 
@@ -89,6 +94,16 @@
 > Incorrect boundary conditions in the JavaScript Engine: JIT component. This vulnerability was fixed in Firefox 158, Firefox ESR 153.5, Thunderbird 158, and Thunderbird 153.5.
 
 - [https://github.com/Scyrix-LLC/CVE-2026-109721](https://github.com/Scyrix-LLC/CVE-2026-109721) : ![starts](https://img.shields.io/github/stars/Scyrix-LLC/CVE-2026-109721.svg) ![forks](https://img.shields.io/github/forks/Scyrix-LLC/CVE-2026-109721.svg)
+
+## CVE-2026-109618
+
+- [https://github.com/Zer061/CVE-2026-109618](https://github.com/Zer061/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/Zer061/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/Zer061/CVE-2026-109618.svg)
+
+- [https://github.com/break-the-build/php-uploadprogress-waf](https://github.com/break-the-build/php-uploadprogress-waf) : ![starts](https://img.shields.io/github/stars/break-the-build/php-uploadprogress-waf.svg) ![forks](https://img.shields.io/github/forks/break-the-build/php-uploadprogress-waf.svg)
+
+- [https://github.com/19h/CVE-2026-109618](https://github.com/19h/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/19h/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/19h/CVE-2026-109618.svg)
+
+- [https://github.com/mikensec/php2shell-lab](https://github.com/mikensec/php2shell-lab) : ![starts](https://img.shields.io/github/stars/mikensec/php2shell-lab.svg) ![forks](https://img.shields.io/github/forks/mikensec/php2shell-lab.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -389,6 +404,8 @@ device operation and availability. No authentication, session e
 - [https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details](https://github.com/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details) : ![starts](https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details.svg) ![forks](https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-104736---Proof-of-Concept-PoC-Exploit-Details.svg)
 
 - [https://github.com/murrez/CVE-2026-104736](https://github.com/murrez/CVE-2026-104736) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-104736.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-104736.svg)
+
+- [https://github.com/BIBILZERODAY/CVE-2026-104736-Mass-Webshell-CVE](https://github.com/BIBILZERODAY/CVE-2026-104736-Mass-Webshell-CVE) : ![starts](https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-104736-Mass-Webshell-CVE.svg) ![forks](https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-104736-Mass-Webshell-CVE.svg)
 
 ## CVE-2026-104715
 > A flaw was found in cifs-utils. This flaw allows an unprivileged local user to achieve privilege escalation. When a privileged service mounts a Common Internet File System (CIFS) share using a user-controlled credentials file, input values are not properly sanitized before being assembled into mount options. A local attacker can exploit this vulnerability to inject unauthorized mount options, allowing them to bypass permission checks and execute files with administrative (root) privileges.
@@ -854,6 +871,8 @@ but the node is still queued on tsk, which
 - [https://github.com/jadedFella/lpe-study-notes](https://github.com/jadedFella/lpe-study-notes) : ![starts](https://img.shields.io/github/stars/jadedFella/lpe-study-notes.svg) ![forks](https://img.shields.io/github/forks/jadedFella/lpe-study-notes.svg)
 
 - [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98260](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-98260) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-98260.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-98260.svg)
+
+- [https://github.com/yanoo1222/CVE-2026-98260-android](https://github.com/yanoo1222/CVE-2026-98260-android) : ![starts](https://img.shields.io/github/stars/yanoo1222/CVE-2026-98260-android.svg) ![forks](https://img.shields.io/github/forks/yanoo1222/CVE-2026-98260-android.svg)
 
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -2944,6 +2963,10 @@ Remediation requires a firmware update from the vendor. There is no user-side mi
 - [https://github.com/cflowsec/CVE-2026-77770](https://github.com/cflowsec/CVE-2026-77770) : ![starts](https://img.shields.io/github/stars/cflowsec/CVE-2026-77770.svg) ![forks](https://img.shields.io/github/forks/cflowsec/CVE-2026-77770.svg)
 
 - [https://github.com/gmh5225/CVE-2026-77770](https://github.com/gmh5225/CVE-2026-77770) : ![starts](https://img.shields.io/github/stars/gmh5225/CVE-2026-77770.svg) ![forks](https://img.shields.io/github/forks/gmh5225/CVE-2026-77770.svg)
+
+## CVE-2026-77680
+
+- [https://github.com/OJ01-creates/CVE-2026-77680-Security-Analysis](https://github.com/OJ01-creates/CVE-2026-77680-Security-Analysis) : ![starts](https://img.shields.io/github/stars/OJ01-creates/CVE-2026-77680-Security-Analysis.svg) ![forks](https://img.shields.io/github/forks/OJ01-creates/CVE-2026-77680-Security-Analysis.svg)
 
 ## CVE-2026-77635
  CakePHP is a rapid development framework for PHP. Prior to versions 5.1.10, 5.2.15, and 5.3.7 on their respective release lines, FunctionsBuilder::jsonValue() with PostgresDriver is vulnerable to SQL injection when user-controlled data is supplied to the jsonPath parameter. This issue is fixed in versions 5.1.10, 5.2.15, and 5.3.7.
@@ -10273,6 +10296,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/Escosis/V2463A-LPE](https://github.com/Escosis/V2463A-LPE) : ![starts](https://img.shields.io/github/stars/Escosis/V2463A-LPE.svg) ![forks](https://img.shields.io/github/forks/Escosis/V2463A-LPE.svg)
 
+- [https://github.com/shangu2003/SamsungRootKit](https://github.com/shangu2003/SamsungRootKit) : ![starts](https://img.shields.io/github/stars/shangu2003/SamsungRootKit.svg) ![forks](https://img.shields.io/github/forks/shangu2003/SamsungRootKit.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -13023,6 +13048,8 @@ Users are recommended to upgrade to version 5.19.4 or 6.2.3, which fixes the iss
 - [https://github.com/anasabugaddara-ux/defender-bluehammer-audit](https://github.com/anasabugaddara-ux/defender-bluehammer-audit) : ![starts](https://img.shields.io/github/stars/anasabugaddara-ux/defender-bluehammer-audit.svg) ![forks](https://img.shields.io/github/forks/anasabugaddara-ux/defender-bluehammer-audit.svg)
 
 - [https://github.com/Bitcoinjimmy/NEO-DEFENDER](https://github.com/Bitcoinjimmy/NEO-DEFENDER) : ![starts](https://img.shields.io/github/stars/Bitcoinjimmy/NEO-DEFENDER.svg) ![forks](https://img.shields.io/github/forks/Bitcoinjimmy/NEO-DEFENDER.svg)
+
+- [https://github.com/dntaskmehow/NEO-DEFENDER](https://github.com/dntaskmehow/NEO-DEFENDER) : ![starts](https://img.shields.io/github/stars/dntaskmehow/NEO-DEFENDER.svg) ![forks](https://img.shields.io/github/forks/dntaskmehow/NEO-DEFENDER.svg)
 
 ## CVE-2026-33824
  Double free in Windows IKE Extension allows an unauthorized attacker to execute code over a network.
@@ -20366,6 +20393,10 @@ A successful match grants role=2 (admin-level access) and creates a valid sessio
  Exposed methods allow authenticated users to create and execute arbitrary JavaScript code on the server. The scripts execute with full access, enabling complete system compromise as commands are executed as root.
 
 - [https://github.com/0xmhany/CVE-2026-9645-ScadaBR-Analysis](https://github.com/0xmhany/CVE-2026-9645-ScadaBR-Analysis) : ![starts](https://img.shields.io/github/stars/0xmhany/CVE-2026-9645-ScadaBR-Analysis.svg) ![forks](https://img.shields.io/github/forks/0xmhany/CVE-2026-9645-ScadaBR-Analysis.svg)
+
+## CVE-2026-9618
+
+- [https://github.com/SleepTheGod/cve-2026-9618-Patch](https://github.com/SleepTheGod/cve-2026-9618-Patch) : ![starts](https://img.shields.io/github/stars/SleepTheGod/cve-2026-9618-Patch.svg) ![forks](https://img.shields.io/github/forks/SleepTheGod/cve-2026-9618-Patch.svg)
 
 ## CVE-2026-9586
  An unauthenticated SQL injection vulnerability exists in Sangoma Switchvox SMB Edition 8.3 (104997). The /pa endpoint processes XML content beginning with PolycomIPPhone and directly concatenates the user-controlled PhoneIP value into PostgreSQL queries without sanitization or parameterization. An unauthenticated remote attacker can execute arbitrary SQL statements against the backend PostgreSQL database using a single crafted request, including database operations and remote code execution.

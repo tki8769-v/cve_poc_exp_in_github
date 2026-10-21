@@ -1010,6 +1010,10 @@ Qsync Central 4.3.0.11 ( 2024/01/11 ) and later
 
 - [https://github.com/OpenXP-Research/CVE-2023-47253](https://github.com/OpenXP-Research/CVE-2023-47253) : ![starts](https://img.shields.io/github/stars/OpenXP-Research/CVE-2023-47253.svg) ![forks](https://img.shields.io/github/forks/OpenXP-Research/CVE-2023-47253.svg)
 
+## CVE-2023-47250
+
+- [https://github.com/christinasm1th/CVE-2023-47250-break-fix](https://github.com/christinasm1th/CVE-2023-47250-break-fix) : ![starts](https://img.shields.io/github/stars/christinasm1th/CVE-2023-47250-break-fix.svg) ![forks](https://img.shields.io/github/forks/christinasm1th/CVE-2023-47250-break-fix.svg)
+
 ## CVE-2023-47248
  Deserialization of untrusted data in IPC and Parquet readers in PyArrow versions 0.14.0 to 14.0.0 allows arbitrary code execution. An application is vulnerable if it reads Arrow IPC, Feather or Parquet data from untrusted sources (for example user-supplied input files).
 

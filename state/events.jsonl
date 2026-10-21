@@ -3738,3 +3738,26 @@
 {"cve_id": "CVE-2026-80726", "ts": "2026-10-21T00:50:47Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-80726", "ts": "2026-10-21T00:52:52Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-77770", "ts": "2026-10-21T00:54:53Z", "type": "new_poc", "url": "https://github.com/gmh5225/CVE-2026-77770"}
+{"cve_id": "CVE-2026-80726", "ts": "2026-10-21T06:02:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80726", "ts": "2026-10-21T06:04:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-21266", "ts": "2026-10-21T06:06:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-21270", "ts": "2026-10-21T06:06:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-21356", "ts": "2026-10-21T06:06:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-48279", "ts": "2026-10-21T06:06:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75747", "ts": "2026-10-21T06:07:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75751", "ts": "2026-10-21T06:07:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75997", "ts": "2026-10-21T06:07:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80726", "ts": "2026-10-21T06:07:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T06:10:41Z", "type": "new_poc", "url": "https://github.com/Zer061/CVE-2026-109618"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T06:10:41Z", "type": "new_poc", "url": "https://github.com/break-the-build/php-uploadprogress-waf"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T06:10:41Z", "type": "new_poc", "url": "https://github.com/19h/CVE-2026-109618"}
+{"cve_id": "CVE-2026-104736", "ts": "2026-10-21T06:10:41Z", "type": "new_poc", "url": "https://github.com/BIBILZERODAY/CVE-2026-104736-Mass-Webshell-CVE"}
+{"cve_id": "CVE-2026-9618", "ts": "2026-10-21T06:10:41Z", "type": "new_poc", "url": "https://github.com/SleepTheGod/cve-2026-9618-Patch"}
+{"cve_id": "CVE-2023-47250", "ts": "2026-10-21T06:10:42Z", "type": "new_poc", "url": "https://github.com/christinasm1th/CVE-2023-47250-break-fix"}
+{"cve_id": "CVE-2026-77680", "ts": "2026-10-21T06:10:42Z", "type": "new_poc", "url": "https://github.com/OJ01-creates/CVE-2026-77680-Security-Analysis"}
+{"cve_id": "CVE-2026-110372", "ts": "2026-10-21T06:10:42Z", "type": "new_poc", "url": "https://github.com/BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-10-21T06:10:42Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-drill"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T06:10:42Z", "type": "new_poc", "url": "https://github.com/mikensec/php2shell-lab"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-10-21T06:10:50Z", "type": "new_poc", "url": "https://github.com/yanoo1222/CVE-2026-98260-android"}
+{"cve_id": "CVE-2026-33825", "ts": "2026-10-21T06:10:52Z", "type": "new_poc", "url": "https://github.com/dntaskmehow/NEO-DEFENDER"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-21T06:10:52Z", "type": "new_poc", "url": "https://github.com/shangu2003/SamsungRootKit"}
