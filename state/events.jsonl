@@ -3622,3 +3622,113 @@
 {"cve_id": "CVE-2026-72867", "ts": "2026-10-20T22:11:28Z", "type": "new_poc", "url": "https://github.com/Lulztigre/CVE-2026-72867"}
 {"cve_id": "CVE-2026-24332", "ts": "2026-10-20T22:11:29Z", "type": "new_poc", "url": "https://github.com/LinkMakesMods/invisible-detector"}
 {"cve_id": "CVE-2025-8110", "ts": "2026-10-20T22:11:41Z", "type": "new_poc", "url": "https://github.com/kur0bai/CVE-2025-8110"}
+{"cve_id": "CVE-2023-42990", "ts": "2026-10-20T23:51:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-42991", "ts": "2026-10-20T23:51:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-42992", "ts": "2026-10-20T23:51:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-42993", "ts": "2026-10-20T23:51:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-42994", "ts": "2026-10-20T23:51:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-42995", "ts": "2026-10-20T23:51:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-42996", "ts": "2026-10-20T23:51:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-42997", "ts": "2026-10-20T23:51:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-42998", "ts": "2026-10-20T23:52:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-42999", "ts": "2026-10-20T23:52:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54581", "ts": "2026-10-20T23:52:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54582", "ts": "2026-10-20T23:52:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54583", "ts": "2026-10-20T23:52:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54584", "ts": "2026-10-20T23:52:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54585", "ts": "2026-10-20T23:52:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54586", "ts": "2026-10-20T23:52:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54587", "ts": "2026-10-20T23:52:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54588", "ts": "2026-10-20T23:52:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54589", "ts": "2026-10-20T23:52:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54590", "ts": "2026-10-20T23:52:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54591", "ts": "2026-10-20T23:52:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54592", "ts": "2026-10-20T23:52:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54593", "ts": "2026-10-20T23:52:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54594", "ts": "2026-10-20T23:52:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54595", "ts": "2026-10-20T23:52:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54596", "ts": "2026-10-20T23:52:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54597", "ts": "2026-10-20T23:52:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54598", "ts": "2026-10-20T23:52:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54599", "ts": "2026-10-20T23:52:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54600", "ts": "2026-10-20T23:52:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54601", "ts": "2026-10-20T23:52:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54602", "ts": "2026-10-20T23:52:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54603", "ts": "2026-10-20T23:52:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54604", "ts": "2026-10-20T23:52:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54605", "ts": "2026-10-20T23:52:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54606", "ts": "2026-10-20T23:52:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54607", "ts": "2026-10-20T23:52:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54608", "ts": "2026-10-20T23:52:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54609", "ts": "2026-10-20T23:52:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54610", "ts": "2026-10-20T23:52:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54611", "ts": "2026-10-20T23:52:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54612", "ts": "2026-10-20T23:52:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54613", "ts": "2026-10-20T23:52:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54614", "ts": "2026-10-20T23:52:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54615", "ts": "2026-10-20T23:52:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54616", "ts": "2026-10-20T23:52:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54617", "ts": "2026-10-20T23:52:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54618", "ts": "2026-10-20T23:52:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54619", "ts": "2026-10-20T23:52:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54620", "ts": "2026-10-20T23:52:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54621", "ts": "2026-10-20T23:52:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54622", "ts": "2026-10-20T23:52:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54623", "ts": "2026-10-20T23:52:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54624", "ts": "2026-10-20T23:52:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54625", "ts": "2026-10-20T23:52:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54626", "ts": "2026-10-20T23:52:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54627", "ts": "2026-10-20T23:52:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54628", "ts": "2026-10-20T23:52:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54629", "ts": "2026-10-20T23:52:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54630", "ts": "2026-10-20T23:52:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54631", "ts": "2026-10-20T23:52:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54632", "ts": "2026-10-20T23:52:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54633", "ts": "2026-10-20T23:52:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54634", "ts": "2026-10-20T23:52:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54635", "ts": "2026-10-20T23:52:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54636", "ts": "2026-10-20T23:52:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54637", "ts": "2026-10-20T23:52:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54638", "ts": "2026-10-20T23:52:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54639", "ts": "2026-10-20T23:52:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54640", "ts": "2026-10-20T23:52:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54641", "ts": "2026-10-20T23:52:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54642", "ts": "2026-10-20T23:52:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54643", "ts": "2026-10-20T23:52:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54644", "ts": "2026-10-20T23:52:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54645", "ts": "2026-10-20T23:52:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54646", "ts": "2026-10-20T23:52:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54647", "ts": "2026-10-20T23:52:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54648", "ts": "2026-10-20T23:52:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54649", "ts": "2026-10-20T23:52:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54650", "ts": "2026-10-20T23:52:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54651", "ts": "2026-10-20T23:52:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54652", "ts": "2026-10-20T23:52:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54653", "ts": "2026-10-20T23:52:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54654", "ts": "2026-10-20T23:52:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54655", "ts": "2026-10-20T23:52:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54656", "ts": "2026-10-20T23:52:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-54657", "ts": "2026-10-20T23:52:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-56714", "ts": "2026-10-20T23:57:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-57512", "ts": "2026-10-20T23:57:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-57513", "ts": "2026-10-20T23:57:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-57514", "ts": "2026-10-20T23:57:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-57515", "ts": "2026-10-20T23:57:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-57519", "ts": "2026-10-20T23:57:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-57526", "ts": "2026-10-20T23:57:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-57528", "ts": "2026-10-20T23:57:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-57529", "ts": "2026-10-20T23:57:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77225", "ts": "2026-10-21T00:00:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77227", "ts": "2026-10-21T00:00:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77228", "ts": "2026-10-21T00:00:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-90050", "ts": "2026-10-21T00:04:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-90052", "ts": "2026-10-21T00:04:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98165", "ts": "2026-10-21T00:08:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98654", "ts": "2026-10-21T00:10:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-62911", "ts": "2026-10-21T00:17:50Z", "type": "new_poc", "url": "https://github.com/fahise/cve-2026-62911"}
+{"cve_id": "CVE-2026-86950", "ts": "2026-10-21T00:17:51Z", "type": "new_poc", "url": "https://github.com/jpdagostin0/CVE-2026-86950-POC"}
+{"cve_id": "CVE-2026-39987", "ts": "2026-10-21T00:17:53Z", "type": "new_poc", "url": "https://github.com/Bitcoinjimmy/MARABUSE-"}
+{"cve_id": "CVE-2026-33825", "ts": "2026-10-21T00:17:53Z", "type": "new_poc", "url": "https://github.com/Bitcoinjimmy/NEO-DEFENDER"}
+{"cve_id": "CVE-2018-16763", "ts": "2026-10-21T00:17:53Z", "type": "new_poc", "url": "https://github.com/fahise/cve-2018-16763"}
+{"cve_id": "CVE-2021-26855", "ts": "2026-10-21T00:17:54Z", "type": "new_poc", "url": "https://github.com/layee27/JIMOH-ABDULLAHI"}
+{"cve_id": "CVE-2026-44714", "ts": "2026-10-21T00:17:54Z", "type": "new_poc", "url": "https://github.com/Bitcoinjimmy/BABEF"}

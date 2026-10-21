@@ -5870,6 +5870,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/Nick-Yin12/106362522](https://github.com/Nick-Yin12/106362522) : ![starts](https://img.shields.io/github/stars/Nick-Yin12/106362522.svg) ![forks](https://img.shields.io/github/forks/Nick-Yin12/106362522.svg)
 
+- [https://github.com/layee27/JIMOH-ABDULLAHI](https://github.com/layee27/JIMOH-ABDULLAHI) : ![starts](https://img.shields.io/github/stars/layee27/JIMOH-ABDULLAHI.svg) ![forks](https://img.shields.io/github/forks/layee27/JIMOH-ABDULLAHI.svg)
+
 ## CVE-2021-26837
  SQL Injection vulnerability in SearchTextBox parameter in Fortra (Formerly HelpSystems) DeliverNow before version 1.2.18, allows attackers to execute arbitrary code, escalate privileges, and gain sensitive information.
 
