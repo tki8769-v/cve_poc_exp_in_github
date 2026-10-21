@@ -1907,6 +1907,8 @@ Django would like to thank Seokchan Yoon for reporting this issue.
 
 - [https://github.com/zvckster/CVE-2025-63353](https://github.com/zvckster/CVE-2025-63353) : ![starts](https://img.shields.io/github/stars/zvckster/CVE-2025-63353.svg) ![forks](https://img.shields.io/github/forks/zvckster/CVE-2025-63353.svg)
 
+- [https://github.com/code-fanatic/fiberhome-password-calculator](https://github.com/code-fanatic/fiberhome-password-calculator) : ![starts](https://img.shields.io/github/stars/code-fanatic/fiberhome-password-calculator.svg) ![forks](https://img.shields.io/github/forks/code-fanatic/fiberhome-password-calculator.svg)
+
 ## CVE-2025-63314
  A static password reset token in the password reset function of DDSN Interactive Acora CMS v10.7.1 allows attackers to arbitrarily reset the user password and execute a full account takeover via a replay attack.
 
@@ -9556,6 +9558,8 @@ Mitigation: You can easily work around this in your Camel applications by remov
 - [https://github.com/MoTechStore/CVE-2025-27591-PoC](https://github.com/MoTechStore/CVE-2025-27591-PoC) : ![starts](https://img.shields.io/github/stars/MoTechStore/CVE-2025-27591-PoC.svg) ![forks](https://img.shields.io/github/forks/MoTechStore/CVE-2025-27591-PoC.svg)
 
 - [https://github.com/rippsec/CVE-2025-27591-Meta-below-LPE](https://github.com/rippsec/CVE-2025-27591-Meta-below-LPE) : ![starts](https://img.shields.io/github/stars/rippsec/CVE-2025-27591-Meta-below-LPE.svg) ![forks](https://img.shields.io/github/forks/rippsec/CVE-2025-27591-Meta-below-LPE.svg)
+
+- [https://github.com/sefafl77/CVE-2025-27591-PoC](https://github.com/sefafl77/CVE-2025-27591-PoC) : ![starts](https://img.shields.io/github/stars/sefafl77/CVE-2025-27591-PoC.svg) ![forks](https://img.shields.io/github/forks/sefafl77/CVE-2025-27591-PoC.svg)
 
 ## CVE-2025-27590
  In oxidized-web (aka Oxidized Web) before 0.15.0, the RANCID migration page allows an unauthenticated user to gain control over the Linux user account that is running oxidized-web.

@@ -129,6 +129,8 @@
 
 - [https://github.com/zerbaliy3v/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks](https://github.com/zerbaliy3v/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks) : ![starts](https://img.shields.io/github/stars/zerbaliy3v/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks.svg) ![forks](https://img.shields.io/github/forks/zerbaliy3v/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks.svg)
 
+- [https://github.com/AvaterXXX/CVE-2026-109618-CVE-2026-109619-](https://github.com/AvaterXXX/CVE-2026-109618-CVE-2026-109619-) : ![starts](https://img.shields.io/github/stars/AvaterXXX/CVE-2026-109618-CVE-2026-109619-.svg) ![forks](https://img.shields.io/github/forks/AvaterXXX/CVE-2026-109618-CVE-2026-109619-.svg)
+
 ## CVE-2026-109618
 
 - [https://github.com/Zer061/CVE-2026-109618](https://github.com/Zer061/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/Zer061/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/Zer061/CVE-2026-109618.svg)
@@ -232,6 +234,26 @@
 - [https://github.com/zerbaliy3v/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks](https://github.com/zerbaliy3v/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks) : ![starts](https://img.shields.io/github/stars/zerbaliy3v/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks.svg) ![forks](https://img.shields.io/github/forks/zerbaliy3v/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks.svg)
 
 - [https://github.com/zhaoboy9692/CVE-2026-109618_](https://github.com/zhaoboy9692/CVE-2026-109618_) : ![starts](https://img.shields.io/github/stars/zhaoboy9692/CVE-2026-109618_.svg) ![forks](https://img.shields.io/github/forks/zhaoboy9692/CVE-2026-109618_.svg)
+
+- [https://github.com/break-the-build/php-multipart-waf-signals](https://github.com/break-the-build/php-multipart-waf-signals) : ![starts](https://img.shields.io/github/stars/break-the-build/php-multipart-waf-signals.svg) ![forks](https://img.shields.io/github/forks/break-the-build/php-multipart-waf-signals.svg)
+
+- [https://github.com/AvaterXXX/CVE-2026-109618-CVE-2026-109619-](https://github.com/AvaterXXX/CVE-2026-109618-CVE-2026-109619-) : ![starts](https://img.shields.io/github/stars/AvaterXXX/CVE-2026-109618-CVE-2026-109619-.svg) ![forks](https://img.shields.io/github/forks/AvaterXXX/CVE-2026-109618-CVE-2026-109619-.svg)
+
+- [https://github.com/DandanLLab/PHP-5.6-CVE-2026-109618-109619](https://github.com/DandanLLab/PHP-5.6-CVE-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/DandanLLab/PHP-5.6-CVE-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/DandanLLab/PHP-5.6-CVE-2026-109618-109619.svg)
+
+- [https://github.com/Huboxt/php-base-images](https://github.com/Huboxt/php-base-images) : ![starts](https://img.shields.io/github/stars/Huboxt/php-base-images.svg) ![forks](https://img.shields.io/github/forks/Huboxt/php-base-images.svg)
+
+- [https://github.com/alvaroguzmancode/-CVE-2026-109618-19](https://github.com/alvaroguzmancode/-CVE-2026-109618-19) : ![starts](https://img.shields.io/github/stars/alvaroguzmancode/-CVE-2026-109618-19.svg) ![forks](https://img.shields.io/github/forks/alvaroguzmancode/-CVE-2026-109618-19.svg)
+
+- [https://github.com/gumerzzzindo/php2shell-CVE-2026-109618-109619](https://github.com/gumerzzzindo/php2shell-CVE-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/gumerzzzindo/php2shell-CVE-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/gumerzzzindo/php2shell-CVE-2026-109618-109619.svg)
+
+- [https://github.com/izdir/php-security-patcher](https://github.com/izdir/php-security-patcher) : ![starts](https://img.shields.io/github/stars/izdir/php-security-patcher.svg) ![forks](https://img.shields.io/github/forks/izdir/php-security-patcher.svg)
+
+- [https://github.com/mpyw/php-eol-CVE-2026-109618-109619](https://github.com/mpyw/php-eol-CVE-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/mpyw/php-eol-CVE-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/mpyw/php-eol-CVE-2026-109618-109619.svg)
+
+- [https://github.com/syrex1013/php2shell](https://github.com/syrex1013/php2shell) : ![starts](https://img.shields.io/github/stars/syrex1013/php2shell.svg) ![forks](https://img.shields.io/github/forks/syrex1013/php2shell.svg)
+
+- [https://github.com/wind884/CVE-2026-109618-109619-PHP2Shell](https://github.com/wind884/CVE-2026-109618-109619-PHP2Shell) : ![starts](https://img.shields.io/github/stars/wind884/CVE-2026-109618-109619-PHP2Shell.svg) ![forks](https://img.shields.io/github/forks/wind884/CVE-2026-109618-109619-PHP2Shell.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -1197,6 +1219,8 @@ This issue affects Mediawiki - WikiLambda Extension: before 1.47.0.
 > Plex Media Server before 1.43.3.10861 allows SSRF via &#x27;/player/timeline&#x27;. An attacker using any X-Plex-Token value can include a full URL in the &#x27;protocol&#x27; parameter and force the Plex server to POST to the attacker&#x27;s chosen destination.
 
 - [https://github.com/ChrisLPJones/plex2shell-check](https://github.com/ChrisLPJones/plex2shell-check) : ![starts](https://img.shields.io/github/stars/ChrisLPJones/plex2shell-check.svg) ![forks](https://img.shields.io/github/forks/ChrisLPJones/plex2shell-check.svg)
+
+- [https://github.com/w116tjb/plex2shell-windows-hunt](https://github.com/w116tjb/plex2shell-windows-hunt) : ![starts](https://img.shields.io/github/stars/w116tjb/plex2shell-windows-hunt.svg) ![forks](https://img.shields.io/github/forks/w116tjb/plex2shell-windows-hunt.svg)
 
 ## CVE-2026-96515
 > This
@@ -20374,6 +20398,8 @@ A successful match grants role=2 (admin-level access) and creates a valid sessio
 ## CVE-2026-10961
 
 - [https://github.com/goodcoddeo/pterodactyl_PHP-CVE-2026-10961x](https://github.com/goodcoddeo/pterodactyl_PHP-CVE-2026-10961x) : ![starts](https://img.shields.io/github/stars/goodcoddeo/pterodactyl_PHP-CVE-2026-10961x.svg) ![forks](https://img.shields.io/github/forks/goodcoddeo/pterodactyl_PHP-CVE-2026-10961x.svg)
+
+- [https://github.com/dinosn/php-cve-2026-10961x-lab-poc](https://github.com/dinosn/php-cve-2026-10961x-lab-poc) : ![starts](https://img.shields.io/github/stars/dinosn/php-cve-2026-10961x-lab-poc.svg) ![forks](https://img.shields.io/github/forks/dinosn/php-cve-2026-10961x-lab-poc.svg)
 
 ## CVE-2026-10818
  The WPForms Pro plugin for WordPress is vulnerable to Arbitrary File Upload in all versions up to, and including, 1.10.1.1 via the ajax_chunk_upload_finalize function. This is due to the file type validation occurring after chunk metadata and file contents have already been written to disk, and the assembled file not being deleted upon validation failure. This makes it possible for unauthenticated attackers to upload files that may be executable, which makes remote code execution possible.

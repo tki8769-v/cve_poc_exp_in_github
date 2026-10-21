@@ -3866,3 +3866,27 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:06Z", "type": "new_poc", "url": "https://github.com/darkfibr/php2shell-detect"}
 {"cve_id": "CVE-2025-7771", "ts": "2026-10-21T14:46:06Z", "type": "new_poc", "url": "https://github.com/datcathuh/CiGaslight"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:06Z", "type": "new_poc", "url": "https://github.com/tommaru66-pixel/php2shell-poc-1"}
+{"cve_id": "CVE-2026-21266", "ts": "2026-10-21T15:01:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-21270", "ts": "2026-10-21T15:01:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-21356", "ts": "2026-10-21T15:01:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-48279", "ts": "2026-10-21T15:02:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-6945", "ts": "2026-10-21T15:02:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75747", "ts": "2026-10-21T15:03:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75751", "ts": "2026-10-21T15:03:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75997", "ts": "2026-10-21T15:03:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80726", "ts": "2026-10-21T15:03:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T15:13:54Z", "type": "new_poc", "url": "https://github.com/break-the-build/php-multipart-waf-signals"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T15:13:58Z", "type": "new_poc", "url": "https://github.com/AvaterXXX/CVE-2026-109618-CVE-2026-109619-"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T15:13:59Z", "type": "new_poc", "url": "https://github.com/AvaterXXX/CVE-2026-109618-CVE-2026-109619-"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T15:14:04Z", "type": "new_poc", "url": "https://github.com/alvaroguzmancode/-CVE-2026-109618-19"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T15:14:05Z", "type": "new_poc", "url": "https://github.com/mpyw/php-eol-CVE-2026-109618-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T15:14:06Z", "type": "new_poc", "url": "https://github.com/DandanLLab/PHP-5.6-CVE-2026-109618-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T15:14:07Z", "type": "new_poc", "url": "https://github.com/wind884/CVE-2026-109618-109619-PHP2Shell"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T15:14:07Z", "type": "new_poc", "url": "https://github.com/gumerzzzindo/php2shell-CVE-2026-109618-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T15:14:09Z", "type": "new_poc", "url": "https://github.com/Huboxt/php-base-images"}
+{"cve_id": "CVE-2026-96652", "ts": "2026-10-21T15:14:09Z", "type": "new_poc", "url": "https://github.com/w116tjb/plex2shell-windows-hunt"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T15:14:09Z", "type": "new_poc", "url": "https://github.com/syrex1013/php2shell"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T15:14:10Z", "type": "new_poc", "url": "https://github.com/izdir/php-security-patcher"}
+{"cve_id": "CVE-2025-63353", "ts": "2026-10-21T15:14:10Z", "type": "new_poc", "url": "https://github.com/code-fanatic/fiberhome-password-calculator"}
+{"cve_id": "CVE-2026-10961", "ts": "2026-10-21T15:14:20Z", "type": "new_poc", "url": "https://github.com/dinosn/php-cve-2026-10961x-lab-poc"}
+{"cve_id": "CVE-2025-27591", "ts": "2026-10-21T15:15:52Z", "type": "new_poc", "url": "https://github.com/sefafl77/CVE-2025-27591-PoC"}
