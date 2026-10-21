@@ -320,6 +320,10 @@ OpenSSL 1.0.2 is not affected by this issue.
 
 - [https://github.com/Kha-Beleh/PoC-CVE-2025-69419](https://github.com/Kha-Beleh/PoC-CVE-2025-69419) : ![starts](https://img.shields.io/github/stars/Kha-Beleh/PoC-CVE-2025-69419.svg) ![forks](https://img.shields.io/github/forks/Kha-Beleh/PoC-CVE-2025-69419.svg)
 
+## CVE-2025-69413
+
+- [https://github.com/fuad00/CVE-2025-69413-PoC](https://github.com/fuad00/CVE-2025-69413-PoC) : ![starts](https://img.shields.io/github/stars/fuad00/CVE-2025-69413-PoC.svg) ![forks](https://img.shields.io/github/forks/fuad00/CVE-2025-69413-PoC.svg)
+
 ## CVE-2025-69295
  Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in TeconceTheme Coven Core coven-core allows Blind SQL Injection.This issue affects Coven Core: from n/a through = 1.3.
 
@@ -396,6 +400,8 @@ You should upgrade to version 6.0.0 of the provider to avoid even that risk.
 - [https://github.com/lolw0/OpenSTA-Exploit](https://github.com/lolw0/OpenSTA-Exploit) : ![starts](https://img.shields.io/github/stars/lolw0/OpenSTA-Exploit.svg) ![forks](https://img.shields.io/github/forks/lolw0/OpenSTA-Exploit.svg)
 
 - [https://github.com/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report](https://github.com/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report) : ![starts](https://img.shields.io/github/stars/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report.svg) ![forks](https://img.shields.io/github/forks/mmoobbeeiidat-design/Hack-The-Box-Enigma-Findings-Report.svg)
+
+- [https://github.com/d0lf1/htb-enigma-poc](https://github.com/d0lf1/htb-enigma-poc) : ![starts](https://img.shields.io/github/stars/d0lf1/htb-enigma-poc.svg) ![forks](https://img.shields.io/github/forks/d0lf1/htb-enigma-poc.svg)
 
 ## CVE-2025-69194
  A security issue was discovered in GNU Wget2 when handling Metalink documents. The application fails to properly validate file paths provided in Metalink file name elements. An attacker can abuse this behavior to write files to unintended locations on the system. This can lead to data loss or potentially allow further compromise of the user’s environment.
@@ -9604,6 +9610,10 @@ Existing users may implement mutual TLS to mitigate the risk on affected brokers
 
 - [https://github.com/Shanks2001/Progetto-sicurezza](https://github.com/Shanks2001/Progetto-sicurezza) : ![starts](https://img.shields.io/github/stars/Shanks2001/Progetto-sicurezza.svg) ![forks](https://img.shields.io/github/forks/Shanks2001/Progetto-sicurezza.svg)
 
+## CVE-2025-27509
+
+- [https://github.com/Chillov3k/poc-cve-2025-27509](https://github.com/Chillov3k/poc-cve-2025-27509) : ![starts](https://img.shields.io/github/stars/Chillov3k/poc-cve-2025-27509.svg) ![forks](https://img.shields.io/github/forks/Chillov3k/poc-cve-2025-27509.svg)
+
 ## CVE-2025-27480
  Use after free in Remote Desktop Gateway Service allows an unauthorized attacker to execute code over a network.
 
@@ -13101,6 +13111,8 @@ CR virtual server with type HDX
 - [https://github.com/mein-0/cve-2025-7771](https://github.com/mein-0/cve-2025-7771) : ![starts](https://img.shields.io/github/stars/mein-0/cve-2025-7771.svg) ![forks](https://img.shields.io/github/forks/mein-0/cve-2025-7771.svg)
 
 - [https://github.com/yulisec/CVE-2025-7771](https://github.com/yulisec/CVE-2025-7771) : ![starts](https://img.shields.io/github/stars/yulisec/CVE-2025-7771.svg) ![forks](https://img.shields.io/github/forks/yulisec/CVE-2025-7771.svg)
+
+- [https://github.com/datcathuh/CiGaslight](https://github.com/datcathuh/CiGaslight) : ![starts](https://img.shields.io/github/stars/datcathuh/CiGaslight.svg) ![forks](https://img.shields.io/github/forks/datcathuh/CiGaslight.svg)
 
 ## CVE-2025-7769
  Tigo Energy's CCA is vulnerable to a command injection vulnerability in the /cgi-bin/mobile_api endpoint when the DEVICE_PING command is called, allowing remote code execution due to improper handling of user input. When used with default credentials, this enables attackers to execute arbitrary commands on the device that could cause potential unauthorized access, service disruption, and data exposure.

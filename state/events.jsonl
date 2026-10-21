@@ -3779,3 +3779,90 @@
 {"cve_id": "CVE-2026-75997", "ts": "2026-10-21T06:40:51Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-80726", "ts": "2026-10-21T06:40:57Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-21T06:44:56Z", "type": "new_poc", "url": "https://github.com/cm-suzuki-ryo/aws-waf-php2shell-post-guard"}
+{"cve_id": "CVE-2026-21266", "ts": "2026-10-21T14:33:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-21270", "ts": "2026-10-21T14:33:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-21356", "ts": "2026-10-21T14:33:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-48279", "ts": "2026-10-21T14:34:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75747", "ts": "2026-10-21T14:35:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75751", "ts": "2026-10-21T14:35:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75997", "ts": "2026-10-21T14:35:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80726", "ts": "2026-10-21T14:35:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:48Z", "type": "new_poc", "url": "https://github.com/ikow/php2shell-poc"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:48Z", "type": "new_poc", "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T14:45:48Z", "type": "new_poc", "url": "https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:49Z", "type": "new_poc", "url": "https://github.com/junaire/CVE-2026-109618-exploit"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:49Z", "type": "new_poc", "url": "https://github.com/0x4148/CVE-2026-109618-php2shell-lab"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:49Z", "type": "new_poc", "url": "https://github.com/Is4yev/php2shell-poc"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:49Z", "type": "new_poc", "url": "https://github.com/richardmongler/php2shell-CVE-2026-109618"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:50Z", "type": "new_poc", "url": "https://github.com/xuehuolll/CVE-2026-109618-109619-audit"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:50Z", "type": "new_poc", "url": "https://github.com/JungleCache/PHP2Shell-CVE-2026-109618"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:50Z", "type": "new_poc", "url": "https://github.com/WoYinDao/CVE-2026-109618-CVSS-9.2-Critical"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:50Z", "type": "new_poc", "url": "https://github.com/slabbdev/php2shell-cve-2026-109618-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:51Z", "type": "new_poc", "url": "https://github.com/AmpedWasTaken/PHP2Shell-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T14:45:51Z", "type": "new_poc", "url": "https://github.com/AmpedWasTaken/PHP2Shell-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:52Z", "type": "new_poc", "url": "https://github.com/cloudducoeur/ansible-playbook-CVE-2026-109618"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:52Z", "type": "new_poc", "url": "https://github.com/Stensel8/check-for-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T14:45:52Z", "type": "new_poc", "url": "https://github.com/Stensel8/check-for-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:52Z", "type": "new_poc", "url": "https://github.com/HackSpeak/CVE-2026-109618"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:52Z", "type": "new_poc", "url": "https://github.com/enactive-systems/CVE-2026-109618-poc"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:53Z", "type": "new_poc", "url": "https://github.com/ruddem/php-cve-2026-109618-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:53Z", "type": "new_poc", "url": "https://github.com/AsviS/PHP2Shell"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:54Z", "type": "new_poc", "url": "https://github.com/mnk-works/php2shell-verify"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:54Z", "type": "new_poc", "url": "https://github.com/CYB3RW07F/PHP2Shell-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T14:45:54Z", "type": "new_poc", "url": "https://github.com/CYB3RW07F/PHP2Shell-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:55Z", "type": "new_poc", "url": "https://github.com/0xBlackash/CVE-2026-109618"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:55Z", "type": "new_poc", "url": "https://github.com/LeonelArrua/CVE-2026-109618_CVE-2026-109619_Mitigate"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T14:45:55Z", "type": "new_poc", "url": "https://github.com/LeonelArrua/CVE-2026-109618_CVE-2026-109619_Mitigate"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:55Z", "type": "new_poc", "url": "https://github.com/daffa001/php-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T14:45:55Z", "type": "new_poc", "url": "https://github.com/daffa001/php-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:55Z", "type": "new_poc", "url": "https://github.com/zerbaliy3v/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T14:45:55Z", "type": "new_poc", "url": "https://github.com/zerbaliy3v/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:56Z", "type": "new_poc", "url": "https://github.com/EkaterinaMarchetti/Non-intrusive-PHP2Shell-assessment-for-CVE-2026-109618-and-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T14:45:56Z", "type": "new_poc", "url": "https://github.com/EkaterinaMarchetti/Non-intrusive-PHP2Shell-assessment-for-CVE-2026-109618-and-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:57Z", "type": "new_poc", "url": "https://github.com/BIBILZERODAY/PHP2Shell-CVE-2026-109618-CVE-2026-109619-Mass-Exploit"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T14:45:57Z", "type": "new_poc", "url": "https://github.com/BIBILZERODAY/PHP2Shell-CVE-2026-109618-CVE-2026-109619-Mass-Exploit"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:57Z", "type": "new_poc", "url": "https://github.com/zhaoboy9692/CVE-2026-109618_"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T14:45:57Z", "type": "new_poc", "url": "https://github.com/santihabib/CVE-2026-109619"}
+{"cve_id": "CVE-2026-88901", "ts": "2026-10-21T14:45:57Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-88901"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:57Z", "type": "new_poc", "url": "https://github.com/Okymi-X/CVE-2026-109618"}
+{"cve_id": "CVE-2026-110899", "ts": "2026-10-21T14:45:57Z", "type": "new_poc", "url": "https://github.com/synapes620/CVE-2026-110899"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T14:45:58Z", "type": "new_poc", "url": "https://github.com/xvanpan/CVE-2026-109619"}
+{"cve_id": "CVE-2026-85316", "ts": "2026-10-21T14:45:58Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-85316"}
+{"cve_id": "CVE-2026-85317", "ts": "2026-10-21T14:45:58Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-85317"}
+{"cve_id": "CVE-2026-102764", "ts": "2026-10-21T14:45:58Z", "type": "new_poc", "url": "https://github.com/maxprog-svg/CVE-2026-102764"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:58Z", "type": "new_poc", "url": "https://github.com/charindithjaindu/CVE-2026-109618"}
+{"cve_id": "CVE-2023-46604", "ts": "2026-10-21T14:45:58Z", "type": "new_poc", "url": "https://github.com/Theocyg/CVE-2023-46604"}
+{"cve_id": "CVE-2026-91858", "ts": "2026-10-21T14:45:58Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-91858"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:58Z", "type": "new_poc", "url": "https://github.com/xvanpan/CVE-2026-109618"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:59Z", "type": "new_poc", "url": "https://github.com/Nayrae/CVE-2026-109618"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:59Z", "type": "new_poc", "url": "https://github.com/debugactiveprocess/CVE-2026-109618"}
+{"cve_id": "CVE-2026-85315", "ts": "2026-10-21T14:45:59Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-85315"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:59Z", "type": "new_poc", "url": "https://github.com/sorenjohanson/crowdsec-cve-2026-109618-rule"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:45:59Z", "type": "new_poc", "url": "https://github.com/1o-ya/php-cve-2026-109618-hotfix-guide"}
+{"cve_id": "CVE-2026-88900", "ts": "2026-10-21T14:45:59Z", "type": "new_poc", "url": "https://github.com/oscerd/CVE-2026-88900"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:00Z", "type": "new_poc", "url": "https://github.com/jayy-hub1490/php2shell-CVE-2026-109618-CVE-2026-109619-recon-exploitation-toolkit"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T14:46:00Z", "type": "new_poc", "url": "https://github.com/jayy-hub1490/php2shell-CVE-2026-109618-CVE-2026-109619-recon-exploitation-toolkit"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:00Z", "type": "new_poc", "url": "https://github.com/nirzadokox/php2shell-PoC-for-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T14:46:00Z", "type": "new_poc", "url": "https://github.com/nirzadokox/php2shell-PoC-for-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-11645", "ts": "2026-10-21T14:46:00Z", "type": "new_poc", "url": "https://github.com/emlinhax/CVE-2026-11645-poc"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:00Z", "type": "new_poc", "url": "https://github.com/pruiz/php-CVE-2026-109618"}
+{"cve_id": "CVE-2025-27509", "ts": "2026-10-21T14:46:01Z", "type": "new_poc", "url": "https://github.com/Chillov3k/poc-cve-2025-27509"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:01Z", "type": "new_poc", "url": "https://github.com/nsrg-fmlorg/php-cve-2026-109618"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:01Z", "type": "new_poc", "url": "https://github.com/fmdiscioglu/php-cve-2026-109618-checker"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-21T14:46:01Z", "type": "new_poc", "url": "https://github.com/fmdiscioglu/php-cve-2026-109619-checker"}
+{"cve_id": "CVE-2025-69413", "ts": "2026-10-21T14:46:01Z", "type": "new_poc", "url": "https://github.com/fuad00/CVE-2025-69413-PoC"}
+{"cve_id": "CVE-2026-10961", "ts": "2026-10-21T14:46:02Z", "type": "new_poc", "url": "https://github.com/goodcoddeo/pterodactyl_PHP-CVE-2026-10961x"}
+{"cve_id": "CVE-2022-22965", "ts": "2026-10-21T14:46:02Z", "type": "new_poc", "url": "https://github.com/beulahhh-coder/-CVE-2022-22965-Spring4Shell"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:02Z", "type": "new_poc", "url": "https://github.com/zenzue/PoC-CVE-2026-109618_19"}
+{"cve_id": "CVE-2026-63030", "ts": "2026-10-21T14:46:02Z", "type": "new_poc", "url": "https://github.com/Githu836/PoC-for-CVE-2026-63030"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:03Z", "type": "new_poc", "url": "https://github.com/vperetti/php-cve-2026-109618-109619-backports"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:03Z", "type": "new_poc", "url": "https://github.com/rdwr-namikb/php2shell-cve-2026-109618-109619-lab"}
+{"cve_id": "CVE-2026-72867", "ts": "2026-10-21T14:46:03Z", "type": "new_poc", "url": "https://github.com/WoYinDao/CVE-2026-72867-CVSS-9.9-Critical"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:04Z", "type": "new_poc", "url": "https://github.com/sxyrxyy/php2shell-cve-2026-109618-check"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:04Z", "type": "new_poc", "url": "https://github.com/adriyansyah-mf/CVE-2026-109618-109619-PHP-session.upload_progress-Exploit-"}
+{"cve_id": "CVE-2025-69212", "ts": "2026-10-21T14:46:05Z", "type": "new_poc", "url": "https://github.com/d0lf1/htb-enigma-poc"}
+{"cve_id": "CVE-2023-32681", "ts": "2026-10-21T14:46:05Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/requests-sec-notes"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:06Z", "type": "new_poc", "url": "https://github.com/Autive/php2shell-watch"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:06Z", "type": "new_poc", "url": "https://github.com/darkfibr/php2shell-detect"}
+{"cve_id": "CVE-2025-7771", "ts": "2026-10-21T14:46:06Z", "type": "new_poc", "url": "https://github.com/datcathuh/CiGaslight"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-21T14:46:06Z", "type": "new_poc", "url": "https://github.com/tommaru66-pixel/php2shell-poc-1"}
