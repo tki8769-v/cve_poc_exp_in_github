@@ -3732,3 +3732,5 @@
 {"cve_id": "CVE-2018-16763", "ts": "2026-10-21T00:17:53Z", "type": "new_poc", "url": "https://github.com/fahise/cve-2018-16763"}
 {"cve_id": "CVE-2021-26855", "ts": "2026-10-21T00:17:54Z", "type": "new_poc", "url": "https://github.com/layee27/JIMOH-ABDULLAHI"}
 {"cve_id": "CVE-2026-44714", "ts": "2026-10-21T00:17:54Z", "type": "new_poc", "url": "https://github.com/Bitcoinjimmy/BABEF"}
+{"cve_id": "CVE-2026-44714", "ts": "2026-10-21T00:34:46Z", "type": "new_poc", "url": "https://github.com/dntaskmehow/BABEF"}
+{"cve_id": "CVE-2026-39987", "ts": "2026-10-21T00:35:16Z", "type": "new_poc", "url": "https://github.com/dntaskmehow/MARABUSE-"}

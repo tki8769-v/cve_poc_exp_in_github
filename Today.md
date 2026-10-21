@@ -14,10 +14,12 @@
 ## CVE-2026-39987
 
 - [https://github.com/Bitcoinjimmy/MARABUSE-](https://github.com/Bitcoinjimmy/MARABUSE-) : ![starts](https://img.shields.io/github/stars/Bitcoinjimmy/MARABUSE-.svg) ![forks](https://img.shields.io/github/forks/Bitcoinjimmy/MARABUSE-.svg)
+- [https://github.com/dntaskmehow/MARABUSE-](https://github.com/dntaskmehow/MARABUSE-) : ![starts](https://img.shields.io/github/stars/dntaskmehow/MARABUSE-.svg) ![forks](https://img.shields.io/github/forks/dntaskmehow/MARABUSE-.svg)
 
 ## CVE-2026-44714
 
 - [https://github.com/Bitcoinjimmy/BABEF](https://github.com/Bitcoinjimmy/BABEF) : ![starts](https://img.shields.io/github/stars/Bitcoinjimmy/BABEF.svg) ![forks](https://img.shields.io/github/forks/Bitcoinjimmy/BABEF.svg)
+- [https://github.com/dntaskmehow/BABEF](https://github.com/dntaskmehow/BABEF) : ![starts](https://img.shields.io/github/stars/dntaskmehow/BABEF.svg) ![forks](https://img.shields.io/github/forks/dntaskmehow/BABEF.svg)
 
 ## CVE-2026-62911
 
