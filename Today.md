@@ -217,6 +217,10 @@
 
 - [https://github.com/dntaskmehow/MARABUSE](https://github.com/dntaskmehow/MARABUSE) : ![starts](https://img.shields.io/github/stars/dntaskmehow/MARABUSE.svg) ![forks](https://img.shields.io/github/forks/dntaskmehow/MARABUSE.svg)
 
+## CVE-2026-41651
+
+- [https://github.com/Thhc10/CVE-2026-41651](https://github.com/Thhc10/CVE-2026-41651) : ![starts](https://img.shields.io/github/stars/Thhc10/CVE-2026-41651.svg) ![forks](https://img.shields.io/github/forks/Thhc10/CVE-2026-41651.svg)
+
 ## CVE-2026-62356
 
 - [https://github.com/zsy-arch/CVE-2026-62356-POC](https://github.com/zsy-arch/CVE-2026-62356-POC) : ![starts](https://img.shields.io/github/stars/zsy-arch/CVE-2026-62356-POC.svg) ![forks](https://img.shields.io/github/forks/zsy-arch/CVE-2026-62356-POC.svg)

@@ -12043,6 +12043,8 @@ A local unprivileged user can install arbitrary RPM packages as root, including 
 
 - [https://github.com/ZeroDayEvil/CVE-2026-41651](https://github.com/ZeroDayEvil/CVE-2026-41651) : ![starts](https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-41651.svg) ![forks](https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-41651.svg)
 
+- [https://github.com/Thhc10/CVE-2026-41651](https://github.com/Thhc10/CVE-2026-41651) : ![starts](https://img.shields.io/github/stars/Thhc10/CVE-2026-41651.svg) ![forks](https://img.shields.io/github/forks/Thhc10/CVE-2026-41651.svg)
+
 ## CVE-2026-41575
  In th30d4y/IP from version 1.0.1 to before version 2.0.1, a DOM-Based Cross-Site Scripting (XSS) vulnerability was identified in an IP Reputation Checker application. Unsanitized user input was directly rendered in the browser, allowing attackers to execute arbitrary JavaScript. This issue has been patched in version 2.0.1.
 
