@@ -487,6 +487,10 @@
 
 - [https://github.com/viniciusbossle/php74-el7-php2shell](https://github.com/viniciusbossle/php74-el7-php2shell) : ![starts](https://img.shields.io/github/stars/viniciusbossle/php74-el7-php2shell.svg) ![forks](https://img.shields.io/github/forks/viniciusbossle/php74-el7-php2shell.svg)
 
+- [https://github.com/KanyCrew/php2shell-poc](https://github.com/KanyCrew/php2shell-poc) : ![starts](https://img.shields.io/github/stars/KanyCrew/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/KanyCrew/php2shell-poc.svg)
+
+- [https://github.com/ryantseng24/php2shell-f5-waf-tools](https://github.com/ryantseng24/php2shell-f5-waf-tools) : ![starts](https://img.shields.io/github/stars/ryantseng24/php2shell-f5-waf-tools.svg) ![forks](https://img.shields.io/github/forks/ryantseng24/php2shell-f5-waf-tools.svg)
+
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
@@ -1788,10 +1792,16 @@ free of a `struct Curl_easy` object.
 - [https://github.com/murrez/CVE-2026-92229](https://github.com/murrez/CVE-2026-92229) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-92229.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-92229.svg)
 
 ## CVE-2026-92209
+> NoMachine Redis Improper Authentication Local Privilege Escalation Vulnerability. This vulnerability allows local attackers to escalate privileges on affected installations of NoMachine. An attacker must first obtain the ability to execute low-privileged code on the target system in order to exploit this vulnerability.
+
+The specific flaw exists within the authentication mechanism controlling access to the Redis database. The issue results from using insufficient entropy in the generation of cred
 
 - [https://github.com/do4choo/CVE-2026-92209_NoMachine_LPE](https://github.com/do4choo/CVE-2026-92209_NoMachine_LPE) : ![starts](https://img.shields.io/github/stars/do4choo/CVE-2026-92209_NoMachine_LPE.svg) ![forks](https://img.shields.io/github/forks/do4choo/CVE-2026-92209_NoMachine_LPE.svg)
 
 ## CVE-2026-92208
+> NoMachine mDNS Heap-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of NoMachine. Authentication is not required to exploit this vulnerability.
+
+The specific flaw exists within the parsing of mDNS resource records. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer. An attacker can leverage this vulner
 
 - [https://github.com/do4choo/CVE-2026-92208_remote_mDNS_overflow](https://github.com/do4choo/CVE-2026-92208_remote_mDNS_overflow) : ![starts](https://img.shields.io/github/stars/do4choo/CVE-2026-92208_remote_mDNS_overflow.svg) ![forks](https://img.shields.io/github/forks/do4choo/CVE-2026-92208_remote_mDNS_overflow.svg)
 
@@ -72948,6 +72958,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/ferralon-demo/log4shell-chain](https://github.com/ferralon-demo/log4shell-chain) : ![starts](https://img.shields.io/github/stars/ferralon-demo/log4shell-chain.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/log4shell-chain.svg)
 
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-1](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-1) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-1.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-1.svg)
+
+- [https://github.com/yomiplush/2026-world-is-a-fuck-incident](https://github.com/yomiplush/2026-world-is-a-fuck-incident) : ![starts](https://img.shields.io/github/stars/yomiplush/2026-world-is-a-fuck-incident.svg) ![forks](https://img.shields.io/github/forks/yomiplush/2026-world-is-a-fuck-incident.svg)
 
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.

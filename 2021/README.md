@@ -1616,6 +1616,8 @@
 
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-1](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-1) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-1.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-1.svg)
 
+- [https://github.com/yomiplush/2026-world-is-a-fuck-incident](https://github.com/yomiplush/2026-world-is-a-fuck-incident) : ![starts](https://img.shields.io/github/stars/yomiplush/2026-world-is-a-fuck-incident.svg) ![forks](https://img.shields.io/github/forks/yomiplush/2026-world-is-a-fuck-incident.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 

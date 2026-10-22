@@ -4115,3 +4115,16 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:23:05Z", "type": "new_poc", "url": "https://github.com/the-metafactory/php-patch-verify"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:23:05Z", "type": "new_poc", "url": "https://github.com/viniciusbossle/php74-el7-php2shell"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:23:06Z", "type": "new_poc", "url": "https://github.com/sawula7/php72-php2shell-backport"}
+{"cve_id": "CVE-2025-50343", "ts": "2026-10-22T06:34:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-102536", "ts": "2026-10-22T06:34:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105301", "ts": "2026-10-22T06:35:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110923", "ts": "2026-10-22T06:35:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110924", "ts": "2026-10-22T06:35:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110925", "ts": "2026-10-22T06:35:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110926", "ts": "2026-10-22T06:35:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110927", "ts": "2026-10-22T06:35:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-113670", "ts": "2026-10-22T06:36:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-16487", "ts": "2026-10-22T06:37:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:50:50Z", "type": "new_poc", "url": "https://github.com/ryantseng24/php2shell-f5-waf-tools"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:50:51Z", "type": "new_poc", "url": "https://github.com/KanyCrew/php2shell-poc"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-10-22T06:51:15Z", "type": "new_poc", "url": "https://github.com/yomiplush/2026-world-is-a-fuck-incident"}
