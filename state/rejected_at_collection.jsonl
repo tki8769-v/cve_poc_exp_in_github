@@ -1834,3 +1834,4 @@
 {"cve_id": "CVE-2026-8621", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T21:28:16Z", "url": "https://github.com/super-meuw/CVE-2026-86218", "url_ids": ["CVE-2026-86218"]}
 {"cve_id": "CVE-2026-8621", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T21:28:16Z", "url": "https://github.com/Udyz/CVE-2026-86218", "url_ids": ["CVE-2026-86218"]}
 {"cve_id": "CVE-2026-8621", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T21:28:16Z", "url": "https://github.com/HORKimhab/CVE-2026-86218", "url_ids": ["CVE-2026-86218"]}
+{"cve_id": "CVE-2026-9209", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T21:45:35Z", "url": "https://github.com/MS-0x404/CVE-2026-92099", "url_ids": ["CVE-2026-92099"]}
