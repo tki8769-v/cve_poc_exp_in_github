@@ -62,6 +62,10 @@
 
 - [https://github.com/incu-tech/october-cyber-family](https://github.com/incu-tech/october-cyber-family) : ![starts](https://img.shields.io/github/stars/incu-tech/october-cyber-family.svg) ![forks](https://img.shields.io/github/forks/incu-tech/october-cyber-family.svg)
 
+- [https://github.com/TheFool-TAROT/CVE-2026-111497-brotli-pwn](https://github.com/TheFool-TAROT/CVE-2026-111497-brotli-pwn) : ![starts](https://img.shields.io/github/stars/TheFool-TAROT/CVE-2026-111497-brotli-pwn.svg) ![forks](https://img.shields.io/github/forks/TheFool-TAROT/CVE-2026-111497-brotli-pwn.svg)
+
+- [https://github.com/ikow/brotli2crash](https://github.com/ikow/brotli2crash) : ![starts](https://img.shields.io/github/stars/ikow/brotli2crash.svg) ![forks](https://img.shields.io/github/forks/ikow/brotli2crash.svg)
+
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
 
@@ -140,6 +144,10 @@
 - [https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-110264](https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-110264) : ![starts](https://img.shields.io/github/stars/OppositDeer/Gitlab-RCE-CVE-2026-110264.svg) ![forks](https://img.shields.io/github/forks/OppositDeer/Gitlab-RCE-CVE-2026-110264.svg)
 
 - [https://github.com/nh4ttruong/cve-2026-110264-poc](https://github.com/nh4ttruong/cve-2026-110264-poc) : ![starts](https://img.shields.io/github/stars/nh4ttruong/cve-2026-110264-poc.svg) ![forks](https://img.shields.io/github/forks/nh4ttruong/cve-2026-110264-poc.svg)
+
+- [https://github.com/TahuCryptsi/gitlab-onigmo-check](https://github.com/TahuCryptsi/gitlab-onigmo-check) : ![starts](https://img.shields.io/github/stars/TahuCryptsi/gitlab-onigmo-check.svg) ![forks](https://img.shields.io/github/forks/TahuCryptsi/gitlab-onigmo-check.svg)
+
+- [https://github.com/TahuCryptsi/poc-gitlab-onigmo-cve-2026-110264](https://github.com/TahuCryptsi/poc-gitlab-onigmo-cve-2026-110264) : ![starts](https://img.shields.io/github/stars/TahuCryptsi/poc-gitlab-onigmo-cve-2026-110264.svg) ![forks](https://img.shields.io/github/forks/TahuCryptsi/poc-gitlab-onigmo-cve-2026-110264.svg)
 
 ## CVE-2026-110025
 > A flaw has been found in slackero phpwcms up to 1.9.49/1.12.3. This issue affects some unknown processing of the file include/inc_front/content/cnt23.article.inc.php of the component Extension Check. This manipulation of the argument POST_name causes unrestricted upload. The attack can be initiated remotely. Upgrading to version 1.9.50 and 1.12.4 is capable of addressing this issue. Patch name: 118c978430f5a9668b30535f6e592c7ae8df711f/f4c136b467565b2d16ebe2b8276b9a03547a9a69/8571cb47df8d66804d1e
@@ -253,6 +261,14 @@
 - [https://github.com/seguridadentrerios/CVE-2026-109618-CVE-2026-109619](https://github.com/seguridadentrerios/CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-109618-CVE-2026-109619.svg)
 
 - [https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619](https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg)
+
+- [https://github.com/FarhadHosen101/PHP2Shell-CVE-2026-109619](https://github.com/FarhadHosen101/PHP2Shell-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/FarhadHosen101/PHP2Shell-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/FarhadHosen101/PHP2Shell-CVE-2026-109619.svg)
+
+- [https://github.com/WallcroftUK/CVE-2026-109619](https://github.com/WallcroftUK/CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/WallcroftUK/CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/WallcroftUK/CVE-2026-109619.svg)
+
+- [https://github.com/swap18plus/php2shell_CVE-2026-109618-and-CVE-2026-109619](https://github.com/swap18plus/php2shell_CVE-2026-109618-and-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/swap18plus/php2shell_CVE-2026-109618-and-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/swap18plus/php2shell_CVE-2026-109618-and-CVE-2026-109619.svg)
+
+- [https://github.com/xaviware/go-php2shell-scanner-CVE-2026-109618-CVE-2026-109619](https://github.com/xaviware/go-php2shell-scanner-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/xaviware/go-php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/xaviware/go-php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -621,6 +637,48 @@
 
 - [https://github.com/wromansky/php2shell-warn](https://github.com/wromansky/php2shell-warn) : ![starts](https://img.shields.io/github/stars/wromansky/php2shell-warn.svg) ![forks](https://img.shields.io/github/forks/wromansky/php2shell-warn.svg)
 
+- [https://github.com/Alex-Goaga/synology-dsm6-php74-php2shell](https://github.com/Alex-Goaga/synology-dsm6-php74-php2shell) : ![starts](https://img.shields.io/github/stars/Alex-Goaga/synology-dsm6-php74-php2shell.svg) ![forks](https://img.shields.io/github/forks/Alex-Goaga/synology-dsm6-php74-php2shell.svg)
+
+- [https://github.com/ChangWeiHong/php-cve-local-lab](https://github.com/ChangWeiHong/php-cve-local-lab) : ![starts](https://img.shields.io/github/stars/ChangWeiHong/php-cve-local-lab.svg) ![forks](https://img.shields.io/github/forks/ChangWeiHong/php-cve-local-lab.svg)
+
+- [https://github.com/JackReaper1020/php_oom](https://github.com/JackReaper1020/php_oom) : ![starts](https://img.shields.io/github/stars/JackReaper1020/php_oom.svg) ![forks](https://img.shields.io/github/forks/JackReaper1020/php_oom.svg)
+
+- [https://github.com/Magicalname/php2shell-guard](https://github.com/Magicalname/php2shell-guard) : ![starts](https://img.shields.io/github/stars/Magicalname/php2shell-guard.svg) ![forks](https://img.shields.io/github/forks/Magicalname/php2shell-guard.svg)
+
+- [https://github.com/Officerwasu/php2shell](https://github.com/Officerwasu/php2shell) : ![starts](https://img.shields.io/github/stars/Officerwasu/php2shell.svg) ![forks](https://img.shields.io/github/forks/Officerwasu/php2shell.svg)
+
+- [https://github.com/PouriaMeshgini/php2shell](https://github.com/PouriaMeshgini/php2shell) : ![starts](https://img.shields.io/github/stars/PouriaMeshgini/php2shell.svg) ![forks](https://img.shields.io/github/forks/PouriaMeshgini/php2shell.svg)
+
+- [https://github.com/RuanSerraAzul/CVE-2026-109618-POC](https://github.com/RuanSerraAzul/CVE-2026-109618-POC) : ![starts](https://img.shields.io/github/stars/RuanSerraAzul/CVE-2026-109618-POC.svg) ![forks](https://img.shields.io/github/forks/RuanSerraAzul/CVE-2026-109618-POC.svg)
+
+- [https://github.com/ali-security/php-5.6.40-sp1-build](https://github.com/ali-security/php-5.6.40-sp1-build) : ![starts](https://img.shields.io/github/stars/ali-security/php-5.6.40-sp1-build.svg) ![forks](https://img.shields.io/github/forks/ali-security/php-5.6.40-sp1-build.svg)
+
+- [https://github.com/bianqiang-ui/phpscan-go](https://github.com/bianqiang-ui/phpscan-go) : ![starts](https://img.shields.io/github/stars/bianqiang-ui/phpscan-go.svg) ![forks](https://img.shields.io/github/forks/bianqiang-ui/phpscan-go.svg)
+
+- [https://github.com/definitiveref/php2shell-CVE-2026-109618-109619-Research](https://github.com/definitiveref/php2shell-CVE-2026-109618-109619-Research) : ![starts](https://img.shields.io/github/stars/definitiveref/php2shell-CVE-2026-109618-109619-Research.svg) ![forks](https://img.shields.io/github/forks/definitiveref/php2shell-CVE-2026-109618-109619-Research.svg)
+
+- [https://github.com/jarohull-ai/jfp-edge-radar](https://github.com/jarohull-ai/jfp-edge-radar) : ![starts](https://img.shields.io/github/stars/jarohull-ai/jfp-edge-radar.svg) ![forks](https://img.shields.io/github/forks/jarohull-ai/jfp-edge-radar.svg)
+
+- [https://github.com/kitten443/php2shell](https://github.com/kitten443/php2shell) : ![starts](https://img.shields.io/github/stars/kitten443/php2shell.svg) ![forks](https://img.shields.io/github/forks/kitten443/php2shell.svg)
+
+- [https://github.com/manuxio/untested-php2shell-fixed-php-5-4-apache](https://github.com/manuxio/untested-php2shell-fixed-php-5-4-apache) : ![starts](https://img.shields.io/github/stars/manuxio/untested-php2shell-fixed-php-5-4-apache.svg) ![forks](https://img.shields.io/github/forks/manuxio/untested-php2shell-fixed-php-5-4-apache.svg)
+
+- [https://github.com/manuxio/untested-php2shell-fixed-php-7-2-apache](https://github.com/manuxio/untested-php2shell-fixed-php-7-2-apache) : ![starts](https://img.shields.io/github/stars/manuxio/untested-php2shell-fixed-php-7-2-apache.svg) ![forks](https://img.shields.io/github/forks/manuxio/untested-php2shell-fixed-php-7-2-apache.svg)
+
+- [https://github.com/manuxio/untested-php2shell-fixed-php-7-2-fpm](https://github.com/manuxio/untested-php2shell-fixed-php-7-2-fpm) : ![starts](https://img.shields.io/github/stars/manuxio/untested-php2shell-fixed-php-7-2-fpm.svg) ![forks](https://img.shields.io/github/forks/manuxio/untested-php2shell-fixed-php-7-2-fpm.svg)
+
+- [https://github.com/manuxio/untested-php2shell-fixed-php-fpm-mod_php](https://github.com/manuxio/untested-php2shell-fixed-php-fpm-mod_php) : ![starts](https://img.shields.io/github/stars/manuxio/untested-php2shell-fixed-php-fpm-mod_php.svg) ![forks](https://img.shields.io/github/forks/manuxio/untested-php2shell-fixed-php-fpm-mod_php.svg)
+
+- [https://github.com/mehmetkuruyuz/php-cve-audit](https://github.com/mehmetkuruyuz/php-cve-audit) : ![starts](https://img.shields.io/github/stars/mehmetkuruyuz/php-cve-audit.svg) ![forks](https://img.shields.io/github/forks/mehmetkuruyuz/php-cve-audit.svg)
+
+- [https://github.com/newtro/php2shell-site-check](https://github.com/newtro/php2shell-site-check) : ![starts](https://img.shields.io/github/stars/newtro/php2shell-site-check.svg) ![forks](https://img.shields.io/github/forks/newtro/php2shell-site-check.svg)
+
+- [https://github.com/swap18plus/php2shell_CVE-2026-109618-and-CVE-2026-109619](https://github.com/swap18plus/php2shell_CVE-2026-109618-and-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/swap18plus/php2shell_CVE-2026-109618-and-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/swap18plus/php2shell_CVE-2026-109618-and-CVE-2026-109619.svg)
+
+- [https://github.com/waksboy/php-cve-2026-109618-109619-tester](https://github.com/waksboy/php-cve-2026-109618-109619-tester) : ![starts](https://img.shields.io/github/stars/waksboy/php-cve-2026-109618-109619-tester.svg) ![forks](https://img.shields.io/github/forks/waksboy/php-cve-2026-109618-109619-tester.svg)
+
+- [https://github.com/xaviware/go-php2shell-scanner-CVE-2026-109618-CVE-2026-109619](https://github.com/xaviware/go-php2shell-scanner-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/xaviware/go-php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/xaviware/go-php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg)
+
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
@@ -741,6 +799,10 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 - [https://github.com/Primandito/CVE-2026-107081](https://github.com/Primandito/CVE-2026-107081) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-107081.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-107081.svg)
 
+## CVE-2026-107079
+
+- [https://github.com/Nishi-Mehta-18/CVE-2026-107079](https://github.com/Nishi-Mehta-18/CVE-2026-107079) : ![starts](https://img.shields.io/github/stars/Nishi-Mehta-18/CVE-2026-107079.svg) ![forks](https://img.shields.io/github/forks/Nishi-Mehta-18/CVE-2026-107079.svg)
+
 ## CVE-2026-106610
 > Incorrect Privilege Assignment vulnerability in miniOrange miniorange otp verification miniorange-otp-verification allows Privilege Escalation.This issue affects miniorange otp verification: from n/a through 5.5.7.
 
@@ -757,6 +819,8 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 - [https://github.com/horizon3ai/CVE-2026-106173](https://github.com/horizon3ai/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/horizon3ai/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/horizon3ai/CVE-2026-106173.svg)
 
 - [https://github.com/0xBlackash/CVE-2026-106173](https://github.com/0xBlackash/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-106173.svg)
+
+- [https://github.com/tc4dy/CVE-2026-106173-PoC-Exploit](https://github.com/tc4dy/CVE-2026-106173-PoC-Exploit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-106173-PoC-Exploit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-106173-PoC-Exploit.svg)
 
 ## CVE-2026-105950
 > A security vulnerability has been detected in getformwork formwork up to 2.3.12. Impacted is the function DomSanitizer::sanitizeNodeAttribute of the file formwork/src/Sanitizer/DomSanitizer.php of the component URI Sanitizer. Such manipulation of the argument formaction leads to cross site scripting. The attack may be launched remotely. Upgrading to version 2.3.13 is recommended to address this issue. The name of the patch is 729701e59c5886685c5a1d477bdc3035e41f18b1. Upgrading the affected compo
@@ -1007,6 +1071,10 @@ device operation and availability. No authentication, session e
 ## CVE-2026-104100
 
 - [https://github.com/Saku0512/CVE-2026-104100-poc](https://github.com/Saku0512/CVE-2026-104100-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-104100-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-104100-poc.svg)
+
+## CVE-2026-104068
+
+- [https://github.com/sarvarr1/jetbackup-cve](https://github.com/sarvarr1/jetbackup-cve) : ![starts](https://img.shields.io/github/stars/sarvarr1/jetbackup-cve.svg) ![forks](https://img.shields.io/github/forks/sarvarr1/jetbackup-cve.svg)
 
 ## CVE-2026-104051
 > PictShare before 3.7.1 contains an information disclosure vulnerability that allows unauthenticated attackers to obtain the secret delete_code and uploader metadata by calling the API::info() endpoint which returns the complete raw metadata object without a field whitelist. Attackers can use the publicly visible file hash to retrieve the delete_code via the info API and then invoke the delete API to permanently delete arbitrary files, while also exposing uploader IP, User Agent, remote port, and
@@ -1976,6 +2044,10 @@ The specific flaw exists within the parsing of mDNS resource records. The issue 
 ## CVE-2026-91737
 
 - [https://github.com/sm1ee/CVE-2026-91737](https://github.com/sm1ee/CVE-2026-91737) : ![starts](https://img.shields.io/github/stars/sm1ee/CVE-2026-91737.svg) ![forks](https://img.shields.io/github/forks/sm1ee/CVE-2026-91737.svg)
+
+## CVE-2026-91403
+
+- [https://github.com/Carl0gonzalez/java-security-update](https://github.com/Carl0gonzalez/java-security-update) : ![starts](https://img.shields.io/github/stars/Carl0gonzalez/java-security-update.svg) ![forks](https://img.shields.io/github/forks/Carl0gonzalez/java-security-update.svg)
 
 ## CVE-2026-91159
 > Discourse is an open-source discussion platform. Prior to 2026.9.0, 2026.8.1, 2026.7.3, and 2026.1.9, oEmbed processing treated an entire attacker-controlled HTML fragment as trusted when the fragment contained an iframe whose source matched the configured allowlist. A user with posting permission who controlled a public webpage and its oEmbed response could combine an allowlisted iframe with unrelated sibling HTML or CSS, causing stored visual overlays or other styled content to appear in post 
@@ -20592,6 +20664,10 @@ In Socket.xs, pack_ip_mreq_source() checks the length of its source argument bef
 Calling pack_ip_mreq_source() with a source value shorter than 4 bytes copies adjacent heap memory into the returned packed structure.
 
 - [https://github.com/gduma-phData/patch-CVE-2026-12087](https://github.com/gduma-phData/patch-CVE-2026-12087) : ![starts](https://img.shields.io/github/stars/gduma-phData/patch-CVE-2026-12087.svg) ![forks](https://img.shields.io/github/forks/gduma-phData/patch-CVE-2026-12087.svg)
+
+## CVE-2026-12080
+
+- [https://github.com/M8seven/cve-2026-12080-qemu-guest-agent-authorized-keys](https://github.com/M8seven/cve-2026-12080-qemu-guest-agent-authorized-keys) : ![starts](https://img.shields.io/github/stars/M8seven/cve-2026-12080-qemu-guest-agent-authorized-keys.svg) ![forks](https://img.shields.io/github/forks/M8seven/cve-2026-12080-qemu-guest-agent-authorized-keys.svg)
 
 ## CVE-2026-11989
  The Bit integrations – Form Integration, Webhook, Spreadsheets, CRM, LMS & Email Automation plugin for WordPress is vulnerable to Server-Side Request Forgery in all versions up to, and including, 2.8.7 via the upload_attachment. This makes it possible for unauthenticated attackers to make web requests to arbitrary locations originating from the web application and can be used to query and modify information from internal services. Exploitation requires a form integration to be configured with a field mapped to a WooCommerce product image, product gallery, downloadable files, or Google Contacts attachment field, which is a default use case for these integrations.

@@ -9206,6 +9206,8 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
 
 - [https://github.com/shahin-shadow/nextjs-auth-bypass](https://github.com/shahin-shadow/nextjs-auth-bypass) : ![starts](https://img.shields.io/github/stars/shahin-shadow/nextjs-auth-bypass.svg) ![forks](https://img.shields.io/github/forks/shahin-shadow/nextjs-auth-bypass.svg)
 
+- [https://github.com/mcpmark-eval-liuhezi/cve-2025-29927-audit](https://github.com/mcpmark-eval-liuhezi/cve-2025-29927-audit) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/cve-2025-29927-audit.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/cve-2025-29927-audit.svg)
+
 ## CVE-2025-29824
  Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally.
 
@@ -14421,6 +14423,8 @@ Note that none of these vulnerabilities significantly affect the installation of
 - [https://github.com/NikolajSchlej/Hydroph0bia](https://github.com/NikolajSchlej/Hydroph0bia) : ![starts](https://img.shields.io/github/stars/NikolajSchlej/Hydroph0bia.svg) ![forks](https://img.shields.io/github/forks/NikolajSchlej/Hydroph0bia.svg)
 
 - [https://github.com/TheMalwareGuardian/CVE-2025-4275](https://github.com/TheMalwareGuardian/CVE-2025-4275) : ![starts](https://img.shields.io/github/stars/TheMalwareGuardian/CVE-2025-4275.svg) ![forks](https://img.shields.io/github/forks/TheMalwareGuardian/CVE-2025-4275.svg)
+
+- [https://github.com/Dorlander/hydrophobia-scanner](https://github.com/Dorlander/hydrophobia-scanner) : ![starts](https://img.shields.io/github/stars/Dorlander/hydrophobia-scanner.svg) ![forks](https://img.shields.io/github/forks/Dorlander/hydrophobia-scanner.svg)
 
 ## CVE-2025-4255
  A vulnerability classified as critical has been found in PCMan FTP Server 2.0.7. This affects an unknown part of the component RMD Command Handler. The manipulation leads to buffer overflow. It is possible to initiate the attack remotely. The exploit has been disclosed to the public and may be used.

@@ -5462,6 +5462,10 @@ return data from any other offset including Progam and Boot Flash.
 
 - [https://github.com/murdok1982/Exploit-PoC-para-CVE-2024-30085](https://github.com/murdok1982/Exploit-PoC-para-CVE-2024-30085) : ![starts](https://img.shields.io/github/stars/murdok1982/Exploit-PoC-para-CVE-2024-30085.svg) ![forks](https://img.shields.io/github/forks/murdok1982/Exploit-PoC-para-CVE-2024-30085.svg)
 
+## CVE-2024-30084
+
+- [https://github.com/m01000xd/CVE-2024-30084](https://github.com/m01000xd/CVE-2024-30084) : ![starts](https://img.shields.io/github/stars/m01000xd/CVE-2024-30084.svg) ![forks](https://img.shields.io/github/forks/m01000xd/CVE-2024-30084.svg)
+
 ## CVE-2024-30078
  Windows Wi-Fi Driver Remote Code Execution Vulnerability
 
