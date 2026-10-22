@@ -12359,6 +12359,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 
 - [https://github.com/dntaskmehow/MARABUSE-](https://github.com/dntaskmehow/MARABUSE-) : ![starts](https://img.shields.io/github/stars/dntaskmehow/MARABUSE-.svg) ![forks](https://img.shields.io/github/forks/dntaskmehow/MARABUSE-.svg)
 
+- [https://github.com/dntaskmehow/MARABUSE](https://github.com/dntaskmehow/MARABUSE) : ![starts](https://img.shields.io/github/stars/dntaskmehow/MARABUSE.svg) ![forks](https://img.shields.io/github/forks/dntaskmehow/MARABUSE.svg)
+
 ## CVE-2026-39983
  basic-ftp is an FTP client for Node.js. Prior to 5.2.1, basic-ftp allows FTP command injection via CRLF sequences (\r\n) in file path parameters passed to high-level path APIs such as cd(), remove(), rename(), uploadFrom(), downloadTo(), list(), and removeDir(). The library's protectWhitespace() helper only handles leading spaces and returns other paths unchanged, while FtpContext.send() writes the resulting command string directly to the control socket with \r\n appended. This lets attacker-controlled path strings split one intended FTP command into multiple commands. This vulnerability is fixed in 5.2.1.
 
@@ -29400,6 +29402,8 @@ Users are recommended to upgrade to version 11.0.9, 10.1.43 or 9.0.107, which fi
 
 - [https://github.com/Anchor0221/CVE-2025-50460](https://github.com/Anchor0221/CVE-2025-50460) : ![starts](https://img.shields.io/github/stars/Anchor0221/CVE-2025-50460.svg) ![forks](https://img.shields.io/github/forks/Anchor0221/CVE-2025-50460.svg)
 
+- [https://github.com/ferralon-demo/ms-swift-yaml-load-rce](https://github.com/ferralon-demo/ms-swift-yaml-load-rce) : ![starts](https://img.shields.io/github/stars/ferralon-demo/ms-swift-yaml-load-rce.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/ms-swift-yaml-load-rce.svg)
+
 ## CVE-2025-50433
  An issue was discovered in imonnit.com (2025-04-24) allowing malicious actors to gain escalated privileges via crafted password reset to take over arbitrary user accounts.
 
@@ -41670,6 +41674,10 @@ Users are recommended to upgrade to version 2.14.0 or later, which fixes the iss
 
 - [https://github.com/bshyuunn/bandiview-7.05-vuln-PoC](https://github.com/bshyuunn/bandiview-7.05-vuln-PoC) : ![starts](https://img.shields.io/github/stars/bshyuunn/bandiview-7.05-vuln-PoC.svg) ![forks](https://img.shields.io/github/forks/bshyuunn/bandiview-7.05-vuln-PoC.svg)
 
+## CVE-2024-45846
+
+- [https://github.com/ferralon-demo/mindsdb-vectordb-eval-rce](https://github.com/ferralon-demo/mindsdb-vectordb-eval-rce) : ![starts](https://img.shields.io/github/stars/ferralon-demo/mindsdb-vectordb-eval-rce.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/mindsdb-vectordb-eval-rce.svg)
+
 ## CVE-2024-45827
  Improper neutralization of special elements used in an OS command ('OS Command Injection') issue exists in Mesh Wi-Fi router RP562B firmware version v1.0.2 and earlier. If this vulnerability is exploited, a network-adjacent authenticated attacker may execute an arbitrary OS command.
 
@@ -47319,6 +47327,10 @@ An application is not vulnerable if any of the following is true:
   *  The application only uses isFullyAuthenticated via  Method Security https://docs.spring.io/spring-security/reference/servlet/authorization/method-security.html  or  HTTP Request Security https://docs.spring.io/spring-security/reference/servlet/authorization/authorize-http-requests.html
 
 - [https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234](https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234) : ![starts](https://img.shields.io/github/stars/shellfeel/CVE-2024-22243-CVE-2024-22234.svg) ![forks](https://img.shields.io/github/forks/shellfeel/CVE-2024-22243-CVE-2024-22234.svg)
+
+## CVE-2024-22203
+
+- [https://github.com/ferralon-demo/whoogle-search-ssrf-path-traversal](https://github.com/ferralon-demo/whoogle-search-ssrf-path-traversal) : ![starts](https://img.shields.io/github/stars/ferralon-demo/whoogle-search-ssrf-path-traversal.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/whoogle-search-ssrf-path-traversal.svg)
 
 ## CVE-2024-22198
  Nginx-UI is a web interface to manage Nginx configurations. It is vulnerable to arbitrary command execution by abusing the configuration settings. The `Home  Preference` page exposes a list of system settings such as `Run Mode`, `Jwt Secret`, `Node Secret` and `Terminal Start Command`. While the UI doesn't allow users to modify the `Terminal Start Command` setting, it is possible to do so by sending a request to the API. This issue may lead to authenticated remote code execution, privilege escalation, and information disclosure. This vulnerability has been patched in version 2.0.0.beta.9.
@@ -62820,6 +62832,8 @@ The protection bypass vulnerability in DLP for Windows 11.9.x is addressed in ve
 
 - [https://github.com/btar1gan/exploit_CVE-2023-0297](https://github.com/btar1gan/exploit_CVE-2023-0297) : ![starts](https://img.shields.io/github/stars/btar1gan/exploit_CVE-2023-0297.svg) ![forks](https://img.shields.io/github/forks/btar1gan/exploit_CVE-2023-0297.svg)
 
+- [https://github.com/ferralon-demo/pyload-js2py-rce](https://github.com/ferralon-demo/pyload-js2py-rce) : ![starts](https://img.shields.io/github/stars/ferralon-demo/pyload-js2py-rce.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/pyload-js2py-rce.svg)
+
 ## CVE-2023-0266
  A use after free vulnerability exists in the ALSA PCM package in the Linux Kernel. SNDRV_CTL_IOCTL_ELEM_{READ|WRITE}32 is missing locks that can be used in a use-after-free that can result in a priviledge escalation to gain ring0 access from the system user. We recommend upgrading past commit 56b88b50565cd8b946a2d00b0c83927b7ebb055e
 
@@ -65077,6 +65091,10 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
  Hytec Inter HWL-2511-SS v1.05 and below was discovered to contain a command injection vulnerability via the component /www/cgi-bin/popen.cgi.
 
 - [https://github.com/0xNslabs/CVE-2022-36553-PoC](https://github.com/0xNslabs/CVE-2022-36553-PoC) : ![starts](https://img.shields.io/github/stars/0xNslabs/CVE-2022-36553-PoC.svg) ![forks](https://img.shields.io/github/forks/0xNslabs/CVE-2022-36553-PoC.svg)
+
+## CVE-2022-36551
+
+- [https://github.com/ferralon-demo/label-studio-url-import-ssrf](https://github.com/ferralon-demo/label-studio-url-import-ssrf) : ![starts](https://img.shields.io/github/stars/ferralon-demo/label-studio-url-import-ssrf.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/label-studio-url-import-ssrf.svg)
 
 ## CVE-2022-36539
  WeDayCare B.V Ouderapp before v1.1.22 allows attackers to alter the ID value within intercepted calls to gain access to data of other parents and children.
@@ -72858,6 +72876,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-drill](https://github.com/mcpmark-eval-liuhezi/log4shell-drill) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-drill.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-drill.svg)
 
 - [https://github.com/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell](https://github.com/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell) : ![starts](https://img.shields.io/github/stars/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell.svg) ![forks](https://img.shields.io/github/forks/dave-ojumoola/CYB-401-CVE-2021-44228-Log4Shell.svg)
+
+- [https://github.com/ferralon-demo/log4shell-chain](https://github.com/ferralon-demo/log4shell-chain) : ![starts](https://img.shields.io/github/stars/ferralon-demo/log4shell-chain.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/log4shell-chain.svg)
 
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.

@@ -2202,6 +2202,10 @@ Users are recommended to upgrade to version 2.14.0 or later, which fixes the iss
 
 - [https://github.com/bshyuunn/bandiview-7.05-vuln-PoC](https://github.com/bshyuunn/bandiview-7.05-vuln-PoC) : ![starts](https://img.shields.io/github/stars/bshyuunn/bandiview-7.05-vuln-PoC.svg) ![forks](https://img.shields.io/github/forks/bshyuunn/bandiview-7.05-vuln-PoC.svg)
 
+## CVE-2024-45846
+
+- [https://github.com/ferralon-demo/mindsdb-vectordb-eval-rce](https://github.com/ferralon-demo/mindsdb-vectordb-eval-rce) : ![starts](https://img.shields.io/github/stars/ferralon-demo/mindsdb-vectordb-eval-rce.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/mindsdb-vectordb-eval-rce.svg)
+
 ## CVE-2024-45827
  Improper neutralization of special elements used in an OS command ('OS Command Injection') issue exists in Mesh Wi-Fi router RP562B firmware version v1.0.2 and earlier. If this vulnerability is exploited, a network-adjacent authenticated attacker may execute an arbitrary OS command.
 
@@ -7851,6 +7855,10 @@ An application is not vulnerable if any of the following is true:
   *  The application only uses isFullyAuthenticated via  Method Security https://docs.spring.io/spring-security/reference/servlet/authorization/method-security.html  or  HTTP Request Security https://docs.spring.io/spring-security/reference/servlet/authorization/authorize-http-requests.html
 
 - [https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234](https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234) : ![starts](https://img.shields.io/github/stars/shellfeel/CVE-2024-22243-CVE-2024-22234.svg) ![forks](https://img.shields.io/github/forks/shellfeel/CVE-2024-22243-CVE-2024-22234.svg)
+
+## CVE-2024-22203
+
+- [https://github.com/ferralon-demo/whoogle-search-ssrf-path-traversal](https://github.com/ferralon-demo/whoogle-search-ssrf-path-traversal) : ![starts](https://img.shields.io/github/stars/ferralon-demo/whoogle-search-ssrf-path-traversal.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/whoogle-search-ssrf-path-traversal.svg)
 
 ## CVE-2024-22198
  Nginx-UI is a web interface to manage Nginx configurations. It is vulnerable to arbitrary command execution by abusing the configuration settings. The `Home  Preference` page exposes a list of system settings such as `Run Mode`, `Jwt Secret`, `Node Secret` and `Terminal Start Command`. While the UI doesn't allow users to modify the `Terminal Start Command` setting, it is possible to do so by sending a request to the API. This issue may lead to authenticated remote code execution, privilege escalation, and information disclosure. This vulnerability has been patched in version 2.0.0.beta.9.

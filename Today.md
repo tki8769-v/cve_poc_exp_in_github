@@ -11,9 +11,33 @@
 
 - [https://github.com/Anuhimen/CVE-2020-4949-Analysis](https://github.com/Anuhimen/CVE-2020-4949-Analysis) : ![starts](https://img.shields.io/github/stars/Anuhimen/CVE-2020-4949-Analysis.svg) ![forks](https://img.shields.io/github/forks/Anuhimen/CVE-2020-4949-Analysis.svg)
 
+## CVE-2021-44228
+
+- [https://github.com/ferralon-demo/log4shell-chain](https://github.com/ferralon-demo/log4shell-chain) : ![starts](https://img.shields.io/github/stars/ferralon-demo/log4shell-chain.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/log4shell-chain.svg)
+
+## CVE-2022-36551
+
+- [https://github.com/ferralon-demo/label-studio-url-import-ssrf](https://github.com/ferralon-demo/label-studio-url-import-ssrf) : ![starts](https://img.shields.io/github/stars/ferralon-demo/label-studio-url-import-ssrf.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/label-studio-url-import-ssrf.svg)
+
+## CVE-2023-0297
+
+- [https://github.com/ferralon-demo/pyload-js2py-rce](https://github.com/ferralon-demo/pyload-js2py-rce) : ![starts](https://img.shields.io/github/stars/ferralon-demo/pyload-js2py-rce.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/pyload-js2py-rce.svg)
+
+## CVE-2024-22203
+
+- [https://github.com/ferralon-demo/whoogle-search-ssrf-path-traversal](https://github.com/ferralon-demo/whoogle-search-ssrf-path-traversal) : ![starts](https://img.shields.io/github/stars/ferralon-demo/whoogle-search-ssrf-path-traversal.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/whoogle-search-ssrf-path-traversal.svg)
+
+## CVE-2024-45846
+
+- [https://github.com/ferralon-demo/mindsdb-vectordb-eval-rce](https://github.com/ferralon-demo/mindsdb-vectordb-eval-rce) : ![starts](https://img.shields.io/github/stars/ferralon-demo/mindsdb-vectordb-eval-rce.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/mindsdb-vectordb-eval-rce.svg)
+
 ## CVE-2025-0133
 
 - [https://github.com/Inteleon404/CVE-2025-0133](https://github.com/Inteleon404/CVE-2025-0133) : ![starts](https://img.shields.io/github/stars/Inteleon404/CVE-2025-0133.svg) ![forks](https://img.shields.io/github/forks/Inteleon404/CVE-2025-0133.svg)
+
+## CVE-2025-50460
+
+- [https://github.com/ferralon-demo/ms-swift-yaml-load-rce](https://github.com/ferralon-demo/ms-swift-yaml-load-rce) : ![starts](https://img.shields.io/github/stars/ferralon-demo/ms-swift-yaml-load-rce.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/ms-swift-yaml-load-rce.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -43,6 +67,10 @@
 > On most platforms, Go uses the given system root certificates. However, in some narrower cases, the system trust stores may not be updated without further action. To defend against the narrower set of cases that may remain affected, a denylist was added in crypto/x509 to return an error when calling Verify with any of the known intermediate certificates that are no longer considered to be trustworthy.
 
 - [https://github.com/phpc0de/CVE-2026-111943-Remediator](https://github.com/phpc0de/CVE-2026-111943-Remediator) : ![starts](https://img.shields.io/github/stars/phpc0de/CVE-2026-111943-Remediator.svg) ![forks](https://img.shields.io/github/forks/phpc0de/CVE-2026-111943-Remediator.svg)
+
+## CVE-2026-39987
+
+- [https://github.com/dntaskmehow/MARABUSE](https://github.com/dntaskmehow/MARABUSE) : ![starts](https://img.shields.io/github/stars/dntaskmehow/MARABUSE.svg) ![forks](https://img.shields.io/github/forks/dntaskmehow/MARABUSE.svg)
 
 ## CVE-2026-86478
 

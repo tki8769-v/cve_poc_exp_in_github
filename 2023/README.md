@@ -10608,6 +10608,8 @@ The protection bypass vulnerability in DLP for Windows 11.9.x is addressed in ve
 
 - [https://github.com/btar1gan/exploit_CVE-2023-0297](https://github.com/btar1gan/exploit_CVE-2023-0297) : ![starts](https://img.shields.io/github/stars/btar1gan/exploit_CVE-2023-0297.svg) ![forks](https://img.shields.io/github/forks/btar1gan/exploit_CVE-2023-0297.svg)
 
+- [https://github.com/ferralon-demo/pyload-js2py-rce](https://github.com/ferralon-demo/pyload-js2py-rce) : ![starts](https://img.shields.io/github/stars/ferralon-demo/pyload-js2py-rce.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/pyload-js2py-rce.svg)
+
 ## CVE-2023-0266
  A use after free vulnerability exists in the ALSA PCM package in the Linux Kernel. SNDRV_CTL_IOCTL_ELEM_{READ|WRITE}32 is missing locks that can be used in a use-after-free that can result in a priviledge escalation to gain ring0 access from the system user. We recommend upgrading past commit 56b88b50565cd8b946a2d00b0c83927b7ebb055e
 

@@ -2170,6 +2170,10 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/0xNslabs/CVE-2022-36553-PoC](https://github.com/0xNslabs/CVE-2022-36553-PoC) : ![starts](https://img.shields.io/github/stars/0xNslabs/CVE-2022-36553-PoC.svg) ![forks](https://img.shields.io/github/forks/0xNslabs/CVE-2022-36553-PoC.svg)
 
+## CVE-2022-36551
+
+- [https://github.com/ferralon-demo/label-studio-url-import-ssrf](https://github.com/ferralon-demo/label-studio-url-import-ssrf) : ![starts](https://img.shields.io/github/stars/ferralon-demo/label-studio-url-import-ssrf.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/label-studio-url-import-ssrf.svg)
+
 ## CVE-2022-36539
  WeDayCare B.V Ouderapp before v1.1.22 allows attackers to alter the ID value within intercepted calls to gain access to data of other parents and children.
 

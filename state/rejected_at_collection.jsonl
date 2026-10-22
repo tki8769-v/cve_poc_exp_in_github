@@ -1757,3 +1757,4 @@
 {"cve_id": "CVE-2026-4253", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T00:14:17Z", "url": "https://github.com/suominen/CVE-2026-42533", "url_ids": ["CVE-2026-42533"]}
 {"cve_id": "CVE-2026-4253", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T00:14:17Z", "url": "https://github.com/HORKimhab/CVE-2026-42530", "url_ids": ["CVE-2026-42530"]}
 {"cve_id": "CVE-2026-4253", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T00:14:17Z", "url": "https://github.com/gagaltotal/CVE-2026-42533-nginx", "url_ids": ["CVE-2026-42533"]}
+{"cve_id": "CVE-2026-9335", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T00:35:37Z", "url": "https://github.com/InertFluid/cve-2026-93355-lab", "url_ids": ["CVE-2026-93355"]}

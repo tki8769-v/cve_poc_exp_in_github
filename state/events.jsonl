@@ -4048,3 +4048,17 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-22T00:09:28Z", "type": "new_poc", "url": "https://github.com/Flookerton/Am-I-Pwned"}
 {"cve_id": "CVE-2017-20001", "ts": "2026-10-22T00:09:29Z", "type": "new_poc", "url": "https://github.com/abiolaexcellence1-sketch/vulnerability-"}
 {"cve_id": "CVE-2025-0133", "ts": "2026-10-22T00:14:16Z", "type": "new_poc", "url": "https://github.com/Inteleon404/CVE-2025-0133"}
+{"cve_id": "CVE-2026-105301", "ts": "2026-10-22T00:20:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110923", "ts": "2026-10-22T00:20:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110924", "ts": "2026-10-22T00:20:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110925", "ts": "2026-10-22T00:20:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110926", "ts": "2026-10-22T00:20:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110927", "ts": "2026-10-22T00:20:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-16487", "ts": "2026-10-22T00:22:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-0297", "ts": "2026-10-22T00:29:19Z", "type": "new_poc", "url": "https://github.com/ferralon-demo/pyload-js2py-rce"}
+{"cve_id": "CVE-2022-36551", "ts": "2026-10-22T00:29:19Z", "type": "new_poc", "url": "https://github.com/ferralon-demo/label-studio-url-import-ssrf"}
+{"cve_id": "CVE-2025-50460", "ts": "2026-10-22T00:29:19Z", "type": "new_poc", "url": "https://github.com/ferralon-demo/ms-swift-yaml-load-rce"}
+{"cve_id": "CVE-2024-22203", "ts": "2026-10-22T00:29:19Z", "type": "new_poc", "url": "https://github.com/ferralon-demo/whoogle-search-ssrf-path-traversal"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-10-22T00:29:19Z", "type": "new_poc", "url": "https://github.com/ferralon-demo/log4shell-chain"}
+{"cve_id": "CVE-2024-45846", "ts": "2026-10-22T00:29:19Z", "type": "new_poc", "url": "https://github.com/ferralon-demo/mindsdb-vectordb-eval-rce"}
+{"cve_id": "CVE-2026-39987", "ts": "2026-10-22T00:29:59Z", "type": "new_poc", "url": "https://github.com/dntaskmehow/MARABUSE"}

@@ -5507,6 +5507,8 @@ Users are recommended to upgrade to version 11.0.9, 10.1.43 or 9.0.107, which fi
 
 - [https://github.com/Anchor0221/CVE-2025-50460](https://github.com/Anchor0221/CVE-2025-50460) : ![starts](https://img.shields.io/github/stars/Anchor0221/CVE-2025-50460.svg) ![forks](https://img.shields.io/github/forks/Anchor0221/CVE-2025-50460.svg)
 
+- [https://github.com/ferralon-demo/ms-swift-yaml-load-rce](https://github.com/ferralon-demo/ms-swift-yaml-load-rce) : ![starts](https://img.shields.io/github/stars/ferralon-demo/ms-swift-yaml-load-rce.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/ms-swift-yaml-load-rce.svg)
+
 ## CVE-2025-50433
  An issue was discovered in imonnit.com (2025-04-24) allowing malicious actors to gain escalated privileges via crafted password reset to take over arbitrary user accounts.
 

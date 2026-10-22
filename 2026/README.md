@@ -12358,6 +12358,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 
 - [https://github.com/dntaskmehow/MARABUSE-](https://github.com/dntaskmehow/MARABUSE-) : ![starts](https://img.shields.io/github/stars/dntaskmehow/MARABUSE-.svg) ![forks](https://img.shields.io/github/forks/dntaskmehow/MARABUSE-.svg)
 
+- [https://github.com/dntaskmehow/MARABUSE](https://github.com/dntaskmehow/MARABUSE) : ![starts](https://img.shields.io/github/stars/dntaskmehow/MARABUSE.svg) ![forks](https://img.shields.io/github/forks/dntaskmehow/MARABUSE.svg)
+
 ## CVE-2026-39983
  basic-ftp is an FTP client for Node.js. Prior to 5.2.1, basic-ftp allows FTP command injection via CRLF sequences (\r\n) in file path parameters passed to high-level path APIs such as cd(), remove(), rename(), uploadFrom(), downloadTo(), list(), and removeDir(). The library's protectWhitespace() helper only handles leading spaces and returns other paths unchanged, while FtpContext.send() writes the resulting command string directly to the control socket with \r\n appended. This lets attacker-controlled path strings split one intended FTP command into multiple commands. This vulnerability is fixed in 5.2.1.
 
