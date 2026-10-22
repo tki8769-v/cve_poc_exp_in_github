@@ -1758,3 +1758,5 @@
 {"cve_id": "CVE-2026-4253", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T00:14:17Z", "url": "https://github.com/HORKimhab/CVE-2026-42530", "url_ids": ["CVE-2026-42530"]}
 {"cve_id": "CVE-2026-4253", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T00:14:17Z", "url": "https://github.com/gagaltotal/CVE-2026-42533-nginx", "url_ids": ["CVE-2026-42533"]}
 {"cve_id": "CVE-2026-9335", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T00:35:37Z", "url": "https://github.com/InertFluid/cve-2026-93355-lab", "url_ids": ["CVE-2026-93355"]}
+{"cve_id": "CVE-2017-1182", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T00:50:39Z", "url": "https://github.com/thatskriptkid/CVE-2017-11826", "url_ids": ["CVE-2017-11826"]}
+{"cve_id": "CVE-2025-1461", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T00:56:51Z", "url": "https://github.com/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit", "url_ids": ["CVE-2025-14611"]}
