@@ -3821,6 +3821,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/ossf-cve-benchmark/CVE-2020-8203](https://github.com/ossf-cve-benchmark/CVE-2020-8203) : ![starts](https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-8203.svg) ![forks](https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-8203.svg)
 
+- [https://github.com/mcpmark-eval-liuhezi/audit-cve-2020-8203](https://github.com/mcpmark-eval-liuhezi/audit-cve-2020-8203) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/audit-cve-2020-8203.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/audit-cve-2020-8203.svg)
+
 ## CVE-2020-8196
  Improper access control in Citrix ADC and Citrix Gateway versions before 13.0-58.30, 12.1-57.18, 12.0-63.21, 11.1-64.14 and 10.5-70.18 and Citrix SDWAN WAN-OP versions before 11.1.1a, 11.0.3d and 10.2.7 resulting in limited information disclosure to low privileged users.
 

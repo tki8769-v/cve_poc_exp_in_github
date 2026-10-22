@@ -4232,3 +4232,25 @@
 {"cve_id": "CVE-2026-113670", "ts": "2026-10-22T14:59:43Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-16487", "ts": "2026-10-22T15:00:21Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-41651", "ts": "2026-10-22T15:19:53Z", "type": "new_poc", "url": "https://github.com/Thhc10/CVE-2026-41651"}
+{"cve_id": "CVE-2025-50343", "ts": "2026-10-22T15:25:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-102536", "ts": "2026-10-22T15:25:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105301", "ts": "2026-10-22T15:26:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110923", "ts": "2026-10-22T15:26:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110924", "ts": "2026-10-22T15:26:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110925", "ts": "2026-10-22T15:26:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110926", "ts": "2026-10-22T15:26:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110927", "ts": "2026-10-22T15:26:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-113670", "ts": "2026-10-22T15:27:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-16487", "ts": "2026-10-22T15:28:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T15:41:48Z", "type": "new_poc", "url": "https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-22T15:41:48Z", "type": "new_poc", "url": "https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2025-9974", "ts": "2026-10-22T15:41:49Z", "type": "new_poc", "url": "https://github.com/Rajdave69/CVE-2025-9974"}
+{"cve_id": "CVE-2020-8203", "ts": "2026-10-22T15:41:51Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/audit-cve-2020-8203"}
+{"cve_id": "CVE-2026-27739", "ts": "2026-10-22T15:41:51Z", "type": "new_poc", "url": "https://github.com/Mr-Red-007/CVE-2026-27739-POC"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-10-22T15:41:55Z", "type": "new_poc", "url": "https://github.com/ChaYeWuu/violin-CVE-2026-64560-OS4.0"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T15:41:56Z", "type": "new_poc", "url": "https://github.com/dexteon/php2shell-poc"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-10-22T15:41:59Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-demo"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T15:42:00Z", "type": "new_poc", "url": "https://github.com/laurentlevi/dt-managed-php-versions"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-22T15:42:00Z", "type": "new_poc", "url": "https://github.com/adam-ikari/ghostlock-site"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T15:42:01Z", "type": "new_poc", "url": "https://github.com/wromansky/php2shell-warn"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-22T15:42:04Z", "type": "new_poc", "url": "https://github.com/incu-tech/october-cyber-family"}

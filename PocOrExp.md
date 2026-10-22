@@ -8,6 +8,7 @@
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
 ## CVE-2026-114509
+> Laravel is a web application framework. Prior to 12.68.0 and 13.29.0, TokenGuard configured as a standard token-based API guard does not reject a crafted non-string credential. Under affected MySQL or MariaDB configurations, the authentication lookup can match an unintended existing user, allowing an unauthenticated attacker to bypass authentication and take over an account on routes protected by TokenGuard. This issue is fixed in versions 12.68.0 and 13.29.0.
 
 - [https://github.com/tajulasri/-CVE-2026-114509-POC](https://github.com/tajulasri/-CVE-2026-114509-POC) : ![starts](https://img.shields.io/github/stars/tajulasri/-CVE-2026-114509-POC.svg) ![forks](https://img.shields.io/github/forks/tajulasri/-CVE-2026-114509-POC.svg)
 
@@ -59,6 +60,8 @@
 - [https://github.com/TahuCryptsi/node-brotli-check](https://github.com/TahuCryptsi/node-brotli-check) : ![starts](https://img.shields.io/github/stars/TahuCryptsi/node-brotli-check.svg) ![forks](https://img.shields.io/github/forks/TahuCryptsi/node-brotli-check.svg)
 
 - [https://github.com/hypnguyen1209/CVE-2026-111497](https://github.com/hypnguyen1209/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/hypnguyen1209/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/hypnguyen1209/CVE-2026-111497.svg)
+
+- [https://github.com/incu-tech/october-cyber-family](https://github.com/incu-tech/october-cyber-family) : ![starts](https://img.shields.io/github/stars/incu-tech/october-cyber-family.svg) ![forks](https://img.shields.io/github/forks/incu-tech/october-cyber-family.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -249,6 +252,8 @@
 - [https://github.com/maxprog-svg/PHP2Shell-CVE-2026-109618-CVE-2026-109619](https://github.com/maxprog-svg/PHP2Shell-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/maxprog-svg/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg)
 
 - [https://github.com/seguridadentrerios/CVE-2026-109618-CVE-2026-109619](https://github.com/seguridadentrerios/CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-109618-CVE-2026-109619.svg)
+
+- [https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619](https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -608,6 +613,14 @@
 - [https://github.com/suleymanpetek/shadowphp](https://github.com/suleymanpetek/shadowphp) : ![starts](https://img.shields.io/github/stars/suleymanpetek/shadowphp.svg) ![forks](https://img.shields.io/github/forks/suleymanpetek/shadowphp.svg)
 
 - [https://github.com/vitalelele/CVE-2026-109618-PoC](https://github.com/vitalelele/CVE-2026-109618-PoC) : ![starts](https://img.shields.io/github/stars/vitalelele/CVE-2026-109618-PoC.svg) ![forks](https://img.shields.io/github/forks/vitalelele/CVE-2026-109618-PoC.svg)
+
+- [https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619](https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg)
+
+- [https://github.com/dexteon/php2shell-poc](https://github.com/dexteon/php2shell-poc) : ![starts](https://img.shields.io/github/stars/dexteon/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/php2shell-poc.svg)
+
+- [https://github.com/laurentlevi/dt-managed-php-versions](https://github.com/laurentlevi/dt-managed-php-versions) : ![starts](https://img.shields.io/github/stars/laurentlevi/dt-managed-php-versions.svg) ![forks](https://img.shields.io/github/forks/laurentlevi/dt-managed-php-versions.svg)
+
+- [https://github.com/wromansky/php2shell-warn](https://github.com/wromansky/php2shell-warn) : ![starts](https://img.shields.io/github/stars/wromansky/php2shell-warn.svg) ![forks](https://img.shields.io/github/forks/wromansky/php2shell-warn.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -5624,6 +5637,8 @@ with mt exec") added a temporary workaround for that in 2010 which surv
 - [https://github.com/itsmichiya/exploit-CVE-2026-64560](https://github.com/itsmichiya/exploit-CVE-2026-64560) : ![starts](https://img.shields.io/github/stars/itsmichiya/exploit-CVE-2026-64560.svg) ![forks](https://img.shields.io/github/forks/itsmichiya/exploit-CVE-2026-64560.svg)
 
 - [https://github.com/Yunnijian/OnePlus16-Jailbreak](https://github.com/Yunnijian/OnePlus16-Jailbreak) : ![starts](https://img.shields.io/github/stars/Yunnijian/OnePlus16-Jailbreak.svg) ![forks](https://img.shields.io/github/forks/Yunnijian/OnePlus16-Jailbreak.svg)
+
+- [https://github.com/ChaYeWuu/violin-CVE-2026-64560-OS4.0](https://github.com/ChaYeWuu/violin-CVE-2026-64560-OS4.0) : ![starts](https://img.shields.io/github/stars/ChaYeWuu/violin-CVE-2026-64560-OS4.0.svg) ![forks](https://img.shields.io/github/forks/ChaYeWuu/violin-CVE-2026-64560-OS4.0.svg)
 
 ## CVE-2026-64531
  In the Linux kernel, the following vulnerability has been resolved:
@@ -10950,6 +10965,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/shangu2003/SamsungRootKit](https://github.com/shangu2003/SamsungRootKit) : ![starts](https://img.shields.io/github/stars/shangu2003/SamsungRootKit.svg) ![forks](https://img.shields.io/github/forks/shangu2003/SamsungRootKit.svg)
 
+- [https://github.com/adam-ikari/ghostlock-site](https://github.com/adam-ikari/ghostlock-site) : ![starts](https://img.shields.io/github/stars/adam-ikari/ghostlock-site.svg) ![forks](https://img.shields.io/github/forks/adam-ikari/ghostlock-site.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -16055,6 +16072,8 @@ Only instances in the following version ranges are affected:
  The Angular SSR is a server-rise rendering tool for Angular applications. Versions prior to 21.2.0-rc.1, 21.1.5, 20.3.17, and 19.2.21 have a Server-Side Request Forgery (SSRF) vulnerability in the Angular SSR request handling pipeline. The vulnerability exists because Angular’s internal URL reconstruction logic directly trusts and consumes user-controlled HTTP headers specifically the Host and `X-Forwarded-*` family to determine the application's base origin without any validation of the destination domain. Specifically, the framework didn't have checks for the host domain, path and character sanitization, and port validation. This vulnerability manifests in two primary ways: implicit relative URL resolution and explicit manual construction. When successfully exploited, this vulnerability allows for arbitrary internal request steering. This can lead to credential exfiltration, internal network probing, and a confidentiality breach. In order to be vulnerable, the victim application must use Angular SSR (Server-Side Rendering), the application must perform `HttpClient` requests using relative URLs OR manually construct URLs using the unvalidated `Host` / `X-Forwarded-*` headers using the `REQUEST` object, the application server must be reachable by an attacker who can influence these headers without strict validation from a front-facing proxy, and the infrastructure (Cloud, CDN, or Load Balancer) must not sanitize or validate incoming headers. Versions 21.2.0-rc.1, 21.1.5, 20.3.17, and 19.2.21 contain a patch. Some workarounds are available. Avoid using `req.headers` for URL construction. Instead, use trusted variables for base API paths. Those who cannot upgrade immediately should implement a middleware in their `server.ts` to enforce numeric ports and validated hostnames.
 
 - [https://github.com/mr-redoo7/CVE-2026-27739-POC](https://github.com/mr-redoo7/CVE-2026-27739-POC) : ![starts](https://img.shields.io/github/stars/mr-redoo7/CVE-2026-27739-POC.svg) ![forks](https://img.shields.io/github/forks/mr-redoo7/CVE-2026-27739-POC.svg)
+
+- [https://github.com/Mr-Red-007/CVE-2026-27739-POC](https://github.com/Mr-Red-007/CVE-2026-27739-POC) : ![starts](https://img.shields.io/github/stars/Mr-Red-007/CVE-2026-27739-POC.svg) ![forks](https://img.shields.io/github/forks/Mr-Red-007/CVE-2026-27739-POC.svg)
 
 ## CVE-2026-27701
  LiveCode is an open-source, client-side code playground. Prior to commit e151c64c2bd80d2d53ac1333f1df9429fe6a1a11, LiveCode's `i18n-update-pull` GitHub Actions workflow is vulnerable to JavaScript injection. The title of the Pull Request associated with the triggering issue comment is interpolated directly into a `actions/github-script` JavaScript block using a GitHub Actions template expression. An attacker who opens a PR with a crafted title can inject arbitrary JavaScript that executes with the privileges of the CI bot token (`CI_APP_ID` / `CI_APP_PRIVATE_KEY`), enabling exfiltration of repository secrets and unauthorized GitHub API operations. Commit e151c64c2bd80d2d53ac1333f1df9429fe6a1a11 fixes the issue.
@@ -36639,6 +36658,8 @@ The vendor did not respond in any way. Only version 11.100001.01.28 was tested,
 - [https://github.com/HORKimhab/CVE-2025-9974](https://github.com/HORKimhab/CVE-2025-9974) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2025-9974.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2025-9974.svg)
 
 - [https://github.com/xxs-2/Beacon10-Getshell](https://github.com/xxs-2/Beacon10-Getshell) : ![starts](https://img.shields.io/github/stars/xxs-2/Beacon10-Getshell.svg) ![forks](https://img.shields.io/github/forks/xxs-2/Beacon10-Getshell.svg)
+
+- [https://github.com/Rajdave69/CVE-2025-9974](https://github.com/Rajdave69/CVE-2025-9974) : ![starts](https://img.shields.io/github/stars/Rajdave69/CVE-2025-9974.svg) ![forks](https://img.shields.io/github/forks/Rajdave69/CVE-2025-9974.svg)
 
 ## CVE-2025-9967
  The Orion SMS OTP Verification plugin for WordPress is vulnerable to privilege escalation via account takeover in all versions up to, and including, 1.1.7. This is due to the plugin not properly validating a user's identity prior to updating their password. This makes it possible for unauthenticated attackers to change arbitrary user's password to a one-time password if the attacker knows the user's phone number
@@ -73120,6 +73141,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-research-brief](https://github.com/mcpmark-eval-liuhezi/log4shell-research-brief) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-research-brief.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-research-brief.svg)
 
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-demo](https://github.com/mcpmark-eval-liuhezi/log4shell-demo) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-demo.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-demo.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
@@ -84823,6 +84846,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
  Prototype pollution attack when using _.zipObjectDeep in lodash before 4.17.20.
 
 - [https://github.com/ossf-cve-benchmark/CVE-2020-8203](https://github.com/ossf-cve-benchmark/CVE-2020-8203) : ![starts](https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2020-8203.svg) ![forks](https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2020-8203.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/audit-cve-2020-8203](https://github.com/mcpmark-eval-liuhezi/audit-cve-2020-8203) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/audit-cve-2020-8203.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/audit-cve-2020-8203.svg)
 
 ## CVE-2020-8196
  Improper access control in Citrix ADC and Citrix Gateway versions before 13.0-58.30, 12.1-57.18, 12.0-63.21, 11.1-64.14 and 10.5-70.18 and Citrix SDWAN WAN-OP versions before 11.1.1a, 11.0.3d and 10.2.7 resulting in limited information disclosure to low privileged users.

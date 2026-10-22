@@ -19,10 +19,15 @@
 
 - [https://github.com/Anuhimen/CVE-2020-4949-Analysis](https://github.com/Anuhimen/CVE-2020-4949-Analysis) : ![starts](https://img.shields.io/github/stars/Anuhimen/CVE-2020-4949-Analysis.svg) ![forks](https://img.shields.io/github/forks/Anuhimen/CVE-2020-4949-Analysis.svg)
 
+## CVE-2020-8203
+
+- [https://github.com/mcpmark-eval-liuhezi/audit-cve-2020-8203](https://github.com/mcpmark-eval-liuhezi/audit-cve-2020-8203) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/audit-cve-2020-8203.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/audit-cve-2020-8203.svg)
+
 ## CVE-2021-44228
 
 - [https://github.com/ferralon-demo/log4shell-chain](https://github.com/ferralon-demo/log4shell-chain) : ![starts](https://img.shields.io/github/stars/ferralon-demo/log4shell-chain.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/log4shell-chain.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-1](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-1) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-1.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-1.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-demo](https://github.com/mcpmark-eval-liuhezi/log4shell-demo) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-demo.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-demo.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-research-brief](https://github.com/mcpmark-eval-liuhezi/log4shell-research-brief) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-research-brief.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-research-brief.svg)
 - [https://github.com/yomiplush/2026-world-is-a-fuck-incident](https://github.com/yomiplush/2026-world-is-a-fuck-incident) : ![starts](https://img.shields.io/github/stars/yomiplush/2026-world-is-a-fuck-incident.svg) ![forks](https://img.shields.io/github/forks/yomiplush/2026-world-is-a-fuck-incident.svg)
 
@@ -74,6 +79,10 @@
 
 - [https://github.com/HORKimhab/CVE-2025-64702-more](https://github.com/HORKimhab/CVE-2025-64702-more) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2025-64702-more.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2025-64702-more.svg)
 
+## CVE-2025-9974
+
+- [https://github.com/Rajdave69/CVE-2025-9974](https://github.com/Rajdave69/CVE-2025-9974) : ![starts](https://img.shields.io/github/stars/Rajdave69/CVE-2025-9974.svg) ![forks](https://img.shields.io/github/forks/Rajdave69/CVE-2025-9974.svg)
+
 ## CVE-2026-102785
 
 - [https://github.com/BIBILZERODAY/CVE-2026-102785---YooTheme-Mass-Exploit-Webshell.Store-](https://github.com/BIBILZERODAY/CVE-2026-102785---YooTheme-Mass-Exploit-Webshell.Store-) : ![starts](https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-102785---YooTheme-Mass-Exploit-Webshell.Store-.svg) ![forks](https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-102785---YooTheme-Mass-Exploit-Webshell.Store-.svg)
@@ -93,6 +102,7 @@
 - [https://github.com/Certbn/PHP2Shell-CVE-2026-109618-CVE-2026-109619-](https://github.com/Certbn/PHP2Shell-CVE-2026-109618-CVE-2026-109619-) : ![starts](https://img.shields.io/github/stars/Certbn/PHP2Shell-CVE-2026-109618-CVE-2026-109619-.svg) ![forks](https://img.shields.io/github/forks/Certbn/PHP2Shell-CVE-2026-109618-CVE-2026-109619-.svg)
 - [https://github.com/Daniel-wambua/php2shell-poc](https://github.com/Daniel-wambua/php2shell-poc) : ![starts](https://img.shields.io/github/stars/Daniel-wambua/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/Daniel-wambua/php2shell-poc.svg)
 - [https://github.com/Flookerton/Am-I-Pwned](https://github.com/Flookerton/Am-I-Pwned) : ![starts](https://img.shields.io/github/stars/Flookerton/Am-I-Pwned.svg) ![forks](https://img.shields.io/github/forks/Flookerton/Am-I-Pwned.svg)
+- [https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619](https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg)
 - [https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619-](https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619-) : ![starts](https://img.shields.io/github/stars/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619-.svg) ![forks](https://img.shields.io/github/forks/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619-.svg)
 - [https://github.com/HORKimhab/CVE-2026-109618-619](https://github.com/HORKimhab/CVE-2026-109618-619) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-109618-619.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-109618-619.svg)
 - [https://github.com/Julien-TrentAI/php2shell-trent-fixture](https://github.com/Julien-TrentAI/php2shell-trent-fixture) : ![starts](https://img.shields.io/github/stars/Julien-TrentAI/php2shell-trent-fixture.svg) ![forks](https://img.shields.io/github/forks/Julien-TrentAI/php2shell-trent-fixture.svg)
@@ -116,6 +126,7 @@
 - [https://github.com/baron-stybd/CVE-2026-109618-CVE-2026-109619](https://github.com/baron-stybd/CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/baron-stybd/CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/baron-stybd/CVE-2026-109618-CVE-2026-109619.svg)
 - [https://github.com/basesixtythree/B63-POC-CVE-2026-109618](https://github.com/basesixtythree/B63-POC-CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2026-109618.svg)
 - [https://github.com/cred0core/Sigma-rule-CVE-2026-109618](https://github.com/cred0core/Sigma-rule-CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/cred0core/Sigma-rule-CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/cred0core/Sigma-rule-CVE-2026-109618.svg)
+- [https://github.com/dexteon/php2shell-poc](https://github.com/dexteon/php2shell-poc) : ![starts](https://img.shields.io/github/stars/dexteon/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/php2shell-poc.svg)
 - [https://github.com/dos-security/CVE-2026-109618-CVE-2026-109619](https://github.com/dos-security/CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/dos-security/CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/dos-security/CVE-2026-109618-CVE-2026-109619.svg)
 - [https://github.com/dustyFski/php2shell-exposure-accelerator](https://github.com/dustyFski/php2shell-exposure-accelerator) : ![starts](https://img.shields.io/github/stars/dustyFski/php2shell-exposure-accelerator.svg) ![forks](https://img.shields.io/github/forks/dustyFski/php2shell-exposure-accelerator.svg)
 - [https://github.com/eagle1maledetto/php5.6-wheezy-cve-2026-109618](https://github.com/eagle1maledetto/php5.6-wheezy-cve-2026-109618) : ![starts](https://img.shields.io/github/stars/eagle1maledetto/php5.6-wheezy-cve-2026-109618.svg) ![forks](https://img.shields.io/github/forks/eagle1maledetto/php5.6-wheezy-cve-2026-109618.svg)
@@ -132,6 +143,7 @@
 - [https://github.com/jzgyhlove/php2shell-windows](https://github.com/jzgyhlove/php2shell-windows) : ![starts](https://img.shields.io/github/stars/jzgyhlove/php2shell-windows.svg) ![forks](https://img.shields.io/github/forks/jzgyhlove/php2shell-windows.svg)
 - [https://github.com/kishwordulal2005/CVE-2026-109618-and-CVE-2026-109619-Exploit](https://github.com/kishwordulal2005/CVE-2026-109618-and-CVE-2026-109619-Exploit) : ![starts](https://img.shields.io/github/stars/kishwordulal2005/CVE-2026-109618-and-CVE-2026-109619-Exploit.svg) ![forks](https://img.shields.io/github/forks/kishwordulal2005/CVE-2026-109618-and-CVE-2026-109619-Exploit.svg)
 - [https://github.com/krisztianhari-wq/php2shell-scan](https://github.com/krisztianhari-wq/php2shell-scan) : ![starts](https://img.shields.io/github/stars/krisztianhari-wq/php2shell-scan.svg) ![forks](https://img.shields.io/github/forks/krisztianhari-wq/php2shell-scan.svg)
+- [https://github.com/laurentlevi/dt-managed-php-versions](https://github.com/laurentlevi/dt-managed-php-versions) : ![starts](https://img.shields.io/github/stars/laurentlevi/dt-managed-php-versions.svg) ![forks](https://img.shields.io/github/forks/laurentlevi/dt-managed-php-versions.svg)
 - [https://github.com/leonlai-tw/php-eol-cve-2026-109618-109619](https://github.com/leonlai-tw/php-eol-cve-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/leonlai-tw/php-eol-cve-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/leonlai-tw/php-eol-cve-2026-109618-109619.svg)
 - [https://github.com/llrrzz-111/php2shell-guard](https://github.com/llrrzz-111/php2shell-guard) : ![starts](https://img.shields.io/github/stars/llrrzz-111/php2shell-guard.svg) ![forks](https://img.shields.io/github/forks/llrrzz-111/php2shell-guard.svg)
 - [https://github.com/manuxio/untested-php2shell-fixed-php-5-4-fpm](https://github.com/manuxio/untested-php2shell-fixed-php-5-4-fpm) : ![starts](https://img.shields.io/github/stars/manuxio/untested-php2shell-fixed-php-5-4-fpm.svg) ![forks](https://img.shields.io/github/forks/manuxio/untested-php2shell-fixed-php-5-4-fpm.svg)
@@ -159,12 +171,14 @@
 - [https://github.com/vietvq/php-backport-7.4-apache](https://github.com/vietvq/php-backport-7.4-apache) : ![starts](https://img.shields.io/github/stars/vietvq/php-backport-7.4-apache.svg) ![forks](https://img.shields.io/github/forks/vietvq/php-backport-7.4-apache.svg)
 - [https://github.com/viniciusbossle/php74-el7-php2shell](https://github.com/viniciusbossle/php74-el7-php2shell) : ![starts](https://img.shields.io/github/stars/viniciusbossle/php74-el7-php2shell.svg) ![forks](https://img.shields.io/github/forks/viniciusbossle/php74-el7-php2shell.svg)
 - [https://github.com/vitalelele/CVE-2026-109618-PoC](https://github.com/vitalelele/CVE-2026-109618-PoC) : ![starts](https://img.shields.io/github/stars/vitalelele/CVE-2026-109618-PoC.svg) ![forks](https://img.shields.io/github/forks/vitalelele/CVE-2026-109618-PoC.svg)
+- [https://github.com/wromansky/php2shell-warn](https://github.com/wromansky/php2shell-warn) : ![starts](https://img.shields.io/github/stars/wromansky/php2shell-warn.svg) ![forks](https://img.shields.io/github/forks/wromansky/php2shell-warn.svg)
 
 ## CVE-2026-109619
 > PHP has various global state that temporarily points into request memory. In some scenarios, global state may not be correctly reset, or may be repopulated after being reset. The global state may then refer to request memory even after it has been freed. Subsequent requests may read or branch on this stale state before it is fully initialized. Multiple strategies can trigger this condition and produce remote code execution (RCE).
 
 - [https://github.com/1amrahul/php2shell-cve-2026-109618-cve-2026-109619](https://github.com/1amrahul/php2shell-cve-2026-109618-cve-2026-109619) : ![starts](https://img.shields.io/github/stars/1amrahul/php2shell-cve-2026-109618-cve-2026-109619.svg) ![forks](https://img.shields.io/github/forks/1amrahul/php2shell-cve-2026-109618-cve-2026-109619.svg)
 - [https://github.com/Certbn/PHP2Shell-CVE-2026-109618-CVE-2026-109619-](https://github.com/Certbn/PHP2Shell-CVE-2026-109618-CVE-2026-109619-) : ![starts](https://img.shields.io/github/stars/Certbn/PHP2Shell-CVE-2026-109618-CVE-2026-109619-.svg) ![forks](https://img.shields.io/github/forks/Certbn/PHP2Shell-CVE-2026-109618-CVE-2026-109619-.svg)
+- [https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619](https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg)
 - [https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619-](https://github.com/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619-) : ![starts](https://img.shields.io/github/stars/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619-.svg) ![forks](https://img.shields.io/github/forks/GlobalsecureAcademy/php2shell-scanner-CVE-2026-109618-CVE-2026-109619-.svg)
 - [https://github.com/Marciano-Morinigo/php2shell-CVE-2026-109618-CVE-2026-109619-PoC-Lab](https://github.com/Marciano-Morinigo/php2shell-CVE-2026-109618-CVE-2026-109619-PoC-Lab) : ![starts](https://img.shields.io/github/stars/Marciano-Morinigo/php2shell-CVE-2026-109618-CVE-2026-109619-PoC-Lab.svg) ![forks](https://img.shields.io/github/forks/Marciano-Morinigo/php2shell-CVE-2026-109618-CVE-2026-109619-PoC-Lab.svg)
 - [https://github.com/Prajjwal-Srivastava/php2shell_scanner](https://github.com/Prajjwal-Srivastava/php2shell_scanner) : ![starts](https://img.shields.io/github/stars/Prajjwal-Srivastava/php2shell_scanner.svg) ![forks](https://img.shields.io/github/forks/Prajjwal-Srivastava/php2shell_scanner.svg)
@@ -201,6 +215,7 @@
 - [https://github.com/TahuCryptsi/node-brotli-check](https://github.com/TahuCryptsi/node-brotli-check) : ![starts](https://img.shields.io/github/stars/TahuCryptsi/node-brotli-check.svg) ![forks](https://img.shields.io/github/forks/TahuCryptsi/node-brotli-check.svg)
 - [https://github.com/dimasma0305/CVE-2026-111497-POC](https://github.com/dimasma0305/CVE-2026-111497-POC) : ![starts](https://img.shields.io/github/stars/dimasma0305/CVE-2026-111497-POC.svg) ![forks](https://img.shields.io/github/forks/dimasma0305/CVE-2026-111497-POC.svg)
 - [https://github.com/hypnguyen1209/CVE-2026-111497](https://github.com/hypnguyen1209/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/hypnguyen1209/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/hypnguyen1209/CVE-2026-111497.svg)
+- [https://github.com/incu-tech/october-cyber-family](https://github.com/incu-tech/october-cyber-family) : ![starts](https://img.shields.io/github/stars/incu-tech/october-cyber-family.svg) ![forks](https://img.shields.io/github/forks/incu-tech/october-cyber-family.svg)
 
 ## CVE-2026-111943
 > On most platforms, Go uses the given system root certificates. However, in some narrower cases, the system trust stores may not be updated without further action. To defend against the narrower set of cases that may remain affected, a denylist was added in crypto/x509 to return an error when calling Verify with any of the known intermediate certificates that are no longer considered to be trustworthy.
@@ -210,8 +225,13 @@
 - [https://github.com/phpc0de/CVE-2026-111943-Remediator](https://github.com/phpc0de/CVE-2026-111943-Remediator) : ![starts](https://img.shields.io/github/stars/phpc0de/CVE-2026-111943-Remediator.svg) ![forks](https://img.shields.io/github/forks/phpc0de/CVE-2026-111943-Remediator.svg)
 
 ## CVE-2026-114509
+> Laravel is a web application framework. Prior to 12.68.0 and 13.29.0, TokenGuard configured as a standard token-based API guard does not reject a crafted non-string credential. Under affected MySQL or MariaDB configurations, the authentication lookup can match an unintended existing user, allowing an unauthenticated attacker to bypass authentication and take over an account on routes protected by TokenGuard. This issue is fixed in versions 12.68.0 and 13.29.0.
 
 - [https://github.com/tajulasri/-CVE-2026-114509-POC](https://github.com/tajulasri/-CVE-2026-114509-POC) : ![starts](https://img.shields.io/github/stars/tajulasri/-CVE-2026-114509-POC.svg) ![forks](https://img.shields.io/github/forks/tajulasri/-CVE-2026-114509-POC.svg)
+
+## CVE-2026-27739
+
+- [https://github.com/Mr-Red-007/CVE-2026-27739-POC](https://github.com/Mr-Red-007/CVE-2026-27739-POC) : ![starts](https://img.shields.io/github/stars/Mr-Red-007/CVE-2026-27739-POC.svg) ![forks](https://img.shields.io/github/forks/Mr-Red-007/CVE-2026-27739-POC.svg)
 
 ## CVE-2026-39987
 
@@ -221,6 +241,23 @@
 
 - [https://github.com/Thhc10/CVE-2026-41651](https://github.com/Thhc10/CVE-2026-41651) : ![starts](https://img.shields.io/github/stars/Thhc10/CVE-2026-41651.svg) ![forks](https://img.shields.io/github/forks/Thhc10/CVE-2026-41651.svg)
 
+## CVE-2026-43499
+> In the Linux kernel, the following vulnerability has been resolved:
+
+rtmutex: Use waiter::task instead of current in remove_waiter()
+
+remove_waiter() is used by the slowlock paths, but it is also used for
+proxy-lock rollback in rt_mutex_start_proxy_lock() when invoked from
+futex_requeue().
+
+In the latter case waiter::task is not current, but remove_waiter()
+operates on current for the dequeue operation. That results in several
+problems:
+
+  1) the rbtree dequeue happens without waiter::task::pi_l
+
+- [https://github.com/adam-ikari/ghostlock-site](https://github.com/adam-ikari/ghostlock-site) : ![starts](https://img.shields.io/github/stars/adam-ikari/ghostlock-site.svg) ![forks](https://img.shields.io/github/forks/adam-ikari/ghostlock-site.svg)
+
 ## CVE-2026-62356
 
 - [https://github.com/zsy-arch/CVE-2026-62356-POC](https://github.com/zsy-arch/CVE-2026-62356-POC) : ![starts](https://img.shields.io/github/stars/zsy-arch/CVE-2026-62356-POC.svg) ![forks](https://img.shields.io/github/forks/zsy-arch/CVE-2026-62356-POC.svg)
@@ -229,6 +266,25 @@
 > In JetBrains TeamCity before 2026.1.3, 2025.11.7 unauthenticated remote code execution was possible via the agent polling protocol
 
 - [https://github.com/basesixtythree/B63-POC-CVE-2026-63077](https://github.com/basesixtythree/B63-POC-CVE-2026-63077) : ![starts](https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2026-63077.svg) ![forks](https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2026-63077.svg)
+
+## CVE-2026-64560
+> In the Linux kernel, the following vulnerability has been resolved:
+
+posix-cpu-timers: Prevent UAF caused by non-leader exec() race
+
+Wongi and Jungwoo decoded and reported a non-leader exec() related race
+which can result in an UAF:
+
+ sys_timer_delete()			exec()
+   posix_cpu_timer_del()
+   // Observes old leader
+   p = pid_task(pid, pid_type);		de_thread()
+   					  switch_leader();
+					  release_task(old_leader)
+					    __exit_signal(old_leader)
+					      sighand = lock(old_leader, sighand);
+
+- [https://github.com/ChaYeWuu/violin-CVE-2026-64560-OS4.0](https://github.com/ChaYeWuu/violin-CVE-2026-64560-OS4.0) : ![starts](https://img.shields.io/github/stars/ChaYeWuu/violin-CVE-2026-64560-OS4.0.svg) ![forks](https://img.shields.io/github/forks/ChaYeWuu/violin-CVE-2026-64560-OS4.0.svg)
 
 ## CVE-2026-86478
 

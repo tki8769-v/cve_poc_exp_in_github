@@ -12526,6 +12526,8 @@ The vendor did not respond in any way. Only version 11.100001.01.28 was tested,
 
 - [https://github.com/xxs-2/Beacon10-Getshell](https://github.com/xxs-2/Beacon10-Getshell) : ![starts](https://img.shields.io/github/stars/xxs-2/Beacon10-Getshell.svg) ![forks](https://img.shields.io/github/forks/xxs-2/Beacon10-Getshell.svg)
 
+- [https://github.com/Rajdave69/CVE-2025-9974](https://github.com/Rajdave69/CVE-2025-9974) : ![starts](https://img.shields.io/github/stars/Rajdave69/CVE-2025-9974.svg) ![forks](https://img.shields.io/github/forks/Rajdave69/CVE-2025-9974.svg)
+
 ## CVE-2025-9967
  The Orion SMS OTP Verification plugin for WordPress is vulnerable to privilege escalation via account takeover in all versions up to, and including, 1.1.7. This is due to the plugin not properly validating a user's identity prior to updating their password. This makes it possible for unauthenticated attackers to change arbitrary user's password to a one-time password if the attacker knows the user's phone number
 
