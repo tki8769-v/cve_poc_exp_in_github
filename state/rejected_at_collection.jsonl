@@ -1831,3 +1831,6 @@
 {"cve_id": "CVE-2025-2992", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T20:56:33Z", "url": "https://github.com/SugiB3o/vulnerable-nextjs-14-CVE-2025-29927", "url_ids": ["CVE-2025-29927"]}
 {"cve_id": "CVE-2025-2992", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T20:56:33Z", "url": "https://github.com/Knotsecurity/CVE-2025-29927-NextJs-Middleware-Simulation", "url_ids": ["CVE-2025-29927"]}
 {"cve_id": "CVE-2025-2992", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T20:56:33Z", "url": "https://github.com/Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927", "url_ids": ["CVE-2025-29927"]}
+{"cve_id": "CVE-2026-8621", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T21:28:16Z", "url": "https://github.com/super-meuw/CVE-2026-86218", "url_ids": ["CVE-2026-86218"]}
+{"cve_id": "CVE-2026-8621", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T21:28:16Z", "url": "https://github.com/Udyz/CVE-2026-86218", "url_ids": ["CVE-2026-86218"]}
+{"cve_id": "CVE-2026-8621", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T21:28:16Z", "url": "https://github.com/HORKimhab/CVE-2026-86218", "url_ids": ["CVE-2026-86218"]}
