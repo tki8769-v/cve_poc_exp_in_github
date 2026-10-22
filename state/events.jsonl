@@ -4128,3 +4128,21 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:50:50Z", "type": "new_poc", "url": "https://github.com/ryantseng24/php2shell-f5-waf-tools"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:50:51Z", "type": "new_poc", "url": "https://github.com/KanyCrew/php2shell-poc"}
 {"cve_id": "CVE-2021-44228", "ts": "2026-10-22T06:51:15Z", "type": "new_poc", "url": "https://github.com/yomiplush/2026-world-is-a-fuck-incident"}
+{"cve_id": "CVE-2025-50343", "ts": "2026-10-22T07:02:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-102536", "ts": "2026-10-22T07:02:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105301", "ts": "2026-10-22T07:03:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110923", "ts": "2026-10-22T07:03:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110924", "ts": "2026-10-22T07:03:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110925", "ts": "2026-10-22T07:03:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110926", "ts": "2026-10-22T07:03:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110927", "ts": "2026-10-22T07:03:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-113670", "ts": "2026-10-22T07:04:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-16487", "ts": "2026-10-22T07:05:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T07:19:03Z", "type": "new_poc", "url": "https://github.com/anldori/CVE-2026-109618"}
+{"cve_id": "CVE-2026-97206", "ts": "2026-10-22T07:19:03Z", "type": "new_poc", "url": "https://github.com/suominen/CVE-2026-97206"}
+{"cve_id": "CVE-2026-104935", "ts": "2026-10-22T07:19:03Z", "type": "new_poc", "url": "https://github.com/maxprog-svg/CVE-2026-104935"}
+{"cve_id": "CVE-2025-64702", "ts": "2026-10-22T07:19:04Z", "type": "new_poc", "url": "https://github.com/HORKimhab/CVE-2025-64702-more"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-22T07:19:06Z", "type": "new_poc", "url": "https://github.com/baimaobg/php-cve-2026-109619-lab"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T07:19:06Z", "type": "new_poc", "url": "https://github.com/mbadis-dev/php-cve-2026-109618-toolkit"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T07:19:11Z", "type": "new_poc", "url": "https://github.com/manuxio/untested-php2shell-fixed-php-5-4-fpm"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T07:19:11Z", "type": "new_poc", "url": "https://github.com/jzgyhlove/php2shell-windows"}

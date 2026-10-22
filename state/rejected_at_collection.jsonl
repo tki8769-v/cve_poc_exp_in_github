@@ -1760,3 +1760,8 @@
 {"cve_id": "CVE-2026-9335", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T00:35:37Z", "url": "https://github.com/InertFluid/cve-2026-93355-lab", "url_ids": ["CVE-2026-93355"]}
 {"cve_id": "CVE-2017-1182", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T00:50:39Z", "url": "https://github.com/thatskriptkid/CVE-2017-11826", "url_ids": ["CVE-2017-11826"]}
 {"cve_id": "CVE-2025-1461", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T00:56:51Z", "url": "https://github.com/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit", "url_ids": ["CVE-2025-14611"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T07:27:20Z", "url": "https://github.com/sixpacksecurity/CVE-2021-40438", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T07:27:20Z", "url": "https://github.com/sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T07:27:20Z", "url": "https://github.com/Cappricio-Securities/CVE-2021-40438", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T07:27:20Z", "url": "https://github.com/gassara-kys/CVE-2021-40438", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-10-22T07:27:20Z", "url": "https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt", "url_ids": ["CVE-2021-40438"]}
