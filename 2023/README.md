@@ -1325,6 +1325,8 @@ which fixes this issue.
 
 - [https://github.com/Theocyg/CVE-2023-46604](https://github.com/Theocyg/CVE-2023-46604) : ![starts](https://img.shields.io/github/stars/Theocyg/CVE-2023-46604.svg) ![forks](https://img.shields.io/github/forks/Theocyg/CVE-2023-46604.svg)
 
+- [https://github.com/basesixtythree/B63-POC-CVE-2023-46604](https://github.com/basesixtythree/B63-POC-CVE-2023-46604) : ![starts](https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2023-46604.svg) ![forks](https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2023-46604.svg)
+
 ## CVE-2023-46527
  TP-LINK TL-WR886N V7.0_3.0.14_Build_221115_Rel.56908n.bin and TL-WDR7660 2.0.30 was discovered to contain a stack overflow via the function bindRequestHandle.
 

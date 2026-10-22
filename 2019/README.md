@@ -5444,6 +5444,10 @@ The security update addresses the vulnerability by correcting how Hyper-V valida
 
 - [https://github.com/shoucheng3/asf__tapestry-5_CVE-2019-0207_5_4_5_fixed](https://github.com/shoucheng3/asf__tapestry-5_CVE-2019-0207_5_4_5_fixed) : ![starts](https://img.shields.io/github/stars/shoucheng3/asf__tapestry-5_CVE-2019-0207_5_4_5_fixed.svg) ![forks](https://img.shields.io/github/forks/shoucheng3/asf__tapestry-5_CVE-2019-0207_5_4_5_fixed.svg)
 
+## CVE-2019-0205
+
+- [https://github.com/cgarrot/echo-dot-3-doebrite-research](https://github.com/cgarrot/echo-dot-3-doebrite-research) : ![starts](https://img.shields.io/github/stars/cgarrot/echo-dot-3-doebrite-research.svg) ![forks](https://img.shields.io/github/forks/cgarrot/echo-dot-3-doebrite-research.svg)
+
 ## CVE-2019-0194
  Apache Camel's File is vulnerable to directory traversal. Camel 2.21.0 to 2.21.3, 2.22.0 to 2.22.2, 2.23.0 and the unsupported Camel 2.x (2.19 and earlier) versions may be also affected.
 
