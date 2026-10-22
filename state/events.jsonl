@@ -4071,3 +4071,47 @@
 {"cve_id": "CVE-2026-110927", "ts": "2026-10-22T00:41:19Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-113670", "ts": "2026-10-22T00:42:24Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-16487", "ts": "2026-10-22T00:42:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-50343", "ts": "2026-10-22T06:07:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-102536", "ts": "2026-10-22T06:07:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105301", "ts": "2026-10-22T06:07:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110923", "ts": "2026-10-22T06:08:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110924", "ts": "2026-10-22T06:08:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110925", "ts": "2026-10-22T06:08:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110926", "ts": "2026-10-22T06:08:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110927", "ts": "2026-10-22T06:08:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-113670", "ts": "2026-10-22T06:09:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-16487", "ts": "2026-10-22T06:10:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:22:55Z", "type": "new_poc", "url": "https://github.com/BoheSama1999/php2shell-exp"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:22:55Z", "type": "new_poc", "url": "https://github.com/aduli198/CVE-2026-109618_CVE-2026-109619"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-22T06:22:55Z", "type": "new_poc", "url": "https://github.com/aduli198/CVE-2026-109618_CVE-2026-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:22:56Z", "type": "new_poc", "url": "https://github.com/absholi7ly/Deep-Technical-Report-CVE-2026-109618-CVE-2026-109619-PHP2Shell"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-22T06:22:56Z", "type": "new_poc", "url": "https://github.com/absholi7ly/Deep-Technical-Report-CVE-2026-109618-CVE-2026-109619-PHP2Shell"}
+{"cve_id": "CVE-2025-14847", "ts": "2026-10-22T06:22:56Z", "type": "new_poc", "url": "https://github.com/SAIM28826/CVE-2025-14847-poc"}
+{"cve_id": "CVE-2026-110264", "ts": "2026-10-22T06:22:56Z", "type": "new_poc", "url": "https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-110264"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:22:57Z", "type": "new_poc", "url": "https://github.com/Sol0-dev/php2shell"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-22T06:22:57Z", "type": "new_poc", "url": "https://github.com/Sami-AlEsh/nodejs-security-check"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:22:57Z", "type": "new_poc", "url": "https://github.com/HORKimhab/CVE-2026-109618-619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:22:57Z", "type": "new_poc", "url": "https://github.com/g41277460-cpu/CVE-2026-109618-CVE-2026-109619-php2shell-"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-22T06:22:57Z", "type": "new_poc", "url": "https://github.com/g41277460-cpu/CVE-2026-109618-CVE-2026-109619-php2shell-"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:22:58Z", "type": "new_poc", "url": "https://github.com/kishwordulal2005/CVE-2026-109618-and-CVE-2026-109619-Exploit"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-22T06:22:58Z", "type": "new_poc", "url": "https://github.com/kishwordulal2005/CVE-2026-109618-and-CVE-2026-109619-Exploit"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:22:58Z", "type": "new_poc", "url": "https://github.com/dos-security/CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-22T06:22:58Z", "type": "new_poc", "url": "https://github.com/dos-security/CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:22:59Z", "type": "new_poc", "url": "https://github.com/TheMursalin/CVE-2026-109618"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-22T06:22:59Z", "type": "new_poc", "url": "https://github.com/dimasma0305/CVE-2026-111497-POC"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:23:00Z", "type": "new_poc", "url": "https://github.com/0k1dok1/CVE-2026-109618-CHECK"}
+{"cve_id": "CVE-2026-114509", "ts": "2026-10-22T06:23:00Z", "type": "new_poc", "url": "https://github.com/tajulasri/-CVE-2026-114509-POC"}
+{"cve_id": "CVE-2017-5638", "ts": "2026-10-22T06:23:00Z", "type": "new_poc", "url": "https://github.com/Ethel087/CVE-2017-5638-Apache-Struts-Analysis"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:23:01Z", "type": "new_poc", "url": "https://github.com/ansonhsu-ai/php2shell-cve-2026-109618-ste"}
+{"cve_id": "CVE-2023-34362", "ts": "2026-10-22T06:23:01Z", "type": "new_poc", "url": "https://github.com/Conviee/Assignment-"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:23:01Z", "type": "new_poc", "url": "https://github.com/pattingbabies/php2shell-CVE-2026-109618-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:23:03Z", "type": "new_poc", "url": "https://github.com/vietvq/php-backport-7.4-apache"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:23:03Z", "type": "new_poc", "url": "https://github.com/tiendungdev/php2shell-mitigation"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-10-22T06:23:04Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-1"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:23:04Z", "type": "new_poc", "url": "https://github.com/hkoeck/php2shell-status"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-22T06:23:04Z", "type": "new_poc", "url": "https://github.com/VKKKV/php2shell-exp"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:23:05Z", "type": "new_poc", "url": "https://github.com/mengchencloud/aws-php2shell-mitigation"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:23:05Z", "type": "new_poc", "url": "https://github.com/ucrm-plugins/php2shell"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:23:05Z", "type": "new_poc", "url": "https://github.com/the-metafactory/php-patch-verify"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:23:05Z", "type": "new_poc", "url": "https://github.com/viniciusbossle/php74-el7-php2shell"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-22T06:23:06Z", "type": "new_poc", "url": "https://github.com/sawula7/php72-php2shell-backport"}

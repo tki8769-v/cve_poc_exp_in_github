@@ -6,6 +6,10 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-114509
+
+- [https://github.com/tajulasri/-CVE-2026-114509-POC](https://github.com/tajulasri/-CVE-2026-114509-POC) : ![starts](https://img.shields.io/github/stars/tajulasri/-CVE-2026-114509-POC.svg) ![forks](https://img.shields.io/github/forks/tajulasri/-CVE-2026-114509-POC.svg)
+
 ## CVE-2026-113468
 > The payment notification endpoint for PayPal accepts incoming data without verifying that it comes from the payment provider. Any site visitor can overwrite the stored payment notification of an order that is still awaiting payment with arbitrary content. This requires a page that contains the shop&#x27;s order plugin. Orders that are already paid are not affected.
 
@@ -38,6 +42,10 @@
 ## CVE-2026-111497
 
 - [https://github.com/CaterMaoZi/CVE-2026-111497-POC](https://github.com/CaterMaoZi/CVE-2026-111497-POC) : ![starts](https://img.shields.io/github/stars/CaterMaoZi/CVE-2026-111497-POC.svg) ![forks](https://img.shields.io/github/forks/CaterMaoZi/CVE-2026-111497-POC.svg)
+
+- [https://github.com/Sami-AlEsh/nodejs-security-check](https://github.com/Sami-AlEsh/nodejs-security-check) : ![starts](https://img.shields.io/github/stars/Sami-AlEsh/nodejs-security-check.svg) ![forks](https://img.shields.io/github/forks/Sami-AlEsh/nodejs-security-check.svg)
+
+- [https://github.com/dimasma0305/CVE-2026-111497-POC](https://github.com/dimasma0305/CVE-2026-111497-POC) : ![starts](https://img.shields.io/github/stars/dimasma0305/CVE-2026-111497-POC.svg) ![forks](https://img.shields.io/github/forks/dimasma0305/CVE-2026-111497-POC.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -111,6 +119,10 @@
 > Incorrect Privilege Assignment vulnerability in Brainstorm Force OttoKit suretriggers allows Privilege Escalation.This issue affects OttoKit: from n/a through 1.1.40.
 
 - [https://github.com/BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE](https://github.com/BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE) : ![starts](https://img.shields.io/github/stars/BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE.svg) ![forks](https://img.shields.io/github/forks/BIBILZERODAY/CVE-2026-110372-MASS-EXPLOIT-WEBSHELL.STORE.svg)
+
+## CVE-2026-110264
+
+- [https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-110264](https://github.com/OppositDeer/Gitlab-RCE-CVE-2026-110264) : ![starts](https://img.shields.io/github/stars/OppositDeer/Gitlab-RCE-CVE-2026-110264.svg) ![forks](https://img.shields.io/github/forks/OppositDeer/Gitlab-RCE-CVE-2026-110264.svg)
 
 ## CVE-2026-110025
 > A flaw has been found in slackero phpwcms up to 1.9.49/1.12.3. This issue affects some unknown processing of the file include/inc_front/content/cnt23.article.inc.php of the component Extension Check. This manipulation of the argument POST_name causes unrestricted upload. The attack can be initiated remotely. Upgrading to version 1.9.50 and 1.12.4 is capable of addressing this issue. Patch name: 118c978430f5a9668b30535f6e592c7ae8df711f/f4c136b467565b2d16ebe2b8276b9a03547a9a69/8571cb47df8d66804d1e
@@ -188,6 +200,18 @@
 - [https://github.com/1amrahul/php2shell-cve-2026-109618-cve-2026-109619](https://github.com/1amrahul/php2shell-cve-2026-109618-cve-2026-109619) : ![starts](https://img.shields.io/github/stars/1amrahul/php2shell-cve-2026-109618-cve-2026-109619.svg) ![forks](https://img.shields.io/github/forks/1amrahul/php2shell-cve-2026-109618-cve-2026-109619.svg)
 
 - [https://github.com/basesixtythree/B63-POC-CVE-2026-109619](https://github.com/basesixtythree/B63-POC-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2026-109619.svg)
+
+- [https://github.com/absholi7ly/Deep-Technical-Report-CVE-2026-109618-CVE-2026-109619-PHP2Shell](https://github.com/absholi7ly/Deep-Technical-Report-CVE-2026-109618-CVE-2026-109619-PHP2Shell) : ![starts](https://img.shields.io/github/stars/absholi7ly/Deep-Technical-Report-CVE-2026-109618-CVE-2026-109619-PHP2Shell.svg) ![forks](https://img.shields.io/github/forks/absholi7ly/Deep-Technical-Report-CVE-2026-109618-CVE-2026-109619-PHP2Shell.svg)
+
+- [https://github.com/aduli198/CVE-2026-109618_CVE-2026-109619](https://github.com/aduli198/CVE-2026-109618_CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/aduli198/CVE-2026-109618_CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/aduli198/CVE-2026-109618_CVE-2026-109619.svg)
+
+- [https://github.com/VKKKV/php2shell-exp](https://github.com/VKKKV/php2shell-exp) : ![starts](https://img.shields.io/github/stars/VKKKV/php2shell-exp.svg) ![forks](https://img.shields.io/github/forks/VKKKV/php2shell-exp.svg)
+
+- [https://github.com/dos-security/CVE-2026-109618-CVE-2026-109619](https://github.com/dos-security/CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/dos-security/CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/dos-security/CVE-2026-109618-CVE-2026-109619.svg)
+
+- [https://github.com/g41277460-cpu/CVE-2026-109618-CVE-2026-109619-php2shell-](https://github.com/g41277460-cpu/CVE-2026-109618-CVE-2026-109619-php2shell-) : ![starts](https://img.shields.io/github/stars/g41277460-cpu/CVE-2026-109618-CVE-2026-109619-php2shell-.svg) ![forks](https://img.shields.io/github/forks/g41277460-cpu/CVE-2026-109618-CVE-2026-109619-php2shell-.svg)
+
+- [https://github.com/kishwordulal2005/CVE-2026-109618-and-CVE-2026-109619-Exploit](https://github.com/kishwordulal2005/CVE-2026-109618-and-CVE-2026-109619-Exploit) : ![starts](https://img.shields.io/github/stars/kishwordulal2005/CVE-2026-109618-and-CVE-2026-109619-Exploit.svg) ![forks](https://img.shields.io/github/forks/kishwordulal2005/CVE-2026-109618-and-CVE-2026-109619-Exploit.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -421,6 +445,46 @@
 - [https://github.com/nukIeer/CVE-2026-109618-109619-checker](https://github.com/nukIeer/CVE-2026-109618-109619-checker) : ![starts](https://img.shields.io/github/stars/nukIeer/CVE-2026-109618-109619-checker.svg) ![forks](https://img.shields.io/github/forks/nukIeer/CVE-2026-109618-109619-checker.svg)
 
 - [https://github.com/skwirrel/php-cve-2026-109618-check](https://github.com/skwirrel/php-cve-2026-109618-check) : ![starts](https://img.shields.io/github/stars/skwirrel/php-cve-2026-109618-check.svg) ![forks](https://img.shields.io/github/forks/skwirrel/php-cve-2026-109618-check.svg)
+
+- [https://github.com/BoheSama1999/php2shell-exp](https://github.com/BoheSama1999/php2shell-exp) : ![starts](https://img.shields.io/github/stars/BoheSama1999/php2shell-exp.svg) ![forks](https://img.shields.io/github/forks/BoheSama1999/php2shell-exp.svg)
+
+- [https://github.com/Sol0-dev/php2shell](https://github.com/Sol0-dev/php2shell) : ![starts](https://img.shields.io/github/stars/Sol0-dev/php2shell.svg) ![forks](https://img.shields.io/github/forks/Sol0-dev/php2shell.svg)
+
+- [https://github.com/absholi7ly/Deep-Technical-Report-CVE-2026-109618-CVE-2026-109619-PHP2Shell](https://github.com/absholi7ly/Deep-Technical-Report-CVE-2026-109618-CVE-2026-109619-PHP2Shell) : ![starts](https://img.shields.io/github/stars/absholi7ly/Deep-Technical-Report-CVE-2026-109618-CVE-2026-109619-PHP2Shell.svg) ![forks](https://img.shields.io/github/forks/absholi7ly/Deep-Technical-Report-CVE-2026-109618-CVE-2026-109619-PHP2Shell.svg)
+
+- [https://github.com/aduli198/CVE-2026-109618_CVE-2026-109619](https://github.com/aduli198/CVE-2026-109618_CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/aduli198/CVE-2026-109618_CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/aduli198/CVE-2026-109618_CVE-2026-109619.svg)
+
+- [https://github.com/0k1dok1/CVE-2026-109618-CHECK](https://github.com/0k1dok1/CVE-2026-109618-CHECK) : ![starts](https://img.shields.io/github/stars/0k1dok1/CVE-2026-109618-CHECK.svg) ![forks](https://img.shields.io/github/forks/0k1dok1/CVE-2026-109618-CHECK.svg)
+
+- [https://github.com/HORKimhab/CVE-2026-109618-619](https://github.com/HORKimhab/CVE-2026-109618-619) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-109618-619.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-109618-619.svg)
+
+- [https://github.com/TheMursalin/CVE-2026-109618](https://github.com/TheMursalin/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/TheMursalin/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/TheMursalin/CVE-2026-109618.svg)
+
+- [https://github.com/ansonhsu-ai/php2shell-cve-2026-109618-ste](https://github.com/ansonhsu-ai/php2shell-cve-2026-109618-ste) : ![starts](https://img.shields.io/github/stars/ansonhsu-ai/php2shell-cve-2026-109618-ste.svg) ![forks](https://img.shields.io/github/forks/ansonhsu-ai/php2shell-cve-2026-109618-ste.svg)
+
+- [https://github.com/dos-security/CVE-2026-109618-CVE-2026-109619](https://github.com/dos-security/CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/dos-security/CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/dos-security/CVE-2026-109618-CVE-2026-109619.svg)
+
+- [https://github.com/g41277460-cpu/CVE-2026-109618-CVE-2026-109619-php2shell-](https://github.com/g41277460-cpu/CVE-2026-109618-CVE-2026-109619-php2shell-) : ![starts](https://img.shields.io/github/stars/g41277460-cpu/CVE-2026-109618-CVE-2026-109619-php2shell-.svg) ![forks](https://img.shields.io/github/forks/g41277460-cpu/CVE-2026-109618-CVE-2026-109619-php2shell-.svg)
+
+- [https://github.com/hkoeck/php2shell-status](https://github.com/hkoeck/php2shell-status) : ![starts](https://img.shields.io/github/stars/hkoeck/php2shell-status.svg) ![forks](https://img.shields.io/github/forks/hkoeck/php2shell-status.svg)
+
+- [https://github.com/kishwordulal2005/CVE-2026-109618-and-CVE-2026-109619-Exploit](https://github.com/kishwordulal2005/CVE-2026-109618-and-CVE-2026-109619-Exploit) : ![starts](https://img.shields.io/github/stars/kishwordulal2005/CVE-2026-109618-and-CVE-2026-109619-Exploit.svg) ![forks](https://img.shields.io/github/forks/kishwordulal2005/CVE-2026-109618-and-CVE-2026-109619-Exploit.svg)
+
+- [https://github.com/mengchencloud/aws-php2shell-mitigation](https://github.com/mengchencloud/aws-php2shell-mitigation) : ![starts](https://img.shields.io/github/stars/mengchencloud/aws-php2shell-mitigation.svg) ![forks](https://img.shields.io/github/forks/mengchencloud/aws-php2shell-mitigation.svg)
+
+- [https://github.com/pattingbabies/php2shell-CVE-2026-109618-109619](https://github.com/pattingbabies/php2shell-CVE-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/pattingbabies/php2shell-CVE-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/pattingbabies/php2shell-CVE-2026-109618-109619.svg)
+
+- [https://github.com/sawula7/php72-php2shell-backport](https://github.com/sawula7/php72-php2shell-backport) : ![starts](https://img.shields.io/github/stars/sawula7/php72-php2shell-backport.svg) ![forks](https://img.shields.io/github/forks/sawula7/php72-php2shell-backport.svg)
+
+- [https://github.com/the-metafactory/php-patch-verify](https://github.com/the-metafactory/php-patch-verify) : ![starts](https://img.shields.io/github/stars/the-metafactory/php-patch-verify.svg) ![forks](https://img.shields.io/github/forks/the-metafactory/php-patch-verify.svg)
+
+- [https://github.com/tiendungdev/php2shell-mitigation](https://github.com/tiendungdev/php2shell-mitigation) : ![starts](https://img.shields.io/github/stars/tiendungdev/php2shell-mitigation.svg) ![forks](https://img.shields.io/github/forks/tiendungdev/php2shell-mitigation.svg)
+
+- [https://github.com/ucrm-plugins/php2shell](https://github.com/ucrm-plugins/php2shell) : ![starts](https://img.shields.io/github/stars/ucrm-plugins/php2shell.svg) ![forks](https://img.shields.io/github/forks/ucrm-plugins/php2shell.svg)
+
+- [https://github.com/vietvq/php-backport-7.4-apache](https://github.com/vietvq/php-backport-7.4-apache) : ![starts](https://img.shields.io/github/stars/vietvq/php-backport-7.4-apache.svg) ![forks](https://img.shields.io/github/forks/vietvq/php-backport-7.4-apache.svg)
+
+- [https://github.com/viniciusbossle/php74-el7-php2shell](https://github.com/viniciusbossle/php74-el7-php2shell) : ![starts](https://img.shields.io/github/stars/viniciusbossle/php74-el7-php2shell.svg) ![forks](https://img.shields.io/github/forks/viniciusbossle/php74-el7-php2shell.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.

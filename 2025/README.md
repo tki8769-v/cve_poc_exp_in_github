@@ -11653,6 +11653,8 @@ The specific flaw exists within the parsing of SFD files. The issue results from
 
 - [https://github.com/ElJoamy/MongoBleed-exploit](https://github.com/ElJoamy/MongoBleed-exploit) : ![starts](https://img.shields.io/github/stars/ElJoamy/MongoBleed-exploit.svg) ![forks](https://img.shields.io/github/forks/ElJoamy/MongoBleed-exploit.svg)
 
+- [https://github.com/SAIM28826/CVE-2025-14847-poc](https://github.com/SAIM28826/CVE-2025-14847-poc) : ![starts](https://img.shields.io/github/stars/SAIM28826/CVE-2025-14847-poc.svg) ![forks](https://img.shields.io/github/forks/SAIM28826/CVE-2025-14847-poc.svg)
+
 ## CVE-2025-14783
  The Easy Digital Downloads plugin for WordPress is vulnerable to Unvalidated Redirect in all versions up to, and including, 3.6.2. This is due to insufficient validation on the redirect url supplied via the 'edd_redirect' parameter. This makes it possible for unauthenticated attackers to redirect users with the password reset email to potentially malicious sites if they can successfully trick them into performing an action.
 
