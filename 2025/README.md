@@ -15518,6 +15518,8 @@ For GlobalProtect users with Clientless VPN enabled, there is a limited impact o
 
 - [https://github.com/shawarkhanethicalhacker/CVE-2025-0133-exploit](https://github.com/shawarkhanethicalhacker/CVE-2025-0133-exploit) : ![starts](https://img.shields.io/github/stars/shawarkhanethicalhacker/CVE-2025-0133-exploit.svg) ![forks](https://img.shields.io/github/forks/shawarkhanethicalhacker/CVE-2025-0133-exploit.svg)
 
+- [https://github.com/Inteleon404/CVE-2025-0133](https://github.com/Inteleon404/CVE-2025-0133) : ![starts](https://img.shields.io/github/stars/Inteleon404/CVE-2025-0133.svg) ![forks](https://img.shields.io/github/forks/Inteleon404/CVE-2025-0133.svg)
+
 ## CVE-2025-0117
  A reliance on untrusted input for a security decision in the GlobalProtect app on Windows devices potentially enables a locally authenticated non-administrative Windows user to escalate their privileges to NT AUTHORITY\SYSTEM.
 

@@ -4631,6 +4631,10 @@ The issue has been fixed in dropwizard-validation 1.3.19 and 2.0.2.
 
 - [https://github.com/copethomas/datapower-redis-rce-exploit](https://github.com/copethomas/datapower-redis-rce-exploit) : ![starts](https://img.shields.io/github/stars/copethomas/datapower-redis-rce-exploit.svg) ![forks](https://img.shields.io/github/forks/copethomas/datapower-redis-rce-exploit.svg)
 
+## CVE-2020-4949
+
+- [https://github.com/Anuhimen/CVE-2020-4949-Analysis](https://github.com/Anuhimen/CVE-2020-4949-Analysis) : ![starts](https://img.shields.io/github/stars/Anuhimen/CVE-2020-4949-Analysis.svg) ![forks](https://img.shields.io/github/forks/Anuhimen/CVE-2020-4949-Analysis.svg)
+
 ## CVE-2020-4464
  IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 traditional could allow a remote attacker to execute arbitrary code on a system with a specially-crafted sequence of serialized objects over the SOAP connector. IBM X-Force ID: 181489.
 
@@ -5364,6 +5368,8 @@ When the second phase of Windows updates become available in Q1 2021, customers 
 - [https://github.com/abdullah50i/internal-penetration-testing-project-using-Metasploit](https://github.com/abdullah50i/internal-penetration-testing-project-using-Metasploit) : ![starts](https://img.shields.io/github/stars/abdullah50i/internal-penetration-testing-project-using-Metasploit.svg) ![forks](https://img.shields.io/github/forks/abdullah50i/internal-penetration-testing-project-using-Metasploit.svg)
 
 - [https://github.com/erk3/zeroscan](https://github.com/erk3/zeroscan) : ![starts](https://img.shields.io/github/stars/erk3/zeroscan.svg) ![forks](https://img.shields.io/github/forks/erk3/zeroscan.svg)
+
+- [https://github.com/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment](https://github.com/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment) : ![starts](https://img.shields.io/github/stars/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment.svg) ![forks](https://img.shields.io/github/forks/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment.svg)
 
 ## CVE-2020-1362
  An elevation of privilege vulnerability exists in the way that the Windows WalletService handles objects in memory, aka 'Windows WalletService Elevation of Privilege Vulnerability'. This CVE ID is unique from CVE-2020-1344, CVE-2020-1369.

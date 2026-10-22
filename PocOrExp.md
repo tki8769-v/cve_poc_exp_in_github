@@ -22,6 +22,11 @@
 
 - [https://github.com/yuwkaaa/CVE-2026-112071](https://github.com/yuwkaaa/CVE-2026-112071) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-112071.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-112071.svg)
 
+## CVE-2026-111943
+> On most platforms, Go uses the given system root certificates. However, in some narrower cases, the system trust stores may not be updated without further action. To defend against the narrower set of cases that may remain affected, a denylist was added in crypto/x509 to return an error when calling Verify with any of the known intermediate certificates that are no longer considered to be trustworthy.
+
+- [https://github.com/phpc0de/CVE-2026-111943-Remediator](https://github.com/phpc0de/CVE-2026-111943-Remediator) : ![starts](https://img.shields.io/github/stars/phpc0de/CVE-2026-111943-Remediator.svg) ![forks](https://img.shields.io/github/forks/phpc0de/CVE-2026-111943-Remediator.svg)
+
 ## CVE-2026-111823
 > Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encountering an unknown OAuth provider.
 
@@ -69,6 +74,11 @@
 
 - [https://github.com/shlln/CVE-2026-110958](https://github.com/shlln/CVE-2026-110958) : ![starts](https://img.shields.io/github/stars/shlln/CVE-2026-110958.svg) ![forks](https://img.shields.io/github/forks/shlln/CVE-2026-110958.svg)
 
+## CVE-2026-110936
+> A vulnerability has been identified in Siemens Software Center (All versions &lt; V4.0.9.8). The affected application loads dynamic-link libraries (DLLs) from an uncontrolled search path. This could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application.
+
+- [https://github.com/DAS-Bodhi/CVE-2026-110936-Siemens-Attack](https://github.com/DAS-Bodhi/CVE-2026-110936-Siemens-Attack) : ![starts](https://img.shields.io/github/stars/DAS-Bodhi/CVE-2026-110936-Siemens-Attack.svg) ![forks](https://img.shields.io/github/forks/DAS-Bodhi/CVE-2026-110936-Siemens-Attack.svg)
+
 ## CVE-2026-110916
 > Improper input validation in Desktop in Google Chrome prior to 155.0.8059.84 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Medium)
 
@@ -114,6 +124,7 @@
 - [https://github.com/Scyrix-LLC/CVE-2026-109721](https://github.com/Scyrix-LLC/CVE-2026-109721) : ![starts](https://img.shields.io/github/stars/Scyrix-LLC/CVE-2026-109721.svg) ![forks](https://img.shields.io/github/forks/Scyrix-LLC/CVE-2026-109721.svg)
 
 ## CVE-2026-109619
+> PHP has various global state that temporarily points into request memory. In some scenarios, global state may not be correctly reset, or may be repopulated after being reset. The global state may then refer to request memory even after it has been freed. Subsequent requests may read or branch on this stale state before it is fully initialized. Multiple strategies can trigger this condition and produce remote code execution (RCE).
 
 - [https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) : ![starts](https://img.shields.io/github/stars/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg) ![forks](https://img.shields.io/github/forks/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg)
 
@@ -175,7 +186,12 @@
 
 - [https://github.com/syrex1013/CVE-2026-109619](https://github.com/syrex1013/CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-109619.svg)
 
+- [https://github.com/1amrahul/php2shell-cve-2026-109618-cve-2026-109619](https://github.com/1amrahul/php2shell-cve-2026-109618-cve-2026-109619) : ![starts](https://img.shields.io/github/stars/1amrahul/php2shell-cve-2026-109618-cve-2026-109619.svg) ![forks](https://img.shields.io/github/forks/1amrahul/php2shell-cve-2026-109618-cve-2026-109619.svg)
+
+- [https://github.com/basesixtythree/B63-POC-CVE-2026-109619](https://github.com/basesixtythree/B63-POC-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2026-109619.svg)
+
 ## CVE-2026-109618
+> PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
 
 - [https://github.com/Zer061/CVE-2026-109618](https://github.com/Zer061/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/Zer061/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/Zer061/CVE-2026-109618.svg)
 
@@ -388,6 +404,24 @@
 - [https://github.com/xqus/php2shell-check](https://github.com/xqus/php2shell-check) : ![starts](https://img.shields.io/github/stars/xqus/php2shell-check.svg) ![forks](https://img.shields.io/github/forks/xqus/php2shell-check.svg)
 
 - [https://github.com/zenzue/CVE-2026-109618_19](https://github.com/zenzue/CVE-2026-109618_19) : ![starts](https://img.shields.io/github/stars/zenzue/CVE-2026-109618_19.svg) ![forks](https://img.shields.io/github/forks/zenzue/CVE-2026-109618_19.svg)
+
+- [https://github.com/geforester/php7.4-focal-php2shell](https://github.com/geforester/php7.4-focal-php2shell) : ![starts](https://img.shields.io/github/stars/geforester/php7.4-focal-php2shell.svg) ![forks](https://img.shields.io/github/forks/geforester/php7.4-focal-php2shell.svg)
+
+- [https://github.com/1amrahul/php2shell-cve-2026-109618-cve-2026-109619](https://github.com/1amrahul/php2shell-cve-2026-109618-cve-2026-109619) : ![starts](https://img.shields.io/github/stars/1amrahul/php2shell-cve-2026-109618-cve-2026-109619.svg) ![forks](https://img.shields.io/github/forks/1amrahul/php2shell-cve-2026-109618-cve-2026-109619.svg)
+
+- [https://github.com/appsec-cz/php-eol-patch](https://github.com/appsec-cz/php-eol-patch) : ![starts](https://img.shields.io/github/stars/appsec-cz/php-eol-patch.svg) ![forks](https://img.shields.io/github/forks/appsec-cz/php-eol-patch.svg)
+
+- [https://github.com/Flookerton/Am-I-Pwned](https://github.com/Flookerton/Am-I-Pwned) : ![starts](https://img.shields.io/github/stars/Flookerton/Am-I-Pwned.svg) ![forks](https://img.shields.io/github/forks/Flookerton/Am-I-Pwned.svg)
+
+- [https://github.com/Stonlifer/php2shell-old2](https://github.com/Stonlifer/php2shell-old2) : ![starts](https://img.shields.io/github/stars/Stonlifer/php2shell-old2.svg) ![forks](https://img.shields.io/github/forks/Stonlifer/php2shell-old2.svg)
+
+- [https://github.com/basesixtythree/B63-POC-CVE-2026-109618](https://github.com/basesixtythree/B63-POC-CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2026-109618.svg)
+
+- [https://github.com/hoehyeonlab/php-cve-2026-109618-check](https://github.com/hoehyeonlab/php-cve-2026-109618-check) : ![starts](https://img.shields.io/github/stars/hoehyeonlab/php-cve-2026-109618-check.svg) ![forks](https://img.shields.io/github/forks/hoehyeonlab/php-cve-2026-109618-check.svg)
+
+- [https://github.com/nukIeer/CVE-2026-109618-109619-checker](https://github.com/nukIeer/CVE-2026-109618-109619-checker) : ![starts](https://img.shields.io/github/stars/nukIeer/CVE-2026-109618-109619-checker.svg) ![forks](https://img.shields.io/github/forks/nukIeer/CVE-2026-109618-109619-checker.svg)
+
+- [https://github.com/skwirrel/php-cve-2026-109618-check](https://github.com/skwirrel/php-cve-2026-109618-check) : ![starts](https://img.shields.io/github/stars/skwirrel/php-cve-2026-109618-check.svg) ![forks](https://img.shields.io/github/forks/skwirrel/php-cve-2026-109618-check.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -2159,6 +2193,10 @@ This issue affects enVision: before 260655.
  mrubyc through 4.0.0 contains a null pointer dereference vulnerability in the op_enter() handler in src/vm.c when processing untrusted bytecode. Attackers can craft malicious .mrb bytecode files with OP_ENTER instructions at the top level to crash the embedding application and cause denial of service.
 
 - [https://github.com/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter](https://github.com/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter) : ![starts](https://img.shields.io/github/stars/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter.svg) ![forks](https://img.shields.io/github/forks/HarshRajSinghania/cve-2026-86547-mrubyc-op-enter.svg)
+
+## CVE-2026-86478
+
+- [https://github.com/LHeiakim/CVE-2026-86478](https://github.com/LHeiakim/CVE-2026-86478) : ![starts](https://img.shields.io/github/stars/LHeiakim/CVE-2026-86478.svg) ![forks](https://img.shields.io/github/forks/LHeiakim/CVE-2026-86478.svg)
 
 ## CVE-2026-86350
 > Inconsistent interpretation of HTTP/2 requests (&#x27;HTTP Request/Response smuggling&#x27;) vulnerability in Apache Tomcat caused by a regression in fix for CVE-2026-41293 can trigger request header mix-up.
@@ -39372,6 +39410,8 @@ For GlobalProtect users with Clientless VPN enabled, there is a limited impact o
 - [https://github.com/wiseep/CVE-2025-0133](https://github.com/wiseep/CVE-2025-0133) : ![starts](https://img.shields.io/github/stars/wiseep/CVE-2025-0133.svg) ![forks](https://img.shields.io/github/forks/wiseep/CVE-2025-0133.svg)
 
 - [https://github.com/shawarkhanethicalhacker/CVE-2025-0133-exploit](https://github.com/shawarkhanethicalhacker/CVE-2025-0133-exploit) : ![starts](https://img.shields.io/github/stars/shawarkhanethicalhacker/CVE-2025-0133-exploit.svg) ![forks](https://img.shields.io/github/forks/shawarkhanethicalhacker/CVE-2025-0133-exploit.svg)
+
+- [https://github.com/Inteleon404/CVE-2025-0133](https://github.com/Inteleon404/CVE-2025-0133) : ![starts](https://img.shields.io/github/stars/Inteleon404/CVE-2025-0133.svg) ![forks](https://img.shields.io/github/forks/Inteleon404/CVE-2025-0133.svg)
 
 ## CVE-2025-0117
  A reliance on untrusted input for a security decision in the GlobalProtect app on Windows devices potentially enables a locally authenticated non-administrative Windows user to escalate their privileges to NT AUTHORITY\SYSTEM.
@@ -85333,6 +85373,10 @@ The issue has been fixed in dropwizard-validation 1.3.19 and 2.0.2.
 
 - [https://github.com/copethomas/datapower-redis-rce-exploit](https://github.com/copethomas/datapower-redis-rce-exploit) : ![starts](https://img.shields.io/github/stars/copethomas/datapower-redis-rce-exploit.svg) ![forks](https://img.shields.io/github/forks/copethomas/datapower-redis-rce-exploit.svg)
 
+## CVE-2020-4949
+
+- [https://github.com/Anuhimen/CVE-2020-4949-Analysis](https://github.com/Anuhimen/CVE-2020-4949-Analysis) : ![starts](https://img.shields.io/github/stars/Anuhimen/CVE-2020-4949-Analysis.svg) ![forks](https://img.shields.io/github/forks/Anuhimen/CVE-2020-4949-Analysis.svg)
+
 ## CVE-2020-4464
  IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 traditional could allow a remote attacker to execute arbitrary code on a system with a specially-crafted sequence of serialized objects over the SOAP connector. IBM X-Force ID: 181489.
 
@@ -86066,6 +86110,8 @@ When the second phase of Windows updates become available in Q1 2021, customers 
 - [https://github.com/abdullah50i/internal-penetration-testing-project-using-Metasploit](https://github.com/abdullah50i/internal-penetration-testing-project-using-Metasploit) : ![starts](https://img.shields.io/github/stars/abdullah50i/internal-penetration-testing-project-using-Metasploit.svg) ![forks](https://img.shields.io/github/forks/abdullah50i/internal-penetration-testing-project-using-Metasploit.svg)
 
 - [https://github.com/erk3/zeroscan](https://github.com/erk3/zeroscan) : ![starts](https://img.shields.io/github/stars/erk3/zeroscan.svg) ![forks](https://img.shields.io/github/forks/erk3/zeroscan.svg)
+
+- [https://github.com/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment](https://github.com/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment) : ![starts](https://img.shields.io/github/stars/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment.svg) ![forks](https://img.shields.io/github/forks/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment.svg)
 
 ## CVE-2020-1362
  An elevation of privilege vulnerability exists in the way that the Windows WalletService handles objects in memory, aka 'Windows WalletService Elevation of Privilege Vulnerability'. This CVE ID is unique from CVE-2020-1344, CVE-2020-1369.
@@ -97259,6 +97305,10 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
  A vulnerability classified as problematic has been found in debug-js debug up to 3.0.x. This affects the function useColors of the file src/node.js. The manipulation of the argument str leads to inefficient regular expression complexity. Upgrading to version 3.1.0 is able to address this issue. The identifier of the patch is c38a0166c266a679c8de012d4eaccec3f944e685. It is recommended to upgrade the affected component. The identifier VDB-217665 was assigned to this vulnerability.
 
 - [https://github.com/fastify/send](https://github.com/fastify/send) : ![starts](https://img.shields.io/github/stars/fastify/send.svg) ![forks](https://img.shields.io/github/forks/fastify/send.svg)
+
+## CVE-2017-20001
+
+- [https://github.com/abiolaexcellence1-sketch/vulnerability-](https://github.com/abiolaexcellence1-sketch/vulnerability-) : ![starts](https://img.shields.io/github/stars/abiolaexcellence1-sketch/vulnerability-.svg) ![forks](https://img.shields.io/github/forks/abiolaexcellence1-sketch/vulnerability-.svg)
 
 ## CVE-2017-18635
  An XSS vulnerability was discovered in noVNC before 0.6.2 in which the remote VNC server could inject arbitrary HTML into the noVNC web page via the messages propagated to the status field, such as the VNC server name.

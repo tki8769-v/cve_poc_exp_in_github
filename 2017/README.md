@@ -222,6 +222,10 @@
 
 - [https://github.com/fastify/send](https://github.com/fastify/send) : ![starts](https://img.shields.io/github/stars/fastify/send.svg) ![forks](https://img.shields.io/github/forks/fastify/send.svg)
 
+## CVE-2017-20001
+
+- [https://github.com/abiolaexcellence1-sketch/vulnerability-](https://github.com/abiolaexcellence1-sketch/vulnerability-) : ![starts](https://img.shields.io/github/stars/abiolaexcellence1-sketch/vulnerability-.svg) ![forks](https://img.shields.io/github/forks/abiolaexcellence1-sketch/vulnerability-.svg)
+
 ## CVE-2017-18635
  An XSS vulnerability was discovered in noVNC before 0.6.2 in which the remote VNC server could inject arbitrary HTML into the noVNC web page via the messages propagated to the status field, such as the VNC server name.
 
