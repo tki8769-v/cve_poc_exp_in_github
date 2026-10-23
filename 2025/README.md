@@ -12442,6 +12442,10 @@ The specific flaw exists within the handling of symbolic links in ZIP files. Cra
 
 - [https://github.com/jFriedli/CVE-2025-10294](https://github.com/jFriedli/CVE-2025-10294) : ![starts](https://img.shields.io/github/stars/jFriedli/CVE-2025-10294.svg) ![forks](https://img.shields.io/github/forks/jFriedli/CVE-2025-10294.svg)
 
+## CVE-2025-10263
+
+- [https://github.com/mikedejesushuembesrodriguez-max/erratumcheck](https://github.com/mikedejesushuembesrodriguez-max/erratumcheck) : ![starts](https://img.shields.io/github/stars/mikedejesushuembesrodriguez-max/erratumcheck.svg) ![forks](https://img.shields.io/github/forks/mikedejesushuembesrodriguez-max/erratumcheck.svg)
+
 ## CVE-2025-10230
  A flaw was found in Samba, in the front-end WINS hook handling: NetBIOS names from registration packets are passed to a shell without proper validation or escaping. Unsanitized NetBIOS name data from WINS registration packets are inserted into a shell command and executed by the Samba Active Directory Domain Controller’s wins hook, allowing an unauthenticated network attacker to achieve remote command execution as the Samba process.
 

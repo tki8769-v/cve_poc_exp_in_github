@@ -4327,3 +4327,35 @@
 {"cve_id": "CVE-2025-54309", "ts": "2026-10-23T00:26:37Z", "type": "new_poc", "url": "https://github.com/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309"}
 {"cve_id": "CVE-2026-67597", "ts": "2026-10-23T00:38:30Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2021-44228", "ts": "2026-10-23T00:43:48Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-evidence"}
+{"cve_id": "CVE-2026-67597", "ts": "2026-10-23T06:03:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109715", "ts": "2026-10-23T06:08:22Z", "type": "new_poc", "url": "https://github.com/Scyrix-LLC/CVE-2026-109715"}
+{"cve_id": "CVE-2026-34717", "ts": "2026-10-23T06:08:22Z", "type": "new_poc", "url": "https://github.com/quanlevan1207/cve-2026-34717-exploit"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:08:22Z", "type": "new_poc", "url": "https://github.com/ravhirizaldi/php2shell-engine-rce"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:08:22Z", "type": "new_poc", "url": "https://github.com/Taz1920/php-sentinel"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:08:23Z", "type": "new_poc", "url": "https://github.com/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-23T06:08:23Z", "type": "new_poc", "url": "https://github.com/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-86476", "ts": "2026-10-23T06:08:23Z", "type": "new_poc", "url": "https://github.com/0xSemizzz/CVE-2026-86476"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-23T06:08:23Z", "type": "new_poc", "url": "https://github.com/Saturate/CVE-2026-111497"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-23T06:08:23Z", "type": "new_poc", "url": "https://github.com/MorphingYU/CVE-2026-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:08:23Z", "type": "new_poc", "url": "https://github.com/EQSTLab/CVE-2026-109618"}
+{"cve_id": "CVE-2026-93687", "ts": "2026-10-23T06:08:24Z", "type": "new_poc", "url": "https://github.com/canmenzo/cve-2026-93687-braces"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-23T06:08:24Z", "type": "new_poc", "url": "https://github.com/duytien241/nodejs-CVE-2026-111497"}
+{"cve_id": "CVE-2026-113872", "ts": "2026-10-23T06:08:24Z", "type": "new_poc", "url": "https://github.com/santihabib/multer-CVE-2026-113872"}
+{"cve_id": "CVE-2026-76504", "ts": "2026-10-23T06:08:24Z", "type": "new_poc", "url": "https://github.com/pastelghost3/cve-2026-76504-nuclei"}
+{"cve_id": "CVE-2025-10263", "ts": "2026-10-23T06:08:24Z", "type": "new_poc", "url": "https://github.com/mikedejesushuembesrodriguez-max/erratumcheck"}
+{"cve_id": "CVE-2026-71362", "ts": "2026-10-23T06:08:24Z", "type": "new_poc", "url": "https://github.com/mahumadad/cve-2026-71362-magento-ato"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:08:24Z", "type": "new_poc", "url": "https://github.com/axon003/php-legacy-cve-2026-109618"}
+{"cve_id": "CVE-2026-57845", "ts": "2026-10-23T06:08:24Z", "type": "new_poc", "url": "https://github.com/SaiTeja-Erukude/CVE-2026-57845-hf-datasets-rce"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:08:24Z", "type": "new_poc", "url": "https://github.com/gukHyeonGeum/cve-2026-109618-109619-el7"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:08:25Z", "type": "new_poc", "url": "https://github.com/pro-m16/CVE-2026-109618-php2shell-lab"}
+{"cve_id": "CVE-2026-31158", "ts": "2026-10-23T06:08:25Z", "type": "new_poc", "url": "https://github.com/Hardik007007/CVE-2026-31158-Boolean-Based-SQL-Injection-in-CRM-Login"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:08:26Z", "type": "new_poc", "url": "https://github.com/techtaek77/php2shell-guide"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:08:26Z", "type": "new_poc", "url": "https://github.com/Pr0fEs0r-X/PHP2ShellX-"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:08:26Z", "type": "new_poc", "url": "https://github.com/alefkaue/php2shell-security-assessor"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:08:26Z", "type": "new_poc", "url": "https://github.com/joec4i/docker-library-php"}
+{"cve_id": "CVE-2026-110264", "ts": "2026-10-23T06:08:26Z", "type": "new_poc", "url": "https://github.com/bastet-ai/gitlab-firing-range"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:08:26Z", "type": "new_poc", "url": "https://github.com/463861437/guard-for-php74"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:08:26Z", "type": "new_poc", "url": "https://github.com/leejongyoung/php2shell-triage"}
+{"cve_id": "CVE-2026-110264", "ts": "2026-10-23T06:08:26Z", "type": "new_poc", "url": "https://github.com/TheGlitchFixer/gitlab-patch-check"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-23T06:08:26Z", "type": "new_poc", "url": "https://github.com/Charlie-Netdevops/node-hostcheck"}
+{"cve_id": "CVE-2026-89026", "ts": "2026-10-23T06:15:39Z", "type": "new_poc", "url": "https://github.com/im-hanzou/CVE-2026-89026"}

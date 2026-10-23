@@ -20,6 +20,11 @@
 
 - [https://github.com/cafaye/nilepatch-coraza-bypass](https://github.com/cafaye/nilepatch-coraza-bypass) : ![starts](https://img.shields.io/github/stars/cafaye/nilepatch-coraza-bypass.svg) ![forks](https://img.shields.io/github/forks/cafaye/nilepatch-coraza-bypass.svg)
 
+## CVE-2026-113872
+> multer is a middleware for Node.js that handles multipart/form-data file uploads. In versions from 2.0.0 before 2.5.0, when multer is configured with an asynchronous fileFilter, a single request can crash the Node.js process. If the request is aborted while one file&#x27;s asynchronous fileFilter is still pending, the pending callback later resumes a parsing stream that multer has already torn down, and the underlying parser emits an error on a stream that no longer has an error listener, which Node 
+
+- [https://github.com/santihabib/multer-CVE-2026-113872](https://github.com/santihabib/multer-CVE-2026-113872) : ![starts](https://img.shields.io/github/stars/santihabib/multer-CVE-2026-113872.svg) ![forks](https://img.shields.io/github/forks/santihabib/multer-CVE-2026-113872.svg)
+
 ## CVE-2026-113468
 > The payment notification endpoint for PayPal accepts incoming data without verifying that it comes from the payment provider. Any site visitor can overwrite the stored payment notification of an order that is still awaiting payment with arbitrary content. This requires a page that contains the shop&#x27;s order plugin. Orders that are already paid are not affected.
 
@@ -81,6 +86,12 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/TheFool-TAROT/CVE-2026-111497-brotli-pwn](https://github.com/TheFool-TAROT/CVE-2026-111497-brotli-pwn) : ![starts](https://img.shields.io/github/stars/TheFool-TAROT/CVE-2026-111497-brotli-pwn.svg) ![forks](https://img.shields.io/github/forks/TheFool-TAROT/CVE-2026-111497-brotli-pwn.svg)
 
 - [https://github.com/ikow/brotli2crash](https://github.com/ikow/brotli2crash) : ![starts](https://img.shields.io/github/stars/ikow/brotli2crash.svg) ![forks](https://img.shields.io/github/forks/ikow/brotli2crash.svg)
+
+- [https://github.com/Charlie-Netdevops/node-hostcheck](https://github.com/Charlie-Netdevops/node-hostcheck) : ![starts](https://img.shields.io/github/stars/Charlie-Netdevops/node-hostcheck.svg) ![forks](https://img.shields.io/github/forks/Charlie-Netdevops/node-hostcheck.svg)
+
+- [https://github.com/Saturate/CVE-2026-111497](https://github.com/Saturate/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/Saturate/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/Saturate/CVE-2026-111497.svg)
+
+- [https://github.com/duytien241/nodejs-CVE-2026-111497](https://github.com/duytien241/nodejs-CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/duytien241/nodejs-CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/duytien241/nodejs-CVE-2026-111497.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -168,6 +179,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/xaviware/go-gitlab-cve-2026-110264-scanner](https://github.com/xaviware/go-gitlab-cve-2026-110264-scanner) : ![starts](https://img.shields.io/github/stars/xaviware/go-gitlab-cve-2026-110264-scanner.svg) ![forks](https://img.shields.io/github/forks/xaviware/go-gitlab-cve-2026-110264-scanner.svg)
 
+- [https://github.com/TheGlitchFixer/gitlab-patch-check](https://github.com/TheGlitchFixer/gitlab-patch-check) : ![starts](https://img.shields.io/github/stars/TheGlitchFixer/gitlab-patch-check.svg) ![forks](https://img.shields.io/github/forks/TheGlitchFixer/gitlab-patch-check.svg)
+
+- [https://github.com/bastet-ai/gitlab-firing-range](https://github.com/bastet-ai/gitlab-firing-range) : ![starts](https://img.shields.io/github/stars/bastet-ai/gitlab-firing-range.svg) ![forks](https://img.shields.io/github/forks/bastet-ai/gitlab-firing-range.svg)
+
 ## CVE-2026-110025
 > A flaw has been found in slackero phpwcms up to 1.9.49/1.12.3. This issue affects some unknown processing of the file include/inc_front/content/cnt23.article.inc.php of the component Extension Check. This manipulation of the argument POST_name causes unrestricted upload. The attack can be initiated remotely. Upgrading to version 1.9.50 and 1.12.4 is capable of addressing this issue. Patch name: 118c978430f5a9668b30535f6e592c7ae8df711f/f4c136b467565b2d16ebe2b8276b9a03547a9a69/8571cb47df8d66804d1e
 
@@ -177,6 +192,11 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 > Incorrect boundary conditions in the JavaScript Engine: JIT component. This vulnerability was fixed in Firefox 158, Firefox ESR 153.5, Thunderbird 158, and Thunderbird 153.5.
 
 - [https://github.com/Scyrix-LLC/CVE-2026-109721](https://github.com/Scyrix-LLC/CVE-2026-109721) : ![starts](https://img.shields.io/github/stars/Scyrix-LLC/CVE-2026-109721.svg) ![forks](https://img.shields.io/github/forks/Scyrix-LLC/CVE-2026-109721.svg)
+
+## CVE-2026-109715
+> Incorrect boundary conditions in the JavaScript Engine component. This vulnerability was fixed in Firefox 158, Firefox ESR 115.43, Firefox ESR 153.5, Thunderbird 158, and Thunderbird 153.5.
+
+- [https://github.com/Scyrix-LLC/CVE-2026-109715](https://github.com/Scyrix-LLC/CVE-2026-109715) : ![starts](https://img.shields.io/github/stars/Scyrix-LLC/CVE-2026-109715.svg) ![forks](https://img.shields.io/github/forks/Scyrix-LLC/CVE-2026-109715.svg)
 
 ## CVE-2026-109619
 > PHP has various global state that temporarily points into request memory. In some scenarios, global state may not be correctly reset, or may be repopulated after being reset. The global state may then refer to request memory even after it has been freed. Subsequent requests may read or branch on this stale state before it is fully initialized. Multiple strategies can trigger this condition and produce remote code execution (RCE).
@@ -288,6 +308,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/swap18plus/php2shell_CVE-2026-109618-and-CVE-2026-109619](https://github.com/swap18plus/php2shell_CVE-2026-109618-and-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/swap18plus/php2shell_CVE-2026-109618-and-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/swap18plus/php2shell_CVE-2026-109618-and-CVE-2026-109619.svg)
 
 - [https://github.com/xaviware/go-php2shell-scanner-CVE-2026-109618-CVE-2026-109619](https://github.com/xaviware/go-php2shell-scanner-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/xaviware/go-php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/xaviware/go-php2shell-scanner-CVE-2026-109618-CVE-2026-109619.svg)
+
+- [https://github.com/MorphingYU/CVE-2026-109619](https://github.com/MorphingYU/CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/MorphingYU/CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/MorphingYU/CVE-2026-109619.svg)
+
+- [https://github.com/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619](https://github.com/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -705,6 +729,32 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/JoasASantos/php2shell-lab](https://github.com/JoasASantos/php2shell-lab) : ![starts](https://img.shields.io/github/stars/JoasASantos/php2shell-lab.svg) ![forks](https://img.shields.io/github/forks/JoasASantos/php2shell-lab.svg)
 
 - [https://github.com/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619](https://github.com/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619.svg)
+
+- [https://github.com/Taz1920/php-sentinel](https://github.com/Taz1920/php-sentinel) : ![starts](https://img.shields.io/github/stars/Taz1920/php-sentinel.svg) ![forks](https://img.shields.io/github/forks/Taz1920/php-sentinel.svg)
+
+- [https://github.com/ravhirizaldi/php2shell-engine-rce](https://github.com/ravhirizaldi/php2shell-engine-rce) : ![starts](https://img.shields.io/github/stars/ravhirizaldi/php2shell-engine-rce.svg) ![forks](https://img.shields.io/github/forks/ravhirizaldi/php2shell-engine-rce.svg)
+
+- [https://github.com/463861437/guard-for-php74](https://github.com/463861437/guard-for-php74) : ![starts](https://img.shields.io/github/stars/463861437/guard-for-php74.svg) ![forks](https://img.shields.io/github/forks/463861437/guard-for-php74.svg)
+
+- [https://github.com/EQSTLab/CVE-2026-109618](https://github.com/EQSTLab/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/EQSTLab/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/EQSTLab/CVE-2026-109618.svg)
+
+- [https://github.com/Pr0fEs0r-X/PHP2ShellX-](https://github.com/Pr0fEs0r-X/PHP2ShellX-) : ![starts](https://img.shields.io/github/stars/Pr0fEs0r-X/PHP2ShellX-.svg) ![forks](https://img.shields.io/github/forks/Pr0fEs0r-X/PHP2ShellX-.svg)
+
+- [https://github.com/alefkaue/php2shell-security-assessor](https://github.com/alefkaue/php2shell-security-assessor) : ![starts](https://img.shields.io/github/stars/alefkaue/php2shell-security-assessor.svg) ![forks](https://img.shields.io/github/forks/alefkaue/php2shell-security-assessor.svg)
+
+- [https://github.com/axon003/php-legacy-cve-2026-109618](https://github.com/axon003/php-legacy-cve-2026-109618) : ![starts](https://img.shields.io/github/stars/axon003/php-legacy-cve-2026-109618.svg) ![forks](https://img.shields.io/github/forks/axon003/php-legacy-cve-2026-109618.svg)
+
+- [https://github.com/gukHyeonGeum/cve-2026-109618-109619-el7](https://github.com/gukHyeonGeum/cve-2026-109618-109619-el7) : ![starts](https://img.shields.io/github/stars/gukHyeonGeum/cve-2026-109618-109619-el7.svg) ![forks](https://img.shields.io/github/forks/gukHyeonGeum/cve-2026-109618-109619-el7.svg)
+
+- [https://github.com/joec4i/docker-library-php](https://github.com/joec4i/docker-library-php) : ![starts](https://img.shields.io/github/stars/joec4i/docker-library-php.svg) ![forks](https://img.shields.io/github/forks/joec4i/docker-library-php.svg)
+
+- [https://github.com/leejongyoung/php2shell-triage](https://github.com/leejongyoung/php2shell-triage) : ![starts](https://img.shields.io/github/stars/leejongyoung/php2shell-triage.svg) ![forks](https://img.shields.io/github/forks/leejongyoung/php2shell-triage.svg)
+
+- [https://github.com/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619](https://github.com/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619.svg)
+
+- [https://github.com/pro-m16/CVE-2026-109618-php2shell-lab](https://github.com/pro-m16/CVE-2026-109618-php2shell-lab) : ![starts](https://img.shields.io/github/stars/pro-m16/CVE-2026-109618-php2shell-lab.svg) ![forks](https://img.shields.io/github/forks/pro-m16/CVE-2026-109618-php2shell-lab.svg)
+
+- [https://github.com/techtaek77/php2shell-guide](https://github.com/techtaek77/php2shell-guide) : ![starts](https://img.shields.io/github/stars/techtaek77/php2shell-guide.svg) ![forks](https://img.shields.io/github/forks/techtaek77/php2shell-guide.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -1910,6 +1960,8 @@ This vulnerability allows an unauthenticated attacker to perform remot
 
 - [https://github.com/BernydotJar/braces-security-backport](https://github.com/BernydotJar/braces-security-backport) : ![starts](https://img.shields.io/github/stars/BernydotJar/braces-security-backport.svg) ![forks](https://img.shields.io/github/forks/BernydotJar/braces-security-backport.svg)
 
+- [https://github.com/canmenzo/cve-2026-93687-braces](https://github.com/canmenzo/cve-2026-93687-braces) : ![starts](https://img.shields.io/github/stars/canmenzo/cve-2026-93687-braces.svg) ![forks](https://img.shields.io/github/forks/canmenzo/cve-2026-93687-braces.svg)
+
 ## CVE-2026-93674
 > IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote attacker to execute arbitrary code due to improper neutralization of special elements used in an OS command.
 
@@ -2256,6 +2308,8 @@ This leaves walk-&gt;action erroneously set to ACTION_AGAIN, which is
 
 - [https://github.com/AranFarzami/CVE-2026-89026](https://github.com/AranFarzami/CVE-2026-89026) : ![starts](https://img.shields.io/github/stars/AranFarzami/CVE-2026-89026.svg) ![forks](https://img.shields.io/github/forks/AranFarzami/CVE-2026-89026.svg)
 
+- [https://github.com/im-hanzou/CVE-2026-89026](https://github.com/im-hanzou/CVE-2026-89026) : ![starts](https://img.shields.io/github/stars/im-hanzou/CVE-2026-89026.svg) ![forks](https://img.shields.io/github/forks/im-hanzou/CVE-2026-89026.svg)
+
 ## CVE-2026-89013
  Dolibarr 23.0.4 before 24.0.1 contains an authorization bypass vulnerability that allows unauthenticated attackers to read arbitrary files through the document storage endpoints by supplying a crafted hashp parameter value. Attackers can send a request with hashp=shared to skip token validation while satisfying the authorization condition in htdocs/document.php and htdocs/viewimage.php, gaining access to application logs, uploaded business documents, database backups containing password hashes, and files belonging to other multicompany entities.
 
@@ -2531,6 +2585,11 @@ This issue affects enVision: before 260655.
 ## CVE-2026-86478
 
 - [https://github.com/LHeiakim/CVE-2026-86478](https://github.com/LHeiakim/CVE-2026-86478) : ![starts](https://img.shields.io/github/stars/LHeiakim/CVE-2026-86478.svg) ![forks](https://img.shields.io/github/forks/LHeiakim/CVE-2026-86478.svg)
+
+## CVE-2026-86476
+> A flaw was found in gst-plugins-base. A heap buffer overflow can be triggered when processing video buffers whose attached GstVideoMeta metadata declares plane strides and offsets that exceed the actual backing memory allocation. The metadata is not range-checked during deserialization, and the video frame mapping code does not verify that the declared plane geometry fits within the buffer before allowing consumers to read or write video data. A local attacker who controls the sending side of a 
+
+- [https://github.com/0xSemizzz/CVE-2026-86476](https://github.com/0xSemizzz/CVE-2026-86476) : ![starts](https://img.shields.io/github/stars/0xSemizzz/CVE-2026-86476.svg) ![forks](https://img.shields.io/github/forks/0xSemizzz/CVE-2026-86476.svg)
 
 ## CVE-2026-86350
 > Inconsistent interpretation of HTTP/2 requests (&#x27;HTTP Request/Response smuggling&#x27;) vulnerability in Apache Tomcat caused by a regression in fix for CVE-2026-41293 can trigger request header mix-up.
@@ -3863,6 +3922,8 @@ This vulnerability is due to improper handling of URI encoding in an HTTP reques
 
 - [https://github.com/ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept](https://github.com/ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept) : ![starts](https://img.shields.io/github/stars/ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept.svg) ![forks](https://img.shields.io/github/forks/ShadowForge-Cyber/CVE-2026-76504-Proof-of-concept.svg)
 
+- [https://github.com/pastelghost3/cve-2026-76504-nuclei](https://github.com/pastelghost3/cve-2026-76504-nuclei) : ![starts](https://img.shields.io/github/stars/pastelghost3/cve-2026-76504-nuclei.svg) ![forks](https://img.shields.io/github/forks/pastelghost3/cve-2026-76504-nuclei.svg)
+
 ## CVE-2026-76461
  A vulnerability in the email parsing of Cisco AsyncOS Software for Cisco Secure Email Gateway could allow an unauthenticated, remote attacker to execute arbitrary commands with root privileges on the underlying operating system.
 
@@ -4456,6 +4517,8 @@ an OOB write past the allocated kernel buffer.  Add
  Adobe Commerce is affected by an Incorrect Authorization vulnerability that could result in privilege escalation. An attacker could leverage this vulnerability to gain elevated access to sensitive resources. Exploitation of this issue does not require user interaction.
 
 - [https://github.com/dinosn/cve-2026-71362-magento-lab](https://github.com/dinosn/cve-2026-71362-magento-lab) : ![starts](https://img.shields.io/github/stars/dinosn/cve-2026-71362-magento-lab.svg) ![forks](https://img.shields.io/github/forks/dinosn/cve-2026-71362-magento-lab.svg)
+
+- [https://github.com/mahumadad/cve-2026-71362-magento-ato](https://github.com/mahumadad/cve-2026-71362-magento-ato) : ![starts](https://img.shields.io/github/stars/mahumadad/cve-2026-71362-magento-ato.svg) ![forks](https://img.shields.io/github/forks/mahumadad/cve-2026-71362-magento-ato.svg)
 
 ## CVE-2026-71300
  Improper input validation vulnerability in Apache Camel Atmosphere Websocket component.
@@ -6815,6 +6878,10 @@ Users are recommended to upgrade to version 2.57.0, which fixes the issue.
  RustDesk before 1.4.9 does not enforce a session's authorized connection scope on the server side, so a peer granted a limited session type (FileTransfer, PortForward, ViewCamera, or Terminal) can send control messages and login options reserved for a full Remote session. An authenticated remote peer can exploit this missing scope check to act outside its granted scope, injecting out-of-scope control messages to observe and control the host beyond the permissions it was given.
 
 - [https://github.com/sn0x-sharma/CVE-2026-57850](https://github.com/sn0x-sharma/CVE-2026-57850) : ![starts](https://img.shields.io/github/stars/sn0x-sharma/CVE-2026-57850.svg) ![forks](https://img.shields.io/github/forks/sn0x-sharma/CVE-2026-57850.svg)
+
+## CVE-2026-57845
+
+- [https://github.com/SaiTeja-Erukude/CVE-2026-57845-hf-datasets-rce](https://github.com/SaiTeja-Erukude/CVE-2026-57845-hf-datasets-rce) : ![starts](https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-57845-hf-datasets-rce.svg) ![forks](https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-57845-hf-datasets-rce.svg)
 
 ## CVE-2026-57836
 
@@ -13476,6 +13543,10 @@ This can be used to target internal services (e.g. cloud metadata endpoints or i
 
 - [https://github.com/0xBlackash/CVE-2026-34724](https://github.com/0xBlackash/CVE-2026-34724) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-34724.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-34724.svg)
 
+## CVE-2026-34717
+
+- [https://github.com/quanlevan1207/cve-2026-34717-exploit](https://github.com/quanlevan1207/cve-2026-34717-exploit) : ![starts](https://img.shields.io/github/stars/quanlevan1207/cve-2026-34717-exploit.svg) ![forks](https://img.shields.io/github/forks/quanlevan1207/cve-2026-34717-exploit.svg)
+
 ## CVE-2026-34621
  Acrobat Reader versions 24.001.30356, 26.001.21367 and earlier are affected by an Improperly Controlled Modification of Object Prototype Attributes ('Prototype Pollution') vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 
@@ -15549,6 +15620,10 @@ correct response on the original request.
  Craft CMS 5.9.5 and earlier contains a Missing Authorization vulnerability in the migrate endpoint (/actions/app/migrate).
 
 - [https://github.com/0xrixet/Craftcms-PoC-CVE-2026-31266](https://github.com/0xrixet/Craftcms-PoC-CVE-2026-31266) : ![starts](https://img.shields.io/github/stars/0xrixet/Craftcms-PoC-CVE-2026-31266.svg) ![forks](https://img.shields.io/github/forks/0xrixet/Craftcms-PoC-CVE-2026-31266.svg)
+
+## CVE-2026-31158
+
+- [https://github.com/Hardik007007/CVE-2026-31158-Boolean-Based-SQL-Injection-in-CRM-Login](https://github.com/Hardik007007/CVE-2026-31158-Boolean-Based-SQL-Injection-in-CRM-Login) : ![starts](https://img.shields.io/github/stars/Hardik007007/CVE-2026-31158-Boolean-Based-SQL-Injection-in-CRM-Login.svg) ![forks](https://img.shields.io/github/forks/Hardik007007/CVE-2026-31158-Boolean-Based-SQL-Injection-in-CRM-Login.svg)
 
 ## CVE-2026-31156
  A path injection vulnerability exists in OpenPLC v3 (2c82b0e79c53f8c1f1458eee15fec173400d6e1a) as the binary program compiled from glue_generator.cpp does not perform any validation on the file path parameters passed via the command line. The user-controlled input parameters are directly passed to the underlying file operation functions (fopen/ifstream/ofstream) for file reading and writing. An attacker can exploit this vulnerability by constructing a malicious path to read arbitrary readable files.
