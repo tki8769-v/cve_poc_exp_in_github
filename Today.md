@@ -72,6 +72,7 @@
 - [https://github.com/Ethen1212/php2shell-CVE-2026-109618](https://github.com/Ethen1212/php2shell-CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/Ethen1212/php2shell-CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/Ethen1212/php2shell-CVE-2026-109618.svg)
 - [https://github.com/JoasASantos/php2shell-exploit](https://github.com/JoasASantos/php2shell-exploit) : ![starts](https://img.shields.io/github/stars/JoasASantos/php2shell-exploit.svg) ![forks](https://img.shields.io/github/forks/JoasASantos/php2shell-exploit.svg)
 - [https://github.com/JoasASantos/php2shell-lab](https://github.com/JoasASantos/php2shell-lab) : ![starts](https://img.shields.io/github/stars/JoasASantos/php2shell-lab.svg) ![forks](https://img.shields.io/github/forks/JoasASantos/php2shell-lab.svg)
+- [https://github.com/MomoRizza/php2shell](https://github.com/MomoRizza/php2shell) : ![starts](https://img.shields.io/github/stars/MomoRizza/php2shell.svg) ![forks](https://img.shields.io/github/forks/MomoRizza/php2shell.svg)
 - [https://github.com/MorphingYU/CVE-2026-109618](https://github.com/MorphingYU/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/MorphingYU/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/MorphingYU/CVE-2026-109618.svg)
 - [https://github.com/PapaBill1234/php2shell-toolkit](https://github.com/PapaBill1234/php2shell-toolkit) : ![starts](https://img.shields.io/github/stars/PapaBill1234/php2shell-toolkit.svg) ![forks](https://img.shields.io/github/forks/PapaBill1234/php2shell-toolkit.svg)
 - [https://github.com/Pr0fEs0r-X/PHP2ShellX-](https://github.com/Pr0fEs0r-X/PHP2ShellX-) : ![starts](https://img.shields.io/github/stars/Pr0fEs0r-X/PHP2ShellX-.svg) ![forks](https://img.shields.io/github/forks/Pr0fEs0r-X/PHP2ShellX-.svg)
@@ -86,6 +87,7 @@
 - [https://github.com/joec4i/docker-library-php](https://github.com/joec4i/docker-library-php) : ![starts](https://img.shields.io/github/stars/joec4i/docker-library-php.svg) ![forks](https://img.shields.io/github/forks/joec4i/docker-library-php.svg)
 - [https://github.com/leejongyoung/php2shell-kr](https://github.com/leejongyoung/php2shell-kr) : ![starts](https://img.shields.io/github/stars/leejongyoung/php2shell-kr.svg) ![forks](https://img.shields.io/github/forks/leejongyoung/php2shell-kr.svg)
 - [https://github.com/leejongyoung/php2shell-triage](https://github.com/leejongyoung/php2shell-triage) : ![starts](https://img.shields.io/github/stars/leejongyoung/php2shell-triage.svg) ![forks](https://img.shields.io/github/forks/leejongyoung/php2shell-triage.svg)
+- [https://github.com/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619](https://github.com/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619.svg)
 - [https://github.com/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619](https://github.com/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619.svg)
 - [https://github.com/memuratozturk/php2shell-poc](https://github.com/memuratozturk/php2shell-poc) : ![starts](https://img.shields.io/github/stars/memuratozturk/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/memuratozturk/php2shell-poc.svg)
 - [https://github.com/moonkit02/php2shell-poc](https://github.com/moonkit02/php2shell-poc) : ![starts](https://img.shields.io/github/stars/moonkit02/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/moonkit02/php2shell-poc.svg)
@@ -109,6 +111,7 @@
 - [https://github.com/MorphingYU/CVE-2026-109619](https://github.com/MorphingYU/CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/MorphingYU/CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/MorphingYU/CVE-2026-109619.svg)
 - [https://github.com/debjit604/PHP2Shell-CVE-2026-109618-CVE-2026-109619](https://github.com/debjit604/PHP2Shell-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/debjit604/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/debjit604/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg)
 - [https://github.com/fellipgomes/br-php2shell](https://github.com/fellipgomes/br-php2shell) : ![starts](https://img.shields.io/github/stars/fellipgomes/br-php2shell.svg) ![forks](https://img.shields.io/github/forks/fellipgomes/br-php2shell.svg)
+- [https://github.com/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619](https://github.com/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619.svg)
 - [https://github.com/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619](https://github.com/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/nurlanchip/PHP2SHELL-POC-Lab-CVE-2026-109618-CVE-2026-109619.svg)
 
 ## CVE-2026-109715
@@ -169,6 +172,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 > adm-zip before 0.6.1 contains a denial of service vulnerability that allows unauthenticated attackers to crash the Node.js process via a malformed ZIP file, because inflateAsync in methods/inflater.js lacks a zlib stream error listener. Attackers can supply a ZIP with corrupted DEFLATE data processed by readFileAsync, readAsTextAsync, extractAllToAsync, or getDataAsync, triggering an uncatchable exception that terminates all in-flight requests.
 
 - [https://github.com/cafaye/nilepatch-admzip-dos](https://github.com/cafaye/nilepatch-admzip-dos) : ![starts](https://img.shields.io/github/stars/cafaye/nilepatch-admzip-dos.svg) ![forks](https://img.shields.io/github/forks/cafaye/nilepatch-admzip-dos.svg)
+
+## CVE-2026-16723
+
+- [https://github.com/Ethen1212/fastjson-CVE-2026-16723](https://github.com/Ethen1212/fastjson-CVE-2026-16723) : ![starts](https://img.shields.io/github/stars/Ethen1212/fastjson-CVE-2026-16723.svg) ![forks](https://img.shields.io/github/forks/Ethen1212/fastjson-CVE-2026-16723.svg)
 
 ## CVE-2026-31158
 

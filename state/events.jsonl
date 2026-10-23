@@ -4413,3 +4413,8 @@
 {"cve_id": "CVE-2026-101160", "ts": "2026-10-23T14:51:43Z", "type": "new_poc", "url": "https://github.com/Hasyros/CVE-2026-101160-dos-wp-ultimate-review-rating"}
 {"cve_id": "CVE-2026-101161", "ts": "2026-10-23T14:51:44Z", "type": "new_poc", "url": "https://github.com/Hasyros/CVE-2026-101161-dos-wp-ultimate-review-shortcode"}
 {"cve_id": "CVE-2026-101162", "ts": "2026-10-23T14:51:49Z", "type": "new_poc", "url": "https://github.com/Hasyros/CVE-2026-101162-xss-wp-ultimate-review"}
+{"cve_id": "CVE-2026-67597", "ts": "2026-10-23T15:00:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T15:08:28Z", "type": "new_poc", "url": "https://github.com/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-23T15:08:28Z", "type": "new_poc", "url": "https://github.com/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-16723", "ts": "2026-10-23T15:08:35Z", "type": "new_poc", "url": "https://github.com/Ethen1212/fastjson-CVE-2026-16723"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T15:08:40Z", "type": "new_poc", "url": "https://github.com/MomoRizza/php2shell"}

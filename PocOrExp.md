@@ -342,6 +342,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/fellipgomes/br-php2shell](https://github.com/fellipgomes/br-php2shell) : ![starts](https://img.shields.io/github/stars/fellipgomes/br-php2shell.svg) ![forks](https://img.shields.io/github/forks/fellipgomes/br-php2shell.svg)
 
+- [https://github.com/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619](https://github.com/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619.svg)
+
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
 
@@ -824,6 +826,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/digital-heroes-hamburg/wp-php2shell-check](https://github.com/digital-heroes-hamburg/wp-php2shell-check) : ![starts](https://img.shields.io/github/stars/digital-heroes-hamburg/wp-php2shell-check.svg) ![forks](https://img.shields.io/github/forks/digital-heroes-hamburg/wp-php2shell-check.svg)
 
 - [https://github.com/leejongyoung/php2shell-kr](https://github.com/leejongyoung/php2shell-kr) : ![starts](https://img.shields.io/github/stars/leejongyoung/php2shell-kr.svg) ![forks](https://img.shields.io/github/forks/leejongyoung/php2shell-kr.svg)
+
+- [https://github.com/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619](https://github.com/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619.svg)
+
+- [https://github.com/MomoRizza/php2shell](https://github.com/MomoRizza/php2shell) : ![starts](https://img.shields.io/github/stars/MomoRizza/php2shell.svg) ![forks](https://img.shields.io/github/forks/MomoRizza/php2shell.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -20218,6 +20224,8 @@ This issue affects pgAdmin 4: from 9.13 before 9.17.
 - [https://github.com/yym8538/CVE-2026-16723](https://github.com/yym8538/CVE-2026-16723) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-16723.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-16723.svg)
 
 - [https://github.com/cuttlefish520/FastJson1.2.83-GenProbe2](https://github.com/cuttlefish520/FastJson1.2.83-GenProbe2) : ![starts](https://img.shields.io/github/stars/cuttlefish520/FastJson1.2.83-GenProbe2.svg) ![forks](https://img.shields.io/github/forks/cuttlefish520/FastJson1.2.83-GenProbe2.svg)
+
+- [https://github.com/Ethen1212/fastjson-CVE-2026-16723](https://github.com/Ethen1212/fastjson-CVE-2026-16723) : ![starts](https://img.shields.io/github/stars/Ethen1212/fastjson-CVE-2026-16723.svg) ![forks](https://img.shields.io/github/forks/Ethen1212/fastjson-CVE-2026-16723.svg)
 
 ## CVE-2026-16540
  The Simply Schedule Appointments WordPress plugin before 1.6.12.6 does not correctly restrict a bulk appointment operation to the requester's own records, allowing unauthenticated users to retrieve the personal data of all appointments across the site and, on premium editions, to permanently delete them.
