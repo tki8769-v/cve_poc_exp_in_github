@@ -6,10 +6,22 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-115560
+
+- [https://github.com/prnjlksingh/php-cve-2026-115560-demo](https://github.com/prnjlksingh/php-cve-2026-115560-demo) : ![starts](https://img.shields.io/github/stars/prnjlksingh/php-cve-2026-115560-demo.svg) ![forks](https://img.shields.io/github/forks/prnjlksingh/php-cve-2026-115560-demo.svg)
+
+- [https://github.com/sykeops/CVE-2026-115560](https://github.com/sykeops/CVE-2026-115560) : ![starts](https://img.shields.io/github/stars/sykeops/CVE-2026-115560.svg) ![forks](https://img.shields.io/github/forks/sykeops/CVE-2026-115560.svg)
+
+- [https://github.com/basesixtythree/B63-POC-CVE-2026-115560](https://github.com/basesixtythree/B63-POC-CVE-2026-115560) : ![starts](https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2026-115560.svg) ![forks](https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2026-115560.svg)
+
+- [https://github.com/slabbdev/php-cve-115560-kit](https://github.com/slabbdev/php-cve-115560-kit) : ![starts](https://img.shields.io/github/stars/slabbdev/php-cve-115560-kit.svg) ![forks](https://img.shields.io/github/forks/slabbdev/php-cve-115560-kit.svg)
+
 ## CVE-2026-114509
 > Laravel is a web application framework. Prior to 12.68.0 and 13.29.0, TokenGuard configured as a standard token-based API guard does not reject a crafted non-string credential. Under affected MySQL or MariaDB configurations, the authentication lookup can match an unintended existing user, allowing an unauthenticated attacker to bypass authentication and take over an account on routes protected by TokenGuard. This issue is fixed in versions 12.68.0 and 13.29.0.
 
 - [https://github.com/tajulasri/-CVE-2026-114509-POC](https://github.com/tajulasri/-CVE-2026-114509-POC) : ![starts](https://img.shields.io/github/stars/tajulasri/-CVE-2026-114509-POC.svg) ![forks](https://img.shields.io/github/forks/tajulasri/-CVE-2026-114509-POC.svg)
+
+- [https://github.com/hakaioffsec/CVE-2026-114509-PoC](https://github.com/hakaioffsec/CVE-2026-114509-PoC) : ![starts](https://img.shields.io/github/stars/hakaioffsec/CVE-2026-114509-PoC.svg) ![forks](https://img.shields.io/github/forks/hakaioffsec/CVE-2026-114509-PoC.svg)
 
 ## CVE-2026-114102
 > adm-zip before 0.6.1 contains a denial of service vulnerability that allows unauthenticated attackers to crash the Node.js process via a malformed ZIP file, because inflateAsync in methods/inflater.js lacks a zlib stream error listener. Attackers can supply a ZIP with corrupted DEFLATE data processed by readFileAsync, readAsTextAsync, extractAllToAsync, or getDataAsync, triggering an uncatchable exception that terminates all in-flight requests.
@@ -113,6 +125,12 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/Arkango/CVE-2026-111497](https://github.com/Arkango/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/Arkango/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/Arkango/CVE-2026-111497.svg)
 
+- [https://github.com/w116tjb/CVE-2026-111497_nodejs_hash_lookup](https://github.com/w116tjb/CVE-2026-111497_nodejs_hash_lookup) : ![starts](https://img.shields.io/github/stars/w116tjb/CVE-2026-111497_nodejs_hash_lookup.svg) ![forks](https://img.shields.io/github/forks/w116tjb/CVE-2026-111497_nodejs_hash_lookup.svg)
+
+- [https://github.com/AmanSin001/node-brotli-check](https://github.com/AmanSin001/node-brotli-check) : ![starts](https://img.shields.io/github/stars/AmanSin001/node-brotli-check.svg) ![forks](https://img.shields.io/github/forks/AmanSin001/node-brotli-check.svg)
+
+- [https://github.com/CompleteTech-LLC/node2shell-check](https://github.com/CompleteTech-LLC/node2shell-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/node2shell-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/node2shell-check.svg)
+
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
 
@@ -204,6 +222,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/bastet-ai/gitlab-firing-range](https://github.com/bastet-ai/gitlab-firing-range) : ![starts](https://img.shields.io/github/stars/bastet-ai/gitlab-firing-range.svg) ![forks](https://img.shields.io/github/forks/bastet-ai/gitlab-firing-range.svg)
 
 - [https://github.com/farimazhar/GitLab2Safe-Defensive-Checker](https://github.com/farimazhar/GitLab2Safe-Defensive-Checker) : ![starts](https://img.shields.io/github/stars/farimazhar/GitLab2Safe-Defensive-Checker.svg) ![forks](https://img.shields.io/github/forks/farimazhar/GitLab2Safe-Defensive-Checker.svg)
+
+- [https://github.com/lesterlam/onigmo-cve-2026-110264](https://github.com/lesterlam/onigmo-cve-2026-110264) : ![starts](https://img.shields.io/github/stars/lesterlam/onigmo-cve-2026-110264.svg) ![forks](https://img.shields.io/github/forks/lesterlam/onigmo-cve-2026-110264.svg)
 
 ## CVE-2026-110025
 > A flaw has been found in slackero phpwcms up to 1.9.49/1.12.3. This issue affects some unknown processing of the file include/inc_front/content/cnt23.article.inc.php of the component Extension Check. This manipulation of the argument POST_name causes unrestricted upload. The attack can be initiated remotely. Upgrading to version 1.9.50 and 1.12.4 is capable of addressing this issue. Patch name: 118c978430f5a9668b30535f6e592c7ae8df711f/f4c136b467565b2d16ebe2b8276b9a03547a9a69/8571cb47df8d66804d1e
@@ -342,6 +362,12 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/fellipgomes/br-php2shell](https://github.com/fellipgomes/br-php2shell) : ![starts](https://img.shields.io/github/stars/fellipgomes/br-php2shell.svg) ![forks](https://img.shields.io/github/forks/fellipgomes/br-php2shell.svg)
 
 - [https://github.com/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619](https://github.com/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/masquemos2-eng/php2shell-POC-CVE-2026-109618-CVE-2026-109619.svg)
+
+- [https://github.com/aarsaputra/php2shell](https://github.com/aarsaputra/php2shell) : ![starts](https://img.shields.io/github/stars/aarsaputra/php2shell.svg) ![forks](https://img.shields.io/github/forks/aarsaputra/php2shell.svg)
+
+- [https://github.com/php2-shell/php2shell-POC-CVE-2026-109618-CVE-2026-109619](https://github.com/php2-shell/php2shell-POC-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/php2-shell/php2shell-POC-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/php2-shell/php2shell-POC-CVE-2026-109618-CVE-2026-109619.svg)
+
+- [https://github.com/Ghost-Bx1/POC-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577](https://github.com/Ghost-Bx1/POC-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/POC-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/POC-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -830,6 +856,26 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/MomoRizza/php2shell](https://github.com/MomoRizza/php2shell) : ![starts](https://img.shields.io/github/stars/MomoRizza/php2shell.svg) ![forks](https://img.shields.io/github/forks/MomoRizza/php2shell.svg)
 
+- [https://github.com/php2-shell/php2shell-POC-CVE-2026-109618-CVE-2026-109619](https://github.com/php2-shell/php2shell-POC-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/php2-shell/php2shell-POC-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/php2-shell/php2shell-POC-CVE-2026-109618-CVE-2026-109619.svg)
+
+- [https://github.com/ChaskarVinit/cve-2026-109618-php-oom-simulation](https://github.com/ChaskarVinit/cve-2026-109618-php-oom-simulation) : ![starts](https://img.shields.io/github/stars/ChaskarVinit/cve-2026-109618-php-oom-simulation.svg) ![forks](https://img.shields.io/github/forks/ChaskarVinit/cve-2026-109618-php-oom-simulation.svg)
+
+- [https://github.com/Filipegabri/RodMapAuditoriaweb](https://github.com/Filipegabri/RodMapAuditoriaweb) : ![starts](https://img.shields.io/github/stars/Filipegabri/RodMapAuditoriaweb.svg) ![forks](https://img.shields.io/github/forks/Filipegabri/RodMapAuditoriaweb.svg)
+
+- [https://github.com/Ghost-Bx1/POC-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577](https://github.com/Ghost-Bx1/POC-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/POC-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/POC-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577.svg)
+
+- [https://github.com/Noshadi-sec/cve-2026-109618-109619-poc](https://github.com/Noshadi-sec/cve-2026-109618-109619-poc) : ![starts](https://img.shields.io/github/stars/Noshadi-sec/cve-2026-109618-109619-poc.svg) ![forks](https://img.shields.io/github/forks/Noshadi-sec/cve-2026-109618-109619-poc.svg)
+
+- [https://github.com/TonyTrapper/PHP2SHELL-CVE-2026-109618](https://github.com/TonyTrapper/PHP2SHELL-CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/TonyTrapper/PHP2SHELL-CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/TonyTrapper/PHP2SHELL-CVE-2026-109618.svg)
+
+- [https://github.com/aiuser888-bot/php-7.3.33-cve-2026-109618-109619](https://github.com/aiuser888-bot/php-7.3.33-cve-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/aiuser888-bot/php-7.3.33-cve-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/aiuser888-bot/php-7.3.33-cve-2026-109618-109619.svg)
+
+- [https://github.com/amier-ge/php2shell](https://github.com/amier-ge/php2shell) : ![starts](https://img.shields.io/github/stars/amier-ge/php2shell.svg) ![forks](https://img.shields.io/github/forks/amier-ge/php2shell.svg)
+
+- [https://github.com/devborlot/php2shell-fix](https://github.com/devborlot/php2shell-fix) : ![starts](https://img.shields.io/github/stars/devborlot/php2shell-fix.svg) ![forks](https://img.shields.io/github/forks/devborlot/php2shell-fix.svg)
+
+- [https://github.com/pruthvi0820-cell/phpguard](https://github.com/pruthvi0820-cell/phpguard) : ![starts](https://img.shields.io/github/stars/pruthvi0820-cell/phpguard.svg) ![forks](https://img.shields.io/github/forks/pruthvi0820-cell/phpguard.svg)
+
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
@@ -992,6 +1038,8 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 - [https://github.com/0xBlackash/CVE-2026-106173](https://github.com/0xBlackash/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-106173.svg)
 
 - [https://github.com/tc4dy/CVE-2026-106173-PoC-Exploit](https://github.com/tc4dy/CVE-2026-106173-PoC-Exploit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-106173-PoC-Exploit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-106173-PoC-Exploit.svg)
+
+- [https://github.com/MRdark-ops/rce-FortiSIEM](https://github.com/MRdark-ops/rce-FortiSIEM) : ![starts](https://img.shields.io/github/stars/MRdark-ops/rce-FortiSIEM.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/rce-FortiSIEM.svg)
 
 ## CVE-2026-105950
 > A security vulnerability has been detected in getformwork formwork up to 2.3.12. Impacted is the function DomSanitizer::sanitizeNodeAttribute of the file formwork/src/Sanitizer/DomSanitizer.php of the component URI Sanitizer. Such manipulation of the argument formaction leads to cross site scripting. The attack may be launched remotely. Upgrading to version 2.3.13 is recommended to address this issue. The name of the patch is 729701e59c5886685c5a1d477bdc3035e41f18b1. Upgrading the affected compo
@@ -1821,6 +1869,8 @@ This vulnerability can lead to the exposu
 
 - [https://github.com/pauleprichna/cybersecurity](https://github.com/pauleprichna/cybersecurity) : ![starts](https://img.shields.io/github/stars/pauleprichna/cybersecurity.svg) ![forks](https://img.shields.io/github/forks/pauleprichna/cybersecurity.svg)
 
+- [https://github.com/AmanSin001/next-security-check](https://github.com/AmanSin001/next-security-check) : ![starts](https://img.shields.io/github/stars/AmanSin001/next-security-check.svg) ![forks](https://img.shields.io/github/forks/AmanSin001/next-security-check.svg)
+
 ## CVE-2026-96878
 > Improper neutralization of input during web page generation (&#x27;cross-site scripting&#x27;) vulnerability in Mediawiki - Cargo extension allows Reflected XSS.
 
@@ -2251,6 +2301,8 @@ The specific flaw exists within the parsing of mDNS resource records. The issue 
 
 - [https://github.com/hubly12/javafix](https://github.com/hubly12/javafix) : ![starts](https://img.shields.io/github/stars/hubly12/javafix.svg) ![forks](https://img.shields.io/github/forks/hubly12/javafix.svg)
 
+- [https://github.com/FahrihFatahilah/CVE-2026-91403-eMudhra-Java-Scanner](https://github.com/FahrihFatahilah/CVE-2026-91403-eMudhra-Java-Scanner) : ![starts](https://img.shields.io/github/stars/FahrihFatahilah/CVE-2026-91403-eMudhra-Java-Scanner.svg) ![forks](https://img.shields.io/github/forks/FahrihFatahilah/CVE-2026-91403-eMudhra-Java-Scanner.svg)
+
 ## CVE-2026-91159
 > Discourse is an open-source discussion platform. Prior to 2026.9.0, 2026.8.1, 2026.7.3, and 2026.1.9, oEmbed processing treated an entire attacker-controlled HTML fragment as trusted when the fragment contained an iframe whose source matched the configured allowlist. A user with posting permission who controlled a public webpage and its oEmbed response could combine an allowlisted iframe with unrelated sibling HTML or CSS, causing stored visual overlays or other styled content to appear in post 
 
@@ -2518,6 +2570,8 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 
 - [https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772](https://github.com/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772) : ![starts](https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772.svg) ![forks](https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Citrix-Netscaler-CVE-2026-88772.svg)
 
+- [https://github.com/CompleteTech-LLC/netscaler-cve-2026-88772-check](https://github.com/CompleteTech-LLC/netscaler-cve-2026-88772-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/netscaler-cve-2026-88772-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/netscaler-cve-2026-88772-check.svg)
+
 ## CVE-2026-88771
 > Improper input validation vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.
 
@@ -2536,6 +2590,8 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 - [https://github.com/LETHAL-FORENSICS/Get-NetScalerTimeline](https://github.com/LETHAL-FORENSICS/Get-NetScalerTimeline) : ![starts](https://img.shields.io/github/stars/LETHAL-FORENSICS/Get-NetScalerTimeline.svg) ![forks](https://img.shields.io/github/forks/LETHAL-FORENSICS/Get-NetScalerTimeline.svg)
 
 - [https://github.com/watchtowrlabs/citrix-netscaler-cve-2026-88771-iocs](https://github.com/watchtowrlabs/citrix-netscaler-cve-2026-88771-iocs) : ![starts](https://img.shields.io/github/stars/watchtowrlabs/citrix-netscaler-cve-2026-88771-iocs.svg) ![forks](https://img.shields.io/github/forks/watchtowrlabs/citrix-netscaler-cve-2026-88771-iocs.svg)
+
+- [https://github.com/CompleteTech-LLC/netscaler-cve-2026-88771-check](https://github.com/CompleteTech-LLC/netscaler-cve-2026-88771-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/netscaler-cve-2026-88771-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/netscaler-cve-2026-88771-check.svg)
 
 ## CVE-2026-88008
 
@@ -4035,6 +4091,8 @@ This vulnerability is due to improper handling of URI encoding in an HTTP reques
 
 - [https://github.com/pastelghost3/cve-2026-76504-nuclei](https://github.com/pastelghost3/cve-2026-76504-nuclei) : ![starts](https://img.shields.io/github/stars/pastelghost3/cve-2026-76504-nuclei.svg) ![forks](https://img.shields.io/github/forks/pastelghost3/cve-2026-76504-nuclei.svg)
 
+- [https://github.com/maxprog-svg/CVE-2026-76504-Cisco](https://github.com/maxprog-svg/CVE-2026-76504-Cisco) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-76504-Cisco.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-76504-Cisco.svg)
+
 ## CVE-2026-76461
  A vulnerability in the email parsing of Cisco AsyncOS Software for Cisco Secure Email Gateway could allow an unauthenticated, remote attacker to execute arbitrary commands with root privileges on the underlying operating system.
 
@@ -4061,6 +4119,25 @@ This vulnerability is due to insufficient authentication control on an API endpo
 - [https://github.com/murrez/CVE-2026-76268](https://github.com/murrez/CVE-2026-76268) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-76268.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-76268.svg)
 
 - [https://github.com/Zombie-Kaiser/CVE-2026-76268](https://github.com/Zombie-Kaiser/CVE-2026-76268) : ![starts](https://img.shields.io/github/stars/Zombie-Kaiser/CVE-2026-76268.svg) ![forks](https://img.shields.io/github/forks/Zombie-Kaiser/CVE-2026-76268.svg)
+
+## CVE-2026-76183
+> Authentication Bypass by Alternate Name vulnerability in Apache Tomcat allowed the security constraints for any WebSocket endpoint to be bypassed.
+
+
+
+This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.25, from 10.1.0-M1 through 10.1.59, from 9.0.0.M1 through 9.0.121.
+
+
+
+The following versions were EOS at the time the CVE was created but are 
+known to be affected: from 8.5.0 through 8.5.100, from 7.0.43 through 7.0.109. Other unsupported versions may also be affected.
+
+
+
+
+Users are rec
+
+- [https://github.com/Ethen1212/tomcat-CVE-2026-76183](https://github.com/Ethen1212/tomcat-CVE-2026-76183) : ![starts](https://img.shields.io/github/stars/Ethen1212/tomcat-CVE-2026-76183.svg) ![forks](https://img.shields.io/github/forks/Ethen1212/tomcat-CVE-2026-76183.svg)
 
 ## CVE-2026-76071
  Netis NC63 firmware through V3.0.0.3327 contains a stack-based buffer overflow vulnerability that allows unauthenticated remote attackers to overwrite saved stack state by supplying an oversized destHost parameter to the ipFilterList=mod action in netis.cgi. Attackers can exploit widthless sscanf conversions that copy user-supplied input into fixed-size stack buffers before authentication is verified, achieving remote code execution as root due to the Boa web server executing the CGI environment with root privileges.
@@ -11261,6 +11338,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/wazzuj99-svg/Root-My-Galaxy](https://github.com/wazzuj99-svg/Root-My-Galaxy) : ![starts](https://img.shields.io/github/stars/wazzuj99-svg/Root-My-Galaxy.svg) ![forks](https://img.shields.io/github/forks/wazzuj99-svg/Root-My-Galaxy.svg)
 
 - [https://github.com/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30](https://github.com/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30) : ![starts](https://img.shields.io/github/stars/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30.svg) ![forks](https://img.shields.io/github/forks/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30.svg)
+
+- [https://github.com/k-o-n-t-o-r/ghostlock-sm-g990b](https://github.com/k-o-n-t-o-r/ghostlock-sm-g990b) : ![starts](https://img.shields.io/github/stars/k-o-n-t-o-r/ghostlock-sm-g990b.svg) ![forks](https://img.shields.io/github/forks/k-o-n-t-o-r/ghostlock-sm-g990b.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:

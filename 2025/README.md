@@ -7751,6 +7751,8 @@ be in the smb2_sess_setup function which makes use of sess-user.
 
 - [https://github.com/ap425q/whisper-pair](https://github.com/ap425q/whisper-pair) : ![starts](https://img.shields.io/github/stars/ap425q/whisper-pair.svg) ![forks](https://img.shields.io/github/forks/ap425q/whisper-pair.svg)
 
+- [https://github.com/markmysler/wpair-cli](https://github.com/markmysler/wpair-cli) : ![starts](https://img.shields.io/github/stars/markmysler/wpair-cli.svg) ![forks](https://img.shields.io/github/forks/markmysler/wpair-cli.svg)
+
 ## CVE-2025-36604
  Dell Unity, version(s) 5.5 and prior, contain(s) an Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') vulnerability. An unauthenticated attacker with remote access could potentially exploit this vulnerability, leading to arbitrary command execution.
 
