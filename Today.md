@@ -24,6 +24,10 @@
 
 - [https://github.com/mikedejesushuembesrodriguez-max/erratumcheck](https://github.com/mikedejesushuembesrodriguez-max/erratumcheck) : ![starts](https://img.shields.io/github/stars/mikedejesushuembesrodriguez-max/erratumcheck.svg) ![forks](https://img.shields.io/github/forks/mikedejesushuembesrodriguez-max/erratumcheck.svg)
 
+## CVE-2025-14847
+
+- [https://github.com/SAIM28826/TEST](https://github.com/SAIM28826/TEST) : ![starts](https://img.shields.io/github/stars/SAIM28826/TEST.svg) ![forks](https://img.shields.io/github/forks/SAIM28826/TEST.svg)
+
 ## CVE-2025-36911
 
 - [https://github.com/markmysler/wpair-cli](https://github.com/markmysler/wpair-cli) : ![starts](https://img.shields.io/github/stars/markmysler/wpair-cli.svg) ![forks](https://img.shields.io/github/forks/markmysler/wpair-cli.svg)

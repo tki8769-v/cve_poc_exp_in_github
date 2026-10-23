@@ -4452,3 +4452,11 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-23T20:35:11Z", "type": "new_poc", "url": "https://github.com/pruthvi0820-cell/phpguard"}
 {"cve_id": "CVE-2026-114509", "ts": "2026-10-23T20:35:21Z", "type": "new_poc", "url": "https://github.com/hakaioffsec/CVE-2026-114509-PoC"}
 {"cve_id": "CVE-2025-36911", "ts": "2026-10-23T20:35:58Z", "type": "new_poc", "url": "https://github.com/markmysler/wpair-cli"}
+{"cve_id": "CVE-2026-115516", "ts": "2026-10-23T20:47:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-115516", "ts": "2026-10-23T20:47:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-115516", "ts": "2026-10-23T20:48:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-115516", "ts": "2026-10-23T20:48:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-115516", "ts": "2026-10-23T20:49:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-115516", "ts": "2026-10-23T20:50:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-115516", "ts": "2026-10-23T20:51:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-14847", "ts": "2026-10-23T20:54:10Z", "type": "new_poc", "url": "https://github.com/SAIM28826/TEST"}

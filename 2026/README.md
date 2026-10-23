@@ -7633,6 +7633,7 @@ Users are recommended to upgrade to version 11.0.23, 10.1.56 or 9.0.119 which fi
 - [https://github.com/anirbala98/CVE-2026-53959](https://github.com/anirbala98/CVE-2026-53959) : ![starts](https://img.shields.io/github/stars/anirbala98/CVE-2026-53959.svg) ![forks](https://img.shields.io/github/forks/anirbala98/CVE-2026-53959.svg)
 
 ## CVE-2026-53921
+> odhcpd is the DHCPv6, DHCPv4, and router-advertisement server used by OpenWrt. Prior to version 25.12, odhcpd&#x27;s DHCPv6 IA response handler writes past the end of a fixed 512-byte stack buffer (pdbuf) when a single DHCPv6 REQUEST carries enough IA options to nearly exhaust the reply space. Two independent overflow sites exist in the same call chain, both reachable from the network via a single unauthenticated UDP packet. odhcpd runs as root on OpenWrt; embedded targets often lack stack canaries a
 
 - [https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit](https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-53921-PoC-Exploit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-53921-PoC-Exploit.svg)
 
