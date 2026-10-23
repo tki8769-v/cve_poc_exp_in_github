@@ -4314,3 +4314,12 @@
 {"cve_id": "CVE-2026-110927", "ts": "2026-10-22T21:04:09Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-113670", "ts": "2026-10-22T21:05:18Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-16487", "ts": "2026-10-22T21:06:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T00:06:57Z", "type": "new_poc", "url": "https://github.com/JoasASantos/php2shell-exploit"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T00:07:04Z", "type": "new_poc", "url": "https://github.com/memuratozturk/php2shell-poc"}
+{"cve_id": "CVE-2026-109255", "ts": "2026-10-23T00:07:09Z", "type": "new_poc", "url": "https://github.com/D7EAD/CVE-2026-109255"}
+{"cve_id": "CVE-2026-110264", "ts": "2026-10-23T00:07:16Z", "type": "new_poc", "url": "https://github.com/xaviware/go-gitlab-cve-2026-110264-scanner"}
+{"cve_id": "CVE-2026-114101", "ts": "2026-10-23T00:07:19Z", "type": "new_poc", "url": "https://github.com/cafaye/nilepatch-coraza-bypass"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T00:07:21Z", "type": "new_poc", "url": "https://github.com/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619"}
+{"cve_id": "CVE-2026-114102", "ts": "2026-10-23T00:07:21Z", "type": "new_poc", "url": "https://github.com/cafaye/nilepatch-admzip-dos"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-23T00:07:22Z", "type": "new_poc", "url": "https://github.com/wazzuj99-svg/Root-My-Galaxy"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T00:07:25Z", "type": "new_poc", "url": "https://github.com/JoasASantos/php2shell-lab"}
