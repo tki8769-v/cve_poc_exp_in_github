@@ -1,4 +1,12 @@
 # Update 2026-10-23
+## CVE-2025-54309
+
+- [https://github.com/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309](https://github.com/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309) : ![starts](https://img.shields.io/github/stars/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309.svg) ![forks](https://img.shields.io/github/forks/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309.svg)
+
+## CVE-2026-106991
+
+- [https://github.com/MX-Qulin/CVE-2026-106991](https://github.com/MX-Qulin/CVE-2026-106991) : ![starts](https://img.shields.io/github/stars/MX-Qulin/CVE-2026-106991.svg) ![forks](https://img.shields.io/github/forks/MX-Qulin/CVE-2026-106991.svg)
+
 ## CVE-2026-109255
 > FreeRDP 3.0.0 before 3.32.0 contains an integer truncation vulnerability in license_check_stream_length that allows a malicious RDP server to trigger a heap buffer overflow on 32-bit clients. Attackers can send a crafted SERVER_LICENSE_REQUEST with a large scopeCount that bypasses length checks, causing out-of-bounds writes leading to denial of service or remote code execution.
 
@@ -22,6 +30,7 @@
 - [https://github.com/cafaye/nilepatch-coraza-bypass](https://github.com/cafaye/nilepatch-coraza-bypass) : ![starts](https://img.shields.io/github/stars/cafaye/nilepatch-coraza-bypass.svg) ![forks](https://img.shields.io/github/forks/cafaye/nilepatch-coraza-bypass.svg)
 
 ## CVE-2026-114102
+> adm-zip before 0.6.1 contains a denial of service vulnerability that allows unauthenticated attackers to crash the Node.js process via a malformed ZIP file, because inflateAsync in methods/inflater.js lacks a zlib stream error listener. Attackers can supply a ZIP with corrupted DEFLATE data processed by readFileAsync, readAsTextAsync, extractAllToAsync, or getDataAsync, triggering an uncatchable exception that terminates all in-flight requests.
 
 - [https://github.com/cafaye/nilepatch-admzip-dos](https://github.com/cafaye/nilepatch-admzip-dos) : ![starts](https://img.shields.io/github/stars/cafaye/nilepatch-admzip-dos.svg) ![forks](https://img.shields.io/github/forks/cafaye/nilepatch-admzip-dos.svg)
 

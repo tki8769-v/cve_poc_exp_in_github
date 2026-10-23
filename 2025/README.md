@@ -4726,6 +4726,8 @@ Users are recommended to upgrade to version 3.2.2, which fixes this issue.
 
 - [https://github.com/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309](https://github.com/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309) : ![starts](https://img.shields.io/github/stars/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309.svg) ![forks](https://img.shields.io/github/forks/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309.svg)
 
+- [https://github.com/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309](https://github.com/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309) : ![starts](https://img.shields.io/github/stars/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309.svg) ![forks](https://img.shields.io/github/forks/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309.svg)
+
 ## CVE-2025-54254
  Adobe Experience Manager versions 6.5.23 and earlier are affected by an Improper Restriction of XML External Entity Reference ('XXE') vulnerability that could lead to arbitrary file system read. An attacker could exploit this vulnerability to access sensitive files on the local file system, scope is changed. Exploitation of this issue does not require user interaction.
 

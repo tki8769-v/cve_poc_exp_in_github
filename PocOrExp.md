@@ -13,6 +13,7 @@
 - [https://github.com/tajulasri/-CVE-2026-114509-POC](https://github.com/tajulasri/-CVE-2026-114509-POC) : ![starts](https://img.shields.io/github/stars/tajulasri/-CVE-2026-114509-POC.svg) ![forks](https://img.shields.io/github/forks/tajulasri/-CVE-2026-114509-POC.svg)
 
 ## CVE-2026-114102
+> adm-zip before 0.6.1 contains a denial of service vulnerability that allows unauthenticated attackers to crash the Node.js process via a malformed ZIP file, because inflateAsync in methods/inflater.js lacks a zlib stream error listener. Attackers can supply a ZIP with corrupted DEFLATE data processed by readFileAsync, readAsTextAsync, extractAllToAsync, or getDataAsync, triggering an uncatchable exception that terminates all in-flight requests.
 
 - [https://github.com/cafaye/nilepatch-admzip-dos](https://github.com/cafaye/nilepatch-admzip-dos) : ![starts](https://img.shields.io/github/stars/cafaye/nilepatch-admzip-dos.svg) ![forks](https://img.shields.io/github/forks/cafaye/nilepatch-admzip-dos.svg)
 
@@ -835,6 +836,10 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 > An issue in Systrome Validation &amp; Certification 1.0 allows an attacker to cause a denial of service via the t URL parameter in the qrcode_auth.html component
 
 - [https://github.com/Nishi-Mehta-18/CVE-2026-107079](https://github.com/Nishi-Mehta-18/CVE-2026-107079) : ![starts](https://img.shields.io/github/stars/Nishi-Mehta-18/CVE-2026-107079.svg) ![forks](https://img.shields.io/github/forks/Nishi-Mehta-18/CVE-2026-107079.svg)
+
+## CVE-2026-106991
+
+- [https://github.com/MX-Qulin/CVE-2026-106991](https://github.com/MX-Qulin/CVE-2026-106991) : ![starts](https://img.shields.io/github/stars/MX-Qulin/CVE-2026-106991.svg) ![forks](https://img.shields.io/github/forks/MX-Qulin/CVE-2026-106991.svg)
 
 ## CVE-2026-106610
 > Incorrect Privilege Assignment vulnerability in miniOrange miniorange otp verification miniorange-otp-verification allows Privilege Escalation.This issue affects miniorange otp verification: from n/a through 5.5.7.
@@ -8240,6 +8245,7 @@ Users are recommended to upgrade to version 1.12.0, which fixes the issue.
 - [https://github.com/HORKimhab/CVE-2026-51990](https://github.com/HORKimhab/CVE-2026-51990) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-51990.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-51990.svg)
 
 ## CVE-2026-51954
+> An issue in Webasyst Framework 4.0.3 and before allows a remote attacker to execute arbitrary code via a crafted OAuth authorization URL with an arbitrary redirect_uri.
 
 - [https://github.com/Envincion/CVE-2026-51954](https://github.com/Envincion/CVE-2026-51954) : ![starts](https://img.shields.io/github/stars/Envincion/CVE-2026-51954.svg) ![forks](https://img.shields.io/github/forks/Envincion/CVE-2026-51954.svg)
 
@@ -28969,6 +28975,8 @@ Users are recommended to upgrade to version 3.2.2, which fixes this issue.
 - [https://github.com/chin-tech/CrushFTP_CVE-2025-54309](https://github.com/chin-tech/CrushFTP_CVE-2025-54309) : ![starts](https://img.shields.io/github/stars/chin-tech/CrushFTP_CVE-2025-54309.svg) ![forks](https://img.shields.io/github/forks/chin-tech/CrushFTP_CVE-2025-54309.svg)
 
 - [https://github.com/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309](https://github.com/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309) : ![starts](https://img.shields.io/github/stars/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309.svg) ![forks](https://img.shields.io/github/forks/Smileyface101/CrushFTP-AS2-Bypass-Research-CVE-2025-54309.svg)
+
+- [https://github.com/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309](https://github.com/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309) : ![starts](https://img.shields.io/github/stars/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309.svg) ![forks](https://img.shields.io/github/forks/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309.svg)
 
 ## CVE-2025-54254
  Adobe Experience Manager versions 6.5.23 and earlier are affected by an Improper Restriction of XML External Entity Reference ('XXE') vulnerability that could lead to arbitrary file system read. An attacker could exploit this vulnerability to access sensitive files on the local file system, scope is changed. Exploitation of this issue does not require user interaction.
