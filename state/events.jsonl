@@ -4325,3 +4325,5 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-23T00:07:25Z", "type": "new_poc", "url": "https://github.com/JoasASantos/php2shell-lab"}
 {"cve_id": "CVE-2026-106991", "ts": "2026-10-23T00:25:48Z", "type": "new_poc", "url": "https://github.com/MX-Qulin/CVE-2026-106991"}
 {"cve_id": "CVE-2025-54309", "ts": "2026-10-23T00:26:37Z", "type": "new_poc", "url": "https://github.com/Goodworkid0/CrushFTP-AS2-Bypass-Research-CVE-2025-54309"}
+{"cve_id": "CVE-2026-67597", "ts": "2026-10-23T00:38:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-10-23T00:43:48Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-evidence"}
