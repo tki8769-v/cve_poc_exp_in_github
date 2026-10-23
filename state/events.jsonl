@@ -4404,3 +4404,12 @@
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-23T14:24:51Z", "type": "new_poc", "url": "https://github.com/TahuCryptsi/brotli-distro-check"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-23T14:24:52Z", "type": "new_poc", "url": "https://github.com/ZeroHunt-org/self-check"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-23T14:25:02Z", "type": "new_poc", "url": "https://github.com/murrez/php2shell"}
+{"cve_id": "CVE-2026-67597", "ts": "2026-10-23T14:38:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-23T14:46:40Z", "type": "new_poc", "url": "https://github.com/Arkango/CVE-2026-111497"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T14:46:47Z", "type": "new_poc", "url": "https://github.com/digital-heroes-hamburg/wp-php2shell-check"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T14:46:48Z", "type": "new_poc", "url": "https://github.com/leejongyoung/php2shell-kr"}
+{"cve_id": "CVE-2026-33017", "ts": "2026-10-23T14:47:27Z", "type": "new_poc", "url": "https://github.com/1337or420/CVE-2026-33017-Langflow-RCE"}
+{"cve_id": "CVE-2026-33017", "ts": "2026-10-23T14:47:27Z", "type": "new_poc", "url": "https://github.com/HackfutSecRoot/LangFlow-Rce"}
+{"cve_id": "CVE-2026-101160", "ts": "2026-10-23T14:51:43Z", "type": "new_poc", "url": "https://github.com/Hasyros/CVE-2026-101160-dos-wp-ultimate-review-rating"}
+{"cve_id": "CVE-2026-101161", "ts": "2026-10-23T14:51:44Z", "type": "new_poc", "url": "https://github.com/Hasyros/CVE-2026-101161-dos-wp-ultimate-review-shortcode"}
+{"cve_id": "CVE-2026-101162", "ts": "2026-10-23T14:51:49Z", "type": "new_poc", "url": "https://github.com/Hasyros/CVE-2026-101162-xss-wp-ultimate-review"}

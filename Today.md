@@ -27,6 +27,21 @@
 
 - [https://github.com/datcathuh/driver-mapper](https://github.com/datcathuh/driver-mapper) : ![starts](https://img.shields.io/github/stars/datcathuh/driver-mapper.svg) ![forks](https://img.shields.io/github/forks/datcathuh/driver-mapper.svg)
 
+## CVE-2026-101160
+> The WP Ultimate Review WordPress plugin before 2.4.4 does not validate that a submitted review rating is numeric before storing it and later using it in numeric operations when rendering reviews, allowing unauthenticated users to make the reviewed content fail with a fatal error for all visitors until the review is removed (a persistent denial of service), when user reviews are enabled.
+
+- [https://github.com/Hasyros/CVE-2026-101160-dos-wp-ultimate-review-rating](https://github.com/Hasyros/CVE-2026-101160-dos-wp-ultimate-review-rating) : ![starts](https://img.shields.io/github/stars/Hasyros/CVE-2026-101160-dos-wp-ultimate-review-rating.svg) ![forks](https://img.shields.io/github/forks/Hasyros/CVE-2026-101160-dos-wp-ultimate-review-rating.svg)
+
+## CVE-2026-101161
+> The WP Ultimate Review WordPress plugin before 2.4.4 does not prevent unauthenticated users from storing crafted review content that makes the reviewed page fail with a fatal error on every subsequent visit, resulting in a persistent denial of service when the WP Ultimate Review WordPress plugin before 2.4.4&#x27;s review display settings have never been saved.
+
+- [https://github.com/Hasyros/CVE-2026-101161-dos-wp-ultimate-review-shortcode](https://github.com/Hasyros/CVE-2026-101161-dos-wp-ultimate-review-shortcode) : ![starts](https://img.shields.io/github/stars/Hasyros/CVE-2026-101161-dos-wp-ultimate-review-shortcode.svg) ![forks](https://img.shields.io/github/forks/Hasyros/CVE-2026-101161-dos-wp-ultimate-review-shortcode.svg)
+
+## CVE-2026-101162
+> The WP Ultimate Review WordPress plugin before 2.4.4 does not escape some of its review overview settings before outputting them in posts, which could allow users with a role as low as author to perform Stored Cross-Site Scripting attacks, when author reviews are enabled.
+
+- [https://github.com/Hasyros/CVE-2026-101162-xss-wp-ultimate-review](https://github.com/Hasyros/CVE-2026-101162-xss-wp-ultimate-review) : ![starts](https://img.shields.io/github/stars/Hasyros/CVE-2026-101162-xss-wp-ultimate-review.svg) ![forks](https://img.shields.io/github/forks/Hasyros/CVE-2026-101162-xss-wp-ultimate-review.svg)
+
 ## CVE-2026-106991
 
 - [https://github.com/MX-Qulin/CVE-2026-106991](https://github.com/MX-Qulin/CVE-2026-106991) : ![starts](https://img.shields.io/github/stars/MX-Qulin/CVE-2026-106991.svg) ![forks](https://img.shields.io/github/forks/MX-Qulin/CVE-2026-106991.svg)
@@ -65,9 +80,11 @@
 - [https://github.com/alefkaue/php2shell-security-assessor](https://github.com/alefkaue/php2shell-security-assessor) : ![starts](https://img.shields.io/github/stars/alefkaue/php2shell-security-assessor.svg) ![forks](https://img.shields.io/github/forks/alefkaue/php2shell-security-assessor.svg)
 - [https://github.com/axon003/php-legacy-cve-2026-109618](https://github.com/axon003/php-legacy-cve-2026-109618) : ![starts](https://img.shields.io/github/stars/axon003/php-legacy-cve-2026-109618.svg) ![forks](https://img.shields.io/github/forks/axon003/php-legacy-cve-2026-109618.svg)
 - [https://github.com/debjit604/PHP2Shell-CVE-2026-109618-CVE-2026-109619](https://github.com/debjit604/PHP2Shell-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/debjit604/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/debjit604/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg)
+- [https://github.com/digital-heroes-hamburg/wp-php2shell-check](https://github.com/digital-heroes-hamburg/wp-php2shell-check) : ![starts](https://img.shields.io/github/stars/digital-heroes-hamburg/wp-php2shell-check.svg) ![forks](https://img.shields.io/github/forks/digital-heroes-hamburg/wp-php2shell-check.svg)
 - [https://github.com/fschell/tools](https://github.com/fschell/tools) : ![starts](https://img.shields.io/github/stars/fschell/tools.svg) ![forks](https://img.shields.io/github/forks/fschell/tools.svg)
 - [https://github.com/gukHyeonGeum/cve-2026-109618-109619-el7](https://github.com/gukHyeonGeum/cve-2026-109618-109619-el7) : ![starts](https://img.shields.io/github/stars/gukHyeonGeum/cve-2026-109618-109619-el7.svg) ![forks](https://img.shields.io/github/forks/gukHyeonGeum/cve-2026-109618-109619-el7.svg)
 - [https://github.com/joec4i/docker-library-php](https://github.com/joec4i/docker-library-php) : ![starts](https://img.shields.io/github/stars/joec4i/docker-library-php.svg) ![forks](https://img.shields.io/github/forks/joec4i/docker-library-php.svg)
+- [https://github.com/leejongyoung/php2shell-kr](https://github.com/leejongyoung/php2shell-kr) : ![starts](https://img.shields.io/github/stars/leejongyoung/php2shell-kr.svg) ![forks](https://img.shields.io/github/forks/leejongyoung/php2shell-kr.svg)
 - [https://github.com/leejongyoung/php2shell-triage](https://github.com/leejongyoung/php2shell-triage) : ![starts](https://img.shields.io/github/stars/leejongyoung/php2shell-triage.svg) ![forks](https://img.shields.io/github/forks/leejongyoung/php2shell-triage.svg)
 - [https://github.com/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619](https://github.com/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619.svg)
 - [https://github.com/memuratozturk/php2shell-poc](https://github.com/memuratozturk/php2shell-poc) : ![starts](https://img.shields.io/github/stars/memuratozturk/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/memuratozturk/php2shell-poc.svg)
@@ -116,6 +133,7 @@
 
 Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1
 
+- [https://github.com/Arkango/CVE-2026-111497](https://github.com/Arkango/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/Arkango/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/Arkango/CVE-2026-111497.svg)
 - [https://github.com/Charlie-Netdevops/node-hostcheck](https://github.com/Charlie-Netdevops/node-hostcheck) : ![starts](https://img.shields.io/github/stars/Charlie-Netdevops/node-hostcheck.svg) ![forks](https://img.shields.io/github/forks/Charlie-Netdevops/node-hostcheck.svg)
 - [https://github.com/Saturate/CVE-2026-111497](https://github.com/Saturate/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/Saturate/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/Saturate/CVE-2026-111497.svg)
 - [https://github.com/TahuCryptsi/brotli-distro-check](https://github.com/TahuCryptsi/brotli-distro-check) : ![starts](https://img.shields.io/github/stars/TahuCryptsi/brotli-distro-check.svg) ![forks](https://img.shields.io/github/forks/TahuCryptsi/brotli-distro-check.svg)
@@ -170,6 +188,11 @@ all the complexity added for in-place operation and just copy the
 AD directly.
 
 - [https://github.com/StackOverflowExcept1on/CVE-2026-31431](https://github.com/StackOverflowExcept1on/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/StackOverflowExcept1on/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/StackOverflowExcept1on/CVE-2026-31431.svg)
+
+## CVE-2026-33017
+
+- [https://github.com/1337or420/CVE-2026-33017-Langflow-RCE](https://github.com/1337or420/CVE-2026-33017-Langflow-RCE) : ![starts](https://img.shields.io/github/stars/1337or420/CVE-2026-33017-Langflow-RCE.svg) ![forks](https://img.shields.io/github/forks/1337or420/CVE-2026-33017-Langflow-RCE.svg)
+- [https://github.com/HackfutSecRoot/LangFlow-Rce](https://github.com/HackfutSecRoot/LangFlow-Rce) : ![starts](https://img.shields.io/github/stars/HackfutSecRoot/LangFlow-Rce.svg) ![forks](https://img.shields.io/github/forks/HackfutSecRoot/LangFlow-Rce.svg)
 
 ## CVE-2026-34717
 

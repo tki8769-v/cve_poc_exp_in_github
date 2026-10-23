@@ -1928,3 +1928,6 @@
 {"cve_id": "CVE-2025-2559", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T14:28:39Z", "url": "https://github.com/Certitude-Consulting/CVE-2025-25599", "url_ids": ["CVE-2025-25599"]}
 {"cve_id": "CVE-2026-1647", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T14:29:53Z", "url": "https://github.com/afertar/CVE-2026-16475-PoC", "url_ids": ["CVE-2026-16475"]}
 {"cve_id": "CVE-2018-1071", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T14:30:41Z", "url": "https://github.com/alt3kx/CVE-2018-10715", "url_ids": ["CVE-2018-10715"]}
+{"cve_id": "CVE-2026-3303", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T14:56:44Z", "url": "https://github.com/Twinson333/cve-2026-33032-scanner", "url_ids": ["CVE-2026-33032"]}
+{"cve_id": "CVE-2026-3303", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T14:56:44Z", "url": "https://github.com/ch4n3-yoon/CVE-2026-33033-PoC", "url_ids": ["CVE-2026-33033"]}
+{"cve_id": "CVE-2026-3494", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T14:56:46Z", "url": "https://github.com/romain-deperne/CVE-2026-34940", "url_ids": ["CVE-2026-34940"]}

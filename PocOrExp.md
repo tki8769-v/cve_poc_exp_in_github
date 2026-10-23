@@ -112,6 +112,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/TahuCryptsi/brotli-distro-check](https://github.com/TahuCryptsi/brotli-distro-check) : ![starts](https://img.shields.io/github/stars/TahuCryptsi/brotli-distro-check.svg) ![forks](https://img.shields.io/github/forks/TahuCryptsi/brotli-distro-check.svg)
 
+- [https://github.com/Arkango/CVE-2026-111497](https://github.com/Arkango/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/Arkango/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/Arkango/CVE-2026-111497.svg)
+
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
 
@@ -819,6 +821,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/wunamesst/php-cve-2026-109618-109619-patch](https://github.com/wunamesst/php-cve-2026-109618-109619-patch) : ![starts](https://img.shields.io/github/stars/wunamesst/php-cve-2026-109618-109619-patch.svg) ![forks](https://img.shields.io/github/forks/wunamesst/php-cve-2026-109618-109619-patch.svg)
 
+- [https://github.com/digital-heroes-hamburg/wp-php2shell-check](https://github.com/digital-heroes-hamburg/wp-php2shell-check) : ![starts](https://img.shields.io/github/stars/digital-heroes-hamburg/wp-php2shell-check.svg) ![forks](https://img.shields.io/github/forks/digital-heroes-hamburg/wp-php2shell-check.svg)
+
+- [https://github.com/leejongyoung/php2shell-kr](https://github.com/leejongyoung/php2shell-kr) : ![starts](https://img.shields.io/github/stars/leejongyoung/php2shell-kr.svg) ![forks](https://img.shields.io/github/forks/leejongyoung/php2shell-kr.svg)
+
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
@@ -1481,6 +1487,21 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 > The decompress package for Node.js extracts archives. Prior to 10.2.2 and 11.1.4, the default decompress(input, output) API relies on lexical containment checks that do not account for the kernel following a planted symlink chain. An attacker can supply a crafted archive containing chained symlink entries so that a later entry resolves outside the output directory. This allows files outside output to be read or written, and overwriting startup scripts or configuration can lead to remote code exe
 
 - [https://github.com/murrez/CVE-2026-101894](https://github.com/murrez/CVE-2026-101894) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-101894.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-101894.svg)
+
+## CVE-2026-101162
+> The WP Ultimate Review WordPress plugin before 2.4.4 does not escape some of its review overview settings before outputting them in posts, which could allow users with a role as low as author to perform Stored Cross-Site Scripting attacks, when author reviews are enabled.
+
+- [https://github.com/Hasyros/CVE-2026-101162-xss-wp-ultimate-review](https://github.com/Hasyros/CVE-2026-101162-xss-wp-ultimate-review) : ![starts](https://img.shields.io/github/stars/Hasyros/CVE-2026-101162-xss-wp-ultimate-review.svg) ![forks](https://img.shields.io/github/forks/Hasyros/CVE-2026-101162-xss-wp-ultimate-review.svg)
+
+## CVE-2026-101161
+> The WP Ultimate Review WordPress plugin before 2.4.4 does not prevent unauthenticated users from storing crafted review content that makes the reviewed page fail with a fatal error on every subsequent visit, resulting in a persistent denial of service when the WP Ultimate Review WordPress plugin before 2.4.4&#x27;s review display settings have never been saved.
+
+- [https://github.com/Hasyros/CVE-2026-101161-dos-wp-ultimate-review-shortcode](https://github.com/Hasyros/CVE-2026-101161-dos-wp-ultimate-review-shortcode) : ![starts](https://img.shields.io/github/stars/Hasyros/CVE-2026-101161-dos-wp-ultimate-review-shortcode.svg) ![forks](https://img.shields.io/github/forks/Hasyros/CVE-2026-101161-dos-wp-ultimate-review-shortcode.svg)
+
+## CVE-2026-101160
+> The WP Ultimate Review WordPress plugin before 2.4.4 does not validate that a submitted review rating is numeric before storing it and later using it in numeric operations when rendering reviews, allowing unauthenticated users to make the reviewed content fail with a fatal error for all visitors until the review is removed (a persistent denial of service), when user reviews are enabled.
+
+- [https://github.com/Hasyros/CVE-2026-101160-dos-wp-ultimate-review-rating](https://github.com/Hasyros/CVE-2026-101160-dos-wp-ultimate-review-rating) : ![starts](https://img.shields.io/github/stars/Hasyros/CVE-2026-101160-dos-wp-ultimate-review-rating.svg) ![forks](https://img.shields.io/github/forks/Hasyros/CVE-2026-101160-dos-wp-ultimate-review-rating.svg)
 
 ## CVE-2026-101110
 > Joomla Extension - ordasoft.com - Unauthenticated SQL Injection in Book Library (Free) &lt; 6.4.6 - site/booklibrary.php’s books() function reads the field and direction request parameters and passes each through a function called protectInjectionWithoutQuote(), whose only real protection is a keyword blacklist that, on detecting the literal substring select, wraps the value in $db-&gt;quote() instead of rejecting it. The value is then concatenated directly into an unquoted ORDER BY clause, a position
@@ -14413,6 +14434,10 @@ Django would like to thank Seokchan Yoon for reporting this issue.
 
 - [https://github.com/yym8538/CVE-2026-33017](https://github.com/yym8538/CVE-2026-33017) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-33017.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-33017.svg)
 
+- [https://github.com/1337or420/CVE-2026-33017-Langflow-RCE](https://github.com/1337or420/CVE-2026-33017-Langflow-RCE) : ![starts](https://img.shields.io/github/stars/1337or420/CVE-2026-33017-Langflow-RCE.svg) ![forks](https://img.shields.io/github/forks/1337or420/CVE-2026-33017-Langflow-RCE.svg)
+
+- [https://github.com/HackfutSecRoot/LangFlow-Rce](https://github.com/HackfutSecRoot/LangFlow-Rce) : ![starts](https://img.shields.io/github/stars/HackfutSecRoot/LangFlow-Rce.svg) ![forks](https://img.shields.io/github/forks/HackfutSecRoot/LangFlow-Rce.svg)
+
 ## CVE-2026-33006
  A timing attack against mod_auth_digest in Apache HTTP Server 2.4.66 allows a bypass of Digest authentication by a remote attacker.
 
@@ -20874,6 +20899,7 @@ Calling pack_ip_mreq_source() with a source value shorter than 4 bytes copies ad
 - [https://github.com/gduma-phData/patch-CVE-2026-12087](https://github.com/gduma-phData/patch-CVE-2026-12087) : ![starts](https://img.shields.io/github/stars/gduma-phData/patch-CVE-2026-12087.svg) ![forks](https://img.shields.io/github/forks/gduma-phData/patch-CVE-2026-12087.svg)
 
 ## CVE-2026-12080
+> A flaw was found in the QEMU Guest Agent (qga). A local unprivileged user can exploit a vulnerability in the guest-ssh-add-authorized-keys command handler by manipulating symbolic links. This can occur either through a deterministic directory-symlink bypass or a Time-of-Check to Time-of-Use (TOCTOU) file-symlink race. Successful exploitation allows the attacker to gain ownership of arbitrary root-owned files or directories, leading to root access. This vulnerability requires an external manageme
 
 - [https://github.com/M8seven/cve-2026-12080-qemu-guest-agent-authorized-keys](https://github.com/M8seven/cve-2026-12080-qemu-guest-agent-authorized-keys) : ![starts](https://img.shields.io/github/stars/M8seven/cve-2026-12080-qemu-guest-agent-authorized-keys.svg) ![forks](https://img.shields.io/github/forks/M8seven/cve-2026-12080-qemu-guest-agent-authorized-keys.svg)
 
