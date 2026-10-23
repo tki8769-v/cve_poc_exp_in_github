@@ -1925,3 +1925,6 @@
 {"cve_id": "CVE-2023-3262", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:28:15Z", "url": "https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay", "url_ids": ["CVE-2023-32629"]}
 {"cve_id": "CVE-2023-3262", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:28:15Z", "url": "https://github.com/xS9NTX/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC", "url_ids": ["CVE-2023-2640", "CVE-2023-32629"]}
 {"cve_id": "CVE-2023-4278", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:48:17Z", "url": "https://github.com/jhonnybonny/CVE-2023-42789", "url_ids": ["CVE-2023-42789"]}
+{"cve_id": "CVE-2025-2559", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T14:28:39Z", "url": "https://github.com/Certitude-Consulting/CVE-2025-25599", "url_ids": ["CVE-2025-25599"]}
+{"cve_id": "CVE-2026-1647", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T14:29:53Z", "url": "https://github.com/afertar/CVE-2026-16475-PoC", "url_ids": ["CVE-2026-16475"]}
+{"cve_id": "CVE-2018-1071", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T14:30:41Z", "url": "https://github.com/alt3kx/CVE-2018-10715", "url_ids": ["CVE-2018-10715"]}

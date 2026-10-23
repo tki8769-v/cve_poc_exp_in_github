@@ -4581,6 +4581,8 @@ use after free.
 
 - [https://github.com/kilokite/old-phone-temp-root](https://github.com/kilokite/old-phone-temp-root) : ![starts](https://img.shields.io/github/stars/kilokite/old-phone-temp-root.svg) ![forks](https://img.shields.io/github/forks/kilokite/old-phone-temp-root.svg)
 
+- [https://github.com/xushihushuo-art/cve-2019-2215-skyworth](https://github.com/xushihushuo-art/cve-2019-2215-skyworth) : ![starts](https://img.shields.io/github/stars/xushihushuo-art/cve-2019-2215-skyworth.svg) ![forks](https://img.shields.io/github/forks/xushihushuo-art/cve-2019-2215-skyworth.svg)
+
 ## CVE-2019-2205
  In ProxyResolverV8::SetPacScript of proxy_resolver_v8.cc, there is a possible memory corruption due to a use after free. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-139806216
 

@@ -4930,6 +4930,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 
 - [https://github.com/thepiyushkumarshukla/CVE-2022-24707_AnukoTimeTracker_Version-1.20.0_POC](https://github.com/thepiyushkumarshukla/CVE-2022-24707_AnukoTimeTracker_Version-1.20.0_POC) : ![starts](https://img.shields.io/github/stars/thepiyushkumarshukla/CVE-2022-24707_AnukoTimeTracker_Version-1.20.0_POC.svg) ![forks](https://img.shields.io/github/forks/thepiyushkumarshukla/CVE-2022-24707_AnukoTimeTracker_Version-1.20.0_POC.svg)
 
+- [https://github.com/c0gnit00/CVE-2022-24707](https://github.com/c0gnit00/CVE-2022-24707) : ![starts](https://img.shields.io/github/stars/c0gnit00/CVE-2022-24707.svg) ![forks](https://img.shields.io/github/forks/c0gnit00/CVE-2022-24707.svg)
+
 ## CVE-2022-24706
  In Apache CouchDB prior to 3.2.2, an attacker can access an improperly secured default installation without authenticating and gain admin privileges. The CouchDB documentation has always made recommendations for properly securing an installation, including recommending using a firewall in front of all CouchDB installations.
 
