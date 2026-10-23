@@ -4361,3 +4361,6 @@
 {"cve_id": "CVE-2026-89026", "ts": "2026-10-23T06:15:39Z", "type": "new_poc", "url": "https://github.com/im-hanzou/CVE-2026-89026"}
 {"cve_id": "CVE-2026-67597", "ts": "2026-10-23T06:20:18Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-10-23T06:25:03Z", "type": "new_poc", "url": "https://github.com/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30"}
+{"cve_id": "CVE-2026-67597", "ts": "2026-10-23T06:37:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:42:07Z", "type": "new_poc", "url": "https://github.com/MorphingYU/CVE-2026-109618"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T06:42:09Z", "type": "new_poc", "url": "https://github.com/fschell/tools"}
