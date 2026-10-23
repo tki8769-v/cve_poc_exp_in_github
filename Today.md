@@ -109,6 +109,7 @@ problems:
 
   1) the rbtree dequeue happens without waiter::task::pi_l
 
+- [https://github.com/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30](https://github.com/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30) : ![starts](https://img.shields.io/github/stars/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30.svg) ![forks](https://img.shields.io/github/forks/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30.svg)
 - [https://github.com/wazzuj99-svg/Root-My-Galaxy](https://github.com/wazzuj99-svg/Root-My-Galaxy) : ![starts](https://img.shields.io/github/stars/wazzuj99-svg/Root-My-Galaxy.svg) ![forks](https://img.shields.io/github/forks/wazzuj99-svg/Root-My-Galaxy.svg)
 
 ## CVE-2026-57845

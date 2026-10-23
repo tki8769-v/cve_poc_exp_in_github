@@ -4359,3 +4359,5 @@
 {"cve_id": "CVE-2026-110264", "ts": "2026-10-23T06:08:26Z", "type": "new_poc", "url": "https://github.com/TheGlitchFixer/gitlab-patch-check"}
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-23T06:08:26Z", "type": "new_poc", "url": "https://github.com/Charlie-Netdevops/node-hostcheck"}
 {"cve_id": "CVE-2026-89026", "ts": "2026-10-23T06:15:39Z", "type": "new_poc", "url": "https://github.com/im-hanzou/CVE-2026-89026"}
+{"cve_id": "CVE-2026-67597", "ts": "2026-10-23T06:20:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-23T06:25:03Z", "type": "new_poc", "url": "https://github.com/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30"}

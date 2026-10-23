@@ -1908,3 +1908,19 @@
 {"cve_id": "CVE-2023-2636", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T00:51:56Z", "url": "https://github.com/H3rm1tR3b0rn/CVE-2023-26360-RCE", "url_ids": ["CVE-2023-26360"]}
 {"cve_id": "CVE-2023-2636", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T00:51:56Z", "url": "https://github.com/RyanRodrigues880/CVE-2023-26360", "url_ids": ["CVE-2023-26360"]}
 {"cve_id": "CVE-2026-2576", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T00:53:09Z", "url": "https://github.com/0xBlackash/CVE-2026-25769", "url_ids": ["CVE-2026-25769"]}
+{"cve_id": "CVE-2022-2946", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:27:14Z", "url": "https://github.com/hakivvi/CVE-2022-29464", "url_ids": ["CVE-2022-29464"]}
+{"cve_id": "CVE-2022-2946", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:27:14Z", "url": "https://github.com/sh4den/CVE-2022-29464", "url_ids": ["CVE-2022-29464"]}
+{"cve_id": "CVE-2022-2946", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:27:14Z", "url": "https://github.com/Lidong-io/cve-2022-29464", "url_ids": ["CVE-2022-29464"]}
+{"cve_id": "CVE-2022-2946", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:27:14Z", "url": "https://github.com/jimidk/Better-CVE-2022-29464", "url_ids": ["CVE-2022-29464"]}
+{"cve_id": "CVE-2022-2946", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:27:14Z", "url": "https://github.com/hev0x/CVE-2022-29464", "url_ids": ["CVE-2022-29464"]}
+{"cve_id": "CVE-2022-2946", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:27:14Z", "url": "https://github.com/Chocapikk/CVE-2022-29464", "url_ids": ["CVE-2022-29464"]}
+{"cve_id": "CVE-2022-2946", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:27:14Z", "url": "https://github.com/gpiechnik2/nmap-CVE-2022-29464", "url_ids": ["CVE-2022-29464"]}
+{"cve_id": "CVE-2022-2946", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:27:14Z", "url": "https://github.com/hupe1980/CVE-2022-29464", "url_ids": ["CVE-2022-29464"]}
+{"cve_id": "CVE-2022-2946", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:27:14Z", "url": "https://github.com/superzerosec/CVE-2022-29464", "url_ids": ["CVE-2022-29464"]}
+{"cve_id": "CVE-2022-2946", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:27:14Z", "url": "https://github.com/mr-r3bot/WSO2-CVE-2022-29464", "url_ids": ["CVE-2022-29464"]}
+{"cve_id": "CVE-2022-2946", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:27:14Z", "url": "https://github.com/LinJacck/CVE-2022-29464", "url_ids": ["CVE-2022-29464"]}
+{"cve_id": "CVE-2022-2946", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:27:14Z", "url": "https://github.com/cc3305/CVE-2022-29464", "url_ids": ["CVE-2022-29464"]}
+{"cve_id": "CVE-2024-4540", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:28:04Z", "url": "https://github.com/synacktiv/CVE-2024-45409", "url_ids": ["CVE-2024-45409"]}
+{"cve_id": "CVE-2023-3262", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:28:15Z", "url": "https://github.com/ThrynSec/CVE-2023-32629-CVE-2023-2640---POC-Escalation", "url_ids": ["CVE-2023-2640", "CVE-2023-32629"]}
+{"cve_id": "CVE-2023-3262", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:28:15Z", "url": "https://github.com/kaotickj/Check-for-CVE-2023-32629-GameOver-lay", "url_ids": ["CVE-2023-32629"]}
+{"cve_id": "CVE-2023-3262", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T06:28:15Z", "url": "https://github.com/xS9NTX/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC", "url_ids": ["CVE-2023-2640", "CVE-2023-32629"]}

@@ -11148,6 +11148,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/wazzuj99-svg/Root-My-Galaxy](https://github.com/wazzuj99-svg/Root-My-Galaxy) : ![starts](https://img.shields.io/github/stars/wazzuj99-svg/Root-My-Galaxy.svg) ![forks](https://img.shields.io/github/forks/wazzuj99-svg/Root-My-Galaxy.svg)
 
+- [https://github.com/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30](https://github.com/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30) : ![starts](https://img.shields.io/github/stars/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30.svg) ![forks](https://img.shields.io/github/forks/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
