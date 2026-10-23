@@ -4460,3 +4460,10 @@
 {"cve_id": "CVE-2026-115516", "ts": "2026-10-23T20:50:10Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-115516", "ts": "2026-10-23T20:51:36Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2025-14847", "ts": "2026-10-23T20:54:10Z", "type": "new_poc", "url": "https://github.com/SAIM28826/TEST"}
+{"cve_id": "CVE-2026-115516", "ts": "2026-10-23T21:04:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-115516", "ts": "2026-10-23T21:06:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-115516", "ts": "2026-10-23T21:08:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-4577", "ts": "2026-10-23T21:10:04Z", "type": "new_poc", "url": "https://github.com/Ghost-Bx1/php-exploits-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-23T21:10:04Z", "type": "new_poc", "url": "https://github.com/Ghost-Bx1/php-exploits-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-23T21:10:04Z", "type": "new_poc", "url": "https://github.com/Ghost-Bx1/php-exploits-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-23T21:10:09Z", "type": "new_poc", "url": "https://github.com/Ghost-Bx1/POC---Node2Shell-CVE-2026-111497"}
