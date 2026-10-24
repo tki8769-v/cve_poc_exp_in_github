@@ -4598,3 +4598,8 @@
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-24T19:34:25Z", "type": "new_poc", "url": "https://github.com/CompleTetech-Security/node2shell-check"}
 {"cve_id": "CVE-2025-1122", "ts": "2026-10-24T19:52:28Z", "type": "new_poc", "url": "https://github.com/jenson8161/RMASmoke-v2"}
 {"cve_id": "CVE-2026-38526", "ts": "2026-10-24T19:54:52Z", "type": "new_poc", "url": "https://github.com/sh3llc0d3-0x15/CVE-2026-38526-Exploit"}
+{"cve_id": "CVE-2021-31166", "ts": "2026-10-24T23:14:48Z", "type": "new_poc", "url": "https://github.com/testerxma/cve-2021-31166-poc"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-24T23:14:49Z", "type": "new_poc", "url": "https://github.com/mnk-works/cve-2026-111497-rce-checker"}
+{"cve_id": "CVE-2026-44848", "ts": "2026-10-24T23:14:49Z", "type": "new_poc", "url": "https://github.com/mnk-works/portainer-cve-2026-44848-checker"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-24T23:14:50Z", "type": "new_poc", "url": "https://github.com/syrex1013/CVE-2026-111497-node2shell"}
+{"cve_id": "CVE-2026-56190", "ts": "2026-10-24T23:14:50Z", "type": "new_poc", "url": "https://github.com/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP"}

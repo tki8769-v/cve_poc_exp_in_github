@@ -198,6 +198,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/utkarsssh17/cve-2026-111497-brotli-poc](https://github.com/utkarsssh17/cve-2026-111497-brotli-poc) : ![starts](https://img.shields.io/github/stars/utkarsssh17/cve-2026-111497-brotli-poc.svg) ![forks](https://img.shields.io/github/forks/utkarsssh17/cve-2026-111497-brotli-poc.svg)
 
+- [https://github.com/mnk-works/cve-2026-111497-rce-checker](https://github.com/mnk-works/cve-2026-111497-rce-checker) : ![starts](https://img.shields.io/github/stars/mnk-works/cve-2026-111497-rce-checker.svg) ![forks](https://img.shields.io/github/forks/mnk-works/cve-2026-111497-rce-checker.svg)
+
+- [https://github.com/syrex1013/CVE-2026-111497-node2shell](https://github.com/syrex1013/CVE-2026-111497-node2shell) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-111497-node2shell.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-111497-node2shell.svg)
+
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
 
@@ -7584,6 +7588,8 @@ An authenticated attacker with the relevant broad role permission could abuse th
 
 - [https://github.com/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis](https://github.com/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis) : ![starts](https://img.shields.io/github/stars/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis.svg) ![forks](https://img.shields.io/github/forks/danarhirany300-ctrl/CVE-2026-56190-RDP-Analysis.svg)
 
+- [https://github.com/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP](https://github.com/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP) : ![starts](https://img.shields.io/github/stars/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP.svg) ![forks](https://img.shields.io/github/forks/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP.svg)
+
 ## CVE-2026-56164
  Missing authentication for critical function in Microsoft Office SharePoint allows an unauthorized attacker to elevate privileges over a network.
 
@@ -10707,6 +10713,8 @@ We would like to thank Claude Mythos Preview (via Project Glasswing) for reporti
  Portainer Community Edition is a lightweight service delivery platform for containerized applications that can be used to manage Docker, Swarm, Kubernetes and ACI environments. From 2.33.0 to before 2.33.8, 2.39.2, and 2.41.0, The Docker plugin management endpoints (/plugins/*) were not registered with a handler, so standard users with endpoint access could call privileged plugin operations — including installing and enabling plugins — directly against the underlying Docker daemon. The vulnerability is exposed when a non-admin Portainer user (Standard User role, or any role granted endpoint-level access) has been given access to a Docker endpoint via Portainer RBAC. This vulnerability is fixed in 2.33.8, 2.39.2, and 2.41.0.
 
 - [https://github.com/Boreas37/CVE-2026-44848-PoC](https://github.com/Boreas37/CVE-2026-44848-PoC) : ![starts](https://img.shields.io/github/stars/Boreas37/CVE-2026-44848-PoC.svg) ![forks](https://img.shields.io/github/forks/Boreas37/CVE-2026-44848-PoC.svg)
+
+- [https://github.com/mnk-works/portainer-cve-2026-44848-checker](https://github.com/mnk-works/portainer-cve-2026-44848-checker) : ![starts](https://img.shields.io/github/stars/mnk-works/portainer-cve-2026-44848-checker.svg) ![forks](https://img.shields.io/github/forks/mnk-works/portainer-cve-2026-44848-checker.svg)
 
 ## CVE-2026-44840
  Dgraph is an open source distributed GraphQL database. Prior to version 25.3.4, the `checkUserPassword` GraphQL query in Dgraph is vulnerable to DQL (Dgraph Query Language) injection. User-supplied password values are interpolated directly into a DQL `checkpwd()` query via `fmt.Sprintf` without any escaping or parameterization. An attacker can inject a password containing a double-quote character to break out of the DQL string literal and append arbitrary DQL query blocks. Version 25.3.4 patches the issue.
@@ -77364,6 +77372,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/bgsilvait/WIn-CVE-2021-31166](https://github.com/bgsilvait/WIn-CVE-2021-31166) : ![starts](https://img.shields.io/github/stars/bgsilvait/WIn-CVE-2021-31166.svg) ![forks](https://img.shields.io/github/forks/bgsilvait/WIn-CVE-2021-31166.svg)
 
 - [https://github.com/qazbnme/CVE-2021](https://github.com/qazbnme/CVE-2021) : ![starts](https://img.shields.io/github/stars/qazbnme/CVE-2021.svg) ![forks](https://img.shields.io/github/forks/qazbnme/CVE-2021.svg)
+
+- [https://github.com/testerxma/cve-2021-31166-poc](https://github.com/testerxma/cve-2021-31166-poc) : ![starts](https://img.shields.io/github/stars/testerxma/cve-2021-31166-poc.svg) ![forks](https://img.shields.io/github/forks/testerxma/cve-2021-31166-poc.svg)
 
 ## CVE-2021-31159
  Zoho ManageEngine ServiceDesk Plus MSP before 10519 is vulnerable to a User Enumeration bug due to improper error-message generation in the Forgot Password functionality, aka SDPMSP-15732.

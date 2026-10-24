@@ -1,4 +1,8 @@
 # Update 2026-10-24
+## CVE-2021-31166
+
+- [https://github.com/testerxma/cve-2021-31166-poc](https://github.com/testerxma/cve-2021-31166-poc) : ![starts](https://img.shields.io/github/stars/testerxma/cve-2021-31166-poc.svg) ![forks](https://img.shields.io/github/forks/testerxma/cve-2021-31166-poc.svg)
+
 ## CVE-2021-44228
 
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-3](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-3) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-3.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-3.svg)
@@ -218,8 +222,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/ks-labs/brotli-patch](https://github.com/ks-labs/brotli-patch) : ![starts](https://img.shields.io/github/stars/ks-labs/brotli-patch.svg) ![forks](https://img.shields.io/github/forks/ks-labs/brotli-patch.svg)
 - [https://github.com/lesterlam/node2shell](https://github.com/lesterlam/node2shell) : ![starts](https://img.shields.io/github/stars/lesterlam/node2shell.svg) ![forks](https://img.shields.io/github/forks/lesterlam/node2shell.svg)
 - [https://github.com/mahumadad/CVE-2026-111497-assessment](https://github.com/mahumadad/CVE-2026-111497-assessment) : ![starts](https://img.shields.io/github/stars/mahumadad/CVE-2026-111497-assessment.svg) ![forks](https://img.shields.io/github/forks/mahumadad/CVE-2026-111497-assessment.svg)
+- [https://github.com/mnk-works/cve-2026-111497-rce-checker](https://github.com/mnk-works/cve-2026-111497-rce-checker) : ![starts](https://img.shields.io/github/stars/mnk-works/cve-2026-111497-rce-checker.svg) ![forks](https://img.shields.io/github/forks/mnk-works/cve-2026-111497-rce-checker.svg)
 - [https://github.com/pt-act/node2shell-cve-2026-111497](https://github.com/pt-act/node2shell-cve-2026-111497) : ![starts](https://img.shields.io/github/stars/pt-act/node2shell-cve-2026-111497.svg) ![forks](https://img.shields.io/github/forks/pt-act/node2shell-cve-2026-111497.svg)
 - [https://github.com/s1ko/poc-cve-2026-111497](https://github.com/s1ko/poc-cve-2026-111497) : ![starts](https://img.shields.io/github/stars/s1ko/poc-cve-2026-111497.svg) ![forks](https://img.shields.io/github/forks/s1ko/poc-cve-2026-111497.svg)
+- [https://github.com/syrex1013/CVE-2026-111497-node2shell](https://github.com/syrex1013/CVE-2026-111497-node2shell) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-111497-node2shell.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-111497-node2shell.svg)
 - [https://github.com/tc4dy/CVE-2026-111497-Toolkit](https://github.com/tc4dy/CVE-2026-111497-Toolkit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-111497-Toolkit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-111497-Toolkit.svg)
 - [https://github.com/trailofbits/brotli-checker](https://github.com/trailofbits/brotli-checker) : ![starts](https://img.shields.io/github/stars/trailofbits/brotli-checker.svg) ![forks](https://img.shields.io/github/forks/trailofbits/brotli-checker.svg)
 - [https://github.com/utkarsssh17/cve-2026-111497-brotli-poc](https://github.com/utkarsssh17/cve-2026-111497-brotli-poc) : ![starts](https://img.shields.io/github/stars/utkarsssh17/cve-2026-111497-brotli-poc.svg) ![forks](https://img.shields.io/github/forks/utkarsssh17/cve-2026-111497-brotli-poc.svg)
@@ -311,10 +317,18 @@ problems:
 
 - [https://github.com/BH3GEI/honor-aap-an00-root-skill](https://github.com/BH3GEI/honor-aap-an00-root-skill) : ![starts](https://img.shields.io/github/stars/BH3GEI/honor-aap-an00-root-skill.svg) ![forks](https://img.shields.io/github/forks/BH3GEI/honor-aap-an00-root-skill.svg)
 
+## CVE-2026-44848
+
+- [https://github.com/mnk-works/portainer-cve-2026-44848-checker](https://github.com/mnk-works/portainer-cve-2026-44848-checker) : ![starts](https://img.shields.io/github/stars/mnk-works/portainer-cve-2026-44848-checker.svg) ![forks](https://img.shields.io/github/forks/mnk-works/portainer-cve-2026-44848-checker.svg)
+
 ## CVE-2026-54668
 > Kitodo.Production is a workflow management tool for mass digitization and is part of the Kitodo Digital Library Suite. Prior to version 3.9.2, org.kitodo.production.helper.XMLUtils exposes several XML parsing helpers that construct a JAXP parser with the default, non-secure configuration. The methods parseXMLString(String), getNumberOfEADElements(String, String) and checkIfXmlIsWellFormed(String) build a DocumentBuilderFactory / XMLInputFactory / SAXParserFactory via newInstance() and parse the 
 
 - [https://github.com/KernelEditor/CVE-2026-54668](https://github.com/KernelEditor/CVE-2026-54668) : ![starts](https://img.shields.io/github/stars/KernelEditor/CVE-2026-54668.svg) ![forks](https://img.shields.io/github/forks/KernelEditor/CVE-2026-54668.svg)
+
+## CVE-2026-56190
+
+- [https://github.com/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP](https://github.com/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP) : ![starts](https://img.shields.io/github/stars/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP.svg) ![forks](https://img.shields.io/github/forks/danarhirany300-ctrl/CVE-2026-56190-Windows-Server-2022-RDP.svg)
 
 ## CVE-2026-56846
 
