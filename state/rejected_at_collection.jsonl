@@ -1947,3 +1947,8 @@
 {"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:12:18Z", "url": "https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252", "url_ids": ["CVE-2023-28252"]}
 {"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:12:18Z", "url": "https://github.com/Vulmatch/CVE-2023-28252", "url_ids": ["CVE-2023-28252"]}
 {"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:12:18Z", "url": "https://github.com/Danasuley/CVE-2023-28252-", "url_ids": ["CVE-2023-28252"]}
+{"cve_id": "CVE-2026-5977", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:26:19Z", "url": "https://github.com/FlowerWitch/CVE-2026-59774_docker", "url_ids": ["CVE-2026-59774"]}
+{"cve_id": "CVE-2026-5977", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:26:19Z", "url": "https://github.com/asvorg/CVE-2026-59774-poc", "url_ids": ["CVE-2026-59774"]}
+{"cve_id": "CVE-2024-3701", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:28:22Z", "url": "https://github.com/SarpantKeltiek/CVE-2024-37010", "url_ids": ["CVE-2024-37010"]}
+{"cve_id": "CVE-2023-1234", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:30:18Z", "url": "https://github.com/emotest1/CVE-2023-123456", "url_ids": ["CVE-2023-123456"]}
+{"cve_id": "CVE-2025-5241", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:31:23Z", "url": "https://github.com/GoldenTicketLabs/CVE-2025-52413", "url_ids": ["CVE-2025-52413"]}

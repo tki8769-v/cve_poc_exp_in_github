@@ -4524,3 +4524,7 @@
 {"cve_id": "CVE-2026-96889", "ts": "2026-10-24T00:02:25Z", "type": "new_poc", "url": "https://github.com/CompleteTech-LLC/sharp-rsvg-rce-check"}
 {"cve_id": "CVE-2026-105445", "ts": "2026-10-24T00:02:25Z", "type": "new_poc", "url": "https://github.com/CompleteTech-LLC/docker-hub-pat-check"}
 {"cve_id": "CVE-2026-92162", "ts": "2026-10-24T00:09:07Z", "type": "new_poc", "url": "https://github.com/0xSemizzz/CVE-2026-92162"}
+{"cve_id": "CVE-2026-115516", "ts": "2026-10-24T00:14:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-102785", "ts": "2026-10-24T00:23:00Z", "type": "new_poc", "url": "https://github.com/antid00t/CVE-2026-102785"}
+{"cve_id": "CVE-2026-110264", "ts": "2026-10-24T00:23:15Z", "type": "new_poc", "url": "https://github.com/al4n4n/CVE-2026-110264"}
+{"cve_id": "CVE-2026-86478", "ts": "2026-10-24T00:24:32Z", "type": "new_poc", "url": "https://github.com/LHeiakim/CVE-2026-86478-PoC"}
