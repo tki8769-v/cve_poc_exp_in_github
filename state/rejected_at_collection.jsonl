@@ -1963,3 +1963,11 @@
 {"cve_id": "CVE-2024-3912", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T06:56:27Z", "url": "https://github.com/theexploiters/CVE-2024-39123-Exploit", "url_ids": ["CVE-2024-39123"]}
 {"cve_id": "CVE-2026-2828", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T13:34:01Z", "url": "https://github.com/Rushi9/zimaos-cve-2026-28286-arbitrary-file-write", "url_ids": ["CVE-2026-28286"]}
 {"cve_id": "CVE-2026-2828", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T13:34:01Z", "url": "https://github.com/0xBlackash/CVE-2026-28289", "url_ids": ["CVE-2026-28289"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T13:55:54Z", "url": "https://github.com/horizon3ai/CVE-2021-38647", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T13:55:54Z", "url": "https://github.com/AlteredSecurity/CVE-2021-38647", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T13:55:54Z", "url": "https://github.com/midoxnet/CVE-2021-38647", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T13:55:54Z", "url": "https://github.com/corelight/CVE-2021-38647", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T13:55:54Z", "url": "https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T13:55:54Z", "url": "https://github.com/Immersive-Labs-Sec/cve-2021-38647", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T13:55:54Z", "url": "https://github.com/Vulnmachines/OMIGOD_cve-2021-38647", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T13:55:54Z", "url": "https://github.com/abousteif/cve-2021-38647", "url_ids": ["CVE-2021-38647"]}
