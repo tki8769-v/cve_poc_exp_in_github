@@ -1952,3 +1952,5 @@
 {"cve_id": "CVE-2024-3701", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:28:22Z", "url": "https://github.com/SarpantKeltiek/CVE-2024-37010", "url_ids": ["CVE-2024-37010"]}
 {"cve_id": "CVE-2023-1234", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:30:18Z", "url": "https://github.com/emotest1/CVE-2023-123456", "url_ids": ["CVE-2023-123456"]}
 {"cve_id": "CVE-2025-5241", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:31:23Z", "url": "https://github.com/GoldenTicketLabs/CVE-2025-52413", "url_ids": ["CVE-2025-52413"]}
+{"cve_id": "CVE-2022-4063", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T06:03:00Z", "url": "https://github.com/mbadanoiu/CVE-2022-40635", "url_ids": ["CVE-2022-40635"]}
+{"cve_id": "CVE-2022-4063", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T06:03:00Z", "url": "https://github.com/mbadanoiu/CVE-2022-40634", "url_ids": ["CVE-2022-40634"]}
