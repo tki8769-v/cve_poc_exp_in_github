@@ -4543,3 +4543,9 @@
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-24T06:01:51Z", "type": "new_poc", "url": "https://github.com/Blackman99/lotstamp"}
 {"cve_id": "CVE-2026-109619", "ts": "2026-10-24T06:01:51Z", "type": "new_poc", "url": "https://github.com/abraxas/php-stale-global-uaf"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-24T06:01:51Z", "type": "new_poc", "url": "https://github.com/abraxas/php-oom-longjmp"}
+{"cve_id": "CVE-2026-115516", "ts": "2026-10-24T06:14:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-57849", "ts": "2026-10-24T06:14:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-39987", "ts": "2026-10-24T06:24:07Z", "type": "new_poc", "url": "https://github.com/lunacysoft/CVE-2026-39987-POC-Marimo"}
+{"cve_id": "CVE-2026-110264", "ts": "2026-10-24T06:24:24Z", "type": "new_poc", "url": "https://github.com/FranklinF25/regex2shell"}
+{"cve_id": "CVE-2026-38526", "ts": "2026-10-24T06:31:13Z", "type": "new_poc", "url": "https://github.com/Wingleszy/HTB-Nexus-walkthrough"}
+{"cve_id": "CVE-2026-111943", "ts": "2026-10-24T06:32:28Z", "type": "new_poc", "url": "https://github.com/abhishek-bhatkar/emudhra-poc"}
