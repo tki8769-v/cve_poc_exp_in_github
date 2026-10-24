@@ -1959,3 +1959,5 @@
 {"cve_id": "CVE-2019-1422", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T06:26:17Z", "url": "https://github.com/mbadanoiu/CVE-2019-14222", "url_ids": ["CVE-2019-14222"]}
 {"cve_id": "CVE-2019-1422", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T06:26:17Z", "url": "https://github.com/mbadanoiu/CVE-2019-14223", "url_ids": ["CVE-2019-14223"]}
 {"cve_id": "CVE-2024-2319", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T06:28:21Z", "url": "https://github.com/l00neyhacker/CVE-2024-23199", "url_ids": ["CVE-2024-23199"]}
+{"cve_id": "CVE-2026-11105", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T06:48:24Z", "url": "https://github.com/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce", "url_ids": ["CVE-2026-111057", "CVE-2026-111058"]}
+{"cve_id": "CVE-2024-3912", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T06:56:27Z", "url": "https://github.com/theexploiters/CVE-2024-39123-Exploit", "url_ids": ["CVE-2024-39123"]}

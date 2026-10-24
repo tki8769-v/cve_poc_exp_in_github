@@ -4549,3 +4549,8 @@
 {"cve_id": "CVE-2026-110264", "ts": "2026-10-24T06:24:24Z", "type": "new_poc", "url": "https://github.com/FranklinF25/regex2shell"}
 {"cve_id": "CVE-2026-38526", "ts": "2026-10-24T06:31:13Z", "type": "new_poc", "url": "https://github.com/Wingleszy/HTB-Nexus-walkthrough"}
 {"cve_id": "CVE-2026-111943", "ts": "2026-10-24T06:32:28Z", "type": "new_poc", "url": "https://github.com/abhishek-bhatkar/emudhra-poc"}
+{"cve_id": "CVE-2026-108537", "ts": "2026-10-24T06:35:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108793", "ts": "2026-10-24T06:35:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-110814", "ts": "2026-10-24T06:35:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-115516", "ts": "2026-10-24T06:36:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-57849", "ts": "2026-10-24T06:37:24Z", "type": "cve_rejected"}
