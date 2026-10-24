@@ -288,6 +288,7 @@ This issue affects ADC: from 14.1 through 73.32 and from 13.1 through 63.21; Gat
 ## CVE-2026-38526
 
 - [https://github.com/Wingleszy/HTB-Nexus-walkthrough](https://github.com/Wingleszy/HTB-Nexus-walkthrough) : ![starts](https://img.shields.io/github/stars/Wingleszy/HTB-Nexus-walkthrough.svg) ![forks](https://img.shields.io/github/forks/Wingleszy/HTB-Nexus-walkthrough.svg)
+- [https://github.com/sh3llc0d3-0x15/CVE-2026-38526-Exploit](https://github.com/sh3llc0d3-0x15/CVE-2026-38526-Exploit) : ![starts](https://img.shields.io/github/stars/sh3llc0d3-0x15/CVE-2026-38526-Exploit.svg) ![forks](https://img.shields.io/github/forks/sh3llc0d3-0x15/CVE-2026-38526-Exploit.svg)
 
 ## CVE-2026-39987
 

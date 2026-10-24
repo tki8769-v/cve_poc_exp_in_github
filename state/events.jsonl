@@ -4597,3 +4597,4 @@
 {"cve_id": "CVE-2026-64560", "ts": "2026-10-24T19:34:14Z", "type": "new_poc", "url": "https://github.com/No-World/rootkit"}
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-24T19:34:25Z", "type": "new_poc", "url": "https://github.com/CompleTetech-Security/node2shell-check"}
 {"cve_id": "CVE-2025-1122", "ts": "2026-10-24T19:52:28Z", "type": "new_poc", "url": "https://github.com/jenson8161/RMASmoke-v2"}
+{"cve_id": "CVE-2026-38526", "ts": "2026-10-24T19:54:52Z", "type": "new_poc", "url": "https://github.com/sh3llc0d3-0x15/CVE-2026-38526-Exploit"}

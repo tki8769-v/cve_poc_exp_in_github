@@ -13599,6 +13599,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 
 - [https://github.com/Wingleszy/HTB-Nexus-walkthrough](https://github.com/Wingleszy/HTB-Nexus-walkthrough) : ![starts](https://img.shields.io/github/stars/Wingleszy/HTB-Nexus-walkthrough.svg) ![forks](https://img.shields.io/github/forks/Wingleszy/HTB-Nexus-walkthrough.svg)
 
+- [https://github.com/sh3llc0d3-0x15/CVE-2026-38526-Exploit](https://github.com/sh3llc0d3-0x15/CVE-2026-38526-Exploit) : ![starts](https://img.shields.io/github/stars/sh3llc0d3-0x15/CVE-2026-38526-Exploit.svg) ![forks](https://img.shields.io/github/forks/sh3llc0d3-0x15/CVE-2026-38526-Exploit.svg)
+
 ## CVE-2026-38444
  osTicket v1.18.3 is vulnerable to Stored Cross-Site Scripting (XSS) via the email From-header display name. The value is extracted without sanitization in include/class.mailparse.php and stored raw in the poster field of ost_thread_entry. When an unauthenticated attacker sends a reply email to an existing ticket from an unregistered address with an XSS payload in the From display name.
 
