@@ -1985,3 +1985,6 @@
 {"cve_id": "CVE-2022-3860", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T19:45:07Z", "url": "https://github.com/jet-pentest/CVE-2022-38601", "url_ids": ["CVE-2022-38601"]}
 {"cve_id": "CVE-2024-4434", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T19:52:29Z", "url": "https://github.com/sahil3276/CVE-2024-44346", "url_ids": ["CVE-2024-44346"]}
 {"cve_id": "CVE-2026-5159", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T19:53:35Z", "url": "https://github.com/ardakrg/CVE-2026-51592", "url_ids": ["CVE-2026-51592"]}
+{"cve_id": "CVE-2026-5392", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T23:42:36Z", "url": "https://github.com/tc4dy/CVE-2026-53921-PoC-Exploit", "url_ids": ["CVE-2026-53921"]}
+{"cve_id": "CVE-2026-5392", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T23:42:36Z", "url": "https://github.com/0xBlackash/CVE-2026-53921", "url_ids": ["CVE-2026-53921"]}
+{"cve_id": "CVE-2022-1111", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T23:43:37Z", "url": "https://github.com/thelostworldFree/CVE-2022-111111", "url_ids": ["CVE-2022-111111"]}
