@@ -1980,3 +1980,4 @@
 {"cve_id": "CVE-2026-2796", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T14:00:50Z", "url": "https://github.com/shinthink/CVE-2026-27966", "url_ids": ["CVE-2026-27966"]}
 {"cve_id": "CVE-2026-2413", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T14:03:03Z", "url": "https://github.com/BlankBire/CVE-2026-24136-Lab", "url_ids": ["CVE-2026-24136"]}
 {"cve_id": "CVE-2025-4460", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T14:05:06Z", "url": "https://github.com/mr-xmen786/CVE-2025-44608", "url_ids": ["CVE-2025-44608"]}
+{"cve_id": "CVE-2024-2782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T19:35:08Z", "url": "https://github.com/0xilis/CVE-2024-27821", "url_ids": ["CVE-2024-27821"]}

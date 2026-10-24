@@ -2263,6 +2263,11 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 
 - [https://github.com/Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell) : ![starts](https://img.shields.io/github/stars/Avento/CVE-2024-45507_Behinder_Webshell.svg) ![forks](https://img.shields.io/github/forks/Avento/CVE-2024-45507_Behinder_Webshell.svg)
 
+## CVE-2024-45490
+> An issue was discovered in libexpat before 2.6.3. xmlparse.c does not reject a negative length for XML_ParseBuffer.
+
+- [https://github.com/jstjep00/CVE-2024-45490-libexpat-poc](https://github.com/jstjep00/CVE-2024-45490-libexpat-poc) : ![starts](https://img.shields.io/github/stars/jstjep00/CVE-2024-45490-libexpat-poc.svg) ![forks](https://img.shields.io/github/forks/jstjep00/CVE-2024-45490-libexpat-poc.svg)
+
 ## CVE-2024-45440
  core/authorize.php in Drupal 11.x-dev allows Full Path Disclosure (even when error logging is None) if the value of hash_salt is file_get_contents of a file that does not exist.
 

@@ -1,4 +1,13 @@
 # Update 2026-10-24
+## CVE-2021-44228
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-3](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-3) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-3.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-3.svg)
+
+## CVE-2024-45490
+> An issue was discovered in libexpat before 2.6.3. xmlparse.c does not reject a negative length for XML_ParseBuffer.
+
+- [https://github.com/jstjep00/CVE-2024-45490-libexpat-poc](https://github.com/jstjep00/CVE-2024-45490-libexpat-poc) : ![starts](https://img.shields.io/github/stars/jstjep00/CVE-2024-45490-libexpat-poc.svg) ![forks](https://img.shields.io/github/forks/jstjep00/CVE-2024-45490-libexpat-poc.svg)
+
 ## CVE-2024-4577
 
 - [https://github.com/Mohamedboukerche22/php2shell-extension](https://github.com/Mohamedboukerche22/php2shell-extension) : ![starts](https://img.shields.io/github/stars/Mohamedboukerche22/php2shell-extension.svg) ![forks](https://img.shields.io/github/forks/Mohamedboukerche22/php2shell-extension.svg)
@@ -11,6 +20,10 @@
 > A pre-authentication remote code execution vulnerability exists in React Server Components versions 19.0.0, 19.1.0, 19.1.1, and 19.2.0 including the following packages: react-server-dom-parcel, react-server-dom-turbopack, and react-server-dom-webpack. The vulnerable code unsafely deserializes payloads from HTTP requests to Server Function endpoints.
 
 - [https://github.com/bytesAIren/THM_Corp_Website_CTF](https://github.com/bytesAIren/THM_Corp_Website_CTF) : ![starts](https://img.shields.io/github/stars/bytesAIren/THM_Corp_Website_CTF.svg) ![forks](https://img.shields.io/github/forks/bytesAIren/THM_Corp_Website_CTF.svg)
+
+## CVE-2025-5548
+
+- [https://github.com/pedrose-99/CVE-2025-5548](https://github.com/pedrose-99/CVE-2025-5548) : ![starts](https://img.shields.io/github/stars/pedrose-99/CVE-2025-5548.svg) ![forks](https://img.shields.io/github/forks/pedrose-99/CVE-2025-5548.svg)
 
 ## CVE-2026-102255
 > A Pre-authentication SSRF vulnerability exists in the SMA1000 Appliance Work Place interface due to an unintended alternate access path. By abusing this path, a remote unauthenticated attacker could potentially exploit this vulnerability to direct the appliance to issue requests on their behalf and reach internal functionality and perform unauthorized operations.
@@ -136,10 +149,15 @@ If any of these functions, or an API that relies on them such as `URL.createObje
 
 - [https://github.com/raivenLockdown/CVE-2026-107092](https://github.com/raivenLockdown/CVE-2026-107092) : ![starts](https://img.shields.io/github/stars/raivenLockdown/CVE-2026-107092.svg) ![forks](https://img.shields.io/github/forks/raivenLockdown/CVE-2026-107092.svg)
 
+## CVE-2026-1096
+
+- [https://github.com/benzeng/php-cve-2026-1096-research](https://github.com/benzeng/php-cve-2026-1096-research) : ![starts](https://img.shields.io/github/stars/benzeng/php-cve-2026-1096-research.svg) ![forks](https://img.shields.io/github/forks/benzeng/php-cve-2026-1096-research.svg)
+
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
 
 - [https://github.com/abraxas/php-oom-longjmp](https://github.com/abraxas/php-oom-longjmp) : ![starts](https://img.shields.io/github/stars/abraxas/php-oom-longjmp.svg) ![forks](https://img.shields.io/github/forks/abraxas/php-oom-longjmp.svg)
+- [https://github.com/devzyai/CVE-2026-109618-POC](https://github.com/devzyai/CVE-2026-109618-POC) : ![starts](https://img.shields.io/github/stars/devzyai/CVE-2026-109618-POC.svg) ![forks](https://img.shields.io/github/forks/devzyai/CVE-2026-109618-POC.svg)
 - [https://github.com/googlesky/GHSA-w8hw-w9fx-j79w](https://github.com/googlesky/GHSA-w8hw-w9fx-j79w) : ![starts](https://img.shields.io/github/stars/googlesky/GHSA-w8hw-w9fx-j79w.svg) ![forks](https://img.shields.io/github/forks/googlesky/GHSA-w8hw-w9fx-j79w.svg)
 - [https://github.com/intelliroot-tech/php2shell](https://github.com/intelliroot-tech/php2shell) : ![starts](https://img.shields.io/github/stars/intelliroot-tech/php2shell.svg) ![forks](https://img.shields.io/github/forks/intelliroot-tech/php2shell.svg)
 - [https://github.com/pagvac/php2shell-detect](https://github.com/pagvac/php2shell-detect) : ![starts](https://img.shields.io/github/stars/pagvac/php2shell-detect.svg) ![forks](https://img.shields.io/github/forks/pagvac/php2shell-detect.svg)
@@ -147,6 +165,7 @@ If any of these functions, or an API that relies on them such as `URL.createObje
 - [https://github.com/saaudsdk/php2shell-cve-2026-109618-109619-fix](https://github.com/saaudsdk/php2shell-cve-2026-109618-109619-fix) : ![starts](https://img.shields.io/github/stars/saaudsdk/php2shell-cve-2026-109618-109619-fix.svg) ![forks](https://img.shields.io/github/forks/saaudsdk/php2shell-cve-2026-109618-109619-fix.svg)
 - [https://github.com/segfaultx01/php2shell-pocJavali](https://github.com/segfaultx01/php2shell-pocJavali) : ![starts](https://img.shields.io/github/stars/segfaultx01/php2shell-pocJavali.svg) ![forks](https://img.shields.io/github/forks/segfaultx01/php2shell-pocJavali.svg)
 - [https://github.com/seppegadeyne/php2shell-runcloud-builds](https://github.com/seppegadeyne/php2shell-runcloud-builds) : ![starts](https://img.shields.io/github/stars/seppegadeyne/php2shell-runcloud-builds.svg) ![forks](https://img.shields.io/github/forks/seppegadeyne/php2shell-runcloud-builds.svg)
+- [https://github.com/utkarsssh17/cve-2026-109618-php2shell-poc](https://github.com/utkarsssh17/cve-2026-109618-php2shell-poc) : ![starts](https://img.shields.io/github/stars/utkarsssh17/cve-2026-109618-php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/utkarsssh17/cve-2026-109618-php2shell-poc.svg)
 - [https://github.com/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy](https://github.com/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy) : ![starts](https://img.shields.io/github/stars/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy.svg) ![forks](https://img.shields.io/github/forks/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy.svg)
 - [https://github.com/ytbsamsu007/CVE-2026-109618-109619-Docker-Lab-Tutorial](https://github.com/ytbsamsu007/CVE-2026-109618-109619-Docker-Lab-Tutorial) : ![starts](https://img.shields.io/github/stars/ytbsamsu007/CVE-2026-109618-109619-Docker-Lab-Tutorial.svg) ![forks](https://img.shields.io/github/forks/ytbsamsu007/CVE-2026-109618-109619-Docker-Lab-Tutorial.svg)
 
@@ -155,13 +174,21 @@ If any of these functions, or an API that relies on them such as `URL.createObje
 
 - [https://github.com/Taz1920/cve-2026-109619](https://github.com/Taz1920/cve-2026-109619) : ![starts](https://img.shields.io/github/stars/Taz1920/cve-2026-109619.svg) ![forks](https://img.shields.io/github/forks/Taz1920/cve-2026-109619.svg)
 - [https://github.com/abraxas/php-stale-global-uaf](https://github.com/abraxas/php-stale-global-uaf) : ![starts](https://img.shields.io/github/stars/abraxas/php-stale-global-uaf.svg) ![forks](https://img.shields.io/github/forks/abraxas/php-stale-global-uaf.svg)
+- [https://github.com/utkarsssh17/cve-2026-109619-php-uaf-poc](https://github.com/utkarsssh17/cve-2026-109619-php-uaf-poc) : ![starts](https://img.shields.io/github/stars/utkarsssh17/cve-2026-109619-php-uaf-poc.svg) ![forks](https://img.shields.io/github/forks/utkarsssh17/cve-2026-109619-php-uaf-poc.svg)
 - [https://github.com/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy](https://github.com/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy) : ![starts](https://img.shields.io/github/stars/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy.svg) ![forks](https://img.shields.io/github/forks/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy.svg)
+
+## CVE-2026-110152
+> Buffer overflow in ANGLE in Google Chrome on on Android prior to 155.0.8059.79 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Critical)
+
+- [https://github.com/utkarsssh17/cve-2026-110152-chrome-ngle-rce-poc](https://github.com/utkarsssh17/cve-2026-110152-chrome-ngle-rce-poc) : ![starts](https://img.shields.io/github/stars/utkarsssh17/cve-2026-110152-chrome-ngle-rce-poc.svg) ![forks](https://img.shields.io/github/forks/utkarsssh17/cve-2026-110152-chrome-ngle-rce-poc.svg)
 
 ## CVE-2026-110264
 > An issue has been discovered in GitLab CE/EE affecting all versions from 7.0 before 18.11.13, 19.0 before 19.0.10, 19.1 before 19.1.9, 19.2 before 19.2.9, 19.3 before 19.3.6, 19.4 before 19.4.3, and 19.5 before 19.5.1 that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server due to integer overflow when compiling a specially crafted regular expression.
 
 - [https://github.com/FranklinF25/regex2shell](https://github.com/FranklinF25/regex2shell) : ![starts](https://img.shields.io/github/stars/FranklinF25/regex2shell.svg) ![forks](https://img.shields.io/github/forks/FranklinF25/regex2shell.svg)
+- [https://github.com/Masriyan/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE](https://github.com/Masriyan/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE) : ![starts](https://img.shields.io/github/stars/Masriyan/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE.svg) ![forks](https://img.shields.io/github/forks/Masriyan/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE.svg)
 - [https://github.com/al4n4n/CVE-2026-110264](https://github.com/al4n4n/CVE-2026-110264) : ![starts](https://img.shields.io/github/stars/al4n4n/CVE-2026-110264.svg) ![forks](https://img.shields.io/github/forks/al4n4n/CVE-2026-110264.svg)
+- [https://github.com/emirwtz/CVE-2026-110264](https://github.com/emirwtz/CVE-2026-110264) : ![starts](https://img.shields.io/github/stars/emirwtz/CVE-2026-110264.svg) ![forks](https://img.shields.io/github/forks/emirwtz/CVE-2026-110264.svg)
 - [https://github.com/googlesky/CVE-2026-110264](https://github.com/googlesky/CVE-2026-110264) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-110264.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-110264.svg)
 
 ## CVE-2026-110922
@@ -179,6 +206,7 @@ If any of these functions, or an API that relies on them such as `URL.createObje
 Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1
 
 - [https://github.com/Blackman99/lotstamp](https://github.com/Blackman99/lotstamp) : ![starts](https://img.shields.io/github/stars/Blackman99/lotstamp.svg) ![forks](https://img.shields.io/github/forks/Blackman99/lotstamp.svg)
+- [https://github.com/CompleTetech-Security/node2shell-check](https://github.com/CompleTetech-Security/node2shell-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/node2shell-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/node2shell-check.svg)
 - [https://github.com/Ghost-Bx1/Node2Shell-CVE-2026-111497](https://github.com/Ghost-Bx1/Node2Shell-CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/Node2Shell-CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/Node2Shell-CVE-2026-111497.svg)
 - [https://github.com/Secragon/node2shell-radar](https://github.com/Secragon/node2shell-radar) : ![starts](https://img.shields.io/github/stars/Secragon/node2shell-radar.svg) ![forks](https://img.shields.io/github/forks/Secragon/node2shell-radar.svg)
 - [https://github.com/fuzheado/n2s-buildpack-probe](https://github.com/fuzheado/n2s-buildpack-probe) : ![starts](https://img.shields.io/github/stars/fuzheado/n2s-buildpack-probe.svg) ![forks](https://img.shields.io/github/forks/fuzheado/n2s-buildpack-probe.svg)
@@ -188,7 +216,9 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/mahumadad/CVE-2026-111497-assessment](https://github.com/mahumadad/CVE-2026-111497-assessment) : ![starts](https://img.shields.io/github/stars/mahumadad/CVE-2026-111497-assessment.svg) ![forks](https://img.shields.io/github/forks/mahumadad/CVE-2026-111497-assessment.svg)
 - [https://github.com/pt-act/node2shell-cve-2026-111497](https://github.com/pt-act/node2shell-cve-2026-111497) : ![starts](https://img.shields.io/github/stars/pt-act/node2shell-cve-2026-111497.svg) ![forks](https://img.shields.io/github/forks/pt-act/node2shell-cve-2026-111497.svg)
 - [https://github.com/s1ko/poc-cve-2026-111497](https://github.com/s1ko/poc-cve-2026-111497) : ![starts](https://img.shields.io/github/stars/s1ko/poc-cve-2026-111497.svg) ![forks](https://img.shields.io/github/forks/s1ko/poc-cve-2026-111497.svg)
+- [https://github.com/tc4dy/CVE-2026-111497-Toolkit](https://github.com/tc4dy/CVE-2026-111497-Toolkit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-111497-Toolkit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-111497-Toolkit.svg)
 - [https://github.com/trailofbits/brotli-checker](https://github.com/trailofbits/brotli-checker) : ![starts](https://img.shields.io/github/stars/trailofbits/brotli-checker.svg) ![forks](https://img.shields.io/github/forks/trailofbits/brotli-checker.svg)
+- [https://github.com/utkarsssh17/cve-2026-111497-brotli-poc](https://github.com/utkarsssh17/cve-2026-111497-brotli-poc) : ![starts](https://img.shields.io/github/stars/utkarsssh17/cve-2026-111497-brotli-poc.svg) ![forks](https://img.shields.io/github/forks/utkarsssh17/cve-2026-111497-brotli-poc.svg)
 
 ## CVE-2026-111943
 > On most platforms, Go uses the given system root certificates. However, in some narrower cases, the system trust stores may not be updated without further action. To defend against the narrower set of cases that may remain affected, a denylist was added in crypto/x509 to return an error when calling Verify with any of the known intermediate certificates that are no longer considered to be trustworthy.
@@ -205,11 +235,31 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/ArioVeisa/cve-2026-114509-laravel-tokenguard](https://github.com/ArioVeisa/cve-2026-114509-laravel-tokenguard) : ![starts](https://img.shields.io/github/stars/ArioVeisa/cve-2026-114509-laravel-tokenguard.svg) ![forks](https://img.shields.io/github/forks/ArioVeisa/cve-2026-114509-laravel-tokenguard.svg)
 - [https://github.com/dimasma0305/CVE-2026-114509](https://github.com/dimasma0305/CVE-2026-114509) : ![starts](https://img.shields.io/github/stars/dimasma0305/CVE-2026-114509.svg) ![forks](https://img.shields.io/github/forks/dimasma0305/CVE-2026-114509.svg)
+- [https://github.com/emirwtz/CVE-2026-114509](https://github.com/emirwtz/CVE-2026-114509) : ![starts](https://img.shields.io/github/stars/emirwtz/CVE-2026-114509.svg) ![forks](https://img.shields.io/github/forks/emirwtz/CVE-2026-114509.svg)
+
+## CVE-2026-114612
+> LiteLLM is a proxy server (AI Gateway) to call LLM APIs in OpenAI (or native) format. From 1.87.0 until 1.100.4, 1.101.3, 1.102.2, 1.103.1, and 1.104.0-rc.2, the proxy reuses one cryptographic context for at-rest secrets and session tokens, allowing an authenticated internal user to have crafted metadata containing a forged administrator credential encrypted and returned by the API-key flow. Replaying that ciphertext as a bearer token causes the proxy to trust the forged proxy administrator iden
+
+- [https://github.com/Hunt-Benito/one-salt-to-forge-them-all-cve-2026-114612-forged-admin-session-in-litellm](https://github.com/Hunt-Benito/one-salt-to-forge-them-all-cve-2026-114612-forged-admin-session-in-litellm) : ![starts](https://img.shields.io/github/stars/Hunt-Benito/one-salt-to-forge-them-all-cve-2026-114612-forged-admin-session-in-litellm.svg) ![forks](https://img.shields.io/github/forks/Hunt-Benito/one-salt-to-forge-them-all-cve-2026-114612-forged-admin-session-in-litellm.svg)
+
+## CVE-2026-114820
+
+- [https://github.com/joedayz/cve-2026-114820-java-scan](https://github.com/joedayz/cve-2026-114820-java-scan) : ![starts](https://img.shields.io/github/stars/joedayz/cve-2026-114820-java-scan.svg) ![forks](https://img.shields.io/github/forks/joedayz/cve-2026-114820-java-scan.svg)
 
 ## CVE-2026-115560
 
 - [https://github.com/googlesky/CVE-2026-115560](https://github.com/googlesky/CVE-2026-115560) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-115560.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-115560.svg)
 - [https://github.com/ivst/CVE-2026-115560](https://github.com/ivst/CVE-2026-115560) : ![starts](https://img.shields.io/github/stars/ivst/CVE-2026-115560.svg) ![forks](https://img.shields.io/github/forks/ivst/CVE-2026-115560.svg)
+
+## CVE-2026-116011
+> Crow before 1.3.4 contains an uncontrolled recursion vulnerability in crow::json::load() that allows remote unauthenticated attackers to crash the server by sending deeply nested JSON. Attackers can send a request body with thousands of nested objects to exhaust the worker thread stack, terminating the process and dropping all connections.
+
+- [https://github.com/D7EAD/CVE-2026-116011](https://github.com/D7EAD/CVE-2026-116011) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-116011.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-116011.svg)
+
+## CVE-2026-116012
+> Ghidra before 12.2 contains a numeric truncation vulnerability in PackedDecode::skipAttribute and skipAttributeRemaining in marshal.cc that stores 64-bit string lengths in 32-bit variables. Attackers can supply a crafted packed stream, such as a malicious .sla file, to inject attributes into the decompiler&#x27;s input or crash the decompiler process.
+
+- [https://github.com/D7EAD/CVE-2026-116012](https://github.com/D7EAD/CVE-2026-116012) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-116012.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-116012.svg)
 
 ## CVE-2026-17106
 
@@ -310,6 +360,25 @@ problems:
 
 - [https://github.com/Ly0kha/CVE-2026-59774](https://github.com/Ly0kha/CVE-2026-59774) : ![starts](https://img.shields.io/github/stars/Ly0kha/CVE-2026-59774.svg) ![forks](https://img.shields.io/github/forks/Ly0kha/CVE-2026-59774.svg)
 
+## CVE-2026-64560
+> In the Linux kernel, the following vulnerability has been resolved:
+
+posix-cpu-timers: Prevent UAF caused by non-leader exec() race
+
+Wongi and Jungwoo decoded and reported a non-leader exec() related race
+which can result in an UAF:
+
+ sys_timer_delete()			exec()
+   posix_cpu_timer_del()
+   // Observes old leader
+   p = pid_task(pid, pid_type);		de_thread()
+   					  switch_leader();
+					  release_task(old_leader)
+					    __exit_signal(old_leader)
+					      sighand = lock(old_leader, sighand);
+
+- [https://github.com/No-World/rootkit](https://github.com/No-World/rootkit) : ![starts](https://img.shields.io/github/stars/No-World/rootkit.svg) ![forks](https://img.shields.io/github/forks/No-World/rootkit.svg)
+
 ## CVE-2026-68136
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -403,3 +472,18 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 > A flaw was found in librsvg. When processing an SVG document containing nested XML inclusions (Xincludes) with duplicate entity declarations, a use-after-free error can occur. This vulnerability arises because the library incorrectly frees an XML entity that is still in use by the parser. An attacker could potentially exploit this to cause a denial of service or execute arbitrary code.
 
 - [https://github.com/CompleteTech-LLC/sharp-rsvg-rce-check](https://github.com/CompleteTech-LLC/sharp-rsvg-rce-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/sharp-rsvg-rce-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/sharp-rsvg-rce-check.svg)
+
+## CVE-2026-98260
+> In the Linux kernel, the following vulnerability has been resolved:
+
+exec: Cleanup POSIX timers right after de_thread()
+
+A per-thread CPU timer holds a reference to the PID of the thread it is
+attached to and, while it is armed, its node is queued in that thread&#x27;s
+posix_cputimers. The task is looked up by that PID.
+
+When a non-leader thread exec()s, de_thread() changes which task owns
+that PID. pid_task(timer-&gt;it.cpu.pid, PIDTYPE_PID) then returns NULL,
+but the node is still queued on tsk, which
+
+- [https://github.com/sganggs/CVE-2026-98260-BRM-AN00](https://github.com/sganggs/CVE-2026-98260-BRM-AN00) : ![starts](https://img.shields.io/github/stars/sganggs/CVE-2026-98260-BRM-AN00.svg) ![forks](https://img.shields.io/github/forks/sganggs/CVE-2026-98260-BRM-AN00.svg)
