@@ -40273,6 +40273,8 @@ Bypass operating system verification via exploiting the NV_Read functionality du
 
 - [https://github.com/jenson8161/exploit-docs](https://github.com/jenson8161/exploit-docs) : ![starts](https://img.shields.io/github/stars/jenson8161/exploit-docs.svg) ![forks](https://img.shields.io/github/forks/jenson8161/exploit-docs.svg)
 
+- [https://github.com/jenson8161/RMASmoke-v2](https://github.com/jenson8161/RMASmoke-v2) : ![starts](https://img.shields.io/github/stars/jenson8161/RMASmoke-v2.svg) ![forks](https://img.shields.io/github/forks/jenson8161/RMASmoke-v2.svg)
+
 ## CVE-2025-1098
  A security issue was discovered in  ingress-nginx https://github.com/kubernetes/ingress-nginx  where the `mirror-target` and `mirror-host` Ingress annotations can be used to inject arbitrary configuration into nginx. This can lead to arbitrary code execution in the context of the ingress-nginx controller, and disclosure of Secrets accessible to the controller. (Note that in the default installation, the controller can access all Secrets cluster-wide.)
 

@@ -12,6 +12,10 @@
 
 - [https://github.com/Mohamedboukerche22/php2shell-extension](https://github.com/Mohamedboukerche22/php2shell-extension) : ![starts](https://img.shields.io/github/stars/Mohamedboukerche22/php2shell-extension.svg) ![forks](https://img.shields.io/github/forks/Mohamedboukerche22/php2shell-extension.svg)
 
+## CVE-2025-1122
+
+- [https://github.com/jenson8161/RMASmoke-v2](https://github.com/jenson8161/RMASmoke-v2) : ![starts](https://img.shields.io/github/stars/jenson8161/RMASmoke-v2.svg) ![forks](https://img.shields.io/github/forks/jenson8161/RMASmoke-v2.svg)
+
 ## CVE-2025-32440
 
 - [https://github.com/jstjep00/CVE-2025-32440-netalertx-auth-bypass](https://github.com/jstjep00/CVE-2025-32440-netalertx-auth-bypass) : ![starts](https://img.shields.io/github/stars/jstjep00/CVE-2025-32440-netalertx-auth-bypass.svg) ![forks](https://img.shields.io/github/forks/jstjep00/CVE-2025-32440-netalertx-auth-bypass.svg)

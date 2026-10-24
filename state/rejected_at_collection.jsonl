@@ -1981,3 +1981,7 @@
 {"cve_id": "CVE-2026-2413", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T14:03:03Z", "url": "https://github.com/BlankBire/CVE-2026-24136-Lab", "url_ids": ["CVE-2026-24136"]}
 {"cve_id": "CVE-2025-4460", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T14:05:06Z", "url": "https://github.com/mr-xmen786/CVE-2025-44608", "url_ids": ["CVE-2025-44608"]}
 {"cve_id": "CVE-2024-2782", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T19:35:08Z", "url": "https://github.com/0xilis/CVE-2024-27821", "url_ids": ["CVE-2024-27821"]}
+{"cve_id": "CVE-2022-3860", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T19:45:07Z", "url": "https://github.com/LucaBarile/CVE-2022-38604", "url_ids": ["CVE-2022-38604"]}
+{"cve_id": "CVE-2022-3860", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T19:45:07Z", "url": "https://github.com/jet-pentest/CVE-2022-38601", "url_ids": ["CVE-2022-38601"]}
+{"cve_id": "CVE-2024-4434", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T19:52:29Z", "url": "https://github.com/sahil3276/CVE-2024-44346", "url_ids": ["CVE-2024-44346"]}
+{"cve_id": "CVE-2026-5159", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T19:53:35Z", "url": "https://github.com/ardakrg/CVE-2026-51592", "url_ids": ["CVE-2026-51592"]}
