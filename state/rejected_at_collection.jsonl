@@ -1943,3 +1943,7 @@
 {"cve_id": "CVE-2024-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T15:16:34Z", "url": "https://github.com/funnyDog896/CVE-2024-36401-WoodpeckerPlugin", "url_ids": ["CVE-2024-36401"]}
 {"cve_id": "CVE-2024-3640", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T15:16:34Z", "url": "https://github.com/basesixtythree/B63-POC-CVE-2024-36401", "url_ids": ["CVE-2024-36401"]}
 {"cve_id": "CVE-2026-8178", "reason": "prefix_conflict_evidenced", "ts": "2026-10-23T20:35:30Z", "url": "https://github.com/0xTerror/CVE-2026-81780-Hash-Form", "url_ids": ["CVE-2026-81780"]}
+{"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:12:18Z", "url": "https://github.com/duck-sec/CVE-2023-28252-Compiled-exe", "url_ids": ["CVE-2023-28252"]}
+{"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:12:18Z", "url": "https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252", "url_ids": ["CVE-2023-28252"]}
+{"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:12:18Z", "url": "https://github.com/Vulmatch/CVE-2023-28252", "url_ids": ["CVE-2023-28252"]}
+{"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T00:12:18Z", "url": "https://github.com/Danasuley/CVE-2023-28252-", "url_ids": ["CVE-2023-28252"]}

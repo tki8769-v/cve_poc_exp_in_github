@@ -8260,6 +8260,10 @@ This issue affects Command Center Innovation Release: 11.38.0 to 11.38.20. The v
 
 - [https://github.com/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities](https://github.com/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities) : ![starts](https://img.shields.io/github/stars/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities.svg) ![forks](https://img.shields.io/github/forks/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities.svg)
 
+## CVE-2025-32440
+
+- [https://github.com/jstjep00/CVE-2025-32440-netalertx-auth-bypass](https://github.com/jstjep00/CVE-2025-32440-netalertx-auth-bypass) : ![starts](https://img.shields.io/github/stars/jstjep00/CVE-2025-32440-netalertx-auth-bypass.svg) ![forks](https://img.shields.io/github/forks/jstjep00/CVE-2025-32440-netalertx-auth-bypass.svg)
+
 ## CVE-2025-32434
  PyTorch is a Python package that provides tensor computation with strong GPU acceleration and deep neural networks built on a tape-based autograd system. In version 2.5.1 and prior, a Remote Command Execution (RCE) vulnerability exists in PyTorch when loading a model using torch.load with weights_only=True. This issue has been patched in version 2.6.0.
 
