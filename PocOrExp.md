@@ -147,6 +147,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/fuzheado/n2s-buildpack-probe](https://github.com/fuzheado/n2s-buildpack-probe) : ![starts](https://img.shields.io/github/stars/fuzheado/n2s-buildpack-probe.svg) ![forks](https://img.shields.io/github/forks/fuzheado/n2s-buildpack-probe.svg)
 
+- [https://github.com/ks-labs/brotli-patch](https://github.com/ks-labs/brotli-patch) : ![starts](https://img.shields.io/github/stars/ks-labs/brotli-patch.svg) ![forks](https://img.shields.io/github/forks/ks-labs/brotli-patch.svg)
+
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
 
@@ -903,6 +905,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/pagvac/php2shell-trends](https://github.com/pagvac/php2shell-trends) : ![starts](https://img.shields.io/github/stars/pagvac/php2shell-trends.svg) ![forks](https://img.shields.io/github/forks/pagvac/php2shell-trends.svg)
 
 - [https://github.com/segfaultx01/php2shell-pocJavali](https://github.com/segfaultx01/php2shell-pocJavali) : ![starts](https://img.shields.io/github/stars/segfaultx01/php2shell-pocJavali.svg) ![forks](https://img.shields.io/github/forks/segfaultx01/php2shell-pocJavali.svg)
+
+- [https://github.com/saaudsdk/php2shell-cve-2026-109618-109619-fix](https://github.com/saaudsdk/php2shell-cve-2026-109618-109619-fix) : ![starts](https://img.shields.io/github/stars/saaudsdk/php2shell-cve-2026-109618-109619-fix.svg) ![forks](https://img.shields.io/github/forks/saaudsdk/php2shell-cve-2026-109618-109619-fix.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -29295,6 +29299,8 @@ Adopt appropriate SMB Server hardening measures.
 - [https://github.com/M4rc3l08/ReactorWriteUp-HackTheBox](https://github.com/M4rc3l08/ReactorWriteUp-HackTheBox) : ![starts](https://img.shields.io/github/stars/M4rc3l08/ReactorWriteUp-HackTheBox.svg) ![forks](https://img.shields.io/github/forks/M4rc3l08/ReactorWriteUp-HackTheBox.svg)
 
 - [https://github.com/0xRAM-bit/CVE-2025-55182](https://github.com/0xRAM-bit/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/0xRAM-bit/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/0xRAM-bit/CVE-2025-55182.svg)
+
+- [https://github.com/bytesAIren/THM_Corp_Website_CTF](https://github.com/bytesAIren/THM_Corp_Website_CTF) : ![starts](https://img.shields.io/github/stars/bytesAIren/THM_Corp_Website_CTF.svg) ![forks](https://img.shields.io/github/forks/bytesAIren/THM_Corp_Website_CTF.svg)
 
 ## CVE-2025-55177
  Incomplete authorization of linked device synchronization messages in WhatsApp for iOS prior to v2.25.21.73, WhatsApp Business for iOS v2.25.21.78, and WhatsApp for Mac v2.25.21.78 could have allowed an unrelated user to trigger processing of content from an arbitrary URL on a target’s device. We assess that this vulnerability, in combination with an OS-level vulnerability on Apple platforms (CVE-2025-43300), may have been exploited in a sophisticated attack against specific targeted users.

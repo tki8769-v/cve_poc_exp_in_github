@@ -4528,3 +4528,7 @@
 {"cve_id": "CVE-2026-102785", "ts": "2026-10-24T00:23:00Z", "type": "new_poc", "url": "https://github.com/antid00t/CVE-2026-102785"}
 {"cve_id": "CVE-2026-110264", "ts": "2026-10-24T00:23:15Z", "type": "new_poc", "url": "https://github.com/al4n4n/CVE-2026-110264"}
 {"cve_id": "CVE-2026-86478", "ts": "2026-10-24T00:24:32Z", "type": "new_poc", "url": "https://github.com/LHeiakim/CVE-2026-86478-PoC"}
+{"cve_id": "CVE-2026-115516", "ts": "2026-10-24T00:36:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-24T00:44:37Z", "type": "new_poc", "url": "https://github.com/saaudsdk/php2shell-cve-2026-109618-109619-fix"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-24T00:44:37Z", "type": "new_poc", "url": "https://github.com/ks-labs/brotli-patch"}
+{"cve_id": "CVE-2025-55182", "ts": "2026-10-24T00:48:58Z", "type": "new_poc", "url": "https://github.com/bytesAIren/THM_Corp_Website_CTF"}

@@ -3,6 +3,11 @@
 
 - [https://github.com/jstjep00/CVE-2025-32440-netalertx-auth-bypass](https://github.com/jstjep00/CVE-2025-32440-netalertx-auth-bypass) : ![starts](https://img.shields.io/github/stars/jstjep00/CVE-2025-32440-netalertx-auth-bypass.svg) ![forks](https://img.shields.io/github/forks/jstjep00/CVE-2025-32440-netalertx-auth-bypass.svg)
 
+## CVE-2025-55182
+> A pre-authentication remote code execution vulnerability exists in React Server Components versions 19.0.0, 19.1.0, 19.1.1, and 19.2.0 including the following packages: react-server-dom-parcel, react-server-dom-turbopack, and react-server-dom-webpack. The vulnerable code unsafely deserializes payloads from HTTP requests to Server Function endpoints.
+
+- [https://github.com/bytesAIren/THM_Corp_Website_CTF](https://github.com/bytesAIren/THM_Corp_Website_CTF) : ![starts](https://img.shields.io/github/stars/bytesAIren/THM_Corp_Website_CTF.svg) ![forks](https://img.shields.io/github/forks/bytesAIren/THM_Corp_Website_CTF.svg)
+
 ## CVE-2026-102255
 > A Pre-authentication SSRF vulnerability exists in the SMA1000 Appliance Work Place interface due to an unintended alternate access path. By abusing this path, a remote unauthenticated attacker could potentially exploit this vulnerability to direct the appliance to issue requests on their behalf and reach internal functionality and perform unauthorized operations.
 
@@ -128,6 +133,7 @@ If any of these functions, or an API that relies on them such as `URL.createObje
 
 - [https://github.com/pagvac/php2shell-detect](https://github.com/pagvac/php2shell-detect) : ![starts](https://img.shields.io/github/stars/pagvac/php2shell-detect.svg) ![forks](https://img.shields.io/github/forks/pagvac/php2shell-detect.svg)
 - [https://github.com/pagvac/php2shell-trends](https://github.com/pagvac/php2shell-trends) : ![starts](https://img.shields.io/github/stars/pagvac/php2shell-trends.svg) ![forks](https://img.shields.io/github/forks/pagvac/php2shell-trends.svg)
+- [https://github.com/saaudsdk/php2shell-cve-2026-109618-109619-fix](https://github.com/saaudsdk/php2shell-cve-2026-109618-109619-fix) : ![starts](https://img.shields.io/github/stars/saaudsdk/php2shell-cve-2026-109618-109619-fix.svg) ![forks](https://img.shields.io/github/forks/saaudsdk/php2shell-cve-2026-109618-109619-fix.svg)
 - [https://github.com/segfaultx01/php2shell-pocJavali](https://github.com/segfaultx01/php2shell-pocJavali) : ![starts](https://img.shields.io/github/stars/segfaultx01/php2shell-pocJavali.svg) ![forks](https://img.shields.io/github/forks/segfaultx01/php2shell-pocJavali.svg)
 
 ## CVE-2026-110264
@@ -146,6 +152,7 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/Ghost-Bx1/Node2Shell-CVE-2026-111497](https://github.com/Ghost-Bx1/Node2Shell-CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/Node2Shell-CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/Node2Shell-CVE-2026-111497.svg)
 - [https://github.com/fuzheado/n2s-buildpack-probe](https://github.com/fuzheado/n2s-buildpack-probe) : ![starts](https://img.shields.io/github/stars/fuzheado/n2s-buildpack-probe.svg) ![forks](https://img.shields.io/github/forks/fuzheado/n2s-buildpack-probe.svg)
+- [https://github.com/ks-labs/brotli-patch](https://github.com/ks-labs/brotli-patch) : ![starts](https://img.shields.io/github/stars/ks-labs/brotli-patch.svg) ![forks](https://img.shields.io/github/forks/ks-labs/brotli-patch.svg)
 - [https://github.com/trailofbits/brotli-checker](https://github.com/trailofbits/brotli-checker) : ![starts](https://img.shields.io/github/stars/trailofbits/brotli-checker.svg) ![forks](https://img.shields.io/github/forks/trailofbits/brotli-checker.svg)
 
 ## CVE-2026-112398
