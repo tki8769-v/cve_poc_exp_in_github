@@ -18,6 +18,8 @@
 
 - [https://github.com/ivst/CVE-2026-115560](https://github.com/ivst/CVE-2026-115560) : ![starts](https://img.shields.io/github/stars/ivst/CVE-2026-115560.svg) ![forks](https://img.shields.io/github/forks/ivst/CVE-2026-115560.svg)
 
+- [https://github.com/googlesky/CVE-2026-115560](https://github.com/googlesky/CVE-2026-115560) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-115560.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-115560.svg)
+
 ## CVE-2026-114509
 > Laravel is a web application framework. Prior to 12.68.0 and 13.29.0, TokenGuard configured as a standard token-based API guard does not reject a crafted non-string credential. Under affected MySQL or MariaDB configurations, the authentication lookup can match an unintended existing user, allowing an unauthenticated attacker to bypass authentication and take over an account on routes protected by TokenGuard. This issue is fixed in versions 12.68.0 and 13.29.0.
 
@@ -26,6 +28,8 @@
 - [https://github.com/hakaioffsec/CVE-2026-114509-PoC](https://github.com/hakaioffsec/CVE-2026-114509-PoC) : ![starts](https://img.shields.io/github/stars/hakaioffsec/CVE-2026-114509-PoC.svg) ![forks](https://img.shields.io/github/forks/hakaioffsec/CVE-2026-114509-PoC.svg)
 
 - [https://github.com/dimasma0305/CVE-2026-114509](https://github.com/dimasma0305/CVE-2026-114509) : ![starts](https://img.shields.io/github/stars/dimasma0305/CVE-2026-114509.svg) ![forks](https://img.shields.io/github/forks/dimasma0305/CVE-2026-114509.svg)
+
+- [https://github.com/ArioVeisa/cve-2026-114509-laravel-tokenguard](https://github.com/ArioVeisa/cve-2026-114509-laravel-tokenguard) : ![starts](https://img.shields.io/github/stars/ArioVeisa/cve-2026-114509-laravel-tokenguard.svg) ![forks](https://img.shields.io/github/forks/ArioVeisa/cve-2026-114509-laravel-tokenguard.svg)
 
 ## CVE-2026-114102
 > adm-zip before 0.6.1 contains a denial of service vulnerability that allows unauthenticated attackers to crash the Node.js process via a malformed ZIP file, because inflateAsync in methods/inflater.js lacks a zlib stream error listener. Attackers can supply a ZIP with corrupted DEFLATE data processed by readFileAsync, readAsTextAsync, extractAllToAsync, or getDataAsync, triggering an uncatchable exception that terminates all in-flight requests.
@@ -156,6 +160,16 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/mahumadad/CVE-2026-111497-assessment](https://github.com/mahumadad/CVE-2026-111497-assessment) : ![starts](https://img.shields.io/github/stars/mahumadad/CVE-2026-111497-assessment.svg) ![forks](https://img.shields.io/github/forks/mahumadad/CVE-2026-111497-assessment.svg)
 
+- [https://github.com/Secragon/node2shell-radar](https://github.com/Secragon/node2shell-radar) : ![starts](https://img.shields.io/github/stars/Secragon/node2shell-radar.svg) ![forks](https://img.shields.io/github/forks/Secragon/node2shell-radar.svg)
+
+- [https://github.com/googlesky/CVE-2026-111497](https://github.com/googlesky/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-111497.svg)
+
+- [https://github.com/lesterlam/node2shell](https://github.com/lesterlam/node2shell) : ![starts](https://img.shields.io/github/stars/lesterlam/node2shell.svg) ![forks](https://img.shields.io/github/forks/lesterlam/node2shell.svg)
+
+- [https://github.com/pt-act/node2shell-cve-2026-111497](https://github.com/pt-act/node2shell-cve-2026-111497) : ![starts](https://img.shields.io/github/stars/pt-act/node2shell-cve-2026-111497.svg) ![forks](https://img.shields.io/github/forks/pt-act/node2shell-cve-2026-111497.svg)
+
+- [https://github.com/s1ko/poc-cve-2026-111497](https://github.com/s1ko/poc-cve-2026-111497) : ![starts](https://img.shields.io/github/stars/s1ko/poc-cve-2026-111497.svg) ![forks](https://img.shields.io/github/forks/s1ko/poc-cve-2026-111497.svg)
+
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
 
@@ -194,6 +208,11 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 > A vulnerability has been identified in Siemens Software Center (All versions &lt; V4.0.9.8). The affected application loads dynamic-link libraries (DLLs) from an uncontrolled search path. This could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application.
 
 - [https://github.com/DAS-Bodhi/CVE-2026-110936-Siemens-Attack](https://github.com/DAS-Bodhi/CVE-2026-110936-Siemens-Attack) : ![starts](https://img.shields.io/github/stars/DAS-Bodhi/CVE-2026-110936-Siemens-Attack.svg) ![forks](https://img.shields.io/github/forks/DAS-Bodhi/CVE-2026-110936-Siemens-Attack.svg)
+
+## CVE-2026-110922
+> Use after free in Prerender in Google Chrome prior to 155.0.8059.84 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: Critical)
+
+- [https://github.com/VABISMO/chrome2shell](https://github.com/VABISMO/chrome2shell) : ![starts](https://img.shields.io/github/stars/VABISMO/chrome2shell.svg) ![forks](https://img.shields.io/github/forks/VABISMO/chrome2shell.svg)
 
 ## CVE-2026-110916
 > Improper input validation in Desktop in Google Chrome prior to 155.0.8059.84 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Medium)
@@ -253,6 +272,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/al4n4n/CVE-2026-110264](https://github.com/al4n4n/CVE-2026-110264) : ![starts](https://img.shields.io/github/stars/al4n4n/CVE-2026-110264.svg) ![forks](https://img.shields.io/github/forks/al4n4n/CVE-2026-110264.svg)
 
 - [https://github.com/FranklinF25/regex2shell](https://github.com/FranklinF25/regex2shell) : ![starts](https://img.shields.io/github/stars/FranklinF25/regex2shell.svg) ![forks](https://img.shields.io/github/forks/FranklinF25/regex2shell.svg)
+
+- [https://github.com/googlesky/CVE-2026-110264](https://github.com/googlesky/CVE-2026-110264) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-110264.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-110264.svg)
 
 ## CVE-2026-110025
 > A flaw has been found in slackero phpwcms up to 1.9.49/1.12.3. This issue affects some unknown processing of the file include/inc_front/content/cnt23.article.inc.php of the component Extension Check. This manipulation of the argument POST_name causes unrestricted upload. The attack can be initiated remotely. Upgrading to version 1.9.50 and 1.12.4 is capable of addressing this issue. Patch name: 118c978430f5a9668b30535f6e592c7ae8df711f/f4c136b467565b2d16ebe2b8276b9a03547a9a69/8571cb47df8d66804d1e
@@ -403,6 +424,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/Taz1920/cve-2026-109619](https://github.com/Taz1920/cve-2026-109619) : ![starts](https://img.shields.io/github/stars/Taz1920/cve-2026-109619.svg) ![forks](https://img.shields.io/github/forks/Taz1920/cve-2026-109619.svg)
 
 - [https://github.com/abraxas/php-stale-global-uaf](https://github.com/abraxas/php-stale-global-uaf) : ![starts](https://img.shields.io/github/stars/abraxas/php-stale-global-uaf.svg) ![forks](https://img.shields.io/github/forks/abraxas/php-stale-global-uaf.svg)
+
+- [https://github.com/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy](https://github.com/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy) : ![starts](https://img.shields.io/github/stars/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy.svg) ![forks](https://img.shields.io/github/forks/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -927,6 +950,12 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/ytbsamsu007/CVE-2026-109618-109619-Docker-Lab-Tutorial](https://github.com/ytbsamsu007/CVE-2026-109618-109619-Docker-Lab-Tutorial) : ![starts](https://img.shields.io/github/stars/ytbsamsu007/CVE-2026-109618-109619-Docker-Lab-Tutorial.svg) ![forks](https://img.shields.io/github/forks/ytbsamsu007/CVE-2026-109618-109619-Docker-Lab-Tutorial.svg)
 
+- [https://github.com/googlesky/GHSA-w8hw-w9fx-j79w](https://github.com/googlesky/GHSA-w8hw-w9fx-j79w) : ![starts](https://img.shields.io/github/stars/googlesky/GHSA-w8hw-w9fx-j79w.svg) ![forks](https://img.shields.io/github/forks/googlesky/GHSA-w8hw-w9fx-j79w.svg)
+
+- [https://github.com/seppegadeyne/php2shell-runcloud-builds](https://github.com/seppegadeyne/php2shell-runcloud-builds) : ![starts](https://img.shields.io/github/stars/seppegadeyne/php2shell-runcloud-builds.svg) ![forks](https://img.shields.io/github/forks/seppegadeyne/php2shell-runcloud-builds.svg)
+
+- [https://github.com/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy](https://github.com/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy) : ![starts](https://img.shields.io/github/stars/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy.svg) ![forks](https://img.shields.io/github/forks/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy.svg)
+
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
@@ -1041,6 +1070,10 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 > MiniUPnPd through 2.3.11 built with --strict contains a divide-by-zero vulnerability in ProcessSSDPData() that allows unauthenticated local network attackers to crash the daemon. Attackers can send a single multicast M-SEARCH datagram with MX: 0 and a known ST to port 1900, triggering SIGFPE and denying UPnP IGD service.
 
 - [https://github.com/azuk4r/CVE-2026-107159](https://github.com/azuk4r/CVE-2026-107159) : ![starts](https://img.shields.io/github/stars/azuk4r/CVE-2026-107159.svg) ![forks](https://img.shields.io/github/forks/azuk4r/CVE-2026-107159.svg)
+
+## CVE-2026-107092
+
+- [https://github.com/raivenLockdown/CVE-2026-107092](https://github.com/raivenLockdown/CVE-2026-107092) : ![starts](https://img.shields.io/github/stars/raivenLockdown/CVE-2026-107092.svg) ![forks](https://img.shields.io/github/forks/raivenLockdown/CVE-2026-107092.svg)
 
 ## CVE-2026-107084
 > Slims (Senayan Library Management Systems) 9 Bulian 9.8.0 allows cross-site request forgery (CSRF) against admin/modules/circulation/loan_history_maintenance.php because the action=run GET parameter performs privileged, destructive operations with no CSRF token or POST confirmation, leading to data loss of loan history records.
@@ -7045,6 +7078,8 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 
 - [https://github.com/asvorg/CVE-2026-59774-poc](https://github.com/asvorg/CVE-2026-59774-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-59774-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-59774-poc.svg)
 
+- [https://github.com/Ly0kha/CVE-2026-59774](https://github.com/Ly0kha/CVE-2026-59774) : ![starts](https://img.shields.io/github/stars/Ly0kha/CVE-2026-59774.svg) ![forks](https://img.shields.io/github/forks/Ly0kha/CVE-2026-59774.svg)
+
 ## CVE-2026-59734
  Coolify is an open-source and self-hostable tool for managing servers, applications, and databases. Prior to 4.0.0-beta.469, Coolify's app/Jobs/ApplicationDeploymentJob.php generate_healthcheck_commands() function directly interpolated the health_check_host, health_check_method, and health_check_path parameters into shell commands without proper sanitization, allowing authenticated users to execute arbitrary commands inside deployment containers. This issue is fixed in version 4.0.0-beta.469.
 
@@ -11620,6 +11655,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30](https://github.com/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30) : ![starts](https://img.shields.io/github/stars/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30.svg) ![forks](https://img.shields.io/github/forks/WJNKAC/CVE-2026-43499-OPPO-A5-PBBT30.svg)
 
 - [https://github.com/k-o-n-t-o-r/ghostlock-sm-g990b](https://github.com/k-o-n-t-o-r/ghostlock-sm-g990b) : ![starts](https://img.shields.io/github/stars/k-o-n-t-o-r/ghostlock-sm-g990b.svg) ![forks](https://img.shields.io/github/forks/k-o-n-t-o-r/ghostlock-sm-g990b.svg)
+
+- [https://github.com/BH3GEI/honor-aap-an00-root-skill](https://github.com/BH3GEI/honor-aap-an00-root-skill) : ![starts](https://img.shields.io/github/stars/BH3GEI/honor-aap-an00-root-skill.svg) ![forks](https://img.shields.io/github/forks/BH3GEI/honor-aap-an00-root-skill.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
