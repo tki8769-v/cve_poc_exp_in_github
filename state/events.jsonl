@@ -4715,3 +4715,4 @@
 {"cve_id": "CVE-2026-72714", "ts": "2026-10-25T13:54:01Z", "type": "new_poc", "url": "https://github.com/endrazine/rocq-cve-poc-22287"}
 {"cve_id": "CVE-2024-21762", "ts": "2026-10-25T13:55:33Z", "type": "new_poc", "url": "https://github.com/izancxg/CVE-2024-21762-Safe-Check"}
 {"cve_id": "CVE-2022-1015", "ts": "2026-10-25T13:59:39Z", "type": "new_poc", "url": "https://github.com/uz56764/CVE-2022-1015"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-25T14:04:10Z", "type": "new_poc", "url": "https://github.com/Taz1920/PHP-Canarywall"}

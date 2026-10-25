@@ -15,7 +15,7 @@
     },
     "clean_apply": {
       "affected_years": [],
-      "applied_at": "2026-10-25T14:03:49Z",
+      "applied_at": "2026-10-25T14:14:01Z",
       "applied_rejected": 0,
       "revoked_accepted": 0,
       "revoked_rejected": 0,
@@ -39,16 +39,16 @@
     },
     "queue": {
       "due_by_priority": {
-        "0": 3244,
-        "5": 3603,
-        "8": 20557
+        "0": 3094,
+        "5": 3513,
+        "8": 20534
       },
-      "due_now": 27404,
-      "oldest_due": "2026-10-13T07:13:34Z",
+      "due_now": 27141,
+      "oldest_due": "2026-10-13T07:23:48Z",
       "oldest_due_by_priority": {
         "0": "2026-10-23T20:32:41Z",
-        "5": "2026-10-22T14:44:44Z",
-        "8": "2026-10-13T07:13:34Z"
+        "5": "2026-10-22T15:03:29Z",
+        "8": "2026-10-13T07:23:48Z"
       },
       "tasks_total": 41174
     },
@@ -61,15 +61,15 @@
       "rule_version": "2"
     },
     "render": {
-      "changed_files": 6
+      "changed_files": 3
     },
     "repo_pushed": {
-      "accepted_existing": 41,
+      "accepted_existing": 31,
       "blocked": 0,
       "cursor_advanced": false,
       "invalid_ids": 0,
-      "needs_review": 29,
-      "new_relations": 3,
+      "needs_review": 28,
+      "new_relations": 1,
       "rejected_at_collection": 0,
       "repos_seen": 300,
       "requests_used": 3,
@@ -94,19 +94,19 @@
       "partial_days_dropped": 0,
       "partial_days_pending": 0,
       "rejected_at_collection": 0,
-      "repos_seen": 74,
+      "repos_seen": 75,
       "requests_used": 1,
       "warning": null,
       "window": "2026-10-25..2026-10-25"
     },
     "scan": {
-      "blocked": 1,
+      "blocked": 2,
       "budget_stopped": true,
       "incomplete": 0,
       "invalid_id_skipped": 0,
-      "needs_review": 36,
-      "new_relations": 2,
-      "rejected_at_collection": 5,
+      "needs_review": 17,
+      "new_relations": 0,
+      "rejected_at_collection": 7,
       "scanned": 300,
       "scanned_by_priority": {
         "0": 151,
@@ -129,18 +129,18 @@
       "releases_seen": 30
     },
     "timing": {
-      "backfill_conflicts": 8.804,
-      "backfill_queue": 0.154,
-      "clean_apply": 0.228,
-      "official_refs": 0.03,
-      "queue": 0.172,
-      "recheck": 0.134,
-      "render": 0.568,
-      "repo_pushed": 11.378,
-      "repo_watch": 5.547,
-      "scan": 578.775,
-      "sync": 0.662,
-      "verify": 0.399
+      "backfill_conflicts": 8.618,
+      "backfill_queue": 0.176,
+      "clean_apply": 0.179,
+      "official_refs": 0.039,
+      "queue": 0.156,
+      "recheck": 0.12,
+      "render": 0.588,
+      "repo_pushed": 10.755,
+      "repo_watch": 5.622,
+      "scan": 578.943,
+      "sync": 0.63,
+      "verify": 0.389
     },
     "verify": {
       "downstream_checked": true,
@@ -149,5 +149,5 @@
       "problems": []
     }
   },
-  "ts": "2026-10-25T14:03:51Z"
+  "ts": "2026-10-25T14:14:02Z"
 }

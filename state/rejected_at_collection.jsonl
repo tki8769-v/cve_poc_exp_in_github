@@ -2003,3 +2003,10 @@
 {"cve_id": "CVE-2022-3000", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T13:58:45Z", "url": "https://github.com/ComparedArray/printix-CVE-2022-30006", "url_ids": ["CVE-2022-30006"]}
 {"cve_id": "CVE-2026-5549", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T14:01:43Z", "url": "https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE", "url_ids": ["CVE-2026-55494", "CVE-2026-62308"]}
 {"cve_id": "CVE-2023-3881", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T14:01:48Z", "url": "https://github.com/SecSecBurger/CVE-2023-38817", "url_ids": ["CVE-2023-38817"]}
+{"cve_id": "CVE-2022-2586", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T14:04:41Z", "url": "https://github.com/neverendingsupport/angularjs-poc-cve-2022-25869", "url_ids": ["CVE-2022-25869"]}
+{"cve_id": "CVE-2026-6327", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T14:05:49Z", "url": "https://github.com/HORKimhab/CVE-2026-63277", "url_ids": ["CVE-2026-63277"]}
+{"cve_id": "CVE-2026-3415", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T14:06:45Z", "url": "https://github.com/casp3r0x0/CVE-2026-34159", "url_ids": ["CVE-2026-34159"]}
+{"cve_id": "CVE-2026-3415", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T14:06:45Z", "url": "https://github.com/0xBlackash/CVE-2026-34156", "url_ids": ["CVE-2026-34156"]}
+{"cve_id": "CVE-2022-3564", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T14:06:53Z", "url": "https://github.com/antoinenguyen-09/CVE-2022-35649", "url_ids": ["CVE-2022-35649"]}
+{"cve_id": "CVE-2024-3605", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T14:09:57Z", "url": "https://github.com/hacklantic/CVE-2024-36058", "url_ids": ["CVE-2024-36058"]}
+{"cve_id": "CVE-2024-3605", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T14:09:57Z", "url": "https://github.com/hacklantic/CVE-2024-36057", "url_ids": ["CVE-2024-36057"]}

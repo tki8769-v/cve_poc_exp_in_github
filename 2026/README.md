@@ -1060,6 +1060,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/testerxma/php2shellX](https://github.com/testerxma/php2shellX) : ![starts](https://img.shields.io/github/stars/testerxma/php2shellX.svg) ![forks](https://img.shields.io/github/forks/testerxma/php2shellX.svg)
 
+- [https://github.com/Taz1920/PHP-Canarywall](https://github.com/Taz1920/PHP-Canarywall) : ![starts](https://img.shields.io/github/stars/Taz1920/PHP-Canarywall.svg) ![forks](https://img.shields.io/github/forks/Taz1920/PHP-Canarywall.svg)
+
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
