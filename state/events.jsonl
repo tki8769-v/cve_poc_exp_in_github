@@ -4679,3 +4679,4 @@
 {"cve_id": "CVE-2026-105445", "ts": "2026-10-25T06:18:55Z", "type": "new_poc", "url": "https://github.com/CompleTetech-Security/docker-hub-pat-check"}
 {"cve_id": "CVE-2023-4622", "ts": "2026-10-25T06:19:56Z", "type": "new_poc", "url": "https://github.com/uz56764/CVE-CVE-2023-4622"}
 {"cve_id": "CVE-2024-48990", "ts": "2026-10-25T06:24:05Z", "type": "new_poc", "url": "https://github.com/endermixxer/CVE-2024-48990_needrestart"}
+{"cve_id": "CVE-2026-99999", "ts": "2026-10-25T06:29:26Z", "type": "new_poc", "url": "https://github.com/unixreaper/CVE-2026-99999-Research"}
