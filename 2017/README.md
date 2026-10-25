@@ -2683,6 +2683,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 
 - [https://github.com/TheWay-hue/CVE-2017-5689-Checker](https://github.com/TheWay-hue/CVE-2017-5689-Checker) : ![starts](https://img.shields.io/github/stars/TheWay-hue/CVE-2017-5689-Checker.svg) ![forks](https://img.shields.io/github/forks/TheWay-hue/CVE-2017-5689-Checker.svg)
 
+- [https://github.com/aix567/C-A-S](https://github.com/aix567/C-A-S) : ![starts](https://img.shields.io/github/stars/aix567/C-A-S.svg) ![forks](https://img.shields.io/github/forks/aix567/C-A-S.svg)
+
 ## CVE-2017-5645
  In Apache Log4j 2.x before 2.8.2, when using the TCP socket server or UDP socket server to receive serialized log events from another application, a specially crafted binary payload can be sent that, when deserialized, can execute arbitrary code.
 

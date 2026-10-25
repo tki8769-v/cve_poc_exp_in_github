@@ -6471,6 +6471,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/azu/msgpack-CVE-2021-23410-test](https://github.com/azu/msgpack-CVE-2021-23410-test) : ![starts](https://img.shields.io/github/stars/azu/msgpack-CVE-2021-23410-test.svg) ![forks](https://img.shields.io/github/forks/azu/msgpack-CVE-2021-23410-test.svg)
 
+- [https://github.com/risvensehiraxt/msgpack-CVE-2021-23410-test.hpp](https://github.com/risvensehiraxt/msgpack-CVE-2021-23410-test.hpp) : ![starts](https://img.shields.io/github/stars/risvensehiraxt/msgpack-CVE-2021-23410-test.hpp.svg) ![forks](https://img.shields.io/github/forks/risvensehiraxt/msgpack-CVE-2021-23410-test.hpp.svg)
+
 ## CVE-2021-23394
  The package studio-42/elfinder before 2.1.58 are vulnerable to Remote Code Execution (RCE) via execution of PHP code in a .phar file. NOTE: This only applies if the server parses .phar files as PHP.
 

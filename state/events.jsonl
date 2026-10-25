@@ -4747,3 +4747,11 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-10-25T20:02:58Z", "type": "new_poc", "url": "https://github.com/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-25T20:03:10Z", "type": "new_poc", "url": "https://github.com/Opathedane/php2shell"}
 {"cve_id": "CVE-2026-51954", "ts": "2026-10-25T20:12:01Z", "type": "new_poc", "url": "https://github.com/envincion1991-cmyk/CVE-2026-51954"}
+{"cve_id": "CVE-2026-116105", "ts": "2026-10-25T23:21:23Z", "type": "new_poc", "url": "https://github.com/ohackercego/CVE-2026-116105"}
+{"cve_id": "CVE-2026-112325", "ts": "2026-10-25T23:21:23Z", "type": "new_poc", "url": "https://github.com/j0xh-sec/CVE-2026-112325"}
+{"cve_id": "CVE-2026-116106", "ts": "2026-10-25T23:21:23Z", "type": "new_poc", "url": "https://github.com/ohackercego/CVE-2026-116106"}
+{"cve_id": "CVE-2026-116191", "ts": "2026-10-25T23:21:24Z", "type": "new_poc", "url": "https://github.com/asvorg/CVE-2026-116191-poc"}
+{"cve_id": "CVE-2021-23410", "ts": "2026-10-25T23:21:24Z", "type": "new_poc", "url": "https://github.com/risvensehiraxt/msgpack-CVE-2021-23410-test.hpp"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-25T23:21:26Z", "type": "new_poc", "url": "https://github.com/daothinh/php2shell-monitor-rz"}
+{"cve_id": "CVE-2017-5689", "ts": "2026-10-25T23:21:27Z", "type": "new_poc", "url": "https://github.com/aix567/C-A-S"}
+{"cve_id": "CVE-2026-115560", "ts": "2026-10-25T23:22:22Z", "type": "new_poc", "url": "https://github.com/slabbdev/php-cve-2026-115560-kit"}
