@@ -2383,6 +2383,8 @@ The specific flaw exists within the smtp service, which listens on TCP port 25 b
 
 - [https://github.com/lambertse/MOcha](https://github.com/lambertse/MOcha) : ![starts](https://img.shields.io/github/stars/lambertse/MOcha.svg) ![forks](https://img.shields.io/github/forks/lambertse/MOcha.svg)
 
+- [https://github.com/lambertse/CoreTrust-bypass](https://github.com/lambertse/CoreTrust-bypass) : ![starts](https://img.shields.io/github/stars/lambertse/CoreTrust-bypass.svg) ![forks](https://img.shields.io/github/forks/lambertse/CoreTrust-bypass.svg)
+
 ## CVE-2023-41898
  Home assistant is an open source home automation. The Home Assistant Companion for Android app up to version 2023.8.2 is vulnerable to arbitrary URL loading in a WebView. This enables all sorts of attacks, including arbitrary JavaScript execution, limited native code execution, and credential theft. This issue has been patched in version 2023.9.2 and all users are advised to upgrade. There are no known workarounds for this vulnerability. This issue is also tracked as GitHub Security Lab (GHSL) Vulnerability Report: `GHSL-2023-142`.
 

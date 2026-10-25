@@ -77,6 +77,8 @@
 
 - [https://github.com/techupdate24/python-pillow-rce-cve-2026-112900](https://github.com/techupdate24/python-pillow-rce-cve-2026-112900) : ![starts](https://img.shields.io/github/stars/techupdate24/python-pillow-rce-cve-2026-112900.svg) ![forks](https://img.shields.io/github/forks/techupdate24/python-pillow-rce-cve-2026-112900.svg)
 
+- [https://github.com/moprius/CVE-2026-112900-Pillow-PoC](https://github.com/moprius/CVE-2026-112900-Pillow-PoC) : ![starts](https://img.shields.io/github/stars/moprius/CVE-2026-112900-Pillow-PoC.svg) ![forks](https://img.shields.io/github/forks/moprius/CVE-2026-112900-Pillow-PoC.svg)
+
 ## CVE-2026-112403
 > Pillow is a Python imaging library. Prior to 13.0.0, Pillow&#x27;s JPEG decoder can write a full-width scanline into a buffer sized for a requested draft scale. ImagingJpegDecode does not verify libjpeg&#x27;s actual output width and component count after scaling is requested, and an 8-bit lossless SOF3 JPEG decoded by a build linked to libjpeg-turbo 3.x can ignore the requested downscaling geometry. An attacker can supply such a JPEG to an application that uses draft() or thumbnail() to request downscali
 
@@ -201,6 +203,12 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/mnk-works/cve-2026-111497-rce-checker](https://github.com/mnk-works/cve-2026-111497-rce-checker) : ![starts](https://img.shields.io/github/stars/mnk-works/cve-2026-111497-rce-checker.svg) ![forks](https://img.shields.io/github/forks/mnk-works/cve-2026-111497-rce-checker.svg)
 
 - [https://github.com/syrex1013/CVE-2026-111497-node2shell](https://github.com/syrex1013/CVE-2026-111497-node2shell) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-111497-node2shell.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-111497-node2shell.svg)
+
+- [https://github.com/assetnote/node2shell-scanner](https://github.com/assetnote/node2shell-scanner) : ![starts](https://img.shields.io/github/stars/assetnote/node2shell-scanner.svg) ![forks](https://img.shields.io/github/forks/assetnote/node2shell-scanner.svg)
+
+- [https://github.com/GlobularOne/HTTP2Shell-PoC](https://github.com/GlobularOne/HTTP2Shell-PoC) : ![starts](https://img.shields.io/github/stars/GlobularOne/HTTP2Shell-PoC.svg) ![forks](https://img.shields.io/github/forks/GlobularOne/HTTP2Shell-PoC.svg)
+
+- [https://github.com/yavuzsemih/brotli-secfix](https://github.com/yavuzsemih/brotli-secfix) : ![starts](https://img.shields.io/github/stars/yavuzsemih/brotli-secfix.svg) ![forks](https://img.shields.io/github/forks/yavuzsemih/brotli-secfix.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -469,6 +477,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy](https://github.com/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy) : ![starts](https://img.shields.io/github/stars/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy.svg) ![forks](https://img.shields.io/github/forks/vintage-alt/CVE-2026-109618-and-CVE-2026-109619-php2shell-burpproxy.svg)
 
 - [https://github.com/utkarsssh17/cve-2026-109619-php-uaf-poc](https://github.com/utkarsssh17/cve-2026-109619-php-uaf-poc) : ![starts](https://img.shields.io/github/stars/utkarsssh17/cve-2026-109619-php-uaf-poc.svg) ![forks](https://img.shields.io/github/forks/utkarsssh17/cve-2026-109619-php-uaf-poc.svg)
+
+- [https://github.com/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-](https://github.com/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-) : ![starts](https://img.shields.io/github/stars/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-.svg) ![forks](https://img.shields.io/github/forks/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-.svg)
+
+- [https://github.com/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619](https://github.com/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -1003,6 +1015,16 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/utkarsssh17/cve-2026-109618-php2shell-poc](https://github.com/utkarsssh17/cve-2026-109618-php2shell-poc) : ![starts](https://img.shields.io/github/stars/utkarsssh17/cve-2026-109618-php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/utkarsssh17/cve-2026-109618-php2shell-poc.svg)
 
+- [https://github.com/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-](https://github.com/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-) : ![starts](https://img.shields.io/github/stars/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-.svg) ![forks](https://img.shields.io/github/forks/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-.svg)
+
+- [https://github.com/AbacusNin/php-radar](https://github.com/AbacusNin/php-radar) : ![starts](https://img.shields.io/github/stars/AbacusNin/php-radar.svg) ![forks](https://img.shields.io/github/forks/AbacusNin/php-radar.svg)
+
+- [https://github.com/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619](https://github.com/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg)
+
+- [https://github.com/StiJans/php8-cve-109618-109619-fix](https://github.com/StiJans/php8-cve-109618-109619-fix) : ![starts](https://img.shields.io/github/stars/StiJans/php8-cve-109618-109619-fix.svg) ![forks](https://img.shields.io/github/forks/StiJans/php8-cve-109618-109619-fix.svg)
+
+- [https://github.com/darkLabz001/php2shell-audit](https://github.com/darkLabz001/php2shell-audit) : ![starts](https://img.shields.io/github/stars/darkLabz001/php2shell-audit.svg) ![forks](https://img.shields.io/github/forks/darkLabz001/php2shell-audit.svg)
+
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
@@ -1194,6 +1216,8 @@ This vulnerability affects Node.js **26.x**, *
 `tls.checkServerIdentity()` did not classify these hosts as IP addresses, but normalized them to their canonical form and matched the result against the certificate DNS names. A certificate containing `DNS:127.0.0.1` and no `IP Address:127.0.0.1` SAN was there
 
 - [https://github.com/CompleteTech-LLC/node-cve-2026-106072-check](https://github.com/CompleteTech-LLC/node-cve-2026-106072-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/node-cve-2026-106072-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/node-cve-2026-106072-check.svg)
+
+- [https://github.com/CompleTetech-Security/node-cve-2026-106072-check](https://github.com/CompleTetech-Security/node-cve-2026-106072-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/node-cve-2026-106072-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/node-cve-2026-106072-check.svg)
 
 ## CVE-2026-106071
 > A flaw in Node.js Permission Model filesystem enforcement can grant access to paths that do not match a wildcard `--allow-fs-read` or `--allow-fs-write` rule.
@@ -2821,6 +2845,8 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 
 - [https://github.com/CompleteTech-LLC/netscaler-cve-2026-88776-check](https://github.com/CompleteTech-LLC/netscaler-cve-2026-88776-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/netscaler-cve-2026-88776-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/netscaler-cve-2026-88776-check.svg)
 
+- [https://github.com/CompleTetech-Security/netscaler-cve-2026-88776-check](https://github.com/CompleTetech-Security/netscaler-cve-2026-88776-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/netscaler-cve-2026-88776-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/netscaler-cve-2026-88776-check.svg)
+
 ## CVE-2026-88775
 > Memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.
 
@@ -2877,6 +2903,10 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 - [https://github.com/watchtowrlabs/citrix-netscaler-cve-2026-88771-iocs](https://github.com/watchtowrlabs/citrix-netscaler-cve-2026-88771-iocs) : ![starts](https://img.shields.io/github/stars/watchtowrlabs/citrix-netscaler-cve-2026-88771-iocs.svg) ![forks](https://img.shields.io/github/forks/watchtowrlabs/citrix-netscaler-cve-2026-88771-iocs.svg)
 
 - [https://github.com/CompleteTech-LLC/netscaler-cve-2026-88771-check](https://github.com/CompleteTech-LLC/netscaler-cve-2026-88771-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/netscaler-cve-2026-88771-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/netscaler-cve-2026-88771-check.svg)
+
+## CVE-2026-88009
+
+- [https://github.com/Boreas37/CVE-2026-88009-PoC](https://github.com/Boreas37/CVE-2026-88009-PoC) : ![starts](https://img.shields.io/github/stars/Boreas37/CVE-2026-88009-PoC.svg) ![forks](https://img.shields.io/github/forks/Boreas37/CVE-2026-88009-PoC.svg)
 
 ## CVE-2026-88008
 
@@ -3045,6 +3075,10 @@ This issue affects enVision: before 260655.
 
 - [https://github.com/0xSemizzz/CVE-2026-86476](https://github.com/0xSemizzz/CVE-2026-86476) : ![starts](https://img.shields.io/github/stars/0xSemizzz/CVE-2026-86476.svg) ![forks](https://img.shields.io/github/forks/0xSemizzz/CVE-2026-86476.svg)
 
+## CVE-2026-86426
+
+- [https://github.com/Guila95/CVE-2026-86426](https://github.com/Guila95/CVE-2026-86426) : ![starts](https://img.shields.io/github/stars/Guila95/CVE-2026-86426.svg) ![forks](https://img.shields.io/github/forks/Guila95/CVE-2026-86426.svg)
+
 ## CVE-2026-86350
 > Inconsistent interpretation of HTTP/2 requests (&#x27;HTTP Request/Response smuggling&#x27;) vulnerability in Apache Tomcat caused by a regression in fix for CVE-2026-41293 can trigger request header mix-up.
 
@@ -3080,6 +3114,10 @@ Users are recommended to upgrade to version 11.0.26, 10.1.60 or 9.0.122, which f
 ## CVE-2026-86086
 
 - [https://github.com/D7EAD/CVE-2026-86086](https://github.com/D7EAD/CVE-2026-86086) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-86086.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-86086.svg)
+
+## CVE-2026-86076
+
+- [https://github.com/Boreas37/CVE-2026-86076-PoC](https://github.com/Boreas37/CVE-2026-86076-PoC) : ![starts](https://img.shields.io/github/stars/Boreas37/CVE-2026-86076-PoC.svg) ![forks](https://img.shields.io/github/forks/Boreas37/CVE-2026-86076-PoC.svg)
 
 ## CVE-2026-86060
  RouterOS contains an argument-handling flaw in the SSH login
@@ -3155,6 +3193,11 @@ path involving usernames that begin with a prohibited character, allowing for th
  OpenPanel before 2.3.0 contains an unauthenticated server-side request forgery vulnerability in the /misc/favicon and /misc/og endpoints that accept an attacker-supplied url parameter with insufficient validation. Attackers can force the API to fetch arbitrary internal hosts and cloud metadata endpoints, with small responses returned verbatim enabling credential theft and internal service enumeration.
 
 - [https://github.com/hotplugin0x01/CVE-2026-85612](https://github.com/hotplugin0x01/CVE-2026-85612) : ![starts](https://img.shields.io/github/stars/hotplugin0x01/CVE-2026-85612.svg) ![forks](https://img.shields.io/github/forks/hotplugin0x01/CVE-2026-85612.svg)
+
+## CVE-2026-85595
+> Traefik versions before v2.11.55 and versions v3.0.0 through v3.7.10 contain an authentication bypass vulnerability in the digestAuth middleware where unknown usernames receive an empty secret instead of rejection. Attackers can compute a valid digest response using the empty secret and arbitrary credentials to bypass authentication on any digestAuth-protected route without a valid username or password.
+
+- [https://github.com/Boreas37/CVE-2026-85595-PoC](https://github.com/Boreas37/CVE-2026-85595-PoC) : ![starts](https://img.shields.io/github/stars/Boreas37/CVE-2026-85595-PoC.svg) ![forks](https://img.shields.io/github/forks/Boreas37/CVE-2026-85595-PoC.svg)
 
 ## CVE-2026-85520
 > Google Merchant Center Feed (gmfeed) module for PrestaShop is vulnerable to unauthenticated arbitrary file write in the feed.php endpoint. An unauthenticated attacker can send a crafted request that controls the output file name, path, extension, and content through request parameters. Due to the lack of authentication and input validation, the request is processed successfully, allowing an attacker to write and execute arbitrary PHP code, resulting in remote code execution (RCE).
@@ -3351,6 +3394,10 @@ This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.
 unmarshal() verified the modification detection code only when the message was an OpenPGP symmetrically encrypted integrity protected data packet. The older symmetrically encrypted data packet carries no such code, and OpenPGP&#x27;s CFB mode is malleable without one, so a message using that packet skipped the check al
 
 - [https://github.com/oscerd/CVE-2026-85243](https://github.com/oscerd/CVE-2026-85243) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85243.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85243.svg)
+
+## CVE-2026-85168
+
+- [https://github.com/Boreas37/CVE-2026-85168-PoC](https://github.com/Boreas37/CVE-2026-85168-PoC) : ![starts](https://img.shields.io/github/stars/Boreas37/CVE-2026-85168-PoC.svg) ![forks](https://img.shields.io/github/forks/Boreas37/CVE-2026-85168-PoC.svg)
 
 ## CVE-2026-85102
 > Improper certificate trust validation during VPN negotiation in Check Point Quantum Security Gateway may allow an unauthenticated remote attacker to execute arbitrary code on the Gateway.
@@ -11971,6 +12018,8 @@ destination-frag path or fall back to skb_cow_data().
 - [https://github.com/tangdino222/DirtyFrag](https://github.com/tangdino222/DirtyFrag) : ![starts](https://img.shields.io/github/stars/tangdino222/DirtyFrag.svg) ![forks](https://img.shields.io/github/forks/tangdino222/DirtyFrag.svg)
 
 - [https://github.com/RemiPelloux/GalaxyCrash](https://github.com/RemiPelloux/GalaxyCrash) : ![starts](https://img.shields.io/github/stars/RemiPelloux/GalaxyCrash.svg) ![forks](https://img.shields.io/github/forks/RemiPelloux/GalaxyCrash.svg)
+
+- [https://github.com/yameteeee-kudasaiiiiiii90/DFRoot](https://github.com/yameteeee-kudasaiiiiiii90/DFRoot) : ![starts](https://img.shields.io/github/stars/yameteeee-kudasaiiiiiii90/DFRoot.svg) ![forks](https://img.shields.io/github/forks/yameteeee-kudasaiiiiiii90/DFRoot.svg)
 
 ## CVE-2026-43074
  In the Linux kernel, the following vulnerability has been resolved:
@@ -49773,6 +49822,10 @@ when someone on the local network repeatedly requests the /accessdenied URL.
 
 - [https://github.com/bevennyamande/CVE-2024-10448](https://github.com/bevennyamande/CVE-2024-10448) : ![starts](https://img.shields.io/github/stars/bevennyamande/CVE-2024-10448.svg) ![forks](https://img.shields.io/github/forks/bevennyamande/CVE-2024-10448.svg)
 
+## CVE-2024-10441
+
+- [https://github.com/Ntn10/cve-2024-10441-synology-rce](https://github.com/Ntn10/cve-2024-10441-synology-rce) : ![starts](https://img.shields.io/github/stars/Ntn10/cve-2024-10441-synology-rce.svg) ![forks](https://img.shields.io/github/forks/Ntn10/cve-2024-10441-synology-rce.svg)
+
 ## CVE-2024-10410
  A vulnerability classified as critical was found in SourceCodester Online Hotel Reservation System 1.0. Affected by this vulnerability is the function upload of the file /admin/mod_room/controller.php?action=add. The manipulation of the argument image leads to unrestricted upload. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.
 
@@ -55688,6 +55741,8 @@ The specific flaw exists within the smtp service, which listens on TCP port 25 b
 - [https://github.com/dmytrozykov/appsign](https://github.com/dmytrozykov/appsign) : ![starts](https://img.shields.io/github/stars/dmytrozykov/appsign.svg) ![forks](https://img.shields.io/github/forks/dmytrozykov/appsign.svg)
 
 - [https://github.com/lambertse/MOcha](https://github.com/lambertse/MOcha) : ![starts](https://img.shields.io/github/stars/lambertse/MOcha.svg) ![forks](https://img.shields.io/github/forks/lambertse/MOcha.svg)
+
+- [https://github.com/lambertse/CoreTrust-bypass](https://github.com/lambertse/CoreTrust-bypass) : ![starts](https://img.shields.io/github/stars/lambertse/CoreTrust-bypass.svg) ![forks](https://img.shields.io/github/forks/lambertse/CoreTrust-bypass.svg)
 
 ## CVE-2023-41898
  Home assistant is an open source home automation. The Home Assistant Companion for Android app up to version 2023.8.2 is vulnerable to arbitrary URL loading in a WebView. This enables all sorts of attacks, including arbitrary JavaScript execution, limited native code execution, and credential theft. This issue has been patched in version 2023.9.2 and all users are advised to upgrade. There are no known workarounds for this vulnerability. This issue is also tracked as GitHub Security Lab (GHSL) Vulnerability Report: `GHSL-2023-142`.

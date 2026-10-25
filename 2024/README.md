@@ -9240,6 +9240,10 @@ when someone on the local network repeatedly requests the /accessdenied URL.
 
 - [https://github.com/bevennyamande/CVE-2024-10448](https://github.com/bevennyamande/CVE-2024-10448) : ![starts](https://img.shields.io/github/stars/bevennyamande/CVE-2024-10448.svg) ![forks](https://img.shields.io/github/forks/bevennyamande/CVE-2024-10448.svg)
 
+## CVE-2024-10441
+
+- [https://github.com/Ntn10/cve-2024-10441-synology-rce](https://github.com/Ntn10/cve-2024-10441-synology-rce) : ![starts](https://img.shields.io/github/stars/Ntn10/cve-2024-10441-synology-rce.svg) ![forks](https://img.shields.io/github/forks/Ntn10/cve-2024-10441-synology-rce.svg)
+
 ## CVE-2024-10410
  A vulnerability classified as critical was found in SourceCodester Online Hotel Reservation System 1.0. Affected by this vulnerability is the function upload of the file /admin/mod_room/controller.php?action=add. The manipulation of the argument image leads to unrestricted upload. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.
 
