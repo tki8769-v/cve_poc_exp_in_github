@@ -8042,6 +8042,8 @@ A fix has been prepared and will appear in v2.39.2 v2.38.4 v2.37.6 v2.36.5 v2.35
 
 - [https://github.com/yosef0x01/CVE-2023-21752](https://github.com/yosef0x01/CVE-2023-21752) : ![starts](https://img.shields.io/github/stars/yosef0x01/CVE-2023-21752.svg) ![forks](https://img.shields.io/github/forks/yosef0x01/CVE-2023-21752.svg)
 
+- [https://github.com/SamDHarrison/Compiled-CVE-2023-21752](https://github.com/SamDHarrison/Compiled-CVE-2023-21752) : ![starts](https://img.shields.io/github/stars/SamDHarrison/Compiled-CVE-2023-21752.svg) ![forks](https://img.shields.io/github/forks/SamDHarrison/Compiled-CVE-2023-21752.svg)
+
 ## CVE-2023-21746
  Windows NTLM Elevation of Privilege Vulnerability
 

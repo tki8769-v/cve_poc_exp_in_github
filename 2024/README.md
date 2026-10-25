@@ -2294,6 +2294,8 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 
 - [https://github.com/synacktiv/CVE-2024-45409](https://github.com/synacktiv/CVE-2024-45409) : ![starts](https://img.shields.io/github/stars/synacktiv/CVE-2024-45409.svg) ![forks](https://img.shields.io/github/forks/synacktiv/CVE-2024-45409.svg)
 
+- [https://github.com/barkotenicholas/CVE-2024-45409](https://github.com/barkotenicholas/CVE-2024-45409) : ![starts](https://img.shields.io/github/stars/barkotenicholas/CVE-2024-45409.svg) ![forks](https://img.shields.io/github/forks/barkotenicholas/CVE-2024-45409.svg)
+
 ## CVE-2024-45383
  A mishandling of IRP requests vulnerability exists in the HDAudBus_DMA interface of Microsoft High Definition Audio Bus Driver 10.0.19041.3636 (WinBuild.160101.0800). A specially crafted application can issue multiple IRP Complete requests which leads to a local denial-of-service. An attacker can execute malicious script/application to trigger this vulnerability.
 

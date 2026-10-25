@@ -979,6 +979,8 @@
 
 - [https://github.com/Maalfer/CVE-2020-25213-exploit](https://github.com/Maalfer/CVE-2020-25213-exploit) : ![starts](https://img.shields.io/github/stars/Maalfer/CVE-2020-25213-exploit.svg) ![forks](https://img.shields.io/github/forks/Maalfer/CVE-2020-25213-exploit.svg)
 
+- [https://github.com/rigby721/CEV-2020-25213_wp-file-manger_exploit](https://github.com/rigby721/CEV-2020-25213_wp-file-manger_exploit) : ![starts](https://img.shields.io/github/stars/rigby721/CEV-2020-25213_wp-file-manger_exploit.svg) ![forks](https://img.shields.io/github/forks/rigby721/CEV-2020-25213_wp-file-manger_exploit.svg)
+
 ## CVE-2020-25200
  Pritunl 1.29.2145.25 allows attackers to enumerate valid VPN usernames via a series of /auth/session login attempts. Initially, the server will return error 401. However, if the username is valid, then after 20 login attempts, the server will start responding with error 400. Invalid usernames will receive error 401 indefinitely. Note: This has been disputed by the vendor as not a vulnerability. They argue that this is an intended design
 

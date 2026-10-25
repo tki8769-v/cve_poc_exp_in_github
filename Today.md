@@ -1,4 +1,16 @@
 # Update 2026-10-25
+## CVE-2020-25213
+
+- [https://github.com/rigby721/CEV-2020-25213_wp-file-manger_exploit](https://github.com/rigby721/CEV-2020-25213_wp-file-manger_exploit) : ![starts](https://img.shields.io/github/stars/rigby721/CEV-2020-25213_wp-file-manger_exploit.svg) ![forks](https://img.shields.io/github/forks/rigby721/CEV-2020-25213_wp-file-manger_exploit.svg)
+
+## CVE-2021-44228
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-4](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-4) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-4.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-4.svg)
+
+## CVE-2023-21752
+
+- [https://github.com/SamDHarrison/Compiled-CVE-2023-21752](https://github.com/SamDHarrison/Compiled-CVE-2023-21752) : ![starts](https://img.shields.io/github/stars/SamDHarrison/Compiled-CVE-2023-21752.svg) ![forks](https://img.shields.io/github/forks/SamDHarrison/Compiled-CVE-2023-21752.svg)
+
 ## CVE-2023-41991
 
 - [https://github.com/lambertse/CoreTrust-bypass](https://github.com/lambertse/CoreTrust-bypass) : ![starts](https://img.shields.io/github/stars/lambertse/CoreTrust-bypass.svg) ![forks](https://img.shields.io/github/forks/lambertse/CoreTrust-bypass.svg)
@@ -10,6 +22,10 @@
 ## CVE-2024-10441
 
 - [https://github.com/Ntn10/cve-2024-10441-synology-rce](https://github.com/Ntn10/cve-2024-10441-synology-rce) : ![starts](https://img.shields.io/github/stars/Ntn10/cve-2024-10441-synology-rce.svg) ![forks](https://img.shields.io/github/forks/Ntn10/cve-2024-10441-synology-rce.svg)
+
+## CVE-2024-45409
+
+- [https://github.com/barkotenicholas/CVE-2024-45409](https://github.com/barkotenicholas/CVE-2024-45409) : ![starts](https://img.shields.io/github/stars/barkotenicholas/CVE-2024-45409.svg) ![forks](https://img.shields.io/github/forks/barkotenicholas/CVE-2024-45409.svg)
 
 ## CVE-2024-48990
 
@@ -135,15 +151,25 @@ If any of these functions, or an API that relies on them such as `URL.createObje
 
 - [https://github.com/AbacusNin/php-radar](https://github.com/AbacusNin/php-radar) : ![starts](https://img.shields.io/github/stars/AbacusNin/php-radar.svg) ![forks](https://img.shields.io/github/forks/AbacusNin/php-radar.svg)
 - [https://github.com/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619](https://github.com/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg)
+- [https://github.com/StiJans/php7.4-cve-109618-109619-fix](https://github.com/StiJans/php7.4-cve-109618-109619-fix) : ![starts](https://img.shields.io/github/stars/StiJans/php7.4-cve-109618-109619-fix.svg) ![forks](https://img.shields.io/github/forks/StiJans/php7.4-cve-109618-109619-fix.svg)
 - [https://github.com/StiJans/php8-cve-109618-109619-fix](https://github.com/StiJans/php8-cve-109618-109619-fix) : ![starts](https://img.shields.io/github/stars/StiJans/php8-cve-109618-109619-fix.svg) ![forks](https://img.shields.io/github/forks/StiJans/php8-cve-109618-109619-fix.svg)
+- [https://github.com/StiJans/php8.1-cve-109618-109619-fix](https://github.com/StiJans/php8.1-cve-109618-109619-fix) : ![starts](https://img.shields.io/github/stars/StiJans/php8.1-cve-109618-109619-fix.svg) ![forks](https://img.shields.io/github/forks/StiJans/php8.1-cve-109618-109619-fix.svg)
+- [https://github.com/andreysheva/homebrew-php2shell-doctor](https://github.com/andreysheva/homebrew-php2shell-doctor) : ![starts](https://img.shields.io/github/stars/andreysheva/homebrew-php2shell-doctor.svg) ![forks](https://img.shields.io/github/forks/andreysheva/homebrew-php2shell-doctor.svg)
+- [https://github.com/andreysheva/php2shell-doctor](https://github.com/andreysheva/php2shell-doctor) : ![starts](https://img.shields.io/github/stars/andreysheva/php2shell-doctor.svg) ![forks](https://img.shields.io/github/forks/andreysheva/php2shell-doctor.svg)
+- [https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-free](https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-free) : ![starts](https://img.shields.io/github/stars/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-free.svg) ![forks](https://img.shields.io/github/forks/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-free.svg)
 - [https://github.com/darkLabz001/php2shell-audit](https://github.com/darkLabz001/php2shell-audit) : ![starts](https://img.shields.io/github/stars/darkLabz001/php2shell-audit.svg) ![forks](https://img.shields.io/github/forks/darkLabz001/php2shell-audit.svg)
+- [https://github.com/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) : ![starts](https://img.shields.io/github/stars/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg) ![forks](https://img.shields.io/github/forks/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg)
 - [https://github.com/isaca0315/cve-2026-109618-109619-session-upload-progress-trigger](https://github.com/isaca0315/cve-2026-109618-109619-session-upload-progress-trigger) : ![starts](https://img.shields.io/github/stars/isaca0315/cve-2026-109618-109619-session-upload-progress-trigger.svg) ![forks](https://img.shields.io/github/forks/isaca0315/cve-2026-109618-109619-session-upload-progress-trigger.svg)
+- [https://github.com/marcotorres/php2shell-demo](https://github.com/marcotorres/php2shell-demo) : ![starts](https://img.shields.io/github/stars/marcotorres/php2shell-demo.svg) ![forks](https://img.shields.io/github/forks/marcotorres/php2shell-demo.svg)
+- [https://github.com/mefulton/CVE-2026-109618-php56-public](https://github.com/mefulton/CVE-2026-109618-php56-public) : ![starts](https://img.shields.io/github/stars/mefulton/CVE-2026-109618-php56-public.svg) ![forks](https://img.shields.io/github/forks/mefulton/CVE-2026-109618-php56-public.svg)
 - [https://github.com/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-](https://github.com/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-) : ![starts](https://img.shields.io/github/stars/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-.svg) ![forks](https://img.shields.io/github/forks/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-.svg)
+- [https://github.com/testerxma/php2shellX](https://github.com/testerxma/php2shellX) : ![starts](https://img.shields.io/github/stars/testerxma/php2shellX.svg) ![forks](https://img.shields.io/github/forks/testerxma/php2shellX.svg)
 
 ## CVE-2026-109619
 > PHP has various global state that temporarily points into request memory. In some scenarios, global state may not be correctly reset, or may be repopulated after being reset. The global state may then refer to request memory even after it has been freed. Subsequent requests may read or branch on this stale state before it is fully initialized. Multiple strategies can trigger this condition and produce remote code execution (RCE).
 
 - [https://github.com/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619](https://github.com/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg)
+- [https://github.com/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) : ![starts](https://img.shields.io/github/stars/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg) ![forks](https://img.shields.io/github/forks/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg)
 - [https://github.com/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-](https://github.com/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-) : ![starts](https://img.shields.io/github/stars/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-.svg) ![forks](https://img.shields.io/github/forks/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-.svg)
 
 ## CVE-2026-111497
@@ -156,8 +182,11 @@ If any of these functions, or an API that relies on them such as `URL.createObje
 Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1
 
 - [https://github.com/GlobularOne/HTTP2Shell-PoC](https://github.com/GlobularOne/HTTP2Shell-PoC) : ![starts](https://img.shields.io/github/stars/GlobularOne/HTTP2Shell-PoC.svg) ![forks](https://img.shields.io/github/forks/GlobularOne/HTTP2Shell-PoC.svg)
+- [https://github.com/apaonum/brotli-cve-check](https://github.com/apaonum/brotli-cve-check) : ![starts](https://img.shields.io/github/stars/apaonum/brotli-cve-check.svg) ![forks](https://img.shields.io/github/forks/apaonum/brotli-cve-check.svg)
 - [https://github.com/assetnote/node2shell-scanner](https://github.com/assetnote/node2shell-scanner) : ![starts](https://img.shields.io/github/stars/assetnote/node2shell-scanner.svg) ![forks](https://img.shields.io/github/forks/assetnote/node2shell-scanner.svg)
 - [https://github.com/datmt/emudhra-fix](https://github.com/datmt/emudhra-fix) : ![starts](https://img.shields.io/github/stars/datmt/emudhra-fix.svg) ![forks](https://img.shields.io/github/forks/datmt/emudhra-fix.svg)
+- [https://github.com/lushinshang/cve-2026-111497-http2shell-guide](https://github.com/lushinshang/cve-2026-111497-http2shell-guide) : ![starts](https://img.shields.io/github/stars/lushinshang/cve-2026-111497-http2shell-guide.svg) ![forks](https://img.shields.io/github/forks/lushinshang/cve-2026-111497-http2shell-guide.svg)
+- [https://github.com/tani2shell/node2shell-lab](https://github.com/tani2shell/node2shell-lab) : ![starts](https://img.shields.io/github/stars/tani2shell/node2shell-lab.svg) ![forks](https://img.shields.io/github/forks/tani2shell/node2shell-lab.svg)
 - [https://github.com/yavuzsemih/brotli-secfix](https://github.com/yavuzsemih/brotli-secfix) : ![starts](https://img.shields.io/github/stars/yavuzsemih/brotli-secfix.svg) ![forks](https://img.shields.io/github/forks/yavuzsemih/brotli-secfix.svg)
 
 ## CVE-2026-112900
@@ -173,6 +202,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 > adm-zip before 0.6.1 contains a denial of service vulnerability that allows unauthenticated attackers to crash the Node.js process via a malformed ZIP file, because inflateAsync in methods/inflater.js lacks a zlib stream error listener. Attackers can supply a ZIP with corrupted DEFLATE data processed by readFileAsync, readAsTextAsync, extractAllToAsync, or getDataAsync, triggering an uncatchable exception that terminates all in-flight requests.
 
 - [https://github.com/anywaye/nilepatch-admzip-dos](https://github.com/anywaye/nilepatch-admzip-dos) : ![starts](https://img.shields.io/github/stars/anywaye/nilepatch-admzip-dos.svg) ![forks](https://img.shields.io/github/forks/anywaye/nilepatch-admzip-dos.svg)
+
+## CVE-2026-115560
+
+- [https://github.com/al4n4n/CVE-2026-115560](https://github.com/al4n4n/CVE-2026-115560) : ![starts](https://img.shields.io/github/stars/al4n4n/CVE-2026-115560.svg) ![forks](https://img.shields.io/github/forks/al4n4n/CVE-2026-115560.svg)
 
 ## CVE-2026-17106
 
@@ -194,6 +227,15 @@ This issue affects ADC: from 14.1 through 73.32 and from 13.1 through 63.21; Gat
 
 - [https://github.com/CompleTetech-Security/atlassian-cve-2026-21589-check](https://github.com/CompleTetech-Security/atlassian-cve-2026-21589-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/atlassian-cve-2026-21589-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/atlassian-cve-2026-21589-check.svg)
 
+## CVE-2026-21627
+
+- [https://github.com/SAIM28826/CVE-2026-21627](https://github.com/SAIM28826/CVE-2026-21627) : ![starts](https://img.shields.io/github/stars/SAIM28826/CVE-2026-21627.svg) ![forks](https://img.shields.io/github/forks/SAIM28826/CVE-2026-21627.svg)
+
+## CVE-2026-25262
+> Memory corruption while processing a crafted ELF file in the Primary Bootloader.
+
+- [https://github.com/Starry2233/cve-2026-25262-poc](https://github.com/Starry2233/cve-2026-25262-poc) : ![starts](https://img.shields.io/github/stars/Starry2233/cve-2026-25262-poc.svg) ![forks](https://img.shields.io/github/forks/Starry2233/cve-2026-25262-poc.svg)
+
 ## CVE-2026-43284
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -209,6 +251,27 @@ That leaves an ESP-in-UDP packet made from shared pipe pages looking
 
 
 - [https://github.com/yameteeee-kudasaiiiiiii90/DFRoot](https://github.com/yameteeee-kudasaiiiiiii90/DFRoot) : ![starts](https://img.shields.io/github/stars/yameteeee-kudasaiiiiiii90/DFRoot.svg) ![forks](https://img.shields.io/github/forks/yameteeee-kudasaiiiiiii90/DFRoot.svg)
+
+## CVE-2026-43499
+> In the Linux kernel, the following vulnerability has been resolved:
+
+rtmutex: Use waiter::task instead of current in remove_waiter()
+
+remove_waiter() is used by the slowlock paths, but it is also used for
+proxy-lock rollback in rt_mutex_start_proxy_lock() when invoked from
+futex_requeue().
+
+In the latter case waiter::task is not current, but remove_waiter()
+operates on current for the dequeue operation. That results in several
+problems:
+
+  1) the rbtree dequeue happens without waiter::task::pi_l
+
+- [https://github.com/crastatelvin/a12-ghostlock](https://github.com/crastatelvin/a12-ghostlock) : ![starts](https://img.shields.io/github/stars/crastatelvin/a12-ghostlock.svg) ![forks](https://img.shields.io/github/forks/crastatelvin/a12-ghostlock.svg)
+
+## CVE-2026-55781
+
+- [https://github.com/NT2DEV/CVE-2026-55781-poc](https://github.com/NT2DEV/CVE-2026-55781-poc) : ![starts](https://img.shields.io/github/stars/NT2DEV/CVE-2026-55781-poc.svg) ![forks](https://img.shields.io/github/forks/NT2DEV/CVE-2026-55781-poc.svg)
 
 ## CVE-2026-56846
 
@@ -254,9 +317,50 @@ That leaves an ESP-in-UDP packet made from shared pipe pages looking
 
 - [https://github.com/CompleTetech-Security/node-cve-2026-58045-check](https://github.com/CompleTetech-Security/node-cve-2026-58045-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/node-cve-2026-58045-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/node-cve-2026-58045-check.svg)
 
+## CVE-2026-64849
+> MLflow is an open source AI engineering platform for agents, large language models, and machine learning models. Starting in 3.3.0 and prior to 3.15.0, the unauthenticated POST /api/2.0/mlflow/webhooks/{id}/test endpoint calls _validate_webhook_url() in mlflow/utils/validation.py only for the original URL while mlflow/webhooks/delivery.py follows redirects and re-resolves the hostname without pinning the validated address, allowing attackers to reach internal or cloud metadata services and recei
+
+- [https://github.com/maxprog-svg/CVE-2026-64849](https://github.com/maxprog-svg/CVE-2026-64849) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-64849.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-64849.svg)
+
 ## CVE-2026-69254
 
 - [https://github.com/CompleTetech-Security/flowise-cve-2026-69254-check](https://github.com/CompleTetech-Security/flowise-cve-2026-69254-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/flowise-cve-2026-69254-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/flowise-cve-2026-69254-check.svg)
+
+## CVE-2026-72703
+> The guard checker in Rocq Prover treats a parameter of a nested mutual fixpoint as uniform without examining calls between the different bodies of that fixpoint. find_uniform_parameters in kernel/inductive.ml inspects only self-recursive calls, so when no body calls itself the function concludes that every parameter is uniform. A parameter that grows through a cross-call from one body to another therefore keeps the subterm specification it inherited from the enclosing fixpoint, and a recursive c
+
+- [https://github.com/endrazine/rocq-cve-poc-21682](https://github.com/endrazine/rocq-cve-poc-21682) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-21682.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-21682.svg)
+
+## CVE-2026-72705
+> The guard checker in Rocq Prover does not follow recursive calls made through a fixpoint&#x27;s own arguments. A fixpoint may pass itself as a higher-order argument to a second fixpoint, which then applies it to a value that is not a subterm of the structural argument. Passing the recursive function to a plain definition is rejected because the checker unfolds the definition and observes the call, but passing it to a fixpoint is accepted because higher-order recursive calls through fixpoint arguments
+
+- [https://github.com/endrazine/rocq-cve-poc-21683](https://github.com/endrazine/rocq-cve-poc-21683) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-21683.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-21683.svg)
+
+## CVE-2026-72711
+> The Lean 4 kernel does not check that the body of an opaque declaration is closed. environment::add_opaque omits the check_no_metavar_no_fvar call that the definition and theorem paths perform, so a value containing a free variable that is absent from the local context is not rejected outright. A metaprogram can first cause the kernel to create a temporary local of type False and record its type in the type checker&#x27;s inference cache, then restore the local context while that cache entry persists
+
+- [https://github.com/endrazine/lean-cve-poc-14484](https://github.com/endrazine/lean-cve-poc-14484) : ![starts](https://img.shields.io/github/stars/endrazine/lean-cve-poc-14484.svg) ![forks](https://img.shields.io/github/forks/endrazine/lean-cve-poc-14484.svg)
+
+## CVE-2026-74580
+> In the Linux kernel, the following vulnerability has been resolved:
+
+vhost: reset the vring metadata cache on vring reconfiguration
+
+vq-&gt;meta_iotlb[] caches the vhost_iotlb_map that backs each vring
+metadata region, and iotlb_access_ok() returns early on a cache hit,
+taking the hit as proof that the region has already been validated:
+
+	if (vhost_vq_meta_fetch(vq, addr, len, type))
+		return true;
+
+The cache is reset on VHOST_IOTLB_UPDATE and VHOST_IOTLB_INVALIDATE, on
+device IOTLB (re)initialisat
+
+- [https://github.com/YounesHfa/CVE-2026-74580](https://github.com/YounesHfa/CVE-2026-74580) : ![starts](https://img.shields.io/github/stars/YounesHfa/CVE-2026-74580.svg) ![forks](https://img.shields.io/github/forks/YounesHfa/CVE-2026-74580.svg)
+
+## CVE-2026-83548
+
+- [https://github.com/maxprog-svg/CVE-2026-83548](https://github.com/maxprog-svg/CVE-2026-83548) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-83548.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-83548.svg)
 
 ## CVE-2026-85168
 
@@ -342,6 +446,22 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 > A flaw was found in librsvg. When processing an SVG document containing nested XML inclusions (Xincludes) with duplicate entity declarations, a use-after-free error can occur. This vulnerability arises because the library incorrectly frees an XML entity that is still in use by the parser. An attacker could potentially exploit this to cause a denial of service or execute arbitrary code.
 
 - [https://github.com/CompleTetech-Security/sharp-rsvg-rce-check](https://github.com/CompleTetech-Security/sharp-rsvg-rce-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/sharp-rsvg-rce-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/sharp-rsvg-rce-check.svg)
+
+## CVE-2026-98260
+> In the Linux kernel, the following vulnerability has been resolved:
+
+exec: Cleanup POSIX timers right after de_thread()
+
+A per-thread CPU timer holds a reference to the PID of the thread it is
+attached to and, while it is armed, its node is queued in that thread&#x27;s
+posix_cputimers. The task is looked up by that PID.
+
+When a non-leader thread exec()s, de_thread() changes which task owns
+that PID. pid_task(timer-&gt;it.cpu.pid, PIDTYPE_PID) then returns NULL,
+but the node is still queued on tsk, which
+
+- [https://github.com/janewas/cve-2026-98260-vivo-gki-research](https://github.com/janewas/cve-2026-98260-vivo-gki-research) : ![starts](https://img.shields.io/github/stars/janewas/cve-2026-98260-vivo-gki-research.svg) ![forks](https://img.shields.io/github/forks/janewas/cve-2026-98260-vivo-gki-research.svg)
+- [https://github.com/zsw125/o3root](https://github.com/zsw125/o3root) : ![starts](https://img.shields.io/github/stars/zsw125/o3root.svg) ![forks](https://img.shields.io/github/forks/zsw125/o3root.svg)
 
 ## CVE-2026-99999
 > In the Linux kernel, the following vulnerability has been resolved:

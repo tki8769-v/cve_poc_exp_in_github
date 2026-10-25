@@ -30,6 +30,8 @@
 
 - [https://github.com/googlesky/CVE-2026-115560](https://github.com/googlesky/CVE-2026-115560) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-115560.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-115560.svg)
 
+- [https://github.com/al4n4n/CVE-2026-115560](https://github.com/al4n4n/CVE-2026-115560) : ![starts](https://img.shields.io/github/stars/al4n4n/CVE-2026-115560.svg) ![forks](https://img.shields.io/github/forks/al4n4n/CVE-2026-115560.svg)
+
 ## CVE-2026-114820
 
 - [https://github.com/joedayz/cve-2026-114820-java-scan](https://github.com/joedayz/cve-2026-114820-java-scan) : ![starts](https://img.shields.io/github/stars/joedayz/cve-2026-114820-java-scan.svg) ![forks](https://img.shields.io/github/forks/joedayz/cve-2026-114820-java-scan.svg)
@@ -214,6 +216,12 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/yavuzsemih/brotli-secfix](https://github.com/yavuzsemih/brotli-secfix) : ![starts](https://img.shields.io/github/stars/yavuzsemih/brotli-secfix.svg) ![forks](https://img.shields.io/github/forks/yavuzsemih/brotli-secfix.svg)
 
 - [https://github.com/datmt/emudhra-fix](https://github.com/datmt/emudhra-fix) : ![starts](https://img.shields.io/github/stars/datmt/emudhra-fix.svg) ![forks](https://img.shields.io/github/forks/datmt/emudhra-fix.svg)
+
+- [https://github.com/tani2shell/node2shell-lab](https://github.com/tani2shell/node2shell-lab) : ![starts](https://img.shields.io/github/stars/tani2shell/node2shell-lab.svg) ![forks](https://img.shields.io/github/forks/tani2shell/node2shell-lab.svg)
+
+- [https://github.com/apaonum/brotli-cve-check](https://github.com/apaonum/brotli-cve-check) : ![starts](https://img.shields.io/github/stars/apaonum/brotli-cve-check.svg) ![forks](https://img.shields.io/github/forks/apaonum/brotli-cve-check.svg)
+
+- [https://github.com/lushinshang/cve-2026-111497-http2shell-guide](https://github.com/lushinshang/cve-2026-111497-http2shell-guide) : ![starts](https://img.shields.io/github/stars/lushinshang/cve-2026-111497-http2shell-guide.svg) ![forks](https://img.shields.io/github/forks/lushinshang/cve-2026-111497-http2shell-guide.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -486,6 +494,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-](https://github.com/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-) : ![starts](https://img.shields.io/github/stars/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-.svg) ![forks](https://img.shields.io/github/forks/mostofajr7-sudo/CVE-2026-109618-CVE-2026-109619-php2shell-.svg)
 
 - [https://github.com/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619](https://github.com/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg)
+
+- [https://github.com/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) : ![starts](https://img.shields.io/github/stars/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg) ![forks](https://img.shields.io/github/forks/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -1031,6 +1041,24 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/darkLabz001/php2shell-audit](https://github.com/darkLabz001/php2shell-audit) : ![starts](https://img.shields.io/github/stars/darkLabz001/php2shell-audit.svg) ![forks](https://img.shields.io/github/forks/darkLabz001/php2shell-audit.svg)
 
 - [https://github.com/isaca0315/cve-2026-109618-109619-session-upload-progress-trigger](https://github.com/isaca0315/cve-2026-109618-109619-session-upload-progress-trigger) : ![starts](https://img.shields.io/github/stars/isaca0315/cve-2026-109618-109619-session-upload-progress-trigger.svg) ![forks](https://img.shields.io/github/forks/isaca0315/cve-2026-109618-109619-session-upload-progress-trigger.svg)
+
+- [https://github.com/andreysheva/php2shell-doctor](https://github.com/andreysheva/php2shell-doctor) : ![starts](https://img.shields.io/github/stars/andreysheva/php2shell-doctor.svg) ![forks](https://img.shields.io/github/forks/andreysheva/php2shell-doctor.svg)
+
+- [https://github.com/StiJans/php7.4-cve-109618-109619-fix](https://github.com/StiJans/php7.4-cve-109618-109619-fix) : ![starts](https://img.shields.io/github/stars/StiJans/php7.4-cve-109618-109619-fix.svg) ![forks](https://img.shields.io/github/forks/StiJans/php7.4-cve-109618-109619-fix.svg)
+
+- [https://github.com/StiJans/php8.1-cve-109618-109619-fix](https://github.com/StiJans/php8.1-cve-109618-109619-fix) : ![starts](https://img.shields.io/github/stars/StiJans/php8.1-cve-109618-109619-fix.svg) ![forks](https://img.shields.io/github/forks/StiJans/php8.1-cve-109618-109619-fix.svg)
+
+- [https://github.com/andreysheva/homebrew-php2shell-doctor](https://github.com/andreysheva/homebrew-php2shell-doctor) : ![starts](https://img.shields.io/github/stars/andreysheva/homebrew-php2shell-doctor.svg) ![forks](https://img.shields.io/github/forks/andreysheva/homebrew-php2shell-doctor.svg)
+
+- [https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-free](https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-free) : ![starts](https://img.shields.io/github/stars/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-free.svg) ![forks](https://img.shields.io/github/forks/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-free.svg)
+
+- [https://github.com/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) : ![starts](https://img.shields.io/github/stars/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg) ![forks](https://img.shields.io/github/forks/delvin-45/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg)
+
+- [https://github.com/marcotorres/php2shell-demo](https://github.com/marcotorres/php2shell-demo) : ![starts](https://img.shields.io/github/stars/marcotorres/php2shell-demo.svg) ![forks](https://img.shields.io/github/forks/marcotorres/php2shell-demo.svg)
+
+- [https://github.com/mefulton/CVE-2026-109618-php56-public](https://github.com/mefulton/CVE-2026-109618-php56-public) : ![starts](https://img.shields.io/github/stars/mefulton/CVE-2026-109618-php56-public.svg) ![forks](https://img.shields.io/github/forks/mefulton/CVE-2026-109618-php56-public.svg)
+
+- [https://github.com/testerxma/php2shellX](https://github.com/testerxma/php2shellX) : ![starts](https://img.shields.io/github/stars/testerxma/php2shellX.svg) ![forks](https://img.shields.io/github/forks/testerxma/php2shellX.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -2014,6 +2042,10 @@ but the node is still queued on tsk, which
 - [https://github.com/quyicheng03-boop/CVE-2026-98260-nezha-android](https://github.com/quyicheng03-boop/CVE-2026-98260-nezha-android) : ![starts](https://img.shields.io/github/stars/quyicheng03-boop/CVE-2026-98260-nezha-android.svg) ![forks](https://img.shields.io/github/forks/quyicheng03-boop/CVE-2026-98260-nezha-android.svg)
 
 - [https://github.com/sganggs/CVE-2026-98260-BRM-AN00](https://github.com/sganggs/CVE-2026-98260-BRM-AN00) : ![starts](https://img.shields.io/github/stars/sganggs/CVE-2026-98260-BRM-AN00.svg) ![forks](https://img.shields.io/github/forks/sganggs/CVE-2026-98260-BRM-AN00.svg)
+
+- [https://github.com/janewas/cve-2026-98260-vivo-gki-research](https://github.com/janewas/cve-2026-98260-vivo-gki-research) : ![starts](https://img.shields.io/github/stars/janewas/cve-2026-98260-vivo-gki-research.svg) ![forks](https://img.shields.io/github/forks/janewas/cve-2026-98260-vivo-gki-research.svg)
+
+- [https://github.com/zsw125/o3root](https://github.com/zsw125/o3root) : ![starts](https://img.shields.io/github/stars/zsw125/o3root.svg) ![forks](https://img.shields.io/github/forks/zsw125/o3root.svg)
 
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -3672,6 +3704,8 @@ createCorsHandler() set Access-Control-Allow-Credentials: true outside the origi
 
 - [https://github.com/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis](https://github.com/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis) : ![starts](https://img.shields.io/github/stars/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis.svg) ![forks](https://img.shields.io/github/forks/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis.svg)
 
+- [https://github.com/maxprog-svg/CVE-2026-83548](https://github.com/maxprog-svg/CVE-2026-83548) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-83548.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-83548.svg)
+
 ## CVE-2026-83531
 > Improper Control of Generation of Code (&#x27;Code Injection&#x27;), Improper Neutralization of Special Elements used in an Expression Language Statement (&#x27;Expression Language Injection&#x27;) vulnerability in Apache Camel.
 
@@ -4752,6 +4786,8 @@ device IOTLB (re)initialisat
 
 - [https://github.com/V01DL1NG/vghost-watch](https://github.com/V01DL1NG/vghost-watch) : ![starts](https://img.shields.io/github/stars/V01DL1NG/vghost-watch.svg) ![forks](https://img.shields.io/github/forks/V01DL1NG/vghost-watch.svg)
 
+- [https://github.com/YounesHfa/CVE-2026-74580](https://github.com/YounesHfa/CVE-2026-74580) : ![starts](https://img.shields.io/github/stars/YounesHfa/CVE-2026-74580.svg) ![forks](https://img.shields.io/github/forks/YounesHfa/CVE-2026-74580.svg)
+
 ## CVE-2026-74469
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -4993,6 +5029,11 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
 
 - [https://github.com/Saku0512/CVE-2026-72744-poc](https://github.com/Saku0512/CVE-2026-72744-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-72744-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-72744-poc.svg)
 
+## CVE-2026-72711
+> The Lean 4 kernel does not check that the body of an opaque declaration is closed. environment::add_opaque omits the check_no_metavar_no_fvar call that the definition and theorem paths perform, so a value containing a free variable that is absent from the local context is not rejected outright. A metaprogram can first cause the kernel to create a temporary local of type False and record its type in the type checker&#x27;s inference cache, then restore the local context while that cache entry persists
+
+- [https://github.com/endrazine/lean-cve-poc-14484](https://github.com/endrazine/lean-cve-poc-14484) : ![starts](https://img.shields.io/github/stars/endrazine/lean-cve-poc-14484.svg) ![forks](https://img.shields.io/github/forks/endrazine/lean-cve-poc-14484.svg)
+
 ## CVE-2026-72710
  SPIP before 4.4.18 contains a mass assignment vulnerability in the editer_objet action that allows unauthenticated attackers to write arbitrary rows to any SQL table lacking a champs_editables allowlist by supplying an attacker-controlled arg parameter resolving to internal database tables. Attackers can insert a malicious row into the spip_jobs queue with a controlled PHP function and arguments, which is then dynamically executed when the cron processes the queue, resulting in remote code execution.
 
@@ -5007,6 +5048,16 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
  SPIP before 4.4.18 contains an unauthenticated blind SQL injection vulnerability in the SQL escaping layer that allows unauthenticated attackers to inject arbitrary SQL by supplying a crafted annee parameter value matching a word character followed by an open parenthesis, which bypasses escaping for date-type columns across MySQL, SQLite, and PostgreSQL backends. Attackers can exploit the always-present sitemap.xml.html template's annee criterion to embed unescaped time-based or boolean payloads into database queries, enabling extraction of arbitrary database content including the alea_ephemere secret used to sign SPIP action nonces.
 
 - [https://github.com/ambionics/spip-exploits](https://github.com/ambionics/spip-exploits) : ![starts](https://img.shields.io/github/stars/ambionics/spip-exploits.svg) ![forks](https://img.shields.io/github/forks/ambionics/spip-exploits.svg)
+
+## CVE-2026-72705
+> The guard checker in Rocq Prover does not follow recursive calls made through a fixpoint&#x27;s own arguments. A fixpoint may pass itself as a higher-order argument to a second fixpoint, which then applies it to a value that is not a subterm of the structural argument. Passing the recursive function to a plain definition is rejected because the checker unfolds the definition and observes the call, but passing it to a fixpoint is accepted because higher-order recursive calls through fixpoint arguments
+
+- [https://github.com/endrazine/rocq-cve-poc-21683](https://github.com/endrazine/rocq-cve-poc-21683) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-21683.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-21683.svg)
+
+## CVE-2026-72703
+> The guard checker in Rocq Prover treats a parameter of a nested mutual fixpoint as uniform without examining calls between the different bodies of that fixpoint. find_uniform_parameters in kernel/inductive.ml inspects only self-recursive calls, so when no body calls itself the function concludes that every parameter is uniform. A parameter that grows through a cross-call from one body to another therefore keeps the subterm specification it inherited from the enclosing fixpoint, and a recursive c
+
+- [https://github.com/endrazine/rocq-cve-poc-21682](https://github.com/endrazine/rocq-cve-poc-21682) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-21682.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-21682.svg)
 
 ## CVE-2026-72585
  Red Hat CNA-LR concluded that this CVE is not valid.
@@ -6004,6 +6055,8 @@ This issue affects all versions of WordPress. Version 7.0.4 has been released, c
 - [https://github.com/codeb0ssx/CVE-2026-64849-PoC](https://github.com/codeb0ssx/CVE-2026-64849-PoC) : ![starts](https://img.shields.io/github/stars/codeb0ssx/CVE-2026-64849-PoC.svg) ![forks](https://img.shields.io/github/forks/codeb0ssx/CVE-2026-64849-PoC.svg)
 
 - [https://github.com/isaca0315/CVE-2026-64849-poc-lab](https://github.com/isaca0315/CVE-2026-64849-poc-lab) : ![starts](https://img.shields.io/github/stars/isaca0315/CVE-2026-64849-poc-lab.svg) ![forks](https://img.shields.io/github/forks/isaca0315/CVE-2026-64849-poc-lab.svg)
+
+- [https://github.com/maxprog-svg/CVE-2026-64849](https://github.com/maxprog-svg/CVE-2026-64849) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-64849.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-64849.svg)
 
 ## CVE-2026-64824
  Home Assistant Core before 2026.7.0 contains a path traversal vulnerability in the backup-restore function that allows attackers to write files to arbitrary absolute filesystem paths by supplying a crafted tar archive with a SYMTYPE entry containing a benign member name paired with an absolute linkname pointing outside the extraction directory. Because the official Docker image runs the Home Assistant process as root and the subsequent regular-file entry is written through the unvalidated symlink, attackers can achieve remote code execution by overwriting auto-imported Python paths such as site-packages/sitecustomize.py or custom component directories.
@@ -7826,6 +7879,8 @@ Users are recommended to upgrade to version 11.0.5, 10.1.37 or 9.0.101, which fi
  NanaZip is the 7-Zip derivative intended for the modern Windows experience. Prior to 6.5.1749.0, NanaZip's UFS and FFS image handler in NanaZip.Codecs.Archive.Ufs.cpp validates the superblock block size only against the MINBSIZE lower bound and does not validate the fs_fsize fragment size, allowing attacker-controlled 32-bit fields to flow into indirect-block, directory, and extraction buffer allocations. A tiny crafted UFS image can force multi-gigabyte allocations during open or extraction, causing memory exhaustion or process termination. This issue is fixed in version 6.5.1749.0.
 
 - [https://github.com/yzy0okrkv1hngo0r/CVE-2026-55781-poc](https://github.com/yzy0okrkv1hngo0r/CVE-2026-55781-poc) : ![starts](https://img.shields.io/github/stars/yzy0okrkv1hngo0r/CVE-2026-55781-poc.svg) ![forks](https://img.shields.io/github/forks/yzy0okrkv1hngo0r/CVE-2026-55781-poc.svg)
+
+- [https://github.com/NT2DEV/CVE-2026-55781-poc](https://github.com/NT2DEV/CVE-2026-55781-poc) : ![starts](https://img.shields.io/github/stars/NT2DEV/CVE-2026-55781-poc.svg) ![forks](https://img.shields.io/github/forks/NT2DEV/CVE-2026-55781-poc.svg)
 
 ## CVE-2026-55726
  The Azure Blob Storage container used for Gardyn device logs is publicly listable without authentication. A malicious user would be able to access any device log file available in the blob storage container.
@@ -11846,6 +11901,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/k-o-n-t-o-r/ghostlock-sm-g990b](https://github.com/k-o-n-t-o-r/ghostlock-sm-g990b) : ![starts](https://img.shields.io/github/stars/k-o-n-t-o-r/ghostlock-sm-g990b.svg) ![forks](https://img.shields.io/github/forks/k-o-n-t-o-r/ghostlock-sm-g990b.svg)
 
 - [https://github.com/BH3GEI/honor-aap-an00-root-skill](https://github.com/BH3GEI/honor-aap-an00-root-skill) : ![starts](https://img.shields.io/github/stars/BH3GEI/honor-aap-an00-root-skill.svg) ![forks](https://img.shields.io/github/forks/BH3GEI/honor-aap-an00-root-skill.svg)
+
+- [https://github.com/crastatelvin/a12-ghostlock](https://github.com/crastatelvin/a12-ghostlock) : ![starts](https://img.shields.io/github/stars/crastatelvin/a12-ghostlock.svg) ![forks](https://img.shields.io/github/forks/crastatelvin/a12-ghostlock.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
@@ -17616,6 +17673,8 @@ You should upgrade to 9.22.0 version of provider if you use AWS Auth Manager.
 
 - [https://github.com/therealfraudman/cve-2026-25262-msm8909-PoC](https://github.com/therealfraudman/cve-2026-25262-msm8909-PoC) : ![starts](https://img.shields.io/github/stars/therealfraudman/cve-2026-25262-msm8909-PoC.svg) ![forks](https://img.shields.io/github/forks/therealfraudman/cve-2026-25262-msm8909-PoC.svg)
 
+- [https://github.com/Starry2233/cve-2026-25262-poc](https://github.com/Starry2233/cve-2026-25262-poc) : ![starts](https://img.shields.io/github/stars/Starry2233/cve-2026-25262-poc.svg) ![forks](https://img.shields.io/github/forks/Starry2233/cve-2026-25262-poc.svg)
+
 ## CVE-2026-25253
  OpenClaw (aka clawdbot or Moltbot) before 2026.1.29 obtains a gatewayUrl value from a query string and automatically makes a WebSocket connection without prompting, sending a token value.
 
@@ -19645,6 +19704,8 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
  The vulnerability was rooted in how the Tassos Framework plugin handled specific AJAX requests through Joomla’s com_ajax entry point. Under certain conditions, internal framework functionality could be invoked without proper restriction.
 
 - [https://github.com/yallasec/CVE-2026-21627---Tassos-Novarain-Framework-plg_system_nrframework-Exploit---Joomla](https://github.com/yallasec/CVE-2026-21627---Tassos-Novarain-Framework-plg_system_nrframework-Exploit---Joomla) : ![starts](https://img.shields.io/github/stars/yallasec/CVE-2026-21627---Tassos-Novarain-Framework-plg_system_nrframework-Exploit---Joomla.svg) ![forks](https://img.shields.io/github/forks/yallasec/CVE-2026-21627---Tassos-Novarain-Framework-plg_system_nrframework-Exploit---Joomla.svg)
+
+- [https://github.com/SAIM28826/CVE-2026-21627](https://github.com/SAIM28826/CVE-2026-21627) : ![starts](https://img.shields.io/github/stars/SAIM28826/CVE-2026-21627.svg) ![forks](https://img.shields.io/github/forks/SAIM28826/CVE-2026-21627.svg)
 
 ## CVE-2026-21589
 > This is a vulnerability in Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center. Crowd Data Center, Crucible and Fisheye. This Arbitrary File Access vulnerability allows an unauthenticated attacker to access specific files within the web application root directory in affected versions. Exploitation requires prior knowledge of the target file&#x27;s exact name and path; this vulnerability does not allow attackers to enumerate
