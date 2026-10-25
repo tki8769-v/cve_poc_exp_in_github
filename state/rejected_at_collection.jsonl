@@ -2080,3 +2080,14 @@
 {"cve_id": "CVE-2026-4633", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:12:00Z", "url": "https://github.com/MarwahHadi/CVE-2026-46331-pedit-cow", "url_ids": ["CVE-2026-46331"]}
 {"cve_id": "CVE-2026-4633", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:12:00Z", "url": "https://github.com/cherrycherrymay/PoC-CVE-2026-46331", "url_ids": ["CVE-2026-46331"]}
 {"cve_id": "CVE-2026-4633", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:12:00Z", "url": "https://github.com/g0thamRabb1t/CVE-2026-46331-pedit-COW-detection", "url_ids": ["CVE-2026-46331"]}
+{"cve_id": "CVE-2025-4781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:13:48Z", "url": "https://github.com/4m3rr0r/CVE-2025-47812-poc", "url_ids": ["CVE-2025-47812"]}
+{"cve_id": "CVE-2025-4781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:13:48Z", "url": "https://github.com/0xcan1337/CVE-2025-47812-poC", "url_ids": ["CVE-2025-47812"]}
+{"cve_id": "CVE-2025-4781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:13:48Z", "url": "https://github.com/shadowgit30/CVE-2025-47812", "url_ids": ["CVE-2025-47812"]}
+{"cve_id": "CVE-2025-4781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:13:48Z", "url": "https://github.com/estebanzarate/CVE-2025-47812-Wing-FTP-Server-7.4.3-Unauthenticated-RCE-PoC", "url_ids": ["CVE-2025-47812"]}
+{"cve_id": "CVE-2025-4781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:13:48Z", "url": "https://github.com/pevinkumar10/CVE-2025-47812", "url_ids": ["CVE-2025-47812"]}
+{"cve_id": "CVE-2025-4781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:13:48Z", "url": "https://github.com/matesz44/CVE-2025-47812", "url_ids": ["CVE-2025-47812"]}
+{"cve_id": "CVE-2025-4781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:13:48Z", "url": "https://github.com/0xS4N4TG/CVE-2025-47812", "url_ids": ["CVE-2025-47812"]}
+{"cve_id": "CVE-2025-4781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:13:48Z", "url": "https://github.com/rxerium/CVE-2025-47812", "url_ids": ["CVE-2025-47812"]}
+{"cve_id": "CVE-2025-4781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:13:48Z", "url": "https://github.com/dkstar11q/Blackash-CVE-2025-47812", "url_ids": ["CVE-2025-47812"]}
+{"cve_id": "CVE-2025-4781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:13:48Z", "url": "https://github.com/H3XploR/Exploit_CVE-2025-47812", "url_ids": ["CVE-2025-47812"]}
+{"cve_id": "CVE-2025-4781", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:13:48Z", "url": "https://github.com/ill-deed/WingFTP-CVE-2025-47812-illdeed", "url_ids": ["CVE-2025-47812"]}
