@@ -4755,3 +4755,8 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-25T23:21:26Z", "type": "new_poc", "url": "https://github.com/daothinh/php2shell-monitor-rz"}
 {"cve_id": "CVE-2017-5689", "ts": "2026-10-25T23:21:27Z", "type": "new_poc", "url": "https://github.com/aix567/C-A-S"}
 {"cve_id": "CVE-2026-115560", "ts": "2026-10-25T23:22:22Z", "type": "new_poc", "url": "https://github.com/slabbdev/php-cve-2026-115560-kit"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-25T23:38:22Z", "type": "new_poc", "url": "https://github.com/Gi1gamesh123/php-unserialize-uaf-rce"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-25T23:38:25Z", "type": "new_poc", "url": "https://github.com/zhaoboy9692/CVE-2026-109618"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-25T23:38:25Z", "type": "new_poc", "url": "https://github.com/tuwiliyt/cve-2026-109618"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-25T23:38:32Z", "type": "new_poc", "url": "https://github.com/mazdel/php2shell-poc"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-25T23:38:32Z", "type": "new_poc", "url": "https://github.com/infiniroot/ansible-mitigate-php2shell"}

@@ -538,6 +538,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/jeffschafer/Bigfix-PHP-Vulnerability-Scanner-Content-CVE-2026-109618-CVE-2026-109619](https://github.com/jeffschafer/Bigfix-PHP-Vulnerability-Scanner-Content-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/jeffschafer/Bigfix-PHP-Vulnerability-Scanner-Content-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/jeffschafer/Bigfix-PHP-Vulnerability-Scanner-Content-CVE-2026-109618-CVE-2026-109619.svg)
 
+- [https://github.com/infiniroot/ansible-mitigate-php2shell](https://github.com/infiniroot/ansible-mitigate-php2shell) : ![starts](https://img.shields.io/github/stars/infiniroot/ansible-mitigate-php2shell.svg) ![forks](https://img.shields.io/github/forks/infiniroot/ansible-mitigate-php2shell.svg)
+
+- [https://github.com/mazdel/php2shell-poc](https://github.com/mazdel/php2shell-poc) : ![starts](https://img.shields.io/github/stars/mazdel/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/mazdel/php2shell-poc.svg)
+
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
 
@@ -1114,6 +1118,12 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/Opathedane/php2shell](https://github.com/Opathedane/php2shell) : ![starts](https://img.shields.io/github/stars/Opathedane/php2shell.svg) ![forks](https://img.shields.io/github/forks/Opathedane/php2shell.svg)
 
 - [https://github.com/daothinh/php2shell-monitor-rz](https://github.com/daothinh/php2shell-monitor-rz) : ![starts](https://img.shields.io/github/stars/daothinh/php2shell-monitor-rz.svg) ![forks](https://img.shields.io/github/forks/daothinh/php2shell-monitor-rz.svg)
+
+- [https://github.com/Gi1gamesh123/php-unserialize-uaf-rce](https://github.com/Gi1gamesh123/php-unserialize-uaf-rce) : ![starts](https://img.shields.io/github/stars/Gi1gamesh123/php-unserialize-uaf-rce.svg) ![forks](https://img.shields.io/github/forks/Gi1gamesh123/php-unserialize-uaf-rce.svg)
+
+- [https://github.com/tuwiliyt/cve-2026-109618](https://github.com/tuwiliyt/cve-2026-109618) : ![starts](https://img.shields.io/github/stars/tuwiliyt/cve-2026-109618.svg) ![forks](https://img.shields.io/github/forks/tuwiliyt/cve-2026-109618.svg)
+
+- [https://github.com/zhaoboy9692/CVE-2026-109618](https://github.com/zhaoboy9692/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/zhaoboy9692/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/zhaoboy9692/CVE-2026-109618.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
