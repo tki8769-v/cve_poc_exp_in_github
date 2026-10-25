@@ -2323,6 +2323,8 @@ Users are recommended to upgrade to version 18.12.16, which fixes the issue.
 
 - [https://github.com/Backline-playground/gogs](https://github.com/Backline-playground/gogs) : ![starts](https://img.shields.io/github/stars/Backline-playground/gogs.svg) ![forks](https://img.shields.io/github/forks/Backline-playground/gogs.svg)
 
+- [https://github.com/ferralon-demo/gitea-cve-2024-45337](https://github.com/ferralon-demo/gitea-cve-2024-45337) : ![starts](https://img.shields.io/github/stars/ferralon-demo/gitea-cve-2024-45337.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/gitea-cve-2024-45337.svg)
+
 ## CVE-2024-45265
  A SQL injection vulnerability in the poll component in SkySystem Arfa-CMS before 5.1.3124 allows remote attackers to execute arbitrary SQL commands via the psid parameter.
 
@@ -10345,6 +10347,8 @@ In the event an attacker has already gained network access, they could exploit t
 
 - [https://github.com/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis](https://github.com/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis) : ![starts](https://img.shields.io/github/stars/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis.svg) ![forks](https://img.shields.io/github/forks/dolapoojone/CVE-2024-6387-Vulnerability-Anaysis.svg)
 
+- [https://github.com/ohackercego/CVE-2024-6387-how-to-fix](https://github.com/ohackercego/CVE-2024-6387-how-to-fix) : ![starts](https://img.shields.io/github/stars/ohackercego/CVE-2024-6387-how-to-fix.svg) ![forks](https://img.shields.io/github/forks/ohackercego/CVE-2024-6387-how-to-fix.svg)
+
 ## CVE-2024-6386
  The WPML plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 4.6.12 via Twig Server-Side Template Injection. This is due to missing input validation and sanitization on the render function. This makes it possible for authenticated attackers, with Contributor-level access and above, to execute code on the server.
 
@@ -11006,6 +11010,8 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 - [https://github.com/Ghost-Bx1/php-exploits-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577](https://github.com/Ghost-Bx1/php-exploits-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/php-exploits-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/php-exploits-CVE-2026-109618-CVE-2026-109619-CVE-2024-4577.svg)
 
 - [https://github.com/Mohamedboukerche22/php2shell-extension](https://github.com/Mohamedboukerche22/php2shell-extension) : ![starts](https://img.shields.io/github/stars/Mohamedboukerche22/php2shell-extension.svg) ![forks](https://img.shields.io/github/forks/Mohamedboukerche22/php2shell-extension.svg)
+
+- [https://github.com/CyberDefenderAI/AI-Threat-Detection-PHP-CGI-Vulnerabilities](https://github.com/CyberDefenderAI/AI-Threat-Detection-PHP-CGI-Vulnerabilities) : ![starts](https://img.shields.io/github/stars/CyberDefenderAI/AI-Threat-Detection-PHP-CGI-Vulnerabilities.svg) ![forks](https://img.shields.io/github/forks/CyberDefenderAI/AI-Threat-Detection-PHP-CGI-Vulnerabilities.svg)
 
 ## CVE-2024-4573
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.

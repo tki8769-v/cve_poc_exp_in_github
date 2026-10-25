@@ -9816,6 +9816,8 @@ required additional sanitizing to prevent a stored XSS risk.
 
 - [https://github.com/azurejoga/CVE-2025-26326](https://github.com/azurejoga/CVE-2025-26326) : ![starts](https://img.shields.io/github/stars/azurejoga/CVE-2025-26326.svg) ![forks](https://img.shields.io/github/forks/azurejoga/CVE-2025-26326.svg)
 
+- [https://github.com/ohackercego/CVE-2025-26326](https://github.com/ohackercego/CVE-2025-26326) : ![starts](https://img.shields.io/github/stars/ohackercego/CVE-2025-26326.svg) ![forks](https://img.shields.io/github/forks/ohackercego/CVE-2025-26326.svg)
+
 ## CVE-2025-26319
  FlowiseAI Flowise v2.2.6 was discovered to contain an arbitrary file upload vulnerability in /api/v1/attachments.
 
@@ -15447,6 +15449,10 @@ This issue affects DocsGPT: from 0.8.1 through 0.12.0.
  The read command is used to read the keyboard input from the user, while reads it keeps the input length in a 32-bit integer value which is further used to reallocate the line buffer to accept the next character. During this process, with a line big enough it's possible to make this variable to overflow leading to a out-of-bounds write in the heap based buffer. This flaw may be leveraged to corrupt grub's internal critical data and secure boot bypass is not discarded as consequence.
 
 - [https://github.com/kaleth4/CVE-2025-0690](https://github.com/kaleth4/CVE-2025-0690) : ![starts](https://img.shields.io/github/stars/kaleth4/CVE-2025-0690.svg) ![forks](https://img.shields.io/github/forks/kaleth4/CVE-2025-0690.svg)
+
+## CVE-2025-0651
+
+- [https://github.com/Ghost-Bx1/Cloudflare-Exploits-CVE-2026-14440-CVE-2026-3125-CVE-2025-0651](https://github.com/Ghost-Bx1/Cloudflare-Exploits-CVE-2026-14440-CVE-2026-3125-CVE-2025-0651) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/Cloudflare-Exploits-CVE-2026-14440-CVE-2026-3125-CVE-2025-0651.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/Cloudflare-Exploits-CVE-2026-14440-CVE-2026-3125-CVE-2025-0651.svg)
 
 ## CVE-2025-0411
  7-Zip Mark-of-the-Web Bypass Vulnerability. This vulnerability allows remote attackers to bypass the Mark-of-the-Web protection mechanism on affected installations of 7-Zip. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.

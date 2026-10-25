@@ -843,6 +843,8 @@ Users are recommended to upgrade to version 18.12.10
 
 - [https://github.com/hav0cx0/CVE-2023-48795](https://github.com/hav0cx0/CVE-2023-48795) : ![starts](https://img.shields.io/github/stars/hav0cx0/CVE-2023-48795.svg) ![forks](https://img.shields.io/github/forks/hav0cx0/CVE-2023-48795.svg)
 
+- [https://github.com/breaksek/CVE-2023-48795](https://github.com/breaksek/CVE-2023-48795) : ![starts](https://img.shields.io/github/stars/breaksek/CVE-2023-48795.svg) ![forks](https://img.shields.io/github/forks/breaksek/CVE-2023-48795.svg)
+
 ## CVE-2023-48788
  A improper neutralization of special elements used in an sql command ('sql injection') in Fortinet FortiClientEMS version 7.2.0 through 7.2.2, FortiClientEMS 7.0.1 through 7.0.10 allows attacker to execute unauthorized code or commands via specially crafted packets.
 
