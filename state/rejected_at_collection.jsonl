@@ -1989,3 +1989,10 @@
 {"cve_id": "CVE-2026-5392", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T23:42:36Z", "url": "https://github.com/0xBlackash/CVE-2026-53921", "url_ids": ["CVE-2026-53921"]}
 {"cve_id": "CVE-2022-1111", "reason": "prefix_conflict_evidenced", "ts": "2026-10-24T23:43:37Z", "url": "https://github.com/thelostworldFree/CVE-2022-111111", "url_ids": ["CVE-2022-111111"]}
 {"cve_id": "CVE-2026-5924", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T06:14:56Z", "url": "https://github.com/MalHyuk/CVE-2026-59243", "url_ids": ["CVE-2026-59243"]}
+{"cve_id": "CVE-2023-4622", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T06:19:56Z", "url": "https://github.com/JarvisDing-sdu/Yasa-CVE-2023-46229", "url_ids": ["CVE-2023-46229"]}
+{"cve_id": "CVE-2021-3679", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T06:21:03Z", "url": "https://github.com/M-Kings/CVE-2021-36798", "url_ids": ["CVE-2021-36798"]}
+{"cve_id": "CVE-2022-3942", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T06:27:03Z", "url": "https://github.com/bob11vrdp/CVE-2022-39425", "url_ids": ["CVE-2022-39425"]}
+{"cve_id": "CVE-2026-4350", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T06:27:07Z", "url": "https://github.com/0xBlackash/CVE-2026-43503", "url_ids": ["CVE-2026-43503"]}
+{"cve_id": "CVE-2026-4350", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T06:27:07Z", "url": "https://github.com/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan", "url_ids": ["CVE-2026-43284", "CVE-2026-43500"]}
+{"cve_id": "CVE-2026-4350", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T06:27:07Z", "url": "https://github.com/SecureWithUmer/CVE-2026-43503", "url_ids": ["CVE-2026-43503"]}
+{"cve_id": "CVE-2026-4350", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T06:27:07Z", "url": "https://github.com/attaattaatta/CVE-2026-43500", "url_ids": ["CVE-2026-43500"]}

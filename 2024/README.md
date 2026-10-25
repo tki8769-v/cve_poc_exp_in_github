@@ -1741,6 +1741,8 @@ Call Trace:
 
 - [https://github.com/kikechans/-Linux-PrivEsc-CVE-2024-48990](https://github.com/kikechans/-Linux-PrivEsc-CVE-2024-48990) : ![starts](https://img.shields.io/github/stars/kikechans/-Linux-PrivEsc-CVE-2024-48990.svg) ![forks](https://img.shields.io/github/forks/kikechans/-Linux-PrivEsc-CVE-2024-48990.svg)
 
+- [https://github.com/endermixxer/CVE-2024-48990_needrestart](https://github.com/endermixxer/CVE-2024-48990_needrestart) : ![starts](https://img.shields.io/github/stars/endermixxer/CVE-2024-48990_needrestart.svg) ![forks](https://img.shields.io/github/forks/endermixxer/CVE-2024-48990_needrestart.svg)
+
 ## CVE-2024-48955
  Broken access control in NetAdmin 4.030319 returns data with functionalities on the endpoint that "assembles" the functionalities menus, the return of this call is not encrypted and as the system does not validate the session authorization, an attacker can copy the content of the browser of a user with greater privileges having access to the functionalities of the user that the code was copied.
 
