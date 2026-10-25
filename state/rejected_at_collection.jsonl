@@ -2066,3 +2066,17 @@
 {"cve_id": "CVE-2021-2220", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T19:52:28Z", "url": "https://github.com/CyberCTF/vulhub-gitlab-cve-2021-22205", "url_ids": ["CVE-2021-22205"]}
 {"cve_id": "CVE-2021-2220", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T19:52:28Z", "url": "https://github.com/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204", "url_ids": ["CVE-2021-22204"]}
 {"cve_id": "CVE-2023-2877", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T19:52:39Z", "url": "https://github.com/benjaminhays/CVE-2023-28771-PoC", "url_ids": ["CVE-2023-28771"]}
+{"cve_id": "CVE-2025-6998", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:03:49Z", "url": "https://github.com/joshuavanderpoll/CVE-2025-69985", "url_ids": ["CVE-2025-69985"]}
+{"cve_id": "CVE-2026-4057", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:04:57Z", "url": "https://github.com/zebbernCVE/CVE-2026-40579", "url_ids": ["CVE-2026-40579"]}
+{"cve_id": "CVE-2026-7515", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:06:51Z", "url": "https://github.com/licitrasimone/cve-2026-75157-poc", "url_ids": ["CVE-2026-75157"]}
+{"cve_id": "CVE-2021-4427", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:10:07Z", "url": "https://github.com/pinpinsec/CVE-2021-44270", "url_ids": ["CVE-2021-44270"]}
+{"cve_id": "CVE-2026-2655", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:11:58Z", "url": "https://github.com/horrister/axios-supply-chain-cve-2026-26555", "url_ids": ["CVE-2026-26555"]}
+{"cve_id": "CVE-2026-4633", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:12:00Z", "url": "https://github.com/0xBlackash/CVE-2026-46333", "url_ids": ["CVE-2026-46333"]}
+{"cve_id": "CVE-2026-4633", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:12:00Z", "url": "https://github.com/0xBlackash/CVE-2026-46331", "url_ids": ["CVE-2026-46331"]}
+{"cve_id": "CVE-2026-4633", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:12:00Z", "url": "https://github.com/studiogangster/CVE-2026-46333", "url_ids": ["CVE-2026-46333"]}
+{"cve_id": "CVE-2026-4633", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:12:00Z", "url": "https://github.com/yanxinwu946/CVE-2026-46331", "url_ids": ["CVE-2026-46331"]}
+{"cve_id": "CVE-2026-4633", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:12:00Z", "url": "https://github.com/HORKimhab/CVE-2026-46331", "url_ids": ["CVE-2026-46331"]}
+{"cve_id": "CVE-2026-4633", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:12:00Z", "url": "https://github.com/Quaerendir/cve-2026-46331-audit", "url_ids": ["CVE-2026-46331"]}
+{"cve_id": "CVE-2026-4633", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:12:00Z", "url": "https://github.com/MarwahHadi/CVE-2026-46331-pedit-cow", "url_ids": ["CVE-2026-46331"]}
+{"cve_id": "CVE-2026-4633", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:12:00Z", "url": "https://github.com/cherrycherrymay/PoC-CVE-2026-46331", "url_ids": ["CVE-2026-46331"]}
+{"cve_id": "CVE-2026-4633", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T20:12:00Z", "url": "https://github.com/g0thamRabb1t/CVE-2026-46331-pedit-COW-detection", "url_ids": ["CVE-2026-46331"]}

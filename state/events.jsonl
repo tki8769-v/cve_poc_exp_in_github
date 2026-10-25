@@ -4743,3 +4743,7 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-10-25T19:45:32Z", "type": "new_poc", "url": "https://github.com/quillfinch/Galaxy-Tab-S10FE-Root"}
 {"cve_id": "CVE-2026-64560", "ts": "2026-10-25T19:45:32Z", "type": "new_poc", "url": "https://github.com/wanwuzhishi/ksu-root"}
 {"cve_id": "CVE-2024-45337", "ts": "2026-10-25T19:49:31Z", "type": "new_poc", "url": "https://github.com/ferralon-demo/gitea-cve-2024-45337"}
+{"cve_id": "CVE-2026-0073", "ts": "2026-10-25T20:02:53Z", "type": "new_poc", "url": "https://github.com/umarrehmansiddiqui/CVE-2026-0073"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-25T20:02:58Z", "type": "new_poc", "url": "https://github.com/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-25T20:03:10Z", "type": "new_poc", "url": "https://github.com/Opathedane/php2shell"}
+{"cve_id": "CVE-2026-51954", "ts": "2026-10-25T20:12:01Z", "type": "new_poc", "url": "https://github.com/envincion1991-cmyk/CVE-2026-51954"}

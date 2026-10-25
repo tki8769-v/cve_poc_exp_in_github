@@ -1092,6 +1092,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/nokitakaze/CVE-2026-109618-109619-checker](https://github.com/nokitakaze/CVE-2026-109618-109619-checker) : ![starts](https://img.shields.io/github/stars/nokitakaze/CVE-2026-109618-109619-checker.svg) ![forks](https://img.shields.io/github/forks/nokitakaze/CVE-2026-109618-109619-checker.svg)
 
+- [https://github.com/Opathedane/php2shell](https://github.com/Opathedane/php2shell) : ![starts](https://img.shields.io/github/stars/Opathedane/php2shell.svg) ![forks](https://img.shields.io/github/forks/Opathedane/php2shell.svg)
+
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
@@ -9110,6 +9112,8 @@ Users are recommended to upgrade to version 1.12.0, which fixes the issue.
 
 - [https://github.com/Envincion/CVE-2026-51954](https://github.com/Envincion/CVE-2026-51954) : ![starts](https://img.shields.io/github/stars/Envincion/CVE-2026-51954.svg) ![forks](https://img.shields.io/github/forks/Envincion/CVE-2026-51954.svg)
 
+- [https://github.com/envincion1991-cmyk/CVE-2026-51954](https://github.com/envincion1991-cmyk/CVE-2026-51954) : ![starts](https://img.shields.io/github/stars/envincion1991-cmyk/CVE-2026-51954.svg) ![forks](https://img.shields.io/github/forks/envincion1991-cmyk/CVE-2026-51954.svg)
+
 ## CVE-2026-51947
  An issue in Pivotal CRM 6.6.4.08 and systems using patch-ghi-15381-cwe-502-20251225.zip (fixed in Pivotal CRM 6.6.5.10 and Patch_CWE502_20260316.zip) allows a remote attacker to execute arbitrary code via the Pivotal.Engine.Client.Services.Conversion.dll component. NOTE: this issue exists because of an incomplete fix for CVE-2026-39253.
 
@@ -11957,6 +11961,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/crastatelvin/a12-ghostlock](https://github.com/crastatelvin/a12-ghostlock) : ![starts](https://img.shields.io/github/stars/crastatelvin/a12-ghostlock.svg) ![forks](https://img.shields.io/github/forks/crastatelvin/a12-ghostlock.svg)
 
 - [https://github.com/quillfinch/Galaxy-Tab-S10FE-Root](https://github.com/quillfinch/Galaxy-Tab-S10FE-Root) : ![starts](https://img.shields.io/github/stars/quillfinch/Galaxy-Tab-S10FE-Root.svg) ![forks](https://img.shields.io/github/forks/quillfinch/Galaxy-Tab-S10FE-Root.svg)
+
+- [https://github.com/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B](https://github.com/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B) : ![starts](https://img.shields.io/github/stars/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B.svg) ![forks](https://img.shields.io/github/forks/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
@@ -25125,6 +25131,8 @@ Panorama and Cloud NGFW are not impacted by these issues.
 - [https://github.com/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass](https://github.com/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass) : ![starts](https://img.shields.io/github/stars/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass.svg) ![forks](https://img.shields.io/github/forks/m00ddy/CVE-2026-0073-Android-client-TLS-auth-bypass.svg)
 
 - [https://github.com/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass](https://github.com/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass) : ![starts](https://img.shields.io/github/stars/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass.svg) ![forks](https://img.shields.io/github/forks/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass.svg)
+
+- [https://github.com/umarrehmansiddiqui/CVE-2026-0073](https://github.com/umarrehmansiddiqui/CVE-2026-0073) : ![starts](https://img.shields.io/github/stars/umarrehmansiddiqui/CVE-2026-0073.svg) ![forks](https://img.shields.io/github/forks/umarrehmansiddiqui/CVE-2026-0073.svg)
 
 ## CVE-2026-0059
  In multiple functions of sdp_discovery.cc, there is a possible way to achieve code execution due to a heap buffer overflow. This could lead to remote (proximal/adjacent) code execution with no additional execution privileges needed. User interaction is not needed for exploitation.

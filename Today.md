@@ -75,6 +75,10 @@
 
 - [https://github.com/ohackercego/CVE-2025-26326](https://github.com/ohackercego/CVE-2025-26326) : ![starts](https://img.shields.io/github/stars/ohackercego/CVE-2025-26326.svg) ![forks](https://img.shields.io/github/forks/ohackercego/CVE-2025-26326.svg)
 
+## CVE-2026-0073
+
+- [https://github.com/umarrehmansiddiqui/CVE-2026-0073](https://github.com/umarrehmansiddiqui/CVE-2026-0073) : ![starts](https://img.shields.io/github/stars/umarrehmansiddiqui/CVE-2026-0073.svg) ![forks](https://img.shields.io/github/forks/umarrehmansiddiqui/CVE-2026-0073.svg)
+
 ## CVE-2026-102255
 > A Pre-authentication SSRF vulnerability exists in the SMA1000 Appliance Work Place interface due to an unintended alternate access path. By abusing this path, a remote unauthenticated attacker could potentially exploit this vulnerability to direct the appliance to issue requests on their behalf and reach internal functionality and perform unauthorized operations.
 
@@ -200,6 +204,7 @@ If any of these functions, or an API that relies on them such as `URL.createObje
 - [https://github.com/0x1c1101/CVE-2026-109618-PoC](https://github.com/0x1c1101/CVE-2026-109618-PoC) : ![starts](https://img.shields.io/github/stars/0x1c1101/CVE-2026-109618-PoC.svg) ![forks](https://img.shields.io/github/forks/0x1c1101/CVE-2026-109618-PoC.svg)
 - [https://github.com/AbacusNin/php-radar](https://github.com/AbacusNin/php-radar) : ![starts](https://img.shields.io/github/stars/AbacusNin/php-radar.svg) ![forks](https://img.shields.io/github/forks/AbacusNin/php-radar.svg)
 - [https://github.com/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619](https://github.com/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/GOLF2546/PHP2Shell-CVE-2026-109618-CVE-2026-109619.svg)
+- [https://github.com/Opathedane/php2shell](https://github.com/Opathedane/php2shell) : ![starts](https://img.shields.io/github/stars/Opathedane/php2shell.svg) ![forks](https://img.shields.io/github/forks/Opathedane/php2shell.svg)
 - [https://github.com/StiJans/php7.4-cve-109618-109619-fix](https://github.com/StiJans/php7.4-cve-109618-109619-fix) : ![starts](https://img.shields.io/github/stars/StiJans/php7.4-cve-109618-109619-fix.svg) ![forks](https://img.shields.io/github/forks/StiJans/php7.4-cve-109618-109619-fix.svg)
 - [https://github.com/StiJans/php8-cve-109618-109619-fix](https://github.com/StiJans/php8-cve-109618-109619-fix) : ![starts](https://img.shields.io/github/stars/StiJans/php8-cve-109618-109619-fix.svg) ![forks](https://img.shields.io/github/forks/StiJans/php8-cve-109618-109619-fix.svg)
 - [https://github.com/StiJans/php8.1-cve-109618-109619-fix](https://github.com/StiJans/php8.1-cve-109618-109619-fix) : ![starts](https://img.shields.io/github/stars/StiJans/php8.1-cve-109618-109619-fix.svg) ![forks](https://img.shields.io/github/forks/StiJans/php8.1-cve-109618-109619-fix.svg)
@@ -347,6 +352,12 @@ problems:
 
 - [https://github.com/crastatelvin/a12-ghostlock](https://github.com/crastatelvin/a12-ghostlock) : ![starts](https://img.shields.io/github/stars/crastatelvin/a12-ghostlock.svg) ![forks](https://img.shields.io/github/forks/crastatelvin/a12-ghostlock.svg)
 - [https://github.com/quillfinch/Galaxy-Tab-S10FE-Root](https://github.com/quillfinch/Galaxy-Tab-S10FE-Root) : ![starts](https://img.shields.io/github/stars/quillfinch/Galaxy-Tab-S10FE-Root.svg) ![forks](https://img.shields.io/github/forks/quillfinch/Galaxy-Tab-S10FE-Root.svg)
+- [https://github.com/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B](https://github.com/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B) : ![starts](https://img.shields.io/github/stars/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B.svg) ![forks](https://img.shields.io/github/forks/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B.svg)
+
+## CVE-2026-51954
+> An issue in Webasyst Framework 4.0.3 and before allows a remote attacker to execute arbitrary code via a crafted OAuth authorization URL with an arbitrary redirect_uri.
+
+- [https://github.com/envincion1991-cmyk/CVE-2026-51954](https://github.com/envincion1991-cmyk/CVE-2026-51954) : ![starts](https://img.shields.io/github/stars/envincion1991-cmyk/CVE-2026-51954.svg) ![forks](https://img.shields.io/github/forks/envincion1991-cmyk/CVE-2026-51954.svg)
 
 ## CVE-2026-55781
 
