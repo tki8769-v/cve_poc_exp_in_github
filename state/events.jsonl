@@ -4710,3 +4710,8 @@
 {"cve_id": "CVE-2026-72703", "ts": "2026-10-25T13:43:35Z", "type": "new_poc", "url": "https://github.com/endrazine/rocq-cve-poc-21682"}
 {"cve_id": "CVE-2026-72705", "ts": "2026-10-25T13:43:35Z", "type": "new_poc", "url": "https://github.com/endrazine/rocq-cve-poc-21683"}
 {"cve_id": "CVE-2026-55781", "ts": "2026-10-25T13:44:02Z", "type": "new_poc", "url": "https://github.com/NT2DEV/CVE-2026-55781-poc"}
+{"cve_id": "CVE-2026-72704", "ts": "2026-10-25T13:54:01Z", "type": "new_poc", "url": "https://github.com/endrazine/rocq-cve-poc-22024"}
+{"cve_id": "CVE-2020-37268", "ts": "2026-10-25T13:54:01Z", "type": "new_poc", "url": "https://github.com/endrazine/rocq-cve-poc-12155"}
+{"cve_id": "CVE-2026-72714", "ts": "2026-10-25T13:54:01Z", "type": "new_poc", "url": "https://github.com/endrazine/rocq-cve-poc-22287"}
+{"cve_id": "CVE-2024-21762", "ts": "2026-10-25T13:55:33Z", "type": "new_poc", "url": "https://github.com/izancxg/CVE-2024-21762-Safe-Check"}
+{"cve_id": "CVE-2022-1015", "ts": "2026-10-25T13:59:39Z", "type": "new_poc", "url": "https://github.com/uz56764/CVE-2022-1015"}

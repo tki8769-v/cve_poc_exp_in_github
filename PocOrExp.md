@@ -5030,6 +5030,11 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
 
 - [https://github.com/Saku0512/CVE-2026-72744-poc](https://github.com/Saku0512/CVE-2026-72744-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-72744-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-72744-poc.svg)
 
+## CVE-2026-72714
+> Rocq Prover does not restore the universe graph&#x27;s copy of the universe checking flag when a module that locally disabled the check is closed. Local Unset Universe Checking inside a module is expected to last only until the module ends, and the global flag is restored, but the universe graph keeps its own copy which is left disabled. The two views then disagree: Test Universe Checking reports the check as enabled while the kernel continues to accept universe-inconsistent terms. With the constrain
+
+- [https://github.com/endrazine/rocq-cve-poc-22287](https://github.com/endrazine/rocq-cve-poc-22287) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-22287.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-22287.svg)
+
 ## CVE-2026-72711
 > The Lean 4 kernel does not check that the body of an opaque declaration is closed. environment::add_opaque omits the check_no_metavar_no_fvar call that the definition and theorem paths perform, so a value containing a free variable that is absent from the local context is not rejected outright. A metaprogram can first cause the kernel to create a temporary local of type False and record its type in the type checker&#x27;s inference cache, then restore the local context while that cache entry persists
 
@@ -5054,6 +5059,11 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
 > The guard checker in Rocq Prover does not follow recursive calls made through a fixpoint&#x27;s own arguments. A fixpoint may pass itself as a higher-order argument to a second fixpoint, which then applies it to a value that is not a subterm of the structural argument. Passing the recursive function to a plain definition is rejected because the checker unfolds the definition and observes the call, but passing it to a fixpoint is accepted because higher-order recursive calls through fixpoint arguments
 
 - [https://github.com/endrazine/rocq-cve-poc-21683](https://github.com/endrazine/rocq-cve-poc-21683) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-21683.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-21683.svg)
+
+## CVE-2026-72704
+> The guard checker in Rocq Prover does not recheck the recursive tree representation of an inductive type parameter after that parameter has been changed by transport. A fixpoint may apply a rewrite along an equality between types to its recursive argument, which the guard checker accepts because the inductive type is preserved, while the recursive tree recorded for the parameter is altered. A second fixpoint that calls the first inherits the altered recursive tree without verification, so a call
+
+- [https://github.com/endrazine/rocq-cve-poc-22024](https://github.com/endrazine/rocq-cve-poc-22024) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-22024.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-22024.svg)
 
 ## CVE-2026-72703
 > The guard checker in Rocq Prover treats a parameter of a nested mutual fixpoint as uniform without examining calls between the different bodies of that fixpoint. find_uniform_parameters in kernel/inductive.ml inspects only self-recursive calls, so when no body calls itself the function concludes that every parameter is uniform. A parameter that grows through a cross-call from one body to another therefore keeps the subterm specification it inherited from the enclosing fixpoint, and a recursive c
@@ -48766,6 +48776,8 @@ This vulnerability affects all users using version greater or equal than Node.js
 
 - [https://github.com/Deekshitha2203/security-triage-agent-cybersec590](https://github.com/Deekshitha2203/security-triage-agent-cybersec590) : ![starts](https://img.shields.io/github/stars/Deekshitha2203/security-triage-agent-cybersec590.svg) ![forks](https://img.shields.io/github/forks/Deekshitha2203/security-triage-agent-cybersec590.svg)
 
+- [https://github.com/izancxg/CVE-2024-21762-Safe-Check](https://github.com/izancxg/CVE-2024-21762-Safe-Check) : ![starts](https://img.shields.io/github/stars/izancxg/CVE-2024-21762-Safe-Check.svg) ![forks](https://img.shields.io/github/forks/izancxg/CVE-2024-21762-Safe-Check.svg)
+
 ## CVE-2024-21754
  A use of password hash with insufficient computational effort vulnerability [CWE-916] affecting FortiOS version 7.4.3 and below, 7.2 all versions, 7.0 all versions, 6.4 all versions and FortiProxy version 7.4.2 and below, 7.2 all versions, 7.0 all versions, 2.0 all versions may allow a privileged attacker with super-admin profile and CLI access to decrypting the backup file.
 
@@ -71952,6 +71964,8 @@ the client's API server credentials to third parties.
 
 - [https://github.com/zanezhub/CVE-2022-1015-1016](https://github.com/zanezhub/CVE-2022-1015-1016) : ![starts](https://img.shields.io/github/stars/zanezhub/CVE-2022-1015-1016.svg) ![forks](https://img.shields.io/github/forks/zanezhub/CVE-2022-1015-1016.svg)
 
+- [https://github.com/uz56764/CVE-2022-1015](https://github.com/uz56764/CVE-2022-1015) : ![starts](https://img.shields.io/github/stars/uz56764/CVE-2022-1015.svg) ![forks](https://img.shields.io/github/forks/uz56764/CVE-2022-1015.svg)
+
 ## CVE-2022-1012
  A memory leak problem was found in the TCP source port generation algorithm in net/ipv4/tcp.c due to the small table perturb size. This flaw may allow an attacker to information leak and may cause a denial of service problem.
 
@@ -82086,6 +82100,11 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302](https://github.com/ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302) : ![starts](https://img.shields.io/github/stars/ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302.svg) ![forks](https://img.shields.io/github/forks/ShaikUsaf/packages_apps_PackageInstaller_AOSP10_r33_CVE-2021-0302.svg)
 
 ## 2020
+## CVE-2020-37268
+> Print Assumptions does not report that a definition was produced while universe checking was disabled when that definition reaches the caller through Parameter Inline in a module type. Applying a functor inlines the body of the parameter, and the inlining drops the record that the term was built under Unset Universe Checking, so the resulting constant carries no trace of the unsafe operation. A module implementation can therefore prove False using a universe inconsistency, expose it through an i
+
+- [https://github.com/endrazine/rocq-cve-poc-12155](https://github.com/endrazine/rocq-cve-poc-12155) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-12155.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-12155.svg)
+
 ## CVE-2020-36847
 
 - [https://github.com/K52-ai/CVE-2020-36847](https://github.com/K52-ai/CVE-2020-36847) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2020-36847.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2020-36847.svg)

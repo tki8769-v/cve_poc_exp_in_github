@@ -1,3 +1,8 @@
+## CVE-2020-37268
+> Print Assumptions does not report that a definition was produced while universe checking was disabled when that definition reaches the caller through Parameter Inline in a module type. Applying a functor inlines the body of the parameter, and the inlining drops the record that the term was built under Unset Universe Checking, so the resulting constant carries no trace of the unsafe operation. A module implementation can therefore prove False using a universe inconsistency, expose it through an i
+
+- [https://github.com/endrazine/rocq-cve-poc-12155](https://github.com/endrazine/rocq-cve-poc-12155) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-12155.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-12155.svg)
+
 ## CVE-2020-36847
 
 - [https://github.com/K52-ai/CVE-2020-36847](https://github.com/K52-ai/CVE-2020-36847) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2020-36847.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2020-36847.svg)

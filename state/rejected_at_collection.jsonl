@@ -1998,3 +1998,8 @@
 {"cve_id": "CVE-2026-4350", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T06:27:07Z", "url": "https://github.com/attaattaatta/CVE-2026-43500", "url_ids": ["CVE-2026-43500"]}
 {"cve_id": "CVE-2026-2222", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T06:34:16Z", "url": "https://github.com/LucasVanHaaren/CVE-2026-22226", "url_ids": ["CVE-2026-22226"]}
 {"cve_id": "CVE-2026-2586", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T13:53:26Z", "url": "https://github.com/partywavesec/CVE-2026-25860", "url_ids": ["CVE-2026-25860"]}
+{"cve_id": "CVE-2022-2725", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T13:58:40Z", "url": "https://github.com/nonamecoder/CVE-2022-27254", "url_ids": ["CVE-2022-27254"]}
+{"cve_id": "CVE-2022-2725", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T13:58:40Z", "url": "https://github.com/stryker-project/CVE-2022-27255-checker", "url_ids": ["CVE-2022-27255"]}
+{"cve_id": "CVE-2022-3000", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T13:58:45Z", "url": "https://github.com/ComparedArray/printix-CVE-2022-30006", "url_ids": ["CVE-2022-30006"]}
+{"cve_id": "CVE-2026-5549", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T14:01:43Z", "url": "https://github.com/4qu4r1um/tugtainer-1.30.2-CVE-2026-55494-and-CVE-2026-62308-to-RCE", "url_ids": ["CVE-2026-55494", "CVE-2026-62308"]}
+{"cve_id": "CVE-2023-3881", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T14:01:48Z", "url": "https://github.com/SecSecBurger/CVE-2023-38817", "url_ids": ["CVE-2023-38817"]}

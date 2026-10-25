@@ -7724,6 +7724,8 @@ the client's API server credentials to third parties.
 
 - [https://github.com/zanezhub/CVE-2022-1015-1016](https://github.com/zanezhub/CVE-2022-1015-1016) : ![starts](https://img.shields.io/github/stars/zanezhub/CVE-2022-1015-1016.svg) ![forks](https://img.shields.io/github/forks/zanezhub/CVE-2022-1015-1016.svg)
 
+- [https://github.com/uz56764/CVE-2022-1015](https://github.com/uz56764/CVE-2022-1015) : ![starts](https://img.shields.io/github/stars/uz56764/CVE-2022-1015.svg) ![forks](https://img.shields.io/github/forks/uz56764/CVE-2022-1015.svg)
+
 ## CVE-2022-1012
  A memory leak problem was found in the TCP source port generation algorithm in net/ipv4/tcp.c due to the small table perturb size. This flaw may allow an attacker to information leak and may cause a denial of service problem.
 

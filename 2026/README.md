@@ -5029,6 +5029,11 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
 
 - [https://github.com/Saku0512/CVE-2026-72744-poc](https://github.com/Saku0512/CVE-2026-72744-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-72744-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-72744-poc.svg)
 
+## CVE-2026-72714
+> Rocq Prover does not restore the universe graph&#x27;s copy of the universe checking flag when a module that locally disabled the check is closed. Local Unset Universe Checking inside a module is expected to last only until the module ends, and the global flag is restored, but the universe graph keeps its own copy which is left disabled. The two views then disagree: Test Universe Checking reports the check as enabled while the kernel continues to accept universe-inconsistent terms. With the constrain
+
+- [https://github.com/endrazine/rocq-cve-poc-22287](https://github.com/endrazine/rocq-cve-poc-22287) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-22287.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-22287.svg)
+
 ## CVE-2026-72711
 > The Lean 4 kernel does not check that the body of an opaque declaration is closed. environment::add_opaque omits the check_no_metavar_no_fvar call that the definition and theorem paths perform, so a value containing a free variable that is absent from the local context is not rejected outright. A metaprogram can first cause the kernel to create a temporary local of type False and record its type in the type checker&#x27;s inference cache, then restore the local context while that cache entry persists
 
@@ -5053,6 +5058,11 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
 > The guard checker in Rocq Prover does not follow recursive calls made through a fixpoint&#x27;s own arguments. A fixpoint may pass itself as a higher-order argument to a second fixpoint, which then applies it to a value that is not a subterm of the structural argument. Passing the recursive function to a plain definition is rejected because the checker unfolds the definition and observes the call, but passing it to a fixpoint is accepted because higher-order recursive calls through fixpoint arguments
 
 - [https://github.com/endrazine/rocq-cve-poc-21683](https://github.com/endrazine/rocq-cve-poc-21683) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-21683.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-21683.svg)
+
+## CVE-2026-72704
+> The guard checker in Rocq Prover does not recheck the recursive tree representation of an inductive type parameter after that parameter has been changed by transport. A fixpoint may apply a rewrite along an equality between types to its recursive argument, which the guard checker accepts because the inductive type is preserved, while the recursive tree recorded for the parameter is altered. A second fixpoint that calls the first inherits the altered recursive tree without verification, so a call
+
+- [https://github.com/endrazine/rocq-cve-poc-22024](https://github.com/endrazine/rocq-cve-poc-22024) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-22024.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-22024.svg)
 
 ## CVE-2026-72703
 > The guard checker in Rocq Prover treats a parameter of a nested mutual fixpoint as uniform without examining calls between the different bodies of that fixpoint. find_uniform_parameters in kernel/inductive.ml inspects only self-recursive calls, so when no body calls itself the function concludes that every parameter is uniform. A parameter that grows through a cross-call from one body to another therefore keeps the subterm specification it inherited from the enclosing fixpoint, and a recursive c

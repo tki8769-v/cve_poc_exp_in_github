@@ -3,9 +3,19 @@
 
 - [https://github.com/rigby721/CEV-2020-25213_wp-file-manger_exploit](https://github.com/rigby721/CEV-2020-25213_wp-file-manger_exploit) : ![starts](https://img.shields.io/github/stars/rigby721/CEV-2020-25213_wp-file-manger_exploit.svg) ![forks](https://img.shields.io/github/forks/rigby721/CEV-2020-25213_wp-file-manger_exploit.svg)
 
+## CVE-2020-37268
+> Print Assumptions does not report that a definition was produced while universe checking was disabled when that definition reaches the caller through Parameter Inline in a module type. Applying a functor inlines the body of the parameter, and the inlining drops the record that the term was built under Unset Universe Checking, so the resulting constant carries no trace of the unsafe operation. A module implementation can therefore prove False using a universe inconsistency, expose it through an i
+
+- [https://github.com/endrazine/rocq-cve-poc-12155](https://github.com/endrazine/rocq-cve-poc-12155) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-12155.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-12155.svg)
+
 ## CVE-2021-44228
 
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-4](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-4) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-4.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-4.svg)
+
+## CVE-2022-1015
+> A flaw was found in the Linux kernel in linux/net/netfilter/nf_tables_api.c of the netfilter subsystem. This flaw allows a local user to cause an out-of-bounds write issue.
+
+- [https://github.com/uz56764/CVE-2022-1015](https://github.com/uz56764/CVE-2022-1015) : ![starts](https://img.shields.io/github/stars/uz56764/CVE-2022-1015.svg) ![forks](https://img.shields.io/github/forks/uz56764/CVE-2022-1015.svg)
 
 ## CVE-2023-21752
 
@@ -22,6 +32,11 @@
 ## CVE-2024-10441
 
 - [https://github.com/Ntn10/cve-2024-10441-synology-rce](https://github.com/Ntn10/cve-2024-10441-synology-rce) : ![starts](https://img.shields.io/github/stars/Ntn10/cve-2024-10441-synology-rce.svg) ![forks](https://img.shields.io/github/forks/Ntn10/cve-2024-10441-synology-rce.svg)
+
+## CVE-2024-21762
+> A out-of-bounds write vulnerability in Fortinet FortiOS 7.4.0 through 7.4.2, FortiOS 7.2.0 through 7.2.6, FortiOS 7.0.0 through 7.0.13, FortiOS 6.4.0 through 6.4.14, FortiOS 6.2.0 through 6.2.15, FortiOS 6.0 all versions, FortiProxy 7.4.0 through 7.4.2, FortiProxy 7.2.0 through 7.2.8, FortiProxy 7.0.0 through 7.0.14, FortiProxy 2.0.0 through 2.0.13, FortiProxy 01.02 all versions, FortiProxy 1.2 all versions, FortiProxy 01.01 all versions, FortiProxy 1.1 all versions, FortiProxy 01.00 all version
+
+- [https://github.com/izancxg/CVE-2024-21762-Safe-Check](https://github.com/izancxg/CVE-2024-21762-Safe-Check) : ![starts](https://img.shields.io/github/stars/izancxg/CVE-2024-21762-Safe-Check.svg) ![forks](https://img.shields.io/github/forks/izancxg/CVE-2024-21762-Safe-Check.svg)
 
 ## CVE-2024-45409
 
@@ -331,6 +346,11 @@ problems:
 
 - [https://github.com/endrazine/rocq-cve-poc-21682](https://github.com/endrazine/rocq-cve-poc-21682) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-21682.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-21682.svg)
 
+## CVE-2026-72704
+> The guard checker in Rocq Prover does not recheck the recursive tree representation of an inductive type parameter after that parameter has been changed by transport. A fixpoint may apply a rewrite along an equality between types to its recursive argument, which the guard checker accepts because the inductive type is preserved, while the recursive tree recorded for the parameter is altered. A second fixpoint that calls the first inherits the altered recursive tree without verification, so a call
+
+- [https://github.com/endrazine/rocq-cve-poc-22024](https://github.com/endrazine/rocq-cve-poc-22024) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-22024.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-22024.svg)
+
 ## CVE-2026-72705
 > The guard checker in Rocq Prover does not follow recursive calls made through a fixpoint&#x27;s own arguments. A fixpoint may pass itself as a higher-order argument to a second fixpoint, which then applies it to a value that is not a subterm of the structural argument. Passing the recursive function to a plain definition is rejected because the checker unfolds the definition and observes the call, but passing it to a fixpoint is accepted because higher-order recursive calls through fixpoint arguments
 
@@ -340,6 +360,11 @@ problems:
 > The Lean 4 kernel does not check that the body of an opaque declaration is closed. environment::add_opaque omits the check_no_metavar_no_fvar call that the definition and theorem paths perform, so a value containing a free variable that is absent from the local context is not rejected outright. A metaprogram can first cause the kernel to create a temporary local of type False and record its type in the type checker&#x27;s inference cache, then restore the local context while that cache entry persists
 
 - [https://github.com/endrazine/lean-cve-poc-14484](https://github.com/endrazine/lean-cve-poc-14484) : ![starts](https://img.shields.io/github/stars/endrazine/lean-cve-poc-14484.svg) ![forks](https://img.shields.io/github/forks/endrazine/lean-cve-poc-14484.svg)
+
+## CVE-2026-72714
+> Rocq Prover does not restore the universe graph&#x27;s copy of the universe checking flag when a module that locally disabled the check is closed. Local Unset Universe Checking inside a module is expected to last only until the module ends, and the global flag is restored, but the universe graph keeps its own copy which is left disabled. The two views then disagree: Test Universe Checking reports the check as enabled while the kernel continues to accept universe-inconsistent terms. With the constrain
+
+- [https://github.com/endrazine/rocq-cve-poc-22287](https://github.com/endrazine/rocq-cve-poc-22287) : ![starts](https://img.shields.io/github/stars/endrazine/rocq-cve-poc-22287.svg) ![forks](https://img.shields.io/github/forks/endrazine/rocq-cve-poc-22287.svg)
 
 ## CVE-2026-74580
 > In the Linux kernel, the following vulnerability has been resolved:
