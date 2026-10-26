@@ -2192,3 +2192,10 @@
 {"cve_id": "CVE-2025-4330", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T16:19:00Z", "url": "https://github.com/hunters-sec/CVE-2025-43300", "url_ids": ["CVE-2025-43300"]}
 {"cve_id": "CVE-2025-4330", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T16:19:00Z", "url": "https://github.com/PwnToday/CVE-2025-43300", "url_ids": ["CVE-2025-43300"]}
 {"cve_id": "CVE-2025-1383", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T16:22:02Z", "url": "https://github.com/sastraadiwiguna-purpleeliteteaming/CVE-2025-13834-A-Bluetooth-RFCOMM-Out-of-Bounds-Read-Vulnerability-in-Modern-Wireless-Devices", "url_ids": ["CVE-2025-13834"]}
+{"cve_id": "CVE-2026-4637", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T16:28:58Z", "url": "https://github.com/portbuster1337/CVE-2026-46376", "url_ids": ["CVE-2026-46376"]}
+{"cve_id": "CVE-2024-3435", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T16:29:02Z", "url": "https://github.com/God4n/nextjs-CVE-2024-34351-_exploit", "url_ids": ["CVE-2024-34351"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T16:34:15Z", "url": "https://github.com/orangmuda/CVE-2021-38314", "url_ids": ["CVE-2021-38314"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T16:34:15Z", "url": "https://github.com/akhilkoradiya/CVE-2021-38314", "url_ids": ["CVE-2021-38314"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T16:34:15Z", "url": "https://github.com/twseptian/cve-2021-38314", "url_ids": ["CVE-2021-38314"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T16:34:15Z", "url": "https://github.com/0xGabe/CVE-2021-38314", "url_ids": ["CVE-2021-38314"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T16:34:15Z", "url": "https://github.com/c0ff33b34n/CVE-2021-38314", "url_ids": ["CVE-2021-38314"]}

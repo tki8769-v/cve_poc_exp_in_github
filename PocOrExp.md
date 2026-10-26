@@ -1181,6 +1181,12 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/gorgeoushos/CVE-2026-109618-research](https://github.com/gorgeoushos/CVE-2026-109618-research) : ![starts](https://img.shields.io/github/stars/gorgeoushos/CVE-2026-109618-research.svg) ![forks](https://img.shields.io/github/forks/gorgeoushos/CVE-2026-109618-research.svg)
 
+- [https://github.com/jensb1/php-8.2.34-session-uaf-rce](https://github.com/jensb1/php-8.2.34-session-uaf-rce) : ![starts](https://img.shields.io/github/stars/jensb1/php-8.2.34-session-uaf-rce.svg) ![forks](https://img.shields.io/github/forks/jensb1/php-8.2.34-session-uaf-rce.svg)
+
+- [https://github.com/nsrivastava2velsof/php56-php2shell-patch](https://github.com/nsrivastava2velsof/php56-php2shell-patch) : ![starts](https://img.shields.io/github/stars/nsrivastava2velsof/php56-php2shell-patch.svg) ![forks](https://img.shields.io/github/forks/nsrivastava2velsof/php56-php2shell-patch.svg)
+
+- [https://github.com/semihyesilyurt/CVE-2026-109618-PoC](https://github.com/semihyesilyurt/CVE-2026-109618-PoC) : ![starts](https://img.shields.io/github/stars/semihyesilyurt/CVE-2026-109618-PoC.svg) ![forks](https://img.shields.io/github/forks/semihyesilyurt/CVE-2026-109618-PoC.svg)
+
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
