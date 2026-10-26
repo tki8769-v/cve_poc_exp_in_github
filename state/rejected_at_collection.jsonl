@@ -2215,3 +2215,6 @@
 {"cve_id": "CVE-2024-3806", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T22:00:27Z", "url": "https://github.com/FrancescoDiSalesGithub/quick-fix-cve-2024-38063", "url_ids": ["CVE-2024-38063"]}
 {"cve_id": "CVE-2024-3806", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T22:00:27Z", "url": "https://github.com/RohitMalik7/cve-2024-38063-detection-mitigation-system", "url_ids": ["CVE-2024-38063"]}
 {"cve_id": "CVE-2024-3806", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T22:00:27Z", "url": "https://github.com/almogopp/Disable-IPv6-CVE-2024-38063-Fix", "url_ids": ["CVE-2024-38063"]}
+{"cve_id": "CVE-2026-4255", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T22:14:22Z", "url": "https://github.com/joaovicdev/EXPLOIT-CVE-2026-42559", "url_ids": ["CVE-2026-42559"]}
+{"cve_id": "CVE-2026-9090", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T22:17:51Z", "url": "https://github.com/aorozco-sys/CVE-2026-90907", "url_ids": ["CVE-2026-90907"]}
+{"cve_id": "CVE-2026-6925", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T22:19:50Z", "url": "https://github.com/CompleTetech-Security/flowise-cve-2026-69254-check", "url_ids": ["CVE-2026-69254"]}
