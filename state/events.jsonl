@@ -4829,3 +4829,17 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-26T16:34:08Z", "type": "new_poc", "url": "https://github.com/semihyesilyurt/CVE-2026-109618-PoC"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-26T16:34:13Z", "type": "new_poc", "url": "https://github.com/nsrivastava2velsof/php56-php2shell-patch"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-26T16:34:13Z", "type": "new_poc", "url": "https://github.com/jensb1/php-8.2.34-session-uaf-rce"}
+{"cve_id": "CVE-2012-20006", "ts": "2026-10-26T16:38:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65202", "ts": "2026-10-26T16:39:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65203", "ts": "2026-10-26T16:39:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65212", "ts": "2026-10-26T16:39:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65214", "ts": "2026-10-26T16:39:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65215", "ts": "2026-10-26T16:39:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65216", "ts": "2026-10-26T16:39:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65217", "ts": "2026-10-26T16:39:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65218", "ts": "2026-10-26T16:39:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65221", "ts": "2026-10-26T16:39:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65222", "ts": "2026-10-26T16:39:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65226", "ts": "2026-10-26T16:39:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65547", "ts": "2026-10-26T16:39:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98943", "ts": "2026-10-26T16:40:25Z", "type": "cve_rejected"}
