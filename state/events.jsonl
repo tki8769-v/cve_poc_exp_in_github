@@ -4896,3 +4896,17 @@
 {"cve_id": "CVE-2026-65226", "ts": "2026-10-26T22:05:33Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-65547", "ts": "2026-10-26T22:05:34Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-98943", "ts": "2026-10-26T22:10:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2012-20006", "ts": "2026-10-26T22:24:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65202", "ts": "2026-10-26T22:27:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65203", "ts": "2026-10-26T22:27:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65212", "ts": "2026-10-26T22:27:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65214", "ts": "2026-10-26T22:27:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65215", "ts": "2026-10-26T22:27:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65216", "ts": "2026-10-26T22:27:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65217", "ts": "2026-10-26T22:27:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65218", "ts": "2026-10-26T22:27:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65221", "ts": "2026-10-26T22:27:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65222", "ts": "2026-10-26T22:27:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65226", "ts": "2026-10-26T22:27:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65547", "ts": "2026-10-26T22:27:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98943", "ts": "2026-10-26T22:32:24Z", "type": "cve_rejected"}

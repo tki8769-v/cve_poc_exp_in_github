@@ -2218,3 +2218,4 @@
 {"cve_id": "CVE-2026-4255", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T22:14:22Z", "url": "https://github.com/joaovicdev/EXPLOIT-CVE-2026-42559", "url_ids": ["CVE-2026-42559"]}
 {"cve_id": "CVE-2026-9090", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T22:17:51Z", "url": "https://github.com/aorozco-sys/CVE-2026-90907", "url_ids": ["CVE-2026-90907"]}
 {"cve_id": "CVE-2026-6925", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T22:19:50Z", "url": "https://github.com/CompleTetech-Security/flowise-cve-2026-69254-check", "url_ids": ["CVE-2026-69254"]}
+{"cve_id": "CVE-2022-3317", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T22:37:39Z", "url": "https://github.com/open-flaw/CVE-2022-33171", "url_ids": ["CVE-2022-33171"]}
