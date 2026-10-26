@@ -13,10 +13,12 @@
 - [https://github.com/asvorg/CVE-2026-116191-poc](https://github.com/asvorg/CVE-2026-116191-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-116191-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-116191-poc.svg)
 
 ## CVE-2026-116106
+> A security vulnerability has been detected in HeyCyan App 1.0.103 on Android. Affected by this vulnerability is an unknown functionality of the component FileProvider. The manipulation leads to improper access controls. The attack may be initiated remotely. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/ohackercego/CVE-2026-116106](https://github.com/ohackercego/CVE-2026-116106) : ![starts](https://img.shields.io/github/stars/ohackercego/CVE-2026-116106.svg) ![forks](https://img.shields.io/github/forks/ohackercego/CVE-2026-116106.svg)
 
 ## CVE-2026-116105
+> A weakness has been identified in HeyCyan App 1.0.103 on Android. Affected is an unknown function of the file AndroidManifest.xml of the component Network Security Configuration. Executing a manipulation can lead to cleartext transmission of sensitive information. The attack can be launched remotely. The attack requires a high level of complexity. The exploitability is told to be difficult. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/ohackercego/CVE-2026-116105](https://github.com/ohackercego/CVE-2026-116105) : ![starts](https://img.shields.io/github/stars/ohackercego/CVE-2026-116105.svg) ![forks](https://img.shields.io/github/forks/ohackercego/CVE-2026-116105.svg)
 
@@ -1146,6 +1148,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/turovskiy/php2shell-fixer](https://github.com/turovskiy/php2shell-fixer) : ![starts](https://img.shields.io/github/stars/turovskiy/php2shell-fixer.svg) ![forks](https://img.shields.io/github/forks/turovskiy/php2shell-fixer.svg)
 
 - [https://github.com/yildirimserkan/stackprint](https://github.com/yildirimserkan/stackprint) : ![starts](https://img.shields.io/github/stars/yildirimserkan/stackprint.svg) ![forks](https://img.shields.io/github/forks/yildirimserkan/stackprint.svg)
+
+- [https://github.com/gagaltotal/CVE-2026-109618-109619-php2shell](https://github.com/gagaltotal/CVE-2026-109618-109619-php2shell) : ![starts](https://img.shields.io/github/stars/gagaltotal/CVE-2026-109618-109619-php2shell.svg) ![forks](https://img.shields.io/github/forks/gagaltotal/CVE-2026-109618-109619-php2shell.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.

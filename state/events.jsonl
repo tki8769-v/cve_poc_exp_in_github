@@ -4782,3 +4782,4 @@
 {"cve_id": "CVE-2025-5548", "ts": "2026-10-26T06:17:49Z", "type": "new_poc", "url": "https://github.com/FreemanHack/CVE-2025-5548"}
 {"cve_id": "CVE-2026-18107", "ts": "2026-10-26T06:17:55Z", "type": "new_poc", "url": "https://github.com/robalb/criu-exploit"}
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-26T06:17:55Z", "type": "new_poc", "url": "https://github.com/datmt/vulcheck"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-26T06:45:45Z", "type": "new_poc", "url": "https://github.com/gagaltotal/CVE-2026-109618-109619-php2shell"}
