@@ -192,6 +192,8 @@
 
 - [https://github.com/CyberCTF/vulhub-glassfish-cve-2017-1000028](https://github.com/CyberCTF/vulhub-glassfish-cve-2017-1000028) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-glassfish-cve-2017-1000028.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-glassfish-cve-2017-1000028.svg)
 
+- [https://github.com/skl233/hdu-is-work1](https://github.com/skl233/hdu-is-work1) : ![starts](https://img.shields.io/github/stars/skl233/hdu-is-work1.svg) ![forks](https://img.shields.io/github/forks/skl233/hdu-is-work1.svg)
+
 ## CVE-2017-1000006
  Plotly, Inc. plotly.js versions prior to 1.16.0 are vulnerable to an XSS issue.
 

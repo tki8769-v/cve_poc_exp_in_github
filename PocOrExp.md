@@ -50,6 +50,8 @@
 
 - [https://github.com/slabbdev/php-cve-2026-115560-kit](https://github.com/slabbdev/php-cve-2026-115560-kit) : ![starts](https://img.shields.io/github/stars/slabbdev/php-cve-2026-115560-kit.svg) ![forks](https://img.shields.io/github/forks/slabbdev/php-cve-2026-115560-kit.svg)
 
+- [https://github.com/Pr0fEs0r-X/PHP-CVE-2026-115560-Cheker-v-1.0](https://github.com/Pr0fEs0r-X/PHP-CVE-2026-115560-Cheker-v-1.0) : ![starts](https://img.shields.io/github/stars/Pr0fEs0r-X/PHP-CVE-2026-115560-Cheker-v-1.0.svg) ![forks](https://img.shields.io/github/forks/Pr0fEs0r-X/PHP-CVE-2026-115560-Cheker-v-1.0.svg)
+
 ## CVE-2026-114820
 
 - [https://github.com/joedayz/cve-2026-114820-java-scan](https://github.com/joedayz/cve-2026-114820-java-scan) : ![starts](https://img.shields.io/github/stars/joedayz/cve-2026-114820-java-scan.svg) ![forks](https://img.shields.io/github/forks/joedayz/cve-2026-114820-java-scan.svg)
@@ -261,6 +263,12 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/fbuff-tools/http2shell-checker](https://github.com/fbuff-tools/http2shell-checker) : ![starts](https://img.shields.io/github/stars/fbuff-tools/http2shell-checker.svg) ![forks](https://img.shields.io/github/forks/fbuff-tools/http2shell-checker.svg)
 
 - [https://github.com/tikarammardi/CVE-2026-111497](https://github.com/tikarammardi/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/tikarammardi/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/tikarammardi/CVE-2026-111497.svg)
+
+- [https://github.com/CompleTetech-Security/http2shell-check](https://github.com/CompleTetech-Security/http2shell-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/http2shell-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/http2shell-check.svg)
+
+- [https://github.com/datmt/vulcheck](https://github.com/datmt/vulcheck) : ![starts](https://img.shields.io/github/stars/datmt/vulcheck.svg) ![forks](https://img.shields.io/github/forks/datmt/vulcheck.svg)
+
+- [https://github.com/ionsec/node2shell-detector](https://github.com/ionsec/node2shell-detector) : ![starts](https://img.shields.io/github/stars/ionsec/node2shell-detector.svg) ![forks](https://img.shields.io/github/forks/ionsec/node2shell-detector.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -541,6 +549,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/infiniroot/ansible-mitigate-php2shell](https://github.com/infiniroot/ansible-mitigate-php2shell) : ![starts](https://img.shields.io/github/stars/infiniroot/ansible-mitigate-php2shell.svg) ![forks](https://img.shields.io/github/forks/infiniroot/ansible-mitigate-php2shell.svg)
 
 - [https://github.com/mazdel/php2shell-poc](https://github.com/mazdel/php2shell-poc) : ![starts](https://img.shields.io/github/stars/mazdel/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/mazdel/php2shell-poc.svg)
+
+- [https://github.com/franckferman/CVE-2026-109619](https://github.com/franckferman/CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/franckferman/CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/franckferman/CVE-2026-109619.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -1128,6 +1138,14 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/MrPrinceRawat/php2shell-behind-nginx](https://github.com/MrPrinceRawat/php2shell-behind-nginx) : ![starts](https://img.shields.io/github/stars/MrPrinceRawat/php2shell-behind-nginx.svg) ![forks](https://img.shields.io/github/forks/MrPrinceRawat/php2shell-behind-nginx.svg)
 
 - [https://github.com/lucasbarros097/PHP2Shell__CVE-2026-109618__CVE2026-109619](https://github.com/lucasbarros097/PHP2Shell__CVE-2026-109618__CVE2026-109619) : ![starts](https://img.shields.io/github/stars/lucasbarros097/PHP2Shell__CVE-2026-109618__CVE2026-109619.svg) ![forks](https://img.shields.io/github/forks/lucasbarros097/PHP2Shell__CVE-2026-109618__CVE2026-109619.svg)
+
+- [https://github.com/franckferman/CVE-2026-109618](https://github.com/franckferman/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/franckferman/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/franckferman/CVE-2026-109618.svg)
+
+- [https://github.com/lynolz163/php2shell-research-public](https://github.com/lynolz163/php2shell-research-public) : ![starts](https://img.shields.io/github/stars/lynolz163/php2shell-research-public.svg) ![forks](https://img.shields.io/github/forks/lynolz163/php2shell-research-public.svg)
+
+- [https://github.com/turovskiy/php2shell-fixer](https://github.com/turovskiy/php2shell-fixer) : ![starts](https://img.shields.io/github/stars/turovskiy/php2shell-fixer.svg) ![forks](https://img.shields.io/github/forks/turovskiy/php2shell-fixer.svg)
+
+- [https://github.com/yildirimserkan/stackprint](https://github.com/yildirimserkan/stackprint) : ![starts](https://img.shields.io/github/stars/yildirimserkan/stackprint.svg) ![forks](https://img.shields.io/github/forks/yildirimserkan/stackprint.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -2119,6 +2137,10 @@ but the node is still queued on tsk, which
 - [https://github.com/janewas/cve-2026-98260-vivo-gki-research](https://github.com/janewas/cve-2026-98260-vivo-gki-research) : ![starts](https://img.shields.io/github/stars/janewas/cve-2026-98260-vivo-gki-research.svg) ![forks](https://img.shields.io/github/forks/janewas/cve-2026-98260-vivo-gki-research.svg)
 
 - [https://github.com/zsw125/o3root](https://github.com/zsw125/o3root) : ![starts](https://img.shields.io/github/stars/zsw125/o3root.svg) ![forks](https://img.shields.io/github/forks/zsw125/o3root.svg)
+
+- [https://github.com/AzirX1337/CVE-2026-98260-OnePlus16-PYB110-Jailbreak](https://github.com/AzirX1337/CVE-2026-98260-OnePlus16-PYB110-Jailbreak) : ![starts](https://img.shields.io/github/stars/AzirX1337/CVE-2026-98260-OnePlus16-PYB110-Jailbreak.svg) ![forks](https://img.shields.io/github/forks/AzirX1337/CVE-2026-98260-OnePlus16-PYB110-Jailbreak.svg)
+
+- [https://github.com/addxemmm/CVE-2026-98260-pudding-android](https://github.com/addxemmm/CVE-2026-98260-pudding-android) : ![starts](https://img.shields.io/github/stars/addxemmm/CVE-2026-98260-pudding-android.svg) ![forks](https://img.shields.io/github/forks/addxemmm/CVE-2026-98260-pudding-android.svg)
 
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -3643,6 +3665,10 @@ unmarshal() verified the modification detection code only when the message was a
 
 - [https://github.com/OwenPawl/CVE-2026-84600](https://github.com/OwenPawl/CVE-2026-84600) : ![starts](https://img.shields.io/github/stars/OwenPawl/CVE-2026-84600.svg) ![forks](https://img.shields.io/github/forks/OwenPawl/CVE-2026-84600.svg)
 
+## CVE-2026-84589
+
+- [https://github.com/isaiahehlert/CVE-2026-84589-macOS-TCC-Bypass](https://github.com/isaiahehlert/CVE-2026-84589-macOS-TCC-Bypass) : ![starts](https://img.shields.io/github/stars/isaiahehlert/CVE-2026-84589-macOS-TCC-Bypass.svg) ![forks](https://img.shields.io/github/forks/isaiahehlert/CVE-2026-84589-macOS-TCC-Bypass.svg)
+
 ## CVE-2026-84568
  A path traversal issue was addressed with improved path validation. This issue is fixed in macOS Golden Gate 27, macOS Sequoia 15.8, macOS Tahoe 26.7. An attacker with control of a network directory server may be able to execute arbitrary code with root privileges.
 
@@ -4702,6 +4728,8 @@ Users are rec
 - [https://github.com/jithinkrishnanrs/stylesmuggler-ioc-toolkit](https://github.com/jithinkrishnanrs/stylesmuggler-ioc-toolkit) : ![starts](https://img.shields.io/github/stars/jithinkrishnanrs/stylesmuggler-ioc-toolkit.svg) ![forks](https://img.shields.io/github/forks/jithinkrishnanrs/stylesmuggler-ioc-toolkit.svg)
 
 - [https://github.com/abraxas/CVE-2026-75650](https://github.com/abraxas/CVE-2026-75650) : ![starts](https://img.shields.io/github/stars/abraxas/CVE-2026-75650.svg) ![forks](https://img.shields.io/github/forks/abraxas/CVE-2026-75650.svg)
+
+- [https://github.com/basesixtythree/B63-POC-CVE-2026-75650](https://github.com/basesixtythree/B63-POC-CVE-2026-75650) : ![starts](https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2026-75650.svg) ![forks](https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2026-75650.svg)
 
 ## CVE-2026-75616
  An OS command injection vulnerability exists in the web management interface of Archer C20 v6 firmware when processing certain WAN-related configuration operations. An authenticated administrator may exploit insufficient input validation to execute arbitrary system commands, potentially resulting in full device compromise.
@@ -12387,6 +12415,8 @@ Defer the kfree() to an RCU callback to prevent UAF.
 - [https://github.com/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit](https://github.com/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit) : ![starts](https://img.shields.io/github/stars/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit.svg) ![forks](https://img.shields.io/github/forks/porcumarcooo/THM-CVE-2026-42945-Nginx-Rift-Exploit.svg)
 
 - [https://github.com/rune42/ElasticRift](https://github.com/rune42/ElasticRift) : ![starts](https://img.shields.io/github/stars/rune42/ElasticRift.svg) ![forks](https://img.shields.io/github/forks/rune42/ElasticRift.svg)
+
+- [https://github.com/x0xr00t/sl0ppy-riftscan-CVE-2026-42945](https://github.com/x0xr00t/sl0ppy-riftscan-CVE-2026-42945) : ![starts](https://img.shields.io/github/stars/x0xr00t/sl0ppy-riftscan-CVE-2026-42945.svg) ![forks](https://img.shields.io/github/forks/x0xr00t/sl0ppy-riftscan-CVE-2026-42945.svg)
 
 ## CVE-2026-42926
  When NGINX Open Source is configured to proxy HTTP/2 traffic by setting proxy_http_version to 2, and also uses proxy_set_body, an attacker may be able to inject frame headers and payload bytes to the upstream peer.  Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
@@ -20406,6 +20436,8 @@ Note: If the FMC management interface does not have public internet access, the 
 
 - [https://github.com/Jwa7470/CVE-2026-20131-Post-Incident-Written-Report](https://github.com/Jwa7470/CVE-2026-20131-Post-Incident-Written-Report) : ![starts](https://img.shields.io/github/stars/Jwa7470/CVE-2026-20131-Post-Incident-Written-Report.svg) ![forks](https://img.shields.io/github/forks/Jwa7470/CVE-2026-20131-Post-Incident-Written-Report.svg)
 
+- [https://github.com/basesixtythree/B63-POC-CVE-2026-20131](https://github.com/basesixtythree/B63-POC-CVE-2026-20131) : ![starts](https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2026-20131.svg) ![forks](https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2026-20131.svg)
+
 ## CVE-2026-20127
  A vulnerability in the peering authentication in Cisco Catalyst SD-WAN Controller, formerly SD-WAN vSmart, Cisco Catalyst SD-WAN Manager, formerly SD-WAN vManage, and Cisco Catalyst SD-WAN Validator, formerly SD-WAN vBond, could allow an unauthenticated, remote attacker to bypass authentication and obtain administrative privileges on an affected system.
 
@@ -20878,6 +20910,10 @@ Note: This vulnerability is only exploitable when binutils is built with the DLX
 > Concrete CMS 9 (9.0.0 through 9.5.2) does not perform an authorization check on the user selector autocomplete endpoint (/ccm/system/user/autocomplete), which backs the &quot;Preview as User&quot; panel and other user-selector components. The endpoint validates only a CSRF-style access token that is bound to the selector&#x27;s display options rather than to the caller&#x27;s identity or permissions, and that token is issued to anonymous visitors because the selector renders without an authorization check. Because
 
 - [https://github.com/flenz00/CVE-2026-18110-PoC](https://github.com/flenz00/CVE-2026-18110-PoC) : ![starts](https://img.shields.io/github/stars/flenz00/CVE-2026-18110-PoC.svg) ![forks](https://img.shields.io/github/forks/flenz00/CVE-2026-18110-PoC.svg)
+
+## CVE-2026-18107
+
+- [https://github.com/robalb/criu-exploit](https://github.com/robalb/criu-exploit) : ![starts](https://img.shields.io/github/stars/robalb/criu-exploit.svg) ![forks](https://img.shields.io/github/forks/robalb/criu-exploit.svg)
 
 ## CVE-2026-18080
  The ERP: Complete HR, Accounting & CRM Suite Built for WooCommerce plugin for WordPress is vulnerable to Unrestricted File Type Upload in all versions up to, and including, 1.17.8 via the save_attachments() function. This is due to missing file extension validation and missing path normalization when CRM Email Connect processes inbound IMAP email attachments. This makes it possible for unauthenticated attackers to send a crafted email to the site's configured inbound mailbox with a forged References header matching the plugin's expected pattern and an attachment filename such as `../helper.php`, causing the cron-based IMAP sync job to write attacker-controlled PHP outside of the .htaccess-protected `crm-attachments` directory and into `wp-content/uploads/`. On configurations where PHP executes in uploads, this can lead to remote code execution. Exploitation requires the CRM module and IMAP Email Connect feature to be enabled and configured.
@@ -39202,6 +39238,8 @@ Users should upgrade to the latest version and ensure any forked or derivative c
 - [https://github.com/jonbondani/CVE-2025-5548](https://github.com/jonbondani/CVE-2025-5548) : ![starts](https://img.shields.io/github/stars/jonbondani/CVE-2025-5548.svg) ![forks](https://img.shields.io/github/forks/jonbondani/CVE-2025-5548.svg)
 
 - [https://github.com/pedrose-99/CVE-2025-5548](https://github.com/pedrose-99/CVE-2025-5548) : ![starts](https://img.shields.io/github/stars/pedrose-99/CVE-2025-5548.svg) ![forks](https://img.shields.io/github/forks/pedrose-99/CVE-2025-5548.svg)
+
+- [https://github.com/FreemanHack/CVE-2025-5548](https://github.com/FreemanHack/CVE-2025-5548) : ![starts](https://img.shields.io/github/stars/FreemanHack/CVE-2025-5548.svg) ![forks](https://img.shields.io/github/forks/FreemanHack/CVE-2025-5548.svg)
 
 ## CVE-2025-5518
  Authorization Bypass Through User-Controlled Key vulnerability with user privileges in ArgusTech BILGER allows Exploitation of Trusted Identifiers.
@@ -98771,6 +98809,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 - [https://github.com/NeonNOXX/CVE-2017-1000028](https://github.com/NeonNOXX/CVE-2017-1000028) : ![starts](https://img.shields.io/github/stars/NeonNOXX/CVE-2017-1000028.svg) ![forks](https://img.shields.io/github/forks/NeonNOXX/CVE-2017-1000028.svg)
 
 - [https://github.com/CyberCTF/vulhub-glassfish-cve-2017-1000028](https://github.com/CyberCTF/vulhub-glassfish-cve-2017-1000028) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-glassfish-cve-2017-1000028.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-glassfish-cve-2017-1000028.svg)
+
+- [https://github.com/skl233/hdu-is-work1](https://github.com/skl233/hdu-is-work1) : ![starts](https://img.shields.io/github/stars/skl233/hdu-is-work1.svg) ![forks](https://img.shields.io/github/forks/skl233/hdu-is-work1.svg)
 
 ## CVE-2017-1000006
  Plotly, Inc. plotly.js versions prior to 1.16.0 are vulnerable to an XSS issue.
