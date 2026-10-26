@@ -5426,6 +5426,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/CyberCTF/vulhub-jetty-cve-2021-28164](https://github.com/CyberCTF/vulhub-jetty-cve-2021-28164) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-jetty-cve-2021-28164.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-jetty-cve-2021-28164.svg)
 
+- [https://github.com/Guanyu-Zhou/work1-api](https://github.com/Guanyu-Zhou/work1-api) : ![starts](https://img.shields.io/github/stars/Guanyu-Zhou/work1-api.svg) ![forks](https://img.shields.io/github/forks/Guanyu-Zhou/work1-api.svg)
+
 ## CVE-2021-28079
  Jamovi =1.6.18 is affected by a cross-site scripting (XSS) vulnerability. The column-name is vulnerable to XSS in the ElectronJS Framework. An attacker can make a .omv (Jamovi) document containing a payload. When opened by victim, the payload is triggered.
 

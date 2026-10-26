@@ -8599,6 +8599,8 @@ a71874379ec8 ("xattr: switch to CLASS(fd)").
 
 - [https://github.com/CrimsonfiedOfficial/CVE-2024-13985](https://github.com/CrimsonfiedOfficial/CVE-2024-13985) : ![starts](https://img.shields.io/github/stars/CrimsonfiedOfficial/CVE-2024-13985.svg) ![forks](https://img.shields.io/github/forks/CrimsonfiedOfficial/CVE-2024-13985.svg)
 
+- [https://github.com/piecar21/CVE-2024-13985](https://github.com/piecar21/CVE-2024-13985) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2024-13985.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2024-13985.svg)
+
 ## CVE-2024-13869
  The Migration, Backup, Staging – WPvivid Backup & Migration plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'upload_files' function in all versions up to, and including, 0.9.112. This makes it possible for authenticated attackers, with Administrator-level access and above, to upload arbitrary files on the affected site's server which may make remote code execution possible. NOTE: Uploaded files are only accessible on WordPress instances running on the NGINX web server as the existing .htaccess within the target file upload folder prevents access on Apache servers.
 

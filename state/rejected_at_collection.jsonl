@@ -2189,3 +2189,6 @@
 {"cve_id": "CVE-2026-1096", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T06:52:10Z", "url": "https://github.com/definitiveref/php2shell-CVE-2026-109618-109619-Research", "url_ids": ["CVE-2026-109618"]}
 {"cve_id": "CVE-2026-1096", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T06:52:10Z", "url": "https://github.com/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619", "url_ids": ["CVE-2026-109618"]}
 {"cve_id": "CVE-2026-1096", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T06:52:10Z", "url": "https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-free", "url_ids": ["CVE-2026-109618"]}
+{"cve_id": "CVE-2025-4330", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T16:19:00Z", "url": "https://github.com/hunters-sec/CVE-2025-43300", "url_ids": ["CVE-2025-43300"]}
+{"cve_id": "CVE-2025-4330", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T16:19:00Z", "url": "https://github.com/PwnToday/CVE-2025-43300", "url_ids": ["CVE-2025-43300"]}
+{"cve_id": "CVE-2025-1383", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T16:22:02Z", "url": "https://github.com/sastraadiwiguna-purpleeliteteaming/CVE-2025-13834-A-Bluetooth-RFCOMM-Out-of-Bounds-Read-Vulnerability-in-Modern-Wireless-Devices", "url_ids": ["CVE-2025-13834"]}

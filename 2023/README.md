@@ -3583,6 +3583,10 @@ It is recommended for users to upgrade their NameServer version to 5.1.2 or abov
 
 - [https://github.com/shoucheng3/apache__rocketmq_CVE-2023-37582_4-9-6](https://github.com/shoucheng3/apache__rocketmq_CVE-2023-37582_4-9-6) : ![starts](https://img.shields.io/github/stars/shoucheng3/apache__rocketmq_CVE-2023-37582_4-9-6.svg) ![forks](https://img.shields.io/github/forks/shoucheng3/apache__rocketmq_CVE-2023-37582_4-9-6.svg)
 
+## CVE-2023-37569
+
+- [https://github.com/piecar21/CVE-2023-37569](https://github.com/piecar21/CVE-2023-37569) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2023-37569.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2023-37569.svg)
+
 ## CVE-2023-37478
  pnpm is a package manager. It is possible to construct a tarball that, when installed via npm or parsed by the registry is safe, but when installed via pnpm is malicious, due to how pnpm parses tar archives. This can result in a package that appears safe on the npm registry or when installed via npm being replaced with a compromised or malicious version when installed via pnpm. This issue has been patched in version(s) 7.33.4 and 8.6.8.
 
@@ -6125,6 +6129,8 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [https://github.com/benjaminhays/CVE-2023-28771-PoC](https://github.com/benjaminhays/CVE-2023-28771-PoC) : ![starts](https://img.shields.io/github/stars/benjaminhays/CVE-2023-28771-PoC.svg) ![forks](https://img.shields.io/github/forks/benjaminhays/CVE-2023-28771-PoC.svg)
 
 - [https://github.com/JinParkmida/cve-2023-28771-demo](https://github.com/JinParkmida/cve-2023-28771-demo) : ![starts](https://img.shields.io/github/stars/JinParkmida/cve-2023-28771-demo.svg) ![forks](https://img.shields.io/github/forks/JinParkmida/cve-2023-28771-demo.svg)
+
+- [https://github.com/piecar21/CVE-2023-28771](https://github.com/piecar21/CVE-2023-28771) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2023-28771.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2023-28771.svg)
 
 ## CVE-2023-28753
  netconsd prior to v0.2 was vulnerable to an integer overflow in its parse_packet function. A malicious individual could leverage this overflow to create heap memory corruption with attacker controlled data.

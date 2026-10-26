@@ -1882,6 +1882,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/artur9010/amazon-mustang-hack](https://github.com/artur9010/amazon-mustang-hack) : ![starts](https://img.shields.io/github/stars/artur9010/amazon-mustang-hack.svg) ![forks](https://img.shields.io/github/forks/artur9010/amazon-mustang-hack.svg)
 
+- [https://github.com/amirilivice/yandex-station-2-s905x2-root](https://github.com/amirilivice/yandex-station-2-s905x2-root) : ![starts](https://img.shields.io/github/stars/amirilivice/yandex-station-2-s905x2-root.svg) ![forks](https://img.shields.io/github/forks/amirilivice/yandex-station-2-s905x2-root.svg)
+
 ## CVE-2022-38029
  Windows ALPC Elevation of Privilege Vulnerability
 
@@ -4874,6 +4876,10 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 
 - [https://github.com/c1ph3rbyt3/CVE-2022-24816](https://github.com/c1ph3rbyt3/CVE-2022-24816) : ![starts](https://img.shields.io/github/stars/c1ph3rbyt3/CVE-2022-24816.svg) ![forks](https://img.shields.io/github/forks/c1ph3rbyt3/CVE-2022-24816.svg)
 
+## CVE-2022-24803
+
+- [https://github.com/Udyz/CVE-2022-24803](https://github.com/Udyz/CVE-2022-24803) : ![starts](https://img.shields.io/github/stars/Udyz/CVE-2022-24803.svg) ![forks](https://img.shields.io/github/forks/Udyz/CVE-2022-24803.svg)
+
 ## CVE-2022-24785
  Moment.js is a JavaScript date library for parsing, validating, manipulating, and formatting dates. A path traversal vulnerability impacts npm (server) users of Moment.js between versions 1.0.1 and 2.29.1, especially if a user-provided locale string is directly used to switch moment locale. This problem is patched in 2.29.2, and the patch can be applied to all affected versions. As a workaround, sanitize the user-provided locale name before passing it to Moment.js.
 
@@ -7162,6 +7168,8 @@ the client's API server credentials to third parties.
 - [https://github.com/letsr00t/-2022-LOCALROOT-CVE-2022-2639](https://github.com/letsr00t/-2022-LOCALROOT-CVE-2022-2639) : ![starts](https://img.shields.io/github/stars/letsr00t/-2022-LOCALROOT-CVE-2022-2639.svg) ![forks](https://img.shields.io/github/forks/letsr00t/-2022-LOCALROOT-CVE-2022-2639.svg)
 
 - [https://github.com/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639](https://github.com/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639) : ![starts](https://img.shields.io/github/stars/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639.svg) ![forks](https://img.shields.io/github/forks/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639.svg)
+
+- [https://github.com/aix567/Aurora](https://github.com/aix567/Aurora) : ![starts](https://img.shields.io/github/stars/aix567/Aurora.svg) ![forks](https://img.shields.io/github/forks/aix567/Aurora.svg)
 
 ## CVE-2022-2602
  io_uring UAF, Unix SCM garbage collection
