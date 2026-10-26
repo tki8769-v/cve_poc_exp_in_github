@@ -4760,3 +4760,7 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-25T23:38:25Z", "type": "new_poc", "url": "https://github.com/tuwiliyt/cve-2026-109618"}
 {"cve_id": "CVE-2026-109619", "ts": "2026-10-25T23:38:32Z", "type": "new_poc", "url": "https://github.com/mazdel/php2shell-poc"}
 {"cve_id": "CVE-2026-109619", "ts": "2026-10-25T23:38:32Z", "type": "new_poc", "url": "https://github.com/infiniroot/ansible-mitigate-php2shell"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-25T23:54:32Z", "type": "new_poc", "url": "https://github.com/lucasbarros097/PHP2Shell__CVE-2026-109618__CVE2026-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-25T23:54:38Z", "type": "new_poc", "url": "https://github.com/MrPrinceRawat/php2shell-behind-nginx"}
+{"cve_id": "CVE-2026-39902", "ts": "2026-10-26T00:02:38Z", "type": "new_poc", "url": "https://github.com/kx00007/CVE-2026-39902"}
+{"cve_id": "CVE-2026-53921", "ts": "2026-10-26T00:03:47Z", "type": "new_poc", "url": "https://github.com/0xBlackash/CVE-2026-53921"}
