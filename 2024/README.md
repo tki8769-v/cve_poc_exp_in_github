@@ -2766,6 +2766,10 @@ We recommend users to upgrade Apache DolphinScheduler to version 3.2.2, which fi
 
 - [https://github.com/xiaoxiaoyu78/gki-unicode-fix](https://github.com/xiaoxiaoyu78/gki-unicode-fix) : ![starts](https://img.shields.io/github/stars/xiaoxiaoyu78/gki-unicode-fix.svg) ![forks](https://img.shields.io/github/forks/xiaoxiaoyu78/gki-unicode-fix.svg)
 
+## CVE-2024-43047
+
+- [https://github.com/JMTDI/sonim-x320-root](https://github.com/JMTDI/sonim-x320-root) : ![starts](https://img.shields.io/github/stars/JMTDI/sonim-x320-root.svg) ![forks](https://img.shields.io/github/forks/JMTDI/sonim-x320-root.svg)
+
 ## CVE-2024-43044
  Jenkins 2.470 and earlier, LTS 2.452.3 and earlier allows agent processes to read arbitrary files from the Jenkins controller file system by using the `ClassLoaderProxy#fetchJar` method in the Remoting library.
 

@@ -16,6 +16,11 @@
 
 - [https://github.com/D7EAD/CVE-2026-116487](https://github.com/D7EAD/CVE-2026-116487) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-116487.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-116487.svg)
 
+## CVE-2026-116370
+> A security flaw has been discovered in 2K Games Sid Meier&#x27;s Civilization IV 1.0.12.68. The affected element is the function loadstring of the component Lua sandbox. Performing a manipulation results in type confusion. The attack may be initiated remotely. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure.
+
+- [https://github.com/drbloop2000/Sid-Meier-s-Civilization-VI-RCE](https://github.com/drbloop2000/Sid-Meier-s-Civilization-VI-RCE) : ![starts](https://img.shields.io/github/stars/drbloop2000/Sid-Meier-s-Civilization-VI-RCE.svg) ![forks](https://img.shields.io/github/forks/drbloop2000/Sid-Meier-s-Civilization-VI-RCE.svg)
+
 ## CVE-2026-116191
 > Rclone before 1.75.2 contains a path traversal vulnerability in serve webdav that allows unauthenticated attackers to write above the served root by sending an unvalidated &#x27;..&#x27; path component. Attackers can send MKCOL /.. to plant a VFS node, then PUT, MOVE, COPY, or MKCOL to create, overwrite, or delete files belonging to other tenants.
 
@@ -286,6 +291,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/AdapptOnAzure/CVE-2026-111497-DotNetBrotliScan](https://github.com/AdapptOnAzure/CVE-2026-111497-DotNetBrotliScan) : ![starts](https://img.shields.io/github/stars/AdapptOnAzure/CVE-2026-111497-DotNetBrotliScan.svg) ![forks](https://img.shields.io/github/forks/AdapptOnAzure/CVE-2026-111497-DotNetBrotliScan.svg)
 
 - [https://github.com/amier-ge/node2shell-checker](https://github.com/amier-ge/node2shell-checker) : ![starts](https://img.shields.io/github/stars/amier-ge/node2shell-checker.svg) ![forks](https://img.shields.io/github/forks/amier-ge/node2shell-checker.svg)
+
+- [https://github.com/piecar21/CVE-2026-111497](https://github.com/piecar21/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-111497.svg)
+
+- [https://github.com/queso/formbricks-patched](https://github.com/queso/formbricks-patched) : ![starts](https://img.shields.io/github/stars/queso/formbricks-patched.svg) ![forks](https://img.shields.io/github/forks/queso/formbricks-patched.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -1185,6 +1194,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/nsrivastava2velsof/php56-php2shell-patch](https://github.com/nsrivastava2velsof/php56-php2shell-patch) : ![starts](https://img.shields.io/github/stars/nsrivastava2velsof/php56-php2shell-patch.svg) ![forks](https://img.shields.io/github/forks/nsrivastava2velsof/php56-php2shell-patch.svg)
 
 - [https://github.com/semihyesilyurt/CVE-2026-109618-PoC](https://github.com/semihyesilyurt/CVE-2026-109618-PoC) : ![starts](https://img.shields.io/github/stars/semihyesilyurt/CVE-2026-109618-PoC.svg) ![forks](https://img.shields.io/github/forks/semihyesilyurt/CVE-2026-109618-PoC.svg)
+
+- [https://github.com/cyrilshaji38/php2shell_offsec](https://github.com/cyrilshaji38/php2shell_offsec) : ![starts](https://img.shields.io/github/stars/cyrilshaji38/php2shell_offsec.svg) ![forks](https://img.shields.io/github/forks/cyrilshaji38/php2shell_offsec.svg)
+
+- [https://github.com/piecar21/CVE-2026-109618](https://github.com/piecar21/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-109618.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -2200,6 +2213,8 @@ but the node is still queued on tsk, which
 - [https://github.com/ChaYeWuu/violin-CVE-2026-98260-OS4.0](https://github.com/ChaYeWuu/violin-CVE-2026-98260-OS4.0) : ![starts](https://img.shields.io/github/stars/ChaYeWuu/violin-CVE-2026-98260-OS4.0.svg) ![forks](https://img.shields.io/github/forks/ChaYeWuu/violin-CVE-2026-98260-OS4.0.svg)
 
 - [https://github.com/villager1314/CVE-2026-98260-Analysis](https://github.com/villager1314/CVE-2026-98260-Analysis) : ![starts](https://img.shields.io/github/stars/villager1314/CVE-2026-98260-Analysis.svg) ![forks](https://img.shields.io/github/forks/villager1314/CVE-2026-98260-Analysis.svg)
+
+- [https://github.com/woshigenm/CVE-2026-98260](https://github.com/woshigenm/CVE-2026-98260) : ![starts](https://img.shields.io/github/stars/woshigenm/CVE-2026-98260.svg) ![forks](https://img.shields.io/github/forks/woshigenm/CVE-2026-98260.svg)
 
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -12099,6 +12114,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B](https://github.com/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B) : ![starts](https://img.shields.io/github/stars/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B.svg) ![forks](https://img.shields.io/github/forks/theboringhumane/Root-My-Galaxy-Payloads-SM-S928B.svg)
 
+- [https://github.com/RetributionByRevenue/xperia1vi-root](https://github.com/RetributionByRevenue/xperia1vi-root) : ![starts](https://img.shields.io/github/stars/RetributionByRevenue/xperia1vi-root.svg) ![forks](https://img.shields.io/github/forks/RetributionByRevenue/xperia1vi-root.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -13926,6 +13943,10 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
  Cross Site Request Forgery vulnerability in diskoverdata diskover-community v.2.3.5. and before allows a remote attacker to escalate privileges and obtain sensitive information via the public/settings_process.php
 
 - [https://github.com/VadlaReddySai/cve-writeups](https://github.com/VadlaReddySai/cve-writeups) : ![starts](https://img.shields.io/github/stars/VadlaReddySai/cve-writeups.svg) ![forks](https://img.shields.io/github/forks/VadlaReddySai/cve-writeups.svg)
+
+## CVE-2026-38903
+
+- [https://github.com/Lenard-BIDaaS/CVE-2026-38903](https://github.com/Lenard-BIDaaS/CVE-2026-38903) : ![starts](https://img.shields.io/github/stars/Lenard-BIDaaS/CVE-2026-38903.svg) ![forks](https://img.shields.io/github/forks/Lenard-BIDaaS/CVE-2026-38903.svg)
 
 ## CVE-2026-38838
 
