@@ -2098,3 +2098,8 @@
 {"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T23:44:07Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11393", "url_ids": ["CVE-2024-11393"]}
 {"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T23:44:07Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11392", "url_ids": ["CVE-2024-11392"]}
 {"cve_id": "CVE-2024-1139", "reason": "prefix_conflict_evidenced", "ts": "2026-10-25T23:44:07Z", "url": "https://github.com/Piyush-Bhor/CVE-2024-11394", "url_ids": ["CVE-2024-11394"]}
+{"cve_id": "CVE-2026-3180", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T06:43:35Z", "url": "https://github.com/Recorded-texteditor120/CVE-2026-31802", "url_ids": ["CVE-2026-31802"]}
+{"cve_id": "CVE-2026-3180", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T06:43:35Z", "url": "https://github.com/Jvr2022/CVE-2026-31802", "url_ids": ["CVE-2026-31802"]}
+{"cve_id": "CVE-2025-6335", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T06:43:41Z", "url": "https://github.com/r0otk3r/CVE-2025-63353", "url_ids": ["CVE-2025-63353"]}
+{"cve_id": "CVE-2025-6335", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T06:43:41Z", "url": "https://github.com/0xA1M/CVE-2025-63353", "url_ids": ["CVE-2025-63353"]}
+{"cve_id": "CVE-2025-6335", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T06:43:41Z", "url": "https://github.com/zvckster/CVE-2025-63353", "url_ids": ["CVE-2025-63353"]}
