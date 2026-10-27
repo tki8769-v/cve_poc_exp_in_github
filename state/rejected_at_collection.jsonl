@@ -2220,3 +2220,8 @@
 {"cve_id": "CVE-2026-6925", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T22:19:50Z", "url": "https://github.com/CompleTetech-Security/flowise-cve-2026-69254-check", "url_ids": ["CVE-2026-69254"]}
 {"cve_id": "CVE-2022-3317", "reason": "prefix_conflict_evidenced", "ts": "2026-10-26T22:37:39Z", "url": "https://github.com/open-flaw/CVE-2022-33171", "url_ids": ["CVE-2022-33171"]}
 {"cve_id": "CVE-2026-6837", "reason": "prefix_conflict_evidenced", "ts": "2026-10-27T06:29:01Z", "url": "https://github.com/gagaltotal/CVE-2026-68376-Ubuntu-7.0.0-30-Poc", "url_ids": ["CVE-2026-68376"]}
+{"cve_id": "CVE-2019-1006", "reason": "prefix_conflict_evidenced", "ts": "2026-10-27T06:50:39Z", "url": "https://github.com/CQ-Tools/CVE-2019-10061-fixed", "url_ids": ["CVE-2019-10061"]}
+{"cve_id": "CVE-2019-1006", "reason": "prefix_conflict_evidenced", "ts": "2026-10-27T06:50:39Z", "url": "https://github.com/CQ-Tools/CVE-2019-10061-unfixed", "url_ids": ["CVE-2019-10061"]}
+{"cve_id": "CVE-2019-1006", "reason": "prefix_conflict_evidenced", "ts": "2026-10-27T06:50:39Z", "url": "https://github.com/crukz404/CVE-2019-10068-PoC", "url_ids": ["CVE-2019-10068"]}
+{"cve_id": "CVE-2024-5736", "reason": "prefix_conflict_evidenced", "ts": "2026-10-27T06:51:40Z", "url": "https://github.com/h4ckusaur/CVE-2024-57366", "url_ids": ["CVE-2024-57366"]}
+{"cve_id": "CVE-2026-8461", "reason": "prefix_conflict_evidenced", "ts": "2026-10-27T06:56:52Z", "url": "https://github.com/Ping-2o/ios.CVE-2026-84616-84607", "url_ids": ["CVE-2026-84616"]}

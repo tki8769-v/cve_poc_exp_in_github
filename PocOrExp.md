@@ -311,6 +311,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/axisops/CVE-2026-111497](https://github.com/axisops/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/axisops/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/axisops/CVE-2026-111497.svg)
 
+- [https://github.com/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497](https://github.com/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497.svg)
+
+- [https://github.com/paulmann/CVE-2026-111497](https://github.com/paulmann/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/paulmann/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/paulmann/CVE-2026-111497.svg)
+
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
 
@@ -23833,6 +23837,10 @@ substitution character without escaping shell meta characters. A remote attacker
 
 - [https://github.com/born0monday/teamspeak3-vulnerabilities](https://github.com/born0monday/teamspeak3-vulnerabilities) : ![starts](https://img.shields.io/github/stars/born0monday/teamspeak3-vulnerabilities.svg) ![forks](https://img.shields.io/github/forks/born0monday/teamspeak3-vulnerabilities.svg)
 
+## CVE-2026-4372
+
+- [https://github.com/alvin21mfmlai/SE6013_Project](https://github.com/alvin21mfmlai/SE6013_Project) : ![starts](https://img.shields.io/github/stars/alvin21mfmlai/SE6013_Project.svg) ![forks](https://img.shields.io/github/forks/alvin21mfmlai/SE6013_Project.svg)
+
 ## CVE-2026-4350
  The Perfmatters plugin for WordPress is vulnerable to arbitrary file deletion via path traversal in all versions up to, and including, 2.5.9.1. This is due to the `PMCS::action_handler()` method processing the `$_GET['delete']` parameter without any sanitization, authorization check, or nonce verification. The unsanitized filename is concatenated with the storage directory path and passed to `unlink()`. This makes it possible for authenticated attackers, with Subscriber-level access and above, to delete arbitrary files on the server by using `../` path traversal sequences, including `wp-config.php` which would force WordPress into the installation wizard and allow full site takeover.
 
@@ -39422,6 +39430,8 @@ Users should upgrade to the latest version and ensure any forked or derivative c
 - [https://github.com/jessoan/Cyber](https://github.com/jessoan/Cyber) : ![starts](https://img.shields.io/github/stars/jessoan/Cyber.svg) ![forks](https://img.shields.io/github/forks/jessoan/Cyber.svg)
 
 - [https://github.com/libeazu/CVE-2025-5548](https://github.com/libeazu/CVE-2025-5548) : ![starts](https://img.shields.io/github/stars/libeazu/CVE-2025-5548.svg) ![forks](https://img.shields.io/github/forks/libeazu/CVE-2025-5548.svg)
+
+- [https://github.com/dc04265/CVE-2025-5548-Practica-Modulo-6](https://github.com/dc04265/CVE-2025-5548-Practica-Modulo-6) : ![starts](https://img.shields.io/github/stars/dc04265/CVE-2025-5548-Practica-Modulo-6.svg) ![forks](https://img.shields.io/github/forks/dc04265/CVE-2025-5548-Practica-Modulo-6.svg)
 
 ## CVE-2025-5518
  Authorization Bypass Through User-Controlled Key vulnerability with user privileges in ArgusTech BILGER allows Exploitation of Trusted Identifiers.

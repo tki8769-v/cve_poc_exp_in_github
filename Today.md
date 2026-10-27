@@ -34,6 +34,10 @@
 
 - [https://github.com/axisops/CVE-2025-29927](https://github.com/axisops/CVE-2025-29927) : ![starts](https://img.shields.io/github/stars/axisops/CVE-2025-29927.svg) ![forks](https://img.shields.io/github/forks/axisops/CVE-2025-29927.svg)
 
+## CVE-2025-5548
+
+- [https://github.com/dc04265/CVE-2025-5548-Practica-Modulo-6](https://github.com/dc04265/CVE-2025-5548-Practica-Modulo-6) : ![starts](https://img.shields.io/github/stars/dc04265/CVE-2025-5548-Practica-Modulo-6.svg) ![forks](https://img.shields.io/github/forks/dc04265/CVE-2025-5548-Practica-Modulo-6.svg)
+
 ## CVE-2026-107327
 
 - [https://github.com/rmhowe425/POC-CVE-2026-107327](https://github.com/rmhowe425/POC-CVE-2026-107327) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-107327.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-107327.svg)
@@ -67,6 +71,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/FranklinF25/http2shell](https://github.com/FranklinF25/http2shell) : ![starts](https://img.shields.io/github/stars/FranklinF25/http2shell.svg) ![forks](https://img.shields.io/github/forks/FranklinF25/http2shell.svg)
 - [https://github.com/axisops/CVE-2026-111497](https://github.com/axisops/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/axisops/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/axisops/CVE-2026-111497.svg)
+- [https://github.com/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497](https://github.com/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497.svg)
+- [https://github.com/paulmann/CVE-2026-111497](https://github.com/paulmann/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/paulmann/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/paulmann/CVE-2026-111497.svg)
 
 ## CVE-2026-116000
 > A security flaw has been discovered in Zylon PrivateGPT 1.0.0/1.0.1. This vulnerability affects the function load_file_from_uri of the file private_gpt/server/ingest/uri_loader.py of the component URI Artifact Loader. Performing a manipulation of the argument Value results in server-side request forgery. It is possible to initiate the attack remotely. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure but did not respond 
@@ -82,6 +88,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 > Simple Machines Forum (SMF) through 2.1.7, fixed in commit 6f0dc61, contains an authorization state-confusion vulnerability in the profile loader that allows authenticated low-privileged users to gain administrator access by supplying multiple values for the user parameter. Attackers can exploit the mismatch between Profile::$member and User::$me-&gt;is_owner during sequential profile loading to be treated as the owner of an administrator profile, enabling unauthorized password changes and full acc
 
 - [https://github.com/KharalDipendra/CVE-2026-43621](https://github.com/KharalDipendra/CVE-2026-43621) : ![starts](https://img.shields.io/github/stars/KharalDipendra/CVE-2026-43621.svg) ![forks](https://img.shields.io/github/forks/KharalDipendra/CVE-2026-43621.svg)
+
+## CVE-2026-4372
+
+- [https://github.com/alvin21mfmlai/SE6013_Project](https://github.com/alvin21mfmlai/SE6013_Project) : ![starts](https://img.shields.io/github/stars/alvin21mfmlai/SE6013_Project.svg) ![forks](https://img.shields.io/github/forks/alvin21mfmlai/SE6013_Project.svg)
 
 ## CVE-2026-53576
 
