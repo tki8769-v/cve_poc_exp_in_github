@@ -5073,3 +5073,13 @@
 {"cve_id": "CVE-2021-43798", "ts": "2026-10-27T15:38:04Z", "type": "new_poc", "url": "https://github.com/Jiahe114514/hdu-is-lab1-secure-api"}
 {"cve_id": "CVE-2026-115905", "ts": "2026-10-27T15:38:04Z", "type": "new_poc", "url": "https://github.com/foxcornlab/zip-cloaking-scanner"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-27T15:38:04Z", "type": "new_poc", "url": "https://github.com/muhammadsohaimmuqtada/php2shell-version-frontier"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T15:48:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T15:49:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T15:49:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T15:50:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T15:51:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T15:52:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T15:52:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T15:53:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T15:55:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-88771", "ts": "2026-10-27T15:56:39Z", "type": "new_poc", "url": "https://github.com/ceterion/netscaler-quickcheck"}
