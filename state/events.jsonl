@@ -5122,3 +5122,11 @@
 {"cve_id": "CVE-2026-97028", "ts": "2026-10-27T21:42:32Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-102785", "ts": "2026-10-27T21:43:56Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2026-102785"}
 {"cve_id": "CVE-2025-31161", "ts": "2026-10-27T21:46:08Z", "type": "new_poc", "url": "https://github.com/c4bsec/CVE-2025-31161"}
+{"cve_id": "CVE-2026-107458", "ts": "2026-10-27T21:55:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111054", "ts": "2026-10-27T21:55:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T21:58:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107458", "ts": "2026-10-27T22:00:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111054", "ts": "2026-10-27T22:00:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T22:02:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-27T22:04:31Z", "type": "new_poc", "url": "https://github.com/roblennon/php-scare-counted"}
+{"cve_id": "CVE-2026-116063", "ts": "2026-10-27T22:05:33Z", "type": "new_poc", "url": "https://github.com/SDshadow/CVE-2026-116063"}

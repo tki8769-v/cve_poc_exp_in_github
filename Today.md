@@ -124,6 +124,7 @@ the service UUID is Basic Audio Announcement Service UUID.
 - [https://github.com/muhammadsohaimmuqtada/php2shell-version-frontier](https://github.com/muhammadsohaimmuqtada/php2shell-version-frontier) : ![starts](https://img.shields.io/github/stars/muhammadsohaimmuqtada/php2shell-version-frontier.svg) ![forks](https://img.shields.io/github/forks/muhammadsohaimmuqtada/php2shell-version-frontier.svg)
 - [https://github.com/murat-levi/php2shell-poc](https://github.com/murat-levi/php2shell-poc) : ![starts](https://img.shields.io/github/stars/murat-levi/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/murat-levi/php2shell-poc.svg)
 - [https://github.com/qw3rtyou/php2shell](https://github.com/qw3rtyou/php2shell) : ![starts](https://img.shields.io/github/stars/qw3rtyou/php2shell.svg) ![forks](https://img.shields.io/github/forks/qw3rtyou/php2shell.svg)
+- [https://github.com/roblennon/php-scare-counted](https://github.com/roblennon/php-scare-counted) : ![starts](https://img.shields.io/github/stars/roblennon/php-scare-counted.svg) ![forks](https://img.shields.io/github/forks/roblennon/php-scare-counted.svg)
 - [https://github.com/zinspin888/crypto_quinxin](https://github.com/zinspin888/crypto_quinxin) : ![starts](https://img.shields.io/github/stars/zinspin888/crypto_quinxin.svg) ![forks](https://img.shields.io/github/forks/zinspin888/crypto_quinxin.svg)
 
 ## CVE-2026-109619
@@ -208,6 +209,11 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 > A security vulnerability has been detected in onyx-dot-app Onyx up to 5.0.0. Impacted is an unknown function of the file web/src/app/craft/components/output-panel/PreviewTab.tsx. The manipulation leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed publicly and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/capivara-research/CVE-2026-116004](https://github.com/capivara-research/CVE-2026-116004) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-116004.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-116004.svg)
+
+## CVE-2026-116063
+> A weakness has been identified in DedeCMS up to 5.7.118. Impacted is the function require_once of the file dede/update_guide.php. This manipulation of the argument vtime causes code injection. Remote exploitation of the attack is possible. The exploit has been made available to the public and could be used for attacks.
+
+- [https://github.com/SDshadow/CVE-2026-116063](https://github.com/SDshadow/CVE-2026-116063) : ![starts](https://img.shields.io/github/stars/SDshadow/CVE-2026-116063.svg) ![forks](https://img.shields.io/github/forks/SDshadow/CVE-2026-116063.svg)
 
 ## CVE-2026-116471
 > A security flaw has been discovered in BKWLD Decoy up to 5.11.1. The impacted element is an unknown function of the file Policy.php of the component Authorization Policy. The manipulation of the argument role results in improper privilege management. The attack may be performed from remote. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.

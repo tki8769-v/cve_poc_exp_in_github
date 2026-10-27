@@ -2236,3 +2236,5 @@
 {"cve_id": "CVE-2026-5261", "reason": "prefix_conflict_evidenced", "ts": "2026-10-27T07:17:22Z", "url": "https://github.com/s1ko/CVE-2026-52616", "url_ids": ["CVE-2026-52616"]}
 {"cve_id": "CVE-2026-1814", "reason": "prefix_conflict_evidenced", "ts": "2026-10-27T16:23:30Z", "url": "https://github.com/murrez/CVE-2026-18143", "url_ids": ["CVE-2026-18143"]}
 {"cve_id": "CVE-2026-3643", "reason": "prefix_conflict_evidenced", "ts": "2026-10-27T21:47:12Z", "url": "https://github.com/kensh1k/CVE-2026-36438", "url_ids": ["CVE-2026-36438"]}
+{"cve_id": "CVE-2022-4047", "reason": "prefix_conflict_evidenced", "ts": "2026-10-27T22:12:36Z", "url": "https://github.com/RashidKhanPathan/CVE-2022-40471", "url_ids": ["CVE-2022-40471"]}
+{"cve_id": "CVE-2022-4047", "reason": "prefix_conflict_evidenced", "ts": "2026-10-27T22:12:36Z", "url": "https://github.com/Dharan10/CVE-2022-40471", "url_ids": ["CVE-2022-40471"]}

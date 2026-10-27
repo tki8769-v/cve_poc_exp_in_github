@@ -46,6 +46,11 @@
 
 - [https://github.com/ohackercego/CVE-2026-116105](https://github.com/ohackercego/CVE-2026-116105) : ![starts](https://img.shields.io/github/stars/ohackercego/CVE-2026-116105.svg) ![forks](https://img.shields.io/github/forks/ohackercego/CVE-2026-116105.svg)
 
+## CVE-2026-116063
+> A weakness has been identified in DedeCMS up to 5.7.118. Impacted is the function require_once of the file dede/update_guide.php. This manipulation of the argument vtime causes code injection. Remote exploitation of the attack is possible. The exploit has been made available to the public and could be used for attacks.
+
+- [https://github.com/SDshadow/CVE-2026-116063](https://github.com/SDshadow/CVE-2026-116063) : ![starts](https://img.shields.io/github/stars/SDshadow/CVE-2026-116063.svg) ![forks](https://img.shields.io/github/forks/SDshadow/CVE-2026-116063.svg)
+
 ## CVE-2026-116012
 > Ghidra before 12.2 contains a numeric truncation vulnerability in PackedDecode::skipAttribute and skipAttributeRemaining in marshal.cc that stores 64-bit string lengths in 32-bit variables. Attackers can supply a crafted packed stream, such as a malicious .sla file, to inject attributes into the decompiler&#x27;s input or crash the decompiler process.
 
@@ -1308,6 +1313,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/axisops/CVE-2026-109618-109619](https://github.com/axisops/CVE-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/axisops/CVE-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/axisops/CVE-2026-109618-109619.svg)
 
 - [https://github.com/murat-levi/php2shell-poc](https://github.com/murat-levi/php2shell-poc) : ![starts](https://img.shields.io/github/stars/murat-levi/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/murat-levi/php2shell-poc.svg)
+
+- [https://github.com/roblennon/php-scare-counted](https://github.com/roblennon/php-scare-counted) : ![starts](https://img.shields.io/github/stars/roblennon/php-scare-counted.svg) ![forks](https://img.shields.io/github/forks/roblennon/php-scare-counted.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
