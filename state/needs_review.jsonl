@@ -9400,3 +9400,7 @@
 {"cve_id": "CVE-2025-24893", "description": "this is a poc for the CVE-2025-24893", "reason": "desc_mention_with_url_conflict", "ts": "2026-10-26T22:41:56Z", "url": "https://github.com/AliElKhatteb/CVE-2024-32019-POC"}
 {"cve_id": "CVE-2025-24893", "description": "", "reason": "no_cve_id_in_evidence", "ts": "2026-10-26T22:41:56Z", "url": "https://github.com/AliAmouz/CVE2025-24893"}
 {"cve_id": "CVE-2025-24893", "description": "🛠️ Exploit remote code execution vulnerability in XWiki through SolrSearch, affecting the platform’s security and user data integrity.", "reason": "multi_id_mention_unresolved", "ts": "2026-10-26T22:41:56Z", "url": "https://github.com/hitchy22/xwiki-exploit"}
+{"cve_id": "CVE-2024-3220", "description": "", "reason": "empty_description_no_evidence", "ts": "2026-10-27T06:25:38Z", "url": "https://github.com/Lucky-lm/CVE-2024-32205"}
+{"cve_id": "CVE-2016-5734", "description": "Group Project S&P", "reason": "no_cve_id_in_evidence", "ts": "2026-10-27T06:30:52Z", "url": "https://github.com/msharm33/CVE2016-5734"}
+{"cve_id": "CVE-2012-0152", "description": "CVE -2012-0152", "reason": "no_cve_id_in_evidence", "ts": "2026-10-27T06:32:53Z", "url": "https://github.com/anmolksachan/MS12-020"}
+{"cve_id": "CVE-2024-42845", "description": "InVesalius discovered CVE. CVE-2024-42845, CVE-2024-44825", "reason": "multi_id_mention_unresolved", "ts": "2026-10-27T06:33:05Z", "url": "https://github.com/partywavesec/invesalius3_vulnerabilities"}

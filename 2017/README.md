@@ -2145,6 +2145,8 @@
 
 - [https://github.com/m7arm4n/CVE-2017-7921](https://github.com/m7arm4n/CVE-2017-7921) : ![starts](https://img.shields.io/github/stars/m7arm4n/CVE-2017-7921.svg) ![forks](https://img.shields.io/github/forks/m7arm4n/CVE-2017-7921.svg)
 
+- [https://github.com/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup](https://github.com/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup) : ![starts](https://img.shields.io/github/stars/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup.svg) ![forks](https://img.shields.io/github/forks/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup.svg)
+
 ## CVE-2017-7912
  Hanwha Techwin SRN-4000, SRN-4000 firmware versions prior to SRN4000_v2.16_170401, A specially crafted http request and response could allow an attacker to gain access to the device management page with admin privileges without proper authentication.
 
@@ -3460,6 +3462,12 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 - [https://github.com/gousseine-systems/vuln-rabilit-windows7](https://github.com/gousseine-systems/vuln-rabilit-windows7) : ![starts](https://img.shields.io/github/stars/gousseine-systems/vuln-rabilit-windows7.svg) ![forks](https://img.shields.io/github/forks/gousseine-systems/vuln-rabilit-windows7.svg)
 
 - [https://github.com/BlessingOlaniyan/cve-2017-0143-smbv1-analysis](https://github.com/BlessingOlaniyan/cve-2017-0143-smbv1-analysis) : ![starts](https://img.shields.io/github/stars/BlessingOlaniyan/cve-2017-0143-smbv1-analysis.svg) ![forks](https://img.shields.io/github/forks/BlessingOlaniyan/cve-2017-0143-smbv1-analysis.svg)
+
+- [https://github.com/NeoCoderFSG/Laboratorio-Hacking-Etico-Vulnerabilidad-CVE-2017-0143](https://github.com/NeoCoderFSG/Laboratorio-Hacking-Etico-Vulnerabilidad-CVE-2017-0143) : ![starts](https://img.shields.io/github/stars/NeoCoderFSG/Laboratorio-Hacking-Etico-Vulnerabilidad-CVE-2017-0143.svg) ![forks](https://img.shields.io/github/forks/NeoCoderFSG/Laboratorio-Hacking-Etico-Vulnerabilidad-CVE-2017-0143.svg)
+
+- [https://github.com/NeoCoderFSG/explotacion-post-CVE-2017-0143](https://github.com/NeoCoderFSG/explotacion-post-CVE-2017-0143) : ![starts](https://img.shields.io/github/stars/NeoCoderFSG/explotacion-post-CVE-2017-0143.svg) ![forks](https://img.shields.io/github/forks/NeoCoderFSG/explotacion-post-CVE-2017-0143.svg)
+
+- [https://github.com/NeoCoderFSG/post-explotacion-CVE-2017-0143](https://github.com/NeoCoderFSG/post-explotacion-CVE-2017-0143) : ![starts](https://img.shields.io/github/stars/NeoCoderFSG/post-explotacion-CVE-2017-0143.svg) ![forks](https://img.shields.io/github/forks/NeoCoderFSG/post-explotacion-CVE-2017-0143.svg)
 
 ## CVE-2017-0108
  The Windows Graphics Component in Microsoft Office 2007 SP3; 2010 SP2; and Word Viewer; Skype for Business 2016; Lync 2013 SP1; Lync 2010; Live Meeting 2007; Silverlight 5; Windows Vista SP2; Windows Server 2008 SP2 and R2 SP1; and Windows 7 SP1 allows remote attackers to execute arbitrary code via a crafted web site, aka "Graphics Component Remote Code Execution Vulnerability." This vulnerability is different from that described in CVE-2017-0014.

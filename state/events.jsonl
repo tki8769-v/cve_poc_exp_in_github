@@ -4910,3 +4910,47 @@
 {"cve_id": "CVE-2026-65226", "ts": "2026-10-26T22:27:12Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-65547", "ts": "2026-10-26T22:27:13Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-98943", "ts": "2026-10-26T22:32:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2012-20006", "ts": "2026-10-27T06:15:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65202", "ts": "2026-10-27T06:17:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65203", "ts": "2026-10-27T06:17:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65212", "ts": "2026-10-27T06:18:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65214", "ts": "2026-10-27T06:18:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65215", "ts": "2026-10-27T06:18:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65216", "ts": "2026-10-27T06:18:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65217", "ts": "2026-10-27T06:18:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65218", "ts": "2026-10-27T06:18:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65221", "ts": "2026-10-27T06:18:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65222", "ts": "2026-10-27T06:18:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65226", "ts": "2026-10-27T06:18:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65547", "ts": "2026-10-27T06:18:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77215", "ts": "2026-10-27T06:19:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77216", "ts": "2026-10-27T06:19:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98943", "ts": "2026-10-27T06:22:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-10-27T06:24:46Z", "type": "new_poc", "url": "https://github.com/Lw5959/xring-cve-2026-98260"}
+{"cve_id": "CVE-2026-90932", "ts": "2026-10-27T06:24:47Z", "type": "new_poc", "url": "https://github.com/capivara-research/CVE-2026-90932"}
+{"cve_id": "CVE-2026-77647", "ts": "2026-10-27T06:24:48Z", "type": "new_poc", "url": "https://github.com/Nxploited/CVE-2026-77647"}
+{"cve_id": "CVE-2026-116000", "ts": "2026-10-27T06:24:49Z", "type": "new_poc", "url": "https://github.com/capivara-research/CVE-2026-116000"}
+{"cve_id": "CVE-2026-90931", "ts": "2026-10-27T06:24:49Z", "type": "new_poc", "url": "https://github.com/capivara-research/CVE-2026-90931"}
+{"cve_id": "CVE-2026-116004", "ts": "2026-10-27T06:24:49Z", "type": "new_poc", "url": "https://github.com/capivara-research/CVE-2026-116004"}
+{"cve_id": "CVE-2024-6387", "ts": "2026-10-27T06:24:49Z", "type": "new_poc", "url": "https://github.com/axisops/CVE-2024-6387"}
+{"cve_id": "CVE-2024-3094", "ts": "2026-10-27T06:24:49Z", "type": "new_poc", "url": "https://github.com/axisops/CVE-2024-3094"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-27T06:24:50Z", "type": "new_poc", "url": "https://github.com/axisops/CVE-2026-111497"}
+{"cve_id": "CVE-2025-29927", "ts": "2026-10-27T06:24:50Z", "type": "new_poc", "url": "https://github.com/axisops/CVE-2025-29927"}
+{"cve_id": "CVE-2021-4034", "ts": "2026-10-27T06:24:50Z", "type": "new_poc", "url": "https://github.com/axisops/CVE-2021-4034"}
+{"cve_id": "CVE-2017-0143", "ts": "2026-10-27T06:24:50Z", "type": "new_poc", "url": "https://github.com/NeoCoderFSG/post-explotacion-CVE-2017-0143"}
+{"cve_id": "CVE-2017-0143", "ts": "2026-10-27T06:24:50Z", "type": "new_poc", "url": "https://github.com/NeoCoderFSG/explotacion-post-CVE-2017-0143"}
+{"cve_id": "CVE-2017-0143", "ts": "2026-10-27T06:24:51Z", "type": "new_poc", "url": "https://github.com/NeoCoderFSG/Laboratorio-Hacking-Etico-Vulnerabilidad-CVE-2017-0143"}
+{"cve_id": "CVE-2025-27740", "ts": "2026-10-27T06:24:54Z", "type": "new_poc", "url": "https://github.com/Dannners/CVE-2025-27740_POC"}
+{"cve_id": "CVE-2026-55944", "ts": "2026-10-27T06:24:54Z", "type": "new_poc", "url": "https://github.com/kipkorirchirchir800-hash/Cve-2026-55944"}
+{"cve_id": "CVE-2026-43621", "ts": "2026-10-27T06:24:54Z", "type": "new_poc", "url": "https://github.com/KharalDipendra/CVE-2026-43621"}
+{"cve_id": "CVE-2026-93328", "ts": "2026-10-27T06:24:54Z", "type": "new_poc", "url": "https://github.com/sustilliano/cve-2026-93328-gate"}
+{"cve_id": "CVE-2026-53576", "ts": "2026-10-27T06:24:54Z", "type": "new_poc", "url": "https://github.com/emitsco768/Vulnerability-lab-cve-2026-53576"}
+{"cve_id": "CVE-2017-7921", "ts": "2026-10-27T06:24:54Z", "type": "new_poc", "url": "https://github.com/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-27T06:24:54Z", "type": "new_poc", "url": "https://github.com/qw3rtyou/php2shell"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-27T06:24:54Z", "type": "new_poc", "url": "https://github.com/Mojo7823/phpscan"}
+{"cve_id": "CVE-2024-1561", "ts": "2026-10-27T06:24:54Z", "type": "new_poc", "url": "https://github.com/WeiTao712/hdu-is-work1"}
+{"cve_id": "CVE-2026-107328", "ts": "2026-10-27T06:25:17Z", "type": "new_poc", "url": "https://github.com/rmhowe425/POC-CVE-2026-107328"}
+{"cve_id": "CVE-2026-110200", "ts": "2026-10-27T06:25:17Z", "type": "new_poc", "url": "https://github.com/rmhowe425/POC-CVE-2026-110200"}
+{"cve_id": "CVE-2026-107327", "ts": "2026-10-27T06:25:17Z", "type": "new_poc", "url": "https://github.com/rmhowe425/POC-CVE-2026-107327"}
+{"cve_id": "CVE-2026-107329", "ts": "2026-10-27T06:25:17Z", "type": "new_poc", "url": "https://github.com/rmhowe425/POC-CVE-2026-107329"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-27T06:25:18Z", "type": "new_poc", "url": "https://github.com/FranklinF25/http2shell"}

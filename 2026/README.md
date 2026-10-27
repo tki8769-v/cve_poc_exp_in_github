@@ -46,6 +46,16 @@
 
 - [https://github.com/D7EAD/CVE-2026-116011](https://github.com/D7EAD/CVE-2026-116011) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-116011.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-116011.svg)
 
+## CVE-2026-116004
+> A security vulnerability has been detected in onyx-dot-app Onyx up to 5.0.0. Impacted is an unknown function of the file web/src/app/craft/components/output-panel/PreviewTab.tsx. The manipulation leads to cross site scripting. The attack can be initiated remotely. The exploit has been disclosed publicly and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
+
+- [https://github.com/capivara-research/CVE-2026-116004](https://github.com/capivara-research/CVE-2026-116004) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-116004.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-116004.svg)
+
+## CVE-2026-116000
+> A security flaw has been discovered in Zylon PrivateGPT 1.0.0/1.0.1. This vulnerability affects the function load_file_from_uri of the file private_gpt/server/ingest/uri_loader.py of the component URI Artifact Loader. Performing a manipulation of the argument Value results in server-side request forgery. It is possible to initiate the attack remotely. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure but did not respond 
+
+- [https://github.com/capivara-research/CVE-2026-116000](https://github.com/capivara-research/CVE-2026-116000) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-116000.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-116000.svg)
+
 ## CVE-2026-115560
 
 - [https://github.com/prnjlksingh/php-cve-2026-115560-demo](https://github.com/prnjlksingh/php-cve-2026-115560-demo) : ![starts](https://img.shields.io/github/stars/prnjlksingh/php-cve-2026-115560-demo.svg) ![forks](https://img.shields.io/github/forks/prnjlksingh/php-cve-2026-115560-demo.svg)
@@ -296,6 +306,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/queso/formbricks-patched](https://github.com/queso/formbricks-patched) : ![starts](https://img.shields.io/github/stars/queso/formbricks-patched.svg) ![forks](https://img.shields.io/github/forks/queso/formbricks-patched.svg)
 
+- [https://github.com/FranklinF25/http2shell](https://github.com/FranklinF25/http2shell) : ![starts](https://img.shields.io/github/stars/FranklinF25/http2shell.svg) ![forks](https://img.shields.io/github/forks/FranklinF25/http2shell.svg)
+
+- [https://github.com/axisops/CVE-2026-111497](https://github.com/axisops/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/axisops/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/axisops/CVE-2026-111497.svg)
+
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
 
@@ -404,6 +418,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/emirwtz/CVE-2026-110264](https://github.com/emirwtz/CVE-2026-110264) : ![starts](https://img.shields.io/github/stars/emirwtz/CVE-2026-110264.svg) ![forks](https://img.shields.io/github/forks/emirwtz/CVE-2026-110264.svg)
 
 - [https://github.com/Masriyan/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE](https://github.com/Masriyan/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE) : ![starts](https://img.shields.io/github/stars/Masriyan/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE.svg) ![forks](https://img.shields.io/github/forks/Masriyan/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE.svg)
+
+## CVE-2026-110200
+
+- [https://github.com/rmhowe425/POC-CVE-2026-110200](https://github.com/rmhowe425/POC-CVE-2026-110200) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-110200.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-110200.svg)
 
 ## CVE-2026-110152
 > Buffer overflow in ANGLE in Google Chrome on on Android prior to 155.0.8059.79 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Critical)
@@ -1199,6 +1217,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/piecar21/CVE-2026-109618](https://github.com/piecar21/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-109618.svg)
 
+- [https://github.com/Mojo7823/phpscan](https://github.com/Mojo7823/phpscan) : ![starts](https://img.shields.io/github/stars/Mojo7823/phpscan.svg) ![forks](https://img.shields.io/github/forks/Mojo7823/phpscan.svg)
+
+- [https://github.com/qw3rtyou/php2shell](https://github.com/qw3rtyou/php2shell) : ![starts](https://img.shields.io/github/stars/qw3rtyou/php2shell.svg) ![forks](https://img.shields.io/github/forks/qw3rtyou/php2shell.svg)
+
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
@@ -1295,6 +1317,18 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 - [https://github.com/ApexBreach/CVE-2026-107406-Poc](https://github.com/ApexBreach/CVE-2026-107406-Poc) : ![starts](https://img.shields.io/github/stars/ApexBreach/CVE-2026-107406-Poc.svg) ![forks](https://img.shields.io/github/forks/ApexBreach/CVE-2026-107406-Poc.svg)
 
 - [https://github.com/ctroy999/CVE-2026-107406](https://github.com/ctroy999/CVE-2026-107406) : ![starts](https://img.shields.io/github/stars/ctroy999/CVE-2026-107406.svg) ![forks](https://img.shields.io/github/forks/ctroy999/CVE-2026-107406.svg)
+
+## CVE-2026-107329
+
+- [https://github.com/rmhowe425/POC-CVE-2026-107329](https://github.com/rmhowe425/POC-CVE-2026-107329) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-107329.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-107329.svg)
+
+## CVE-2026-107328
+
+- [https://github.com/rmhowe425/POC-CVE-2026-107328](https://github.com/rmhowe425/POC-CVE-2026-107328) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-107328.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-107328.svg)
+
+## CVE-2026-107327
+
+- [https://github.com/rmhowe425/POC-CVE-2026-107327](https://github.com/rmhowe425/POC-CVE-2026-107327) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-107327.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-107327.svg)
 
 ## CVE-2026-107268
 
@@ -2216,6 +2250,8 @@ but the node is still queued on tsk, which
 
 - [https://github.com/woshigenm/CVE-2026-98260](https://github.com/woshigenm/CVE-2026-98260) : ![starts](https://img.shields.io/github/stars/woshigenm/CVE-2026-98260.svg) ![forks](https://img.shields.io/github/forks/woshigenm/CVE-2026-98260.svg)
 
+- [https://github.com/Lw5959/xring-cve-2026-98260](https://github.com/Lw5959/xring-cve-2026-98260) : ![starts](https://img.shields.io/github/stars/Lw5959/xring-cve-2026-98260.svg) ![forks](https://img.shields.io/github/forks/Lw5959/xring-cve-2026-98260.svg)
+
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -2707,6 +2743,11 @@ The Unauthenticated Stored XSS vulnerability in the WordPress core can be reprod
 
 - [https://github.com/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection](https://github.com/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection) : ![starts](https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection.svg) ![forks](https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-93349-frictionless-command-injection.svg)
 
+## CVE-2026-93328
+> Path Traversal and Missing Authorization in cloud-storage source in Google Cloud MCP Toolbox for Databases (googleapis/mcp-toolbox) versions 1.2.0 through 1.4.0 allows an unauthenticated remote attacker to exfiltrate host files to external Google Cloud Storage buckets and overwrite arbitrary local files via crafted tool invocation parameters.
+
+- [https://github.com/sustilliano/cve-2026-93328-gate](https://github.com/sustilliano/cve-2026-93328-gate) : ![starts](https://img.shields.io/github/stars/sustilliano/cve-2026-93328-gate.svg) ![forks](https://img.shields.io/github/forks/sustilliano/cve-2026-93328-gate.svg)
+
 ## CVE-2026-93300
 > The EventON - Subscriber plugin for WordPress is vulnerable to generic SQL Injection via the &#x27;email&#x27; parameter in all versions up to, and including, 1.4.5 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 
@@ -2906,6 +2947,14 @@ The specific flaw exists within the parsing of mDNS resource records. The issue 
 > GitLab has remediated a vulnerability in the GitLab AI Gateway component affecting all versions of the AI Gateway from 18.1.6 before 19.2.4, 19.3 before 19.3.2, and 19.4 before 19.4.1 that, under certain conditions, could have allowed an authenticated user with Duo Agent Platform access to escape the prompt template sandbox via a specially crafted flow configuration, resulting in arbitrary command execution on the AI Gateway.
 
 - [https://github.com/techupdate24/gitlab-ai-gateway-cve-2026-90970](https://github.com/techupdate24/gitlab-ai-gateway-cve-2026-90970) : ![starts](https://img.shields.io/github/stars/techupdate24/gitlab-ai-gateway-cve-2026-90970.svg) ![forks](https://img.shields.io/github/forks/techupdate24/gitlab-ai-gateway-cve-2026-90970.svg)
+
+## CVE-2026-90932
+
+- [https://github.com/capivara-research/CVE-2026-90932](https://github.com/capivara-research/CVE-2026-90932) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-90932.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-90932.svg)
+
+## CVE-2026-90931
+
+- [https://github.com/capivara-research/CVE-2026-90931](https://github.com/capivara-research/CVE-2026-90931) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-90931.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-90931.svg)
 
 ## CVE-2026-90907
 > Joomla! Core - [20260902] - Core - Unauthorized user account creation via profile.save controller in Joomla 1.5.0-5.4.8, 6.0.0-6.1.3 - The profile.save controller did not check the login state of a user, allowing the creation of guest-level users on sites without active user registration.
@@ -3297,6 +3346,7 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 - [https://github.com/jpdagostin0/CVE-2026-86950-POC](https://github.com/jpdagostin0/CVE-2026-86950-POC) : ![starts](https://img.shields.io/github/stars/jpdagostin0/CVE-2026-86950-POC.svg) ![forks](https://img.shields.io/github/forks/jpdagostin0/CVE-2026-86950-POC.svg)
 
 ## CVE-2026-86881
+> A certificate validation issue was addressed with improved certificate validation. This issue is fixed in iOS 26.7 and iPadOS 26.7, iOS 27 and iPadOS 27, macOS Golden Gate 27, macOS Sequoia 15.8, macOS Tahoe 26.7, tvOS 27, visionOS 27, watchOS 27. An attacker with a compromised intermediate certificate authority may be able to issue certificates with arbitrary extended key usages.
 
 - [https://github.com/0xcrypto/CVE-2026-86881](https://github.com/0xcrypto/CVE-2026-86881) : ![starts](https://img.shields.io/github/stars/0xcrypto/CVE-2026-86881.svg) ![forks](https://img.shields.io/github/forks/0xcrypto/CVE-2026-86881.svg)
 
@@ -3744,6 +3794,7 @@ unmarshal() verified the modification detection code only when the message was a
 - [https://github.com/OwenPawl/CVE-2026-84600](https://github.com/OwenPawl/CVE-2026-84600) : ![starts](https://img.shields.io/github/stars/OwenPawl/CVE-2026-84600.svg) ![forks](https://img.shields.io/github/forks/OwenPawl/CVE-2026-84600.svg)
 
 ## CVE-2026-84589
+> A permissions issue was addressed with additional restrictions. This issue is fixed in macOS Golden Gate 27. An app may be able to modify Privacy preferences.
 
 - [https://github.com/isaiahehlert/CVE-2026-84589-macOS-TCC-Bypass](https://github.com/isaiahehlert/CVE-2026-84589-macOS-TCC-Bypass) : ![starts](https://img.shields.io/github/stars/isaiahehlert/CVE-2026-84589-macOS-TCC-Bypass.svg) ![forks](https://img.shields.io/github/forks/isaiahehlert/CVE-2026-84589-macOS-TCC-Bypass.svg)
 
@@ -3755,10 +3806,12 @@ unmarshal() verified the modification detection code only when the message was a
 - [https://github.com/redinpulse/CVE-2026-84568](https://github.com/redinpulse/CVE-2026-84568) : ![starts](https://img.shields.io/github/stars/redinpulse/CVE-2026-84568.svg) ![forks](https://img.shields.io/github/forks/redinpulse/CVE-2026-84568.svg)
 
 ## CVE-2026-84543
+> An out-of-bounds access issue was addressed with improved bounds checking. This issue is fixed in macOS Golden Gate 27, macOS Sequoia 15.8, macOS Tahoe 26.7. Connecting to a malicious SMB server may cause unexpected system termination or corrupt kernel memory.
 
 - [https://github.com/petermalone/CVE-2026-84543](https://github.com/petermalone/CVE-2026-84543) : ![starts](https://img.shields.io/github/stars/petermalone/CVE-2026-84543.svg) ![forks](https://img.shields.io/github/forks/petermalone/CVE-2026-84543.svg)
 
 ## CVE-2026-84520
+> A buffer overflow was addressed with improved size validation. This issue is fixed in macOS Golden Gate 27. A local attacker may be able to cause unexpected system termination or corrupt kernel memory.
 
 - [https://github.com/csrXamfi/CVE-2026-84520](https://github.com/csrXamfi/CVE-2026-84520) : ![starts](https://img.shields.io/github/stars/csrXamfi/CVE-2026-84520.svg) ![forks](https://img.shields.io/github/forks/csrXamfi/CVE-2026-84520.svg)
 
@@ -4552,6 +4605,10 @@ Remediation requires a firmware update from the vendor. There is no user-side mi
 ## CVE-2026-77680
 
 - [https://github.com/OJ01-creates/CVE-2026-77680-Security-Analysis](https://github.com/OJ01-creates/CVE-2026-77680-Security-Analysis) : ![starts](https://img.shields.io/github/stars/OJ01-creates/CVE-2026-77680-Security-Analysis.svg) ![forks](https://img.shields.io/github/forks/OJ01-creates/CVE-2026-77680-Security-Analysis.svg)
+
+## CVE-2026-77647
+
+- [https://github.com/Nxploited/CVE-2026-77647](https://github.com/Nxploited/CVE-2026-77647) : ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2026-77647.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2026-77647.svg)
 
 ## CVE-2026-77635
  CakePHP is a rapid development framework for PHP. Prior to versions 5.1.10, 5.2.15, and 5.3.7 on their respective release lines, FunctionsBuilder::jsonValue() with PostgresDriver is vulnerable to SQL injection when user-controlled data is supplied to the jsonPath parameter. This issue is fixed in versions 5.1.10, 5.2.15, and 5.3.7.
@@ -8077,6 +8134,10 @@ Users are recommended to upgrade to version 11.0.5, 10.1.37 or 9.0.101, which fi
 
 - [https://github.com/mdvpat/CVE-2026-55957-PoC](https://github.com/mdvpat/CVE-2026-55957-PoC) : ![starts](https://img.shields.io/github/stars/mdvpat/CVE-2026-55957-PoC.svg) ![forks](https://img.shields.io/github/forks/mdvpat/CVE-2026-55957-PoC.svg)
 
+## CVE-2026-55944
+
+- [https://github.com/kipkorirchirchir800-hash/Cve-2026-55944](https://github.com/kipkorirchirchir800-hash/Cve-2026-55944) : ![starts](https://img.shields.io/github/stars/kipkorirchirchir800-hash/Cve-2026-55944.svg) ![forks](https://img.shields.io/github/forks/kipkorirchirchir800-hash/Cve-2026-55944.svg)
+
 ## CVE-2026-55781
  NanaZip is the 7-Zip derivative intended for the modern Windows experience. Prior to 6.5.1749.0, NanaZip's UFS and FFS image handler in NanaZip.Codecs.Archive.Ufs.cpp validates the superblock block size only against the MINBSIZE lower bound and does not validate the fs_fsize fragment size, allowing attacker-controlled 32-bit fields to flow into indirect-block, directory, and extraction buffer allocations. A tiny crafted UFS image can force multi-gigabyte allocations during open or extraction, causing memory exhaustion or process termination. This issue is fixed in version 6.5.1749.0.
 
@@ -8474,6 +8535,8 @@ Users are recommended to upgrade to version 4.21.0, which fixes the issue. If us
 - [https://github.com/TamatahYT/CVE-2026-53576](https://github.com/TamatahYT/CVE-2026-53576) : ![starts](https://img.shields.io/github/stars/TamatahYT/CVE-2026-53576.svg) ![forks](https://img.shields.io/github/forks/TamatahYT/CVE-2026-53576.svg)
 
 - [https://github.com/AtlasVector/Kestra-cve-2026-53576](https://github.com/AtlasVector/Kestra-cve-2026-53576) : ![starts](https://img.shields.io/github/stars/AtlasVector/Kestra-cve-2026-53576.svg) ![forks](https://img.shields.io/github/forks/AtlasVector/Kestra-cve-2026-53576.svg)
+
+- [https://github.com/emitsco768/Vulnerability-lab-cve-2026-53576](https://github.com/emitsco768/Vulnerability-lab-cve-2026-53576) : ![starts](https://img.shields.io/github/stars/emitsco768/Vulnerability-lab-cve-2026-53576.svg) ![forks](https://img.shields.io/github/forks/emitsco768/Vulnerability-lab-cve-2026-53576.svg)
 
 ## CVE-2026-53571
  Vite is a frontend tooling framework for JavaScript. Prior to 8.0.16, 7.3.5, and 6.4.3, the contents of files that are specified by server.fs.deny can be returned to the browser on Windows. Vite’s dev server denies direct access to sensitive files through server.fs.deny, including entries such as .env, .env.*, and *.{crt,pem}. However, on Windows, the deny logic does not correctly normalize NTFS ADS path forms before access checks are applied. Because of this, requests such as /.env::$DATA?raw are treated as allowed paths, while Windows resolves them to the original file's default data stream. Similar to that, Windows allows accessing a file using a different name with the 8.3 short name compatibility feature. Vite did not reject accessing files via them. This vulnerability is fixed in 8.0.16, 7.3.5, and 6.4.3.
@@ -11454,6 +11517,7 @@ Users are recommended to upgrade to version 4.21.0, which fixes the issue. If us
 - [https://github.com/dem0ns/CVE-2026-43700](https://github.com/dem0ns/CVE-2026-43700) : ![starts](https://img.shields.io/github/stars/dem0ns/CVE-2026-43700.svg) ![forks](https://img.shields.io/github/forks/dem0ns/CVE-2026-43700.svg)
 
 ## CVE-2026-43687
+> The issue was addressed with improved memory handling. This issue is fixed in iOS 26.7 and iPadOS 26.7, iOS 27 and iPadOS 27, macOS Golden Gate 27, macOS Tahoe 26.7, tvOS 27, visionOS 27, watchOS 27. Connecting to a malicious NFS server may disclose kernel memory.
 
 - [https://github.com/jvidhan/cve-2026-43687](https://github.com/jvidhan/cve-2026-43687) : ![starts](https://img.shields.io/github/stars/jvidhan/cve-2026-43687.svg) ![forks](https://img.shields.io/github/forks/jvidhan/cve-2026-43687.svg)
 
@@ -11475,6 +11539,11 @@ Users are recommended to upgrade to version 4.21.0, which fixes the issue. If us
  llama.cpp builds b7492 through the latest b9060 contains a use-after-free vulnerability in llama-server affecting six tokenization endpoints (/tokenize, /detokenize, /infill, /apply-template, /rerank, and /anthropic/count_tokens) that bypass the task queue and access ctx_server.vocab directly on HTTP worker threads. Attackers can exploit a time-of-check-time-of-use race condition where the main thread destroys and frees vocab after the synchronization lock is released but before the handler finishes using it, causing a crash or potential code execution when --sleep-idle-seconds is configured.
 
 - [https://github.com/Vladimir-tokarev-cyera/llama-cpp-security-patches](https://github.com/Vladimir-tokarev-cyera/llama-cpp-security-patches) : ![starts](https://img.shields.io/github/stars/Vladimir-tokarev-cyera/llama-cpp-security-patches.svg) ![forks](https://img.shields.io/github/forks/Vladimir-tokarev-cyera/llama-cpp-security-patches.svg)
+
+## CVE-2026-43621
+> Simple Machines Forum (SMF) through 2.1.7, fixed in commit 6f0dc61, contains an authorization state-confusion vulnerability in the profile loader that allows authenticated low-privileged users to gain administrator access by supplying multiple values for the user parameter. Attackers can exploit the mismatch between Profile::$member and User::$me-&gt;is_owner during sequential profile loading to be treated as the owner of an administrator profile, enabling unauthorized password changes and full acc
+
+- [https://github.com/KharalDipendra/CVE-2026-43621](https://github.com/KharalDipendra/CVE-2026-43621) : ![starts](https://img.shields.io/github/stars/KharalDipendra/CVE-2026-43621.svg) ![forks](https://img.shields.io/github/forks/KharalDipendra/CVE-2026-43621.svg)
 
 ## CVE-2026-43515
  Improper Authorization vulnerability when multiple method constraints define an HTTP method for the same extension in Apache Tomcat.
