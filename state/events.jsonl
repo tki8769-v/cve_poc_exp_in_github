@@ -5083,3 +5083,10 @@
 {"cve_id": "CVE-2026-97028", "ts": "2026-10-27T15:53:57Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-97028", "ts": "2026-10-27T15:55:01Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-88771", "ts": "2026-10-27T15:56:39Z", "type": "new_poc", "url": "https://github.com/ceterion/netscaler-quickcheck"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T16:07:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T16:08:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T16:11:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T16:13:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-27T16:19:42Z", "type": "new_poc", "url": "https://github.com/bastet-ai/brotli-firing-range"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-27T16:19:43Z", "type": "new_poc", "url": "https://github.com/CodeDotJS/pwn.pied"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-27T16:19:43Z", "type": "new_poc", "url": "https://github.com/The-DevOps-Daily/node-runtime-audit"}

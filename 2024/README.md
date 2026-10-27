@@ -4874,6 +4874,7 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 - [https://github.com/sammings/CVE-2024-32640](https://github.com/sammings/CVE-2024-32640) : ![starts](https://img.shields.io/github/stars/sammings/CVE-2024-32640.svg) ![forks](https://img.shields.io/github/forks/sammings/CVE-2024-32640.svg)
 
 ## CVE-2024-32507
+> Incorrect Privilege Assignment vulnerability in Hamid Alinia Login with phone number login-with-phone-number allows Privilege Escalation.This issue affects Login with phone number: from n/a through 1.7.16.
 
 - [https://github.com/4minx/CVE-2024-32507](https://github.com/4minx/CVE-2024-32507) : ![starts](https://img.shields.io/github/stars/4minx/CVE-2024-32507.svg) ![forks](https://img.shields.io/github/forks/4minx/CVE-2024-32507.svg)
 

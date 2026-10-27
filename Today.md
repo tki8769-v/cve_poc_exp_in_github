@@ -115,9 +115,12 @@ the service UUID is Basic Audio Announcement Service UUID.
 
 Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1
 
+- [https://github.com/CodeDotJS/pwn.pied](https://github.com/CodeDotJS/pwn.pied) : ![starts](https://img.shields.io/github/stars/CodeDotJS/pwn.pied.svg) ![forks](https://img.shields.io/github/forks/CodeDotJS/pwn.pied.svg)
 - [https://github.com/FranklinF25/http2shell](https://github.com/FranklinF25/http2shell) : ![starts](https://img.shields.io/github/stars/FranklinF25/http2shell.svg) ![forks](https://img.shields.io/github/forks/FranklinF25/http2shell.svg)
+- [https://github.com/The-DevOps-Daily/node-runtime-audit](https://github.com/The-DevOps-Daily/node-runtime-audit) : ![starts](https://img.shields.io/github/stars/The-DevOps-Daily/node-runtime-audit.svg) ![forks](https://img.shields.io/github/forks/The-DevOps-Daily/node-runtime-audit.svg)
 - [https://github.com/akaihigurashi/brotli2scan](https://github.com/akaihigurashi/brotli2scan) : ![starts](https://img.shields.io/github/stars/akaihigurashi/brotli2scan.svg) ![forks](https://img.shields.io/github/forks/akaihigurashi/brotli2scan.svg)
 - [https://github.com/axisops/CVE-2026-111497](https://github.com/axisops/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/axisops/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/axisops/CVE-2026-111497.svg)
+- [https://github.com/bastet-ai/brotli-firing-range](https://github.com/bastet-ai/brotli-firing-range) : ![starts](https://img.shields.io/github/stars/bastet-ai/brotli-firing-range.svg) ![forks](https://img.shields.io/github/forks/bastet-ai/brotli-firing-range.svg)
 - [https://github.com/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497](https://github.com/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497.svg)
 - [https://github.com/paulmann/CVE-2026-111497](https://github.com/paulmann/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/paulmann/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/paulmann/CVE-2026-111497.svg)
 - [https://github.com/tal7aouy/node2shell-scanner](https://github.com/tal7aouy/node2shell-scanner) : ![starts](https://img.shields.io/github/stars/tal7aouy/node2shell-scanner.svg) ![forks](https://img.shields.io/github/forks/tal7aouy/node2shell-scanner.svg)
@@ -167,6 +170,7 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/capivara-research/CVE-2026-116004](https://github.com/capivara-research/CVE-2026-116004) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-116004.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-116004.svg)
 
 ## CVE-2026-117532
+> REDAXO core from 5.3.0 before 5.21.4 contains an authentication bypass vulnerability in the structure/history plugin that allows unauthenticated attackers to forge temporary login tokens. Attackers can force the session-tied secret into a predictable state and forge tokens for accounts like admin, gaining backend access and code execution outside live mode.
 
 - [https://github.com/asvorg/CVE-2026-117532-poc](https://github.com/asvorg/CVE-2026-117532-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-117532-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-117532-poc.svg)
 

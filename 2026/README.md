@@ -7,6 +7,7 @@
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
 ## CVE-2026-117532
+> REDAXO core from 5.3.0 before 5.21.4 contains an authentication bypass vulnerability in the structure/history plugin that allows unauthenticated attackers to forge temporary login tokens. Attackers can force the session-tied secret into a predictable state and forge tokens for accounts like admin, gaining backend access and code execution outside live mode.
 
 - [https://github.com/asvorg/CVE-2026-117532-poc](https://github.com/asvorg/CVE-2026-117532-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-117532-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-117532-poc.svg)
 
@@ -352,6 +353,12 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/tal7aouy/node2shell-scanner](https://github.com/tal7aouy/node2shell-scanner) : ![starts](https://img.shields.io/github/stars/tal7aouy/node2shell-scanner.svg) ![forks](https://img.shields.io/github/forks/tal7aouy/node2shell-scanner.svg)
 
 - [https://github.com/akaihigurashi/brotli2scan](https://github.com/akaihigurashi/brotli2scan) : ![starts](https://img.shields.io/github/stars/akaihigurashi/brotli2scan.svg) ![forks](https://img.shields.io/github/forks/akaihigurashi/brotli2scan.svg)
+
+- [https://github.com/CodeDotJS/pwn.pied](https://github.com/CodeDotJS/pwn.pied) : ![starts](https://img.shields.io/github/stars/CodeDotJS/pwn.pied.svg) ![forks](https://img.shields.io/github/forks/CodeDotJS/pwn.pied.svg)
+
+- [https://github.com/The-DevOps-Daily/node-runtime-audit](https://github.com/The-DevOps-Daily/node-runtime-audit) : ![starts](https://img.shields.io/github/stars/The-DevOps-Daily/node-runtime-audit.svg) ![forks](https://img.shields.io/github/forks/The-DevOps-Daily/node-runtime-audit.svg)
+
+- [https://github.com/bastet-ai/brotli-firing-range](https://github.com/bastet-ai/brotli-firing-range) : ![starts](https://img.shields.io/github/stars/bastet-ai/brotli-firing-range.svg) ![forks](https://img.shields.io/github/forks/bastet-ai/brotli-firing-range.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
