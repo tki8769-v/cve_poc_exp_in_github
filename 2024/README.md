@@ -497,6 +497,10 @@ Tomcat 11.0.3, 10.1.35 and 9.0.99 onwards will include checks that sun.io.useCa
 
 - [https://github.com/ugurkarakoc1/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-](https://github.com/ugurkarakoc1/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-) : ![starts](https://img.shields.io/github/stars/ugurkarakoc1/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-.svg) ![forks](https://img.shields.io/github/forks/ugurkarakoc1/CVE-2024-55099-Online-Nurse-Hiring-System-v1.0-SQL-Injection-Vulnerability-.svg)
 
+## CVE-2024-55090
+
+- [https://github.com/Pwned007/CVE-2024-55090](https://github.com/Pwned007/CVE-2024-55090) : ![starts](https://img.shields.io/github/stars/Pwned007/CVE-2024-55090.svg) ![forks](https://img.shields.io/github/forks/Pwned007/CVE-2024-55090.svg)
+
 ## CVE-2024-55060
  A cross-site scripting (XSS) vulnerability in the component index.php of Rafed CMS Website v1.44 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.
 
@@ -2013,6 +2017,8 @@ Users are recommended to upgrade to version 2.14.0 or later, which fixes the iss
  Gradio is an open-source Python package designed for quick prototyping. This vulnerability relates to **Server-Side Request Forgery (SSRF)** in the `/queue/join` endpoint. Gradio’s `async_save_url_to_cache` function allows attackers to force the Gradio server to send HTTP requests to user-controlled URLs. This could enable attackers to target internal servers or services within a local network and possibly exfiltrate data or cause unwanted internal requests. Additionally, the content from these URLs is stored locally, making it easier for attackers to upload potentially malicious files to the server. This impacts users deploying Gradio servers that use components like the Video component which involve URL fetching. Users are advised to upgrade to `gradio=5` to address this issue.  As a workaround, users can disable or heavily restrict URL-based inputs in their Gradio applications to trusted domains only. Additionally, implementing stricter URL validation (such as allowinglist-based validation) and ensuring that local or internal network addresses cannot be requested via the `/queue/join` endpoint can help mitigate the risk of SSRF attacks.
 
 - [https://github.com/alexan011/CVE-2024-47167-Environment-Setup](https://github.com/alexan011/CVE-2024-47167-Environment-Setup) : ![starts](https://img.shields.io/github/stars/alexan011/CVE-2024-47167-Environment-Setup.svg) ![forks](https://img.shields.io/github/forks/alexan011/CVE-2024-47167-Environment-Setup.svg)
+
+- [https://github.com/piecar21/CVE-2024-47167](https://github.com/piecar21/CVE-2024-47167) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2024-47167.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2024-47167.svg)
 
 ## CVE-2024-47076
  CUPS is a standards-based, open-source printing system, and `libcupsfilters` contains the code of the filters of the former `cups-filters` package as library functions to be used for the data format conversion tasks needed in Printer Applications. The `cfGetPrinterAttributes5` function in `libcupsfilters` does not sanitize IPP attributes returned from an IPP server. When these IPP attributes are used, for instance, to generate a PPD file, this can lead to attacker controlled data to be provided to the rest of the CUPS system.
@@ -12204,6 +12210,8 @@ This is possible because the application is vulnerable to insecure deserializati
 - [https://github.com/K3ysTr0K3R/CVE-2024-1561](https://github.com/K3ysTr0K3R/CVE-2024-1561) : ![starts](https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2024-1561.svg) ![forks](https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2024-1561.svg)
 
 - [https://github.com/WeiTao712/hdu-is-work1](https://github.com/WeiTao712/hdu-is-work1) : ![starts](https://img.shields.io/github/stars/WeiTao712/hdu-is-work1.svg) ![forks](https://img.shields.io/github/forks/WeiTao712/hdu-is-work1.svg)
+
+- [https://github.com/ImYangC7/hdu-is-lab1](https://github.com/ImYangC7/hdu-is-lab1) : ![starts](https://img.shields.io/github/stars/ImYangC7/hdu-is-lab1.svg) ![forks](https://img.shields.io/github/forks/ImYangC7/hdu-is-lab1.svg)
 
 ## CVE-2024-1540
  A command injection vulnerability exists in the deploy+test-visual.yml workflow of the gradio-app/gradio repository, due to improper neutralization of special elements used in a command. This vulnerability allows attackers to execute unauthorized commands, potentially leading to unauthorized modification of the base repository or secrets exfiltration. The issue arises from the unsafe handling of GitHub context information within a `run` operation, where expressions inside `${{ }}` are evaluated and substituted before script execution. Remediation involves setting untrusted input values to intermediate environment variables to prevent direct influence on script generation.

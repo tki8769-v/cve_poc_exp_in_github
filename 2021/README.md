@@ -1632,6 +1632,8 @@
 
 - [https://github.com/TurlaFSB/logshield](https://github.com/TurlaFSB/logshield) : ![starts](https://img.shields.io/github/stars/TurlaFSB/logshield.svg) ![forks](https://img.shields.io/github/forks/TurlaFSB/logshield.svg)
 
+- [https://github.com/errypie/TICKETS](https://github.com/errypie/TICKETS) : ![starts](https://img.shields.io/github/stars/errypie/TICKETS.svg) ![forks](https://img.shields.io/github/forks/errypie/TICKETS.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
@@ -1875,6 +1877,8 @@
 - [https://github.com/khanna419/cve-2021-43798-lab](https://github.com/khanna419/cve-2021-43798-lab) : ![starts](https://img.shields.io/github/stars/khanna419/cve-2021-43798-lab.svg) ![forks](https://img.shields.io/github/forks/khanna419/cve-2021-43798-lab.svg)
 
 - [https://github.com/CyberCTF/vulhub-grafana-cve-2021-43798](https://github.com/CyberCTF/vulhub-grafana-cve-2021-43798) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-grafana-cve-2021-43798.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-grafana-cve-2021-43798.svg)
+
+- [https://github.com/Jiahe114514/hdu-is-lab1-secure-api](https://github.com/Jiahe114514/hdu-is-lab1-secure-api) : ![starts](https://img.shields.io/github/stars/Jiahe114514/hdu-is-lab1-secure-api.svg) ![forks](https://img.shields.io/github/forks/Jiahe114514/hdu-is-lab1-secure-api.svg)
 
 ## CVE-2021-43789
  PrestaShop is an Open Source e-commerce web application. Versions of PrestaShop prior to 1.7.8.2 are vulnerable to blind SQL injection using search filters with `orderBy` and `sortOrder` parameters. The problem is fixed in version 1.7.8.2.

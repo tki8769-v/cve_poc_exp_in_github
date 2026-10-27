@@ -8648,6 +8648,16 @@ Insufficient validation in the IOCTL (Input Output Control) input buffer in AMD 
 
 - [https://github.com/ly1g3/cisco-CVE-2023-20009](https://github.com/ly1g3/cisco-CVE-2023-20009) : ![starts](https://img.shields.io/github/stars/ly1g3/cisco-CVE-2023-20009.svg) ![forks](https://img.shields.io/github/forks/ly1g3/cisco-CVE-2023-20009.svg)
 
+## CVE-2023-7356
+> In the Linux kernel, the following vulnerability has been resolved:
+
+Bluetooth: ISO: Copy BASE if service data matches EIR_BAA_SERVICE_UUID
+
+Copy the content of a Periodic Advertisement Report to BASE only if
+the service UUID is Basic Audio Announcement Service UUID.
+
+- [https://github.com/emirwtz/CVE-2023-7356](https://github.com/emirwtz/CVE-2023-7356) : ![starts](https://img.shields.io/github/stars/emirwtz/CVE-2023-7356.svg) ![forks](https://img.shields.io/github/forks/emirwtz/CVE-2023-7356.svg)
+
 ## CVE-2023-7261
  Inappropriate implementation in Google Updator prior to 1.3.36.351 in Google Chrome allowed a local attacker to perform privilege escalation via a malicious file. (Chromium security severity: High)
 
