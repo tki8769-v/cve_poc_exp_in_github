@@ -13,6 +13,14 @@
 
 - [https://github.com/axisops/CVE-2021-4034](https://github.com/axisops/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/axisops/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/axisops/CVE-2021-4034.svg)
 
+## CVE-2021-41773
+
+- [https://github.com/dishantsehgal/CVE-2021-41773](https://github.com/dishantsehgal/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/dishantsehgal/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/dishantsehgal/CVE-2021-41773.svg)
+
+## CVE-2021-44228
+
+- [https://github.com/TurlaFSB/logshield](https://github.com/TurlaFSB/logshield) : ![starts](https://img.shields.io/github/stars/TurlaFSB/logshield.svg) ![forks](https://img.shields.io/github/forks/TurlaFSB/logshield.svg)
+
 ## CVE-2024-1561
 
 - [https://github.com/WeiTao712/hdu-is-work1](https://github.com/WeiTao712/hdu-is-work1) : ![starts](https://img.shields.io/github/stars/WeiTao712/hdu-is-work1.svg) ![forks](https://img.shields.io/github/forks/WeiTao712/hdu-is-work1.svg)

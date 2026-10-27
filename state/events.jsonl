@@ -4981,3 +4981,28 @@
 {"cve_id": "CVE-2025-5548", "ts": "2026-10-27T06:46:24Z", "type": "new_poc", "url": "https://github.com/dc04265/CVE-2025-5548-Practica-Modulo-6"}
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-27T06:46:24Z", "type": "new_poc", "url": "https://github.com/jeffschafer/Bigfix-NodeJS-Vulnerability-Scanner-Content-CVE-2026-111497"}
 {"cve_id": "CVE-2026-4372", "ts": "2026-10-27T06:46:25Z", "type": "new_poc", "url": "https://github.com/alvin21mfmlai/SE6013_Project"}
+{"cve_id": "CVE-2012-20006", "ts": "2026-10-27T06:57:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65202", "ts": "2026-10-27T07:00:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65203", "ts": "2026-10-27T07:00:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65212", "ts": "2026-10-27T07:00:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65214", "ts": "2026-10-27T07:01:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65215", "ts": "2026-10-27T07:01:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65216", "ts": "2026-10-27T07:01:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65217", "ts": "2026-10-27T07:01:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65218", "ts": "2026-10-27T07:01:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65221", "ts": "2026-10-27T07:01:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65222", "ts": "2026-10-27T07:01:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65226", "ts": "2026-10-27T07:01:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65547", "ts": "2026-10-27T07:01:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65685", "ts": "2026-10-27T07:01:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-65686", "ts": "2026-10-27T07:01:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66042", "ts": "2026-10-27T07:01:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66043", "ts": "2026-10-27T07:01:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66044", "ts": "2026-10-27T07:01:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66045", "ts": "2026-10-27T07:01:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77215", "ts": "2026-10-27T07:02:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77216", "ts": "2026-10-27T07:02:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77924", "ts": "2026-10-27T07:02:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98943", "ts": "2026-10-27T07:06:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-10-27T07:13:27Z", "type": "new_poc", "url": "https://github.com/TurlaFSB/logshield"}
+{"cve_id": "CVE-2021-41773", "ts": "2026-10-27T07:16:19Z", "type": "new_poc", "url": "https://github.com/dishantsehgal/CVE-2021-41773"}

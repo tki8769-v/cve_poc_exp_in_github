@@ -1630,6 +1630,8 @@
 
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-4](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-4) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-4.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-4.svg)
 
+- [https://github.com/TurlaFSB/logshield](https://github.com/TurlaFSB/logshield) : ![starts](https://img.shields.io/github/stars/TurlaFSB/logshield.svg) ![forks](https://img.shields.io/github/forks/TurlaFSB/logshield.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
@@ -2926,6 +2928,8 @@
 - [https://github.com/twq0316/work1-secure-rest-api](https://github.com/twq0316/work1-secure-rest-api) : ![starts](https://img.shields.io/github/stars/twq0316/work1-secure-rest-api.svg) ![forks](https://img.shields.io/github/forks/twq0316/work1-secure-rest-api.svg)
 
 - [https://github.com/foreverlanterns/secure-demo-api](https://github.com/foreverlanterns/secure-demo-api) : ![starts](https://img.shields.io/github/stars/foreverlanterns/secure-demo-api.svg) ![forks](https://img.shields.io/github/forks/foreverlanterns/secure-demo-api.svg)
+
+- [https://github.com/dishantsehgal/CVE-2021-41773](https://github.com/dishantsehgal/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/dishantsehgal/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/dishantsehgal/CVE-2021-41773.svg)
 
 ## CVE-2021-41753
  A denial-of-service attack in WPA2, and WPA3-SAE authentication methods in D-Link DIR-X1560, v1.04B04, and DIR-X6060, v1.11B04 allows a remote unauthenticated attacker to disconnect a wireless client via sending specific spoofed SAE authentication frames.
