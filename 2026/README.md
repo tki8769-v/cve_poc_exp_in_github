@@ -2015,6 +2015,8 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 
 - [https://github.com/al4n4n/CVE-2026-102785](https://github.com/al4n4n/CVE-2026-102785) : ![starts](https://img.shields.io/github/stars/al4n4n/CVE-2026-102785.svg) ![forks](https://img.shields.io/github/forks/al4n4n/CVE-2026-102785.svg)
 
+- [https://github.com/piecar21/CVE-2026-102785](https://github.com/piecar21/CVE-2026-102785) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-102785.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-102785.svg)
+
 ## CVE-2026-102782
 > Joomla Extension - ordasoft.com - Unauthenticated SQL injection in OrdaSoft Simple Membership &lt; 7.4.0 - site/simplemembership.php dispatches task=checkLoginPass with no authentication or access control check of any kind. The handler reads a login request parameter through Joomla’s generic, non-sanitizing input filter, which strips HTML/script tags but never touches quotes or SQL syntax, and concatenates it directly into a query string with no escaping or parameterization:
 

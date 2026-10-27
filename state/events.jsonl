@@ -5116,3 +5116,9 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-27T21:24:11Z", "type": "new_poc", "url": "https://github.com/murat-levi/php2shell-poc"}
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-27T21:24:12Z", "type": "new_poc", "url": "https://github.com/depuschm/brotli-k8s-scan"}
 {"cve_id": "CVE-2024-25600", "ts": "2026-10-27T21:31:20Z", "type": "new_poc", "url": "https://github.com/zxc2009/TryHack3M-Bricks-Heist"}
+{"cve_id": "CVE-2026-107458", "ts": "2026-10-27T21:35:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T21:37:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107458", "ts": "2026-10-27T21:39:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T21:42:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-102785", "ts": "2026-10-27T21:43:56Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2026-102785"}
+{"cve_id": "CVE-2025-31161", "ts": "2026-10-27T21:46:08Z", "type": "new_poc", "url": "https://github.com/c4bsec/CVE-2025-31161"}
