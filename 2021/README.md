@@ -1634,6 +1634,8 @@
 
 - [https://github.com/errypie/TICKETS](https://github.com/errypie/TICKETS) : ![starts](https://img.shields.io/github/stars/errypie/TICKETS.svg) ![forks](https://img.shields.io/github/forks/errypie/TICKETS.svg)
 
+- [https://github.com/ShivendraNT/ehax-log4shell-openhouse](https://github.com/ShivendraNT/ehax-log4shell-openhouse) : ![starts](https://img.shields.io/github/stars/ShivendraNT/ehax-log4shell-openhouse.svg) ![forks](https://img.shields.io/github/forks/ShivendraNT/ehax-log4shell-openhouse.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 

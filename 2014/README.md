@@ -730,6 +730,8 @@
 
 - [https://github.com/c4mx/Linux-kernel-code-injection_CVE-2014-3153](https://github.com/c4mx/Linux-kernel-code-injection_CVE-2014-3153) : ![starts](https://img.shields.io/github/stars/c4mx/Linux-kernel-code-injection_CVE-2014-3153.svg) ![forks](https://img.shields.io/github/forks/c4mx/Linux-kernel-code-injection_CVE-2014-3153.svg)
 
+- [https://github.com/lastowl/lg-webos2-root](https://github.com/lastowl/lg-webos2-root) : ![starts](https://img.shields.io/github/stars/lastowl/lg-webos2-root.svg) ![forks](https://img.shields.io/github/forks/lastowl/lg-webos2-root.svg)
+
 ## CVE-2014-3120
  The default configuration in Elasticsearch before 1.2 enables dynamic scripting, which allows remote attackers to execute arbitrary MVEL expressions and Java code via the source parameter to _search.  NOTE: this only violates the vendor's intended security policy if the user does not run Elasticsearch in its own independent virtual machine.
 

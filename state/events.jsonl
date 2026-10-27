@@ -5090,3 +5090,29 @@
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-27T16:19:42Z", "type": "new_poc", "url": "https://github.com/bastet-ai/brotli-firing-range"}
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-27T16:19:43Z", "type": "new_poc", "url": "https://github.com/CodeDotJS/pwn.pied"}
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-27T16:19:43Z", "type": "new_poc", "url": "https://github.com/The-DevOps-Daily/node-runtime-audit"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T21:19:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-27T21:22:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97798", "ts": "2026-10-27T21:24:00Z", "type": "new_poc", "url": "https://github.com/G4sp4rCS/CVE-2026-97798-exploit"}
+{"cve_id": "CVE-2026-94300", "ts": "2026-10-27T21:24:02Z", "type": "new_poc", "url": "https://github.com/emirwtz/CVE-2026-94300"}
+{"cve_id": "CVE-2026-71195", "ts": "2026-10-27T21:24:02Z", "type": "new_poc", "url": "https://github.com/emirwtz/CVE-2026-71195"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-27T21:24:03Z", "type": "new_poc", "url": "https://github.com/Liquescent-Development/CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-10-27T21:24:04Z", "type": "new_poc", "url": "https://github.com/Liquescent-Development/CVE-2026-109618-CVE-2026-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-27T21:24:04Z", "type": "new_poc", "url": "https://github.com/axisops/CVE-2026-109618-109619"}
+{"cve_id": "CVE-2026-40281", "ts": "2026-10-27T21:24:04Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2026-40281"}
+{"cve_id": "CVE-2026-102785", "ts": "2026-10-27T21:24:05Z", "type": "new_poc", "url": "https://github.com/al4n4n/CVE-2026-102785"}
+{"cve_id": "CVE-2026-114509", "ts": "2026-10-27T21:24:05Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2026-114509"}
+{"cve_id": "CVE-2026-8467", "ts": "2026-10-27T21:24:06Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2026-8467"}
+{"cve_id": "CVE-2026-48356", "ts": "2026-10-27T21:24:07Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2026-48356"}
+{"cve_id": "CVE-2026-101767", "ts": "2026-10-27T21:24:07Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2026-101767"}
+{"cve_id": "CVE-2024-50379", "ts": "2026-10-27T21:24:08Z", "type": "new_poc", "url": "https://github.com/Ghost-Bx1/TomcatRace-CVE-2024-50379"}
+{"cve_id": "CVE-2026-116471", "ts": "2026-10-27T21:24:08Z", "type": "new_poc", "url": "https://github.com/solo506/bkwld-decoy-cve-2026-116471"}
+{"cve_id": "CVE-2025-24813", "ts": "2026-10-27T21:24:08Z", "type": "new_poc", "url": "https://github.com/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-27T21:24:09Z", "type": "new_poc", "url": "https://github.com/Ghost-Bx1/DotNet-HTTP2Shell-CVE-2026-111497"}
+{"cve_id": "CVE-2014-3153", "ts": "2026-10-27T21:24:09Z", "type": "new_poc", "url": "https://github.com/lastowl/lg-webos2-root"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-27T21:24:10Z", "type": "new_poc", "url": "https://github.com/avatarnewyork/brotli-check"}
+{"cve_id": "CVE-2026-96652", "ts": "2026-10-27T21:24:10Z", "type": "new_poc", "url": "https://github.com/akaihigurashi/plex2scan"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-27T21:24:11Z", "type": "new_poc", "url": "https://github.com/Nyamort/brotli-pingback-lab"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-10-27T21:24:11Z", "type": "new_poc", "url": "https://github.com/ShivendraNT/ehax-log4shell-openhouse"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-27T21:24:11Z", "type": "new_poc", "url": "https://github.com/murat-levi/php2shell-poc"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-27T21:24:12Z", "type": "new_poc", "url": "https://github.com/depuschm/brotli-k8s-scan"}
+{"cve_id": "CVE-2024-25600", "ts": "2026-10-27T21:31:20Z", "type": "new_poc", "url": "https://github.com/zxc2009/TryHack3M-Bricks-Heist"}
