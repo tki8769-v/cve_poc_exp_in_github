@@ -92,6 +92,10 @@ problems:
 - [https://github.com/Syerain/cve-2026-43499-mt6896-pd2238](https://github.com/Syerain/cve-2026-43499-mt6896-pd2238) : ![starts](https://img.shields.io/github/stars/Syerain/cve-2026-43499-mt6896-pd2238.svg) ![forks](https://img.shields.io/github/forks/Syerain/cve-2026-43499-mt6896-pd2238.svg)
 - [https://github.com/tokenbleed/ghostlock-tv](https://github.com/tokenbleed/ghostlock-tv) : ![starts](https://img.shields.io/github/stars/tokenbleed/ghostlock-tv.svg) ![forks](https://img.shields.io/github/forks/tokenbleed/ghostlock-tv.svg)
 
+## CVE-2026-86426
+
+- [https://github.com/piecar21/CVE-2026-86426](https://github.com/piecar21/CVE-2026-86426) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-86426.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-86426.svg)
+
 ## CVE-2026-9539
 
 - [https://github.com/quarkslab/slirp_snapshots_stateful](https://github.com/quarkslab/slirp_snapshots_stateful) : ![starts](https://img.shields.io/github/stars/quarkslab/slirp_snapshots_stateful.svg) ![forks](https://img.shields.io/github/forks/quarkslab/slirp_snapshots_stateful.svg)

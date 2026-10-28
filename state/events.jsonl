@@ -5165,3 +5165,14 @@
 {"cve_id": "CVE-2026-97028", "ts": "2026-10-28T07:29:19Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-9539", "ts": "2026-10-28T07:33:46Z", "type": "new_poc", "url": "https://github.com/quarkslab/slirp_snapshots_stateful"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-28T07:33:46Z", "type": "new_poc", "url": "https://github.com/rayaar/php2shellPoc"}
+{"cve_id": "CVE-2025-12534", "ts": "2026-10-28T07:44:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107458", "ts": "2026-10-28T07:45:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111054", "ts": "2026-10-28T07:45:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111467", "ts": "2026-10-28T07:46:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111479", "ts": "2026-10-28T07:46:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111563", "ts": "2026-10-28T07:46:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-112155", "ts": "2026-10-28T07:46:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-18326", "ts": "2026-10-28T07:48:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-39928", "ts": "2026-10-28T07:48:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-28T07:53:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-86426", "ts": "2026-10-28T07:57:56Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2026-86426"}

@@ -2249,3 +2249,5 @@
 {"cve_id": "CVE-2025-6002", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T07:39:45Z", "url": "https://github.com/Mefhika120/Ashwesker-CVE-2025-60021", "url_ids": ["CVE-2025-60021"]}
 {"cve_id": "CVE-2026-3869", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T07:39:52Z", "url": "https://github.com/vital-information-resource-under-siege/CVE-2026-38698-and-CVE-2026-38699", "url_ids": ["CVE-2026-38698", "CVE-2026-38699"]}
 {"cve_id": "CVE-2026-5177", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T07:42:50Z", "url": "https://github.com/sadandbset/CVE-2026-51772-CVE-2026-51773", "url_ids": ["CVE-2026-51772", "CVE-2026-51773"]}
+{"cve_id": "CVE-2020-1066", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T08:05:13Z", "url": "https://github.com/spaceraccoon/CVE-2020-10665", "url_ids": ["CVE-2020-10665"]}
+{"cve_id": "CVE-2019-1759", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T08:07:16Z", "url": "https://github.com/pquerna/poc-dsa-verify-CVE-2019-17596", "url_ids": ["CVE-2019-17596"]}

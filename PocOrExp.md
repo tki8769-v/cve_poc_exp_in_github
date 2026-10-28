@@ -3560,6 +3560,8 @@ This issue affects enVision: before 260655.
 
 - [https://github.com/Guila95/CVE-2026-86426](https://github.com/Guila95/CVE-2026-86426) : ![starts](https://img.shields.io/github/stars/Guila95/CVE-2026-86426.svg) ![forks](https://img.shields.io/github/forks/Guila95/CVE-2026-86426.svg)
 
+- [https://github.com/piecar21/CVE-2026-86426](https://github.com/piecar21/CVE-2026-86426) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-86426.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-86426.svg)
+
 ## CVE-2026-86350
 > Inconsistent interpretation of HTTP/2 requests (&#x27;HTTP Request/Response smuggling&#x27;) vulnerability in Apache Tomcat caused by a regression in fix for CVE-2026-41293 can trigger request header mix-up.
 
