@@ -2251,3 +2251,6 @@
 {"cve_id": "CVE-2026-5177", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T07:42:50Z", "url": "https://github.com/sadandbset/CVE-2026-51772-CVE-2026-51773", "url_ids": ["CVE-2026-51772", "CVE-2026-51773"]}
 {"cve_id": "CVE-2020-1066", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T08:05:13Z", "url": "https://github.com/spaceraccoon/CVE-2020-10665", "url_ids": ["CVE-2020-10665"]}
 {"cve_id": "CVE-2019-1759", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T08:07:16Z", "url": "https://github.com/pquerna/poc-dsa-verify-CVE-2019-17596", "url_ids": ["CVE-2019-17596"]}
+{"cve_id": "CVE-2021-2173", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:32:29Z", "url": "https://github.com/minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise", "url_ids": ["CVE-2021-21735"]}
+{"cve_id": "CVE-2021-3395", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:37:34Z", "url": "https://github.com/lixiang957/CVE-2021-33959", "url_ids": ["CVE-2021-33959"]}
+{"cve_id": "CVE-2025-5555", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:40:51Z", "url": "https://github.com/aydin5245/CVE-2025-55555-CVE", "url_ids": ["CVE-2025-55555"]}
