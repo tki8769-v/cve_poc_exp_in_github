@@ -175,6 +175,7 @@ On an affected system, any authenticated user can gain operator privileges and m
 - [https://github.com/anywaye/nilepatch-admzip-dos](https://github.com/anywaye/nilepatch-admzip-dos) : ![starts](https://img.shields.io/github/stars/anywaye/nilepatch-admzip-dos.svg) ![forks](https://img.shields.io/github/forks/anywaye/nilepatch-admzip-dos.svg)
 
 ## CVE-2026-114101
+> Coraza before 3.8.1 extracts multipart upload filenames with Go&#x27;s mime.ParseMediaType, which silently ignores RFC 5987 filename* parameters whose charset is not utf-8 or us-ascii. Unauthenticated attackers can send a decoy filename with filename*=iso-8859-1&#x27;&#x27;shell.php, or filename* alone, so FILES-based rules never see the real name, letting dangerous uploads reach backends that honor filename*.
 
 - [https://github.com/cafaye/nilepatch-coraza-bypass](https://github.com/cafaye/nilepatch-coraza-bypass) : ![starts](https://img.shields.io/github/stars/cafaye/nilepatch-coraza-bypass.svg) ![forks](https://img.shields.io/github/forks/cafaye/nilepatch-coraza-bypass.svg)
 

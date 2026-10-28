@@ -2270,3 +2270,6 @@
 {"cve_id": "CVE-2026-7307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T21:51:25Z", "url": "https://github.com/HORKimhab/CVE-2026-73072", "url_ids": ["CVE-2026-73072"]}
 {"cve_id": "CVE-2025-2620", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T21:57:36Z", "url": "https://github.com/A17-ba/CVE-2025-26202-Details", "url_ids": ["CVE-2025-26202"]}
 {"cve_id": "CVE-2025-2620", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T21:57:36Z", "url": "https://github.com/xibhi/CVE-2025-26206", "url_ids": ["CVE-2025-26206"]}
+{"cve_id": "CVE-2025-5182", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T22:05:47Z", "url": "https://github.com/shk-mubashshir/CVE-2025-51820", "url_ids": ["CVE-2025-51820"]}
+{"cve_id": "CVE-2023-3144", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T22:10:06Z", "url": "https://github.com/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution", "url_ids": ["CVE-2023-31446"]}
+{"cve_id": "CVE-2023-3144", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T22:10:06Z", "url": "https://github.com/Dodge-MPTC/CVE-2023-31445-Unprivileged-Information-Disclosure", "url_ids": ["CVE-2023-31445"]}
