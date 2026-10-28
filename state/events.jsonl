@@ -5176,3 +5176,44 @@
 {"cve_id": "CVE-2026-39928", "ts": "2026-10-28T07:48:08Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-97028", "ts": "2026-10-28T07:53:50Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-86426", "ts": "2026-10-28T07:57:56Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2026-86426"}
+{"cve_id": "CVE-2025-12534", "ts": "2026-10-28T15:59:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107458", "ts": "2026-10-28T16:00:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111054", "ts": "2026-10-28T16:01:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111467", "ts": "2026-10-28T16:01:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111479", "ts": "2026-10-28T16:01:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111563", "ts": "2026-10-28T16:01:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-112155", "ts": "2026-10-28T16:01:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-18326", "ts": "2026-10-28T16:03:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-39928", "ts": "2026-10-28T16:03:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-28T16:09:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-112706", "ts": "2026-10-28T16:13:16Z", "type": "new_poc", "url": "https://github.com/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak"}
+{"cve_id": "CVE-2026-97631", "ts": "2026-10-28T16:13:17Z", "type": "new_poc", "url": "https://github.com/slabbdev/uefi-pxe-cve-2026-97631"}
+{"cve_id": "CVE-2024-4223", "ts": "2026-10-28T16:13:17Z", "type": "new_poc", "url": "https://github.com/AgnesAhalya/rw-tutor"}
+{"cve_id": "CVE-2024-3552", "ts": "2026-10-28T16:13:17Z", "type": "new_poc", "url": "https://github.com/AgnesAhalya/rw-web-directory-free"}
+{"cve_id": "CVE-2024-4442", "ts": "2026-10-28T16:13:17Z", "type": "new_poc", "url": "https://github.com/AgnesAhalya/rw-salon"}
+{"cve_id": "CVE-2024-3495", "ts": "2026-10-28T16:13:17Z", "type": "new_poc", "url": "https://github.com/AgnesAhalya/rw-country-state-city-auto-dropdown"}
+{"cve_id": "CVE-2026-114595", "ts": "2026-10-28T16:13:17Z", "type": "new_poc", "url": "https://github.com/0xBlackash/CVE-2026-114595"}
+{"cve_id": "CVE-2024-36779", "ts": "2026-10-28T16:13:18Z", "type": "new_poc", "url": "https://github.com/AgnesAhalya/rw-stock"}
+{"cve_id": "CVE-2024-2771", "ts": "2026-10-28T16:13:18Z", "type": "new_poc", "url": "https://github.com/AgnesAhalya/rw-fluentform"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-28T16:13:18Z", "type": "new_poc", "url": "https://github.com/gik2927/CVE-2026-111497-DOS-"}
+{"cve_id": "CVE-2025-54726", "ts": "2026-10-28T16:13:18Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2025-54726"}
+{"cve_id": "CVE-2026-19632", "ts": "2026-10-28T16:13:18Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2026-19632"}
+{"cve_id": "CVE-2024-4443", "ts": "2026-10-28T16:13:19Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2024-4443"}
+{"cve_id": "CVE-2026-31635", "ts": "2026-10-28T16:13:19Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2026-31635"}
+{"cve_id": "CVE-2025-58443", "ts": "2026-10-28T16:13:19Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2025-58443"}
+{"cve_id": "CVE-2025-27740", "ts": "2026-10-28T16:13:19Z", "type": "new_poc", "url": "https://github.com/tyie949/cve-2025-27740"}
+{"cve_id": "CVE-2024-8503", "ts": "2026-10-28T16:13:20Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2024-8503"}
+{"cve_id": "CVE-2023-42824", "ts": "2026-10-28T16:13:20Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2023-42824"}
+{"cve_id": "CVE-2024-7120", "ts": "2026-10-28T16:13:20Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2024-7120"}
+{"cve_id": "CVE-2025-30567", "ts": "2026-10-28T16:13:20Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2025-30567"}
+{"cve_id": "CVE-2025-10035", "ts": "2026-10-28T16:13:20Z", "type": "new_poc", "url": "https://github.com/dkchaiv/CVE-2025-10035"}
+{"cve_id": "CVE-2026-97631", "ts": "2026-10-28T16:13:20Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2026-97631"}
+{"cve_id": "CVE-2026-116692", "ts": "2026-10-28T16:13:20Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2026-116692"}
+{"cve_id": "CVE-2025-24000", "ts": "2026-10-28T16:13:21Z", "type": "new_poc", "url": "https://github.com/piecar21/CVE-2025-24000"}
+{"cve_id": "CVE-2026-35223", "ts": "2026-10-28T16:13:21Z", "type": "new_poc", "url": "https://github.com/LaRemontada12/CVE-2026-35223-Joomla-Access-Control"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-28T16:13:22Z", "type": "new_poc", "url": "https://github.com/Syerain/cve-2026-43499-vivo-mt6896"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-10-28T16:13:22Z", "type": "new_poc", "url": "https://github.com/colorgarden/CVE-2026-98260-y700-TB321FU-lpe"}
+{"cve_id": "CVE-2026-79397", "ts": "2026-10-28T16:13:23Z", "type": "new_poc", "url": "https://github.com/jed-parsec/CVE-2026-79397-Authenticated-OS-Command-Injection-in-ONT-4GE-RFDW-Ping-Diagnostics"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-10-28T16:13:23Z", "type": "new_poc", "url": "https://github.com/kpgc10kai/TimerRoot"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-28T16:13:23Z", "type": "new_poc", "url": "https://github.com/hkoeck/node2shell-status"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-28T16:13:23Z", "type": "new_poc", "url": "https://github.com/foxcornlab/php-worker-pin"}

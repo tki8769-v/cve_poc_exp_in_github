@@ -19,9 +19,73 @@
 
 - [https://github.com/403ArkhamS3c/cve-gitea](https://github.com/403ArkhamS3c/cve-gitea) : ![starts](https://img.shields.io/github/stars/403ArkhamS3c/cve-gitea.svg) ![forks](https://img.shields.io/github/forks/403ArkhamS3c/cve-gitea.svg)
 
+## CVE-2023-42824
+
+- [https://github.com/piecar21/CVE-2023-42824](https://github.com/piecar21/CVE-2023-42824) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2023-42824.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2023-42824.svg)
+
+## CVE-2024-2771
+
+- [https://github.com/AgnesAhalya/rw-fluentform](https://github.com/AgnesAhalya/rw-fluentform) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-fluentform.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-fluentform.svg)
+
+## CVE-2024-3495
+
+- [https://github.com/AgnesAhalya/rw-country-state-city-auto-dropdown](https://github.com/AgnesAhalya/rw-country-state-city-auto-dropdown) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-country-state-city-auto-dropdown.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-country-state-city-auto-dropdown.svg)
+
+## CVE-2024-3552
+
+- [https://github.com/AgnesAhalya/rw-web-directory-free](https://github.com/AgnesAhalya/rw-web-directory-free) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-web-directory-free.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-web-directory-free.svg)
+
+## CVE-2024-36779
+
+- [https://github.com/AgnesAhalya/rw-stock](https://github.com/AgnesAhalya/rw-stock) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-stock.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-stock.svg)
+
+## CVE-2024-4223
+
+- [https://github.com/AgnesAhalya/rw-tutor](https://github.com/AgnesAhalya/rw-tutor) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-tutor.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-tutor.svg)
+
+## CVE-2024-4442
+
+- [https://github.com/AgnesAhalya/rw-salon](https://github.com/AgnesAhalya/rw-salon) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-salon.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-salon.svg)
+
+## CVE-2024-4443
+
+- [https://github.com/piecar21/CVE-2024-4443](https://github.com/piecar21/CVE-2024-4443) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2024-4443.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2024-4443.svg)
+
 ## CVE-2024-49138
 
 - [https://github.com/Dudasantluiz/Triagem-de-Explora-o-CVE-2024-49138-detectada](https://github.com/Dudasantluiz/Triagem-de-Explora-o-CVE-2024-49138-detectada) : ![starts](https://img.shields.io/github/stars/Dudasantluiz/Triagem-de-Explora-o-CVE-2024-49138-detectada.svg) ![forks](https://img.shields.io/github/forks/Dudasantluiz/Triagem-de-Explora-o-CVE-2024-49138-detectada.svg)
+
+## CVE-2024-7120
+
+- [https://github.com/piecar21/CVE-2024-7120](https://github.com/piecar21/CVE-2024-7120) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2024-7120.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2024-7120.svg)
+
+## CVE-2024-8503
+
+- [https://github.com/piecar21/CVE-2024-8503](https://github.com/piecar21/CVE-2024-8503) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2024-8503.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2024-8503.svg)
+
+## CVE-2025-10035
+
+- [https://github.com/dkchaiv/CVE-2025-10035](https://github.com/dkchaiv/CVE-2025-10035) : ![starts](https://img.shields.io/github/stars/dkchaiv/CVE-2025-10035.svg) ![forks](https://img.shields.io/github/forks/dkchaiv/CVE-2025-10035.svg)
+
+## CVE-2025-24000
+
+- [https://github.com/piecar21/CVE-2025-24000](https://github.com/piecar21/CVE-2025-24000) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2025-24000.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2025-24000.svg)
+
+## CVE-2025-27740
+
+- [https://github.com/tyie949/cve-2025-27740](https://github.com/tyie949/cve-2025-27740) : ![starts](https://img.shields.io/github/stars/tyie949/cve-2025-27740.svg) ![forks](https://img.shields.io/github/forks/tyie949/cve-2025-27740.svg)
+
+## CVE-2025-30567
+
+- [https://github.com/piecar21/CVE-2025-30567](https://github.com/piecar21/CVE-2025-30567) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2025-30567.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2025-30567.svg)
+
+## CVE-2025-54726
+
+- [https://github.com/piecar21/CVE-2025-54726](https://github.com/piecar21/CVE-2025-54726) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2025-54726.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2025-54726.svg)
+
+## CVE-2025-58443
+
+- [https://github.com/piecar21/CVE-2025-58443](https://github.com/piecar21/CVE-2025-58443) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2025-58443.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2025-58443.svg)
 
 ## CVE-2026-105482
 > A flaw in Node.js DNS resolution allows hostnames containing a NUL byte to be silently truncated by the dns.resolve*() functions and dns.reverse(). This is an incomplete fix of CVE-2026-48930, which only covered dns.lookup() and the net/tls host options.
@@ -33,6 +97,7 @@ Because the name is passed to c-ares as a C string, resolving attacker.example\0
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
 
+- [https://github.com/foxcornlab/php-worker-pin](https://github.com/foxcornlab/php-worker-pin) : ![starts](https://img.shields.io/github/stars/foxcornlab/php-worker-pin.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/php-worker-pin.svg)
 - [https://github.com/lflare/php2shell-cve-2026-109618-109619](https://github.com/lflare/php2shell-cve-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/lflare/php2shell-cve-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/lflare/php2shell-cve-2026-109618-109619.svg)
 - [https://github.com/rayaar/php2shellPoc](https://github.com/rayaar/php2shellPoc) : ![starts](https://img.shields.io/github/stars/rayaar/php2shellPoc.svg) ![forks](https://img.shields.io/github/forks/rayaar/php2shellPoc.svg)
 
@@ -45,8 +110,20 @@ Because the name is passed to c-ares as a C string, resolving attacker.example\0
 
 Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1
 
+- [https://github.com/gik2927/CVE-2026-111497-DOS-](https://github.com/gik2927/CVE-2026-111497-DOS-) : ![starts](https://img.shields.io/github/stars/gik2927/CVE-2026-111497-DOS-.svg) ![forks](https://img.shields.io/github/forks/gik2927/CVE-2026-111497-DOS-.svg)
+- [https://github.com/hkoeck/node2shell-status](https://github.com/hkoeck/node2shell-status) : ![starts](https://img.shields.io/github/stars/hkoeck/node2shell-status.svg) ![forks](https://img.shields.io/github/forks/hkoeck/node2shell-status.svg)
 - [https://github.com/suominen/CVE-2026-111497](https://github.com/suominen/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-111497.svg)
 - [https://github.com/thebarel/CVE-2026-111497](https://github.com/thebarel/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/thebarel/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/thebarel/CVE-2026-111497.svg)
+
+## CVE-2026-112706
+> A permissions issue was addressed with additional restrictions. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, tvOS 27.2, visionOS 27.2, watchOS 27.2. An app may be able to access sensitive user data.
+
+- [https://github.com/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak](https://github.com/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak) : ![starts](https://img.shields.io/github/stars/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak.svg) ![forks](https://img.shields.io/github/forks/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak.svg)
+
+## CVE-2026-114595
+> In EPICS Base release 7.0.10 and prior, an integer overflow in network request processing can cause memory to be allocated with an incorrect size. Subsequent handling of attacker supplied data may result in memory corruption, denial of service, or potential remote code execution.
+
+- [https://github.com/0xBlackash/CVE-2026-114595](https://github.com/0xBlackash/CVE-2026-114595) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-114595.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-114595.svg)
 
 ## CVE-2026-115560
 
@@ -57,6 +134,7 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 > MLflow is an open source AI engineering platform for agents, large language models, and machine learning models. From 3.12.0rc0 until 3.17.0, third-party scorer deserialization in mlflow/genai/scorers/base.py accepts request-selected descendants of THIRD_PARTY_SCORER_ALLOWED_MODULES rather than requiring an exact allowed module. A caller can use MLflow artifact endpoints to place a Python module beneath a writable allowed package and submit its module and class through /ajax-api/3.0/mlflow/score
 
 - [https://github.com/foxcornlab/mlflow-scorer-scanner](https://github.com/foxcornlab/mlflow-scorer-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/mlflow-scorer-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/mlflow-scorer-scanner.svg)
+- [https://github.com/piecar21/CVE-2026-116692](https://github.com/piecar21/CVE-2026-116692) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-116692.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-116692.svg)
 
 ## CVE-2026-118238
 
@@ -65,6 +143,18 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 ## CVE-2026-1277
 
 - [https://github.com/piecar21/CVE-2026-1277](https://github.com/piecar21/CVE-2026-1277) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-1277.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-1277.svg)
+
+## CVE-2026-19632
+
+- [https://github.com/piecar21/CVE-2026-19632](https://github.com/piecar21/CVE-2026-19632) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-19632.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-19632.svg)
+
+## CVE-2026-31635
+
+- [https://github.com/piecar21/CVE-2026-31635](https://github.com/piecar21/CVE-2026-31635) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-31635.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-31635.svg)
+
+## CVE-2026-35223
+
+- [https://github.com/LaRemontada12/CVE-2026-35223-Joomla-Access-Control](https://github.com/LaRemontada12/CVE-2026-35223-Joomla-Access-Control) : ![starts](https://img.shields.io/github/stars/LaRemontada12/CVE-2026-35223-Joomla-Access-Control.svg) ![forks](https://img.shields.io/github/forks/LaRemontada12/CVE-2026-35223-Joomla-Access-Control.svg)
 
 ## CVE-2026-38056
 
@@ -90,7 +180,12 @@ problems:
   1) the rbtree dequeue happens without waiter::task::pi_l
 
 - [https://github.com/Syerain/cve-2026-43499-mt6896-pd2238](https://github.com/Syerain/cve-2026-43499-mt6896-pd2238) : ![starts](https://img.shields.io/github/stars/Syerain/cve-2026-43499-mt6896-pd2238.svg) ![forks](https://img.shields.io/github/forks/Syerain/cve-2026-43499-mt6896-pd2238.svg)
+- [https://github.com/Syerain/cve-2026-43499-vivo-mt6896](https://github.com/Syerain/cve-2026-43499-vivo-mt6896) : ![starts](https://img.shields.io/github/stars/Syerain/cve-2026-43499-vivo-mt6896.svg) ![forks](https://img.shields.io/github/forks/Syerain/cve-2026-43499-vivo-mt6896.svg)
 - [https://github.com/tokenbleed/ghostlock-tv](https://github.com/tokenbleed/ghostlock-tv) : ![starts](https://img.shields.io/github/stars/tokenbleed/ghostlock-tv.svg) ![forks](https://img.shields.io/github/forks/tokenbleed/ghostlock-tv.svg)
+
+## CVE-2026-79397
+
+- [https://github.com/jed-parsec/CVE-2026-79397-Authenticated-OS-Command-Injection-in-ONT-4GE-RFDW-Ping-Diagnostics](https://github.com/jed-parsec/CVE-2026-79397-Authenticated-OS-Command-Injection-in-ONT-4GE-RFDW-Ping-Diagnostics) : ![starts](https://img.shields.io/github/stars/jed-parsec/CVE-2026-79397-Authenticated-OS-Command-Injection-in-ONT-4GE-RFDW-Ping-Diagnostics.svg) ![forks](https://img.shields.io/github/forks/jed-parsec/CVE-2026-79397-Authenticated-OS-Command-Injection-in-ONT-4GE-RFDW-Ping-Diagnostics.svg)
 
 ## CVE-2026-86426
 
@@ -104,6 +199,19 @@ problems:
 > Pillow is a Python imaging library. From 9.4.0 until 13.0.0, ImagingJpegEncode() in src/libImaging/JpegEncode.c can call jpeg_write_marker() for a JPEG COM comment when an ICC profile has exactly filled the 65536-byte encoder buffer. libjpeg writes one byte before checking the exhausted free_in_buffer counter, which then wraps and permits the attacker-controlled comment and subsequent compressed image data to overwrite adjacent heap memory. Re-saving an untrusted image as JPEG while preserving i
 
 - [https://github.com/paktiko1986/CVE-2026-96778-pillow](https://github.com/paktiko1986/CVE-2026-96778-pillow) : ![starts](https://img.shields.io/github/stars/paktiko1986/CVE-2026-96778-pillow.svg) ![forks](https://img.shields.io/github/forks/paktiko1986/CVE-2026-96778-pillow.svg)
+
+## CVE-2026-97631
+> EDK2 contains a vulnerability in BIOS where a user may cause “Out-of-bounds
+Write”, Classic
+Buffer Overflow, and “Incorrect Calculation of Buffer Size” by remote access. Successful exploitation of this vulnerability
+can lead to arbitrary
+code execution. It could also impact
+Confidentiality,
+Integrity,
+and Availability.
+
+- [https://github.com/piecar21/CVE-2026-97631](https://github.com/piecar21/CVE-2026-97631) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-97631.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-97631.svg)
+- [https://github.com/slabbdev/uefi-pxe-cve-2026-97631](https://github.com/slabbdev/uefi-pxe-cve-2026-97631) : ![starts](https://img.shields.io/github/stars/slabbdev/uefi-pxe-cve-2026-97631.svg) ![forks](https://img.shields.io/github/forks/slabbdev/uefi-pxe-cve-2026-97631.svg)
 
 ## CVE-2026-98260
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -119,4 +227,6 @@ that PID. pid_task(timer-&gt;it.cpu.pid, PIDTYPE_PID) then returns NULL,
 but the node is still queued on tsk, which
 
 - [https://github.com/4627488/cve-2026-98260-nezha](https://github.com/4627488/cve-2026-98260-nezha) : ![starts](https://img.shields.io/github/stars/4627488/cve-2026-98260-nezha.svg) ![forks](https://img.shields.io/github/forks/4627488/cve-2026-98260-nezha.svg)
+- [https://github.com/colorgarden/CVE-2026-98260-y700-TB321FU-lpe](https://github.com/colorgarden/CVE-2026-98260-y700-TB321FU-lpe) : ![starts](https://img.shields.io/github/stars/colorgarden/CVE-2026-98260-y700-TB321FU-lpe.svg) ![forks](https://img.shields.io/github/forks/colorgarden/CVE-2026-98260-y700-TB321FU-lpe.svg)
+- [https://github.com/kpgc10kai/TimerRoot](https://github.com/kpgc10kai/TimerRoot) : ![starts](https://img.shields.io/github/stars/kpgc10kai/TimerRoot.svg) ![forks](https://img.shields.io/github/forks/kpgc10kai/TimerRoot.svg)
 - [https://github.com/zjns/CVE-2026-98260](https://github.com/zjns/CVE-2026-98260) : ![starts](https://img.shields.io/github/stars/zjns/CVE-2026-98260.svg) ![forks](https://img.shields.io/github/forks/zjns/CVE-2026-98260.svg)

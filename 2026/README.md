@@ -20,6 +20,8 @@
 
 - [https://github.com/foxcornlab/mlflow-scorer-scanner](https://github.com/foxcornlab/mlflow-scorer-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/mlflow-scorer-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/mlflow-scorer-scanner.svg)
 
+- [https://github.com/piecar21/CVE-2026-116692](https://github.com/piecar21/CVE-2026-116692) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-116692.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-116692.svg)
+
 ## CVE-2026-116488
 > NXP MCUXpresso SDK USB middleware (mcuxsdk-middleware-usb) before 2.13.0 contains a heap buffer overflow in host audio, video and CDC class drivers that trust device-supplied bNumEndpoints and bLength values. A malicious USB device can supply crafted descriptors that write endpoint entries past the fixed-size epList array, corrupting heap memory for code execution or denial of service.
 
@@ -130,6 +132,11 @@
 
 - [https://github.com/Hunt-Benito/one-salt-to-forge-them-all-cve-2026-114612-forged-admin-session-in-litellm](https://github.com/Hunt-Benito/one-salt-to-forge-them-all-cve-2026-114612-forged-admin-session-in-litellm) : ![starts](https://img.shields.io/github/stars/Hunt-Benito/one-salt-to-forge-them-all-cve-2026-114612-forged-admin-session-in-litellm.svg) ![forks](https://img.shields.io/github/forks/Hunt-Benito/one-salt-to-forge-them-all-cve-2026-114612-forged-admin-session-in-litellm.svg)
 
+## CVE-2026-114595
+> In EPICS Base release 7.0.10 and prior, an integer overflow in network request processing can cause memory to be allocated with an incorrect size. Subsequent handling of attacker supplied data may result in memory corruption, denial of service, or potential remote code execution.
+
+- [https://github.com/0xBlackash/CVE-2026-114595](https://github.com/0xBlackash/CVE-2026-114595) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-114595.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-114595.svg)
+
 ## CVE-2026-114509
 > Laravel is a web application framework. Prior to 12.68.0 and 13.29.0, TokenGuard configured as a standard token-based API guard does not reject a crafted non-string credential. Under affected MySQL or MariaDB configurations, the authentication lookup can match an unintended existing user, allowing an unauthenticated attacker to bypass authentication and take over an account on routes protected by TokenGuard. This issue is fixed in versions 12.68.0 and 13.29.0.
 
@@ -192,6 +199,11 @@
 > Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) vulnerability in WPFactory Product Filter by WBW woo-product-filter allows Blind SQL Injection.This issue affects Product Filter by WBW: from n/a through 3.4.6.
 
 - [https://github.com/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc](https://github.com/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc) : ![starts](https://img.shields.io/github/stars/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc.svg) ![forks](https://img.shields.io/github/forks/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc.svg)
+
+## CVE-2026-112706
+> A permissions issue was addressed with additional restrictions. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, tvOS 27.2, visionOS 27.2, watchOS 27.2. An app may be able to access sensitive user data.
+
+- [https://github.com/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak](https://github.com/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak) : ![starts](https://img.shields.io/github/stars/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak.svg) ![forks](https://img.shields.io/github/forks/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak.svg)
 
 ## CVE-2026-112611
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. Processing a maliciously crafted PDF file may lead to memory corruption.
@@ -396,6 +408,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/suominen/CVE-2026-111497](https://github.com/suominen/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-111497.svg)
 
 - [https://github.com/thebarel/CVE-2026-111497](https://github.com/thebarel/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/thebarel/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/thebarel/CVE-2026-111497.svg)
+
+- [https://github.com/gik2927/CVE-2026-111497-DOS-](https://github.com/gik2927/CVE-2026-111497-DOS-) : ![starts](https://img.shields.io/github/stars/gik2927/CVE-2026-111497-DOS-.svg) ![forks](https://img.shields.io/github/forks/gik2927/CVE-2026-111497-DOS-.svg)
+
+- [https://github.com/hkoeck/node2shell-status](https://github.com/hkoeck/node2shell-status) : ![starts](https://img.shields.io/github/stars/hkoeck/node2shell-status.svg) ![forks](https://img.shields.io/github/forks/hkoeck/node2shell-status.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -1336,6 +1352,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/lflare/php2shell-cve-2026-109618-109619](https://github.com/lflare/php2shell-cve-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/lflare/php2shell-cve-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/lflare/php2shell-cve-2026-109618-109619.svg)
 
 - [https://github.com/rayaar/php2shellPoc](https://github.com/rayaar/php2shellPoc) : ![starts](https://img.shields.io/github/stars/rayaar/php2shellPoc.svg) ![forks](https://img.shields.io/github/forks/rayaar/php2shellPoc.svg)
+
+- [https://github.com/foxcornlab/php-worker-pin](https://github.com/foxcornlab/php-worker-pin) : ![starts](https://img.shields.io/github/stars/foxcornlab/php-worker-pin.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/php-worker-pin.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -2384,6 +2402,10 @@ but the node is still queued on tsk, which
 
 - [https://github.com/zjns/CVE-2026-98260](https://github.com/zjns/CVE-2026-98260) : ![starts](https://img.shields.io/github/stars/zjns/CVE-2026-98260.svg) ![forks](https://img.shields.io/github/forks/zjns/CVE-2026-98260.svg)
 
+- [https://github.com/colorgarden/CVE-2026-98260-y700-TB321FU-lpe](https://github.com/colorgarden/CVE-2026-98260-y700-TB321FU-lpe) : ![starts](https://img.shields.io/github/stars/colorgarden/CVE-2026-98260-y700-TB321FU-lpe.svg) ![forks](https://img.shields.io/github/forks/colorgarden/CVE-2026-98260-y700-TB321FU-lpe.svg)
+
+- [https://github.com/kpgc10kai/TimerRoot](https://github.com/kpgc10kai/TimerRoot) : ![starts](https://img.shields.io/github/stars/kpgc10kai/TimerRoot.svg) ![forks](https://img.shields.io/github/forks/kpgc10kai/TimerRoot.svg)
+
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -2458,6 +2480,20 @@ allocated an object f
 > The Abandoned Cart Pro for WooCommerce plugin for WordPress is vulnerable to Authentication Bypass via Malleable Encryption and Bypassable HMAC in all versions up to, and including, 10.8.0. This is due to the use of MAC-free AES-CTR encryption for cart-recovery link tokens — where the 8-byte CTR nonce is carried inside the ciphertext blob and the encryption key is looked up using the attacker-supplied `user_email` GET parameter — combined with an HMAC nonce check in `wcap_email_track_links()` th
 
 - [https://github.com/murrez/CVE-2026-97657](https://github.com/murrez/CVE-2026-97657) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-97657.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-97657.svg)
+
+## CVE-2026-97631
+> EDK2 contains a vulnerability in BIOS where a user may cause “Out-of-bounds
+Write”, Classic
+Buffer Overflow, and “Incorrect Calculation of Buffer Size” by remote access. Successful exploitation of this vulnerability
+can lead to arbitrary
+code execution. It could also impact
+Confidentiality,
+Integrity,
+and Availability.
+
+- [https://github.com/slabbdev/uefi-pxe-cve-2026-97631](https://github.com/slabbdev/uefi-pxe-cve-2026-97631) : ![starts](https://img.shields.io/github/stars/slabbdev/uefi-pxe-cve-2026-97631.svg) ![forks](https://img.shields.io/github/forks/slabbdev/uefi-pxe-cve-2026-97631.svg)
+
+- [https://github.com/piecar21/CVE-2026-97631](https://github.com/piecar21/CVE-2026-97631) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-97631.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-97631.svg)
 
 ## CVE-2026-97629
 > Description
@@ -4527,6 +4563,10 @@ This issue affects Pardus LightDM Greeter: before 0.4.15.
 > Improper Access Control in ArgusMonitor.sys in Argotronic eGbR ArgusMonitor 7.4.02 and earlier allows local, low-privileged users to bypass device handle access restrictions via a TOCTOU condition in IRP_MJ_CREATE and send a crafted IOCTL 0x9C4024A8 request, causing denial-of-service.
 
 - [https://github.com/connorjaydunn/CVE-2026-79417](https://github.com/connorjaydunn/CVE-2026-79417) : ![starts](https://img.shields.io/github/stars/connorjaydunn/CVE-2026-79417.svg) ![forks](https://img.shields.io/github/forks/connorjaydunn/CVE-2026-79417.svg)
+
+## CVE-2026-79397
+
+- [https://github.com/jed-parsec/CVE-2026-79397-Authenticated-OS-Command-Injection-in-ONT-4GE-RFDW-Ping-Diagnostics](https://github.com/jed-parsec/CVE-2026-79397-Authenticated-OS-Command-Injection-in-ONT-4GE-RFDW-Ping-Diagnostics) : ![starts](https://img.shields.io/github/stars/jed-parsec/CVE-2026-79397-Authenticated-OS-Command-Injection-in-ONT-4GE-RFDW-Ping-Diagnostics.svg) ![forks](https://img.shields.io/github/forks/jed-parsec/CVE-2026-79397-Authenticated-OS-Command-Injection-in-ONT-4GE-RFDW-Ping-Diagnostics.svg)
 
 ## CVE-2026-79387
  SQL injection vulnerability in PbootCMS versions 3.2.0 through 3.2.5 allows an authenticated user to modify arbitrary user account fields (including passwords and roles) via crafted parameters to the User/mod interface, enabling account takeover.
@@ -12391,6 +12431,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/Syerain/cve-2026-43499-mt6896-pd2238](https://github.com/Syerain/cve-2026-43499-mt6896-pd2238) : ![starts](https://img.shields.io/github/stars/Syerain/cve-2026-43499-mt6896-pd2238.svg) ![forks](https://img.shields.io/github/forks/Syerain/cve-2026-43499-mt6896-pd2238.svg)
 
+- [https://github.com/Syerain/cve-2026-43499-vivo-mt6896](https://github.com/Syerain/cve-2026-43499-vivo-mt6896) : ![starts](https://img.shields.io/github/stars/Syerain/cve-2026-43499-vivo-mt6896.svg) ![forks](https://img.shields.io/github/forks/Syerain/cve-2026-43499-vivo-mt6896.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -14679,6 +14721,10 @@ Version 2.18.0 contains a fix. As a workaround, ensure folder names do not share
 
 - [https://github.com/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-](https://github.com/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-) : ![starts](https://img.shields.io/github/stars/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-.svg) ![forks](https://img.shields.io/github/forks/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-.svg)
 
+## CVE-2026-35223
+
+- [https://github.com/LaRemontada12/CVE-2026-35223-Joomla-Access-Control](https://github.com/LaRemontada12/CVE-2026-35223-Joomla-Access-Control) : ![starts](https://img.shields.io/github/stars/LaRemontada12/CVE-2026-35223-Joomla-Access-Control.svg) ![forks](https://img.shields.io/github/forks/LaRemontada12/CVE-2026-35223-Joomla-Access-Control.svg)
+
 ## CVE-2026-35204
  Helm is a package manager for Charts for Kubernetes. From 4.0.0 to 4.1.3, a specially crafted Helm plugin, when installed or updated, will cause Helm to write the contents of the plugin to an arbitrary filesystem location. To prevent this, validate that the plugin.yaml of the Helm plugin does not include a version: field containing POSIX dot-dot path separators ie. "/../". This vulnerability is fixed in 4.1.4.
 
@@ -16063,6 +16109,8 @@ Reject authenticator lengths that exceed the remaining packet payload.
 - [https://github.com/Lutfifakee-Project/CVE-2026-31635](https://github.com/Lutfifakee-Project/CVE-2026-31635) : ![starts](https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-31635.svg) ![forks](https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-31635.svg)
 
 - [https://github.com/Koshmare-Blossom/DirtyDecrypt-go](https://github.com/Koshmare-Blossom/DirtyDecrypt-go) : ![starts](https://img.shields.io/github/stars/Koshmare-Blossom/DirtyDecrypt-go.svg) ![forks](https://img.shields.io/github/forks/Koshmare-Blossom/DirtyDecrypt-go.svg)
+
+- [https://github.com/piecar21/CVE-2026-31635](https://github.com/piecar21/CVE-2026-31635) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-31635.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-31635.svg)
 
 ## CVE-2026-31606
  In the Linux kernel, the following vulnerability has been resolved:
@@ -20957,6 +21005,8 @@ Note: Cisco has assigned this security advisory a Security Impact Rating (SIR) o
 - [https://github.com/DeadExpl0it/CVE-2026-19632-POC](https://github.com/DeadExpl0it/CVE-2026-19632-POC) : ![starts](https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-19632-POC.svg) ![forks](https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-19632-POC.svg)
 
 - [https://github.com/TheJesterrrr/CVE-2026-19632](https://github.com/TheJesterrrr/CVE-2026-19632) : ![starts](https://img.shields.io/github/stars/TheJesterrrr/CVE-2026-19632.svg) ![forks](https://img.shields.io/github/forks/TheJesterrrr/CVE-2026-19632.svg)
+
+- [https://github.com/piecar21/CVE-2026-19632](https://github.com/piecar21/CVE-2026-19632) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-19632.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-19632.svg)
 
 ## CVE-2026-19626
  A remote code execution vulnerability exists in Tenable Security Center's report generation functionality. An authenticated, non-administrative user could exploit this issue by supplying specially crafted input that is later processed unsafely during server-side report rendering, resulting in arbitrary code execution with the privileges of the service account.

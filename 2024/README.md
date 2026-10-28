@@ -4194,6 +4194,10 @@ Call Trace:
 
 - [https://github.com/IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821) : ![starts](https://img.shields.io/github/stars/IvanGlinkin/CVE-2024-36821.svg) ![forks](https://img.shields.io/github/forks/IvanGlinkin/CVE-2024-36821.svg)
 
+## CVE-2024-36779
+
+- [https://github.com/AgnesAhalya/rw-stock](https://github.com/AgnesAhalya/rw-stock) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-stock.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-stock.svg)
+
 ## CVE-2024-36774
 
 - [https://github.com/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC](https://github.com/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC) : ![starts](https://img.shields.io/github/stars/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC.svg) ![forks](https://img.shields.io/github/forks/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC.svg)
@@ -9704,6 +9708,8 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 
 - [https://github.com/Machine-farmer/vicidial-cve-2024-8503-blind-sqli-poc](https://github.com/Machine-farmer/vicidial-cve-2024-8503-blind-sqli-poc) : ![starts](https://img.shields.io/github/stars/Machine-farmer/vicidial-cve-2024-8503-blind-sqli-poc.svg) ![forks](https://img.shields.io/github/forks/Machine-farmer/vicidial-cve-2024-8503-blind-sqli-poc.svg)
 
+- [https://github.com/piecar21/CVE-2024-8503](https://github.com/piecar21/CVE-2024-8503) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2024-8503.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2024-8503.svg)
+
 ## CVE-2024-8484
  The REST API TO MiniProgram plugin for WordPress is vulnerable to SQL Injection via the 'order' parameter of the /wp-json/watch-life-net/v1/comment/getcomments REST API endpoint in all versions up to, and including, 4.7.1 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 
@@ -10002,6 +10008,8 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [https://github.com/gh-ost00/CVE-2024-7120](https://github.com/gh-ost00/CVE-2024-7120) : ![starts](https://img.shields.io/github/stars/gh-ost00/CVE-2024-7120.svg) ![forks](https://img.shields.io/github/forks/gh-ost00/CVE-2024-7120.svg)
 
 - [https://github.com/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x](https://github.com/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x) : ![starts](https://img.shields.io/github/stars/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x.svg) ![forks](https://img.shields.io/github/forks/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x.svg)
+
+- [https://github.com/piecar21/CVE-2024-7120](https://github.com/piecar21/CVE-2024-7120) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2024-7120.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2024-7120.svg)
 
 ## CVE-2024-7094
  The JS Help Desk – The Ultimate Help Desk & Support Plugin plugin for WordPress is vulnerable to PHP Code Injection leading to Remote Code Execution in all versions up to, and including, 2.8.6 via the 'storeTheme' function. This is due to a lack of sanitization on user-supplied values, which replace values in the style.php file, along with missing capability checks. This makes it possible for unauthenticated attackers to execute code on the server. This issue was partially patched in 2.8.6 when the code injection issue was resolved, and fully patched in 2.8.7 when the missing authorization and cross-site request forgery protection was added. CVE-2024-43274 is likely a duplicate of this issue.
@@ -11049,6 +11057,12 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 
 - [https://github.com/truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) : ![starts](https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4443-Poc.svg) ![forks](https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4443-Poc.svg)
 
+- [https://github.com/piecar21/CVE-2024-4443](https://github.com/piecar21/CVE-2024-4443) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2024-4443.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2024-4443.svg)
+
+## CVE-2024-4442
+
+- [https://github.com/AgnesAhalya/rw-salon](https://github.com/AgnesAhalya/rw-salon) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-salon.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-salon.svg)
+
 ## CVE-2024-4439
  WordPress Core is vulnerable to Stored Cross-Site Scripting via user display names in the Avatar block in various versions up to 6.5.2 due to insufficient output escaping on the display name. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. In addition, it also makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that have the comment block present and display the comment author's avatar.
 
@@ -11232,6 +11246,10 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [https://github.com/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231) : ![starts](https://img.shields.io/github/stars/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231.svg) ![forks](https://img.shields.io/github/forks/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231.svg)
 
 - [https://github.com/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control--CVE-2024--4231](https://github.com/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control--CVE-2024--4231) : ![starts](https://img.shields.io/github/stars/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control--CVE-2024--4231.svg) ![forks](https://img.shields.io/github/forks/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control--CVE-2024--4231.svg)
+
+## CVE-2024-4223
+
+- [https://github.com/AgnesAhalya/rw-tutor](https://github.com/AgnesAhalya/rw-tutor) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-tutor.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-tutor.svg)
 
 ## CVE-2024-4157
  The Contact Form Plugin by Fluent Forms for Quiz, Survey, and Drag & Drop WP Form Builder plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 5.1.15 via deserialization of untrusted input in the extractDynamicValues function. This makes it possible for authenticated attackers, with contributor-level access and above, to inject a PHP Object. If a POP chain is present via an additional plugin or theme installed on the target system, it could allow the attacker to delete arbitrary files, retrieve sensitive data, or execute code. Successful exploitation requires the attacker to have "View Form" and "Manage Form" permissions, which must be explicitly set by an administrator. However, this requirement can be bypassed when this vulnerability is chained with CVE-2024-2771.
@@ -11423,6 +11441,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 
 - [https://github.com/KiPhuong/challenge-cve-2024-3552](https://github.com/KiPhuong/challenge-cve-2024-3552) : ![starts](https://img.shields.io/github/stars/KiPhuong/challenge-cve-2024-3552.svg) ![forks](https://img.shields.io/github/forks/KiPhuong/challenge-cve-2024-3552.svg)
 
+- [https://github.com/AgnesAhalya/rw-web-directory-free](https://github.com/AgnesAhalya/rw-web-directory-free) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-web-directory-free.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-web-directory-free.svg)
+
 ## CVE-2024-3495
  The Country State City Dropdown CF7 plugin for WordPress is vulnerable to SQL Injection via the ‘cnt’ and 'sid' parameters in versions up to, and including, 2.7.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 
@@ -11431,6 +11451,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [https://github.com/zomasec/CVE-2024-3495-POC](https://github.com/zomasec/CVE-2024-3495-POC) : ![starts](https://img.shields.io/github/stars/zomasec/CVE-2024-3495-POC.svg) ![forks](https://img.shields.io/github/forks/zomasec/CVE-2024-3495-POC.svg)
 
 - [https://github.com/deltahdf/CVE-2024_3495](https://github.com/deltahdf/CVE-2024_3495) : ![starts](https://img.shields.io/github/stars/deltahdf/CVE-2024_3495.svg) ![forks](https://img.shields.io/github/forks/deltahdf/CVE-2024_3495.svg)
+
+- [https://github.com/AgnesAhalya/rw-country-state-city-auto-dropdown](https://github.com/AgnesAhalya/rw-country-state-city-auto-dropdown) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-country-state-city-auto-dropdown.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-country-state-city-auto-dropdown.svg)
 
 ## CVE-2024-3435
  A path traversal vulnerability exists in the 'save_settings' endpoint of the parisneo/lollms-webui application, affecting versions up to the latest release before 9.5. The vulnerability arises due to insufficient sanitization of the 'config' parameter in the 'apply_settings' function, allowing an attacker to manipulate the application's configuration by sending specially crafted JSON payloads. This could lead to remote code execution (RCE) by bypassing existing patches designed to mitigate such vulnerabilities.
@@ -11912,6 +11934,8 @@ Through a series of complex obfuscations, the liblzma build process extracts a p
  The Contact Form Plugin by Fluent Forms for Quiz, Survey, and Drag & Drop WP Form Builder plugin for WordPress is vulnerable to privilege escalation due to a missing capability check on the /wp-json/fluentform/v1/managers REST API endpoint in all versions up to, and including, 5.1.16. This makes it possible for unauthenticated attackers to grant users with Fluent Form management permissions which gives them access to all of the plugin's settings and features. This also makes it possible for unauthenticated attackers to delete manager accounts.
 
 - [https://github.com/whale93/CVE-2024-2771-PoC](https://github.com/whale93/CVE-2024-2771-PoC) : ![starts](https://img.shields.io/github/stars/whale93/CVE-2024-2771-PoC.svg) ![forks](https://img.shields.io/github/forks/whale93/CVE-2024-2771-PoC.svg)
+
+- [https://github.com/AgnesAhalya/rw-fluentform](https://github.com/AgnesAhalya/rw-fluentform) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-fluentform.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-fluentform.svg)
 
 ## CVE-2024-2769
  A vulnerability was detected in Campcodes Complete Online Beauty Parlor Management System 1.0. The affected element is an unknown function of the file /admin/admin-profile.php. The manipulation of the argument adminname/email results in sql injection. The attack may be launched remotely. The exploit is now public and may be used.

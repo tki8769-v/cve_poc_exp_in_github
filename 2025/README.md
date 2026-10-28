@@ -2802,6 +2802,8 @@ Users are recommended to upgrade to version 2.8.0, which fixes this issue.
 
 - [https://github.com/casp3r0x0/CVE-2025-58443](https://github.com/casp3r0x0/CVE-2025-58443) : ![starts](https://img.shields.io/github/stars/casp3r0x0/CVE-2025-58443.svg) ![forks](https://img.shields.io/github/forks/casp3r0x0/CVE-2025-58443.svg)
 
+- [https://github.com/piecar21/CVE-2025-58443](https://github.com/piecar21/CVE-2025-58443) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2025-58443.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2025-58443.svg)
+
 ## CVE-2025-58440
  The unisharp/laravel-filemanager is a separate project, unrelated to laravel-filemanager.
 
@@ -4607,6 +4609,8 @@ Users are recommended to upgrade to version 3.2.2, which fixes this issue.
  Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Miguel Useche JS Archive List jquery-archive-list-widget allows SQL Injection.This issue affects JS Archive List: from n/a through  6.1.6.
 
 - [https://github.com/RandomRobbieBF/CVE-2025-54726](https://github.com/RandomRobbieBF/CVE-2025-54726) : ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-54726.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-54726.svg)
+
+- [https://github.com/piecar21/CVE-2025-54726](https://github.com/piecar21/CVE-2025-54726) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2025-54726.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2025-54726.svg)
 
 ## CVE-2025-54677
  Unrestricted Upload of File with Dangerous Type vulnerability in vcita Online Booking & Scheduling Calendar for WordPress by vcita meeting-scheduler-by-vcita allows Using Malicious Files.This issue affects Online Booking & Scheduling Calendar for WordPress by vcita: from n/a through = 4.5.3.
@@ -8805,6 +8809,8 @@ Users are recommended to upgrade to version 9.0.104, 10.1.40 or 11.0.6 which fix
 
 - [https://github.com/Oyst3r1ng/CVE-2025-30567](https://github.com/Oyst3r1ng/CVE-2025-30567) : ![starts](https://img.shields.io/github/stars/Oyst3r1ng/CVE-2025-30567.svg) ![forks](https://img.shields.io/github/forks/Oyst3r1ng/CVE-2025-30567.svg)
 
+- [https://github.com/piecar21/CVE-2025-30567](https://github.com/piecar21/CVE-2025-30567) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2025-30567.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2025-30567.svg)
+
 ## CVE-2025-30468
  This issue was addressed through improved state management. This issue is fixed in iOS 26 and iPadOS 26. Private Browsing tabs may be accessed without authentication.
 
@@ -9458,6 +9464,8 @@ Since Apache Kafka 3.9.1/4.0.0, we have added a system property ("-Dorg.apache.k
 ## CVE-2025-27740
 
 - [https://github.com/Dannners/CVE-2025-27740_POC](https://github.com/Dannners/CVE-2025-27740_POC) : ![starts](https://img.shields.io/github/stars/Dannners/CVE-2025-27740_POC.svg) ![forks](https://img.shields.io/github/forks/Dannners/CVE-2025-27740_POC.svg)
+
+- [https://github.com/tyie949/cve-2025-27740](https://github.com/tyie949/cve-2025-27740) : ![starts](https://img.shields.io/github/stars/tyie949/cve-2025-27740.svg) ![forks](https://img.shields.io/github/forks/tyie949/cve-2025-27740.svg)
 
 ## CVE-2025-27636
  Bypass/Injection vulnerability in Apache Camel components under particular conditions.
@@ -10726,6 +10734,8 @@ Thank you [lio346](https://hackerone.com/lio346) for reporting this!
  Authentication Bypass Using an Alternate Path or Channel vulnerability in Saad Iqbal Post SMTP post-smtp allows Authentication Bypass.This issue affects Post SMTP: from n/a through = 3.2.0.
 
 - [https://github.com/bsdrip/CVE-2025-24000-exploit](https://github.com/bsdrip/CVE-2025-24000-exploit) : ![starts](https://img.shields.io/github/stars/bsdrip/CVE-2025-24000-exploit.svg) ![forks](https://img.shields.io/github/forks/bsdrip/CVE-2025-24000-exploit.svg)
+
+- [https://github.com/piecar21/CVE-2025-24000](https://github.com/piecar21/CVE-2025-24000) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2025-24000.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2025-24000.svg)
 
 ## CVE-2025-23968
  Unrestricted Upload of File with Dangerous Type vulnerability in WebFactory AiBud WP aibuddy-openai-chatgpt allows Upload a Web Shell to a Web Server.This issue affects AiBud WP: from n/a through = 1.9.
@@ -12535,6 +12545,8 @@ The root cause is a combination of missing permissions for write operations in s
 - [https://github.com/sentinel-aidefense/CVE-2025-10035](https://github.com/sentinel-aidefense/CVE-2025-10035) : ![starts](https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-10035.svg) ![forks](https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-10035.svg)
 
 - [https://github.com/orange0Mint/CVE-2025-10035_GoAnywhere](https://github.com/orange0Mint/CVE-2025-10035_GoAnywhere) : ![starts](https://img.shields.io/github/stars/orange0Mint/CVE-2025-10035_GoAnywhere.svg) ![forks](https://img.shields.io/github/forks/orange0Mint/CVE-2025-10035_GoAnywhere.svg)
+
+- [https://github.com/dkchaiv/CVE-2025-10035](https://github.com/dkchaiv/CVE-2025-10035) : ![starts](https://img.shields.io/github/stars/dkchaiv/CVE-2025-10035.svg) ![forks](https://img.shields.io/github/forks/dkchaiv/CVE-2025-10035.svg)
 
 ## CVE-2025-9998
  The sequence of packets received by a Networking server are not correctly checked.

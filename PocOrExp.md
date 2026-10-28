@@ -21,6 +21,8 @@
 
 - [https://github.com/foxcornlab/mlflow-scorer-scanner](https://github.com/foxcornlab/mlflow-scorer-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/mlflow-scorer-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/mlflow-scorer-scanner.svg)
 
+- [https://github.com/piecar21/CVE-2026-116692](https://github.com/piecar21/CVE-2026-116692) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-116692.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-116692.svg)
+
 ## CVE-2026-116488
 > NXP MCUXpresso SDK USB middleware (mcuxsdk-middleware-usb) before 2.13.0 contains a heap buffer overflow in host audio, video and CDC class drivers that trust device-supplied bNumEndpoints and bLength values. A malicious USB device can supply crafted descriptors that write endpoint entries past the fixed-size epList array, corrupting heap memory for code execution or denial of service.
 
@@ -131,6 +133,11 @@
 
 - [https://github.com/Hunt-Benito/one-salt-to-forge-them-all-cve-2026-114612-forged-admin-session-in-litellm](https://github.com/Hunt-Benito/one-salt-to-forge-them-all-cve-2026-114612-forged-admin-session-in-litellm) : ![starts](https://img.shields.io/github/stars/Hunt-Benito/one-salt-to-forge-them-all-cve-2026-114612-forged-admin-session-in-litellm.svg) ![forks](https://img.shields.io/github/forks/Hunt-Benito/one-salt-to-forge-them-all-cve-2026-114612-forged-admin-session-in-litellm.svg)
 
+## CVE-2026-114595
+> In EPICS Base release 7.0.10 and prior, an integer overflow in network request processing can cause memory to be allocated with an incorrect size. Subsequent handling of attacker supplied data may result in memory corruption, denial of service, or potential remote code execution.
+
+- [https://github.com/0xBlackash/CVE-2026-114595](https://github.com/0xBlackash/CVE-2026-114595) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-114595.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-114595.svg)
+
 ## CVE-2026-114509
 > Laravel is a web application framework. Prior to 12.68.0 and 13.29.0, TokenGuard configured as a standard token-based API guard does not reject a crafted non-string credential. Under affected MySQL or MariaDB configurations, the authentication lookup can match an unintended existing user, allowing an unauthenticated attacker to bypass authentication and take over an account on routes protected by TokenGuard. This issue is fixed in versions 12.68.0 and 13.29.0.
 
@@ -193,6 +200,11 @@
 > Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) vulnerability in WPFactory Product Filter by WBW woo-product-filter allows Blind SQL Injection.This issue affects Product Filter by WBW: from n/a through 3.4.6.
 
 - [https://github.com/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc](https://github.com/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc) : ![starts](https://img.shields.io/github/stars/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc.svg) ![forks](https://img.shields.io/github/forks/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc.svg)
+
+## CVE-2026-112706
+> A permissions issue was addressed with additional restrictions. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, tvOS 27.2, visionOS 27.2, watchOS 27.2. An app may be able to access sensitive user data.
+
+- [https://github.com/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak](https://github.com/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak) : ![starts](https://img.shields.io/github/stars/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak.svg) ![forks](https://img.shields.io/github/forks/MchinaMd57764/CVE-2026-112706-CoreMedia-fd-leak.svg)
 
 ## CVE-2026-112611
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. Processing a maliciously crafted PDF file may lead to memory corruption.
@@ -397,6 +409,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/suominen/CVE-2026-111497](https://github.com/suominen/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-111497.svg)
 
 - [https://github.com/thebarel/CVE-2026-111497](https://github.com/thebarel/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/thebarel/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/thebarel/CVE-2026-111497.svg)
+
+- [https://github.com/gik2927/CVE-2026-111497-DOS-](https://github.com/gik2927/CVE-2026-111497-DOS-) : ![starts](https://img.shields.io/github/stars/gik2927/CVE-2026-111497-DOS-.svg) ![forks](https://img.shields.io/github/forks/gik2927/CVE-2026-111497-DOS-.svg)
+
+- [https://github.com/hkoeck/node2shell-status](https://github.com/hkoeck/node2shell-status) : ![starts](https://img.shields.io/github/stars/hkoeck/node2shell-status.svg) ![forks](https://img.shields.io/github/forks/hkoeck/node2shell-status.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -1337,6 +1353,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/lflare/php2shell-cve-2026-109618-109619](https://github.com/lflare/php2shell-cve-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/lflare/php2shell-cve-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/lflare/php2shell-cve-2026-109618-109619.svg)
 
 - [https://github.com/rayaar/php2shellPoc](https://github.com/rayaar/php2shellPoc) : ![starts](https://img.shields.io/github/stars/rayaar/php2shellPoc.svg) ![forks](https://img.shields.io/github/forks/rayaar/php2shellPoc.svg)
+
+- [https://github.com/foxcornlab/php-worker-pin](https://github.com/foxcornlab/php-worker-pin) : ![starts](https://img.shields.io/github/stars/foxcornlab/php-worker-pin.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/php-worker-pin.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -2385,6 +2403,10 @@ but the node is still queued on tsk, which
 
 - [https://github.com/zjns/CVE-2026-98260](https://github.com/zjns/CVE-2026-98260) : ![starts](https://img.shields.io/github/stars/zjns/CVE-2026-98260.svg) ![forks](https://img.shields.io/github/forks/zjns/CVE-2026-98260.svg)
 
+- [https://github.com/colorgarden/CVE-2026-98260-y700-TB321FU-lpe](https://github.com/colorgarden/CVE-2026-98260-y700-TB321FU-lpe) : ![starts](https://img.shields.io/github/stars/colorgarden/CVE-2026-98260-y700-TB321FU-lpe.svg) ![forks](https://img.shields.io/github/forks/colorgarden/CVE-2026-98260-y700-TB321FU-lpe.svg)
+
+- [https://github.com/kpgc10kai/TimerRoot](https://github.com/kpgc10kai/TimerRoot) : ![starts](https://img.shields.io/github/stars/kpgc10kai/TimerRoot.svg) ![forks](https://img.shields.io/github/forks/kpgc10kai/TimerRoot.svg)
+
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -2459,6 +2481,20 @@ allocated an object f
 > The Abandoned Cart Pro for WooCommerce plugin for WordPress is vulnerable to Authentication Bypass via Malleable Encryption and Bypassable HMAC in all versions up to, and including, 10.8.0. This is due to the use of MAC-free AES-CTR encryption for cart-recovery link tokens — where the 8-byte CTR nonce is carried inside the ciphertext blob and the encryption key is looked up using the attacker-supplied `user_email` GET parameter — combined with an HMAC nonce check in `wcap_email_track_links()` th
 
 - [https://github.com/murrez/CVE-2026-97657](https://github.com/murrez/CVE-2026-97657) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-97657.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-97657.svg)
+
+## CVE-2026-97631
+> EDK2 contains a vulnerability in BIOS where a user may cause “Out-of-bounds
+Write”, Classic
+Buffer Overflow, and “Incorrect Calculation of Buffer Size” by remote access. Successful exploitation of this vulnerability
+can lead to arbitrary
+code execution. It could also impact
+Confidentiality,
+Integrity,
+and Availability.
+
+- [https://github.com/slabbdev/uefi-pxe-cve-2026-97631](https://github.com/slabbdev/uefi-pxe-cve-2026-97631) : ![starts](https://img.shields.io/github/stars/slabbdev/uefi-pxe-cve-2026-97631.svg) ![forks](https://img.shields.io/github/forks/slabbdev/uefi-pxe-cve-2026-97631.svg)
+
+- [https://github.com/piecar21/CVE-2026-97631](https://github.com/piecar21/CVE-2026-97631) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-97631.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-97631.svg)
 
 ## CVE-2026-97629
 > Description
@@ -4528,6 +4564,10 @@ This issue affects Pardus LightDM Greeter: before 0.4.15.
 > Improper Access Control in ArgusMonitor.sys in Argotronic eGbR ArgusMonitor 7.4.02 and earlier allows local, low-privileged users to bypass device handle access restrictions via a TOCTOU condition in IRP_MJ_CREATE and send a crafted IOCTL 0x9C4024A8 request, causing denial-of-service.
 
 - [https://github.com/connorjaydunn/CVE-2026-79417](https://github.com/connorjaydunn/CVE-2026-79417) : ![starts](https://img.shields.io/github/stars/connorjaydunn/CVE-2026-79417.svg) ![forks](https://img.shields.io/github/forks/connorjaydunn/CVE-2026-79417.svg)
+
+## CVE-2026-79397
+
+- [https://github.com/jed-parsec/CVE-2026-79397-Authenticated-OS-Command-Injection-in-ONT-4GE-RFDW-Ping-Diagnostics](https://github.com/jed-parsec/CVE-2026-79397-Authenticated-OS-Command-Injection-in-ONT-4GE-RFDW-Ping-Diagnostics) : ![starts](https://img.shields.io/github/stars/jed-parsec/CVE-2026-79397-Authenticated-OS-Command-Injection-in-ONT-4GE-RFDW-Ping-Diagnostics.svg) ![forks](https://img.shields.io/github/forks/jed-parsec/CVE-2026-79397-Authenticated-OS-Command-Injection-in-ONT-4GE-RFDW-Ping-Diagnostics.svg)
 
 ## CVE-2026-79387
  SQL injection vulnerability in PbootCMS versions 3.2.0 through 3.2.5 allows an authenticated user to modify arbitrary user account fields (including passwords and roles) via crafted parameters to the User/mod interface, enabling account takeover.
@@ -12392,6 +12432,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/Syerain/cve-2026-43499-mt6896-pd2238](https://github.com/Syerain/cve-2026-43499-mt6896-pd2238) : ![starts](https://img.shields.io/github/stars/Syerain/cve-2026-43499-mt6896-pd2238.svg) ![forks](https://img.shields.io/github/forks/Syerain/cve-2026-43499-mt6896-pd2238.svg)
 
+- [https://github.com/Syerain/cve-2026-43499-vivo-mt6896](https://github.com/Syerain/cve-2026-43499-vivo-mt6896) : ![starts](https://img.shields.io/github/stars/Syerain/cve-2026-43499-vivo-mt6896.svg) ![forks](https://img.shields.io/github/forks/Syerain/cve-2026-43499-vivo-mt6896.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -14680,6 +14722,10 @@ Version 2.18.0 contains a fix. As a workaround, ensure folder names do not share
 
 - [https://github.com/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-](https://github.com/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-) : ![starts](https://img.shields.io/github/stars/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-.svg) ![forks](https://img.shields.io/github/forks/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-.svg)
 
+## CVE-2026-35223
+
+- [https://github.com/LaRemontada12/CVE-2026-35223-Joomla-Access-Control](https://github.com/LaRemontada12/CVE-2026-35223-Joomla-Access-Control) : ![starts](https://img.shields.io/github/stars/LaRemontada12/CVE-2026-35223-Joomla-Access-Control.svg) ![forks](https://img.shields.io/github/forks/LaRemontada12/CVE-2026-35223-Joomla-Access-Control.svg)
+
 ## CVE-2026-35204
  Helm is a package manager for Charts for Kubernetes. From 4.0.0 to 4.1.3, a specially crafted Helm plugin, when installed or updated, will cause Helm to write the contents of the plugin to an arbitrary filesystem location. To prevent this, validate that the plugin.yaml of the Helm plugin does not include a version: field containing POSIX dot-dot path separators ie. "/../". This vulnerability is fixed in 4.1.4.
 
@@ -16064,6 +16110,8 @@ Reject authenticator lengths that exceed the remaining packet payload.
 - [https://github.com/Lutfifakee-Project/CVE-2026-31635](https://github.com/Lutfifakee-Project/CVE-2026-31635) : ![starts](https://img.shields.io/github/stars/Lutfifakee-Project/CVE-2026-31635.svg) ![forks](https://img.shields.io/github/forks/Lutfifakee-Project/CVE-2026-31635.svg)
 
 - [https://github.com/Koshmare-Blossom/DirtyDecrypt-go](https://github.com/Koshmare-Blossom/DirtyDecrypt-go) : ![starts](https://img.shields.io/github/stars/Koshmare-Blossom/DirtyDecrypt-go.svg) ![forks](https://img.shields.io/github/forks/Koshmare-Blossom/DirtyDecrypt-go.svg)
+
+- [https://github.com/piecar21/CVE-2026-31635](https://github.com/piecar21/CVE-2026-31635) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-31635.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-31635.svg)
 
 ## CVE-2026-31606
  In the Linux kernel, the following vulnerability has been resolved:
@@ -20958,6 +21006,8 @@ Note: Cisco has assigned this security advisory a Security Impact Rating (SIR) o
 - [https://github.com/DeadExpl0it/CVE-2026-19632-POC](https://github.com/DeadExpl0it/CVE-2026-19632-POC) : ![starts](https://img.shields.io/github/stars/DeadExpl0it/CVE-2026-19632-POC.svg) ![forks](https://img.shields.io/github/forks/DeadExpl0it/CVE-2026-19632-POC.svg)
 
 - [https://github.com/TheJesterrrr/CVE-2026-19632](https://github.com/TheJesterrrr/CVE-2026-19632) : ![starts](https://img.shields.io/github/stars/TheJesterrrr/CVE-2026-19632.svg) ![forks](https://img.shields.io/github/forks/TheJesterrrr/CVE-2026-19632.svg)
+
+- [https://github.com/piecar21/CVE-2026-19632](https://github.com/piecar21/CVE-2026-19632) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-19632.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-19632.svg)
 
 ## CVE-2026-19626
  A remote code execution vulnerability exists in Tenable Security Center's report generation functionality. An authenticated, non-administrative user could exploit this issue by supplying specially crafted input that is later processed unsafely during server-side report rendering, resulting in arbitrary code execution with the privileges of the service account.
@@ -28494,6 +28544,8 @@ Users are recommended to upgrade to version 2.8.0, which fixes this issue.
 
 - [https://github.com/casp3r0x0/CVE-2025-58443](https://github.com/casp3r0x0/CVE-2025-58443) : ![starts](https://img.shields.io/github/stars/casp3r0x0/CVE-2025-58443.svg) ![forks](https://img.shields.io/github/forks/casp3r0x0/CVE-2025-58443.svg)
 
+- [https://github.com/piecar21/CVE-2025-58443](https://github.com/piecar21/CVE-2025-58443) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2025-58443.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2025-58443.svg)
+
 ## CVE-2025-58440
  The unisharp/laravel-filemanager is a separate project, unrelated to laravel-filemanager.
 
@@ -30299,6 +30351,8 @@ Users are recommended to upgrade to version 3.2.2, which fixes this issue.
  Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Miguel Useche JS Archive List jquery-archive-list-widget allows SQL Injection.This issue affects JS Archive List: from n/a through  6.1.6.
 
 - [https://github.com/RandomRobbieBF/CVE-2025-54726](https://github.com/RandomRobbieBF/CVE-2025-54726) : ![starts](https://img.shields.io/github/stars/RandomRobbieBF/CVE-2025-54726.svg) ![forks](https://img.shields.io/github/forks/RandomRobbieBF/CVE-2025-54726.svg)
+
+- [https://github.com/piecar21/CVE-2025-54726](https://github.com/piecar21/CVE-2025-54726) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2025-54726.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2025-54726.svg)
 
 ## CVE-2025-54677
  Unrestricted Upload of File with Dangerous Type vulnerability in vcita Online Booking & Scheduling Calendar for WordPress by vcita meeting-scheduler-by-vcita allows Using Malicious Files.This issue affects Online Booking & Scheduling Calendar for WordPress by vcita: from n/a through = 4.5.3.
@@ -34497,6 +34551,8 @@ Users are recommended to upgrade to version 9.0.104, 10.1.40 or 11.0.6 which fix
 
 - [https://github.com/Oyst3r1ng/CVE-2025-30567](https://github.com/Oyst3r1ng/CVE-2025-30567) : ![starts](https://img.shields.io/github/stars/Oyst3r1ng/CVE-2025-30567.svg) ![forks](https://img.shields.io/github/forks/Oyst3r1ng/CVE-2025-30567.svg)
 
+- [https://github.com/piecar21/CVE-2025-30567](https://github.com/piecar21/CVE-2025-30567) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2025-30567.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2025-30567.svg)
+
 ## CVE-2025-30468
  This issue was addressed through improved state management. This issue is fixed in iOS 26 and iPadOS 26. Private Browsing tabs may be accessed without authentication.
 
@@ -35150,6 +35206,8 @@ Since Apache Kafka 3.9.1/4.0.0, we have added a system property ("-Dorg.apache.k
 ## CVE-2025-27740
 
 - [https://github.com/Dannners/CVE-2025-27740_POC](https://github.com/Dannners/CVE-2025-27740_POC) : ![starts](https://img.shields.io/github/stars/Dannners/CVE-2025-27740_POC.svg) ![forks](https://img.shields.io/github/forks/Dannners/CVE-2025-27740_POC.svg)
+
+- [https://github.com/tyie949/cve-2025-27740](https://github.com/tyie949/cve-2025-27740) : ![starts](https://img.shields.io/github/stars/tyie949/cve-2025-27740.svg) ![forks](https://img.shields.io/github/forks/tyie949/cve-2025-27740.svg)
 
 ## CVE-2025-27636
  Bypass/Injection vulnerability in Apache Camel components under particular conditions.
@@ -36418,6 +36476,8 @@ Thank you [lio346](https://hackerone.com/lio346) for reporting this!
  Authentication Bypass Using an Alternate Path or Channel vulnerability in Saad Iqbal Post SMTP post-smtp allows Authentication Bypass.This issue affects Post SMTP: from n/a through = 3.2.0.
 
 - [https://github.com/bsdrip/CVE-2025-24000-exploit](https://github.com/bsdrip/CVE-2025-24000-exploit) : ![starts](https://img.shields.io/github/stars/bsdrip/CVE-2025-24000-exploit.svg) ![forks](https://img.shields.io/github/forks/bsdrip/CVE-2025-24000-exploit.svg)
+
+- [https://github.com/piecar21/CVE-2025-24000](https://github.com/piecar21/CVE-2025-24000) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2025-24000.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2025-24000.svg)
 
 ## CVE-2025-23968
  Unrestricted Upload of File with Dangerous Type vulnerability in WebFactory AiBud WP aibuddy-openai-chatgpt allows Upload a Web Shell to a Web Server.This issue affects AiBud WP: from n/a through = 1.9.
@@ -38227,6 +38287,8 @@ The root cause is a combination of missing permissions for write operations in s
 - [https://github.com/sentinel-aidefense/CVE-2025-10035](https://github.com/sentinel-aidefense/CVE-2025-10035) : ![starts](https://img.shields.io/github/stars/sentinel-aidefense/CVE-2025-10035.svg) ![forks](https://img.shields.io/github/forks/sentinel-aidefense/CVE-2025-10035.svg)
 
 - [https://github.com/orange0Mint/CVE-2025-10035_GoAnywhere](https://github.com/orange0Mint/CVE-2025-10035_GoAnywhere) : ![starts](https://img.shields.io/github/stars/orange0Mint/CVE-2025-10035_GoAnywhere.svg) ![forks](https://img.shields.io/github/forks/orange0Mint/CVE-2025-10035_GoAnywhere.svg)
+
+- [https://github.com/dkchaiv/CVE-2025-10035](https://github.com/dkchaiv/CVE-2025-10035) : ![starts](https://img.shields.io/github/stars/dkchaiv/CVE-2025-10035.svg) ![forks](https://img.shields.io/github/forks/dkchaiv/CVE-2025-10035.svg)
 
 ## CVE-2025-9998
  The sequence of packets received by a Networking server are not correctly checked.
@@ -45523,6 +45585,10 @@ Call Trace:
 
 - [https://github.com/IvanGlinkin/CVE-2024-36821](https://github.com/IvanGlinkin/CVE-2024-36821) : ![starts](https://img.shields.io/github/stars/IvanGlinkin/CVE-2024-36821.svg) ![forks](https://img.shields.io/github/forks/IvanGlinkin/CVE-2024-36821.svg)
 
+## CVE-2024-36779
+
+- [https://github.com/AgnesAhalya/rw-stock](https://github.com/AgnesAhalya/rw-stock) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-stock.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-stock.svg)
+
 ## CVE-2024-36774
 
 - [https://github.com/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC](https://github.com/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC) : ![starts](https://img.shields.io/github/stars/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC.svg) ![forks](https://img.shields.io/github/forks/PawFV/CVE-2024-36774-Monstra-CMS-RCE-PoC.svg)
@@ -51033,6 +51099,8 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 
 - [https://github.com/Machine-farmer/vicidial-cve-2024-8503-blind-sqli-poc](https://github.com/Machine-farmer/vicidial-cve-2024-8503-blind-sqli-poc) : ![starts](https://img.shields.io/github/stars/Machine-farmer/vicidial-cve-2024-8503-blind-sqli-poc.svg) ![forks](https://img.shields.io/github/forks/Machine-farmer/vicidial-cve-2024-8503-blind-sqli-poc.svg)
 
+- [https://github.com/piecar21/CVE-2024-8503](https://github.com/piecar21/CVE-2024-8503) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2024-8503.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2024-8503.svg)
+
 ## CVE-2024-8484
  The REST API TO MiniProgram plugin for WordPress is vulnerable to SQL Injection via the 'order' parameter of the /wp-json/watch-life-net/v1/comment/getcomments REST API endpoint in all versions up to, and including, 4.7.1 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 
@@ -51331,6 +51399,8 @@ The issue was partially fixed in version 2.3.8 and fully fixed in 2.3.9
 - [https://github.com/gh-ost00/CVE-2024-7120](https://github.com/gh-ost00/CVE-2024-7120) : ![starts](https://img.shields.io/github/stars/gh-ost00/CVE-2024-7120.svg) ![forks](https://img.shields.io/github/forks/gh-ost00/CVE-2024-7120.svg)
 
 - [https://github.com/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x](https://github.com/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x) : ![starts](https://img.shields.io/github/stars/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x.svg) ![forks](https://img.shields.io/github/forks/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x.svg)
+
+- [https://github.com/piecar21/CVE-2024-7120](https://github.com/piecar21/CVE-2024-7120) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2024-7120.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2024-7120.svg)
 
 ## CVE-2024-7094
  The JS Help Desk – The Ultimate Help Desk & Support Plugin plugin for WordPress is vulnerable to PHP Code Injection leading to Remote Code Execution in all versions up to, and including, 2.8.6 via the 'storeTheme' function. This is due to a lack of sanitization on user-supplied values, which replace values in the style.php file, along with missing capability checks. This makes it possible for unauthenticated attackers to execute code on the server. This issue was partially patched in 2.8.6 when the code injection issue was resolved, and fully patched in 2.8.7 when the missing authorization and cross-site request forgery protection was added. CVE-2024-43274 is likely a duplicate of this issue.
@@ -52378,6 +52448,12 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 
 - [https://github.com/truonghuuphuc/CVE-2024-4443-Poc](https://github.com/truonghuuphuc/CVE-2024-4443-Poc) : ![starts](https://img.shields.io/github/stars/truonghuuphuc/CVE-2024-4443-Poc.svg) ![forks](https://img.shields.io/github/forks/truonghuuphuc/CVE-2024-4443-Poc.svg)
 
+- [https://github.com/piecar21/CVE-2024-4443](https://github.com/piecar21/CVE-2024-4443) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2024-4443.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2024-4443.svg)
+
+## CVE-2024-4442
+
+- [https://github.com/AgnesAhalya/rw-salon](https://github.com/AgnesAhalya/rw-salon) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-salon.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-salon.svg)
+
 ## CVE-2024-4439
  WordPress Core is vulnerable to Stored Cross-Site Scripting via user display names in the Avatar block in various versions up to 6.5.2 due to insufficient output escaping on the display name. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. In addition, it also makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that have the comment block present and display the comment author's avatar.
 
@@ -52561,6 +52637,10 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [https://github.com/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231](https://github.com/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231) : ![starts](https://img.shields.io/github/stars/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231.svg) ![forks](https://img.shields.io/github/forks/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control-CVE-2024-4231.svg)
 
 - [https://github.com/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control--CVE-2024--4231](https://github.com/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control--CVE-2024--4231) : ![starts](https://img.shields.io/github/stars/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control--CVE-2024--4231.svg) ![forks](https://img.shields.io/github/forks/Redfox-Security/Digisol-DG-GR1321-s-Improper-Access-Control--CVE-2024--4231.svg)
+
+## CVE-2024-4223
+
+- [https://github.com/AgnesAhalya/rw-tutor](https://github.com/AgnesAhalya/rw-tutor) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-tutor.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-tutor.svg)
 
 ## CVE-2024-4157
  The Contact Form Plugin by Fluent Forms for Quiz, Survey, and Drag & Drop WP Form Builder plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 5.1.15 via deserialization of untrusted input in the extractDynamicValues function. This makes it possible for authenticated attackers, with contributor-level access and above, to inject a PHP Object. If a POP chain is present via an additional plugin or theme installed on the target system, it could allow the attacker to delete arbitrary files, retrieve sensitive data, or execute code. Successful exploitation requires the attacker to have "View Form" and "Manage Form" permissions, which must be explicitly set by an administrator. However, this requirement can be bypassed when this vulnerability is chained with CVE-2024-2771.
@@ -52752,6 +52832,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 
 - [https://github.com/KiPhuong/challenge-cve-2024-3552](https://github.com/KiPhuong/challenge-cve-2024-3552) : ![starts](https://img.shields.io/github/stars/KiPhuong/challenge-cve-2024-3552.svg) ![forks](https://img.shields.io/github/forks/KiPhuong/challenge-cve-2024-3552.svg)
 
+- [https://github.com/AgnesAhalya/rw-web-directory-free](https://github.com/AgnesAhalya/rw-web-directory-free) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-web-directory-free.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-web-directory-free.svg)
+
 ## CVE-2024-3495
  The Country State City Dropdown CF7 plugin for WordPress is vulnerable to SQL Injection via the ‘cnt’ and 'sid' parameters in versions up to, and including, 2.7.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 
@@ -52760,6 +52842,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [https://github.com/zomasec/CVE-2024-3495-POC](https://github.com/zomasec/CVE-2024-3495-POC) : ![starts](https://img.shields.io/github/stars/zomasec/CVE-2024-3495-POC.svg) ![forks](https://img.shields.io/github/forks/zomasec/CVE-2024-3495-POC.svg)
 
 - [https://github.com/deltahdf/CVE-2024_3495](https://github.com/deltahdf/CVE-2024_3495) : ![starts](https://img.shields.io/github/stars/deltahdf/CVE-2024_3495.svg) ![forks](https://img.shields.io/github/forks/deltahdf/CVE-2024_3495.svg)
+
+- [https://github.com/AgnesAhalya/rw-country-state-city-auto-dropdown](https://github.com/AgnesAhalya/rw-country-state-city-auto-dropdown) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-country-state-city-auto-dropdown.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-country-state-city-auto-dropdown.svg)
 
 ## CVE-2024-3435
  A path traversal vulnerability exists in the 'save_settings' endpoint of the parisneo/lollms-webui application, affecting versions up to the latest release before 9.5. The vulnerability arises due to insufficient sanitization of the 'config' parameter in the 'apply_settings' function, allowing an attacker to manipulate the application's configuration by sending specially crafted JSON payloads. This could lead to remote code execution (RCE) by bypassing existing patches designed to mitigate such vulnerabilities.
@@ -53241,6 +53325,8 @@ Through a series of complex obfuscations, the liblzma build process extracts a p
  The Contact Form Plugin by Fluent Forms for Quiz, Survey, and Drag & Drop WP Form Builder plugin for WordPress is vulnerable to privilege escalation due to a missing capability check on the /wp-json/fluentform/v1/managers REST API endpoint in all versions up to, and including, 5.1.16. This makes it possible for unauthenticated attackers to grant users with Fluent Form management permissions which gives them access to all of the plugin's settings and features. This also makes it possible for unauthenticated attackers to delete manager accounts.
 
 - [https://github.com/whale93/CVE-2024-2771-PoC](https://github.com/whale93/CVE-2024-2771-PoC) : ![starts](https://img.shields.io/github/stars/whale93/CVE-2024-2771-PoC.svg) ![forks](https://img.shields.io/github/forks/whale93/CVE-2024-2771-PoC.svg)
+
+- [https://github.com/AgnesAhalya/rw-fluentform](https://github.com/AgnesAhalya/rw-fluentform) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-fluentform.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-fluentform.svg)
 
 ## CVE-2024-2769
  A vulnerability was detected in Campcodes Complete Online Beauty Parlor Management System 1.0. The affected element is an unknown function of the file /admin/admin-profile.php. The manipulation of the argument adminname/email results in sql injection. The attack may be launched remotely. The exploit is now public and may be used.
@@ -56351,6 +56437,8 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
  The issue was addressed with improved checks. This issue is fixed in iOS 16.7.1 and iPadOS 16.7.1. A local attacker may be able to elevate their privileges. Apple is aware of a report that this issue may have been actively exploited against versions of iOS before iOS 16.6.
 
 - [https://github.com/619555798/cve-2023-42824](https://github.com/619555798/cve-2023-42824) : ![starts](https://img.shields.io/github/stars/619555798/cve-2023-42824.svg) ![forks](https://img.shields.io/github/forks/619555798/cve-2023-42824.svg)
+
+- [https://github.com/piecar21/CVE-2023-42824](https://github.com/piecar21/CVE-2023-42824) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2023-42824.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2023-42824.svg)
 
 ## CVE-2023-42820
  JumpServer is an open source bastion host. This vulnerability is due to exposing the random number seed to the API, potentially allowing the randomly generated verification codes to be replayed, which could lead to password resets. If MFA is enabled users are not affect. Users not using local authentication are also not affected. Users are advised to upgrade to either version 2.28.19 or to 3.6.5. There are no known workarounds or this issue.
