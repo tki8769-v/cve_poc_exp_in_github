@@ -743,6 +743,8 @@
 
 - [https://github.com/Almandev/Sub-folderFetcher](https://github.com/Almandev/Sub-folderFetcher) : ![starts](https://img.shields.io/github/stars/Almandev/Sub-folderFetcher.svg) ![forks](https://img.shields.io/github/forks/Almandev/Sub-folderFetcher.svg)
 
+- [https://github.com/ght657/work1-secure-api](https://github.com/ght657/work1-secure-api) : ![starts](https://img.shields.io/github/stars/ght657/work1-secure-api.svg) ![forks](https://img.shields.io/github/forks/ght657/work1-secure-api.svg)
+
 ## CVE-2018-17240
  There is a memory dump vulnerability on Netwave IP camera devices at //proc/kcore that allows an unauthenticated attacker to exfiltrate sensitive information from the network configuration (e.g., username and password).
 

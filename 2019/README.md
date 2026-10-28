@@ -571,6 +571,8 @@ use after free.
 
 - [https://github.com/luuquy/DecryptRawdata_CVE_2019_18935](https://github.com/luuquy/DecryptRawdata_CVE_2019_18935) : ![starts](https://img.shields.io/github/stars/luuquy/DecryptRawdata_CVE_2019_18935.svg) ![forks](https://img.shields.io/github/forks/luuquy/DecryptRawdata_CVE_2019_18935.svg)
 
+- [https://github.com/piecar21/CVE-2019-18935](https://github.com/piecar21/CVE-2019-18935) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2019-18935.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2019-18935.svg)
+
 ## CVE-2019-18890
  A SQL injection vulnerability in Redmine through 3.2.9 and 3.3.x before 3.3.10 allows Redmine users to access protected information via a crafted object query.
 

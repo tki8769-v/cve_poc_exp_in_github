@@ -35,6 +35,8 @@
 
 - [https://github.com/LongWayHomie/CVE-2017-1000486](https://github.com/LongWayHomie/CVE-2017-1000486) : ![starts](https://img.shields.io/github/stars/LongWayHomie/CVE-2017-1000486.svg) ![forks](https://img.shields.io/github/forks/LongWayHomie/CVE-2017-1000486.svg)
 
+- [https://github.com/keitan339/primefaces-cve-2017-1000486](https://github.com/keitan339/primefaces-cve-2017-1000486) : ![starts](https://img.shields.io/github/stars/keitan339/primefaces-cve-2017-1000486.svg) ![forks](https://img.shields.io/github/forks/keitan339/primefaces-cve-2017-1000486.svg)
+
 ## CVE-2017-1000475
  FreeSSHd 1.3.1 version is vulnerable to an Unquoted Path Service allowing local users to launch processes with elevated privileges.
 
