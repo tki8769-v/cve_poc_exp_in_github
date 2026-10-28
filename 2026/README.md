@@ -16881,6 +16881,10 @@ AD directly.
 
 - [https://github.com/Venshell/copy-fail-CVE-2026-31431-aarch64](https://github.com/Venshell/copy-fail-CVE-2026-31431-aarch64) : ![starts](https://img.shields.io/github/stars/Venshell/copy-fail-CVE-2026-31431-aarch64.svg) ![forks](https://img.shields.io/github/forks/Venshell/copy-fail-CVE-2026-31431-aarch64.svg)
 
+- [https://github.com/toxy4ny/copy-fail-exploit-on-c-redteam](https://github.com/toxy4ny/copy-fail-exploit-on-c-redteam) : ![starts](https://img.shields.io/github/stars/toxy4ny/copy-fail-exploit-on-c-redteam.svg) ![forks](https://img.shields.io/github/forks/toxy4ny/copy-fail-exploit-on-c-redteam.svg)
+
+- [https://github.com/Isw-9/copy-fail-cve-2026-31431-aarch64](https://github.com/Isw-9/copy-fail-cve-2026-31431-aarch64) : ![starts](https://img.shields.io/github/stars/Isw-9/copy-fail-cve-2026-31431-aarch64.svg) ![forks](https://img.shields.io/github/forks/Isw-9/copy-fail-cve-2026-31431-aarch64.svg)
+
 ## CVE-2026-31429
  In the Linux kernel, the following vulnerability has been resolved:
 
