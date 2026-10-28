@@ -5159,3 +5159,9 @@
 {"cve_id": "CVE-2026-116692", "ts": "2026-10-28T07:09:29Z", "type": "new_poc", "url": "https://github.com/foxcornlab/mlflow-scorer-scanner"}
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-28T07:09:49Z", "type": "new_poc", "url": "https://github.com/thebarel/CVE-2026-111497"}
 {"cve_id": "CVE-2026-115560", "ts": "2026-10-28T07:09:58Z", "type": "new_poc", "url": "https://github.com/Pr0fEs0r-X/PHP2SHELL-Checker-v-1.0-CVE-2026-115560-"}
+{"cve_id": "CVE-2026-107458", "ts": "2026-10-28T07:21:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111054", "ts": "2026-10-28T07:21:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-39928", "ts": "2026-10-28T07:23:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97028", "ts": "2026-10-28T07:29:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-9539", "ts": "2026-10-28T07:33:46Z", "type": "new_poc", "url": "https://github.com/quarkslab/slirp_snapshots_stateful"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-28T07:33:46Z", "type": "new_poc", "url": "https://github.com/rayaar/php2shellPoc"}

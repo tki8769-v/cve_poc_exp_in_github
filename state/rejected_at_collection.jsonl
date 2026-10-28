@@ -2242,3 +2242,10 @@
 {"cve_id": "CVE-2025-5844", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T07:12:35Z", "url": "https://github.com/casp3r0x0/CVE-2025-58443", "url_ids": ["CVE-2025-58443"]}
 {"cve_id": "CVE-2026-3003", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T07:14:39Z", "url": "https://github.com/bx33661/CVE-2026-30039", "url_ids": ["CVE-2026-30039"]}
 {"cve_id": "CVE-2025-6129", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T07:16:40Z", "url": "https://github.com/GovindPalakkal/CVE-2025-61299_POC", "url_ids": ["CVE-2025-61299"]}
+{"cve_id": "CVE-2025-4540", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T07:35:50Z", "url": "https://github.com/yallasec/CVE-2025-45407", "url_ids": ["CVE-2025-45407"]}
+{"cve_id": "CVE-2026-3533", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T07:36:50Z", "url": "https://github.com/JohannesLks/CVE-2026-35330", "url_ids": ["CVE-2026-35330"]}
+{"cve_id": "CVE-2026-3533", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T07:36:50Z", "url": "https://github.com/JohannesLks/CVE-2026-35333", "url_ids": ["CVE-2026-35333"]}
+{"cve_id": "CVE-2019-1279", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T07:37:45Z", "url": "https://github.com/PeterUpfold/CVE-2019-12796", "url_ids": ["CVE-2019-12796"]}
+{"cve_id": "CVE-2025-6002", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T07:39:45Z", "url": "https://github.com/Mefhika120/Ashwesker-CVE-2025-60021", "url_ids": ["CVE-2025-60021"]}
+{"cve_id": "CVE-2026-3869", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T07:39:52Z", "url": "https://github.com/vital-information-resource-under-siege/CVE-2026-38698-and-CVE-2026-38699", "url_ids": ["CVE-2026-38698", "CVE-2026-38699"]}
+{"cve_id": "CVE-2026-5177", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T07:42:50Z", "url": "https://github.com/sadandbset/CVE-2026-51772-CVE-2026-51773", "url_ids": ["CVE-2026-51772", "CVE-2026-51773"]}
