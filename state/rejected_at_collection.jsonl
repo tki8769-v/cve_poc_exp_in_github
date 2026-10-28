@@ -2254,3 +2254,15 @@
 {"cve_id": "CVE-2021-2173", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:32:29Z", "url": "https://github.com/minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise", "url_ids": ["CVE-2021-21735"]}
 {"cve_id": "CVE-2021-3395", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:37:34Z", "url": "https://github.com/lixiang957/CVE-2021-33959", "url_ids": ["CVE-2021-33959"]}
 {"cve_id": "CVE-2025-5555", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:40:51Z", "url": "https://github.com/aydin5245/CVE-2025-55555-CVE", "url_ids": ["CVE-2025-55555"]}
+{"cve_id": "CVE-2019-1987", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:50:24Z", "url": "https://github.com/VDISEC/CVE-2019-19871-AuditGuide", "url_ids": ["CVE-2019-19871"]}
+{"cve_id": "CVE-2024-3196", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:51:24Z", "url": "https://github.com/d-Raco/CVE-2024-31964", "url_ids": ["CVE-2024-31964"]}
+{"cve_id": "CVE-2024-3196", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:51:24Z", "url": "https://github.com/gmh5225/CVE-2024-31969", "url_ids": ["CVE-2024-31969"]}
+{"cve_id": "CVE-2025-1426", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:52:32Z", "url": "https://github.com/r0binak/CVE-2025-14269", "url_ids": ["CVE-2025-14269"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:53:38Z", "url": "https://github.com/sfewer-r7/CVE-2026-63077", "url_ids": ["CVE-2026-63077"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:53:38Z", "url": "https://github.com/0xBlackash/CVE-2026-63072", "url_ids": ["CVE-2026-63072"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:53:38Z", "url": "https://github.com/0xCyp1337/CVE-2026-63077", "url_ids": ["CVE-2026-63077"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:53:38Z", "url": "https://github.com/AnggaTechI/CVE-2026-63077", "url_ids": ["CVE-2026-63077"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:53:38Z", "url": "https://github.com/bakos-sandor-nx/teamcity-cve-2026-63077-remediation", "url_ids": ["CVE-2026-63077"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:53:38Z", "url": "https://github.com/unveiledhistory49/teamcity-cve-2026-63077-remediation", "url_ids": ["CVE-2026-63077"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:53:38Z", "url": "https://github.com/BoredHackerBlog/teamcity-CVE-2026-63077-pcap", "url_ids": ["CVE-2026-63077"]}
+{"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T16:53:38Z", "url": "https://github.com/basesixtythree/B63-POC-CVE-2026-63077", "url_ids": ["CVE-2026-63077"]}
