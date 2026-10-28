@@ -87,6 +87,8 @@
 
 - [https://github.com/foxcornlab/zip-cloaking-scanner](https://github.com/foxcornlab/zip-cloaking-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/zip-cloaking-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/zip-cloaking-scanner.svg)
 
+- [https://github.com/cosmonic-labs/demo-zip-rce-sandbox](https://github.com/cosmonic-labs/demo-zip-rce-sandbox) : ![starts](https://img.shields.io/github/stars/cosmonic-labs/demo-zip-rce-sandbox.svg) ![forks](https://img.shields.io/github/forks/cosmonic-labs/demo-zip-rce-sandbox.svg)
+
 ## CVE-2026-115893
 > Wasmtime is a runtime for WebAssembly. Prior to 36.0.19, 48.0.7, and 49.0.4, the Cranelift compiler backend on aarch64 can compile a Wasm br_table instruction with more than approximately 256,000 targets so that it has an incorrect conditional branch target. The branch can then jump to arbitrary other code at a user-controlled offset, allowing a user-controlled Wasm module to escape the sandbox on aarch64 engines using the default Cranelift backend. This issue is fixed in versions 36.0.19, 48.0.
 
@@ -126,6 +128,13 @@
 ## CVE-2026-114820
 
 - [https://github.com/joedayz/cve-2026-114820-java-scan](https://github.com/joedayz/cve-2026-114820-java-scan) : ![starts](https://img.shields.io/github/stars/joedayz/cve-2026-114820-java-scan.svg) ![forks](https://img.shields.io/github/forks/joedayz/cve-2026-114820-java-scan.svg)
+
+## CVE-2026-114625
+> VeloCloud Orchestrator (VCO) on-prem has a security issue where this issue may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality, integrity, and availability of the orchestrator and data managed by the orchestrator.
+
+On an affected system, any authenticated user can gain operator privileges and masquerade as a local &quot;superuser operator&quot; user. This includes access to functionality that is intende
+
+- [https://github.com/emirwtz/CVE-2026-114625](https://github.com/emirwtz/CVE-2026-114625) : ![starts](https://img.shields.io/github/stars/emirwtz/CVE-2026-114625.svg) ![forks](https://img.shields.io/github/forks/emirwtz/CVE-2026-114625.svg)
 
 ## CVE-2026-114612
 > LiteLLM is a proxy server (AI Gateway) to call LLM APIs in OpenAI (or native) format. From 1.87.0 until 1.100.4, 1.101.3, 1.102.2, 1.103.1, and 1.104.0-rc.2, the proxy reuses one cryptographic context for at-rest secrets and session tokens, allowing an authenticated internal user to have crafted metadata containing a forged administrator credential encrypted and returned by the API-key flow. Replaying that ciphertext as a bearer token causes the proxy to trust the forged proxy administrator iden
@@ -535,6 +544,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 > Buffer overflow in ANGLE in Google Chrome on on Android prior to 155.0.8059.79 allowed a remote attacker to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Critical)
 
 - [https://github.com/utkarsssh17/cve-2026-110152-chrome-ngle-rce-poc](https://github.com/utkarsssh17/cve-2026-110152-chrome-ngle-rce-poc) : ![starts](https://img.shields.io/github/stars/utkarsssh17/cve-2026-110152-chrome-ngle-rce-poc.svg) ![forks](https://img.shields.io/github/forks/utkarsssh17/cve-2026-110152-chrome-ngle-rce-poc.svg)
+
+## CVE-2026-110063
+
+- [https://github.com/emirwtz/CVE-2026-110063](https://github.com/emirwtz/CVE-2026-110063) : ![starts](https://img.shields.io/github/stars/emirwtz/CVE-2026-110063.svg) ![forks](https://img.shields.io/github/forks/emirwtz/CVE-2026-110063.svg)
 
 ## CVE-2026-110025
 > A flaw has been found in slackero phpwcms up to 1.9.49/1.12.3. This issue affects some unknown processing of the file include/inc_front/content/cnt23.article.inc.php of the component Extension Check. This manipulation of the argument POST_name causes unrestricted upload. The attack can be initiated remotely. Upgrading to version 1.9.50 and 1.12.4 is capable of addressing this issue. Patch name: 118c978430f5a9668b30535f6e592c7ae8df711f/f4c136b467565b2d16ebe2b8276b9a03547a9a69/8571cb47df8d66804d1e
@@ -1355,6 +1368,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/foxcornlab/php-worker-pin](https://github.com/foxcornlab/php-worker-pin) : ![starts](https://img.shields.io/github/stars/foxcornlab/php-worker-pin.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/php-worker-pin.svg)
 
+- [https://github.com/IamLucif3r/CVE-2026-109618-exploit](https://github.com/IamLucif3r/CVE-2026-109618-exploit) : ![starts](https://img.shields.io/github/stars/IamLucif3r/CVE-2026-109618-exploit.svg) ![forks](https://img.shields.io/github/forks/IamLucif3r/CVE-2026-109618-exploit.svg)
+
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
@@ -1717,6 +1732,10 @@ The guard that destroys idle keep-alive sockets when unexpected data arrives onl
 > Kener 4.0.0 before 4.1.6 contains an information disclosure vulnerability that allows unauthenticated attackers to retrieve hidden or inactive monitor data by querying dashboard API handlers lacking visibility filters. Attackers can supply a known or guessed monitor tag to endpoints such as monitor-bar and monitor-latency-chart to obtain names, descriptions, status, uptime history and latency.
 
 - [https://github.com/asvorg/CVE-2026-105030-poc](https://github.com/asvorg/CVE-2026-105030-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-105030-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-105030-poc.svg)
+
+## CVE-2026-105014
+
+- [https://github.com/emirwtz/CVE-2026-105014](https://github.com/emirwtz/CVE-2026-105014) : ![starts](https://img.shields.io/github/stars/emirwtz/CVE-2026-105014.svg) ![forks](https://img.shields.io/github/forks/emirwtz/CVE-2026-105014.svg)
 
 ## CVE-2026-104991
 > Phproject before 1.8.7 contains a missing object-level authorization vulnerability in the REST API issue endpoints (single_get, single_comments, single_comments_post) that allows authenticated API key holders to bypass the security.restrict_access confidentiality control by never invoking the allowAccess() authorization routine. Attackers can use a valid API key to read restricted issue contents and comments, including owner and author email addresses, and post unauthorized comments to issues th
@@ -2200,6 +2219,8 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 
 - [https://github.com/piecar21/CVE-2026-101767](https://github.com/piecar21/CVE-2026-101767) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-101767.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-101767.svg)
 
+- [https://github.com/Sable-Research/CVE-2026-101767-research](https://github.com/Sable-Research/CVE-2026-101767-research) : ![starts](https://img.shields.io/github/stars/Sable-Research/CVE-2026-101767-research.svg) ![forks](https://img.shields.io/github/forks/Sable-Research/CVE-2026-101767-research.svg)
+
 ## CVE-2026-101162
 > The WP Ultimate Review WordPress plugin before 2.4.4 does not escape some of its review overview settings before outputting them in posts, which could allow users with a role as low as author to perform Stored Cross-Site Scripting attacks, when author reviews are enabled.
 
@@ -2406,6 +2427,8 @@ but the node is still queued on tsk, which
 
 - [https://github.com/kpgc10kai/TimerRoot](https://github.com/kpgc10kai/TimerRoot) : ![starts](https://img.shields.io/github/stars/kpgc10kai/TimerRoot.svg) ![forks](https://img.shields.io/github/forks/kpgc10kai/TimerRoot.svg)
 
+- [https://github.com/NanoTurtle1145/cve-2026-98260-uaf](https://github.com/NanoTurtle1145/cve-2026-98260-uaf) : ![starts](https://img.shields.io/github/stars/NanoTurtle1145/cve-2026-98260-uaf.svg) ![forks](https://img.shields.io/github/forks/NanoTurtle1145/cve-2026-98260-uaf.svg)
+
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -2475,6 +2498,10 @@ allocated an object f
 ## CVE-2026-97798
 
 - [https://github.com/G4sp4rCS/CVE-2026-97798-exploit](https://github.com/G4sp4rCS/CVE-2026-97798-exploit) : ![starts](https://img.shields.io/github/stars/G4sp4rCS/CVE-2026-97798-exploit.svg) ![forks](https://img.shields.io/github/forks/G4sp4rCS/CVE-2026-97798-exploit.svg)
+
+## CVE-2026-97785
+
+- [https://github.com/emirwtz/CVE-2026-97785](https://github.com/emirwtz/CVE-2026-97785) : ![starts](https://img.shields.io/github/stars/emirwtz/CVE-2026-97785.svg) ![forks](https://img.shields.io/github/forks/emirwtz/CVE-2026-97785.svg)
 
 ## CVE-2026-97657
 > The Abandoned Cart Pro for WooCommerce plugin for WordPress is vulnerable to Authentication Bypass via Malleable Encryption and Bypassable HMAC in all versions up to, and including, 10.8.0. This is due to the use of MAC-free AES-CTR encryption for cart-recovery link tokens — where the 8-byte CTR nonce is carried inside the ciphertext blob and the encryption key is looked up using the attacker-supplied `user_email` GET parameter — combined with an HMAC nonce check in `wcap_email_track_links()` th
@@ -2843,6 +2870,11 @@ This vulnerability allows an unauthenticated attacker to perform remot
 - [https://github.com/HackSpeak/CVE-2026-93958](https://github.com/HackSpeak/CVE-2026-93958) : ![starts](https://img.shields.io/github/stars/HackSpeak/CVE-2026-93958.svg) ![forks](https://img.shields.io/github/forks/HackSpeak/CVE-2026-93958.svg)
 
 - [https://github.com/murrez/CVE-2026-93958](https://github.com/murrez/CVE-2026-93958) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-93958.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-93958.svg)
+
+## CVE-2026-93903
+> LiteSpeed Web Server (LSWS) before 6.3.7 build 1 mishandles internal redirect URL validation in a certain &quot;corner case.&quot;
+
+- [https://github.com/Tautvydas-Aleliunas/CVE-2026-93903](https://github.com/Tautvydas-Aleliunas/CVE-2026-93903) : ![starts](https://img.shields.io/github/stars/Tautvydas-Aleliunas/CVE-2026-93903.svg) ![forks](https://img.shields.io/github/forks/Tautvydas-Aleliunas/CVE-2026-93903.svg)
 
 ## CVE-2026-93834
 > A use-after-free vulnerability was found in QEMU&#x27;s 9pfs subsystem. A race condition between the main thread and a worker thread when processing concurrent Tlcreate and Twalk requests allows a malicious guest user to craft a fid path containing stale heap data, bypassing directory traversal restrictions and escaping the shared directory boundary. This can lead to arbitrary host file read/write and code execution (VM escape) as the QEMU process user.
@@ -4043,6 +4075,8 @@ unmarshal() verified the modification detection code only when the message was a
 
 - [https://github.com/dinosn/libheif-cve-2026-84383-lab](https://github.com/dinosn/libheif-cve-2026-84383-lab) : ![starts](https://img.shields.io/github/stars/dinosn/libheif-cve-2026-84383-lab.svg) ![forks](https://img.shields.io/github/forks/dinosn/libheif-cve-2026-84383-lab.svg)
 
+- [https://github.com/sachincool/cve-2026-84383-poc](https://github.com/sachincool/cve-2026-84383-poc) : ![starts](https://img.shields.io/github/stars/sachincool/cve-2026-84383-poc.svg) ![forks](https://img.shields.io/github/forks/sachincool/cve-2026-84383-poc.svg)
+
 ## CVE-2026-84361
  Composer is a dependency Manager for the PHP language. From 1.0 until 2.2.30 and 2.10.3, a malicious dependency package from a custom Composer repository or an untrusted composer.lock file could set source.type to perforce and source.url to an rsh: or jsh: P4PORT value. When the Perforce p4 client was installed and Composer installed the package from source through composer install or composer update, including --prefer-source, Composer\Util\Perforce passed the address to p4 without validation, causing p4 to run a local command with the privileges of the user or CI account. Packagist.org does not permit Perforce source metadata. This issue is fixed in versions 2.2.30 and 2.10.3.
 
@@ -4107,6 +4141,10 @@ createCorsHandler() set Access-Control-Allow-Credentials: true outside the origi
 - [https://github.com/karollooool/CVE-2026-83991-writeup-and-poc](https://github.com/karollooool/CVE-2026-83991-writeup-and-poc) : ![starts](https://img.shields.io/github/stars/karollooool/CVE-2026-83991-writeup-and-poc.svg) ![forks](https://img.shields.io/github/forks/karollooool/CVE-2026-83991-writeup-and-poc.svg)
 
 - [https://github.com/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC](https://github.com/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC) : ![starts](https://img.shields.io/github/stars/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC.svg) ![forks](https://img.shields.io/github/forks/ZeroDayVPN/CVE-2026-83991-WriteUP-and-PoC.svg)
+
+## CVE-2026-83938
+
+- [https://github.com/emirwtz/CVE-2026-83938](https://github.com/emirwtz/CVE-2026-83938) : ![starts](https://img.shields.io/github/stars/emirwtz/CVE-2026-83938.svg) ![forks](https://img.shields.io/github/forks/emirwtz/CVE-2026-83938.svg)
 
 ## CVE-2026-83834
 
@@ -7125,6 +7163,11 @@ Products intended for the Japanese market are not affected.
 Users are recommended to upgrade to version 2.4.69, which fixes this issue.
 
 - [https://github.com/0xBlackash/CVE-2026-63292](https://github.com/0xBlackash/CVE-2026-63292) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-63292.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-63292.svg)
+
+## CVE-2026-63286
+> Database backups are vulnerable to offline attacks. Backups created using a version prior to the patched version are still vulnerable. AXIS Camera Station Pro automatically creates one more such backup for recovery purpose when the update is applied. Delete all these backups and change the credentials stored in AXIS Camera Station Pro.
+
+- [https://github.com/ricardojoserf/CVE-2026-63286](https://github.com/ricardojoserf/CVE-2026-63286) : ![starts](https://img.shields.io/github/stars/ricardojoserf/CVE-2026-63286.svg) ![forks](https://img.shields.io/github/forks/ricardojoserf/CVE-2026-63286.svg)
 
 ## CVE-2026-63277
 > LibreOffice Calc can link a cell range to an external data source, and the link is saved in the document. A document could name a Java database driver for such a link to be loaded from a remote location, so opening the document could run Java code from that location. In fixed versions an entry in a Java class path has to be a file URL.
@@ -12433,6 +12476,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/Syerain/cve-2026-43499-vivo-mt6896](https://github.com/Syerain/cve-2026-43499-vivo-mt6896) : ![starts](https://img.shields.io/github/stars/Syerain/cve-2026-43499-vivo-mt6896.svg) ![forks](https://img.shields.io/github/forks/Syerain/cve-2026-43499-vivo-mt6896.svg)
 
+- [https://github.com/li-dahua/s25u-ghostlock-kernelsu-lkm](https://github.com/li-dahua/s25u-ghostlock-kernelsu-lkm) : ![starts](https://img.shields.io/github/stars/li-dahua/s25u-ghostlock-kernelsu-lkm.svg) ![forks](https://img.shields.io/github/forks/li-dahua/s25u-ghostlock-kernelsu-lkm.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -13717,6 +13762,10 @@ Users are recommended to upgrade to version 1.2.1, which fixes the issue.
 This issue only happens when using H2, and H2 is mainly used for testing and local development. Also, Gravitino is typically deployed in the internal environment, so the severity is low.
 
 - [https://github.com/Lulztigre/cve-2026-41042](https://github.com/Lulztigre/cve-2026-41042) : ![starts](https://img.shields.io/github/stars/Lulztigre/cve-2026-41042.svg) ![forks](https://img.shields.io/github/forks/Lulztigre/cve-2026-41042.svg)
+
+## CVE-2026-41036
+
+- [https://github.com/mir7867/CVE-2026-41036-Quantum-Networks-Copy-repository-name](https://github.com/mir7867/CVE-2026-41036-Quantum-Networks-Copy-repository-name) : ![starts](https://img.shields.io/github/stars/mir7867/CVE-2026-41036-Quantum-Networks-Copy-repository-name.svg) ![forks](https://img.shields.io/github/forks/mir7867/CVE-2026-41036-Quantum-Networks-Copy-repository-name.svg)
 
 ## CVE-2026-40987
  A malicious or compromised FTP/SFTP/SMB server can write arbitrary files anywhere on the client filesystem (outside the configured local-directory) with attacker-controlled content.
@@ -16828,6 +16877,8 @@ AD directly.
 - [https://github.com/voxcia-io/copy-fail](https://github.com/voxcia-io/copy-fail) : ![starts](https://img.shields.io/github/stars/voxcia-io/copy-fail.svg) ![forks](https://img.shields.io/github/forks/voxcia-io/copy-fail.svg)
 
 - [https://github.com/StackOverflowExcept1on/CVE-2026-31431](https://github.com/StackOverflowExcept1on/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/StackOverflowExcept1on/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/StackOverflowExcept1on/CVE-2026-31431.svg)
+
+- [https://github.com/Venshell/copy-fail-CVE-2026-31431-aarch64](https://github.com/Venshell/copy-fail-CVE-2026-31431-aarch64) : ![starts](https://img.shields.io/github/stars/Venshell/copy-fail-CVE-2026-31431-aarch64.svg) ![forks](https://img.shields.io/github/forks/Venshell/copy-fail-CVE-2026-31431-aarch64.svg)
 
 ## CVE-2026-31429
  In the Linux kernel, the following vulnerability has been resolved:
@@ -21548,6 +21599,11 @@ Successful exploitation may enable persistent backdoors, credential theft, LAN r
 - [https://github.com/ubaydev/CVE-2026-15748](https://github.com/ubaydev/CVE-2026-15748) : ![starts](https://img.shields.io/github/stars/ubaydev/CVE-2026-15748.svg) ![forks](https://img.shields.io/github/forks/ubaydev/CVE-2026-15748.svg)
 
 - [https://github.com/0x4cr/CVE-2026-15748](https://github.com/0x4cr/CVE-2026-15748) : ![starts](https://img.shields.io/github/stars/0x4cr/CVE-2026-15748.svg) ![forks](https://img.shields.io/github/forks/0x4cr/CVE-2026-15748.svg)
+
+## CVE-2026-15723
+> GitLab has remediated an issue in GitLab CE/EE affecting all versions from 10.1 before 19.3.6, 19.4 before 19.4.3, and 19.5 before 19.5.1 that, when OmniAuth SAML and LDAP auto-linking were both enabled, an authenticated user could have taken over an existing LDAP-backed account without any interaction from the targeted user, due to improper input sanitization in the LDAP email lookup path used during OmniAuth identity linking.
+
+- [https://github.com/emirwtz/CVE-2026-15723](https://github.com/emirwtz/CVE-2026-15723) : ![starts](https://img.shields.io/github/stars/emirwtz/CVE-2026-15723.svg) ![forks](https://img.shields.io/github/forks/emirwtz/CVE-2026-15723.svg)
 
 ## CVE-2026-15718
  We are aware that exploit code for this is public however we are not aware of any attacks in the wild abusing this flaw. This vulnerability was fixed in Firefox 152.0.6, Firefox ESR 140.13, and Thunderbird 140.13.

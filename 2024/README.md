@@ -11168,6 +11168,8 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 
 - [https://github.com/lewiskb/Docker-Lab-CVE-2024-4367](https://github.com/lewiskb/Docker-Lab-CVE-2024-4367) : ![starts](https://img.shields.io/github/stars/lewiskb/Docker-Lab-CVE-2024-4367.svg) ![forks](https://img.shields.io/github/forks/lewiskb/Docker-Lab-CVE-2024-4367.svg)
 
+- [https://github.com/weae26/aia-pdfjs-poc](https://github.com/weae26/aia-pdfjs-poc) : ![starts](https://img.shields.io/github/stars/weae26/aia-pdfjs-poc.svg) ![forks](https://img.shields.io/github/forks/weae26/aia-pdfjs-poc.svg)
+
 ## CVE-2024-4358
  In Progress Telerik Report Server, version 2024 Q1 (10.0.24.305) or earlier, on IIS, an unauthenticated attacker can gain access to Telerik Report Server restricted functionality via an authentication bypass vulnerability.
 
@@ -11250,6 +11252,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 ## CVE-2024-4223
 
 - [https://github.com/AgnesAhalya/rw-tutor](https://github.com/AgnesAhalya/rw-tutor) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-tutor.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-tutor.svg)
+
+- [https://github.com/neevmeh18/rw-tutor](https://github.com/neevmeh18/rw-tutor) : ![starts](https://img.shields.io/github/stars/neevmeh18/rw-tutor.svg) ![forks](https://img.shields.io/github/forks/neevmeh18/rw-tutor.svg)
 
 ## CVE-2024-4157
  The Contact Form Plugin by Fluent Forms for Quiz, Survey, and Drag & Drop WP Form Builder plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 5.1.15 via deserialization of untrusted input in the extractDynamicValues function. This makes it possible for authenticated attackers, with contributor-level access and above, to inject a PHP Object. If a POP chain is present via an additional plugin or theme installed on the target system, it could allow the attacker to delete arbitrary files, retrieve sensitive data, or execute code. Successful exploitation requires the attacker to have "View Form" and "Manage Form" permissions, which must be explicitly set by an administrator. However, this requirement can be bypassed when this vulnerability is chained with CVE-2024-2771.
@@ -11442,6 +11446,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [https://github.com/KiPhuong/challenge-cve-2024-3552](https://github.com/KiPhuong/challenge-cve-2024-3552) : ![starts](https://img.shields.io/github/stars/KiPhuong/challenge-cve-2024-3552.svg) ![forks](https://img.shields.io/github/forks/KiPhuong/challenge-cve-2024-3552.svg)
 
 - [https://github.com/AgnesAhalya/rw-web-directory-free](https://github.com/AgnesAhalya/rw-web-directory-free) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-web-directory-free.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-web-directory-free.svg)
+
+- [https://github.com/neevmeh18/rw-web-directory-free](https://github.com/neevmeh18/rw-web-directory-free) : ![starts](https://img.shields.io/github/stars/neevmeh18/rw-web-directory-free.svg) ![forks](https://img.shields.io/github/forks/neevmeh18/rw-web-directory-free.svg)
 
 ## CVE-2024-3495
  The Country State City Dropdown CF7 plugin for WordPress is vulnerable to SQL Injection via the ‘cnt’ and 'sid' parameters in versions up to, and including, 2.7.2 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
@@ -11936,6 +11942,8 @@ Through a series of complex obfuscations, the liblzma build process extracts a p
 - [https://github.com/whale93/CVE-2024-2771-PoC](https://github.com/whale93/CVE-2024-2771-PoC) : ![starts](https://img.shields.io/github/stars/whale93/CVE-2024-2771-PoC.svg) ![forks](https://img.shields.io/github/forks/whale93/CVE-2024-2771-PoC.svg)
 
 - [https://github.com/AgnesAhalya/rw-fluentform](https://github.com/AgnesAhalya/rw-fluentform) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-fluentform.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-fluentform.svg)
+
+- [https://github.com/neevmeh18/rw-fluentform](https://github.com/neevmeh18/rw-fluentform) : ![starts](https://img.shields.io/github/stars/neevmeh18/rw-fluentform.svg) ![forks](https://img.shields.io/github/forks/neevmeh18/rw-fluentform.svg)
 
 ## CVE-2024-2769
  A vulnerability was detected in Campcodes Complete Online Beauty Parlor Management System 1.0. The affected element is an unknown function of the file /admin/admin-profile.php. The manipulation of the argument adminname/email results in sql injection. The attack may be launched remotely. The exploit is now public and may be used.
