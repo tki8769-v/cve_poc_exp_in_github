@@ -189,6 +189,10 @@ problems:
 
 - [https://github.com/speedyfriend433/CVE-2026-43664](https://github.com/speedyfriend433/CVE-2026-43664) : ![starts](https://img.shields.io/github/stars/speedyfriend433/CVE-2026-43664.svg) ![forks](https://img.shields.io/github/forks/speedyfriend433/CVE-2026-43664.svg)
 
+## CVE-2026-46817
+
+- [https://github.com/0xredash/CVE-2026-46817](https://github.com/0xredash/CVE-2026-46817) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2026-46817.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2026-46817.svg)
+
 ## CVE-2026-48907
 
 - [https://github.com/CoNistical/CVE-2026-48907](https://github.com/CoNistical/CVE-2026-48907) : ![starts](https://img.shields.io/github/stars/CoNistical/CVE-2026-48907.svg) ![forks](https://img.shields.io/github/forks/CoNistical/CVE-2026-48907.svg)
@@ -372,4 +376,6 @@ tcp_v4_send_synack() and inet_csk_route_req() read ireq-&gt;ireq_opt
 under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/Quaerendir/cve-2026-98432-audit](https://github.com/Quaerendir/cve-2026-98432-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/cve-2026-98432-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/cve-2026-98432-audit.svg)
+- [https://github.com/nsrg-fmlorg/kpatch-cve-2026-98432](https://github.com/nsrg-fmlorg/kpatch-cve-2026-98432) : ![starts](https://img.shields.io/github/stars/nsrg-fmlorg/kpatch-cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/nsrg-fmlorg/kpatch-cve-2026-98432.svg)
 - [https://github.com/suominen/CVE-2026-98432](https://github.com/suominen/CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-98432.svg)
+- [https://github.com/typhoon1217/cve-2026-98432-mitigation](https://github.com/typhoon1217/cve-2026-98432-mitigation) : ![starts](https://img.shields.io/github/stars/typhoon1217/cve-2026-98432-mitigation.svg) ![forks](https://img.shields.io/github/forks/typhoon1217/cve-2026-98432-mitigation.svg)
