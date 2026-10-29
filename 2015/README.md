@@ -120,6 +120,8 @@
 
 - [https://github.com/damariion/CVE-2015-8522.RCE](https://github.com/damariion/CVE-2015-8522.RCE) : ![starts](https://img.shields.io/github/stars/damariion/CVE-2015-8522.RCE.svg) ![forks](https://img.shields.io/github/forks/damariion/CVE-2015-8522.RCE.svg)
 
+- [https://github.com/damariion/CVE-2015-8522-RCE](https://github.com/damariion/CVE-2015-8522-RCE) : ![starts](https://img.shields.io/github/stars/damariion/CVE-2015-8522-RCE.svg) ![forks](https://img.shields.io/github/forks/damariion/CVE-2015-8522-RCE.svg)
+
 ## CVE-2015-8351
  PHP remote file inclusion vulnerability in the Gwolle Guestbook plugin before 1.5.4 for WordPress, when allow_url_include is enabled, allows remote authenticated users to execute arbitrary PHP code via a URL in the abspath parameter to frontend/captcha/ajaxresponse.php.  NOTE: this can also be leveraged to include and execute arbitrary local files via directory traversal sequences regardless of whether allow_url_include is enabled.
 

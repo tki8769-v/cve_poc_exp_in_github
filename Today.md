@@ -1,4 +1,8 @@
 # Update 2026-10-29
+## CVE-2015-8522
+
+- [https://github.com/damariion/CVE-2015-8522-RCE](https://github.com/damariion/CVE-2015-8522-RCE) : ![starts](https://img.shields.io/github/stars/damariion/CVE-2015-8522-RCE.svg) ![forks](https://img.shields.io/github/forks/damariion/CVE-2015-8522-RCE.svg)
+
 ## CVE-2016-5195
 
 - [https://github.com/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow](https://github.com/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow) : ![starts](https://img.shields.io/github/stars/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow.svg) ![forks](https://img.shields.io/github/forks/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow.svg)
@@ -7,6 +11,10 @@
 
 - [https://github.com/TheoCerveraLede/practica-integradora-ciberseguridad](https://github.com/TheoCerveraLede/practica-integradora-ciberseguridad) : ![starts](https://img.shields.io/github/stars/TheoCerveraLede/practica-integradora-ciberseguridad.svg) ![forks](https://img.shields.io/github/forks/TheoCerveraLede/practica-integradora-ciberseguridad.svg)
 
+## CVE-2022-1388
+
+- [https://github.com/TheElderHacker/CVE-2022-1388](https://github.com/TheElderHacker/CVE-2022-1388) : ![starts](https://img.shields.io/github/stars/TheElderHacker/CVE-2022-1388.svg) ![forks](https://img.shields.io/github/forks/TheElderHacker/CVE-2022-1388.svg)
+
 ## CVE-2022-24355
 
 - [https://github.com/ExLuck/CVE-2022-24355](https://github.com/ExLuck/CVE-2022-24355) : ![starts](https://img.shields.io/github/stars/ExLuck/CVE-2022-24355.svg) ![forks](https://img.shields.io/github/forks/ExLuck/CVE-2022-24355.svg)
@@ -14,6 +22,10 @@
 ## CVE-2022-38181
 
 - [https://github.com/s1204IT/CVE-2022-38181](https://github.com/s1204IT/CVE-2022-38181) : ![starts](https://img.shields.io/github/stars/s1204IT/CVE-2022-38181.svg) ![forks](https://img.shields.io/github/forks/s1204IT/CVE-2022-38181.svg)
+
+## CVE-2025-32463
+
+- [https://github.com/jigrit/CVE-2025-32463](https://github.com/jigrit/CVE-2025-32463) : ![starts](https://img.shields.io/github/stars/jigrit/CVE-2025-32463.svg) ![forks](https://img.shields.io/github/forks/jigrit/CVE-2025-32463.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -64,7 +76,18 @@ problems:
 
   1) the rbtree dequeue happens without waiter::task::pi_l
 
+- [https://github.com/Anezium/ghostlock-firetv-tank](https://github.com/Anezium/ghostlock-firetv-tank) : ![starts](https://img.shields.io/github/stars/Anezium/ghostlock-firetv-tank.svg) ![forks](https://img.shields.io/github/forks/Anezium/ghostlock-firetv-tank.svg)
+- [https://github.com/MIKAZE3/ghostlock-xringo1-dijun-fix](https://github.com/MIKAZE3/ghostlock-xringo1-dijun-fix) : ![starts](https://img.shields.io/github/stars/MIKAZE3/ghostlock-xringo1-dijun-fix.svg) ![forks](https://img.shields.io/github/forks/MIKAZE3/ghostlock-xringo1-dijun-fix.svg)
 - [https://github.com/MnemosyneLab/ghostlock-honor](https://github.com/MnemosyneLab/ghostlock-honor) : ![starts](https://img.shields.io/github/stars/MnemosyneLab/ghostlock-honor.svg) ![forks](https://img.shields.io/github/forks/MnemosyneLab/ghostlock-honor.svg)
+- [https://github.com/inforcqb-self/CVE-2026-43499-pja110](https://github.com/inforcqb-self/CVE-2026-43499-pja110) : ![starts](https://img.shields.io/github/stars/inforcqb-self/CVE-2026-43499-pja110.svg) ![forks](https://img.shields.io/github/forks/inforcqb-self/CVE-2026-43499-pja110.svg)
+- [https://github.com/poisongod/BakaSU-PostLock](https://github.com/poisongod/BakaSU-PostLock) : ![starts](https://img.shields.io/github/stars/poisongod/BakaSU-PostLock.svg) ![forks](https://img.shields.io/github/forks/poisongod/BakaSU-PostLock.svg)
+- [https://github.com/tusharpandey13/ghostlock-somalia](https://github.com/tusharpandey13/ghostlock-somalia) : ![starts](https://img.shields.io/github/stars/tusharpandey13/ghostlock-somalia.svg) ![forks](https://img.shields.io/github/forks/tusharpandey13/ghostlock-somalia.svg)
+- [https://github.com/zero2005x/rokid-rv101-research](https://github.com/zero2005x/rokid-rv101-research) : ![starts](https://img.shields.io/github/stars/zero2005x/rokid-rv101-research.svg) ![forks](https://img.shields.io/github/forks/zero2005x/rokid-rv101-research.svg)
+- [https://github.com/zxsos/root-my-s23](https://github.com/zxsos/root-my-s23) : ![starts](https://img.shields.io/github/stars/zxsos/root-my-s23.svg) ![forks](https://img.shields.io/github/forks/zxsos/root-my-s23.svg)
+
+## CVE-2026-5562
+
+- [https://github.com/personne-lambda/CVE-2026-5562-Exploit](https://github.com/personne-lambda/CVE-2026-5562-Exploit) : ![starts](https://img.shields.io/github/stars/personne-lambda/CVE-2026-5562-Exploit.svg) ![forks](https://img.shields.io/github/forks/personne-lambda/CVE-2026-5562-Exploit.svg)
 
 ## CVE-2026-97631
 > EDK2 contains a vulnerability in BIOS where a user may cause “Out-of-bounds

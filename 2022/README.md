@@ -7564,6 +7564,8 @@ the client's API server credentials to third parties.
 
 - [https://github.com/jermainlaforce/CVE-2022-1388-POC](https://github.com/jermainlaforce/CVE-2022-1388-POC) : ![starts](https://img.shields.io/github/stars/jermainlaforce/CVE-2022-1388-POC.svg) ![forks](https://img.shields.io/github/forks/jermainlaforce/CVE-2022-1388-POC.svg)
 
+- [https://github.com/TheElderHacker/CVE-2022-1388](https://github.com/TheElderHacker/CVE-2022-1388) : ![starts](https://img.shields.io/github/stars/TheElderHacker/CVE-2022-1388.svg) ![forks](https://img.shields.io/github/forks/TheElderHacker/CVE-2022-1388.svg)
+
 ## CVE-2022-1386
  The Fusion Builder WordPress plugin before 3.6.2, used in the Avada theme, does not validate a parameter in its forms which could be used to initiate arbitrary HTTP requests. The data returned is then reflected back in the application's response. This could be used to interact with hosts on the server's local network bypassing firewalls and access control measures.
 

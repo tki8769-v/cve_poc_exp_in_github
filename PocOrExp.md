@@ -12515,6 +12515,20 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/MnemosyneLab/ghostlock-honor](https://github.com/MnemosyneLab/ghostlock-honor) : ![starts](https://img.shields.io/github/stars/MnemosyneLab/ghostlock-honor.svg) ![forks](https://img.shields.io/github/forks/MnemosyneLab/ghostlock-honor.svg)
 
+- [https://github.com/tusharpandey13/ghostlock-somalia](https://github.com/tusharpandey13/ghostlock-somalia) : ![starts](https://img.shields.io/github/stars/tusharpandey13/ghostlock-somalia.svg) ![forks](https://img.shields.io/github/forks/tusharpandey13/ghostlock-somalia.svg)
+
+- [https://github.com/zxsos/root-my-s23](https://github.com/zxsos/root-my-s23) : ![starts](https://img.shields.io/github/stars/zxsos/root-my-s23.svg) ![forks](https://img.shields.io/github/forks/zxsos/root-my-s23.svg)
+
+- [https://github.com/inforcqb-self/CVE-2026-43499-pja110](https://github.com/inforcqb-self/CVE-2026-43499-pja110) : ![starts](https://img.shields.io/github/stars/inforcqb-self/CVE-2026-43499-pja110.svg) ![forks](https://img.shields.io/github/forks/inforcqb-self/CVE-2026-43499-pja110.svg)
+
+- [https://github.com/Anezium/ghostlock-firetv-tank](https://github.com/Anezium/ghostlock-firetv-tank) : ![starts](https://img.shields.io/github/stars/Anezium/ghostlock-firetv-tank.svg) ![forks](https://img.shields.io/github/forks/Anezium/ghostlock-firetv-tank.svg)
+
+- [https://github.com/MIKAZE3/ghostlock-xringo1-dijun-fix](https://github.com/MIKAZE3/ghostlock-xringo1-dijun-fix) : ![starts](https://img.shields.io/github/stars/MIKAZE3/ghostlock-xringo1-dijun-fix.svg) ![forks](https://img.shields.io/github/forks/MIKAZE3/ghostlock-xringo1-dijun-fix.svg)
+
+- [https://github.com/poisongod/BakaSU-PostLock](https://github.com/poisongod/BakaSU-PostLock) : ![starts](https://img.shields.io/github/stars/poisongod/BakaSU-PostLock.svg) ![forks](https://img.shields.io/github/forks/poisongod/BakaSU-PostLock.svg)
+
+- [https://github.com/zero2005x/rokid-rv101-research](https://github.com/zero2005x/rokid-rv101-research) : ![starts](https://img.shields.io/github/stars/zero2005x/rokid-rv101-research.svg) ![forks](https://img.shields.io/github/forks/zero2005x/rokid-rv101-research.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -23787,6 +23801,8 @@ Temporal Cloud is not affected.
 
 - [https://github.com/HutTwoThreeFour/CVE-2026-5562-Exploit](https://github.com/HutTwoThreeFour/CVE-2026-5562-Exploit) : ![starts](https://img.shields.io/github/stars/HutTwoThreeFour/CVE-2026-5562-Exploit.svg) ![forks](https://img.shields.io/github/forks/HutTwoThreeFour/CVE-2026-5562-Exploit.svg)
 
+- [https://github.com/personne-lambda/CVE-2026-5562-Exploit](https://github.com/personne-lambda/CVE-2026-5562-Exploit) : ![starts](https://img.shields.io/github/stars/personne-lambda/CVE-2026-5562-Exploit.svg) ![forks](https://img.shields.io/github/forks/personne-lambda/CVE-2026-5562-Exploit.svg)
+
 ## CVE-2026-5556
  A security vulnerability has been detected in badlogic pi-mono up to 0.58.4. This vulnerability affects the function discoverAndLoadExtensions of the file packages/coding-agent/src/core/extensions/loader.ts. The manipulation leads to code injection. Remote exploitation of the attack is possible. The exploit has been disclosed publicly and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
@@ -34072,6 +34088,8 @@ This issue affects Command Center Innovation Release: 11.38.0 to 11.38.20. The v
 - [https://github.com/0x00315732/musical-engine](https://github.com/0x00315732/musical-engine) : ![starts](https://img.shields.io/github/stars/0x00315732/musical-engine.svg) ![forks](https://img.shields.io/github/forks/0x00315732/musical-engine.svg)
 
 - [https://github.com/klvlo/CVE-2025-32463](https://github.com/klvlo/CVE-2025-32463) : ![starts](https://img.shields.io/github/stars/klvlo/CVE-2025-32463.svg) ![forks](https://img.shields.io/github/forks/klvlo/CVE-2025-32463.svg)
+
+- [https://github.com/jigrit/CVE-2025-32463](https://github.com/jigrit/CVE-2025-32463) : ![starts](https://img.shields.io/github/stars/jigrit/CVE-2025-32463.svg) ![forks](https://img.shields.io/github/forks/jigrit/CVE-2025-32463.svg)
 
 ## CVE-2025-32462
  Sudo before 1.9.17p1, when used with a sudoers file that specifies a host that is neither the current host nor ALL, allows listed users to execute commands on unintended machines.
@@ -72627,6 +72645,8 @@ the client's API server credentials to third parties.
 
 - [https://github.com/jermainlaforce/CVE-2022-1388-POC](https://github.com/jermainlaforce/CVE-2022-1388-POC) : ![starts](https://img.shields.io/github/stars/jermainlaforce/CVE-2022-1388-POC.svg) ![forks](https://img.shields.io/github/forks/jermainlaforce/CVE-2022-1388-POC.svg)
 
+- [https://github.com/TheElderHacker/CVE-2022-1388](https://github.com/TheElderHacker/CVE-2022-1388) : ![starts](https://img.shields.io/github/stars/TheElderHacker/CVE-2022-1388.svg) ![forks](https://img.shields.io/github/forks/TheElderHacker/CVE-2022-1388.svg)
+
 ## CVE-2022-1386
  The Fusion Builder WordPress plugin before 3.6.2, used in the Avada theme, does not validate a parameter in its forms which could be used to initiate arbitrary HTTP requests. The data returned is then reflected back in the application's response. This could be used to interact with hosts on the server's local network bypassing firewalls and access control measures.
 
@@ -104528,6 +104548,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
  Buffer overflow in the server in IBM Tivoli Storage Manager FastBack 5.5.x and 6.x before 6.1.12.2 allows remote attackers to execute arbitrary code via a crafted command, a different vulnerability than CVE-2015-8519, CVE-2015-8520, and CVE-2015-8521.
 
 - [https://github.com/damariion/CVE-2015-8522.RCE](https://github.com/damariion/CVE-2015-8522.RCE) : ![starts](https://img.shields.io/github/stars/damariion/CVE-2015-8522.RCE.svg) ![forks](https://img.shields.io/github/forks/damariion/CVE-2015-8522.RCE.svg)
+
+- [https://github.com/damariion/CVE-2015-8522-RCE](https://github.com/damariion/CVE-2015-8522-RCE) : ![starts](https://img.shields.io/github/stars/damariion/CVE-2015-8522-RCE.svg) ![forks](https://img.shields.io/github/forks/damariion/CVE-2015-8522-RCE.svg)
 
 ## CVE-2015-8351
  PHP remote file inclusion vulnerability in the Gwolle Guestbook plugin before 1.5.4 for WordPress, when allow_url_include is enabled, allows remote authenticated users to execute arbitrary PHP code via a URL in the abspath parameter to frontend/captcha/ajaxresponse.php.  NOTE: this can also be leveraged to include and execute arbitrary local files via directory traversal sequences regardless of whether allow_url_include is enabled.

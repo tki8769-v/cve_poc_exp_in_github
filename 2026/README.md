@@ -12514,6 +12514,20 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/MnemosyneLab/ghostlock-honor](https://github.com/MnemosyneLab/ghostlock-honor) : ![starts](https://img.shields.io/github/stars/MnemosyneLab/ghostlock-honor.svg) ![forks](https://img.shields.io/github/forks/MnemosyneLab/ghostlock-honor.svg)
 
+- [https://github.com/tusharpandey13/ghostlock-somalia](https://github.com/tusharpandey13/ghostlock-somalia) : ![starts](https://img.shields.io/github/stars/tusharpandey13/ghostlock-somalia.svg) ![forks](https://img.shields.io/github/forks/tusharpandey13/ghostlock-somalia.svg)
+
+- [https://github.com/zxsos/root-my-s23](https://github.com/zxsos/root-my-s23) : ![starts](https://img.shields.io/github/stars/zxsos/root-my-s23.svg) ![forks](https://img.shields.io/github/forks/zxsos/root-my-s23.svg)
+
+- [https://github.com/inforcqb-self/CVE-2026-43499-pja110](https://github.com/inforcqb-self/CVE-2026-43499-pja110) : ![starts](https://img.shields.io/github/stars/inforcqb-self/CVE-2026-43499-pja110.svg) ![forks](https://img.shields.io/github/forks/inforcqb-self/CVE-2026-43499-pja110.svg)
+
+- [https://github.com/Anezium/ghostlock-firetv-tank](https://github.com/Anezium/ghostlock-firetv-tank) : ![starts](https://img.shields.io/github/stars/Anezium/ghostlock-firetv-tank.svg) ![forks](https://img.shields.io/github/forks/Anezium/ghostlock-firetv-tank.svg)
+
+- [https://github.com/MIKAZE3/ghostlock-xringo1-dijun-fix](https://github.com/MIKAZE3/ghostlock-xringo1-dijun-fix) : ![starts](https://img.shields.io/github/stars/MIKAZE3/ghostlock-xringo1-dijun-fix.svg) ![forks](https://img.shields.io/github/forks/MIKAZE3/ghostlock-xringo1-dijun-fix.svg)
+
+- [https://github.com/poisongod/BakaSU-PostLock](https://github.com/poisongod/BakaSU-PostLock) : ![starts](https://img.shields.io/github/stars/poisongod/BakaSU-PostLock.svg) ![forks](https://img.shields.io/github/forks/poisongod/BakaSU-PostLock.svg)
+
+- [https://github.com/zero2005x/rokid-rv101-research](https://github.com/zero2005x/rokid-rv101-research) : ![starts](https://img.shields.io/github/stars/zero2005x/rokid-rv101-research.svg) ![forks](https://img.shields.io/github/forks/zero2005x/rokid-rv101-research.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -23785,6 +23799,8 @@ Temporal Cloud is not affected.
  A vulnerability was identified in provectus kafka-ui up to 0.7.2. This impacts the function validateAccess of the file /api/smartfilters/testexecutions of the component Endpoint. The manipulation leads to code injection. The attack can be initiated remotely. The exploit is publicly available and might be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/HutTwoThreeFour/CVE-2026-5562-Exploit](https://github.com/HutTwoThreeFour/CVE-2026-5562-Exploit) : ![starts](https://img.shields.io/github/stars/HutTwoThreeFour/CVE-2026-5562-Exploit.svg) ![forks](https://img.shields.io/github/forks/HutTwoThreeFour/CVE-2026-5562-Exploit.svg)
+
+- [https://github.com/personne-lambda/CVE-2026-5562-Exploit](https://github.com/personne-lambda/CVE-2026-5562-Exploit) : ![starts](https://img.shields.io/github/stars/personne-lambda/CVE-2026-5562-Exploit.svg) ![forks](https://img.shields.io/github/forks/personne-lambda/CVE-2026-5562-Exploit.svg)
 
 ## CVE-2026-5556
  A security vulnerability has been detected in badlogic pi-mono up to 0.58.4. This vulnerability affects the function discoverAndLoadExtensions of the file packages/coding-agent/src/core/extensions/loader.ts. The manipulation leads to code injection. Remote exploitation of the attack is possible. The exploit has been disclosed publicly and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
