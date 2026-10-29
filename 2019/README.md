@@ -529,6 +529,10 @@ use after free.
 
 - [https://github.com/mr-r3b00t/CVE-2019-18988](https://github.com/mr-r3b00t/CVE-2019-18988) : ![starts](https://img.shields.io/github/stars/mr-r3b00t/CVE-2019-18988.svg) ![forks](https://img.shields.io/github/forks/mr-r3b00t/CVE-2019-18988.svg)
 
+## CVE-2019-18980
+
+- [https://github.com/anmolksachan/wiz-bulb-tool](https://github.com/anmolksachan/wiz-bulb-tool) : ![starts](https://img.shields.io/github/stars/anmolksachan/wiz-bulb-tool.svg) ![forks](https://img.shields.io/github/forks/anmolksachan/wiz-bulb-tool.svg)
+
 ## CVE-2019-18954
  Pomelo v2.2.5 allows external control of critical state data. A malicious user input can corrupt arbitrary methods and attributes in template/game-server/app/servers/connector/handler/entryHandler.js because certain internal attributes can be overwritten via a conflicting name. Hence, a malicious attacker can manipulate internal attributes by adding additional attributes to user input.
 

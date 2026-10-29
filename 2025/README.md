@@ -14172,6 +14172,10 @@ When handling a crash, the function `_check_global_pid_and_forward`, which detec
 
 - [https://github.com/KiPhuong/cve-2025-5025](https://github.com/KiPhuong/cve-2025-5025) : ![starts](https://img.shields.io/github/stars/KiPhuong/cve-2025-5025.svg) ![forks](https://img.shields.io/github/forks/KiPhuong/cve-2025-5025.svg)
 
+## CVE-2025-4960
+
+- [https://github.com/CarlosG13/CVE-2025-4960](https://github.com/CarlosG13/CVE-2025-4960) : ![starts](https://img.shields.io/github/stars/CarlosG13/CVE-2025-4960.svg) ![forks](https://img.shields.io/github/forks/CarlosG13/CVE-2025-4960.svg)
+
 ## CVE-2025-4917
  A vulnerability classified as critical has been found in PHPGurukul Auto Taxi Stand Management System 1.0. Affected is an unknown function of the file /admin/new-autoortaxi-entry-form.php. The manipulation of the argument drivername leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. Other parameters might be affected as well.
 
@@ -15623,6 +15627,10 @@ This issue does not affect Cloud NGFW or Prisma Access software.
 - [https://github.com/kso4more/CVE-2025-0108](https://github.com/kso4more/CVE-2025-0108) : ![starts](https://img.shields.io/github/stars/kso4more/CVE-2025-0108.svg) ![forks](https://img.shields.io/github/forks/kso4more/CVE-2025-0108.svg)
 
 - [https://github.com/barcrange/CVE-2025-0108-Authentication-Bypass-checker](https://github.com/barcrange/CVE-2025-0108-Authentication-Bypass-checker) : ![starts](https://img.shields.io/github/stars/barcrange/CVE-2025-0108-Authentication-Bypass-checker.svg) ![forks](https://img.shields.io/github/forks/barcrange/CVE-2025-0108-Authentication-Bypass-checker.svg)
+
+## CVE-2025-0098
+
+- [https://github.com/michalbednarski/OtherActivityToken](https://github.com/michalbednarski/OtherActivityToken) : ![starts](https://img.shields.io/github/stars/michalbednarski/OtherActivityToken.svg) ![forks](https://img.shields.io/github/forks/michalbednarski/OtherActivityToken.svg)
 
 ## CVE-2025-0087
  In onCreate of UninstallerActivity.java, there is a possible way to uninstall a different user's app due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.

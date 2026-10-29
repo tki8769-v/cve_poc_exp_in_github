@@ -7339,6 +7339,8 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 
 - [https://github.com/ydkdk12345-bot/CVE-2024-23897-CTF](https://github.com/ydkdk12345-bot/CVE-2024-23897-CTF) : ![starts](https://img.shields.io/github/stars/ydkdk12345-bot/CVE-2024-23897-CTF.svg) ![forks](https://img.shields.io/github/forks/ydkdk12345-bot/CVE-2024-23897-CTF.svg)
 
+- [https://github.com/foreverlanterns/secure-api-cve-2024-23897](https://github.com/foreverlanterns/secure-api-cve-2024-23897) : ![starts](https://img.shields.io/github/stars/foreverlanterns/secure-api-cve-2024-23897.svg) ![forks](https://img.shields.io/github/forks/foreverlanterns/secure-api-cve-2024-23897.svg)
+
 ## CVE-2024-23828
  Nginx-UI is a web interface to manage Nginx configurations. It is vulnerable to an authenticated arbitrary command execution via CRLF attack when changing the value of test_config_cmd or start_cmd. This vulnerability exists due to an incomplete fix for CVE-2024-22197 and CVE-2024-22198. This vulnerability has been patched in version 2.0.0.beta.12.
 

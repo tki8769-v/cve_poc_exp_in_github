@@ -690,6 +690,8 @@
 
 - [https://github.com/kdmarti2/CVE-2018-17463](https://github.com/kdmarti2/CVE-2018-17463) : ![starts](https://img.shields.io/github/stars/kdmarti2/CVE-2018-17463.svg) ![forks](https://img.shields.io/github/forks/kdmarti2/CVE-2018-17463.svg)
 
+- [https://github.com/bianchiSLR/cve-2018-17463-lab](https://github.com/bianchiSLR/cve-2018-17463-lab) : ![starts](https://img.shields.io/github/stars/bianchiSLR/cve-2018-17463-lab.svg) ![forks](https://img.shields.io/github/forks/bianchiSLR/cve-2018-17463-lab.svg)
+
 ## CVE-2018-17456
  Git before 2.14.5, 2.15.x before 2.15.3, 2.16.x before 2.16.5, 2.17.x before 2.17.2, 2.18.x before 2.18.1, and 2.19.x before 2.19.1 allows remote code execution during processing of a recursive "git clone" of a superproject if a .gitmodules file has a URL field beginning with a '-' character.
 

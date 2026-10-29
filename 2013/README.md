@@ -367,6 +367,8 @@ Exploitation of this vulnerability requires that a user or application run or in
 
 - [https://github.com/vlad902/annotated-fbi-tbb-exploit](https://github.com/vlad902/annotated-fbi-tbb-exploit) : ![starts](https://img.shields.io/github/stars/vlad902/annotated-fbi-tbb-exploit.svg) ![forks](https://img.shields.io/github/forks/vlad902/annotated-fbi-tbb-exploit.svg)
 
+- [https://github.com/Diamond975-py/FBI-Tor-Exploit-CVE-2013-1690](https://github.com/Diamond975-py/FBI-Tor-Exploit-CVE-2013-1690) : ![starts](https://img.shields.io/github/stars/Diamond975-py/FBI-Tor-Exploit-CVE-2013-1690.svg) ![forks](https://img.shields.io/github/forks/Diamond975-py/FBI-Tor-Exploit-CVE-2013-1690.svg)
+
 ## CVE-2013-1491
  The Java Runtime Environment (JRE) component in Oracle Java SE 7 Update 17 and earlier, 6 Update 43 and earlier, 5.0 Update 41 and earlier, and JavaFX 2.2.7 and earlier allows remote attackers to execute arbitrary code via vectors related to 2D, as demonstrated by Joshua Drake during a Pwn2Own competition at CanSecWest 2013.
 
