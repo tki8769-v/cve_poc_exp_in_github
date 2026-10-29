@@ -1638,6 +1638,24 @@
 
 - [https://github.com/rrpeck-cybersec/threat-intelligence-log4shell-analysis](https://github.com/rrpeck-cybersec/threat-intelligence-log4shell-analysis) : ![starts](https://img.shields.io/github/stars/rrpeck-cybersec/threat-intelligence-log4shell-analysis.svg) ![forks](https://img.shields.io/github/forks/rrpeck-cybersec/threat-intelligence-log4shell-analysis.svg)
 
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-10](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-10) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-10.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-10.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-11](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-11) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-11.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-11.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-12](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-12) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-12.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-12.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-13](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-13) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-13.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-13.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-5](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-5) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-5.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-5.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-6](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-6) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-6.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-6.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-7](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-7) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-7.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-7.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-8](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-8) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-8.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-8.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-9](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-9) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-9.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-9.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 

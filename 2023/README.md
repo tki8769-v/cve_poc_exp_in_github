@@ -6488,6 +6488,8 @@ Alternatively you can set it with `SUPERSET_SECRET_KEY` environment variable.
 
 - [https://github.com/CyberCTF/vulhub-superset-cve-2023-27524](https://github.com/CyberCTF/vulhub-superset-cve-2023-27524) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-superset-cve-2023-27524.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-superset-cve-2023-27524.svg)
 
+- [https://github.com/sifatnotes/secbyte-cve-exploitation-real-world-vulnerabilities-red-teaming-ctf-labs](https://github.com/sifatnotes/secbyte-cve-exploitation-real-world-vulnerabilities-red-teaming-ctf-labs) : ![starts](https://img.shields.io/github/stars/sifatnotes/secbyte-cve-exploitation-real-world-vulnerabilities-red-teaming-ctf-labs.svg) ![forks](https://img.shields.io/github/forks/sifatnotes/secbyte-cve-exploitation-real-world-vulnerabilities-red-teaming-ctf-labs.svg)
+
 ## CVE-2023-27470
  BASupSrvcUpdater.exe in N-able Take Control Agent through 7.0.41.1141 before 7.0.43 has a TOCTOU Race Condition via a pseudo-symlink at %PROGRAMDATA%\GetSupportService_N-Central\PushUpdates, leading to arbitrary file deletion.
 

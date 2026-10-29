@@ -86,6 +86,14 @@
 
 - [https://github.com/capivara-research/CVE-2026-116000](https://github.com/capivara-research/CVE-2026-116000) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-116000.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-116000.svg)
 
+## CVE-2026-115926
+
+- [https://github.com/aymencdm/CVE-2026-115926-free5gc-bsf-missing-auth](https://github.com/aymencdm/CVE-2026-115926-free5gc-bsf-missing-auth) : ![starts](https://img.shields.io/github/stars/aymencdm/CVE-2026-115926-free5gc-bsf-missing-auth.svg) ![forks](https://img.shields.io/github/forks/aymencdm/CVE-2026-115926-free5gc-bsf-missing-auth.svg)
+
+## CVE-2026-115925
+
+- [https://github.com/aymencdm/CVE-2026-115925-free5gc-root-ca-key-exposure](https://github.com/aymencdm/CVE-2026-115925-free5gc-root-ca-key-exposure) : ![starts](https://img.shields.io/github/stars/aymencdm/CVE-2026-115925-free5gc-root-ca-key-exposure.svg) ![forks](https://img.shields.io/github/forks/aymencdm/CVE-2026-115925-free5gc-root-ca-key-exposure.svg)
+
 ## CVE-2026-115905
 > zip is a zip library for Rust that supports reading and writing simple ZIP files. Through 9.0.4, ZipArchive treats Central Directory File Header filenames as authoritative while ZipStreamReader extracts using Local File Header filenames without reconciling the duplicate metadata in src/read/stream.rs. A crafted archive can therefore appear benign to a component that inspects the central directory but cause a streaming extractor to write a different attacker-selected path and content, potentially
 
@@ -225,6 +233,10 @@ On an affected system, any authenticated user can gain operator privileges and m
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in Safari 27.2, iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, visionOS 27.2. Processing a maliciously crafted image may result in memory corruption.
 
 - [https://github.com/Xplo8E/CVE-2026-112621-oob-write-poc](https://github.com/Xplo8E/CVE-2026-112621-oob-write-poc) : ![starts](https://img.shields.io/github/stars/Xplo8E/CVE-2026-112621-oob-write-poc.svg) ![forks](https://img.shields.io/github/forks/Xplo8E/CVE-2026-112621-oob-write-poc.svg)
+
+- [https://github.com/794pn2s6fh-hub/CVE-2026-112621-](https://github.com/794pn2s6fh-hub/CVE-2026-112621-) : ![starts](https://img.shields.io/github/stars/794pn2s6fh-hub/CVE-2026-112621-.svg) ![forks](https://img.shields.io/github/forks/794pn2s6fh-hub/CVE-2026-112621-.svg)
+
+- [https://github.com/Allen-ux-dev/cve-2026-112621-test](https://github.com/Allen-ux-dev/cve-2026-112621-test) : ![starts](https://img.shields.io/github/stars/Allen-ux-dev/cve-2026-112621-test.svg) ![forks](https://img.shields.io/github/forks/Allen-ux-dev/cve-2026-112621-test.svg)
 
 ## CVE-2026-112611
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. Processing a maliciously crafted PDF file may lead to memory corruption.
@@ -2449,6 +2461,10 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/typhoon1217/cve-2026-98432-mitigation](https://github.com/typhoon1217/cve-2026-98432-mitigation) : ![starts](https://img.shields.io/github/stars/typhoon1217/cve-2026-98432-mitigation.svg) ![forks](https://img.shields.io/github/forks/typhoon1217/cve-2026-98432-mitigation.svg)
 
+- [https://github.com/axisops/CVE-2026-98432](https://github.com/axisops/CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/axisops/CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/axisops/CVE-2026-98432.svg)
+
+- [https://github.com/techtaek77/ubuntu-tcp-guide](https://github.com/techtaek77/ubuntu-tcp-guide) : ![starts](https://img.shields.io/github/stars/techtaek77/ubuntu-tcp-guide.svg) ![forks](https://img.shields.io/github/forks/techtaek77/ubuntu-tcp-guide.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3206,6 +3222,11 @@ The Unauthenticated Stored XSS vulnerability in the WordPress core can be reprod
 This issue affects AKINSOFT WOLVOX Control Panel: from 26.02.25 before 26.02.26.
 
 - [https://github.com/Enay-Project/CVE-2026-92555](https://github.com/Enay-Project/CVE-2026-92555) : ![starts](https://img.shields.io/github/stars/Enay-Project/CVE-2026-92555.svg) ![forks](https://img.shields.io/github/forks/Enay-Project/CVE-2026-92555.svg)
+
+## CVE-2026-92424
+> The Content Egg  WordPress plugin before 11.9.0 does not verify that a user running its bulk content-import feature is authorized for the import preset they select, and switches to the preset author&#x27;s identity before creating the resulting post, allowing users with contributor-level access and above to store arbitrary web scripts unfiltered under a privileged user&#x27;s account, executing in the context of anyone who later views that content.
+
+- [https://github.com/aymencdm/cve-2026-92424-content-egg-stored-xss-](https://github.com/aymencdm/cve-2026-92424-content-egg-stored-xss-) : ![starts](https://img.shields.io/github/stars/aymencdm/cve-2026-92424-content-egg-stored-xss-.svg) ![forks](https://img.shields.io/github/forks/aymencdm/cve-2026-92424-content-egg-stored-xss-.svg)
 
 ## CVE-2026-92392
 > During an upload, curl mishandles HTTP/2 `RST_STREAM` received from the server
@@ -4892,6 +4913,10 @@ This issue affects Pardus LightDM Greeter: before 0.4.15.
  A SQL injection vulnerability in the ap_form_{id} parameter in AppNitro MachForm v30 allows attackers to access sensitive database information via a crafted SQL statement.
 
 - [https://github.com/nabeelmkhan/CVE-2026-78837](https://github.com/nabeelmkhan/CVE-2026-78837) : ![starts](https://img.shields.io/github/stars/nabeelmkhan/CVE-2026-78837.svg) ![forks](https://img.shields.io/github/forks/nabeelmkhan/CVE-2026-78837.svg)
+
+## CVE-2026-78829
+
+- [https://github.com/CloudFutureSec/cve-disclosures](https://github.com/CloudFutureSec/cve-disclosures) : ![starts](https://img.shields.io/github/stars/CloudFutureSec/cve-disclosures.svg) ![forks](https://img.shields.io/github/forks/CloudFutureSec/cve-disclosures.svg)
 
 ## CVE-2026-78745
  An issue in HiDPT/ Weyon HiDPTAndroid Hi3751V350 Hi3751V352E_DMO allows a remote attacker to execute arbitrary code via the Android Debug Bridge (ADB) daemon (adbd)
@@ -18300,6 +18325,8 @@ Users are recommended to upgrade to version 4.19.0, which fixes the issue. If us
 - [https://github.com/wuyou6956-glitch/CVE-2026-26026-PoC](https://github.com/wuyou6956-glitch/CVE-2026-26026-PoC) : ![starts](https://img.shields.io/github/stars/wuyou6956-glitch/CVE-2026-26026-PoC.svg) ![forks](https://img.shields.io/github/forks/wuyou6956-glitch/CVE-2026-26026-PoC.svg)
 
 - [https://github.com/petriQore/CVE-2026-26026_PoC](https://github.com/petriQore/CVE-2026-26026_PoC) : ![starts](https://img.shields.io/github/stars/petriQore/CVE-2026-26026_PoC.svg) ![forks](https://img.shields.io/github/forks/petriQore/CVE-2026-26026_PoC.svg)
+
+- [https://github.com/PeaMatNgu/CVE-2026-26026-GLPI](https://github.com/PeaMatNgu/CVE-2026-26026-GLPI) : ![starts](https://img.shields.io/github/stars/PeaMatNgu/CVE-2026-26026-GLPI.svg) ![forks](https://img.shields.io/github/forks/PeaMatNgu/CVE-2026-26026-GLPI.svg)
 
 ## CVE-2026-26012
  vaultwarden is an unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs. Prior to 1.35.3, a regular organization member can retrieve all ciphers within an organization, regardless of collection permissions. The endpoint /ciphers/organization-details is accessible to any organization member and internally uses Cipher::find_by_org to retrieve all ciphers. These ciphers are returned with CipherSyncType::Organization without enforcing collection-level access control. This vulnerability is fixed in 1.35.3.

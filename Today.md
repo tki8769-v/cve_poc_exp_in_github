@@ -31,6 +31,18 @@
 
 - [https://github.com/TheoCerveraLede/practica-integradora-ciberseguridad](https://github.com/TheoCerveraLede/practica-integradora-ciberseguridad) : ![starts](https://img.shields.io/github/stars/TheoCerveraLede/practica-integradora-ciberseguridad.svg) ![forks](https://img.shields.io/github/forks/TheoCerveraLede/practica-integradora-ciberseguridad.svg)
 
+## CVE-2021-44228
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-10](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-10) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-10.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-10.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-11](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-11) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-11.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-11.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-12](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-12) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-12.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-12.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-13](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-13) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-13.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-13.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-5](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-5) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-5.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-5.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-6](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-6) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-6.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-6.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-7](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-7) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-7.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-7.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-8](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-8) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-8.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-8.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-9](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-9) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-9.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-9.svg)
+
 ## CVE-2022-1388
 
 - [https://github.com/TheElderHacker/CVE-2022-1388](https://github.com/TheElderHacker/CVE-2022-1388) : ![starts](https://img.shields.io/github/stars/TheElderHacker/CVE-2022-1388.svg) ![forks](https://img.shields.io/github/forks/TheElderHacker/CVE-2022-1388.svg)
@@ -42,6 +54,10 @@
 ## CVE-2022-38181
 
 - [https://github.com/s1204IT/CVE-2022-38181](https://github.com/s1204IT/CVE-2022-38181) : ![starts](https://img.shields.io/github/stars/s1204IT/CVE-2022-38181.svg) ![forks](https://img.shields.io/github/forks/s1204IT/CVE-2022-38181.svg)
+
+## CVE-2023-27524
+
+- [https://github.com/sifatnotes/secbyte-cve-exploitation-real-world-vulnerabilities-red-teaming-ctf-labs](https://github.com/sifatnotes/secbyte-cve-exploitation-real-world-vulnerabilities-red-teaming-ctf-labs) : ![starts](https://img.shields.io/github/stars/sifatnotes/secbyte-cve-exploitation-real-world-vulnerabilities-red-teaming-ctf-labs.svg) ![forks](https://img.shields.io/github/forks/sifatnotes/secbyte-cve-exploitation-real-world-vulnerabilities-red-teaming-ctf-labs.svg)
 
 ## CVE-2024-23897
 
@@ -139,6 +155,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 ## CVE-2026-112621
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in Safari 27.2, iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, visionOS 27.2. Processing a maliciously crafted image may result in memory corruption.
 
+- [https://github.com/794pn2s6fh-hub/CVE-2026-112621-](https://github.com/794pn2s6fh-hub/CVE-2026-112621-) : ![starts](https://img.shields.io/github/stars/794pn2s6fh-hub/CVE-2026-112621-.svg) ![forks](https://img.shields.io/github/forks/794pn2s6fh-hub/CVE-2026-112621-.svg)
+- [https://github.com/Allen-ux-dev/cve-2026-112621-test](https://github.com/Allen-ux-dev/cve-2026-112621-test) : ![starts](https://img.shields.io/github/stars/Allen-ux-dev/cve-2026-112621-test.svg) ![forks](https://img.shields.io/github/forks/Allen-ux-dev/cve-2026-112621-test.svg)
 - [https://github.com/Xplo8E/CVE-2026-112621-oob-write-poc](https://github.com/Xplo8E/CVE-2026-112621-oob-write-poc) : ![starts](https://img.shields.io/github/stars/Xplo8E/CVE-2026-112621-oob-write-poc.svg) ![forks](https://img.shields.io/github/forks/Xplo8E/CVE-2026-112621-oob-write-poc.svg)
 
 ## CVE-2026-115889
@@ -146,9 +164,21 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/mehmet-emir-eroglu/CVE-2026-115889](https://github.com/mehmet-emir-eroglu/CVE-2026-115889) : ![starts](https://img.shields.io/github/stars/mehmet-emir-eroglu/CVE-2026-115889.svg) ![forks](https://img.shields.io/github/forks/mehmet-emir-eroglu/CVE-2026-115889.svg)
 
+## CVE-2026-115925
+
+- [https://github.com/aymencdm/CVE-2026-115925-free5gc-root-ca-key-exposure](https://github.com/aymencdm/CVE-2026-115925-free5gc-root-ca-key-exposure) : ![starts](https://img.shields.io/github/stars/aymencdm/CVE-2026-115925-free5gc-root-ca-key-exposure.svg) ![forks](https://img.shields.io/github/forks/aymencdm/CVE-2026-115925-free5gc-root-ca-key-exposure.svg)
+
+## CVE-2026-115926
+
+- [https://github.com/aymencdm/CVE-2026-115926-free5gc-bsf-missing-auth](https://github.com/aymencdm/CVE-2026-115926-free5gc-bsf-missing-auth) : ![starts](https://img.shields.io/github/stars/aymencdm/CVE-2026-115926-free5gc-bsf-missing-auth.svg) ![forks](https://img.shields.io/github/forks/aymencdm/CVE-2026-115926-free5gc-bsf-missing-auth.svg)
+
 ## CVE-2026-117025
 
 - [https://github.com/Lariinz/CVE-2026-117025](https://github.com/Lariinz/CVE-2026-117025) : ![starts](https://img.shields.io/github/stars/Lariinz/CVE-2026-117025.svg) ![forks](https://img.shields.io/github/forks/Lariinz/CVE-2026-117025.svg)
+
+## CVE-2026-26026
+
+- [https://github.com/PeaMatNgu/CVE-2026-26026-GLPI](https://github.com/PeaMatNgu/CVE-2026-26026-GLPI) : ![starts](https://img.shields.io/github/stars/PeaMatNgu/CVE-2026-26026-GLPI.svg) ![forks](https://img.shields.io/github/forks/PeaMatNgu/CVE-2026-26026-GLPI.svg)
 
 ## CVE-2026-33439
 
@@ -229,6 +259,10 @@ problems:
 
 - [https://github.com/mehmet-emir-eroglu/CVE-2026-76473](https://github.com/mehmet-emir-eroglu/CVE-2026-76473) : ![starts](https://img.shields.io/github/stars/mehmet-emir-eroglu/CVE-2026-76473.svg) ![forks](https://img.shields.io/github/forks/mehmet-emir-eroglu/CVE-2026-76473.svg)
 
+## CVE-2026-78829
+
+- [https://github.com/CloudFutureSec/cve-disclosures](https://github.com/CloudFutureSec/cve-disclosures) : ![starts](https://img.shields.io/github/stars/CloudFutureSec/cve-disclosures.svg) ![forks](https://img.shields.io/github/forks/CloudFutureSec/cve-disclosures.svg)
+
 ## CVE-2026-88804
 > An unauthenticated update of public UI settings could be used by remote attackers to execute a stored cross-site scripting attack in the Rancher UI, in SUSE Rancher 2.15 before 2.15.2, 2.14 before 2.14.6, 2.13 before 2.13.10, 2.12 before 2.12.14 and 2.11 before 2.11.18.
 
@@ -246,6 +280,11 @@ This issue affects Apache Camel: from 4.0.0 before 4.18.5, from 4.19.0 before 4.
 XQueryBuilder in camel-saxon, which evaluates expressions for the xquery language and the xquery component, built its default Saxon Configuration with parse options that set only a whitespace stripping rule, leaving the XML parser at its defaults, under which a DOCTYPE declaration is accepted and external 
 
 - [https://github.com/oscerd/CVE-2026-90885](https://github.com/oscerd/CVE-2026-90885) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-90885.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-90885.svg)
+
+## CVE-2026-92424
+> The Content Egg  WordPress plugin before 11.9.0 does not verify that a user running its bulk content-import feature is authorized for the import preset they select, and switches to the preset author&#x27;s identity before creating the resulting post, allowing users with contributor-level access and above to store arbitrary web scripts unfiltered under a privileged user&#x27;s account, executing in the context of anyone who later views that content.
+
+- [https://github.com/aymencdm/cve-2026-92424-content-egg-stored-xss-](https://github.com/aymencdm/cve-2026-92424-content-egg-stored-xss-) : ![starts](https://img.shields.io/github/stars/aymencdm/cve-2026-92424-content-egg-stored-xss-.svg) ![forks](https://img.shields.io/github/forks/aymencdm/cve-2026-92424-content-egg-stored-xss-.svg)
 
 ## CVE-2026-94386
 > Use of Cache Containing Sensitive Information vulnerability in Apache Camel Oauth component.
@@ -376,6 +415,8 @@ tcp_v4_send_synack() and inet_csk_route_req() read ireq-&gt;ireq_opt
 under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/Quaerendir/cve-2026-98432-audit](https://github.com/Quaerendir/cve-2026-98432-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/cve-2026-98432-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/cve-2026-98432-audit.svg)
+- [https://github.com/axisops/CVE-2026-98432](https://github.com/axisops/CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/axisops/CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/axisops/CVE-2026-98432.svg)
 - [https://github.com/nsrg-fmlorg/kpatch-cve-2026-98432](https://github.com/nsrg-fmlorg/kpatch-cve-2026-98432) : ![starts](https://img.shields.io/github/stars/nsrg-fmlorg/kpatch-cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/nsrg-fmlorg/kpatch-cve-2026-98432.svg)
 - [https://github.com/suominen/CVE-2026-98432](https://github.com/suominen/CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-98432.svg)
+- [https://github.com/techtaek77/ubuntu-tcp-guide](https://github.com/techtaek77/ubuntu-tcp-guide) : ![starts](https://img.shields.io/github/stars/techtaek77/ubuntu-tcp-guide.svg) ![forks](https://img.shields.io/github/forks/techtaek77/ubuntu-tcp-guide.svg)
 - [https://github.com/typhoon1217/cve-2026-98432-mitigation](https://github.com/typhoon1217/cve-2026-98432-mitigation) : ![starts](https://img.shields.io/github/stars/typhoon1217/cve-2026-98432-mitigation.svg) ![forks](https://img.shields.io/github/forks/typhoon1217/cve-2026-98432-mitigation.svg)
