@@ -16,6 +16,10 @@
 
 - [https://github.com/asvorg/CVE-2026-117532-poc](https://github.com/asvorg/CVE-2026-117532-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-117532-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-117532-poc.svg)
 
+## CVE-2026-117025
+
+- [https://github.com/Lariinz/CVE-2026-117025](https://github.com/Lariinz/CVE-2026-117025) : ![starts](https://img.shields.io/github/stars/Lariinz/CVE-2026-117025.svg) ![forks](https://img.shields.io/github/forks/Lariinz/CVE-2026-117025.svg)
+
 ## CVE-2026-116692
 > MLflow is an open source AI engineering platform for agents, large language models, and machine learning models. From 3.12.0rc0 until 3.17.0, third-party scorer deserialization in mlflow/genai/scorers/base.py accepts request-selected descendants of THIRD_PARTY_SCORER_ALLOWED_MODULES rather than requiring an exact allowed module. A caller can use MLflow artifact endpoints to place a Python module beneath a writable allowed package and submit its module and class through /ajax-api/3.0/mlflow/score
 
@@ -221,6 +225,10 @@ On an affected system, any authenticated user can gain operator privileges and m
 
 - [https://github.com/Ping-2o/CVE-2026-112611-cg-shading](https://github.com/Ping-2o/CVE-2026-112611-cg-shading) : ![starts](https://img.shields.io/github/stars/Ping-2o/CVE-2026-112611-cg-shading.svg) ![forks](https://img.shields.io/github/forks/Ping-2o/CVE-2026-112611-cg-shading.svg)
 
+## CVE-2026-112445
+
+- [https://github.com/Mas0nShi/CVE-2026-112445](https://github.com/Mas0nShi/CVE-2026-112445) : ![starts](https://img.shields.io/github/stars/Mas0nShi/CVE-2026-112445.svg) ![forks](https://img.shields.io/github/forks/Mas0nShi/CVE-2026-112445.svg)
+
 ## CVE-2026-112403
 > Pillow is a Python imaging library. Prior to 13.0.0, Pillow&#x27;s JPEG decoder can write a full-width scanline into a buffer sized for a requested draft scale. ImagingJpegDecode does not verify libjpeg&#x27;s actual output width and component count after scaling is requested, and an 8-bit lossless SOF3 JPEG decoded by a build linked to libjpeg-turbo 3.x can ignore the requested downscaling geometry. An attacker can supply such a JPEG to an application that uses draft() or thumbnail() to request downscali
 
@@ -424,6 +432,16 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/hkoeck/node2shell-status](https://github.com/hkoeck/node2shell-status) : ![starts](https://img.shields.io/github/stars/hkoeck/node2shell-status.svg) ![forks](https://img.shields.io/github/forks/hkoeck/node2shell-status.svg)
 
+- [https://github.com/fieldse/brotli-node2shell-check](https://github.com/fieldse/brotli-node2shell-check) : ![starts](https://img.shields.io/github/stars/fieldse/brotli-node2shell-check.svg) ![forks](https://img.shields.io/github/forks/fieldse/brotli-node2shell-check.svg)
+
+- [https://github.com/Quaerendir/node2shell-audit](https://github.com/Quaerendir/node2shell-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/node2shell-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/node2shell-audit.svg)
+
+- [https://github.com/caveeroo/cve-2026-111497-wordpress-poc](https://github.com/caveeroo/cve-2026-111497-wordpress-poc) : ![starts](https://img.shields.io/github/stars/caveeroo/cve-2026-111497-wordpress-poc.svg) ![forks](https://img.shields.io/github/forks/caveeroo/cve-2026-111497-wordpress-poc.svg)
+
+- [https://github.com/foxcornlab/node2shell-inventory-scanner](https://github.com/foxcornlab/node2shell-inventory-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/node2shell-inventory-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/node2shell-inventory-scanner.svg)
+
+- [https://github.com/sakai-sktech/brotli-check](https://github.com/sakai-sktech/brotli-check) : ![starts](https://img.shields.io/github/stars/sakai-sktech/brotli-check.svg) ![forks](https://img.shields.io/github/forks/sakai-sktech/brotli-check.svg)
+
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
 
@@ -555,6 +573,11 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 > A flaw has been found in slackero phpwcms up to 1.9.49/1.12.3. This issue affects some unknown processing of the file include/inc_front/content/cnt23.article.inc.php of the component Extension Check. This manipulation of the argument POST_name causes unrestricted upload. The attack can be initiated remotely. Upgrading to version 1.9.50 and 1.12.4 is capable of addressing this issue. Patch name: 118c978430f5a9668b30535f6e592c7ae8df711f/f4c136b467565b2d16ebe2b8276b9a03547a9a69/8571cb47df8d66804d1e
 
 - [https://github.com/capivara-research/CVE-2026-110025](https://github.com/capivara-research/CVE-2026-110025) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-110025.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-110025.svg)
+
+## CVE-2026-109722
+> JIT miscompilation in the JavaScript Engine: JIT component. This vulnerability was fixed in Firefox 158, Firefox ESR 115.43, Firefox ESR 153.5, Thunderbird 158, and Thunderbird 153.5.
+
+- [https://github.com/Scyrix-LLC/CVE-2026-109722](https://github.com/Scyrix-LLC/CVE-2026-109722) : ![starts](https://img.shields.io/github/stars/Scyrix-LLC/CVE-2026-109722.svg) ![forks](https://img.shields.io/github/forks/Scyrix-LLC/CVE-2026-109722.svg)
 
 ## CVE-2026-109721
 > Incorrect boundary conditions in the JavaScript Engine: JIT component. This vulnerability was fixed in Firefox 158, Firefox ESR 153.5, Thunderbird 158, and Thunderbird 153.5.
@@ -1371,6 +1394,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/foxcornlab/php-worker-pin](https://github.com/foxcornlab/php-worker-pin) : ![starts](https://img.shields.io/github/stars/foxcornlab/php-worker-pin.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/php-worker-pin.svg)
 
 - [https://github.com/IamLucif3r/CVE-2026-109618-exploit](https://github.com/IamLucif3r/CVE-2026-109618-exploit) : ![starts](https://img.shields.io/github/stars/IamLucif3r/CVE-2026-109618-exploit.svg) ![forks](https://img.shields.io/github/forks/IamLucif3r/CVE-2026-109618-exploit.svg)
+
+- [https://github.com/CarrollUniversityCS/patch-watch](https://github.com/CarrollUniversityCS/patch-watch) : ![starts](https://img.shields.io/github/stars/CarrollUniversityCS/patch-watch.svg) ![forks](https://img.shields.io/github/forks/CarrollUniversityCS/patch-watch.svg)
+
+- [https://github.com/GarciaG1/charla-php2shell](https://github.com/GarciaG1/charla-php2shell) : ![starts](https://img.shields.io/github/stars/GarciaG1/charla-php2shell.svg) ![forks](https://img.shields.io/github/forks/GarciaG1/charla-php2shell.svg)
 
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -2431,6 +2458,10 @@ but the node is still queued on tsk, which
 
 - [https://github.com/NanoTurtle1145/cve-2026-98260-uaf](https://github.com/NanoTurtle1145/cve-2026-98260-uaf) : ![starts](https://img.shields.io/github/stars/NanoTurtle1145/cve-2026-98260-uaf.svg) ![forks](https://img.shields.io/github/forks/NanoTurtle1145/cve-2026-98260-uaf.svg)
 
+- [https://github.com/Again1996-bit/CVE-2026-98260-GhostKey](https://github.com/Again1996-bit/CVE-2026-98260-GhostKey) : ![starts](https://img.shields.io/github/stars/Again1996-bit/CVE-2026-98260-GhostKey.svg) ![forks](https://img.shields.io/github/forks/Again1996-bit/CVE-2026-98260-GhostKey.svg)
+
+- [https://github.com/Feiman55/CVE-2026-98260-GhostKey](https://github.com/Feiman55/CVE-2026-98260-GhostKey) : ![starts](https://img.shields.io/github/stars/Feiman55/CVE-2026-98260-GhostKey.svg) ![forks](https://img.shields.io/github/forks/Feiman55/CVE-2026-98260-GhostKey.svg)
+
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -2523,6 +2554,8 @@ and Availability.
 - [https://github.com/slabbdev/uefi-pxe-cve-2026-97631](https://github.com/slabbdev/uefi-pxe-cve-2026-97631) : ![starts](https://img.shields.io/github/stars/slabbdev/uefi-pxe-cve-2026-97631.svg) ![forks](https://img.shields.io/github/forks/slabbdev/uefi-pxe-cve-2026-97631.svg)
 
 - [https://github.com/piecar21/CVE-2026-97631](https://github.com/piecar21/CVE-2026-97631) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-97631.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-97631.svg)
+
+- [https://github.com/Try2Take/CVE-2026-97631-PoC](https://github.com/Try2Take/CVE-2026-97631-PoC) : ![starts](https://img.shields.io/github/stars/Try2Take/CVE-2026-97631-PoC.svg) ![forks](https://img.shields.io/github/forks/Try2Take/CVE-2026-97631-PoC.svg)
 
 ## CVE-2026-97629
 > Description
@@ -12479,6 +12512,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/Syerain/cve-2026-43499-vivo-mt6896](https://github.com/Syerain/cve-2026-43499-vivo-mt6896) : ![starts](https://img.shields.io/github/stars/Syerain/cve-2026-43499-vivo-mt6896.svg) ![forks](https://img.shields.io/github/forks/Syerain/cve-2026-43499-vivo-mt6896.svg)
 
 - [https://github.com/li-dahua/s25u-ghostlock-kernelsu-lkm](https://github.com/li-dahua/s25u-ghostlock-kernelsu-lkm) : ![starts](https://img.shields.io/github/stars/li-dahua/s25u-ghostlock-kernelsu-lkm.svg) ![forks](https://img.shields.io/github/forks/li-dahua/s25u-ghostlock-kernelsu-lkm.svg)
+
+- [https://github.com/MnemosyneLab/ghostlock-honor](https://github.com/MnemosyneLab/ghostlock-honor) : ![starts](https://img.shields.io/github/stars/MnemosyneLab/ghostlock-honor.svg) ![forks](https://img.shields.io/github/forks/MnemosyneLab/ghostlock-honor.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
@@ -66912,6 +66947,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/amirilivice/yandex-station-2-s905x2-root](https://github.com/amirilivice/yandex-station-2-s905x2-root) : ![starts](https://img.shields.io/github/stars/amirilivice/yandex-station-2-s905x2-root.svg) ![forks](https://img.shields.io/github/forks/amirilivice/yandex-station-2-s905x2-root.svg)
 
+- [https://github.com/s1204IT/CVE-2022-38181](https://github.com/s1204IT/CVE-2022-38181) : ![starts](https://img.shields.io/github/stars/s1204IT/CVE-2022-38181.svg) ![forks](https://img.shields.io/github/forks/s1204IT/CVE-2022-38181.svg)
+
 ## CVE-2022-38029
  Windows ALPC Elevation of Privilege Vulnerability
 
@@ -70095,6 +70132,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
  This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link TL-WR940N 3.20.1 Build 200316 Rel.34392n (5553) routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the parsing of file name extensions. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length stack-based buffer. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-13910.
 
 - [https://github.com/ilizavr/CVE-2022-24355](https://github.com/ilizavr/CVE-2022-24355) : ![starts](https://img.shields.io/github/stars/ilizavr/CVE-2022-24355.svg) ![forks](https://img.shields.io/github/forks/ilizavr/CVE-2022-24355.svg)
+
+- [https://github.com/ExLuck/CVE-2022-24355](https://github.com/ExLuck/CVE-2022-24355) : ![starts](https://img.shields.io/github/stars/ExLuck/CVE-2022-24355.svg) ![forks](https://img.shields.io/github/forks/ExLuck/CVE-2022-24355.svg)
 
 ## CVE-2022-24354
  This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link AC1750 prior to 1.1.4 Build 20211022 rel.59103(5553) routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the NetUSB.ko module. The issue results from the lack of proper validation of user-supplied data, which can result in an integer overflow before allocating a buffer. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-15835.
@@ -76323,6 +76362,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/foreverlanterns/secure-demo-api](https://github.com/foreverlanterns/secure-demo-api) : ![starts](https://img.shields.io/github/stars/foreverlanterns/secure-demo-api.svg) ![forks](https://img.shields.io/github/forks/foreverlanterns/secure-demo-api.svg)
 
 - [https://github.com/dishantsehgal/CVE-2021-41773](https://github.com/dishantsehgal/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/dishantsehgal/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/dishantsehgal/CVE-2021-41773.svg)
+
+- [https://github.com/TheoCerveraLede/practica-integradora-ciberseguridad](https://github.com/TheoCerveraLede/practica-integradora-ciberseguridad) : ![starts](https://img.shields.io/github/stars/TheoCerveraLede/practica-integradora-ciberseguridad.svg) ![forks](https://img.shields.io/github/forks/TheoCerveraLede/practica-integradora-ciberseguridad.svg)
 
 ## CVE-2021-41753
  A denial-of-service attack in WPA2, and WPA3-SAE authentication methods in D-Link DIR-X1560, v1.04B04, and DIR-X6060, v1.11B04 allows a remote unauthenticated attacker to disconnect a wireless client via sending specific spoofed SAE authentication frames.
@@ -103643,6 +103684,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 - [https://github.com/bL8nCO/Dirty-cow](https://github.com/bL8nCO/Dirty-cow) : ![starts](https://img.shields.io/github/stars/bL8nCO/Dirty-cow.svg) ![forks](https://img.shields.io/github/forks/bL8nCO/Dirty-cow.svg)
 
 - [https://github.com/joshfng/root-honda](https://github.com/joshfng/root-honda) : ![starts](https://img.shields.io/github/stars/joshfng/root-honda.svg) ![forks](https://img.shields.io/github/forks/joshfng/root-honda.svg)
+
+- [https://github.com/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow](https://github.com/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow) : ![starts](https://img.shields.io/github/stars/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow.svg) ![forks](https://img.shields.io/github/forks/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow.svg)
 
 ## CVE-2016-5180
  Heap-based buffer overflow in the ares_create_query function in c-ares 1.x before 1.12.0 allows remote attackers to cause a denial of service (out-of-bounds write) or possibly execute arbitrary code via a hostname with an escaped trailing dot.

@@ -1,13 +1,16 @@
 {
   "changed": [
     "/home/runner/work/cve_poc_exp_in_github/cve_poc_exp_in_github/2026/README.md",
+    "/home/runner/work/cve_poc_exp_in_github/cve_poc_exp_in_github/2022/README.md",
+    "/home/runner/work/cve_poc_exp_in_github/cve_poc_exp_in_github/2021/README.md",
+    "/home/runner/work/cve_poc_exp_in_github/cve_poc_exp_in_github/2016/README.md",
     "/home/runner/work/cve_poc_exp_in_github/cve_poc_exp_in_github/PocOrExp.md",
     "/home/runner/work/cve_poc_exp_in_github/cve_poc_exp_in_github/Today.md"
   ],
-  "relations": 31346,
+  "relations": 31364,
   "rule_version": "2",
-  "sections": 12743,
+  "sections": 12746,
   "today_owned": true,
-  "ts": "2026-10-28T22:32:41Z",
+  "ts": "2026-10-29T07:18:54Z",
   "years": 28
 }

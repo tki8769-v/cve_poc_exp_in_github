@@ -2939,6 +2939,8 @@
 
 - [https://github.com/dishantsehgal/CVE-2021-41773](https://github.com/dishantsehgal/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/dishantsehgal/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/dishantsehgal/CVE-2021-41773.svg)
 
+- [https://github.com/TheoCerveraLede/practica-integradora-ciberseguridad](https://github.com/TheoCerveraLede/practica-integradora-ciberseguridad) : ![starts](https://img.shields.io/github/stars/TheoCerveraLede/practica-integradora-ciberseguridad.svg) ![forks](https://img.shields.io/github/forks/TheoCerveraLede/practica-integradora-ciberseguridad.svg)
+
 ## CVE-2021-41753
  A denial-of-service attack in WPA2, and WPA3-SAE authentication methods in D-Link DIR-X1560, v1.04B04, and DIR-X6060, v1.11B04 allows a remote unauthenticated attacker to disconnect a wireless client via sending specific spoofed SAE authentication frames.
 

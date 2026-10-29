@@ -1884,6 +1884,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/amirilivice/yandex-station-2-s905x2-root](https://github.com/amirilivice/yandex-station-2-s905x2-root) : ![starts](https://img.shields.io/github/stars/amirilivice/yandex-station-2-s905x2-root.svg) ![forks](https://img.shields.io/github/forks/amirilivice/yandex-station-2-s905x2-root.svg)
 
+- [https://github.com/s1204IT/CVE-2022-38181](https://github.com/s1204IT/CVE-2022-38181) : ![starts](https://img.shields.io/github/stars/s1204IT/CVE-2022-38181.svg) ![forks](https://img.shields.io/github/forks/s1204IT/CVE-2022-38181.svg)
+
 ## CVE-2022-38029
  Windows ALPC Elevation of Privilege Vulnerability
 
@@ -5067,6 +5069,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
  This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link TL-WR940N 3.20.1 Build 200316 Rel.34392n (5553) routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the parsing of file name extensions. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a fixed-length stack-based buffer. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-13910.
 
 - [https://github.com/ilizavr/CVE-2022-24355](https://github.com/ilizavr/CVE-2022-24355) : ![starts](https://img.shields.io/github/stars/ilizavr/CVE-2022-24355.svg) ![forks](https://img.shields.io/github/forks/ilizavr/CVE-2022-24355.svg)
+
+- [https://github.com/ExLuck/CVE-2022-24355](https://github.com/ExLuck/CVE-2022-24355) : ![starts](https://img.shields.io/github/stars/ExLuck/CVE-2022-24355.svg) ![forks](https://img.shields.io/github/forks/ExLuck/CVE-2022-24355.svg)
 
 ## CVE-2022-24354
  This vulnerability allows network-adjacent attackers to execute arbitrary code on affected installations of TP-Link AC1750 prior to 1.1.4 Build 20211022 rel.59103(5553) routers. Authentication is not required to exploit this vulnerability. The specific flaw exists within the NetUSB.ko module. The issue results from the lack of proper validation of user-supplied data, which can result in an integer overflow before allocating a buffer. An attacker can leverage this vulnerability to execute code in the context of root. Was ZDI-CAN-15835.
