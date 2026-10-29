@@ -1466,6 +1466,8 @@ use after free.
 
 - [https://github.com/CyberCTF/vulhub-webmin-cve-2019-15107](https://github.com/CyberCTF/vulhub-webmin-cve-2019-15107) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-webmin-cve-2019-15107.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-webmin-cve-2019-15107.svg)
 
+- [https://github.com/foreverlanterns/secure-api-cve-2019-15107](https://github.com/foreverlanterns/secure-api-cve-2019-15107) : ![starts](https://img.shields.io/github/stars/foreverlanterns/secure-api-cve-2019-15107.svg) ![forks](https://img.shields.io/github/forks/foreverlanterns/secure-api-cve-2019-15107.svg)
+
 ## CVE-2019-15053
  The "HTML Include and replace macro" plugin before 1.5.0 for Confluence Server allows a bypass of the includeScripts=false XSS protection mechanism via vectors involving an IFRAME element.
 

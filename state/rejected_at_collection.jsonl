@@ -2274,3 +2274,5 @@
 {"cve_id": "CVE-2023-3144", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T22:10:06Z", "url": "https://github.com/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution", "url_ids": ["CVE-2023-31446"]}
 {"cve_id": "CVE-2023-3144", "reason": "prefix_conflict_evidenced", "ts": "2026-10-28T22:10:06Z", "url": "https://github.com/Dodge-MPTC/CVE-2023-31445-Unprivileged-Information-Disclosure", "url_ids": ["CVE-2023-31445"]}
 {"cve_id": "CVE-2026-4861", "reason": "prefix_conflict_evidenced", "ts": "2026-10-29T07:15:37Z", "url": "https://github.com/Ethicalgrey/phpBB-CVE-2026-48611", "url_ids": ["CVE-2026-48611"]}
+{"cve_id": "CVE-2026-11387", "reason": "prefix_conflict_evidenced", "ts": "2026-10-29T07:47:38Z", "url": "https://github.com/emirwtz/CVE-2026-113870", "url_ids": ["CVE-2026-113870"]}
+{"cve_id": "CVE-2026-11387", "reason": "prefix_conflict_evidenced", "ts": "2026-10-29T07:47:38Z", "url": "https://github.com/santihabib/multer-CVE-2026-113872", "url_ids": ["CVE-2026-113872"]}
