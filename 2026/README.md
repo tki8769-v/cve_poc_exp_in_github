@@ -15760,6 +15760,8 @@ Users are recommended to upgrade to version 4.18.1 or 4.19.0, fixing the issue.
 
 - [https://github.com/amis13/openam-clean](https://github.com/amis13/openam-clean) : ![starts](https://img.shields.io/github/stars/amis13/openam-clean.svg) ![forks](https://img.shields.io/github/forks/amis13/openam-clean.svg)
 
+- [https://github.com/TeoVMP/CVE-2026-33439](https://github.com/TeoVMP/CVE-2026-33439) : ![starts](https://img.shields.io/github/stars/TeoVMP/CVE-2026-33439.svg) ![forks](https://img.shields.io/github/forks/TeoVMP/CVE-2026-33439.svg)
+
 ## CVE-2026-33340
  LoLLMs WEBUI provides the Web user interface for Lord of Large Language and Multi modal Systems. A critical Server-Side Request Forgery (SSRF) vulnerability has been identified in all known existing versions of `lollms-webui`. The `@router.post("/api/proxy")` endpoint allows unauthenticated attackers to force the server into making arbitrary GET requests. This can be exploited to access internal services, scan local networks, or exfiltrate sensitive cloud metadata (e.g., AWS/GCP IAM tokens). As of time of publication, no known patched versions are available.
 
@@ -26016,6 +26018,8 @@ Panorama and Cloud NGFW are not impacted by these issues.
 - [https://github.com/XiaoBaiLovesStirring/cve-2026-0013-poc](https://github.com/XiaoBaiLovesStirring/cve-2026-0013-poc) : ![starts](https://img.shields.io/github/stars/XiaoBaiLovesStirring/cve-2026-0013-poc.svg) ![forks](https://img.shields.io/github/forks/XiaoBaiLovesStirring/cve-2026-0013-poc.svg)
 
 - [https://github.com/inforcqb/cve-2026-0013-exploit](https://github.com/inforcqb/cve-2026-0013-exploit) : ![starts](https://img.shields.io/github/stars/inforcqb/cve-2026-0013-exploit.svg) ![forks](https://img.shields.io/github/forks/inforcqb/cve-2026-0013-exploit.svg)
+
+- [https://github.com/inforcqb-self/cve-2026-0013-exploit](https://github.com/inforcqb-self/cve-2026-0013-exploit) : ![starts](https://img.shields.io/github/stars/inforcqb-self/cve-2026-0013-exploit.svg) ![forks](https://img.shields.io/github/forks/inforcqb-self/cve-2026-0013-exploit.svg)
 
 ## CVE-2026-0010
  In onTransact of IDrmManagerService.cpp, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.

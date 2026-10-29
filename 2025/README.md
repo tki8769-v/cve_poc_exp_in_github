@@ -11977,6 +11977,8 @@ This issue is patched on 4.17.23
 
 - [https://github.com/0xBlackash/CVE-2025-13315](https://github.com/0xBlackash/CVE-2025-13315) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2025-13315.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2025-13315.svg)
 
+- [https://github.com/0xredash/CVE-2025-13315](https://github.com/0xredash/CVE-2025-13315) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2025-13315.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2025-13315.svg)
+
 ## CVE-2025-13224
 
 - [https://github.com/jamezx32/CVE-2025-13224](https://github.com/jamezx32/CVE-2025-13224) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2025-13224.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2025-13224.svg)

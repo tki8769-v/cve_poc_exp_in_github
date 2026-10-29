@@ -2278,3 +2278,5 @@
 {"cve_id": "CVE-2026-11387", "reason": "prefix_conflict_evidenced", "ts": "2026-10-29T07:47:38Z", "url": "https://github.com/santihabib/multer-CVE-2026-113872", "url_ids": ["CVE-2026-113872"]}
 {"cve_id": "CVE-2026-5078", "reason": "prefix_conflict_evidenced", "ts": "2026-10-29T16:28:38Z", "url": "https://github.com/brynax/CVE-2026-50787", "url_ids": ["CVE-2026-50787"]}
 {"cve_id": "CVE-2021-3310", "reason": "prefix_conflict_evidenced", "ts": "2026-10-29T16:30:39Z", "url": "https://github.com/rjt-gupta/CVE-2021-33104", "url_ids": ["CVE-2021-33104"]}
+{"cve_id": "CVE-2025-6358", "reason": "prefix_conflict_evidenced", "ts": "2026-10-29T16:54:43Z", "url": "https://github.com/NRTLOX/CVE-2025-63587", "url_ids": ["CVE-2025-63587"]}
+{"cve_id": "CVE-2026-9216", "reason": "prefix_conflict_evidenced", "ts": "2026-10-29T17:01:44Z", "url": "https://github.com/0xSemizzz/CVE-2026-92162", "url_ids": ["CVE-2026-92162"]}

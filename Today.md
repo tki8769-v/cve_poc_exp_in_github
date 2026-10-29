@@ -11,6 +11,10 @@
 
 - [https://github.com/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow](https://github.com/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow) : ![starts](https://img.shields.io/github/stars/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow.svg) ![forks](https://img.shields.io/github/forks/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow.svg)
 
+## CVE-2017-11882
+
+- [https://github.com/wunmi-commits/phishing-analysis-thm](https://github.com/wunmi-commits/phishing-analysis-thm) : ![starts](https://img.shields.io/github/stars/wunmi-commits/phishing-analysis-thm.svg) ![forks](https://img.shields.io/github/forks/wunmi-commits/phishing-analysis-thm.svg)
+
 ## CVE-2018-17463
 
 - [https://github.com/bianchiSLR/cve-2018-17463-lab](https://github.com/bianchiSLR/cve-2018-17463-lab) : ![starts](https://img.shields.io/github/stars/bianchiSLR/cve-2018-17463-lab.svg) ![forks](https://img.shields.io/github/forks/bianchiSLR/cve-2018-17463-lab.svg)
@@ -47,6 +51,10 @@
 
 - [https://github.com/michalbednarski/OtherActivityToken](https://github.com/michalbednarski/OtherActivityToken) : ![starts](https://img.shields.io/github/stars/michalbednarski/OtherActivityToken.svg) ![forks](https://img.shields.io/github/forks/michalbednarski/OtherActivityToken.svg)
 
+## CVE-2025-13315
+
+- [https://github.com/0xredash/CVE-2025-13315](https://github.com/0xredash/CVE-2025-13315) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2025-13315.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2025-13315.svg)
+
 ## CVE-2025-32463
 
 - [https://github.com/jigrit/CVE-2025-32463](https://github.com/jigrit/CVE-2025-32463) : ![starts](https://img.shields.io/github/stars/jigrit/CVE-2025-32463.svg) ![forks](https://img.shields.io/github/forks/jigrit/CVE-2025-32463.svg)
@@ -54,6 +62,10 @@
 ## CVE-2025-4960
 
 - [https://github.com/CarlosG13/CVE-2025-4960](https://github.com/CarlosG13/CVE-2025-4960) : ![starts](https://img.shields.io/github/stars/CarlosG13/CVE-2025-4960.svg) ![forks](https://img.shields.io/github/forks/CarlosG13/CVE-2025-4960.svg)
+
+## CVE-2026-0013
+
+- [https://github.com/inforcqb-self/cve-2026-0013-exploit](https://github.com/inforcqb-self/cve-2026-0013-exploit) : ![starts](https://img.shields.io/github/stars/inforcqb-self/cve-2026-0013-exploit.svg) ![forks](https://img.shields.io/github/forks/inforcqb-self/cve-2026-0013-exploit.svg)
 
 ## CVE-2026-101259
 > Generation of Error Message Containing Sensitive Information vulnerability in Apache Camel CoAP component.
@@ -137,6 +149,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 ## CVE-2026-117025
 
 - [https://github.com/Lariinz/CVE-2026-117025](https://github.com/Lariinz/CVE-2026-117025) : ![starts](https://img.shields.io/github/stars/Lariinz/CVE-2026-117025.svg) ![forks](https://img.shields.io/github/forks/Lariinz/CVE-2026-117025.svg)
+
+## CVE-2026-33439
+
+- [https://github.com/TeoVMP/CVE-2026-33439](https://github.com/TeoVMP/CVE-2026-33439) : ![starts](https://img.shields.io/github/stars/TeoVMP/CVE-2026-33439.svg) ![forks](https://img.shields.io/github/forks/TeoVMP/CVE-2026-33439.svg)
 
 ## CVE-2026-42945
 

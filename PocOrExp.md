@@ -15761,6 +15761,8 @@ Users are recommended to upgrade to version 4.18.1 or 4.19.0, fixing the issue.
 
 - [https://github.com/amis13/openam-clean](https://github.com/amis13/openam-clean) : ![starts](https://img.shields.io/github/stars/amis13/openam-clean.svg) ![forks](https://img.shields.io/github/forks/amis13/openam-clean.svg)
 
+- [https://github.com/TeoVMP/CVE-2026-33439](https://github.com/TeoVMP/CVE-2026-33439) : ![starts](https://img.shields.io/github/stars/TeoVMP/CVE-2026-33439.svg) ![forks](https://img.shields.io/github/forks/TeoVMP/CVE-2026-33439.svg)
+
 ## CVE-2026-33340
  LoLLMs WEBUI provides the Web user interface for Lord of Large Language and Multi modal Systems. A critical Server-Side Request Forgery (SSRF) vulnerability has been identified in all known existing versions of `lollms-webui`. The `@router.post("/api/proxy")` endpoint allows unauthenticated attackers to force the server into making arbitrary GET requests. This can be exploited to access internal services, scan local networks, or exfiltrate sensitive cloud metadata (e.g., AWS/GCP IAM tokens). As of time of publication, no known patched versions are available.
 
@@ -26017,6 +26019,8 @@ Panorama and Cloud NGFW are not impacted by these issues.
 - [https://github.com/XiaoBaiLovesStirring/cve-2026-0013-poc](https://github.com/XiaoBaiLovesStirring/cve-2026-0013-poc) : ![starts](https://img.shields.io/github/stars/XiaoBaiLovesStirring/cve-2026-0013-poc.svg) ![forks](https://img.shields.io/github/forks/XiaoBaiLovesStirring/cve-2026-0013-poc.svg)
 
 - [https://github.com/inforcqb/cve-2026-0013-exploit](https://github.com/inforcqb/cve-2026-0013-exploit) : ![starts](https://img.shields.io/github/stars/inforcqb/cve-2026-0013-exploit.svg) ![forks](https://img.shields.io/github/forks/inforcqb/cve-2026-0013-exploit.svg)
+
+- [https://github.com/inforcqb-self/cve-2026-0013-exploit](https://github.com/inforcqb-self/cve-2026-0013-exploit) : ![starts](https://img.shields.io/github/stars/inforcqb-self/cve-2026-0013-exploit.svg) ![forks](https://img.shields.io/github/forks/inforcqb-self/cve-2026-0013-exploit.svg)
 
 ## CVE-2026-0010
  In onTransact of IDrmManagerService.cpp, there is a possible out of bounds write due to a missing bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
@@ -38027,6 +38031,8 @@ This issue is patched on 4.17.23
  Twonky Server 8.5.2 on Linux and Windows is vulnerable to an access control flaw. An unauthenticated attacker can bypass web service API authentication controls to leak a log file and read the administrator's username and encrypted password.
 
 - [https://github.com/0xBlackash/CVE-2025-13315](https://github.com/0xBlackash/CVE-2025-13315) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2025-13315.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2025-13315.svg)
+
+- [https://github.com/0xredash/CVE-2025-13315](https://github.com/0xredash/CVE-2025-13315) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2025-13315.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2025-13315.svg)
 
 ## CVE-2025-13224
 
@@ -100848,6 +100854,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 - [https://github.com/SyedaQuratulain098/factura-malware-analysis-lab](https://github.com/SyedaQuratulain098/factura-malware-analysis-lab) : ![starts](https://img.shields.io/github/stars/SyedaQuratulain098/factura-malware-analysis-lab.svg) ![forks](https://img.shields.io/github/forks/SyedaQuratulain098/factura-malware-analysis-lab.svg)
 
 - [https://github.com/danielakin417/CVE-2017-11882-analysis](https://github.com/danielakin417/CVE-2017-11882-analysis) : ![starts](https://img.shields.io/github/stars/danielakin417/CVE-2017-11882-analysis.svg) ![forks](https://img.shields.io/github/forks/danielakin417/CVE-2017-11882-analysis.svg)
+
+- [https://github.com/wunmi-commits/phishing-analysis-thm](https://github.com/wunmi-commits/phishing-analysis-thm) : ![starts](https://img.shields.io/github/stars/wunmi-commits/phishing-analysis-thm.svg) ![forks](https://img.shields.io/github/forks/wunmi-commits/phishing-analysis-thm.svg)
 
 ## CVE-2017-11826
  Microsoft Office 2010, SharePoint Enterprise Server 2010, SharePoint Server 2010, Web Applications, Office Web Apps Server 2010 and 2013, Word Viewer, Word 2007, 2010, 2013 and 2016, Word Automation Services, and Office Online Server allow remote code execution when the software fails to properly handle objects in memory.
