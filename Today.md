@@ -63,6 +63,10 @@
 
 - [https://github.com/foreverlanterns/secure-api-cve-2024-23897](https://github.com/foreverlanterns/secure-api-cve-2024-23897) : ![starts](https://img.shields.io/github/stars/foreverlanterns/secure-api-cve-2024-23897.svg) ![forks](https://img.shields.io/github/forks/foreverlanterns/secure-api-cve-2024-23897.svg)
 
+## CVE-2024-24919
+
+- [https://github.com/DitohartoPramudya/CVE-2024-24919](https://github.com/DitohartoPramudya/CVE-2024-24919) : ![starts](https://img.shields.io/github/stars/DitohartoPramudya/CVE-2024-24919.svg) ![forks](https://img.shields.io/github/forks/DitohartoPramudya/CVE-2024-24919.svg)
+
 ## CVE-2025-0098
 
 - [https://github.com/michalbednarski/OtherActivityToken](https://github.com/michalbednarski/OtherActivityToken) : ![starts](https://img.shields.io/github/stars/michalbednarski/OtherActivityToken.svg) ![forks](https://img.shields.io/github/forks/michalbednarski/OtherActivityToken.svg)
@@ -253,6 +257,10 @@ problems:
 ## CVE-2026-71569
 
 - [https://github.com/oscerd/CVE-2026-71569](https://github.com/oscerd/CVE-2026-71569) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-71569.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-71569.svg)
+
+## CVE-2026-73570
+
+- [https://github.com/0xredash/CVE-2026-73570](https://github.com/0xredash/CVE-2026-73570) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2026-73570.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2026-73570.svg)
 
 ## CVE-2026-76473
 > As part of Cisco&#x27;s ongoing commitment to proactive security and product quality, engineering teams for Cisco Emergency Responder, Cisco Prime Collaboration Deployment, Cisco Unified Communications Manager (Unified CM), Cisco Unified Communications Manager IM &amp;amp; Presence Service (Unified CM IM&amp;amp;P), Cisco Unified Communications Manager Session Management Edition (Unified CM SME), and Cisco Unity Connection have conducted a comprehensive internal security review. This review resulted in softw
