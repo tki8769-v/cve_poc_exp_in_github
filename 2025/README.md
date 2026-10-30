@@ -6715,6 +6715,10 @@ allow an unauthenticated attacker to read or manipulate device data.
 
 - [https://github.com/SimoesCTT/CTT-Apple-Silicon-Refraction](https://github.com/SimoesCTT/CTT-Apple-Silicon-Refraction) : ![starts](https://img.shields.io/github/stars/SimoesCTT/CTT-Apple-Silicon-Refraction.svg) ![forks](https://img.shields.io/github/forks/SimoesCTT/CTT-Apple-Silicon-Refraction.svg)
 
+## CVE-2025-43520
+
+- [https://github.com/df2029/cs-build](https://github.com/df2029/cs-build) : ![starts](https://img.shields.io/github/stars/df2029/cs-build.svg) ![forks](https://img.shields.io/github/forks/df2029/cs-build.svg)
+
 ## CVE-2025-43504
  A buffer overflow was addressed with improved bounds checking. This issue is fixed in Xcode 26.1. A user in a privileged network position may be able to cause a denial-of-service.
 
@@ -9230,6 +9234,8 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
 
 - [https://github.com/axisops/CVE-2025-29927](https://github.com/axisops/CVE-2025-29927) : ![starts](https://img.shields.io/github/stars/axisops/CVE-2025-29927.svg) ![forks](https://img.shields.io/github/forks/axisops/CVE-2025-29927.svg)
 
+- [https://github.com/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass](https://github.com/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass.svg)
+
 ## CVE-2025-29824
  Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally.
 
@@ -10393,6 +10399,8 @@ Users are recommended to upgrade to version 11.0.3, 10.1.35 or 9.0.99, which fix
 - [https://github.com/Si13NTTT/CVE-2025-24813](https://github.com/Si13NTTT/CVE-2025-24813) : ![starts](https://img.shields.io/github/stars/Si13NTTT/CVE-2025-24813.svg) ![forks](https://img.shields.io/github/forks/Si13NTTT/CVE-2025-24813.svg)
 
 - [https://github.com/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813](https://github.com/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/TomcatPartialPUT-CVE-2025-24813.svg)
+
+- [https://github.com/Ghost-Bx1/cve-2025-24813-apache-tomcat-rce](https://github.com/Ghost-Bx1/cve-2025-24813-apache-tomcat-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-24813-apache-tomcat-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-24813-apache-tomcat-rce.svg)
 
 ## CVE-2025-24801
  GLPI is a free asset and IT management software package. An authenticated user can upload and force the execution of *.php files located on the GLPI server. This vulnerability is fixed in 10.0.18.
@@ -15239,6 +15247,8 @@ An authenticated remote attacker with web read-only privileges can exploit the v
 - [https://github.com/m-q-t/ingressnightmare-detection-poc](https://github.com/m-q-t/ingressnightmare-detection-poc) : ![starts](https://img.shields.io/github/stars/m-q-t/ingressnightmare-detection-poc.svg) ![forks](https://img.shields.io/github/forks/m-q-t/ingressnightmare-detection-poc.svg)
 
 - [https://github.com/gian2dchris/ingress-nightmare-poc](https://github.com/gian2dchris/ingress-nightmare-poc) : ![starts](https://img.shields.io/github/stars/gian2dchris/ingress-nightmare-poc.svg) ![forks](https://img.shields.io/github/forks/gian2dchris/ingress-nightmare-poc.svg)
+
+- [https://github.com/Ghost-Bx1/cve-2025-1974-ingress-nginx-rce](https://github.com/Ghost-Bx1/cve-2025-1974-ingress-nginx-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-1974-ingress-nginx-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-1974-ingress-nginx-rce.svg)
 
 ## CVE-2025-1913
  The Product Import Export for WooCommerce – Import Export Product CSV Suite plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 2.5.0 via deserialization of untrusted input from the 'form_data' parameter This makes it possible for authenticated attackers, with Administrator-level access and above, to inject a PHP Object. No known POP chain is present in the vulnerable software, which means this vulnerability has no impact unless another plugin or theme containing a POP chain is installed on the site. If a POP chain is present via an additional plugin or theme installed on the target system, it may allow the attacker to perform actions like delete arbitrary files, retrieve sensitive data, or execute code depending on the POP chain present.

@@ -1329,6 +1329,8 @@ which fixes this issue.
 
 - [https://github.com/basesixtythree/B63-POC-CVE-2023-46604](https://github.com/basesixtythree/B63-POC-CVE-2023-46604) : ![starts](https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2023-46604.svg) ![forks](https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2023-46604.svg)
 
+- [https://github.com/krevetkqqq/cve-2023-46604-activemq-lab](https://github.com/krevetkqqq/cve-2023-46604-activemq-lab) : ![starts](https://img.shields.io/github/stars/krevetkqqq/cve-2023-46604-activemq-lab.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/cve-2023-46604-activemq-lab.svg)
+
 ## CVE-2023-46527
  TP-LINK TL-WR886N V7.0_3.0.14_Build_221115_Rel.56908n.bin and TL-WDR7660 2.0.30 was discovered to contain a stack overflow via the function bindRequestHandle.
 
@@ -5218,6 +5220,8 @@ Fixed in version 6.4.1.
 - [https://github.com/rag-fish/openfire-exploit-suite](https://github.com/rag-fish/openfire-exploit-suite) : ![starts](https://img.shields.io/github/stars/rag-fish/openfire-exploit-suite.svg) ![forks](https://img.shields.io/github/forks/rag-fish/openfire-exploit-suite.svg)
 
 - [https://github.com/CyberCTF/vulhub-openfire-cve-2023-32315](https://github.com/CyberCTF/vulhub-openfire-cve-2023-32315) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-openfire-cve-2023-32315.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-openfire-cve-2023-32315.svg)
+
+- [https://github.com/krevetkqqq/cve-2023-32315-openfire-lab](https://github.com/krevetkqqq/cve-2023-32315-openfire-lab) : ![starts](https://img.shields.io/github/stars/krevetkqqq/cve-2023-32315-openfire-lab.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/cve-2023-32315-openfire-lab.svg)
 
 ## CVE-2023-32314
  vm2 is a sandbox that can run untrusted code with Node's built-in modules. A sandbox escape vulnerability exists in vm2 for versions up to and including 3.9.17. It abuses an unexpected creation of a host object based on the specification of `Proxy`. As a result a threat actor can bypass the sandbox protections to gain remote code execution rights on the host running the sandbox. This vulnerability was patched in the release of version `3.9.18` of `vm2`. Users are advised to upgrade. There are no known workarounds for this vulnerability.

@@ -5464,6 +5464,8 @@ return data from any other offset including Progam and Boot Flash.
 
 - [https://github.com/Dor00tkit/CVE-2024-30090](https://github.com/Dor00tkit/CVE-2024-30090) : ![starts](https://img.shields.io/github/stars/Dor00tkit/CVE-2024-30090.svg) ![forks](https://img.shields.io/github/forks/Dor00tkit/CVE-2024-30090.svg)
 
+- [https://github.com/m01000xd/CVE-2024-30090](https://github.com/m01000xd/CVE-2024-30090) : ![starts](https://img.shields.io/github/stars/m01000xd/CVE-2024-30090.svg) ![forks](https://img.shields.io/github/forks/m01000xd/CVE-2024-30090.svg)
+
 ## CVE-2024-30088
  Windows Kernel Elevation of Privilege Vulnerability
 
