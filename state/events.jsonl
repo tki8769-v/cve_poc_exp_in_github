@@ -7702,3 +7702,14 @@
 {"cve_id": "CVE-2026-105014", "ts": "2026-10-30T07:13:52Z", "type": "new_poc", "url": "https://github.com/mehmet-emir-eroglu/CVE-2026-105014"}
 {"cve_id": "CVE-2026-6471", "ts": "2026-10-30T07:18:10Z", "type": "new_poc", "url": "https://github.com/0xredash/CVE-2026-6471"}
 {"cve_id": "CVE-2023-23752", "ts": "2026-10-30T07:19:03Z", "type": "new_poc", "url": "https://github.com/Charly-bite/SITEUR"}
+{"cve_id": "CVE-2026-117174", "ts": "2026-10-30T07:23:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117174", "ts": "2026-10-30T07:25:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117174", "ts": "2026-10-30T07:27:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-30T07:28:26Z", "type": "new_poc", "url": "https://github.com/ArchonXDeadLocksecurity/ArchonX-PHP2Shell"}
+{"cve_id": "CVE-2026-110063", "ts": "2026-10-30T07:30:36Z", "type": "new_poc", "url": "https://github.com/mehmet-emir-eroglu/CVE-2026-110063"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-30T07:32:46Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/node2shell-check"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-30T07:32:46Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/http2shell-check"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-30T07:32:46Z", "type": "new_poc", "url": "https://github.com/0xredash/CVE-2026-111497"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-30T07:32:47Z", "type": "new_poc", "url": "https://github.com/mehmet-emir-eroglu/CVE-2026-111497"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-30T07:32:48Z", "type": "new_poc", "url": "https://github.com/amier-ge/Node2Shell"}
+{"cve_id": "CVE-2026-110912", "ts": "2026-10-30T07:33:52Z", "type": "new_poc", "url": "https://github.com/0xredash/CVE-2026-110912"}
