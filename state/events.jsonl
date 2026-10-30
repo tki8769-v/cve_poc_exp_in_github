@@ -7817,3 +7817,16 @@
 {"cve_id": "CVE-2026-58120", "ts": "2026-10-30T21:56:51Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-60111", "ts": "2026-10-30T21:56:57Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2024-51482", "ts": "2026-10-30T22:10:41Z", "type": "new_poc", "url": "https://github.com/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC"}
+{"cve_id": "CVE-2026-117174", "ts": "2026-10-30T22:20:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58118", "ts": "2026-10-30T22:21:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58119", "ts": "2026-10-30T22:21:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58120", "ts": "2026-10-30T22:21:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60111", "ts": "2026-10-30T22:21:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-67203", "ts": "2026-10-30T22:21:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-67205", "ts": "2026-10-30T22:21:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-37679", "ts": "2026-10-30T22:31:16Z", "type": "new_poc", "url": "https://github.com/krevetkqqq/CVE-2023-37679"}
+{"cve_id": "CVE-2026-61515", "ts": "2026-10-30T22:31:17Z", "type": "new_poc", "url": "https://github.com/krevetkqqq/CVE-2026-61515"}
+{"cve_id": "CVE-2024-9644", "ts": "2026-10-30T22:31:17Z", "type": "new_poc", "url": "https://github.com/krevetkqqq/CVE-2024-9644"}
+{"cve_id": "CVE-2019-7256", "ts": "2026-10-30T22:31:18Z", "type": "new_poc", "url": "https://github.com/krevetkqqq/CVE-2019-7256"}
+{"cve_id": "CVE-2014-9583", "ts": "2026-10-30T22:31:18Z", "type": "new_poc", "url": "https://github.com/krevetkqqq/CVE-2014-9583"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-30T22:31:25Z", "type": "new_poc", "url": "https://github.com/flynnsmc-lgtm/qt-t-shield"}

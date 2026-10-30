@@ -3,6 +3,14 @@
 
 - [https://github.com/krevetkqqq/CVE-2014-8361](https://github.com/krevetkqqq/CVE-2014-8361) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2014-8361.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2014-8361.svg)
 
+## CVE-2014-9583
+
+- [https://github.com/krevetkqqq/CVE-2014-9583](https://github.com/krevetkqqq/CVE-2014-9583) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2014-9583.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2014-9583.svg)
+
+## CVE-2019-7256
+
+- [https://github.com/krevetkqqq/CVE-2019-7256](https://github.com/krevetkqqq/CVE-2019-7256) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2019-7256.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2019-7256.svg)
+
 ## CVE-2019-7304
 
 - [https://github.com/Kaine105/Document-Linux-Privilege-Escalation](https://github.com/Kaine105/Document-Linux-Privilege-Escalation) : ![starts](https://img.shields.io/github/stars/Kaine105/Document-Linux-Privilege-Escalation.svg) ![forks](https://img.shields.io/github/forks/Kaine105/Document-Linux-Privilege-Escalation.svg)
@@ -34,6 +42,10 @@
 ## CVE-2023-32315
 
 - [https://github.com/krevetkqqq/cve-2023-32315-openfire-lab](https://github.com/krevetkqqq/cve-2023-32315-openfire-lab) : ![starts](https://img.shields.io/github/stars/krevetkqqq/cve-2023-32315-openfire-lab.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/cve-2023-32315-openfire-lab.svg)
+
+## CVE-2023-37679
+
+- [https://github.com/krevetkqqq/CVE-2023-37679](https://github.com/krevetkqqq/CVE-2023-37679) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2023-37679.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2023-37679.svg)
 
 ## CVE-2023-39780
 
@@ -86,6 +98,10 @@
 ## CVE-2024-9441
 
 - [https://github.com/krevetkqqq/CVE-2024-9441](https://github.com/krevetkqqq/CVE-2024-9441) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2024-9441.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2024-9441.svg)
+
+## CVE-2024-9644
+
+- [https://github.com/krevetkqqq/CVE-2024-9644](https://github.com/krevetkqqq/CVE-2024-9644) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2024-9644.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2024-9644.svg)
 
 ## CVE-2025-0890
 
@@ -183,6 +199,7 @@ Note that this vulnerability can only be exploited prior to the device being onb
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
 
 - [https://github.com/ArchonXDeadLocksecurity/ArchonX-PHP2Shell](https://github.com/ArchonXDeadLocksecurity/ArchonX-PHP2Shell) : ![starts](https://img.shields.io/github/stars/ArchonXDeadLocksecurity/ArchonX-PHP2Shell.svg) ![forks](https://img.shields.io/github/forks/ArchonXDeadLocksecurity/ArchonX-PHP2Shell.svg)
+- [https://github.com/flynnsmc-lgtm/qt-t-shield](https://github.com/flynnsmc-lgtm/qt-t-shield) : ![starts](https://img.shields.io/github/stars/flynnsmc-lgtm/qt-t-shield.svg) ![forks](https://img.shields.io/github/forks/flynnsmc-lgtm/qt-t-shield.svg)
 - [https://github.com/iliaal/php2shell](https://github.com/iliaal/php2shell) : ![starts](https://img.shields.io/github/stars/iliaal/php2shell.svg) ![forks](https://img.shields.io/github/forks/iliaal/php2shell.svg)
 - [https://github.com/liztrr01/php2shell](https://github.com/liztrr01/php2shell) : ![starts](https://img.shields.io/github/stars/liztrr01/php2shell.svg) ![forks](https://img.shields.io/github/forks/liztrr01/php2shell.svg)
 
@@ -329,6 +346,10 @@ type} and never
 
 - [https://github.com/0xredash/CVE-2026-54121](https://github.com/0xredash/CVE-2026-54121) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2026-54121.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2026-54121.svg)
 - [https://github.com/AnubisRedTeam/CVE-2026-54121-Certighost](https://github.com/AnubisRedTeam/CVE-2026-54121-Certighost) : ![starts](https://img.shields.io/github/stars/AnubisRedTeam/CVE-2026-54121-Certighost.svg) ![forks](https://img.shields.io/github/forks/AnubisRedTeam/CVE-2026-54121-Certighost.svg)
+
+## CVE-2026-61515
+
+- [https://github.com/krevetkqqq/CVE-2026-61515](https://github.com/krevetkqqq/CVE-2026-61515) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2026-61515.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2026-61515.svg)
 
 ## CVE-2026-64560
 > In the Linux kernel, the following vulnerability has been resolved:

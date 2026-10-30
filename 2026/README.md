@@ -1511,6 +1511,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/liztrr01/php2shell](https://github.com/liztrr01/php2shell) : ![starts](https://img.shields.io/github/stars/liztrr01/php2shell.svg) ![forks](https://img.shields.io/github/forks/liztrr01/php2shell.svg)
 
+- [https://github.com/flynnsmc-lgtm/qt-t-shield](https://github.com/flynnsmc-lgtm/qt-t-shield) : ![starts](https://img.shields.io/github/stars/flynnsmc-lgtm/qt-t-shield.svg) ![forks](https://img.shields.io/github/forks/flynnsmc-lgtm/qt-t-shield.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -7981,6 +7983,10 @@ This issue affects Elementor Website Builder: from n/a through 4.3.1.
  nginx ignition is a user interface for the nginx web server. Prior to version 2.41.1, `POST /api/users/onboarding/finish` is registered as anonymous (unauthenticated) and creates a user with full ReadWrite admin permissions. Because the handler uses a check-then-act (TOCTOU) pattern between the "onboarding already completed?" check and the user-creation write, with no atomic guard, a remote unauthenticated attacker who can reach an instance in its pre-onboarding state can create an administrator account for themselves — and concurrent requests can create multiple admin accounts in a single race. Version 2.41.1 patches the issue.
 
 - [https://github.com/abraxas/CVE-2026-61628](https://github.com/abraxas/CVE-2026-61628) : ![starts](https://img.shields.io/github/stars/abraxas/CVE-2026-61628.svg) ![forks](https://img.shields.io/github/forks/abraxas/CVE-2026-61628.svg)
+
+## CVE-2026-61515
+
+- [https://github.com/krevetkqqq/CVE-2026-61515](https://github.com/krevetkqqq/CVE-2026-61515) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2026-61515.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2026-61515.svg)
 
 ## CVE-2026-61511
  vBulletin 5.x through 5.7.5 and 6.x through 6.2.1 contains an eval injection vulnerability in the vB5_Template_Runtime::runMaths() method within the template runtime that allows unauthenticated remote attackers to execute arbitrary PHP code by supplying crafted input through the pagenav[pagenumber] parameter. Attackers can exploit the insufficiently restrictive regex filter by using phpfuck-style encoding with permitted characters to inject and execute arbitrary PHP code via the unauthenticated ajax/render template route without any authentication.

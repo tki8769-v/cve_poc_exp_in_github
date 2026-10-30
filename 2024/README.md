@@ -9446,6 +9446,10 @@ unauthenticated user to modify compliance scripts due to insecure temporary dire
 
 - [https://github.com/PraiseImafidon/Version_Vulnerability_Scanner](https://github.com/PraiseImafidon/Version_Vulnerability_Scanner) : ![starts](https://img.shields.io/github/stars/PraiseImafidon/Version_Vulnerability_Scanner.svg) ![forks](https://img.shields.io/github/forks/PraiseImafidon/Version_Vulnerability_Scanner.svg)
 
+## CVE-2024-9644
+
+- [https://github.com/krevetkqqq/CVE-2024-9644](https://github.com/krevetkqqq/CVE-2024-9644) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2024-9644.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2024-9644.svg)
+
 ## CVE-2024-9593
  The Time Clock plugin and Time Clock Pro plugin for WordPress are vulnerable to Remote Code Execution in versions up to, and including, 1.2.2 (for Time Clock) and 1.1.4 (for Time Clock Pro) via the 'etimeclockwp_load_function_callback' function. This allows unauthenticated attackers to execute code on the server. The invoked function's parameters cannot be specified.
 

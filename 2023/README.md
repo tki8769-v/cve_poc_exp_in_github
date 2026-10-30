@@ -3563,6 +3563,10 @@ This vulnerability impacts Apache Superset versions 1.5.0 up to and including 2.
 
 - [https://github.com/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below](https://github.com/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below) : ![starts](https://img.shields.io/github/stars/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below.svg) ![forks](https://img.shields.io/github/forks/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below.svg)
 
+## CVE-2023-37679
+
+- [https://github.com/krevetkqqq/CVE-2023-37679](https://github.com/krevetkqqq/CVE-2023-37679) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2023-37679.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2023-37679.svg)
+
 ## CVE-2023-37635
  UVDesk Community Skeleton v1.1.1 allows unauthenticated attackers to perform brute force attacks on the login page to gain access to the application.
 

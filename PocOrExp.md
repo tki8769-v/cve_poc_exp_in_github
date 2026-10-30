@@ -1512,6 +1512,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/liztrr01/php2shell](https://github.com/liztrr01/php2shell) : ![starts](https://img.shields.io/github/stars/liztrr01/php2shell.svg) ![forks](https://img.shields.io/github/forks/liztrr01/php2shell.svg)
 
+- [https://github.com/flynnsmc-lgtm/qt-t-shield](https://github.com/flynnsmc-lgtm/qt-t-shield) : ![starts](https://img.shields.io/github/stars/flynnsmc-lgtm/qt-t-shield.svg) ![forks](https://img.shields.io/github/forks/flynnsmc-lgtm/qt-t-shield.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -7982,6 +7984,10 @@ This issue affects Elementor Website Builder: from n/a through 4.3.1.
  nginx ignition is a user interface for the nginx web server. Prior to version 2.41.1, `POST /api/users/onboarding/finish` is registered as anonymous (unauthenticated) and creates a user with full ReadWrite admin permissions. Because the handler uses a check-then-act (TOCTOU) pattern between the "onboarding already completed?" check and the user-creation write, with no atomic guard, a remote unauthenticated attacker who can reach an instance in its pre-onboarding state can create an administrator account for themselves — and concurrent requests can create multiple admin accounts in a single race. Version 2.41.1 patches the issue.
 
 - [https://github.com/abraxas/CVE-2026-61628](https://github.com/abraxas/CVE-2026-61628) : ![starts](https://img.shields.io/github/stars/abraxas/CVE-2026-61628.svg) ![forks](https://img.shields.io/github/forks/abraxas/CVE-2026-61628.svg)
+
+## CVE-2026-61515
+
+- [https://github.com/krevetkqqq/CVE-2026-61515](https://github.com/krevetkqqq/CVE-2026-61515) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2026-61515.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2026-61515.svg)
 
 ## CVE-2026-61511
  vBulletin 5.x through 5.7.5 and 6.x through 6.2.1 contains an eval injection vulnerability in the vB5_Template_Runtime::runMaths() method within the template runtime that allows unauthenticated remote attackers to execute arbitrary PHP code by supplying crafted input through the pagenav[pagenumber] parameter. Attackers can exploit the insufficiently restrictive regex filter by using phpfuck-style encoding with permitted characters to inject and execute arbitrary PHP code via the unauthenticated ajax/render template route without any authentication.
@@ -51439,6 +51445,10 @@ unauthenticated user to modify compliance scripts due to insecure temporary dire
 
 - [https://github.com/PraiseImafidon/Version_Vulnerability_Scanner](https://github.com/PraiseImafidon/Version_Vulnerability_Scanner) : ![starts](https://img.shields.io/github/stars/PraiseImafidon/Version_Vulnerability_Scanner.svg) ![forks](https://img.shields.io/github/forks/PraiseImafidon/Version_Vulnerability_Scanner.svg)
 
+## CVE-2024-9644
+
+- [https://github.com/krevetkqqq/CVE-2024-9644](https://github.com/krevetkqqq/CVE-2024-9644) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2024-9644.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2024-9644.svg)
+
 ## CVE-2024-9593
  The Time Clock plugin and Time Clock Pro plugin for WordPress are vulnerable to Remote Code Execution in versions up to, and including, 1.2.2 (for Time Clock) and 1.1.4 (for Time Clock Pro) via the 'etimeclockwp_load_function_callback' function. This allows unauthenticated attackers to execute code on the server. The invoked function's parameters cannot be specified.
 
@@ -58419,6 +58429,10 @@ This vulnerability impacts Apache Superset versions 1.5.0 up to and including 2.
  i-doit Pro v25 and below was discovered to be vulnerable to path traversal.
 
 - [https://github.com/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below](https://github.com/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below) : ![starts](https://img.shields.io/github/stars/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below.svg) ![forks](https://img.shields.io/github/forks/leekenghwa/CVE-2023-37739---Path-Traversal-in-i-doit-Pro-25-and-below.svg)
+
+## CVE-2023-37679
+
+- [https://github.com/krevetkqqq/CVE-2023-37679](https://github.com/krevetkqqq/CVE-2023-37679) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2023-37679.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2023-37679.svg)
 
 ## CVE-2023-37635
  UVDesk Community Skeleton v1.1.1 allows unauthenticated attackers to perform brute force attacks on the login page to gain access to the application.
@@ -93624,6 +93638,10 @@ use after free.
 
 - [https://github.com/Kaine105/Document-Linux-Privilege-Escalation](https://github.com/Kaine105/Document-Linux-Privilege-Escalation) : ![starts](https://img.shields.io/github/stars/Kaine105/Document-Linux-Privilege-Escalation.svg) ![forks](https://img.shields.io/github/forks/Kaine105/Document-Linux-Privilege-Escalation.svg)
 
+## CVE-2019-7256
+
+- [https://github.com/krevetkqqq/CVE-2019-7256](https://github.com/krevetkqqq/CVE-2019-7256) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2019-7256.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2019-7256.svg)
+
 ## CVE-2019-7238
  Sonatype Nexus Repository Manager before 3.15.0 has Incorrect Access Control.
 
@@ -106136,6 +106154,10 @@ Only traffic directed to the affected system can be used to exploit this vulnera
  Hitron CVE-30360 devices use a 578A958E3DD933FC DES key that is shared across different customers' installations, which makes it easier for attackers to obtain sensitive information by decrypting a backup configuration file, as demonstrated by a password hash in the um_auth_account_password field.
 
 - [https://github.com/aimoda/hitron-cfg-decrypter](https://github.com/aimoda/hitron-cfg-decrypter) : ![starts](https://img.shields.io/github/stars/aimoda/hitron-cfg-decrypter.svg) ![forks](https://img.shields.io/github/forks/aimoda/hitron-cfg-decrypter.svg)
+
+## CVE-2014-9583
+
+- [https://github.com/krevetkqqq/CVE-2014-9583](https://github.com/krevetkqqq/CVE-2014-9583) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2014-9583.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2014-9583.svg)
 
 ## CVE-2014-9495
  Heap-based buffer overflow in the png_combine_row function in libpng before 1.5.21 and 1.6.x before 1.6.16, when running on 64-bit systems, might allow context-dependent attackers to execute arbitrary code via a "very wide interlaced" PNG image.

@@ -3638,6 +3638,10 @@ use after free.
 
 - [https://github.com/Kaine105/Document-Linux-Privilege-Escalation](https://github.com/Kaine105/Document-Linux-Privilege-Escalation) : ![starts](https://img.shields.io/github/stars/Kaine105/Document-Linux-Privilege-Escalation.svg) ![forks](https://img.shields.io/github/forks/Kaine105/Document-Linux-Privilege-Escalation.svg)
 
+## CVE-2019-7256
+
+- [https://github.com/krevetkqqq/CVE-2019-7256](https://github.com/krevetkqqq/CVE-2019-7256) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2019-7256.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2019-7256.svg)
+
 ## CVE-2019-7238
  Sonatype Nexus Repository Manager before 3.15.0 has Incorrect Access Control.
 

@@ -3,6 +3,10 @@
 
 - [https://github.com/aimoda/hitron-cfg-decrypter](https://github.com/aimoda/hitron-cfg-decrypter) : ![starts](https://img.shields.io/github/stars/aimoda/hitron-cfg-decrypter.svg) ![forks](https://img.shields.io/github/forks/aimoda/hitron-cfg-decrypter.svg)
 
+## CVE-2014-9583
+
+- [https://github.com/krevetkqqq/CVE-2014-9583](https://github.com/krevetkqqq/CVE-2014-9583) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2014-9583.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2014-9583.svg)
+
 ## CVE-2014-9495
  Heap-based buffer overflow in the png_combine_row function in libpng before 1.5.21 and 1.6.x before 1.6.16, when running on 64-bit systems, might allow context-dependent attackers to execute arbitrary code via a "very wide interlaced" PNG image.
 
