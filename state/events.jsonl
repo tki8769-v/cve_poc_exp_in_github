@@ -7811,3 +7811,9 @@
 {"cve_id": "CVE-2025-24071", "ts": "2026-10-30T21:48:03Z", "type": "new_poc", "url": "https://github.com/c4bsec/Windows-Explorer-CVE-2025-24071"}
 {"cve_id": "CVE-2026-54121", "ts": "2026-10-30T21:49:19Z", "type": "new_poc", "url": "https://github.com/0xredash/CVE-2026-54121"}
 {"cve_id": "CVE-2026-54121", "ts": "2026-10-30T21:49:19Z", "type": "new_poc", "url": "https://github.com/AnubisRedTeam/CVE-2026-54121-Certighost"}
+{"cve_id": "CVE-2026-117174", "ts": "2026-10-30T21:55:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58118", "ts": "2026-10-30T21:56:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58119", "ts": "2026-10-30T21:56:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58120", "ts": "2026-10-30T21:56:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60111", "ts": "2026-10-30T21:56:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-51482", "ts": "2026-10-30T22:10:41Z", "type": "new_poc", "url": "https://github.com/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC"}

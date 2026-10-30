@@ -13,6 +13,7 @@
 - [https://github.com/shouvikkkk/oauth-sink-check](https://github.com/shouvikkkk/oauth-sink-check) : ![starts](https://img.shields.io/github/stars/shouvikkkk/oauth-sink-check.svg) ![forks](https://img.shields.io/github/forks/shouvikkkk/oauth-sink-check.svg)
 
 ## CVE-2026-118776
+> Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, the affected implementation used decipher.finish(), CBC and ECB modes, PKCS#7 padding to process the relevant input or security decision. node-forge validated only the final byte of PKCS#7 padding during CBC and ECB decryption and accepted zero, oversized, or mismatched padding bytes. Malformed ciphertext could consequently be accepted and up to four plaintext blocks could be sile
 
 - [https://github.com/zebbernCVE/CVE-2026-118776](https://github.com/zebbernCVE/CVE-2026-118776) : ![starts](https://img.shields.io/github/stars/zebbernCVE/CVE-2026-118776.svg) ![forks](https://img.shields.io/github/forks/zebbernCVE/CVE-2026-118776.svg)
 
@@ -43089,6 +43090,8 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 - [https://github.com/ledksv/cctv](https://github.com/ledksv/cctv) : ![starts](https://img.shields.io/github/stars/ledksv/cctv.svg) ![forks](https://img.shields.io/github/forks/ledksv/cctv.svg)
 
 - [https://github.com/diamorphine666/CVE-2024-51482](https://github.com/diamorphine666/CVE-2024-51482) : ![starts](https://img.shields.io/github/stars/diamorphine666/CVE-2024-51482.svg) ![forks](https://img.shields.io/github/forks/diamorphine666/CVE-2024-51482.svg)
+
+- [https://github.com/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC](https://github.com/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC) : ![starts](https://img.shields.io/github/stars/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC.svg) ![forks](https://img.shields.io/github/forks/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC.svg)
 
 ## CVE-2024-51442
  Command Injection in Minidlna version v1.3.3 and before allows an attacker to execute arbitrary OS commands via a specially crafted minidlna.conf configuration file.

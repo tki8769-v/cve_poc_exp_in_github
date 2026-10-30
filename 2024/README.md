@@ -1098,6 +1098,8 @@ Users are recommended to upgrade to version 11.0.0, 10.1.31 or 9.0.96, which fix
 
 - [https://github.com/diamorphine666/CVE-2024-51482](https://github.com/diamorphine666/CVE-2024-51482) : ![starts](https://img.shields.io/github/stars/diamorphine666/CVE-2024-51482.svg) ![forks](https://img.shields.io/github/forks/diamorphine666/CVE-2024-51482.svg)
 
+- [https://github.com/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC](https://github.com/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC) : ![starts](https://img.shields.io/github/stars/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC.svg) ![forks](https://img.shields.io/github/forks/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC.svg)
+
 ## CVE-2024-51442
  Command Injection in Minidlna version v1.3.3 and before allows an attacker to execute arbitrary OS commands via a specially crafted minidlna.conf configuration file.
 

@@ -12,6 +12,7 @@
 - [https://github.com/shouvikkkk/oauth-sink-check](https://github.com/shouvikkkk/oauth-sink-check) : ![starts](https://img.shields.io/github/stars/shouvikkkk/oauth-sink-check.svg) ![forks](https://img.shields.io/github/forks/shouvikkkk/oauth-sink-check.svg)
 
 ## CVE-2026-118776
+> Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, the affected implementation used decipher.finish(), CBC and ECB modes, PKCS#7 padding to process the relevant input or security decision. node-forge validated only the final byte of PKCS#7 padding during CBC and ECB decryption and accepted zero, oversized, or mismatched padding bytes. Malformed ciphertext could consequently be accepted and up to four plaintext blocks could be sile
 
 - [https://github.com/zebbernCVE/CVE-2026-118776](https://github.com/zebbernCVE/CVE-2026-118776) : ![starts](https://img.shields.io/github/stars/zebbernCVE/CVE-2026-118776.svg) ![forks](https://img.shields.io/github/forks/zebbernCVE/CVE-2026-118776.svg)
 

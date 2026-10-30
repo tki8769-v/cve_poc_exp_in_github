@@ -79,6 +79,10 @@
 
 - [https://github.com/krevetkqqq/CVE-2024-40891](https://github.com/krevetkqqq/CVE-2024-40891) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2024-40891.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2024-40891.svg)
 
+## CVE-2024-51482
+
+- [https://github.com/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC](https://github.com/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC) : ![starts](https://img.shields.io/github/stars/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC.svg) ![forks](https://img.shields.io/github/forks/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC.svg)
+
 ## CVE-2024-9441
 
 - [https://github.com/krevetkqqq/CVE-2024-9441](https://github.com/krevetkqqq/CVE-2024-9441) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2024-9441.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2024-9441.svg)
@@ -260,6 +264,7 @@ On an affected system, any authenticated user can gain operator privileges and m
 - [https://github.com/Primandito/CVE-2026-117184](https://github.com/Primandito/CVE-2026-117184) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-117184.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-117184.svg)
 
 ## CVE-2026-118776
+> Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, the affected implementation used decipher.finish(), CBC and ECB modes, PKCS#7 padding to process the relevant input or security decision. node-forge validated only the final byte of PKCS#7 padding during CBC and ECB decryption and accepted zero, oversized, or mismatched padding bytes. Malformed ciphertext could consequently be accepted and up to four plaintext blocks could be sile
 
 - [https://github.com/zebbernCVE/CVE-2026-118776](https://github.com/zebbernCVE/CVE-2026-118776) : ![starts](https://img.shields.io/github/stars/zebbernCVE/CVE-2026-118776.svg) ![forks](https://img.shields.io/github/forks/zebbernCVE/CVE-2026-118776.svg)
 
