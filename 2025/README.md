@@ -8657,6 +8657,8 @@ Users are recommended to upgrade to version 9.0.104, 10.1.40 or 11.0.6 which fix
 
 - [https://github.com/stationedK-06/DarkSword_analysis](https://github.com/stationedK-06/DarkSword_analysis) : ![starts](https://img.shields.io/github/stars/stationedK-06/DarkSword_analysis.svg) ![forks](https://img.shields.io/github/forks/stationedK-06/DarkSword_analysis.svg)
 
+- [https://github.com/hoarseprairie/CVE-2025-31277-WebKit-Memory-Corruption-Patch-Bypass](https://github.com/hoarseprairie/CVE-2025-31277-WebKit-Memory-Corruption-Patch-Bypass) : ![starts](https://img.shields.io/github/stars/hoarseprairie/CVE-2025-31277-WebKit-Memory-Corruption-Patch-Bypass.svg) ![forks](https://img.shields.io/github/forks/hoarseprairie/CVE-2025-31277-WebKit-Memory-Corruption-Patch-Bypass.svg)
+
 ## CVE-2025-31258
  This issue was addressed by removing the vulnerable code. This issue is fixed in macOS Sequoia 15.5. An app may be able to break out of its sandbox.
 

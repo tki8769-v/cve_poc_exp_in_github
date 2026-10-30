@@ -7758,3 +7758,8 @@
 {"cve_id": "CVE-2025-43520", "ts": "2026-10-30T16:02:22Z", "type": "new_poc", "url": "https://github.com/df2029/cs-build"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-30T16:02:22Z", "type": "new_poc", "url": "https://github.com/liztrr01/php2shell"}
 {"cve_id": "CVE-2019-7304", "ts": "2026-10-30T16:11:29Z", "type": "new_poc", "url": "https://github.com/Kaine105/Document-Linux-Privilege-Escalation"}
+{"cve_id": "CVE-2026-117174", "ts": "2026-10-30T16:15:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-30T16:25:38Z", "type": "new_poc", "url": "https://github.com/xen0bit/netprobe-cve-2026-98432"}
+{"cve_id": "CVE-2025-31277", "ts": "2026-10-30T16:25:41Z", "type": "new_poc", "url": "https://github.com/hoarseprairie/CVE-2025-31277-WebKit-Memory-Corruption-Patch-Bypass"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-30T16:25:42Z", "type": "new_poc", "url": "https://github.com/pob220/ubuntu-noble-tcp-rcu-backport"}
+{"cve_id": "CVE-2020-17103", "ts": "2026-10-30T16:34:54Z", "type": "new_poc", "url": "https://github.com/0xredash/CVE-2020-17103"}
