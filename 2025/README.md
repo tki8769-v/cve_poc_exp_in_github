@@ -9238,6 +9238,8 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
 
 - [https://github.com/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass](https://github.com/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-29927-nextjs-middleware-bypass.svg)
 
+- [https://github.com/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass](https://github.com/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass) : ![starts](https://img.shields.io/github/stars/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass.svg) ![forks](https://img.shields.io/github/forks/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass.svg)
+
 ## CVE-2025-29824
  Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally.
 
@@ -9420,6 +9422,10 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
  Volmarg Personal Management System 1.4.65 is vulnerable to Cross Site Request Forgery (CSRF) allowing attackers to execute arbitrary code and obtain sensitive information via the SameSite cookie attribute defaults value set to none
 
 - [https://github.com/abbisQQ/CVE-2025-28355](https://github.com/abbisQQ/CVE-2025-28355) : ![starts](https://img.shields.io/github/stars/abbisQQ/CVE-2025-28355.svg) ![forks](https://img.shields.io/github/forks/abbisQQ/CVE-2025-28355.svg)
+
+## CVE-2025-28137
+
+- [https://github.com/krevetkqqq/CVE-2025-28137](https://github.com/krevetkqqq/CVE-2025-28137) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2025-28137.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2025-28137.svg)
 
 ## CVE-2025-28121
  code-projects Online Exam Mastering System 1.0 is vulnerable to Cross Site Scripting (XSS) in feedback.php via the "q" parameter allowing remote attackers to execute arbitrary code.
@@ -10679,6 +10685,8 @@ Thank you [lio346](https://hackerone.com/lio346) for reporting this!
 
 - [https://github.com/Wind010/CVE-2025-24054_PoC](https://github.com/Wind010/CVE-2025-24054_PoC) : ![starts](https://img.shields.io/github/stars/Wind010/CVE-2025-24054_PoC.svg) ![forks](https://img.shields.io/github/forks/Wind010/CVE-2025-24054_PoC.svg)
 
+- [https://github.com/c4bsec/Windows-Explorer-CVE-2025-24071](https://github.com/c4bsec/Windows-Explorer-CVE-2025-24071) : ![starts](https://img.shields.io/github/stars/c4bsec/Windows-Explorer-CVE-2025-24071.svg) ![forks](https://img.shields.io/github/forks/c4bsec/Windows-Explorer-CVE-2025-24071.svg)
+
 ## CVE-2025-24054
  External control of file name or path in Windows NTLM allows an unauthorized attacker to perform spoofing over a network.
 
@@ -11706,6 +11714,8 @@ The specific flaw exists within the parsing of SFD files. The issue results from
 - [https://github.com/SAIM28826/CVE-2025-14847-poc](https://github.com/SAIM28826/CVE-2025-14847-poc) : ![starts](https://img.shields.io/github/stars/SAIM28826/CVE-2025-14847-poc.svg) ![forks](https://img.shields.io/github/forks/SAIM28826/CVE-2025-14847-poc.svg)
 
 - [https://github.com/SAIM28826/TEST](https://github.com/SAIM28826/TEST) : ![starts](https://img.shields.io/github/stars/SAIM28826/TEST.svg) ![forks](https://img.shields.io/github/forks/SAIM28826/TEST.svg)
+
+- [https://github.com/t3chn0t3s-org/cve-2025-14847-scanner](https://github.com/t3chn0t3s-org/cve-2025-14847-scanner) : ![starts](https://img.shields.io/github/stars/t3chn0t3s-org/cve-2025-14847-scanner.svg) ![forks](https://img.shields.io/github/forks/t3chn0t3s-org/cve-2025-14847-scanner.svg)
 
 ## CVE-2025-14783
  The Easy Digital Downloads plugin for WordPress is vulnerable to Unvalidated Redirect in all versions up to, and including, 3.6.2. This is due to insufficient validation on the redirect url supplied via the 'edd_redirect' parameter. This makes it possible for unauthenticated attackers to redirect users with the password reset email to potentially malicious sites if they can successfully trick them into performing an action.
@@ -15479,6 +15489,8 @@ Bypass operating system verification via exploiting the NV_Read functionality du
 Insecure default credentials for the Telnet function in the legacy DSL CPE Zyxel VMG4325-B10A firmware version 1.00(AAFR.4)C0_20170615 could allow an attacker to log in to the management interface if the administrators have the option to change the default credentials but fail to do so.
 
 - [https://github.com/Danyw24/zyxel-p870hn-hardware-hacking](https://github.com/Danyw24/zyxel-p870hn-hardware-hacking) : ![starts](https://img.shields.io/github/stars/Danyw24/zyxel-p870hn-hardware-hacking.svg) ![forks](https://img.shields.io/github/forks/Danyw24/zyxel-p870hn-hardware-hacking.svg)
+
+- [https://github.com/krevetkqqq/CVE-2025-0890](https://github.com/krevetkqqq/CVE-2025-0890) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2025-0890.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2025-0890.svg)
 
 ## CVE-2025-0886
  An incorrect permissions vulnerability was reported in Elliptic Labs Virtual Lock Sensor that could allow a local, authenticated user to escalate privileges.

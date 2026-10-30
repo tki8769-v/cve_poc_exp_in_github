@@ -906,6 +906,8 @@ Users are recommended to upgrade to version 18.12.10
 
 - [https://github.com/0x656565/CVE-2023-48022](https://github.com/0x656565/CVE-2023-48022) : ![starts](https://img.shields.io/github/stars/0x656565/CVE-2023-48022.svg) ![forks](https://img.shields.io/github/forks/0x656565/CVE-2023-48022.svg)
 
+- [https://github.com/krevetkqqq/CVE-2023-48022](https://github.com/krevetkqqq/CVE-2023-48022) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2023-48022.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2023-48022.svg)
+
 ## CVE-2023-47889
  The Android application BINHDRM26 com.bdrm.superreboot 1.0.3, exposes several critical actions through its exported broadcast receivers. These exposed actions can allow any app on the device to send unauthorized broadcasts, leading to unintended consequences. The vulnerability is particularly concerning because these actions include powering off, system reboot & entering recovery mode.
 
@@ -1977,6 +1979,8 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 
 - [https://github.com/IamSaishi/CVE-2023-43364_Exploit](https://github.com/IamSaishi/CVE-2023-43364_Exploit) : ![starts](https://img.shields.io/github/stars/IamSaishi/CVE-2023-43364_Exploit.svg) ![forks](https://img.shields.io/github/forks/IamSaishi/CVE-2023-43364_Exploit.svg)
 
+- [https://github.com/diamorphine666/CVE-2023-43364](https://github.com/diamorphine666/CVE-2023-43364) : ![starts](https://img.shields.io/github/stars/diamorphine666/CVE-2023-43364.svg) ![forks](https://img.shields.io/github/forks/diamorphine666/CVE-2023-43364.svg)
+
 ## CVE-2023-43360
  Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Top Directory parameter in the File Picker Menu component.
 
@@ -2275,6 +2279,10 @@ Users are recommended to upgrade to version 2.4.58, which fixes the issue.
 
 - [https://github.com/jhonnybonny/CVE-2023-42789](https://github.com/jhonnybonny/CVE-2023-42789) : ![starts](https://img.shields.io/github/stars/jhonnybonny/CVE-2023-42789.svg) ![forks](https://img.shields.io/github/forks/jhonnybonny/CVE-2023-42789.svg)
 
+## CVE-2023-42495
+
+- [https://github.com/krevetkqqq/CVE-2023-42495](https://github.com/krevetkqqq/CVE-2023-42495) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2023-42495.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2023-42495.svg)
+
 ## CVE-2023-42471
  The wave.ai.browser application through 1.0.35 for Android allows a remote attacker to execute arbitrary JavaScript code via a crafted intent. It contains a manifest entry that exports the wave.ai.browser.ui.splash.SplashScreen activity. This activity uses a WebView component to display web content and doesn't adequately validate or sanitize the URI or any extra data passed in the intent by a third party application (with no permissions).
 
@@ -2566,6 +2574,14 @@ The specific flaw exists within the smtp service, which listens on TCP port 25 b
 
 - [https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE) : ![starts](https://img.shields.io/github/stars/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE.svg) ![forks](https://img.shields.io/github/forks/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE.svg)
 
+## CVE-2023-41348
+
+- [https://github.com/krevetkqqq/CVE-2023-41348](https://github.com/krevetkqqq/CVE-2023-41348) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2023-41348.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2023-41348.svg)
+
+## CVE-2023-41346
+
+- [https://github.com/krevetkqqq/CVE-2023-41346](https://github.com/krevetkqqq/CVE-2023-41346) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2023-41346.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2023-41346.svg)
+
 ## CVE-2023-41320
  GLPI stands for Gestionnaire Libre de Parc Informatique is a Free Asset and IT Management Software package, that provides ITIL Service Desk features, licenses tracking and software auditing. UI layout preferences management can be hijacked to lead to SQL injection. This injection can be use to takeover an administrator account. Users are advised to upgrade to version 10.0.10. There are no known workarounds for this vulnerability.
 
@@ -2616,6 +2632,10 @@ The vulnerability is limited to the ROOT (default) web application.
  code-projects.org Online Job Portal 1.0 is vulnerable to SQL Injection via the Username parameter for "Employer."
 
 - [https://github.com/ASR511-OO7/CVE-2023-41014](https://github.com/ASR511-OO7/CVE-2023-41014) : ![starts](https://img.shields.io/github/stars/ASR511-OO7/CVE-2023-41014.svg) ![forks](https://img.shields.io/github/forks/ASR511-OO7/CVE-2023-41014.svg)
+
+## CVE-2023-41011
+
+- [https://github.com/krevetkqqq/CVE-2023-41011](https://github.com/krevetkqqq/CVE-2023-41011) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2023-41011.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2023-41011.svg)
 
 ## CVE-2023-40989
  SQL injection vulnerbility in jeecgboot jeecg-boot v 3.0, 3.5.3 that allows a remote attacker to execute arbitrary code via a crafted request to the report/jeecgboot/jmreport/queryFieldBySql component.
@@ -2874,6 +2894,10 @@ seconds of becoming unavailable.
 - [https://github.com/demining/RAMnesia-Attack](https://github.com/demining/RAMnesia-Attack) : ![starts](https://img.shields.io/github/stars/demining/RAMnesia-Attack.svg) ![forks](https://img.shields.io/github/forks/demining/RAMnesia-Attack.svg)
 
 - [https://github.com/Xaxis/bitcoin-security](https://github.com/Xaxis/bitcoin-security) : ![starts](https://img.shields.io/github/stars/Xaxis/bitcoin-security.svg) ![forks](https://img.shields.io/github/forks/Xaxis/bitcoin-security.svg)
+
+## CVE-2023-39780
+
+- [https://github.com/krevetkqqq/CVE-2023-39780](https://github.com/krevetkqqq/CVE-2023-39780) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2023-39780.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2023-39780.svg)
 
 ## CVE-2023-39725
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.
@@ -5227,6 +5251,10 @@ Fixed in version 6.4.1.
  vm2 is a sandbox that can run untrusted code with Node's built-in modules. A sandbox escape vulnerability exists in vm2 for versions up to and including 3.9.17. It abuses an unexpected creation of a host object based on the specification of `Proxy`. As a result a threat actor can bypass the sandbox protections to gain remote code execution rights on the host running the sandbox. This vulnerability was patched in the release of version `3.9.18` of `vm2`. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 
 - [https://github.com/AdarkSt/Honeypot_Smart_Infrastructure](https://github.com/AdarkSt/Honeypot_Smart_Infrastructure) : ![starts](https://img.shields.io/github/stars/AdarkSt/Honeypot_Smart_Infrastructure.svg) ![forks](https://img.shields.io/github/forks/AdarkSt/Honeypot_Smart_Infrastructure.svg)
+
+## CVE-2023-32311
+
+- [https://github.com/krevetkqqq/CVE-2023-32311](https://github.com/krevetkqqq/CVE-2023-32311) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2023-32311.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2023-32311.svg)
 
 ## CVE-2023-32309
  PyMdown Extensions is a set of extensions for the `Python-Markdown` markdown project. In affected versions an arbitrary file read is possible when using include file syntax. By using the syntax `--8--"/etc/passwd"` or `--8--"/proc/self/environ"` the content of these files will be rendered in the generated documentation. Additionally, a path relative to a specified, allowed base path can also be used to render the content of a file outside the specified base paths: `--8-- "../../../../etc/passwd"`. Within the Snippets extension, there exists a `base_path` option but the implementation is vulnerable to Directory Traversal. The vulnerable section exists in `get_snippet_path(self, path)` lines 155 to 174 in snippets.py. Any readable file on the host where the plugin is executing may have its content exposed. This can impact any use of Snippets that exposes the use of Snippets to external users. It is never recommended to use Snippets to process user-facing, dynamic content. It is designed to process known content on the backend under the control of the host, but if someone were to accidentally enable it for user-facing content, undesired information could be exposed. This issue has been addressed in version 10.0. Users are advised to upgrade. Users unable to upgrade may restrict relative paths by filtering input.

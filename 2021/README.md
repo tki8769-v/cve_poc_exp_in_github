@@ -5653,6 +5653,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/chudyPB/MDaemon-Advisories](https://github.com/chudyPB/MDaemon-Advisories) : ![starts](https://img.shields.io/github/stars/chudyPB/MDaemon-Advisories.svg) ![forks](https://img.shields.io/github/forks/chudyPB/MDaemon-Advisories.svg)
 
+## CVE-2021-27177
+
+- [https://github.com/krevetkqqq/CVE-2021-27177](https://github.com/krevetkqqq/CVE-2021-27177) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2021-27177.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2021-27177.svg)
+
 ## CVE-2021-27102
  Accellion FTA 9_12_411 and earlier is affected by OS command execution via a local web service call. The fixed version is FTA_9_12_416 and later.
 

@@ -1545,6 +1545,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/dhammon/pfBlockerNg-CVE-2022-40624](https://github.com/dhammon/pfBlockerNg-CVE-2022-40624) : ![starts](https://img.shields.io/github/stars/dhammon/pfBlockerNg-CVE-2022-40624.svg) ![forks](https://img.shields.io/github/forks/dhammon/pfBlockerNg-CVE-2022-40624.svg)
 
+- [https://github.com/krevetkqqq/CVE-2022-40624](https://github.com/krevetkqqq/CVE-2022-40624) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2022-40624.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2022-40624.svg)
+
 ## CVE-2022-40490
  Tiny File Manager v2.4.7 and below was discovered to contain a Cross Site Scripting (XSS) vulnerability. This vulnerability allows attackers to execute arbitrary code via a crafted payload injected into the name of an uploaded or already existing file.
 

@@ -3537,6 +3537,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/Asjidkalam/CVE-2020-8958](https://github.com/Asjidkalam/CVE-2020-8958) : ![starts](https://img.shields.io/github/stars/Asjidkalam/CVE-2020-8958.svg) ![forks](https://img.shields.io/github/forks/Asjidkalam/CVE-2020-8958.svg)
 
+- [https://github.com/krevetkqqq/CVE-2020-8958](https://github.com/krevetkqqq/CVE-2020-8958) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2020-8958.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2020-8958.svg)
+
 ## CVE-2020-8950
  The AUEPLauncher service in Radeon AMD User Experience Program Launcher through 1.0.0.1 on Windows allows elevation of privilege by placing a crafted file in %PROGRAMDATA%\AMD\PPC\upload and then creating a symbolic link in %PROGRAMDATA%\AMD\PPC\temp that points to an arbitrary folder with an arbitrary file name.
 

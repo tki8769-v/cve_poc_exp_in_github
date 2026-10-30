@@ -3148,6 +3148,8 @@ A post-authentication command injection vulnerability in the management commands
 
 - [https://github.com/Danyw24/zyxel-p870hn-hardware-hacking](https://github.com/Danyw24/zyxel-p870hn-hardware-hacking) : ![starts](https://img.shields.io/github/stars/Danyw24/zyxel-p870hn-hardware-hacking.svg) ![forks](https://img.shields.io/github/forks/Danyw24/zyxel-p870hn-hardware-hacking.svg)
 
+- [https://github.com/krevetkqqq/CVE-2024-40891](https://github.com/krevetkqqq/CVE-2024-40891) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2024-40891.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2024-40891.svg)
+
 ## CVE-2024-40842
  An issue was addressed with improved validation of environment variables. This issue is fixed in macOS Sequoia 15. An app may be able to access user-sensitive data.
 
@@ -9523,6 +9525,8 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [https://github.com/adhikara13/CVE-2024-9441](https://github.com/adhikara13/CVE-2024-9441) : ![starts](https://img.shields.io/github/stars/adhikara13/CVE-2024-9441.svg) ![forks](https://img.shields.io/github/forks/adhikara13/CVE-2024-9441.svg)
 
 - [https://github.com/jk-mayne/CVE-2024-9441-Checker](https://github.com/jk-mayne/CVE-2024-9441-Checker) : ![starts](https://img.shields.io/github/stars/jk-mayne/CVE-2024-9441-Checker.svg) ![forks](https://img.shields.io/github/forks/jk-mayne/CVE-2024-9441-Checker.svg)
+
+- [https://github.com/krevetkqqq/CVE-2024-9441](https://github.com/krevetkqqq/CVE-2024-9441) : ![starts](https://img.shields.io/github/stars/krevetkqqq/CVE-2024-9441.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/CVE-2024-9441.svg)
 
 ## CVE-2024-9326
  A vulnerability classified as critical was found in PHPGurukul Online Shopping Portal 2.0. This vulnerability affects unknown code of the file /shopping/admin/index.php of the component Admin Panel. The manipulation of the argument username leads to sql injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used.
