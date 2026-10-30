@@ -2361,3 +2361,4 @@
 {"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T16:35:46Z", "url": "https://github.com/MohamedAboHelal/CVE-2021-40444", "url_ids": ["CVE-2021-40444"]}
 {"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T16:35:46Z", "url": "https://github.com/jamesrep/cve-2021-40444", "url_ids": ["CVE-2021-40444"]}
 {"cve_id": "CVE-2021-4044", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T16:35:46Z", "url": "https://github.com/basim-ahmad/Follina-CVE-and-CVE-2021-40444", "url_ids": ["CVE-2021-40444"]}
+{"cve_id": "CVE-2022-4395", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T16:58:25Z", "url": "https://github.com/secware-ru/CVE-2022-43959", "url_ids": ["CVE-2022-43959"]}

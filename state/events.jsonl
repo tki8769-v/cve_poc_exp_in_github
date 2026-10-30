@@ -7763,3 +7763,8 @@
 {"cve_id": "CVE-2025-31277", "ts": "2026-10-30T16:25:41Z", "type": "new_poc", "url": "https://github.com/hoarseprairie/CVE-2025-31277-WebKit-Memory-Corruption-Patch-Bypass"}
 {"cve_id": "CVE-2026-98432", "ts": "2026-10-30T16:25:42Z", "type": "new_poc", "url": "https://github.com/pob220/ubuntu-noble-tcp-rcu-backport"}
 {"cve_id": "CVE-2020-17103", "ts": "2026-10-30T16:34:54Z", "type": "new_poc", "url": "https://github.com/0xredash/CVE-2020-17103"}
+{"cve_id": "CVE-2026-117174", "ts": "2026-10-30T16:39:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-30T16:50:07Z", "type": "new_poc", "url": "https://github.com/Alucard0x1/cve-2026-98432"}
+{"cve_id": "CVE-2026-103409", "ts": "2026-10-30T16:50:12Z", "type": "new_poc", "url": "https://github.com/Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router"}
+{"cve_id": "CVE-2026-43503", "ts": "2026-10-30T16:52:20Z", "type": "new_poc", "url": "https://github.com/0xredash/CVE-2026-43503"}
+{"cve_id": "CVE-2026-22557", "ts": "2026-10-30T16:54:15Z", "type": "new_poc", "url": "https://github.com/0xredash/CVE-2026-22557"}

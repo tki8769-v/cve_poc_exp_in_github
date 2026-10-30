@@ -57,6 +57,13 @@
 
 - [https://github.com/CompleteTech-Security/sonicwall-sma1000-cve-2026-102258-check](https://github.com/CompleteTech-Security/sonicwall-sma1000-cve-2026-102258-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/sonicwall-sma1000-cve-2026-102258-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/sonicwall-sma1000-cve-2026-102258-check.svg)
 
+## CVE-2026-103409
+> A Missing authentication for critical function vulnerability in Juniper Networks Session Smart Router allows an unauthenticated network-based attacker to obtain administrative privileges by passing crafted URL parameters to an insecure endpoint running as root.
+
+Note that this vulnerability can only be exploited prior to the device being onboarded to Mist/Conductor. The issue can no longer be exploited once a device is onboarded to Mist/Conductor.
+
+- [https://github.com/Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router](https://github.com/Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router) : ![starts](https://img.shields.io/github/stars/Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router.svg) ![forks](https://img.shields.io/github/forks/Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router.svg)
+
 ## CVE-2026-104286
 > An improper limitation of a pathname to a restricted directory (&#x27;path traversal&#x27;) vulnerability in Fortinet FortiMail 8.0.0 through 8.0.1, FortiMail 7.6.0 through 7.6.6, FortiMail 7.4.0 through 7.4.8, FortiMail 7.2.0 through 7.2.9, FortiMail 7.0 all versions may allow an unauthenticated attacker to write arbitrary files on the underlying system via crafted HTTP or HTTPS requests.
 
@@ -162,6 +169,10 @@ On an affected system, any authenticated user can gain operator privileges and m
 
 - [https://github.com/primatelab/bash2shell](https://github.com/primatelab/bash2shell) : ![starts](https://img.shields.io/github/stars/primatelab/bash2shell.svg) ![forks](https://img.shields.io/github/forks/primatelab/bash2shell.svg)
 
+## CVE-2026-22557
+
+- [https://github.com/0xredash/CVE-2026-22557](https://github.com/0xredash/CVE-2026-22557) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2026-22557.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2026-22557.svg)
+
 ## CVE-2026-29000
 > pac4j-jwt versions prior to 4.5.9, 5.7.9, and 6.3.3 contain an authentication bypass vulnerability in JwtAuthenticator when processing encrypted JWTs that allows remote attackers to forge authentication tokens. Attackers who possess the server&#x27;s RSA public key can create a JWE-wrapped PlainJWT with arbitrary subject and role claims, bypassing signature verification to authenticate as any user including administrators.
 
@@ -174,6 +185,20 @@ On an affected system, any authenticated user can gain operator privileges and m
 ## CVE-2026-40489
 
 - [https://github.com/saretawa/CVE-2026-40489](https://github.com/saretawa/CVE-2026-40489) : ![starts](https://img.shields.io/github/stars/saretawa/CVE-2026-40489.svg) ![forks](https://img.shields.io/github/forks/saretawa/CVE-2026-40489.svg)
+
+## CVE-2026-43503
+> In the Linux kernel, the following vulnerability has been resolved:
+
+net: skbuff: propagate shared-frag marker through frag-transfer helpers
+
+Two frag-transfer helpers (__pskb_copy_fclone() and skb_shift()) fail
+to propagate the SKBFL_SHARED_FRAG bit in skb_shinfo()-&gt;flags when
+moving frags from source to destination.  __pskb_copy_fclone() defers
+the rest of the shinfo metadata to skb_copy_header() after copying
+frag descriptors, but that helper only carries over gso_{size,segs,
+type} and never 
+
+- [https://github.com/0xredash/CVE-2026-43503](https://github.com/0xredash/CVE-2026-43503) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2026-43503.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2026-43503.svg)
 
 ## CVE-2026-48500
 
@@ -230,6 +255,7 @@ request socket, and send a SYNACK from tcp_check_req().
 tcp_v4_send_synack() and inet_csk_route_req() read ireq-&gt;ireq_opt
 under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
+- [https://github.com/Alucard0x1/cve-2026-98432](https://github.com/Alucard0x1/cve-2026-98432) : ![starts](https://img.shields.io/github/stars/Alucard0x1/cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/Alucard0x1/cve-2026-98432.svg)
 - [https://github.com/Ghost-Bx1/cve-2026-98432-linux-tcp-uaf](https://github.com/Ghost-Bx1/cve-2026-98432-linux-tcp-uaf) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-98432-linux-tcp-uaf.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-98432-linux-tcp-uaf.svg)
 - [https://github.com/H1z3-br0/CVE-2026-98432](https://github.com/H1z3-br0/CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/H1z3-br0/CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/H1z3-br0/CVE-2026-98432.svg)
 - [https://github.com/MikkoAbudo/CVE-2026-98432-Kernel-Panic-Producer](https://github.com/MikkoAbudo/CVE-2026-98432-Kernel-Panic-Producer) : ![starts](https://img.shields.io/github/stars/MikkoAbudo/CVE-2026-98432-Kernel-Panic-Producer.svg) ![forks](https://img.shields.io/github/forks/MikkoAbudo/CVE-2026-98432-Kernel-Panic-Producer.svg)

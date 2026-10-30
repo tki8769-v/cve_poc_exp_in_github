@@ -2188,6 +2188,13 @@ This issue affects MediaWiki ReadingLists extension: 1.46 and 1.45.
 
 - [https://github.com/BomboBombone/CVE-2026-103437](https://github.com/BomboBombone/CVE-2026-103437) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-103437.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-103437.svg)
 
+## CVE-2026-103409
+> A Missing authentication for critical function vulnerability in Juniper Networks Session Smart Router allows an unauthenticated network-based attacker to obtain administrative privileges by passing crafted URL parameters to an insecure endpoint running as root.
+
+Note that this vulnerability can only be exploited prior to the device being onboarded to Mist/Conductor. The issue can no longer be exploited once a device is onboarded to Mist/Conductor.
+
+- [https://github.com/Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router](https://github.com/Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router) : ![starts](https://img.shields.io/github/stars/Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router.svg) ![forks](https://img.shields.io/github/forks/Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router.svg)
+
 ## CVE-2026-103355
 > Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) vulnerability in Unlimited Elements Unlimited Elements For Elementor (Free Widgets, Addons, Templates) unlimited-elements-for-elementor allows Blind SQL Injection.This issue affects Unlimited Elements For Elementor (Free Widgets, Addons, Templates): from n/a through 2.0.20.
 
@@ -2570,6 +2577,8 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 - [https://github.com/pob220/ubuntu-noble-tcp-rcu-backport](https://github.com/pob220/ubuntu-noble-tcp-rcu-backport) : ![starts](https://img.shields.io/github/stars/pob220/ubuntu-noble-tcp-rcu-backport.svg) ![forks](https://img.shields.io/github/forks/pob220/ubuntu-noble-tcp-rcu-backport.svg)
 
 - [https://github.com/xen0bit/netprobe-cve-2026-98432](https://github.com/xen0bit/netprobe-cve-2026-98432) : ![starts](https://img.shields.io/github/stars/xen0bit/netprobe-cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/xen0bit/netprobe-cve-2026-98432.svg)
+
+- [https://github.com/Alucard0x1/cve-2026-98432](https://github.com/Alucard0x1/cve-2026-98432) : ![starts](https://img.shields.io/github/stars/Alucard0x1/cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/Alucard0x1/cve-2026-98432.svg)
 
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -12300,6 +12309,8 @@ so segments drawing frags from frag_list members carry the marker.
 
 - [https://github.com/SecureWithUmer/CVE-2026-43503](https://github.com/SecureWithUmer/CVE-2026-43503) : ![starts](https://img.shields.io/github/stars/SecureWithUmer/CVE-2026-43503.svg) ![forks](https://img.shields.io/github/forks/SecureWithUmer/CVE-2026-43503.svg)
 
+- [https://github.com/0xredash/CVE-2026-43503](https://github.com/0xredash/CVE-2026-43503) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2026-43503.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2026-43503.svg)
+
 ## CVE-2026-43502
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -20385,6 +20396,8 @@ The vulnerability exists due to missing input sanitization.
 - [https://github.com/GarethMSheldon/cve-2026-22557-unifi-detection](https://github.com/GarethMSheldon/cve-2026-22557-unifi-detection) : ![starts](https://img.shields.io/github/stars/GarethMSheldon/cve-2026-22557-unifi-detection.svg) ![forks](https://img.shields.io/github/forks/GarethMSheldon/cve-2026-22557-unifi-detection.svg)
 
 - [https://github.com/gagaltotal/CVE-2026-22557-Path-Traversal-Ubiquti-UniFi](https://github.com/gagaltotal/CVE-2026-22557-Path-Traversal-Ubiquti-UniFi) : ![starts](https://img.shields.io/github/stars/gagaltotal/CVE-2026-22557-Path-Traversal-Ubiquti-UniFi.svg) ![forks](https://img.shields.io/github/forks/gagaltotal/CVE-2026-22557-Path-Traversal-Ubiquti-UniFi.svg)
+
+- [https://github.com/0xredash/CVE-2026-22557](https://github.com/0xredash/CVE-2026-22557) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2026-22557.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2026-22557.svg)
 
 ## CVE-2026-22553
  All versions of InSAT MasterSCADA BUK-TS are susceptible to OS command injection through a field in its MMadmServ web interface. Malicious users that use the vulnerable endpoint are potentially able to cause remote code execution.
