@@ -7690,3 +7690,15 @@
 {"cve_id": "CVE-2026-117856", "ts": "2026-10-29T22:55:24Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-117857", "ts": "2026-10-29T22:55:25Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-117858", "ts": "2026-10-29T22:55:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-30T07:11:03Z", "type": "new_poc", "url": "https://github.com/H1z3-br0/CVE-2026-98432"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-30T07:11:03Z", "type": "new_poc", "url": "https://github.com/mahdi-salmanzade/CVE-2026-98432"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-30T07:11:04Z", "type": "new_poc", "url": "https://github.com/scriptzteam/Paranoid-CVE-2026-98432"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-30T07:11:04Z", "type": "new_poc", "url": "https://github.com/fbuff-tools/cve-2026-98432-checker"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-30T07:11:05Z", "type": "new_poc", "url": "https://github.com/maxigentr/netviser-linux-security-auditor"}
+{"cve_id": "CVE-2026-119025", "ts": "2026-10-30T07:11:05Z", "type": "new_poc", "url": "https://github.com/shouvikkkk/oauth-sink-check"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-30T07:11:33Z", "type": "new_poc", "url": "https://github.com/iliaal/php2shell"}
+{"cve_id": "CVE-2026-12485", "ts": "2026-10-30T07:11:40Z", "type": "new_poc", "url": "https://github.com/0xredash/CVE-2026-12485"}
+{"cve_id": "CVE-2026-104286", "ts": "2026-10-30T07:12:52Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/fortimail-cve-2026-104286-check"}
+{"cve_id": "CVE-2026-105014", "ts": "2026-10-30T07:13:52Z", "type": "new_poc", "url": "https://github.com/mehmet-emir-eroglu/CVE-2026-105014"}
+{"cve_id": "CVE-2026-6471", "ts": "2026-10-30T07:18:10Z", "type": "new_poc", "url": "https://github.com/0xredash/CVE-2026-6471"}
+{"cve_id": "CVE-2023-23752", "ts": "2026-10-30T07:19:03Z", "type": "new_poc", "url": "https://github.com/Charly-bite/SITEUR"}

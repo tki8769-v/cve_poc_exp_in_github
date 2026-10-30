@@ -2330,3 +2330,5 @@
 {"cve_id": "CVE-2023-5009", "reason": "prefix_conflict_evidenced", "ts": "2026-10-29T23:12:06Z", "url": "https://github.com/Zierax/CVE-2023-50094_POC", "url_ids": ["CVE-2023-50094"]}
 {"cve_id": "CVE-2025-2748", "reason": "prefix_conflict_evidenced", "ts": "2026-10-29T23:17:07Z", "url": "https://github.com/mrk336/CVE-2025-27480", "url_ids": ["CVE-2025-27480"]}
 {"cve_id": "CVE-2025-2748", "reason": "prefix_conflict_evidenced", "ts": "2026-10-29T23:17:07Z", "url": "https://github.com/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk", "url_ids": ["CVE-2025-27480"]}
+{"cve_id": "CVE-2024-5737", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:18:03Z", "url": "https://github.com/DelspoN/CVE-2024-57376", "url_ids": ["CVE-2024-57376"]}
+{"cve_id": "CVE-2024-5737", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:18:03Z", "url": "https://github.com/rxerium/CVE-2024-57378", "url_ids": ["CVE-2024-57378"]}
