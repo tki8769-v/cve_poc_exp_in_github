@@ -7713,3 +7713,11 @@
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-30T07:32:47Z", "type": "new_poc", "url": "https://github.com/mehmet-emir-eroglu/CVE-2026-111497"}
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-30T07:32:48Z", "type": "new_poc", "url": "https://github.com/amier-ge/Node2Shell"}
 {"cve_id": "CVE-2026-110912", "ts": "2026-10-30T07:33:52Z", "type": "new_poc", "url": "https://github.com/0xredash/CVE-2026-110912"}
+{"cve_id": "CVE-2026-117174", "ts": "2026-10-30T07:40:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117174", "ts": "2026-10-30T07:42:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117174", "ts": "2026-10-30T07:44:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-33224", "ts": "2026-10-30T07:46:32Z", "type": "new_poc", "url": "https://github.com/Wacatac600/rtkio-memory-dump-poc"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-30T07:46:32Z", "type": "new_poc", "url": "https://github.com/miracle438/node2shell-two-stage"}
+{"cve_id": "CVE-2026-114509", "ts": "2026-10-30T07:48:48Z", "type": "new_poc", "url": "https://github.com/mehmet-emir-eroglu/CVE-2026-114509"}
+{"cve_id": "CVE-2026-102255", "ts": "2026-10-30T07:54:39Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/sonicwall-sma1000-cve-2026-102255-check"}
+{"cve_id": "CVE-2026-102258", "ts": "2026-10-30T07:54:40Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/sonicwall-sma1000-cve-2026-102258-check"}

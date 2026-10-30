@@ -4820,6 +4820,10 @@ Users are recommended to upgrade to version 4.0.1 or 3.1.3, which fixes the issu
 
 - [https://github.com/fdzdev/CVE-2024-33231](https://github.com/fdzdev/CVE-2024-33231) : ![starts](https://img.shields.io/github/stars/fdzdev/CVE-2024-33231.svg) ![forks](https://img.shields.io/github/forks/fdzdev/CVE-2024-33231.svg)
 
+## CVE-2024-33224
+
+- [https://github.com/Wacatac600/rtkio-memory-dump-poc](https://github.com/Wacatac600/rtkio-memory-dump-poc) : ![starts](https://img.shields.io/github/stars/Wacatac600/rtkio-memory-dump-poc.svg) ![forks](https://img.shields.io/github/forks/Wacatac600/rtkio-memory-dump-poc.svg)
+
 ## CVE-2024-33210
  A cross-site scripting (XSS) vulnerability has been identified in Flatpress 1.3. This vulnerability allows an attacker to inject malicious scripts into web pages viewed by other users.
 

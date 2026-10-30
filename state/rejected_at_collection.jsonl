@@ -2332,3 +2332,15 @@
 {"cve_id": "CVE-2025-2748", "reason": "prefix_conflict_evidenced", "ts": "2026-10-29T23:17:07Z", "url": "https://github.com/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk", "url_ids": ["CVE-2025-27480"]}
 {"cve_id": "CVE-2024-5737", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:18:03Z", "url": "https://github.com/DelspoN/CVE-2024-57376", "url_ids": ["CVE-2024-57376"]}
 {"cve_id": "CVE-2024-5737", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:18:03Z", "url": "https://github.com/rxerium/CVE-2024-57378", "url_ids": ["CVE-2024-57378"]}
+{"cve_id": "CVE-2026-3326", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:47:01Z", "url": "https://github.com/Boreas37/CVE-2026-33267-PoC", "url_ids": ["CVE-2026-33267"]}
+{"cve_id": "CVE-2023-3076", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:47:15Z", "url": "https://github.com/0xfml/CVE-2023-30765", "url_ids": ["CVE-2023-30765"]}
+{"cve_id": "CVE-2026-5050", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:49:40Z", "url": "https://github.com/HORKimhab/CVE-2026-50507", "url_ids": ["CVE-2026-50507"]}
+{"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:50:47Z", "url": "https://github.com/PeronGH/CVE-2026-99999", "url_ids": ["CVE-2026-99999"]}
+{"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:50:47Z", "url": "https://github.com/01luyicheng/CVE-2026-99999", "url_ids": ["CVE-2026-99999"]}
+{"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:50:47Z", "url": "https://github.com/gandli/CVE-2026-99999-pwnescape", "url_ids": ["CVE-2026-99999"]}
+{"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:50:47Z", "url": "https://github.com/Quaerendir/cve-2026-99999-audit", "url_ids": ["CVE-2026-99999"]}
+{"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:50:47Z", "url": "https://github.com/sqzer-x/cve-2026-99999-scanner", "url_ids": ["CVE-2026-99999"]}
+{"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:50:47Z", "url": "https://github.com/nsrg-fmlorg/kpatch-rocky-cve-2026-99999", "url_ids": ["CVE-2026-99999"]}
+{"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:50:47Z", "url": "https://github.com/01luyicheng/CVE-2026-99999-analysis", "url_ids": ["CVE-2026-99999"]}
+{"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:50:47Z", "url": "https://github.com/01luyicheng/CVE-2026-99999-exploit", "url_ids": ["CVE-2026-99999"]}
+{"cve_id": "CVE-2026-9999", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T07:50:47Z", "url": "https://github.com/nsrg-fmlorg/kpatch-alma-cve-2026-99999", "url_ids": ["CVE-2026-99999"]}
