@@ -7914,3 +7914,7 @@
 {"cve_id": "CVE-2026-49116", "ts": "2026-10-31T20:51:58Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-64860", "ts": "2026-10-31T20:52:32Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2025-5548", "ts": "2026-10-31T21:10:03Z", "type": "new_poc", "url": "https://github.com/ppolo1/CVE-2025-5548"}
+{"cve_id": "CVE-2026-13002", "ts": "2026-10-31T21:14:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49115", "ts": "2026-10-31T21:14:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49116", "ts": "2026-10-31T21:14:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-64860", "ts": "2026-10-31T21:15:31Z", "type": "cve_rejected"}

@@ -11,6 +11,7 @@
 - [https://github.com/capivara-research/CVE-2026-120218](https://github.com/capivara-research/CVE-2026-120218) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-120218.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-120218.svg)
 
 ## CVE-2026-119712
+> PipesHub before 0.10.0 contains a server-side request forgery vulnerability in ImageParser._fetch_single_url that allows attackers to make the indexing service fetch internal addresses by embedding image URLs in documents. Attackers can supply Markdown or HTML via uploads, synced mailboxes, or web connectors to reach loopback, private-network, or cloud metadata endpoints, with image responses embedded into indexed content.
 
 - [https://github.com/hyderpwn/CVE-pipeshub](https://github.com/hyderpwn/CVE-pipeshub) : ![starts](https://img.shields.io/github/stars/hyderpwn/CVE-pipeshub.svg) ![forks](https://img.shields.io/github/forks/hyderpwn/CVE-pipeshub.svg)
 
@@ -25,6 +26,7 @@
 - [https://github.com/zebbernCVE/CVE-2026-118776](https://github.com/zebbernCVE/CVE-2026-118776) : ![starts](https://img.shields.io/github/stars/zebbernCVE/CVE-2026-118776.svg) ![forks](https://img.shields.io/github/forks/zebbernCVE/CVE-2026-118776.svg)
 
 ## CVE-2026-118238
+> The Tenda W18E web management server is vulnerable to OS command injection via the &quot;diagnose&quot; packet-capture feature due to improper validation of JSON fields. An authenticated user can inject shell metacharacters into the protocol or targetDevice fields, which are later concatenated into a tcpdump command and executed with root privileges. This vulnerability can be exploited without authentication if the device is in a factory-reset state.
 
 - [https://github.com/Cushz/CVE-2026-118238](https://github.com/Cushz/CVE-2026-118238) : ![starts](https://img.shields.io/github/stars/Cushz/CVE-2026-118238.svg) ![forks](https://img.shields.io/github/forks/Cushz/CVE-2026-118238.svg)
 
@@ -34,14 +36,17 @@
 - [https://github.com/asvorg/CVE-2026-117532-poc](https://github.com/asvorg/CVE-2026-117532-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-117532-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-117532-poc.svg)
 
 ## CVE-2026-117184
+> An issue in the GraphQL endpoint of traggo server v0.8.3 allows attackers to cause a Denial of Service (DoS) via a crafted POST request to the GraphQL endpoint
 
 - [https://github.com/Primandito/CVE-2026-117184](https://github.com/Primandito/CVE-2026-117184) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-117184.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-117184.svg)
 
 ## CVE-2026-117183
+> A path traversal vulnerability in the FeaturedImage component of astro-notion-blog 0.13.0 allows attackers to escape the intended directory, as well as read and overwrite files on the server via a crafted URL.
 
 - [https://github.com/Primandito/CVE-2026-117183](https://github.com/Primandito/CVE-2026-117183) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-117183.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-117183.svg)
 
 ## CVE-2026-117182
+> An authenticated cross-site scripting (XSS) vulnerability in the /spina/embeddable.rb component of Spina CMS v2.21.0 allows attackers to execute arbitrary web scripts or HTML via injecting a crafted URL.
 
 - [https://github.com/Primandito/CVE-2026-117182](https://github.com/Primandito/CVE-2026-117182) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-117182.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-117182.svg)
 

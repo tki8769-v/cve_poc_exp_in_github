@@ -2427,3 +2427,8 @@
 {"cve_id": "CVE-2018-1263", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T20:38:26Z", "url": "https://github.com/nth347/CVE-2018-12636_exploit", "url_ids": ["CVE-2018-12636"]}
 {"cve_id": "CVE-2018-1263", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T20:38:26Z", "url": "https://github.com/wiliam227user/CVE-2018-12633-TPLink-Auth-Bypass", "url_ids": ["CVE-2018-12633"]}
 {"cve_id": "CVE-2025-3604", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T20:47:28Z", "url": "https://github.com/byteReaper77/CVE-2025-36041", "url_ids": ["CVE-2025-36041"]}
+{"cve_id": "CVE-2018-1156", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T21:24:00Z", "url": "https://github.com/GeunSam2/CVE-2018-11564", "url_ids": ["CVE-2018-11564"]}
+{"cve_id": "CVE-2019-2548", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T21:29:06Z", "url": "https://github.com/TheMalwareGuardian/CVE-2019-25485", "url_ids": ["CVE-2019-25485"]}
+{"cve_id": "CVE-2025-6075", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T21:31:08Z", "url": "https://github.com/zer0matt/CVE-2025-60752", "url_ids": ["CVE-2025-60752"]}
+{"cve_id": "CVE-2025-6075", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T21:31:08Z", "url": "https://github.com/zer0matt/CVE-2025-60751", "url_ids": ["CVE-2025-60751"]}
+{"cve_id": "CVE-2026-5005", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T21:33:12Z", "url": "https://github.com/HORKimhab/CVE-2026-50055", "url_ids": ["CVE-2026-50055"]}
