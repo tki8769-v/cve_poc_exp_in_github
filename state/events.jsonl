@@ -7857,3 +7857,13 @@
 {"cve_id": "CVE-2026-67205", "ts": "2026-10-31T07:27:57Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-101767", "ts": "2026-10-31T07:36:15Z", "type": "new_poc", "url": "https://github.com/shivrajem/ebs-cve-2026-101767-check"}
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-31T07:36:17Z", "type": "new_poc", "url": "https://github.com/dansaurabh/brotli2shell_Hunter"}
+{"cve_id": "CVE-2026-112211", "ts": "2026-10-31T07:48:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117174", "ts": "2026-10-31T07:49:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58118", "ts": "2026-10-31T07:51:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58119", "ts": "2026-10-31T07:51:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58120", "ts": "2026-10-31T07:51:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60111", "ts": "2026-10-31T07:51:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-67203", "ts": "2026-10-31T07:51:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-67205", "ts": "2026-10-31T07:51:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-116244", "ts": "2026-10-31T07:59:57Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-116244"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-31T07:59:58Z", "type": "new_poc", "url": "https://github.com/raahilmw/synipopt"}

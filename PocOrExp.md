@@ -77,6 +77,10 @@
 
 - [https://github.com/googlesky/CVE-2026-116366](https://github.com/googlesky/CVE-2026-116366) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-116366.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-116366.svg)
 
+## CVE-2026-116244
+
+- [https://github.com/googlesky/CVE-2026-116244](https://github.com/googlesky/CVE-2026-116244) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-116244.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-116244.svg)
+
 ## CVE-2026-116191
 > Rclone before 1.75.2 contains a path traversal vulnerability in serve webdav that allows unauthenticated attackers to write above the served root by sending an unvalidated &#x27;..&#x27; path component. Attackers can send MKCOL /.. to plant a VFS node, then PUT, MOVE, COPY, or MKCOL to create, overwrite, or delete files belonging to other tenants.
 
@@ -2650,6 +2654,8 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/tiendungdev/cve-2026-98432-guard](https://github.com/tiendungdev/cve-2026-98432-guard) : ![starts](https://img.shields.io/github/stars/tiendungdev/cve-2026-98432-guard.svg) ![forks](https://img.shields.io/github/forks/tiendungdev/cve-2026-98432-guard.svg)
 
+- [https://github.com/raahilmw/synipopt](https://github.com/raahilmw/synipopt) : ![starts](https://img.shields.io/github/stars/raahilmw/synipopt.svg) ![forks](https://img.shields.io/github/forks/raahilmw/synipopt.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3387,6 +3393,8 @@ The Unauthenticated Stored XSS vulnerability in the WordPress core can be reprod
 - [https://github.com/cflowsec/CVE-2026-92805](https://github.com/cflowsec/CVE-2026-92805) : ![starts](https://img.shields.io/github/stars/cflowsec/CVE-2026-92805.svg) ![forks](https://img.shields.io/github/forks/cflowsec/CVE-2026-92805.svg)
 
 ## CVE-2026-92744
+> Under certain conditions, privilege manager agent allows a remote unauthenticated attacker to execute
+arbitrary code as LocalSystem.
 
 - [https://github.com/isukasanuj/CVE-2026-92744](https://github.com/isukasanuj/CVE-2026-92744) : ![starts](https://img.shields.io/github/stars/isukasanuj/CVE-2026-92744.svg) ![forks](https://img.shields.io/github/forks/isukasanuj/CVE-2026-92744.svg)
 

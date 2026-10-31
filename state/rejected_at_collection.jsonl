@@ -2399,3 +2399,10 @@
 {"cve_id": "CVE-2023-2603", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T07:17:30Z", "url": "https://github.com/ungabunga-ctf/CVE-2023-26039", "url_ids": ["CVE-2023-26039"]}
 {"cve_id": "CVE-2022-2327", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T07:22:48Z", "url": "https://github.com/7BitsTeam/CVE-2022-23277", "url_ids": ["CVE-2022-23277"]}
 {"cve_id": "CVE-2022-2327", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T07:22:48Z", "url": "https://github.com/corelight/CVE-2022-23270-PPTP", "url_ids": ["CVE-2022-23270"]}
+{"cve_id": "CVE-2026-4893", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T08:00:57Z", "url": "https://github.com/shinthink/CVE-2026-48939", "url_ids": ["CVE-2026-48939"]}
+{"cve_id": "CVE-2025-6668", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T08:00:58Z", "url": "https://github.com/cwjchoi01/CVE-2025-66680", "url_ids": ["CVE-2025-66680"]}
+{"cve_id": "CVE-2022-3169", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T08:00:59Z", "url": "https://github.com/blipzip/cve-2022-31692", "url_ids": ["CVE-2022-31692"]}
+{"cve_id": "CVE-2022-3169", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T08:00:59Z", "url": "https://github.com/blipzip/CVE-2022-31691", "url_ids": ["CVE-2022-31691"]}
+{"cve_id": "CVE-2022-3169", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T08:00:59Z", "url": "https://github.com/hotblac/cve-2022-31692", "url_ids": ["CVE-2022-31692"]}
+{"cve_id": "CVE-2022-3565", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T08:07:04Z", "url": "https://github.com/Gr4y-r0se/CVE-2022-35650", "url_ids": ["CVE-2022-35650"]}
+{"cve_id": "CVE-2022-3606", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T08:07:10Z", "url": "https://github.com/prathamhasnotchanged/Exploit-For-CVE-2022-36067", "url_ids": ["CVE-2022-36067"]}
