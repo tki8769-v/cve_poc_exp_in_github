@@ -81,6 +81,7 @@ compromised host.
 - [https://github.com/googlesky/CVE-2026-116244](https://github.com/googlesky/CVE-2026-116244) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-116244.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-116244.svg)
 
 ## CVE-2026-116366
+> An issue has been discovered in ClickHouse Server that, under certain conditions, could allow an unauthenticated user with network access to execute arbitrary code on the ClickHouse Server.
 
 - [https://github.com/googlesky/CVE-2026-116366](https://github.com/googlesky/CVE-2026-116366) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-116366.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-116366.svg)
 

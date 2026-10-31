@@ -2414,3 +2414,11 @@
 {"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:01:06Z", "url": "https://github.com/Vulnmachines/HAProxy_CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
 {"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:01:06Z", "url": "https://github.com/alexOarga/CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
 {"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:01:06Z", "url": "https://github.com/jmg0929/CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2023-3141", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:18:29Z", "url": "https://github.com/u238/Elasticsearch-CVE-2023-31419", "url_ids": ["CVE-2023-31419"]}
+{"cve_id": "CVE-2023-3268", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:19:41Z", "url": "https://github.com/hardikmodha/POC-CVE-2023-32681", "url_ids": ["CVE-2023-32681"]}
+{"cve_id": "CVE-2023-3446", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:20:37Z", "url": "https://github.com/mbadanoiu/CVE-2023-34468", "url_ids": ["CVE-2023-34468"]}
+{"cve_id": "CVE-2023-3446", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:20:37Z", "url": "https://github.com/sbouabid-sec/CVE-2023-34468-POC", "url_ids": ["CVE-2023-34468"]}
+{"cve_id": "CVE-2023-3446", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:20:37Z", "url": "https://github.com/Jeanpt/CVE-2023-34468", "url_ids": ["CVE-2023-34468"]}
+{"cve_id": "CVE-2023-3446", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:20:37Z", "url": "https://github.com/ozcanpng/CVE-2023-34468", "url_ids": ["CVE-2023-34468"]}
+{"cve_id": "CVE-2023-3446", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:20:37Z", "url": "https://github.com/spikeyjr/CVE-2023-34468-PoC", "url_ids": ["CVE-2023-34468"]}
+{"cve_id": "CVE-2026-8793", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:20:49Z", "url": "https://github.com/winrarzipsexploit/CVE-2026-87930", "url_ids": ["CVE-2026-87930"]}
