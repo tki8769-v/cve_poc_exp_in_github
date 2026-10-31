@@ -357,3 +357,5 @@
  The Remote Desktop Protocol (RDP) implementation in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP2, Windows Server 2008 SP2, R2, and R2 SP1, and Windows 7 Gold and SP1 does not properly process packets in memory, which allows remote attackers to execute arbitrary code by sending crafted RDP packets triggering access to an object that (1) was not properly initialized or (2) is deleted, aka "Remote Desktop Protocol Vulnerability."
 
 - [https://github.com/zhangkaibin0921/MS12-020-CVE-2012-0002](https://github.com/zhangkaibin0921/MS12-020-CVE-2012-0002) : ![starts](https://img.shields.io/github/stars/zhangkaibin0921/MS12-020-CVE-2012-0002.svg) ![forks](https://img.shields.io/github/forks/zhangkaibin0921/MS12-020-CVE-2012-0002.svg)
+
+- [https://github.com/engineer-lucasmcmelo/CVE-2012-0002](https://github.com/engineer-lucasmcmelo/CVE-2012-0002) : ![starts](https://img.shields.io/github/stars/engineer-lucasmcmelo/CVE-2012-0002.svg) ![forks](https://img.shields.io/github/forks/engineer-lucasmcmelo/CVE-2012-0002.svg)

@@ -7830,3 +7830,21 @@
 {"cve_id": "CVE-2019-7256", "ts": "2026-10-30T22:31:18Z", "type": "new_poc", "url": "https://github.com/krevetkqqq/CVE-2019-7256"}
 {"cve_id": "CVE-2014-9583", "ts": "2026-10-30T22:31:18Z", "type": "new_poc", "url": "https://github.com/krevetkqqq/CVE-2014-9583"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-10-30T22:31:25Z", "type": "new_poc", "url": "https://github.com/flynnsmc-lgtm/qt-t-shield"}
+{"cve_id": "CVE-2026-117174", "ts": "2026-10-31T07:01:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58118", "ts": "2026-10-31T07:03:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58119", "ts": "2026-10-31T07:03:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58120", "ts": "2026-10-31T07:03:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60111", "ts": "2026-10-31T07:03:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-67203", "ts": "2026-10-31T07:03:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-67205", "ts": "2026-10-31T07:03:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-119712", "ts": "2026-10-31T07:12:07Z", "type": "new_poc", "url": "https://github.com/hyderpwn/CVE-pipeshub"}
+{"cve_id": "CVE-2012-0002", "ts": "2026-10-31T07:12:07Z", "type": "new_poc", "url": "https://github.com/engineer-lucasmcmelo/CVE-2012-0002"}
+{"cve_id": "CVE-2026-116366", "ts": "2026-10-31T07:12:07Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-116366"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-31T07:12:07Z", "type": "new_poc", "url": "https://github.com/alvaroguzmancode/cve-2026-98432"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-31T07:12:07Z", "type": "new_poc", "url": "https://github.com/brett6320/fix_CVE-2026-98432"}
+{"cve_id": "CVE-2024-21626", "ts": "2026-10-31T07:12:07Z", "type": "new_poc", "url": "https://github.com/Leven0101/cve-2024-21626-lab"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-31T07:12:07Z", "type": "new_poc", "url": "https://github.com/tiendungdev/cve-2026-98432-guard"}
+{"cve_id": "CVE-2021-3493", "ts": "2026-10-31T07:12:07Z", "type": "new_poc", "url": "https://github.com/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-31T07:12:08Z", "type": "new_poc", "url": "https://github.com/adachis/pillow-patched-brotli"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-10-31T07:12:08Z", "type": "new_poc", "url": "https://github.com/Lydia-King-K/ddld36-solar-aegis"}
+{"cve_id": "CVE-2026-46300", "ts": "2026-10-31T07:12:08Z", "type": "new_poc", "url": "https://github.com/foxcornlab/fragnesia-scanner"}

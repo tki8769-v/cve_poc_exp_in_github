@@ -2390,3 +2390,12 @@
 {"cve_id": "CVE-2025-5652", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T22:16:36Z", "url": "https://github.com/HanTul/Kotaemon-CVE-2025-56526-56527-disclosure", "url_ids": ["CVE-2025-56526"]}
 {"cve_id": "CVE-2021-4037", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T22:36:19Z", "url": "https://github.com/maikroservice/CVE-2021-40373", "url_ids": ["CVE-2021-40373"]}
 {"cve_id": "CVE-2021-4090", "reason": "prefix_conflict_evidenced", "ts": "2026-10-30T22:36:20Z", "url": "https://github.com/vulnz/CVE-2021-40903", "url_ids": ["CVE-2021-40903"]}
+{"cve_id": "CVE-2018-1932", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T07:13:36Z", "url": "https://github.com/hmnthabit/CVE-2018-19320-LPE", "url_ids": ["CVE-2018-19320"]}
+{"cve_id": "CVE-2018-1932", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T07:13:36Z", "url": "https://github.com/nanabingies/CVE-2018-19321", "url_ids": ["CVE-2018-19321"]}
+{"cve_id": "CVE-2018-1932", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T07:13:36Z", "url": "https://github.com/blueisbeautiful/CVE-2018-19323", "url_ids": ["CVE-2018-19323"]}
+{"cve_id": "CVE-2023-2603", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T07:17:30Z", "url": "https://github.com/rvzsec/CVE-2023-26035", "url_ids": ["CVE-2023-26035"]}
+{"cve_id": "CVE-2023-2603", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T07:17:30Z", "url": "https://github.com/heapbytes/CVE-2023-26035", "url_ids": ["CVE-2023-26035"]}
+{"cve_id": "CVE-2023-2603", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T07:17:30Z", "url": "https://github.com/0xfalafel/zoneminder_CVE-2023-26035", "url_ids": ["CVE-2023-26035"]}
+{"cve_id": "CVE-2023-2603", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T07:17:30Z", "url": "https://github.com/ungabunga-ctf/CVE-2023-26039", "url_ids": ["CVE-2023-26039"]}
+{"cve_id": "CVE-2022-2327", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T07:22:48Z", "url": "https://github.com/7BitsTeam/CVE-2022-23277", "url_ids": ["CVE-2022-23277"]}
+{"cve_id": "CVE-2022-2327", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T07:22:48Z", "url": "https://github.com/corelight/CVE-2022-23270-PPTP", "url_ids": ["CVE-2022-23270"]}

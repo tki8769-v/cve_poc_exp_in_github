@@ -8324,6 +8324,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/George-Yanni/DeepRoot](https://github.com/George-Yanni/DeepRoot) : ![starts](https://img.shields.io/github/stars/George-Yanni/DeepRoot.svg) ![forks](https://img.shields.io/github/forks/George-Yanni/DeepRoot.svg)
 
+- [https://github.com/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493](https://github.com/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493) : ![starts](https://img.shields.io/github/stars/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493.svg) ![forks](https://img.shields.io/github/forks/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493.svg)
+
 ## CVE-2021-3492
  Shiftfs, an out-of-tree stacking file system included in Ubuntu Linux kernels, did not properly handle faults occurring during copy_from_user() correctly. These could lead to either a double-free situation or memory not being freed at all. An attacker could use this to cause a denial of service (kernel memory exhaustion) or gain privileges via executing arbitrary code. AKA ZDI-CAN-13562.
 

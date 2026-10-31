@@ -7,6 +7,10 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-119712
+
+- [https://github.com/hyderpwn/CVE-pipeshub](https://github.com/hyderpwn/CVE-pipeshub) : ![starts](https://img.shields.io/github/stars/hyderpwn/CVE-pipeshub.svg) ![forks](https://img.shields.io/github/forks/hyderpwn/CVE-pipeshub.svg)
+
 ## CVE-2026-119025
 > open 7.2.0 before 11.0.0 contains an OS command injection vulnerability that allows attackers to execute PowerShell code by supplying crafted URLs on Windows and WSL. Attackers can embed $(...) subexpressions in URLs, such as OAuth authorization_endpoint values from malicious MCP servers, which execute when index.js passes them unescaped to powershell -EncodedCommand.
 
@@ -68,6 +72,10 @@
 > A security flaw has been discovered in 2K Games Sid Meier&#x27;s Civilization IV 1.0.12.68. The affected element is the function loadstring of the component Lua sandbox. Performing a manipulation results in type confusion. The attack may be initiated remotely. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure.
 
 - [https://github.com/drbloop2000/Sid-Meier-s-Civilization-VI-RCE](https://github.com/drbloop2000/Sid-Meier-s-Civilization-VI-RCE) : ![starts](https://img.shields.io/github/stars/drbloop2000/Sid-Meier-s-Civilization-VI-RCE.svg) ![forks](https://img.shields.io/github/forks/drbloop2000/Sid-Meier-s-Civilization-VI-RCE.svg)
+
+## CVE-2026-116366
+
+- [https://github.com/googlesky/CVE-2026-116366](https://github.com/googlesky/CVE-2026-116366) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-116366.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-116366.svg)
 
 ## CVE-2026-116191
 > Rclone before 1.75.2 contains a path traversal vulnerability in serve webdav that allows unauthenticated attackers to write above the served root by sending an unvalidated &#x27;..&#x27; path component. Attackers can send MKCOL /.. to plant a VFS node, then PUT, MOVE, COPY, or MKCOL to create, overwrite, or delete files belonging to other tenants.
@@ -528,6 +536,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/Nucklear/CVE-2026-111497-working](https://github.com/Nucklear/CVE-2026-111497-working) : ![starts](https://img.shields.io/github/stars/Nucklear/CVE-2026-111497-working.svg) ![forks](https://img.shields.io/github/forks/Nucklear/CVE-2026-111497-working.svg)
 
 - [https://github.com/atiilla/CVE-2026-111497-Node2Shell](https://github.com/atiilla/CVE-2026-111497-Node2Shell) : ![starts](https://img.shields.io/github/stars/atiilla/CVE-2026-111497-Node2Shell.svg) ![forks](https://img.shields.io/github/forks/atiilla/CVE-2026-111497-Node2Shell.svg)
+
+- [https://github.com/adachis/pillow-patched-brotli](https://github.com/adachis/pillow-patched-brotli) : ![starts](https://img.shields.io/github/stars/adachis/pillow-patched-brotli.svg) ![forks](https://img.shields.io/github/forks/adachis/pillow-patched-brotli.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -1513,6 +1523,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/liztrr01/php2shell](https://github.com/liztrr01/php2shell) : ![starts](https://img.shields.io/github/stars/liztrr01/php2shell.svg) ![forks](https://img.shields.io/github/forks/liztrr01/php2shell.svg)
 
 - [https://github.com/flynnsmc-lgtm/qt-t-shield](https://github.com/flynnsmc-lgtm/qt-t-shield) : ![starts](https://img.shields.io/github/stars/flynnsmc-lgtm/qt-t-shield.svg) ![forks](https://img.shields.io/github/forks/flynnsmc-lgtm/qt-t-shield.svg)
+
+- [https://github.com/Lydia-King-K/ddld36-solar-aegis](https://github.com/Lydia-King-K/ddld36-solar-aegis) : ![starts](https://img.shields.io/github/stars/Lydia-King-K/ddld36-solar-aegis.svg) ![forks](https://img.shields.io/github/forks/Lydia-King-K/ddld36-solar-aegis.svg)
 
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
@@ -2628,6 +2640,12 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/offline-ant/tcp2kaslr](https://github.com/offline-ant/tcp2kaslr) : ![starts](https://img.shields.io/github/stars/offline-ant/tcp2kaslr.svg) ![forks](https://img.shields.io/github/forks/offline-ant/tcp2kaslr.svg)
 
+- [https://github.com/alvaroguzmancode/cve-2026-98432](https://github.com/alvaroguzmancode/cve-2026-98432) : ![starts](https://img.shields.io/github/stars/alvaroguzmancode/cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/alvaroguzmancode/cve-2026-98432.svg)
+
+- [https://github.com/brett6320/fix_CVE-2026-98432](https://github.com/brett6320/fix_CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/brett6320/fix_CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/brett6320/fix_CVE-2026-98432.svg)
+
+- [https://github.com/tiendungdev/cve-2026-98432-guard](https://github.com/tiendungdev/cve-2026-98432-guard) : ![starts](https://img.shields.io/github/stars/tiendungdev/cve-2026-98432-guard.svg) ![forks](https://img.shields.io/github/forks/tiendungdev/cve-2026-98432-guard.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3549,10 +3567,12 @@ The specific flaw exists within the parsing of mDNS resource records. The issue 
 - [https://github.com/techupdate24/gitlab-ai-gateway-cve-2026-90970](https://github.com/techupdate24/gitlab-ai-gateway-cve-2026-90970) : ![starts](https://img.shields.io/github/stars/techupdate24/gitlab-ai-gateway-cve-2026-90970.svg) ![forks](https://img.shields.io/github/forks/techupdate24/gitlab-ai-gateway-cve-2026-90970.svg)
 
 ## CVE-2026-90932
+> LaraDashboard versions 0.9.2 through 1.2.2 contain a path traversal vulnerability in the core-upgrade backup handling. CoreUpgradeController and BackupService (e.g. BackupService::deleteBackup()) concatenate the user-supplied backup_file/filename value directly onto the backup directory path without normalisation, without applying basename(), and without verifying that the resolved path remains inside storage/app/core-backups; the corresponding form requests only validate the value as a bounded 
 
 - [https://github.com/capivara-research/CVE-2026-90932](https://github.com/capivara-research/CVE-2026-90932) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-90932.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-90932.svg)
 
 ## CVE-2026-90931
+> LaraDashboard versions 0.9.0 through 1.2.2 fail to sanitize SVG file content during media upload, allowing authenticated users with only the media.create permission to upload malicious SVG files containing script tags. When any user including administrators opens the stored SVG file served inline from the application origin, the embedded JavaScript executes in the dashboard context, enabling session hijacking and administrative account takeover.
 
 - [https://github.com/capivara-research/CVE-2026-90931](https://github.com/capivara-research/CVE-2026-90931) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-90931.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-90931.svg)
 
@@ -4348,6 +4368,7 @@ unmarshal() verified the modification detection code only when the message was a
 - [https://github.com/oscerd/CVE-2026-85243](https://github.com/oscerd/CVE-2026-85243) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-85243.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-85243.svg)
 
 ## CVE-2026-85168
+> n8n versions before 1.123.73, 2.35.4, and 2.36.2 contain a remote code execution vulnerability in the Git node. The node reset a fixed list of command-bearing configuration keys before each operation, but that list did not cover the content-filter and merge-driver key families. A repository with local configuration setting one of those keys together with a matching attribute pattern causes git to execute the configured command during an ordinary Add, Commit, Checkout, or Pull operation. The comm
 
 - [https://github.com/Boreas37/CVE-2026-85168-PoC](https://github.com/Boreas37/CVE-2026-85168-PoC) : ![starts](https://img.shields.io/github/stars/Boreas37/CVE-2026-85168-PoC.svg) ![forks](https://img.shields.io/github/forks/Boreas37/CVE-2026-85168-PoC.svg)
 
@@ -11451,6 +11472,8 @@ bytes into @to's linear data rather than transferring frag descriptors.
 - [https://github.com/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit](https://github.com/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit) : ![starts](https://img.shields.io/github/stars/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit.svg) ![forks](https://img.shields.io/github/forks/porcumarcooo/THM-CVE-2026-46300-Fragnesia-Exploit.svg)
 
 - [https://github.com/Koshmare-Blossom/Fragnesia-go](https://github.com/Koshmare-Blossom/Fragnesia-go) : ![starts](https://img.shields.io/github/stars/Koshmare-Blossom/Fragnesia-go.svg) ![forks](https://img.shields.io/github/forks/Koshmare-Blossom/Fragnesia-go.svg)
+
+- [https://github.com/foxcornlab/fragnesia-scanner](https://github.com/foxcornlab/fragnesia-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/fragnesia-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/fragnesia-scanner.svg)
 
 ## CVE-2026-46275
  In the Linux kernel, the following vulnerability has been resolved:
@@ -50167,6 +50190,8 @@ This vulnerability was found internally.
 
 - [https://github.com/ghs053020-stack/cve-2024-21626](https://github.com/ghs053020-stack/cve-2024-21626) : ![starts](https://img.shields.io/github/stars/ghs053020-stack/cve-2024-21626.svg) ![forks](https://img.shields.io/github/forks/ghs053020-stack/cve-2024-21626.svg)
 
+- [https://github.com/Leven0101/cve-2024-21626-lab](https://github.com/Leven0101/cve-2024-21626-lab) : ![starts](https://img.shields.io/github/stars/Leven0101/cve-2024-21626-lab.svg) ![forks](https://img.shields.io/github/forks/Leven0101/cve-2024-21626-lab.svg)
+
 ## CVE-2024-21546
  Versions of the package unisharp/laravel-filemanager before 2.9.1 are vulnerable to Remote Code Execution (RCE) through using a valid mimetype and inserting the . character after the php file extension. This allows the attacker to execute malicious code.
 
@@ -82324,6 +82349,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/George-Yanni/DeepRoot](https://github.com/George-Yanni/DeepRoot) : ![starts](https://img.shields.io/github/stars/George-Yanni/DeepRoot.svg) ![forks](https://img.shields.io/github/forks/George-Yanni/DeepRoot.svg)
 
+- [https://github.com/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493](https://github.com/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493) : ![starts](https://img.shields.io/github/stars/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493.svg) ![forks](https://img.shields.io/github/forks/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493.svg)
+
 ## CVE-2021-3492
  Shiftfs, an out-of-tree stacking file system included in Ubuntu Linux kernels, did not properly handle faults occurring during copy_from_user() correctly. These could lead to either a double-free situation or memory not being freed at all. An attacker could use this to cause a denial of service (kernel memory exhaustion) or gain privileges via executing arbitrary code. AKA ZDI-CAN-13562.
 
@@ -108120,6 +108147,8 @@ Exploitation of this vulnerability requires that a user or application run or in
  The Remote Desktop Protocol (RDP) implementation in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP2, Windows Server 2008 SP2, R2, and R2 SP1, and Windows 7 Gold and SP1 does not properly process packets in memory, which allows remote attackers to execute arbitrary code by sending crafted RDP packets triggering access to an object that (1) was not properly initialized or (2) is deleted, aka "Remote Desktop Protocol Vulnerability."
 
 - [https://github.com/zhangkaibin0921/MS12-020-CVE-2012-0002](https://github.com/zhangkaibin0921/MS12-020-CVE-2012-0002) : ![starts](https://img.shields.io/github/stars/zhangkaibin0921/MS12-020-CVE-2012-0002.svg) ![forks](https://img.shields.io/github/forks/zhangkaibin0921/MS12-020-CVE-2012-0002.svg)
+
+- [https://github.com/engineer-lucasmcmelo/CVE-2012-0002](https://github.com/engineer-lucasmcmelo/CVE-2012-0002) : ![starts](https://img.shields.io/github/stars/engineer-lucasmcmelo/CVE-2012-0002.svg) ![forks](https://img.shields.io/github/forks/engineer-lucasmcmelo/CVE-2012-0002.svg)
 
 ## 2011
 ## CVE-2011-5331
