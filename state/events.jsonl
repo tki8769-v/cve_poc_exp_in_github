@@ -7899,3 +7899,13 @@
 {"cve_id": "CVE-2026-98260", "ts": "2026-10-31T15:36:07Z", "type": "new_poc", "url": "https://github.com/ChaYeWuu/xring-CVE-2026-98260-OS4.0"}
 {"cve_id": "CVE-2026-98432", "ts": "2026-10-31T15:52:50Z", "type": "new_poc", "url": "https://github.com/AronWang001/debian-cve-2026-98432-fix"}
 {"cve_id": "CVE-2021-4034", "ts": "2026-10-31T16:01:04Z", "type": "new_poc", "url": "https://github.com/caviartank21/CVE-2021-4034"}
+{"cve_id": "CVE-2026-64860", "ts": "2026-10-31T20:30:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-89633", "ts": "2026-10-31T20:37:20Z", "type": "new_poc", "url": "https://github.com/woshigenm/CVE-2026-89633"}
+{"cve_id": "CVE-2026-112816", "ts": "2026-10-31T20:37:21Z", "type": "new_poc", "url": "https://github.com/dehasoft-tr/cve-2026-112816"}
+{"cve_id": "CVE-2026-98937", "ts": "2026-10-31T20:37:22Z", "type": "new_poc", "url": "https://github.com/woshigenm/CVE-2026-98937"}
+{"cve_id": "CVE-2026-18649", "ts": "2026-10-31T20:37:23Z", "type": "new_poc", "url": "https://github.com/C3viche/cve-2026-18649"}
+{"cve_id": "CVE-2026-112816", "ts": "2026-10-31T20:37:23Z", "type": "new_poc", "url": "https://github.com/Sotrano-dev/cve-2026-112816"}
+{"cve_id": "CVE-2026-120218", "ts": "2026-10-31T20:37:23Z", "type": "new_poc", "url": "https://github.com/capivara-research/CVE-2026-120218"}
+{"cve_id": "CVE-2026-77396", "ts": "2026-10-31T20:37:23Z", "type": "new_poc", "url": "https://github.com/saretawa/CVE-2026-77396"}
+{"cve_id": "CVE-2026-112487", "ts": "2026-10-31T20:37:24Z", "type": "new_poc", "url": "https://github.com/Lyutoon/CVE-2026-112487"}
+{"cve_id": "CVE-2026-58882", "ts": "2026-10-31T20:37:26Z", "type": "new_poc", "url": "https://github.com/Ignema/WapGuard"}

@@ -76,6 +76,16 @@ compromised host.
 
 - [https://github.com/googlesky/CVE-2026-111585](https://github.com/googlesky/CVE-2026-111585) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-111585.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-111585.svg)
 
+## CVE-2026-112487
+> A path handling issue was addressed with improved validation. This issue is fixed in macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. An app may be able to gain root privileges.
+
+- [https://github.com/Lyutoon/CVE-2026-112487](https://github.com/Lyutoon/CVE-2026-112487) : ![starts](https://img.shields.io/github/stars/Lyutoon/CVE-2026-112487.svg) ![forks](https://img.shields.io/github/forks/Lyutoon/CVE-2026-112487.svg)
+
+## CVE-2026-112816
+
+- [https://github.com/Sotrano-dev/cve-2026-112816](https://github.com/Sotrano-dev/cve-2026-112816) : ![starts](https://img.shields.io/github/stars/Sotrano-dev/cve-2026-112816.svg) ![forks](https://img.shields.io/github/forks/Sotrano-dev/cve-2026-112816.svg)
+- [https://github.com/dehasoft-tr/cve-2026-112816](https://github.com/dehasoft-tr/cve-2026-112816) : ![starts](https://img.shields.io/github/stars/dehasoft-tr/cve-2026-112816.svg) ![forks](https://img.shields.io/github/forks/dehasoft-tr/cve-2026-112816.svg)
+
 ## CVE-2026-116244
 
 - [https://github.com/googlesky/CVE-2026-116244](https://github.com/googlesky/CVE-2026-116244) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-116244.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-116244.svg)
@@ -88,6 +98,15 @@ compromised host.
 ## CVE-2026-119712
 
 - [https://github.com/hyderpwn/CVE-pipeshub](https://github.com/hyderpwn/CVE-pipeshub) : ![starts](https://img.shields.io/github/stars/hyderpwn/CVE-pipeshub.svg) ![forks](https://img.shields.io/github/forks/hyderpwn/CVE-pipeshub.svg)
+
+## CVE-2026-120218
+
+- [https://github.com/capivara-research/CVE-2026-120218](https://github.com/capivara-research/CVE-2026-120218) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-120218.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-120218.svg)
+
+## CVE-2026-18649
+> A flaw was found in the GStreamer gst-plugins-good package. The rtph264depay and rtph265depay RTP depayloader elements do not enforce a maximum size limit on the reassembly buffer used during fragmented RTP packet processing. A remote, unauthenticated attacker can send a continuous stream of RTP fragments without ever transmitting an end-of-fragment marker, causing the reassembly buffer to grow without bound until process memory is exhausted. This results in a denial of service through process t
+
+- [https://github.com/C3viche/cve-2026-18649](https://github.com/C3viche/cve-2026-18649) : ![starts](https://img.shields.io/github/stars/C3viche/cve-2026-18649.svg) ![forks](https://img.shields.io/github/forks/C3viche/cve-2026-18649.svg)
 
 ## CVE-2026-36425
 
@@ -130,6 +149,10 @@ whet
 
 - [https://github.com/TeamN4C/SG-2026-0037](https://github.com/TeamN4C/SG-2026-0037) : ![starts](https://img.shields.io/github/stars/TeamN4C/SG-2026-0037.svg) ![forks](https://img.shields.io/github/forks/TeamN4C/SG-2026-0037.svg)
 
+## CVE-2026-58882
+
+- [https://github.com/Ignema/WapGuard](https://github.com/Ignema/WapGuard) : ![starts](https://img.shields.io/github/stars/Ignema/WapGuard.svg) ![forks](https://img.shields.io/github/forks/Ignema/WapGuard.svg)
+
 ## CVE-2026-63686
 > A NULL pointer dereference in mod_xml2enc in Apache Software Foundation Apache HTTP Server before 2.4.69 on all platforms allows an untrusted backend server to cause a denial of service via a proxied response with a charset whose conversion partially succeeds then fails.
 
@@ -155,6 +178,25 @@ which can result in an UAF:
 					      sighand = lock(old_leader, sighand);
 
 - [https://github.com/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu](https://github.com/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu) : ![starts](https://img.shields.io/github/stars/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu.svg) ![forks](https://img.shields.io/github/forks/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu.svg)
+
+## CVE-2026-77396
+
+- [https://github.com/saretawa/CVE-2026-77396](https://github.com/saretawa/CVE-2026-77396) : ![starts](https://img.shields.io/github/stars/saretawa/CVE-2026-77396.svg) ![forks](https://img.shields.io/github/forks/saretawa/CVE-2026-77396.svg)
+
+## CVE-2026-89633
+> In the Linux kernel, the following vulnerability has been resolved:
+
+smb: client: fix OOB read/write from unvalidated DataOffset in coalesce_t2()
+
+coalesce_t2() computes data pointers directly from server-supplied
+DataOffset fields with no validation against buffer bounds:
+
+  data_area_of_tgt = (char *)&amp;pSMBt-&gt;hdr.Protocol +
+                     get_unaligned_le16(&amp;pSMBt-&gt;t2_rsp.DataOffset);
+  data_area_of_src = (char *)&amp;pSMBs-&gt;hdr.Protocol +
+                     get_unaligned_le16(&amp;pSMBs-&gt;t2_rs
+
+- [https://github.com/woshigenm/CVE-2026-89633](https://github.com/woshigenm/CVE-2026-89633) : ![starts](https://img.shields.io/github/stars/woshigenm/CVE-2026-89633.svg) ![forks](https://img.shields.io/github/forks/woshigenm/CVE-2026-89633.svg)
 
 ## CVE-2026-98260
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -196,3 +238,20 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 - [https://github.com/sevaepsteyn/cve-2026-98432-ebpf](https://github.com/sevaepsteyn/cve-2026-98432-ebpf) : ![starts](https://img.shields.io/github/stars/sevaepsteyn/cve-2026-98432-ebpf.svg) ![forks](https://img.shields.io/github/forks/sevaepsteyn/cve-2026-98432-ebpf.svg)
 - [https://github.com/soroushneshati/cve-2026-98432-ubuntu-mitigation](https://github.com/soroushneshati/cve-2026-98432-ubuntu-mitigation) : ![starts](https://img.shields.io/github/stars/soroushneshati/cve-2026-98432-ubuntu-mitigation.svg) ![forks](https://img.shields.io/github/forks/soroushneshati/cve-2026-98432-ubuntu-mitigation.svg)
 - [https://github.com/tiendungdev/cve-2026-98432-guard](https://github.com/tiendungdev/cve-2026-98432-guard) : ![starts](https://img.shields.io/github/stars/tiendungdev/cve-2026-98432-guard.svg) ![forks](https://img.shields.io/github/forks/tiendungdev/cve-2026-98432-guard.svg)
+
+## CVE-2026-98937
+> In the Linux kernel, the following vulnerability has been resolved:
+
+perf/core: Check kernel access when kernel callchains are requested
+
+perf_event_open() currently gates perf_allow_kernel() only on
+!attr.exclude_kernel.
+
+However, users can still request kernel callchain collection with
+attr.exclude_callchain_kernel == 0 even when attr.exclude_kernel == 1.
+That still requires kernel profiling privilege, but the existing check
+does not enforce it.
+
+Update the permission check to call perf_allow_
+
+- [https://github.com/woshigenm/CVE-2026-98937](https://github.com/woshigenm/CVE-2026-98937) : ![starts](https://img.shields.io/github/stars/woshigenm/CVE-2026-98937.svg) ![forks](https://img.shields.io/github/forks/woshigenm/CVE-2026-98937.svg)

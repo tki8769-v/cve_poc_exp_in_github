@@ -6,6 +6,10 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-120218
+
+- [https://github.com/capivara-research/CVE-2026-120218](https://github.com/capivara-research/CVE-2026-120218) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-120218.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-120218.svg)
+
 ## CVE-2026-119712
 
 - [https://github.com/hyderpwn/CVE-pipeshub](https://github.com/hyderpwn/CVE-pipeshub) : ![starts](https://img.shields.io/github/stars/hyderpwn/CVE-pipeshub.svg) ![forks](https://img.shields.io/github/forks/hyderpwn/CVE-pipeshub.svg)
@@ -274,6 +278,12 @@ On an affected system, any authenticated user can gain operator privileges and m
 
 - [https://github.com/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc](https://github.com/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc) : ![starts](https://img.shields.io/github/stars/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc.svg) ![forks](https://img.shields.io/github/forks/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc.svg)
 
+## CVE-2026-112816
+
+- [https://github.com/Sotrano-dev/cve-2026-112816](https://github.com/Sotrano-dev/cve-2026-112816) : ![starts](https://img.shields.io/github/stars/Sotrano-dev/cve-2026-112816.svg) ![forks](https://img.shields.io/github/forks/Sotrano-dev/cve-2026-112816.svg)
+
+- [https://github.com/dehasoft-tr/cve-2026-112816](https://github.com/dehasoft-tr/cve-2026-112816) : ![starts](https://img.shields.io/github/stars/dehasoft-tr/cve-2026-112816.svg) ![forks](https://img.shields.io/github/forks/dehasoft-tr/cve-2026-112816.svg)
+
 ## CVE-2026-112706
 > A permissions issue was addressed with additional restrictions. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, tvOS 27.2, visionOS 27.2, watchOS 27.2. An app may be able to access sensitive user data.
 
@@ -301,6 +311,11 @@ On an affected system, any authenticated user can gain operator privileges and m
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. Processing a maliciously crafted PDF file may lead to memory corruption.
 
 - [https://github.com/Ping-2o/CVE-2026-112611-cg-shading](https://github.com/Ping-2o/CVE-2026-112611-cg-shading) : ![starts](https://img.shields.io/github/stars/Ping-2o/CVE-2026-112611-cg-shading.svg) ![forks](https://img.shields.io/github/forks/Ping-2o/CVE-2026-112611-cg-shading.svg)
+
+## CVE-2026-112487
+> A path handling issue was addressed with improved validation. This issue is fixed in macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. An app may be able to gain root privileges.
+
+- [https://github.com/Lyutoon/CVE-2026-112487](https://github.com/Lyutoon/CVE-2026-112487) : ![starts](https://img.shields.io/github/stars/Lyutoon/CVE-2026-112487.svg) ![forks](https://img.shields.io/github/forks/Lyutoon/CVE-2026-112487.svg)
 
 ## CVE-2026-112445
 
@@ -2615,6 +2630,23 @@ in depth measure, let&#x27;s also check before we complete the checksum
 
 - [https://github.com/unixreaper/CVE-2026-99999-Research](https://github.com/unixreaper/CVE-2026-99999-Research) : ![starts](https://img.shields.io/github/stars/unixreaper/CVE-2026-99999-Research.svg) ![forks](https://img.shields.io/github/forks/unixreaper/CVE-2026-99999-Research.svg)
 
+## CVE-2026-98937
+> In the Linux kernel, the following vulnerability has been resolved:
+
+perf/core: Check kernel access when kernel callchains are requested
+
+perf_event_open() currently gates perf_allow_kernel() only on
+!attr.exclude_kernel.
+
+However, users can still request kernel callchain collection with
+attr.exclude_callchain_kernel == 0 even when attr.exclude_kernel == 1.
+That still requires kernel profiling privilege, but the existing check
+does not enforce it.
+
+Update the permission check to call perf_allow_
+
+- [https://github.com/woshigenm/CVE-2026-98937](https://github.com/woshigenm/CVE-2026-98937) : ![starts](https://img.shields.io/github/stars/woshigenm/CVE-2026-98937.svg) ![forks](https://img.shields.io/github/forks/woshigenm/CVE-2026-98937.svg)
+
 ## CVE-2026-98432
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3716,6 +3748,21 @@ This leaves walk-&gt;action erroneously set to ACTION_AGAIN, which is
 
 
 - [https://github.com/ylh440104/InfinityCore-Android-CVE-2026-89754](https://github.com/ylh440104/InfinityCore-Android-CVE-2026-89754) : ![starts](https://img.shields.io/github/stars/ylh440104/InfinityCore-Android-CVE-2026-89754.svg) ![forks](https://img.shields.io/github/forks/ylh440104/InfinityCore-Android-CVE-2026-89754.svg)
+
+## CVE-2026-89633
+> In the Linux kernel, the following vulnerability has been resolved:
+
+smb: client: fix OOB read/write from unvalidated DataOffset in coalesce_t2()
+
+coalesce_t2() computes data pointers directly from server-supplied
+DataOffset fields with no validation against buffer bounds:
+
+  data_area_of_tgt = (char *)&amp;pSMBt-&gt;hdr.Protocol +
+                     get_unaligned_le16(&amp;pSMBt-&gt;t2_rsp.DataOffset);
+  data_area_of_src = (char *)&amp;pSMBs-&gt;hdr.Protocol +
+                     get_unaligned_le16(&amp;pSMBs-&gt;t2_rs
+
+- [https://github.com/woshigenm/CVE-2026-89633](https://github.com/woshigenm/CVE-2026-89633) : ![starts](https://img.shields.io/github/stars/woshigenm/CVE-2026-89633.svg) ![forks](https://img.shields.io/github/forks/woshigenm/CVE-2026-89633.svg)
 
 ## CVE-2026-89282
 > The Apache Lounge Windows distribution of Apache HTTP Server build contains an insecure installation directory permissions vulnerability through its default install directory on C:\, which inherits write access for Authenticated Users.
@@ -5408,6 +5455,10 @@ Remediation requires a firmware update from the vendor. There is no user-side mi
 > MaxKB is an open-source AI assistant for enterprise. Prior to version 2.10.5-lts, assistants with a tool, MCP tool, skill, or sub-application use SandboxShellBackend, which exposes an execute shell tool without excluding it and omits execute from interrupt_on, so human approval is not required. Untrusted chat or ingested content can therefore cause command execution; source deployments with MAXKB_SANDBOX disabled run commands directly as the application user, while the official root container&#x27;s
 
 - [https://github.com/InertFluid/cve-2026-77521-lab](https://github.com/InertFluid/cve-2026-77521-lab) : ![starts](https://img.shields.io/github/stars/InertFluid/cve-2026-77521-lab.svg) ![forks](https://img.shields.io/github/forks/InertFluid/cve-2026-77521-lab.svg)
+
+## CVE-2026-77396
+
+- [https://github.com/saretawa/CVE-2026-77396](https://github.com/saretawa/CVE-2026-77396) : ![starts](https://img.shields.io/github/stars/saretawa/CVE-2026-77396.svg) ![forks](https://img.shields.io/github/forks/saretawa/CVE-2026-77396.svg)
 
 ## CVE-2026-77262
  MCP Atlassian is a Model Context Protocol (MCP) server for Atlassian products (Confluence and Jira). Prior to 0.22.0, confluence_upload_attachment accepts an attacker-controlled file_path and does not apply the path restriction added for the earlier download vulnerability. A caller can traverse outside the workspace and upload arbitrary server-readable files to Confluence. The advisory traces the vulnerable input and processing flow through confluence_upload_attachment, file_path, and CVE-2026-27825, which identify the affected entry points, controls, and code paths. This issue is fixed in version 0.22.0.
@@ -8461,6 +8512,10 @@ This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.23, from 10.1.0-M1
 Users are recommended to upgrade to version 11.0.24, 10.1.57 or 9.0.120, which fix the issue.
 
 - [https://github.com/xiaoqiMikko/tomcat-check](https://github.com/xiaoqiMikko/tomcat-check) : ![starts](https://img.shields.io/github/stars/xiaoqiMikko/tomcat-check.svg) ![forks](https://img.shields.io/github/forks/xiaoqiMikko/tomcat-check.svg)
+
+## CVE-2026-58882
+
+- [https://github.com/Ignema/WapGuard](https://github.com/Ignema/WapGuard) : ![starts](https://img.shields.io/github/stars/Ignema/WapGuard.svg) ![forks](https://img.shields.io/github/forks/Ignema/WapGuard.svg)
 
 ## CVE-2026-58644
  Deserialization of untrusted data in Microsoft Office SharePoint allows an unauthorized attacker to execute code over a network.
@@ -21908,6 +21963,8 @@ This issue affects Trex MES: through 2026-09-29.
  A flaw was found in the GStreamer gst-plugins-good package. The rtph264depay and rtph265depay RTP depayloader elements do not enforce a maximum size limit on the reassembly buffer used during fragmented RTP packet processing. A remote, unauthenticated attacker can send a continuous stream of RTP fragments without ever transmitting an end-of-fragment marker, causing the reassembly buffer to grow without bound until process memory is exhausted. This results in a denial of service through process termination.
 
 - [https://github.com/0xSemizzz/CVE-2026-18649](https://github.com/0xSemizzz/CVE-2026-18649) : ![starts](https://img.shields.io/github/stars/0xSemizzz/CVE-2026-18649.svg) ![forks](https://img.shields.io/github/forks/0xSemizzz/CVE-2026-18649.svg)
+
+- [https://github.com/C3viche/cve-2026-18649](https://github.com/C3viche/cve-2026-18649) : ![starts](https://img.shields.io/github/stars/C3viche/cve-2026-18649.svg) ![forks](https://img.shields.io/github/forks/C3viche/cve-2026-18649.svg)
 
 ## CVE-2026-18577
  An incomplete patch for CVE-2026-18556 allows for authentication bypass and account takeover in N-central Versions through 2026.3.1
