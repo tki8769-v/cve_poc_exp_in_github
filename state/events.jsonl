@@ -7897,3 +7897,5 @@
 {"cve_id": "CVE-2026-111497", "ts": "2026-10-31T15:35:56Z", "type": "new_poc", "url": "https://github.com/hayupisama/quarkus-brotli-audit"}
 {"cve_id": "CVE-2026-36425", "ts": "2026-10-31T15:35:56Z", "type": "new_poc", "url": "https://github.com/MacAwad/whatsapp-valleyrat-analysis"}
 {"cve_id": "CVE-2026-98260", "ts": "2026-10-31T15:36:07Z", "type": "new_poc", "url": "https://github.com/ChaYeWuu/xring-CVE-2026-98260-OS4.0"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-31T15:52:50Z", "type": "new_poc", "url": "https://github.com/AronWang001/debian-cve-2026-98432-fix"}
+{"cve_id": "CVE-2021-4034", "ts": "2026-10-31T16:01:04Z", "type": "new_poc", "url": "https://github.com/caviartank21/CVE-2021-4034"}

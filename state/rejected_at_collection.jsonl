@@ -2408,3 +2408,9 @@
 {"cve_id": "CVE-2022-3606", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T08:07:10Z", "url": "https://github.com/prathamhasnotchanged/Exploit-For-CVE-2022-36067", "url_ids": ["CVE-2022-36067"]}
 {"cve_id": "CVE-2024-1208", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T15:42:01Z", "url": "https://github.com/InkeyP/CVE-2024-12084", "url_ids": ["CVE-2024-12084"]}
 {"cve_id": "CVE-2024-1208", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T15:42:01Z", "url": "https://github.com/Otsutez/cve-2024-12085", "url_ids": ["CVE-2024-12085"]}
+{"cve_id": "CVE-2026-1208", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T15:54:58Z", "url": "https://github.com/M8seven/cve-2026-12080-qemu-guest-agent-authorized-keys", "url_ids": ["CVE-2026-12080"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:01:06Z", "url": "https://github.com/knqyf263/CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:01:06Z", "url": "https://github.com/donky16/CVE-2021-40346-POC", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:01:06Z", "url": "https://github.com/Vulnmachines/HAProxy_CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:01:06Z", "url": "https://github.com/alexOarga/CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}
+{"cve_id": "CVE-2021-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T16:01:06Z", "url": "https://github.com/jmg0929/CVE-2021-40346", "url_ids": ["CVE-2021-40346"]}

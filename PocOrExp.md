@@ -1613,6 +1613,7 @@ privileges. Exploitation requir
 - [https://github.com/Zombie-Kaiser/CVE-2026-108551-POC](https://github.com/Zombie-Kaiser/CVE-2026-108551-POC) : ![starts](https://img.shields.io/github/stars/Zombie-Kaiser/CVE-2026-108551-POC.svg) ![forks](https://img.shields.io/github/forks/Zombie-Kaiser/CVE-2026-108551-POC.svg)
 
 ## CVE-2026-108097
+> Use of Externally-Controlled Input to Select Classes or Code (&#x27;Unsafe Reflection&#x27;) vulnerability in Drupal Drupal core allows Reflection Injection. This issue affects Drupal core versions: from 8.9.0 to 10.6.19, from 11.0.0 to 11.3.19, from 11.4.0 to 11.4.10, from 12.0.0-alpha1 to 12.0.0-beta2.
 
 - [https://github.com/FurkanKAYAPINAR/CVE-2026-108097](https://github.com/FurkanKAYAPINAR/CVE-2026-108097) : ![starts](https://img.shields.io/github/stars/FurkanKAYAPINAR/CVE-2026-108097.svg) ![forks](https://img.shields.io/github/forks/FurkanKAYAPINAR/CVE-2026-108097.svg)
 
@@ -1673,6 +1674,7 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 - [https://github.com/rmhowe425/POC-CVE-2026-107327](https://github.com/rmhowe425/POC-CVE-2026-107327) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-107327.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-107327.svg)
 
 ## CVE-2026-107268
+> Insertion of Sensitive Information Into Sent Data vulnerability in Drupal Two Factor Authentication - TFA / Passwordless Login allows Forceful Browsing. This issue affects Two Factor Authentication - TFA / Passwordless Login versions: from 0.0.0 to 5.4.1, from 5.5.0 to 5.5.2.
 
 - [https://github.com/yuwkaaa/CVE-2026-107268](https://github.com/yuwkaaa/CVE-2026-107268) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-107268.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-107268.svg)
 
@@ -2275,6 +2277,7 @@ Note that this vulnerability can only be exploited prior to the device being onb
 - [https://github.com/hyderpwn/CVE-aisoc](https://github.com/hyderpwn/CVE-aisoc) : ![starts](https://img.shields.io/github/stars/hyderpwn/CVE-aisoc.svg) ![forks](https://img.shields.io/github/forks/hyderpwn/CVE-aisoc.svg)
 
 ## CVE-2026-103039
+> The Gravity Forms plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 3.1.2 via a Post Custom Field whose input type is List. This is due to GFFormsModel::create_post() passing the submitted value to WordPress&#x27; unrestricted global maybe_unserialize() rather than the plugin&#x27;s own hardened GFCommon::maybe_unserialize(), which was added in 3.1.1 and passes allowed_classes =&gt; false precisely to prevent object instantiation. Where the field has a content t
 
 - [https://github.com/noxcrypt-x/CVE-2026-103039](https://github.com/noxcrypt-x/CVE-2026-103039) : ![starts](https://img.shields.io/github/stars/noxcrypt-x/CVE-2026-103039.svg) ![forks](https://img.shields.io/github/forks/noxcrypt-x/CVE-2026-103039.svg)
 
@@ -2696,6 +2699,8 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 - [https://github.com/sevaepsteyn/cve-2026-98432-ebpf](https://github.com/sevaepsteyn/cve-2026-98432-ebpf) : ![starts](https://img.shields.io/github/stars/sevaepsteyn/cve-2026-98432-ebpf.svg) ![forks](https://img.shields.io/github/forks/sevaepsteyn/cve-2026-98432-ebpf.svg)
 
 - [https://github.com/soroushneshati/cve-2026-98432-ubuntu-mitigation](https://github.com/soroushneshati/cve-2026-98432-ubuntu-mitigation) : ![starts](https://img.shields.io/github/stars/soroushneshati/cve-2026-98432-ubuntu-mitigation.svg) ![forks](https://img.shields.io/github/forks/soroushneshati/cve-2026-98432-ubuntu-mitigation.svg)
+
+- [https://github.com/AronWang001/debian-cve-2026-98432-fix](https://github.com/AronWang001/debian-cve-2026-98432-fix) : ![starts](https://img.shields.io/github/stars/AronWang001/debian-cve-2026-98432-fix.svg) ![forks](https://img.shields.io/github/forks/AronWang001/debian-cve-2026-98432-fix.svg)
 
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -82187,6 +82192,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab](https://github.com/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab) : ![starts](https://img.shields.io/github/stars/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab.svg) ![forks](https://img.shields.io/github/forks/DERMOUCHERYAD/Linux-Privilege-Escalation-Pentest-Lab.svg)
 
 - [https://github.com/axisops/CVE-2021-4034](https://github.com/axisops/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/axisops/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/axisops/CVE-2021-4034.svg)
+
+- [https://github.com/caviartank21/CVE-2021-4034](https://github.com/caviartank21/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/caviartank21/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/caviartank21/CVE-2021-4034.svg)
 
 ## CVE-2021-3975
  A use-after-free flaw was found in libvirt. The qemuMonitorUnregister() function in qemuProcessHandleMonitorEOF is called using multiple threads without being adequately protected by a monitor lock. This flaw could be triggered by the virConnectGetAllDomainStats API when the guest is shutting down. An unprivileged client with a read-only connection could use this flaw to perform a denial of service attack by causing the libvirt daemon to crash.

@@ -15,6 +15,10 @@
 
 - [https://github.com/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493](https://github.com/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493) : ![starts](https://img.shields.io/github/stars/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493.svg) ![forks](https://img.shields.io/github/forks/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493.svg)
 
+## CVE-2021-4034
+
+- [https://github.com/caviartank21/CVE-2021-4034](https://github.com/caviartank21/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/caviartank21/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/caviartank21/CVE-2021-4034.svg)
+
 ## CVE-2021-44142
 
 - [https://github.com/neyugNat/Samba_Fruit_Vuln](https://github.com/neyugNat/Samba_Fruit_Vuln) : ![starts](https://img.shields.io/github/stars/neyugNat/Samba_Fruit_Vuln.svg) ![forks](https://img.shields.io/github/forks/neyugNat/Samba_Fruit_Vuln.svg)
@@ -34,6 +38,7 @@
 - [https://github.com/shivrajem/ebs-cve-2026-101767-check](https://github.com/shivrajem/ebs-cve-2026-101767-check) : ![starts](https://img.shields.io/github/stars/shivrajem/ebs-cve-2026-101767-check.svg) ![forks](https://img.shields.io/github/forks/shivrajem/ebs-cve-2026-101767-check.svg)
 
 ## CVE-2026-103039
+> The Gravity Forms plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 3.1.2 via a Post Custom Field whose input type is List. This is due to GFFormsModel::create_post() passing the submitted value to WordPress&#x27; unrestricted global maybe_unserialize() rather than the plugin&#x27;s own hardened GFCommon::maybe_unserialize(), which was added in 3.1.1 and passes allowed_classes =&gt; false precisely to prevent object instantiation. Where the field has a content t
 
 - [https://github.com/noxcrypt-x/CVE-2026-103039](https://github.com/noxcrypt-x/CVE-2026-103039) : ![starts](https://img.shields.io/github/stars/noxcrypt-x/CVE-2026-103039.svg) ![forks](https://img.shields.io/github/forks/noxcrypt-x/CVE-2026-103039.svg)
 
@@ -179,6 +184,7 @@ request socket, and send a SYNACK from tcp_check_req().
 tcp_v4_send_synack() and inet_csk_route_req() read ireq-&gt;ireq_opt
 under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
+- [https://github.com/AronWang001/debian-cve-2026-98432-fix](https://github.com/AronWang001/debian-cve-2026-98432-fix) : ![starts](https://img.shields.io/github/stars/AronWang001/debian-cve-2026-98432-fix.svg) ![forks](https://img.shields.io/github/forks/AronWang001/debian-cve-2026-98432-fix.svg)
 - [https://github.com/alvaroguzmancode/cve-2026-98432](https://github.com/alvaroguzmancode/cve-2026-98432) : ![starts](https://img.shields.io/github/stars/alvaroguzmancode/cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/alvaroguzmancode/cve-2026-98432.svg)
 - [https://github.com/antonyantony/cve-2026-98432-nft](https://github.com/antonyantony/cve-2026-98432-nft) : ![starts](https://img.shields.io/github/stars/antonyantony/cve-2026-98432-nft.svg) ![forks](https://img.shields.io/github/forks/antonyantony/cve-2026-98432-nft.svg)
 - [https://github.com/brett6320/fix_CVE-2026-98432](https://github.com/brett6320/fix_CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/brett6320/fix_CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/brett6320/fix_CVE-2026-98432.svg)
