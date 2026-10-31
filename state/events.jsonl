@@ -7909,3 +7909,8 @@
 {"cve_id": "CVE-2026-77396", "ts": "2026-10-31T20:37:23Z", "type": "new_poc", "url": "https://github.com/saretawa/CVE-2026-77396"}
 {"cve_id": "CVE-2026-112487", "ts": "2026-10-31T20:37:24Z", "type": "new_poc", "url": "https://github.com/Lyutoon/CVE-2026-112487"}
 {"cve_id": "CVE-2026-58882", "ts": "2026-10-31T20:37:26Z", "type": "new_poc", "url": "https://github.com/Ignema/WapGuard"}
+{"cve_id": "CVE-2026-13002", "ts": "2026-10-31T20:51:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49115", "ts": "2026-10-31T20:51:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49116", "ts": "2026-10-31T20:51:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-64860", "ts": "2026-10-31T20:52:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-5548", "ts": "2026-10-31T21:10:03Z", "type": "new_poc", "url": "https://github.com/ppolo1/CVE-2025-5548"}

@@ -14018,6 +14018,8 @@ Users should upgrade to the latest version and ensure any forked or derivative c
 
 - [https://github.com/dc04265/CVE-2025-5548-Practica-Modulo-6](https://github.com/dc04265/CVE-2025-5548-Practica-Modulo-6) : ![starts](https://img.shields.io/github/stars/dc04265/CVE-2025-5548-Practica-Modulo-6.svg) ![forks](https://img.shields.io/github/forks/dc04265/CVE-2025-5548-Practica-Modulo-6.svg)
 
+- [https://github.com/ppolo1/CVE-2025-5548](https://github.com/ppolo1/CVE-2025-5548) : ![starts](https://img.shields.io/github/stars/ppolo1/CVE-2025-5548.svg) ![forks](https://img.shields.io/github/forks/ppolo1/CVE-2025-5548.svg)
+
 ## CVE-2025-5518
  Authorization Bypass Through User-Controlled Key vulnerability with user privileges in ArgusTech BILGER allows Exploitation of Trusted Identifiers.
 
