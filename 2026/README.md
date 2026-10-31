@@ -351,6 +351,17 @@ On an affected system, any authenticated user can gain operator privileges and m
 
 - [https://github.com/hahahahahahahahah6/mcp-idprobe](https://github.com/hahahahahahahahah6/mcp-idprobe) : ![starts](https://img.shields.io/github/stars/hahahahahahahahah6/mcp-idprobe.svg) ![forks](https://img.shields.io/github/forks/hahahahahahahahah6/mcp-idprobe.svg)
 
+## CVE-2026-111585
+> An integer overflow in the remote-control
+screen processing component of TeamViewer clients (Full Client, Portable and Remote
+Control App) prior to version 15.83 may allow a malicious remote host to cause
+a denial of service or, depending on the platform, potentially execute
+arbitrary code with the privileges of the viewer process. Exploitation requires
+a user to establish a remote-control session to an attacker-controlled or
+compromised host.
+
+- [https://github.com/googlesky/CVE-2026-111585](https://github.com/googlesky/CVE-2026-111585) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-111585.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-111585.svg)
+
 ## CVE-2026-111497
 > A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream.
 
@@ -543,6 +554,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/adachis/pillow-patched-brotli](https://github.com/adachis/pillow-patched-brotli) : ![starts](https://img.shields.io/github/stars/adachis/pillow-patched-brotli.svg) ![forks](https://img.shields.io/github/forks/adachis/pillow-patched-brotli.svg)
 
 - [https://github.com/dansaurabh/brotli2shell_Hunter](https://github.com/dansaurabh/brotli2shell_Hunter) : ![starts](https://img.shields.io/github/stars/dansaurabh/brotli2shell_Hunter.svg) ![forks](https://img.shields.io/github/forks/dansaurabh/brotli2shell_Hunter.svg)
+
+- [https://github.com/hayupisama/quarkus-brotli-audit](https://github.com/hayupisama/quarkus-brotli-audit) : ![starts](https://img.shields.io/github/stars/hayupisama/quarkus-brotli-audit.svg) ![forks](https://img.shields.io/github/forks/hayupisama/quarkus-brotli-audit.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -1536,6 +1549,11 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/hyderpwn/CVE-rapyd-admin](https://github.com/hyderpwn/CVE-rapyd-admin) : ![starts](https://img.shields.io/github/stars/hyderpwn/CVE-rapyd-admin.svg) ![forks](https://img.shields.io/github/forks/hyderpwn/CVE-rapyd-admin.svg)
 
+## CVE-2026-109520
+> A flaw has been found in Colorful iGameCenter 2.0.0.82. Affected by this vulnerability is the function MmMapIoSpace in the library AMDRyzenMasterDriver.sys of the component Dispatch Handler. This manipulation of the argument SystemBuffer causes privilege defined with unsafe actions. The attack needs to be launched locally. The vendor was contacted early about this disclosure but did not respond in any way.
+
+- [https://github.com/sarkewww/CVE-2026-109520](https://github.com/sarkewww/CVE-2026-109520) : ![starts](https://img.shields.io/github/stars/sarkewww/CVE-2026-109520.svg) ![forks](https://img.shields.io/github/forks/sarkewww/CVE-2026-109520.svg)
+
 ## CVE-2026-109519
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
@@ -2255,6 +2273,10 @@ Note that this vulnerability can only be exploited prior to the device being onb
 
 - [https://github.com/hyderpwn/CVE-aisoc](https://github.com/hyderpwn/CVE-aisoc) : ![starts](https://img.shields.io/github/stars/hyderpwn/CVE-aisoc.svg) ![forks](https://img.shields.io/github/forks/hyderpwn/CVE-aisoc.svg)
 
+## CVE-2026-103039
+
+- [https://github.com/noxcrypt-x/CVE-2026-103039](https://github.com/noxcrypt-x/CVE-2026-103039) : ![starts](https://img.shields.io/github/stars/noxcrypt-x/CVE-2026-103039.svg) ![forks](https://img.shields.io/github/forks/noxcrypt-x/CVE-2026-103039.svg)
+
 ## CVE-2026-102975
 
 - [https://github.com/BomboBombone/CVE-2026-102975](https://github.com/BomboBombone/CVE-2026-102975) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-102975.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-102975.svg)
@@ -2433,6 +2455,8 @@ Note that this vulnerability can only be exploited prior to the device being onb
 
 - [https://github.com/shivrajem/ebs-cve-2026-101767-check](https://github.com/shivrajem/ebs-cve-2026-101767-check) : ![starts](https://img.shields.io/github/stars/shivrajem/ebs-cve-2026-101767-check.svg) ![forks](https://img.shields.io/github/forks/shivrajem/ebs-cve-2026-101767-check.svg)
 
+- [https://github.com/aduli198/CVE-2026-101767](https://github.com/aduli198/CVE-2026-101767) : ![starts](https://img.shields.io/github/stars/aduli198/CVE-2026-101767.svg) ![forks](https://img.shields.io/github/forks/aduli198/CVE-2026-101767.svg)
+
 ## CVE-2026-101259
 > Generation of Error Message Containing Sensitive Information vulnerability in Apache Camel CoAP component.
 
@@ -2536,6 +2560,11 @@ This issue affects Mediawiki - UploadWizard Extension: from * before 1.46.1, 1.4
 This issue affects Mediawiki - Wikibase Extension: from * before 1.46.1, 1.45.5, 1.43.10.
 
 - [https://github.com/BomboBombone/CVE-2026-100380](https://github.com/BomboBombone/CVE-2026-100380) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-100380.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-100380.svg)
+
+## CVE-2026-100105
+> A user with permission to edit contact points but not their protected fields can change protected settings, such as a contact point&#x27;s destination URL, by switching an integration to a legacy schema version, which can expose stored credentials and redirect alert notifications (incorrect authorization).
+
+- [https://github.com/googlesky/CVE-2026-100105](https://github.com/googlesky/CVE-2026-100105) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-100105.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-100105.svg)
 
 ## CVE-2026-99999
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -2655,6 +2684,18 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/raahilmw/synipopt](https://github.com/raahilmw/synipopt) : ![starts](https://img.shields.io/github/stars/raahilmw/synipopt.svg) ![forks](https://img.shields.io/github/forks/raahilmw/synipopt.svg)
 
+- [https://github.com/antonyantony/cve-2026-98432-nft](https://github.com/antonyantony/cve-2026-98432-nft) : ![starts](https://img.shields.io/github/stars/antonyantony/cve-2026-98432-nft.svg) ![forks](https://img.shields.io/github/forks/antonyantony/cve-2026-98432-nft.svg)
+
+- [https://github.com/googlesky/CVE-2026-98432](https://github.com/googlesky/CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-98432.svg)
+
+- [https://github.com/ndeet/cve-2026-98432](https://github.com/ndeet/cve-2026-98432) : ![starts](https://img.shields.io/github/stars/ndeet/cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/ndeet/cve-2026-98432.svg)
+
+- [https://github.com/nfodor/cve-2026-98432-nft-mitigation](https://github.com/nfodor/cve-2026-98432-nft-mitigation) : ![starts](https://img.shields.io/github/stars/nfodor/cve-2026-98432-nft-mitigation.svg) ![forks](https://img.shields.io/github/forks/nfodor/cve-2026-98432-nft-mitigation.svg)
+
+- [https://github.com/sevaepsteyn/cve-2026-98432-ebpf](https://github.com/sevaepsteyn/cve-2026-98432-ebpf) : ![starts](https://img.shields.io/github/stars/sevaepsteyn/cve-2026-98432-ebpf.svg) ![forks](https://img.shields.io/github/forks/sevaepsteyn/cve-2026-98432-ebpf.svg)
+
+- [https://github.com/soroushneshati/cve-2026-98432-ubuntu-mitigation](https://github.com/soroushneshati/cve-2026-98432-ubuntu-mitigation) : ![starts](https://img.shields.io/github/stars/soroushneshati/cve-2026-98432-ubuntu-mitigation.svg) ![forks](https://img.shields.io/github/forks/soroushneshati/cve-2026-98432-ubuntu-mitigation.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -2740,6 +2781,10 @@ but the node is still queued on tsk, which
 - [https://github.com/molanp/CVE-2026-98260-vivo-s60-poc](https://github.com/molanp/CVE-2026-98260-vivo-s60-poc) : ![starts](https://img.shields.io/github/stars/molanp/CVE-2026-98260-vivo-s60-poc.svg) ![forks](https://img.shields.io/github/forks/molanp/CVE-2026-98260-vivo-s60-poc.svg)
 
 - [https://github.com/AmarnathCJD/CVE-2026-98260-IQOO-13](https://github.com/AmarnathCJD/CVE-2026-98260-IQOO-13) : ![starts](https://img.shields.io/github/stars/AmarnathCJD/CVE-2026-98260-IQOO-13.svg) ![forks](https://img.shields.io/github/forks/AmarnathCJD/CVE-2026-98260-IQOO-13.svg)
+
+- [https://github.com/ChaYeWuu/xring-CVE-2026-98260-OS4.0](https://github.com/ChaYeWuu/xring-CVE-2026-98260-OS4.0) : ![starts](https://img.shields.io/github/stars/ChaYeWuu/xring-CVE-2026-98260-OS4.0.svg) ![forks](https://img.shields.io/github/forks/ChaYeWuu/xring-CVE-2026-98260-OS4.0.svg)
+
+- [https://github.com/helloklf/CVE-2026-98260-SHELL](https://github.com/helloklf/CVE-2026-98260-SHELL) : ![starts](https://img.shields.io/github/stars/helloklf/CVE-2026-98260-SHELL.svg) ![forks](https://img.shields.io/github/forks/helloklf/CVE-2026-98260-SHELL.svg)
 
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -7469,6 +7514,8 @@ with mt exec") added a temporary workaround for that in 2010 which surv
 
 - [https://github.com/aucai/Redmi-K90-CVE-2026-64560](https://github.com/aucai/Redmi-K90-CVE-2026-64560) : ![starts](https://img.shields.io/github/stars/aucai/Redmi-K90-CVE-2026-64560.svg) ![forks](https://img.shields.io/github/forks/aucai/Redmi-K90-CVE-2026-64560.svg)
 
+- [https://github.com/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu](https://github.com/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu) : ![starts](https://img.shields.io/github/stars/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu.svg) ![forks](https://img.shields.io/github/forks/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu.svg)
+
 ## CVE-2026-64531
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -7587,6 +7634,13 @@ cover MPTCP fast open, so the SOCK_STREAM/IPPROTO_MPTCP arm is explicit.
  datamodel-code-generator prior to version 0.70.0 contains a code injection vulnerability that allows attackers who control input schemas to achieve remote code execution by supplying a malicious customBasePath value containing embedded newlines and a dot-free Python expression. The crafted value is emitted verbatim into a generated 'from ... import ...' statement without identifier validation, causing arbitrary Python code to execute when the generated module is imported.
 
 - [https://github.com/rahulreddykarne/CVE-2026-63720-datamodel-code-generator](https://github.com/rahulreddykarne/CVE-2026-63720-datamodel-code-generator) : ![starts](https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-63720-datamodel-code-generator.svg) ![forks](https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-63720-datamodel-code-generator.svg)
+
+## CVE-2026-63686
+> A NULL pointer dereference in mod_xml2enc in Apache Software Foundation Apache HTTP Server before 2.4.69 on all platforms allows an untrusted backend server to cause a denial of service via a proxied response with a charset whose conversion partially succeeds then fails.
+
+Users are recommended to upgrade to version 2.4.69, which fixes this issue.
+
+- [https://github.com/timothyckl/CVE-2026-63686](https://github.com/timothyckl/CVE-2026-63686) : ![starts](https://img.shields.io/github/stars/timothyckl/CVE-2026-63686.svg) ![forks](https://img.shields.io/github/forks/timothyckl/CVE-2026-63686.svg)
 
 ## CVE-2026-63642
  MagicMirror² is an open source modular smart mirror platform. Prior to 2.37.0, checkArticleUrl in defaultmodules/newsfeed/node_helper.js accepts the CHECK_ARTICLE_URL notification through the unauthenticated Socket.IO namespace /newsfeed and performs fetch(url, { method: "HEAD" }) without validating the attacker-controlled URL. The helper returns ARTICLE_URL_STATUS containing the URL and framing result, providing a response and timing oracle that can identify internal hosts and ports and trigger side effects on services that react to HEAD requests. This issue is fixed in version 2.37.0.
@@ -9030,6 +9084,10 @@ Users are recommended to upgrade to version 11.0.23, 10.1.56 or 9.0.119 which fi
  ITFlow provides an IT documentation, ticketing and accounting system for small managed service providers. Prior to version 26.07, an authenticated Technician or higher with access to at least one client invoice can inject SQL through the frequency parameter handled by agent/post/recurring_invoice.php. The handler passes recurring_invoice_frequency through sanitizeInput but interpolates it unquoted into DATE_ADD, allowing SQL syntax to escape the interval expression, assign additional INSERT columns, store subquery results in recurring_invoice_note, and expose those results through agent/recurring_invoice.php. The persisted recurring_invoice_frequency can execute again when Force Recurring uses it in a later UPDATE, allowing another legitimate user to trigger the second-order injection. This can expose password hashes, SMTP credentials, user records, and database metadata, modify database fields, and enable administrative takeover after credential cracking. This issue is fixed in version 26.07.
 
 - [https://github.com/iltosec/CVE-2026-54596](https://github.com/iltosec/CVE-2026-54596) : ![starts](https://img.shields.io/github/stars/iltosec/CVE-2026-54596.svg) ![forks](https://img.shields.io/github/forks/iltosec/CVE-2026-54596.svg)
+
+## CVE-2026-54523
+
+- [https://github.com/TeamN4C/SG-2026-0037](https://github.com/TeamN4C/SG-2026-0037) : ![starts](https://img.shields.io/github/stars/TeamN4C/SG-2026-0037.svg) ![forks](https://img.shields.io/github/forks/TeamN4C/SG-2026-0037.svg)
 
 ## CVE-2026-54520
  AI Agent Automation is a modular AI agent workflow automation platform with schedulers, tools, and observability. Prior to 0.9.1, the executeStep file-step implementation in backend/src/agents/executor.js passes the user-controlled step.path value through path.resolve with process.cwd() and then uses the resulting path for read or write operations without checking that it remains in an approved workflow directory. An authenticated user who can create or modify workflow file steps can supply traversal segments to escape the intended workspace and read sensitive files or write and overwrite files accessible to the backend process, including application-adjacent files when process permissions allow. This issue is fixed in version 0.9.1.
@@ -12993,6 +13051,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/yichen115/ghostlock-kirkwood](https://github.com/yichen115/ghostlock-kirkwood) : ![starts](https://img.shields.io/github/stars/yichen115/ghostlock-kirkwood.svg) ![forks](https://img.shields.io/github/forks/yichen115/ghostlock-kirkwood.svg)
 
+- [https://github.com/RetributionByRevenue/motogstylus2023-root](https://github.com/RetributionByRevenue/motogstylus2023-root) : ![starts](https://img.shields.io/github/stars/RetributionByRevenue/motogstylus2023-root.svg) ![forks](https://img.shields.io/github/forks/RetributionByRevenue/motogstylus2023-root.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -15117,6 +15177,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 - [https://github.com/redteamfortress/CVE-2026-36425](https://github.com/redteamfortress/CVE-2026-36425) : ![starts](https://img.shields.io/github/stars/redteamfortress/CVE-2026-36425.svg) ![forks](https://img.shields.io/github/forks/redteamfortress/CVE-2026-36425.svg)
 
 - [https://github.com/gongchuang1089/EDRKiller](https://github.com/gongchuang1089/EDRKiller) : ![starts](https://img.shields.io/github/stars/gongchuang1089/EDRKiller.svg) ![forks](https://img.shields.io/github/forks/gongchuang1089/EDRKiller.svg)
+
+- [https://github.com/MacAwad/whatsapp-valleyrat-analysis](https://github.com/MacAwad/whatsapp-valleyrat-analysis) : ![starts](https://img.shields.io/github/stars/MacAwad/whatsapp-valleyrat-analysis.svg) ![forks](https://img.shields.io/github/forks/MacAwad/whatsapp-valleyrat-analysis.svg)
 
 ## CVE-2026-36392
  FairSketch Rise CRM Version 3.9.6 is vulnerable to Cross Site Scripting (XSS). An authenticated administrator can inject arbitrary JavaScript into an item's title, which is stored server-side and executed in the browser of any client user who visits the store page, enabling session hijacking, account takeover, and phishing.

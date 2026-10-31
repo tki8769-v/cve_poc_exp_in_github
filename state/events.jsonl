@@ -7867,3 +7867,33 @@
 {"cve_id": "CVE-2026-67205", "ts": "2026-10-31T07:51:45Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-116244", "ts": "2026-10-31T07:59:57Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-116244"}
 {"cve_id": "CVE-2026-98432", "ts": "2026-10-31T07:59:58Z", "type": "new_poc", "url": "https://github.com/raahilmw/synipopt"}
+{"cve_id": "CVE-2026-112211", "ts": "2026-10-31T15:21:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117174", "ts": "2026-10-31T15:22:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58118", "ts": "2026-10-31T15:24:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58119", "ts": "2026-10-31T15:24:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-58120", "ts": "2026-10-31T15:24:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-60111", "ts": "2026-10-31T15:24:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-67203", "ts": "2026-10-31T15:25:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-67205", "ts": "2026-10-31T15:25:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2020-5902", "ts": "2026-10-31T15:35:50Z", "type": "new_poc", "url": "https://github.com/yora1928/cve-2020-5902"}
+{"cve_id": "CVE-2026-63686", "ts": "2026-10-31T15:35:51Z", "type": "new_poc", "url": "https://github.com/timothyckl/CVE-2026-63686"}
+{"cve_id": "CVE-2026-111585", "ts": "2026-10-31T15:35:52Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-111585"}
+{"cve_id": "CVE-2026-109520", "ts": "2026-10-31T15:35:52Z", "type": "new_poc", "url": "https://github.com/sarkewww/CVE-2026-109520"}
+{"cve_id": "CVE-2026-103039", "ts": "2026-10-31T15:35:52Z", "type": "new_poc", "url": "https://github.com/noxcrypt-x/CVE-2026-103039"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-31T15:35:52Z", "type": "new_poc", "url": "https://github.com/ndeet/cve-2026-98432"}
+{"cve_id": "CVE-2021-3156", "ts": "2026-10-31T15:35:53Z", "type": "new_poc", "url": "https://github.com/d4ytox/CVE-2021-3156"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-31T15:35:53Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-98432"}
+{"cve_id": "CVE-2026-101767", "ts": "2026-10-31T15:35:53Z", "type": "new_poc", "url": "https://github.com/aduli198/CVE-2026-101767"}
+{"cve_id": "CVE-2026-100105", "ts": "2026-10-31T15:35:53Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-100105"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-31T15:35:53Z", "type": "new_poc", "url": "https://github.com/antonyantony/cve-2026-98432-nft"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-31T15:35:54Z", "type": "new_poc", "url": "https://github.com/sevaepsteyn/cve-2026-98432-ebpf"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-10-31T15:35:54Z", "type": "new_poc", "url": "https://github.com/helloklf/CVE-2026-98260-SHELL"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-31T15:35:54Z", "type": "new_poc", "url": "https://github.com/soroushneshati/cve-2026-98432-ubuntu-mitigation"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-10-31T15:35:54Z", "type": "new_poc", "url": "https://github.com/nfodor/cve-2026-98432-nft-mitigation"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-10-31T15:35:55Z", "type": "new_poc", "url": "https://github.com/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu"}
+{"cve_id": "CVE-2026-54523", "ts": "2026-10-31T15:35:55Z", "type": "new_poc", "url": "https://github.com/TeamN4C/SG-2026-0037"}
+{"cve_id": "CVE-2021-44142", "ts": "2026-10-31T15:35:56Z", "type": "new_poc", "url": "https://github.com/neyugNat/Samba_Fruit_Vuln"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-10-31T15:35:56Z", "type": "new_poc", "url": "https://github.com/RetributionByRevenue/motogstylus2023-root"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-10-31T15:35:56Z", "type": "new_poc", "url": "https://github.com/hayupisama/quarkus-brotli-audit"}
+{"cve_id": "CVE-2026-36425", "ts": "2026-10-31T15:35:56Z", "type": "new_poc", "url": "https://github.com/MacAwad/whatsapp-valleyrat-analysis"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-10-31T15:36:07Z", "type": "new_poc", "url": "https://github.com/ChaYeWuu/xring-CVE-2026-98260-OS4.0"}
