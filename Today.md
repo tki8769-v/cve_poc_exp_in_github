@@ -15,17 +15,35 @@
 
 - [https://github.com/s1204IT/CVE-2020-0069](https://github.com/s1204IT/CVE-2020-0069) : ![starts](https://img.shields.io/github/stars/s1204IT/CVE-2020-0069.svg) ![forks](https://img.shields.io/github/forks/s1204IT/CVE-2020-0069.svg)
 
+## CVE-2021-43798
+
+- [https://github.com/str1keboo/CVE-2021-43798](https://github.com/str1keboo/CVE-2021-43798) : ![starts](https://img.shields.io/github/stars/str1keboo/CVE-2021-43798.svg) ![forks](https://img.shields.io/github/forks/str1keboo/CVE-2021-43798.svg)
+
 ## CVE-2021-44228
 
+- [https://github.com/ShyVictor/minecraft-rce-lab](https://github.com/ShyVictor/minecraft-rce-lab) : ![starts](https://img.shields.io/github/stars/ShyVictor/minecraft-rce-lab.svg) ![forks](https://img.shields.io/github/forks/ShyVictor/minecraft-rce-lab.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-14](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-14) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-14.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-14.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-15](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-15) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-15.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-15.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-16](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-16) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-16.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-16.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-17](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-17) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-17.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-17.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-18](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-18) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-18.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-18.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-19](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-19) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-19.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-19.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-20](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-20) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-20.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-20.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2025](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2025) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-2025.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-2025.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-21](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-21) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-21.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-21.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-22](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-22) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-22.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-22.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-23](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-23) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-23.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-23.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-24](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-24) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-24.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-24.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-25](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-25) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-25.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-25.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-briefing](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-briefing) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-briefing.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-briefing.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-followup](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-followup) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-followup.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-followup.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-new](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-new) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-new.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-new.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-q4](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-q4) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-q4.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-q4.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-tracking](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-tracking) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-tracking.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-tracking.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit2](https://github.com/mcpmark-eval-liuhezi/log4shell-audit2) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit2.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit2.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit3](https://github.com/mcpmark-eval-liuhezi/log4shell-audit3) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit3.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit3.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-security-audit](https://github.com/mcpmark-eval-liuhezi/log4shell-security-audit) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-security-audit.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-security-audit.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shellsecurity-audit](https://github.com/mcpmark-eval-liuhezi/log4shellsecurity-audit) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shellsecurity-audit.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shellsecurity-audit.svg)
 
 ## CVE-2022-20186
 
@@ -60,6 +78,11 @@ This vulnerability is due to insufficient validation of HTTP requests by the Spa
 > The vulnerability exists within internal components of BeyondTrust’s Remote Support product. The components did not adequately validate the origin of the messages it received. Under the right conditions, this could allow an attacker to perform file operations on the appliance.
 
 - [https://github.com/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check](https://github.com/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check.svg)
+
+## CVE-2026-105192
+> LMCache multiprocess mode, also called distributed mode, opens an unauthenticated ZeroMQ ROUTER so worker processes can register and share KV cache blocks. Messages on that socket are msgpack. Extension code 1 is passed to DeviceIPCWrapper.Deserialize, which calls pickle.loads, while the server is still decoding request arguments and before the handler runs. A single unauthenticated ZMQ DEALER message to the transport port (default 5555) therefore executes code as the user the LMCache process ru
+
+- [https://github.com/basesixtythree/B63-POC-CVE-2026-105192](https://github.com/basesixtythree/B63-POC-CVE-2026-105192) : ![starts](https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2026-105192.svg) ![forks](https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2026-105192.svg)
 
 ## CVE-2026-105445
 > An Incorrect Privilege Assignment vulnerability in Docker Hub&#x27;s account-to-organization conversion feature allowed an authenticated attacker to reassign a personal access token (PAT) they controlled to another Docker Hub user without rotating or revoking the token secret. The unchanged PAT then authenticated to the registry as the recipient and could pull, push, or delete images, within its scopes, in repositories accessible to that user, including organization repositories.
@@ -100,6 +123,11 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/Sable-Research/brotli-decoder-overflow](https://github.com/Sable-Research/brotli-decoder-overflow) : ![starts](https://img.shields.io/github/stars/Sable-Research/brotli-decoder-overflow.svg) ![forks](https://img.shields.io/github/forks/Sable-Research/brotli-decoder-overflow.svg)
 - [https://github.com/mehmet-emir-eroglu/NODE2SHELL](https://github.com/mehmet-emir-eroglu/NODE2SHELL) : ![starts](https://img.shields.io/github/stars/mehmet-emir-eroglu/NODE2SHELL.svg) ![forks](https://img.shields.io/github/forks/mehmet-emir-eroglu/NODE2SHELL.svg)
 
+## CVE-2026-112816
+> Improper certificate validation in the HTTPS listener in Canonical LXD 4.0.14, 5.0.10, 5.21.8, 6.9 before 4.0.15, 5.0.11, 5.21.9, 6.10.1 allows an unauthenticated attacker to authenticate as any trusted client and gain full access to the cluster and managed virtual machines via a crafted certificate chain.
+
+- [https://github.com/MrNarsus/cve-2026-112816-poc](https://github.com/MrNarsus/cve-2026-112816-poc) : ![starts](https://img.shields.io/github/stars/MrNarsus/cve-2026-112816-poc.svg) ![forks](https://img.shields.io/github/forks/MrNarsus/cve-2026-112816-poc.svg)
+
 ## CVE-2026-114509
 > Laravel is a web application framework. Prior to 12.68.0 and 13.29.0, TokenGuard configured as a standard token-based API guard does not reject a crafted non-string credential. Under affected MySQL or MariaDB configurations, the authentication lookup can match an unintended existing user, allowing an unauthenticated attacker to bypass authentication and take over an account on routes protected by TokenGuard. This issue is fixed in versions 12.68.0 and 13.29.0.
 
@@ -110,9 +138,22 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/4m3rr0r/CVE-2026-115965](https://github.com/4m3rr0r/CVE-2026-115965) : ![starts](https://img.shields.io/github/stars/4m3rr0r/CVE-2026-115965.svg) ![forks](https://img.shields.io/github/forks/4m3rr0r/CVE-2026-115965.svg)
 
+## CVE-2026-116296
+
+- [https://github.com/thalewalan/CVE-2026-116296](https://github.com/thalewalan/CVE-2026-116296) : ![starts](https://img.shields.io/github/stars/thalewalan/CVE-2026-116296.svg) ![forks](https://img.shields.io/github/forks/thalewalan/CVE-2026-116296.svg)
+
+## CVE-2026-116512
+> The Project Manager – AI Powered Project Management, Task Management, Kanban Board &amp; Time Tracker plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 4.1.1 via the &#x27;id&#x27; parameter parameter. This is due to unsanitized &#x27;id&#x27; parameter value concatenated directly into the pipe-delimited validation rule string, which is then split and each token invoked as a dynamic PHP function with no allowlist check. This makes it possible for unauthenticated attackers
+
+- [https://github.com/BabyMushr00w/CVE-2026-116512](https://github.com/BabyMushr00w/CVE-2026-116512) : ![starts](https://img.shields.io/github/stars/BabyMushr00w/CVE-2026-116512.svg) ![forks](https://img.shields.io/github/forks/BabyMushr00w/CVE-2026-116512.svg)
+
 ## CVE-2026-116521
 
 - [https://github.com/4m3rr0r/CVE-2026-116521-poc](https://github.com/4m3rr0r/CVE-2026-116521-poc) : ![starts](https://img.shields.io/github/stars/4m3rr0r/CVE-2026-116521-poc.svg) ![forks](https://img.shields.io/github/forks/4m3rr0r/CVE-2026-116521-poc.svg)
+
+## CVE-2026-116779
+
+- [https://github.com/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-](https://github.com/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-) : ![starts](https://img.shields.io/github/stars/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-.svg) ![forks](https://img.shields.io/github/forks/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-.svg)
 
 ## CVE-2026-118764
 > minimatch is a minimal matching utility for converting glob expressions into JavaScript RegExp objects. Prior to 11.0.1, src/index.ts implements firstPhasePreProcess() so that, at optimizationLevel 2 or higher, it repeatedly expands attacker-controlled **/.. pattern segments inside a fixpoint loop, allowing generated globParts entries to be processed and expanded again. secondPhasePreProcess() then compares the expanded entries pairwise, so a short malicious glob can cause excessive CPU and memo
@@ -144,6 +185,10 @@ This issue affects ADC: from 14.1 through 73.32 and from 13.1 through 63.21; Gat
 
 - [https://github.com/Jmesmykil/SWITCH2-WEBKIT-JAILBREAK](https://github.com/Jmesmykil/SWITCH2-WEBKIT-JAILBREAK) : ![starts](https://img.shields.io/github/stars/Jmesmykil/SWITCH2-WEBKIT-JAILBREAK.svg) ![forks](https://img.shields.io/github/forks/Jmesmykil/SWITCH2-WEBKIT-JAILBREAK.svg)
 
+## CVE-2026-60004
+
+- [https://github.com/basesixtythree/B63-POC-CVE-2026-60004](https://github.com/basesixtythree/B63-POC-CVE-2026-60004) : ![starts](https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2026-60004.svg) ![forks](https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2026-60004.svg)
+
 ## CVE-2026-63030
 > WordPress 6.9.x before 6.9.5 and 7.0.x before 7.0.2 is affected by a REST API batch endpoint route confusion issue which, combined with the author__not_in WP_Query SQL Injection (CVE-2026-60137), could allow an attacker to perform SQL Injection and achieve Remote Code Execution.
 
@@ -158,6 +203,11 @@ This issue affects ADC: from 14.1 through 73.32 and from 13.1 through 63.21; Gat
 > Improper authentication in Progress Software WS_FTP Server versions prior to 2024.0.6 and 2025.0.3 on Windows could allow an unauthenticated remote attacker to access sensitive information, including administrative credentials.
 
 - [https://github.com/foxcornlab/wsftp-server-scanner](https://github.com/foxcornlab/wsftp-server-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/wsftp-server-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/wsftp-server-scanner.svg)
+
+## CVE-2026-86962
+> A double free issue was addressed with improved memory management. This issue is fixed in iOS 26.7 and iPadOS 26.7, iOS 27 and iPadOS 27, macOS Golden Gate 27, macOS Sequoia 15.8, macOS Tahoe 26.7, tvOS 27, visionOS 27, watchOS 27. An app may be able to cause unexpected system termination.
+
+- [https://github.com/bobmarleyfaruk9/CVE-2026-86962](https://github.com/bobmarleyfaruk9/CVE-2026-86962) : ![starts](https://img.shields.io/github/stars/bobmarleyfaruk9/CVE-2026-86962.svg) ![forks](https://img.shields.io/github/forks/bobmarleyfaruk9/CVE-2026-86962.svg)
 
 ## CVE-2026-88773
 > Inconsistent interpretation of HTTP requests (&#x27;HTTP Request/Response smuggling&#x27;) vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.
@@ -201,6 +251,7 @@ that PID. pid_task(timer-&gt;it.cpu.pid, PIDTYPE_PID) then returns NULL,
 but the node is still queued on tsk, which
 
 - [https://github.com/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root](https://github.com/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root) : ![starts](https://img.shields.io/github/stars/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root.svg) ![forks](https://img.shields.io/github/forks/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root.svg)
+- [https://github.com/cuteaplane/CVE-2026-98260-for-OPD2501](https://github.com/cuteaplane/CVE-2026-98260-for-OPD2501) : ![starts](https://img.shields.io/github/stars/cuteaplane/CVE-2026-98260-for-OPD2501.svg) ![forks](https://img.shields.io/github/forks/cuteaplane/CVE-2026-98260-for-OPD2501.svg)
 - [https://github.com/sabuweis/GhostLock-CVE-2026-98260](https://github.com/sabuweis/GhostLock-CVE-2026-98260) : ![starts](https://img.shields.io/github/stars/sabuweis/GhostLock-CVE-2026-98260.svg) ![forks](https://img.shields.io/github/forks/sabuweis/GhostLock-CVE-2026-98260.svg)
 
 ## CVE-2026-98432
@@ -218,5 +269,6 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/AronWang001/linux-cve-2026-98432-fix](https://github.com/AronWang001/linux-cve-2026-98432-fix) : ![starts](https://img.shields.io/github/stars/AronWang001/linux-cve-2026-98432-fix.svg) ![forks](https://img.shields.io/github/forks/AronWang001/linux-cve-2026-98432-fix.svg)
 - [https://github.com/Mervent/cve-2026-98432](https://github.com/Mervent/cve-2026-98432) : ![starts](https://img.shields.io/github/stars/Mervent/cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/Mervent/cve-2026-98432.svg)
+- [https://github.com/fetus-hina/cve-2026-98432-mitigation-rpm](https://github.com/fetus-hina/cve-2026-98432-mitigation-rpm) : ![starts](https://img.shields.io/github/stars/fetus-hina/cve-2026-98432-mitigation-rpm.svg) ![forks](https://img.shields.io/github/forks/fetus-hina/cve-2026-98432-mitigation-rpm.svg)
 - [https://github.com/jamilbk/drop-ipv4-opt](https://github.com/jamilbk/drop-ipv4-opt) : ![starts](https://img.shields.io/github/stars/jamilbk/drop-ipv4-opt.svg) ![forks](https://img.shields.io/github/forks/jamilbk/drop-ipv4-opt.svg)
 - [https://github.com/uvian/xboard-core](https://github.com/uvian/xboard-core) : ![starts](https://img.shields.io/github/stars/uvian/xboard-core.svg) ![forks](https://img.shields.io/github/forks/uvian/xboard-core.svg)

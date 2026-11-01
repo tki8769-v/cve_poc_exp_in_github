@@ -1674,6 +1674,34 @@
 
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-18](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-18) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-18.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-18.svg)
 
+- [https://github.com/ShyVictor/minecraft-rce-lab](https://github.com/ShyVictor/minecraft-rce-lab) : ![starts](https://img.shields.io/github/stars/ShyVictor/minecraft-rce-lab.svg) ![forks](https://img.shields.io/github/forks/ShyVictor/minecraft-rce-lab.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-19](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-19) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-19.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-19.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-21](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-21) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-21.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-21.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-22](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-22) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-22.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-22.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-23](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-23) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-23.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-23.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-24](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-24) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-24.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-24.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-25](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-25) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-25.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-25.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-briefing](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-briefing) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-briefing.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-briefing.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-new](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-new) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-new.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-new.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-q4](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-q4) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-q4.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-q4.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-tracking](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-tracking) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-tracking.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-tracking.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit3](https://github.com/mcpmark-eval-liuhezi/log4shell-audit3) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit3.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit3.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-security-audit](https://github.com/mcpmark-eval-liuhezi/log4shell-security-audit) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-security-audit.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-security-audit.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shellsecurity-audit](https://github.com/mcpmark-eval-liuhezi/log4shellsecurity-audit) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shellsecurity-audit.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shellsecurity-audit.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
@@ -1921,6 +1949,8 @@
 - [https://github.com/CyberCTF/vulhub-grafana-cve-2021-43798](https://github.com/CyberCTF/vulhub-grafana-cve-2021-43798) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-grafana-cve-2021-43798.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-grafana-cve-2021-43798.svg)
 
 - [https://github.com/Jiahe114514/hdu-is-lab1-secure-api](https://github.com/Jiahe114514/hdu-is-lab1-secure-api) : ![starts](https://img.shields.io/github/stars/Jiahe114514/hdu-is-lab1-secure-api.svg) ![forks](https://img.shields.io/github/forks/Jiahe114514/hdu-is-lab1-secure-api.svg)
+
+- [https://github.com/str1keboo/CVE-2021-43798](https://github.com/str1keboo/CVE-2021-43798) : ![starts](https://img.shields.io/github/stars/str1keboo/CVE-2021-43798.svg) ![forks](https://img.shields.io/github/forks/str1keboo/CVE-2021-43798.svg)
 
 ## CVE-2021-43789
  PrestaShop is an Open Source e-commerce web application. Versions of PrestaShop prior to 1.7.8.2 are vulnerable to blind SQL injection using search filters with `orderBy` and `sortOrder` parameters. The problem is fixed in version 1.7.8.2.
