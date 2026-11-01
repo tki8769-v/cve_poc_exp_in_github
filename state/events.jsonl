@@ -7962,3 +7962,17 @@
 {"cve_id": "CVE-2026-102764", "ts": "2026-11-01T07:54:55Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check"}
 {"cve_id": "CVE-2016-5195", "ts": "2026-11-01T07:55:52Z", "type": "new_poc", "url": "https://github.com/cbry-96/Dirty-Cow-Ubuntu-Server-16.04.1"}
 {"cve_id": "CVE-2026-21589", "ts": "2026-11-01T07:57:56Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/atlassian-cve-2026-21589-check"}
+{"cve_id": "CVE-2026-109213", "ts": "2026-11-01T08:06:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111477", "ts": "2026-11-01T08:06:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-13002", "ts": "2026-11-01T08:08:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49115", "ts": "2026-11-01T08:09:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49116", "ts": "2026-11-01T08:09:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-64860", "ts": "2026-11-01T08:11:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66025", "ts": "2026-11-01T08:11:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66026", "ts": "2026-11-01T08:11:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95673", "ts": "2026-11-01T08:19:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98258", "ts": "2026-11-01T08:27:30Z", "type": "new_poc", "url": "https://github.com/imkidz0/poc-CVE-2026-98258"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-01T08:27:30Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-18"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-01T08:27:31Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-17"}
+{"cve_id": "CVE-2026-0073", "ts": "2026-11-01T08:32:39Z", "type": "new_poc", "url": "https://github.com/ko456123mo-jpg/zero-x-deploy"}
+{"cve_id": "CVE-2026-0073", "ts": "2026-11-01T08:32:39Z", "type": "new_poc", "url": "https://github.com/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC"}

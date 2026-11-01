@@ -2854,6 +2854,22 @@ but the node is still queued on tsk, which
 
 - [https://github.com/sabuweis/GhostLock-CVE-2026-98260](https://github.com/sabuweis/GhostLock-CVE-2026-98260) : ![starts](https://img.shields.io/github/stars/sabuweis/GhostLock-CVE-2026-98260.svg) ![forks](https://img.shields.io/github/forks/sabuweis/GhostLock-CVE-2026-98260.svg)
 
+## CVE-2026-98258
+> In the Linux kernel, the following vulnerability has been resolved:
+
+posix-cpu-timers: Prevent freeing a timer which is queued on the expiry list
+
+Kijo analyzed another race in the POSIX CPU timer code:
+
+Commit bf635681c906 converted cpu_timer::firing from a tristate value to a
+boolean. This lost the distinction between &quot;not owned by the firing list&quot;
+and &quot;still owned, but delivery was canceled&quot;. The resulting race is:
+
+    expiry handler              timer_settime()        timer_delete()
+    ---
+
+- [https://github.com/imkidz0/poc-CVE-2026-98258](https://github.com/imkidz0/poc-CVE-2026-98258) : ![starts](https://img.shields.io/github/stars/imkidz0/poc-CVE-2026-98258.svg) ![forks](https://img.shields.io/github/forks/imkidz0/poc-CVE-2026-98258.svg)
+
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -26444,6 +26460,10 @@ Panorama and Cloud NGFW are not impacted by these issues.
 - [https://github.com/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass](https://github.com/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass) : ![starts](https://img.shields.io/github/stars/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass.svg) ![forks](https://img.shields.io/github/forks/aye468448-eng/CVE-2026-0073-Android-adbd-authentication-bypass.svg)
 
 - [https://github.com/umarrehmansiddiqui/CVE-2026-0073](https://github.com/umarrehmansiddiqui/CVE-2026-0073) : ![starts](https://img.shields.io/github/stars/umarrehmansiddiqui/CVE-2026-0073.svg) ![forks](https://img.shields.io/github/forks/umarrehmansiddiqui/CVE-2026-0073.svg)
+
+- [https://github.com/ko456123mo-jpg/zero-x-deploy](https://github.com/ko456123mo-jpg/zero-x-deploy) : ![starts](https://img.shields.io/github/stars/ko456123mo-jpg/zero-x-deploy.svg) ![forks](https://img.shields.io/github/forks/ko456123mo-jpg/zero-x-deploy.svg)
+
+- [https://github.com/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC](https://github.com/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC) : ![starts](https://img.shields.io/github/stars/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC.svg) ![forks](https://img.shields.io/github/forks/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC.svg)
 
 ## CVE-2026-0059
  In multiple functions of sdp_discovery.cc, there is a possible way to achieve code execution due to a heap buffer overflow. This could lead to remote (proximal/adjacent) code execution with no additional execution privileges needed. User interaction is not needed for exploitation.

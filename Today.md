@@ -16,6 +16,8 @@
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-14](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-14) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-14.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-14.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-15](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-15) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-15.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-15.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-16](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-16) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-16.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-16.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-17](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-17) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-17.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-17.svg)
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-18](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-18) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-18.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-18.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-20](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-20) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-20.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-20.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2025](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2025) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-2025.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-2025.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-followup](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-followup) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-followup.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-followup.svg)
@@ -25,6 +27,11 @@
 
 - [https://github.com/Milordick/unisoc-tool-rs](https://github.com/Milordick/unisoc-tool-rs) : ![starts](https://img.shields.io/github/stars/Milordick/unisoc-tool-rs.svg) ![forks](https://img.shields.io/github/forks/Milordick/unisoc-tool-rs.svg)
 - [https://github.com/keaidang/TYH831T-S9-Bootloader-Root](https://github.com/keaidang/TYH831T-S9-Bootloader-Root) : ![starts](https://img.shields.io/github/stars/keaidang/TYH831T-S9-Bootloader-Root.svg) ![forks](https://img.shields.io/github/forks/keaidang/TYH831T-S9-Bootloader-Root.svg)
+
+## CVE-2026-0073
+
+- [https://github.com/ko456123mo-jpg/zero-x-deploy](https://github.com/ko456123mo-jpg/zero-x-deploy) : ![starts](https://img.shields.io/github/stars/ko456123mo-jpg/zero-x-deploy.svg) ![forks](https://img.shields.io/github/forks/ko456123mo-jpg/zero-x-deploy.svg)
+- [https://github.com/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC](https://github.com/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC) : ![starts](https://img.shields.io/github/stars/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC.svg) ![forks](https://img.shields.io/github/forks/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC.svg)
 
 ## CVE-2026-102764
 > The vulnerability exists within internal components of BeyondTrust’s Remote Support product. The components did not adequately validate the origin of the messages it received. Under the right conditions, this could allow an attacker to perform file operations on the appliance.
@@ -66,6 +73,22 @@
 This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1-37.279 and NDcPP; Gateway: before 14.1-73.37 FIPS and before 13.1-64.23.
 
 - [https://github.com/Fyyre/CVE-2026-88773](https://github.com/Fyyre/CVE-2026-88773) : ![starts](https://img.shields.io/github/stars/Fyyre/CVE-2026-88773.svg) ![forks](https://img.shields.io/github/forks/Fyyre/CVE-2026-88773.svg)
+
+## CVE-2026-98258
+> In the Linux kernel, the following vulnerability has been resolved:
+
+posix-cpu-timers: Prevent freeing a timer which is queued on the expiry list
+
+Kijo analyzed another race in the POSIX CPU timer code:
+
+Commit bf635681c906 converted cpu_timer::firing from a tristate value to a
+boolean. This lost the distinction between &quot;not owned by the firing list&quot;
+and &quot;still owned, but delivery was canceled&quot;. The resulting race is:
+
+    expiry handler              timer_settime()        timer_delete()
+    ---
+
+- [https://github.com/imkidz0/poc-CVE-2026-98258](https://github.com/imkidz0/poc-CVE-2026-98258) : ![starts](https://img.shields.io/github/stars/imkidz0/poc-CVE-2026-98258.svg) ![forks](https://img.shields.io/github/forks/imkidz0/poc-CVE-2026-98258.svg)
 
 ## CVE-2026-98260
 > In the Linux kernel, the following vulnerability has been resolved:
