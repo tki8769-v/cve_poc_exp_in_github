@@ -7987,3 +7987,17 @@
 {"cve_id": "CVE-2026-95673", "ts": "2026-11-01T08:53:30Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-98432", "ts": "2026-11-01T09:01:27Z", "type": "new_poc", "url": "https://github.com/uvian/xboard-core"}
 {"cve_id": "CVE-2026-120232", "ts": "2026-11-01T09:01:34Z", "type": "new_poc", "url": "https://github.com/Element2023H/CVE-2026-120232"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-11-01T16:06:53Z", "type": "new_poc", "url": "https://github.com/mehmet-emir-eroglu/NODE2SHELL"}
+{"cve_id": "CVE-2026-107406", "ts": "2026-11-01T16:06:53Z", "type": "new_poc", "url": "https://github.com/maxprog-svg/CVE-2026-107406"}
+{"cve_id": "CVE-2026-63765", "ts": "2026-11-01T16:06:53Z", "type": "new_poc", "url": "https://github.com/n3chik/CVE-2026-63765"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-01T16:06:53Z", "type": "new_poc", "url": "https://github.com/Mervent/cve-2026-98432"}
+{"cve_id": "CVE-2026-19971", "ts": "2026-11-01T16:06:54Z", "type": "new_poc", "url": "https://github.com/tianlansedexiaoniu/CVE-2026-19971_guest"}
+{"cve_id": "CVE-2023-30861", "ts": "2026-11-01T16:06:54Z", "type": "new_poc", "url": "https://github.com/elisapresciutti/CVE-2023-30861-flask-lab"}
+{"cve_id": "CVE-2022-36532", "ts": "2026-11-01T16:06:54Z", "type": "new_poc", "url": "https://github.com/wLuC45/wLuC45-CVE-2022-36532"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-01T16:06:55Z", "type": "new_poc", "url": "https://github.com/LinXing0926/CVE-2026-98260-iQOO-Neo9-Pro-Root"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-11-01T16:06:55Z", "type": "new_poc", "url": "https://github.com/Sable-Research/brotli-decoder-overflow"}
+{"cve_id": "CVE-2025-20393", "ts": "2026-11-01T16:07:51Z", "type": "new_poc", "url": "https://github.com/StasonJatham/cisco-sa-sma-attack-N9bf4"}
+{"cve_id": "CVE-2026-19490", "ts": "2026-11-01T16:08:52Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/netscaler-cve-2026-19490-check"}
+{"cve_id": "CVE-2026-63030", "ts": "2026-11-01T16:09:11Z", "type": "new_poc", "url": "https://github.com/dexit/CVE-2026-63030"}
+{"cve_id": "CVE-2026-63030", "ts": "2026-11-01T16:09:12Z", "type": "new_poc", "url": "https://github.com/0xIIDe231/wp2shell2026"}
+{"cve_id": "CVE-2026-96889", "ts": "2026-11-01T16:11:08Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/sharp-vectorfreed-check"}

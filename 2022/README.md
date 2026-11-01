@@ -2203,6 +2203,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/lutrasecurity/CVE-2022-36532](https://github.com/lutrasecurity/CVE-2022-36532) : ![starts](https://img.shields.io/github/stars/lutrasecurity/CVE-2022-36532.svg) ![forks](https://img.shields.io/github/forks/lutrasecurity/CVE-2022-36532.svg)
 
+- [https://github.com/wLuC45/wLuC45-CVE-2022-36532](https://github.com/wLuC45/wLuC45-CVE-2022-36532) : ![starts](https://img.shields.io/github/stars/wLuC45/wLuC45-CVE-2022-36532.svg) ![forks](https://img.shields.io/github/forks/wLuC45/wLuC45-CVE-2022-36532.svg)
+
 ## CVE-2022-36446
  software/apt-lib.pl in Webmin before 1.997 lacks HTML escaping for a UI command.
 
