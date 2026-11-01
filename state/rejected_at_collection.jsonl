@@ -2577,3 +2577,7 @@
 {"cve_id": "CVE-2026-5934", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T16:14:14Z", "url": "https://github.com/0xCyberstan/CVE-2026-59346-POC", "url_ids": ["CVE-2026-59346"]}
 {"cve_id": "CVE-2026-2689", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T16:16:06Z", "url": "https://github.com/iwallplace/CVE-2026-26898-Xiaomi-SSRF-HostHeaderInjection", "url_ids": ["CVE-2026-26898"]}
 {"cve_id": "CVE-2026-2689", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T16:16:06Z", "url": "https://github.com/iwallplace/CVE-2026-26897-EcoOnline-DeepLink", "url_ids": ["CVE-2026-26897"]}
+{"cve_id": "CVE-2026-1107", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T16:38:32Z", "url": "https://github.com/Ghost-Bx1/ConsulK8s-CVE-2026-110720", "url_ids": ["CVE-2026-110720"]}
+{"cve_id": "CVE-2022-3653", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T16:42:40Z", "url": "https://github.com/Malwareman007/CVE-2022-36537", "url_ids": ["CVE-2022-36537"]}
+{"cve_id": "CVE-2022-3653", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T16:42:40Z", "url": "https://github.com/agnihackers/CVE-2022-36537-EXPLOIT", "url_ids": ["CVE-2022-36537"]}
+{"cve_id": "CVE-2022-3653", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T16:42:40Z", "url": "https://github.com/lutrasecurity/CVE-2022-36532", "url_ids": ["CVE-2022-36532"]}

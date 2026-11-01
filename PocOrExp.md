@@ -256,6 +256,8 @@ On an affected system, any authenticated user can gain operator privileges and m
 
 - [https://github.com/Nguemoue/project2026_20261030_tokengate](https://github.com/Nguemoue/project2026_20261030_tokengate) : ![starts](https://img.shields.io/github/stars/Nguemoue/project2026_20261030_tokengate.svg) ![forks](https://img.shields.io/github/forks/Nguemoue/project2026_20261030_tokengate.svg)
 
+- [https://github.com/nextmend/laravel-type-juggling-auth-bypass](https://github.com/nextmend/laravel-type-juggling-auth-bypass) : ![starts](https://img.shields.io/github/stars/nextmend/laravel-type-juggling-auth-bypass.svg) ![forks](https://img.shields.io/github/forks/nextmend/laravel-type-juggling-auth-bypass.svg)
+
 ## CVE-2026-114148
 
 - [https://github.com/Ghost-Bx1/DotNet-Tarball-CVE-2026-114148](https://github.com/Ghost-Bx1/DotNet-Tarball-CVE-2026-114148) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/DotNet-Tarball-CVE-2026-114148.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/DotNet-Tarball-CVE-2026-114148.svg)
@@ -1592,6 +1594,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched](https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched) : ![starts](https://img.shields.io/github/stars/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched.svg) ![forks](https://img.shields.io/github/forks/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched.svg)
 
+- [https://github.com/sahmsec/CVE-2026-109618-PHP2SHELL](https://github.com/sahmsec/CVE-2026-109618-PHP2SHELL) : ![starts](https://img.shields.io/github/stars/sahmsec/CVE-2026-109618-PHP2SHELL.svg) ![forks](https://img.shields.io/github/forks/sahmsec/CVE-2026-109618-PHP2SHELL.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -2776,6 +2780,8 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 - [https://github.com/uvian/xboard-core](https://github.com/uvian/xboard-core) : ![starts](https://img.shields.io/github/stars/uvian/xboard-core.svg) ![forks](https://img.shields.io/github/forks/uvian/xboard-core.svg)
 
 - [https://github.com/Mervent/cve-2026-98432](https://github.com/Mervent/cve-2026-98432) : ![starts](https://img.shields.io/github/stars/Mervent/cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/Mervent/cve-2026-98432.svg)
+
+- [https://github.com/jamilbk/drop-ipv4-opt](https://github.com/jamilbk/drop-ipv4-opt) : ![starts](https://img.shields.io/github/stars/jamilbk/drop-ipv4-opt.svg) ![forks](https://img.shields.io/github/forks/jamilbk/drop-ipv4-opt.svg)
 
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:

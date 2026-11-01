@@ -73,6 +73,7 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
 
 - [https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched](https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched) : ![starts](https://img.shields.io/github/stars/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched.svg) ![forks](https://img.shields.io/github/forks/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched.svg)
+- [https://github.com/sahmsec/CVE-2026-109618-PHP2SHELL](https://github.com/sahmsec/CVE-2026-109618-PHP2SHELL) : ![starts](https://img.shields.io/github/stars/sahmsec/CVE-2026-109618-PHP2SHELL.svg) ![forks](https://img.shields.io/github/forks/sahmsec/CVE-2026-109618-PHP2SHELL.svg)
 
 ## CVE-2026-111497
 > A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream.
@@ -85,6 +86,11 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/Sable-Research/brotli-decoder-overflow](https://github.com/Sable-Research/brotli-decoder-overflow) : ![starts](https://img.shields.io/github/stars/Sable-Research/brotli-decoder-overflow.svg) ![forks](https://img.shields.io/github/forks/Sable-Research/brotli-decoder-overflow.svg)
 - [https://github.com/mehmet-emir-eroglu/NODE2SHELL](https://github.com/mehmet-emir-eroglu/NODE2SHELL) : ![starts](https://img.shields.io/github/stars/mehmet-emir-eroglu/NODE2SHELL.svg) ![forks](https://img.shields.io/github/forks/mehmet-emir-eroglu/NODE2SHELL.svg)
+
+## CVE-2026-114509
+> Laravel is a web application framework. Prior to 12.68.0 and 13.29.0, TokenGuard configured as a standard token-based API guard does not reject a crafted non-string credential. Under affected MySQL or MariaDB configurations, the authentication lookup can match an unintended existing user, allowing an unauthenticated attacker to bypass authentication and take over an account on routes protected by TokenGuard. This issue is fixed in versions 12.68.0 and 13.29.0.
+
+- [https://github.com/nextmend/laravel-type-juggling-auth-bypass](https://github.com/nextmend/laravel-type-juggling-auth-bypass) : ![starts](https://img.shields.io/github/stars/nextmend/laravel-type-juggling-auth-bypass.svg) ![forks](https://img.shields.io/github/forks/nextmend/laravel-type-juggling-auth-bypass.svg)
 
 ## CVE-2026-115965
 > Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) vulnerability in BuddyPress BuddyPress buddypress allows Blind SQL Injection.This issue affects BuddyPress: from n/a through 14.5.2.
@@ -194,4 +200,5 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/AronWang001/linux-cve-2026-98432-fix](https://github.com/AronWang001/linux-cve-2026-98432-fix) : ![starts](https://img.shields.io/github/stars/AronWang001/linux-cve-2026-98432-fix.svg) ![forks](https://img.shields.io/github/forks/AronWang001/linux-cve-2026-98432-fix.svg)
 - [https://github.com/Mervent/cve-2026-98432](https://github.com/Mervent/cve-2026-98432) : ![starts](https://img.shields.io/github/stars/Mervent/cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/Mervent/cve-2026-98432.svg)
+- [https://github.com/jamilbk/drop-ipv4-opt](https://github.com/jamilbk/drop-ipv4-opt) : ![starts](https://img.shields.io/github/stars/jamilbk/drop-ipv4-opt.svg) ![forks](https://img.shields.io/github/forks/jamilbk/drop-ipv4-opt.svg)
 - [https://github.com/uvian/xboard-core](https://github.com/uvian/xboard-core) : ![starts](https://img.shields.io/github/stars/uvian/xboard-core.svg) ![forks](https://img.shields.io/github/forks/uvian/xboard-core.svg)
