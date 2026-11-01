@@ -1636,6 +1636,8 @@
 
 - [https://github.com/Tnot123/cve-2017-9822](https://github.com/Tnot123/cve-2017-9822) : ![starts](https://img.shields.io/github/stars/Tnot123/cve-2017-9822.svg) ![forks](https://img.shields.io/github/forks/Tnot123/cve-2017-9822.svg)
 
+- [https://github.com/anhcd05/CVE-2017-9822](https://github.com/anhcd05/CVE-2017-9822) : ![starts](https://img.shields.io/github/stars/anhcd05/CVE-2017-9822.svg) ![forks](https://img.shields.io/github/forks/anhcd05/CVE-2017-9822.svg)
+
 ## CVE-2017-9805
  The REST Plugin in Apache Struts 2.1.1 through 2.3.x before 2.3.34 and 2.5.x before 2.5.13 uses an XStreamHandler with an instance of XStream for deserialization without any type filtering, which can lead to Remote Code Execution when deserializing XML payloads.
 

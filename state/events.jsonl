@@ -7934,3 +7934,31 @@
 {"cve_id": "CVE-2026-64860", "ts": "2026-11-01T00:53:13Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-66025", "ts": "2026-11-01T00:53:30Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-66026", "ts": "2026-11-01T00:53:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109213", "ts": "2026-11-01T07:32:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-13002", "ts": "2026-11-01T07:34:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49115", "ts": "2026-11-01T07:35:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49116", "ts": "2026-11-01T07:35:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-64860", "ts": "2026-11-01T07:37:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66025", "ts": "2026-11-01T07:37:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66026", "ts": "2026-11-01T07:37:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95673", "ts": "2026-11-01T07:45:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-01T07:53:40Z", "type": "new_poc", "url": "https://github.com/sabuweis/GhostLock-CVE-2026-98260"}
+{"cve_id": "CVE-2026-115965", "ts": "2026-11-01T07:53:41Z", "type": "new_poc", "url": "https://github.com/4m3rr0r/CVE-2026-115965"}
+{"cve_id": "CVE-2026-116521", "ts": "2026-11-01T07:53:41Z", "type": "new_poc", "url": "https://github.com/4m3rr0r/CVE-2026-116521-poc"}
+{"cve_id": "CVE-2026-88773", "ts": "2026-11-01T07:53:41Z", "type": "new_poc", "url": "https://github.com/Fyyre/CVE-2026-88773"}
+{"cve_id": "CVE-2017-9822", "ts": "2026-11-01T07:53:41Z", "type": "new_poc", "url": "https://github.com/anhcd05/CVE-2017-9822"}
+{"cve_id": "CVE-2020-0069", "ts": "2026-11-01T07:53:41Z", "type": "new_poc", "url": "https://github.com/s1204IT/CVE-2020-0069"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-01T07:53:42Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-20"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-01T07:53:42Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-followup"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-01T07:53:42Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-16"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-01T07:53:42Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-14"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-01T07:53:42Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-15"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-01T07:53:42Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit2"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-01T07:53:42Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2025"}
+{"cve_id": "CVE-2026-84295", "ts": "2026-11-01T07:53:42Z", "type": "new_poc", "url": "https://github.com/foxcornlab/wsftp-server-scanner"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-01T07:53:51Z", "type": "new_poc", "url": "https://github.com/AronWang001/linux-cve-2026-98432-fix"}
+{"cve_id": "CVE-2022-38694", "ts": "2026-11-01T07:54:49Z", "type": "new_poc", "url": "https://github.com/keaidang/TYH831T-S9-Bootloader-Root"}
+{"cve_id": "CVE-2022-38694", "ts": "2026-11-01T07:54:49Z", "type": "new_poc", "url": "https://github.com/Milordick/unisoc-tool-rs"}
+{"cve_id": "CVE-2026-102764", "ts": "2026-11-01T07:54:55Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check"}
+{"cve_id": "CVE-2016-5195", "ts": "2026-11-01T07:55:52Z", "type": "new_poc", "url": "https://github.com/cbry-96/Dirty-Cow-Ubuntu-Server-16.04.1"}
+{"cve_id": "CVE-2026-21589", "ts": "2026-11-01T07:57:56Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/atlassian-cve-2026-21589-check"}

@@ -6381,6 +6381,8 @@ pThe security update addresses the vulnerability by resolving the conditions whe
 
 - [https://github.com/yanglingxi1993/CVE-2020-0069](https://github.com/yanglingxi1993/CVE-2020-0069) : ![starts](https://img.shields.io/github/stars/yanglingxi1993/CVE-2020-0069.svg) ![forks](https://img.shields.io/github/forks/yanglingxi1993/CVE-2020-0069.svg)
 
+- [https://github.com/s1204IT/CVE-2020-0069](https://github.com/s1204IT/CVE-2020-0069) : ![starts](https://img.shields.io/github/stars/s1204IT/CVE-2020-0069.svg) ![forks](https://img.shields.io/github/forks/s1204IT/CVE-2020-0069.svg)
+
 ## CVE-2020-0041
  In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel
 

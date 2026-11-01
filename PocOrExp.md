@@ -67,6 +67,10 @@
 
 - [https://github.com/piecar21/CVE-2026-116692](https://github.com/piecar21/CVE-2026-116692) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-116692.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-116692.svg)
 
+## CVE-2026-116521
+
+- [https://github.com/4m3rr0r/CVE-2026-116521-poc](https://github.com/4m3rr0r/CVE-2026-116521-poc) : ![starts](https://img.shields.io/github/stars/4m3rr0r/CVE-2026-116521-poc.svg) ![forks](https://img.shields.io/github/forks/4m3rr0r/CVE-2026-116521-poc.svg)
+
 ## CVE-2026-116488
 > NXP MCUXpresso SDK USB middleware (mcuxsdk-middleware-usb) before 2.13.0 contains a heap buffer overflow in host audio, video and CDC class drivers that trust device-supplied bNumEndpoints and bLength values. A malicious USB device can supply crafted descriptors that write endpoint entries past the fixed-size epList array, corrupting heap memory for code execution or denial of service.
 
@@ -93,6 +97,7 @@
 - [https://github.com/googlesky/CVE-2026-116366](https://github.com/googlesky/CVE-2026-116366) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-116366.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-116366.svg)
 
 ## CVE-2026-116244
+> When a pgAdmin 4 connection was not meant to use a Kerberos user&#x27;s delegated credentials, pgAdmin removed KRB5CCNAME from its environment, so the Kerberos library fell back to the default credential cache, or a client keytab, of the operating-system account running pgAdmin. libpq then answered any server that asked for GSSAPI authentication with that account&#x27;s ticket, whatever user name the pgAdmin user gave, so in server mode any user could connect as the service account&#x27;s Kerberos principal; g
 
 - [https://github.com/googlesky/CVE-2026-116244](https://github.com/googlesky/CVE-2026-116244) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-116244.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-116244.svg)
 
@@ -142,6 +147,11 @@
 > A security flaw has been discovered in Zylon PrivateGPT 1.0.0/1.0.1. This vulnerability affects the function load_file_from_uri of the file private_gpt/server/ingest/uri_loader.py of the component URI Artifact Loader. Performing a manipulation of the argument Value results in server-side request forgery. It is possible to initiate the attack remotely. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure but did not respond 
 
 - [https://github.com/capivara-research/CVE-2026-116000](https://github.com/capivara-research/CVE-2026-116000) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-116000.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-116000.svg)
+
+## CVE-2026-115965
+> Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) vulnerability in BuddyPress BuddyPress buddypress allows Blind SQL Injection.This issue affects BuddyPress: from n/a through 14.5.2.
+
+- [https://github.com/4m3rr0r/CVE-2026-115965](https://github.com/4m3rr0r/CVE-2026-115965) : ![starts](https://img.shields.io/github/stars/4m3rr0r/CVE-2026-115965.svg) ![forks](https://img.shields.io/github/forks/4m3rr0r/CVE-2026-115965.svg)
 
 ## CVE-2026-115926
 
@@ -2362,6 +2372,8 @@ Note that this vulnerability can only be exploited prior to the device being onb
 
 - [https://github.com/CompleTetech-Security/beyondtrust-remote-support-cve-2026-102764-check](https://github.com/CompleTetech-Security/beyondtrust-remote-support-cve-2026-102764-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/beyondtrust-remote-support-cve-2026-102764-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/beyondtrust-remote-support-cve-2026-102764-check.svg)
 
+- [https://github.com/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check](https://github.com/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check.svg)
+
 ## CVE-2026-102718
 > hey,
 
@@ -2749,6 +2761,8 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/AronWang001/debian-cve-2026-98432-fix](https://github.com/AronWang001/debian-cve-2026-98432-fix) : ![starts](https://img.shields.io/github/stars/AronWang001/debian-cve-2026-98432-fix.svg) ![forks](https://img.shields.io/github/forks/AronWang001/debian-cve-2026-98432-fix.svg)
 
+- [https://github.com/AronWang001/linux-cve-2026-98432-fix](https://github.com/AronWang001/linux-cve-2026-98432-fix) : ![starts](https://img.shields.io/github/stars/AronWang001/linux-cve-2026-98432-fix.svg) ![forks](https://img.shields.io/github/forks/AronWang001/linux-cve-2026-98432-fix.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -2838,6 +2852,8 @@ but the node is still queued on tsk, which
 - [https://github.com/ChaYeWuu/xring-CVE-2026-98260-OS4.0](https://github.com/ChaYeWuu/xring-CVE-2026-98260-OS4.0) : ![starts](https://img.shields.io/github/stars/ChaYeWuu/xring-CVE-2026-98260-OS4.0.svg) ![forks](https://img.shields.io/github/forks/ChaYeWuu/xring-CVE-2026-98260-OS4.0.svg)
 
 - [https://github.com/helloklf/CVE-2026-98260-SHELL](https://github.com/helloklf/CVE-2026-98260-SHELL) : ![starts](https://img.shields.io/github/stars/helloklf/CVE-2026-98260-SHELL.svg) ![forks](https://img.shields.io/github/forks/helloklf/CVE-2026-98260-SHELL.svg)
+
+- [https://github.com/sabuweis/GhostLock-CVE-2026-98260](https://github.com/sabuweis/GhostLock-CVE-2026-98260) : ![starts](https://img.shields.io/github/stars/sabuweis/GhostLock-CVE-2026-98260.svg) ![forks](https://img.shields.io/github/forks/sabuweis/GhostLock-CVE-2026-98260.svg)
 
 ## CVE-2026-98256
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -3957,6 +3973,8 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 
 - [https://github.com/CompleTetech-Security/netscaler-cve-2026-88773-check](https://github.com/CompleTetech-Security/netscaler-cve-2026-88773-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/netscaler-cve-2026-88773-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/netscaler-cve-2026-88773-check.svg)
 
+- [https://github.com/Fyyre/CVE-2026-88773](https://github.com/Fyyre/CVE-2026-88773) : ![starts](https://img.shields.io/github/stars/Fyyre/CVE-2026-88773.svg) ![forks](https://img.shields.io/github/forks/Fyyre/CVE-2026-88773.svg)
+
 ## CVE-2026-88772
 > Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.
 
@@ -4628,6 +4646,11 @@ unmarshal() verified the modification detection code only when the message was a
  Composer is a dependency Manager for the PHP language. From 1.0 until 2.2.30 and 2.10.3, a malicious dependency package from a custom Composer repository or an untrusted composer.lock file could set source.type to perforce and source.url to an rsh: or jsh: P4PORT value. When the Perforce p4 client was installed and Composer installed the package from source through composer install or composer update, including --prefer-source, Composer\Util\Perforce passed the address to p4 without validation, causing p4 to run a local command with the privileges of the user or CI account. Packagist.org does not permit Perforce source metadata. This issue is fixed in versions 2.2.30 and 2.10.3.
 
 - [https://github.com/Saku0512/CVE-2026-84361-poc](https://github.com/Saku0512/CVE-2026-84361-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-84361-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-84361-poc.svg)
+
+## CVE-2026-84295
+> Improper authentication in Progress Software WS_FTP Server versions prior to 2024.0.6 and 2025.0.3 on Windows could allow an unauthenticated remote attacker to access sensitive information, including administrative credentials.
+
+- [https://github.com/foxcornlab/wsftp-server-scanner](https://github.com/foxcornlab/wsftp-server-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/wsftp-server-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/wsftp-server-scanner.svg)
 
 ## CVE-2026-84251
 > The click5 CRM add-on to Ninja Forms WordPress plugin through 1.0.1 does not have authorisation and CSRF checks when updating options via a REST endpoint, and does not ensure that the option to be updated belongs to the click5 CRM add-on to Ninja Forms WordPress plugin through 1.0.1. As a result, unauthenticated attackers could change arbitrary blog options, allowing them to create a new administrator account and take over the site.
@@ -21024,6 +21047,8 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 - [https://github.com/CompleteTech-LLC/atlassian-cve-2026-21589-check](https://github.com/CompleteTech-LLC/atlassian-cve-2026-21589-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/atlassian-cve-2026-21589-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/atlassian-cve-2026-21589-check.svg)
 
 - [https://github.com/CompleTetech-Security/atlassian-cve-2026-21589-check](https://github.com/CompleTetech-Security/atlassian-cve-2026-21589-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/atlassian-cve-2026-21589-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/atlassian-cve-2026-21589-check.svg)
+
+- [https://github.com/CompleteTech-Security/atlassian-cve-2026-21589-check](https://github.com/CompleteTech-Security/atlassian-cve-2026-21589-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/atlassian-cve-2026-21589-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/atlassian-cve-2026-21589-check.svg)
 
 ## CVE-2026-21533
  Improper privilege management in Windows Remote Desktop allows an authorized attacker to elevate privileges locally.
@@ -67634,6 +67659,10 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/mpse-engineering/BLU_G35](https://github.com/mpse-engineering/BLU_G35) : ![starts](https://img.shields.io/github/stars/mpse-engineering/BLU_G35.svg) ![forks](https://img.shields.io/github/forks/mpse-engineering/BLU_G35.svg)
 
+- [https://github.com/keaidang/TYH831T-S9-Bootloader-Root](https://github.com/keaidang/TYH831T-S9-Bootloader-Root) : ![starts](https://img.shields.io/github/stars/keaidang/TYH831T-S9-Bootloader-Root.svg) ![forks](https://img.shields.io/github/forks/keaidang/TYH831T-S9-Bootloader-Root.svg)
+
+- [https://github.com/Milordick/unisoc-tool-rs](https://github.com/Milordick/unisoc-tool-rs) : ![starts](https://img.shields.io/github/stars/Milordick/unisoc-tool-rs.svg) ![forks](https://img.shields.io/github/forks/Milordick/unisoc-tool-rs.svg)
+
 ## CVE-2022-38691
  In BootROM, there is a possible missing validation for Certificate Type 0. This could lead to local escalation of privilege with no additional execution privileges needed.
 
@@ -75833,6 +75862,20 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-8](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-8) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-8.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-8.svg)
 
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-9](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-9) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-9.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-9.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-14](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-14) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-14.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-14.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-15](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-15) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-15.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-15.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-16](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-16) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-16.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-16.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-20](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-20) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-20.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-20.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2025](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2025) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-2025.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-2025.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-followup](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-followup) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-followup.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-followup.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit2](https://github.com/mcpmark-eval-liuhezi/log4shell-audit2) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit2.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit2.svg)
 
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
@@ -90126,6 +90169,8 @@ pThe security update addresses the vulnerability by resolving the conditions whe
 
 - [https://github.com/yanglingxi1993/CVE-2020-0069](https://github.com/yanglingxi1993/CVE-2020-0069) : ![starts](https://img.shields.io/github/stars/yanglingxi1993/CVE-2020-0069.svg) ![forks](https://img.shields.io/github/forks/yanglingxi1993/CVE-2020-0069.svg)
 
+- [https://github.com/s1204IT/CVE-2020-0069](https://github.com/s1204IT/CVE-2020-0069) : ![starts](https://img.shields.io/github/stars/s1204IT/CVE-2020-0069.svg) ![forks](https://img.shields.io/github/forks/s1204IT/CVE-2020-0069.svg)
+
 ## CVE-2020-0041
  In binder_transaction of binder.c, there is a possible out of bounds write due to an incorrect bounds check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android kernelAndroid ID: A-145988638References: Upstream kernel
 
@@ -101764,6 +101809,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 
 - [https://github.com/Tnot123/cve-2017-9822](https://github.com/Tnot123/cve-2017-9822) : ![starts](https://img.shields.io/github/stars/Tnot123/cve-2017-9822.svg) ![forks](https://img.shields.io/github/forks/Tnot123/cve-2017-9822.svg)
 
+- [https://github.com/anhcd05/CVE-2017-9822](https://github.com/anhcd05/CVE-2017-9822) : ![starts](https://img.shields.io/github/stars/anhcd05/CVE-2017-9822.svg) ![forks](https://img.shields.io/github/forks/anhcd05/CVE-2017-9822.svg)
+
 ## CVE-2017-9805
  The REST Plugin in Apache Struts 2.1.1 through 2.3.x before 2.3.34 and 2.5.x before 2.5.13 uses an XStreamHandler with an instance of XStream for deserialization without any type filtering, which can lead to Remote Code Execution when deserializing XML payloads.
 
@@ -104492,6 +104539,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 - [https://github.com/joshfng/root-honda](https://github.com/joshfng/root-honda) : ![starts](https://img.shields.io/github/stars/joshfng/root-honda.svg) ![forks](https://img.shields.io/github/forks/joshfng/root-honda.svg)
 
 - [https://github.com/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow](https://github.com/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow) : ![starts](https://img.shields.io/github/stars/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow.svg) ![forks](https://img.shields.io/github/forks/AlonsoJuan1994/Escalamiento-de-Privilegios-usando-el-Kernel-Exploit-Dirty-Cow.svg)
+
+- [https://github.com/cbry-96/Dirty-Cow-Ubuntu-Server-16.04.1](https://github.com/cbry-96/Dirty-Cow-Ubuntu-Server-16.04.1) : ![starts](https://img.shields.io/github/stars/cbry-96/Dirty-Cow-Ubuntu-Server-16.04.1.svg) ![forks](https://img.shields.io/github/forks/cbry-96/Dirty-Cow-Ubuntu-Server-16.04.1.svg)
 
 ## CVE-2016-5180
  Heap-based buffer overflow in the ares_create_query function in c-ares 1.x before 1.12.0 allows remote attackers to cause a denial of service (out-of-bounds write) or possibly execute arbitrary code via a hostname with an escaped trailing dot.

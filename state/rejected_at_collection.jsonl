@@ -2503,3 +2503,5 @@
 {"cve_id": "CVE-2022-2296", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T01:06:08Z", "url": "https://github.com/Shakur1314/CVE-2022-22965-Spring4Shell-Security-Operations-Analysis", "url_ids": ["CVE-2022-22965"]}
 {"cve_id": "CVE-2026-3925", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T01:09:09Z", "url": "https://github.com/yousif-IQ/CVE-2026-39259", "url_ids": ["CVE-2026-39259"]}
 {"cve_id": "CVE-2026-3925", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T01:09:09Z", "url": "https://github.com/timtimxs/CVE-2026-39253-Advisory", "url_ids": ["CVE-2026-39253"]}
+{"cve_id": "CVE-2026-1928", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T07:57:55Z", "url": "https://github.com/rmhowe425/POC-CVE-2026-19286", "url_ids": ["CVE-2026-19286"]}
+{"cve_id": "CVE-2025-4396", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T08:02:02Z", "url": "https://github.com/far00t01/CVE-2025-43960", "url_ids": ["CVE-2025-43960"]}

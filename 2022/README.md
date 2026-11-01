@@ -1821,6 +1821,10 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/mpse-engineering/BLU_G35](https://github.com/mpse-engineering/BLU_G35) : ![starts](https://img.shields.io/github/stars/mpse-engineering/BLU_G35.svg) ![forks](https://img.shields.io/github/forks/mpse-engineering/BLU_G35.svg)
 
+- [https://github.com/keaidang/TYH831T-S9-Bootloader-Root](https://github.com/keaidang/TYH831T-S9-Bootloader-Root) : ![starts](https://img.shields.io/github/stars/keaidang/TYH831T-S9-Bootloader-Root.svg) ![forks](https://img.shields.io/github/forks/keaidang/TYH831T-S9-Bootloader-Root.svg)
+
+- [https://github.com/Milordick/unisoc-tool-rs](https://github.com/Milordick/unisoc-tool-rs) : ![starts](https://img.shields.io/github/stars/Milordick/unisoc-tool-rs.svg) ![forks](https://img.shields.io/github/forks/Milordick/unisoc-tool-rs.svg)
+
 ## CVE-2022-38691
  In BootROM, there is a possible missing validation for Certificate Type 0. This could lead to local escalation of privilege with no additional execution privileges needed.
 

@@ -1656,6 +1656,20 @@
 
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-9](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-9) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-9.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-9.svg)
 
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-14](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-14) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-14.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-14.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-15](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-15) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-15.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-15.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-16](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-16) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-16.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-16.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-20](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-20) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-20.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-20.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2025](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2025) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-2025.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-2025.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-followup](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-followup) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-followup.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-followup.svg)
+
+- [https://github.com/mcpmark-eval-liuhezi/log4shell-audit2](https://github.com/mcpmark-eval-liuhezi/log4shell-audit2) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit2.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit2.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
