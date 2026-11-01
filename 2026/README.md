@@ -284,6 +284,7 @@ On an affected system, any authenticated user can gain operator privileges and m
 - [https://github.com/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc](https://github.com/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc) : ![starts](https://img.shields.io/github/stars/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc.svg) ![forks](https://img.shields.io/github/forks/Hassham1/CVE-2026-112866-woo-product-filter-sqli-poc.svg)
 
 ## CVE-2026-112816
+> Improper certificate validation in the HTTPS listener in Canonical LXD 4.0.14, 5.0.10, 5.21.8, 6.9 before 4.0.15, 5.0.11, 5.21.9, 6.10.1 allows an unauthenticated attacker to authenticate as any trusted client and gain full access to the cluster and managed virtual machines via a crafted certificate chain.
 
 - [https://github.com/Sotrano-dev/cve-2026-112816](https://github.com/Sotrano-dev/cve-2026-112816) : ![starts](https://img.shields.io/github/stars/Sotrano-dev/cve-2026-112816.svg) ![forks](https://img.shields.io/github/forks/Sotrano-dev/cve-2026-112816.svg)
 
@@ -2088,6 +2089,7 @@ device operation and availability. No authentication, session e
 - [https://github.com/uday952/CVE-2026-104711-POC-NEW-VARIANT](https://github.com/uday952/CVE-2026-104711-POC-NEW-VARIANT) : ![starts](https://img.shields.io/github/stars/uday952/CVE-2026-104711-POC-NEW-VARIANT.svg) ![forks](https://img.shields.io/github/forks/uday952/CVE-2026-104711-POC-NEW-VARIANT.svg)
 
 ## CVE-2026-104623
+> A security vulnerability exists in the authorization handling for the local (management) cluster shell feature of SUSE Rancher Manager 2.15.0 up to 2.15.3, 2.14.0 up to 2.14.7, 2.13.0 up to 2.13.11, 2.12.0 up to 2.12.15, 2.11.0 up to 2.11.19 and possible older versions. The authorization check that was introduced to protect this feature was not applied to every API route that can reach it, so an alternative request form reached the shell handler without the access check being evaluated. This cou
 
 - [https://github.com/googlesky/CVE-2026-104623](https://github.com/googlesky/CVE-2026-104623) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104623.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104623.svg)
 

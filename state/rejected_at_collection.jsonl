@@ -2432,3 +2432,26 @@
 {"cve_id": "CVE-2025-6075", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T21:31:08Z", "url": "https://github.com/zer0matt/CVE-2025-60752", "url_ids": ["CVE-2025-60752"]}
 {"cve_id": "CVE-2025-6075", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T21:31:08Z", "url": "https://github.com/zer0matt/CVE-2025-60751", "url_ids": ["CVE-2025-60751"]}
 {"cve_id": "CVE-2026-5005", "reason": "prefix_conflict_evidenced", "ts": "2026-10-31T21:33:12Z", "url": "https://github.com/HORKimhab/CVE-2026-50055", "url_ids": ["CVE-2026-50055"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/MuhammadWaseem29/SQL-Injection-and-RCE_CVE-2025-57819", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/b4sh2/CVE-2025-57819-poc", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/cybertechajju/cve-2025-57819", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/Jeanback1/CVE-2025-57819-exploit", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/orange0Mint/CVE-2025-57819_FreePBX", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/ozcanpng/CVE-2025-57819-FreePBX-RCE2Root", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/ImBIOS/lab-cve-2025-57819", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/rxerium/CVE-2025-57819", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/YuvrajSHAD/FreePBX-CVE-2025-57819", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/xV4nd3Rx/CVE-2025-57819_FreePBX-PoC", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/0xyngtg/FreePBX-CVE-2025-57819-CVE-2025-61678", "url_ids": ["CVE-2025-57819", "CVE-2025-61678"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/donggle0802-code/cve-2025-57819", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/r3vpwnx/CVE-2025-57819", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/TeteREN/CVE-2025-57819-RCE", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/shivammittal2403/cve-2025-57819-freepbx-range", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2025-5781", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:13Z", "url": "https://github.com/Sucuri-Labs/CVE-2025-57819-ioc-check", "url_ids": ["CVE-2025-57819"]}
+{"cve_id": "CVE-2019-1218", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:19Z", "url": "https://github.com/mavlevin/CVE-2019-12181", "url_ids": ["CVE-2019-12181"]}
+{"cve_id": "CVE-2019-1218", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:16:19Z", "url": "https://github.com/Drew-Alleman/CVE-2019-12185", "url_ids": ["CVE-2019-12185"]}
+{"cve_id": "CVE-2023-4150", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:17:26Z", "url": "https://github.com/redblueteam/CVE-2023-41508", "url_ids": ["CVE-2023-41508"]}
+{"cve_id": "CVE-2023-4150", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:17:26Z", "url": "https://github.com/redblueteam/CVE-2023-41507", "url_ids": ["CVE-2023-41507"]}
+{"cve_id": "CVE-2026-11450", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:18:26Z", "url": "https://github.com/tajulasri/-CVE-2026-114509-POC", "url_ids": ["CVE-2026-114509"]}
+{"cve_id": "CVE-2026-11450", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:18:26Z", "url": "https://github.com/dimasma0305/CVE-2026-114509", "url_ids": ["CVE-2026-114509"]}
+{"cve_id": "CVE-2026-11450", "reason": "prefix_conflict_evidenced", "ts": "2026-11-01T00:18:26Z", "url": "https://github.com/ArioVeisa/cve-2026-114509-laravel-tokenguard", "url_ids": ["CVE-2026-114509"]}
