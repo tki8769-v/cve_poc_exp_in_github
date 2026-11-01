@@ -400,6 +400,8 @@ On an affected system, any authenticated user can gain operator privileges and m
 
 - [https://github.com/abhishek-bhatkar/emudhra-poc](https://github.com/abhishek-bhatkar/emudhra-poc) : ![starts](https://img.shields.io/github/stars/abhishek-bhatkar/emudhra-poc.svg) ![forks](https://img.shields.io/github/forks/abhishek-bhatkar/emudhra-poc.svg)
 
+- [https://github.com/Ishanoshada/Emudhra-Ca-Compromise-Lab](https://github.com/Ishanoshada/Emudhra-Ca-Compromise-Lab) : ![starts](https://img.shields.io/github/stars/Ishanoshada/Emudhra-Ca-Compromise-Lab.svg) ![forks](https://img.shields.io/github/forks/Ishanoshada/Emudhra-Ca-Compromise-Lab.svg)
+
 ## CVE-2026-111823
 > Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encountering an unknown OAuth provider.
 
@@ -1610,6 +1612,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/sahmsec/CVE-2026-109618-PHP2SHELL](https://github.com/sahmsec/CVE-2026-109618-PHP2SHELL) : ![starts](https://img.shields.io/github/stars/sahmsec/CVE-2026-109618-PHP2SHELL.svg) ![forks](https://img.shields.io/github/forks/sahmsec/CVE-2026-109618-PHP2SHELL.svg)
 
+- [https://github.com/Pratikchandrathakur/CVE-2026-109618-109619-checker](https://github.com/Pratikchandrathakur/CVE-2026-109618-109619-checker) : ![starts](https://img.shields.io/github/stars/Pratikchandrathakur/CVE-2026-109618-109619-checker.svg) ![forks](https://img.shields.io/github/forks/Pratikchandrathakur/CVE-2026-109618-109619-checker.svg)
+
+- [https://github.com/marcostolosa/CVE-2026-109618-109619](https://github.com/marcostolosa/CVE-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/marcostolosa/CVE-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/marcostolosa/CVE-2026-109618-109619.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -1739,6 +1745,11 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 > IBM Langflow OSS 1.0.0 through 1.12.4 could allow a remote authenticated attacker to execute arbitrary code due to missing authorization.
 
 - [https://github.com/rmhowe425/POC-CVE-2026-107327](https://github.com/rmhowe425/POC-CVE-2026-107327) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-107327.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-107327.svg)
+
+## CVE-2026-107326
+> IBM Langflow OSS 1.0.0 through 1.12.4 could allow a remote authenticated attacker to execute arbitrary code due to improper neutralization of special elements used in an OS command.
+
+- [https://github.com/rmhowe425/POC-CVE-2026-107326](https://github.com/rmhowe425/POC-CVE-2026-107326) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-107326.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-107326.svg)
 
 ## CVE-2026-107268
 > Insertion of Sensitive Information Into Sent Data vulnerability in Drupal Two Factor Authentication - TFA / Passwordless Login allows Forceful Browsing. This issue affects Two Factor Authentication - TFA / Passwordless Login versions: from 0.0.0 to 5.4.1, from 5.5.0 to 5.5.2.
@@ -15124,6 +15135,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 
 - [https://github.com/UnDefinedCS/CVE-2026-38751-exploit](https://github.com/UnDefinedCS/CVE-2026-38751-exploit) : ![starts](https://img.shields.io/github/stars/UnDefinedCS/CVE-2026-38751-exploit.svg) ![forks](https://img.shields.io/github/forks/UnDefinedCS/CVE-2026-38751-exploit.svg)
 
+- [https://github.com/Wingleszy/HTB-Enigma-walkthrough](https://github.com/Wingleszy/HTB-Enigma-walkthrough) : ![starts](https://img.shields.io/github/stars/Wingleszy/HTB-Enigma-walkthrough.svg) ![forks](https://img.shields.io/github/forks/Wingleszy/HTB-Enigma-walkthrough.svg)
+
 ## CVE-2026-38577
  Insecure hardcoded credentials in the Admin account of Tenda HG21 V4.0.0-260302 allows attackers to gain root access.
 
@@ -23604,6 +23617,10 @@ Successful exploitation may result in complete device compromise and impact the 
  In Eclipse 4diac FORTE versions 3.0.0 to 3.1.0, a specially crafted DELETE connection command to the management interface can lead to a dangling pointer. This allows subsequent commands to access freed memory (use-after-free).
 
 - [https://github.com/Klaurx/CVE_2026_9158](https://github.com/Klaurx/CVE_2026_9158) : ![starts](https://img.shields.io/github/stars/Klaurx/CVE_2026_9158.svg) ![forks](https://img.shields.io/github/forks/Klaurx/CVE_2026_9158.svg)
+
+## CVE-2026-9151
+
+- [https://github.com/hcbt/CVE-2026-9151](https://github.com/hcbt/CVE-2026-9151) : ![starts](https://img.shields.io/github/stars/hcbt/CVE-2026-9151.svg) ![forks](https://img.shields.io/github/forks/hcbt/CVE-2026-9151.svg)
 
 ## CVE-2026-9147
  uproot dynamically generates Python class source code from ROOT TStreamerInfo records in a file and compiles it at runtime. Some file-controlled streamer metadata fields (for example, streamer element names) are interpolated into the generated Python source without safe quoting via repr() or the !r format specifier. An attacker who can supply a crafted ROOT file can place Python expression-breaking content into a streamer metadata field. When uproot generates and invokes the corresponding reader method, the injected Python expression is evaluated in the context of the process opening the file, resulting in arbitrary Python code execution in applications that open or process attacker-controlled ROOT files with affected uproot code paths.

@@ -8032,3 +8032,9 @@
 {"cve_id": "CVE-2021-44228", "ts": "2026-11-01T21:27:35Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-21"}
 {"cve_id": "CVE-2021-44228", "ts": "2026-11-01T21:27:36Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-19"}
 {"cve_id": "CVE-2021-44228", "ts": "2026-11-01T21:27:36Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-22"}
+{"cve_id": "CVE-2026-9151", "ts": "2026-11-01T21:54:34Z", "type": "new_poc", "url": "https://github.com/hcbt/CVE-2026-9151"}
+{"cve_id": "CVE-2026-107326", "ts": "2026-11-01T21:55:03Z", "type": "new_poc", "url": "https://github.com/rmhowe425/POC-CVE-2026-107326"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-01T21:56:44Z", "type": "new_poc", "url": "https://github.com/marcostolosa/CVE-2026-109618-109619"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-01T21:56:44Z", "type": "new_poc", "url": "https://github.com/Pratikchandrathakur/CVE-2026-109618-109619-checker"}
+{"cve_id": "CVE-2026-111943", "ts": "2026-11-01T21:59:40Z", "type": "new_poc", "url": "https://github.com/Ishanoshada/Emudhra-Ca-Compromise-Lab"}
+{"cve_id": "CVE-2026-38751", "ts": "2026-11-01T22:01:45Z", "type": "new_poc", "url": "https://github.com/Wingleszy/HTB-Enigma-walkthrough"}
