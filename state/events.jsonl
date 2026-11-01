@@ -7922,3 +7922,9 @@
 {"cve_id": "CVE-2026-49115", "ts": "2026-11-01T00:09:40Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-49116", "ts": "2026-11-01T00:09:41Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-64860", "ts": "2026-11-01T00:10:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-13002", "ts": "2026-11-01T00:28:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49115", "ts": "2026-11-01T00:29:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49116", "ts": "2026-11-01T00:29:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-64860", "ts": "2026-11-01T00:30:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-118764", "ts": "2026-11-01T00:37:05Z", "type": "new_poc", "url": "https://github.com/b1nv0id/CVE-2026-118764"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-01T00:37:29Z", "type": "new_poc", "url": "https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched"}

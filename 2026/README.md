@@ -25,6 +25,11 @@
 
 - [https://github.com/zebbernCVE/CVE-2026-118776](https://github.com/zebbernCVE/CVE-2026-118776) : ![starts](https://img.shields.io/github/stars/zebbernCVE/CVE-2026-118776.svg) ![forks](https://img.shields.io/github/forks/zebbernCVE/CVE-2026-118776.svg)
 
+## CVE-2026-118764
+> minimatch is a minimal matching utility for converting glob expressions into JavaScript RegExp objects. Prior to 11.0.1, src/index.ts implements firstPhasePreProcess() so that, at optimizationLevel 2 or higher, it repeatedly expands attacker-controlled **/.. pattern segments inside a fixpoint loop, allowing generated globParts entries to be processed and expanded again. secondPhasePreProcess() then compares the expanded entries pairwise, so a short malicious glob can cause excessive CPU and memo
+
+- [https://github.com/b1nv0id/CVE-2026-118764](https://github.com/b1nv0id/CVE-2026-118764) : ![starts](https://img.shields.io/github/stars/b1nv0id/CVE-2026-118764.svg) ![forks](https://img.shields.io/github/forks/b1nv0id/CVE-2026-118764.svg)
+
 ## CVE-2026-118238
 > The Tenda W18E web management server is vulnerable to OS command injection via the &quot;diagnose&quot; packet-capture feature due to improper validation of JSON fields. An authenticated user can inject shell metacharacters into the protocol or targetDevice fields, which are later concatenated into a tcpdump command and executed with root privileges. This vulnerability can be exploited without authentication if the device is in a factory-reset state.
 
@@ -1565,6 +1570,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/flynnsmc-lgtm/qt-t-shield](https://github.com/flynnsmc-lgtm/qt-t-shield) : ![starts](https://img.shields.io/github/stars/flynnsmc-lgtm/qt-t-shield.svg) ![forks](https://img.shields.io/github/forks/flynnsmc-lgtm/qt-t-shield.svg)
 
 - [https://github.com/Lydia-King-K/ddld36-solar-aegis](https://github.com/Lydia-King-K/ddld36-solar-aegis) : ![starts](https://img.shields.io/github/stars/Lydia-King-K/ddld36-solar-aegis.svg) ![forks](https://img.shields.io/github/forks/Lydia-King-K/ddld36-solar-aegis.svg)
+
+- [https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched](https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched) : ![starts](https://img.shields.io/github/stars/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched.svg) ![forks](https://img.shields.io/github/forks/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched.svg)
 
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
