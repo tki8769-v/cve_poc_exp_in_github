@@ -1946,6 +1946,8 @@ The guard that destroys idle keep-alive sockets when unexpected data arrives onl
 
 - [https://github.com/CompleTetech-Security/docker-hub-pat-check](https://github.com/CompleTetech-Security/docker-hub-pat-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/docker-hub-pat-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/docker-hub-pat-check.svg)
 
+- [https://github.com/CompleteTech-Security/docker-hub-ghostpat-check](https://github.com/CompleteTech-Security/docker-hub-ghostpat-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/docker-hub-ghostpat-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/docker-hub-ghostpat-check.svg)
+
 ## CVE-2026-105314
 > Papermerge 3.5.3 allows remote code execution by a standard user via directory traversal in a /api/documents/upload call. A Python .pth file can be written to site-packages, and its code is executed upon the next start of the Python interpreter.
 
@@ -12488,6 +12490,11 @@ Users are recommended to upgrade to version 4.21.0, which fixes the issue. If us
 - [https://github.com/impost0r/Rie](https://github.com/impost0r/Rie) : ![starts](https://img.shields.io/github/stars/impost0r/Rie.svg) ![forks](https://img.shields.io/github/forks/impost0r/Rie.svg)
 
 - [https://github.com/gracecondition/DirtySlide](https://github.com/gracecondition/DirtySlide) : ![starts](https://img.shields.io/github/stars/gracecondition/DirtySlide.svg) ![forks](https://img.shields.io/github/forks/gracecondition/DirtySlide.svg)
+
+## CVE-2026-43715
+> A use-after-free issue was addressed with improved memory management. This issue is fixed in Safari 26.5.2, iOS 26.5.2 and iPadOS 26.5.2, iOS 26.7 and iPadOS 26.7, macOS Tahoe 26.5.2, tvOS 26.6, visionOS 26.6, watchOS 26.6. Processing maliciously crafted web content may lead to memory corruption.
+
+- [https://github.com/Jmesmykil/SWITCH2-WEBKIT-JAILBREAK](https://github.com/Jmesmykil/SWITCH2-WEBKIT-JAILBREAK) : ![starts](https://img.shields.io/github/stars/Jmesmykil/SWITCH2-WEBKIT-JAILBREAK.svg) ![forks](https://img.shields.io/github/forks/Jmesmykil/SWITCH2-WEBKIT-JAILBREAK.svg)
 
 ## CVE-2026-43700
  A cross-origin issue was addressed with improved tracking of security origins. This issue is fixed in Safari 26.5.2, iOS 18.7.10 and iPadOS 18.7.10, iOS 26.5.2 and iPadOS 26.5.2, macOS Tahoe 26.5.2, tvOS 26.6, visionOS 26.6, watchOS 26.6. Processing maliciously crafted web content may disclose sensitive user information.
@@ -72580,6 +72587,8 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 
 - [https://github.com/SmileTabLabo/CVE-2022-20186](https://github.com/SmileTabLabo/CVE-2022-20186) : ![starts](https://img.shields.io/github/stars/SmileTabLabo/CVE-2022-20186.svg) ![forks](https://img.shields.io/github/forks/SmileTabLabo/CVE-2022-20186.svg)
 
+- [https://github.com/android-cve-exploits/SmileTabLabo--CVE-2022-20186](https://github.com/android-cve-exploits/SmileTabLabo--CVE-2022-20186) : ![starts](https://img.shields.io/github/stars/android-cve-exploits/SmileTabLabo--CVE-2022-20186.svg) ![forks](https://img.shields.io/github/forks/android-cve-exploits/SmileTabLabo--CVE-2022-20186.svg)
+
 ## CVE-2022-20142
  In createFromParcel of GeofenceHardwareRequestParcelable.java, there is a possible arbitrary code execution due to parcel mismatch. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-216631962
 
@@ -99292,6 +99301,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 - [https://github.com/Yable/CVE-2018-4878](https://github.com/Yable/CVE-2018-4878) : ![starts](https://img.shields.io/github/stars/Yable/CVE-2018-4878.svg) ![forks](https://img.shields.io/github/forks/Yable/CVE-2018-4878.svg)
 
 - [https://github.com/lvyoshino/CVE-2018-4878](https://github.com/lvyoshino/CVE-2018-4878) : ![starts](https://img.shields.io/github/stars/lvyoshino/CVE-2018-4878.svg) ![forks](https://img.shields.io/github/forks/lvyoshino/CVE-2018-4878.svg)
+
+- [https://github.com/tsondt/CVE-2018-4878](https://github.com/tsondt/CVE-2018-4878) : ![starts](https://img.shields.io/github/stars/tsondt/CVE-2018-4878.svg) ![forks](https://img.shields.io/github/forks/tsondt/CVE-2018-4878.svg)
 
 ## CVE-2018-4441
  A memory corruption issue was addressed with improved memory handling. This issue affected versions prior to iOS 12.1.1, tvOS 12.1.1, watchOS 5.1.2, Safari 12.0.2, iTunes 12.9.2 for Windows, iCloud for Windows 7.9.

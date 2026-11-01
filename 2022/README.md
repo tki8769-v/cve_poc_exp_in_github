@@ -6680,6 +6680,8 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 
 - [https://github.com/SmileTabLabo/CVE-2022-20186](https://github.com/SmileTabLabo/CVE-2022-20186) : ![starts](https://img.shields.io/github/stars/SmileTabLabo/CVE-2022-20186.svg) ![forks](https://img.shields.io/github/forks/SmileTabLabo/CVE-2022-20186.svg)
 
+- [https://github.com/android-cve-exploits/SmileTabLabo--CVE-2022-20186](https://github.com/android-cve-exploits/SmileTabLabo--CVE-2022-20186) : ![starts](https://img.shields.io/github/stars/android-cve-exploits/SmileTabLabo--CVE-2022-20186.svg) ![forks](https://img.shields.io/github/forks/android-cve-exploits/SmileTabLabo--CVE-2022-20186.svg)
+
 ## CVE-2022-20142
  In createFromParcel of GeofenceHardwareRequestParcelable.java, there is a possible arbitrary code execution due to parcel mismatch. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10 Android-11 Android-12 Android-12LAndroid ID: A-216631962
 

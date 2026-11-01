@@ -7,6 +7,10 @@
 
 - [https://github.com/anhcd05/CVE-2017-9822](https://github.com/anhcd05/CVE-2017-9822) : ![starts](https://img.shields.io/github/stars/anhcd05/CVE-2017-9822.svg) ![forks](https://img.shields.io/github/forks/anhcd05/CVE-2017-9822.svg)
 
+## CVE-2018-4878
+
+- [https://github.com/tsondt/CVE-2018-4878](https://github.com/tsondt/CVE-2018-4878) : ![starts](https://img.shields.io/github/stars/tsondt/CVE-2018-4878.svg) ![forks](https://img.shields.io/github/forks/tsondt/CVE-2018-4878.svg)
+
 ## CVE-2020-0069
 
 - [https://github.com/s1204IT/CVE-2020-0069](https://github.com/s1204IT/CVE-2020-0069) : ![starts](https://img.shields.io/github/stars/s1204IT/CVE-2020-0069.svg) ![forks](https://img.shields.io/github/forks/s1204IT/CVE-2020-0069.svg)
@@ -22,6 +26,10 @@
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2025](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-2025) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-2025.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-2025.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit-followup](https://github.com/mcpmark-eval-liuhezi/log4shell-audit-followup) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit-followup.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit-followup.svg)
 - [https://github.com/mcpmark-eval-liuhezi/log4shell-audit2](https://github.com/mcpmark-eval-liuhezi/log4shell-audit2) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shell-audit2.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shell-audit2.svg)
+
+## CVE-2022-20186
+
+- [https://github.com/android-cve-exploits/SmileTabLabo--CVE-2022-20186](https://github.com/android-cve-exploits/SmileTabLabo--CVE-2022-20186) : ![starts](https://img.shields.io/github/stars/android-cve-exploits/SmileTabLabo--CVE-2022-20186.svg) ![forks](https://img.shields.io/github/forks/android-cve-exploits/SmileTabLabo--CVE-2022-20186.svg)
 
 ## CVE-2022-36532
 
@@ -52,6 +60,11 @@ This vulnerability is due to insufficient validation of HTTP requests by the Spa
 > The vulnerability exists within internal components of BeyondTrust’s Remote Support product. The components did not adequately validate the origin of the messages it received. Under the right conditions, this could allow an attacker to perform file operations on the appliance.
 
 - [https://github.com/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check](https://github.com/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check.svg)
+
+## CVE-2026-105445
+> An Incorrect Privilege Assignment vulnerability in Docker Hub&#x27;s account-to-organization conversion feature allowed an authenticated attacker to reassign a personal access token (PAT) they controlled to another Docker Hub user without rotating or revoking the token secret. The unchanged PAT then authenticated to the registry as the recipient and could pull, push, or delete images, within its scopes, in repositories accessible to that user, including organization repositories.
+
+- [https://github.com/CompleteTech-Security/docker-hub-ghostpat-check](https://github.com/CompleteTech-Security/docker-hub-ghostpat-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/docker-hub-ghostpat-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/docker-hub-ghostpat-check.svg)
 
 ## CVE-2026-107406
 > Memory overflow vulnerability leading to Remote Code Execution or Denial of Service Vulnerability in NetScaler ADC.
@@ -125,6 +138,11 @@ This issue affects ADC: from 14.1 through 73.32 and from 13.1 through 63.21; Gat
 > This is a vulnerability in Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center. Crowd Data Center, Crucible and Fisheye. This Arbitrary File Access vulnerability allows an unauthenticated attacker to access specific files within the web application root directory in affected versions. Exploitation requires prior knowledge of the target file&#x27;s exact name and path; this vulnerability does not allow attackers to enumerate
 
 - [https://github.com/CompleteTech-Security/atlassian-cve-2026-21589-check](https://github.com/CompleteTech-Security/atlassian-cve-2026-21589-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/atlassian-cve-2026-21589-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/atlassian-cve-2026-21589-check.svg)
+
+## CVE-2026-43715
+> A use-after-free issue was addressed with improved memory management. This issue is fixed in Safari 26.5.2, iOS 26.5.2 and iPadOS 26.5.2, iOS 26.7 and iPadOS 26.7, macOS Tahoe 26.5.2, tvOS 26.6, visionOS 26.6, watchOS 26.6. Processing maliciously crafted web content may lead to memory corruption.
+
+- [https://github.com/Jmesmykil/SWITCH2-WEBKIT-JAILBREAK](https://github.com/Jmesmykil/SWITCH2-WEBKIT-JAILBREAK) : ![starts](https://img.shields.io/github/stars/Jmesmykil/SWITCH2-WEBKIT-JAILBREAK.svg) ![forks](https://img.shields.io/github/forks/Jmesmykil/SWITCH2-WEBKIT-JAILBREAK.svg)
 
 ## CVE-2026-63030
 > WordPress 6.9.x before 6.9.5 and 7.0.x before 7.0.2 is affected by a REST API batch endpoint route confusion issue which, combined with the author__not_in WP_Query SQL Injection (CVE-2026-60137), could allow an attacker to perform SQL Injection and achieve Remote Code Execution.

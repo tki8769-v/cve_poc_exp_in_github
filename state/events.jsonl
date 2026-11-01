@@ -8004,3 +8004,7 @@
 {"cve_id": "CVE-2026-98432", "ts": "2026-11-01T16:33:23Z", "type": "new_poc", "url": "https://github.com/jamilbk/drop-ipv4-opt"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-11-01T16:33:23Z", "type": "new_poc", "url": "https://github.com/sahmsec/CVE-2026-109618-PHP2SHELL"}
 {"cve_id": "CVE-2026-114509", "ts": "2026-11-01T16:33:24Z", "type": "new_poc", "url": "https://github.com/nextmend/laravel-type-juggling-auth-bypass"}
+{"cve_id": "CVE-2026-43715", "ts": "2026-11-01T16:54:03Z", "type": "new_poc", "url": "https://github.com/Jmesmykil/SWITCH2-WEBKIT-JAILBREAK"}
+{"cve_id": "CVE-2026-105445", "ts": "2026-11-01T16:55:03Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/docker-hub-ghostpat-check"}
+{"cve_id": "CVE-2018-4878", "ts": "2026-11-01T16:57:11Z", "type": "new_poc", "url": "https://github.com/tsondt/CVE-2018-4878"}
+{"cve_id": "CVE-2022-20186", "ts": "2026-11-01T17:00:09Z", "type": "new_poc", "url": "https://github.com/android-cve-exploits/SmileTabLabo--CVE-2022-20186"}
