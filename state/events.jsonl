@@ -8038,3 +8038,7 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-11-01T21:56:44Z", "type": "new_poc", "url": "https://github.com/Pratikchandrathakur/CVE-2026-109618-109619-checker"}
 {"cve_id": "CVE-2026-111943", "ts": "2026-11-01T21:59:40Z", "type": "new_poc", "url": "https://github.com/Ishanoshada/Emudhra-Ca-Compromise-Lab"}
 {"cve_id": "CVE-2026-38751", "ts": "2026-11-01T22:01:45Z", "type": "new_poc", "url": "https://github.com/Wingleszy/HTB-Enigma-walkthrough"}
+{"cve_id": "CVE-2023-30856", "ts": "2026-11-01T22:21:56Z", "type": "new_poc", "url": "https://github.com/zpf2234/edex-afterlife"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-01T22:21:56Z", "type": "new_poc", "url": "https://github.com/PrasanthNarava/zero-day-php-rce-mitigation"}
+{"cve_id": "CVE-2025-0411", "ts": "2026-11-01T22:25:48Z", "type": "new_poc", "url": "https://github.com/c4bsec/7-Zip-CVE-2025-0411-POC"}
+{"cve_id": "CVE-2026-102826", "ts": "2026-11-01T22:31:01Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/simple-git-rce-check"}

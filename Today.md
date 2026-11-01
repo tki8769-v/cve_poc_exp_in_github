@@ -58,9 +58,17 @@
 - [https://github.com/Milordick/unisoc-tool-rs](https://github.com/Milordick/unisoc-tool-rs) : ![starts](https://img.shields.io/github/stars/Milordick/unisoc-tool-rs.svg) ![forks](https://img.shields.io/github/forks/Milordick/unisoc-tool-rs.svg)
 - [https://github.com/keaidang/TYH831T-S9-Bootloader-Root](https://github.com/keaidang/TYH831T-S9-Bootloader-Root) : ![starts](https://img.shields.io/github/stars/keaidang/TYH831T-S9-Bootloader-Root.svg) ![forks](https://img.shields.io/github/forks/keaidang/TYH831T-S9-Bootloader-Root.svg)
 
+## CVE-2023-30856
+
+- [https://github.com/zpf2234/edex-afterlife](https://github.com/zpf2234/edex-afterlife) : ![starts](https://img.shields.io/github/stars/zpf2234/edex-afterlife.svg) ![forks](https://img.shields.io/github/forks/zpf2234/edex-afterlife.svg)
+
 ## CVE-2023-30861
 
 - [https://github.com/elisapresciutti/CVE-2023-30861-flask-lab](https://github.com/elisapresciutti/CVE-2023-30861-flask-lab) : ![starts](https://img.shields.io/github/stars/elisapresciutti/CVE-2023-30861-flask-lab.svg) ![forks](https://img.shields.io/github/forks/elisapresciutti/CVE-2023-30861-flask-lab.svg)
+
+## CVE-2025-0411
+
+- [https://github.com/c4bsec/7-Zip-CVE-2025-0411-POC](https://github.com/c4bsec/7-Zip-CVE-2025-0411-POC) : ![starts](https://img.shields.io/github/stars/c4bsec/7-Zip-CVE-2025-0411-POC.svg) ![forks](https://img.shields.io/github/forks/c4bsec/7-Zip-CVE-2025-0411-POC.svg)
 
 ## CVE-2025-20393
 > A vulnerability in the Spam Quarantine feature of Cisco AsyncOS Software for Cisco Secure Email Gateway and Cisco Secure Email and Web Manager could allow an unauthenticated, remote attacker to execute arbitrary system commands on an affected device with root privileges.
@@ -78,6 +86,11 @@ This vulnerability is due to insufficient validation of HTTP requests by the Spa
 > The vulnerability exists within internal components of BeyondTrust’s Remote Support product. The components did not adequately validate the origin of the messages it received. Under the right conditions, this could allow an attacker to perform file operations on the appliance.
 
 - [https://github.com/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check](https://github.com/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/beyondtrust-remote-support-cve-2026-102764-check.svg)
+
+## CVE-2026-102826
+> simple-git, an interface for running git commands in any node.js application, enables applications to execute Git operations from JavaScript. Prior to 4.0.0, the default blockUnsafeOperationsPlugin does not completely reject configuration includes supplied through customArgs to git.clone(). The missing include.path classification permits Git to load an attacker-controlled configuration file, and the initial remediation does not cover includeIf.&lt;condition&gt;.path, allowing the same file-loading pri
+
+- [https://github.com/CompleteTech-Security/simple-git-rce-check](https://github.com/CompleteTech-Security/simple-git-rce-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/simple-git-rce-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/simple-git-rce-check.svg)
 
 ## CVE-2026-105192
 > LMCache multiprocess mode, also called distributed mode, opens an unauthenticated ZeroMQ ROUTER so worker processes can register and share KV cache blocks. Messages on that socket are msgpack. Extension code 1 is passed to DeviceIPCWrapper.Deserialize, which calls pickle.loads, while the server is still decoding request arguments and before the handler runs. A single unauthenticated ZMQ DEALER message to the transport port (default 5555) therefore executes code as the user the LMCache process ru
@@ -113,6 +126,7 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
 
+- [https://github.com/PrasanthNarava/zero-day-php-rce-mitigation](https://github.com/PrasanthNarava/zero-day-php-rce-mitigation) : ![starts](https://img.shields.io/github/stars/PrasanthNarava/zero-day-php-rce-mitigation.svg) ![forks](https://img.shields.io/github/forks/PrasanthNarava/zero-day-php-rce-mitigation.svg)
 - [https://github.com/Pratikchandrathakur/CVE-2026-109618-109619-checker](https://github.com/Pratikchandrathakur/CVE-2026-109618-109619-checker) : ![starts](https://img.shields.io/github/stars/Pratikchandrathakur/CVE-2026-109618-109619-checker.svg) ![forks](https://img.shields.io/github/forks/Pratikchandrathakur/CVE-2026-109618-109619-checker.svg)
 - [https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched](https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched) : ![starts](https://img.shields.io/github/stars/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched.svg) ![forks](https://img.shields.io/github/forks/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched.svg)
 - [https://github.com/marcostolosa/CVE-2026-109618-109619](https://github.com/marcostolosa/CVE-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/marcostolosa/CVE-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/marcostolosa/CVE-2026-109618-109619.svg)

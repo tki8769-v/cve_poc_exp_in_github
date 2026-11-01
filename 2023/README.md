@@ -5673,6 +5673,10 @@ This happens because vulnerable versions of Flask only set the `Vary: Cookie` he
 
 - [https://github.com/elisapresciutti/CVE-2023-30861-flask-lab](https://github.com/elisapresciutti/CVE-2023-30861-flask-lab) : ![starts](https://img.shields.io/github/stars/elisapresciutti/CVE-2023-30861-flask-lab.svg) ![forks](https://img.shields.io/github/forks/elisapresciutti/CVE-2023-30861-flask-lab.svg)
 
+## CVE-2023-30856
+
+- [https://github.com/zpf2234/edex-afterlife](https://github.com/zpf2234/edex-afterlife) : ![starts](https://img.shields.io/github/stars/zpf2234/edex-afterlife.svg) ![forks](https://img.shields.io/github/forks/zpf2234/edex-afterlife.svg)
+
 ## CVE-2023-30854
  AVideo is an open source video platform. Prior to version 12.4, an OS Command Injection vulnerability in an authenticated endpoint `/plugin/CloneSite/cloneClient.json.php` allows attackers to achieve Remote Code Execution. This issue is fixed in version 12.4.
 

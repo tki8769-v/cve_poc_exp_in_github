@@ -1616,6 +1616,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/marcostolosa/CVE-2026-109618-109619](https://github.com/marcostolosa/CVE-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/marcostolosa/CVE-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/marcostolosa/CVE-2026-109618-109619.svg)
 
+- [https://github.com/PrasanthNarava/zero-day-php-rce-mitigation](https://github.com/PrasanthNarava/zero-day-php-rce-mitigation) : ![starts](https://img.shields.io/github/stars/PrasanthNarava/zero-day-php-rce-mitigation.svg) ![forks](https://img.shields.io/github/forks/PrasanthNarava/zero-day-php-rce-mitigation.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -2387,6 +2389,8 @@ Note that this vulnerability can only be exploited prior to the device being onb
 - [https://github.com/CompleteTech-LLC/simplegit-rce-check](https://github.com/CompleteTech-LLC/simplegit-rce-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/simplegit-rce-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/simplegit-rce-check.svg)
 
 - [https://github.com/CompleTetech-Security/simplegit-rce-check](https://github.com/CompleTetech-Security/simplegit-rce-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/simplegit-rce-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/simplegit-rce-check.svg)
+
+- [https://github.com/CompleteTech-Security/simple-git-rce-check](https://github.com/CompleteTech-Security/simple-git-rce-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/simple-git-rce-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/simple-git-rce-check.svg)
 
 ## CVE-2026-102785
 > Joomla Extension - yootheme.com - Unauthenticated remote code execution in YOOtheme Pro 5.0.0-5.0.52 - YOOtheme Pro’s publicly accessible image transformation handler incompletely binds normalized image operations and the output destination to its request signature. An unauthenticated remote attacker can reuse a signature disclosed in a legitimate public image URL, inject additional image operations, traverse out of the intended cache directory, and write an attacker-controlled PNG/PHP polyglot 
