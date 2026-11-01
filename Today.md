@@ -57,6 +57,10 @@
 
 - [https://github.com/b1nv0id/CVE-2026-118764](https://github.com/b1nv0id/CVE-2026-118764) : ![starts](https://img.shields.io/github/stars/b1nv0id/CVE-2026-118764.svg) ![forks](https://img.shields.io/github/forks/b1nv0id/CVE-2026-118764.svg)
 
+## CVE-2026-120232
+
+- [https://github.com/Element2023H/CVE-2026-120232](https://github.com/Element2023H/CVE-2026-120232) : ![starts](https://img.shields.io/github/stars/Element2023H/CVE-2026-120232.svg) ![forks](https://img.shields.io/github/forks/Element2023H/CVE-2026-120232.svg)
+
 ## CVE-2026-21589
 > This is a vulnerability in Bitbucket Data Center, Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center. Crowd Data Center, Crucible and Fisheye. This Arbitrary File Access vulnerability allows an unauthenticated attacker to access specific files within the web application root directory in affected versions. Exploitation requires prior knowledge of the target file&#x27;s exact name and path; this vulnerability does not allow attackers to enumerate
 
@@ -119,3 +123,4 @@ tcp_v4_send_synack() and inet_csk_route_req() read ireq-&gt;ireq_opt
 under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/AronWang001/linux-cve-2026-98432-fix](https://github.com/AronWang001/linux-cve-2026-98432-fix) : ![starts](https://img.shields.io/github/stars/AronWang001/linux-cve-2026-98432-fix.svg) ![forks](https://img.shields.io/github/forks/AronWang001/linux-cve-2026-98432-fix.svg)
+- [https://github.com/uvian/xboard-core](https://github.com/uvian/xboard-core) : ![starts](https://img.shields.io/github/stars/uvian/xboard-core.svg) ![forks](https://img.shields.io/github/forks/uvian/xboard-core.svg)

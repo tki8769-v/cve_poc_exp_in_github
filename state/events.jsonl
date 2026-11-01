@@ -7976,3 +7976,14 @@
 {"cve_id": "CVE-2021-44228", "ts": "2026-11-01T08:27:31Z", "type": "new_poc", "url": "https://github.com/mcpmark-eval-liuhezi/log4shell-audit-17"}
 {"cve_id": "CVE-2026-0073", "ts": "2026-11-01T08:32:39Z", "type": "new_poc", "url": "https://github.com/ko456123mo-jpg/zero-x-deploy"}
 {"cve_id": "CVE-2026-0073", "ts": "2026-11-01T08:32:39Z", "type": "new_poc", "url": "https://github.com/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC"}
+{"cve_id": "CVE-2026-109213", "ts": "2026-11-01T08:40:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111477", "ts": "2026-11-01T08:40:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-13002", "ts": "2026-11-01T08:42:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49115", "ts": "2026-11-01T08:43:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49116", "ts": "2026-11-01T08:43:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-64860", "ts": "2026-11-01T08:45:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66025", "ts": "2026-11-01T08:45:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66026", "ts": "2026-11-01T08:45:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95673", "ts": "2026-11-01T08:53:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-01T09:01:27Z", "type": "new_poc", "url": "https://github.com/uvian/xboard-core"}
+{"cve_id": "CVE-2026-120232", "ts": "2026-11-01T09:01:34Z", "type": "new_poc", "url": "https://github.com/Element2023H/CVE-2026-120232"}

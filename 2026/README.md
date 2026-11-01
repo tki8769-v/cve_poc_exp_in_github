@@ -6,6 +6,10 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-120232
+
+- [https://github.com/Element2023H/CVE-2026-120232](https://github.com/Element2023H/CVE-2026-120232) : ![starts](https://img.shields.io/github/stars/Element2023H/CVE-2026-120232.svg) ![forks](https://img.shields.io/github/forks/Element2023H/CVE-2026-120232.svg)
+
 ## CVE-2026-120218
 
 - [https://github.com/capivara-research/CVE-2026-120218](https://github.com/capivara-research/CVE-2026-120218) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-120218.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-120218.svg)
@@ -2761,6 +2765,8 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 - [https://github.com/AronWang001/debian-cve-2026-98432-fix](https://github.com/AronWang001/debian-cve-2026-98432-fix) : ![starts](https://img.shields.io/github/stars/AronWang001/debian-cve-2026-98432-fix.svg) ![forks](https://img.shields.io/github/forks/AronWang001/debian-cve-2026-98432-fix.svg)
 
 - [https://github.com/AronWang001/linux-cve-2026-98432-fix](https://github.com/AronWang001/linux-cve-2026-98432-fix) : ![starts](https://img.shields.io/github/stars/AronWang001/linux-cve-2026-98432-fix.svg) ![forks](https://img.shields.io/github/forks/AronWang001/linux-cve-2026-98432-fix.svg)
+
+- [https://github.com/uvian/xboard-core](https://github.com/uvian/xboard-core) : ![starts](https://img.shields.io/github/stars/uvian/xboard-core.svg) ![forks](https://img.shields.io/github/forks/uvian/xboard-core.svg)
 
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
