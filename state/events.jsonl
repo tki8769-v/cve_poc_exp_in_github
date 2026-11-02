@@ -8065,3 +8065,4 @@
 {"cve_id": "CVE-2026-88775", "ts": "2026-11-02T07:58:10Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/netscaler-cve-2026-88775-check"}
 {"cve_id": "CVE-2026-88777", "ts": "2026-11-02T07:58:11Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/netscaler-cve-2026-88777-check"}
 {"cve_id": "CVE-2026-88778", "ts": "2026-11-02T07:58:16Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/netscaler-cve-2026-88778-check"}
+{"cve_id": "CVE-2025-24799", "ts": "2026-11-02T08:13:39Z", "type": "new_poc", "url": "https://github.com/ryhnmhrdka/CVE-2025-24799"}

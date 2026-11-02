@@ -11,6 +11,10 @@
 
 - [https://github.com/ferralon-demo/grafana-cve-2024-9264-duckdb-rce](https://github.com/ferralon-demo/grafana-cve-2024-9264-duckdb-rce) : ![starts](https://img.shields.io/github/stars/ferralon-demo/grafana-cve-2024-9264-duckdb-rce.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/grafana-cve-2024-9264-duckdb-rce.svg)
 
+## CVE-2025-24799
+
+- [https://github.com/ryhnmhrdka/CVE-2025-24799](https://github.com/ryhnmhrdka/CVE-2025-24799) : ![starts](https://img.shields.io/github/stars/ryhnmhrdka/CVE-2025-24799.svg) ![forks](https://img.shields.io/github/forks/ryhnmhrdka/CVE-2025-24799.svg)
+
 ## CVE-2025-8110
 
 - [https://github.com/godylockz/CVE-2025-8110](https://github.com/godylockz/CVE-2025-8110) : ![starts](https://img.shields.io/github/stars/godylockz/CVE-2025-8110.svg) ![forks](https://img.shields.io/github/forks/godylockz/CVE-2025-8110.svg)
