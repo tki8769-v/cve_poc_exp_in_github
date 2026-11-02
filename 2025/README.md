@@ -13000,6 +13000,8 @@ This can lead to execution of a wide range of privileged commands to the engine 
 
 - [https://github.com/kur0bai/CVE-2025-8110](https://github.com/kur0bai/CVE-2025-8110) : ![starts](https://img.shields.io/github/stars/kur0bai/CVE-2025-8110.svg) ![forks](https://img.shields.io/github/forks/kur0bai/CVE-2025-8110.svg)
 
+- [https://github.com/godylockz/CVE-2025-8110](https://github.com/godylockz/CVE-2025-8110) : ![starts](https://img.shields.io/github/stars/godylockz/CVE-2025-8110.svg) ![forks](https://img.shields.io/github/forks/godylockz/CVE-2025-8110.svg)
+
 ## CVE-2025-8091
  The EventON Lite plugin for WordPress is vulnerable to Information Exposure in all versions less than, or equal to, 2.4.6 via the add_single_eventon and add_eventon shortcodes due to insufficient restrictions on which posts can be included. This makes it possible for unauthenticated attackers to extract data from password protected, private, or draft posts that they should not have access to.
 
