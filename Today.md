@@ -1,4 +1,12 @@
 # Update 2026-11-02
+## CVE-2024-48990
+
+- [https://github.com/nekr0ff/needrestart-sudo-escalate-cve-2024-48990](https://github.com/nekr0ff/needrestart-sudo-escalate-cve-2024-48990) : ![starts](https://img.shields.io/github/stars/nekr0ff/needrestart-sudo-escalate-cve-2024-48990.svg) ![forks](https://img.shields.io/github/forks/nekr0ff/needrestart-sudo-escalate-cve-2024-48990.svg)
+
+## CVE-2024-9264
+
+- [https://github.com/ferralon-demo/grafana-cve-2024-9264-duckdb-rce](https://github.com/ferralon-demo/grafana-cve-2024-9264-duckdb-rce) : ![starts](https://img.shields.io/github/stars/ferralon-demo/grafana-cve-2024-9264-duckdb-rce.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/grafana-cve-2024-9264-duckdb-rce.svg)
+
 ## CVE-2026-98260
 > In the Linux kernel, the following vulnerability has been resolved:
 

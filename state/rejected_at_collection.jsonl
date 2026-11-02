@@ -2723,3 +2723,6 @@
 {"cve_id": "CVE-2026-4034", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T01:02:06Z", "url": "https://github.com/Jvr2022/CVE-2026-40345", "url_ids": ["CVE-2026-40345"]}
 {"cve_id": "CVE-2025-2596", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T01:09:07Z", "url": "https://github.com/Sudo-Sakib/CVE-2025-25964", "url_ids": ["CVE-2025-25964"]}
 {"cve_id": "CVE-2025-2596", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T01:09:07Z", "url": "https://github.com/Sudo-Sakib/CVE-2025-25965", "url_ids": ["CVE-2025-25965"]}
+{"cve_id": "CVE-2023-2313", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T01:34:23Z", "url": "https://github.com/l00neyhacker/CVE-2023-23131", "url_ids": ["CVE-2023-23131"]}
+{"cve_id": "CVE-2023-2313", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T01:34:23Z", "url": "https://github.com/l00neyhacker/CVE-2023-23130", "url_ids": ["CVE-2023-23130"]}
+{"cve_id": "CVE-2023-2313", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T01:34:23Z", "url": "https://github.com/l00neyhacker/CVE-2023-23132", "url_ids": ["CVE-2023-23132"]}
