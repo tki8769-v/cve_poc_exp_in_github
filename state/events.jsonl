@@ -8042,3 +8042,5 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-11-01T22:21:56Z", "type": "new_poc", "url": "https://github.com/PrasanthNarava/zero-day-php-rce-mitigation"}
 {"cve_id": "CVE-2025-0411", "ts": "2026-11-01T22:25:48Z", "type": "new_poc", "url": "https://github.com/c4bsec/7-Zip-CVE-2025-0411-POC"}
 {"cve_id": "CVE-2026-102826", "ts": "2026-11-01T22:31:01Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/simple-git-rce-check"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-02T01:00:00Z", "type": "new_poc", "url": "https://github.com/yoro1836/SamTimer"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-02T01:00:09Z", "type": "new_poc", "url": "https://github.com/al4n4n/CVE-2026-98432"}
