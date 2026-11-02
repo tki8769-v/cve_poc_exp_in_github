@@ -94,6 +94,7 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/AlexBiller/salesforce-cve-remediation-demo](https://github.com/AlexBiller/salesforce-cve-remediation-demo) : ![starts](https://img.shields.io/github/stars/AlexBiller/salesforce-cve-remediation-demo.svg) ![forks](https://img.shields.io/github/forks/AlexBiller/salesforce-cve-remediation-demo.svg)
 
 ## CVE-2026-120318
+> Product Gallery Slider &amp; Additional Variation Images for WooCommerce 2.3.23 before 2.3.26 contains a missing authorization vulnerability in Codestar backup AJAX actions csf-export, csf-import and csf-reset. Shop Managers can read the csf_backup_nonce from the settings page and supply arbitrary option names via the &#x27;unique&#x27; parameter to read, overwrite or delete WordPress options, including modifying wp_user_roles to escalate to administrator.
 
 - [https://github.com/7xd10/CVE-2026-120318](https://github.com/7xd10/CVE-2026-120318) : ![starts](https://img.shields.io/github/stars/7xd10/CVE-2026-120318.svg) ![forks](https://img.shields.io/github/forks/7xd10/CVE-2026-120318.svg)
 

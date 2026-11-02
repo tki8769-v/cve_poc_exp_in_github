@@ -2743,3 +2743,6 @@
 {"cve_id": "CVE-2026-4253", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T19:56:08Z", "url": "https://github.com/gagaltotal/CVE-2026-42533-nginx", "url_ids": ["CVE-2026-42533"]}
 {"cve_id": "CVE-2026-9368", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T19:57:16Z", "url": "https://github.com/canmenzo/cve-2026-93687-braces", "url_ids": ["CVE-2026-93687"]}
 {"cve_id": "CVE-2026-9368", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T19:57:16Z", "url": "https://github.com/rmhowe425/POC-CVE-2026-93680", "url_ids": ["CVE-2026-93680"]}
+{"cve_id": "CVE-2026-9335", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T20:15:14Z", "url": "https://github.com/InertFluid/cve-2026-93355-lab", "url_ids": ["CVE-2026-93355"]}
+{"cve_id": "CVE-2020-1584", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T20:17:18Z", "url": "https://github.com/faklad/CVE-2020-15848", "url_ids": ["CVE-2020-15848"]}
+{"cve_id": "CVE-2022-2336", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T20:17:18Z", "url": "https://github.com/ViNi0608/CVE-2022-23361", "url_ids": ["CVE-2022-23361"]}

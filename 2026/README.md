@@ -7,6 +7,7 @@
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
 ## CVE-2026-120318
+> Product Gallery Slider &amp; Additional Variation Images for WooCommerce 2.3.23 before 2.3.26 contains a missing authorization vulnerability in Codestar backup AJAX actions csf-export, csf-import and csf-reset. Shop Managers can read the csf_backup_nonce from the settings page and supply arbitrary option names via the &#x27;unique&#x27; parameter to read, overwrite or delete WordPress options, including modifying wp_user_roles to escalate to administrator.
 
 - [https://github.com/7xd10/CVE-2026-120318](https://github.com/7xd10/CVE-2026-120318) : ![starts](https://img.shields.io/github/stars/7xd10/CVE-2026-120318.svg) ![forks](https://img.shields.io/github/forks/7xd10/CVE-2026-120318.svg)
 
