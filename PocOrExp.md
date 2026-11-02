@@ -2840,6 +2840,10 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/xxhjkl/cve-2026-98432-check](https://github.com/xxhjkl/cve-2026-98432-check) : ![starts](https://img.shields.io/github/stars/xxhjkl/cve-2026-98432-check.svg) ![forks](https://img.shields.io/github/forks/xxhjkl/cve-2026-98432-check.svg)
 
+- [https://github.com/matthew-hollick/mitigate-cve-2026-98432](https://github.com/matthew-hollick/mitigate-cve-2026-98432) : ![starts](https://img.shields.io/github/stars/matthew-hollick/mitigate-cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/matthew-hollick/mitigate-cve-2026-98432.svg)
+
+- [https://github.com/thiscitze/cve-2026-98432-root-shell](https://github.com/thiscitze/cve-2026-98432-root-shell) : ![starts](https://img.shields.io/github/stars/thiscitze/cve-2026-98432-root-shell.svg) ![forks](https://img.shields.io/github/forks/thiscitze/cve-2026-98432-root-shell.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -7738,6 +7742,8 @@ with mt exec") added a temporary workaround for that in 2010 which surv
 - [https://github.com/aucai/Redmi-K90-CVE-2026-64560](https://github.com/aucai/Redmi-K90-CVE-2026-64560) : ![starts](https://img.shields.io/github/stars/aucai/Redmi-K90-CVE-2026-64560.svg) ![forks](https://img.shields.io/github/forks/aucai/Redmi-K90-CVE-2026-64560.svg)
 
 - [https://github.com/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu](https://github.com/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu) : ![starts](https://img.shields.io/github/stars/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu.svg) ![forks](https://img.shields.io/github/forks/exumeOAO/plr110-6.12.38-cve-2026-64560-ksu.svg)
+
+- [https://github.com/youssefnoser/opd2415-6.6.118-cve-2026-64560-ksu](https://github.com/youssefnoser/opd2415-6.6.118-cve-2026-64560-ksu) : ![starts](https://img.shields.io/github/stars/youssefnoser/opd2415-6.6.118-cve-2026-64560-ksu.svg) ![forks](https://img.shields.io/github/forks/youssefnoser/opd2415-6.6.118-cve-2026-64560-ksu.svg)
 
 ## CVE-2026-64531
  In the Linux kernel, the following vulnerability has been resolved:

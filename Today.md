@@ -70,6 +70,25 @@ problems:
 
 - [https://github.com/santoshkalluri/CVE-2026-53157](https://github.com/santoshkalluri/CVE-2026-53157) : ![starts](https://img.shields.io/github/stars/santoshkalluri/CVE-2026-53157.svg) ![forks](https://img.shields.io/github/forks/santoshkalluri/CVE-2026-53157.svg)
 
+## CVE-2026-64560
+> In the Linux kernel, the following vulnerability has been resolved:
+
+posix-cpu-timers: Prevent UAF caused by non-leader exec() race
+
+Wongi and Jungwoo decoded and reported a non-leader exec() related race
+which can result in an UAF:
+
+ sys_timer_delete()			exec()
+   posix_cpu_timer_del()
+   // Observes old leader
+   p = pid_task(pid, pid_type);		de_thread()
+   					  switch_leader();
+					  release_task(old_leader)
+					    __exit_signal(old_leader)
+					      sighand = lock(old_leader, sighand);
+
+- [https://github.com/youssefnoser/opd2415-6.6.118-cve-2026-64560-ksu](https://github.com/youssefnoser/opd2415-6.6.118-cve-2026-64560-ksu) : ![starts](https://img.shields.io/github/stars/youssefnoser/opd2415-6.6.118-cve-2026-64560-ksu.svg) ![forks](https://img.shields.io/github/forks/youssefnoser/opd2415-6.6.118-cve-2026-64560-ksu.svg)
+
 ## CVE-2026-74583
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -144,4 +163,6 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 - [https://github.com/al4n4n/CVE-2026-98432](https://github.com/al4n4n/CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/al4n4n/CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/al4n4n/CVE-2026-98432.svg)
 - [https://github.com/illuscapital/CVE-2026-98432](https://github.com/illuscapital/CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/illuscapital/CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/illuscapital/CVE-2026-98432.svg)
 - [https://github.com/johnhsb/linux-tcp-uaf-cve-2026-98432](https://github.com/johnhsb/linux-tcp-uaf-cve-2026-98432) : ![starts](https://img.shields.io/github/stars/johnhsb/linux-tcp-uaf-cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/johnhsb/linux-tcp-uaf-cve-2026-98432.svg)
+- [https://github.com/matthew-hollick/mitigate-cve-2026-98432](https://github.com/matthew-hollick/mitigate-cve-2026-98432) : ![starts](https://img.shields.io/github/stars/matthew-hollick/mitigate-cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/matthew-hollick/mitigate-cve-2026-98432.svg)
+- [https://github.com/thiscitze/cve-2026-98432-root-shell](https://github.com/thiscitze/cve-2026-98432-root-shell) : ![starts](https://img.shields.io/github/stars/thiscitze/cve-2026-98432-root-shell.svg) ![forks](https://img.shields.io/github/forks/thiscitze/cve-2026-98432-root-shell.svg)
 - [https://github.com/xxhjkl/cve-2026-98432-check](https://github.com/xxhjkl/cve-2026-98432-check) : ![starts](https://img.shields.io/github/stars/xxhjkl/cve-2026-98432-check.svg) ![forks](https://img.shields.io/github/forks/xxhjkl/cve-2026-98432-check.svg)

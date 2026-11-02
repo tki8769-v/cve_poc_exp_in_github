@@ -8066,3 +8066,6 @@
 {"cve_id": "CVE-2026-88777", "ts": "2026-11-02T07:58:11Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/netscaler-cve-2026-88777-check"}
 {"cve_id": "CVE-2026-88778", "ts": "2026-11-02T07:58:16Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/netscaler-cve-2026-88778-check"}
 {"cve_id": "CVE-2025-24799", "ts": "2026-11-02T08:13:39Z", "type": "new_poc", "url": "https://github.com/ryhnmhrdka/CVE-2025-24799"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-02T08:24:19Z", "type": "new_poc", "url": "https://github.com/matthew-hollick/mitigate-cve-2026-98432"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-02T08:24:20Z", "type": "new_poc", "url": "https://github.com/thiscitze/cve-2026-98432-root-shell"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-11-02T08:30:25Z", "type": "new_poc", "url": "https://github.com/youssefnoser/opd2415-6.6.118-cve-2026-64560-ksu"}
