@@ -8102,3 +8102,4 @@
 {"cve_id": "CVE-2026-98260", "ts": "2026-11-02T19:35:34Z", "type": "new_poc", "url": "https://github.com/LinXing0926/GhostCred"}
 {"cve_id": "CVE-2026-62958", "ts": "2026-11-02T19:37:14Z", "type": "new_poc", "url": "https://github.com/0Linear/CVE-2026-62958"}
 {"cve_id": "CVE-2026-31431", "ts": "2026-11-02T19:43:25Z", "type": "new_poc", "url": "https://github.com/makitos666/CVE-2026-31431-Copy-Fail-Detection-Toolkit"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-02T19:52:09Z", "type": "new_poc", "url": "https://github.com/valkenindustries/cve-2026-98432-mitigation"}
