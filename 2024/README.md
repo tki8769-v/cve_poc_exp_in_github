@@ -9293,6 +9293,8 @@ when someone on the local network repeatedly requests the /accessdenied URL.
 
 - [https://github.com/Ntn10/cve-2024-10441-synology-rce](https://github.com/Ntn10/cve-2024-10441-synology-rce) : ![starts](https://img.shields.io/github/stars/Ntn10/cve-2024-10441-synology-rce.svg) ![forks](https://img.shields.io/github/forks/Ntn10/cve-2024-10441-synology-rce.svg)
 
+- [https://github.com/MRdark-ops/scanner-syno](https://github.com/MRdark-ops/scanner-syno) : ![starts](https://img.shields.io/github/stars/MRdark-ops/scanner-syno.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/scanner-syno.svg)
+
 ## CVE-2024-10410
  A vulnerability classified as critical was found in SourceCodester Online Hotel Reservation System 1.0. Affected by this vulnerability is the function upload of the file /admin/mod_room/controller.php?action=add. The manipulation of the argument image leads to unrestricted upload. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.
 
@@ -11195,6 +11197,8 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [https://github.com/lewiskb/Docker-Lab-CVE-2024-4367](https://github.com/lewiskb/Docker-Lab-CVE-2024-4367) : ![starts](https://img.shields.io/github/stars/lewiskb/Docker-Lab-CVE-2024-4367.svg) ![forks](https://img.shields.io/github/forks/lewiskb/Docker-Lab-CVE-2024-4367.svg)
 
 - [https://github.com/weae26/aia-pdfjs-poc](https://github.com/weae26/aia-pdfjs-poc) : ![starts](https://img.shields.io/github/stars/weae26/aia-pdfjs-poc.svg) ![forks](https://img.shields.io/github/forks/weae26/aia-pdfjs-poc.svg)
+
+- [https://github.com/minhi1/CVE-2024-4367](https://github.com/minhi1/CVE-2024-4367) : ![starts](https://img.shields.io/github/stars/minhi1/CVE-2024-4367.svg) ![forks](https://img.shields.io/github/forks/minhi1/CVE-2024-4367.svg)
 
 ## CVE-2024-4358
  In Progress Telerik Report Server, version 2024 Q1 (10.0.24.305) or earlier, on IIS, an unauthenticated attacker can gain access to Telerik Report Server restricted functionality via an authentication bypass vulnerability.

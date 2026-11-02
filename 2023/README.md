@@ -4506,6 +4506,8 @@ Update the UniFi Switches to Version 6.5.59 or later.
 
 - [https://github.com/radman404/CVE-2023-34634](https://github.com/radman404/CVE-2023-34634) : ![starts](https://img.shields.io/github/stars/radman404/CVE-2023-34634.svg) ![forks](https://img.shields.io/github/forks/radman404/CVE-2023-34634.svg)
 
+- [https://github.com/LBVDSEC/GreenshotShell-CVE-2023-34634](https://github.com/LBVDSEC/GreenshotShell-CVE-2023-34634) : ![starts](https://img.shields.io/github/stars/LBVDSEC/GreenshotShell-CVE-2023-34634.svg) ![forks](https://img.shields.io/github/forks/LBVDSEC/GreenshotShell-CVE-2023-34634.svg)
+
 ## CVE-2023-34600
  Adiscon LogAnalyzer v4.1.13 and before is vulnerable to SQL Injection.
 

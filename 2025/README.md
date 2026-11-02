@@ -9240,6 +9240,8 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
 
 - [https://github.com/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass](https://github.com/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass) : ![starts](https://img.shields.io/github/stars/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass.svg) ![forks](https://img.shields.io/github/forks/sodiptabadiabanurea/ntu-se6013-nextjs-auth-bypass.svg)
 
+- [https://github.com/goheesheng/sc3010](https://github.com/goheesheng/sc3010) : ![starts](https://img.shields.io/github/stars/goheesheng/sc3010.svg) ![forks](https://img.shields.io/github/forks/goheesheng/sc3010.svg)
+
 ## CVE-2025-29824
  Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally.
 

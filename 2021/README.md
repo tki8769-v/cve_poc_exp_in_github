@@ -8711,6 +8711,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/d4ytox/CVE-2021-3156](https://github.com/d4ytox/CVE-2021-3156) : ![starts](https://img.shields.io/github/stars/d4ytox/CVE-2021-3156.svg) ![forks](https://img.shields.io/github/forks/d4ytox/CVE-2021-3156.svg)
 
+- [https://github.com/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response](https://github.com/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response) : ![starts](https://img.shields.io/github/stars/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response.svg) ![forks](https://img.shields.io/github/forks/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response.svg)
+
 ## CVE-2021-3138
  In Discourse 2.7.0 through beta1, a rate-limit bypass leads to a bypass of the 2FA requirement for certain forms.
 
