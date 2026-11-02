@@ -36,3 +36,4 @@ tcp_v4_send_synack() and inet_csk_route_req() read ireq-&gt;ireq_opt
 under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/al4n4n/CVE-2026-98432](https://github.com/al4n4n/CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/al4n4n/CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/al4n4n/CVE-2026-98432.svg)
+- [https://github.com/illuscapital/CVE-2026-98432](https://github.com/illuscapital/CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/illuscapital/CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/illuscapital/CVE-2026-98432.svg)

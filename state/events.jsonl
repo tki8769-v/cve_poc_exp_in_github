@@ -8046,3 +8046,4 @@
 {"cve_id": "CVE-2026-98432", "ts": "2026-11-02T01:00:09Z", "type": "new_poc", "url": "https://github.com/al4n4n/CVE-2026-98432"}
 {"cve_id": "CVE-2024-48990", "ts": "2026-11-02T01:27:31Z", "type": "new_poc", "url": "https://github.com/nekr0ff/needrestart-sudo-escalate-cve-2024-48990"}
 {"cve_id": "CVE-2024-9264", "ts": "2026-11-02T01:30:12Z", "type": "new_poc", "url": "https://github.com/ferralon-demo/grafana-cve-2024-9264-duckdb-rce"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-02T01:53:57Z", "type": "new_poc", "url": "https://github.com/illuscapital/CVE-2026-98432"}

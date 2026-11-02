@@ -2726,3 +2726,4 @@
 {"cve_id": "CVE-2023-2313", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T01:34:23Z", "url": "https://github.com/l00neyhacker/CVE-2023-23131", "url_ids": ["CVE-2023-23131"]}
 {"cve_id": "CVE-2023-2313", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T01:34:23Z", "url": "https://github.com/l00neyhacker/CVE-2023-23130", "url_ids": ["CVE-2023-23130"]}
 {"cve_id": "CVE-2023-2313", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T01:34:23Z", "url": "https://github.com/l00neyhacker/CVE-2023-23132", "url_ids": ["CVE-2023-23132"]}
+{"cve_id": "CVE-2024-2289", "reason": "prefix_conflict_evidenced", "ts": "2026-11-02T02:01:10Z", "url": "https://github.com/Chocapikk/CVE-2024-22899-to-22903-ExploitChain", "url_ids": ["CVE-2024-22899"]}
