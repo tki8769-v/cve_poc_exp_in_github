@@ -2768,3 +2768,4 @@
 {"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-03T13:32:37Z", "url": "https://github.com/burakacar6/CVE-2023-42793-TeamCity-Unauthenticated-RCE", "url_ids": ["CVE-2023-42793"]}
 {"cve_id": "CVE-2026-4484", "reason": "prefix_conflict_evidenced", "ts": "2026-11-03T20:18:29Z", "url": "https://github.com/Boreas37/CVE-2026-44848-PoC", "url_ids": ["CVE-2026-44848"]}
 {"cve_id": "CVE-2026-4484", "reason": "prefix_conflict_evidenced", "ts": "2026-11-03T20:18:29Z", "url": "https://github.com/mnk-works/portainer-cve-2026-44848-checker", "url_ids": ["CVE-2026-44848"]}
+{"cve_id": "CVE-2026-2690", "reason": "prefix_conflict_evidenced", "ts": "2026-11-03T21:00:03Z", "url": "https://github.com/John-Jung/CVE-2026-26903-PoC", "url_ids": ["CVE-2026-26903"]}
