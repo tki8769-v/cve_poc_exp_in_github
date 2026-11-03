@@ -15,7 +15,7 @@
     },
     "clean_apply": {
       "affected_years": [],
-      "applied_at": "2026-11-03T13:02:34Z",
+      "applied_at": "2026-11-03T13:20:13Z",
       "applied_rejected": 0,
       "revoked_accepted": 0,
       "revoked_rejected": 0,
@@ -24,37 +24,37 @@
     },
     "official_refs": {
       "accepted": 0,
-      "candidates_total": 14855,
-      "kept_for_review": 4,
-      "meta_fetched": 4,
-      "patchlike_skipped": 7,
+      "candidates_total": 14890,
+      "kept_for_review": 15,
+      "meta_fetched": 15,
+      "patchlike_skipped": 20,
       "pending_after": 0,
-      "pending_before": 11,
+      "pending_before": 35,
       "pending_by_kind": {
-        "advisory": 1,
-        "patch": 6,
-        "reference": 4
+        "patch": 20,
+        "poc": 1,
+        "reference": 14
       },
       "pending_by_kind_after": {},
-      "processed": 4,
+      "processed": 15,
       "rejected_lead": 0,
-      "requests_used": 4,
+      "requests_used": 15,
       "stop_reason": null
     },
     "queue": {
       "due_by_priority": {
-        "0": 4863,
-        "5": 5185,
-        "8": 25082
+        "0": 4775,
+        "5": 5095,
+        "8": 25015
       },
-      "due_now": 35130,
-      "oldest_due": "2026-10-17T23:47:58Z",
+      "due_now": 34885,
+      "oldest_due": "2026-10-17T23:53:55Z",
       "oldest_due_by_priority": {
         "0": "2026-11-01T08:55:17Z",
-        "5": "2026-10-29T07:27:16Z",
-        "8": "2026-10-17T23:47:58Z"
+        "5": "2026-10-29T14:54:41Z",
+        "8": "2026-10-17T23:53:55Z"
       },
-      "tasks_total": 46238
+      "tasks_total": 46291
     },
     "recheck": {
       "conflict_evidenced": 167,
@@ -65,10 +65,10 @@
       "rule_version": "2"
     },
     "render": {
-      "changed_files": 6
+      "changed_files": 3
     },
     "repo_pushed": {
-      "accepted_existing": 12,
+      "accepted_existing": 13,
       "blocked": 0,
       "cursor_advanced": false,
       "invalid_ids": 0,
@@ -87,14 +87,14 @@
       "windows_pending": 0
     },
     "repo_watch": {
-      "accepted_existing": 4,
+      "accepted_existing": 12,
       "blocked": 0,
       "complete": true,
       "cursor_advanced": true,
       "cves_hit": 9,
       "invalid_ids": 0,
       "needs_review": 0,
-      "new_relations": 8,
+      "new_relations": 0,
       "partial_days_dropped": 0,
       "partial_days_pending": 0,
       "rejected_at_collection": 0,
@@ -108,9 +108,9 @@
       "budget_stopped": true,
       "incomplete": 0,
       "invalid_id_skipped": 0,
-      "needs_review": 22,
+      "needs_review": 12,
       "new_relations": 1,
-      "rejected_at_collection": 0,
+      "rejected_at_collection": 5,
       "scanned": 300,
       "scanned_by_priority": {
         "0": 151,
@@ -123,28 +123,28 @@
     "sync": {
       "budget_stopped": true,
       "continuity_warning": false,
-      "cves_seen": 1127,
+      "cves_seen": 1190,
       "floor_tag": "cve_2026-09-24_0700Z",
-      "last_tag": "cve_2026-11-02_2200Z",
-      "new_tasks": 11,
-      "ref_candidates_added": 11,
-      "rejected": 3,
+      "last_tag": "cve_2026-11-02_2300Z",
+      "new_tasks": 53,
+      "ref_candidates_added": 35,
+      "rejected": 4,
       "releases_processed": 1,
       "releases_seen": 30
     },
     "timing": {
-      "backfill_conflicts": 10.586,
-      "backfill_queue": 0.227,
-      "clean_apply": 0.29,
-      "official_refs": 2.965,
-      "queue": 0.266,
-      "recheck": 0.198,
-      "render": 0.951,
-      "repo_pushed": 10.619,
-      "repo_watch": 4.404,
-      "scan": 485.385,
-      "sync": 438.208,
-      "verify": 0.632
+      "backfill_conflicts": 10.404,
+      "backfill_queue": 0.226,
+      "clean_apply": 0.3,
+      "official_refs": 11.296,
+      "queue": 0.265,
+      "recheck": 0.197,
+      "render": 0.956,
+      "repo_pushed": 9.859,
+      "repo_watch": 3.102,
+      "scan": 536.947,
+      "sync": 477.489,
+      "verify": 0.646
     },
     "verify": {
       "downstream_checked": true,
@@ -153,5 +153,5 @@
       "problems": []
     }
   },
-  "ts": "2026-11-03T13:02:36Z"
+  "ts": "2026-11-03T13:20:15Z"
 }
