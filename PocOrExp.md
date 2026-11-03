@@ -1662,6 +1662,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/SecOpsLimited/php2shell-finder](https://github.com/SecOpsLimited/php2shell-finder) : ![starts](https://img.shields.io/github/stars/SecOpsLimited/php2shell-finder.svg) ![forks](https://img.shields.io/github/forks/SecOpsLimited/php2shell-finder.svg)
 
+- [https://github.com/onexxu/php2shell-poc](https://github.com/onexxu/php2shell-poc) : ![starts](https://img.shields.io/github/stars/onexxu/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/onexxu/php2shell-poc.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -42601,6 +42603,8 @@ did some work.
 - [https://github.com/xs2024770/CVE-2024-57521-RuoYi-SQLi](https://github.com/xs2024770/CVE-2024-57521-RuoYi-SQLi) : ![starts](https://img.shields.io/github/stars/xs2024770/CVE-2024-57521-RuoYi-SQLi.svg) ![forks](https://img.shields.io/github/forks/xs2024770/CVE-2024-57521-RuoYi-SQLi.svg)
 
 - [https://github.com/mrlihd/CVE-2024-57521-SQL-Injection-PoC](https://github.com/mrlihd/CVE-2024-57521-SQL-Injection-PoC) : ![starts](https://img.shields.io/github/stars/mrlihd/CVE-2024-57521-SQL-Injection-PoC.svg) ![forks](https://img.shields.io/github/forks/mrlihd/CVE-2024-57521-SQL-Injection-PoC.svg)
+
+- [https://github.com/cipher-xs/CVE-2024-57521-RuoYi-SQLi](https://github.com/cipher-xs/CVE-2024-57521-RuoYi-SQLi) : ![starts](https://img.shields.io/github/stars/cipher-xs/CVE-2024-57521-RuoYi-SQLi.svg) ![forks](https://img.shields.io/github/forks/cipher-xs/CVE-2024-57521-RuoYi-SQLi.svg)
 
 ## CVE-2024-57514
  The TP-Link Archer A20 v3 router is vulnerable to Cross-site Scripting (XSS) due to improper handling of directory listing paths in the web interface. When a specially crafted URL is visited, the router's web page renders the directory listing and executes arbitrary JavaScript embedded in the URL. This allows the attacker to inject malicious code into the page, executing JavaScript on the victim's browser, which could then be used for further malicious actions. The vulnerability was identified in the 1.0.6 Build 20231011 rel.85717(5553) version.

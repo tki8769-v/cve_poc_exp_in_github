@@ -15,6 +15,10 @@
 
 - [https://github.com/c4bsec/PP_CVE-2024-38998](https://github.com/c4bsec/PP_CVE-2024-38998) : ![starts](https://img.shields.io/github/stars/c4bsec/PP_CVE-2024-38998.svg) ![forks](https://img.shields.io/github/forks/c4bsec/PP_CVE-2024-38998.svg)
 
+## CVE-2024-57521
+
+- [https://github.com/cipher-xs/CVE-2024-57521-RuoYi-SQLi](https://github.com/cipher-xs/CVE-2024-57521-RuoYi-SQLi) : ![starts](https://img.shields.io/github/stars/cipher-xs/CVE-2024-57521-RuoYi-SQLi.svg) ![forks](https://img.shields.io/github/forks/cipher-xs/CVE-2024-57521-RuoYi-SQLi.svg)
+
 ## CVE-2025-32433
 
 - [https://github.com/Avinash37402/CVE-2025-32433](https://github.com/Avinash37402/CVE-2025-32433) : ![starts](https://img.shields.io/github/stars/Avinash37402/CVE-2025-32433.svg) ![forks](https://img.shields.io/github/forks/Avinash37402/CVE-2025-32433.svg)
@@ -33,6 +37,7 @@
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
 
 - [https://github.com/SecOpsLimited/php2shell-finder](https://github.com/SecOpsLimited/php2shell-finder) : ![starts](https://img.shields.io/github/stars/SecOpsLimited/php2shell-finder.svg) ![forks](https://img.shields.io/github/forks/SecOpsLimited/php2shell-finder.svg)
+- [https://github.com/onexxu/php2shell-poc](https://github.com/onexxu/php2shell-poc) : ![starts](https://img.shields.io/github/stars/onexxu/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/onexxu/php2shell-poc.svg)
 
 ## CVE-2026-116512
 > The Project Manager – AI Powered Project Management, Task Management, Kanban Board &amp; Time Tracker plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 4.1.1 via the &#x27;id&#x27; parameter parameter. This is due to unsanitized &#x27;id&#x27; parameter value concatenated directly into the pipe-delimited validation rule string, which is then split and each token invoked as a dynamic PHP function with no allowlist check. This makes it possible for unauthenticated attackers

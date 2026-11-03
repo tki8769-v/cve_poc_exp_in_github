@@ -88,6 +88,8 @@ did some work.
 
 - [https://github.com/mrlihd/CVE-2024-57521-SQL-Injection-PoC](https://github.com/mrlihd/CVE-2024-57521-SQL-Injection-PoC) : ![starts](https://img.shields.io/github/stars/mrlihd/CVE-2024-57521-SQL-Injection-PoC.svg) ![forks](https://img.shields.io/github/forks/mrlihd/CVE-2024-57521-SQL-Injection-PoC.svg)
 
+- [https://github.com/cipher-xs/CVE-2024-57521-RuoYi-SQLi](https://github.com/cipher-xs/CVE-2024-57521-RuoYi-SQLi) : ![starts](https://img.shields.io/github/stars/cipher-xs/CVE-2024-57521-RuoYi-SQLi.svg) ![forks](https://img.shields.io/github/forks/cipher-xs/CVE-2024-57521-RuoYi-SQLi.svg)
+
 ## CVE-2024-57514
  The TP-Link Archer A20 v3 router is vulnerable to Cross-site Scripting (XSS) due to improper handling of directory listing paths in the web interface. When a specially crafted URL is visited, the router's web page renders the directory listing and executes arbitrary JavaScript embedded in the URL. This allows the attacker to inject malicious code into the page, executing JavaScript on the victim's browser, which could then be used for further malicious actions. The vulnerability was identified in the 1.0.6 Build 20231011 rel.85717(5553) version.
 
