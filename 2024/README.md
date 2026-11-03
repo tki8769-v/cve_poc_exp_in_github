@@ -6637,6 +6637,8 @@ Users are recommended to upgrade to version 1.26, which fixes the issue.
 
 - [https://github.com/zxc2009/TryHack3M-Bricks-Heist](https://github.com/zxc2009/TryHack3M-Bricks-Heist) : ![starts](https://img.shields.io/github/stars/zxc2009/TryHack3M-Bricks-Heist.svg) ![forks](https://img.shields.io/github/forks/zxc2009/TryHack3M-Bricks-Heist.svg)
 
+- [https://github.com/eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8-AND-ABOVE](https://github.com/eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8-AND-ABOVE) : ![starts](https://img.shields.io/github/stars/eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8-AND-ABOVE.svg) ![forks](https://img.shields.io/github/forks/eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8-AND-ABOVE.svg)
+
 ## CVE-2024-25503
  Cross Site Scripting (XSS) vulnerability in Advanced REST Client v.17.0.9 allows a remote attacker to execute arbitrary code and obtain sensitive information via a crafted script to the edit details parameter of the New Project function.
 

@@ -656,6 +656,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/EQSTLab/CVE-2026-111497](https://github.com/EQSTLab/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/EQSTLab/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/EQSTLab/CVE-2026-111497.svg)
 
+- [https://github.com/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-](https://github.com/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-) : ![starts](https://img.shields.io/github/stars/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-.svg) ![forks](https://img.shields.io/github/forks/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-.svg)
+
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
 
@@ -979,6 +981,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/fahise/cve-2026-109618-cve-2026-109619-poc](https://github.com/fahise/cve-2026-109618-cve-2026-109619-poc) : ![starts](https://img.shields.io/github/stars/fahise/cve-2026-109618-cve-2026-109619-poc.svg) ![forks](https://img.shields.io/github/forks/fahise/cve-2026-109618-cve-2026-109619-poc.svg)
 
 - [https://github.com/K2uci/PHP2ShellPOC-CVE-2026-109619](https://github.com/K2uci/PHP2ShellPOC-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/K2uci/PHP2ShellPOC-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/K2uci/PHP2ShellPOC-CVE-2026-109619.svg)
+
+- [https://github.com/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) : ![starts](https://img.shields.io/github/stars/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg) ![forks](https://img.shields.io/github/forks/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -1662,6 +1666,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/SecOpsLimited/php2shell-finder](https://github.com/SecOpsLimited/php2shell-finder) : ![starts](https://img.shields.io/github/stars/SecOpsLimited/php2shell-finder.svg) ![forks](https://img.shields.io/github/forks/SecOpsLimited/php2shell-finder.svg)
 
 - [https://github.com/onexxu/php2shell-poc](https://github.com/onexxu/php2shell-poc) : ![starts](https://img.shields.io/github/stars/onexxu/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/onexxu/php2shell-poc.svg)
+
+- [https://github.com/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) : ![starts](https://img.shields.io/github/stars/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg) ![forks](https://img.shields.io/github/forks/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg)
 
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
@@ -2910,6 +2916,12 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/schnied/cve-2026-98432-mitigation-iptables](https://github.com/schnied/cve-2026-98432-mitigation-iptables) : ![starts](https://img.shields.io/github/stars/schnied/cve-2026-98432-mitigation-iptables.svg) ![forks](https://img.shields.io/github/forks/schnied/cve-2026-98432-mitigation-iptables.svg)
 
+- [https://github.com/luxagen/tester-linux-cve-2026-98432](https://github.com/luxagen/tester-linux-cve-2026-98432) : ![starts](https://img.shields.io/github/stars/luxagen/tester-linux-cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/luxagen/tester-linux-cve-2026-98432.svg)
+
+- [https://github.com/mrjoshuap/ansible-ezcve](https://github.com/mrjoshuap/ansible-ezcve) : ![starts](https://img.shields.io/github/stars/mrjoshuap/ansible-ezcve.svg) ![forks](https://img.shields.io/github/forks/mrjoshuap/ansible-ezcve.svg)
+
+- [https://github.com/muhammedemintombak/pardus21-cve-2026-98432](https://github.com/muhammedemintombak/pardus21-cve-2026-98432) : ![starts](https://img.shields.io/github/stars/muhammedemintombak/pardus21-cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/muhammedemintombak/pardus21-cve-2026-98432.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3193,6 +3205,8 @@ making each ACE up to 76 bytes (s
 - [https://github.com/gandli/cve-2026-97229-lab](https://github.com/gandli/cve-2026-97229-lab) : ![starts](https://img.shields.io/github/stars/gandli/cve-2026-97229-lab.svg) ![forks](https://img.shields.io/github/forks/gandli/cve-2026-97229-lab.svg)
 
 - [https://github.com/Noshadi-sec/CVE-2026-97229](https://github.com/Noshadi-sec/CVE-2026-97229) : ![starts](https://img.shields.io/github/stars/Noshadi-sec/CVE-2026-97229.svg) ![forks](https://img.shields.io/github/forks/Noshadi-sec/CVE-2026-97229.svg)
+
+- [https://github.com/emc-kk/cve-2026-97229-lab](https://github.com/emc-kk/cve-2026-97229-lab) : ![starts](https://img.shields.io/github/stars/emc-kk/cve-2026-97229-lab.svg) ![forks](https://img.shields.io/github/forks/emc-kk/cve-2026-97229-lab.svg)
 
 ## CVE-2026-97206
 > NLnet Labs Unbound, 1.22.0 up to and including version 1.26.1, contains a DNS-over-QUIC (DoQ) lifetime bug reachable by a remote DoQ client under multi-threaded operation. A client-triggered QUIC path migration can enter stream/connection cleanup while a mesh reply still retains a pointer to the DoQ stream. Cleanup frees the DoQ stream and when the pending mesh reply later completes it dereferences a stale pointer leading to a crash.
@@ -13420,6 +13434,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/tungmv/IONSTACK-S22E](https://github.com/tungmv/IONSTACK-S22E) : ![starts](https://img.shields.io/github/stars/tungmv/IONSTACK-S22E.svg) ![forks](https://img.shields.io/github/forks/tungmv/IONSTACK-S22E.svg)
 
 - [https://github.com/Delta-Water/phq110-root](https://github.com/Delta-Water/phq110-root) : ![starts](https://img.shields.io/github/stars/Delta-Water/phq110-root.svg) ![forks](https://img.shields.io/github/forks/Delta-Water/phq110-root.svg)
+
+- [https://github.com/SnowbakaQWQ/ghostlock-ares](https://github.com/SnowbakaQWQ/ghostlock-ares) : ![starts](https://img.shields.io/github/stars/SnowbakaQWQ/ghostlock-ares.svg) ![forks](https://img.shields.io/github/forks/SnowbakaQWQ/ghostlock-ares.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:

@@ -3,9 +3,21 @@
 
 - [https://github.com/unitnikolai/intel-me-remote-exploit](https://github.com/unitnikolai/intel-me-remote-exploit) : ![starts](https://img.shields.io/github/stars/unitnikolai/intel-me-remote-exploit.svg) ![forks](https://img.shields.io/github/forks/unitnikolai/intel-me-remote-exploit.svg)
 
+## CVE-2019-11478
+
+- [https://github.com/jinjucat/CVE-2019-11478](https://github.com/jinjucat/CVE-2019-11478) : ![starts](https://img.shields.io/github/stars/jinjucat/CVE-2019-11478.svg) ![forks](https://img.shields.io/github/forks/jinjucat/CVE-2019-11478.svg)
+
 ## CVE-2019-15107
 
 - [https://github.com/r3vpwnx/Webmin-1.910-Exploit-Script](https://github.com/r3vpwnx/Webmin-1.910-Exploit-Script) : ![starts](https://img.shields.io/github/stars/r3vpwnx/Webmin-1.910-Exploit-Script.svg) ![forks](https://img.shields.io/github/forks/r3vpwnx/Webmin-1.910-Exploit-Script.svg)
+
+## CVE-2019-16759
+
+- [https://github.com/shavchen/CVE-2019-16759](https://github.com/shavchen/CVE-2019-16759) : ![starts](https://img.shields.io/github/stars/shavchen/CVE-2019-16759.svg) ![forks](https://img.shields.io/github/forks/shavchen/CVE-2019-16759.svg)
+
+## CVE-2024-25600
+
+- [https://github.com/eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8-AND-ABOVE](https://github.com/eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8-AND-ABOVE) : ![starts](https://img.shields.io/github/stars/eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8-AND-ABOVE.svg) ![forks](https://img.shields.io/github/forks/eunbyulaakash/CVE-2024-25600-FOR-PYTHON-3.8-AND-ABOVE.svg)
 
 ## CVE-2024-32002
 
@@ -37,7 +49,24 @@
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
 
 - [https://github.com/SecOpsLimited/php2shell-finder](https://github.com/SecOpsLimited/php2shell-finder) : ![starts](https://img.shields.io/github/stars/SecOpsLimited/php2shell-finder.svg) ![forks](https://img.shields.io/github/forks/SecOpsLimited/php2shell-finder.svg)
+- [https://github.com/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) : ![starts](https://img.shields.io/github/stars/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg) ![forks](https://img.shields.io/github/forks/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg)
 - [https://github.com/onexxu/php2shell-poc](https://github.com/onexxu/php2shell-poc) : ![starts](https://img.shields.io/github/stars/onexxu/php2shell-poc.svg) ![forks](https://img.shields.io/github/forks/onexxu/php2shell-poc.svg)
+
+## CVE-2026-109619
+> PHP has various global state that temporarily points into request memory. In some scenarios, global state may not be correctly reset, or may be repopulated after being reset. The global state may then refer to request memory even after it has been freed. Subsequent requests may read or branch on this stale state before it is fully initialized. Multiple strategies can trigger this condition and produce remote code execution (RCE).
+
+- [https://github.com/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) : ![starts](https://img.shields.io/github/stars/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg) ![forks](https://img.shields.io/github/forks/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg)
+
+## CVE-2026-111497
+> A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream.
+
+
+
+
+
+Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1
+
+- [https://github.com/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-](https://github.com/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-) : ![starts](https://img.shields.io/github/stars/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-.svg) ![forks](https://img.shields.io/github/forks/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-.svg)
 
 ## CVE-2026-116512
 > The Project Manager – AI Powered Project Management, Task Management, Kanban Board &amp; Time Tracker plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 4.1.1 via the &#x27;id&#x27; parameter parameter. This is due to unsanitized &#x27;id&#x27; parameter value concatenated directly into the pipe-delimited validation rule string, which is then split and each token invoked as a dynamic PHP function with no allowlist check. This makes it possible for unauthenticated attackers
@@ -64,6 +93,7 @@ problems:
   1) the rbtree dequeue happens without waiter::task::pi_l
 
 - [https://github.com/Delta-Water/phq110-root](https://github.com/Delta-Water/phq110-root) : ![starts](https://img.shields.io/github/stars/Delta-Water/phq110-root.svg) ![forks](https://img.shields.io/github/forks/Delta-Water/phq110-root.svg)
+- [https://github.com/SnowbakaQWQ/ghostlock-ares](https://github.com/SnowbakaQWQ/ghostlock-ares) : ![starts](https://img.shields.io/github/stars/SnowbakaQWQ/ghostlock-ares.svg) ![forks](https://img.shields.io/github/forks/SnowbakaQWQ/ghostlock-ares.svg)
 
 ## CVE-2026-58115
 
@@ -82,6 +112,11 @@ problems:
 > IBM Langflow OSS 1.0.0 through 1.12.8 could allow a remote attacker to bypass security restrictions due to improper authentication.
 
 - [https://github.com/rmhowe425/POC-CVE-2026-93680](https://github.com/rmhowe425/POC-CVE-2026-93680) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-93680.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-93680.svg)
+
+## CVE-2026-97229
+> GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 19.2.8, 19.3 before 19.3.5, and 19.4 before 19.4.2 that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression validation.
+
+- [https://github.com/emc-kk/cve-2026-97229-lab](https://github.com/emc-kk/cve-2026-97229-lab) : ![starts](https://img.shields.io/github/stars/emc-kk/cve-2026-97229-lab.svg) ![forks](https://img.shields.io/github/forks/emc-kk/cve-2026-97229-lab.svg)
 
 ## CVE-2026-98260
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -116,4 +151,7 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 - [https://github.com/GarphenGate/cve-2026-98432-defender-toolkit](https://github.com/GarphenGate/cve-2026-98432-defender-toolkit) : ![starts](https://img.shields.io/github/stars/GarphenGate/cve-2026-98432-defender-toolkit.svg) ![forks](https://img.shields.io/github/forks/GarphenGate/cve-2026-98432-defender-toolkit.svg)
 - [https://github.com/IgrekLg/cve-2026-98432-mitigation](https://github.com/IgrekLg/cve-2026-98432-mitigation) : ![starts](https://img.shields.io/github/stars/IgrekLg/cve-2026-98432-mitigation.svg) ![forks](https://img.shields.io/github/forks/IgrekLg/cve-2026-98432-mitigation.svg)
 - [https://github.com/lowerpower/cve-2026-98432-mitigation](https://github.com/lowerpower/cve-2026-98432-mitigation) : ![starts](https://img.shields.io/github/stars/lowerpower/cve-2026-98432-mitigation.svg) ![forks](https://img.shields.io/github/forks/lowerpower/cve-2026-98432-mitigation.svg)
+- [https://github.com/luxagen/tester-linux-cve-2026-98432](https://github.com/luxagen/tester-linux-cve-2026-98432) : ![starts](https://img.shields.io/github/stars/luxagen/tester-linux-cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/luxagen/tester-linux-cve-2026-98432.svg)
+- [https://github.com/mrjoshuap/ansible-ezcve](https://github.com/mrjoshuap/ansible-ezcve) : ![starts](https://img.shields.io/github/stars/mrjoshuap/ansible-ezcve.svg) ![forks](https://img.shields.io/github/forks/mrjoshuap/ansible-ezcve.svg)
+- [https://github.com/muhammedemintombak/pardus21-cve-2026-98432](https://github.com/muhammedemintombak/pardus21-cve-2026-98432) : ![starts](https://img.shields.io/github/stars/muhammedemintombak/pardus21-cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/muhammedemintombak/pardus21-cve-2026-98432.svg)
 - [https://github.com/schnied/cve-2026-98432-mitigation-iptables](https://github.com/schnied/cve-2026-98432-mitigation-iptables) : ![starts](https://img.shields.io/github/stars/schnied/cve-2026-98432-mitigation-iptables.svg) ![forks](https://img.shields.io/github/forks/schnied/cve-2026-98432-mitigation-iptables.svg)

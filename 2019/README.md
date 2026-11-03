@@ -1056,6 +1056,8 @@ use after free.
 
 - [https://github.com/polar1s7/CVE-2019-16759-bypass](https://github.com/polar1s7/CVE-2019-16759-bypass) : ![starts](https://img.shields.io/github/stars/polar1s7/CVE-2019-16759-bypass.svg) ![forks](https://img.shields.io/github/forks/polar1s7/CVE-2019-16759-bypass.svg)
 
+- [https://github.com/shavchen/CVE-2019-16759](https://github.com/shavchen/CVE-2019-16759) : ![starts](https://img.shields.io/github/stars/shavchen/CVE-2019-16759.svg) ![forks](https://img.shields.io/github/forks/shavchen/CVE-2019-16759.svg)
+
 ## CVE-2019-16746
  An issue was discovered in net/wireless/nl80211.c in the Linux kernel through 5.2.17. It does not check the length of variable elements in a beacon head, leading to a buffer overflow.
 
@@ -2458,6 +2460,10 @@ use after free.
 - [https://github.com/sp4rkhunt3r/CVE2019-11510](https://github.com/sp4rkhunt3r/CVE2019-11510) : ![starts](https://img.shields.io/github/stars/sp4rkhunt3r/CVE2019-11510.svg) ![forks](https://img.shields.io/github/forks/sp4rkhunt3r/CVE2019-11510.svg)
 
 - [https://github.com/jason3e7/CVE-2019-11510](https://github.com/jason3e7/CVE-2019-11510) : ![starts](https://img.shields.io/github/stars/jason3e7/CVE-2019-11510.svg) ![forks](https://img.shields.io/github/forks/jason3e7/CVE-2019-11510.svg)
+
+## CVE-2019-11478
+
+- [https://github.com/jinjucat/CVE-2019-11478](https://github.com/jinjucat/CVE-2019-11478) : ![starts](https://img.shields.io/github/stars/jinjucat/CVE-2019-11478.svg) ![forks](https://img.shields.io/github/forks/jinjucat/CVE-2019-11478.svg)
 
 ## CVE-2019-11477
  Jonathan Looney discovered that the TCP_SKB_CB(skb)-tcp_gso_segs value was subject to an integer overflow in the Linux kernel when handling TCP Selective Acknowledgments (SACKs). A remote attacker could use this to cause a denial of service. This has been fixed in stable kernel releases 4.4.182, 4.9.182, 4.14.127, 4.19.52, 5.1.11, and is fixed in commit 3b4929f65b0d8249f19a50245cd88ed1a2f78cff.
