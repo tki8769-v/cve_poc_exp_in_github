@@ -1855,6 +1855,7 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 - [https://github.com/Nishi-Mehta-18/CVE-2026-107079](https://github.com/Nishi-Mehta-18/CVE-2026-107079) : ![starts](https://img.shields.io/github/stars/Nishi-Mehta-18/CVE-2026-107079.svg) ![forks](https://img.shields.io/github/forks/Nishi-Mehta-18/CVE-2026-107079.svg)
 
 ## CVE-2026-106991
+> hustoj &gt;=24.09.10 and &lt;=26.08.19 is vulnerable to Incorrect Access Control. Any registered user can delete, lock, or sticky any forum thread (including admins&#x27; announcements) via threadadmin.php. The thread branch only verifies login, never authorship or admin rights.
 
 - [https://github.com/MX-Qulin/CVE-2026-106991](https://github.com/MX-Qulin/CVE-2026-106991) : ![starts](https://img.shields.io/github/stars/MX-Qulin/CVE-2026-106991.svg) ![forks](https://img.shields.io/github/forks/MX-Qulin/CVE-2026-106991.svg)
 
@@ -17865,6 +17866,8 @@ AD directly.
 - [https://github.com/Isw-9/copy-fail-cve-2026-31431-aarch64](https://github.com/Isw-9/copy-fail-cve-2026-31431-aarch64) : ![starts](https://img.shields.io/github/stars/Isw-9/copy-fail-cve-2026-31431-aarch64.svg) ![forks](https://img.shields.io/github/forks/Isw-9/copy-fail-cve-2026-31431-aarch64.svg)
 
 - [https://github.com/makitos666/CVE-2026-31431-Copy-Fail-Detection-Toolkit](https://github.com/makitos666/CVE-2026-31431-Copy-Fail-Detection-Toolkit) : ![starts](https://img.shields.io/github/stars/makitos666/CVE-2026-31431-Copy-Fail-Detection-Toolkit.svg) ![forks](https://img.shields.io/github/forks/makitos666/CVE-2026-31431-Copy-Fail-Detection-Toolkit.svg)
+
+- [https://github.com/abiyeenzo/CVE-2026-31431](https://github.com/abiyeenzo/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/abiyeenzo/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/abiyeenzo/CVE-2026-31431.svg)
 
 ## CVE-2026-31429
  In the Linux kernel, the following vulnerability has been resolved:

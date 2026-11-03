@@ -8159,3 +8159,4 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-03T20:12:20Z", "type": "new_poc", "url": "https://github.com/SnowbakaQWQ/ghostlock-ares"}
 {"cve_id": "CVE-2026-98432", "ts": "2026-11-03T20:12:20Z", "type": "new_poc", "url": "https://github.com/mrjoshuap/ansible-ezcve"}
 {"cve_id": "CVE-2019-16759", "ts": "2026-11-03T20:12:54Z", "type": "new_poc", "url": "https://github.com/shavchen/CVE-2019-16759"}
+{"cve_id": "CVE-2026-31431", "ts": "2026-11-03T20:30:53Z", "type": "new_poc", "url": "https://github.com/abiyeenzo/CVE-2026-31431"}

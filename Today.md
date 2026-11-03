@@ -73,6 +73,21 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/0xCyp1337/CVE-2026-116512](https://github.com/0xCyp1337/CVE-2026-116512) : ![starts](https://img.shields.io/github/stars/0xCyp1337/CVE-2026-116512.svg) ![forks](https://img.shields.io/github/forks/0xCyp1337/CVE-2026-116512.svg)
 
+## CVE-2026-31431
+> In the Linux kernel, the following vulnerability has been resolved:
+
+crypto: algif_aead - Revert to operating out-of-place
+
+This mostly reverts commit 72548b093ee3 except for the copying of
+the associated data.
+
+There is no benefit in operating in-place in algif_aead since the
+source and destination come from different mappings.  Get rid of
+all the complexity added for in-place operation and just copy the
+AD directly.
+
+- [https://github.com/abiyeenzo/CVE-2026-31431](https://github.com/abiyeenzo/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/abiyeenzo/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/abiyeenzo/CVE-2026-31431.svg)
+
 ## CVE-2026-33439
 
 - [https://github.com/stapat1245/CVE-2026-33439_poc](https://github.com/stapat1245/CVE-2026-33439_poc) : ![starts](https://img.shields.io/github/stars/stapat1245/CVE-2026-33439_poc.svg) ![forks](https://img.shields.io/github/forks/stapat1245/CVE-2026-33439_poc.svg)
