@@ -3513,6 +3513,8 @@ Users are recommended to upgrade to version 2.4.60, which fixes this issue.
 
 - [https://github.com/cesarbtakeda/PP_CVE-2024-38998](https://github.com/cesarbtakeda/PP_CVE-2024-38998) : ![starts](https://img.shields.io/github/stars/cesarbtakeda/PP_CVE-2024-38998.svg) ![forks](https://img.shields.io/github/forks/cesarbtakeda/PP_CVE-2024-38998.svg)
 
+- [https://github.com/c4bsec/PP_CVE-2024-38998](https://github.com/c4bsec/PP_CVE-2024-38998) : ![starts](https://img.shields.io/github/stars/c4bsec/PP_CVE-2024-38998.svg) ![forks](https://img.shields.io/github/forks/c4bsec/PP_CVE-2024-38998.svg)
+
 ## CVE-2024-38856
  Incorrect Authorization vulnerability in Apache OFBiz.
 

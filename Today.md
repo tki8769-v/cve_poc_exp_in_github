@@ -3,6 +3,10 @@
 
 - [https://github.com/r3vpwnx/Webmin-1.910-Exploit-Script](https://github.com/r3vpwnx/Webmin-1.910-Exploit-Script) : ![starts](https://img.shields.io/github/stars/r3vpwnx/Webmin-1.910-Exploit-Script.svg) ![forks](https://img.shields.io/github/forks/r3vpwnx/Webmin-1.910-Exploit-Script.svg)
 
+## CVE-2024-38998
+
+- [https://github.com/c4bsec/PP_CVE-2024-38998](https://github.com/c4bsec/PP_CVE-2024-38998) : ![starts](https://img.shields.io/github/stars/c4bsec/PP_CVE-2024-38998.svg) ![forks](https://img.shields.io/github/forks/c4bsec/PP_CVE-2024-38998.svg)
+
 ## CVE-2025-32433
 
 - [https://github.com/Avinash37402/CVE-2025-32433](https://github.com/Avinash37402/CVE-2025-32433) : ![starts](https://img.shields.io/github/stars/Avinash37402/CVE-2025-32433.svg) ![forks](https://img.shields.io/github/forks/Avinash37402/CVE-2025-32433.svg)

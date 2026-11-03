@@ -8121,3 +8121,7 @@
 {"cve_id": "CVE-2026-67186", "ts": "2026-11-03T03:17:55Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-93753", "ts": "2026-11-03T03:18:31Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-03T03:20:39Z", "type": "new_poc", "url": "https://github.com/Delta-Water/phq110-root"}
+{"cve_id": "CVE-2026-119717", "ts": "2026-11-03T03:33:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-67186", "ts": "2026-11-03T03:35:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-93753", "ts": "2026-11-03T03:36:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-38998", "ts": "2026-11-03T03:47:34Z", "type": "new_poc", "url": "https://github.com/c4bsec/PP_CVE-2024-38998"}
