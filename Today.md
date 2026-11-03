@@ -17,6 +17,23 @@
 
 - [https://github.com/stapat1245/CVE-2026-33439_poc](https://github.com/stapat1245/CVE-2026-33439_poc) : ![starts](https://img.shields.io/github/stars/stapat1245/CVE-2026-33439_poc.svg) ![forks](https://img.shields.io/github/forks/stapat1245/CVE-2026-33439_poc.svg)
 
+## CVE-2026-43499
+> In the Linux kernel, the following vulnerability has been resolved:
+
+rtmutex: Use waiter::task instead of current in remove_waiter()
+
+remove_waiter() is used by the slowlock paths, but it is also used for
+proxy-lock rollback in rt_mutex_start_proxy_lock() when invoked from
+futex_requeue().
+
+In the latter case waiter::task is not current, but remove_waiter()
+operates on current for the dequeue operation. That results in several
+problems:
+
+  1) the rbtree dequeue happens without waiter::task::pi_l
+
+- [https://github.com/Delta-Water/phq110-root](https://github.com/Delta-Water/phq110-root) : ![starts](https://img.shields.io/github/stars/Delta-Water/phq110-root.svg) ![forks](https://img.shields.io/github/forks/Delta-Water/phq110-root.svg)
+
 ## CVE-2026-62911
 
 - [https://github.com/c5z54/cve-2026-62911-poc](https://github.com/c5z54/cve-2026-62911-poc) : ![starts](https://img.shields.io/github/stars/c5z54/cve-2026-62911-poc.svg) ![forks](https://img.shields.io/github/forks/c5z54/cve-2026-62911-poc.svg)

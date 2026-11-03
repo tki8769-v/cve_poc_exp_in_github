@@ -8781,6 +8781,7 @@ Users are recommended to upgrade to version 11.0.24, 10.1.57 or 9.0.120, which f
 - [https://github.com/xiaoqiMikko/tomcat-check](https://github.com/xiaoqiMikko/tomcat-check) : ![starts](https://img.shields.io/github/stars/xiaoqiMikko/tomcat-check.svg) ![forks](https://img.shields.io/github/forks/xiaoqiMikko/tomcat-check.svg)
 
 ## CVE-2026-58882
+> In decodeWapPdu of WapPushOverSms.java, there is a possible out of bounds read due to an integer overflow. This could lead to a remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.
 
 - [https://github.com/Ignema/WapGuard](https://github.com/Ignema/WapGuard) : ![starts](https://img.shields.io/github/stars/Ignema/WapGuard.svg) ![forks](https://img.shields.io/github/forks/Ignema/WapGuard.svg)
 
@@ -13395,6 +13396,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/RetributionByRevenue/motogstylus2023-root](https://github.com/RetributionByRevenue/motogstylus2023-root) : ![starts](https://img.shields.io/github/stars/RetributionByRevenue/motogstylus2023-root.svg) ![forks](https://img.shields.io/github/forks/RetributionByRevenue/motogstylus2023-root.svg)
 
 - [https://github.com/tungmv/IONSTACK-S22E](https://github.com/tungmv/IONSTACK-S22E) : ![starts](https://img.shields.io/github/stars/tungmv/IONSTACK-S22E.svg) ![forks](https://img.shields.io/github/forks/tungmv/IONSTACK-S22E.svg)
+
+- [https://github.com/Delta-Water/phq110-root](https://github.com/Delta-Water/phq110-root) : ![starts](https://img.shields.io/github/stars/Delta-Water/phq110-root.svg) ![forks](https://img.shields.io/github/forks/Delta-Water/phq110-root.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:

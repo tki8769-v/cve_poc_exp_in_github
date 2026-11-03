@@ -8118,3 +8118,6 @@
 {"cve_id": "CVE-2026-98260", "ts": "2026-11-03T03:03:09Z", "type": "new_poc", "url": "https://github.com/YodonTan/cve-2026-98260-harmonyos-applicability"}
 {"cve_id": "CVE-2025-32433", "ts": "2026-11-03T03:03:09Z", "type": "new_poc", "url": "https://github.com/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH"}
 {"cve_id": "CVE-2019-15107", "ts": "2026-11-03T03:13:19Z", "type": "new_poc", "url": "https://github.com/r3vpwnx/Webmin-1.910-Exploit-Script"}
+{"cve_id": "CVE-2026-67186", "ts": "2026-11-03T03:17:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-93753", "ts": "2026-11-03T03:18:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-03T03:20:39Z", "type": "new_poc", "url": "https://github.com/Delta-Water/phq110-root"}
