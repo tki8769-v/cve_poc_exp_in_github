@@ -6156,6 +6156,8 @@ Users of the artifact org.apache.commons:commons-beanutils2
 
 - [https://github.com/butyraldehyde/CVE-2025-48384-PoC-Part2](https://github.com/butyraldehyde/CVE-2025-48384-PoC-Part2) : ![starts](https://img.shields.io/github/stars/butyraldehyde/CVE-2025-48384-PoC-Part2.svg) ![forks](https://img.shields.io/github/forks/butyraldehyde/CVE-2025-48384-PoC-Part2.svg)
 
+- [https://github.com/origabriel/acb-giturl-cve2025](https://github.com/origabriel/acb-giturl-cve2025) : ![starts](https://img.shields.io/github/stars/origabriel/acb-giturl-cve2025.svg) ![forks](https://img.shields.io/github/forks/origabriel/acb-giturl-cve2025.svg)
+
 ## CVE-2025-48148
  Unrestricted Upload of File with Dangerous Type vulnerability in StoreKeeper B.V. StoreKeeper for WooCommerce storekeeper-for-woocommerce allows Using Malicious Files.This issue affects StoreKeeper for WooCommerce: from n/a through = 14.4.4.
 

@@ -5187,6 +5187,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 
 - [https://github.com/YukaFake/malicious-hook](https://github.com/YukaFake/malicious-hook) : ![starts](https://img.shields.io/github/stars/YukaFake/malicious-hook.svg) ![forks](https://img.shields.io/github/forks/YukaFake/malicious-hook.svg)
 
+- [https://github.com/origabriel/acb-giturl-cve2024-windows](https://github.com/origabriel/acb-giturl-cve2024-windows) : ![starts](https://img.shields.io/github/stars/origabriel/acb-giturl-cve2024-windows.svg) ![forks](https://img.shields.io/github/forks/origabriel/acb-giturl-cve2024-windows.svg)
+
 ## CVE-2024-31989
  Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. It has been discovered that an unprivileged pod in a different namespace on the same cluster could connect to the Redis server on port 6379. Despite having installed the latest version of the VPC CNI plugin on the EKS cluster, it requires manual enablement through configuration to enforce network policies. This raises concerns that many clients might unknowingly have open access to their Redis servers. This vulnerability could lead to Privilege Escalation to the level of cluster controller, or to information leakage, affecting anyone who does not have strict access controls on their Redis instance. This issue has been patched in version(s) 2.8.19, 2.9.15 and 2.10.10.
 

@@ -96,6 +96,8 @@
 
 - [https://github.com/BabyMushr00w/CVE-2026-116512](https://github.com/BabyMushr00w/CVE-2026-116512) : ![starts](https://img.shields.io/github/stars/BabyMushr00w/CVE-2026-116512.svg) ![forks](https://img.shields.io/github/forks/BabyMushr00w/CVE-2026-116512.svg)
 
+- [https://github.com/0xCyp1337/CVE-2026-116512](https://github.com/0xCyp1337/CVE-2026-116512) : ![starts](https://img.shields.io/github/stars/0xCyp1337/CVE-2026-116512.svg) ![forks](https://img.shields.io/github/forks/0xCyp1337/CVE-2026-116512.svg)
+
 ## CVE-2026-116488
 > NXP MCUXpresso SDK USB middleware (mcuxsdk-middleware-usb) before 2.13.0 contains a heap buffer overflow in host audio, video and CDC class drivers that trust device-supplied bNumEndpoints and bLength values. A malicious USB device can supply crafted descriptors that write endpoint entries past the fixed-size epList array, corrupting heap memory for code execution or denial of service.
 
@@ -1658,6 +1660,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/godylockz/CVE-2026-109618-109619](https://github.com/godylockz/CVE-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/godylockz/CVE-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/godylockz/CVE-2026-109618-109619.svg)
 
+- [https://github.com/SecOpsLimited/php2shell-finder](https://github.com/SecOpsLimited/php2shell-finder) : ![starts](https://img.shields.io/github/stars/SecOpsLimited/php2shell-finder.svg) ![forks](https://img.shields.io/github/forks/SecOpsLimited/php2shell-finder.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -2903,6 +2907,8 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/lowerpower/cve-2026-98432-mitigation](https://github.com/lowerpower/cve-2026-98432-mitigation) : ![starts](https://img.shields.io/github/stars/lowerpower/cve-2026-98432-mitigation.svg) ![forks](https://img.shields.io/github/forks/lowerpower/cve-2026-98432-mitigation.svg)
 
+- [https://github.com/schnied/cve-2026-98432-mitigation-iptables](https://github.com/schnied/cve-2026-98432-mitigation-iptables) : ![starts](https://img.shields.io/github/stars/schnied/cve-2026-98432-mitigation-iptables.svg) ![forks](https://img.shields.io/github/forks/schnied/cve-2026-98432-mitigation-iptables.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3006,6 +3012,8 @@ but the node is still queued on tsk, which
 - [https://github.com/kailashrs/infinitylock-app](https://github.com/kailashrs/infinitylock-app) : ![starts](https://img.shields.io/github/stars/kailashrs/infinitylock-app.svg) ![forks](https://img.shields.io/github/forks/kailashrs/infinitylock-app.svg)
 
 - [https://github.com/YodonTan/cve-2026-98260-harmonyos-applicability](https://github.com/YodonTan/cve-2026-98260-harmonyos-applicability) : ![starts](https://img.shields.io/github/stars/YodonTan/cve-2026-98260-harmonyos-applicability.svg) ![forks](https://img.shields.io/github/forks/YodonTan/cve-2026-98260-harmonyos-applicability.svg)
+
+- [https://github.com/RMDycz/K80Pro-miro-CVE-2026-98260](https://github.com/RMDycz/K80Pro-miro-CVE-2026-98260) : ![starts](https://img.shields.io/github/stars/RMDycz/K80Pro-miro-CVE-2026-98260.svg) ![forks](https://img.shields.io/github/forks/RMDycz/K80Pro-miro-CVE-2026-98260.svg)
 
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -3572,6 +3580,11 @@ This vulnerability allows an unauthenticated attacker to perform remot
 - [https://github.com/BernydotJar/braces-security-backport](https://github.com/BernydotJar/braces-security-backport) : ![starts](https://img.shields.io/github/stars/BernydotJar/braces-security-backport.svg) ![forks](https://img.shields.io/github/forks/BernydotJar/braces-security-backport.svg)
 
 - [https://github.com/canmenzo/cve-2026-93687-braces](https://github.com/canmenzo/cve-2026-93687-braces) : ![starts](https://img.shields.io/github/stars/canmenzo/cve-2026-93687-braces.svg) ![forks](https://img.shields.io/github/forks/canmenzo/cve-2026-93687-braces.svg)
+
+## CVE-2026-93680
+> IBM Langflow OSS 1.0.0 through 1.12.8 could allow a remote attacker to bypass security restrictions due to improper authentication.
+
+- [https://github.com/rmhowe425/POC-CVE-2026-93680](https://github.com/rmhowe425/POC-CVE-2026-93680) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-93680.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-93680.svg)
 
 ## CVE-2026-93674
 > IBM Langflow OSS 1.0.0 through 1.12.2 could allow a remote attacker to execute arbitrary code due to improper neutralization of special elements used in an OS command.
@@ -4328,6 +4341,7 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 - [https://github.com/0xcrypto/CVE-2026-86881](https://github.com/0xcrypto/CVE-2026-86881) : ![starts](https://img.shields.io/github/stars/0xcrypto/CVE-2026-86881.svg) ![forks](https://img.shields.io/github/forks/0xcrypto/CVE-2026-86881.svg)
 
 ## CVE-2026-86596
+> The s2Member plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, &lt;= 260927 via the &#x27;item_name&#x27; parameter parameter. This is due to insufficient sanitization in strip_php_tags_deep(), which only strips literal &#x27;&lt;?&#x27; sequences, combined with a post-interpolation placeholder cleanup that reassembles a valid &#x27;&lt;?php&#x27; opener after the attacker-controlled value has already been embedded in the email template. This makes it possible for authenticated attacker
 
 - [https://github.com/thiscitze/cve-2026-86596-poc](https://github.com/thiscitze/cve-2026-86596-poc) : ![starts](https://img.shields.io/github/stars/thiscitze/cve-2026-86596-poc.svg) ![forks](https://img.shields.io/github/forks/thiscitze/cve-2026-86596-poc.svg)
 
@@ -8868,6 +8882,10 @@ availability of the application.
  LLaMA-Factory through 0.9.5 contains a remote code execution vulnerability that allows attackers with WebUI access to execute arbitrary Python code by supplying a malicious model path in the Chat or Training interfaces. The application passes user-supplied model path input unvalidated into AutoTokenizer.from_pretrained() and AutoModel.from_pretrained() with a hardcoded trust_remote_code=True parameter, causing the Hugging Face transformers library to fetch and execute arbitrary code from a remote or local model repository with the privileges of the server process.
 
 - [https://github.com/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection](https://github.com/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection) : ![starts](https://img.shields.io/github/stars/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection.svg) ![forks](https://img.shields.io/github/forks/Hunt-Benito/llama-factory-webui-rce-cve-2026-58116-trust-remote-code-model-path-injection.svg)
+
+## CVE-2026-58115
+
+- [https://github.com/foxcornlab/node-red-scanner](https://github.com/foxcornlab/node-red-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/node-red-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/node-red-scanner.svg)
 
 ## CVE-2026-58073
  A vulnerability in Veeam Service Provider Console allowing an unauthenticated attacker to impersonate a managed agent andobtain that agent's credentials.
@@ -32945,6 +32963,8 @@ Users of the artifact org.apache.commons:commons-beanutils2
 
 - [https://github.com/butyraldehyde/CVE-2025-48384-PoC-Part2](https://github.com/butyraldehyde/CVE-2025-48384-PoC-Part2) : ![starts](https://img.shields.io/github/stars/butyraldehyde/CVE-2025-48384-PoC-Part2.svg) ![forks](https://img.shields.io/github/forks/butyraldehyde/CVE-2025-48384-PoC-Part2.svg)
 
+- [https://github.com/origabriel/acb-giturl-cve2025](https://github.com/origabriel/acb-giturl-cve2025) : ![starts](https://img.shields.io/github/stars/origabriel/acb-giturl-cve2025.svg) ![forks](https://img.shields.io/github/forks/origabriel/acb-giturl-cve2025.svg)
+
 ## CVE-2025-48148
  Unrestricted Upload of File with Dangerous Type vulnerability in StoreKeeper B.V. StoreKeeper for WooCommerce storekeeper-for-woocommerce allows Using Malicious Files.This issue affects StoreKeeper for WooCommerce: from n/a through = 14.4.4.
 
@@ -47678,6 +47698,8 @@ Users are recommended to upgrade to version 18.12.13, which fixes the issue.
 - [https://github.com/jolibb55/donald](https://github.com/jolibb55/donald) : ![starts](https://img.shields.io/github/stars/jolibb55/donald.svg) ![forks](https://img.shields.io/github/forks/jolibb55/donald.svg)
 
 - [https://github.com/YukaFake/malicious-hook](https://github.com/YukaFake/malicious-hook) : ![starts](https://img.shields.io/github/stars/YukaFake/malicious-hook.svg) ![forks](https://img.shields.io/github/forks/YukaFake/malicious-hook.svg)
+
+- [https://github.com/origabriel/acb-giturl-cve2024-windows](https://github.com/origabriel/acb-giturl-cve2024-windows) : ![starts](https://img.shields.io/github/stars/origabriel/acb-giturl-cve2024-windows.svg) ![forks](https://img.shields.io/github/forks/origabriel/acb-giturl-cve2024-windows.svg)
 
 ## CVE-2024-31989
  Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. It has been discovered that an unprivileged pod in a different namespace on the same cluster could connect to the Redis server on port 6379. Despite having installed the latest version of the VPC CNI plugin on the EKS cluster, it requires manual enablement through configuration to enforce network policies. This raises concerns that many clients might unknowingly have open access to their Redis servers. This vulnerability could lead to Privilege Escalation to the level of cluster controller, or to information leakage, affecting anyone who does not have strict access controls on their Redis instance. This issue has been patched in version(s) 2.8.19, 2.9.15 and 2.10.10.
@@ -103224,6 +103246,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 - [https://github.com/TheWay-hue/CVE-2017-5689-Checker](https://github.com/TheWay-hue/CVE-2017-5689-Checker) : ![starts](https://img.shields.io/github/stars/TheWay-hue/CVE-2017-5689-Checker.svg) ![forks](https://img.shields.io/github/forks/TheWay-hue/CVE-2017-5689-Checker.svg)
 
 - [https://github.com/aix567/C-A-S](https://github.com/aix567/C-A-S) : ![starts](https://img.shields.io/github/stars/aix567/C-A-S.svg) ![forks](https://img.shields.io/github/forks/aix567/C-A-S.svg)
+
+- [https://github.com/unitnikolai/intel-me-remote-exploit](https://github.com/unitnikolai/intel-me-remote-exploit) : ![starts](https://img.shields.io/github/stars/unitnikolai/intel-me-remote-exploit.svg) ![forks](https://img.shields.io/github/forks/unitnikolai/intel-me-remote-exploit.svg)
 
 ## CVE-2017-5645
  In Apache Log4j 2.x before 2.8.2, when using the TCP socket server or UDP socket server to receive serialized log events from another application, a specially crafted binary payload can be sent that, when deserialized, can execute arbitrary code.

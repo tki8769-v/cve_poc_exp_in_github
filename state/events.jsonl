@@ -8125,3 +8125,15 @@
 {"cve_id": "CVE-2026-67186", "ts": "2026-11-03T03:35:33Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-93753", "ts": "2026-11-03T03:36:13Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2024-38998", "ts": "2026-11-03T03:47:34Z", "type": "new_poc", "url": "https://github.com/c4bsec/PP_CVE-2024-38998"}
+{"cve_id": "CVE-2026-119717", "ts": "2026-11-03T12:49:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-67186", "ts": "2026-11-03T12:51:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-93753", "ts": "2026-11-03T12:51:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-48384", "ts": "2026-11-03T12:54:01Z", "type": "new_poc", "url": "https://github.com/origabriel/acb-giturl-cve2025"}
+{"cve_id": "CVE-2024-32002", "ts": "2026-11-03T12:54:01Z", "type": "new_poc", "url": "https://github.com/origabriel/acb-giturl-cve2024-windows"}
+{"cve_id": "CVE-2026-116512", "ts": "2026-11-03T12:54:01Z", "type": "new_poc", "url": "https://github.com/0xCyp1337/CVE-2026-116512"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-03T12:54:01Z", "type": "new_poc", "url": "https://github.com/schnied/cve-2026-98432-mitigation-iptables"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-03T12:54:02Z", "type": "new_poc", "url": "https://github.com/RMDycz/K80Pro-miro-CVE-2026-98260"}
+{"cve_id": "CVE-2017-5689", "ts": "2026-11-03T12:54:02Z", "type": "new_poc", "url": "https://github.com/unitnikolai/intel-me-remote-exploit"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-03T12:54:02Z", "type": "new_poc", "url": "https://github.com/SecOpsLimited/php2shell-finder"}
+{"cve_id": "CVE-2026-58115", "ts": "2026-11-03T12:54:02Z", "type": "new_poc", "url": "https://github.com/foxcornlab/node-red-scanner"}
+{"cve_id": "CVE-2026-93680", "ts": "2026-11-03T12:57:20Z", "type": "new_poc", "url": "https://github.com/rmhowe425/POC-CVE-2026-93680"}
