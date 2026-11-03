@@ -8104,3 +8104,17 @@
 {"cve_id": "CVE-2026-31431", "ts": "2026-11-02T19:43:25Z", "type": "new_poc", "url": "https://github.com/makitos666/CVE-2026-31431-Copy-Fail-Detection-Toolkit"}
 {"cve_id": "CVE-2026-98432", "ts": "2026-11-02T19:52:09Z", "type": "new_poc", "url": "https://github.com/valkenindustries/cve-2026-98432-mitigation"}
 {"cve_id": "CVE-2026-93753", "ts": "2026-11-02T20:08:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-93753", "ts": "2026-11-03T02:56:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-67186", "ts": "2026-11-03T03:00:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-93753", "ts": "2026-11-03T03:01:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-33439", "ts": "2026-11-03T03:02:59Z", "type": "new_poc", "url": "https://github.com/stapat1245/CVE-2026-33439_poc"}
+{"cve_id": "CVE-2026-62911", "ts": "2026-11-03T03:03:00Z", "type": "new_poc", "url": "https://github.com/c5z54/cve-2026-62911-poc"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-03T03:03:00Z", "type": "new_poc", "url": "https://github.com/IgrekLg/cve-2026-98432-mitigation"}
+{"cve_id": "CVE-2025-41450", "ts": "2026-11-03T03:03:04Z", "type": "new_poc", "url": "https://github.com/GabrieleDattile/CVE-2025-41450-Fromagegate"}
+{"cve_id": "CVE-2026-86596", "ts": "2026-11-03T03:03:04Z", "type": "new_poc", "url": "https://github.com/thiscitze/cve-2026-86596-poc"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-03T03:03:05Z", "type": "new_poc", "url": "https://github.com/GarphenGate/cve-2026-98432-defender-toolkit"}
+{"cve_id": "CVE-2025-32433", "ts": "2026-11-03T03:03:08Z", "type": "new_poc", "url": "https://github.com/Avinash37402/CVE-2025-32433"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-03T03:03:08Z", "type": "new_poc", "url": "https://github.com/lowerpower/cve-2026-98432-mitigation"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-03T03:03:09Z", "type": "new_poc", "url": "https://github.com/YodonTan/cve-2026-98260-harmonyos-applicability"}
+{"cve_id": "CVE-2025-32433", "ts": "2026-11-03T03:03:09Z", "type": "new_poc", "url": "https://github.com/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH"}
+{"cve_id": "CVE-2019-15107", "ts": "2026-11-03T03:13:19Z", "type": "new_poc", "url": "https://github.com/r3vpwnx/Webmin-1.910-Exploit-Script"}

@@ -2896,6 +2896,12 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/valkenindustries/cve-2026-98432-mitigation](https://github.com/valkenindustries/cve-2026-98432-mitigation) : ![starts](https://img.shields.io/github/stars/valkenindustries/cve-2026-98432-mitigation.svg) ![forks](https://img.shields.io/github/forks/valkenindustries/cve-2026-98432-mitigation.svg)
 
+- [https://github.com/GarphenGate/cve-2026-98432-defender-toolkit](https://github.com/GarphenGate/cve-2026-98432-defender-toolkit) : ![starts](https://img.shields.io/github/stars/GarphenGate/cve-2026-98432-defender-toolkit.svg) ![forks](https://img.shields.io/github/forks/GarphenGate/cve-2026-98432-defender-toolkit.svg)
+
+- [https://github.com/IgrekLg/cve-2026-98432-mitigation](https://github.com/IgrekLg/cve-2026-98432-mitigation) : ![starts](https://img.shields.io/github/stars/IgrekLg/cve-2026-98432-mitigation.svg) ![forks](https://img.shields.io/github/forks/IgrekLg/cve-2026-98432-mitigation.svg)
+
+- [https://github.com/lowerpower/cve-2026-98432-mitigation](https://github.com/lowerpower/cve-2026-98432-mitigation) : ![starts](https://img.shields.io/github/stars/lowerpower/cve-2026-98432-mitigation.svg) ![forks](https://img.shields.io/github/forks/lowerpower/cve-2026-98432-mitigation.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -2997,6 +3003,8 @@ but the node is still queued on tsk, which
 - [https://github.com/LinXing0926/GhostCred](https://github.com/LinXing0926/GhostCred) : ![starts](https://img.shields.io/github/stars/LinXing0926/GhostCred.svg) ![forks](https://img.shields.io/github/forks/LinXing0926/GhostCred.svg)
 
 - [https://github.com/kailashrs/infinitylock-app](https://github.com/kailashrs/infinitylock-app) : ![starts](https://img.shields.io/github/stars/kailashrs/infinitylock-app.svg) ![forks](https://img.shields.io/github/forks/kailashrs/infinitylock-app.svg)
+
+- [https://github.com/YodonTan/cve-2026-98260-harmonyos-applicability](https://github.com/YodonTan/cve-2026-98260-harmonyos-applicability) : ![starts](https://img.shields.io/github/stars/YodonTan/cve-2026-98260-harmonyos-applicability.svg) ![forks](https://img.shields.io/github/forks/YodonTan/cve-2026-98260-harmonyos-applicability.svg)
 
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -4317,6 +4325,10 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 > A certificate validation issue was addressed with improved certificate validation. This issue is fixed in iOS 26.7 and iPadOS 26.7, iOS 27 and iPadOS 27, macOS Golden Gate 27, macOS Sequoia 15.8, macOS Tahoe 26.7, tvOS 27, visionOS 27, watchOS 27. An attacker with a compromised intermediate certificate authority may be able to issue certificates with arbitrary extended key usages.
 
 - [https://github.com/0xcrypto/CVE-2026-86881](https://github.com/0xcrypto/CVE-2026-86881) : ![starts](https://img.shields.io/github/stars/0xcrypto/CVE-2026-86881.svg) ![forks](https://img.shields.io/github/forks/0xcrypto/CVE-2026-86881.svg)
+
+## CVE-2026-86596
+
+- [https://github.com/thiscitze/cve-2026-86596-poc](https://github.com/thiscitze/cve-2026-86596-poc) : ![starts](https://img.shields.io/github/stars/thiscitze/cve-2026-86596-poc.svg) ![forks](https://img.shields.io/github/forks/thiscitze/cve-2026-86596-poc.svg)
 
 ## CVE-2026-86595
 > Improper neutralization of special elements used in an SQL command (&#x27;SQL injection&#x27;) vulnerability in Iron Mountain Archiving Services Inc. EnVision allows SQL Injection.
@@ -8279,6 +8291,8 @@ Users are advised to upgrade to Apache InLong's  2.4.0 or cherry-pick [1] to sol
 - [https://github.com/bhavik08-gone/CVE-2026-62911-info](https://github.com/bhavik08-gone/CVE-2026-62911-info) : ![starts](https://img.shields.io/github/stars/bhavik08-gone/CVE-2026-62911-info.svg) ![forks](https://img.shields.io/github/forks/bhavik08-gone/CVE-2026-62911-info.svg)
 
 - [https://github.com/fahise/cve-2026-62911](https://github.com/fahise/cve-2026-62911) : ![starts](https://img.shields.io/github/stars/fahise/cve-2026-62911.svg) ![forks](https://img.shields.io/github/forks/fahise/cve-2026-62911.svg)
+
+- [https://github.com/c5z54/cve-2026-62911-poc](https://github.com/c5z54/cve-2026-62911-poc) : ![starts](https://img.shields.io/github/stars/c5z54/cve-2026-62911-poc.svg) ![forks](https://img.shields.io/github/forks/c5z54/cve-2026-62911-poc.svg)
 
 ## CVE-2026-62878
  Stack-based buffer overflow in Windows DNS allows an unauthorized attacker to execute code over a network.
@@ -16432,6 +16446,8 @@ Users are recommended to upgrade to version 4.18.1 or 4.19.0, fixing the issue.
 - [https://github.com/amis13/openam-clean](https://github.com/amis13/openam-clean) : ![starts](https://img.shields.io/github/stars/amis13/openam-clean.svg) ![forks](https://img.shields.io/github/forks/amis13/openam-clean.svg)
 
 - [https://github.com/TeoVMP/CVE-2026-33439](https://github.com/TeoVMP/CVE-2026-33439) : ![starts](https://img.shields.io/github/stars/TeoVMP/CVE-2026-33439.svg) ![forks](https://img.shields.io/github/forks/TeoVMP/CVE-2026-33439.svg)
+
+- [https://github.com/stapat1245/CVE-2026-33439_poc](https://github.com/stapat1245/CVE-2026-33439_poc) : ![starts](https://img.shields.io/github/stars/stapat1245/CVE-2026-33439_poc.svg) ![forks](https://img.shields.io/github/forks/stapat1245/CVE-2026-33439_poc.svg)
 
 ## CVE-2026-33340
  LoLLMs WEBUI provides the Web user interface for Lord of Large Language and Multi modal Systems. A critical Server-Side Request Forgery (SSRF) vulnerability has been identified in all known existing versions of `lollms-webui`. The `@router.post("/api/proxy")` endpoint allows unauthenticated attackers to force the server into making arbitrary GET requests. This can be exploited to access internal services, scan local networks, or exfiltrate sensitive cloud metadata (e.g., AWS/GCP IAM tokens). As of time of publication, no known patched versions are available.

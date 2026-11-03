@@ -1472,6 +1472,8 @@ use after free.
 
 - [https://github.com/foreverlanterns/secure-api-cve-2019-15107](https://github.com/foreverlanterns/secure-api-cve-2019-15107) : ![starts](https://img.shields.io/github/stars/foreverlanterns/secure-api-cve-2019-15107.svg) ![forks](https://img.shields.io/github/forks/foreverlanterns/secure-api-cve-2019-15107.svg)
 
+- [https://github.com/r3vpwnx/Webmin-1.910-Exploit-Script](https://github.com/r3vpwnx/Webmin-1.910-Exploit-Script) : ![starts](https://img.shields.io/github/stars/r3vpwnx/Webmin-1.910-Exploit-Script.svg) ![forks](https://img.shields.io/github/forks/r3vpwnx/Webmin-1.910-Exploit-Script.svg)
+
 ## CVE-2019-15053
  The "HTML Include and replace macro" plugin before 1.5.0 for Confluence Server allows a bypass of the includeScripts=false XSS protection mechanism via vectors involving an IFRAME element.
 

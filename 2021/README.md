@@ -7669,6 +7669,7 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/zer0qs/CVE-2021-41773](https://github.com/zer0qs/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/zer0qs/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/zer0qs/CVE-2021-41773.svg)
 
 ## CVE-2021-4173
+> vim is vulnerable to Use After Free
 
 - [https://github.com/yezeting/CVE-2021-41730](https://github.com/yezeting/CVE-2021-41730) : ![starts](https://img.shields.io/github/stars/yezeting/CVE-2021-41730.svg) ![forks](https://img.shields.io/github/forks/yezeting/CVE-2021-41730.svg)
 
