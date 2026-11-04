@@ -4507,6 +4507,8 @@ Adopt appropriate SMB Server hardening measures.
 
 - [https://github.com/bytesAIren/THM_Corp_Website_CTF](https://github.com/bytesAIren/THM_Corp_Website_CTF) : ![starts](https://img.shields.io/github/stars/bytesAIren/THM_Corp_Website_CTF.svg) ![forks](https://img.shields.io/github/forks/bytesAIren/THM_Corp_Website_CTF.svg)
 
+- [https://github.com/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-](https://github.com/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-) : ![starts](https://img.shields.io/github/stars/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-.svg) ![forks](https://img.shields.io/github/forks/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-.svg)
+
 ## CVE-2025-55177
  Incomplete authorization of linked device synchronization messages in WhatsApp for iOS prior to v2.25.21.73, WhatsApp Business for iOS v2.25.21.78, and WhatsApp for Mac v2.25.21.78 could have allowed an unrelated user to trigger processing of content from an arbitrary URL on a target’s device. We assess that this vulnerability, in combination with an OS-level vulnerability on Apple platforms (CVE-2025-43300), may have been exploited in a sophisticated attack against specific targeted users.
 

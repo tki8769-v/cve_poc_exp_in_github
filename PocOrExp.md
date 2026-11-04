@@ -361,6 +361,11 @@ On an affected system, any authenticated user can gain operator privileges and m
 
 - [https://github.com/Lak453/CVE-2026-112705-poc](https://github.com/Lak453/CVE-2026-112705-poc) : ![starts](https://img.shields.io/github/stars/Lak453/CVE-2026-112705-poc.svg) ![forks](https://img.shields.io/github/forks/Lak453/CVE-2026-112705-poc.svg)
 
+## CVE-2026-112689
+> An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2, tvOS 27.2. An app may be able to cause unexpected system termination or corrupt kernel memory.
+
+- [https://github.com/Lak453/CVE-2026-112689-poc](https://github.com/Lak453/CVE-2026-112689-poc) : ![starts](https://img.shields.io/github/stars/Lak453/CVE-2026-112689-poc.svg) ![forks](https://img.shields.io/github/forks/Lak453/CVE-2026-112689-poc.svg)
+
 ## CVE-2026-112688
 > A memory corruption issue was addressed with improved memory handling. This issue is fixed in iOS 26.7 and iPadOS 26.7, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. Parsing a file may lead to an unexpected app termination or arbitrary code execution.
 
@@ -1670,6 +1675,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) : ![starts](https://img.shields.io/github/stars/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg) ![forks](https://img.shields.io/github/forks/emc-kk/php2shell-CVE-2026-109618-CVE-2026-109619-PoC.svg)
 
+- [https://github.com/Danyw24/the-php2shell-recipe](https://github.com/Danyw24/the-php2shell-recipe) : ![starts](https://img.shields.io/github/stars/Danyw24/the-php2shell-recipe.svg) ![forks](https://img.shields.io/github/forks/Danyw24/the-php2shell-recipe.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -2924,6 +2931,10 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/muhammedemintombak/pardus21-cve-2026-98432](https://github.com/muhammedemintombak/pardus21-cve-2026-98432) : ![starts](https://img.shields.io/github/stars/muhammedemintombak/pardus21-cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/muhammedemintombak/pardus21-cve-2026-98432.svg)
 
+- [https://github.com/hdp1972be-svg/cve_2026_98432_guard](https://github.com/hdp1972be-svg/cve_2026_98432_guard) : ![starts](https://img.shields.io/github/stars/hdp1972be-svg/cve_2026_98432_guard.svg) ![forks](https://img.shields.io/github/forks/hdp1972be-svg/cve_2026_98432_guard.svg)
+
+- [https://github.com/zenjabba/cve-2026-98432-mitigation](https://github.com/zenjabba/cve-2026-98432-mitigation) : ![starts](https://img.shields.io/github/stars/zenjabba/cve-2026-98432-mitigation.svg) ![forks](https://img.shields.io/github/forks/zenjabba/cve-2026-98432-mitigation.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3779,6 +3790,13 @@ The specific flaw exists within the authentication mechanism controlling access 
 The specific flaw exists within the parsing of mDNS resource records. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a heap-based buffer. An attacker can leverage this vulner
 
 - [https://github.com/do4choo/CVE-2026-92208_remote_mDNS_overflow](https://github.com/do4choo/CVE-2026-92208_remote_mDNS_overflow) : ![starts](https://img.shields.io/github/stars/do4choo/CVE-2026-92208_remote_mDNS_overflow.svg) ![forks](https://img.shields.io/github/forks/do4choo/CVE-2026-92208_remote_mDNS_overflow.svg)
+
+## CVE-2026-92183
+> GIMP APNG File Parsing Stack-based Buffer Overflow Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of GIMP. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.
+
+The specific flaw exists within the parsing of APNG files. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a st
+
+- [https://github.com/CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept](https://github.com/CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept) : ![starts](https://img.shields.io/github/stars/CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept.svg) ![forks](https://img.shields.io/github/forks/CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept.svg)
 
 ## CVE-2026-92162
 > Flatpak is a system for building, distributing, and running sandboxed desktop applications on Linux. Prior to version 1.18.1, on systems where at least one OCI remote is configured (most common on Fedora systems), a malicious local user in an active local session could use a crafted architecture name to trick the `flatpak-system-helper` process into creating a root-owned directory tree with contents determined by the OCI remote, plus a root-owned `lock` file and `icons` directory, outside the in
@@ -5204,6 +5222,21 @@ upgraded, as i915 does for its read-only objects and as fixed in drm/vc4
 (CVE-2026-68445) and drm/panthor (CVE-2024-53071).
 
 - [https://github.com/suruurism/cve-writeups-and-pocs](https://github.com/suruurism/cve-writeups-and-pocs) : ![starts](https://img.shields.io/github/stars/suruurism/cve-writeups-and-pocs.svg) ![forks](https://img.shields.io/github/forks/suruurism/cve-writeups-and-pocs.svg)
+
+## CVE-2026-80587
+> In the Linux kernel, the following vulnerability has been resolved:
+
+mptcp: avoid combining some incoming suboptions
+
+Some MPTCP suboptions are mutually exclusive according to the RFC8684,
+but also because in different places, the code doesn&#x27;t expect some
+combinations to be present. That&#x27;s specially true for suboptions that
+would be present twice, but with different attributes.
+
+The new restrictions are the same as the ones applied on the output
+side, with mptcp_write_options. The same rules can
+
+- [https://github.com/9technologygroup/cve-2026-80587-check](https://github.com/9technologygroup/cve-2026-80587-check) : ![starts](https://img.shields.io/github/stars/9technologygroup/cve-2026-80587-check.svg) ![forks](https://img.shields.io/github/forks/9technologygroup/cve-2026-80587-check.svg)
 
 ## CVE-2026-80521
  In the Linux kernel, the following vulnerability has been resolved:
@@ -22401,6 +22434,9 @@ Note: This vulnerability is only exploitable when binutils is built with the DLX
 - [https://github.com/flenz00/CVE-2026-18110-PoC](https://github.com/flenz00/CVE-2026-18110-PoC) : ![starts](https://img.shields.io/github/stars/flenz00/CVE-2026-18110-PoC.svg) ![forks](https://img.shields.io/github/forks/flenz00/CVE-2026-18110-PoC.svg)
 
 ## CVE-2026-18107
+> A flaw was found in CRIU&#x27;s handling of restartable sequences (rseq) during checkpoint/restore. A malicious process inside a container can register an rseq critical section that hijacks CRIU&#x27;s parasite code injection during checkpoint, allowing it to spoof the process credentials saved in the checkpoint image. On restore, the container process gains elevated capabilities and zeroed UIDs/GIDs.
+
+The practical impact on Red Hat products is limited by several factors: checkpoint/restore requires root
 
 - [https://github.com/robalb/criu-exploit](https://github.com/robalb/criu-exploit) : ![starts](https://img.shields.io/github/stars/robalb/criu-exploit.svg) ![forks](https://img.shields.io/github/forks/robalb/criu-exploit.svg)
 
@@ -31336,6 +31372,8 @@ Adopt appropriate SMB Server hardening measures.
 - [https://github.com/0xRAM-bit/CVE-2025-55182](https://github.com/0xRAM-bit/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/0xRAM-bit/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/0xRAM-bit/CVE-2025-55182.svg)
 
 - [https://github.com/bytesAIren/THM_Corp_Website_CTF](https://github.com/bytesAIren/THM_Corp_Website_CTF) : ![starts](https://img.shields.io/github/stars/bytesAIren/THM_Corp_Website_CTF.svg) ![forks](https://img.shields.io/github/forks/bytesAIren/THM_Corp_Website_CTF.svg)
+
+- [https://github.com/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-](https://github.com/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-) : ![starts](https://img.shields.io/github/stars/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-.svg) ![forks](https://img.shields.io/github/forks/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-.svg)
 
 ## CVE-2025-55177
  Incomplete authorization of linked device synchronization messages in WhatsApp for iOS prior to v2.25.21.73, WhatsApp Business for iOS v2.25.21.78, and WhatsApp for Mac v2.25.21.78 could have allowed an unrelated user to trigger processing of content from an arbitrary URL on a target’s device. We assess that this vulnerability, in combination with an OS-level vulnerability on Apple platforms (CVE-2025-43300), may have been exploited in a sophisticated attack against specific targeted users.
@@ -50136,6 +50174,8 @@ at least version 7.4.0 and 7.2.0 through 7.2.6 and 7.0.1 through 7.0.6 and 6.4.5
 - [https://github.com/Sn0wBaall/CVE-2024-23334-PoC](https://github.com/Sn0wBaall/CVE-2024-23334-PoC) : ![starts](https://img.shields.io/github/stars/Sn0wBaall/CVE-2024-23334-PoC.svg) ![forks](https://img.shields.io/github/forks/Sn0wBaall/CVE-2024-23334-PoC.svg)
 
 - [https://github.com/JohnnyWang108/hdu-is-lab1-secure-api](https://github.com/JohnnyWang108/hdu-is-lab1-secure-api) : ![starts](https://img.shields.io/github/stars/JohnnyWang108/hdu-is-lab1-secure-api.svg) ![forks](https://img.shields.io/github/forks/JohnnyWang108/hdu-is-lab1-secure-api.svg)
+
+- [https://github.com/frogb1t/CVE-2024-23334](https://github.com/frogb1t/CVE-2024-23334) : ![starts](https://img.shields.io/github/stars/frogb1t/CVE-2024-23334.svg) ![forks](https://img.shields.io/github/forks/frogb1t/CVE-2024-23334.svg)
 
 ## CVE-2024-23298
  A logic issue was addressed with improved state management. This issue is fixed in Xcode 15.3. An app may bypass Gatekeeper checks.
@@ -82711,6 +82751,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/axisops/CVE-2021-4034](https://github.com/axisops/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/axisops/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/axisops/CVE-2021-4034.svg)
 
 - [https://github.com/caviartank21/CVE-2021-4034](https://github.com/caviartank21/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/caviartank21/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/caviartank21/CVE-2021-4034.svg)
+
+- [https://github.com/eshkoreee/CVE-2021-4034](https://github.com/eshkoreee/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/eshkoreee/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/eshkoreee/CVE-2021-4034.svg)
 
 ## CVE-2021-3975
  A use-after-free flaw was found in libvirt. The qemuMonitorUnregister() function in qemuProcessHandleMonitorEOF is called using multiple threads without being adequately protected by a monitor lock. This flaw could be triggered by the virConnectGetAllDomainStats API when the guest is shutting down. An unprivileged client with a read-only connection could use this flaw to perform a denial of service attack by causing the libvirt daemon to crash.

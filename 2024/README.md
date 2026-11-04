@@ -7602,6 +7602,8 @@ at least version 7.4.0 and 7.2.0 through 7.2.6 and 7.0.1 through 7.0.6 and 6.4.5
 
 - [https://github.com/JohnnyWang108/hdu-is-lab1-secure-api](https://github.com/JohnnyWang108/hdu-is-lab1-secure-api) : ![starts](https://img.shields.io/github/stars/JohnnyWang108/hdu-is-lab1-secure-api.svg) ![forks](https://img.shields.io/github/forks/JohnnyWang108/hdu-is-lab1-secure-api.svg)
 
+- [https://github.com/frogb1t/CVE-2024-23334](https://github.com/frogb1t/CVE-2024-23334) : ![starts](https://img.shields.io/github/stars/frogb1t/CVE-2024-23334.svg) ![forks](https://img.shields.io/github/forks/frogb1t/CVE-2024-23334.svg)
+
 ## CVE-2024-23298
  A logic issue was addressed with improved state management. This issue is fixed in Xcode 15.3. An app may bypass Gatekeeper checks.
 
