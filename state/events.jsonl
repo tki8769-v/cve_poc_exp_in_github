@@ -8178,3 +8178,9 @@
 {"cve_id": "CVE-2026-59795", "ts": "2026-11-04T01:43:47Z", "type": "new_poc", "url": "https://github.com/JoakimBulow/CVE-2026-59795"}
 {"cve_id": "CVE-2009-4496", "ts": "2026-11-04T01:43:50Z", "type": "new_poc", "url": "https://github.com/enriquenegri-cyberlaw/boa-webserver-log-escape-injection-cve-2009-4496"}
 {"cve_id": "CVE-2026-20687", "ts": "2026-11-04T01:43:57Z", "type": "new_poc", "url": "https://github.com/hidra0x/hidra"}
+{"cve_id": "CVE-2025-60676", "ts": "2026-11-04T01:54:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-28531", "ts": "2026-11-04T01:58:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-61496", "ts": "2026-11-04T01:59:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63492", "ts": "2026-11-04T01:59:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63494", "ts": "2026-11-04T01:59:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99217", "ts": "2026-11-04T02:00:45Z", "type": "cve_rejected"}
