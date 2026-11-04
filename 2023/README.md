@@ -4099,6 +4099,8 @@ prior to
 
 - [https://github.com/vtemlabs/imaging](https://github.com/vtemlabs/imaging) : ![starts](https://img.shields.io/github/stars/vtemlabs/imaging.svg) ![forks](https://img.shields.io/github/forks/vtemlabs/imaging.svg)
 
+- [https://github.com/klphp/imaging](https://github.com/klphp/imaging) : ![starts](https://img.shields.io/github/stars/klphp/imaging.svg) ![forks](https://img.shields.io/github/forks/klphp/imaging.svg)
+
 ## CVE-2023-36281
  An issue in langchain v.0.0.171 allows a remote attacker to execute arbitrary code via a JSON file to load_prompt. This is related to __subclasses__ or a template.
 

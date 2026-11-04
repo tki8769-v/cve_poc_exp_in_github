@@ -4680,6 +4680,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/redrays-io/CVE-2021-33690](https://github.com/redrays-io/CVE-2021-33690) : ![starts](https://img.shields.io/github/stars/redrays-io/CVE-2021-33690.svg) ![forks](https://img.shields.io/github/forks/redrays-io/CVE-2021-33690.svg)
 
+## CVE-2021-33644
+
+- [https://github.com/nicklondal/libtar-CVE-2021-33644-followup](https://github.com/nicklondal/libtar-CVE-2021-33644-followup) : ![starts](https://img.shields.io/github/stars/nicklondal/libtar-CVE-2021-33644-followup.svg) ![forks](https://img.shields.io/github/forks/nicklondal/libtar-CVE-2021-33644-followup.svg)
+
 ## CVE-2021-33624
  In kernel/bpf/verifier.c in the Linux kernel before 5.12.13, a branch can be mispredicted (e.g., because of type confusion) and consequently an unprivileged BPF program can read arbitrary memory locations via a side-channel attack, aka CID-9183671af6db.
 

@@ -8184,3 +8184,31 @@
 {"cve_id": "CVE-2026-63492", "ts": "2026-11-04T01:59:41Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-63494", "ts": "2026-11-04T01:59:42Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-99217", "ts": "2026-11-04T02:00:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-60676", "ts": "2026-11-04T12:59:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-28531", "ts": "2026-11-04T13:05:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-61496", "ts": "2026-11-04T13:06:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63492", "ts": "2026-11-04T13:06:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63494", "ts": "2026-11-04T13:06:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99217", "ts": "2026-11-04T13:07:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-86596", "ts": "2026-11-04T13:10:58Z", "type": "new_poc", "url": "https://github.com/Aureels/CVE-2026-86596"}
+{"cve_id": "CVE-2026-119977", "ts": "2026-11-04T13:10:58Z", "type": "new_poc", "url": "https://github.com/lysophavin18/CVE-2026-119977"}
+{"cve_id": "CVE-2026-10795", "ts": "2026-11-04T13:10:59Z", "type": "new_poc", "url": "https://github.com/T54R/CVE-2026-10795_POC"}
+{"cve_id": "CVE-2021-33644", "ts": "2026-11-04T13:10:59Z", "type": "new_poc", "url": "https://github.com/nicklondal/libtar-CVE-2021-33644-followup"}
+{"cve_id": "CVE-2026-97798", "ts": "2026-11-04T13:10:59Z", "type": "new_poc", "url": "https://github.com/0xBlackash/CVE-2026-97798"}
+{"cve_id": "CVE-2022-23943", "ts": "2026-11-04T13:10:59Z", "type": "new_poc", "url": "https://github.com/rwmicro/CVE-2022-23943"}
+{"cve_id": "CVE-2026-58115", "ts": "2026-11-04T13:11:00Z", "type": "new_poc", "url": "https://github.com/al4n4n/CVE-2026-58115"}
+{"cve_id": "CVE-2025-32463", "ts": "2026-11-04T13:11:00Z", "type": "new_poc", "url": "https://github.com/roock3t/CVE-2025-32463"}
+{"cve_id": "CVE-2026-110186", "ts": "2026-11-04T13:11:00Z", "type": "new_poc", "url": "https://github.com/al4n4n/CVE-2026-110186"}
+{"cve_id": "CVE-2022-21675", "ts": "2026-11-04T13:11:00Z", "type": "new_poc", "url": "https://github.com/themd-me/CVE-2022-21675"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-04T13:11:00Z", "type": "new_poc", "url": "https://github.com/downitch/CVE-2026-98432_poc"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-04T13:11:01Z", "type": "new_poc", "url": "https://github.com/t-kishida001/CVE-2026-98432-check"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-04T13:11:01Z", "type": "new_poc", "url": "https://github.com/t0ge-kun/CVE-2026-98432-check"}
+{"cve_id": "CVE-2026-21440", "ts": "2026-11-04T13:11:01Z", "type": "new_poc", "url": "https://github.com/Rui0828/CVE-2026-21440-adonisjs-bodyparser"}
+{"cve_id": "CVE-2026-56190", "ts": "2026-11-04T13:11:01Z", "type": "new_poc", "url": "https://github.com/danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chain"}
+{"cve_id": "CVE-2026-56190", "ts": "2026-11-04T13:11:02Z", "type": "new_poc", "url": "https://github.com/danarhirany300-ctrl/CVE-2026-56190-Full-RCE-Chainn"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-04T13:11:02Z", "type": "new_poc", "url": "https://github.com/okumura-pico/php-7.2.11-cve-2026-109618-fix"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-04T13:11:02Z", "type": "new_poc", "url": "https://github.com/catscarlet/php-fpm-docker-PHP-8.0-CVE-2026-109618-109619-patched"}
+{"cve_id": "CVE-2023-36308", "ts": "2026-11-04T13:11:02Z", "type": "new_poc", "url": "https://github.com/klphp/imaging"}
+{"cve_id": "CVE-2024-3094", "ts": "2026-11-04T13:11:02Z", "type": "new_poc", "url": "https://github.com/Skytheguy7/xz-utils-case-study"}
+{"cve_id": "CVE-2026-119977", "ts": "2026-11-04T13:11:03Z", "type": "new_poc", "url": "https://github.com/foxcornlab/wordpress-core-scanner"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-04T13:11:15Z", "type": "new_poc", "url": "https://github.com/Delta-Water/CVE-2026-43499-phq110-root"}

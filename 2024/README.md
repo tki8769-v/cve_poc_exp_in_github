@@ -11887,6 +11887,8 @@ Through a series of complex obfuscations, the liblzma build process extracts a p
 
 - [https://github.com/axisops/CVE-2024-3094](https://github.com/axisops/CVE-2024-3094) : ![starts](https://img.shields.io/github/stars/axisops/CVE-2024-3094.svg) ![forks](https://img.shields.io/github/forks/axisops/CVE-2024-3094.svg)
 
+- [https://github.com/Skytheguy7/xz-utils-case-study](https://github.com/Skytheguy7/xz-utils-case-study) : ![starts](https://img.shields.io/github/stars/Skytheguy7/xz-utils-case-study.svg) ![forks](https://img.shields.io/github/forks/Skytheguy7/xz-utils-case-study.svg)
+
 ## CVE-2024-2997
  A vulnerability was found in Bdtask Multi-Store Inventory Management System up to 20240320. It has been declared as problematic. Affected by this vulnerability is an unknown functionality. The manipulation of the argument Category Name/Model Name/Brand Name/Unit Name leads to cross site scripting. The attack can be launched remotely. The exploit has been disclosed to the public and may be used. The associated identifier of this vulnerability is VDB-258199. NOTE: The vendor was contacted early about this disclosure but did not respond in any way.
 
