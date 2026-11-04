@@ -8264,3 +8264,8 @@
 {"cve_id": "CVE-2026-95209", "ts": "2026-11-04T20:46:38Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-121803", "ts": "2026-11-04T20:48:42Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-95209", "ts": "2026-11-04T20:49:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-04T21:02:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-04T21:03:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-04T21:05:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-04T21:06:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-04T21:07:59Z", "type": "new_poc", "url": "https://github.com/moatome/CVE-2026-98432-pen-test"}

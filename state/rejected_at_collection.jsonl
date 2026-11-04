@@ -2951,3 +2951,4 @@
 {"cve_id": "CVE-2021-4422", "reason": "prefix_conflict_evidenced", "ts": "2026-11-04T13:45:56Z", "url": "https://github.com/snatalius/log4j2-CVE-2021-44228-poc-local", "url_ids": ["CVE-2021-44228"]}
 {"cve_id": "CVE-2023-4278", "reason": "prefix_conflict_evidenced", "ts": "2026-11-04T20:37:40Z", "url": "https://github.com/jhonnybonny/CVE-2023-42789", "url_ids": ["CVE-2023-42789"]}
 {"cve_id": "CVE-2026-6173", "reason": "prefix_conflict_evidenced", "ts": "2026-11-04T20:52:54Z", "url": "https://github.com/InertFluid/cve-2026-61732-lab", "url_ids": ["CVE-2026-61732"]}
+{"cve_id": "CVE-2026-3494", "reason": "prefix_conflict_evidenced", "ts": "2026-11-04T21:15:12Z", "url": "https://github.com/romain-deperne/CVE-2026-34940", "url_ids": ["CVE-2026-34940"]}

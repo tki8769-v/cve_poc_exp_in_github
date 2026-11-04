@@ -2981,6 +2981,8 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/cybervenom01/Mitigation_CVE-2026-98432](https://github.com/cybervenom01/Mitigation_CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/cybervenom01/Mitigation_CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/cybervenom01/Mitigation_CVE-2026-98432.svg)
 
+- [https://github.com/moatome/CVE-2026-98432-pen-test](https://github.com/moatome/CVE-2026-98432-pen-test) : ![starts](https://img.shields.io/github/stars/moatome/CVE-2026-98432-pen-test.svg) ![forks](https://img.shields.io/github/forks/moatome/CVE-2026-98432-pen-test.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
