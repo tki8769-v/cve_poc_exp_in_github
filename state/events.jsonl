@@ -8260,3 +8260,7 @@
 {"cve_id": "CVE-2026-43284", "ts": "2026-11-04T20:33:26Z", "type": "new_poc", "url": "https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-11-04T20:33:26Z", "type": "new_poc", "url": "https://github.com/ncpz/cloudflare-php-ctf-research"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-04T20:33:26Z", "type": "new_poc", "url": "https://github.com/heikeyangle-code/mi11-venus-temproot"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-04T20:45:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-04T20:46:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-04T20:48:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-04T20:49:49Z", "type": "cve_rejected"}
