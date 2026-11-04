@@ -3067,6 +3067,8 @@ but the node is still queued on tsk, which
 
 - [https://github.com/ashir6892/Rootline](https://github.com/ashir6892/Rootline) : ![starts](https://img.shields.io/github/stars/ashir6892/Rootline.svg) ![forks](https://img.shields.io/github/forks/ashir6892/Rootline.svg)
 
+- [https://github.com/Yunnijian/OnePlus16-Jailbreak](https://github.com/Yunnijian/OnePlus16-Jailbreak) : ![starts](https://img.shields.io/github/stars/Yunnijian/OnePlus16-Jailbreak.svg) ![forks](https://img.shields.io/github/forks/Yunnijian/OnePlus16-Jailbreak.svg)
+
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -5552,6 +5554,10 @@ This issue affects Pardus LightDM Greeter: before 0.4.15.
 ## CVE-2026-78823
 
 - [https://github.com/saykino/CVE-2026-78823](https://github.com/saykino/CVE-2026-78823) : ![starts](https://img.shields.io/github/stars/saykino/CVE-2026-78823.svg) ![forks](https://img.shields.io/github/forks/saykino/CVE-2026-78823.svg)
+
+## CVE-2026-78818
+
+- [https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce](https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce) : ![starts](https://img.shields.io/github/stars/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce.svg) ![forks](https://img.shields.io/github/forks/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce.svg)
 
 ## CVE-2026-78745
  An issue in HiDPT/ Weyon HiDPTAndroid Hi3751V350 Hi3751V352E_DMO allows a remote attacker to execute arbitrary code via the Android Debug Bridge (ADB) daemon (adbd)

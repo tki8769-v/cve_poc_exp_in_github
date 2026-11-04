@@ -8224,3 +8224,15 @@
 {"cve_id": "CVE-2026-99217", "ts": "2026-11-04T13:32:11Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-98260", "ts": "2026-11-04T13:36:31Z", "type": "new_poc", "url": "https://github.com/ashir6892/Rootline"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-04T13:36:31Z", "type": "new_poc", "url": "https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152"}
+{"cve_id": "CVE-2025-60676", "ts": "2026-11-04T13:48:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-103429", "ts": "2026-11-04T13:49:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107916", "ts": "2026-11-04T13:49:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108516", "ts": "2026-11-04T13:49:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111085", "ts": "2026-11-04T13:49:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-28531", "ts": "2026-11-04T13:55:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-61496", "ts": "2026-11-04T13:56:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63492", "ts": "2026-11-04T13:56:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63494", "ts": "2026-11-04T13:56:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99217", "ts": "2026-11-04T13:58:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-78818", "ts": "2026-11-04T14:02:34Z", "type": "new_poc", "url": "https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-04T14:02:47Z", "type": "new_poc", "url": "https://github.com/Yunnijian/OnePlus16-Jailbreak"}
