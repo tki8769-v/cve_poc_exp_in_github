@@ -8171,3 +8171,10 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-11-04T01:25:35Z", "type": "new_poc", "url": "https://github.com/Danyw24/the-php2shell-recipe"}
 {"cve_id": "CVE-2026-92183", "ts": "2026-11-04T01:25:36Z", "type": "new_poc", "url": "https://github.com/CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept"}
 {"cve_id": "CVE-2024-23334", "ts": "2026-11-04T01:29:44Z", "type": "new_poc", "url": "https://github.com/frogb1t/CVE-2024-23334"}
+{"cve_id": "CVE-2025-60676", "ts": "2026-11-04T01:36:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63492", "ts": "2026-11-04T01:40:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63494", "ts": "2026-11-04T01:40:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99217", "ts": "2026-11-04T01:41:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-59795", "ts": "2026-11-04T01:43:47Z", "type": "new_poc", "url": "https://github.com/JoakimBulow/CVE-2026-59795"}
+{"cve_id": "CVE-2009-4496", "ts": "2026-11-04T01:43:50Z", "type": "new_poc", "url": "https://github.com/enriquenegri-cyberlaw/boa-webserver-log-escape-injection-cve-2009-4496"}
+{"cve_id": "CVE-2026-20687", "ts": "2026-11-04T01:43:57Z", "type": "new_poc", "url": "https://github.com/hidra0x/hidra"}

@@ -8732,6 +8732,10 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 
 - [https://github.com/HORKimhab/CVE-2026-59822](https://github.com/HORKimhab/CVE-2026-59822) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-59822.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-59822.svg)
 
+## CVE-2026-59795
+
+- [https://github.com/JoakimBulow/CVE-2026-59795](https://github.com/JoakimBulow/CVE-2026-59795) : ![starts](https://img.shields.io/github/stars/JoakimBulow/CVE-2026-59795.svg) ![forks](https://img.shields.io/github/forks/JoakimBulow/CVE-2026-59795.svg)
+
 ## CVE-2026-59774
 > Gitea&#x27;s Org-mode markup renderer processes INCLUDE directives supplied to the repository markup endpoint without preventing access to server-side files. An unauthenticated attacker can use a suitable public repository to read files accessible to the Gitea service account. If the disclosed files include app.ini and its INTERNAL_TOKEN, the attacker can chain the disclosure with internal logger access to modify a Git hook and execute commands as the Gitea service account.
 
@@ -21731,6 +21735,8 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 - [https://github.com/enfilade-labs/CVE-2026-20687-AppleJPEGDriver-UAF](https://github.com/enfilade-labs/CVE-2026-20687-AppleJPEGDriver-UAF) : ![starts](https://img.shields.io/github/stars/enfilade-labs/CVE-2026-20687-AppleJPEGDriver-UAF.svg) ![forks](https://img.shields.io/github/forks/enfilade-labs/CVE-2026-20687-AppleJPEGDriver-UAF.svg)
 
 - [https://github.com/nenasevartem70-cmyk/hidra](https://github.com/nenasevartem70-cmyk/hidra) : ![starts](https://img.shields.io/github/stars/nenasevartem70-cmyk/hidra.svg) ![forks](https://img.shields.io/github/forks/nenasevartem70-cmyk/hidra.svg)
+
+- [https://github.com/hidra0x/hidra](https://github.com/hidra0x/hidra) : ![starts](https://img.shields.io/github/stars/hidra0x/hidra.svg) ![forks](https://img.shields.io/github/forks/hidra0x/hidra.svg)
 
 ## CVE-2026-20685
  An attacker in a privileged network position may be able to leak sensitive information. A path handling issue was addressed with improved validation. This issue is fixed in PCC Release 5E290.3.
@@ -109400,6 +109406,8 @@ Exploitation of this vulnerability requires that a user or application run or in
  Boa 0.94.14rc21 writes data to a log file without sanitizing non-printable characters, which might allow remote attackers to modify a window's title, or possibly execute arbitrary commands or overwrite files, via an HTTP request containing an escape sequence for a terminal emulator.
 
 - [https://github.com/enriquenegri-cyberlaw/boa-cve-2009-4496-analysis](https://github.com/enriquenegri-cyberlaw/boa-cve-2009-4496-analysis) : ![starts](https://img.shields.io/github/stars/enriquenegri-cyberlaw/boa-cve-2009-4496-analysis.svg) ![forks](https://img.shields.io/github/forks/enriquenegri-cyberlaw/boa-cve-2009-4496-analysis.svg)
+
+- [https://github.com/enriquenegri-cyberlaw/boa-webserver-log-escape-injection-cve-2009-4496](https://github.com/enriquenegri-cyberlaw/boa-webserver-log-escape-injection-cve-2009-4496) : ![starts](https://img.shields.io/github/stars/enriquenegri-cyberlaw/boa-webserver-log-escape-injection-cve-2009-4496.svg) ![forks](https://img.shields.io/github/forks/enriquenegri-cyberlaw/boa-webserver-log-escape-injection-cve-2009-4496.svg)
 
 ## CVE-2009-4140
  Unrestricted file upload vulnerability in ofc_upload_image.php in Open Flash Chart v2 Beta 1 through v2 Lug Wyrm Charmer, as used in Piwik 0.2.35 through 0.4.3, Woopra Analytics Plugin before 1.4.3.2, and possibly other products, when register_globals is enabled, allows remote authenticated users to execute arbitrary code by uploading a file with an executable extension through the name parameter with the code in the HTTP_RAW_POST_DATA parameter, then accessing it via a direct request to the file in tmp-upload-images/.

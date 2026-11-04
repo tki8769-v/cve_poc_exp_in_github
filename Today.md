@@ -1,4 +1,8 @@
 # Update 2026-11-04
+## CVE-2009-4496
+
+- [https://github.com/enriquenegri-cyberlaw/boa-webserver-log-escape-injection-cve-2009-4496](https://github.com/enriquenegri-cyberlaw/boa-webserver-log-escape-injection-cve-2009-4496) : ![starts](https://img.shields.io/github/stars/enriquenegri-cyberlaw/boa-webserver-log-escape-injection-cve-2009-4496.svg) ![forks](https://img.shields.io/github/forks/enriquenegri-cyberlaw/boa-webserver-log-escape-injection-cve-2009-4496.svg)
+
 ## CVE-2021-4034
 
 - [https://github.com/eshkoreee/CVE-2021-4034](https://github.com/eshkoreee/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/eshkoreee/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/eshkoreee/CVE-2021-4034.svg)
@@ -21,6 +25,15 @@
 > An out-of-bounds write issue was addressed with improved input validation. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2, tvOS 27.2. An app may be able to cause unexpected system termination or corrupt kernel memory.
 
 - [https://github.com/Lak453/CVE-2026-112689-poc](https://github.com/Lak453/CVE-2026-112689-poc) : ![starts](https://img.shields.io/github/stars/Lak453/CVE-2026-112689-poc.svg) ![forks](https://img.shields.io/github/forks/Lak453/CVE-2026-112689-poc.svg)
+
+## CVE-2026-20687
+> A use after free issue was addressed with improved memory management. This issue is fixed in iOS 18.7.7 and iPadOS 18.7.7, iOS 26.4 and iPadOS 26.4, macOS Sequoia 15.7.5, macOS Tahoe 26.4, tvOS 26.4, watchOS 26.4. An app may be able to cause unexpected system termination or write kernel memory.
+
+- [https://github.com/hidra0x/hidra](https://github.com/hidra0x/hidra) : ![starts](https://img.shields.io/github/stars/hidra0x/hidra.svg) ![forks](https://img.shields.io/github/forks/hidra0x/hidra.svg)
+
+## CVE-2026-59795
+
+- [https://github.com/JoakimBulow/CVE-2026-59795](https://github.com/JoakimBulow/CVE-2026-59795) : ![starts](https://img.shields.io/github/stars/JoakimBulow/CVE-2026-59795.svg) ![forks](https://img.shields.io/github/forks/JoakimBulow/CVE-2026-59795.svg)
 
 ## CVE-2026-80587
 > In the Linux kernel, the following vulnerability has been resolved:
