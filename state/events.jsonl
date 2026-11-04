@@ -8236,3 +8236,27 @@
 {"cve_id": "CVE-2026-99217", "ts": "2026-11-04T13:58:17Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-78818", "ts": "2026-11-04T14:02:34Z", "type": "new_poc", "url": "https://github.com/ammarkrblt/CVE-2026-78818-cyberpanel-phpselection-rce"}
 {"cve_id": "CVE-2026-98260", "ts": "2026-11-04T14:02:47Z", "type": "new_poc", "url": "https://github.com/Yunnijian/OnePlus16-Jailbreak"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-04T20:28:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-04T20:29:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-04T20:31:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-04T20:32:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2021-33644", "ts": "2026-11-04T20:33:19Z", "type": "new_poc", "url": "https://github.com/nilondal/libtar-CVE-2021-33644-followup"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-04T20:33:19Z", "type": "new_poc", "url": "https://github.com/Haor/CVE-2026-98260-OPD2513"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-04T20:33:20Z", "type": "new_poc", "url": "https://github.com/WKL-Sec/CVE-2026-109618"}
+{"cve_id": "CVE-2021-42013", "ts": "2026-11-04T20:33:21Z", "type": "new_poc", "url": "https://github.com/mhd964/CVE-2021-42013"}
+{"cve_id": "CVE-2026-86583", "ts": "2026-11-04T20:33:21Z", "type": "new_poc", "url": "https://github.com/saretawa/CVE-2026-86583"}
+{"cve_id": "CVE-2021-22911", "ts": "2026-11-04T20:33:21Z", "type": "new_poc", "url": "https://github.com/s1lentf00thold/CVE-2021-22911"}
+{"cve_id": "CVE-2026-118306", "ts": "2026-11-04T20:33:21Z", "type": "new_poc", "url": "https://github.com/al4n4n/CVE-2026-118306"}
+{"cve_id": "CVE-2026-44267", "ts": "2026-11-04T20:33:21Z", "type": "new_poc", "url": "https://github.com/umair-aziz025/CVE-2026-44267"}
+{"cve_id": "CVE-2023-26360", "ts": "2026-11-04T20:33:22Z", "type": "new_poc", "url": "https://github.com/DefaultCh40s/CVE-2023-26360"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-04T20:33:22Z", "type": "new_poc", "url": "https://github.com/cybervenom01/Mitigation_CVE-2026-98432"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-04T20:33:22Z", "type": "new_poc", "url": "https://github.com/ScudraServicos/cve-2026-98432-mitigation"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-04T20:33:23Z", "type": "new_poc", "url": "https://github.com/WantenMN/cve-2026-98260-adb"}
+{"cve_id": "CVE-2017-7921", "ts": "2026-11-04T20:33:23Z", "type": "new_poc", "url": "https://github.com/intcost/cve-2017-7921-hikvision-poc"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-11-04T20:33:24Z", "type": "new_poc", "url": "https://github.com/MelissaSkywalkz/broccoli2shell-gis"}
+{"cve_id": "CVE-2026-120019", "ts": "2026-11-04T20:33:24Z", "type": "new_poc", "url": "https://github.com/Hassham1/CVE-2026-120019-w3tc-mfunc-comment-xss-poc"}
+{"cve_id": "CVE-2026-119977", "ts": "2026-11-04T20:33:25Z", "type": "new_poc", "url": "https://github.com/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4"}
+{"cve_id": "CVE-2026-118306", "ts": "2026-11-04T20:33:25Z", "type": "new_poc", "url": "https://github.com/Toddoward/chromium-audit"}
+{"cve_id": "CVE-2026-43284", "ts": "2026-11-04T20:33:26Z", "type": "new_poc", "url": "https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-04T20:33:26Z", "type": "new_poc", "url": "https://github.com/ncpz/cloudflare-php-ctf-research"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-04T20:33:26Z", "type": "new_poc", "url": "https://github.com/heikeyangle-code/mi11-venus-temproot"}

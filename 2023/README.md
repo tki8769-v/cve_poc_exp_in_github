@@ -6808,6 +6808,8 @@ The specific flaw exists within the Toolgate component. The issue results from t
 
 - [https://github.com/RyanRodrigues880/CVE-2023-26360](https://github.com/RyanRodrigues880/CVE-2023-26360) : ![starts](https://img.shields.io/github/stars/RyanRodrigues880/CVE-2023-26360.svg) ![forks](https://img.shields.io/github/forks/RyanRodrigues880/CVE-2023-26360.svg)
 
+- [https://github.com/DefaultCh40s/CVE-2023-26360](https://github.com/DefaultCh40s/CVE-2023-26360) : ![starts](https://img.shields.io/github/stars/DefaultCh40s/CVE-2023-26360.svg) ![forks](https://img.shields.io/github/forks/DefaultCh40s/CVE-2023-26360.svg)
+
 ## CVE-2023-26326
  The BuddyForms WordPress plugin, in versions prior to 2.7.8, was affected by an unauthenticated insecure deserialization issue. An unauthenticated attacker could leverage this issue to call files using a PHAR wrapper that will deserialize the data and call arbitrary PHP Objects that can be used to perform a variety of malicious actions granted a POP chain is also present.
 

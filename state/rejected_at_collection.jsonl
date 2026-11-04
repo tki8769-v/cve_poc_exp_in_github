@@ -2949,3 +2949,4 @@
 {"cve_id": "CVE-2021-4422", "reason": "prefix_conflict_evidenced", "ts": "2026-11-04T13:45:56Z", "url": "https://github.com/lonecloud/CVE-2021-44228-Apache-Log4j", "url_ids": ["CVE-2021-44228"]}
 {"cve_id": "CVE-2021-4422", "reason": "prefix_conflict_evidenced", "ts": "2026-11-04T13:45:56Z", "url": "https://github.com/1hakusai1/log4j-rce-CVE-2021-44228", "url_ids": ["CVE-2021-44228"]}
 {"cve_id": "CVE-2021-4422", "reason": "prefix_conflict_evidenced", "ts": "2026-11-04T13:45:56Z", "url": "https://github.com/snatalius/log4j2-CVE-2021-44228-poc-local", "url_ids": ["CVE-2021-44228"]}
+{"cve_id": "CVE-2023-4278", "reason": "prefix_conflict_evidenced", "ts": "2026-11-04T20:37:40Z", "url": "https://github.com/jhonnybonny/CVE-2023-42789", "url_ids": ["CVE-2023-42789"]}

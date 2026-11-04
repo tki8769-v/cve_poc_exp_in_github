@@ -2599,6 +2599,8 @@
 
 - [https://github.com/lmcewen9/cve-2021-42013](https://github.com/lmcewen9/cve-2021-42013) : ![starts](https://img.shields.io/github/stars/lmcewen9/cve-2021-42013.svg) ![forks](https://img.shields.io/github/forks/lmcewen9/cve-2021-42013.svg)
 
+- [https://github.com/mhd964/CVE-2021-42013](https://github.com/mhd964/CVE-2021-42013) : ![starts](https://img.shields.io/github/stars/mhd964/CVE-2021-42013.svg) ![forks](https://img.shields.io/github/forks/mhd964/CVE-2021-42013.svg)
+
 ## CVE-2021-42008
  The decode_data function in drivers/net/hamradio/6pack.c in the Linux kernel before 5.13.13 has a slab out-of-bounds write. Input from a process that has the CAP_NET_ADMIN capability can lead to root access.
 
@@ -4684,6 +4686,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/nicklondal/libtar-CVE-2021-33644-followup](https://github.com/nicklondal/libtar-CVE-2021-33644-followup) : ![starts](https://img.shields.io/github/stars/nicklondal/libtar-CVE-2021-33644-followup.svg) ![forks](https://img.shields.io/github/forks/nicklondal/libtar-CVE-2021-33644-followup.svg)
 
+- [https://github.com/nilondal/libtar-CVE-2021-33644-followup](https://github.com/nilondal/libtar-CVE-2021-33644-followup) : ![starts](https://img.shields.io/github/stars/nilondal/libtar-CVE-2021-33644-followup.svg) ![forks](https://img.shields.io/github/forks/nilondal/libtar-CVE-2021-33644-followup.svg)
+
 ## CVE-2021-33624
  In kernel/bpf/verifier.c in the Linux kernel before 5.12.13, a branch can be mispredicted (e.g., because of type confusion) and consequently an unprivileged BPF program can read arbitrary memory locations via a side-channel attack, aka CID-9183671af6db.
 
@@ -6695,6 +6699,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/TeneBrae93/RocketChat-NoSQLi-Chain-CVE-2021-22911](https://github.com/TeneBrae93/RocketChat-NoSQLi-Chain-CVE-2021-22911) : ![starts](https://img.shields.io/github/stars/TeneBrae93/RocketChat-NoSQLi-Chain-CVE-2021-22911.svg) ![forks](https://img.shields.io/github/forks/TeneBrae93/RocketChat-NoSQLi-Chain-CVE-2021-22911.svg)
 
 - [https://github.com/yoohhuu/Rocket-Chat-3.12.1-PoC-CVE-2021-22911-](https://github.com/yoohhuu/Rocket-Chat-3.12.1-PoC-CVE-2021-22911-) : ![starts](https://img.shields.io/github/stars/yoohhuu/Rocket-Chat-3.12.1-PoC-CVE-2021-22911-.svg) ![forks](https://img.shields.io/github/forks/yoohhuu/Rocket-Chat-3.12.1-PoC-CVE-2021-22911-.svg)
+
+- [https://github.com/s1lentf00thold/CVE-2021-22911](https://github.com/s1lentf00thold/CVE-2021-22911) : ![starts](https://img.shields.io/github/stars/s1lentf00thold/CVE-2021-22911.svg) ![forks](https://img.shields.io/github/forks/s1lentf00thold/CVE-2021-22911.svg)
 
 ## CVE-2021-22893
  Pulse Connect Secure 9.0R3/9.1R1 and higher is vulnerable to an authentication bypass vulnerability exposed by the Windows File Share Browser and Pulse Secure Collaboration features of Pulse Connect Secure that can allow an unauthenticated user to perform remote arbitrary code execution on the Pulse Connect Secure gateway. This vulnerability has been exploited in the wild.

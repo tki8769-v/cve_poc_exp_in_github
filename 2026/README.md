@@ -21,12 +21,19 @@
 
 - [https://github.com/capivara-research/CVE-2026-120218](https://github.com/capivara-research/CVE-2026-120218) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-120218.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-120218.svg)
 
+## CVE-2026-120019
+> The W3 Total Cache plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the &#x27;comment&#x27; parameter in all versions up to, and including, 2.10.7 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. This requires HTML Minify to be enabled with the default &#x27;mfunc&#x27; entry present in the ignored-comment stems list, and exploitat
+
+- [https://github.com/Hassham1/CVE-2026-120019-w3tc-mfunc-comment-xss-poc](https://github.com/Hassham1/CVE-2026-120019-w3tc-mfunc-comment-xss-poc) : ![starts](https://img.shields.io/github/stars/Hassham1/CVE-2026-120019-w3tc-mfunc-comment-xss-poc.svg) ![forks](https://img.shields.io/github/forks/Hassham1/CVE-2026-120019-w3tc-mfunc-comment-xss-poc.svg)
+
 ## CVE-2026-119977
 > WordPress Core is vulnerable to Remote Code Execution in versions 4.7 through 7.1.3. This is due to predictable, web-accessible staging paths used during full-package core upgrades. This makes it possible for unauthenticated attackers to execute code on the server during the upgrade window.
 
 - [https://github.com/lysophavin18/CVE-2026-119977](https://github.com/lysophavin18/CVE-2026-119977) : ![starts](https://img.shields.io/github/stars/lysophavin18/CVE-2026-119977.svg) ![forks](https://img.shields.io/github/forks/lysophavin18/CVE-2026-119977.svg)
 
 - [https://github.com/foxcornlab/wordpress-core-scanner](https://github.com/foxcornlab/wordpress-core-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/wordpress-core-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/wordpress-core-scanner.svg)
+
+- [https://github.com/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4](https://github.com/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4) : ![starts](https://img.shields.io/github/stars/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4.svg) ![forks](https://img.shields.io/github/forks/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4.svg)
 
 ## CVE-2026-119712
 > PipesHub before 0.10.0 contains a server-side request forgery vulnerability in ImageParser._fetch_single_url that allows attackers to make the indexing service fetch internal addresses by embedding image URLs in documents. Attackers can supply Markdown or HTML via uploads, synced mailboxes, or web connectors to reach loopback, private-network, or cloud metadata endpoints, with image responses embedded into indexed content.
@@ -47,6 +54,13 @@
 > minimatch is a minimal matching utility for converting glob expressions into JavaScript RegExp objects. Prior to 11.0.1, src/index.ts implements firstPhasePreProcess() so that, at optimizationLevel 2 or higher, it repeatedly expands attacker-controlled **/.. pattern segments inside a fixpoint loop, allowing generated globParts entries to be processed and expanded again. secondPhasePreProcess() then compares the expanded entries pairwise, so a short malicious glob can cause excessive CPU and memo
 
 - [https://github.com/b1nv0id/CVE-2026-118764](https://github.com/b1nv0id/CVE-2026-118764) : ![starts](https://img.shields.io/github/stars/b1nv0id/CVE-2026-118764.svg) ![forks](https://img.shields.io/github/forks/b1nv0id/CVE-2026-118764.svg)
+
+## CVE-2026-118306
+> Use after free in FileSystem in Google Chrome prior to 156.0.8078.73 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Critical)
+
+- [https://github.com/Toddoward/chromium-audit](https://github.com/Toddoward/chromium-audit) : ![starts](https://img.shields.io/github/stars/Toddoward/chromium-audit.svg) ![forks](https://img.shields.io/github/forks/Toddoward/chromium-audit.svg)
+
+- [https://github.com/al4n4n/CVE-2026-118306](https://github.com/al4n4n/CVE-2026-118306) : ![starts](https://img.shields.io/github/stars/al4n4n/CVE-2026-118306.svg) ![forks](https://img.shields.io/github/forks/al4n4n/CVE-2026-118306.svg)
 
 ## CVE-2026-118238
 > The Tenda W18E web management server is vulnerable to OS command injection via the &quot;diagnose&quot; packet-capture feature due to improper validation of JSON fields. An authenticated user can inject shell metacharacters into the protocol or targetDevice fields, which are later concatenated into a tcpdump command and executed with root privileges. This vulnerability can be exploited without authentication if the device is in a factory-reset state.
@@ -669,6 +683,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/EQSTLab/CVE-2026-111497](https://github.com/EQSTLab/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/EQSTLab/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/EQSTLab/CVE-2026-111497.svg)
 
 - [https://github.com/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-](https://github.com/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-) : ![starts](https://img.shields.io/github/stars/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-.svg) ![forks](https://img.shields.io/github/forks/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-.svg)
+
+- [https://github.com/MelissaSkywalkz/broccoli2shell-gis](https://github.com/MelissaSkywalkz/broccoli2shell-gis) : ![starts](https://img.shields.io/github/stars/MelissaSkywalkz/broccoli2shell-gis.svg) ![forks](https://img.shields.io/github/forks/MelissaSkywalkz/broccoli2shell-gis.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -1691,6 +1707,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/catscarlet/php-fpm-docker-PHP-8.0-CVE-2026-109618-109619-patched](https://github.com/catscarlet/php-fpm-docker-PHP-8.0-CVE-2026-109618-109619-patched) : ![starts](https://img.shields.io/github/stars/catscarlet/php-fpm-docker-PHP-8.0-CVE-2026-109618-109619-patched.svg) ![forks](https://img.shields.io/github/forks/catscarlet/php-fpm-docker-PHP-8.0-CVE-2026-109618-109619-patched.svg)
 
 - [https://github.com/okumura-pico/php-7.2.11-cve-2026-109618-fix](https://github.com/okumura-pico/php-7.2.11-cve-2026-109618-fix) : ![starts](https://img.shields.io/github/stars/okumura-pico/php-7.2.11-cve-2026-109618-fix.svg) ![forks](https://img.shields.io/github/forks/okumura-pico/php-7.2.11-cve-2026-109618-fix.svg)
+
+- [https://github.com/WKL-Sec/CVE-2026-109618](https://github.com/WKL-Sec/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/WKL-Sec/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/WKL-Sec/CVE-2026-109618.svg)
+
+- [https://github.com/ncpz/cloudflare-php-ctf-research](https://github.com/ncpz/cloudflare-php-ctf-research) : ![starts](https://img.shields.io/github/stars/ncpz/cloudflare-php-ctf-research.svg) ![forks](https://img.shields.io/github/forks/ncpz/cloudflare-php-ctf-research.svg)
 
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
@@ -2956,6 +2976,10 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/t0ge-kun/CVE-2026-98432-check](https://github.com/t0ge-kun/CVE-2026-98432-check) : ![starts](https://img.shields.io/github/stars/t0ge-kun/CVE-2026-98432-check.svg) ![forks](https://img.shields.io/github/forks/t0ge-kun/CVE-2026-98432-check.svg)
 
+- [https://github.com/ScudraServicos/cve-2026-98432-mitigation](https://github.com/ScudraServicos/cve-2026-98432-mitigation) : ![starts](https://img.shields.io/github/stars/ScudraServicos/cve-2026-98432-mitigation.svg) ![forks](https://img.shields.io/github/forks/ScudraServicos/cve-2026-98432-mitigation.svg)
+
+- [https://github.com/cybervenom01/Mitigation_CVE-2026-98432](https://github.com/cybervenom01/Mitigation_CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/cybervenom01/Mitigation_CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/cybervenom01/Mitigation_CVE-2026-98432.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3067,6 +3091,10 @@ but the node is still queued on tsk, which
 - [https://github.com/ashir6892/Rootline](https://github.com/ashir6892/Rootline) : ![starts](https://img.shields.io/github/stars/ashir6892/Rootline.svg) ![forks](https://img.shields.io/github/forks/ashir6892/Rootline.svg)
 
 - [https://github.com/Yunnijian/OnePlus16-Jailbreak](https://github.com/Yunnijian/OnePlus16-Jailbreak) : ![starts](https://img.shields.io/github/stars/Yunnijian/OnePlus16-Jailbreak.svg) ![forks](https://img.shields.io/github/forks/Yunnijian/OnePlus16-Jailbreak.svg)
+
+- [https://github.com/Haor/CVE-2026-98260-OPD2513](https://github.com/Haor/CVE-2026-98260-OPD2513) : ![starts](https://img.shields.io/github/stars/Haor/CVE-2026-98260-OPD2513.svg) ![forks](https://img.shields.io/github/forks/Haor/CVE-2026-98260-OPD2513.svg)
+
+- [https://github.com/WantenMN/cve-2026-98260-adb](https://github.com/WantenMN/cve-2026-98260-adb) : ![starts](https://img.shields.io/github/stars/WantenMN/cve-2026-98260-adb.svg) ![forks](https://img.shields.io/github/forks/WantenMN/cve-2026-98260-adb.svg)
 
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -4417,6 +4445,11 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 This issue affects enVision: before 260655.
 
 - [https://github.com/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti](https://github.com/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti) : ![starts](https://img.shields.io/github/stars/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti.svg) ![forks](https://img.shields.io/github/forks/Hasanuyarrr/CVE-2026-86595-Iron-Mountain-enVision-EBYSde-Kimlik-Dogrulamal-SQL-Enjeksiyonu-Zafiyeti.svg)
+
+## CVE-2026-86583
+> The Import and export users and customers plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including, 2.4.17 via the plugin&#x27;s own export and re-import workflow. The vulnerability exists because the exporter writes CSV cells using fputcsv() with a NUL byte (\0) as the escape character, while the importer parses the same file using SplFileObject::fgetcsv() with only a single delimiter argument, causing PHP&#x27;s default backslash escape character to be applied inst
+
+- [https://github.com/saretawa/CVE-2026-86583](https://github.com/saretawa/CVE-2026-86583) : ![starts](https://img.shields.io/github/stars/saretawa/CVE-2026-86583.svg) ![forks](https://img.shields.io/github/forks/saretawa/CVE-2026-86583.svg)
 
 ## CVE-2026-86555
  The ZTE SmartLife application has a hardcoded key. The key used to decrypt account server information is stored in plaintext in the code. Once the key is obtained, the server information can be decrypted, thus exposing it.
@@ -12678,6 +12711,11 @@ Not affected:
 
 - [https://github.com/0xBlackash/CVE-2026-44277](https://github.com/0xBlackash/CVE-2026-44277) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-44277.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-44277.svg)
 
+## CVE-2026-44267
+> Elo is a purely functional expression language for no-code tools. Prior to 1.0.1, plain Elo strings supplied to defaultFormats.elo.parse(), bin/elo, or elo-lang.org/try can use .constructor.constructor to reach JavaScript Function because the member_access handler in src/transform.ts does not reject meta-properties, src/compilers/javascript.ts emits the surviving property directly, and src/parser.ts accepts constructor as an ordinary identifier. The resulting generated JavaScript executes attack
+
+- [https://github.com/umair-aziz025/CVE-2026-44267](https://github.com/umair-aziz025/CVE-2026-44267) : ![starts](https://img.shields.io/github/stars/umair-aziz025/CVE-2026-44267.svg) ![forks](https://img.shields.io/github/forks/umair-aziz025/CVE-2026-44267.svg)
+
 ## CVE-2026-44262
  Scramble generates API documentation for Laravel project. From 0.13.2 to before 0.13.22, when documentation endpoints are publicly accessible and validation rules reference user-controlled input, request supplied data may be evaluated during documentation generation, leading to execution of arbitrary PHP code in the application context. This vulnerability is fixed in 0.13.22.
 
@@ -13519,6 +13557,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152](https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152) : ![starts](https://img.shields.io/github/stars/Linkenpro/ghostlock-pd2118c-4.19.152.svg) ![forks](https://img.shields.io/github/forks/Linkenpro/ghostlock-pd2118c-4.19.152.svg)
 
+- [https://github.com/heikeyangle-code/mi11-venus-temproot](https://github.com/heikeyangle-code/mi11-venus-temproot) : ![starts](https://img.shields.io/github/stars/heikeyangle-code/mi11-venus-temproot.svg) ![forks](https://img.shields.io/github/forks/heikeyangle-code/mi11-venus-temproot.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -13779,6 +13819,8 @@ destination-frag path or fall back to skb_cow_data().
 - [https://github.com/RemiPelloux/GalaxyCrash](https://github.com/RemiPelloux/GalaxyCrash) : ![starts](https://img.shields.io/github/stars/RemiPelloux/GalaxyCrash.svg) ![forks](https://img.shields.io/github/forks/RemiPelloux/GalaxyCrash.svg)
 
 - [https://github.com/yameteeee-kudasaiiiiiii90/DFRoot](https://github.com/yameteeee-kudasaiiiiiii90/DFRoot) : ![starts](https://img.shields.io/github/stars/yameteeee-kudasaiiiiiii90/DFRoot.svg) ![forks](https://img.shields.io/github/forks/yameteeee-kudasaiiiiiii90/DFRoot.svg)
+
+- [https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag](https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag) : ![starts](https://img.shields.io/github/stars/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag.svg) ![forks](https://img.shields.io/github/forks/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag.svg)
 
 ## CVE-2026-43074
  In the Linux kernel, the following vulnerability has been resolved:
