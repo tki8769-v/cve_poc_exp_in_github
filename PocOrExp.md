@@ -3065,6 +3065,8 @@ but the node is still queued on tsk, which
 
 - [https://github.com/super2tt/CVE-2026-98260-vivo-x-fold6-poc](https://github.com/super2tt/CVE-2026-98260-vivo-x-fold6-poc) : ![starts](https://img.shields.io/github/stars/super2tt/CVE-2026-98260-vivo-x-fold6-poc.svg) ![forks](https://img.shields.io/github/forks/super2tt/CVE-2026-98260-vivo-x-fold6-poc.svg)
 
+- [https://github.com/ashir6892/Rootline](https://github.com/ashir6892/Rootline) : ![starts](https://img.shields.io/github/stars/ashir6892/Rootline.svg) ![forks](https://img.shields.io/github/forks/ashir6892/Rootline.svg)
+
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -13509,6 +13511,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/SnowbakaQWQ/ghostlock-ares](https://github.com/SnowbakaQWQ/ghostlock-ares) : ![starts](https://img.shields.io/github/stars/SnowbakaQWQ/ghostlock-ares.svg) ![forks](https://img.shields.io/github/forks/SnowbakaQWQ/ghostlock-ares.svg)
 
 - [https://github.com/Delta-Water/CVE-2026-43499-phq110-root](https://github.com/Delta-Water/CVE-2026-43499-phq110-root) : ![starts](https://img.shields.io/github/stars/Delta-Water/CVE-2026-43499-phq110-root.svg) ![forks](https://img.shields.io/github/forks/Delta-Water/CVE-2026-43499-phq110-root.svg)
+
+- [https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152](https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152) : ![starts](https://img.shields.io/github/stars/Linkenpro/ghostlock-pd2118c-4.19.152.svg) ![forks](https://img.shields.io/github/forks/Linkenpro/ghostlock-pd2118c-4.19.152.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
@@ -34826,6 +34830,7 @@ be in the smb2_sess_setup function which makes use of sess-user.
 - [https://github.com/salimelh94/Web-Penetration-Test](https://github.com/salimelh94/Web-Penetration-Test) : ![starts](https://img.shields.io/github/stars/salimelh94/Web-Penetration-Test.svg) ![forks](https://img.shields.io/github/forks/salimelh94/Web-Penetration-Test.svg)
 
 ## CVE-2025-34071
+> A remote code execution vulnerability in GFI Kerio Control 9.4.5 allows attackers with administrative access to upload and execute arbitrary code through the firmware upgrade feature. The system upgrade mechanism accepts unsigned .img files, which can be modified to include malicious scripts within the upgrade.sh or disk image components. These modified upgrade images are not validated for authenticity or integrity, and are executed by the system post-upload, enabling root access.
 
 - [https://github.com/cppghoul/CVE-2025-34071](https://github.com/cppghoul/CVE-2025-34071) : ![starts](https://img.shields.io/github/stars/cppghoul/CVE-2025-34071.svg) ![forks](https://img.shields.io/github/forks/cppghoul/CVE-2025-34071.svg)
 

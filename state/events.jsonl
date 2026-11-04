@@ -8212,3 +8212,15 @@
 {"cve_id": "CVE-2024-3094", "ts": "2026-11-04T13:11:02Z", "type": "new_poc", "url": "https://github.com/Skytheguy7/xz-utils-case-study"}
 {"cve_id": "CVE-2026-119977", "ts": "2026-11-04T13:11:03Z", "type": "new_poc", "url": "https://github.com/foxcornlab/wordpress-core-scanner"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-04T13:11:15Z", "type": "new_poc", "url": "https://github.com/Delta-Water/CVE-2026-43499-phq110-root"}
+{"cve_id": "CVE-2025-60676", "ts": "2026-11-04T13:22:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-103429", "ts": "2026-11-04T13:23:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107916", "ts": "2026-11-04T13:23:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-108516", "ts": "2026-11-04T13:23:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111085", "ts": "2026-11-04T13:23:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-28531", "ts": "2026-11-04T13:29:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-61496", "ts": "2026-11-04T13:30:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63492", "ts": "2026-11-04T13:30:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-63494", "ts": "2026-11-04T13:30:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99217", "ts": "2026-11-04T13:32:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-04T13:36:31Z", "type": "new_poc", "url": "https://github.com/ashir6892/Rootline"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-04T13:36:31Z", "type": "new_poc", "url": "https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152"}

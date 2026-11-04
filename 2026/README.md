@@ -3064,6 +3064,8 @@ but the node is still queued on tsk, which
 
 - [https://github.com/super2tt/CVE-2026-98260-vivo-x-fold6-poc](https://github.com/super2tt/CVE-2026-98260-vivo-x-fold6-poc) : ![starts](https://img.shields.io/github/stars/super2tt/CVE-2026-98260-vivo-x-fold6-poc.svg) ![forks](https://img.shields.io/github/forks/super2tt/CVE-2026-98260-vivo-x-fold6-poc.svg)
 
+- [https://github.com/ashir6892/Rootline](https://github.com/ashir6892/Rootline) : ![starts](https://img.shields.io/github/stars/ashir6892/Rootline.svg) ![forks](https://img.shields.io/github/forks/ashir6892/Rootline.svg)
+
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -13508,6 +13510,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/SnowbakaQWQ/ghostlock-ares](https://github.com/SnowbakaQWQ/ghostlock-ares) : ![starts](https://img.shields.io/github/stars/SnowbakaQWQ/ghostlock-ares.svg) ![forks](https://img.shields.io/github/forks/SnowbakaQWQ/ghostlock-ares.svg)
 
 - [https://github.com/Delta-Water/CVE-2026-43499-phq110-root](https://github.com/Delta-Water/CVE-2026-43499-phq110-root) : ![starts](https://img.shields.io/github/stars/Delta-Water/CVE-2026-43499-phq110-root.svg) ![forks](https://img.shields.io/github/forks/Delta-Water/CVE-2026-43499-phq110-root.svg)
+
+- [https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152](https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152) : ![starts](https://img.shields.io/github/stars/Linkenpro/ghostlock-pd2118c-4.19.152.svg) ![forks](https://img.shields.io/github/forks/Linkenpro/ghostlock-pd2118c-4.19.152.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:

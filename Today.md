@@ -92,6 +92,7 @@ problems:
   1) the rbtree dequeue happens without waiter::task::pi_l
 
 - [https://github.com/Delta-Water/CVE-2026-43499-phq110-root](https://github.com/Delta-Water/CVE-2026-43499-phq110-root) : ![starts](https://img.shields.io/github/stars/Delta-Water/CVE-2026-43499-phq110-root.svg) ![forks](https://img.shields.io/github/forks/Delta-Water/CVE-2026-43499-phq110-root.svg)
+- [https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152](https://github.com/Linkenpro/ghostlock-pd2118c-4.19.152) : ![starts](https://img.shields.io/github/stars/Linkenpro/ghostlock-pd2118c-4.19.152.svg) ![forks](https://img.shields.io/github/forks/Linkenpro/ghostlock-pd2118c-4.19.152.svg)
 
 ## CVE-2026-56190
 
@@ -136,6 +137,21 @@ The specific flaw exists within the parsing of APNG files. The issue results fro
 ## CVE-2026-97798
 
 - [https://github.com/0xBlackash/CVE-2026-97798](https://github.com/0xBlackash/CVE-2026-97798) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-97798.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-97798.svg)
+
+## CVE-2026-98260
+> In the Linux kernel, the following vulnerability has been resolved:
+
+exec: Cleanup POSIX timers right after de_thread()
+
+A per-thread CPU timer holds a reference to the PID of the thread it is
+attached to and, while it is armed, its node is queued in that thread&#x27;s
+posix_cputimers. The task is looked up by that PID.
+
+When a non-leader thread exec()s, de_thread() changes which task owns
+that PID. pid_task(timer-&gt;it.cpu.pid, PIDTYPE_PID) then returns NULL,
+but the node is still queued on tsk, which
+
+- [https://github.com/ashir6892/Rootline](https://github.com/ashir6892/Rootline) : ![starts](https://img.shields.io/github/stars/ashir6892/Rootline.svg) ![forks](https://img.shields.io/github/forks/ashir6892/Rootline.svg)
 
 ## CVE-2026-98432
 > In the Linux kernel, the following vulnerability has been resolved:
