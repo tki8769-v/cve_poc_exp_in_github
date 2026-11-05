@@ -8344,3 +8344,37 @@
 {"cve_id": "CVE-2026-91403", "ts": "2026-11-05T13:20:11Z", "type": "new_poc", "url": "https://github.com/bryanHsiao/domino-emudhra-cert-mitigation"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-05T13:20:11Z", "type": "new_poc", "url": "https://github.com/thedavidweng/ghostlock-z3q"}
 {"cve_id": "CVE-2026-116512", "ts": "2026-11-05T13:20:23Z", "type": "new_poc", "url": "https://github.com/Mushr00w/CVE-2026-116512"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-05T13:32:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66736", "ts": "2026-11-05T13:33:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80811", "ts": "2026-11-05T13:34:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-81009", "ts": "2026-11-05T13:34:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-81010", "ts": "2026-11-05T13:34:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-05T13:34:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97618", "ts": "2026-11-05T13:34:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99243", "ts": "2026-11-05T13:34:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99252", "ts": "2026-11-05T13:34:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99262", "ts": "2026-11-05T13:34:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99263", "ts": "2026-11-05T13:34:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99264", "ts": "2026-11-05T13:34:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99265", "ts": "2026-11-05T13:34:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99266", "ts": "2026-11-05T13:34:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99267", "ts": "2026-11-05T13:34:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99268", "ts": "2026-11-05T13:34:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-05T13:38:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66736", "ts": "2026-11-05T13:39:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80811", "ts": "2026-11-05T13:40:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-81009", "ts": "2026-11-05T13:40:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-81010", "ts": "2026-11-05T13:40:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-05T13:40:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97618", "ts": "2026-11-05T13:40:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99243", "ts": "2026-11-05T13:40:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99252", "ts": "2026-11-05T13:40:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99262", "ts": "2026-11-05T13:40:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99263", "ts": "2026-11-05T13:40:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99264", "ts": "2026-11-05T13:40:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99265", "ts": "2026-11-05T13:40:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99266", "ts": "2026-11-05T13:40:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99267", "ts": "2026-11-05T13:40:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99268", "ts": "2026-11-05T13:40:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-05T13:42:09Z", "type": "new_poc", "url": "https://github.com/Nebur692/php-legacy-ubuntu"}
+{"cve_id": "CVE-2018-20062", "ts": "2026-11-05T13:50:29Z", "type": "new_poc", "url": "https://github.com/0xRar/ThinkPHP5_RCE"}

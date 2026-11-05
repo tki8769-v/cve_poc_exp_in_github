@@ -7,6 +7,10 @@
 
 - [https://github.com/Mr-Ochobot/Hikvision-CCTV-POC](https://github.com/Mr-Ochobot/Hikvision-CCTV-POC) : ![starts](https://img.shields.io/github/stars/Mr-Ochobot/Hikvision-CCTV-POC.svg) ![forks](https://img.shields.io/github/forks/Mr-Ochobot/Hikvision-CCTV-POC.svg)
 
+## CVE-2018-20062
+
+- [https://github.com/0xRar/ThinkPHP5_RCE](https://github.com/0xRar/ThinkPHP5_RCE) : ![starts](https://img.shields.io/github/stars/0xRar/ThinkPHP5_RCE.svg) ![forks](https://img.shields.io/github/forks/0xRar/ThinkPHP5_RCE.svg)
+
 ## CVE-2021-44228
 
 - [https://github.com/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup](https://github.com/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup) : ![starts](https://img.shields.io/github/stars/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup.svg) ![forks](https://img.shields.io/github/forks/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup.svg)
@@ -37,6 +41,7 @@ The vulnerability is caused by the reuse of hard links and requires the client t
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
 
 - [https://github.com/D-1P1X/php2shell-web](https://github.com/D-1P1X/php2shell-web) : ![starts](https://img.shields.io/github/stars/D-1P1X/php2shell-web.svg) ![forks](https://img.shields.io/github/forks/D-1P1X/php2shell-web.svg)
+- [https://github.com/Nebur692/php-legacy-ubuntu](https://github.com/Nebur692/php-legacy-ubuntu) : ![starts](https://img.shields.io/github/stars/Nebur692/php-legacy-ubuntu.svg) ![forks](https://img.shields.io/github/forks/Nebur692/php-legacy-ubuntu.svg)
 - [https://github.com/sam00/CVE-2026-109618-CVE-2026-109619-POC](https://github.com/sam00/CVE-2026-109618-CVE-2026-109619-POC) : ![starts](https://img.shields.io/github/stars/sam00/CVE-2026-109618-CVE-2026-109619-POC.svg) ![forks](https://img.shields.io/github/forks/sam00/CVE-2026-109618-CVE-2026-109619-POC.svg)
 
 ## CVE-2026-109619

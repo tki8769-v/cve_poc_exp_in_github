@@ -1751,6 +1751,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/D-1P1X/php2shell-web](https://github.com/D-1P1X/php2shell-web) : ![starts](https://img.shields.io/github/stars/D-1P1X/php2shell-web.svg) ![forks](https://img.shields.io/github/forks/D-1P1X/php2shell-web.svg)
 
+- [https://github.com/Nebur692/php-legacy-ubuntu](https://github.com/Nebur692/php-legacy-ubuntu) : ![starts](https://img.shields.io/github/stars/Nebur692/php-legacy-ubuntu.svg) ![forks](https://img.shields.io/github/forks/Nebur692/php-legacy-ubuntu.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 

@@ -1752,6 +1752,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/D-1P1X/php2shell-web](https://github.com/D-1P1X/php2shell-web) : ![starts](https://img.shields.io/github/stars/D-1P1X/php2shell-web.svg) ![forks](https://img.shields.io/github/forks/D-1P1X/php2shell-web.svg)
 
+- [https://github.com/Nebur692/php-legacy-ubuntu](https://github.com/Nebur692/php-legacy-ubuntu) : ![starts](https://img.shields.io/github/stars/Nebur692/php-legacy-ubuntu.svg) ![forks](https://img.shields.io/github/forks/Nebur692/php-legacy-ubuntu.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -96810,6 +96812,8 @@ The security update addresses the vulnerability by correcting how Hyper-V valida
 - [https://github.com/shenhui35/RedArrow](https://github.com/shenhui35/RedArrow) : ![starts](https://img.shields.io/github/stars/shenhui35/RedArrow.svg) ![forks](https://img.shields.io/github/forks/shenhui35/RedArrow.svg)
 
 - [https://github.com/Jasper2018/CVE-2018-20062](https://github.com/Jasper2018/CVE-2018-20062) : ![starts](https://img.shields.io/github/stars/Jasper2018/CVE-2018-20062.svg) ![forks](https://img.shields.io/github/forks/Jasper2018/CVE-2018-20062.svg)
+
+- [https://github.com/0xRar/ThinkPHP5_RCE](https://github.com/0xRar/ThinkPHP5_RCE) : ![starts](https://img.shields.io/github/stars/0xRar/ThinkPHP5_RCE.svg) ![forks](https://img.shields.io/github/forks/0xRar/ThinkPHP5_RCE.svg)
 
 ## CVE-2018-19987
  D-Link DIR-822 Rev.B 202KRb06, DIR-822 Rev.C 3.10B06, DIR-860L Rev.B 2.03.B03, DIR-868L Rev.B 2.05B02, DIR-880L Rev.A 1.20B01_01_i3se_BETA, and DIR-890L Rev.A 1.21B02_BETA devices mishandle IsAccessPoint in /HNAP1/SetAccessPointMode. In the SetAccessPointMode.php source code, the IsAccessPoint parameter is saved in the ShellPath script file without any regex checking. After the script file is executed, the command injection occurs. A vulnerable /HNAP1/SetAccessPointMode XML message could have shell metacharacters in the IsAccessPoint element such as the `telnetd` string.

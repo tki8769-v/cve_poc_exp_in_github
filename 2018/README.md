@@ -394,6 +394,8 @@
 
 - [https://github.com/Jasper2018/CVE-2018-20062](https://github.com/Jasper2018/CVE-2018-20062) : ![starts](https://img.shields.io/github/stars/Jasper2018/CVE-2018-20062.svg) ![forks](https://img.shields.io/github/forks/Jasper2018/CVE-2018-20062.svg)
 
+- [https://github.com/0xRar/ThinkPHP5_RCE](https://github.com/0xRar/ThinkPHP5_RCE) : ![starts](https://img.shields.io/github/stars/0xRar/ThinkPHP5_RCE.svg) ![forks](https://img.shields.io/github/forks/0xRar/ThinkPHP5_RCE.svg)
+
 ## CVE-2018-19987
  D-Link DIR-822 Rev.B 202KRb06, DIR-822 Rev.C 3.10B06, DIR-860L Rev.B 2.03.B03, DIR-868L Rev.B 2.05B02, DIR-880L Rev.A 1.20B01_01_i3se_BETA, and DIR-890L Rev.A 1.21B02_BETA devices mishandle IsAccessPoint in /HNAP1/SetAccessPointMode. In the SetAccessPointMode.php source code, the IsAccessPoint parameter is saved in the ShellPath script file without any regex checking. After the script file is executed, the command injection occurs. A vulnerable /HNAP1/SetAccessPointMode XML message could have shell metacharacters in the IsAccessPoint element such as the `telnetd` string.
 
