@@ -35,6 +35,15 @@
 
 - [https://github.com/EQSTLab/CVE-2024-47066](https://github.com/EQSTLab/CVE-2024-47066) : ![starts](https://img.shields.io/github/stars/EQSTLab/CVE-2024-47066.svg) ![forks](https://img.shields.io/github/forks/EQSTLab/CVE-2024-47066.svg)
 
+## CVE-2025-50579
+
+- [https://github.com/davidoberst/CVE-2025-50579](https://github.com/davidoberst/CVE-2025-50579) : ![starts](https://img.shields.io/github/stars/davidoberst/CVE-2025-50579.svg) ![forks](https://img.shields.io/github/forks/davidoberst/CVE-2025-50579.svg)
+
+## CVE-2026-102334
+> Nginx Proxy Manager through 2.16.0 lacks rate-limiting on authentication endpoints, allowing unauthenticated attackers to make unlimited password guesses against any account. Attackers can brute-force login credentials via POST /api/tokens and subsequently guess TOTP codes via POST /api/tokens/2fa to gain full session access and administrative control.
+
+- [https://github.com/davidoberst/CVE-2026-102334](https://github.com/davidoberst/CVE-2026-102334) : ![starts](https://img.shields.io/github/stars/davidoberst/CVE-2026-102334.svg) ![forks](https://img.shields.io/github/forks/davidoberst/CVE-2026-102334.svg)
+
 ## CVE-2026-107441
 > An out-of-bounds write vulnerability in the CGI program of Zyxel GS1900-24E firmware versions through 2.90(AAHK.2)C0 could allow an unauthenticated adjacent attacker  to exploit the flaw and potentially execute OS commands via a crafted HTTP request.
 
@@ -117,6 +126,7 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 - [https://github.com/charlie-goldenowl/cve-2026-122006-check](https://github.com/charlie-goldenowl/cve-2026-122006-check) : ![starts](https://img.shields.io/github/stars/charlie-goldenowl/cve-2026-122006-check.svg) ![forks](https://img.shields.io/github/forks/charlie-goldenowl/cve-2026-122006-check.svg)
 
 ## CVE-2026-122051
+> A flaw has been found in Edimax BR-6208AC 1.32. Affected by this vulnerability is an unknown functionality of the file /goform/mp. Executing a manipulation can lead to command injection. The attack may be launched remotely. The exploit has been published and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/carterlasalle/CVE-2026-122051](https://github.com/carterlasalle/CVE-2026-122051) : ![starts](https://img.shields.io/github/stars/carterlasalle/CVE-2026-122051.svg) ![forks](https://img.shields.io/github/forks/carterlasalle/CVE-2026-122051.svg)
 
@@ -151,6 +161,7 @@ problems:
 > In onOutputReceived of FrameDecoder.cpp, there is a possible out-of-bounds write due to a heap buffer overflow. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.
 
 - [https://github.com/probear0001/CVE-2026-58868](https://github.com/probear0001/CVE-2026-58868) : ![starts](https://img.shields.io/github/stars/probear0001/CVE-2026-58868.svg) ![forks](https://img.shields.io/github/forks/probear0001/CVE-2026-58868.svg)
+- [https://github.com/redfishrouge/CVE-2026-58868-PoC](https://github.com/redfishrouge/CVE-2026-58868-PoC) : ![starts](https://img.shields.io/github/stars/redfishrouge/CVE-2026-58868-PoC.svg) ![forks](https://img.shields.io/github/forks/redfishrouge/CVE-2026-58868-PoC.svg)
 
 ## CVE-2026-91403
 

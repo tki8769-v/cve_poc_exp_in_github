@@ -8426,3 +8426,23 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-11-05T20:48:41Z", "type": "new_poc", "url": "https://github.com/avrevic/php2shell-chase"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-11-05T20:48:41Z", "type": "new_poc", "url": "https://github.com/avrevic/php2shell-lean-chase"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-05T20:48:42Z", "type": "new_poc", "url": "https://github.com/giannoccarol/root-key1"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-05T21:03:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-54379", "ts": "2026-11-05T21:04:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66736", "ts": "2026-11-05T21:05:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80811", "ts": "2026-11-05T21:05:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-81009", "ts": "2026-11-05T21:05:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-81010", "ts": "2026-11-05T21:05:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-05T21:06:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97618", "ts": "2026-11-05T21:06:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99243", "ts": "2026-11-05T21:06:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99252", "ts": "2026-11-05T21:06:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99262", "ts": "2026-11-05T21:06:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99263", "ts": "2026-11-05T21:06:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99264", "ts": "2026-11-05T21:06:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99265", "ts": "2026-11-05T21:06:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99266", "ts": "2026-11-05T21:06:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99267", "ts": "2026-11-05T21:06:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99268", "ts": "2026-11-05T21:06:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-50579", "ts": "2026-11-05T21:09:01Z", "type": "new_poc", "url": "https://github.com/davidoberst/CVE-2025-50579"}
+{"cve_id": "CVE-2026-102334", "ts": "2026-11-05T21:09:02Z", "type": "new_poc", "url": "https://github.com/davidoberst/CVE-2026-102334"}
+{"cve_id": "CVE-2026-58868", "ts": "2026-11-05T21:09:03Z", "type": "new_poc", "url": "https://github.com/redfishrouge/CVE-2026-58868-PoC"}

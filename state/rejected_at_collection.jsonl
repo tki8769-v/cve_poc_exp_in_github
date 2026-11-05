@@ -2970,3 +2970,5 @@
 {"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-11-05T13:51:24Z", "url": "https://github.com/Danasuley/CVE-2023-28252-", "url_ids": ["CVE-2023-28252"]}
 {"cve_id": "CVE-2026-10052", "reason": "prefix_conflict_evidenced", "ts": "2026-11-05T14:04:43Z", "url": "https://github.com/wvllxe/CVE-2026-100520-laranode-path-traversal", "url_ids": ["CVE-2026-100520"]}
 {"cve_id": "CVE-2026-2376", "reason": "prefix_conflict_evidenced", "ts": "2026-11-05T20:49:49Z", "url": "https://github.com/MaxMnMl/smartermail-CVE-2026-23760-poc", "url_ids": ["CVE-2026-23760"]}
+{"cve_id": "CVE-2022-4063", "reason": "prefix_conflict_evidenced", "ts": "2026-11-05T21:11:12Z", "url": "https://github.com/mbadanoiu/CVE-2022-40635", "url_ids": ["CVE-2022-40635"]}
+{"cve_id": "CVE-2022-4063", "reason": "prefix_conflict_evidenced", "ts": "2026-11-05T21:11:12Z", "url": "https://github.com/mbadanoiu/CVE-2022-40634", "url_ids": ["CVE-2022-40634"]}

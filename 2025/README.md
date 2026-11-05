@@ -5489,6 +5489,10 @@ Users are recommended to upgrade to version 11.0.9, 10.1.43 or 9.0.107, which fi
 
 - [https://github.com/1515601525/CVE-2025-50592](https://github.com/1515601525/CVE-2025-50592) : ![starts](https://img.shields.io/github/stars/1515601525/CVE-2025-50592.svg) ![forks](https://img.shields.io/github/forks/1515601525/CVE-2025-50592.svg)
 
+## CVE-2025-50579
+
+- [https://github.com/davidoberst/CVE-2025-50579](https://github.com/davidoberst/CVE-2025-50579) : ![starts](https://img.shields.io/github/stars/davidoberst/CVE-2025-50579.svg) ![forks](https://img.shields.io/github/forks/davidoberst/CVE-2025-50579.svg)
+
 ## CVE-2025-50565
  Doubo ERP 1.0 has an SQL injection vulnerability due to a lack of filtering of user input, which can be remotely initiated by an attacker.
 
