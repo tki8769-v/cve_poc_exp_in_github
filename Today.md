@@ -15,9 +15,21 @@
 
 - [https://github.com/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup](https://github.com/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup) : ![starts](https://img.shields.io/github/stars/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup.svg) ![forks](https://img.shields.io/github/forks/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup.svg)
 
+## CVE-2022-38181
+
+- [https://github.com/lRENyaaa/AGM3-W09HN-TempRoot](https://github.com/lRENyaaa/AGM3-W09HN-TempRoot) : ![starts](https://img.shields.io/github/stars/lRENyaaa/AGM3-W09HN-TempRoot.svg) ![forks](https://img.shields.io/github/forks/lRENyaaa/AGM3-W09HN-TempRoot.svg)
+
+## CVE-2023-46071
+
+- [https://github.com/raycoarana/rgpd-cookie-legal](https://github.com/raycoarana/rgpd-cookie-legal) : ![starts](https://img.shields.io/github/stars/raycoarana/rgpd-cookie-legal.svg) ![forks](https://img.shields.io/github/forks/raycoarana/rgpd-cookie-legal.svg)
+
 ## CVE-2024-21626
 
 - [https://github.com/GjerdanKashmiri/leakyvessels_reproduction_mitigation](https://github.com/GjerdanKashmiri/leakyvessels_reproduction_mitigation) : ![starts](https://img.shields.io/github/stars/GjerdanKashmiri/leakyvessels_reproduction_mitigation.svg) ![forks](https://img.shields.io/github/forks/GjerdanKashmiri/leakyvessels_reproduction_mitigation.svg)
+
+## CVE-2024-26229
+
+- [https://github.com/stillbigjosh/cve-2024-26229-bof](https://github.com/stillbigjosh/cve-2024-26229-bof) : ![starts](https://img.shields.io/github/stars/stillbigjosh/cve-2024-26229-bof.svg) ![forks](https://img.shields.io/github/forks/stillbigjosh/cve-2024-26229-bof.svg)
 
 ## CVE-2024-47066
 
@@ -43,6 +55,10 @@ The vulnerability is caused by the reuse of hard links and requires the client t
 
 - [https://github.com/D-1P1X/php2shell-web](https://github.com/D-1P1X/php2shell-web) : ![starts](https://img.shields.io/github/stars/D-1P1X/php2shell-web.svg) ![forks](https://img.shields.io/github/forks/D-1P1X/php2shell-web.svg)
 - [https://github.com/Nebur692/php-legacy-ubuntu](https://github.com/Nebur692/php-legacy-ubuntu) : ![starts](https://img.shields.io/github/stars/Nebur692/php-legacy-ubuntu.svg) ![forks](https://img.shields.io/github/forks/Nebur692/php-legacy-ubuntu.svg)
+- [https://github.com/avrevic/php2shell-chase](https://github.com/avrevic/php2shell-chase) : ![starts](https://img.shields.io/github/stars/avrevic/php2shell-chase.svg) ![forks](https://img.shields.io/github/forks/avrevic/php2shell-chase.svg)
+- [https://github.com/avrevic/php2shell-lean-chase](https://github.com/avrevic/php2shell-lean-chase) : ![starts](https://img.shields.io/github/stars/avrevic/php2shell-lean-chase.svg) ![forks](https://img.shields.io/github/forks/avrevic/php2shell-lean-chase.svg)
+- [https://github.com/avrevic/php2shell-lean-plain](https://github.com/avrevic/php2shell-lean-plain) : ![starts](https://img.shields.io/github/stars/avrevic/php2shell-lean-plain.svg) ![forks](https://img.shields.io/github/forks/avrevic/php2shell-lean-plain.svg)
+- [https://github.com/avrevic/php2shell-plain](https://github.com/avrevic/php2shell-plain) : ![starts](https://img.shields.io/github/stars/avrevic/php2shell-plain.svg) ![forks](https://img.shields.io/github/forks/avrevic/php2shell-plain.svg)
 - [https://github.com/sam00/CVE-2026-109618-CVE-2026-109619-POC](https://github.com/sam00/CVE-2026-109618-CVE-2026-109619-POC) : ![starts](https://img.shields.io/github/stars/sam00/CVE-2026-109618-CVE-2026-109619-POC.svg) ![forks](https://img.shields.io/github/forks/sam00/CVE-2026-109618-CVE-2026-109619-POC.svg)
 
 ## CVE-2026-109619
@@ -85,6 +101,11 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 
 - [https://github.com/Mushr00w/CVE-2026-116512](https://github.com/Mushr00w/CVE-2026-116512) : ![starts](https://img.shields.io/github/stars/Mushr00w/CVE-2026-116512.svg) ![forks](https://img.shields.io/github/forks/Mushr00w/CVE-2026-116512.svg)
 
+## CVE-2026-119977
+> WordPress Core is vulnerable to Remote Code Execution in versions 4.7 through 7.1.3. This is due to predictable, web-accessible staging paths used during full-package core upgrades. This makes it possible for unauthenticated attackers to execute code on the server during the upgrade window.
+
+- [https://github.com/tc4dy/CVE-2026-119977-Toolkit](https://github.com/tc4dy/CVE-2026-119977-Toolkit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-119977-Toolkit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-119977-Toolkit.svg)
+
 ## CVE-2026-120232
 > A vulnerability was identified in Horizon DataSys Reboot Restore Standard up to 13.2. The impacted element is the function sub_23908 in the library shield.sys of the component Kernel Driver. Such manipulation leads to memory corruption. The attack can only be performed from a local environment. The exploit is publicly available and might be used. A fix is planned for the upcoming release.
 
@@ -98,6 +119,11 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 ## CVE-2026-122051
 
 - [https://github.com/carterlasalle/CVE-2026-122051](https://github.com/carterlasalle/CVE-2026-122051) : ![starts](https://img.shields.io/github/stars/carterlasalle/CVE-2026-122051.svg) ![forks](https://img.shields.io/github/forks/carterlasalle/CVE-2026-122051.svg)
+
+## CVE-2026-123158
+
+- [https://github.com/0xBlackash/CVE-2026-123158](https://github.com/0xBlackash/CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-123158.svg)
+- [https://github.com/coboliqcom/cve-2026-123158-sshole-safe-rust](https://github.com/coboliqcom/cve-2026-123158-sshole-safe-rust) : ![starts](https://img.shields.io/github/stars/coboliqcom/cve-2026-123158-sshole-safe-rust.svg) ![forks](https://img.shields.io/github/forks/coboliqcom/cve-2026-123158-sshole-safe-rust.svg)
 
 ## CVE-2026-18470
 
@@ -118,6 +144,7 @@ problems:
 
   1) the rbtree dequeue happens without waiter::task::pi_l
 
+- [https://github.com/giannoccarol/root-key1](https://github.com/giannoccarol/root-key1) : ![starts](https://img.shields.io/github/stars/giannoccarol/root-key1.svg) ![forks](https://img.shields.io/github/forks/giannoccarol/root-key1.svg)
 - [https://github.com/thedavidweng/ghostlock-z3q](https://github.com/thedavidweng/ghostlock-z3q) : ![starts](https://img.shields.io/github/stars/thedavidweng/ghostlock-z3q.svg) ![forks](https://img.shields.io/github/forks/thedavidweng/ghostlock-z3q.svg)
 
 ## CVE-2026-58868
@@ -187,4 +214,6 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 - [https://github.com/datacenter-metrotel/Mitigating-CVE-2026-98432](https://github.com/datacenter-metrotel/Mitigating-CVE-2026-98432) : ![starts](https://img.shields.io/github/stars/datacenter-metrotel/Mitigating-CVE-2026-98432.svg) ![forks](https://img.shields.io/github/forks/datacenter-metrotel/Mitigating-CVE-2026-98432.svg)
 - [https://github.com/dolistblesson/CVE-2026-98432-update](https://github.com/dolistblesson/CVE-2026-98432-update) : ![starts](https://img.shields.io/github/stars/dolistblesson/CVE-2026-98432-update.svg) ![forks](https://img.shields.io/github/forks/dolistblesson/CVE-2026-98432-update.svg)
 - [https://github.com/keithel/ubuntu-26.04-kernel-cve-2026-98432-patch-build-docker](https://github.com/keithel/ubuntu-26.04-kernel-cve-2026-98432-patch-build-docker) : ![starts](https://img.shields.io/github/stars/keithel/ubuntu-26.04-kernel-cve-2026-98432-patch-build-docker.svg) ![forks](https://img.shields.io/github/forks/keithel/ubuntu-26.04-kernel-cve-2026-98432-patch-build-docker.svg)
+- [https://github.com/mafudge/cve-2026-98432](https://github.com/mafudge/cve-2026-98432) : ![starts](https://img.shields.io/github/stars/mafudge/cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/mafudge/cve-2026-98432.svg)
 - [https://github.com/moatome/CVE-2026-98432-pen-test-main](https://github.com/moatome/CVE-2026-98432-pen-test-main) : ![starts](https://img.shields.io/github/stars/moatome/CVE-2026-98432-pen-test-main.svg) ![forks](https://img.shields.io/github/forks/moatome/CVE-2026-98432-pen-test-main.svg)
+- [https://github.com/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation](https://github.com/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation) : ![starts](https://img.shields.io/github/stars/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation.svg) ![forks](https://img.shields.io/github/forks/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation.svg)

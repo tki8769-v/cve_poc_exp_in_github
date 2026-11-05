@@ -6494,6 +6494,8 @@ Users are recommended to upgrade to version 1.26, which fixes the issue.
 
 - [https://github.com/0xGunrunner/CVE-2024-26229-BOF](https://github.com/0xGunrunner/CVE-2024-26229-BOF) : ![starts](https://img.shields.io/github/stars/0xGunrunner/CVE-2024-26229-BOF.svg) ![forks](https://img.shields.io/github/forks/0xGunrunner/CVE-2024-26229-BOF.svg)
 
+- [https://github.com/stillbigjosh/cve-2024-26229-bof](https://github.com/stillbigjosh/cve-2024-26229-bof) : ![starts](https://img.shields.io/github/stars/stillbigjosh/cve-2024-26229-bof.svg) ![forks](https://img.shields.io/github/forks/stillbigjosh/cve-2024-26229-bof.svg)
+
 ## CVE-2024-26218
  Windows Kernel Elevation of Privilege Vulnerability
 

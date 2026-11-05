@@ -1443,6 +1443,10 @@ which fixes this issue.
 
 - [https://github.com/JawadPy/WerkGhost](https://github.com/JawadPy/WerkGhost) : ![starts](https://img.shields.io/github/stars/JawadPy/WerkGhost.svg) ![forks](https://img.shields.io/github/forks/JawadPy/WerkGhost.svg)
 
+## CVE-2023-46071
+
+- [https://github.com/raycoarana/rgpd-cookie-legal](https://github.com/raycoarana/rgpd-cookie-legal) : ![starts](https://img.shields.io/github/stars/raycoarana/rgpd-cookie-legal.svg) ![forks](https://img.shields.io/github/forks/raycoarana/rgpd-cookie-legal.svg)
+
 ## CVE-2023-46022
  SQL Injection vulnerability in delete.php in Code-Projects Blood Bank 1.0 allows attackers to run arbitrary SQL commands via the 'bid' parameter.
 

@@ -6,6 +6,12 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-123158
+
+- [https://github.com/0xBlackash/CVE-2026-123158](https://github.com/0xBlackash/CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-123158.svg)
+
+- [https://github.com/coboliqcom/cve-2026-123158-sshole-safe-rust](https://github.com/coboliqcom/cve-2026-123158-sshole-safe-rust) : ![starts](https://img.shields.io/github/stars/coboliqcom/cve-2026-123158-sshole-safe-rust.svg) ![forks](https://img.shields.io/github/forks/coboliqcom/cve-2026-123158-sshole-safe-rust.svg)
+
 ## CVE-2026-122051
 
 - [https://github.com/carterlasalle/CVE-2026-122051](https://github.com/carterlasalle/CVE-2026-122051) : ![starts](https://img.shields.io/github/stars/carterlasalle/CVE-2026-122051.svg) ![forks](https://img.shields.io/github/forks/carterlasalle/CVE-2026-122051.svg)
@@ -45,6 +51,8 @@
 - [https://github.com/foxcornlab/wordpress-core-scanner](https://github.com/foxcornlab/wordpress-core-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/wordpress-core-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/wordpress-core-scanner.svg)
 
 - [https://github.com/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4](https://github.com/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4) : ![starts](https://img.shields.io/github/stars/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4.svg) ![forks](https://img.shields.io/github/forks/Worthes/CVE-2026-119977-WordPress-Upgrade-RCE-Bypasses-7.1.4.svg)
+
+- [https://github.com/tc4dy/CVE-2026-119977-Toolkit](https://github.com/tc4dy/CVE-2026-119977-Toolkit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-119977-Toolkit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-119977-Toolkit.svg)
 
 ## CVE-2026-119712
 > PipesHub before 0.10.0 contains a server-side request forgery vulnerability in ImageParser._fetch_single_url that allows attackers to make the indexing service fetch internal addresses by embedding image URLs in documents. Attackers can supply Markdown or HTML via uploads, synced mailboxes, or web connectors to reach loopback, private-network, or cloud metadata endpoints, with image responses embedded into indexed content.
@@ -1753,6 +1761,14 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/Nebur692/php-legacy-ubuntu](https://github.com/Nebur692/php-legacy-ubuntu) : ![starts](https://img.shields.io/github/stars/Nebur692/php-legacy-ubuntu.svg) ![forks](https://img.shields.io/github/forks/Nebur692/php-legacy-ubuntu.svg)
 
+- [https://github.com/avrevic/php2shell-chase](https://github.com/avrevic/php2shell-chase) : ![starts](https://img.shields.io/github/stars/avrevic/php2shell-chase.svg) ![forks](https://img.shields.io/github/forks/avrevic/php2shell-chase.svg)
+
+- [https://github.com/avrevic/php2shell-lean-chase](https://github.com/avrevic/php2shell-lean-chase) : ![starts](https://img.shields.io/github/stars/avrevic/php2shell-lean-chase.svg) ![forks](https://img.shields.io/github/forks/avrevic/php2shell-lean-chase.svg)
+
+- [https://github.com/avrevic/php2shell-lean-plain](https://github.com/avrevic/php2shell-lean-plain) : ![starts](https://img.shields.io/github/stars/avrevic/php2shell-lean-plain.svg) ![forks](https://img.shields.io/github/forks/avrevic/php2shell-lean-plain.svg)
+
+- [https://github.com/avrevic/php2shell-plain](https://github.com/avrevic/php2shell-plain) : ![starts](https://img.shields.io/github/stars/avrevic/php2shell-plain.svg) ![forks](https://img.shields.io/github/forks/avrevic/php2shell-plain.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -3052,6 +3068,10 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 - [https://github.com/dolistblesson/CVE-2026-98432-update](https://github.com/dolistblesson/CVE-2026-98432-update) : ![starts](https://img.shields.io/github/stars/dolistblesson/CVE-2026-98432-update.svg) ![forks](https://img.shields.io/github/forks/dolistblesson/CVE-2026-98432-update.svg)
 
 - [https://github.com/keithel/ubuntu-26.04-kernel-cve-2026-98432-patch-build-docker](https://github.com/keithel/ubuntu-26.04-kernel-cve-2026-98432-patch-build-docker) : ![starts](https://img.shields.io/github/stars/keithel/ubuntu-26.04-kernel-cve-2026-98432-patch-build-docker.svg) ![forks](https://img.shields.io/github/forks/keithel/ubuntu-26.04-kernel-cve-2026-98432-patch-build-docker.svg)
+
+- [https://github.com/mafudge/cve-2026-98432](https://github.com/mafudge/cve-2026-98432) : ![starts](https://img.shields.io/github/stars/mafudge/cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/mafudge/cve-2026-98432.svg)
+
+- [https://github.com/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation](https://github.com/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation) : ![starts](https://img.shields.io/github/stars/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation.svg) ![forks](https://img.shields.io/github/forks/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation.svg)
 
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -13653,6 +13673,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/heikeyangle-code/mi11-venus-temproot](https://github.com/heikeyangle-code/mi11-venus-temproot) : ![starts](https://img.shields.io/github/stars/heikeyangle-code/mi11-venus-temproot.svg) ![forks](https://img.shields.io/github/forks/heikeyangle-code/mi11-venus-temproot.svg)
 
 - [https://github.com/thedavidweng/ghostlock-z3q](https://github.com/thedavidweng/ghostlock-z3q) : ![starts](https://img.shields.io/github/stars/thedavidweng/ghostlock-z3q.svg) ![forks](https://img.shields.io/github/forks/thedavidweng/ghostlock-z3q.svg)
+
+- [https://github.com/giannoccarol/root-key1](https://github.com/giannoccarol/root-key1) : ![starts](https://img.shields.io/github/stars/giannoccarol/root-key1.svg) ![forks](https://img.shields.io/github/forks/giannoccarol/root-key1.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:

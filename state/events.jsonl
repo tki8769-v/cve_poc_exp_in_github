@@ -8396,3 +8396,33 @@
 {"cve_id": "CVE-2026-99267", "ts": "2026-11-05T13:58:23Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-99268", "ts": "2026-11-05T13:58:24Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-109518", "ts": "2026-11-05T14:00:23Z", "type": "new_poc", "url": "https://github.com/jordanhardee/cve-2026-109518-apt-patch-proxmox-and-generic"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-05T20:43:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-54379", "ts": "2026-11-05T20:44:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66736", "ts": "2026-11-05T20:45:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80811", "ts": "2026-11-05T20:45:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-81009", "ts": "2026-11-05T20:45:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-81010", "ts": "2026-11-05T20:45:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-05T20:45:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97618", "ts": "2026-11-05T20:46:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99243", "ts": "2026-11-05T20:46:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99252", "ts": "2026-11-05T20:46:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99262", "ts": "2026-11-05T20:46:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99263", "ts": "2026-11-05T20:46:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99264", "ts": "2026-11-05T20:46:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99265", "ts": "2026-11-05T20:46:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99266", "ts": "2026-11-05T20:46:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99267", "ts": "2026-11-05T20:46:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99268", "ts": "2026-11-05T20:46:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-119977", "ts": "2026-11-05T20:48:36Z", "type": "new_poc", "url": "https://github.com/tc4dy/CVE-2026-119977-Toolkit"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-05T20:48:37Z", "type": "new_poc", "url": "https://github.com/0xBlackash/CVE-2026-123158"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-05T20:48:38Z", "type": "new_poc", "url": "https://github.com/mafudge/cve-2026-98432"}
+{"cve_id": "CVE-2024-26229", "ts": "2026-11-05T20:48:39Z", "type": "new_poc", "url": "https://github.com/stillbigjosh/cve-2024-26229-bof"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-05T20:48:39Z", "type": "new_poc", "url": "https://github.com/sv3t0sl4v/CVE-2026-98432-Ubuntu-Temporary-Mitigation"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-05T20:48:39Z", "type": "new_poc", "url": "https://github.com/coboliqcom/cve-2026-123158-sshole-safe-rust"}
+{"cve_id": "CVE-2022-38181", "ts": "2026-11-05T20:48:40Z", "type": "new_poc", "url": "https://github.com/lRENyaaa/AGM3-W09HN-TempRoot"}
+{"cve_id": "CVE-2023-46071", "ts": "2026-11-05T20:48:40Z", "type": "new_poc", "url": "https://github.com/raycoarana/rgpd-cookie-legal"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-05T20:48:41Z", "type": "new_poc", "url": "https://github.com/avrevic/php2shell-plain"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-05T20:48:41Z", "type": "new_poc", "url": "https://github.com/avrevic/php2shell-lean-plain"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-05T20:48:41Z", "type": "new_poc", "url": "https://github.com/avrevic/php2shell-chase"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-05T20:48:41Z", "type": "new_poc", "url": "https://github.com/avrevic/php2shell-lean-chase"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-05T20:48:42Z", "type": "new_poc", "url": "https://github.com/giannoccarol/root-key1"}
