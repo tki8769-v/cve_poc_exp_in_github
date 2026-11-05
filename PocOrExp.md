@@ -456,6 +456,8 @@ On an affected system, any authenticated user can gain operator privileges and m
 
 - [https://github.com/Ishanoshada/Emudhra-Ca-Compromise-Lab](https://github.com/Ishanoshada/Emudhra-Ca-Compromise-Lab) : ![starts](https://img.shields.io/github/stars/Ishanoshada/Emudhra-Ca-Compromise-Lab.svg) ![forks](https://img.shields.io/github/forks/Ishanoshada/Emudhra-Ca-Compromise-Lab.svg)
 
+- [https://github.com/sam00/CVE-2026-111943-Emudhra-Ca-Compromise-POC](https://github.com/sam00/CVE-2026-111943-Emudhra-Ca-Compromise-POC) : ![starts](https://img.shields.io/github/stars/sam00/CVE-2026-111943-Emudhra-Ca-Compromise-POC.svg) ![forks](https://img.shields.io/github/forks/sam00/CVE-2026-111943-Emudhra-Ca-Compromise-POC.svg)
+
 ## CVE-2026-111823
 > Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encountering an unknown OAuth provider.
 
@@ -686,6 +688,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-](https://github.com/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-) : ![starts](https://img.shields.io/github/stars/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-.svg) ![forks](https://img.shields.io/github/forks/Certbn/Brotli-Node.js-CVE-2026-111497-Broccoli2Shell-Node2Shell-HTTP2Shell-.svg)
 
 - [https://github.com/MelissaSkywalkz/broccoli2shell-gis](https://github.com/MelissaSkywalkz/broccoli2shell-gis) : ![starts](https://img.shields.io/github/stars/MelissaSkywalkz/broccoli2shell-gis.svg) ![forks](https://img.shields.io/github/forks/MelissaSkywalkz/broccoli2shell-gis.svg)
+
+- [https://github.com/aymenkmar/node2shell-check](https://github.com/aymenkmar/node2shell-check) : ![starts](https://img.shields.io/github/stars/aymenkmar/node2shell-check.svg) ![forks](https://img.shields.io/github/forks/aymenkmar/node2shell-check.svg)
+
+- [https://github.com/sam00/Node2Shell-CVE-2026-111497-POC](https://github.com/sam00/Node2Shell-CVE-2026-111497-POC) : ![starts](https://img.shields.io/github/stars/sam00/Node2Shell-CVE-2026-111497-POC.svg) ![forks](https://img.shields.io/github/forks/sam00/Node2Shell-CVE-2026-111497-POC.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -1727,6 +1733,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 > A vulnerability was detected in YouTransfer up to 0.0.7/1.0.6/1.1.0. Affected is an unknown function of the file /settings/template of the component Template Rendering. The manipulation results in path traversal. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/0xgh0stri13y/CVE-2026-109519](https://github.com/0xgh0stri13y/CVE-2026-109519) : ![starts](https://img.shields.io/github/stars/0xgh0stri13y/CVE-2026-109519.svg) ![forks](https://img.shields.io/github/forks/0xgh0stri13y/CVE-2026-109519.svg)
+
+## CVE-2026-109518
+
+- [https://github.com/Quaerendir/cve-2026-109518-audit](https://github.com/Quaerendir/cve-2026-109518-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/cve-2026-109518-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/cve-2026-109518-audit.svg)
 
 ## CVE-2026-109506
 > Multiple
@@ -2983,6 +2993,10 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/moatome/CVE-2026-98432-pen-test](https://github.com/moatome/CVE-2026-98432-pen-test) : ![starts](https://img.shields.io/github/stars/moatome/CVE-2026-98432-pen-test.svg) ![forks](https://img.shields.io/github/forks/moatome/CVE-2026-98432-pen-test.svg)
 
+- [https://github.com/Certbn/CVE-2026-98432-Linux-IPv4-TCP-IP-Use-After-Free](https://github.com/Certbn/CVE-2026-98432-Linux-IPv4-TCP-IP-Use-After-Free) : ![starts](https://img.shields.io/github/stars/Certbn/CVE-2026-98432-Linux-IPv4-TCP-IP-Use-After-Free.svg) ![forks](https://img.shields.io/github/forks/Certbn/CVE-2026-98432-Linux-IPv4-TCP-IP-Use-After-Free.svg)
+
+- [https://github.com/moatome/CVE-2026-98432-pen-test-main](https://github.com/moatome/CVE-2026-98432-pen-test-main) : ![starts](https://img.shields.io/github/stars/moatome/CVE-2026-98432-pen-test-main.svg) ![forks](https://img.shields.io/github/forks/moatome/CVE-2026-98432-pen-test-main.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3278,6 +3292,8 @@ making each ACE up to 76 bytes (s
 - [https://github.com/Noshadi-sec/CVE-2026-97229](https://github.com/Noshadi-sec/CVE-2026-97229) : ![starts](https://img.shields.io/github/stars/Noshadi-sec/CVE-2026-97229.svg) ![forks](https://img.shields.io/github/forks/Noshadi-sec/CVE-2026-97229.svg)
 
 - [https://github.com/emc-kk/cve-2026-97229-lab](https://github.com/emc-kk/cve-2026-97229-lab) : ![starts](https://img.shields.io/github/stars/emc-kk/cve-2026-97229-lab.svg) ![forks](https://img.shields.io/github/forks/emc-kk/cve-2026-97229-lab.svg)
+
+- [https://github.com/Certbn/CVE-2026-97229-GitLab-CI-CD](https://github.com/Certbn/CVE-2026-97229-GitLab-CI-CD) : ![starts](https://img.shields.io/github/stars/Certbn/CVE-2026-97229-GitLab-CI-CD.svg) ![forks](https://img.shields.io/github/forks/Certbn/CVE-2026-97229-GitLab-CI-CD.svg)
 
 ## CVE-2026-97206
 > NLnet Labs Unbound, 1.22.0 up to and including version 1.26.1, contains a DNS-over-QUIC (DoQ) lifetime bug reachable by a remote DoQ client under multi-threaded operation. A client-triggered QUIC path migration can enter stream/connection cleanup while a mesh reply still retains a pointer to the DoQ stream. Cleanup frees the DoQ stream and when the pending mesh reply later completes it dereferences a stale pointer leading to a crash.
@@ -44716,6 +44732,8 @@ Users are recommended to upgrade to version 2.14.0 or later, which fixes the iss
 
 - [https://github.com/l8BL/CVE-2024-47066](https://github.com/l8BL/CVE-2024-47066) : ![starts](https://img.shields.io/github/stars/l8BL/CVE-2024-47066.svg) ![forks](https://img.shields.io/github/forks/l8BL/CVE-2024-47066.svg)
 
+- [https://github.com/EQSTLab/CVE-2024-47066](https://github.com/EQSTLab/CVE-2024-47066) : ![starts](https://img.shields.io/github/stars/EQSTLab/CVE-2024-47066.svg) ![forks](https://img.shields.io/github/forks/EQSTLab/CVE-2024-47066.svg)
+
 ## CVE-2024-47062
  Navidrome is an open source web-based music collection server and streamer. Navidrome automatically adds parameters in the URL to SQL queries. This can be exploited to access information by adding parameters like `password=...` in the URL (ORM Leak). Furthermore, the names of the parameters are not properly escaped, leading to SQL Injections. Finally, the username is used in a `LIKE` statement, allowing people to log in with `%` instead of their username. When adding parameters to the URL, they are automatically included in an SQL `LIKE` statement (depending on the parameter's name). This allows attackers to potentially retrieve arbitrary information. For example, attackers can use the following request to test whether some encrypted passwords start with `AAA`. This results in an SQL query like `password LIKE 'AAA%'`, allowing attackers to slowly brute-force passwords. When adding parameters to the URL, they are automatically added to an SQL query. The names of the parameters are not properly escaped. This behavior can be used to inject arbitrary SQL code (SQL Injection). These vulnerabilities can be used to leak information and dump the contents of the database and have been addressed in release version 0.53.0. Users are advised to upgrade. There are no known workarounds for this vulnerability.
 
@@ -50855,6 +50873,8 @@ This vulnerability was found internally.
 - [https://github.com/ghs053020-stack/cve-2024-21626](https://github.com/ghs053020-stack/cve-2024-21626) : ![starts](https://img.shields.io/github/stars/ghs053020-stack/cve-2024-21626.svg) ![forks](https://img.shields.io/github/forks/ghs053020-stack/cve-2024-21626.svg)
 
 - [https://github.com/Leven0101/cve-2024-21626-lab](https://github.com/Leven0101/cve-2024-21626-lab) : ![starts](https://img.shields.io/github/stars/Leven0101/cve-2024-21626-lab.svg) ![forks](https://img.shields.io/github/forks/Leven0101/cve-2024-21626-lab.svg)
+
+- [https://github.com/GjerdanKashmiri/leakyvessels_reproduction_mitigation](https://github.com/GjerdanKashmiri/leakyvessels_reproduction_mitigation) : ![starts](https://img.shields.io/github/stars/GjerdanKashmiri/leakyvessels_reproduction_mitigation.svg) ![forks](https://img.shields.io/github/forks/GjerdanKashmiri/leakyvessels_reproduction_mitigation.svg)
 
 ## CVE-2024-21546
  Versions of the package unisharp/laravel-filemanager before 2.9.1 are vulnerable to Remote Code Execution (RCE) through using a valid mimetype and inserting the . character after the php file extension. This allows the attacker to execute malicious code.

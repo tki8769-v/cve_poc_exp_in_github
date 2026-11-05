@@ -8269,3 +8269,18 @@
 {"cve_id": "CVE-2026-121803", "ts": "2026-11-04T21:05:49Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-95209", "ts": "2026-11-04T21:06:58Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-98432", "ts": "2026-11-04T21:07:59Z", "type": "new_poc", "url": "https://github.com/moatome/CVE-2026-98432-pen-test"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-05T01:28:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-05T01:29:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-05T01:31:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-05T01:32:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-05T01:34:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-05T01:35:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109518", "ts": "2026-11-05T01:36:41Z", "type": "new_poc", "url": "https://github.com/Quaerendir/cve-2026-109518-audit"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-05T01:36:42Z", "type": "new_poc", "url": "https://github.com/moatome/CVE-2026-98432-pen-test-main"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-11-05T01:36:42Z", "type": "new_poc", "url": "https://github.com/sam00/Node2Shell-CVE-2026-111497-POC"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-11-05T01:36:42Z", "type": "new_poc", "url": "https://github.com/aymenkmar/node2shell-check"}
+{"cve_id": "CVE-2026-97229", "ts": "2026-11-05T01:36:43Z", "type": "new_poc", "url": "https://github.com/Certbn/CVE-2026-97229-GitLab-CI-CD"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-05T01:36:43Z", "type": "new_poc", "url": "https://github.com/Certbn/CVE-2026-98432-Linux-IPv4-TCP-IP-Use-After-Free"}
+{"cve_id": "CVE-2024-21626", "ts": "2026-11-05T01:36:44Z", "type": "new_poc", "url": "https://github.com/GjerdanKashmiri/leakyvessels_reproduction_mitigation"}
+{"cve_id": "CVE-2026-111943", "ts": "2026-11-05T01:36:45Z", "type": "new_poc", "url": "https://github.com/sam00/CVE-2026-111943-Emudhra-Ca-Compromise-POC"}
+{"cve_id": "CVE-2024-47066", "ts": "2026-11-05T01:39:53Z", "type": "new_poc", "url": "https://github.com/EQSTLab/CVE-2024-47066"}
