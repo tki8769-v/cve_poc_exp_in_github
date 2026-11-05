@@ -8284,3 +8284,10 @@
 {"cve_id": "CVE-2024-21626", "ts": "2026-11-05T01:36:44Z", "type": "new_poc", "url": "https://github.com/GjerdanKashmiri/leakyvessels_reproduction_mitigation"}
 {"cve_id": "CVE-2026-111943", "ts": "2026-11-05T01:36:45Z", "type": "new_poc", "url": "https://github.com/sam00/CVE-2026-111943-Emudhra-Ca-Compromise-POC"}
 {"cve_id": "CVE-2024-47066", "ts": "2026-11-05T01:39:53Z", "type": "new_poc", "url": "https://github.com/EQSTLab/CVE-2024-47066"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-05T01:48:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-05T01:49:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-05T01:52:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-05T01:53:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-05T01:55:03Z", "type": "new_poc", "url": "https://github.com/sam00/CVE-2026-109618-CVE-2026-109619-POC"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-11-05T01:55:03Z", "type": "new_poc", "url": "https://github.com/sam00/CVE-2026-109618-CVE-2026-109619-POC"}
+{"cve_id": "CVE-2026-98258", "ts": "2026-11-05T01:55:25Z", "type": "new_poc", "url": "https://github.com/imkidz0/Trilemma"}
