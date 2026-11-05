@@ -2972,3 +2972,7 @@
 {"cve_id": "CVE-2026-2376", "reason": "prefix_conflict_evidenced", "ts": "2026-11-05T20:49:49Z", "url": "https://github.com/MaxMnMl/smartermail-CVE-2026-23760-poc", "url_ids": ["CVE-2026-23760"]}
 {"cve_id": "CVE-2022-4063", "reason": "prefix_conflict_evidenced", "ts": "2026-11-05T21:11:12Z", "url": "https://github.com/mbadanoiu/CVE-2022-40635", "url_ids": ["CVE-2022-40635"]}
 {"cve_id": "CVE-2022-4063", "reason": "prefix_conflict_evidenced", "ts": "2026-11-05T21:11:12Z", "url": "https://github.com/mbadanoiu/CVE-2022-40634", "url_ids": ["CVE-2022-40634"]}
+{"cve_id": "CVE-2019-1422", "reason": "prefix_conflict_evidenced", "ts": "2026-11-05T21:29:50Z", "url": "https://github.com/seqred-s-a/cve-2019-14220", "url_ids": ["CVE-2019-14220"]}
+{"cve_id": "CVE-2019-1422", "reason": "prefix_conflict_evidenced", "ts": "2026-11-05T21:29:50Z", "url": "https://github.com/mbadanoiu/CVE-2019-14224", "url_ids": ["CVE-2019-14224"]}
+{"cve_id": "CVE-2019-1422", "reason": "prefix_conflict_evidenced", "ts": "2026-11-05T21:29:50Z", "url": "https://github.com/mbadanoiu/CVE-2019-14222", "url_ids": ["CVE-2019-14222"]}
+{"cve_id": "CVE-2019-1422", "reason": "prefix_conflict_evidenced", "ts": "2026-11-05T21:29:50Z", "url": "https://github.com/mbadanoiu/CVE-2019-14223", "url_ids": ["CVE-2019-14223"]}
