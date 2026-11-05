@@ -8291,3 +8291,11 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-11-05T01:55:03Z", "type": "new_poc", "url": "https://github.com/sam00/CVE-2026-109618-CVE-2026-109619-POC"}
 {"cve_id": "CVE-2026-109619", "ts": "2026-11-05T01:55:03Z", "type": "new_poc", "url": "https://github.com/sam00/CVE-2026-109618-CVE-2026-109619-POC"}
 {"cve_id": "CVE-2026-98258", "ts": "2026-11-05T01:55:25Z", "type": "new_poc", "url": "https://github.com/imkidz0/Trilemma"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-05T02:07:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66736", "ts": "2026-11-05T02:09:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-05T02:09:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99265", "ts": "2026-11-05T02:09:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-05T02:13:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66736", "ts": "2026-11-05T02:14:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-05T02:15:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99265", "ts": "2026-11-05T02:15:31Z", "type": "cve_rejected"}
