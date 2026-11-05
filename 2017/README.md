@@ -281,6 +281,8 @@
 
 - [https://github.com/Dungsocool/CVE-2017-18349](https://github.com/Dungsocool/CVE-2017-18349) : ![starts](https://img.shields.io/github/stars/Dungsocool/CVE-2017-18349.svg) ![forks](https://img.shields.io/github/forks/Dungsocool/CVE-2017-18349.svg)
 
+- [https://github.com/dichen-L/CVE-2017-18349-fastjson1.2.24-vul](https://github.com/dichen-L/CVE-2017-18349-fastjson1.2.24-vul) : ![starts](https://img.shields.io/github/stars/dichen-L/CVE-2017-18349-fastjson1.2.24-vul.svg) ![forks](https://img.shields.io/github/forks/dichen-L/CVE-2017-18349-fastjson1.2.24-vul.svg)
+
 ## CVE-2017-18345
  The Joomanager component through 2.0.0 for Joomla! has an arbitrary file download issue, resulting in exposing the credentials of the database via an index.php?option=com_joomanager&controller=details&task=download&path=configuration.php request.
 
@@ -2154,6 +2156,8 @@
 - [https://github.com/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup](https://github.com/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup) : ![starts](https://img.shields.io/github/stars/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup.svg) ![forks](https://img.shields.io/github/forks/MK-ULTRA-MK-ULTRA/CVE-2017-7921-2026-writeup.svg)
 
 - [https://github.com/intcost/cve-2017-7921-hikvision-poc](https://github.com/intcost/cve-2017-7921-hikvision-poc) : ![starts](https://img.shields.io/github/stars/intcost/cve-2017-7921-hikvision-poc.svg) ![forks](https://img.shields.io/github/forks/intcost/cve-2017-7921-hikvision-poc.svg)
+
+- [https://github.com/Mr-Ochobot/Hikvision-CCTV-POC](https://github.com/Mr-Ochobot/Hikvision-CCTV-POC) : ![starts](https://img.shields.io/github/stars/Mr-Ochobot/Hikvision-CCTV-POC.svg) ![forks](https://img.shields.io/github/forks/Mr-Ochobot/Hikvision-CCTV-POC.svg)
 
 ## CVE-2017-7912
  Hanwha Techwin SRN-4000, SRN-4000 firmware versions prior to SRN4000_v2.16_170401, A specially crafted http request and response could allow an attacker to gain access to the device management page with admin privileges without proper authentication.
