@@ -36,6 +36,7 @@
 The vulnerability is caused by the reuse of hard links and requires the client to follow redirects and retry the download of package fil
 
 - [https://github.com/Quaerendir/cve-2026-109518-audit](https://github.com/Quaerendir/cve-2026-109518-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/cve-2026-109518-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/cve-2026-109518-audit.svg)
+- [https://github.com/jordanhardee/cve-2026-109518-apt-patch-proxmox-and-generic](https://github.com/jordanhardee/cve-2026-109518-apt-patch-proxmox-and-generic) : ![starts](https://img.shields.io/github/stars/jordanhardee/cve-2026-109518-apt-patch-proxmox-and-generic.svg) ![forks](https://img.shields.io/github/forks/jordanhardee/cve-2026-109518-apt-patch-proxmox-and-generic.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).

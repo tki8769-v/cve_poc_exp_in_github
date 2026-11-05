@@ -8378,3 +8378,21 @@
 {"cve_id": "CVE-2026-99268", "ts": "2026-11-05T13:40:40Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-11-05T13:42:09Z", "type": "new_poc", "url": "https://github.com/Nebur692/php-legacy-ubuntu"}
 {"cve_id": "CVE-2018-20062", "ts": "2026-11-05T13:50:29Z", "type": "new_poc", "url": "https://github.com/0xRar/ThinkPHP5_RCE"}
+{"cve_id": "CVE-2026-121803", "ts": "2026-11-05T13:56:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-54379", "ts": "2026-11-05T13:57:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-66736", "ts": "2026-11-05T13:57:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80811", "ts": "2026-11-05T13:57:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-81009", "ts": "2026-11-05T13:57:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-81010", "ts": "2026-11-05T13:57:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-95209", "ts": "2026-11-05T13:58:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-97618", "ts": "2026-11-05T13:58:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99243", "ts": "2026-11-05T13:58:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99252", "ts": "2026-11-05T13:58:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99262", "ts": "2026-11-05T13:58:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99263", "ts": "2026-11-05T13:58:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99264", "ts": "2026-11-05T13:58:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99265", "ts": "2026-11-05T13:58:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99266", "ts": "2026-11-05T13:58:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99267", "ts": "2026-11-05T13:58:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99268", "ts": "2026-11-05T13:58:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109518", "ts": "2026-11-05T14:00:23Z", "type": "new_poc", "url": "https://github.com/jordanhardee/cve-2026-109518-apt-patch-proxmox-and-generic"}

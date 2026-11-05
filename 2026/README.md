@@ -1777,6 +1777,8 @@ The vulnerability is caused by the reuse of hard links and requires the client t
 
 - [https://github.com/Quaerendir/cve-2026-109518-audit](https://github.com/Quaerendir/cve-2026-109518-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/cve-2026-109518-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/cve-2026-109518-audit.svg)
 
+- [https://github.com/jordanhardee/cve-2026-109518-apt-patch-proxmox-and-generic](https://github.com/jordanhardee/cve-2026-109518-apt-patch-proxmox-and-generic) : ![starts](https://img.shields.io/github/stars/jordanhardee/cve-2026-109518-apt-patch-proxmox-and-generic.svg) ![forks](https://img.shields.io/github/forks/jordanhardee/cve-2026-109518-apt-patch-proxmox-and-generic.svg)
+
 ## CVE-2026-109506
 > Multiple
 TP-Link Wi-Fi range extenders use a custom, reversible XOR-and-dictionary
