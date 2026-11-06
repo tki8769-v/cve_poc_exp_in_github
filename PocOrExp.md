@@ -38,6 +38,14 @@
 
 - [https://github.com/techtaek77/sshole-guide](https://github.com/techtaek77/sshole-guide) : ![starts](https://img.shields.io/github/stars/techtaek77/sshole-guide.svg) ![forks](https://img.shields.io/github/forks/techtaek77/sshole-guide.svg)
 
+- [https://github.com/halilkirazkaya/CVE-2026-123158](https://github.com/halilkirazkaya/CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/halilkirazkaya/CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/halilkirazkaya/CVE-2026-123158.svg)
+
+- [https://github.com/CriticalWombat/sshole_scanner-CVE-2026-123158](https://github.com/CriticalWombat/sshole_scanner-CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/CriticalWombat/sshole_scanner-CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/CriticalWombat/sshole_scanner-CVE-2026-123158.svg)
+
+- [https://github.com/crash00xd/CVE-2026-123158_SSHRole_PoC](https://github.com/crash00xd/CVE-2026-123158_SSHRole_PoC) : ![starts](https://img.shields.io/github/stars/crash00xd/CVE-2026-123158_SSHRole_PoC.svg) ![forks](https://img.shields.io/github/forks/crash00xd/CVE-2026-123158_SSHRole_PoC.svg)
+
+- [https://github.com/mc493/openssh-musl-enterprise--hardening-cve-2026-123158](https://github.com/mc493/openssh-musl-enterprise--hardening-cve-2026-123158) : ![starts](https://img.shields.io/github/stars/mc493/openssh-musl-enterprise--hardening-cve-2026-123158.svg) ![forks](https://img.shields.io/github/forks/mc493/openssh-musl-enterprise--hardening-cve-2026-123158.svg)
+
 ## CVE-2026-123025
 > An OS Command Injection vulnerability was discovered in the Google Cloud DNS validation module of the OPNsense os-acme-client plugin through 4.17. The DnsGcloud::prepare() method decodes the dns_gcloud_key model field and directly interpolates the string fields gcloud_account and gcloud_project into a shell command passed to proc_open() via LeUtils::run_shell_command() without any validation or escaping. A remote authenticated user with privileges to issue or renew certificates through the WebGU
 
@@ -105,6 +113,10 @@
 
 - [https://github.com/tc4dy/CVE-2026-119977-Toolkit](https://github.com/tc4dy/CVE-2026-119977-Toolkit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-119977-Toolkit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-119977-Toolkit.svg)
 
+- [https://github.com/paulmann/Bash_WP-CLI_Update](https://github.com/paulmann/Bash_WP-CLI_Update) : ![starts](https://img.shields.io/github/stars/paulmann/Bash_WP-CLI_Update.svg) ![forks](https://img.shields.io/github/forks/paulmann/Bash_WP-CLI_Update.svg)
+
+- [https://github.com/hacermuden/CVE-2026-119977](https://github.com/hacermuden/CVE-2026-119977) : ![starts](https://img.shields.io/github/stars/hacermuden/CVE-2026-119977.svg) ![forks](https://img.shields.io/github/forks/hacermuden/CVE-2026-119977.svg)
+
 ## CVE-2026-119712
 > PipesHub before 0.10.0 contains a server-side request forgery vulnerability in ImageParser._fetch_single_url that allows attackers to make the indexing service fetch internal addresses by embedding image URLs in documents. Attackers can supply Markdown or HTML via uploads, synced mailboxes, or web connectors to reach loopback, private-network, or cloud metadata endpoints, with image responses embedded into indexed content.
 
@@ -138,6 +150,10 @@
 ## CVE-2026-118423
 
 - [https://github.com/thiscitze/cve-2026-118423-poc](https://github.com/thiscitze/cve-2026-118423-poc) : ![starts](https://img.shields.io/github/stars/thiscitze/cve-2026-118423-poc.svg) ![forks](https://img.shields.io/github/forks/thiscitze/cve-2026-118423-poc.svg)
+
+- [https://github.com/Sable-Research/CVE-2026-118423-WP-Libre-Form](https://github.com/Sable-Research/CVE-2026-118423-WP-Libre-Form) : ![starts](https://img.shields.io/github/stars/Sable-Research/CVE-2026-118423-WP-Libre-Form.svg) ![forks](https://img.shields.io/github/forks/Sable-Research/CVE-2026-118423-WP-Libre-Form.svg)
+
+- [https://github.com/im0xfay/CVE-2026-118423](https://github.com/im0xfay/CVE-2026-118423) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-118423.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-118423.svg)
 
 ## CVE-2026-118306
 > Use after free in FileSystem in Google Chrome prior to 156.0.8078.73 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: Critical)
@@ -181,8 +197,11 @@
 - [https://github.com/Lariinz/CVE-2026-117025](https://github.com/Lariinz/CVE-2026-117025) : ![starts](https://img.shields.io/github/stars/Lariinz/CVE-2026-117025.svg) ![forks](https://img.shields.io/github/forks/Lariinz/CVE-2026-117025.svg)
 
 ## CVE-2026-116779
+> FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a software implementation that runs on any commodity hardware. Prior to 1.11.3, sofia_presence_handle_sip_i_message() split the To user of an inbound SIP MESSAGE on a plus sign and treated the left side as a chat protocol selector. Selecting the api chat proto reached switch_api_execute(), allowing a peer whose MESSAGE was accepted to run FreeSWITCH API commands, including oper
 
 - [https://github.com/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-](https://github.com/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-) : ![starts](https://img.shields.io/github/stars/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-.svg) ![forks](https://img.shields.io/github/forks/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-.svg)
+
+- [https://github.com/hackzuoji/freeswitch-cve-2026-116779-POC](https://github.com/hackzuoji/freeswitch-cve-2026-116779-POC) : ![starts](https://img.shields.io/github/stars/hackzuoji/freeswitch-cve-2026-116779-POC.svg) ![forks](https://img.shields.io/github/forks/hackzuoji/freeswitch-cve-2026-116779-POC.svg)
 
 ## CVE-2026-116692
 > MLflow is an open source AI engineering platform for agents, large language models, and machine learning models. From 3.12.0rc0 until 3.17.0, third-party scorer deserialization in mlflow/genai/scorers/base.py accepts request-selected descendants of THIRD_PARTY_SCORER_ALLOWED_MODULES rather than requiring an exact allowed module. A caller can use MLflow artifact endpoints to place a Python module beneath a writable allowed package and submit its module and class through /ajax-api/3.0/mlflow/score
@@ -447,6 +466,10 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 > MongoDB Compass improperly escapes certain BSON values when converting a stored view’s aggregation pipeline into editable source. When a user connects to a MongoDB deployment containing a specially crafted view and opens that view for editing, the values can cause arbitrary code to execute with the privileges of the user running Compass.
 
 - [https://github.com/emirwtz/CVE-2026-113870](https://github.com/emirwtz/CVE-2026-113870) : ![starts](https://img.shields.io/github/stars/emirwtz/CVE-2026-113870.svg) ![forks](https://img.shields.io/github/forks/emirwtz/CVE-2026-113870.svg)
+
+## CVE-2026-113615
+
+- [https://github.com/thiscitze/cve-2026-113615-poc](https://github.com/thiscitze/cve-2026-113615-poc) : ![starts](https://img.shields.io/github/stars/thiscitze/cve-2026-113615-poc.svg) ![forks](https://img.shields.io/github/forks/thiscitze/cve-2026-113615-poc.svg)
 
 ## CVE-2026-113468
 > The payment notification endpoint for PayPal accepts incoming data without verifying that it comes from the payment provider. Any site visitor can overwrite the stored payment notification of an order that is still awaiting payment with arbitrary content. This requires a page that contains the shop&#x27;s order plugin. Orders that are already paid are not affected.
@@ -1849,6 +1872,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/siedysoes/php2shell-scanner](https://github.com/siedysoes/php2shell-scanner) : ![starts](https://img.shields.io/github/stars/siedysoes/php2shell-scanner.svg) ![forks](https://img.shields.io/github/forks/siedysoes/php2shell-scanner.svg)
 
+- [https://github.com/lutfizp/php2shell-lab](https://github.com/lutfizp/php2shell-lab) : ![starts](https://img.shields.io/github/stars/lutfizp/php2shell-lab.svg) ![forks](https://img.shields.io/github/forks/lutfizp/php2shell-lab.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -2830,6 +2855,10 @@ Note that this vulnerability can only be exploited prior to the device being onb
 
 - [https://github.com/aduli198/CVE-2026-101767](https://github.com/aduli198/CVE-2026-101767) : ![starts](https://img.shields.io/github/stars/aduli198/CVE-2026-101767.svg) ![forks](https://img.shields.io/github/forks/aduli198/CVE-2026-101767.svg)
 
+## CVE-2026-101678
+
+- [https://github.com/ryanmurf/mysql-connector-j-cve-2026-101678-repro](https://github.com/ryanmurf/mysql-connector-j-cve-2026-101678-repro) : ![starts](https://img.shields.io/github/stars/ryanmurf/mysql-connector-j-cve-2026-101678-repro.svg) ![forks](https://img.shields.io/github/forks/ryanmurf/mysql-connector-j-cve-2026-101678-repro.svg)
+
 ## CVE-2026-101259
 > Generation of Error Message Containing Sensitive Information vulnerability in Apache Camel CoAP component.
 
@@ -3504,6 +3533,8 @@ making each ACE up to 76 bytes (s
 - [https://github.com/emc-kk/cve-2026-97229-lab](https://github.com/emc-kk/cve-2026-97229-lab) : ![starts](https://img.shields.io/github/stars/emc-kk/cve-2026-97229-lab.svg) ![forks](https://img.shields.io/github/forks/emc-kk/cve-2026-97229-lab.svg)
 
 - [https://github.com/Certbn/CVE-2026-97229-GitLab-CI-CD](https://github.com/Certbn/CVE-2026-97229-GitLab-CI-CD) : ![starts](https://img.shields.io/github/stars/Certbn/CVE-2026-97229-GitLab-CI-CD.svg) ![forks](https://img.shields.io/github/forks/Certbn/CVE-2026-97229-GitLab-CI-CD.svg)
+
+- [https://github.com/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce](https://github.com/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce.svg)
 
 ## CVE-2026-97206
 > NLnet Labs Unbound, 1.22.0 up to and including version 1.26.1, contains a DNS-over-QUIC (DoQ) lifetime bug reachable by a remote DoQ client under multi-threaded operation. A client-triggered QUIC path migration can enter stream/connection cleanup while a mesh reply still retains a pointer to the DoQ stream. Cleanup frees the DoQ stream and when the pending mesh reply later completes it dereferences a stale pointer leading to a crash.
@@ -5252,6 +5283,8 @@ createCorsHandler() set Access-Control-Allow-Credentials: true outside the origi
 - [https://github.com/LilPoule/CVE-2026-83844](https://github.com/LilPoule/CVE-2026-83844) : ![starts](https://img.shields.io/github/stars/LilPoule/CVE-2026-83844.svg) ![forks](https://img.shields.io/github/forks/LilPoule/CVE-2026-83844.svg)
 
 - [https://github.com/0xBlackash/CVE-2026-83844](https://github.com/0xBlackash/CVE-2026-83844) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-83844.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-83844.svg)
+
+- [https://github.com/mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0](https://github.com/mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0) : ![starts](https://img.shields.io/github/stars/mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0.svg) ![forks](https://img.shields.io/github/forks/mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0.svg)
 
 ## CVE-2026-83834
 
@@ -8833,6 +8866,18 @@ This issue affects Elementor Website Builder: from n/a through 4.3.1.
 
 - [https://github.com/nmagill123/CVE-2026-61343-poc-librebooking-rce](https://github.com/nmagill123/CVE-2026-61343-poc-librebooking-rce) : ![starts](https://img.shields.io/github/stars/nmagill123/CVE-2026-61343-poc-librebooking-rce.svg) ![forks](https://img.shields.io/github/forks/nmagill123/CVE-2026-61343-poc-librebooking-rce.svg)
 
+## CVE-2026-61082
+
+- [https://github.com/ryanmurf/mysql-connector-j-cve-2026-61082-repro](https://github.com/ryanmurf/mysql-connector-j-cve-2026-61082-repro) : ![starts](https://img.shields.io/github/stars/ryanmurf/mysql-connector-j-cve-2026-61082-repro.svg) ![forks](https://img.shields.io/github/forks/ryanmurf/mysql-connector-j-cve-2026-61082-repro.svg)
+
+## CVE-2026-60623
+
+- [https://github.com/ryanmurf/mysql-connector-j-cve-2026-60623-repro](https://github.com/ryanmurf/mysql-connector-j-cve-2026-60623-repro) : ![starts](https://img.shields.io/github/stars/ryanmurf/mysql-connector-j-cve-2026-60623-repro.svg) ![forks](https://img.shields.io/github/forks/ryanmurf/mysql-connector-j-cve-2026-60623-repro.svg)
+
+## CVE-2026-60586
+
+- [https://github.com/ryanmurf/mysql-connector-j-cve-2026-60586-repro](https://github.com/ryanmurf/mysql-connector-j-cve-2026-60586-repro) : ![starts](https://img.shields.io/github/stars/ryanmurf/mysql-connector-j-cve-2026-60586-repro.svg) ![forks](https://img.shields.io/github/forks/ryanmurf/mysql-connector-j-cve-2026-60586-repro.svg)
+
 ## CVE-2026-60206
  Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: Core).  Supported versions that are affected are 12.2.1.4.0, 14.1.1.0.0, 14.1.2.0.0 and  15.1.1.0.0. Easily exploitable vulnerability allows low privileged attacker with network access via SAML to compromise Oracle WebLogic Server.  While the vulnerability is in Oracle WebLogic Server, attacks may significantly impact additional products (scope change).  Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.1 Base Score 9.9 (Confidentiality, Integrity and Availability impacts).  CVSS Vector: (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H).
 
@@ -11643,6 +11688,8 @@ This issue affects tesla: from 0.8.0 before 1.18.3.
 - [https://github.com/abraxas/CVE-2026-48356](https://github.com/abraxas/CVE-2026-48356) : ![starts](https://img.shields.io/github/stars/abraxas/CVE-2026-48356.svg) ![forks](https://img.shields.io/github/forks/abraxas/CVE-2026-48356.svg)
 
 - [https://github.com/piecar21/CVE-2026-48356](https://github.com/piecar21/CVE-2026-48356) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-48356.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-48356.svg)
+
+- [https://github.com/Ghost-Bx1/cve-2026-48356-magento-file-upload-rce](https://github.com/Ghost-Bx1/cve-2026-48356-magento-file-upload-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-48356-magento-file-upload-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-48356-magento-file-upload-rce.svg)
 
 ## CVE-2026-48282
  ColdFusion versions 2025.9, 2023.20 and earlier are affected by an Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability that could lead to arbitrary code execution in the context of the current user. Exploitation of this issue does not require user interaction. Scope is changed.
@@ -14957,6 +15004,8 @@ A local unprivileged user can install arbitrary RPM packages as root, including 
 - [https://github.com/ZeroDayEvil/CVE-2026-41651](https://github.com/ZeroDayEvil/CVE-2026-41651) : ![starts](https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-41651.svg) ![forks](https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-41651.svg)
 
 - [https://github.com/Thhc10/CVE-2026-41651](https://github.com/Thhc10/CVE-2026-41651) : ![starts](https://img.shields.io/github/stars/Thhc10/CVE-2026-41651.svg) ![forks](https://img.shields.io/github/forks/Thhc10/CVE-2026-41651.svg)
+
+- [https://github.com/thiscitze/cve-2026-41651-poc](https://github.com/thiscitze/cve-2026-41651-poc) : ![starts](https://img.shields.io/github/stars/thiscitze/cve-2026-41651-poc.svg) ![forks](https://img.shields.io/github/forks/thiscitze/cve-2026-41651-poc.svg)
 
 ## CVE-2026-41575
  In th30d4y/IP from version 1.0.1 to before version 2.0.1, a DOM-Based Cross-Site Scripting (XSS) vulnerability was identified in an IP Reputation Checker application. Unsanitized user input was directly rendered in the browser, allowing attackers to execute arbitrary JavaScript. This issue has been patched in version 2.0.1.
@@ -35689,6 +35738,8 @@ This issue affects Command Center Innovation Release: 11.38.0 to 11.38.20. The v
 - [https://github.com/Avinash37402/CVE-2025-32433](https://github.com/Avinash37402/CVE-2025-32433) : ![starts](https://img.shields.io/github/stars/Avinash37402/CVE-2025-32433.svg) ![forks](https://img.shields.io/github/forks/Avinash37402/CVE-2025-32433.svg)
 
 - [https://github.com/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH](https://github.com/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH) : ![starts](https://img.shields.io/github/stars/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH.svg) ![forks](https://img.shields.io/github/forks/Avinash37402/CVE-2025-32433-Erlang-OTP-SSH.svg)
+
+- [https://github.com/Ghost-Bx1/cve-2025-32433-erlang-ssh-preauth-rce](https://github.com/Ghost-Bx1/cve-2025-32433-erlang-ssh-preauth-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-32433-erlang-ssh-preauth-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-32433-erlang-ssh-preauth-rce.svg)
 
 ## CVE-2025-32432
  Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond. Starting from version 3.0.0-RC1 to before 3.9.15, 4.0.0-RC1 to before 4.14.15, and 5.0.0-RC1 to before 5.6.17, Craft is vulnerable to remote code execution. This is a high-impact, low-complexity attack vector. This issue has been patched in versions 3.9.15, 4.14.15, and 5.6.17, and is an additional fix for CVE-2023-41892.
@@ -107232,6 +107283,10 @@ Only traffic directed to the affected system can be used to exploit this vulnera
  The crash reporting feature in Apport 2.13 through 2.17.x before 2.17.1 allows local users to gain privileges via a crafted usr/share/apport/apport file in a namespace (container).
 
 - [https://github.com/ScottyBauer/CVE-2015-1318](https://github.com/ScottyBauer/CVE-2015-1318) : ![starts](https://img.shields.io/github/stars/ScottyBauer/CVE-2015-1318.svg) ![forks](https://img.shields.io/github/forks/ScottyBauer/CVE-2015-1318.svg)
+
+## CVE-2015-1201
+
+- [https://github.com/Akshit0203/CVE-2015-1201-wordpress-Reflex-Gallery-plugin-RCE-PoC](https://github.com/Akshit0203/CVE-2015-1201-wordpress-Reflex-Gallery-plugin-RCE-PoC) : ![starts](https://img.shields.io/github/stars/Akshit0203/CVE-2015-1201-wordpress-Reflex-Gallery-plugin-RCE-PoC.svg) ![forks](https://img.shields.io/github/forks/Akshit0203/CVE-2015-1201-wordpress-Reflex-Gallery-plugin-RCE-PoC.svg)
 
 ## CVE-2015-1187
  The ping tool in multiple D-Link and TRENDnet devices allow remote attackers to execute arbitrary code via the ping_addr parameter to ping.ccp.
