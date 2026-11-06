@@ -6,6 +6,10 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-123488
+
+- [https://github.com/fixedbyreboot/CVE-2026-123488-POC](https://github.com/fixedbyreboot/CVE-2026-123488-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-123488-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-123488-POC.svg)
+
 ## CVE-2026-123158
 > sshd in OpenSSH before 10.6p2 on Linux, when musl libc is used without PAM, lacks a workaround for a password authentication bypass (related to misinterpretation of whether a string is intended to be a password hash). For some configurations of accounts, any password between 256 and 1024 characters succeeds. An example of a platform using musl libc without PAM is Alpine Linux.
 
@@ -3958,6 +3962,12 @@ This vulnerability allows an unauthenticated attacker to perform remot
 > The NP Quote Request for WooCommerce WordPress plugin before 2.4.16 does not verify order ownership before rendering an order&#x27;s details, allowing unauthenticated attackers to view another customer&#x27;s order using the order&#x27;s key.
 
 - [https://github.com/muradislamzada/CVE-2026-93528](https://github.com/muradislamzada/CVE-2026-93528) : ![starts](https://img.shields.io/github/stars/muradislamzada/CVE-2026-93528.svg) ![forks](https://img.shields.io/github/forks/muradislamzada/CVE-2026-93528.svg)
+
+## CVE-2026-93489
+> Improper Authentication in ASUS router modules allows an unauthenticated nearby user to send an HTTP request and forge an access ticket, subsequently enabling the user to perform administrator operations.
+Refer to the &#x27; Security Update for ASUS Router Firmware &#x27; section on the ASUS Security Advisory for more information.
+
+- [https://github.com/cybersecurity/CVE-2026-93489](https://github.com/cybersecurity/CVE-2026-93489) : ![starts](https://img.shields.io/github/stars/cybersecurity/CVE-2026-93489.svg) ![forks](https://img.shields.io/github/forks/cybersecurity/CVE-2026-93489.svg)
 
 ## CVE-2026-93485
  Improper neutralization of input during web page generation ('cross-site scripting') vulnerability in Automattic WordPress core allows DOM-Based XSS.
@@ -16603,6 +16613,7 @@ Users are recommended to upgrade to version 5.19.4 or 6.2.3, which fixes the iss
 - [https://github.com/rohithronanki/CVE-2026-34159-Vulnerability-Research-Analysis-Detection](https://github.com/rohithronanki/CVE-2026-34159-Vulnerability-Research-Analysis-Detection) : ![starts](https://img.shields.io/github/stars/rohithronanki/CVE-2026-34159-Vulnerability-Research-Analysis-Detection.svg) ![forks](https://img.shields.io/github/forks/rohithronanki/CVE-2026-34159-Vulnerability-Research-Analysis-Detection.svg)
 
 ## CVE-2026-34157
+> Wails is a framework for building desktop applications using Go and web technologies. From 2.0.0 until 2.13.0, BindingsAllowedOrigins in v2/internal/frontend/originvalidator/originValidator.go passes wildcard patterns to wildcardPatternToRegex, which expands every asterisk to an unrestricted regular-expression match. When an application configures a trailing or partial-label wildcard immediately after an allowed domain, an attacker-controlled lookalike origin can match the allowed suffix and inv
 
 - [https://github.com/Saku0512/CVE-2026-34157-poc](https://github.com/Saku0512/CVE-2026-34157-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-34157-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-34157-poc.svg)
 

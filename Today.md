@@ -287,6 +287,10 @@ If any of these functions, or an API that relies on them such as `URL.createObje
 - [https://github.com/techdevfun/alpinegate](https://github.com/techdevfun/alpinegate) : ![starts](https://img.shields.io/github/stars/techdevfun/alpinegate.svg) ![forks](https://img.shields.io/github/forks/techdevfun/alpinegate.svg)
 - [https://github.com/techtaek77/sshole-guide](https://github.com/techtaek77/sshole-guide) : ![starts](https://img.shields.io/github/stars/techtaek77/sshole-guide.svg) ![forks](https://img.shields.io/github/forks/techtaek77/sshole-guide.svg)
 
+## CVE-2026-123488
+
+- [https://github.com/fixedbyreboot/CVE-2026-123488-POC](https://github.com/fixedbyreboot/CVE-2026-123488-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-123488-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-123488-POC.svg)
+
 ## CVE-2026-19219
 
 - [https://github.com/kjry8sb/CVE-2026-19219](https://github.com/kjry8sb/CVE-2026-19219) : ![starts](https://img.shields.io/github/stars/kjry8sb/CVE-2026-19219.svg) ![forks](https://img.shields.io/github/forks/kjry8sb/CVE-2026-19219.svg)
@@ -410,6 +414,12 @@ creates a child socket from it:
 - [https://github.com/0xBlackash/CVE-2026-83844](https://github.com/0xBlackash/CVE-2026-83844) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-83844.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-83844.svg)
 - [https://github.com/LilPoule/CVE-2026-83844](https://github.com/LilPoule/CVE-2026-83844) : ![starts](https://img.shields.io/github/stars/LilPoule/CVE-2026-83844.svg) ![forks](https://img.shields.io/github/forks/LilPoule/CVE-2026-83844.svg)
 - [https://github.com/mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0](https://github.com/mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0) : ![starts](https://img.shields.io/github/stars/mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0.svg) ![forks](https://img.shields.io/github/forks/mokshshah18/CVE-2026-83844-PoC-MS-paint-v-11.2609.401.0.svg)
+
+## CVE-2026-93489
+> Improper Authentication in ASUS router modules allows an unauthenticated nearby user to send an HTTP request and forge an access ticket, subsequently enabling the user to perform administrator operations.
+Refer to the &#x27; Security Update for ASUS Router Firmware &#x27; section on the ASUS Security Advisory for more information.
+
+- [https://github.com/cybersecurity/CVE-2026-93489](https://github.com/cybersecurity/CVE-2026-93489) : ![starts](https://img.shields.io/github/stars/cybersecurity/CVE-2026-93489.svg) ![forks](https://img.shields.io/github/forks/cybersecurity/CVE-2026-93489.svg)
 
 ## CVE-2026-97229
 > GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 19.2.8, 19.3 before 19.3.5, and 19.4 before 19.4.2 that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression validation.
