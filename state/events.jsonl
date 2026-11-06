@@ -8456,3 +8456,5 @@
 {"cve_id": "CVE-2026-122158", "ts": "2026-11-06T01:38:58Z", "type": "new_poc", "url": "https://github.com/capivara-research/CVE-2026-122158"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-11-06T01:38:58Z", "type": "new_poc", "url": "https://github.com/siedysoes/php2shell-scanner"}
 {"cve_id": "CVE-2026-104935", "ts": "2026-11-06T01:40:02Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/ivanti-connect-secure-cve-2026-104935-check"}
+{"cve_id": "CVE-2026-33439", "ts": "2026-11-06T01:57:55Z", "type": "new_poc", "url": "https://github.com/duohnson/CVE-2026-33439-PoC"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-06T01:58:48Z", "type": "new_poc", "url": "https://github.com/ersinkoc/sshole-check"}
