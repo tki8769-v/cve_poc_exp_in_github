@@ -10973,6 +10973,10 @@ Users are recommended to upgrade to version 1.12.0, which fixes the issue.
 
 - [https://github.com/HORKimhab/Ubiquiti-CVE](https://github.com/HORKimhab/Ubiquiti-CVE) : ![starts](https://img.shields.io/github/stars/HORKimhab/Ubiquiti-CVE.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/Ubiquiti-CVE.svg)
 
+## CVE-2026-50679
+
+- [https://github.com/h4urek/CVE-2026-50679](https://github.com/h4urek/CVE-2026-50679) : ![starts](https://img.shields.io/github/stars/h4urek/CVE-2026-50679.svg) ![forks](https://img.shields.io/github/forks/h4urek/CVE-2026-50679.svg)
+
 ## CVE-2026-50657
  Exposure of private personal information to an unauthorized actor in Microsoft Defender allows an authorized attacker to disclose information locally.
 
@@ -16582,6 +16586,10 @@ Users are recommended to upgrade to version 5.19.4 or 6.2.3, which fixes the iss
  OpenEMR is a free and open source electronic health records and medical practice management application. Versions up to and including 8.0.0.2 contain a SQL injection vulnerability in the patient selection feature that can be exploited by authenticated attackers. The vulnerability exists due to insufficient input validation in the patient selection feature. Version 8.0.0.3 contains a patch.
 
 - [https://github.com/ChrisSub08/CVE-2026-33910_SqlInjectionVulnerabilityOpenEMR8.0.0.2](https://github.com/ChrisSub08/CVE-2026-33910_SqlInjectionVulnerabilityOpenEMR8.0.0.2) : ![starts](https://img.shields.io/github/stars/ChrisSub08/CVE-2026-33910_SqlInjectionVulnerabilityOpenEMR8.0.0.2.svg) ![forks](https://img.shields.io/github/forks/ChrisSub08/CVE-2026-33910_SqlInjectionVulnerabilityOpenEMR8.0.0.2.svg)
+
+## CVE-2026-33871
+
+- [https://github.com/iam-s21-caece/PoC-CVE-2026-33871](https://github.com/iam-s21-caece/PoC-CVE-2026-33871) : ![starts](https://img.shields.io/github/stars/iam-s21-caece/PoC-CVE-2026-33871.svg) ![forks](https://img.shields.io/github/forks/iam-s21-caece/PoC-CVE-2026-33871.svg)
 
 ## CVE-2026-33870
  Netty is an asynchronous, event-driven network application framework. In versions prior to 4.1.132.Final and 4.2.10.Final, Netty incorrectly parses quoted strings in HTTP/1.1 chunked transfer encoding extension values, enabling request smuggling attacks. Versions 4.1.132.Final and 4.2.10.Final fix the issue.
@@ -27070,6 +27078,16 @@ Cloud NGFW and Prisma Access® are not impacted by this vulnerability.
 - [https://github.com/BishopFox/CVE-2026-0265-check](https://github.com/BishopFox/CVE-2026-0265-check) : ![starts](https://img.shields.io/github/stars/BishopFox/CVE-2026-0265-check.svg) ![forks](https://img.shields.io/github/forks/BishopFox/CVE-2026-0265-check.svg)
 
 - [https://github.com/tstephens1080/palo-alto-cve-2026-0265-checker](https://github.com/tstephens1080/palo-alto-cve-2026-0265-checker) : ![starts](https://img.shields.io/github/stars/tstephens1080/palo-alto-cve-2026-0265-checker.svg) ![forks](https://img.shields.io/github/forks/tstephens1080/palo-alto-cve-2026-0265-checker.svg)
+
+## CVE-2026-0264
+> A buffer overflow vulnerability in the DNS proxy and DNS Server features of Palo Alto Networks PAN-OS® Software allows an unauthenticated attacker with network access to cause a denial of service (DoS) condition (all PAN-OS platforms except Cloud NGFW and Prisma Access) or potentially execute arbitrary code by sending specially crafted network traffic (PA-Series hardware only).
+
+
+
+
+Panorama, Cloud NGFW, and Prisma® Access are not impacted by this vulnerability.
+
+- [https://github.com/iam-s21-caece/PoC-CVE-2026-0264](https://github.com/iam-s21-caece/PoC-CVE-2026-0264) : ![starts](https://img.shields.io/github/stars/iam-s21-caece/PoC-CVE-2026-0264.svg) ![forks](https://img.shields.io/github/forks/iam-s21-caece/PoC-CVE-2026-0264.svg)
 
 ## CVE-2026-0257
  Authentication bypass vulnerabilities in the GlobalProtect portal and gateway of Palo Alto Networks PAN-OS® software allows the attacker to bypass security restrictions and establish an unauthorized VPN connection.

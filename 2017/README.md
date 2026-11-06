@@ -2163,6 +2163,8 @@
 
 - [https://github.com/Mr-Ochobot/Hikvision-CCTV-POC](https://github.com/Mr-Ochobot/Hikvision-CCTV-POC) : ![starts](https://img.shields.io/github/stars/Mr-Ochobot/Hikvision-CCTV-POC.svg) ![forks](https://img.shields.io/github/forks/Mr-Ochobot/Hikvision-CCTV-POC.svg)
 
+- [https://github.com/Bethelhem-Yirga/hikvision-cve-2017-7921-lab](https://github.com/Bethelhem-Yirga/hikvision-cve-2017-7921-lab) : ![starts](https://img.shields.io/github/stars/Bethelhem-Yirga/hikvision-cve-2017-7921-lab.svg) ![forks](https://img.shields.io/github/forks/Bethelhem-Yirga/hikvision-cve-2017-7921-lab.svg)
+
 ## CVE-2017-7912
  Hanwha Techwin SRN-4000, SRN-4000 firmware versions prior to SRN4000_v2.16_170401, A specially crafted http request and response could allow an attacker to gain access to the device management page with admin privileges without proper authentication.
 

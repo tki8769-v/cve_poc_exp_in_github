@@ -16,6 +16,10 @@
 
 - [https://github.com/federiconbaez/cortex9-tmpfiles-hardlink-chown-race-model](https://github.com/federiconbaez/cortex9-tmpfiles-hardlink-chown-race-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-tmpfiles-hardlink-chown-race-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-tmpfiles-hardlink-chown-race-model.svg)
 
+## CVE-2017-7921
+
+- [https://github.com/Bethelhem-Yirga/hikvision-cve-2017-7921-lab](https://github.com/Bethelhem-Yirga/hikvision-cve-2017-7921-lab) : ![starts](https://img.shields.io/github/stars/Bethelhem-Yirga/hikvision-cve-2017-7921-lab.svg) ![forks](https://img.shields.io/github/forks/Bethelhem-Yirga/hikvision-cve-2017-7921-lab.svg)
+
 ## CVE-2018-1000810
 
 - [https://github.com/federiconbaez/cortex9-rust-str-repeat-capacity-overflow-model](https://github.com/federiconbaez/cortex9-rust-str-repeat-capacity-overflow-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-rust-str-repeat-capacity-overflow-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-rust-str-repeat-capacity-overflow-model.svg)
@@ -80,6 +84,16 @@
 > A pre-authentication remote code execution vulnerability exists in React Server Components versions 19.0.0, 19.1.0, 19.1.1, and 19.2.0 including the following packages: react-server-dom-parcel, react-server-dom-turbopack, and react-server-dom-webpack. The vulnerable code unsafely deserializes payloads from HTTP requests to Server Function endpoints.
 
 - [https://github.com/sg-evals/react--v19.2.1](https://github.com/sg-evals/react--v19.2.1) : ![starts](https://img.shields.io/github/stars/sg-evals/react--v19.2.1.svg) ![forks](https://img.shields.io/github/forks/sg-evals/react--v19.2.1.svg)
+
+## CVE-2026-0264
+> A buffer overflow vulnerability in the DNS proxy and DNS Server features of Palo Alto Networks PAN-OS® Software allows an unauthenticated attacker with network access to cause a denial of service (DoS) condition (all PAN-OS platforms except Cloud NGFW and Prisma Access) or potentially execute arbitrary code by sending specially crafted network traffic (PA-Series hardware only).
+
+
+
+
+Panorama, Cloud NGFW, and Prisma® Access are not impacted by this vulnerability.
+
+- [https://github.com/iam-s21-caece/PoC-CVE-2026-0264](https://github.com/iam-s21-caece/PoC-CVE-2026-0264) : ![starts](https://img.shields.io/github/stars/iam-s21-caece/PoC-CVE-2026-0264.svg) ![forks](https://img.shields.io/github/forks/iam-s21-caece/PoC-CVE-2026-0264.svg)
 
 ## CVE-2026-102334
 > Nginx Proxy Manager through 2.16.0 lacks rate-limiting on authentication endpoints, allowing unauthenticated attackers to make unlimited password guesses against any account. Attackers can brute-force login credentials via POST /api/tokens and subsequently guess TOTP codes via POST /api/tokens/2fa to gain full session access and administrative control.
@@ -242,6 +256,10 @@ If any of these functions, or an API that relies on them such as `URL.createObje
 
 - [https://github.com/duohnson/CVE-2026-33439-PoC](https://github.com/duohnson/CVE-2026-33439-PoC) : ![starts](https://img.shields.io/github/stars/duohnson/CVE-2026-33439-PoC.svg) ![forks](https://img.shields.io/github/forks/duohnson/CVE-2026-33439-PoC.svg)
 
+## CVE-2026-33871
+
+- [https://github.com/iam-s21-caece/PoC-CVE-2026-33871](https://github.com/iam-s21-caece/PoC-CVE-2026-33871) : ![starts](https://img.shields.io/github/stars/iam-s21-caece/PoC-CVE-2026-33871.svg) ![forks](https://img.shields.io/github/forks/iam-s21-caece/PoC-CVE-2026-33871.svg)
+
 ## CVE-2026-43499
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -260,6 +278,10 @@ problems:
 - [https://github.com/Cyb3rCr0wCC/CVE-2026-43499_study](https://github.com/Cyb3rCr0wCC/CVE-2026-43499_study) : ![starts](https://img.shields.io/github/stars/Cyb3rCr0wCC/CVE-2026-43499_study.svg) ![forks](https://img.shields.io/github/forks/Cyb3rCr0wCC/CVE-2026-43499_study.svg)
 - [https://github.com/chjwoo7/ghostlock-a55x](https://github.com/chjwoo7/ghostlock-a55x) : ![starts](https://img.shields.io/github/stars/chjwoo7/ghostlock-a55x.svg) ![forks](https://img.shields.io/github/forks/chjwoo7/ghostlock-a55x.svg)
 - [https://github.com/nnka3/root-my-s24-on-oneui6.1](https://github.com/nnka3/root-my-s24-on-oneui6.1) : ![starts](https://img.shields.io/github/stars/nnka3/root-my-s24-on-oneui6.1.svg) ![forks](https://img.shields.io/github/forks/nnka3/root-my-s24-on-oneui6.1.svg)
+
+## CVE-2026-50679
+
+- [https://github.com/h4urek/CVE-2026-50679](https://github.com/h4urek/CVE-2026-50679) : ![starts](https://img.shields.io/github/stars/h4urek/CVE-2026-50679.svg) ![forks](https://img.shields.io/github/forks/h4urek/CVE-2026-50679.svg)
 
 ## CVE-2026-6023
 
