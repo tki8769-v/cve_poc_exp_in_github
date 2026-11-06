@@ -234,6 +234,10 @@
 
 - [https://github.com/secwitness/CVE-2011-2523-vsftpd-backdoor-analysis](https://github.com/secwitness/CVE-2011-2523-vsftpd-backdoor-analysis) : ![starts](https://img.shields.io/github/stars/secwitness/CVE-2011-2523-vsftpd-backdoor-analysis.svg) ![forks](https://img.shields.io/github/forks/secwitness/CVE-2011-2523-vsftpd-backdoor-analysis.svg)
 
+- [https://github.com/nabeelapu/vsftpd-2.3.4-backdoor-vulnerability-analysis](https://github.com/nabeelapu/vsftpd-2.3.4-backdoor-vulnerability-analysis) : ![starts](https://img.shields.io/github/stars/nabeelapu/vsftpd-2.3.4-backdoor-vulnerability-analysis.svg) ![forks](https://img.shields.io/github/forks/nabeelapu/vsftpd-2.3.4-backdoor-vulnerability-analysis.svg)
+
+- [https://github.com/nabeelapu/vsftpd-2.3.4-backdoor-vulnerability_analysis](https://github.com/nabeelapu/vsftpd-2.3.4-backdoor-vulnerability_analysis) : ![starts](https://img.shields.io/github/stars/nabeelapu/vsftpd-2.3.4-backdoor-vulnerability_analysis.svg) ![forks](https://img.shields.io/github/forks/nabeelapu/vsftpd-2.3.4-backdoor-vulnerability_analysis.svg)
+
 ## CVE-2011-2461
  Cross-site scripting (XSS) vulnerability in the Adobe Flex SDK 3.x and 4.x before 4.6 allows remote attackers to inject arbitrary web script or HTML via vectors related to the loading of modules from different domains.
 

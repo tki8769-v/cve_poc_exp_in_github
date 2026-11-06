@@ -7020,6 +7020,8 @@ The fix is included in Rust 1.77.2. Note that the new escaping logic for batch f
 
 - [https://github.com/Gaurav1020/CVE-2024-24576-PoC-Rust](https://github.com/Gaurav1020/CVE-2024-24576-PoC-Rust) : ![starts](https://img.shields.io/github/stars/Gaurav1020/CVE-2024-24576-PoC-Rust.svg) ![forks](https://img.shields.io/github/forks/Gaurav1020/CVE-2024-24576-PoC-Rust.svg)
 
+- [https://github.com/federiconbaez/cortex9-rust-batbadbut-args-model](https://github.com/federiconbaez/cortex9-rust-batbadbut-args-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-rust-batbadbut-args-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-rust-batbadbut-args-model.svg)
+
 ## CVE-2024-24549
  Denial of Service due to improper input validation vulnerability for HTTP/2 requests in Apache Tomcat. When processing an HTTP/2 request, if the request exceeded any of the configured limits for headers, the associated HTTP/2 stream was not reset until after all of the headers had been processed.This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.0-M16, from 10.1.0-M1 through 10.1.18, from 9.0.0-M1 through 9.0.85, from 8.5.0 through 8.5.98. Other, older, EOL versions may also be affected.
 

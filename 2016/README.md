@@ -837,6 +837,8 @@
 
 - [https://github.com/cbry-96/Dirty-Cow-Ubuntu-Server-16.04.1](https://github.com/cbry-96/Dirty-Cow-Ubuntu-Server-16.04.1) : ![starts](https://img.shields.io/github/stars/cbry-96/Dirty-Cow-Ubuntu-Server-16.04.1.svg) ![forks](https://img.shields.io/github/forks/cbry-96/Dirty-Cow-Ubuntu-Server-16.04.1.svg)
 
+- [https://github.com/federiconbaez/cortex9-dirtycow-gup-cow-state-model](https://github.com/federiconbaez/cortex9-dirtycow-gup-cow-state-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-dirtycow-gup-cow-state-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-dirtycow-gup-cow-state-model.svg)
+
 ## CVE-2016-5180
  Heap-based buffer overflow in the ares_create_query function in c-ares 1.x before 1.12.0 allows remote attackers to cause a denial of service (out-of-bounds write) or possibly execute arbitrary code via a hostname with an escaped trailing dot.
 

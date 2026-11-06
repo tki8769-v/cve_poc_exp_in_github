@@ -1112,6 +1112,8 @@
 
 - [https://github.com/0xTaoZ/Heartbleed-CSP-project](https://github.com/0xTaoZ/Heartbleed-CSP-project) : ![starts](https://img.shields.io/github/stars/0xTaoZ/Heartbleed-CSP-project.svg) ![forks](https://img.shields.io/github/forks/0xTaoZ/Heartbleed-CSP-project.svg)
 
+- [https://github.com/federiconbaez/cortex9-heartbleed-heartbeat-bounds-model](https://github.com/federiconbaez/cortex9-heartbleed-heartbeat-bounds-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-heartbleed-heartbeat-bounds-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-heartbleed-heartbeat-bounds-model.svg)
+
 ## CVE-2014-0130
  Directory traversal vulnerability in actionpack/lib/abstract_controller/base.rb in the implicit-render implementation in Ruby on Rails before 3.2.18, 4.0.x before 4.0.5, and 4.1.x before 4.1.1, when certain route globbing configurations are enabled, allows remote attackers to read arbitrary files via a crafted request.
 

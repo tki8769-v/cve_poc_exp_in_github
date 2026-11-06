@@ -845,6 +845,8 @@ Users are recommended to upgrade to version 18.12.10
 
 - [https://github.com/breaksek/CVE-2023-48795](https://github.com/breaksek/CVE-2023-48795) : ![starts](https://img.shields.io/github/stars/breaksek/CVE-2023-48795.svg) ![forks](https://img.shields.io/github/forks/breaksek/CVE-2023-48795.svg)
 
+- [https://github.com/federiconbaez/cortex9-terrapin-strict-kex-model](https://github.com/federiconbaez/cortex9-terrapin-strict-kex-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-terrapin-strict-kex-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-terrapin-strict-kex-model.svg)
+
 ## CVE-2023-48788
  A improper neutralization of special elements used in an sql command ('sql injection') in Fortinet FortiClientEMS version 7.2.0 through 7.2.2, FortiClientEMS 7.0.1 through 7.0.10 allows attacker to execute unauthorized code or commands via specially crafted packets.
 
@@ -1833,6 +1835,8 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 - [https://github.com/madhantr0/http2-security-lab](https://github.com/madhantr0/http2-security-lab) : ![starts](https://img.shields.io/github/stars/madhantr0/http2-security-lab.svg) ![forks](https://img.shields.io/github/forks/madhantr0/http2-security-lab.svg)
 
 - [https://github.com/sastraadiwiguna-purpleeliteteaming/DDoS-Purple-Teaming-Offensive-Multi-Vector-7-Tier-Defensive-Holistic-Blueprint-](https://github.com/sastraadiwiguna-purpleeliteteaming/DDoS-Purple-Teaming-Offensive-Multi-Vector-7-Tier-Defensive-Holistic-Blueprint-) : ![starts](https://img.shields.io/github/stars/sastraadiwiguna-purpleeliteteaming/DDoS-Purple-Teaming-Offensive-Multi-Vector-7-Tier-Defensive-Holistic-Blueprint-.svg) ![forks](https://img.shields.io/github/forks/sastraadiwiguna-purpleeliteteaming/DDoS-Purple-Teaming-Offensive-Multi-Vector-7-Tier-Defensive-Holistic-Blueprint-.svg)
+
+- [https://github.com/federiconbaez/cortex9-http2-rapid-reset-stream-accounting-model](https://github.com/federiconbaez/cortex9-http2-rapid-reset-stream-accounting-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-http2-rapid-reset-stream-accounting-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-http2-rapid-reset-stream-accounting-model.svg)
 
 ## CVE-2023-44452
  Linux Mint Xreader CBT File Parsing Argument Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Linux Mint Xreader. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.

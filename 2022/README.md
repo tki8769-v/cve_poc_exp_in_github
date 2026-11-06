@@ -4712,10 +4712,14 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 
 - [https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25236](https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25236) : ![starts](https://img.shields.io/github/stars/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25236.svg) ![forks](https://img.shields.io/github/forks/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25236.svg)
 
+- [https://github.com/federiconbaez/cortex9-expat-namespace-separator-model](https://github.com/federiconbaez/cortex9-expat-namespace-separator-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-expat-namespace-separator-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-expat-namespace-separator-model.svg)
+
 ## CVE-2022-25235
  xmltok_impl.c in Expat (aka libexpat) before 2.4.5 lacks certain validation of encoding, such as checks for whether a UTF-8 character is valid in a certain context.
 
 - [https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25235](https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25235) : ![starts](https://img.shields.io/github/stars/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25235.svg) ![forks](https://img.shields.io/github/forks/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25235.svg)
+
+- [https://github.com/federiconbaez/cortex9-expat-utf8-name-validation-model](https://github.com/federiconbaez/cortex9-expat-utf8-name-validation-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-expat-utf8-name-validation-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-expat-utf8-name-validation-model.svg)
 
 ## CVE-2022-25226
  ThinVNC version 1.0b1 allows an unauthenticated user to bypass the authentication process via 'http://thin-vnc:8080/cmd?cmd=connect' by obtaining a valid SID without any kind of authentication. It is possible to achieve code execution on the server by sending keyboard or mouse events to the server.
@@ -4903,6 +4907,10 @@ Please see the MSRC Blog Entry for important information about steps you can ta
  Combodo iTop is a web based IT Service Management tool. In versions prior to 2.7.6 and 3.0.0, users of the iTop user portal can send TWIG code to the server by forging specific http queries, and execute arbitrary code on the server using http server user privileges. This issue is fixed in versions 2.7.6 and 3.0.0. There are currently no known workarounds.
 
 - [https://github.com/Acceis/exploit-CVE-2022-24780](https://github.com/Acceis/exploit-CVE-2022-24780) : ![starts](https://img.shields.io/github/stars/Acceis/exploit-CVE-2022-24780.svg) ![forks](https://img.shields.io/github/forks/Acceis/exploit-CVE-2022-24780.svg)
+
+## CVE-2022-24765
+
+- [https://github.com/federiconbaez/cortex9-git-safe-directory-discovery-model](https://github.com/federiconbaez/cortex9-git-safe-directory-discovery-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-git-safe-directory-discovery-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-git-safe-directory-discovery-model.svg)
 
 ## CVE-2022-24760
  Parse Server is an open source http web server backend. In versions prior to 4.10.7 there is a Remote Code Execution (RCE) vulnerability in Parse Server. This vulnerability affects Parse Server in the default configuration with MongoDB. The main weakness that leads to RCE is the Prototype Pollution vulnerable code in the file `DatabaseController.js`, so it is likely to affect Postgres and any other database backend as well. This vulnerability has been confirmed on Linux (Ubuntu) and Windows. Users are advised to upgrade as soon as possible. The only known workaround is to manually patch your installation with code referenced at the source GHSA-p6h4-93qp-jhcm.
@@ -8115,6 +8123,8 @@ the client's API server credentials to third parties.
 - [https://github.com/jeongjunsoo/CVE-2022-0778](https://github.com/jeongjunsoo/CVE-2022-0778) : ![starts](https://img.shields.io/github/stars/jeongjunsoo/CVE-2022-0778.svg) ![forks](https://img.shields.io/github/forks/jeongjunsoo/CVE-2022-0778.svg)
 
 - [https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778) : ![starts](https://img.shields.io/github/stars/Trinadh465/openssl-1.1.1g_CVE-2022-0778.svg) ![forks](https://img.shields.io/github/forks/Trinadh465/openssl-1.1.1g_CVE-2022-0778.svg)
+
+- [https://github.com/federiconbaez/cortex9-openssl-bn-mod-sqrt-loop-model](https://github.com/federiconbaez/cortex9-openssl-bn-mod-sqrt-loop-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-openssl-bn-mod-sqrt-loop-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-openssl-bn-mod-sqrt-loop-model.svg)
 
 ## CVE-2022-0739
  The BookingPress WordPress plugin before 1.0.11 fails to properly sanitize user supplied POST data before it is used in a dynamically constructed SQL query via the bookingpress_front_get_category_services AJAX action (available to unauthenticated users), leading to an unauthenticated SQL Injection

@@ -300,6 +300,10 @@
 
 - [https://github.com/ossf-cve-benchmark/CVE-2017-18214](https://github.com/ossf-cve-benchmark/CVE-2017-18214) : ![starts](https://img.shields.io/github/stars/ossf-cve-benchmark/CVE-2017-18214.svg) ![forks](https://img.shields.io/github/forks/ossf-cve-benchmark/CVE-2017-18214.svg)
 
+## CVE-2017-18078
+
+- [https://github.com/federiconbaez/cortex9-tmpfiles-hardlink-chown-race-model](https://github.com/federiconbaez/cortex9-tmpfiles-hardlink-chown-race-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-tmpfiles-hardlink-chown-race-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-tmpfiles-hardlink-chown-race-model.svg)
+
 ## CVE-2017-18077
  index.js in brace-expansion before 1.1.7 is vulnerable to Regular Expression Denial of Service (ReDoS) attacks, as demonstrated by an expand argument containing many comma characters.
 

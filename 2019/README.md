@@ -2808,6 +2808,8 @@ use after free.
 
 - [https://github.com/jimahub/scenario-b-warn](https://github.com/jimahub/scenario-b-warn) : ![starts](https://img.shields.io/github/stars/jimahub/scenario-b-warn.svg) ![forks](https://img.shields.io/github/forks/jimahub/scenario-b-warn.svg)
 
+- [https://github.com/federiconbaez/cortex9-lodash-defaultsdeep-prototype-pollution-model](https://github.com/federiconbaez/cortex9-lodash-defaultsdeep-prototype-pollution-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-lodash-defaultsdeep-prototype-pollution-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-lodash-defaultsdeep-prototype-pollution-model.svg)
+
 ## CVE-2019-10743
  All versions of archiver allow attacker to perform a Zip Slip attack via the "unarchive" functions. It is exploited using a specially crafted zip archive, that holds path traversal filenames. When exploited, a filename in a malicious archive is concatenated to the target extraction directory, which results in the final path ending up outside of the target folder. For instance, a zip may hold a file with a "../../file.exe" location and thus break out of the target folder. If an executable or a configuration file is overwritten with a file containing malicious code, the problem can turn into an arbitrary code execution issue quite easily.
 
@@ -3164,6 +3166,8 @@ use after free.
  Some HTTP/2 implementations are vulnerable to resource loops, potentially leading to a denial of service. The attacker creates multiple request streams and continually shuffles the priority of the streams in a way that causes substantial churn to the priority tree. This can consume excess CPU.
 
 - [https://github.com/flyniu666/ingress-nginx-0.21-1.19.5](https://github.com/flyniu666/ingress-nginx-0.21-1.19.5) : ![starts](https://img.shields.io/github/stars/flyniu666/ingress-nginx-0.21-1.19.5.svg) ![forks](https://img.shields.io/github/forks/flyniu666/ingress-nginx-0.21-1.19.5.svg)
+
+- [https://github.com/federiconbaez/cortex9-http2-priority-churn-cost-model](https://github.com/federiconbaez/cortex9-http2-priority-churn-cost-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-http2-priority-churn-cost-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-http2-priority-churn-cost-model.svg)
 
 ## CVE-2019-9511
  Some HTTP/2 implementations are vulnerable to window size manipulation and stream prioritization manipulation, potentially leading to a denial of service. The attacker requests a large amount of data from a specified resource over multiple streams. They manipulate window size and stream priority to force the server to queue the data in 1-byte chunks. Depending on how efficiently this data is queued, this can consume excess CPU, memory, or both.

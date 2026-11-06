@@ -74,6 +74,10 @@
 
 - [https://github.com/epicosy/Retrofit-1](https://github.com/epicosy/Retrofit-1) : ![starts](https://img.shields.io/github/stars/epicosy/Retrofit-1.svg) ![forks](https://img.shields.io/github/forks/epicosy/Retrofit-1.svg)
 
+## CVE-2018-1000810
+
+- [https://github.com/federiconbaez/cortex9-rust-str-repeat-capacity-overflow-model](https://github.com/federiconbaez/cortex9-rust-str-repeat-capacity-overflow-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-rust-str-repeat-capacity-overflow-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-rust-str-repeat-capacity-overflow-model.svg)
+
 ## CVE-2018-1000802
  Python Software Foundation Python (CPython) version 2.7 contains a CWE-77: Improper Neutralization of Special Elements used in a Command ('Command Injection') vulnerability in shutil module (make_archive function) that can result in Denial of service, Information gain via injection of arbitrary files on the system or entire drive. This attack appear to be exploitable via Passage of unfiltered user input to the function. This vulnerability appears to have been fixed in after commit add531a1e55b0a739b0f42582f1c9747e5649ace.
 

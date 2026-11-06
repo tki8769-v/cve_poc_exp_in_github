@@ -5436,6 +5436,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/jaysharma786/CVE-2021-29003](https://github.com/jaysharma786/CVE-2021-29003) : ![starts](https://img.shields.io/github/stars/jaysharma786/CVE-2021-29003.svg) ![forks](https://img.shields.io/github/forks/jaysharma786/CVE-2021-29003.svg)
 
+## CVE-2021-28879
+
+- [https://github.com/federiconbaez/cortex9-rust-zip-size-hint-overflow-model](https://github.com/federiconbaez/cortex9-rust-zip-size-hint-overflow-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-rust-zip-size-hint-overflow-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-rust-zip-size-hint-overflow-model.svg)
+
 ## CVE-2021-28750
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.
 
@@ -7374,6 +7378,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/ETOCheney/cve-2021-21300](https://github.com/ETOCheney/cve-2021-21300) : ![starts](https://img.shields.io/github/stars/ETOCheney/cve-2021-21300.svg) ![forks](https://img.shields.io/github/forks/ETOCheney/cve-2021-21300.svg)
 
 - [https://github.com/macilin/CVE-2021-21300](https://github.com/macilin/CVE-2021-21300) : ![starts](https://img.shields.io/github/stars/macilin/CVE-2021-21300.svg) ![forks](https://img.shields.io/github/forks/macilin/CVE-2021-21300.svg)
+
+- [https://github.com/federiconbaez/cortex9-git-case-insensitive-symlink-checkout-model](https://github.com/federiconbaez/cortex9-git-case-insensitive-symlink-checkout-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-git-case-insensitive-symlink-checkout-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-git-case-insensitive-symlink-checkout-model.svg)
 
 ## CVE-2021-21239
  PySAML2 is a pure python implementation of SAML Version 2 Standard. PySAML2 before 6.5.0 has an improper verification of cryptographic signature vulnerability. Users of pysaml2 that use the default CryptoBackendXmlSec1 backend and need to verify signed SAML documents are impacted. PySAML2 does not ensure that a signed SAML document is correctly signed. The default CryptoBackendXmlSec1 backend is using the xmlsec1 binary to verify the signature of signed SAML documents, but by default xmlsec1 accepts any type of key found within the given document. xmlsec1 needs to be configured explicitly to only use only _x509 certificates_ for the verification process of the SAML document signature. This is fixed in PySAML2 6.5.0.
