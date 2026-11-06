@@ -5154,15 +5154,6 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 
 - [https://github.com/CrackerCat/CVE-2022-24112](https://github.com/CrackerCat/CVE-2022-24112) : ![starts](https://img.shields.io/github/stars/CrackerCat/CVE-2022-24112.svg) ![forks](https://img.shields.io/github/forks/CrackerCat/CVE-2022-24112.svg)
 
-## CVE-2022-24087
- ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.
-
-- [https://github.com/Neimar47574/CVE-2022-24087](https://github.com/Neimar47574/CVE-2022-24087) : ![starts](https://img.shields.io/github/stars/Neimar47574/CVE-2022-24087.svg) ![forks](https://img.shields.io/github/forks/Neimar47574/CVE-2022-24087.svg)
-
-- [https://github.com/seymanurmutlu/CVE-2022-24086-CVE-2022-24087](https://github.com/seymanurmutlu/CVE-2022-24086-CVE-2022-24087) : ![starts](https://img.shields.io/github/stars/seymanurmutlu/CVE-2022-24086-CVE-2022-24087.svg) ![forks](https://img.shields.io/github/forks/seymanurmutlu/CVE-2022-24086-CVE-2022-24087.svg)
-
-- [https://github.com/wubinworks/magento2-template-filter-patch](https://github.com/wubinworks/magento2-template-filter-patch) : ![starts](https://img.shields.io/github/stars/wubinworks/magento2-template-filter-patch.svg) ![forks](https://img.shields.io/github/forks/wubinworks/magento2-template-filter-patch.svg)
-
 ## CVE-2022-24086
  Adobe Commerce versions 2.4.3-p1 (and earlier) and 2.3.7-p2 (and earlier) are affected by an improper input validation vulnerability during the checkout process. Exploitation of this issue does not require user interaction and could result in arbitrary code execution.
 

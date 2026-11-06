@@ -28,12 +28,17 @@
 
 - [https://github.com/xcbjkymz/cve-2026-112688-oobw](https://github.com/xcbjkymz/cve-2026-112688-oobw) : ![starts](https://img.shields.io/github/stars/xcbjkymz/cve-2026-112688-oobw.svg) ![forks](https://img.shields.io/github/forks/xcbjkymz/cve-2026-112688-oobw.svg)
 
+## CVE-2026-121720
+
+- [https://github.com/refiaa/CVE-2026-121720](https://github.com/refiaa/CVE-2026-121720) : ![starts](https://img.shields.io/github/stars/refiaa/CVE-2026-121720.svg) ![forks](https://img.shields.io/github/forks/refiaa/CVE-2026-121720.svg)
+
 ## CVE-2026-122158
 > A security flaw has been discovered in InvoiceShelf up to 2.4.3/3.0.0-alpha.3. Affected by this issue is the function MemberService::create of the file app/Domains/Accounts/Application/MemberService.php. Performing a manipulation of the argument companies[].id/companies[].role results in improper access controls. The attack is possible to be carried out remotely. The exploit has been released to the public and may be used for attacks. Upgrading to version 2.4.4 and 3.0.0-alpha.4 can resolve this
 
 - [https://github.com/capivara-research/CVE-2026-122158](https://github.com/capivara-research/CVE-2026-122158) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-122158.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-122158.svg)
 
 ## CVE-2026-123158
+> sshd in OpenSSH before 10.6p2 on Linux, when musl libc is used without PAM, lacks a workaround for a password authentication bypass (related to misinterpretation of whether a string is intended to be a password hash). For some configurations of accounts, any password between 256 and 1024 characters succeeds. An example of a platform using musl libc without PAM is Alpine Linux.
 
 - [https://github.com/ersinkoc/sshole-check](https://github.com/ersinkoc/sshole-check) : ![starts](https://img.shields.io/github/stars/ersinkoc/sshole-check.svg) ![forks](https://img.shields.io/github/forks/ersinkoc/sshole-check.svg)
 - [https://github.com/gabrielunknown/CVE-2026-123158_SSHole](https://github.com/gabrielunknown/CVE-2026-123158_SSHole) : ![starts](https://img.shields.io/github/stars/gabrielunknown/CVE-2026-123158_SSHole.svg) ![forks](https://img.shields.io/github/forks/gabrielunknown/CVE-2026-123158_SSHole.svg)
