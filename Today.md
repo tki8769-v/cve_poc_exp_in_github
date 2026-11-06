@@ -95,6 +95,11 @@ Panorama, Cloud NGFW, and Prisma® Access are not impacted by this vulnerability
 
 - [https://github.com/iam-s21-caece/PoC-CVE-2026-0264](https://github.com/iam-s21-caece/PoC-CVE-2026-0264) : ![starts](https://img.shields.io/github/stars/iam-s21-caece/PoC-CVE-2026-0264.svg) ![forks](https://img.shields.io/github/forks/iam-s21-caece/PoC-CVE-2026-0264.svg)
 
+## CVE-2026-100109
+> The Security For WooCommerce WordPress plugin from 1.0.10 to 1.0.16 does not perform capability checks when creating users through an action available to unauthenticated visitors, and lets the caller choose the new account&#x27;s role, allowing unauthenticated attackers to create administrator accounts and take over the site.
+
+- [https://github.com/thiscitze/cve-2026-100109-poc](https://github.com/thiscitze/cve-2026-100109-poc) : ![starts](https://img.shields.io/github/stars/thiscitze/cve-2026-100109-poc.svg) ![forks](https://img.shields.io/github/forks/thiscitze/cve-2026-100109-poc.svg)
+
 ## CVE-2026-102334
 > Nginx Proxy Manager through 2.16.0 lacks rate-limiting on authentication endpoints, allowing unauthenticated attackers to make unlimited password guesses against any account. Attackers can brute-force login credentials via POST /api/tokens and subsequently guess TOTP codes via POST /api/tokens/2fa to gain full session access and administrative control.
 
@@ -185,10 +190,18 @@ If any of these functions, or an API that relies on them such as `URL.createObje
 
 - [https://github.com/FORTBRIDGE-UK/CVEs](https://github.com/FORTBRIDGE-UK/CVEs) : ![starts](https://img.shields.io/github/stars/FORTBRIDGE-UK/CVEs.svg) ![forks](https://img.shields.io/github/forks/FORTBRIDGE-UK/CVEs.svg)
 
+## CVE-2026-114630
+
+- [https://github.com/thiscitze/cve-2026-114630-poc](https://github.com/thiscitze/cve-2026-114630-poc) : ![starts](https://img.shields.io/github/stars/thiscitze/cve-2026-114630-poc.svg) ![forks](https://img.shields.io/github/forks/thiscitze/cve-2026-114630-poc.svg)
+
 ## CVE-2026-116214
 > MacCMS v10 before 2026.1000.4054 contains an authentication bypass vulnerability that allows unauthenticated attackers to reset any member&#x27;s password because check_msg() never compares msg_to. Attackers can request a recovery code to their own mailbox via user/findpass_msg, then submit it to user/findpass_reset with the victim&#x27;s email or phone to take over the account.
 
 - [https://github.com/zapstiko/CVE-2026-116214](https://github.com/zapstiko/CVE-2026-116214) : ![starts](https://img.shields.io/github/stars/zapstiko/CVE-2026-116214.svg) ![forks](https://img.shields.io/github/forks/zapstiko/CVE-2026-116214.svg)
+
+## CVE-2026-118423
+
+- [https://github.com/thiscitze/cve-2026-118423-poc](https://github.com/thiscitze/cve-2026-118423-poc) : ![starts](https://img.shields.io/github/stars/thiscitze/cve-2026-118423-poc.svg) ![forks](https://img.shields.io/github/forks/thiscitze/cve-2026-118423-poc.svg)
 
 ## CVE-2026-118569
 > Incorrect Authorization vulnerability in Drupal Fasttoggle allows Forceful Browsing. This issue affects Fasttoggle versions: from 0.0.0 to 4.1.1.
@@ -260,6 +273,26 @@ If any of these functions, or an API that relies on them such as `URL.createObje
 
 - [https://github.com/iam-s21-caece/PoC-CVE-2026-33871](https://github.com/iam-s21-caece/PoC-CVE-2026-33871) : ![starts](https://img.shields.io/github/stars/iam-s21-caece/PoC-CVE-2026-33871.svg) ![forks](https://img.shields.io/github/forks/iam-s21-caece/PoC-CVE-2026-33871.svg)
 
+## CVE-2026-39987
+
+- [https://github.com/LaRemontada12/CVE-2026-39987-Marimo-RCE-SOC-Detection](https://github.com/LaRemontada12/CVE-2026-39987-Marimo-RCE-SOC-Detection) : ![starts](https://img.shields.io/github/stars/LaRemontada12/CVE-2026-39987-Marimo-RCE-SOC-Detection.svg) ![forks](https://img.shields.io/github/forks/LaRemontada12/CVE-2026-39987-Marimo-RCE-SOC-Detection.svg)
+
+## CVE-2026-43284
+> In the Linux kernel, the following vulnerability has been resolved:
+
+xfrm: esp: avoid in-place decrypt on shared skb frags
+
+MSG_SPLICE_PAGES can attach pages from a pipe directly to an skb. TCP
+marks such skbs with SKBFL_SHARED_FRAG after skb_splice_from_iter(),
+so later paths that may modify packet data can first make a private
+copy. The IPv4/IPv6 datagram append paths did not set this flag when
+splicing pages into UDP skbs.
+
+That leaves an ESP-in-UDP packet made from shared pipe pages looking
+
+
+- [https://github.com/EmilyTsum/Shizuka](https://github.com/EmilyTsum/Shizuka) : ![starts](https://img.shields.io/github/stars/EmilyTsum/Shizuka.svg) ![forks](https://img.shields.io/github/forks/EmilyTsum/Shizuka.svg)
+
 ## CVE-2026-43499
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -291,6 +324,26 @@ problems:
 > Insufficient authentication and access control on the internal-only IPC SOAP endpoint of the Genian NAC/ZTNA policy server allows an unauthenticated attacker to invoke internal functions
 
 - [https://github.com/MalHyuk/CVE-2026-76142](https://github.com/MalHyuk/CVE-2026-76142) : ![starts](https://img.shields.io/github/stars/MalHyuk/CVE-2026-76142.svg) ![forks](https://img.shields.io/github/forks/MalHyuk/CVE-2026-76142.svg)
+
+## CVE-2026-80914
+> In the Linux kernel, the following vulnerability has been resolved:
+
+Bluetooth: ISO: fix use-after-free of listener socket in iso_conn_ready
+
+iso_conn_ready() looks up the BIS listener socket with iso_get_sock(),
+which takes a reference, and then, without re-checking its state,
+creates a child socket from it:
+
+    parent = iso_get_sock(hdev, ...);
+    if (!parent)
+        return;
+
+    lock_sock(parent);
+    sk = iso_sock_alloc(sock_net(parent), NULL, BTPROTO_ISO, ...);
+    ...
+    iso_chan_add(c
+
+- [https://github.com/nanhang-950/CVE-2026-80914-POC](https://github.com/nanhang-950/CVE-2026-80914-POC) : ![starts](https://img.shields.io/github/stars/nanhang-950/CVE-2026-80914-POC.svg) ![forks](https://img.shields.io/github/forks/nanhang-950/CVE-2026-80914-POC.svg)
 
 ## CVE-2026-83542
 > Improper Control of Generation of Code (&#x27;Code Injection&#x27;) in Apache OFBiz 24.09 before 24.09.08 on all platforms allows a remote unauthenticated attacker to execute arbitrary code on the server by staging crafted widget XML in a multipart upload and overriding the mainDecoratorLocation used by a manager login route through an anonymous JSON request, causing OFBiz to load the staged XML through its live screen descriptor mechanism and evaluate an unsandboxed Groovy expression while rendering the 
