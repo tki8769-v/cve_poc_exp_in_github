@@ -3005,3 +3005,5 @@
 {"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-11-06T20:44:05Z", "url": "https://github.com/Cappricio-Securities/CVE-2021-40438", "url_ids": ["CVE-2021-40438"]}
 {"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-11-06T20:44:05Z", "url": "https://github.com/gassara-kys/CVE-2021-40438", "url_ids": ["CVE-2021-40438"]}
 {"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-11-06T20:44:05Z", "url": "https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2024-3912", "reason": "prefix_conflict_evidenced", "ts": "2026-11-06T21:07:55Z", "url": "https://github.com/theexploiters/CVE-2024-39123-Exploit", "url_ids": ["CVE-2024-39123"]}
+{"cve_id": "CVE-2025-2938", "reason": "prefix_conflict_evidenced", "ts": "2026-11-06T21:12:59Z", "url": "https://github.com/Fomovet/cve-2025-29384", "url_ids": ["CVE-2025-29384"]}

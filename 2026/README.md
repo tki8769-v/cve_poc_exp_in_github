@@ -49,6 +49,8 @@
 
 - [https://github.com/mc493/openssh-musl-enterprise--hardening-cve-2026-123158](https://github.com/mc493/openssh-musl-enterprise--hardening-cve-2026-123158) : ![starts](https://img.shields.io/github/stars/mc493/openssh-musl-enterprise--hardening-cve-2026-123158.svg) ![forks](https://img.shields.io/github/forks/mc493/openssh-musl-enterprise--hardening-cve-2026-123158.svg)
 
+- [https://github.com/lpizziniacofortinet/cve-2026-123158-openssh-musl-lab](https://github.com/lpizziniacofortinet/cve-2026-123158-openssh-musl-lab) : ![starts](https://img.shields.io/github/stars/lpizziniacofortinet/cve-2026-123158-openssh-musl-lab.svg) ![forks](https://img.shields.io/github/forks/lpizziniacofortinet/cve-2026-123158-openssh-musl-lab.svg)
+
 ## CVE-2026-123025
 > An OS Command Injection vulnerability was discovered in the Google Cloud DNS validation module of the OPNsense os-acme-client plugin through 4.17. The DnsGcloud::prepare() method decodes the dns_gcloud_key model field and directly interpolates the string fields gcloud_account and gcloud_project into a shell command passed to proc_open() via LeUtils::run_shell_command() without any validation or escaping. A remote authenticated user with privileges to issue or renew certificates through the WebGU
 
@@ -600,6 +602,7 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 - [https://github.com/murrez/CVE-2026-111823](https://github.com/murrez/CVE-2026-111823) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-111823.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-111823.svg)
 
 ## CVE-2026-111770
+> The Model Context Protocol TypeScript SDK provides TypeScript client and server implementations of the Model Context Protocol. From 2.0.0 until 2.3.0 in @modelcontextprotocol/server, applications that shared one stateless HTTP transport or one McpServer or Server instance among multiple clients could deliver responses and notifications to the wrong client. The affected surface is an MCP server reached over HTTP by multiple clients. The trigger is reuse of one stateless transport or server instan
 
 - [https://github.com/hahahahahahahahah6/mcp-idprobe](https://github.com/hahahahahahahahah6/mcp-idprobe) : ![starts](https://img.shields.io/github/stars/hahahahahahahahah6/mcp-idprobe.svg) ![forks](https://img.shields.io/github/forks/hahahahahahahahah6/mcp-idprobe.svg)
 
