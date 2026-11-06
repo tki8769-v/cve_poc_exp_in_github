@@ -4509,6 +4509,8 @@ Adopt appropriate SMB Server hardening measures.
 
 - [https://github.com/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-](https://github.com/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-) : ![starts](https://img.shields.io/github/stars/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-.svg) ![forks](https://img.shields.io/github/forks/Certbn/CVE-2025-55182-React-Server-Components-Flight-React2Shell-.svg)
 
+- [https://github.com/sg-evals/react--v19.2.1](https://github.com/sg-evals/react--v19.2.1) : ![starts](https://img.shields.io/github/stars/sg-evals/react--v19.2.1.svg) ![forks](https://img.shields.io/github/forks/sg-evals/react--v19.2.1.svg)
+
 ## CVE-2025-55177
  Incomplete authorization of linked device synchronization messages in WhatsApp for iOS prior to v2.25.21.73, WhatsApp Business for iOS v2.25.21.78, and WhatsApp for Mac v2.25.21.78 could have allowed an unrelated user to trigger processing of content from an arbitrary URL on a target’s device. We assess that this vulnerability, in combination with an OS-level vulnerability on Apple platforms (CVE-2025-43300), may have been exploited in a sophisticated attack against specific targeted users.
 
@@ -5492,6 +5494,8 @@ Users are recommended to upgrade to version 11.0.9, 10.1.43 or 9.0.107, which fi
 ## CVE-2025-50579
 
 - [https://github.com/davidoberst/CVE-2025-50579](https://github.com/davidoberst/CVE-2025-50579) : ![starts](https://img.shields.io/github/stars/davidoberst/CVE-2025-50579.svg) ![forks](https://img.shields.io/github/forks/davidoberst/CVE-2025-50579.svg)
+
+- [https://github.com/davidoberst/CVE-2025-50579-CORS-Misconfiguration-Exploit](https://github.com/davidoberst/CVE-2025-50579-CORS-Misconfiguration-Exploit) : ![starts](https://img.shields.io/github/stars/davidoberst/CVE-2025-50579-CORS-Misconfiguration-Exploit.svg) ![forks](https://img.shields.io/github/forks/davidoberst/CVE-2025-50579-CORS-Misconfiguration-Exploit.svg)
 
 ## CVE-2025-50565
  Doubo ERP 1.0 has an SQL injection vulnerability due to a lack of filtering of user input, which can be remotely initiated by an attacker.

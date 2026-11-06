@@ -8446,3 +8446,13 @@
 {"cve_id": "CVE-2025-50579", "ts": "2026-11-05T21:09:01Z", "type": "new_poc", "url": "https://github.com/davidoberst/CVE-2025-50579"}
 {"cve_id": "CVE-2026-102334", "ts": "2026-11-05T21:09:02Z", "type": "new_poc", "url": "https://github.com/davidoberst/CVE-2026-102334"}
 {"cve_id": "CVE-2026-58868", "ts": "2026-11-05T21:09:03Z", "type": "new_poc", "url": "https://github.com/redfishrouge/CVE-2026-58868-PoC"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-06T01:38:51Z", "type": "new_poc", "url": "https://github.com/rothoma2/cve-2026-123158-sshole"}
+{"cve_id": "CVE-2026-102334", "ts": "2026-11-06T01:38:51Z", "type": "new_poc", "url": "https://github.com/davidoberst/CVE-2026-102334-exploit"}
+{"cve_id": "CVE-2025-50579", "ts": "2026-11-06T01:38:52Z", "type": "new_poc", "url": "https://github.com/davidoberst/CVE-2025-50579-CORS-Misconfiguration-Exploit"}
+{"cve_id": "CVE-2026-76142", "ts": "2026-11-06T01:38:53Z", "type": "new_poc", "url": "https://github.com/MalHyuk/CVE-2026-76142"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-06T01:38:54Z", "type": "new_poc", "url": "https://github.com/gabrielunknown/CVE-2026-123158_SSHole"}
+{"cve_id": "CVE-2026-112688", "ts": "2026-11-06T01:38:55Z", "type": "new_poc", "url": "https://github.com/xcbjkymz/cve-2026-112688-oobw"}
+{"cve_id": "CVE-2025-55182", "ts": "2026-11-06T01:38:57Z", "type": "new_poc", "url": "https://github.com/sg-evals/react--v19.2.1"}
+{"cve_id": "CVE-2026-122158", "ts": "2026-11-06T01:38:58Z", "type": "new_poc", "url": "https://github.com/capivara-research/CVE-2026-122158"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-06T01:38:58Z", "type": "new_poc", "url": "https://github.com/siedysoes/php2shell-scanner"}
+{"cve_id": "CVE-2026-104935", "ts": "2026-11-06T01:40:02Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/ivanti-connect-secure-cve-2026-104935-check"}

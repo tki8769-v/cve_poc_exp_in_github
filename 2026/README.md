@@ -12,6 +12,15 @@
 
 - [https://github.com/coboliqcom/cve-2026-123158-sshole-safe-rust](https://github.com/coboliqcom/cve-2026-123158-sshole-safe-rust) : ![starts](https://img.shields.io/github/stars/coboliqcom/cve-2026-123158-sshole-safe-rust.svg) ![forks](https://img.shields.io/github/forks/coboliqcom/cve-2026-123158-sshole-safe-rust.svg)
 
+- [https://github.com/rothoma2/cve-2026-123158-sshole](https://github.com/rothoma2/cve-2026-123158-sshole) : ![starts](https://img.shields.io/github/stars/rothoma2/cve-2026-123158-sshole.svg) ![forks](https://img.shields.io/github/forks/rothoma2/cve-2026-123158-sshole.svg)
+
+- [https://github.com/gabrielunknown/CVE-2026-123158_SSHole](https://github.com/gabrielunknown/CVE-2026-123158_SSHole) : ![starts](https://img.shields.io/github/stars/gabrielunknown/CVE-2026-123158_SSHole.svg) ![forks](https://img.shields.io/github/forks/gabrielunknown/CVE-2026-123158_SSHole.svg)
+
+## CVE-2026-122158
+> A security flaw has been discovered in InvoiceShelf up to 2.4.3/3.0.0-alpha.3. Affected by this issue is the function MemberService::create of the file app/Domains/Accounts/Application/MemberService.php. Performing a manipulation of the argument companies[].id/companies[].role results in improper access controls. The attack is possible to be carried out remotely. The exploit has been released to the public and may be used for attacks. Upgrading to version 2.4.4 and 3.0.0-alpha.4 can resolve this
+
+- [https://github.com/capivara-research/CVE-2026-122158](https://github.com/capivara-research/CVE-2026-122158) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-122158.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-122158.svg)
+
 ## CVE-2026-122051
 > A flaw has been found in Edimax BR-6208AC 1.32. Affected by this vulnerability is an unknown functionality of the file /goform/mp. Executing a manipulation can lead to command injection. The attack may be launched remotely. The exploit has been published and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
@@ -424,6 +433,8 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 > A memory corruption issue was addressed with improved memory handling. This issue is fixed in iOS 26.7 and iPadOS 26.7, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. Parsing a file may lead to an unexpected app termination or arbitrary code execution.
 
 - [https://github.com/0xjohnnydev/CVE-2026-112688-backboardd](https://github.com/0xjohnnydev/CVE-2026-112688-backboardd) : ![starts](https://img.shields.io/github/stars/0xjohnnydev/CVE-2026-112688-backboardd.svg) ![forks](https://img.shields.io/github/forks/0xjohnnydev/CVE-2026-112688-backboardd.svg)
+
+- [https://github.com/xcbjkymz/cve-2026-112688-oobw](https://github.com/xcbjkymz/cve-2026-112688-oobw) : ![starts](https://img.shields.io/github/stars/xcbjkymz/cve-2026-112688-oobw.svg) ![forks](https://img.shields.io/github/forks/xcbjkymz/cve-2026-112688-oobw.svg)
 
 ## CVE-2026-112621
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in Safari 27.2, iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, visionOS 27.2. Processing a maliciously crafted image may result in memory corruption.
@@ -1770,6 +1781,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/avrevic/php2shell-plain](https://github.com/avrevic/php2shell-plain) : ![starts](https://img.shields.io/github/stars/avrevic/php2shell-plain.svg) ![forks](https://img.shields.io/github/forks/avrevic/php2shell-plain.svg)
 
+- [https://github.com/siedysoes/php2shell-scanner](https://github.com/siedysoes/php2shell-scanner) : ![starts](https://img.shields.io/github/stars/siedysoes/php2shell-scanner.svg) ![forks](https://img.shields.io/github/forks/siedysoes/php2shell-scanner.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -2257,6 +2270,8 @@ device operation and availability. No authentication, session e
 
 - [https://github.com/CompleTetech-Security/ivanti-connect-secure-cve-2026-104935-check](https://github.com/CompleTetech-Security/ivanti-connect-secure-cve-2026-104935-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/ivanti-connect-secure-cve-2026-104935-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/ivanti-connect-secure-cve-2026-104935-check.svg)
 
+- [https://github.com/CompleteTech-Security/ivanti-connect-secure-cve-2026-104935-check](https://github.com/CompleteTech-Security/ivanti-connect-secure-cve-2026-104935-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/ivanti-connect-secure-cve-2026-104935-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/ivanti-connect-secure-cve-2026-104935-check.svg)
+
 ## CVE-2026-104905
 > FacturaScripts before version 2026.7 contains a PHP object injection vulnerability in WidgetSelect::processFormData() that allows authenticated attackers to trigger unserialize() on raw POST data without an allowed_classes filter for multiple-select fields. Attackers can submit a serialized XLSXWriter object as the field value to invoke its __destruct() method, deleting arbitrary attacker-specified files such as config.php or backup data, resulting in denial of service and potential application 
 
@@ -2651,6 +2666,8 @@ Note that this vulnerability can only be exploited prior to the device being onb
 > Nginx Proxy Manager through 2.16.0 lacks rate-limiting on authentication endpoints, allowing unauthenticated attackers to make unlimited password guesses against any account. Attackers can brute-force login credentials via POST /api/tokens and subsequently guess TOTP codes via POST /api/tokens/2fa to gain full session access and administrative control.
 
 - [https://github.com/davidoberst/CVE-2026-102334](https://github.com/davidoberst/CVE-2026-102334) : ![starts](https://img.shields.io/github/stars/davidoberst/CVE-2026-102334.svg) ![forks](https://img.shields.io/github/forks/davidoberst/CVE-2026-102334.svg)
+
+- [https://github.com/davidoberst/CVE-2026-102334-exploit](https://github.com/davidoberst/CVE-2026-102334-exploit) : ![starts](https://img.shields.io/github/stars/davidoberst/CVE-2026-102334-exploit.svg) ![forks](https://img.shields.io/github/forks/davidoberst/CVE-2026-102334-exploit.svg)
 
 ## CVE-2026-102282
 > adm-zip is a JavaScript library for creating and extracting ZIP archives in Node.js. Prior to 0.6.1, adm-zip applies the Unix permission bits stored in a zip entry directly to the extracted file via `fs.chmodSync()` when `keepOriginalPermission=true` is passed to `extractAllTo()`/`extractEntryTo()` — and it never filters the setuid/setgid/sticky bits out of those bits. A zip crafted by an attacker can therefore produce an extracted binary with mode `04755`. When extraction runs as root (the defa
@@ -6100,6 +6117,11 @@ known to be affected: from 8.5.0 through 8.5.100, from 7.0.43 through 7.0.109. O
 Users are rec
 
 - [https://github.com/Ethen1212/tomcat-CVE-2026-76183](https://github.com/Ethen1212/tomcat-CVE-2026-76183) : ![starts](https://img.shields.io/github/stars/Ethen1212/tomcat-CVE-2026-76183.svg) ![forks](https://img.shields.io/github/forks/Ethen1212/tomcat-CVE-2026-76183.svg)
+
+## CVE-2026-76142
+> Insufficient authentication and access control on the internal-only IPC SOAP endpoint of the Genian NAC/ZTNA policy server allows an unauthenticated attacker to invoke internal functions
+
+- [https://github.com/MalHyuk/CVE-2026-76142](https://github.com/MalHyuk/CVE-2026-76142) : ![starts](https://img.shields.io/github/stars/MalHyuk/CVE-2026-76142.svg) ![forks](https://img.shields.io/github/forks/MalHyuk/CVE-2026-76142.svg)
 
 ## CVE-2026-76071
  Netis NC63 firmware through V3.0.0.3327 contains a stack-based buffer overflow vulnerability that allows unauthenticated remote attackers to overwrite saved stack state by supplying an oversized destHost parameter to the ipFilterList=mod action in netis.cgi. Attackers can exploit widthless sscanf conversions that copy user-supplied input into fixed-size stack buffers before authentication is verified, achieving remote code execution as root due to the Boa web server executing the CGI environment with root privileges.
