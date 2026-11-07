@@ -3078,3 +3078,5 @@
 {"cve_id": "CVE-2021-2220", "reason": "prefix_conflict_evidenced", "ts": "2026-11-07T16:25:33Z", "url": "https://github.com/CyberCTF/vulhub-gitlab-cve-2021-22205", "url_ids": ["CVE-2021-22205"]}
 {"cve_id": "CVE-2021-2220", "reason": "prefix_conflict_evidenced", "ts": "2026-11-07T16:25:33Z", "url": "https://github.com/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204", "url_ids": ["CVE-2021-22204"]}
 {"cve_id": "CVE-2023-2877", "reason": "prefix_conflict_evidenced", "ts": "2026-11-07T16:26:27Z", "url": "https://github.com/benjaminhays/CVE-2023-28771-PoC", "url_ids": ["CVE-2023-28771"]}
+{"cve_id": "CVE-2025-6998", "reason": "prefix_conflict_evidenced", "ts": "2026-11-07T16:42:30Z", "url": "https://github.com/joshuavanderpoll/CVE-2025-69985", "url_ids": ["CVE-2025-69985"]}
+{"cve_id": "CVE-2026-7515", "reason": "prefix_conflict_evidenced", "ts": "2026-11-07T16:45:29Z", "url": "https://github.com/licitrasimone/cve-2026-75157-poc", "url_ids": ["CVE-2026-75157"]}
