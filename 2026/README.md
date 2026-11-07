@@ -230,6 +230,11 @@
 
 - [https://github.com/piecar21/CVE-2026-116692](https://github.com/piecar21/CVE-2026-116692) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-116692.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-116692.svg)
 
+## CVE-2026-116606
+> An authentication bypass in Barracuda Email Security Gateway versions earlier than 9.4.0.030 allows an unauthenticated remote attacker to invoke a configuration-import function and restore a crafted, compatible backup archive, resulting in unauthorized modification of the appliance’s global configuration.
+
+- [https://github.com/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560](https://github.com/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560) : ![starts](https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560.svg) ![forks](https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560.svg)
+
 ## CVE-2026-116521
 
 - [https://github.com/4m3rr0r/CVE-2026-116521-poc](https://github.com/4m3rr0r/CVE-2026-116521-poc) : ![starts](https://img.shields.io/github/stars/4m3rr0r/CVE-2026-116521-poc.svg) ![forks](https://img.shields.io/github/forks/4m3rr0r/CVE-2026-116521-poc.svg)
@@ -405,6 +410,7 @@
 - [https://github.com/mehmet-emir-eroglu/CVE-2026-114820](https://github.com/mehmet-emir-eroglu/CVE-2026-114820) : ![starts](https://img.shields.io/github/stars/mehmet-emir-eroglu/CVE-2026-114820.svg) ![forks](https://img.shields.io/github/forks/mehmet-emir-eroglu/CVE-2026-114820.svg)
 
 ## CVE-2026-114630
+> The ELEX WordPress HelpDesk &amp; Customer Ticketing System plugin for WordPress is vulnerable to arbitrary file deletion due to insufficient file path validation in the factory_reset function in all versions up to, and including, 3.3.8 This makes it possible for unauthenticated attackers to delete arbitrary files on the server, which can easily lead to remote code execution when the right file is deleted (such as wp-config.php). This vulnerability is exploitable via a two-step chain: an unauthentic
 
 - [https://github.com/thiscitze/cve-2026-114630-poc](https://github.com/thiscitze/cve-2026-114630-poc) : ![starts](https://img.shields.io/github/stars/thiscitze/cve-2026-114630-poc.svg) ![forks](https://img.shields.io/github/forks/thiscitze/cve-2026-114630-poc.svg)
 
@@ -1902,6 +1908,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/lutfizp/php2shell-lab](https://github.com/lutfizp/php2shell-lab) : ![starts](https://img.shields.io/github/stars/lutfizp/php2shell-lab.svg) ![forks](https://img.shields.io/github/forks/lutfizp/php2shell-lab.svg)
 
 - [https://github.com/psikoma/php2shell-CVE-2026-109618-109619](https://github.com/psikoma/php2shell-CVE-2026-109618-109619) : ![starts](https://img.shields.io/github/stars/psikoma/php2shell-CVE-2026-109618-109619.svg) ![forks](https://img.shields.io/github/forks/psikoma/php2shell-CVE-2026-109618-109619.svg)
+
+- [https://github.com/LiliNothere/CVE-2026-109618](https://github.com/LiliNothere/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/LiliNothere/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/LiliNothere/CVE-2026-109618.svg)
 
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
@@ -4537,6 +4545,8 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 
 - [https://github.com/CompleTetech-Security/netscaler-cve-2026-88776-check](https://github.com/CompleTetech-Security/netscaler-cve-2026-88776-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/netscaler-cve-2026-88776-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/netscaler-cve-2026-88776-check.svg)
 
+- [https://github.com/CompleteTech-Security/netscaler-cve-2026-88776-check](https://github.com/CompleteTech-Security/netscaler-cve-2026-88776-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/netscaler-cve-2026-88776-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/netscaler-cve-2026-88776-check.svg)
+
 ## CVE-2026-88775
 > Memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.
 
@@ -4571,6 +4581,8 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 - [https://github.com/CompleTetech-Security/netscaler-cve-2026-88773-check](https://github.com/CompleTetech-Security/netscaler-cve-2026-88773-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/netscaler-cve-2026-88773-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/netscaler-cve-2026-88773-check.svg)
 
 - [https://github.com/Fyyre/CVE-2026-88773](https://github.com/Fyyre/CVE-2026-88773) : ![starts](https://img.shields.io/github/stars/Fyyre/CVE-2026-88773.svg) ![forks](https://img.shields.io/github/forks/Fyyre/CVE-2026-88773.svg)
+
+- [https://github.com/CompleteTech-Security/netscaler-cve-2026-88773-check](https://github.com/CompleteTech-Security/netscaler-cve-2026-88773-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/netscaler-cve-2026-88773-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/netscaler-cve-2026-88773-check.svg)
 
 ## CVE-2026-88772
 > Vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.

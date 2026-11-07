@@ -10613,3 +10613,11 @@
 {"cve_id": "CVE-2026-119977", "ts": "2026-11-07T07:14:37Z", "type": "new_poc", "url": "https://github.com/riabinov/CVE-2026-119977"}
 {"cve_id": "CVE-2026-43284", "ts": "2026-11-07T07:14:38Z", "type": "new_poc", "url": "https://github.com/noctide/redmi-k50-temp-root"}
 {"cve_id": "CVE-2026-117691", "ts": "2026-11-07T07:14:38Z", "type": "new_poc", "url": "https://github.com/foxcornlab/keycloak-saml-scanner"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T07:25:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117494", "ts": "2026-11-07T07:25:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T07:28:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117494", "ts": "2026-11-07T07:28:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-07T07:31:46Z", "type": "new_poc", "url": "https://github.com/LiliNothere/CVE-2026-109618"}
+{"cve_id": "CVE-2026-116606", "ts": "2026-11-07T07:33:57Z", "type": "new_poc", "url": "https://github.com/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560"}
+{"cve_id": "CVE-2026-88773", "ts": "2026-11-07T07:35:55Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/netscaler-cve-2026-88773-check"}
+{"cve_id": "CVE-2026-88776", "ts": "2026-11-07T07:36:06Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/netscaler-cve-2026-88776-check"}
