@@ -17,6 +17,16 @@
 
 - [https://github.com/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560](https://github.com/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560) : ![starts](https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560.svg) ![forks](https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560.svg)
 
+## CVE-2026-117691
+> A flaw was found in the SAML HTTP-Redirect binding implementation of Keycloak. The issue occurs because the server processes percent-encoded parameter names (like %53AMLResponse) while the signature verification logic only checks literal parameter names. An attacker can use this discrepancy to provide a crafted, unsigned SAML message that the server processes instead of a legitimately signed one, leading to full account takeover of federated users.
+
+- [https://github.com/foxcornlab/keycloak-saml-scanner](https://github.com/foxcornlab/keycloak-saml-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/keycloak-saml-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/keycloak-saml-scanner.svg)
+
+## CVE-2026-119977
+> WordPress Core is vulnerable to Remote Code Execution in versions 4.7 through 7.1.3. This is due to predictable, web-accessible staging paths used during full-package core upgrades. This makes it possible for unauthenticated attackers to execute code on the server during the upgrade window.
+
+- [https://github.com/riabinov/CVE-2026-119977](https://github.com/riabinov/CVE-2026-119977) : ![starts](https://img.shields.io/github/stars/riabinov/CVE-2026-119977.svg) ![forks](https://img.shields.io/github/forks/riabinov/CVE-2026-119977.svg)
+
 ## CVE-2026-123014
 > iTerm2 before 3.7.7beta2 has an argument injection vulnerability in the x-man-page: URL handler, allowing an attacker to execute arbitrary commands with the privileges of the logged-in user by inducing the user to open a crafted URL in iTerm2. Percent-encoded NUL characters survive input sanitization and are subsequently converted to whitespace during command-line parsing, allowing injection of additional arguments to /usr/bin/man. An attacker can inject the -P option to select an attacker-contr
 
@@ -35,6 +45,38 @@
 
 - [https://github.com/richard-rodriguez26/CVE-2026-42945](https://github.com/richard-rodriguez26/CVE-2026-42945) : ![starts](https://img.shields.io/github/stars/richard-rodriguez26/CVE-2026-42945.svg) ![forks](https://img.shields.io/github/forks/richard-rodriguez26/CVE-2026-42945.svg)
 
+## CVE-2026-43284
+> In the Linux kernel, the following vulnerability has been resolved:
+
+xfrm: esp: avoid in-place decrypt on shared skb frags
+
+MSG_SPLICE_PAGES can attach pages from a pipe directly to an skb. TCP
+marks such skbs with SKBFL_SHARED_FRAG after skb_splice_from_iter(),
+so later paths that may modify packet data can first make a private
+copy. The IPv4/IPv6 datagram append paths did not set this flag when
+splicing pages into UDP skbs.
+
+That leaves an ESP-in-UDP packet made from shared pipe pages looking
+
+
+- [https://github.com/noctide/redmi-k50-temp-root](https://github.com/noctide/redmi-k50-temp-root) : ![starts](https://img.shields.io/github/stars/noctide/redmi-k50-temp-root.svg) ![forks](https://img.shields.io/github/forks/noctide/redmi-k50-temp-root.svg)
+
 ## CVE-2026-83844
 
 - [https://github.com/Cobrastrike62/CVE-2026-83844-Detection](https://github.com/Cobrastrike62/CVE-2026-83844-Detection) : ![starts](https://img.shields.io/github/stars/Cobrastrike62/CVE-2026-83844-Detection.svg) ![forks](https://img.shields.io/github/forks/Cobrastrike62/CVE-2026-83844-Detection.svg)
+
+## CVE-2026-98499
+> In the Linux kernel, the following vulnerability has been resolved:
+
+HID: wacom: fix OOB read in wacom_wac_pen_serial_enforce()
+
+The &#x27;wacom_wac_pen_serial_enforce()&#x27; function may calculate and pass an
+invalid offset to hid_field_extract(), resulting in memory reads at
+incorrect addresses -- possibly beyond the end of the report.  If a
+field in the HID descriptor lists more usages than its Report Count
+actually reserves space for, the function&#x27;s inner &#x27;j&#x27; will walk past
+the end of the field:
+
+	fo
+
+- [https://github.com/woshigenm/CVE-2026-98499](https://github.com/woshigenm/CVE-2026-98499) : ![starts](https://img.shields.io/github/stars/woshigenm/CVE-2026-98499.svg) ![forks](https://img.shields.io/github/forks/woshigenm/CVE-2026-98499.svg)

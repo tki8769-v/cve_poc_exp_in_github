@@ -129,6 +129,8 @@
 
 - [https://github.com/hacermuden/CVE-2026-119977](https://github.com/hacermuden/CVE-2026-119977) : ![starts](https://img.shields.io/github/stars/hacermuden/CVE-2026-119977.svg) ![forks](https://img.shields.io/github/forks/hacermuden/CVE-2026-119977.svg)
 
+- [https://github.com/riabinov/CVE-2026-119977](https://github.com/riabinov/CVE-2026-119977) : ![starts](https://img.shields.io/github/stars/riabinov/CVE-2026-119977.svg) ![forks](https://img.shields.io/github/forks/riabinov/CVE-2026-119977.svg)
+
 ## CVE-2026-119712
 > PipesHub before 0.10.0 contains a server-side request forgery vulnerability in ImageParser._fetch_single_url that allows attackers to make the indexing service fetch internal addresses by embedding image URLs in documents. Attackers can supply Markdown or HTML via uploads, synced mailboxes, or web connectors to reach loopback, private-network, or cloud metadata endpoints, with image responses embedded into indexed content.
 
@@ -179,6 +181,11 @@
 > The Tenda W18E web management server is vulnerable to OS command injection via the &quot;diagnose&quot; packet-capture feature due to improper validation of JSON fields. An authenticated user can inject shell metacharacters into the protocol or targetDevice fields, which are later concatenated into a tcpdump command and executed with root privileges. This vulnerability can be exploited without authentication if the device is in a factory-reset state.
 
 - [https://github.com/Cushz/CVE-2026-118238](https://github.com/Cushz/CVE-2026-118238) : ![starts](https://img.shields.io/github/stars/Cushz/CVE-2026-118238.svg) ![forks](https://img.shields.io/github/forks/Cushz/CVE-2026-118238.svg)
+
+## CVE-2026-117691
+> A flaw was found in the SAML HTTP-Redirect binding implementation of Keycloak. The issue occurs because the server processes percent-encoded parameter names (like %53AMLResponse) while the signature verification logic only checks literal parameter names. An attacker can use this discrepancy to provide a crafted, unsigned SAML message that the server processes instead of a legitimately signed one, leading to full account takeover of federated users.
+
+- [https://github.com/foxcornlab/keycloak-saml-scanner](https://github.com/foxcornlab/keycloak-saml-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/keycloak-saml-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/keycloak-saml-scanner.svg)
 
 ## CVE-2026-117561
 > Codefriar sf-mcp through 1.3.2 contains an OS command injection vulnerability that allows attackers to execute shell commands by supplying crafted Salesforce CLI tool flag values. Because escapeValue() in src/utils.ts fails to neutralize backticks, $() substitution, and other shell metacharacters, these values reach execSync in executeSfCommand and run as the MCP server user.
@@ -3057,6 +3064,22 @@ Update the permission check to call perf_allow_
 
 - [https://github.com/woshigenm/CVE-2026-98937](https://github.com/woshigenm/CVE-2026-98937) : ![starts](https://img.shields.io/github/stars/woshigenm/CVE-2026-98937.svg) ![forks](https://img.shields.io/github/forks/woshigenm/CVE-2026-98937.svg)
 
+## CVE-2026-98499
+> In the Linux kernel, the following vulnerability has been resolved:
+
+HID: wacom: fix OOB read in wacom_wac_pen_serial_enforce()
+
+The &#x27;wacom_wac_pen_serial_enforce()&#x27; function may calculate and pass an
+invalid offset to hid_field_extract(), resulting in memory reads at
+incorrect addresses -- possibly beyond the end of the report.  If a
+field in the HID descriptor lists more usages than its Report Count
+actually reserves space for, the function&#x27;s inner &#x27;j&#x27; will walk past
+the end of the field:
+
+	fo
+
+- [https://github.com/woshigenm/CVE-2026-98499](https://github.com/woshigenm/CVE-2026-98499) : ![starts](https://img.shields.io/github/stars/woshigenm/CVE-2026-98499.svg) ![forks](https://img.shields.io/github/forks/woshigenm/CVE-2026-98499.svg)
+
 ## CVE-2026-98432
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3917,6 +3940,7 @@ This vulnerability allows an unauthenticated attacker to perform remot
 - [https://github.com/djzzlim/CVE-2026-94036](https://github.com/djzzlim/CVE-2026-94036) : ![starts](https://img.shields.io/github/stars/djzzlim/CVE-2026-94036.svg) ![forks](https://img.shields.io/github/forks/djzzlim/CVE-2026-94036.svg)
 
 ## CVE-2026-94000
+> A flaw was found in the Admin REST API of Keycloak, an open-source identity and access management solution. The issue occurs in the group-membership endpoints where the system fails to check if a group grants administrative privileges before allowing a user to be added. This allows a delegated administrator with limited permissions to add themselves to a high-privilege group, potentially gaining full control over the entire realm.
 
 - [https://github.com/SecFathy/KeycloakESC](https://github.com/SecFathy/KeycloakESC) : ![starts](https://img.shields.io/github/stars/SecFathy/KeycloakESC.svg) ![forks](https://img.shields.io/github/forks/SecFathy/KeycloakESC.svg)
 
@@ -14193,6 +14217,8 @@ destination-frag path or fall back to skb_cow_data().
 - [https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag](https://github.com/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag) : ![starts](https://img.shields.io/github/stars/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag.svg) ![forks](https://img.shields.io/github/forks/mcxiaochenn/iqooNeo8-V2301A-DirtyFrag.svg)
 
 - [https://github.com/EmilyTsum/Shizuka](https://github.com/EmilyTsum/Shizuka) : ![starts](https://img.shields.io/github/stars/EmilyTsum/Shizuka.svg) ![forks](https://img.shields.io/github/forks/EmilyTsum/Shizuka.svg)
+
+- [https://github.com/noctide/redmi-k50-temp-root](https://github.com/noctide/redmi-k50-temp-root) : ![starts](https://img.shields.io/github/stars/noctide/redmi-k50-temp-root.svg) ![forks](https://img.shields.io/github/forks/noctide/redmi-k50-temp-root.svg)
 
 ## CVE-2026-43074
  In the Linux kernel, the following vulnerability has been resolved:
