@@ -4147,6 +4147,8 @@ The Unauthenticated Stored XSS vulnerability in the WordPress core can be reprod
 
 - [https://github.com/CompleTetech-Security/vm2-nesting-check](https://github.com/CompleTetech-Security/vm2-nesting-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/vm2-nesting-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/vm2-nesting-check.svg)
 
+- [https://github.com/CompleteTech-Security/vm2-nesting-check](https://github.com/CompleteTech-Security/vm2-nesting-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/vm2-nesting-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/vm2-nesting-check.svg)
+
 ## CVE-2026-92805
  UVdesk Community Skeleton through 1.1.8 fails to authenticate or validate installation state on wizard endpoints in ConfigureHelpdesk controller actions. Unauthenticated attackers can repoint the database and create super administrator accounts by submitting crafted requests to wizard endpoints, gaining full control of the instance.
 
@@ -7185,6 +7187,8 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 
 - [https://github.com/CompleTetech-Security/flowise-cve-2026-69254-check](https://github.com/CompleTetech-Security/flowise-cve-2026-69254-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/flowise-cve-2026-69254-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/flowise-cve-2026-69254-check.svg)
 
+- [https://github.com/CompleteTech-Security/flowise-cve-2026-69254-check](https://github.com/CompleteTech-Security/flowise-cve-2026-69254-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/flowise-cve-2026-69254-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/flowise-cve-2026-69254-check.svg)
+
 ## CVE-2026-69243
  AIOHTTP is an asynchronous HTTP client/server framework for asyncio and Python. Prior to 3.14.2, the HTTP parsers were vulnerable to a request smuggling attack relating to WebSocket upgrades. If using the server-side component, an attacker may be able to execute a request smuggling vulnerability using an edge case in the WebSocket upgrade procedure. A WebSocket upgrade request with a body could cause the parser to switch protocols before the complete request body was received, leaving trailing bytes to be handled as upgraded-protocol or pipelined data rather than normal HTTP body data. This issue is fixed in version 3.14.2.
 
@@ -9513,11 +9517,15 @@ availability of the application.
 
 - [https://github.com/CompleTetech-Security/node-cve-2026-58045-check](https://github.com/CompleTetech-Security/node-cve-2026-58045-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/node-cve-2026-58045-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/node-cve-2026-58045-check.svg)
 
+- [https://github.com/CompleteTech-Security/node-cve-2026-58045-check](https://github.com/CompleteTech-Security/node-cve-2026-58045-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-58045-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-58045-check.svg)
+
 ## CVE-2026-58044
 
 - [https://github.com/CompleteTech-LLC/node-cve-2026-58044-check](https://github.com/CompleteTech-LLC/node-cve-2026-58044-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/node-cve-2026-58044-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/node-cve-2026-58044-check.svg)
 
 - [https://github.com/CompleTetech-Security/node-cve-2026-58044-check](https://github.com/CompleTetech-Security/node-cve-2026-58044-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/node-cve-2026-58044-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/node-cve-2026-58044-check.svg)
+
+- [https://github.com/CompleteTech-Security/node-cve-2026-58044-check](https://github.com/CompleteTech-Security/node-cve-2026-58044-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-58044-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-58044-check.svg)
 
 ## CVE-2026-58043
 
@@ -9525,11 +9533,15 @@ availability of the application.
 
 - [https://github.com/CompleTetech-Security/node-cve-2026-58043-check](https://github.com/CompleTetech-Security/node-cve-2026-58043-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/node-cve-2026-58043-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/node-cve-2026-58043-check.svg)
 
+- [https://github.com/CompleteTech-Security/node-cve-2026-58043-check](https://github.com/CompleteTech-Security/node-cve-2026-58043-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-58043-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-58043-check.svg)
+
 ## CVE-2026-58042
 
 - [https://github.com/CompleteTech-LLC/node-cve-2026-58042-check](https://github.com/CompleteTech-LLC/node-cve-2026-58042-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/node-cve-2026-58042-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/node-cve-2026-58042-check.svg)
 
 - [https://github.com/CompleTetech-Security/node-cve-2026-58042-check](https://github.com/CompleTetech-Security/node-cve-2026-58042-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/node-cve-2026-58042-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/node-cve-2026-58042-check.svg)
+
+- [https://github.com/CompleteTech-Security/node-cve-2026-58042-check](https://github.com/CompleteTech-Security/node-cve-2026-58042-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-58042-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-58042-check.svg)
 
 ## CVE-2026-58041
 
@@ -9537,17 +9549,23 @@ availability of the application.
 
 - [https://github.com/CompleTetech-Security/node-cve-2026-58041-check](https://github.com/CompleTetech-Security/node-cve-2026-58041-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/node-cve-2026-58041-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/node-cve-2026-58041-check.svg)
 
+- [https://github.com/CompleteTech-Security/node-cve-2026-58041-check](https://github.com/CompleteTech-Security/node-cve-2026-58041-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-58041-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-58041-check.svg)
+
 ## CVE-2026-58040
 
 - [https://github.com/CompleteTech-LLC/node-cve-2026-58040-check](https://github.com/CompleteTech-LLC/node-cve-2026-58040-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/node-cve-2026-58040-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/node-cve-2026-58040-check.svg)
 
 - [https://github.com/CompleTetech-Security/node-cve-2026-58040-check](https://github.com/CompleTetech-Security/node-cve-2026-58040-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/node-cve-2026-58040-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/node-cve-2026-58040-check.svg)
 
+- [https://github.com/CompleteTech-Security/node-cve-2026-58040-check](https://github.com/CompleteTech-Security/node-cve-2026-58040-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-58040-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-58040-check.svg)
+
 ## CVE-2026-58039
 
 - [https://github.com/CompleteTech-LLC/node-cve-2026-58039-check](https://github.com/CompleteTech-LLC/node-cve-2026-58039-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/node-cve-2026-58039-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/node-cve-2026-58039-check.svg)
 
 - [https://github.com/CompleTetech-Security/node-cve-2026-58039-check](https://github.com/CompleTetech-Security/node-cve-2026-58039-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/node-cve-2026-58039-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/node-cve-2026-58039-check.svg)
+
+- [https://github.com/CompleteTech-Security/node-cve-2026-58039-check](https://github.com/CompleteTech-Security/node-cve-2026-58039-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-58039-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-58039-check.svg)
 
 ## CVE-2026-58025
  Deserialization of untrusted data vulnerability in Wikimedia Foundation MediaWiki.
@@ -9677,6 +9695,8 @@ Users are recommended to upgrade to version 2.57.0, which fixes the issue.
 
 - [https://github.com/CompleTetech-Security/node-cve-2026-56850-check](https://github.com/CompleTetech-Security/node-cve-2026-56850-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/node-cve-2026-56850-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/node-cve-2026-56850-check.svg)
 
+- [https://github.com/CompleteTech-Security/node-cve-2026-56850-check](https://github.com/CompleteTech-Security/node-cve-2026-56850-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-56850-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-56850-check.svg)
+
 ## CVE-2026-56848
  A flaw in Node.js HTTP/2 handling allows `nghttp2_session_mem_send()` to be called re-entrantly while `nghttp2_session_mem_recv()` is executing, resulting in a heap-use-after-free.
 
@@ -9694,11 +9714,15 @@ This vulnerability affects Node.js **26.x**, **24.x**, and **22.x**.
 
 - [https://github.com/CompleTetech-Security/node-cve-2026-56847-check](https://github.com/CompleTetech-Security/node-cve-2026-56847-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/node-cve-2026-56847-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/node-cve-2026-56847-check.svg)
 
+- [https://github.com/CompleteTech-Security/node-cve-2026-56847-check](https://github.com/CompleteTech-Security/node-cve-2026-56847-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-56847-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-56847-check.svg)
+
 ## CVE-2026-56846
 
 - [https://github.com/CompleteTech-LLC/node-cve-2026-56846-check](https://github.com/CompleteTech-LLC/node-cve-2026-56846-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/node-cve-2026-56846-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/node-cve-2026-56846-check.svg)
 
 - [https://github.com/CompleTetech-Security/node-cve-2026-56846-check](https://github.com/CompleTetech-Security/node-cve-2026-56846-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/node-cve-2026-56846-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/node-cve-2026-56846-check.svg)
+
+- [https://github.com/CompleteTech-Security/node-cve-2026-56846-check](https://github.com/CompleteTech-Security/node-cve-2026-56846-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-56846-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-56846-check.svg)
 
 ## CVE-2026-56819
  Netty is a network application framework for development of protocol servers and clients. In versions 4.2.0.Final through 4.2.15.Final and 4.1.0.Final through 4.1.135.Final, a remote unauthenticated peer can leak one direct `ByteBuf` per HTTP/2 `DATA` frame in applications that enable HTTP/2 content decompression via `DelegatingDecompressorFrameListener`. When a `DATA` frame is processed for a stream whose decompressor has already been closed, `Http2Decompressor.decompress(...)` calls `decompressor.writeInbound(data.retain())` and does not release the retained buffer on the error path, eventually exhausting direct memory and crashing the JVM. This issue is fixed in versions 4.1.136.Final and 4.2.16.Final.
@@ -22813,6 +22837,8 @@ This issue affects ADC: from 14.1 through 73.32 and from 13.1 through 63.21; Gat
 - [https://github.com/CompleteTech-LLC/netscaler-cve-2026-19489-check](https://github.com/CompleteTech-LLC/netscaler-cve-2026-19489-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/netscaler-cve-2026-19489-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/netscaler-cve-2026-19489-check.svg)
 
 - [https://github.com/CompleTetech-Security/netscaler-cve-2026-19489-check](https://github.com/CompleTetech-Security/netscaler-cve-2026-19489-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/netscaler-cve-2026-19489-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/netscaler-cve-2026-19489-check.svg)
+
+- [https://github.com/CompleteTech-Security/netscaler-cve-2026-19489-check](https://github.com/CompleteTech-Security/netscaler-cve-2026-19489-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/netscaler-cve-2026-19489-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/netscaler-cve-2026-19489-check.svg)
 
 ## CVE-2026-19478
  GitLab has remediated an issue in GitLab CE/EE affecting all versions from 18.2 before 18.11.11, 19.0 before 19.0.8, 19.1 before 19.1.6, and 19.2 before 19.2.4 that under certain conditions could allow an unauthenticated user to remotely modify or delete public projects and user data via a GraphQL directive.

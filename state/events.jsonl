@@ -10720,3 +10720,42 @@
 {"cve_id": "CVE-2020-11651", "ts": "2026-11-07T21:08:31Z", "type": "new_poc", "url": "https://github.com/codenamepetrel/salt-cve-2020-11651-poc"}
 {"cve_id": "CVE-2023-34468", "ts": "2026-11-07T21:08:32Z", "type": "new_poc", "url": "https://github.com/mohammed-moshii/CVE-2023-34468-Apache-NiFi-RCE"}
 {"cve_id": "CVE-2026-123158", "ts": "2026-11-07T21:08:32Z", "type": "new_poc", "url": "https://github.com/MikeCase/check-sshole"}
+{"cve_id": "CVE-2019-7907", "ts": "2026-11-07T21:19:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-36240", "ts": "2026-11-07T21:19:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-58388", "ts": "2026-11-07T21:19:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-46896", "ts": "2026-11-07T21:19:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-64798", "ts": "2026-11-07T21:19:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-10146", "ts": "2026-11-07T21:19:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-10147", "ts": "2026-11-07T21:19:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104040", "ts": "2026-11-07T21:20:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T21:20:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111221", "ts": "2026-11-07T21:20:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111229", "ts": "2026-11-07T21:20:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111231", "ts": "2026-11-07T21:20:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117494", "ts": "2026-11-07T21:21:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-119217", "ts": "2026-11-07T21:22:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-120484", "ts": "2026-11-07T21:22:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47400", "ts": "2026-11-07T21:26:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47401", "ts": "2026-11-07T21:26:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47402", "ts": "2026-11-07T21:26:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47403", "ts": "2026-11-07T21:26:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47404", "ts": "2026-11-07T21:26:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49122", "ts": "2026-11-07T21:26:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49123", "ts": "2026-11-07T21:26:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49124", "ts": "2026-11-07T21:26:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49125", "ts": "2026-11-07T21:26:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49126", "ts": "2026-11-07T21:26:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-56717", "ts": "2026-11-07T21:27:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-19489", "ts": "2026-11-07T21:38:32Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/netscaler-cve-2026-19489-check"}
+{"cve_id": "CVE-2026-58045", "ts": "2026-11-07T21:39:15Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/node-cve-2026-58045-check"}
+{"cve_id": "CVE-2026-56847", "ts": "2026-11-07T21:39:26Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/node-cve-2026-56847-check"}
+{"cve_id": "CVE-2026-58039", "ts": "2026-11-07T21:39:27Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/node-cve-2026-58039-check"}
+{"cve_id": "CVE-2026-58040", "ts": "2026-11-07T21:39:27Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/node-cve-2026-58040-check"}
+{"cve_id": "CVE-2026-69254", "ts": "2026-11-07T21:39:32Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/flowise-cve-2026-69254-check"}
+{"cve_id": "CVE-2026-56846", "ts": "2026-11-07T21:40:24Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/node-cve-2026-56846-check"}
+{"cve_id": "CVE-2026-56850", "ts": "2026-11-07T21:40:24Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/node-cve-2026-56850-check"}
+{"cve_id": "CVE-2026-58041", "ts": "2026-11-07T21:40:29Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/node-cve-2026-58041-check"}
+{"cve_id": "CVE-2026-58042", "ts": "2026-11-07T21:40:29Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/node-cve-2026-58042-check"}
+{"cve_id": "CVE-2026-58044", "ts": "2026-11-07T21:40:30Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/node-cve-2026-58044-check"}
+{"cve_id": "CVE-2026-58043", "ts": "2026-11-07T21:41:23Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/node-cve-2026-58043-check"}
+{"cve_id": "CVE-2026-92935", "ts": "2026-11-07T21:41:24Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/vm2-nesting-check"}

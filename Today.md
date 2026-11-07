@@ -109,6 +109,10 @@
 - [https://github.com/Funcan/sshole](https://github.com/Funcan/sshole) : ![starts](https://img.shields.io/github/stars/Funcan/sshole.svg) ![forks](https://img.shields.io/github/forks/Funcan/sshole.svg)
 - [https://github.com/MikeCase/check-sshole](https://github.com/MikeCase/check-sshole) : ![starts](https://img.shields.io/github/stars/MikeCase/check-sshole.svg) ![forks](https://img.shields.io/github/forks/MikeCase/check-sshole.svg)
 
+## CVE-2026-19489
+
+- [https://github.com/CompleteTech-Security/netscaler-cve-2026-19489-check](https://github.com/CompleteTech-Security/netscaler-cve-2026-19489-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/netscaler-cve-2026-19489-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/netscaler-cve-2026-19489-check.svg)
+
 ## CVE-2026-19868
 > An authentication enforcement vulnerability in SonicOS SSLVPN service may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may also bypass SAML-enforced multi-factor authentication (MFA).
 
@@ -193,10 +197,54 @@ The fraggap
 
 - [https://github.com/ja-errorpro/CVE-2026-54161](https://github.com/ja-errorpro/CVE-2026-54161) : ![starts](https://img.shields.io/github/stars/ja-errorpro/CVE-2026-54161.svg) ![forks](https://img.shields.io/github/forks/ja-errorpro/CVE-2026-54161.svg)
 
+## CVE-2026-56846
+
+- [https://github.com/CompleteTech-Security/node-cve-2026-56846-check](https://github.com/CompleteTech-Security/node-cve-2026-56846-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-56846-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-56846-check.svg)
+
+## CVE-2026-56847
+
+- [https://github.com/CompleteTech-Security/node-cve-2026-56847-check](https://github.com/CompleteTech-Security/node-cve-2026-56847-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-56847-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-56847-check.svg)
+
+## CVE-2026-56850
+
+- [https://github.com/CompleteTech-Security/node-cve-2026-56850-check](https://github.com/CompleteTech-Security/node-cve-2026-56850-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-56850-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-56850-check.svg)
+
+## CVE-2026-58039
+
+- [https://github.com/CompleteTech-Security/node-cve-2026-58039-check](https://github.com/CompleteTech-Security/node-cve-2026-58039-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-58039-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-58039-check.svg)
+
+## CVE-2026-58040
+
+- [https://github.com/CompleteTech-Security/node-cve-2026-58040-check](https://github.com/CompleteTech-Security/node-cve-2026-58040-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-58040-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-58040-check.svg)
+
+## CVE-2026-58041
+
+- [https://github.com/CompleteTech-Security/node-cve-2026-58041-check](https://github.com/CompleteTech-Security/node-cve-2026-58041-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-58041-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-58041-check.svg)
+
+## CVE-2026-58042
+
+- [https://github.com/CompleteTech-Security/node-cve-2026-58042-check](https://github.com/CompleteTech-Security/node-cve-2026-58042-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-58042-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-58042-check.svg)
+
+## CVE-2026-58043
+
+- [https://github.com/CompleteTech-Security/node-cve-2026-58043-check](https://github.com/CompleteTech-Security/node-cve-2026-58043-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-58043-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-58043-check.svg)
+
+## CVE-2026-58044
+
+- [https://github.com/CompleteTech-Security/node-cve-2026-58044-check](https://github.com/CompleteTech-Security/node-cve-2026-58044-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-58044-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-58044-check.svg)
+
+## CVE-2026-58045
+
+- [https://github.com/CompleteTech-Security/node-cve-2026-58045-check](https://github.com/CompleteTech-Security/node-cve-2026-58045-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/node-cve-2026-58045-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/node-cve-2026-58045-check.svg)
+
 ## CVE-2026-61989
 > Unauthenticated Cross Site Scripting (XSS) in Easy Property Listings &lt;= 3.5.25 versions.
 
 - [https://github.com/Mor-Golan/CVE-2026-61989](https://github.com/Mor-Golan/CVE-2026-61989) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-61989.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-61989.svg)
+
+## CVE-2026-69254
+
+- [https://github.com/CompleteTech-Security/flowise-cve-2026-69254-check](https://github.com/CompleteTech-Security/flowise-cve-2026-69254-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/flowise-cve-2026-69254-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/flowise-cve-2026-69254-check.svg)
 
 ## CVE-2026-83844
 
@@ -223,6 +271,10 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1.37.279 FIPS and NDcPP; Gateway: before 14.1-73.37 and before 13.1-64.23  leading to unpredictable or erroneous behavior or Denial of Service
 
 - [https://github.com/CompleteTech-Security/netscaler-cve-2026-88776-check](https://github.com/CompleteTech-Security/netscaler-cve-2026-88776-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/netscaler-cve-2026-88776-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/netscaler-cve-2026-88776-check.svg)
+
+## CVE-2026-92935
+
+- [https://github.com/CompleteTech-Security/vm2-nesting-check](https://github.com/CompleteTech-Security/vm2-nesting-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/vm2-nesting-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/vm2-nesting-check.svg)
 
 ## CVE-2026-94074
 > Unauthenticated Broken Access Control in Simply Schedule Appointments &lt;= 1.6.12.29 versions.
