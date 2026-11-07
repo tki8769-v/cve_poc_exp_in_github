@@ -10621,3 +10621,8 @@
 {"cve_id": "CVE-2026-116606", "ts": "2026-11-07T07:33:57Z", "type": "new_poc", "url": "https://github.com/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560"}
 {"cve_id": "CVE-2026-88773", "ts": "2026-11-07T07:35:55Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/netscaler-cve-2026-88773-check"}
 {"cve_id": "CVE-2026-88776", "ts": "2026-11-07T07:36:06Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/netscaler-cve-2026-88776-check"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T07:42:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117494", "ts": "2026-11-07T07:42:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T07:46:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117494", "ts": "2026-11-07T07:46:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-21762", "ts": "2026-11-07T07:53:52Z", "type": "new_poc", "url": "https://github.com/IzanInPublic/CVE-2024-21762-Safe-Check"}
