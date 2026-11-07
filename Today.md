@@ -7,6 +7,10 @@
 
 - [https://github.com/codenamepetrel/salt-cve-2020-11651-poc](https://github.com/codenamepetrel/salt-cve-2020-11651-poc) : ![starts](https://img.shields.io/github/stars/codenamepetrel/salt-cve-2020-11651-poc.svg) ![forks](https://img.shields.io/github/forks/codenamepetrel/salt-cve-2020-11651-poc.svg)
 
+## CVE-2020-1350
+
+- [https://github.com/Sheisback/CVE-2020-1350-Exploit](https://github.com/Sheisback/CVE-2020-1350-Exploit) : ![starts](https://img.shields.io/github/stars/Sheisback/CVE-2020-1350-Exploit.svg) ![forks](https://img.shields.io/github/forks/Sheisback/CVE-2020-1350-Exploit.svg)
+
 ## CVE-2020-35489
 
 - [https://github.com/elabod1/SOC-wordpress-compromise-report](https://github.com/elabod1/SOC-wordpress-compromise-report) : ![starts](https://img.shields.io/github/stars/elabod1/SOC-wordpress-compromise-report.svg) ![forks](https://img.shields.io/github/forks/elabod1/SOC-wordpress-compromise-report.svg)
@@ -249,6 +253,7 @@ The fraggap
 ## CVE-2026-83844
 
 - [https://github.com/Cobrastrike62/CVE-2026-83844-Detection](https://github.com/Cobrastrike62/CVE-2026-83844-Detection) : ![starts](https://img.shields.io/github/stars/Cobrastrike62/CVE-2026-83844-Detection.svg) ![forks](https://img.shields.io/github/forks/Cobrastrike62/CVE-2026-83844-Detection.svg)
+- [https://github.com/LACHHAB-Anas/CVE-2026-83844](https://github.com/LACHHAB-Anas/CVE-2026-83844) : ![starts](https://img.shields.io/github/stars/LACHHAB-Anas/CVE-2026-83844.svg) ![forks](https://img.shields.io/github/forks/LACHHAB-Anas/CVE-2026-83844.svg)
 
 ## CVE-2026-84473
 > Authentication Bypass / Missing Brute-Force Protection in remote.php/webdav/ in ownCloud ownCloud server 10.16.3 allows an unauthenticated remote attacker to perform unlimited online password guessing against WebDAV accounts via repeated HTTP Basic Authentication requests to the WebDAV endpoint.

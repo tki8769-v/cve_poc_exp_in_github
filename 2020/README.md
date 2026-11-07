@@ -5440,6 +5440,8 @@ When the second phase of Windows updates become available in Q1 2021, customers 
 
 - [https://github.com/ejlevin99/CVE---2020---1350](https://github.com/ejlevin99/CVE---2020---1350) : ![starts](https://img.shields.io/github/stars/ejlevin99/CVE---2020---1350.svg) ![forks](https://img.shields.io/github/forks/ejlevin99/CVE---2020---1350.svg)
 
+- [https://github.com/Sheisback/CVE-2020-1350-Exploit](https://github.com/Sheisback/CVE-2020-1350-Exploit) : ![starts](https://img.shields.io/github/stars/Sheisback/CVE-2020-1350-Exploit.svg) ![forks](https://img.shields.io/github/forks/Sheisback/CVE-2020-1350-Exploit.svg)
+
 ## CVE-2020-1349
  A remote code execution vulnerability exists in Microsoft Outlook software when it fails to properly handle objects in memory, aka 'Microsoft Outlook Remote Code Execution Vulnerability'.
 

@@ -3081,3 +3081,5 @@
 {"cve_id": "CVE-2025-6998", "reason": "prefix_conflict_evidenced", "ts": "2026-11-07T16:42:30Z", "url": "https://github.com/joshuavanderpoll/CVE-2025-69985", "url_ids": ["CVE-2025-69985"]}
 {"cve_id": "CVE-2026-7515", "reason": "prefix_conflict_evidenced", "ts": "2026-11-07T16:45:29Z", "url": "https://github.com/licitrasimone/cve-2026-75157-poc", "url_ids": ["CVE-2026-75157"]}
 {"cve_id": "CVE-2026-7363", "reason": "prefix_conflict_evidenced", "ts": "2026-11-07T21:12:38Z", "url": "https://github.com/CuteeCat/CVE-2026-73633", "url_ids": ["CVE-2026-73633"]}
+{"cve_id": "CVE-2024-1132", "reason": "prefix_conflict_evidenced", "ts": "2026-11-07T22:04:42Z", "url": "https://github.com/mhaskar/CVE-2024-11320", "url_ids": ["CVE-2024-11320"]}
+{"cve_id": "CVE-2025-6018", "reason": "prefix_conflict_evidenced", "ts": "2026-11-07T22:11:13Z", "url": "https://github.com/m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit", "url_ids": ["CVE-2025-60188"]}

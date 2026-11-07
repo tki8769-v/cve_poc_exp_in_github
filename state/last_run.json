@@ -15,7 +15,7 @@
     },
     "clean_apply": {
       "affected_years": [],
-      "applied_at": "2026-11-07T21:46:34Z",
+      "applied_at": "2026-11-07T22:14:16Z",
       "applied_rejected": 0,
       "revoked_accepted": 0,
       "revoked_rejected": 0,
@@ -24,36 +24,38 @@
     },
     "official_refs": {
       "accepted": 0,
-      "candidates_total": 18052,
-      "kept_for_review": 54,
-      "meta_fetched": 54,
-      "patchlike_skipped": 48,
+      "candidates_total": 18147,
+      "kept_for_review": 42,
+      "meta_fetched": 42,
+      "patchlike_skipped": 53,
       "pending_after": 0,
-      "pending_before": 102,
+      "pending_before": 95,
       "pending_by_kind": {
-        "patch": 48,
-        "reference": 54
+        "advisory": 1,
+        "patch": 52,
+        "poc": 1,
+        "reference": 41
       },
       "pending_by_kind_after": {},
-      "processed": 54,
+      "processed": 42,
       "rejected_lead": 0,
-      "requests_used": 54,
+      "requests_used": 42,
       "stop_reason": null
     },
     "queue": {
       "due_by_priority": {
-        "0": 6411,
-        "5": 5077,
-        "8": 25917
+        "0": 6303,
+        "5": 4986,
+        "8": 25847
       },
-      "due_now": 37405,
-      "oldest_due": "2026-10-18T21:09:56Z",
+      "due_now": 37136,
+      "oldest_due": "2026-10-18T23:13:38Z",
       "oldest_due_by_priority": {
         "0": "2026-11-05T21:06:28Z",
-        "5": "2026-11-01T23:28:25Z",
-        "8": "2026-10-18T21:09:56Z"
+        "5": "2026-11-01T23:45:09Z",
+        "8": "2026-10-18T23:13:38Z"
       },
-      "tasks_total": 50844
+      "tasks_total": 50873
     },
     "recheck": {
       "conflict_evidenced": 167,
@@ -64,7 +66,7 @@
       "rule_version": "2"
     },
     "render": {
-      "changed_files": 3
+      "changed_files": 4
     },
     "repo_pushed": {
       "accepted_existing": 28,
@@ -90,14 +92,14 @@
       "blocked": 0,
       "complete": true,
       "cursor_advanced": true,
-      "cves_hit": 32,
+      "cves_hit": 33,
       "invalid_ids": 0,
       "needs_review": 1,
-      "new_relations": 0,
+      "new_relations": 1,
       "partial_days_dropped": 0,
       "partial_days_pending": 0,
       "rejected_at_collection": 0,
-      "repos_seen": 79,
+      "repos_seen": 80,
       "requests_used": 1,
       "warning": null,
       "window": "2026-11-07..2026-11-07"
@@ -107,9 +109,9 @@
       "budget_stopped": true,
       "incomplete": 0,
       "invalid_id_skipped": 0,
-      "needs_review": 22,
-      "new_relations": 13,
-      "rejected_at_collection": 0,
+      "needs_review": 36,
+      "new_relations": 1,
+      "rejected_at_collection": 2,
       "scanned": 300,
       "scanned_by_priority": {
         "0": 151,
@@ -122,28 +124,28 @@
     "sync": {
       "budget_stopped": true,
       "continuity_warning": false,
-      "cves_seen": 2363,
+      "cves_seen": 2405,
       "floor_tag": "cve_2026-09-24_0700Z",
-      "last_tag": "cve_2026-11-06_2100Z",
-      "new_tasks": 32,
-      "ref_candidates_added": 102,
+      "last_tag": "cve_2026-11-06_2200Z",
+      "new_tasks": 29,
+      "ref_candidates_added": 95,
       "rejected": 26,
       "releases_processed": 1,
       "releases_seen": 30
     },
     "timing": {
-      "backfill_conflicts": 8.742,
-      "backfill_queue": 0.235,
-      "clean_apply": 0.288,
-      "official_refs": 27.451,
-      "queue": 0.29,
-      "recheck": 0.192,
-      "render": 1.006,
-      "repo_pushed": 10.667,
-      "repo_watch": 7.254,
-      "scan": 567.721,
-      "sync": 1033.518,
-      "verify": 0.665
+      "backfill_conflicts": 8.874,
+      "backfill_queue": 0.219,
+      "clean_apply": 0.304,
+      "official_refs": 22.238,
+      "queue": 0.3,
+      "recheck": 0.196,
+      "render": 1.016,
+      "repo_pushed": 10.807,
+      "repo_watch": 7.283,
+      "scan": 571.872,
+      "sync": 1030.351,
+      "verify": 0.671
     },
     "verify": {
       "downstream_checked": true,
@@ -152,5 +154,5 @@
       "problems": []
     }
   },
-  "ts": "2026-11-07T21:46:36Z"
+  "ts": "2026-11-07T22:14:19Z"
 }
