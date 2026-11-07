@@ -4579,6 +4579,8 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 
 - [https://github.com/mbadanoiu/CVE-2023-40037](https://github.com/mbadanoiu/CVE-2023-40037) : ![starts](https://img.shields.io/github/stars/mbadanoiu/CVE-2023-40037.svg) ![forks](https://img.shields.io/github/forks/mbadanoiu/CVE-2023-40037.svg)
 
+- [https://github.com/mohammed-moshii/CVE-2023-34468-Apache-NiFi-RCE](https://github.com/mohammed-moshii/CVE-2023-34468-Apache-NiFi-RCE) : ![starts](https://img.shields.io/github/stars/mohammed-moshii/CVE-2023-34468-Apache-NiFi-RCE.svg) ![forks](https://img.shields.io/github/forks/mohammed-moshii/CVE-2023-34468-Apache-NiFi-RCE.svg)
+
 ## CVE-2023-34446
  iTop is an open source, web-based IT service management platform. Prior to versions 3.0.4 and 3.1.0, when displaying `pages/preferences.php`, cross site scripting is possible. This issue is fixed in versions 3.0.4 and 3.1.0.
 

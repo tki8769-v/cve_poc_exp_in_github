@@ -2883,6 +2883,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/CyberCTF/vulhub-saltstack-cve-2020-11651](https://github.com/CyberCTF/vulhub-saltstack-cve-2020-11651) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-saltstack-cve-2020-11651.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-saltstack-cve-2020-11651.svg)
 
+- [https://github.com/codenamepetrel/salt-cve-2020-11651-poc](https://github.com/codenamepetrel/salt-cve-2020-11651-poc) : ![starts](https://img.shields.io/github/stars/codenamepetrel/salt-cve-2020-11651-poc.svg) ![forks](https://img.shields.io/github/forks/codenamepetrel/salt-cve-2020-11651-poc.svg)
+
 ## CVE-2020-11650
  An issue was discovered in iXsystems FreeNAS (and TrueNAS) 11.2 before 11.2-u8 and 11.3 before 11.3-U1. It allows a denial of service. The login authentication component has no limits on the length of an authentication message or the rate at which such messages are sent.
 

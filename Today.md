@@ -3,9 +3,17 @@
 
 - [https://github.com/renzhenxue/vulhub-lab-notes](https://github.com/renzhenxue/vulhub-lab-notes) : ![starts](https://img.shields.io/github/stars/renzhenxue/vulhub-lab-notes.svg) ![forks](https://img.shields.io/github/forks/renzhenxue/vulhub-lab-notes.svg)
 
+## CVE-2020-11651
+
+- [https://github.com/codenamepetrel/salt-cve-2020-11651-poc](https://github.com/codenamepetrel/salt-cve-2020-11651-poc) : ![starts](https://img.shields.io/github/stars/codenamepetrel/salt-cve-2020-11651-poc.svg) ![forks](https://img.shields.io/github/forks/codenamepetrel/salt-cve-2020-11651-poc.svg)
+
 ## CVE-2020-35489
 
 - [https://github.com/elabod1/SOC-wordpress-compromise-report](https://github.com/elabod1/SOC-wordpress-compromise-report) : ![starts](https://img.shields.io/github/stars/elabod1/SOC-wordpress-compromise-report.svg) ![forks](https://img.shields.io/github/forks/elabod1/SOC-wordpress-compromise-report.svg)
+
+## CVE-2023-34468
+
+- [https://github.com/mohammed-moshii/CVE-2023-34468-Apache-NiFi-RCE](https://github.com/mohammed-moshii/CVE-2023-34468-Apache-NiFi-RCE) : ![starts](https://img.shields.io/github/stars/mohammed-moshii/CVE-2023-34468-Apache-NiFi-RCE.svg) ![forks](https://img.shields.io/github/forks/mohammed-moshii/CVE-2023-34468-Apache-NiFi-RCE.svg)
 
 ## CVE-2023-4622
 
@@ -56,6 +64,11 @@
 
 - [https://github.com/Mor-Golan/CVE-2026-112222](https://github.com/Mor-Golan/CVE-2026-112222) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-112222.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-112222.svg)
 
+## CVE-2026-112611
+> An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. Processing a maliciously crafted PDF file may lead to memory corruption.
+
+- [https://github.com/murk-sus/natsuk1](https://github.com/murk-sus/natsuk1) : ![starts](https://img.shields.io/github/stars/murk-sus/natsuk1.svg) ![forks](https://img.shields.io/github/forks/murk-sus/natsuk1.svg)
+
 ## CVE-2026-112869
 > Improper Neutralization of Input During Web Page Generation (&#x27;Cross-site Scripting&#x27;) vulnerability in Noah Hearle We’re Open! opening-hours allows Reflected XSS.This issue affects We’re Open!: from n/a through 2.6.
 
@@ -94,10 +107,16 @@
 > sshd in OpenSSH before 10.6p2 on Linux, when musl libc is used without PAM, lacks a workaround for a password authentication bypass (related to misinterpretation of whether a string is intended to be a password hash). For some configurations of accounts, any password between 256 and 1024 characters succeeds. An example of a platform using musl libc without PAM is Alpine Linux.
 
 - [https://github.com/Funcan/sshole](https://github.com/Funcan/sshole) : ![starts](https://img.shields.io/github/stars/Funcan/sshole.svg) ![forks](https://img.shields.io/github/forks/Funcan/sshole.svg)
+- [https://github.com/MikeCase/check-sshole](https://github.com/MikeCase/check-sshole) : ![starts](https://img.shields.io/github/stars/MikeCase/check-sshole.svg) ![forks](https://img.shields.io/github/forks/MikeCase/check-sshole.svg)
 
 ## CVE-2026-19868
+> An authentication enforcement vulnerability in SonicOS SSLVPN service may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may also bypass SAML-enforced multi-factor authentication (MFA).
 
 - [https://github.com/EXEcution-py/CVE-2026-19868](https://github.com/EXEcution-py/CVE-2026-19868) : ![starts](https://img.shields.io/github/stars/EXEcution-py/CVE-2026-19868.svg) ![forks](https://img.shields.io/github/forks/EXEcution-py/CVE-2026-19868.svg)
+
+## CVE-2026-21155
+
+- [https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546](https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546) : ![starts](https://img.shields.io/github/stars/UnsignedChad/CVE-2026-21155-SVE-2026-3546.svg) ![forks](https://img.shields.io/github/forks/UnsignedChad/CVE-2026-21155-SVE-2026-3546.svg)
 
 ## CVE-2026-33017
 
@@ -259,6 +278,7 @@ request socket, and send a SYNACK from tcp_check_req().
 tcp_v4_send_synack() and inet_csk_route_req() read ireq-&gt;ireq_opt
 under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
+- [https://github.com/makslanies/cve-2026-98432-mitigation](https://github.com/makslanies/cve-2026-98432-mitigation) : ![starts](https://img.shields.io/github/stars/makslanies/cve-2026-98432-mitigation.svg) ![forks](https://img.shields.io/github/forks/makslanies/cve-2026-98432-mitigation.svg)
 - [https://github.com/zhao-xiaogang/cve_2026_98432_livepatch](https://github.com/zhao-xiaogang/cve_2026_98432_livepatch) : ![starts](https://img.shields.io/github/stars/zhao-xiaogang/cve_2026_98432_livepatch.svg) ![forks](https://img.shields.io/github/forks/zhao-xiaogang/cve_2026_98432_livepatch.svg)
 
 ## CVE-2026-98499

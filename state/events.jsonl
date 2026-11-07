@@ -10688,3 +10688,35 @@
 {"cve_id": "CVE-2026-49126", "ts": "2026-11-07T16:33:03Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-56717", "ts": "2026-11-07T16:33:43Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-54161", "ts": "2026-11-07T16:43:22Z", "type": "new_poc", "url": "https://github.com/ja-errorpro/CVE-2026-54161"}
+{"cve_id": "CVE-2019-7907", "ts": "2026-11-07T20:52:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-36240", "ts": "2026-11-07T20:52:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-58388", "ts": "2026-11-07T20:52:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-46896", "ts": "2026-11-07T20:52:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-64798", "ts": "2026-11-07T20:52:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-10146", "ts": "2026-11-07T20:52:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-10147", "ts": "2026-11-07T20:52:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104040", "ts": "2026-11-07T20:53:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T20:53:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111221", "ts": "2026-11-07T20:53:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111229", "ts": "2026-11-07T20:53:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111231", "ts": "2026-11-07T20:53:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117494", "ts": "2026-11-07T20:54:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-119217", "ts": "2026-11-07T20:54:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-120484", "ts": "2026-11-07T20:55:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47400", "ts": "2026-11-07T20:59:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47401", "ts": "2026-11-07T20:59:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47402", "ts": "2026-11-07T20:59:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47403", "ts": "2026-11-07T20:59:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47404", "ts": "2026-11-07T20:59:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49122", "ts": "2026-11-07T20:59:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49123", "ts": "2026-11-07T20:59:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49124", "ts": "2026-11-07T20:59:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49125", "ts": "2026-11-07T20:59:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49126", "ts": "2026-11-07T20:59:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-56717", "ts": "2026-11-07T21:00:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-112611", "ts": "2026-11-07T21:08:27Z", "type": "new_poc", "url": "https://github.com/murk-sus/natsuk1"}
+{"cve_id": "CVE-2026-21155", "ts": "2026-11-07T21:08:28Z", "type": "new_poc", "url": "https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-07T21:08:30Z", "type": "new_poc", "url": "https://github.com/makslanies/cve-2026-98432-mitigation"}
+{"cve_id": "CVE-2020-11651", "ts": "2026-11-07T21:08:31Z", "type": "new_poc", "url": "https://github.com/codenamepetrel/salt-cve-2020-11651-poc"}
+{"cve_id": "CVE-2023-34468", "ts": "2026-11-07T21:08:32Z", "type": "new_poc", "url": "https://github.com/mohammed-moshii/CVE-2023-34468-Apache-NiFi-RCE"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-07T21:08:32Z", "type": "new_poc", "url": "https://github.com/MikeCase/check-sshole"}
