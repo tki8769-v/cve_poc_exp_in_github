@@ -11224,6 +11224,8 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 
 - [https://github.com/minhi1/CVE-2024-4367](https://github.com/minhi1/CVE-2024-4367) : ![starts](https://img.shields.io/github/stars/minhi1/CVE-2024-4367.svg) ![forks](https://img.shields.io/github/forks/minhi1/CVE-2024-4367.svg)
 
+- [https://github.com/remiBoudreau/CVE-2024-4367](https://github.com/remiBoudreau/CVE-2024-4367) : ![starts](https://img.shields.io/github/stars/remiBoudreau/CVE-2024-4367.svg) ![forks](https://img.shields.io/github/forks/remiBoudreau/CVE-2024-4367.svg)
+
 ## CVE-2024-4358
  In Progress Telerik Report Server, version 2024 Q1 (10.0.24.305) or earlier, on IIS, an unauthenticated attacker can gain access to Telerik Report Server restricted functionality via an authentication bypass vulnerability.
 

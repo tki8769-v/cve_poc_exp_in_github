@@ -10657,3 +10657,9 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-07T15:54:57Z", "type": "new_poc", "url": "https://github.com/kipcloud120/MiTV-MFTP0-GhostLock"}
 {"cve_id": "CVE-2024-34102", "ts": "2026-11-07T15:54:58Z", "type": "new_poc", "url": "https://github.com/bigcartenergy/module-cosmicsting-patch"}
 {"cve_id": "CVE-2025-54236", "ts": "2026-11-07T15:54:58Z", "type": "new_poc", "url": "https://github.com/bigcartenergy/module-sessionreaper-patch"}
+{"cve_id": "CVE-2026-104040", "ts": "2026-11-07T16:06:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T16:06:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117494", "ts": "2026-11-07T16:07:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-4367", "ts": "2026-11-07T16:17:14Z", "type": "new_poc", "url": "https://github.com/remiBoudreau/CVE-2024-4367"}
+{"cve_id": "CVE-2017-12615", "ts": "2026-11-07T16:26:27Z", "type": "new_poc", "url": "https://github.com/renzhenxue/vulhub-lab-notes"}
+{"cve_id": "CVE-2026-42533", "ts": "2026-11-07T16:26:36Z", "type": "new_poc", "url": "https://github.com/0xh3y3/cve-2026-42533"}

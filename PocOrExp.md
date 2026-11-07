@@ -14691,6 +14691,8 @@ This vulnerability may allow remote attackers to cause a denial-of-service (DoS)
 
 - [https://github.com/srkyn/nginx-map-risk-audit](https://github.com/srkyn/nginx-map-risk-audit) : ![starts](https://img.shields.io/github/stars/srkyn/nginx-map-risk-audit.svg) ![forks](https://img.shields.io/github/forks/srkyn/nginx-map-risk-audit.svg)
 
+- [https://github.com/0xh3y3/cve-2026-42533](https://github.com/0xh3y3/cve-2026-42533) : ![starts](https://img.shields.io/github/stars/0xh3y3/cve-2026-42533.svg) ![forks](https://img.shields.io/github/forks/0xh3y3/cve-2026-42533.svg)
+
 ## CVE-2026-42530
  NGINX Open Source has a vulnerability in the ngx_http_v3_module module. When NGINX Open Source is configured to use the HTTP/3 QUIC module, a remote unauthenticated attacker along with conditions beyond their control can use a specially crafted HTTP/3 session to reopen a QPACK encoder stream. This may cause a Use-after-Free in the NGINX worker process leading to a restart. Additionally, attackers can execute code on systems with Address Space Layout Randomization (ASLR) disabled or when the attacker can bypass ASLR.  
 
@@ -54451,6 +54453,8 @@ The specific flaw exists within the integral-dialog-page.html file. When parsing
 - [https://github.com/weae26/aia-pdfjs-poc](https://github.com/weae26/aia-pdfjs-poc) : ![starts](https://img.shields.io/github/stars/weae26/aia-pdfjs-poc.svg) ![forks](https://img.shields.io/github/forks/weae26/aia-pdfjs-poc.svg)
 
 - [https://github.com/minhi1/CVE-2024-4367](https://github.com/minhi1/CVE-2024-4367) : ![starts](https://img.shields.io/github/stars/minhi1/CVE-2024-4367.svg) ![forks](https://img.shields.io/github/forks/minhi1/CVE-2024-4367.svg)
+
+- [https://github.com/remiBoudreau/CVE-2024-4367](https://github.com/remiBoudreau/CVE-2024-4367) : ![starts](https://img.shields.io/github/stars/remiBoudreau/CVE-2024-4367.svg) ![forks](https://img.shields.io/github/forks/remiBoudreau/CVE-2024-4367.svg)
 
 ## CVE-2024-4358
  In Progress Telerik Report Server, version 2024 Q1 (10.0.24.305) or earlier, on IIS, an unauthenticated attacker can gain access to Telerik Report Server restricted functionality via an authentication bypass vulnerability.
@@ -102512,6 +102516,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 - [https://github.com/CyberCTF/vulhub-tomcat-cve-2017-12615](https://github.com/CyberCTF/vulhub-tomcat-cve-2017-12615) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-tomcat-cve-2017-12615.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-tomcat-cve-2017-12615.svg)
 
 - [https://github.com/nouhaila2030/apache-tomcat-security-audit](https://github.com/nouhaila2030/apache-tomcat-security-audit) : ![starts](https://img.shields.io/github/stars/nouhaila2030/apache-tomcat-security-audit.svg) ![forks](https://img.shields.io/github/forks/nouhaila2030/apache-tomcat-security-audit.svg)
+
+- [https://github.com/renzhenxue/vulhub-lab-notes](https://github.com/renzhenxue/vulhub-lab-notes) : ![starts](https://img.shields.io/github/stars/renzhenxue/vulhub-lab-notes.svg) ![forks](https://img.shields.io/github/forks/renzhenxue/vulhub-lab-notes.svg)
 
 ## CVE-2017-12611
  In Apache Struts 2.0.0 through 2.3.33 and 2.5 through 2.5.10.1, using an unintentional expression in a Freemarker tag instead of string literals can lead to a RCE attack.

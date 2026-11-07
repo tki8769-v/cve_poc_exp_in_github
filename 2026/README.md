@@ -14690,6 +14690,8 @@ This vulnerability may allow remote attackers to cause a denial-of-service (DoS)
 
 - [https://github.com/srkyn/nginx-map-risk-audit](https://github.com/srkyn/nginx-map-risk-audit) : ![starts](https://img.shields.io/github/stars/srkyn/nginx-map-risk-audit.svg) ![forks](https://img.shields.io/github/forks/srkyn/nginx-map-risk-audit.svg)
 
+- [https://github.com/0xh3y3/cve-2026-42533](https://github.com/0xh3y3/cve-2026-42533) : ![starts](https://img.shields.io/github/stars/0xh3y3/cve-2026-42533.svg) ![forks](https://img.shields.io/github/forks/0xh3y3/cve-2026-42533.svg)
+
 ## CVE-2026-42530
  NGINX Open Source has a vulnerability in the ngx_http_v3_module module. When NGINX Open Source is configured to use the HTTP/3 QUIC module, a remote unauthenticated attacker along with conditions beyond their control can use a specially crafted HTTP/3 session to reopen a QPACK encoder stream. This may cause a Use-after-Free in the NGINX worker process leading to a restart. Additionally, attackers can execute code on systems with Address Space Layout Randomization (ASLR) disabled or when the attacker can bypass ASLR.  
 

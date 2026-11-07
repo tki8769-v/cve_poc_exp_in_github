@@ -1,4 +1,8 @@
 # Update 2026-11-07
+## CVE-2017-12615
+
+- [https://github.com/renzhenxue/vulhub-lab-notes](https://github.com/renzhenxue/vulhub-lab-notes) : ![starts](https://img.shields.io/github/stars/renzhenxue/vulhub-lab-notes.svg) ![forks](https://img.shields.io/github/forks/renzhenxue/vulhub-lab-notes.svg)
+
 ## CVE-2020-35489
 
 - [https://github.com/elabod1/SOC-wordpress-compromise-report](https://github.com/elabod1/SOC-wordpress-compromise-report) : ![starts](https://img.shields.io/github/stars/elabod1/SOC-wordpress-compromise-report.svg) ![forks](https://img.shields.io/github/forks/elabod1/SOC-wordpress-compromise-report.svg)
@@ -19,6 +23,10 @@
 ## CVE-2024-34102
 
 - [https://github.com/bigcartenergy/module-cosmicsting-patch](https://github.com/bigcartenergy/module-cosmicsting-patch) : ![starts](https://img.shields.io/github/stars/bigcartenergy/module-cosmicsting-patch.svg) ![forks](https://img.shields.io/github/forks/bigcartenergy/module-cosmicsting-patch.svg)
+
+## CVE-2024-4367
+
+- [https://github.com/remiBoudreau/CVE-2024-4367](https://github.com/remiBoudreau/CVE-2024-4367) : ![starts](https://img.shields.io/github/stars/remiBoudreau/CVE-2024-4367.svg) ![forks](https://img.shields.io/github/forks/remiBoudreau/CVE-2024-4367.svg)
 
 ## CVE-2025-31710
 
@@ -99,6 +107,11 @@
 > Unauthenticated SQL Injection in Transliterator &lt;= 2.5.13 versions.
 
 - [https://github.com/Mor-Golan/CVE-2026-39732](https://github.com/Mor-Golan/CVE-2026-39732) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-39732.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-39732.svg)
+
+## CVE-2026-42533
+> A vulnerability exists in NGINX Plus and NGINX Open Source when a map directive uses regex matching and a string expression references the map&#x27;s regex capture variables before referencing the map output variable. Alternatively, the same result could be achieved by using a non-cacheable variable in a string expression under certain conditions. An unauthenticated attacker along with conditions beyond their control can exploit this vulnerability by sending crafted HTTP requests. This may cause a he
+
+- [https://github.com/0xh3y3/cve-2026-42533](https://github.com/0xh3y3/cve-2026-42533) : ![starts](https://img.shields.io/github/stars/0xh3y3/cve-2026-42533.svg) ![forks](https://img.shields.io/github/forks/0xh3y3/cve-2026-42533.svg)
 
 ## CVE-2026-42945
 
