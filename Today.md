@@ -1,4 +1,8 @@
 # Update 2026-11-07
+## CVE-2020-35489
+
+- [https://github.com/elabod1/SOC-wordpress-compromise-report](https://github.com/elabod1/SOC-wordpress-compromise-report) : ![starts](https://img.shields.io/github/stars/elabod1/SOC-wordpress-compromise-report.svg) ![forks](https://img.shields.io/github/forks/elabod1/SOC-wordpress-compromise-report.svg)
+
 ## CVE-2023-4622
 
 - [https://github.com/android-cve-exploits/0range1337--CVE-CVE-2023-4622](https://github.com/android-cve-exploits/0range1337--CVE-CVE-2023-4622) : ![starts](https://img.shields.io/github/stars/android-cve-exploits/0range1337--CVE-CVE-2023-4622.svg) ![forks](https://img.shields.io/github/forks/android-cve-exploits/0range1337--CVE-CVE-2023-4622.svg)
@@ -7,6 +11,22 @@
 > A out-of-bounds write vulnerability in Fortinet FortiOS 7.4.0 through 7.4.2, FortiOS 7.2.0 through 7.2.6, FortiOS 7.0.0 through 7.0.13, FortiOS 6.4.0 through 6.4.14, FortiOS 6.2.0 through 6.2.15, FortiOS 6.0 all versions, FortiProxy 7.4.0 through 7.4.2, FortiProxy 7.2.0 through 7.2.8, FortiProxy 7.0.0 through 7.0.14, FortiProxy 2.0.0 through 2.0.13, FortiProxy 01.02 all versions, FortiProxy 1.2 all versions, FortiProxy 01.01 all versions, FortiProxy 1.1 all versions, FortiProxy 01.00 all version
 
 - [https://github.com/IzanInPublic/CVE-2024-21762-Safe-Check](https://github.com/IzanInPublic/CVE-2024-21762-Safe-Check) : ![starts](https://img.shields.io/github/stars/IzanInPublic/CVE-2024-21762-Safe-Check.svg) ![forks](https://img.shields.io/github/forks/IzanInPublic/CVE-2024-21762-Safe-Check.svg)
+
+## CVE-2024-24919
+
+- [https://github.com/khdertaysh1/CVE-2024-24919-PoC](https://github.com/khdertaysh1/CVE-2024-24919-PoC) : ![starts](https://img.shields.io/github/stars/khdertaysh1/CVE-2024-24919-PoC.svg) ![forks](https://img.shields.io/github/forks/khdertaysh1/CVE-2024-24919-PoC.svg)
+
+## CVE-2024-34102
+
+- [https://github.com/bigcartenergy/module-cosmicsting-patch](https://github.com/bigcartenergy/module-cosmicsting-patch) : ![starts](https://img.shields.io/github/stars/bigcartenergy/module-cosmicsting-patch.svg) ![forks](https://img.shields.io/github/forks/bigcartenergy/module-cosmicsting-patch.svg)
+
+## CVE-2025-31710
+
+- [https://github.com/Little-yellow-duck1206/360-kidwatch-11X-W370-Ghostroot](https://github.com/Little-yellow-duck1206/360-kidwatch-11X-W370-Ghostroot) : ![starts](https://img.shields.io/github/stars/Little-yellow-duck1206/360-kidwatch-11X-W370-Ghostroot.svg) ![forks](https://img.shields.io/github/forks/Little-yellow-duck1206/360-kidwatch-11X-W370-Ghostroot.svg)
+
+## CVE-2025-54236
+
+- [https://github.com/bigcartenergy/module-sessionreaper-patch](https://github.com/bigcartenergy/module-sessionreaper-patch) : ![starts](https://img.shields.io/github/stars/bigcartenergy/module-sessionreaper-patch.svg) ![forks](https://img.shields.io/github/forks/bigcartenergy/module-sessionreaper-patch.svg)
 
 ## CVE-2026-10795
 
@@ -23,6 +43,21 @@
 
 - [https://github.com/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560](https://github.com/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560) : ![starts](https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560.svg) ![forks](https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560.svg)
 
+## CVE-2026-112222
+> Missing Authorization vulnerability in Surfer Surfer surferseo allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects Surfer: from n/a through 1.8.0.744.
+
+- [https://github.com/Mor-Golan/CVE-2026-112222](https://github.com/Mor-Golan/CVE-2026-112222) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-112222.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-112222.svg)
+
+## CVE-2026-112869
+> Improper Neutralization of Input During Web Page Generation (&#x27;Cross-site Scripting&#x27;) vulnerability in Noah Hearle We’re Open! opening-hours allows Reflected XSS.This issue affects We’re Open!: from n/a through 2.6.
+
+- [https://github.com/Mor-Golan/CVE-2026-112869](https://github.com/Mor-Golan/CVE-2026-112869) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-112869.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-112869.svg)
+
+## CVE-2026-115596
+> Improper Neutralization of Input During Web Page Generation (&#x27;Cross-site Scripting&#x27;) vulnerability in impleCode eCommerce Product Catalog ecommerce-product-catalog allows Reflected XSS.This issue affects eCommerce Product Catalog: from n/a through 3.6.4.
+
+- [https://github.com/Mor-Golan/CVE-2026-115596](https://github.com/Mor-Golan/CVE-2026-115596) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-115596.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-115596.svg)
+
 ## CVE-2026-116606
 > An authentication bypass in Barracuda Email Security Gateway versions earlier than 9.4.0.030 allows an unauthenticated remote attacker to invoke a configuration-import function and restore a crafted, compatible backup archive, resulting in unauthorized modification of the appliance’s global configuration.
 
@@ -38,6 +73,10 @@
 
 - [https://github.com/riabinov/CVE-2026-119977](https://github.com/riabinov/CVE-2026-119977) : ![starts](https://img.shields.io/github/stars/riabinov/CVE-2026-119977.svg) ![forks](https://img.shields.io/github/forks/riabinov/CVE-2026-119977.svg)
 
+## CVE-2026-122675
+
+- [https://github.com/Mor-Golan/CVE-2026-122675](https://github.com/Mor-Golan/CVE-2026-122675) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-122675.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-122675.svg)
+
 ## CVE-2026-123014
 > iTerm2 before 3.7.7beta2 has an argument injection vulnerability in the x-man-page: URL handler, allowing an attacker to execute arbitrary commands with the privileges of the logged-in user by inducing the user to open a crafted URL in iTerm2. Percent-encoded NUL characters survive input sanitization and are subsequently converted to whitespace during command-line parsing, allowing injection of additional arguments to /usr/bin/man. An attacker can inject the -P option to select an attacker-contr
 
@@ -48,9 +87,18 @@
 
 - [https://github.com/Funcan/sshole](https://github.com/Funcan/sshole) : ![starts](https://img.shields.io/github/stars/Funcan/sshole.svg) ![forks](https://img.shields.io/github/forks/Funcan/sshole.svg)
 
+## CVE-2026-19868
+
+- [https://github.com/EXEcution-py/CVE-2026-19868](https://github.com/EXEcution-py/CVE-2026-19868) : ![starts](https://img.shields.io/github/stars/EXEcution-py/CVE-2026-19868.svg) ![forks](https://img.shields.io/github/forks/EXEcution-py/CVE-2026-19868.svg)
+
 ## CVE-2026-33017
 
 - [https://github.com/NSK-394/kavach-loop](https://github.com/NSK-394/kavach-loop) : ![starts](https://img.shields.io/github/stars/NSK-394/kavach-loop.svg) ![forks](https://img.shields.io/github/forks/NSK-394/kavach-loop.svg)
+
+## CVE-2026-39732
+> Unauthenticated SQL Injection in Transliterator &lt;= 2.5.13 versions.
+
+- [https://github.com/Mor-Golan/CVE-2026-39732](https://github.com/Mor-Golan/CVE-2026-39732) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-39732.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-39732.svg)
 
 ## CVE-2026-42945
 
@@ -72,9 +120,54 @@ That leaves an ESP-in-UDP packet made from shared pipe pages looking
 
 - [https://github.com/noctide/redmi-k50-temp-root](https://github.com/noctide/redmi-k50-temp-root) : ![starts](https://img.shields.io/github/stars/noctide/redmi-k50-temp-root.svg) ![forks](https://img.shields.io/github/forks/noctide/redmi-k50-temp-root.svg)
 
+## CVE-2026-43499
+> In the Linux kernel, the following vulnerability has been resolved:
+
+rtmutex: Use waiter::task instead of current in remove_waiter()
+
+remove_waiter() is used by the slowlock paths, but it is also used for
+proxy-lock rollback in rt_mutex_start_proxy_lock() when invoked from
+futex_requeue().
+
+In the latter case waiter::task is not current, but remove_waiter()
+operates on current for the dequeue operation. That results in several
+problems:
+
+  1) the rbtree dequeue happens without waiter::task::pi_l
+
+- [https://github.com/a78c7/w25-cve-2026-43499-notes](https://github.com/a78c7/w25-cve-2026-43499-notes) : ![starts](https://img.shields.io/github/stars/a78c7/w25-cve-2026-43499-notes.svg) ![forks](https://img.shields.io/github/forks/a78c7/w25-cve-2026-43499-notes.svg)
+- [https://github.com/kipcloud120/MiTV-MFTP0-GhostLock](https://github.com/kipcloud120/MiTV-MFTP0-GhostLock) : ![starts](https://img.shields.io/github/stars/kipcloud120/MiTV-MFTP0-GhostLock.svg) ![forks](https://img.shields.io/github/forks/kipcloud120/MiTV-MFTP0-GhostLock.svg)
+
+## CVE-2026-53362
+> In the Linux kernel, the following vulnerability has been resolved:
+
+ipv6: account for fraggap on the paged allocation path
+
+In __ip6_append_data(), when the paged-allocation branch is taken
+(MSG_MORE / NETIF_F_SG / large fraglen), alloclen and pagedlen are
+computed as
+
+	alloclen = fragheaderlen + transhdrlen;
+	pagedlen = datalen - transhdrlen;
+
+datalen already includes fraggap (datalen = length + fraggap). When
+fraggap is non-zero, this is not the first skb and transhdrlen is zero.
+The fraggap 
+
+- [https://github.com/sol4ce503/cve-2026-53362-ipv6-frag-escape](https://github.com/sol4ce503/cve-2026-53362-ipv6-frag-escape) : ![starts](https://img.shields.io/github/stars/sol4ce503/cve-2026-53362-ipv6-frag-escape.svg) ![forks](https://img.shields.io/github/forks/sol4ce503/cve-2026-53362-ipv6-frag-escape.svg)
+
+## CVE-2026-61989
+> Unauthenticated Cross Site Scripting (XSS) in Easy Property Listings &lt;= 3.5.25 versions.
+
+- [https://github.com/Mor-Golan/CVE-2026-61989](https://github.com/Mor-Golan/CVE-2026-61989) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-61989.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-61989.svg)
+
 ## CVE-2026-83844
 
 - [https://github.com/Cobrastrike62/CVE-2026-83844-Detection](https://github.com/Cobrastrike62/CVE-2026-83844-Detection) : ![starts](https://img.shields.io/github/stars/Cobrastrike62/CVE-2026-83844-Detection.svg) ![forks](https://img.shields.io/github/forks/Cobrastrike62/CVE-2026-83844-Detection.svg)
+
+## CVE-2026-86777
+
+- [https://github.com/shohruhyuldashev/CVE-2026-86777-AlchemyCMS-Navigation-Disclosure](https://github.com/shohruhyuldashev/CVE-2026-86777-AlchemyCMS-Navigation-Disclosure) : ![starts](https://img.shields.io/github/stars/shohruhyuldashev/CVE-2026-86777-AlchemyCMS-Navigation-Disclosure.svg) ![forks](https://img.shields.io/github/forks/shohruhyuldashev/CVE-2026-86777-AlchemyCMS-Navigation-Disclosure.svg)
 
 ## CVE-2026-88773
 > Inconsistent interpretation of HTTP requests (&#x27;HTTP Request/Response smuggling&#x27;) vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.
@@ -88,6 +181,62 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 FIPS, and before 13.1.37.279 FIPS and NDcPP; Gateway: before 14.1-73.37 and before 13.1-64.23  leading to unpredictable or erroneous behavior or Denial of Service
 
 - [https://github.com/CompleteTech-Security/netscaler-cve-2026-88776-check](https://github.com/CompleteTech-Security/netscaler-cve-2026-88776-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/netscaler-cve-2026-88776-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/netscaler-cve-2026-88776-check.svg)
+
+## CVE-2026-94074
+> Unauthenticated Broken Access Control in Simply Schedule Appointments &lt;= 1.6.12.29 versions.
+
+- [https://github.com/Mor-Golan/CVE-2026-94074](https://github.com/Mor-Golan/CVE-2026-94074) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-94074.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-94074.svg)
+
+## CVE-2026-94113
+
+- [https://github.com/shohruhyuldashev/CVE-2026-94113-ERPNext-Timesheet](https://github.com/shohruhyuldashev/CVE-2026-94113-ERPNext-Timesheet) : ![starts](https://img.shields.io/github/stars/shohruhyuldashev/CVE-2026-94113-ERPNext-Timesheet.svg) ![forks](https://img.shields.io/github/forks/shohruhyuldashev/CVE-2026-94113-ERPNext-Timesheet.svg)
+
+## CVE-2026-94641
+> Improper Neutralization of Input During Web Page Generation (&#x27;Cross-site Scripting&#x27;) vulnerability in Stiofan UsersWP userswp allows Reflected XSS.This issue affects UsersWP: from n/a through 1.2.73.
+
+- [https://github.com/Mor-Golan/CVE-2026-94641](https://github.com/Mor-Golan/CVE-2026-94641) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-94641.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-94641.svg)
+
+## CVE-2026-95597
+> Missing Authorization vulnerability in codemstory 워드프레스 결제 심플페이 pgall-for-woocommerce allows Exploiting Incorrectly Configured Access Control Security Levels.This issue affects 워드프레스 결제 심플페이: from n/a through 5.5.17.
+
+- [https://github.com/Mor-Golan/CVE-2026-95597](https://github.com/Mor-Golan/CVE-2026-95597) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-95597.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-95597.svg)
+- [https://github.com/Mor-Golan/CVE-2026-95597-pgall-for-woocommerce](https://github.com/Mor-Golan/CVE-2026-95597-pgall-for-woocommerce) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-95597-pgall-for-woocommerce.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-95597-pgall-for-woocommerce.svg)
+
+## CVE-2026-96838
+> Unauthenticated Cross Site Request Forgery (CSRF) in Blacklist Manager &amp;#8211; WooCommerce Anti-Fraud, Blacklist &amp;amp; Checkout Verification &lt;= 2.3.1 versions.
+
+- [https://github.com/Mor-Golan/CVE-2026-96838](https://github.com/Mor-Golan/CVE-2026-96838) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-96838.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-96838.svg)
+- [https://github.com/Mor-Golan/CVE-2026-96838-wc-blacklist-manager](https://github.com/Mor-Golan/CVE-2026-96838-wc-blacklist-manager) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-96838-wc-blacklist-manager.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-96838-wc-blacklist-manager.svg)
+
+## CVE-2026-98260
+> In the Linux kernel, the following vulnerability has been resolved:
+
+exec: Cleanup POSIX timers right after de_thread()
+
+A per-thread CPU timer holds a reference to the PID of the thread it is
+attached to and, while it is armed, its node is queued in that thread&#x27;s
+posix_cputimers. The task is looked up by that PID.
+
+When a non-leader thread exec()s, de_thread() changes which task owns
+that PID. pid_task(timer-&gt;it.cpu.pid, PIDTYPE_PID) then returns NULL,
+but the node is still queued on tsk, which
+
+- [https://github.com/countryside99/GhostKey](https://github.com/countryside99/GhostKey) : ![starts](https://img.shields.io/github/stars/countryside99/GhostKey.svg) ![forks](https://img.shields.io/github/forks/countryside99/GhostKey.svg)
+
+## CVE-2026-98432
+> In the Linux kernel, the following vulnerability has been resolved:
+
+ipv4: free inet_opt and ireq_opt after an RCU grace period
+
+tcp_v4_syn_recv_sock() transfers ownership of ireq-&gt;ireq_opt to the
+child socket (newinet-&gt;inet_opt) without copying it.
+
+Another cpu can concurrently process a retransmitted SYN for the same
+request socket, and send a SYNACK from tcp_check_req().
+tcp_v4_send_synack() and inet_csk_route_req() read ireq-&gt;ireq_opt
+under rcu_read_lock() only, and ip_build_and_send_pkt() a
+
+- [https://github.com/zhao-xiaogang/cve_2026_98432_livepatch](https://github.com/zhao-xiaogang/cve_2026_98432_livepatch) : ![starts](https://img.shields.io/github/stars/zhao-xiaogang/cve_2026_98432_livepatch.svg) ![forks](https://img.shields.io/github/forks/zhao-xiaogang/cve_2026_98432_livepatch.svg)
 
 ## CVE-2026-98499
 > In the Linux kernel, the following vulnerability has been resolved:

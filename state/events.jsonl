@@ -10626,3 +10626,34 @@
 {"cve_id": "CVE-2026-107492", "ts": "2026-11-07T07:46:37Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-117494", "ts": "2026-11-07T07:46:59Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2024-21762", "ts": "2026-11-07T07:53:52Z", "type": "new_poc", "url": "https://github.com/IzanInPublic/CVE-2024-21762-Safe-Check"}
+{"cve_id": "CVE-2026-104040", "ts": "2026-11-07T15:39:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T15:39:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117494", "ts": "2026-11-07T15:39:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104040", "ts": "2026-11-07T15:45:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T15:45:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117494", "ts": "2026-11-07T15:45:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-94113", "ts": "2026-11-07T15:54:53Z", "type": "new_poc", "url": "https://github.com/shohruhyuldashev/CVE-2026-94113-ERPNext-Timesheet"}
+{"cve_id": "CVE-2026-86777", "ts": "2026-11-07T15:54:53Z", "type": "new_poc", "url": "https://github.com/shohruhyuldashev/CVE-2026-86777-AlchemyCMS-Navigation-Disclosure"}
+{"cve_id": "CVE-2020-35489", "ts": "2026-11-07T15:54:53Z", "type": "new_poc", "url": "https://github.com/elabod1/SOC-wordpress-compromise-report"}
+{"cve_id": "CVE-2026-19868", "ts": "2026-11-07T15:54:54Z", "type": "new_poc", "url": "https://github.com/EXEcution-py/CVE-2026-19868"}
+{"cve_id": "CVE-2026-115596", "ts": "2026-11-07T15:54:54Z", "type": "new_poc", "url": "https://github.com/Mor-Golan/CVE-2026-115596"}
+{"cve_id": "CVE-2026-95597", "ts": "2026-11-07T15:54:54Z", "type": "new_poc", "url": "https://github.com/Mor-Golan/CVE-2026-95597"}
+{"cve_id": "CVE-2026-96838", "ts": "2026-11-07T15:54:54Z", "type": "new_poc", "url": "https://github.com/Mor-Golan/CVE-2026-96838"}
+{"cve_id": "CVE-2026-122675", "ts": "2026-11-07T15:54:54Z", "type": "new_poc", "url": "https://github.com/Mor-Golan/CVE-2026-122675"}
+{"cve_id": "CVE-2026-112869", "ts": "2026-11-07T15:54:55Z", "type": "new_poc", "url": "https://github.com/Mor-Golan/CVE-2026-112869"}
+{"cve_id": "CVE-2026-39732", "ts": "2026-11-07T15:54:55Z", "type": "new_poc", "url": "https://github.com/Mor-Golan/CVE-2026-39732"}
+{"cve_id": "CVE-2026-94074", "ts": "2026-11-07T15:54:55Z", "type": "new_poc", "url": "https://github.com/Mor-Golan/CVE-2026-94074"}
+{"cve_id": "CVE-2026-94641", "ts": "2026-11-07T15:54:55Z", "type": "new_poc", "url": "https://github.com/Mor-Golan/CVE-2026-94641"}
+{"cve_id": "CVE-2026-61989", "ts": "2026-11-07T15:54:55Z", "type": "new_poc", "url": "https://github.com/Mor-Golan/CVE-2026-61989"}
+{"cve_id": "CVE-2026-112222", "ts": "2026-11-07T15:54:56Z", "type": "new_poc", "url": "https://github.com/Mor-Golan/CVE-2026-112222"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-07T15:54:56Z", "type": "new_poc", "url": "https://github.com/zhao-xiaogang/cve_2026_98432_livepatch"}
+{"cve_id": "CVE-2024-24919", "ts": "2026-11-07T15:54:56Z", "type": "new_poc", "url": "https://github.com/khdertaysh1/CVE-2024-24919-PoC"}
+{"cve_id": "CVE-2026-96838", "ts": "2026-11-07T15:54:56Z", "type": "new_poc", "url": "https://github.com/Mor-Golan/CVE-2026-96838-wc-blacklist-manager"}
+{"cve_id": "CVE-2026-95597", "ts": "2026-11-07T15:54:56Z", "type": "new_poc", "url": "https://github.com/Mor-Golan/CVE-2026-95597-pgall-for-woocommerce"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-07T15:54:56Z", "type": "new_poc", "url": "https://github.com/a78c7/w25-cve-2026-43499-notes"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-07T15:54:57Z", "type": "new_poc", "url": "https://github.com/countryside99/GhostKey"}
+{"cve_id": "CVE-2026-53362", "ts": "2026-11-07T15:54:57Z", "type": "new_poc", "url": "https://github.com/sol4ce503/cve-2026-53362-ipv6-frag-escape"}
+{"cve_id": "CVE-2025-31710", "ts": "2026-11-07T15:54:57Z", "type": "new_poc", "url": "https://github.com/Little-yellow-duck1206/360-kidwatch-11X-W370-Ghostroot"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-07T15:54:57Z", "type": "new_poc", "url": "https://github.com/kipcloud120/MiTV-MFTP0-GhostLock"}
+{"cve_id": "CVE-2024-34102", "ts": "2026-11-07T15:54:58Z", "type": "new_poc", "url": "https://github.com/bigcartenergy/module-cosmicsting-patch"}
+{"cve_id": "CVE-2025-54236", "ts": "2026-11-07T15:54:58Z", "type": "new_poc", "url": "https://github.com/bigcartenergy/module-sessionreaper-patch"}

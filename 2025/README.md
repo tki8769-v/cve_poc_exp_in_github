@@ -4777,6 +4777,8 @@ Users are recommended to upgrade to version 3.2.2, which fixes this issue.
 
 - [https://github.com/brito101/session_reaper_lab](https://github.com/brito101/session_reaper_lab) : ![starts](https://img.shields.io/github/stars/brito101/session_reaper_lab.svg) ![forks](https://img.shields.io/github/forks/brito101/session_reaper_lab.svg)
 
+- [https://github.com/bigcartenergy/module-sessionreaper-patch](https://github.com/bigcartenergy/module-sessionreaper-patch) : ![starts](https://img.shields.io/github/stars/bigcartenergy/module-sessionreaper-patch.svg) ![forks](https://img.shields.io/github/forks/bigcartenergy/module-sessionreaper-patch.svg)
+
 ## CVE-2025-54136
  Cursor is a code editor built for programming with AI. In versions 1.2.4 and below, attackers can achieve remote and persistent code execution by modifying an already trusted MCP configuration file inside a shared GitHub repository or editing the file locally on the target's machine. Once a collaborator accepts a harmless MCP, the attacker can silently swap it for a malicious command (e.g., calc.exe) without triggering any warning or re-prompt. If an attacker has write permissions on a user's active branches of a source repository that contains existing MCP servers the user has previously approved, or allows an attacker has arbitrary file-write locally, the attacker can achieve arbitrary code execution. This is fixed in version 1.3.
 
@@ -8555,6 +8557,8 @@ This issue affects Command Center Innovation Release: 11.38.0 to 11.38.20. The v
  In engineermode service, there is a possible command injection due to improper input validation. This could lead to local escalation of privilege with no additional execution privileges needed.
 
 - [https://github.com/Skorpion96/unisoc-su](https://github.com/Skorpion96/unisoc-su) : ![starts](https://img.shields.io/github/stars/Skorpion96/unisoc-su.svg) ![forks](https://img.shields.io/github/forks/Skorpion96/unisoc-su.svg)
+
+- [https://github.com/Little-yellow-duck1206/360-kidwatch-11X-W370-Ghostroot](https://github.com/Little-yellow-duck1206/360-kidwatch-11X-W370-Ghostroot) : ![starts](https://img.shields.io/github/stars/Little-yellow-duck1206/360-kidwatch-11X-W370-Ghostroot.svg) ![forks](https://img.shields.io/github/forks/Little-yellow-duck1206/360-kidwatch-11X-W370-Ghostroot.svg)
 
 ## CVE-2025-31702
  A vulnerability exists in certain Dahua embedded products. Third-party malicious attacker with obtained normal user credentials could exploit the vulnerability to access certain data which are restricted to admin privileges, such as system-sensitive files through specific HTTP request. This may cause tampering with admin password, leading to privilege escalation. Systems with only admin account are not affected.
