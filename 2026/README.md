@@ -160,6 +160,7 @@
 - [https://github.com/yuwkaaa/CVE-2026-118569](https://github.com/yuwkaaa/CVE-2026-118569) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-118569.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-118569.svg)
 
 ## CVE-2026-118423
+> The WP Libre Form WordPress plugin 1.5.0.1 does not validate the type of files uploaded through its form submissions, allowing unauthenticated attackers to upload PHP files to a web-accessible location and execute them, leading to remote code execution.
 
 - [https://github.com/thiscitze/cve-2026-118423-poc](https://github.com/thiscitze/cve-2026-118423-poc) : ![starts](https://img.shields.io/github/stars/thiscitze/cve-2026-118423-poc.svg) ![forks](https://img.shields.io/github/forks/thiscitze/cve-2026-118423-poc.svg)
 
@@ -480,6 +481,7 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 - [https://github.com/emirwtz/CVE-2026-113870](https://github.com/emirwtz/CVE-2026-113870) : ![starts](https://img.shields.io/github/stars/emirwtz/CVE-2026-113870.svg) ![forks](https://img.shields.io/github/forks/emirwtz/CVE-2026-113870.svg)
 
 ## CVE-2026-113615
+> The GS JWT Authentication for WP REST API WordPress plugin through 1.0.0 does not sanitize or parameterize a request value before using it in SQL queries on several unauthenticated REST routes, allowing unauthenticated attackers to perform SQL injection and obtain an administrator session.
 
 - [https://github.com/thiscitze/cve-2026-113615-poc](https://github.com/thiscitze/cve-2026-113615-poc) : ![starts](https://img.shields.io/github/stars/thiscitze/cve-2026-113615-poc.svg) ![forks](https://img.shields.io/github/forks/thiscitze/cve-2026-113615-poc.svg)
 
@@ -6080,6 +6082,9 @@ Remediation requires a firmware update from the vendor. There is no user-side mi
 - [https://github.com/gmh5225/CVE-2026-77770](https://github.com/gmh5225/CVE-2026-77770) : ![starts](https://img.shields.io/github/stars/gmh5225/CVE-2026-77770.svg) ![forks](https://img.shields.io/github/forks/gmh5225/CVE-2026-77770.svg)
 
 ## CVE-2026-77680
+> An algorithmic complexity flaw exists in libsoup&#x27;s HTTP Range header processing that persists after the CVE-2025-32907 fix.
+
+CVE-2025-32907 addressed memory amplification when a client repeated the same range many times in a single Range header. Commit 9bb92f7a corrected merge correctness in soup_message_headers_get_ranges_internal() in libsoup/soup-message-headers.c, but the coalescing loop still removes merged ranges using g_array_remove_index() for each coalesced element. Because GArray is co
 
 - [https://github.com/OJ01-creates/CVE-2026-77680-Security-Analysis](https://github.com/OJ01-creates/CVE-2026-77680-Security-Analysis) : ![starts](https://img.shields.io/github/stars/OJ01-creates/CVE-2026-77680-Security-Analysis.svg) ![forks](https://img.shields.io/github/forks/OJ01-creates/CVE-2026-77680-Security-Analysis.svg)
 

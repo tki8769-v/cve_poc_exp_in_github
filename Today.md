@@ -1,4 +1,8 @@
 # Update 2026-11-07
+## CVE-2023-4622
+
+- [https://github.com/android-cve-exploits/0range1337--CVE-CVE-2023-4622](https://github.com/android-cve-exploits/0range1337--CVE-CVE-2023-4622) : ![starts](https://img.shields.io/github/stars/android-cve-exploits/0range1337--CVE-CVE-2023-4622.svg) ![forks](https://img.shields.io/github/forks/android-cve-exploits/0range1337--CVE-CVE-2023-4622.svg)
+
 ## CVE-2026-10795
 
 - [https://github.com/NilsZimmermann/wordpress-ushort-redirect-cleaner](https://github.com/NilsZimmermann/wordpress-ushort-redirect-cleaner) : ![starts](https://img.shields.io/github/stars/NilsZimmermann/wordpress-ushort-redirect-cleaner.svg) ![forks](https://img.shields.io/github/forks/NilsZimmermann/wordpress-ushort-redirect-cleaner.svg)

@@ -10596,3 +10596,12 @@
 {"cve_id": "CVE-2026-111560", "ts": "2026-11-07T01:46:21Z", "type": "new_poc", "url": "https://github.com/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560"}
 {"cve_id": "CVE-2026-10795", "ts": "2026-11-07T01:46:25Z", "type": "new_poc", "url": "https://github.com/NilsZimmermann/wordpress-ushort-redirect-cleaner"}
 {"cve_id": "CVE-2026-42945", "ts": "2026-11-07T01:51:51Z", "type": "new_poc", "url": "https://github.com/richard-rodriguez26/CVE-2026-42945"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T01:56:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T01:56:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T01:57:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T01:57:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T01:58:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T01:59:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T02:00:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-07T02:01:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-4622", "ts": "2026-11-07T02:04:26Z", "type": "new_poc", "url": "https://github.com/android-cve-exploits/0range1337--CVE-CVE-2023-4622"}
