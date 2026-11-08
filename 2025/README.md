@@ -2510,6 +2510,10 @@ updates, or paid assisted support options, or online technical content updates.
 
 - [https://github.com/mdunfjeld/cve-2025-59886](https://github.com/mdunfjeld/cve-2025-59886) : ![starts](https://img.shields.io/github/stars/mdunfjeld/cve-2025-59886.svg) ![forks](https://img.shields.io/github/forks/mdunfjeld/cve-2025-59886.svg)
 
+## CVE-2025-59845
+
+- [https://github.com/C3viche/cve-2025-59845](https://github.com/C3viche/cve-2025-59845) : ![starts](https://img.shields.io/github/stars/C3viche/cve-2025-59845.svg) ![forks](https://img.shields.io/github/forks/C3viche/cve-2025-59845.svg)
+
 ## CVE-2025-59843
  Flag Forge is a Capture The Flag (CTF) platform. From versions 2.0.0 to before 2.3.2, the public endpoint /api/user/[username] returns user email addresses in its JSON response. The fix, intended for release in 2.3.1 but only available starting in version 2.3.2, removes email addresses from public API responses while keeping the endpoint publicly accessible. Users should upgrade to version 2.3.2 or later to eliminate exposure. There are no workarounds for this vulnerability.
 

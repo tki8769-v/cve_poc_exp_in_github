@@ -32,6 +32,10 @@ We recommend upgrading past commit 382c27f4ed28f803b1f1473ac2d8db0afc795a1b.
 
 - [https://github.com/xxsioo/coruna-lab](https://github.com/xxsioo/coruna-lab) : ![starts](https://img.shields.io/github/stars/xxsioo/coruna-lab.svg) ![forks](https://img.shields.io/github/forks/xxsioo/coruna-lab.svg)
 
+## CVE-2025-59845
+
+- [https://github.com/C3viche/cve-2025-59845](https://github.com/C3viche/cve-2025-59845) : ![starts](https://img.shields.io/github/stars/C3viche/cve-2025-59845.svg) ![forks](https://img.shields.io/github/forks/C3viche/cve-2025-59845.svg)
+
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
 
@@ -142,6 +146,10 @@ If the program passes a
 ## CVE-2026-2699
 
 - [https://github.com/ashrafzaryouh/CVE-2026-2699](https://github.com/ashrafzaryouh/CVE-2026-2699) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-2699.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-2699.svg)
+
+## CVE-2026-41462
+
+- [https://github.com/ashrafzaryouh/CVE-2026-41462](https://github.com/ashrafzaryouh/CVE-2026-41462) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-41462.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-41462.svg)
 
 ## CVE-2026-42016
 

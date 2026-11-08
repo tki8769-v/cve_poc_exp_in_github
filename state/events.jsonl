@@ -10889,3 +10889,5 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-08T21:19:48Z", "type": "new_poc", "url": "https://github.com/Viper-Boss/iqoo-neo5-temp-root"}
 {"cve_id": "CVE-2026-2699", "ts": "2026-11-08T21:20:55Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-2699"}
 {"cve_id": "CVE-2026-56848", "ts": "2026-11-08T21:22:45Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/node-cve-2026-56848-check"}
+{"cve_id": "CVE-2025-59845", "ts": "2026-11-08T21:40:52Z", "type": "new_poc", "url": "https://github.com/C3viche/cve-2025-59845"}
+{"cve_id": "CVE-2026-41462", "ts": "2026-11-08T21:45:09Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-41462"}

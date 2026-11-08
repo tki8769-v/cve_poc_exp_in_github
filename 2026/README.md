@@ -15328,6 +15328,8 @@ This could allow a remote attacker to access arbitrary files on the device.
 
 - [https://github.com/0xBlackash/CVE-2026-41462](https://github.com/0xBlackash/CVE-2026-41462) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-41462.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-41462.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-41462](https://github.com/ashrafzaryouh/CVE-2026-41462) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-41462.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-41462.svg)
+
 ## CVE-2026-41456
 
 - [https://github.com/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456](https://github.com/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456) : ![starts](https://img.shields.io/github/stars/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456.svg) ![forks](https://img.shields.io/github/forks/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456.svg)
