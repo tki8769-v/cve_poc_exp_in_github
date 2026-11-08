@@ -3215,3 +3215,5 @@
 {"cve_id": "CVE-2026-4255", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T16:52:26Z", "url": "https://github.com/joaovicdev/EXPLOIT-CVE-2026-42559", "url_ids": ["CVE-2026-42559"]}
 {"cve_id": "CVE-2026-9090", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T16:56:25Z", "url": "https://github.com/aorozco-sys/CVE-2026-90907", "url_ids": ["CVE-2026-90907"]}
 {"cve_id": "CVE-2026-9728", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T16:57:34Z", "url": "https://github.com/Rully2212/CVE-2026-97286", "url_ids": ["CVE-2026-97286"]}
+{"cve_id": "CVE-2022-3317", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T21:24:58Z", "url": "https://github.com/open-flaw/CVE-2022-33171", "url_ids": ["CVE-2022-33171"]}
+{"cve_id": "CVE-2026-5067", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T21:26:55Z", "url": "https://github.com/h4urek/CVE-2026-50679", "url_ids": ["CVE-2026-50679"]}

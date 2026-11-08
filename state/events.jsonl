@@ -10878,3 +10878,14 @@
 {"cve_id": "CVE-2026-4480", "ts": "2026-11-08T16:16:10Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-4480"}
 {"cve_id": "CVE-2026-11645", "ts": "2026-11-08T16:30:29Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-11645"}
 {"cve_id": "CVE-2026-20131", "ts": "2026-11-08T16:54:22Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-20131"}
+{"cve_id": "CVE-2026-6952", "ts": "2026-11-08T21:19:44Z", "type": "new_poc", "url": "https://github.com/stevejiang0509/zyxel-cve-2026-6952-model-scope"}
+{"cve_id": "CVE-2026-63030", "ts": "2026-11-08T21:19:45Z", "type": "new_poc", "url": "https://github.com/noxcrypt-x/CVE-2026-63030"}
+{"cve_id": "CVE-2026-111967", "ts": "2026-11-08T21:19:46Z", "type": "new_poc", "url": "https://github.com/HexxedBitHeadz/cve-2026-111967"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-08T21:19:46Z", "type": "new_poc", "url": "https://github.com/GarphenGate/cve-2026-123158-defender-toolkit"}
+{"cve_id": "CVE-2024-23222", "ts": "2026-11-08T21:19:47Z", "type": "new_poc", "url": "https://github.com/xxsioo/coruna-lab"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-08T21:19:47Z", "type": "new_poc", "url": "https://github.com/MocLG/Time-My-Galaxy"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-11-08T21:19:48Z", "type": "new_poc", "url": "https://github.com/MarceloAstudillo13/Tryhackme-PHP2Shell"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-08T21:19:48Z", "type": "new_poc", "url": "https://github.com/ameeshaheshan/ShellSpectre"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-08T21:19:48Z", "type": "new_poc", "url": "https://github.com/Viper-Boss/iqoo-neo5-temp-root"}
+{"cve_id": "CVE-2026-2699", "ts": "2026-11-08T21:20:55Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-2699"}
+{"cve_id": "CVE-2026-56848", "ts": "2026-11-08T21:22:45Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/node-cve-2026-56848-check"}
