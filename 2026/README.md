@@ -6,6 +6,10 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-123753
+
+- [https://github.com/googlesky/CVE-2026-123753](https://github.com/googlesky/CVE-2026-123753) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-123753.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-123753.svg)
+
 ## CVE-2026-123488
 > Craft CMS 4.0.0 before 4.18.9 and 5.0.0 before 5.11.2 contains an unauthenticated SQL injection vulnerability in the element search endpoint because the attribute parameter is concatenated into the query unsanitized and emulated PDO prepares allow stacked statements. Remote attackers can read and write the database, setting the admin flag or overwriting password hashes in the users table to gain administrator access.
 
@@ -58,6 +62,8 @@
 
 - [https://github.com/liamromanis101/MaSSHole](https://github.com/liamromanis101/MaSSHole) : ![starts](https://img.shields.io/github/stars/liamromanis101/MaSSHole.svg) ![forks](https://img.shields.io/github/forks/liamromanis101/MaSSHole.svg)
 
+- [https://github.com/Galaxy-sc/CVE-2026-123158](https://github.com/Galaxy-sc/CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-123158.svg)
+
 ## CVE-2026-123025
 > An OS Command Injection vulnerability was discovered in the Google Cloud DNS validation module of the OPNsense os-acme-client plugin through 4.17. The DnsGcloud::prepare() method decodes the dns_gcloud_key model field and directly interpolates the string fields gcloud_account and gcloud_project into a shell command passed to proc_open() via LeUtils::run_shell_command() without any validation or escaping. A remote authenticated user with privileges to issue or renew certificates through the WebGU
 
@@ -69,6 +75,7 @@
 - [https://github.com/giki-shergill/CVE-2026-123014---iTerm2-Terminal](https://github.com/giki-shergill/CVE-2026-123014---iTerm2-Terminal) : ![starts](https://img.shields.io/github/stars/giki-shergill/CVE-2026-123014---iTerm2-Terminal.svg) ![forks](https://img.shields.io/github/forks/giki-shergill/CVE-2026-123014---iTerm2-Terminal.svg)
 
 ## CVE-2026-122675
+> Cross-Site Request Forgery (CSRF) vulnerability in Wpmet Wp Social wp-social allows Cross Site Request Forgery.This issue affects Wp Social: from n/a through 3.2.3.
 
 - [https://github.com/Mor-Golan/CVE-2026-122675](https://github.com/Mor-Golan/CVE-2026-122675) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-122675.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-122675.svg)
 
@@ -90,6 +97,10 @@
 ## CVE-2026-121720
 
 - [https://github.com/refiaa/CVE-2026-121720](https://github.com/refiaa/CVE-2026-121720) : ![starts](https://img.shields.io/github/stars/refiaa/CVE-2026-121720.svg) ![forks](https://img.shields.io/github/forks/refiaa/CVE-2026-121720.svg)
+
+## CVE-2026-121265
+
+- [https://github.com/googlesky/CVE-2026-121265](https://github.com/googlesky/CVE-2026-121265) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-121265.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-121265.svg)
 
 ## CVE-2026-120491
 > Wing FTP Server before 8.2.6 contains a stored cross-site scripting vulnerability that allows authenticated web-client users to inject script by sending a crafted nowpath parameter to webclient/makethumb.html. Attackers can break out of the directory CDATA section in admin_get_lastconn.html XML to forge a connection id, which executes in administrators&#x27; browsers when admin_connection_list.html auto-refreshes, enabling Lua console abuse.
@@ -590,6 +601,8 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 - [https://github.com/Ping-2o/CVE-2026-112611-cg-shading](https://github.com/Ping-2o/CVE-2026-112611-cg-shading) : ![starts](https://img.shields.io/github/stars/Ping-2o/CVE-2026-112611-cg-shading.svg) ![forks](https://img.shields.io/github/forks/Ping-2o/CVE-2026-112611-cg-shading.svg)
 
 - [https://github.com/murk-sus/natsuk1](https://github.com/murk-sus/natsuk1) : ![starts](https://img.shields.io/github/stars/murk-sus/natsuk1.svg) ![forks](https://img.shields.io/github/forks/murk-sus/natsuk1.svg)
+
+- [https://github.com/Rust505/CVE-2026-112611](https://github.com/Rust505/CVE-2026-112611) : ![starts](https://img.shields.io/github/stars/Rust505/CVE-2026-112611.svg) ![forks](https://img.shields.io/github/forks/Rust505/CVE-2026-112611.svg)
 
 ## CVE-2026-112487
 > A path handling issue was addressed with improved validation. This issue is fixed in macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. An app may be able to gain root privileges.
@@ -14360,6 +14373,8 @@ destination-frag path or fall back to skb_cow_data().
 
 - [https://github.com/noctide/redmi-k50-temp-root](https://github.com/noctide/redmi-k50-temp-root) : ![starts](https://img.shields.io/github/stars/noctide/redmi-k50-temp-root.svg) ![forks](https://img.shields.io/github/forks/noctide/redmi-k50-temp-root.svg)
 
+- [https://github.com/Jean7z/DFRoot-DirtyFrag](https://github.com/Jean7z/DFRoot-DirtyFrag) : ![starts](https://img.shields.io/github/stars/Jean7z/DFRoot-DirtyFrag.svg) ![forks](https://img.shields.io/github/forks/Jean7z/DFRoot-DirtyFrag.svg)
+
 ## CVE-2026-43074
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -22713,6 +22728,8 @@ Note: Cisco has assigned this security advisory a Security Impact Rating (SIR) o
 > An authentication enforcement vulnerability in SonicOS SSLVPN service may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may also bypass SAML-enforced multi-factor authentication (MFA).
 
 - [https://github.com/EXEcution-py/CVE-2026-19868](https://github.com/EXEcution-py/CVE-2026-19868) : ![starts](https://img.shields.io/github/stars/EXEcution-py/CVE-2026-19868.svg) ![forks](https://img.shields.io/github/forks/EXEcution-py/CVE-2026-19868.svg)
+
+- [https://github.com/foxcornlab/sonicwall-sonicos-scanner](https://github.com/foxcornlab/sonicwall-sonicos-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/sonicwall-sonicos-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/sonicwall-sonicos-scanner.svg)
 
 ## CVE-2026-19843
  A flaw was found in 389-ds-base. The Cockpit 389 Console's LDAP editor constructs an ldapsearch command by embedding an LDAP entry's distinguished name (DN) into a shell command string without proper escaping. An LDAP user with delegated privileges to create or rename directory entries could craft a malicious DN containing shell metacharacters. When a Cockpit administrator subsequently views the entry in the 389 Console, the embedded shell command executes with root privileges on the directory server host.

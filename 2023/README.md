@@ -2407,6 +2407,10 @@ The specific flaw exists within the smtp service, which listens on TCP port 25 b
 
 - [https://github.com/lambertse/CoreTrust-bypass](https://github.com/lambertse/CoreTrust-bypass) : ![starts](https://img.shields.io/github/stars/lambertse/CoreTrust-bypass.svg) ![forks](https://img.shields.io/github/forks/lambertse/CoreTrust-bypass.svg)
 
+## CVE-2023-41974
+
+- [https://github.com/kienhho/Solarium](https://github.com/kienhho/Solarium) : ![starts](https://img.shields.io/github/stars/kienhho/Solarium.svg) ![forks](https://img.shields.io/github/forks/kienhho/Solarium.svg)
+
 ## CVE-2023-41898
  Home assistant is an open source home automation. The Home Assistant Companion for Android app up to version 2023.8.2 is vulnerable to arbitrary URL loading in a WebView. This enables all sorts of attacks, including arbitrary JavaScript execution, limited native code execution, and credential theft. This issue has been patched in version 2023.9.2 and all users are advised to upgrade. There are no known workarounds for this vulnerability. This issue is also tracked as GitHub Security Lab (GHSL) Vulnerability Report: `GHSL-2023-142`.
 
@@ -8828,6 +8832,8 @@ We recommend upgrading past commit 382c27f4ed28f803b1f1473ac2d8db0afc795a1b.
 - [https://github.com/K0n9-log/CVE-2023-6931](https://github.com/K0n9-log/CVE-2023-6931) : ![starts](https://img.shields.io/github/stars/K0n9-log/CVE-2023-6931.svg) ![forks](https://img.shields.io/github/forks/K0n9-log/CVE-2023-6931.svg)
 
 - [https://github.com/Yutori-Natsu/cve-2023-6931-pipa](https://github.com/Yutori-Natsu/cve-2023-6931-pipa) : ![starts](https://img.shields.io/github/stars/Yutori-Natsu/cve-2023-6931-pipa.svg) ![forks](https://img.shields.io/github/forks/Yutori-Natsu/cve-2023-6931-pipa.svg)
+
+- [https://github.com/koast18/cve-2023-6931-hitv205n](https://github.com/koast18/cve-2023-6931-hitv205n) : ![starts](https://img.shields.io/github/stars/koast18/cve-2023-6931-hitv205n.svg) ![forks](https://img.shields.io/github/forks/koast18/cve-2023-6931-hitv205n.svg)
 
 ## CVE-2023-6895
  A vulnerability was found in Hikvision Intercom Broadcasting System 3.0.3_20201113_RELEASE(HIK). It has been declared as critical. This vulnerability affects unknown code of the file /php/ping.php. The manipulation of the argument jsondata[ip] with the input netstat -ano leads to os command injection. The exploit has been disclosed to the public and may be used. Upgrading to version 4.1.0 is able to address this issue. It is recommended to upgrade the affected component. VDB-248254 is the identifier assigned to this vulnerability.

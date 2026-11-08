@@ -3,15 +3,51 @@
 
 - [https://github.com/lureprey/fortidecrypter-CVE-2019-6693](https://github.com/lureprey/fortidecrypter-CVE-2019-6693) : ![starts](https://img.shields.io/github/stars/lureprey/fortidecrypter-CVE-2019-6693.svg) ![forks](https://img.shields.io/github/forks/lureprey/fortidecrypter-CVE-2019-6693.svg)
 
+## CVE-2023-41974
+
+- [https://github.com/kienhho/Solarium](https://github.com/kienhho/Solarium) : ![starts](https://img.shields.io/github/stars/kienhho/Solarium.svg) ![forks](https://img.shields.io/github/forks/kienhho/Solarium.svg)
+
+## CVE-2023-6931
+> A heap out-of-bounds write vulnerability in the Linux kernel&#x27;s Performance Events system component can be exploited to achieve local privilege escalation.
+
+
+
+A perf_event&#x27;s read_size can overflow, leading to an heap out-of-bounds increment or write in perf_read_group().
+
+
+
+We recommend upgrading past commit 382c27f4ed28f803b1f1473ac2d8db0afc795a1b.
+
+- [https://github.com/koast18/cve-2023-6931-hitv205n](https://github.com/koast18/cve-2023-6931-hitv205n) : ![starts](https://img.shields.io/github/stars/koast18/cve-2023-6931-hitv205n.svg) ![forks](https://img.shields.io/github/forks/koast18/cve-2023-6931-hitv205n.svg)
+
+## CVE-2026-112611
+> An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. Processing a maliciously crafted PDF file may lead to memory corruption.
+
+- [https://github.com/Rust505/CVE-2026-112611](https://github.com/Rust505/CVE-2026-112611) : ![starts](https://img.shields.io/github/stars/Rust505/CVE-2026-112611.svg) ![forks](https://img.shields.io/github/forks/Rust505/CVE-2026-112611.svg)
+
 ## CVE-2026-114595
 > In EPICS Base release 7.0.10 and prior, an integer overflow in network request processing can cause memory to be allocated with an incorrect size. Subsequent handling of attacker supplied data may result in memory corruption, denial of service, or potential remote code execution.
 
 - [https://github.com/ashrafzaryouh/CVE-2026-114595](https://github.com/ashrafzaryouh/CVE-2026-114595) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-114595.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-114595.svg)
 
+## CVE-2026-121265
+
+- [https://github.com/googlesky/CVE-2026-121265](https://github.com/googlesky/CVE-2026-121265) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-121265.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-121265.svg)
+
 ## CVE-2026-123158
 > sshd in OpenSSH before 10.6p2 on Linux, when musl libc is used without PAM, lacks a workaround for a password authentication bypass (related to misinterpretation of whether a string is intended to be a password hash). For some configurations of accounts, any password between 256 and 1024 characters succeeds. An example of a platform using musl libc without PAM is Alpine Linux.
 
+- [https://github.com/Galaxy-sc/CVE-2026-123158](https://github.com/Galaxy-sc/CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/Galaxy-sc/CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/Galaxy-sc/CVE-2026-123158.svg)
 - [https://github.com/liamromanis101/MaSSHole](https://github.com/liamromanis101/MaSSHole) : ![starts](https://img.shields.io/github/stars/liamromanis101/MaSSHole.svg) ![forks](https://img.shields.io/github/forks/liamromanis101/MaSSHole.svg)
+
+## CVE-2026-123753
+
+- [https://github.com/googlesky/CVE-2026-123753](https://github.com/googlesky/CVE-2026-123753) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-123753.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-123753.svg)
+
+## CVE-2026-19868
+> An authentication enforcement vulnerability in SonicOS SSLVPN service may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may also bypass SAML-enforced multi-factor authentication (MFA).
+
+- [https://github.com/foxcornlab/sonicwall-sonicos-scanner](https://github.com/foxcornlab/sonicwall-sonicos-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/sonicwall-sonicos-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/sonicwall-sonicos-scanner.svg)
 
 ## CVE-2026-20700
 
@@ -25,6 +61,22 @@
 > JFrog Artifactory could return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled, potentially exposing sensitive resources.
 
 - [https://github.com/dylvie/CVE-2026-42016_CVE-2026-42018](https://github.com/dylvie/CVE-2026-42016_CVE-2026-42018) : ![starts](https://img.shields.io/github/stars/dylvie/CVE-2026-42016_CVE-2026-42018.svg) ![forks](https://img.shields.io/github/forks/dylvie/CVE-2026-42016_CVE-2026-42018.svg)
+
+## CVE-2026-43284
+> In the Linux kernel, the following vulnerability has been resolved:
+
+xfrm: esp: avoid in-place decrypt on shared skb frags
+
+MSG_SPLICE_PAGES can attach pages from a pipe directly to an skb. TCP
+marks such skbs with SKBFL_SHARED_FRAG after skb_splice_from_iter(),
+so later paths that may modify packet data can first make a private
+copy. The IPv4/IPv6 datagram append paths did not set this flag when
+splicing pages into UDP skbs.
+
+That leaves an ESP-in-UDP packet made from shared pipe pages looking
+
+
+- [https://github.com/Jean7z/DFRoot-DirtyFrag](https://github.com/Jean7z/DFRoot-DirtyFrag) : ![starts](https://img.shields.io/github/stars/Jean7z/DFRoot-DirtyFrag.svg) ![forks](https://img.shields.io/github/forks/Jean7z/DFRoot-DirtyFrag.svg)
 
 ## CVE-2026-43499
 > In the Linux kernel, the following vulnerability has been resolved:

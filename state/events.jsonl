@@ -10849,3 +10849,11 @@
 {"cve_id": "CVE-2026-64560", "ts": "2026-11-08T01:15:08Z", "type": "new_poc", "url": "https://github.com/000999888111/op13-cve-2026-64560"}
 {"cve_id": "CVE-2026-114595", "ts": "2026-11-08T01:37:12Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-114595"}
 {"cve_id": "CVE-2026-20700", "ts": "2026-11-08T01:38:04Z", "type": "new_poc", "url": "https://github.com/haroonwattoo556677-max/ios-forensic-exploitation-framework"}
+{"cve_id": "CVE-2026-112611", "ts": "2026-11-08T07:25:17Z", "type": "new_poc", "url": "https://github.com/Rust505/CVE-2026-112611"}
+{"cve_id": "CVE-2026-121265", "ts": "2026-11-08T07:25:18Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-121265"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-08T07:25:18Z", "type": "new_poc", "url": "https://github.com/Galaxy-sc/CVE-2026-123158"}
+{"cve_id": "CVE-2026-123753", "ts": "2026-11-08T07:25:18Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-123753"}
+{"cve_id": "CVE-2023-6931", "ts": "2026-11-08T07:25:18Z", "type": "new_poc", "url": "https://github.com/koast18/cve-2023-6931-hitv205n"}
+{"cve_id": "CVE-2026-19868", "ts": "2026-11-08T07:25:18Z", "type": "new_poc", "url": "https://github.com/foxcornlab/sonicwall-sonicos-scanner"}
+{"cve_id": "CVE-2026-43284", "ts": "2026-11-08T07:25:18Z", "type": "new_poc", "url": "https://github.com/Jean7z/DFRoot-DirtyFrag"}
+{"cve_id": "CVE-2023-41974", "ts": "2026-11-08T07:25:28Z", "type": "new_poc", "url": "https://github.com/kienhho/Solarium"}
