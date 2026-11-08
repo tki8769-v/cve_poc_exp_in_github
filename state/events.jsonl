@@ -10847,3 +10847,5 @@
 {"cve_id": "CVE-2026-49126", "ts": "2026-11-08T01:06:16Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-56717", "ts": "2026-11-08T01:07:04Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-64560", "ts": "2026-11-08T01:15:08Z", "type": "new_poc", "url": "https://github.com/000999888111/op13-cve-2026-64560"}
+{"cve_id": "CVE-2026-114595", "ts": "2026-11-08T01:37:12Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-114595"}
+{"cve_id": "CVE-2026-20700", "ts": "2026-11-08T01:38:04Z", "type": "new_poc", "url": "https://github.com/haroonwattoo556677-max/ios-forensic-exploitation-framework"}

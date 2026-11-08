@@ -3087,3 +3087,6 @@
 {"cve_id": "CVE-2026-10637", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T00:54:03Z", "url": "https://github.com/leisureprog/CVE-2026-106378", "url_ids": ["CVE-2026-106378"]}
 {"cve_id": "CVE-2026-10644", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T00:54:10Z", "url": "https://github.com/murrez/CVE-2026-106445", "url_ids": ["CVE-2026-106445"]}
 {"cve_id": "CVE-2026-10678", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T00:56:11Z", "url": "https://github.com/tanuj8124/CVE-2026-106781", "url_ids": ["CVE-2026-106781"]}
+{"cve_id": "CVE-2026-11610", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T01:40:10Z", "url": "https://github.com/ohackercego/CVE-2026-116105", "url_ids": ["CVE-2026-116105"]}
+{"cve_id": "CVE-2026-11610", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T01:40:10Z", "url": "https://github.com/ohackercego/CVE-2026-116106", "url_ids": ["CVE-2026-116106"]}
+{"cve_id": "CVE-2026-11753", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T01:43:19Z", "url": "https://github.com/asvorg/CVE-2026-117532-poc", "url_ids": ["CVE-2026-117532"]}
