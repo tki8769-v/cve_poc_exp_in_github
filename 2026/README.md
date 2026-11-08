@@ -6,6 +6,11 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-124040
+> CivetWeb through 1.16, when built with USE_HTTP2 and enable_http2 on, contains a use-after-free vulnerability in handle_http2() that retains freed :method and :path pointers. Unauthenticated remote attackers can send a later HEADERS frame omitting these pseudo-headers to influence request method or path seen by access rules, or crash the server.
+
+- [https://github.com/zeetee1235/CVE-2026-124040](https://github.com/zeetee1235/CVE-2026-124040) : ![starts](https://img.shields.io/github/stars/zeetee1235/CVE-2026-124040.svg) ![forks](https://img.shields.io/github/forks/zeetee1235/CVE-2026-124040.svg)
+
 ## CVE-2026-123753
 
 - [https://github.com/googlesky/CVE-2026-123753](https://github.com/googlesky/CVE-2026-123753) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-123753.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-123753.svg)
@@ -14,6 +19,8 @@
 > Craft CMS 4.0.0 before 4.18.9 and 5.0.0 before 5.11.2 contains an unauthenticated SQL injection vulnerability in the element search endpoint because the attribute parameter is concatenated into the query unsanitized and emulated PDO prepares allow stacked statements. Remote attackers can read and write the database, setting the admin flag or overwriting password hashes in the users table to gain administrator access.
 
 - [https://github.com/fixedbyreboot/CVE-2026-123488-POC](https://github.com/fixedbyreboot/CVE-2026-123488-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-123488-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-123488-POC.svg)
+
+- [https://github.com/dinosn/CVE-2026-123488-CraftCMS-Lab](https://github.com/dinosn/CVE-2026-123488-CraftCMS-Lab) : ![starts](https://img.shields.io/github/stars/dinosn/CVE-2026-123488-CraftCMS-Lab.svg) ![forks](https://img.shields.io/github/forks/dinosn/CVE-2026-123488-CraftCMS-Lab.svg)
 
 ## CVE-2026-123158
 > sshd in OpenSSH before 10.6p2 on Linux, when musl libc is used without PAM, lacks a workaround for a password authentication bypass (related to misinterpretation of whether a string is intended to be a password hash). For some configurations of accounts, any password between 256 and 1024 characters succeeds. An example of a platform using musl libc without PAM is Alpine Linux.
@@ -155,6 +162,10 @@ An application that passes request data as column values to insert or update
 - [https://github.com/hacermuden/CVE-2026-119977](https://github.com/hacermuden/CVE-2026-119977) : ![starts](https://img.shields.io/github/stars/hacermuden/CVE-2026-119977.svg) ![forks](https://img.shields.io/github/forks/hacermuden/CVE-2026-119977.svg)
 
 - [https://github.com/riabinov/CVE-2026-119977](https://github.com/riabinov/CVE-2026-119977) : ![starts](https://img.shields.io/github/stars/riabinov/CVE-2026-119977.svg) ![forks](https://img.shields.io/github/forks/riabinov/CVE-2026-119977.svg)
+
+- [https://github.com/BugStealers/CVE-2026-119977](https://github.com/BugStealers/CVE-2026-119977) : ![starts](https://img.shields.io/github/stars/BugStealers/CVE-2026-119977.svg) ![forks](https://img.shields.io/github/forks/BugStealers/CVE-2026-119977.svg)
+
+- [https://github.com/mehmet-emir-eroglu/CVE-2026-119977](https://github.com/mehmet-emir-eroglu/CVE-2026-119977) : ![starts](https://img.shields.io/github/stars/mehmet-emir-eroglu/CVE-2026-119977.svg) ![forks](https://img.shields.io/github/forks/mehmet-emir-eroglu/CVE-2026-119977.svg)
 
 ## CVE-2026-119712
 > PipesHub before 0.10.0 contains a server-side request forgery vulnerability in ImageParser._fetch_single_url that allows attackers to make the indexing service fetch internal addresses by embedding image URLs in documents. Attackers can supply Markdown or HTML via uploads, synced mailboxes, or web connectors to reach loopback, private-network, or cloud metadata endpoints, with image responses embedded into indexed content.
@@ -1957,6 +1968,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/LiliNothere/CVE-2026-109618](https://github.com/LiliNothere/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/LiliNothere/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/LiliNothere/CVE-2026-109618.svg)
 
+- [https://github.com/catscarlet/php-fpm-docker-PHP-8.1-CVE-2026-109618-109619-patched](https://github.com/catscarlet/php-fpm-docker-PHP-8.1-CVE-2026-109618-109619-patched) : ![starts](https://img.shields.io/github/stars/catscarlet/php-fpm-docker-PHP-8.1-CVE-2026-109618-109619-patched.svg) ![forks](https://img.shields.io/github/forks/catscarlet/php-fpm-docker-PHP-8.1-CVE-2026-109618-109619-patched.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -3101,6 +3114,20 @@ in depth measure, let&#x27;s also check before we complete the checksum
 
 - [https://github.com/unixreaper/CVE-2026-99999-Research](https://github.com/unixreaper/CVE-2026-99999-Research) : ![starts](https://img.shields.io/github/stars/unixreaper/CVE-2026-99999-Research.svg) ![forks](https://img.shields.io/github/forks/unixreaper/CVE-2026-99999-Research.svg)
 
+## CVE-2026-99273
+> In the Linux kernel, the following vulnerability has been resolved:
+
+ksmbd: reserve space for the UTF-16 terminator in stream info
+
+smb_strtoUTF16() always writes a terminating zero UTF-16 unit after the
+converted characters, but get_file_stream_info() budgets only
+sizeof(struct smb2_file_stream_info) + streamlen * 2 for a stream entry
+and sizeof(struct smb2_file_stream_info) + 7 * 2 for the trailing
+&quot;::$DATA&quot; entry. When an entry exactly fills the 448-byte small response
+buffer, the terminator 
+
+- [https://github.com/googlesky/CVE-2026-99273](https://github.com/googlesky/CVE-2026-99273) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-99273.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-99273.svg)
+
 ## CVE-2026-98937
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3454,6 +3481,10 @@ but the node is still queued on tsk, which
 - [https://github.com/nemoiwkryang/CVE-2026-98260-pkt110-kernelsu](https://github.com/nemoiwkryang/CVE-2026-98260-pkt110-kernelsu) : ![starts](https://img.shields.io/github/stars/nemoiwkryang/CVE-2026-98260-pkt110-kernelsu.svg) ![forks](https://img.shields.io/github/forks/nemoiwkryang/CVE-2026-98260-pkt110-kernelsu.svg)
 
 - [https://github.com/countryside99/GhostKey](https://github.com/countryside99/GhostKey) : ![starts](https://img.shields.io/github/stars/countryside99/GhostKey.svg) ![forks](https://img.shields.io/github/forks/countryside99/GhostKey.svg)
+
+- [https://github.com/knowlily/m6-shell](https://github.com/knowlily/m6-shell) : ![starts](https://img.shields.io/github/stars/knowlily/m6-shell.svg) ![forks](https://img.shields.io/github/forks/knowlily/m6-shell.svg)
+
+- [https://github.com/knowlily/cve-2026-98260-bvl-an16](https://github.com/knowlily/cve-2026-98260-bvl-an16) : ![starts](https://img.shields.io/github/stars/knowlily/cve-2026-98260-bvl-an16.svg) ![forks](https://img.shields.io/github/forks/knowlily/cve-2026-98260-bvl-an16.svg)
 
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -5446,6 +5477,8 @@ createCorsHandler() set Access-Control-Allow-Credentials: true outside the origi
 - [https://github.com/Cobrastrike62/CVE-2026-83844-Detection](https://github.com/Cobrastrike62/CVE-2026-83844-Detection) : ![starts](https://img.shields.io/github/stars/Cobrastrike62/CVE-2026-83844-Detection.svg) ![forks](https://img.shields.io/github/forks/Cobrastrike62/CVE-2026-83844-Detection.svg)
 
 - [https://github.com/LACHHAB-Anas/CVE-2026-83844](https://github.com/LACHHAB-Anas/CVE-2026-83844) : ![starts](https://img.shields.io/github/stars/LACHHAB-Anas/CVE-2026-83844.svg) ![forks](https://img.shields.io/github/forks/LACHHAB-Anas/CVE-2026-83844.svg)
+
+- [https://github.com/blkph0x/CVE-2026-83844_POC](https://github.com/blkph0x/CVE-2026-83844_POC) : ![starts](https://img.shields.io/github/stars/blkph0x/CVE-2026-83844_POC.svg) ![forks](https://img.shields.io/github/forks/blkph0x/CVE-2026-83844_POC.svg)
 
 ## CVE-2026-83834
 
@@ -14382,6 +14415,8 @@ destination-frag path or fall back to skb_cow_data().
 
 - [https://github.com/Jean7z/DFRoot-DirtyFrag](https://github.com/Jean7z/DFRoot-DirtyFrag) : ![starts](https://img.shields.io/github/stars/Jean7z/DFRoot-DirtyFrag.svg) ![forks](https://img.shields.io/github/forks/Jean7z/DFRoot-DirtyFrag.svg)
 
+- [https://github.com/nemoiwkryang/pd2301-dirtyfrag-root](https://github.com/nemoiwkryang/pd2301-dirtyfrag-root) : ![starts](https://img.shields.io/github/stars/nemoiwkryang/pd2301-dirtyfrag-root.svg) ![forks](https://img.shields.io/github/forks/nemoiwkryang/pd2301-dirtyfrag-root.svg)
+
 ## CVE-2026-43074
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -20093,6 +20128,8 @@ This issue was fixed in 3.18.4.
 
 - [https://github.com/0xBlackash/CVE-2026-25089](https://github.com/0xBlackash/CVE-2026-25089) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-25089.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-25089.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-25089](https://github.com/ashrafzaryouh/CVE-2026-25089) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-25089.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-25089.svg)
+
 ## CVE-2026-25075
  strongSwan versions 4.5.0 prior to 6.0.5 contain an integer underflow vulnerability in the EAP-TTLS AVP parser that allows unauthenticated remote attackers to cause a denial of service by sending crafted AVP data with invalid length fields during IKEv2 authentication. Attackers can exploit the failure to validate AVP length fields before subtraction to trigger excessive memory allocation or NULL pointer dereference, crashing the charon IKE daemon.
 
@@ -22843,6 +22880,8 @@ If the program passes a
 
 - [https://github.com/abraxas/cve-2026-19553-wrap-bio](https://github.com/abraxas/cve-2026-19553-wrap-bio) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-19553-wrap-bio.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-19553-wrap-bio.svg)
 
+- [https://github.com/monkeyyey/acw3-tls-lab](https://github.com/monkeyyey/acw3-tls-lab) : ![starts](https://img.shields.io/github/stars/monkeyyey/acw3-tls-lab.svg) ![forks](https://img.shields.io/github/forks/monkeyyey/acw3-tls-lab.svg)
+
 ## CVE-2026-19516
  A caller-supplied X-Grafana-URL request header controls the destination of mcp-grafana's outbound requests, and the grafana_api_request tool lets the caller also choose the HTTP method, path, and body. Because the destination is not restricted to the configured Grafana instance, a caller can direct requests at internal, loopback, and link-local network services (including metadata endpoints) and read the responses, resulting in server-side request forgery. The fix for CVE-2026-15583 prevented the configured service-account token from being sent to unintended destinations but did not restrict the destinations themselves.
 
@@ -23443,6 +23482,8 @@ lsass.exe, and terminate PPL-protected security processes.
 
 - [https://github.com/MrRawBit/SonicWall-SMA1000-Zero-Day-IoC-Check](https://github.com/MrRawBit/SonicWall-SMA1000-Zero-Day-IoC-Check) : ![starts](https://img.shields.io/github/stars/MrRawBit/SonicWall-SMA1000-Zero-Day-IoC-Check.svg) ![forks](https://img.shields.io/github/forks/MrRawBit/SonicWall-SMA1000-Zero-Day-IoC-Check.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-15409](https://github.com/ashrafzaryouh/CVE-2026-15409) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-15409.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-15409.svg)
+
 ## CVE-2026-15316
  An improper input
 validation vulnerability in the configuration service for processing encrypted
@@ -23697,6 +23738,10 @@ The specific flaw exists within the processing of XZ chunked data. Crafted XZ-co
 - [https://github.com/Nxploited/CVE-2026-13714](https://github.com/Nxploited/CVE-2026-13714) : ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2026-13714.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2026-13714.svg)
 
 - [https://github.com/katranSefa/CVE-2026-13714](https://github.com/katranSefa/CVE-2026-13714) : ![starts](https://img.shields.io/github/stars/katranSefa/CVE-2026-13714.svg) ![forks](https://img.shields.io/github/forks/katranSefa/CVE-2026-13714.svg)
+
+## CVE-2026-13684
+
+- [https://github.com/maxprog-svg/CVE-2026-13684](https://github.com/maxprog-svg/CVE-2026-13684) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-13684.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-13684.svg)
 
 ## CVE-2026-13610
  The KiviCare  WordPress plugin before 4.5.2 does not restrict the roles assignable through its unauthenticated registration endpoint, allowing unauthenticated attackers to create an active, privileged clinic-staff (doctor) account with full access to patient records, billing and clinic data.
@@ -25907,6 +25952,8 @@ substitution character without escaping shell meta characters. A remote attacker
 - [https://github.com/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce](https://github.com/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce) : ![starts](https://img.shields.io/github/stars/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce.svg) ![forks](https://img.shields.io/github/forks/AlanNewberry/CVE-2026-4480-samba-print-command-injection-rce.svg)
 
 - [https://github.com/saitoken241/CVE-2026-4480-POC](https://github.com/saitoken241/CVE-2026-4480-POC) : ![starts](https://img.shields.io/github/stars/saitoken241/CVE-2026-4480-POC.svg) ![forks](https://img.shields.io/github/forks/saitoken241/CVE-2026-4480-POC.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-4480](https://github.com/ashrafzaryouh/CVE-2026-4480) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-4480.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-4480.svg)
 
 ## CVE-2026-4447
  Inappropriate implementation in V8 in Google Chrome prior to 146.0.7680.153 allowed a remote attacker to execute arbitrary code inside a sandbox via a crafted HTML page. (Chromium security severity: High)
