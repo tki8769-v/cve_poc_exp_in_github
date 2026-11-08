@@ -57,6 +57,8 @@
 
 - [https://github.com/MikeCase/check-sshole](https://github.com/MikeCase/check-sshole) : ![starts](https://img.shields.io/github/stars/MikeCase/check-sshole.svg) ![forks](https://img.shields.io/github/forks/MikeCase/check-sshole.svg)
 
+- [https://github.com/liamromanis101/MaSSHole](https://github.com/liamromanis101/MaSSHole) : ![starts](https://img.shields.io/github/stars/liamromanis101/MaSSHole.svg) ![forks](https://img.shields.io/github/forks/liamromanis101/MaSSHole.svg)
+
 ## CVE-2026-123025
 > An OS Command Injection vulnerability was discovered in the Google Cloud DNS validation module of the OPNsense os-acme-client plugin through 4.17. The DnsGcloud::prepare() method decodes the dns_gcloud_key model field and directly interpolates the string fields gcloud_account and gcloud_project into a shell command passed to proc_open() via LeUtils::run_shell_command() without any validation or escaping. A remote authenticated user with privileges to issue or renew certificates through the WebGU
 
@@ -14086,6 +14088,8 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/kipcloud120/MiTV-MFTP0-GhostLock](https://github.com/kipcloud120/MiTV-MFTP0-GhostLock) : ![starts](https://img.shields.io/github/stars/kipcloud120/MiTV-MFTP0-GhostLock.svg) ![forks](https://img.shields.io/github/forks/kipcloud120/MiTV-MFTP0-GhostLock.svg)
 
+- [https://github.com/AksiSpirit/ghostlock-cve-2026-43499-4.19-k40](https://github.com/AksiSpirit/ghostlock-cve-2026-43499-4.19-k40) : ![starts](https://img.shields.io/github/stars/AksiSpirit/ghostlock-cve-2026-43499-4.19-k40.svg) ![forks](https://img.shields.io/github/forks/AksiSpirit/ghostlock-cve-2026-43499-4.19-k40.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -14898,6 +14902,12 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
  JFrog Artifactory could return an internal anonymous-user token to an unauthenticated caller when anonymous access is disabled, potentially exposing sensitive resources.
 
 - [https://github.com/BL0odz/JFrog_CVE-2026-65615-ByGLM](https://github.com/BL0odz/JFrog_CVE-2026-65615-ByGLM) : ![starts](https://img.shields.io/github/stars/BL0odz/JFrog_CVE-2026-65615-ByGLM.svg) ![forks](https://img.shields.io/github/forks/BL0odz/JFrog_CVE-2026-65615-ByGLM.svg)
+
+- [https://github.com/dylvie/CVE-2026-42016_CVE-2026-42018](https://github.com/dylvie/CVE-2026-42016_CVE-2026-42018) : ![starts](https://img.shields.io/github/stars/dylvie/CVE-2026-42016_CVE-2026-42018.svg) ![forks](https://img.shields.io/github/forks/dylvie/CVE-2026-42016_CVE-2026-42018.svg)
+
+## CVE-2026-42016
+
+- [https://github.com/dylvie/CVE-2026-42016_CVE-2026-42018](https://github.com/dylvie/CVE-2026-42016_CVE-2026-42018) : ![starts](https://img.shields.io/github/stars/dylvie/CVE-2026-42016_CVE-2026-42018.svg) ![forks](https://img.shields.io/github/forks/dylvie/CVE-2026-42016_CVE-2026-42018.svg)
 
 ## CVE-2026-41992
 
@@ -95208,6 +95218,8 @@ use after free.
 - [https://github.com/gquere/CVE-2019-6693](https://github.com/gquere/CVE-2019-6693) : ![starts](https://img.shields.io/github/stars/gquere/CVE-2019-6693.svg) ![forks](https://img.shields.io/github/forks/gquere/CVE-2019-6693.svg)
 
 - [https://github.com/Real4XoR/CVE-2019-6693](https://github.com/Real4XoR/CVE-2019-6693) : ![starts](https://img.shields.io/github/stars/Real4XoR/CVE-2019-6693.svg) ![forks](https://img.shields.io/github/forks/Real4XoR/CVE-2019-6693.svg)
+
+- [https://github.com/lureprey/fortidecrypter-CVE-2019-6693](https://github.com/lureprey/fortidecrypter-CVE-2019-6693) : ![starts](https://img.shields.io/github/stars/lureprey/fortidecrypter-CVE-2019-6693.svg) ![forks](https://img.shields.io/github/forks/lureprey/fortidecrypter-CVE-2019-6693.svg)
 
 ## CVE-2019-6690
  python-gnupg 0.4.3 allows context-dependent attackers to trick gnupg to decrypt other ciphertext than intended. To perform the attack, the passphrase to gnupg must be controlled by the adversary and the ciphertext should be trusted. Related to a "CWE-20: Improper Input Validation" issue affecting the affect functionality component.

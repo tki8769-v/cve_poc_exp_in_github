@@ -3083,3 +3083,7 @@
 {"cve_id": "CVE-2026-7363", "reason": "prefix_conflict_evidenced", "ts": "2026-11-07T21:12:38Z", "url": "https://github.com/CuteeCat/CVE-2026-73633", "url_ids": ["CVE-2026-73633"]}
 {"cve_id": "CVE-2024-1132", "reason": "prefix_conflict_evidenced", "ts": "2026-11-07T22:04:42Z", "url": "https://github.com/mhaskar/CVE-2024-11320", "url_ids": ["CVE-2024-11320"]}
 {"cve_id": "CVE-2025-6018", "reason": "prefix_conflict_evidenced", "ts": "2026-11-07T22:11:13Z", "url": "https://github.com/m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit", "url_ids": ["CVE-2025-60188"]}
+{"cve_id": "CVE-2026-1122", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T00:49:52Z", "url": "https://github.com/Mor-Golan/CVE-2026-112222", "url_ids": ["CVE-2026-112222"]}
+{"cve_id": "CVE-2026-10637", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T00:54:03Z", "url": "https://github.com/leisureprog/CVE-2026-106378", "url_ids": ["CVE-2026-106378"]}
+{"cve_id": "CVE-2026-10644", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T00:54:10Z", "url": "https://github.com/murrez/CVE-2026-106445", "url_ids": ["CVE-2026-106445"]}
+{"cve_id": "CVE-2026-10678", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T00:56:11Z", "url": "https://github.com/tanuj8124/CVE-2026-106781", "url_ids": ["CVE-2026-106781"]}

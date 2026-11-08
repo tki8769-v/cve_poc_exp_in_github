@@ -10787,3 +10787,35 @@
 {"cve_id": "CVE-2026-56717", "ts": "2026-11-07T21:55:10Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-83844", "ts": "2026-11-07T22:03:58Z", "type": "new_poc", "url": "https://github.com/LACHHAB-Anas/CVE-2026-83844"}
 {"cve_id": "CVE-2020-1350", "ts": "2026-11-07T22:13:05Z", "type": "new_poc", "url": "https://github.com/Sheisback/CVE-2020-1350-Exploit"}
+{"cve_id": "CVE-2019-7907", "ts": "2026-11-08T00:33:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-36240", "ts": "2026-11-08T00:33:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-58388", "ts": "2026-11-08T00:33:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-46896", "ts": "2026-11-08T00:33:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-64798", "ts": "2026-11-08T00:33:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-10146", "ts": "2026-11-08T00:33:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-10147", "ts": "2026-11-08T00:33:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104040", "ts": "2026-11-08T00:34:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107492", "ts": "2026-11-08T00:34:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-107931", "ts": "2026-11-08T00:34:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111221", "ts": "2026-11-08T00:34:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111229", "ts": "2026-11-08T00:34:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-111231", "ts": "2026-11-08T00:34:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117494", "ts": "2026-11-08T00:35:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-119217", "ts": "2026-11-08T00:36:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-120484", "ts": "2026-11-08T00:36:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47400", "ts": "2026-11-08T00:39:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47401", "ts": "2026-11-08T00:39:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47402", "ts": "2026-11-08T00:39:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47403", "ts": "2026-11-08T00:39:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47404", "ts": "2026-11-08T00:39:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49122", "ts": "2026-11-08T00:39:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49123", "ts": "2026-11-08T00:39:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49124", "ts": "2026-11-08T00:39:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49125", "ts": "2026-11-08T00:40:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49126", "ts": "2026-11-08T00:40:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-56717", "ts": "2026-11-08T00:40:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-42016", "ts": "2026-11-08T00:48:52Z", "type": "new_poc", "url": "https://github.com/dylvie/CVE-2026-42016_CVE-2026-42018"}
+{"cve_id": "CVE-2026-42018", "ts": "2026-11-08T00:48:52Z", "type": "new_poc", "url": "https://github.com/dylvie/CVE-2026-42016_CVE-2026-42018"}
+{"cve_id": "CVE-2019-6693", "ts": "2026-11-08T00:48:54Z", "type": "new_poc", "url": "https://github.com/lureprey/fortidecrypter-CVE-2019-6693"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-08T00:48:56Z", "type": "new_poc", "url": "https://github.com/AksiSpirit/ghostlock-cve-2026-43499-4.19-k40"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-08T00:48:56Z", "type": "new_poc", "url": "https://github.com/liamromanis101/MaSSHole"}

@@ -3753,6 +3753,8 @@ use after free.
 
 - [https://github.com/Real4XoR/CVE-2019-6693](https://github.com/Real4XoR/CVE-2019-6693) : ![starts](https://img.shields.io/github/stars/Real4XoR/CVE-2019-6693.svg) ![forks](https://img.shields.io/github/forks/Real4XoR/CVE-2019-6693.svg)
 
+- [https://github.com/lureprey/fortidecrypter-CVE-2019-6693](https://github.com/lureprey/fortidecrypter-CVE-2019-6693) : ![starts](https://img.shields.io/github/stars/lureprey/fortidecrypter-CVE-2019-6693.svg) ![forks](https://img.shields.io/github/forks/lureprey/fortidecrypter-CVE-2019-6693.svg)
+
 ## CVE-2019-6690
  python-gnupg 0.4.3 allows context-dependent attackers to trick gnupg to decrypt other ciphertext than intended. To perform the attack, the passphrase to gnupg must be controlled by the adversary and the ciphertext should be trusted. Related to a "CWE-20: Improper Input Validation" issue affecting the affect functionality component.
 
