@@ -10877,3 +10877,4 @@
 {"cve_id": "CVE-2026-25089", "ts": "2026-11-08T16:14:05Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-25089"}
 {"cve_id": "CVE-2026-4480", "ts": "2026-11-08T16:16:10Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-4480"}
 {"cve_id": "CVE-2026-11645", "ts": "2026-11-08T16:30:29Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-11645"}
+{"cve_id": "CVE-2026-20131", "ts": "2026-11-08T16:54:22Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-20131"}

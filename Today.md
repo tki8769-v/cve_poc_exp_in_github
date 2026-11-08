@@ -111,6 +111,10 @@ If the program passes a
 
 - [https://github.com/foxcornlab/sonicwall-sonicos-scanner](https://github.com/foxcornlab/sonicwall-sonicos-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/sonicwall-sonicos-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/sonicwall-sonicos-scanner.svg)
 
+## CVE-2026-20131
+
+- [https://github.com/ashrafzaryouh/CVE-2026-20131](https://github.com/ashrafzaryouh/CVE-2026-20131) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-20131.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-20131.svg)
+
 ## CVE-2026-20700
 
 - [https://github.com/haroonwattoo556677-max/ios-forensic-exploitation-framework](https://github.com/haroonwattoo556677-max/ios-forensic-exploitation-framework) : ![starts](https://img.shields.io/github/stars/haroonwattoo556677-max/ios-forensic-exploitation-framework.svg) ![forks](https://img.shields.io/github/forks/haroonwattoo556677-max/ios-forensic-exploitation-framework.svg)
