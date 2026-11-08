@@ -3189,3 +3189,4 @@
 {"cve_id": "CVE-2026-1096", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T07:34:40Z", "url": "https://github.com/DandanLLab/PHP-5.6.40-CVE-2026-109618-109619", "url_ids": ["CVE-2026-109618"]}
 {"cve_id": "CVE-2026-1096", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T07:34:40Z", "url": "https://github.com/mc493/php2shell-enterprise-hardening-cve-2026-109618-109619", "url_ids": ["CVE-2026-109618"]}
 {"cve_id": "CVE-2026-1096", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T07:34:40Z", "url": "https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched", "url_ids": ["CVE-2026-109618"]}
+{"cve_id": "CVE-2026-9268", "reason": "prefix_conflict_evidenced", "ts": "2026-11-08T07:46:25Z", "url": "https://github.com/grepstrength/CVE-2026-92680", "url_ids": ["CVE-2026-92680"]}

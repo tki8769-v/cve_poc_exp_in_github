@@ -10857,3 +10857,5 @@
 {"cve_id": "CVE-2026-19868", "ts": "2026-11-08T07:25:18Z", "type": "new_poc", "url": "https://github.com/foxcornlab/sonicwall-sonicos-scanner"}
 {"cve_id": "CVE-2026-43284", "ts": "2026-11-08T07:25:18Z", "type": "new_poc", "url": "https://github.com/Jean7z/DFRoot-DirtyFrag"}
 {"cve_id": "CVE-2023-41974", "ts": "2026-11-08T07:25:28Z", "type": "new_poc", "url": "https://github.com/kienhho/Solarium"}
+{"cve_id": "CVE-2026-87690", "ts": "2026-11-08T07:42:39Z", "type": "new_poc", "url": "https://github.com/h00die/CVE-2026-87690-POC-Metasploit-Dir-Traverse-to-RCE"}
+{"cve_id": "CVE-2026-8932", "ts": "2026-11-08T07:44:22Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-8932"}
