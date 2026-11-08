@@ -11,6 +11,10 @@
 
 - [https://github.com/nobleordu/CVE-2020-13405-MicroWeber-PoC](https://github.com/nobleordu/CVE-2020-13405-MicroWeber-PoC) : ![starts](https://img.shields.io/github/stars/nobleordu/CVE-2020-13405-MicroWeber-PoC.svg) ![forks](https://img.shields.io/github/forks/nobleordu/CVE-2020-13405-MicroWeber-PoC.svg)
 
+## CVE-2022-0847
+
+- [https://github.com/elbunkerhacker/CVE-2022-0847](https://github.com/elbunkerhacker/CVE-2022-0847) : ![starts](https://img.shields.io/github/stars/elbunkerhacker/CVE-2022-0847.svg) ![forks](https://img.shields.io/github/forks/elbunkerhacker/CVE-2022-0847.svg)
+
 ## CVE-2023-41974
 
 - [https://github.com/kienhho/Solarium](https://github.com/kienhho/Solarium) : ![starts](https://img.shields.io/github/stars/kienhho/Solarium.svg) ![forks](https://img.shields.io/github/forks/kienhho/Solarium.svg)
@@ -138,6 +142,10 @@ If the program passes a
 ## CVE-2026-20700
 
 - [https://github.com/haroonwattoo556677-max/ios-forensic-exploitation-framework](https://github.com/haroonwattoo556677-max/ios-forensic-exploitation-framework) : ![starts](https://img.shields.io/github/stars/haroonwattoo556677-max/ios-forensic-exploitation-framework.svg) ![forks](https://img.shields.io/github/forks/haroonwattoo556677-max/ios-forensic-exploitation-framework.svg)
+
+## CVE-2026-24090
+
+- [https://github.com/wnduddld0513/Lenovo-Qcom-RPMB-PoC](https://github.com/wnduddld0513/Lenovo-Qcom-RPMB-PoC) : ![starts](https://img.shields.io/github/stars/wnduddld0513/Lenovo-Qcom-RPMB-PoC.svg) ![forks](https://img.shields.io/github/forks/wnduddld0513/Lenovo-Qcom-RPMB-PoC.svg)
 
 ## CVE-2026-25089
 

@@ -20382,6 +20382,8 @@ Users are recommended to upgrade to version 11.0.15 or later, 10.1.50 or later o
 
 - [https://github.com/wnduddld0513/Lenovo_Qcom_RPMB_Tool](https://github.com/wnduddld0513/Lenovo_Qcom_RPMB_Tool) : ![starts](https://img.shields.io/github/stars/wnduddld0513/Lenovo_Qcom_RPMB_Tool.svg) ![forks](https://img.shields.io/github/forks/wnduddld0513/Lenovo_Qcom_RPMB_Tool.svg)
 
+- [https://github.com/wnduddld0513/Lenovo-Qcom-RPMB-PoC](https://github.com/wnduddld0513/Lenovo-Qcom-RPMB-PoC) : ![starts](https://img.shields.io/github/stars/wnduddld0513/Lenovo-Qcom-RPMB-PoC.svg) ![forks](https://img.shields.io/github/forks/wnduddld0513/Lenovo-Qcom-RPMB-PoC.svg)
+
 ## CVE-2026-24072
  An escalation of privilege bug in various modules in Apache HTTP 2.4.66 and earlier allows local .htaccess authors to read files with the privileges of the httpd user.
 

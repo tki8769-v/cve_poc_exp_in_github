@@ -10891,3 +10891,5 @@
 {"cve_id": "CVE-2026-56848", "ts": "2026-11-08T21:22:45Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/node-cve-2026-56848-check"}
 {"cve_id": "CVE-2025-59845", "ts": "2026-11-08T21:40:52Z", "type": "new_poc", "url": "https://github.com/C3viche/cve-2025-59845"}
 {"cve_id": "CVE-2026-41462", "ts": "2026-11-08T21:45:09Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-41462"}
+{"cve_id": "CVE-2022-0847", "ts": "2026-11-08T22:05:13Z", "type": "new_poc", "url": "https://github.com/elbunkerhacker/CVE-2022-0847"}
+{"cve_id": "CVE-2026-24090", "ts": "2026-11-08T22:08:07Z", "type": "new_poc", "url": "https://github.com/wnduddld0513/Lenovo-Qcom-RPMB-PoC"}
