@@ -10920,3 +10920,7 @@
 {"cve_id": "CVE-2024-44068", "ts": "2026-11-09T08:05:39Z", "type": "new_poc", "url": "https://github.com/privacyportalUK/PP-Root"}
 {"cve_id": "CVE-2026-63292", "ts": "2026-11-09T08:06:59Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-63292"}
 {"cve_id": "CVE-2026-11499", "ts": "2026-11-09T08:10:51Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-11499"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-09T08:25:15Z", "type": "new_poc", "url": "https://github.com/D1se0/CVE-2026-123158"}
+{"cve_id": "CVE-2026-14431", "ts": "2026-11-09T08:26:28Z", "type": "new_poc", "url": "https://github.com/djayaGit/CVE-2026-14431"}
+{"cve_id": "CVE-2026-60004", "ts": "2026-11-09T08:34:31Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-60004"}
+{"cve_id": "CVE-2026-35616", "ts": "2026-11-09T08:35:39Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-35616"}

@@ -3241,3 +3241,4 @@
 {"cve_id": "CVE-2025-2784", "reason": "prefix_conflict_evidenced", "ts": "2026-11-09T01:24:31Z", "url": "https://github.com/v3ilsm1th/CVE-2025-27840-WIP", "url_ids": ["CVE-2025-27840"]}
 {"cve_id": "CVE-2025-2784", "reason": "prefix_conflict_evidenced", "ts": "2026-11-09T01:24:31Z", "url": "https://github.com/JasonW88/esp32-cve-2025-27840-power-trace-experiment", "url_ids": ["CVE-2025-27840"]}
 {"cve_id": "CVE-2026-1814", "reason": "prefix_conflict_evidenced", "ts": "2026-11-09T08:15:06Z", "url": "https://github.com/murrez/CVE-2026-18143", "url_ids": ["CVE-2026-18143"]}
+{"cve_id": "CVE-2025-6035", "reason": "prefix_conflict_evidenced", "ts": "2026-11-09T08:26:14Z", "url": "https://github.com/Nullbyte3117/CVE-2025-60357", "url_ids": ["CVE-2025-60357"]}
