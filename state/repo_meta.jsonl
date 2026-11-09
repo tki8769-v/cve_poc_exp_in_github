@@ -35720,3 +35720,36 @@
 {"archived": false, "default_branch": "main", "description": "Mirror of https://forgejo.bobbalisa.org/pillarsdotnet/node-braces", "fetched_at": "2026-11-08T22:18:06Z", "forks": 0, "owner": "pillarsdotnet", "pushed_at": "2026-10-22T01:10:41Z", "repo": "node-braces", "repo_id": 1406160273, "stars": 0, "topics": [], "updated_at": "2026-10-22T01:12:13Z"}
 {"archived": false, "default_branch": "main", "description": "Temporary fork of braces with a minimal security patch for CVE-2026-93687, created only to validate dependency override behavior and Fortify/FoD detection before moving the fix to an official Bentobox-owned source.", "fetched_at": "2026-11-08T22:18:07Z", "forks": 0, "owner": "scastillo-jp", "pushed_at": "2026-09-24T22:15:52Z", "repo": "braces-fork", "repo_id": 1386203613, "stars": 0, "topics": [], "updated_at": "2026-09-29T21:59:42Z"}
 {"archived": false, "default_branch": "main", "description": "This repository documents the VectorFreed RCE chain and includes a PoC for CVE-2026-96889.", "fetched_at": "2026-11-08T22:18:07Z", "forks": 1, "owner": "rafabd1", "pushed_at": "2026-11-02T04:41:11Z", "repo": "VectorFreed", "repo_id": 1380359971, "stars": 21, "topics": [], "updated_at": "2026-11-02T04:41:15Z"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:38Z", "owner": "faizdotid", "repo": "CVE-2021-41773"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:38Z", "owner": "nitipoom-jar", "repo": "CVE-2024-40500"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:39Z", "owner": "Azvanzed", "repo": "CVE-2024-44083"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:39Z", "owner": "logesh-GIT001", "repo": "CVE-2025-55182"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:40Z", "owner": "Mustafa1p", "repo": "Next.js-RCE-Scanner---CVE-2025-55182-CVE-2025-66478"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:40Z", "owner": "nilfredb", "repo": "CVE-2025-66478-Research-Proof-of-Concept"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:40Z", "owner": "ZeroDayEvil", "repo": "CVE-2026-21858-n8n-FullChain"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:41Z", "owner": "villager1314", "repo": "CVE-2026-43499-IQOO-Neo10-Analysis"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:41Z", "owner": "sadandbset", "repo": "CVE-2026-51772-CVE-2026-51772"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:41Z", "owner": "cyeezy08", "repo": "Kimai-CVE-2026-49865-POC"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:42Z", "owner": "K3ysTr0K3R", "repo": "CVE-2021-43798-EXPLOIT"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:42Z", "owner": "malredfan", "repo": "gggggggggggggggggg"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:43Z", "owner": "malredfan", "repo": "vvvvvvvv2"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:43Z", "owner": "malredfan", "repo": "xxxxxxxxxxxxxxxx"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:43Z", "owner": "heidarodarkfire158", "repo": "Confluence-Desktop-2026"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:44Z", "owner": "mythicemissarymall", "repo": "zuvmwbnt"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:44Z", "owner": "oscar-mine", "repo": "R2SAE"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:45Z", "owner": "trilogy-group", "repo": "react2shell-scan"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:45Z", "owner": "cyeezy08", "repo": "WordPress_Exploit_Directory"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:45Z", "owner": "coey0814", "repo": "DirtyFrag-Galaxy"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:46Z", "owner": "0ch4", "repo": "ghostlock-mrx-w09"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:46Z", "owner": "DeAurity", "repo": "ghost-hoock"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:46Z", "owner": "HaSiyo", "repo": "Root-My-Galaxy-Payloads-KernelSU"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:47Z", "owner": "HaSiyo", "repo": "Root-My-Galaxy-Payloads-KernelSU-Next"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:47Z", "owner": "HaSiyo", "repo": "Root-My-Galaxy-Payloads-S938NKSUCDZIF-KernelSU-Next"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:48Z", "owner": "HaSiyo", "repo": "Root-My-Galaxy-Payloads-S938NKSUCDZIF-ReSukiSU"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:48Z", "owner": "L-1124", "repo": "RootMyVivo-Exploit"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:48Z", "owner": "L-1124", "repo": "RootMyVivo-rs"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:49Z", "owner": "MKE84", "repo": "neo8-ghostlock-adaptation"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:49Z", "owner": "coey0814", "repo": "Fold8-Ultra-Root-F976N"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:49Z", "owner": "litianyuan-91", "repo": "Ghostlock-Honor70Pro"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:50Z", "owner": "pyyyc", "repo": "honor-6.12.38-43499-research"}
+{"error": "gone", "fetched_at": "2026-11-09T01:09:50Z", "owner": "tmvictorpeters", "repo": "jbo4rgl"}

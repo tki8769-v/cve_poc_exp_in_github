@@ -3534,6 +3534,8 @@ UPDATE September 14, 2021: Microsoft has released security updates to address th
 
 - [https://github.com/winstxnhdw/CVE-2022-30190](https://github.com/winstxnhdw/CVE-2022-30190) : ![starts](https://img.shields.io/github/stars/winstxnhdw/CVE-2022-30190.svg) ![forks](https://img.shields.io/github/forks/winstxnhdw/CVE-2022-30190.svg)
 
+- [https://github.com/m4madturk/CVE-2021-40444](https://github.com/m4madturk/CVE-2021-40444) : ![starts](https://img.shields.io/github/stars/m4madturk/CVE-2021-40444.svg) ![forks](https://img.shields.io/github/forks/m4madturk/CVE-2021-40444.svg)
+
 ## CVE-2021-40438
  A crafted request uri-path can cause mod_proxy to forward the request to an origin server choosen by the remote user. This issue affects Apache HTTP Server 2.4.48 and earlier.
 

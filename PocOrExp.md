@@ -549,6 +549,11 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 
 - [https://github.com/yuwkaaa/CVE-2026-113468](https://github.com/yuwkaaa/CVE-2026-113468) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-113468.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-113468.svg)
 
+## CVE-2026-113386
+> Roundcube Webmail before 1.6.20 and 1.7.x before 1.7.5 are affected by IMAP command injection. A remote authenticated attacker can exploit this via CRLF sequences injected into the _uid parameter of the mail/headers and mail/viewsource actions to execute arbitrary IMAP commands.
+
+- [https://github.com/Neo-XeD/CVE-2026-113386](https://github.com/Neo-XeD/CVE-2026-113386) : ![starts](https://img.shields.io/github/stars/Neo-XeD/CVE-2026-113386.svg) ![forks](https://img.shields.io/github/forks/Neo-XeD/CVE-2026-113386.svg)
+
 ## CVE-2026-112900
 > Pillow is a Python imaging library. From 2.6.0 until 13.0.0, Pillow is vulnerable to argument injection when invoking Ghostscript for EPS input. EpsImagePlugin.Ghostscript passes a caller-controlled input filename after -f without converting it to a safe absolute path, so a name beginning with a hyphen can be interpreted as a Ghostscript option. An attacker who controls the filename can inject Ghostscript arguments. Arbitrary command execution specifically requires a leading @ argument-file file
 
@@ -24876,6 +24881,8 @@ This issue affects FFmpeg before version 8.1.2.
 - [https://github.com/HORKimhab/CVE-2026-8461](https://github.com/HORKimhab/CVE-2026-8461) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-8461.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-8461.svg)
 
 - [https://github.com/se1ims/PixelSmash](https://github.com/se1ims/PixelSmash) : ![starts](https://img.shields.io/github/stars/se1ims/PixelSmash.svg) ![forks](https://img.shields.io/github/forks/se1ims/PixelSmash.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-8461](https://github.com/ashrafzaryouh/CVE-2026-8461) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-8461.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-8461.svg)
 
 ## CVE-2026-8452
  Memory overflow vulnerability NetScaler ADC and NetScaler Gateway leading to unpredictable or erroneous behavior and Denial of Service if the appliance is configured as a Gateway (SSL VPN, ICA Proxy, CVPN, RDP Proxy) or AAA virtual server
@@ -79032,6 +79039,8 @@ UPDATE September 14, 2021: Microsoft has released security updates to address th
 - [https://github.com/rankthree/SOC-Detection-T1003.001-CVE-2021-40444](https://github.com/rankthree/SOC-Detection-T1003.001-CVE-2021-40444) : ![starts](https://img.shields.io/github/stars/rankthree/SOC-Detection-T1003.001-CVE-2021-40444.svg) ![forks](https://img.shields.io/github/forks/rankthree/SOC-Detection-T1003.001-CVE-2021-40444.svg)
 
 - [https://github.com/winstxnhdw/CVE-2022-30190](https://github.com/winstxnhdw/CVE-2022-30190) : ![starts](https://img.shields.io/github/stars/winstxnhdw/CVE-2022-30190.svg) ![forks](https://img.shields.io/github/forks/winstxnhdw/CVE-2022-30190.svg)
+
+- [https://github.com/m4madturk/CVE-2021-40444](https://github.com/m4madturk/CVE-2021-40444) : ![starts](https://img.shields.io/github/stars/m4madturk/CVE-2021-40444.svg) ![forks](https://img.shields.io/github/forks/m4madturk/CVE-2021-40444.svg)
 
 ## CVE-2021-40438
  A crafted request uri-path can cause mod_proxy to forward the request to an origin server choosen by the remote user. This issue affects Apache HTTP Server 2.4.48 and earlier.
