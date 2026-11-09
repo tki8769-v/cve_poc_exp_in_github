@@ -4735,6 +4735,8 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 
 - [https://github.com/CompleTetech-Security/netscaler-cve-2026-88772-check](https://github.com/CompleTetech-Security/netscaler-cve-2026-88772-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/netscaler-cve-2026-88772-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/netscaler-cve-2026-88772-check.svg)
 
+- [https://github.com/CompleteTech-Security/netscaler-pitscaler-cve-2026-88772-check](https://github.com/CompleteTech-Security/netscaler-pitscaler-cve-2026-88772-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/netscaler-pitscaler-cve-2026-88772-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/netscaler-pitscaler-cve-2026-88772-check.svg)
+
 ## CVE-2026-88771
 > Improper input validation vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway.
 
@@ -4759,6 +4761,10 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 - [https://github.com/CompleTetech-Security/netscaler-cve-2026-88771-check](https://github.com/CompleTetech-Security/netscaler-cve-2026-88771-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/netscaler-cve-2026-88771-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/netscaler-cve-2026-88771-check.svg)
 
 - [https://github.com/ceterion/netscaler-quickcheck](https://github.com/ceterion/netscaler-quickcheck) : ![starts](https://img.shields.io/github/stars/ceterion/netscaler-quickcheck.svg) ![forks](https://img.shields.io/github/forks/ceterion/netscaler-quickcheck.svg)
+
+- [https://github.com/irfanr-source/Get-NetScalerTimeline](https://github.com/irfanr-source/Get-NetScalerTimeline) : ![starts](https://img.shields.io/github/stars/irfanr-source/Get-NetScalerTimeline.svg) ![forks](https://img.shields.io/github/forks/irfanr-source/Get-NetScalerTimeline.svg)
+
+- [https://github.com/CompleteTech-Security/netscaler-pitscaler-cve-2026-88771-check](https://github.com/CompleteTech-Security/netscaler-pitscaler-cve-2026-88771-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/netscaler-pitscaler-cve-2026-88771-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/netscaler-pitscaler-cve-2026-88771-check.svg)
 
 ## CVE-2026-88009
 
@@ -7078,6 +7084,7 @@ an OOB write past the allocated kernel buffer.  Add
 - [https://github.com/lyn4r/CVE-2026-71981](https://github.com/lyn4r/CVE-2026-71981) : ![starts](https://img.shields.io/github/stars/lyn4r/CVE-2026-71981.svg) ![forks](https://img.shields.io/github/forks/lyn4r/CVE-2026-71981.svg)
 
 ## CVE-2026-71963
+> Hermes Agent 0.18.2 through 0.21.0, fixed in commit f6234d0, contains a remote code execution vulnerability that allows attackers to execute arbitrary OS commands by supplying a malicious repository with a crafted .git/config that sets core.fsmonitor to an attacker-controlled command. When a user opens the malicious repository and sends any message, the agent triggers a git status index refresh which executes the injected command in the user&#x27;s process context, exposing the full environment inclu
 
 - [https://github.com/Boreas37/CVE-2026-71963-PoC](https://github.com/Boreas37/CVE-2026-71963-PoC) : ![starts](https://img.shields.io/github/stars/Boreas37/CVE-2026-71963-PoC.svg) ![forks](https://img.shields.io/github/forks/Boreas37/CVE-2026-71963-PoC.svg)
 
@@ -15171,6 +15178,12 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/sakidekin/CVE-2026-41940-PoC](https://github.com/sakidekin/CVE-2026-41940-PoC) : ![starts](https://img.shields.io/github/stars/sakidekin/CVE-2026-41940-PoC.svg) ![forks](https://img.shields.io/github/forks/sakidekin/CVE-2026-41940-PoC.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-41940](https://github.com/ashrafzaryouh/CVE-2026-41940) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-41940.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-41940.svg)
+
+- [https://github.com/ryhnmhrdka/CVE-2026-41940](https://github.com/ryhnmhrdka/CVE-2026-41940) : ![starts](https://img.shields.io/github/stars/ryhnmhrdka/CVE-2026-41940.svg) ![forks](https://img.shields.io/github/forks/ryhnmhrdka/CVE-2026-41940.svg)
+
+- [https://github.com/ylerpeek/CVE-2026-41940-PoC-3](https://github.com/ylerpeek/CVE-2026-41940-PoC-3) : ![starts](https://img.shields.io/github/stars/ylerpeek/CVE-2026-41940-PoC-3.svg) ![forks](https://img.shields.io/github/forks/ylerpeek/CVE-2026-41940-PoC-3.svg)
+
 ## CVE-2026-41901
  Thymeleaf is a server-side Java template engine for web and standalone environments. Prior to 3.1.5.RELEASE, a security bypass vulnerability exists in the expression execution mechanisms of Thymeleaf. Although the library provides mechanisms to avoid the execution of potentially dangerous expressions in some specific sandboxed (restricted) contexts, it fails to properly neutralize specific constructs that allow this kind of expressions to be executed. If an application developer passes to the template engine unsanitized variables that contain such expressions, and these values are used in sandboxed contexts inside the templates, these expressions can be executed achieving Server-Side Template Injection (SSTI). This vulnerability is fixed in 3.1.5.RELEASE.
 
@@ -15343,6 +15356,7 @@ This could allow a remote attacker to access arbitrary files on the device.
 - [https://github.com/ashrafzaryouh/CVE-2026-41462](https://github.com/ashrafzaryouh/CVE-2026-41462) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-41462.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-41462.svg)
 
 ## CVE-2026-41456
+> Bludit CMS prior to commit 6732dde contains a reflected cross-site scripting vulnerability in the search plugin that allows unauthenticated attackers to inject arbitrary JavaScript by crafting a malicious search query. Attackers can execute malicious scripts in the browsers of users who visit crafted URLs containing the payload, potentially stealing session cookies or performing actions on behalf of affected users.
 
 - [https://github.com/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456](https://github.com/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456) : ![starts](https://img.shields.io/github/stars/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456.svg) ![forks](https://img.shields.io/github/forks/lowlevelsec/Reflected-XSS-Bludit-CVE-2026-41456.svg)
 
@@ -20562,6 +20576,8 @@ Users are recommended to upgrade to version 2.4.67, which fixes this issue.
 
 - [https://github.com/Yoksulcvt/CVE-2026-24061-Telnet-Authentication-Bypass](https://github.com/Yoksulcvt/CVE-2026-24061-Telnet-Authentication-Bypass) : ![starts](https://img.shields.io/github/stars/Yoksulcvt/CVE-2026-24061-Telnet-Authentication-Bypass.svg) ![forks](https://img.shields.io/github/forks/Yoksulcvt/CVE-2026-24061-Telnet-Authentication-Bypass.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-24061](https://github.com/ashrafzaryouh/CVE-2026-24061) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-24061.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-24061.svg)
+
 ## CVE-2026-24060
  Service information is not encrypted when transmitted as BACnet packets 
 over the wire, and can be sniffed, intercepted, and modified by an 
@@ -24833,6 +24849,7 @@ To remediate this issue, users should upgrade to version 2.1.14.
 - [https://github.com/shinthink/CVE-2026-8713](https://github.com/shinthink/CVE-2026-8713) : ![starts](https://img.shields.io/github/stars/shinthink/CVE-2026-8713.svg) ![forks](https://img.shields.io/github/forks/shinthink/CVE-2026-8713.svg)
 
 ## CVE-2026-8712
+> Wyoming before 1.10.2 contains a server-side request forgery vulnerability that allows unauthenticated attackers with network access to force outbound connections to arbitrary targets by supplying a malicious `uri` query parameter to the HTTP API. Attackers can pass arbitrary `tcp://` or `unix://` URIs to affected endpoints including /api/info, /api/speech-to-text, and /api/text-to-speech to override the server-configured backend and redirect connections to attacker-chosen hosts.
 
 - [https://github.com/rahulreddykarne/CVE-2026-8712-Wyoming](https://github.com/rahulreddykarne/CVE-2026-8712-Wyoming) : ![starts](https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-8712-Wyoming.svg) ![forks](https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-8712-Wyoming.svg)
 
@@ -77215,6 +77232,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/mcpmark-eval-liuhezi/log4shellsecurity-audit](https://github.com/mcpmark-eval-liuhezi/log4shellsecurity-audit) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/log4shellsecurity-audit.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/log4shellsecurity-audit.svg)
 
 - [https://github.com/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup](https://github.com/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup) : ![starts](https://img.shields.io/github/stars/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup.svg) ![forks](https://img.shields.io/github/forks/Certbn/CVE-2021-44228-Apache-Log4j2-JNDI-Lookup.svg)
+
+- [https://github.com/sejauhkayuh/Vulnerable-and-Outdated-Components-Insiden-Log4Shell-CVE-2021-44228-](https://github.com/sejauhkayuh/Vulnerable-and-Outdated-Components-Insiden-Log4Shell-CVE-2021-44228-) : ![starts](https://img.shields.io/github/stars/sejauhkayuh/Vulnerable-and-Outdated-Components-Insiden-Log4Shell-CVE-2021-44228-.svg) ![forks](https://img.shields.io/github/forks/sejauhkayuh/Vulnerable-and-Outdated-Components-Insiden-Log4Shell-CVE-2021-44228-.svg)
 
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.

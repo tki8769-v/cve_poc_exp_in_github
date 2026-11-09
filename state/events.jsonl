@@ -10898,3 +10898,11 @@
 {"cve_id": "CVE-2021-40444", "ts": "2026-11-09T01:08:45Z", "type": "new_poc", "url": "https://github.com/m4madturk/CVE-2021-40444"}
 {"cve_id": "CVE-2026-117083", "ts": "2026-11-09T01:17:34Z", "type": "new_poc", "url": "https://github.com/gabrielunknown/intelbras_1200_bypass"}
 {"cve_id": "CVE-2026-50656", "ts": "2026-11-09T01:20:31Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-50656"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-09T01:42:41Z", "type": "new_poc", "url": "https://github.com/sejauhkayuh/Vulnerable-and-Outdated-Components-Insiden-Log4Shell-CVE-2021-44228-"}
+{"cve_id": "CVE-2026-88772", "ts": "2026-11-09T01:44:55Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/netscaler-pitscaler-cve-2026-88772-check"}
+{"cve_id": "CVE-2026-24061", "ts": "2026-11-09T01:45:05Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-24061"}
+{"cve_id": "CVE-2026-88771", "ts": "2026-11-09T01:45:56Z", "type": "new_poc", "url": "https://github.com/irfanr-source/Get-NetScalerTimeline"}
+{"cve_id": "CVE-2026-88771", "ts": "2026-11-09T01:45:56Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/netscaler-pitscaler-cve-2026-88771-check"}
+{"cve_id": "CVE-2026-41940", "ts": "2026-11-09T01:49:00Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-41940"}
+{"cve_id": "CVE-2026-41940", "ts": "2026-11-09T01:49:01Z", "type": "new_poc", "url": "https://github.com/ryhnmhrdka/CVE-2026-41940"}
+{"cve_id": "CVE-2026-41940", "ts": "2026-11-09T01:49:01Z", "type": "new_poc", "url": "https://github.com/ylerpeek/CVE-2026-41940-PoC-3"}
