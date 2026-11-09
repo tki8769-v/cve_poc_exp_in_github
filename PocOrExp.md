@@ -278,6 +278,11 @@ An application that passes request data as column values to insert or update
 
 - [https://github.com/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560](https://github.com/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560) : ![starts](https://img.shields.io/github/stars/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560.svg) ![forks](https://img.shields.io/github/forks/watchtowrlabs/watchTowr-vs-Barracuda-RCE-CVE-2026-116606-CVE-2026-111560.svg)
 
+## CVE-2026-116567
+> FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a software implementation that runs on any commodity hardware. Prior to 1.11.2, rtmp_handle_control() rendered an RTMP user-control message into a 200-byte stack buffer using an unbounded sprintf loop controlled by the wire message length. A body of roughly 70 bytes or more overflowed the stack before any RTMP login, because the handshake authenticates neither side. The flaw af
+
+- [https://github.com/carterlasalle/CVE-2026-116567](https://github.com/carterlasalle/CVE-2026-116567) : ![starts](https://img.shields.io/github/stars/carterlasalle/CVE-2026-116567.svg) ![forks](https://img.shields.io/github/forks/carterlasalle/CVE-2026-116567.svg)
+
 ## CVE-2026-116521
 
 - [https://github.com/4m3rr0r/CVE-2026-116521-poc](https://github.com/4m3rr0r/CVE-2026-116521-poc) : ![starts](https://img.shields.io/github/stars/4m3rr0r/CVE-2026-116521-poc.svg) ![forks](https://img.shields.io/github/forks/4m3rr0r/CVE-2026-116521-poc.svg)
@@ -933,6 +938,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/sam00/Node2Shell-CVE-2026-111497-POC](https://github.com/sam00/Node2Shell-CVE-2026-111497-POC) : ![starts](https://img.shields.io/github/stars/sam00/Node2Shell-CVE-2026-111497-POC.svg) ![forks](https://img.shields.io/github/forks/sam00/Node2Shell-CVE-2026-111497-POC.svg)
 
+- [https://github.com/hosun-hwang/CVE-2026-111497_PoC](https://github.com/hosun-hwang/CVE-2026-111497_PoC) : ![starts](https://img.shields.io/github/stars/hosun-hwang/CVE-2026-111497_PoC.svg) ![forks](https://img.shields.io/github/forks/hosun-hwang/CVE-2026-111497_PoC.svg)
+
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
 
@@ -1269,6 +1276,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/blkph0x/CVE-2026-109619-ZendPipelineLab](https://github.com/blkph0x/CVE-2026-109619-ZendPipelineLab) : ![starts](https://img.shields.io/github/stars/blkph0x/CVE-2026-109619-ZendPipelineLab.svg) ![forks](https://img.shields.io/github/forks/blkph0x/CVE-2026-109619-ZendPipelineLab.svg)
 
 - [https://github.com/MarceloAstudillo13/Tryhackme-PHP2Shell](https://github.com/MarceloAstudillo13/Tryhackme-PHP2Shell) : ![starts](https://img.shields.io/github/stars/MarceloAstudillo13/Tryhackme-PHP2Shell.svg) ![forks](https://img.shields.io/github/forks/MarceloAstudillo13/Tryhackme-PHP2Shell.svg)
+
+- [https://github.com/hosun-hwang/CVE-2026-109618-CVE-2026-109619_PoC](https://github.com/hosun-hwang/CVE-2026-109618-CVE-2026-109619_PoC) : ![starts](https://img.shields.io/github/stars/hosun-hwang/CVE-2026-109618-CVE-2026-109619_PoC.svg) ![forks](https://img.shields.io/github/forks/hosun-hwang/CVE-2026-109618-CVE-2026-109619_PoC.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -1990,6 +1999,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/catscarlet/php-fpm-docker-PHP-8.1-CVE-2026-109618-109619-patched](https://github.com/catscarlet/php-fpm-docker-PHP-8.1-CVE-2026-109618-109619-patched) : ![starts](https://img.shields.io/github/stars/catscarlet/php-fpm-docker-PHP-8.1-CVE-2026-109618-109619-patched.svg) ![forks](https://img.shields.io/github/forks/catscarlet/php-fpm-docker-PHP-8.1-CVE-2026-109618-109619-patched.svg)
 
 - [https://github.com/ameeshaheshan/ShellSpectre](https://github.com/ameeshaheshan/ShellSpectre) : ![starts](https://img.shields.io/github/stars/ameeshaheshan/ShellSpectre.svg) ![forks](https://img.shields.io/github/forks/ameeshaheshan/ShellSpectre.svg)
+
+- [https://github.com/hosun-hwang/CVE-2026-109618-CVE-2026-109619_PoC](https://github.com/hosun-hwang/CVE-2026-109618-CVE-2026-109619_PoC) : ![starts](https://img.shields.io/github/stars/hosun-hwang/CVE-2026-109618-CVE-2026-109619_PoC.svg) ![forks](https://img.shields.io/github/forks/hosun-hwang/CVE-2026-109618-CVE-2026-109619_PoC.svg)
 
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
@@ -3367,6 +3378,8 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 
 - [https://github.com/makslanies/cve-2026-98432-mitigation](https://github.com/makslanies/cve-2026-98432-mitigation) : ![starts](https://img.shields.io/github/stars/makslanies/cve-2026-98432-mitigation.svg) ![forks](https://img.shields.io/github/forks/makslanies/cve-2026-98432-mitigation.svg)
 
+- [https://github.com/jackykeung/CVE-2026-98432-Verified-Attack](https://github.com/jackykeung/CVE-2026-98432-Verified-Attack) : ![starts](https://img.shields.io/github/stars/jackykeung/CVE-2026-98432-Verified-Attack.svg) ![forks](https://img.shields.io/github/forks/jackykeung/CVE-2026-98432-Verified-Attack.svg)
+
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -3508,6 +3521,8 @@ but the node is still queued on tsk, which
 - [https://github.com/knowlily/cve-2026-98260-bvl-an16](https://github.com/knowlily/cve-2026-98260-bvl-an16) : ![starts](https://img.shields.io/github/stars/knowlily/cve-2026-98260-bvl-an16.svg) ![forks](https://img.shields.io/github/forks/knowlily/cve-2026-98260-bvl-an16.svg)
 
 - [https://github.com/MocLG/Time-My-Galaxy](https://github.com/MocLG/Time-My-Galaxy) : ![starts](https://img.shields.io/github/stars/MocLG/Time-My-Galaxy.svg) ![forks](https://img.shields.io/github/forks/MocLG/Time-My-Galaxy.svg)
+
+- [https://github.com/cuteaplane/opd2051example](https://github.com/cuteaplane/opd2051example) : ![starts](https://img.shields.io/github/stars/cuteaplane/opd2051example.svg) ![forks](https://img.shields.io/github/forks/cuteaplane/opd2051example.svg)
 
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -3746,6 +3761,8 @@ making each ACE up to 76 bytes (s
 - [https://github.com/CompleTetech-Security/sharp-rsvg-rce-check](https://github.com/CompleTetech-Security/sharp-rsvg-rce-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/sharp-rsvg-rce-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/sharp-rsvg-rce-check.svg)
 
 - [https://github.com/CompleteTech-Security/sharp-vectorfreed-check](https://github.com/CompleteTech-Security/sharp-vectorfreed-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/sharp-vectorfreed-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/sharp-vectorfreed-check.svg)
+
+- [https://github.com/anishadhikari02/cve-2026-96889-payload](https://github.com/anishadhikari02/cve-2026-96889-payload) : ![starts](https://img.shields.io/github/stars/anishadhikari02/cve-2026-96889-payload.svg) ![forks](https://img.shields.io/github/forks/anishadhikari02/cve-2026-96889-payload.svg)
 
 ## CVE-2026-96878
 > Improper neutralization of input during web page generation (&#x27;cross-site scripting&#x27;) vulnerability in Mediawiki - Cargo extension allows Reflected XSS.
@@ -8664,6 +8681,8 @@ Users are recommended to upgrade to version 2.4.69, which fixes this issue.
 
 - [https://github.com/0xBlackash/CVE-2026-63292](https://github.com/0xBlackash/CVE-2026-63292) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-63292.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-63292.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-63292](https://github.com/ashrafzaryouh/CVE-2026-63292) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-63292.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-63292.svg)
+
 ## CVE-2026-63286
 > Database backups are vulnerable to offline attacks. Backups created using a version prior to the patched version are still vulnerable. AXIS Camera Station Pro automatically creates one more such backup for recovery purpose when the update is applied. Delete all these backups and change the credentials stored in AXIS Camera Station Pro.
 
@@ -9832,6 +9851,10 @@ This vulnerability affects Node.js **26.x**, **24.x**, and **22.x**.
  AJCloud AJY IPC firmware prior to version 01.10715.11.37 contains a path traversal vulnerability in the jdbhttpd web service that allows unauthenticated remote attackers to read arbitrary files with root privileges by supplying path traversal sequences in the HTTP request URI. Attackers can send crafted HTTP requests to port 80 without authentication to access sensitive files including cleartext RTSP credentials, Wi-Fi SSID and pre-shared key, device serial number, and cloud binding parameters.
 
 - [https://github.com/hellkkid/CVE-2026-56718](https://github.com/hellkkid/CVE-2026-56718) : ![starts](https://img.shields.io/github/stars/hellkkid/CVE-2026-56718.svg) ![forks](https://img.shields.io/github/forks/hellkkid/CVE-2026-56718.svg)
+
+## CVE-2026-56712
+
+- [https://github.com/SaiTeja-Erukude/CVE-2026-56712-cog-ssrf](https://github.com/SaiTeja-Erukude/CVE-2026-56712-cog-ssrf) : ![starts](https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-56712-cog-ssrf.svg) ![forks](https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-56712-cog-ssrf.svg)
 
 ## CVE-2026-56705
  Adminer before 5.4.3 fails to sanitize the server field before constructing a PDO DSN string, allowing unauthenticated attackers to inject ODBC parameters via semicolons. Attackers can inject TraceFile and TraceOn parameters to write PHP code to the web root, achieving remote code execution when the trace file is accessed.
@@ -18661,6 +18684,8 @@ AD directly.
 
 - [https://github.com/abiyeenzo/CVE-2026-31431](https://github.com/abiyeenzo/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/abiyeenzo/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/abiyeenzo/CVE-2026-31431.svg)
 
+- [https://github.com/hosun-hwang/CVE-2026-31431_PoC](https://github.com/hosun-hwang/CVE-2026-31431_PoC) : ![starts](https://img.shields.io/github/stars/hosun-hwang/CVE-2026-31431_PoC.svg) ![forks](https://img.shields.io/github/forks/hosun-hwang/CVE-2026-31431_PoC.svg)
+
 ## CVE-2026-31429
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -20577,6 +20602,8 @@ Users are recommended to upgrade to version 2.4.67, which fixes this issue.
 - [https://github.com/Yoksulcvt/CVE-2026-24061-Telnet-Authentication-Bypass](https://github.com/Yoksulcvt/CVE-2026-24061-Telnet-Authentication-Bypass) : ![starts](https://img.shields.io/github/stars/Yoksulcvt/CVE-2026-24061-Telnet-Authentication-Bypass.svg) ![forks](https://img.shields.io/github/forks/Yoksulcvt/CVE-2026-24061-Telnet-Authentication-Bypass.svg)
 
 - [https://github.com/ashrafzaryouh/CVE-2026-24061](https://github.com/ashrafzaryouh/CVE-2026-24061) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-24061.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-24061.svg)
+
+- [https://github.com/hosun-hwang/CVE-2026-24061_PoC](https://github.com/hosun-hwang/CVE-2026-24061_PoC) : ![starts](https://img.shields.io/github/stars/hosun-hwang/CVE-2026-24061_PoC.svg) ![forks](https://img.shields.io/github/forks/hosun-hwang/CVE-2026-24061_PoC.svg)
 
 ## CVE-2026-24060
  Service information is not encrypted when transmitted as BACnet packets 
@@ -24170,6 +24197,8 @@ This issue affects Apinizer: from 2026.04.0 before 2026.04.6.
  A vulnerability was determined in Tenda HG7HG9 and HG10 300001138_en_xpon. This affects the function formDOMAINBLK of the file /boaform/formDOMAINBLK. Executing a manipulation of the argument blkDomain can lead to stack-based buffer overflow. The attack may be performed from remote.
 
 - [https://github.com/0xBlackash/CVE-2026-11499](https://github.com/0xBlackash/CVE-2026-11499) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-11499.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-11499.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-11499](https://github.com/ashrafzaryouh/CVE-2026-11499) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-11499.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-11499.svg)
 
 ## CVE-2026-11450
  A vulnerability was detected in GL.iNet GL-MT3000 4.4.5. This affects the function dlopen in the library /usr/lib/oui-httpd/rpc/ of the component Path Normalization Handler. Performing a manipulation of the argument dev_name results in command injection. It is possible to initiate the attack remotely. Upgrading to version 4.7 mitigates this issue. It is advisable to upgrade the affected component. The vendor confirms: " From version 4.7 onward, we have enabled method‑level validation at the HTTP /rpc layer. nas‑web.eject_disk is no longer in the whitelist of allowed methods. Consequently, directly calling eject_disk through the default /rpc endpoint returns Invalid params, preventing entry into subsequent dangerous functions and blocking the remote exploit chain described in the report."
@@ -33756,6 +33785,10 @@ Users of the artifact org.apache.commons:commons-beanutils2
 - [https://github.com/ranasen-rat/CVE-2025-48593](https://github.com/ranasen-rat/CVE-2025-48593) : ![starts](https://img.shields.io/github/stars/ranasen-rat/CVE-2025-48593.svg) ![forks](https://img.shields.io/github/forks/ranasen-rat/CVE-2025-48593.svg)
 
 - [https://github.com/C0D331ng/Blackash-CVE-2025-48593](https://github.com/C0D331ng/Blackash-CVE-2025-48593) : ![starts](https://img.shields.io/github/stars/C0D331ng/Blackash-CVE-2025-48593.svg) ![forks](https://img.shields.io/github/forks/C0D331ng/Blackash-CVE-2025-48593.svg)
+
+## CVE-2025-48583
+
+- [https://github.com/helloguy1234/CVE-2025-48583-PoC](https://github.com/helloguy1234/CVE-2025-48583-PoC) : ![starts](https://img.shields.io/github/stars/helloguy1234/CVE-2025-48583-PoC.svg) ![forks](https://img.shields.io/github/forks/helloguy1234/CVE-2025-48583-PoC.svg)
 
 ## CVE-2025-48561
  In multiple locations, there is a possible way to access data displayed on the screen due to side channel information disclosure. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.
@@ -46080,6 +46113,10 @@ Allocated by task 6166:
 - [https://github.com/CrackerCat/CVE-2024-44083](https://github.com/CrackerCat/CVE-2024-44083) : ![starts](https://img.shields.io/github/stars/CrackerCat/CVE-2024-44083.svg) ![forks](https://img.shields.io/github/forks/CrackerCat/CVE-2024-44083.svg)
 
 - [https://github.com/dynamicx64/CVE-2024-44083](https://github.com/dynamicx64/CVE-2024-44083) : ![starts](https://img.shields.io/github/stars/dynamicx64/CVE-2024-44083.svg) ![forks](https://img.shields.io/github/forks/dynamicx64/CVE-2024-44083.svg)
+
+## CVE-2024-44068
+
+- [https://github.com/privacyportalUK/PP-Root](https://github.com/privacyportalUK/PP-Root) : ![starts](https://img.shields.io/github/stars/privacyportalUK/PP-Root.svg) ![forks](https://img.shields.io/github/forks/privacyportalUK/PP-Root.svg)
 
 ## CVE-2024-44000
  Insufficiently Protected Credentials vulnerability in LiteSpeed Technologies LiteSpeed Cache litespeed-cache allows Authentication Bypass.This issue affects LiteSpeed Cache: from n/a through  6.5.0.1.

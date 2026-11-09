@@ -6050,6 +6050,10 @@ Users of the artifact org.apache.commons:commons-beanutils2
 
 - [https://github.com/C0D331ng/Blackash-CVE-2025-48593](https://github.com/C0D331ng/Blackash-CVE-2025-48593) : ![starts](https://img.shields.io/github/stars/C0D331ng/Blackash-CVE-2025-48593.svg) ![forks](https://img.shields.io/github/forks/C0D331ng/Blackash-CVE-2025-48593.svg)
 
+## CVE-2025-48583
+
+- [https://github.com/helloguy1234/CVE-2025-48583-PoC](https://github.com/helloguy1234/CVE-2025-48583-PoC) : ![starts](https://img.shields.io/github/stars/helloguy1234/CVE-2025-48583-PoC.svg) ![forks](https://img.shields.io/github/forks/helloguy1234/CVE-2025-48583-PoC.svg)
+
 ## CVE-2025-48561
  In multiple locations, there is a possible way to access data displayed on the screen due to side channel information disclosure. This could lead to local information disclosure with no additional execution privileges needed. User interaction is not needed for exploitation.
 

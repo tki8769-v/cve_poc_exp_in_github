@@ -2646,6 +2646,10 @@ Allocated by task 6166:
 
 - [https://github.com/dynamicx64/CVE-2024-44083](https://github.com/dynamicx64/CVE-2024-44083) : ![starts](https://img.shields.io/github/stars/dynamicx64/CVE-2024-44083.svg) ![forks](https://img.shields.io/github/forks/dynamicx64/CVE-2024-44083.svg)
 
+## CVE-2024-44068
+
+- [https://github.com/privacyportalUK/PP-Root](https://github.com/privacyportalUK/PP-Root) : ![starts](https://img.shields.io/github/stars/privacyportalUK/PP-Root.svg) ![forks](https://img.shields.io/github/forks/privacyportalUK/PP-Root.svg)
+
 ## CVE-2024-44000
  Insufficiently Protected Credentials vulnerability in LiteSpeed Technologies LiteSpeed Cache litespeed-cache allows Authentication Bypass.This issue affects LiteSpeed Cache: from n/a through  6.5.0.1.
 
