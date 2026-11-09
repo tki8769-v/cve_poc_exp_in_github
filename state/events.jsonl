@@ -10997,3 +10997,4 @@
 {"cve_id": "CVE-2026-53359", "ts": "2026-11-09T20:02:17Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-53359"}
 {"cve_id": "CVE-2026-20253", "ts": "2026-11-09T20:07:15Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-20253"}
 {"cve_id": "CVE-2026-20253", "ts": "2026-11-09T20:07:15Z", "type": "new_poc", "url": "https://github.com/NSK-394/owasp-nettacker-contribution"}
+{"cve_id": "CVE-2023-33107", "ts": "2026-11-09T20:21:36Z", "type": "new_poc", "url": "https://github.com/markutell/CVE-2023-33107-SO51A"}
