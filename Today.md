@@ -8,6 +8,14 @@
 
 - [https://github.com/Neo-XeD/CVE-2026-113386](https://github.com/Neo-XeD/CVE-2026-113386) : ![starts](https://img.shields.io/github/stars/Neo-XeD/CVE-2026-113386.svg) ![forks](https://img.shields.io/github/forks/Neo-XeD/CVE-2026-113386.svg)
 
+## CVE-2026-117083
+
+- [https://github.com/gabrielunknown/intelbras_1200_bypass](https://github.com/gabrielunknown/intelbras_1200_bypass) : ![starts](https://img.shields.io/github/stars/gabrielunknown/intelbras_1200_bypass.svg) ![forks](https://img.shields.io/github/forks/gabrielunknown/intelbras_1200_bypass.svg)
+
+## CVE-2026-50656
+
+- [https://github.com/ashrafzaryouh/CVE-2026-50656](https://github.com/ashrafzaryouh/CVE-2026-50656) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-50656.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-50656.svg)
+
 ## CVE-2026-8461
 
 - [https://github.com/ashrafzaryouh/CVE-2026-8461](https://github.com/ashrafzaryouh/CVE-2026-8461) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-8461.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-8461.svg)

@@ -251,6 +251,10 @@ An application that passes request data as column values to insert or update
 
 - [https://github.com/Primandito/CVE-2026-117182](https://github.com/Primandito/CVE-2026-117182) : ![starts](https://img.shields.io/github/stars/Primandito/CVE-2026-117182.svg) ![forks](https://img.shields.io/github/forks/Primandito/CVE-2026-117182.svg)
 
+## CVE-2026-117083
+
+- [https://github.com/gabrielunknown/intelbras_1200_bypass](https://github.com/gabrielunknown/intelbras_1200_bypass) : ![starts](https://img.shields.io/github/stars/gabrielunknown/intelbras_1200_bypass.svg) ![forks](https://img.shields.io/github/forks/gabrielunknown/intelbras_1200_bypass.svg)
+
 ## CVE-2026-117025
 
 - [https://github.com/Lariinz/CVE-2026-117025](https://github.com/Lariinz/CVE-2026-117025) : ![starts](https://img.shields.io/github/stars/Lariinz/CVE-2026-117025.svg) ![forks](https://img.shields.io/github/forks/Lariinz/CVE-2026-117025.svg)
@@ -11339,6 +11343,8 @@ Users are recommended to upgrade to version 1.12.0, which fixes the issue.
 - [https://github.com/HORKimhab/CVE-2026-50656](https://github.com/HORKimhab/CVE-2026-50656) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-50656.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-50656.svg)
 
 - [https://github.com/eh-amish/Windows-Defender-Security-Auditor-CVE-2026-50656-](https://github.com/eh-amish/Windows-Defender-Security-Auditor-CVE-2026-50656-) : ![starts](https://img.shields.io/github/stars/eh-amish/Windows-Defender-Security-Auditor-CVE-2026-50656-.svg) ![forks](https://img.shields.io/github/forks/eh-amish/Windows-Defender-Security-Auditor-CVE-2026-50656-.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-50656](https://github.com/ashrafzaryouh/CVE-2026-50656) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-50656.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-50656.svg)
 
 ## CVE-2026-50522
  Deserialization of untrusted data in Microsoft Office SharePoint allows an unauthorized attacker to execute code over a network.

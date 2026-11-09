@@ -3236,3 +3236,7 @@
 {"cve_id": "CVE-2024-5148", "reason": "prefix_conflict_evidenced", "ts": "2026-11-09T01:05:41Z", "url": "https://github.com/BwithE/CVE-2024-51482", "url_ids": ["CVE-2024-51482"]}
 {"cve_id": "CVE-2024-5148", "reason": "prefix_conflict_evidenced", "ts": "2026-11-09T01:05:41Z", "url": "https://github.com/lnn0v4/sqli-hunter-CVE-2024-51482-PoC", "url_ids": ["CVE-2024-51482"]}
 {"cve_id": "CVE-2024-5148", "reason": "prefix_conflict_evidenced", "ts": "2026-11-09T01:05:41Z", "url": "https://github.com/Ravi-lk/CVE-2024-51482-ZoneMinder-SQL-Injection-POC", "url_ids": ["CVE-2024-51482"]}
+{"cve_id": "CVE-2025-2784", "reason": "prefix_conflict_evidenced", "ts": "2026-11-09T01:24:31Z", "url": "https://github.com/demining/Bluetooth-Attacks-CVE-2025-27840", "url_ids": ["CVE-2025-27840"]}
+{"cve_id": "CVE-2025-2784", "reason": "prefix_conflict_evidenced", "ts": "2026-11-09T01:24:31Z", "url": "https://github.com/em0gi/CVE-2025-27840", "url_ids": ["CVE-2025-27840"]}
+{"cve_id": "CVE-2025-2784", "reason": "prefix_conflict_evidenced", "ts": "2026-11-09T01:24:31Z", "url": "https://github.com/v3ilsm1th/CVE-2025-27840-WIP", "url_ids": ["CVE-2025-27840"]}
+{"cve_id": "CVE-2025-2784", "reason": "prefix_conflict_evidenced", "ts": "2026-11-09T01:24:31Z", "url": "https://github.com/JasonW88/esp32-cve-2025-27840-power-trace-experiment", "url_ids": ["CVE-2025-27840"]}

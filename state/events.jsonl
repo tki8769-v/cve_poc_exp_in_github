@@ -10896,3 +10896,5 @@
 {"cve_id": "CVE-2026-113386", "ts": "2026-11-09T00:59:22Z", "type": "new_poc", "url": "https://github.com/Neo-XeD/CVE-2026-113386"}
 {"cve_id": "CVE-2026-8461", "ts": "2026-11-09T01:02:23Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-8461"}
 {"cve_id": "CVE-2021-40444", "ts": "2026-11-09T01:08:45Z", "type": "new_poc", "url": "https://github.com/m4madturk/CVE-2021-40444"}
+{"cve_id": "CVE-2026-117083", "ts": "2026-11-09T01:17:34Z", "type": "new_poc", "url": "https://github.com/gabrielunknown/intelbras_1200_bypass"}
+{"cve_id": "CVE-2026-50656", "ts": "2026-11-09T01:20:31Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-50656"}
