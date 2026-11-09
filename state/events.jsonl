@@ -10924,3 +10924,9 @@
 {"cve_id": "CVE-2026-14431", "ts": "2026-11-09T08:26:28Z", "type": "new_poc", "url": "https://github.com/djayaGit/CVE-2026-14431"}
 {"cve_id": "CVE-2026-60004", "ts": "2026-11-09T08:34:31Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-60004"}
 {"cve_id": "CVE-2026-35616", "ts": "2026-11-09T08:35:39Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-35616"}
+{"cve_id": "CVE-2026-92080", "ts": "2026-11-09T08:45:09Z", "type": "new_poc", "url": "https://github.com/ozcanpng/CVE-2026-92080"}
+{"cve_id": "CVE-2025-31161", "ts": "2026-11-09T08:46:18Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2025-31161"}
+{"cve_id": "CVE-2026-40175", "ts": "2026-11-09T08:50:34Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-40175"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-09T08:53:36Z", "type": "new_poc", "url": "https://github.com/Ghxstsec/PHP2SHELL-POC"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-09T08:53:38Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-109618"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-11-09T08:53:49Z", "type": "new_poc", "url": "https://github.com/che3axujnya/cve-2026-109618-cve-2026-109619-poc"}
