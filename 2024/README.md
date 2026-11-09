@@ -3877,6 +3877,8 @@ Users are recommended to upgrade to version 2.4.60 which fixes this issue.  Not
 
 - [https://github.com/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab](https://github.com/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab) : ![starts](https://img.shields.io/github/stars/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab.svg) ![forks](https://img.shields.io/github/forks/izaan-sh/CVE-2024-38063-Exploitation-Detection-Mitigation-Lab.svg)
 
+- [https://github.com/omarbabba779xx/ethical-hacking-tp5-vulnerability-analysis-nmap-nse](https://github.com/omarbabba779xx/ethical-hacking-tp5-vulnerability-analysis-nmap-nse) : ![starts](https://img.shields.io/github/stars/omarbabba779xx/ethical-hacking-tp5-vulnerability-analysis-nmap-nse.svg) ![forks](https://img.shields.io/github/forks/omarbabba779xx/ethical-hacking-tp5-vulnerability-analysis-nmap-nse.svg)
+
 ## CVE-2024-38041
  Windows Kernel Information Disclosure Vulnerability
 

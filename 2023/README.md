@@ -3952,6 +3952,8 @@ prior to
 
 - [https://github.com/Vignesh2712/Automation-for-Juniper-cve-2023-36845](https://github.com/Vignesh2712/Automation-for-Juniper-cve-2023-36845) : ![starts](https://img.shields.io/github/stars/Vignesh2712/Automation-for-Juniper-cve-2023-36845.svg) ![forks](https://img.shields.io/github/forks/Vignesh2712/Automation-for-Juniper-cve-2023-36845.svg)
 
+- [https://github.com/cxb2523/ccfb-pointwise-20261109-010-cve-2023-36845-scanner](https://github.com/cxb2523/ccfb-pointwise-20261109-010-cve-2023-36845-scanner) : ![starts](https://img.shields.io/github/stars/cxb2523/ccfb-pointwise-20261109-010-cve-2023-36845-scanner.svg) ![forks](https://img.shields.io/github/forks/cxb2523/ccfb-pointwise-20261109-010-cve-2023-36845-scanner.svg)
+
 ## CVE-2023-36844
  A PHP External Variable Modification vulnerability in J-Web of Juniper Networks Junos OS on EX Series allows an unauthenticated, network-based attacker to control certain, important environment variables.
 
@@ -9393,6 +9395,8 @@ Santesoft Sante FFT Imaging lacks proper validation of user-supplied data when p
 
 - [https://github.com/577Industries/aegisgraph](https://github.com/577Industries/aegisgraph) : ![starts](https://img.shields.io/github/stars/577Industries/aegisgraph.svg) ![forks](https://img.shields.io/github/forks/577Industries/aegisgraph.svg)
 
+- [https://github.com/federiconbaez/cortex9-libwebp-huffman-table-sizing-model](https://github.com/federiconbaez/cortex9-libwebp-huffman-table-sizing-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-libwebp-huffman-table-sizing-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-libwebp-huffman-table-sizing-model.svg)
+
 ## CVE-2023-4861
  The File Manager Pro WordPress plugin before 1.8.1 allows admin users to upload arbitrary files, even in environments where such a user should not be able to gain full control of the server, such as a multisite installation. This leads to remote code execution.
 
@@ -10711,6 +10715,19 @@ The protection bypass vulnerability in DLP for Windows 11.9.x is addressed in ve
 - [https://github.com/btar1gan/exploit_CVE-2023-0297](https://github.com/btar1gan/exploit_CVE-2023-0297) : ![starts](https://img.shields.io/github/stars/btar1gan/exploit_CVE-2023-0297.svg) ![forks](https://img.shields.io/github/forks/btar1gan/exploit_CVE-2023-0297.svg)
 
 - [https://github.com/ferralon-demo/pyload-js2py-rce](https://github.com/ferralon-demo/pyload-js2py-rce) : ![starts](https://img.shields.io/github/stars/ferralon-demo/pyload-js2py-rce.svg) ![forks](https://img.shields.io/github/forks/ferralon-demo/pyload-js2py-rce.svg)
+
+## CVE-2023-0286
+> There is a type confusion vulnerability relating to X.400 address processing
+inside an X.509 GeneralName. X.400 addresses were parsed as an ASN1_STRING but
+the public structure definition for GENERAL_NAME incorrectly specified the type
+of the x400Address field as ASN1_TYPE. This field is subsequently interpreted by
+the OpenSSL function GENERAL_NAME_cmp as an ASN1_TYPE rather than an
+ASN1_STRING.
+
+When CRL checking is enabled (i.e. the application sets the
+X509_V_FLAG_CRL_CHECK flag), this vulner
+
+- [https://github.com/federiconbaez/cortex9-openssl-x400-generalname-type-confusion-model](https://github.com/federiconbaez/cortex9-openssl-x400-generalname-type-confusion-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-openssl-x400-generalname-type-confusion-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-openssl-x400-generalname-type-confusion-model.svg)
 
 ## CVE-2023-0266
  A use after free vulnerability exists in the ALSA PCM package in the Linux Kernel. SNDRV_CTL_IOCTL_ELEM_{READ|WRITE}32 is missing locks that can be used in a use-after-free that can result in a priviledge escalation to gain ring0 access from the system user. We recommend upgrading past commit 56b88b50565cd8b946a2d00b0c83927b7ebb055e

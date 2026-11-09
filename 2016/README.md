@@ -1287,6 +1287,10 @@
 
 - [https://github.com/vah13/SAP_exploit](https://github.com/vah13/SAP_exploit) : ![starts](https://img.shields.io/github/stars/vah13/SAP_exploit.svg) ![forks](https://img.shields.io/github/forks/vah13/SAP_exploit.svg)
 
+## CVE-2016-1834
+
+- [https://github.com/federiconbaez/cortex9-libxml2-strncat-length-wrap-model](https://github.com/federiconbaez/cortex9-libxml2-strncat-length-wrap-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-libxml2-strncat-length-wrap-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-libxml2-strncat-length-wrap-model.svg)
+
 ## CVE-2016-1828
  The kernel in Apple iOS before 9.3.2, OS X before 10.11.5, tvOS before 9.2.1, and watchOS before 2.2.1 allows attackers to execute arbitrary code in a privileged context or cause a denial of service (memory corruption) via a crafted app, a different vulnerability than CVE-2016-1827, CVE-2016-1829, and CVE-2016-1830.
 

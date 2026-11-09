@@ -3554,6 +3554,10 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/sailay1996/amd_eop_poc](https://github.com/sailay1996/amd_eop_poc) : ![starts](https://img.shields.io/github/stars/sailay1996/amd_eop_poc.svg) ![forks](https://img.shields.io/github/forks/sailay1996/amd_eop_poc.svg)
 
+## CVE-2020-8927
+
+- [https://github.com/federiconbaez/cortex9-brotli-uncompressed-copy-narrowing-model](https://github.com/federiconbaez/cortex9-brotli-uncompressed-copy-narrowing-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-brotli-uncompressed-copy-narrowing-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-brotli-uncompressed-copy-narrowing-model.svg)
+
 ## CVE-2020-8888
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.
 
