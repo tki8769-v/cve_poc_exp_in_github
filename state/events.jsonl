@@ -11006,3 +11006,6 @@
 {"cve_id": "CVE-2026-1210", "ts": "2026-11-10T03:43:26Z", "type": "new_poc", "url": "https://github.com/elmobp/cmd2pshell-cve-2026-1210"}
 {"cve_id": "CVE-2026-123158", "ts": "2026-11-10T03:43:27Z", "type": "new_poc", "url": "https://github.com/Certbn/CVE-2026-123158-OpenSSH-sshd-SSHhole-sshole-"}
 {"cve_id": "CVE-2026-124576", "ts": "2026-11-10T03:43:42Z", "type": "new_poc", "url": "https://github.com/capivara-research/CVE-2026-124576"}
+{"cve_id": "CVE-2026-83681", "ts": "2026-11-10T04:03:57Z", "type": "new_poc", "url": "https://github.com/2alf/CarbonBlue"}
+{"cve_id": "CVE-2026-0257", "ts": "2026-11-10T04:04:36Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-0257"}
+{"cve_id": "CVE-2026-0300", "ts": "2026-11-10T04:05:49Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-0300"}

@@ -5681,6 +5681,10 @@ createCorsHandler() set Access-Control-Allow-Credentials: true outside the origi
 
 - [https://github.com/unkn0w1ngNightmare/CVE-2026-83792](https://github.com/unkn0w1ngNightmare/CVE-2026-83792) : ![starts](https://img.shields.io/github/stars/unkn0w1ngNightmare/CVE-2026-83792.svg) ![forks](https://img.shields.io/github/forks/unkn0w1ngNightmare/CVE-2026-83792.svg)
 
+## CVE-2026-83681
+
+- [https://github.com/2alf/CarbonBlue](https://github.com/2alf/CarbonBlue) : ![starts](https://img.shields.io/github/stars/2alf/CarbonBlue.svg) ![forks](https://img.shields.io/github/forks/2alf/CarbonBlue.svg)
+
 ## CVE-2026-83627
 
 - [https://github.com/K52-ai/CVE-2026-83627](https://github.com/K52-ai/CVE-2026-83627) : ![starts](https://img.shields.io/github/stars/K52-ai/CVE-2026-83627.svg) ![forks](https://img.shields.io/github/forks/K52-ai/CVE-2026-83627.svg)
@@ -27780,6 +27784,8 @@ Prisma Access, Cloud NGFW and Panorama appliances are not impacted by this vulne
 
 - [https://github.com/TailwindRG/cve-2026-0300-audit](https://github.com/TailwindRG/cve-2026-0300-audit) : ![starts](https://img.shields.io/github/stars/TailwindRG/cve-2026-0300-audit.svg) ![forks](https://img.shields.io/github/forks/TailwindRG/cve-2026-0300-audit.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-0300](https://github.com/ashrafzaryouh/CVE-2026-0300) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-0300.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-0300.svg)
+
 ## CVE-2026-0277
  An improper certificate validation vulnerability in the Prisma® Access Agent for iOS enables an attacker to perform a man-in-the-middle (MitM) attack to intercept VPN traffic. 
 
@@ -27845,6 +27851,8 @@ Panorama and Cloud NGFW are not impacted by these issues.
 - [https://github.com/HORKimhab/CVE-2026-0257](https://github.com/HORKimhab/CVE-2026-0257) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-0257.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-0257.svg)
 
 - [https://github.com/Ez4rd1x1/CVE-2026-0257](https://github.com/Ez4rd1x1/CVE-2026-0257) : ![starts](https://img.shields.io/github/stars/Ez4rd1x1/CVE-2026-0257.svg) ![forks](https://img.shields.io/github/forks/Ez4rd1x1/CVE-2026-0257.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-0257](https://github.com/ashrafzaryouh/CVE-2026-0257) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-0257.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-0257.svg)
 
 ## CVE-2026-0227
  A vulnerability in Palo Alto Networks PAN-OS software enables an unauthenticated attacker to cause a denial of service (DoS) to the firewall. Repeated attempts to trigger this issue results in the firewall entering into maintenance mode.

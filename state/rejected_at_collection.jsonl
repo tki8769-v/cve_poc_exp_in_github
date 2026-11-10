@@ -3248,3 +3248,4 @@
 {"cve_id": "CVE-2025-5844", "reason": "prefix_conflict_evidenced", "ts": "2026-11-09T20:24:10Z", "url": "https://github.com/casp3r0x0/CVE-2025-58443", "url_ids": ["CVE-2025-58443"]}
 {"cve_id": "CVE-2025-6002", "reason": "prefix_conflict_evidenced", "ts": "2026-11-09T20:49:37Z", "url": "https://github.com/Mefhika120/Ashwesker-CVE-2025-60021", "url_ids": ["CVE-2025-60021"]}
 {"cve_id": "CVE-2020-1066", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T03:51:23Z", "url": "https://github.com/spaceraccoon/CVE-2020-10665", "url_ids": ["CVE-2020-10665"]}
+{"cve_id": "CVE-2019-1759", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T04:04:30Z", "url": "https://github.com/pquerna/poc-dsa-verify-CVE-2019-17596", "url_ids": ["CVE-2019-17596"]}
