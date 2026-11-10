@@ -3249,3 +3249,5 @@
 {"cve_id": "CVE-2025-6002", "reason": "prefix_conflict_evidenced", "ts": "2026-11-09T20:49:37Z", "url": "https://github.com/Mefhika120/Ashwesker-CVE-2025-60021", "url_ids": ["CVE-2025-60021"]}
 {"cve_id": "CVE-2020-1066", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T03:51:23Z", "url": "https://github.com/spaceraccoon/CVE-2020-10665", "url_ids": ["CVE-2020-10665"]}
 {"cve_id": "CVE-2019-1759", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T04:04:30Z", "url": "https://github.com/pquerna/poc-dsa-verify-CVE-2019-17596", "url_ids": ["CVE-2019-17596"]}
+{"cve_id": "CVE-2021-2173", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T04:25:45Z", "url": "https://github.com/minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise", "url_ids": ["CVE-2021-21735"]}
+{"cve_id": "CVE-2021-3395", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T04:30:51Z", "url": "https://github.com/lixiang957/CVE-2021-33959", "url_ids": ["CVE-2021-33959"]}

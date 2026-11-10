@@ -31,9 +31,18 @@ The risk of this issue is greatly reduced if you secure access to the User-ID™
 - [https://github.com/Certbn/CVE-2026-123158-OpenSSH-sshd-SSHhole-sshole-](https://github.com/Certbn/CVE-2026-123158-OpenSSH-sshd-SSHhole-sshole-) : ![starts](https://img.shields.io/github/stars/Certbn/CVE-2026-123158-OpenSSH-sshd-SSHhole-sshole-.svg) ![forks](https://img.shields.io/github/forks/Certbn/CVE-2026-123158-OpenSSH-sshd-SSHhole-sshole-.svg)
 - [https://github.com/Iperez95-ot/sshole-lab](https://github.com/Iperez95-ot/sshole-lab) : ![starts](https://img.shields.io/github/stars/Iperez95-ot/sshole-lab.svg) ![forks](https://img.shields.io/github/forks/Iperez95-ot/sshole-lab.svg)
 
+## CVE-2026-123218
+> IBM Aspera Faspex 5.0.0 through 5.0.19 could allow an authorized user to craft a specific message to bypass user authorization and gain full administrative privileges.
+
+- [https://github.com/foxcornlab/faspex-scanner](https://github.com/foxcornlab/faspex-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/faspex-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/faspex-scanner.svg)
+
 ## CVE-2026-124576
 
 - [https://github.com/capivara-research/CVE-2026-124576](https://github.com/capivara-research/CVE-2026-124576) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-124576.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-124576.svg)
+
+## CVE-2026-32475
+
+- [https://github.com/ashrafzaryouh/CVE-2026-32475](https://github.com/ashrafzaryouh/CVE-2026-32475) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-32475.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-32475.svg)
 
 ## CVE-2026-4961
 
@@ -42,3 +51,8 @@ The risk of this issue is greatly reduced if you secure access to the User-ID™
 ## CVE-2026-83681
 
 - [https://github.com/2alf/CarbonBlue](https://github.com/2alf/CarbonBlue) : ![starts](https://img.shields.io/github/stars/2alf/CarbonBlue.svg) ![forks](https://img.shields.io/github/forks/2alf/CarbonBlue.svg)
+
+## CVE-2026-86950
+> An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 18.7.11 and iPadOS 18.7.11, iOS 26.7.1 and iPadOS 26.7.1, macOS Sequoia 15.8.1, macOS Tahoe 26.7.1. Processing a maliciously crafted file may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 27.
+
+- [https://github.com/ashrafzaryouh/CVE-2026-86950](https://github.com/ashrafzaryouh/CVE-2026-86950) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-86950.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-86950.svg)

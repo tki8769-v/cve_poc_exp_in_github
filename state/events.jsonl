@@ -11009,3 +11009,6 @@
 {"cve_id": "CVE-2026-83681", "ts": "2026-11-10T04:03:57Z", "type": "new_poc", "url": "https://github.com/2alf/CarbonBlue"}
 {"cve_id": "CVE-2026-0257", "ts": "2026-11-10T04:04:36Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-0257"}
 {"cve_id": "CVE-2026-0300", "ts": "2026-11-10T04:05:49Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-0300"}
+{"cve_id": "CVE-2026-123218", "ts": "2026-11-10T04:23:27Z", "type": "new_poc", "url": "https://github.com/foxcornlab/faspex-scanner"}
+{"cve_id": "CVE-2026-32475", "ts": "2026-11-10T04:29:37Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-32475"}
+{"cve_id": "CVE-2026-86950", "ts": "2026-11-10T04:32:42Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-86950"}
