@@ -6869,6 +6869,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/CyberCTF/vulhub-gitlab-cve-2021-22205](https://github.com/CyberCTF/vulhub-gitlab-cve-2021-22205) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-gitlab-cve-2021-22205.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-gitlab-cve-2021-22205.svg)
 
+- [https://github.com/d4ytox/CVE-2021-22205](https://github.com/d4ytox/CVE-2021-22205) : ![starts](https://img.shields.io/github/stars/d4ytox/CVE-2021-22205.svg) ![forks](https://img.shields.io/github/forks/d4ytox/CVE-2021-22205.svg)
+
 ## CVE-2021-22204
  Improper neutralization of user data in the DjVu file format in ExifTool versions 7.44 and up allows arbitrary code execution when parsing the malicious image
 

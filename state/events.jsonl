@@ -11060,3 +11060,34 @@
 {"cve_id": "CVE-2026-105761", "ts": "2026-11-10T14:11:58Z", "type": "new_poc", "url": "https://github.com/JHC56/CVE-2026-105761"}
 {"cve_id": "CVE-2007-2447", "ts": "2026-11-10T14:11:59Z", "type": "new_poc", "url": "https://github.com/xsmorl/samba-usermap-script-exploit"}
 {"cve_id": "CVE-2026-17106", "ts": "2026-11-10T14:16:22Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/copyescape-check"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T22:24:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-73860", "ts": "2026-11-10T22:25:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77914", "ts": "2026-11-10T22:25:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-10T22:27:38Z", "type": "new_poc", "url": "https://github.com/Mahyarpishbazz/php2version-scanner"}
+{"cve_id": "CVE-2021-22205", "ts": "2026-11-10T22:27:38Z", "type": "new_poc", "url": "https://github.com/d4ytox/CVE-2021-22205"}
+{"cve_id": "CVE-2025-29927", "ts": "2026-11-10T22:27:38Z", "type": "new_poc", "url": "https://github.com/elkhaoudari/CVE-2025-29927-Python"}
+{"cve_id": "CVE-2026-125350", "ts": "2026-11-10T22:27:39Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-125350"}
+{"cve_id": "CVE-2026-66613", "ts": "2026-11-10T22:27:39Z", "type": "new_poc", "url": "https://github.com/aramosf/CVE-2026-66613"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-10T22:27:39Z", "type": "new_poc", "url": "https://github.com/pablocerdeira1/CVE-2026-123158"}
+{"cve_id": "CVE-2026-125757", "ts": "2026-11-10T22:27:40Z", "type": "new_poc", "url": "https://github.com/Faceless0x7/CVE-2026-125757"}
+{"cve_id": "CVE-2026-104711", "ts": "2026-11-10T22:27:40Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-104711-POC"}
+{"cve_id": "CVE-2026-90436", "ts": "2026-11-10T22:27:40Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-90436-POC"}
+{"cve_id": "CVE-2026-73663", "ts": "2026-11-10T22:27:40Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-73663-POC"}
+{"cve_id": "CVE-2026-11800", "ts": "2026-11-10T22:27:40Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-11800-POC"}
+{"cve_id": "CVE-2026-68524", "ts": "2026-11-10T22:27:41Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-68524-POC"}
+{"cve_id": "CVE-2026-114656", "ts": "2026-11-10T22:27:41Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-114656-POC"}
+{"cve_id": "CVE-2026-76844", "ts": "2026-11-10T22:27:41Z", "type": "new_poc", "url": "https://github.com/perplexedyawdie/cve-2026-76844-lab"}
+{"cve_id": "CVE-2026-73373", "ts": "2026-11-10T22:27:41Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-73373-POC"}
+{"cve_id": "CVE-2026-92414", "ts": "2026-11-10T22:27:41Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-92414-POC"}
+{"cve_id": "CVE-2026-66738", "ts": "2026-11-10T22:27:41Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-66738-POC"}
+{"cve_id": "CVE-2026-73665", "ts": "2026-11-10T22:27:42Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-73665-POC"}
+{"cve_id": "CVE-2026-6735", "ts": "2026-11-10T22:27:42Z", "type": "new_poc", "url": "https://github.com/Mkathe/Php-vulnerability-CVE-2026-6735"}
+{"cve_id": "CVE-2026-125350", "ts": "2026-11-10T22:27:42Z", "type": "new_poc", "url": "https://github.com/Frostmoon39206/CVE-2026-125350-PoC"}
+{"cve_id": "CVE-2026-110468", "ts": "2026-11-10T22:27:42Z", "type": "new_poc", "url": "https://github.com/im0xfay/CVE-2026-110468-110469-WIDZIALNI"}
+{"cve_id": "CVE-2025-6020", "ts": "2026-11-10T22:27:42Z", "type": "new_poc", "url": "https://github.com/knoxoxen/CVE-2025-6020-upstream-fix"}
+{"cve_id": "CVE-2026-81963", "ts": "2026-11-10T22:27:42Z", "type": "new_poc", "url": "https://github.com/BarwSirati/CVE-2026-81963-TrustedDpx"}
+{"cve_id": "CVE-2026-98276", "ts": "2026-11-10T22:27:43Z", "type": "new_poc", "url": "https://github.com/ahamedr08/CVE-2026-98276-Linux-kernel-UDP-socket-flaw-"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-10T22:27:43Z", "type": "new_poc", "url": "https://github.com/BlackIce417/root-oplusace5"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-10T22:27:44Z", "type": "new_poc", "url": "https://github.com/orumanayurpanjayat-ux/SamTimer"}
+{"cve_id": "CVE-2025-54136", "ts": "2026-11-10T22:27:44Z", "type": "new_poc", "url": "https://github.com/glebgorelikov-droid/agentgate"}
+{"cve_id": "CVE-2026-23111", "ts": "2026-11-10T22:29:06Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-23111"}
