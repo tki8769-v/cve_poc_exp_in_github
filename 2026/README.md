@@ -2475,6 +2475,11 @@ configuration,
 
 - [https://github.com/M0ud4/CVE-2026-105810](https://github.com/M0ud4/CVE-2026-105810) : ![starts](https://img.shields.io/github/stars/M0ud4/CVE-2026-105810.svg) ![forks](https://img.shields.io/github/forks/M0ud4/CVE-2026-105810.svg)
 
+## CVE-2026-105761
+> Dify is an open-source LLM app development platform. Prior to 1.16.0, the PUT /console/api/apps/&amp;lt;app_id&amp;gt;/server endpoint in api/controllers/console/app/mcp_server.py used AppMCPServerController.put() to retrieve an AppMCPServer by the client-supplied server ID without verifying that the server belonged to the requested application and tenant. An authenticated workspace member could therefore change another application&#x27;s MCP server status and parameters, potentially redirecting data or disa
+
+- [https://github.com/JHC56/CVE-2026-105761](https://github.com/JHC56/CVE-2026-105761) : ![starts](https://img.shields.io/github/stars/JHC56/CVE-2026-105761.svg) ![forks](https://img.shields.io/github/forks/JHC56/CVE-2026-105761.svg)
+
 ## CVE-2026-105484
 > A security vulnerability has been detected in TOTOLINK X6000R 9.4.0cu.652_B20230116. The impacted element is the function firmware_check of the file /cgi-bin/cstecgi.cgi of the component UploadFirmwareFile Handler. Such manipulation of the argument file_name leads to os command injection. The attack may be performed from remote.
 
@@ -23658,6 +23663,8 @@ This issue affects pgAdmin 4: from 9.13 before 9.17.
 - [https://github.com/CompleteTech-LLC/copyescape-check](https://github.com/CompleteTech-LLC/copyescape-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-LLC/copyescape-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-LLC/copyescape-check.svg)
 
 - [https://github.com/CompleTetech-Security/copyescape-check](https://github.com/CompleTetech-Security/copyescape-check) : ![starts](https://img.shields.io/github/stars/CompleTetech-Security/copyescape-check.svg) ![forks](https://img.shields.io/github/forks/CompleTetech-Security/copyescape-check.svg)
+
+- [https://github.com/CompleteTech-Security/copyescape-check](https://github.com/CompleteTech-Security/copyescape-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/copyescape-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/copyescape-check.svg)
 
 ## CVE-2026-17001
 > The Import and export users and customers plugin for WordPress is vulnerable to Stored Cross-Site Scripting via Custom Column User Meta Profile Fields in all versions up to, and including, 2.4.5 due to insufficient input sanitization and output escaping. This makes it possible for authenticated attackers, with custom-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.

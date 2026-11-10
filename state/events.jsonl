@@ -11052,3 +11052,11 @@
 {"cve_id": "CVE-2026-43284", "ts": "2026-11-10T13:52:58Z", "type": "new_poc", "url": "https://github.com/q181555/pd2232-dirtyfrag"}
 {"cve_id": "CVE-2026-77622", "ts": "2026-11-10T13:57:16Z", "type": "new_poc", "url": "https://github.com/Squ1shification/PNGboomer-CVE-2026-77622"}
 {"cve_id": "CVE-2026-87008", "ts": "2026-11-10T14:00:06Z", "type": "new_poc", "url": "https://github.com/squeeze440/code-graph-rag-PoC"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T14:05:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-73860", "ts": "2026-11-10T14:05:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T14:09:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-73860", "ts": "2026-11-10T14:10:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77914", "ts": "2026-11-10T14:10:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-105761", "ts": "2026-11-10T14:11:58Z", "type": "new_poc", "url": "https://github.com/JHC56/CVE-2026-105761"}
+{"cve_id": "CVE-2007-2447", "ts": "2026-11-10T14:11:59Z", "type": "new_poc", "url": "https://github.com/xsmorl/samba-usermap-script-exploit"}
+{"cve_id": "CVE-2026-17106", "ts": "2026-11-10T14:16:22Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/copyescape-check"}

@@ -1,4 +1,8 @@
 # Update 2026-11-10
+## CVE-2007-2447
+
+- [https://github.com/xsmorl/samba-usermap-script-exploit](https://github.com/xsmorl/samba-usermap-script-exploit) : ![starts](https://img.shields.io/github/stars/xsmorl/samba-usermap-script-exploit.svg) ![forks](https://img.shields.io/github/forks/xsmorl/samba-usermap-script-exploit.svg)
+
 ## CVE-2018-7602
 > A remote code execution vulnerability exists within multiple subsystems of Drupal 7.x and 8.x. This potentially allows attackers to exploit multiple attack vectors on a Drupal site, which could result in the site being compromised. This vulnerability is related to Drupal core - Highly critical - Remote Code Execution - SA-CORE-2018-002. Both SA-CORE-2018-002 and this vulnerability are being exploited in the wild.
 
@@ -41,6 +45,11 @@ Panorama and Cloud NGFW are not impacted by these issues.
 The risk of this issue is greatly reduced if you secure access to the User-ID™ Authentication Portal per the  best practice guidelines https://knowledgebase.paloaltonetworks.com/KCSArticleDetail  by r
 
 - [https://github.com/ashrafzaryouh/CVE-2026-0300](https://github.com/ashrafzaryouh/CVE-2026-0300) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-0300.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-0300.svg)
+
+## CVE-2026-105761
+> Dify is an open-source LLM app development platform. Prior to 1.16.0, the PUT /console/api/apps/&amp;lt;app_id&amp;gt;/server endpoint in api/controllers/console/app/mcp_server.py used AppMCPServerController.put() to retrieve an AppMCPServer by the client-supplied server ID without verifying that the server belonged to the requested application and tenant. An authenticated workspace member could therefore change another application&#x27;s MCP server status and parameters, potentially redirecting data or disa
+
+- [https://github.com/JHC56/CVE-2026-105761](https://github.com/JHC56/CVE-2026-105761) : ![starts](https://img.shields.io/github/stars/JHC56/CVE-2026-105761.svg) ![forks](https://img.shields.io/github/forks/JHC56/CVE-2026-105761.svg)
 
 ## CVE-2026-117017
 
@@ -90,6 +99,10 @@ The risk of this issue is greatly reduced if you secure access to the User-ID™
 ## CVE-2026-125399
 
 - [https://github.com/VulnSVNC/CVE-2026-125399](https://github.com/VulnSVNC/CVE-2026-125399) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-125399.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-125399.svg)
+
+## CVE-2026-17106
+
+- [https://github.com/CompleteTech-Security/copyescape-check](https://github.com/CompleteTech-Security/copyescape-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/copyescape-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/copyescape-check.svg)
 
 ## CVE-2026-25769
 

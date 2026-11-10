@@ -3260,3 +3260,8 @@
 {"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T13:44:08Z", "url": "https://github.com/BoredHackerBlog/teamcity-CVE-2026-63077-pcap", "url_ids": ["CVE-2026-63077"]}
 {"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T13:44:08Z", "url": "https://github.com/basesixtythree/B63-POC-CVE-2026-63077", "url_ids": ["CVE-2026-63077"]}
 {"cve_id": "CVE-2026-1296", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T13:57:05Z", "url": "https://github.com/l0lsec/CVE-2026-12960", "url_ids": ["CVE-2026-12960"]}
+{"cve_id": "CVE-2025-2620", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T14:14:10Z", "url": "https://github.com/A17-ba/CVE-2025-26202-Details", "url_ids": ["CVE-2025-26202"]}
+{"cve_id": "CVE-2025-5182", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T14:15:24Z", "url": "https://github.com/shk-mubashshir/CVE-2025-51820", "url_ids": ["CVE-2025-51820"]}
+{"cve_id": "CVE-2024-5742", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T14:16:08Z", "url": "https://github.com/ahrixia/CVE-2024-57427", "url_ids": ["CVE-2024-57427"]}
+{"cve_id": "CVE-2024-5742", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T14:16:08Z", "url": "https://github.com/ahrixia/CVE-2024-57429", "url_ids": ["CVE-2024-57429"]}
+{"cve_id": "CVE-2024-5742", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T14:16:08Z", "url": "https://github.com/ahrixia/CVE-2024-57428", "url_ids": ["CVE-2024-57428"]}
