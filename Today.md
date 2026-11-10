@@ -32,6 +32,10 @@
 
 - [https://github.com/elkhaoudari/CVE-2025-29927-Python](https://github.com/elkhaoudari/CVE-2025-29927-Python) : ![starts](https://img.shields.io/github/stars/elkhaoudari/CVE-2025-29927-Python.svg) ![forks](https://img.shields.io/github/forks/elkhaoudari/CVE-2025-29927-Python.svg)
 
+## CVE-2025-32463
+
+- [https://github.com/ashrafzaryouh/CVE-2025-32463](https://github.com/ashrafzaryouh/CVE-2025-32463) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2025-32463.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2025-32463.svg)
+
 ## CVE-2025-4609
 
 - [https://github.com/nek-3231/cve-2025-4609-mojo-poc](https://github.com/nek-3231/cve-2025-4609-mojo-poc) : ![starts](https://img.shields.io/github/stars/nek-3231/cve-2025-4609-mojo-poc.svg) ![forks](https://img.shields.io/github/forks/nek-3231/cve-2025-4609-mojo-poc.svg)
@@ -194,6 +198,10 @@ It should skip elements that
 
 - [https://github.com/ashrafzaryouh/CVE-2026-32475](https://github.com/ashrafzaryouh/CVE-2026-32475) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-32475.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-32475.svg)
 
+## CVE-2026-33825
+
+- [https://github.com/ashrafzaryouh/CVE-2026-33825](https://github.com/ashrafzaryouh/CVE-2026-33825) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-33825.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-33825.svg)
+
 ## CVE-2026-39808
 
 - [https://github.com/ashrafzaryouh/CVE-2026-39808](https://github.com/ashrafzaryouh/CVE-2026-39808) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-39808.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-39808.svg)
@@ -212,6 +220,7 @@ splicing pages into UDP skbs.
 That leaves an ESP-in-UDP packet made from shared pipe pages looking
 
 
+- [https://github.com/ashrafzaryouh/CVE-2026-43284](https://github.com/ashrafzaryouh/CVE-2026-43284) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-43284.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-43284.svg)
 - [https://github.com/q181555/pd2232-dirtyfrag](https://github.com/q181555/pd2232-dirtyfrag) : ![starts](https://img.shields.io/github/stars/q181555/pd2232-dirtyfrag.svg) ![forks](https://img.shields.io/github/forks/q181555/pd2232-dirtyfrag.svg)
 
 ## CVE-2026-43499
@@ -230,6 +239,9 @@ problems:
   1) the rbtree dequeue happens without waiter::task::pi_l
 
 - [https://github.com/BlackIce417/root-oplusace5](https://github.com/BlackIce417/root-oplusace5) : ![starts](https://img.shields.io/github/stars/BlackIce417/root-oplusace5.svg) ![forks](https://img.shields.io/github/forks/BlackIce417/root-oplusace5.svg)
+- [https://github.com/ashrafzaryouh/CVE-2026-43499](https://github.com/ashrafzaryouh/CVE-2026-43499) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-43499.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-43499.svg)
+- [https://github.com/realskyrin/fuxi-temp-root](https://github.com/realskyrin/fuxi-temp-root) : ![starts](https://img.shields.io/github/stars/realskyrin/fuxi-temp-root.svg) ![forks](https://img.shields.io/github/forks/realskyrin/fuxi-temp-root.svg)
+- [https://github.com/vexpaer/honor-pad9-ghostlock](https://github.com/vexpaer/honor-pad9-ghostlock) : ![starts](https://img.shields.io/github/stars/vexpaer/honor-pad9-ghostlock.svg) ![forks](https://img.shields.io/github/forks/vexpaer/honor-pad9-ghostlock.svg)
 
 ## CVE-2026-4961
 
@@ -281,6 +293,10 @@ Users are recommended to upgrade to version 24.09.08, which fixes the issue.
 ## CVE-2026-73665
 
 - [https://github.com/fixedbyreboot/CVE-2026-73665-POC](https://github.com/fixedbyreboot/CVE-2026-73665-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-73665-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-73665-POC.svg)
+
+## CVE-2026-7574
+
+- [https://github.com/ashrafzaryouh/CVE-2026-7574](https://github.com/ashrafzaryouh/CVE-2026-7574) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-7574.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-7574.svg)
 
 ## CVE-2026-76844
 > zlib 1.2.11 through 1.3.2 contains a heap buffer overflow: after an underlying write() fails, gz_write() returns without resetting strm.next_in, leaving it pointed at the caller&#x27;s buffer. A later gz* write call then derives a position from the stale pointer and writes past a heap allocation; any write() failure reaches it, including EPIPE on a blocking descriptor, and in versions before 1.3.1.2 the failed write must be followed by a gzclearerr() call.
