@@ -13401,6 +13401,8 @@ CR virtual server with type HDX
 
 - [https://github.com/MejbanKadir/CVE-2025-6934-PoC](https://github.com/MejbanKadir/CVE-2025-6934-PoC) : ![starts](https://img.shields.io/github/stars/MejbanKadir/CVE-2025-6934-PoC.svg) ![forks](https://img.shields.io/github/forks/MejbanKadir/CVE-2025-6934-PoC.svg)
 
+- [https://github.com/ryhnmhrdka/CVE-2025-6934](https://github.com/ryhnmhrdka/CVE-2025-6934) : ![starts](https://img.shields.io/github/stars/ryhnmhrdka/CVE-2025-6934.svg) ![forks](https://img.shields.io/github/forks/ryhnmhrdka/CVE-2025-6934.svg)
+
 ## CVE-2025-6916
  A vulnerability, which was classified as critical, was found in TOTOLINK T6 4.1.5cu.748_B20211015. This affects the function Form_Login of the file /formLoginAuth.htm. The manipulation of the argument authCode/goURL leads to missing authentication. The attack needs to be initiated within the local network. The exploit has been disclosed to the public and may be used.
 

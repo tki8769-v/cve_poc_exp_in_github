@@ -2458,6 +2458,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/Dungsocool/CVE-2020-13671-old](https://github.com/Dungsocool/CVE-2020-13671-old) : ![starts](https://img.shields.io/github/stars/Dungsocool/CVE-2020-13671-old.svg) ![forks](https://img.shields.io/github/forks/Dungsocool/CVE-2020-13671-old.svg)
 
+- [https://github.com/d4ytox/CVE-2020-13671](https://github.com/d4ytox/CVE-2020-13671) : ![starts](https://img.shields.io/github/stars/d4ytox/CVE-2020-13671.svg) ![forks](https://img.shields.io/github/forks/d4ytox/CVE-2020-13671.svg)
+
 ## CVE-2020-13664
 
 - [https://github.com/lorenzog/CVE-2020-13664](https://github.com/lorenzog/CVE-2020-13664) : ![starts](https://img.shields.io/github/stars/lorenzog/CVE-2020-13664.svg) ![forks](https://img.shields.io/github/forks/lorenzog/CVE-2020-13664.svg)

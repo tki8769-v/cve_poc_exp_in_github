@@ -11012,3 +11012,34 @@
 {"cve_id": "CVE-2026-123218", "ts": "2026-11-10T04:23:27Z", "type": "new_poc", "url": "https://github.com/foxcornlab/faspex-scanner"}
 {"cve_id": "CVE-2026-32475", "ts": "2026-11-10T04:29:37Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-32475"}
 {"cve_id": "CVE-2026-86950", "ts": "2026-11-10T04:32:42Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-86950"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T13:28:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T13:28:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T13:28:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T13:29:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T13:29:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T13:30:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T13:30:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T13:31:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T13:32:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T13:34:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-10T13:34:55Z", "type": "new_poc", "url": "https://github.com/ylh440104/cve-2026-98432-chain"}
+{"cve_id": "CVE-2020-13671", "ts": "2026-11-10T13:34:55Z", "type": "new_poc", "url": "https://github.com/d4ytox/CVE-2020-13671"}
+{"cve_id": "CVE-2018-7602", "ts": "2026-11-10T13:34:55Z", "type": "new_poc", "url": "https://github.com/d4ytox/CVE-2018-7602"}
+{"cve_id": "CVE-2026-125399", "ts": "2026-11-10T13:34:56Z", "type": "new_poc", "url": "https://github.com/VulnSVNC/CVE-2026-125399"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-10T13:34:56Z", "type": "new_poc", "url": "https://github.com/AwesomeHyper/HyperBreak"}
+{"cve_id": "CVE-2019-13139", "ts": "2026-11-10T13:34:56Z", "type": "new_poc", "url": "https://github.com/hakaii59/CVE-2019-13139"}
+{"cve_id": "CVE-2026-119977", "ts": "2026-11-10T13:34:56Z", "type": "new_poc", "url": "https://github.com/BlackHatExploitation/CVE-2026-119977"}
+{"cve_id": "CVE-2026-125394", "ts": "2026-11-10T13:34:56Z", "type": "new_poc", "url": "https://github.com/D7EAD/CVE-2026-125394"}
+{"cve_id": "CVE-2026-86829", "ts": "2026-11-10T13:34:56Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-86829"}
+{"cve_id": "CVE-2026-11800", "ts": "2026-11-10T13:34:57Z", "type": "new_poc", "url": "https://github.com/sickwell/CVE-2026-11800"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-10T13:34:57Z", "type": "new_poc", "url": "https://github.com/zake1god/CVE-2026-98432"}
+{"cve_id": "CVE-2026-117017", "ts": "2026-11-10T13:34:57Z", "type": "new_poc", "url": "https://github.com/esecforte/PoC_CVE-2026-117017"}
+{"cve_id": "CVE-2026-65400", "ts": "2026-11-10T13:34:57Z", "type": "new_poc", "url": "https://github.com/mrraylau321/cve-2026-65400-mac-check"}
+{"cve_id": "CVE-2026-58882", "ts": "2026-11-10T13:34:57Z", "type": "new_poc", "url": "https://github.com/januththedev/SMS-Of-Death-CVE-2026-58882-Fix"}
+{"cve_id": "CVE-2019-2215", "ts": "2026-11-10T13:34:58Z", "type": "new_poc", "url": "https://github.com/WJNKAC/CVE-2019-2215-vivo-Y66i"}
+{"cve_id": "CVE-2026-89052", "ts": "2026-11-10T13:34:58Z", "type": "new_poc", "url": "https://github.com/sergioamsilva/CVE-2026-89052-archer-c6-aes"}
+{"cve_id": "CVE-2022-38181", "ts": "2026-11-10T13:34:58Z", "type": "new_poc", "url": "https://github.com/sber-portal/sberportal-root"}
+{"cve_id": "CVE-2026-96652", "ts": "2026-11-10T13:34:58Z", "type": "new_poc", "url": "https://github.com/SHIFox8/plex2shell-audit"}
+{"cve_id": "CVE-2025-6934", "ts": "2026-11-10T13:40:21Z", "type": "new_poc", "url": "https://github.com/ryhnmhrdka/CVE-2025-6934"}
+{"cve_id": "CVE-2026-39808", "ts": "2026-11-10T13:41:22Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-39808"}
+{"cve_id": "CVE-2026-25769", "ts": "2026-11-10T13:45:18Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-25769"}

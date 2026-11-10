@@ -1924,6 +1924,10 @@ use after free.
 
 - [https://github.com/securelayer7/pwnfb50](https://github.com/securelayer7/pwnfb50) : ![starts](https://img.shields.io/github/stars/securelayer7/pwnfb50.svg) ![forks](https://img.shields.io/github/forks/securelayer7/pwnfb50.svg)
 
+## CVE-2019-13139
+
+- [https://github.com/hakaii59/CVE-2019-13139](https://github.com/hakaii59/CVE-2019-13139) : ![starts](https://img.shields.io/github/stars/hakaii59/CVE-2019-13139.svg) ![forks](https://img.shields.io/github/forks/hakaii59/CVE-2019-13139.svg)
+
 ## CVE-2019-13132
  In ZeroMQ libzmq before 4.0.9, 4.1.x before 4.1.7, and 4.2.x before 4.3.2, a remote, unauthenticated client connecting to a libzmq application, running with a socket listening with CURVE encryption/authentication enabled, may cause a stack overflow and overwrite the stack with arbitrary data, due to a buffer overflow in the library. Users running public servers with the above configuration are highly encouraged to upgrade as soon as possible, as there are no known mitigations.
 
@@ -4612,6 +4616,8 @@ use after free.
 - [https://github.com/xushihushuo-art/cve-2019-2215-skyworth](https://github.com/xushihushuo-art/cve-2019-2215-skyworth) : ![starts](https://img.shields.io/github/stars/xushihushuo-art/cve-2019-2215-skyworth.svg) ![forks](https://img.shields.io/github/forks/xushihushuo-art/cve-2019-2215-skyworth.svg)
 
 - [https://github.com/RxinnotRstar/CVE-2019-2215-ForMIpad4](https://github.com/RxinnotRstar/CVE-2019-2215-ForMIpad4) : ![starts](https://img.shields.io/github/stars/RxinnotRstar/CVE-2019-2215-ForMIpad4.svg) ![forks](https://img.shields.io/github/forks/RxinnotRstar/CVE-2019-2215-ForMIpad4.svg)
+
+- [https://github.com/WJNKAC/CVE-2019-2215-vivo-Y66i](https://github.com/WJNKAC/CVE-2019-2215-vivo-Y66i) : ![starts](https://img.shields.io/github/stars/WJNKAC/CVE-2019-2215-vivo-Y66i.svg) ![forks](https://img.shields.io/github/forks/WJNKAC/CVE-2019-2215-vivo-Y66i.svg)
 
 ## CVE-2019-2205
  In ProxyResolverV8::SetPacScript of proxy_resolver_v8.cc, there is a possible memory corruption due to a use after free. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-139806216

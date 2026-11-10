@@ -2734,6 +2734,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 
 - [https://github.com/1AmG0d/myDrupal](https://github.com/1AmG0d/myDrupal) : ![starts](https://img.shields.io/github/stars/1AmG0d/myDrupal.svg) ![forks](https://img.shields.io/github/forks/1AmG0d/myDrupal.svg)
 
+- [https://github.com/d4ytox/CVE-2018-7602](https://github.com/d4ytox/CVE-2018-7602) : ![starts](https://img.shields.io/github/stars/d4ytox/CVE-2018-7602.svg) ![forks](https://img.shields.io/github/forks/d4ytox/CVE-2018-7602.svg)
+
 ## CVE-2018-7600
  Drupal before 7.58, 8.x before 8.3.9, 8.4.x before 8.4.6, and 8.5.x before 8.5.1 allows remote attackers to execute arbitrary code because of an issue affecting multiple subsystems with default or common module configurations.
 
