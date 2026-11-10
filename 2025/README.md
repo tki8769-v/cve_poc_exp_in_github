@@ -14375,6 +14375,10 @@ Cloud NGFW and Prisma® Access are not affected by this vulnerability.
 
 - [https://github.com/x6vrn/CVE-2025-4611-PoC](https://github.com/x6vrn/CVE-2025-4611-PoC) : ![starts](https://img.shields.io/github/stars/x6vrn/CVE-2025-4611-PoC.svg) ![forks](https://img.shields.io/github/forks/x6vrn/CVE-2025-4611-PoC.svg)
 
+## CVE-2025-4609
+
+- [https://github.com/nek-3231/cve-2025-4609-mojo-poc](https://github.com/nek-3231/cve-2025-4609-mojo-poc) : ![starts](https://img.shields.io/github/stars/nek-3231/cve-2025-4609-mojo-poc.svg) ![forks](https://img.shields.io/github/forks/nek-3231/cve-2025-4609-mojo-poc.svg)
+
 ## CVE-2025-4606
  The Sala - Startup & SaaS WordPress Theme theme for WordPress is vulnerable to privilege escalation via account takeover in all versions up to, and including, 1.1.4. This is due to the theme not properly validating a user's identity prior to updating their details like password. This makes it possible for unauthenticated attackers to change arbitrary user's passwords, including administrators, and leverage that to gain access to their account.
 

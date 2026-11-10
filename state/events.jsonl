@@ -10999,3 +10999,10 @@
 {"cve_id": "CVE-2026-20253", "ts": "2026-11-09T20:07:15Z", "type": "new_poc", "url": "https://github.com/NSK-394/owasp-nettacker-contribution"}
 {"cve_id": "CVE-2023-33107", "ts": "2026-11-09T20:21:36Z", "type": "new_poc", "url": "https://github.com/markutell/CVE-2023-33107-SO51A"}
 {"cve_id": "CVE-2026-43786", "ts": "2026-11-09T20:45:21Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-43786"}
+{"cve_id": "CVE-2026-122056", "ts": "2026-11-10T03:43:16Z", "type": "new_poc", "url": "https://github.com/D7EAD/CVE-2026-122056"}
+{"cve_id": "CVE-2025-4609", "ts": "2026-11-10T03:43:18Z", "type": "new_poc", "url": "https://github.com/nek-3231/cve-2025-4609-mojo-poc"}
+{"cve_id": "CVE-2026-4961", "ts": "2026-11-10T03:43:19Z", "type": "new_poc", "url": "https://github.com/lufeng78/tenda-ac6-cve-2026-4961-patch"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-10T03:43:26Z", "type": "new_poc", "url": "https://github.com/Iperez95-ot/sshole-lab"}
+{"cve_id": "CVE-2026-1210", "ts": "2026-11-10T03:43:26Z", "type": "new_poc", "url": "https://github.com/elmobp/cmd2pshell-cve-2026-1210"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-10T03:43:27Z", "type": "new_poc", "url": "https://github.com/Certbn/CVE-2026-123158-OpenSSH-sshd-SSHhole-sshole-"}
+{"cve_id": "CVE-2026-124576", "ts": "2026-11-10T03:43:42Z", "type": "new_poc", "url": "https://github.com/capivara-research/CVE-2026-124576"}
