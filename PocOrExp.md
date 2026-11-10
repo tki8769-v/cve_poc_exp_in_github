@@ -146,6 +146,7 @@
 - [https://github.com/capivara-research/CVE-2026-122158](https://github.com/capivara-research/CVE-2026-122158) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-122158.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-122158.svg)
 
 ## CVE-2026-122056
+> A flaw was found in OpenSCAP. A heap-based buffer overflow can occur when processing a specially crafted Extensible Configuration Checklist Description Format (XCCDF) document using the sds-compose option. An attacker could exploit this vulnerability to corrupt memory, resulting in an application crash and a Denial of Service (DoS).
 
 - [https://github.com/D7EAD/CVE-2026-122056](https://github.com/D7EAD/CVE-2026-122056) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-122056.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-122056.svg)
 
@@ -1051,6 +1052,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/sam00/Node2Shell-CVE-2026-111497-POC](https://github.com/sam00/Node2Shell-CVE-2026-111497-POC) : ![starts](https://img.shields.io/github/stars/sam00/Node2Shell-CVE-2026-111497-POC.svg) ![forks](https://img.shields.io/github/forks/sam00/Node2Shell-CVE-2026-111497-POC.svg)
 
 - [https://github.com/hosun-hwang/CVE-2026-111497_PoC](https://github.com/hosun-hwang/CVE-2026-111497_PoC) : ![starts](https://img.shields.io/github/stars/hosun-hwang/CVE-2026-111497_PoC.svg) ![forks](https://img.shields.io/github/forks/hosun-hwang/CVE-2026-111497_PoC.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-111497](https://github.com/ashrafzaryouh/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-111497.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -10242,6 +10245,7 @@ This vulnerability affects Node.js **26.x**, **24.x**, and **22.x**.
 - [https://github.com/hellkkid/CVE-2026-56718](https://github.com/hellkkid/CVE-2026-56718) : ![starts](https://img.shields.io/github/stars/hellkkid/CVE-2026-56718.svg) ![forks](https://img.shields.io/github/forks/hellkkid/CVE-2026-56718.svg)
 
 ## CVE-2026-56712
+> Replicate Cog through 0.23.1 contains a server-side request forgery vulnerability that allows attackers to cause the Cog process to make server-side HTTP requests by submitting prediction inputs with attacker-controlled URLs that are not validated against the resolved destination host or IP before fetching. Attackers can supply malicious URLs or exploit HTTP redirects in cog.File and cog.Path predictor inputs to force requests to internal addresses, potentially exposing sensitive internal servic
 
 - [https://github.com/SaiTeja-Erukude/CVE-2026-56712-cog-ssrf](https://github.com/SaiTeja-Erukude/CVE-2026-56712-cog-ssrf) : ![starts](https://img.shields.io/github/stars/SaiTeja-Erukude/CVE-2026-56712-cog-ssrf.svg) ![forks](https://img.shields.io/github/forks/SaiTeja-Erukude/CVE-2026-56712-cog-ssrf.svg)
 
@@ -18114,6 +18118,8 @@ This issue affects Elementor Pro: from n/a through 4.2.1.
 - [https://github.com/solarlynxsqueeze/CVE-2026-32202](https://github.com/solarlynxsqueeze/CVE-2026-32202) : ![starts](https://img.shields.io/github/stars/solarlynxsqueeze/CVE-2026-32202.svg) ![forks](https://img.shields.io/github/forks/solarlynxsqueeze/CVE-2026-32202.svg)
 
 - [https://github.com/f0xox/CVE-2026-32202](https://github.com/f0xox/CVE-2026-32202) : ![starts](https://img.shields.io/github/stars/f0xox/CVE-2026-32202.svg) ![forks](https://img.shields.io/github/forks/f0xox/CVE-2026-32202.svg)
+
+- [https://github.com/foxfxfxx/CVE-2026-32202](https://github.com/foxfxfxx/CVE-2026-32202) : ![starts](https://img.shields.io/github/stars/foxfxfxx/CVE-2026-32202.svg) ![forks](https://img.shields.io/github/forks/foxfxfxx/CVE-2026-32202.svg)
 
 ## CVE-2026-32201
  Improper input validation in Microsoft Office SharePoint allows an unauthorized attacker to perform spoofing over a network.

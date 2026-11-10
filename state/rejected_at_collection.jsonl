@@ -3265,3 +3265,4 @@
 {"cve_id": "CVE-2024-5742", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T14:16:08Z", "url": "https://github.com/ahrixia/CVE-2024-57427", "url_ids": ["CVE-2024-57427"]}
 {"cve_id": "CVE-2024-5742", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T14:16:08Z", "url": "https://github.com/ahrixia/CVE-2024-57429", "url_ids": ["CVE-2024-57429"]}
 {"cve_id": "CVE-2024-5742", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T14:16:08Z", "url": "https://github.com/ahrixia/CVE-2024-57428", "url_ids": ["CVE-2024-57428"]}
+{"cve_id": "CVE-2026-4861", "reason": "prefix_conflict_evidenced", "ts": "2026-11-10T22:55:02Z", "url": "https://github.com/Ethicalgrey/phpBB-CVE-2026-48611", "url_ids": ["CVE-2026-48611"]}

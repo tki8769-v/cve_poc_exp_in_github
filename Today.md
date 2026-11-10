@@ -86,6 +86,17 @@ This issue has been fixed in version 2.5.
 
 - [https://github.com/im0xfay/CVE-2026-110468-110469-WIDZIALNI](https://github.com/im0xfay/CVE-2026-110468-110469-WIDZIALNI) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-110468-110469-WIDZIALNI.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-110468-110469-WIDZIALNI.svg)
 
+## CVE-2026-111497
+> A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream.
+
+
+
+
+
+Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1
+
+- [https://github.com/ashrafzaryouh/CVE-2026-111497](https://github.com/ashrafzaryouh/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-111497.svg)
+
 ## CVE-2026-114656
 > Traefik before 2.11.58 and 3.7.13 contains an authentication bypass vulnerability that allows unauthenticated clients to skip client-certificate checks because negated Host matchers are counted as served domains. Attackers can reach backends protected by RequireAndVerifyClientCert when a router rule with !Host() creates a TLS options conflict that falls back to the default options.
 
@@ -114,6 +125,7 @@ This issue has been fixed in version 2.5.
 - [https://github.com/elmobp/cmd2pshell-cve-2026-1210](https://github.com/elmobp/cmd2pshell-cve-2026-1210) : ![starts](https://img.shields.io/github/stars/elmobp/cmd2pshell-cve-2026-1210.svg) ![forks](https://img.shields.io/github/forks/elmobp/cmd2pshell-cve-2026-1210.svg)
 
 ## CVE-2026-122056
+> A flaw was found in OpenSCAP. A heap-based buffer overflow can occur when processing a specially crafted Extensible Configuration Checklist Description Format (XCCDF) document using the sds-compose option. An attacker could exploit this vulnerability to corrupt memory, resulting in an application crash and a Denial of Service (DoS).
 
 - [https://github.com/D7EAD/CVE-2026-122056](https://github.com/D7EAD/CVE-2026-122056) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-122056.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-122056.svg)
 
@@ -173,6 +185,10 @@ It should skip elements that
 ## CVE-2026-25769
 
 - [https://github.com/ashrafzaryouh/CVE-2026-25769](https://github.com/ashrafzaryouh/CVE-2026-25769) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-25769.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-25769.svg)
+
+## CVE-2026-32202
+
+- [https://github.com/foxfxfxx/CVE-2026-32202](https://github.com/foxfxfxx/CVE-2026-32202) : ![starts](https://img.shields.io/github/stars/foxfxfxx/CVE-2026-32202.svg) ![forks](https://img.shields.io/github/forks/foxfxfxx/CVE-2026-32202.svg)
 
 ## CVE-2026-32475
 
