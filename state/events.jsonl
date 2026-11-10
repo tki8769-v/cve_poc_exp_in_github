@@ -11043,3 +11043,12 @@
 {"cve_id": "CVE-2025-6934", "ts": "2026-11-10T13:40:21Z", "type": "new_poc", "url": "https://github.com/ryhnmhrdka/CVE-2025-6934"}
 {"cve_id": "CVE-2026-39808", "ts": "2026-11-10T13:41:22Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-39808"}
 {"cve_id": "CVE-2026-25769", "ts": "2026-11-10T13:45:18Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-25769"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T13:46:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T13:48:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-73860", "ts": "2026-11-10T13:49:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-10T13:51:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-73860", "ts": "2026-11-10T13:51:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117368", "ts": "2026-11-10T13:52:58Z", "type": "new_poc", "url": "https://github.com/yukinkoNo1/prestashop-security-advisories"}
+{"cve_id": "CVE-2026-43284", "ts": "2026-11-10T13:52:58Z", "type": "new_poc", "url": "https://github.com/q181555/pd2232-dirtyfrag"}
+{"cve_id": "CVE-2026-77622", "ts": "2026-11-10T13:57:16Z", "type": "new_poc", "url": "https://github.com/Squ1shification/PNGboomer-CVE-2026-77622"}
+{"cve_id": "CVE-2026-87008", "ts": "2026-11-10T14:00:06Z", "type": "new_poc", "url": "https://github.com/squeeze440/code-graph-rag-PoC"}

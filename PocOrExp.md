@@ -301,6 +301,10 @@ An application that passes request data as column values to insert or update
 
 - [https://github.com/asvorg/CVE-2026-117532-poc](https://github.com/asvorg/CVE-2026-117532-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-117532-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-117532-poc.svg)
 
+## CVE-2026-117368
+
+- [https://github.com/yukinkoNo1/prestashop-security-advisories](https://github.com/yukinkoNo1/prestashop-security-advisories) : ![starts](https://img.shields.io/github/stars/yukinkoNo1/prestashop-security-advisories.svg) ![forks](https://img.shields.io/github/forks/yukinkoNo1/prestashop-security-advisories.svg)
+
 ## CVE-2026-117184
 > An issue in the GraphQL endpoint of traggo server v0.8.3 allows attackers to cause a Denial of Service (DoS) via a crafted POST request to the GraphQL endpoint
 
@@ -5068,6 +5072,11 @@ This issue affects ADC: before 14.1-73.37, before 13.1-64.23, before 14.1-73.37 
 
 - [https://github.com/SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter](https://github.com/SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter) : ![starts](https://img.shields.io/github/stars/SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter.svg) ![forks](https://img.shields.io/github/forks/SneakyNachos/CVE-2026-87491-and-CVE-2026-85046-the-bagel-fell-off-the-counter.svg)
 
+## CVE-2026-87008
+> Code Graph RAG is an AI-powered knowledge graph and retrieval system for querying, understanding, and editing multi-language codebases. Prior to 0.0.589, AstGrepService in codebase_rag/tools/ast_grep_service.py enumerates files beneath project_root and relies on should_skip_path in codebase_rag/utils/path_utils.py to classify them, but the containment check operates on unresolved lexical paths. A symbolic link planted inside an analyzed repository can therefore reference a file outside the confi
+
+- [https://github.com/squeeze440/code-graph-rag-PoC](https://github.com/squeeze440/code-graph-rag-PoC) : ![starts](https://img.shields.io/github/stars/squeeze440/code-graph-rag-PoC.svg) ![forks](https://img.shields.io/github/forks/squeeze440/code-graph-rag-PoC.svg)
+
 ## CVE-2026-87004
 > Tugtainer is a self-hosted app for automating updates of Docker containers. Prior to version 1.31.3, when the OIDC login flow completes, backend/modules/auth/providers/auth_oidc_provider.py decodes the id_token returned by the identity provider&#x27;s token endpoint using jose.jwt.get_unverified_claims() instead of jwt.decode(). This skips signature verification, audience (aud) validation, issuer (iss) validation, and expiry (exp) checking entirely. The extracted claims (email/sub/preferred_username)
 
@@ -6513,6 +6522,11 @@ CVE-2025-32907 addressed memory amplification when a client repeated the same ra
  CakePHP is a rapid development framework for PHP. Prior to versions 5.1.10, 5.2.15, and 5.3.7 on their respective release lines, FunctionsBuilder::jsonValue() with PostgresDriver is vulnerable to SQL injection when user-controlled data is supplied to the jsonPath parameter. This issue is fixed in versions 5.1.10, 5.2.15, and 5.3.7.
 
 - [https://github.com/abraxas/CVE-2026-77635](https://github.com/abraxas/CVE-2026-77635) : ![starts](https://img.shields.io/github/stars/abraxas/CVE-2026-77635.svg) ![forks](https://img.shields.io/github/forks/abraxas/CVE-2026-77635.svg)
+
+## CVE-2026-77622
+> Sliver is a command and control framework. Prior to 1.7.6, an HTTP(S) listener using the PNG encoder accepts attacker-controlled PNG dimensions without an effective decoded-size or pixel limit in util/encoders/images.go, while the listener nonce space implemented in server/encoders/encoders.go is small enough to search remotely. An unauthenticated attacker who identifies a valid nonce can submit a highly compressed image to PNGEncoder.Decode, where it expands during png.Decode, exhausting server
+
+- [https://github.com/Squ1shification/PNGboomer-CVE-2026-77622](https://github.com/Squ1shification/PNGboomer-CVE-2026-77622) : ![starts](https://img.shields.io/github/stars/Squ1shification/PNGboomer-CVE-2026-77622.svg) ![forks](https://img.shields.io/github/forks/Squ1shification/PNGboomer-CVE-2026-77622.svg)
 
 ## CVE-2026-77557
  A malicious actor with access to the network could exploit an Improper Access Control vulnerability found in UniFi Protect AI Key to escalate privileges on the device.
@@ -14739,6 +14753,8 @@ destination-frag path or fall back to skb_cow_data().
 - [https://github.com/Jean7z/DFRoot-DirtyFrag](https://github.com/Jean7z/DFRoot-DirtyFrag) : ![starts](https://img.shields.io/github/stars/Jean7z/DFRoot-DirtyFrag.svg) ![forks](https://img.shields.io/github/forks/Jean7z/DFRoot-DirtyFrag.svg)
 
 - [https://github.com/nemoiwkryang/pd2301-dirtyfrag-root](https://github.com/nemoiwkryang/pd2301-dirtyfrag-root) : ![starts](https://img.shields.io/github/stars/nemoiwkryang/pd2301-dirtyfrag-root.svg) ![forks](https://img.shields.io/github/forks/nemoiwkryang/pd2301-dirtyfrag-root.svg)
+
+- [https://github.com/q181555/pd2232-dirtyfrag](https://github.com/q181555/pd2232-dirtyfrag) : ![starts](https://img.shields.io/github/stars/q181555/pd2232-dirtyfrag.svg) ![forks](https://img.shields.io/github/forks/q181555/pd2232-dirtyfrag.svg)
 
 ## CVE-2026-43074
  In the Linux kernel, the following vulnerability has been resolved:

@@ -46,6 +46,10 @@ The risk of this issue is greatly reduced if you secure access to the User-ID™
 
 - [https://github.com/esecforte/PoC_CVE-2026-117017](https://github.com/esecforte/PoC_CVE-2026-117017) : ![starts](https://img.shields.io/github/stars/esecforte/PoC_CVE-2026-117017.svg) ![forks](https://img.shields.io/github/forks/esecforte/PoC_CVE-2026-117017.svg)
 
+## CVE-2026-117368
+
+- [https://github.com/yukinkoNo1/prestashop-security-advisories](https://github.com/yukinkoNo1/prestashop-security-advisories) : ![starts](https://img.shields.io/github/stars/yukinkoNo1/prestashop-security-advisories.svg) ![forks](https://img.shields.io/github/forks/yukinkoNo1/prestashop-security-advisories.svg)
+
 ## CVE-2026-11800
 
 - [https://github.com/sickwell/CVE-2026-11800](https://github.com/sickwell/CVE-2026-11800) : ![starts](https://img.shields.io/github/stars/sickwell/CVE-2026-11800.svg) ![forks](https://img.shields.io/github/forks/sickwell/CVE-2026-11800.svg)
@@ -99,6 +103,22 @@ The risk of this issue is greatly reduced if you secure access to the User-ID™
 
 - [https://github.com/ashrafzaryouh/CVE-2026-39808](https://github.com/ashrafzaryouh/CVE-2026-39808) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-39808.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-39808.svg)
 
+## CVE-2026-43284
+> In the Linux kernel, the following vulnerability has been resolved:
+
+xfrm: esp: avoid in-place decrypt on shared skb frags
+
+MSG_SPLICE_PAGES can attach pages from a pipe directly to an skb. TCP
+marks such skbs with SKBFL_SHARED_FRAG after skb_splice_from_iter(),
+so later paths that may modify packet data can first make a private
+copy. The IPv4/IPv6 datagram append paths did not set this flag when
+splicing pages into UDP skbs.
+
+That leaves an ESP-in-UDP packet made from shared pipe pages looking
+
+
+- [https://github.com/q181555/pd2232-dirtyfrag](https://github.com/q181555/pd2232-dirtyfrag) : ![starts](https://img.shields.io/github/stars/q181555/pd2232-dirtyfrag.svg) ![forks](https://img.shields.io/github/forks/q181555/pd2232-dirtyfrag.svg)
+
 ## CVE-2026-4961
 
 - [https://github.com/lufeng78/tenda-ac6-cve-2026-4961-patch](https://github.com/lufeng78/tenda-ac6-cve-2026-4961-patch) : ![starts](https://img.shields.io/github/stars/lufeng78/tenda-ac6-cve-2026-4961-patch.svg) ![forks](https://img.shields.io/github/forks/lufeng78/tenda-ac6-cve-2026-4961-patch.svg)
@@ -113,6 +133,11 @@ The risk of this issue is greatly reduced if you secure access to the User-ID™
 
 - [https://github.com/mrraylau321/cve-2026-65400-mac-check](https://github.com/mrraylau321/cve-2026-65400-mac-check) : ![starts](https://img.shields.io/github/stars/mrraylau321/cve-2026-65400-mac-check.svg) ![forks](https://img.shields.io/github/forks/mrraylau321/cve-2026-65400-mac-check.svg)
 
+## CVE-2026-77622
+> Sliver is a command and control framework. Prior to 1.7.6, an HTTP(S) listener using the PNG encoder accepts attacker-controlled PNG dimensions without an effective decoded-size or pixel limit in util/encoders/images.go, while the listener nonce space implemented in server/encoders/encoders.go is small enough to search remotely. An unauthenticated attacker who identifies a valid nonce can submit a highly compressed image to PNGEncoder.Decode, where it expands during png.Decode, exhausting server
+
+- [https://github.com/Squ1shification/PNGboomer-CVE-2026-77622](https://github.com/Squ1shification/PNGboomer-CVE-2026-77622) : ![starts](https://img.shields.io/github/stars/Squ1shification/PNGboomer-CVE-2026-77622.svg) ![forks](https://img.shields.io/github/forks/Squ1shification/PNGboomer-CVE-2026-77622.svg)
+
 ## CVE-2026-83681
 
 - [https://github.com/2alf/CarbonBlue](https://github.com/2alf/CarbonBlue) : ![starts](https://img.shields.io/github/stars/2alf/CarbonBlue.svg) ![forks](https://img.shields.io/github/forks/2alf/CarbonBlue.svg)
@@ -126,6 +151,11 @@ The risk of this issue is greatly reduced if you secure access to the User-ID™
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 18.7.11 and iPadOS 18.7.11, iOS 26.7.1 and iPadOS 26.7.1, macOS Sequoia 15.8.1, macOS Tahoe 26.7.1. Processing a maliciously crafted file may lead to arbitrary code execution. Apple is aware of a report that this issue may have been exploited in an extremely sophisticated attack against specific targeted individuals on versions of iOS before iOS 27.
 
 - [https://github.com/ashrafzaryouh/CVE-2026-86950](https://github.com/ashrafzaryouh/CVE-2026-86950) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-86950.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-86950.svg)
+
+## CVE-2026-87008
+> Code Graph RAG is an AI-powered knowledge graph and retrieval system for querying, understanding, and editing multi-language codebases. Prior to 0.0.589, AstGrepService in codebase_rag/tools/ast_grep_service.py enumerates files beneath project_root and relies on should_skip_path in codebase_rag/utils/path_utils.py to classify them, but the containment check operates on unresolved lexical paths. A symbolic link planted inside an analyzed repository can therefore reference a file outside the confi
+
+- [https://github.com/squeeze440/code-graph-rag-PoC](https://github.com/squeeze440/code-graph-rag-PoC) : ![starts](https://img.shields.io/github/stars/squeeze440/code-graph-rag-PoC.svg) ![forks](https://img.shields.io/github/forks/squeeze440/code-graph-rag-PoC.svg)
 
 ## CVE-2026-89052
 > A hardcoded cryptographic key management vulnerability exists in Archer C6 due to the use of a universal cryptographic key shared across devices. An attacker who obtains an encrypted configuration file or other protected credential data can recover plaintext credentials. 
