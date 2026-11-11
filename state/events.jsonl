@@ -11352,3 +11352,21 @@
 {"cve_id": "CVE-2025-55182", "ts": "2026-11-11T17:39:43Z", "type": "new_poc", "url": "https://github.com/nexus956/CVE-2025-55182"}
 {"cve_id": "CVE-2025-55182", "ts": "2026-11-11T17:39:47Z", "type": "new_poc", "url": "https://github.com/simonangel-fong/react2shell-eks"}
 {"cve_id": "CVE-2019-9053", "ts": "2026-11-11T17:47:02Z", "type": "new_poc", "url": "https://github.com/dawcwikla/CVE-2019-9053-exploit"}
+{"cve_id": "CVE-2026-123424", "ts": "2026-11-11T17:51:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123425", "ts": "2026-11-11T17:51:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123426", "ts": "2026-11-11T17:51:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123427", "ts": "2026-11-11T17:51:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123429", "ts": "2026-11-11T17:51:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123430", "ts": "2026-11-11T17:51:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123431", "ts": "2026-11-11T17:51:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123432", "ts": "2026-11-11T17:51:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123435", "ts": "2026-11-11T17:51:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123437", "ts": "2026-11-11T17:51:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123438", "ts": "2026-11-11T17:51:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123439", "ts": "2026-11-11T17:51:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-119948", "ts": "2026-11-11T17:56:19Z", "type": "new_poc", "url": "https://github.com/Ghost-Bx1/cve-2026-119948-windows-ad-rce"}
+{"cve_id": "CVE-2026-121529", "ts": "2026-11-11T17:56:20Z", "type": "new_poc", "url": "https://github.com/Ghost-Bx1/cve-2026-121529-forticlient-cors-rce"}
+{"cve_id": "CVE-2026-126170", "ts": "2026-11-11T17:56:20Z", "type": "new_poc", "url": "https://github.com/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce"}
+{"cve_id": "CVE-2026-124194", "ts": "2026-11-11T17:56:20Z", "type": "new_poc", "url": "https://github.com/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak"}
+{"cve_id": "CVE-2026-111760", "ts": "2026-11-11T17:56:21Z", "type": "new_poc", "url": "https://github.com/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce"}
+{"cve_id": "CVE-2026-73570", "ts": "2026-11-11T18:01:17Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-73570"}

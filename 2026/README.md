@@ -18,11 +18,17 @@
 
 - [https://github.com/briskets/CVE-2026-126187-poc](https://github.com/briskets/CVE-2026-126187-poc) : ![starts](https://img.shields.io/github/stars/briskets/CVE-2026-126187-poc.svg) ![forks](https://img.shields.io/github/forks/briskets/CVE-2026-126187-poc.svg)
 
+## CVE-2026-126170
+
+- [https://github.com/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce](https://github.com/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce.svg)
+
 ## CVE-2026-125757
+> mailcow: dockerized before 2026-11 contains a server-side template injection vulnerability that allows domain administrators to execute commands in the shared rspamd container by storing a malicious domain-wide footer. Attackers can embed a Jinja macro with an os.execute default value, rendered by the rspamd MOO_FOOTER prefilter, to read or inject mail for every tenant and disable filtering.
 
 - [https://github.com/Faceless0x7/CVE-2026-125757](https://github.com/Faceless0x7/CVE-2026-125757) : ![starts](https://img.shields.io/github/stars/Faceless0x7/CVE-2026-125757.svg) ![forks](https://img.shields.io/github/forks/Faceless0x7/CVE-2026-125757.svg)
 
 ## CVE-2026-125753
+> ABP Framework 2.9.0 before 10.6.2 and 10.7.0 pre-releases before 10.7.0 contain a path traversal vulnerability in DefaultBlobFilePathCalculator that allows unauthenticated attackers to access files outside the blob container. Attackers can send %5C-encoded backslashes through the Blogging api/blogging/files/{name} endpoint on Windows hosts to read files like appsettings.json containing signing keys and connection strings.
 
 - [https://github.com/yuwkaaa/CVE-2026-125753](https://github.com/yuwkaaa/CVE-2026-125753) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-125753.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-125753.svg)
 
@@ -66,6 +72,8 @@
 ## CVE-2026-124194
 
 - [https://github.com/AmesianX/CVE-2026-124194-poc](https://github.com/AmesianX/CVE-2026-124194-poc) : ![starts](https://img.shields.io/github/stars/AmesianX/CVE-2026-124194-poc.svg) ![forks](https://img.shields.io/github/forks/AmesianX/CVE-2026-124194-poc.svg)
+
+- [https://github.com/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak](https://github.com/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak.svg)
 
 ## CVE-2026-124079
 > rConfig Core 8.0.0 before 8.2.19 and rConfig Pro before 8.4.1 contain a deserialization of untrusted data vulnerability that allows unauthenticated network attackers to execute arbitrary code by pushing a crafted serialized job onto the Redis-backed Laravel Horizon queue, which runs without authentication in affected deployments. Laravel&#x27;s CallQueuedHandler unserializes the job without class restrictions, allowing attackers to instantiate the existing App\\Jobs\\TaskDownloadRun class and invoke 
@@ -211,6 +219,8 @@
 
 - [https://github.com/googlesky/Fortinet2Shell](https://github.com/googlesky/Fortinet2Shell) : ![starts](https://img.shields.io/github/stars/googlesky/Fortinet2Shell.svg) ![forks](https://img.shields.io/github/forks/googlesky/Fortinet2Shell.svg)
 
+- [https://github.com/Ghost-Bx1/cve-2026-121529-forticlient-cors-rce](https://github.com/Ghost-Bx1/cve-2026-121529-forticlient-cors-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-121529-forticlient-cors-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-121529-forticlient-cors-rce.svg)
+
 ## CVE-2026-121265
 > SQL::Abstract versions before 2.000003 for Perl allow SQL injection via an arrayref column value in insert and update.
 
@@ -274,6 +284,10 @@ An application that passes request data as column values to insert or update
 - [https://github.com/mehmet-emir-eroglu/CVE-2026-119977](https://github.com/mehmet-emir-eroglu/CVE-2026-119977) : ![starts](https://img.shields.io/github/stars/mehmet-emir-eroglu/CVE-2026-119977.svg) ![forks](https://img.shields.io/github/forks/mehmet-emir-eroglu/CVE-2026-119977.svg)
 
 - [https://github.com/BlackHatExploitation/CVE-2026-119977](https://github.com/BlackHatExploitation/CVE-2026-119977) : ![starts](https://img.shields.io/github/stars/BlackHatExploitation/CVE-2026-119977.svg) ![forks](https://img.shields.io/github/forks/BlackHatExploitation/CVE-2026-119977.svg)
+
+## CVE-2026-119948
+
+- [https://github.com/Ghost-Bx1/cve-2026-119948-windows-ad-rce](https://github.com/Ghost-Bx1/cve-2026-119948-windows-ad-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-119948-windows-ad-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-119948-windows-ad-rce.svg)
 
 ## CVE-2026-119905
 
@@ -894,6 +908,8 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 ## CVE-2026-111760
 
 - [https://github.com/suominen/CVE-2026-111760](https://github.com/suominen/CVE-2026-111760) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-111760.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-111760.svg)
+
+- [https://github.com/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce](https://github.com/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce.svg)
 
 ## CVE-2026-111585
 > An integer overflow in the remote-control
@@ -2650,6 +2666,7 @@ The guard that destroys idle keep-alive sockets when unexpected data arrives onl
 - [https://github.com/googlesky/CVE-2026-105437](https://github.com/googlesky/CVE-2026-105437) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-105437.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-105437.svg)
 
 ## CVE-2026-105425
+> OS command injection in Ivanti Sentry before versions 10.7.4, 10.8.3, and 11.0.0 as well as in Ivanti EPMM before version 12.10.0.1, 12.9.0.3, and 12.8.0.5 allows a remote authenticated attacker with admin privileges to achieve remote code execution.
 
 - [https://github.com/mustafasaydam/CVE-2026-105425-PoC](https://github.com/mustafasaydam/CVE-2026-105425-PoC) : ![starts](https://img.shields.io/github/stars/mustafasaydam/CVE-2026-105425-PoC.svg) ![forks](https://img.shields.io/github/forks/mustafasaydam/CVE-2026-105425-PoC.svg)
 
@@ -7295,6 +7312,8 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
 - [https://github.com/0xBlackash/CVE-2026-73570](https://github.com/0xBlackash/CVE-2026-73570) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-73570.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-73570.svg)
 
 - [https://github.com/0xredash/CVE-2026-73570](https://github.com/0xredash/CVE-2026-73570) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2026-73570.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2026-73570.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-73570](https://github.com/ashrafzaryouh/CVE-2026-73570) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-73570.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-73570.svg)
 
 ## CVE-2026-73519
  WolfStack before 25.9.2 contains a hard-coded cluster-authentication secret compiled into every build and published as a constant in src/auth/mod.rs, allowing remote unauthenticated attackers to bypass authentication by supplying this value in the X-WolfStack-Secret header to the require_auth() gate without any session, API key, or user account. Attackers can reach an affected node's management port to enumerate all Docker and LXC containers on the host and execute arbitrary commands as root inside any container via the POST /api/containers/{runtime}/{id}/exec endpoint.

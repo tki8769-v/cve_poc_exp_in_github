@@ -70,6 +70,7 @@
 - [https://github.com/simonangel-fong/react2shell-eks](https://github.com/simonangel-fong/react2shell-eks) : ![starts](https://img.shields.io/github/stars/simonangel-fong/react2shell-eks.svg) ![forks](https://img.shields.io/github/forks/simonangel-fong/react2shell-eks.svg)
 
 ## CVE-2026-105425
+> OS command injection in Ivanti Sentry before versions 10.7.4, 10.8.3, and 11.0.0 as well as in Ivanti EPMM before version 12.10.0.1, 12.9.0.3, and 12.8.0.5 allows a remote authenticated attacker with admin privileges to achieve remote code execution.
 
 - [https://github.com/mustafasaydam/CVE-2026-105425-PoC](https://github.com/mustafasaydam/CVE-2026-105425-PoC) : ![starts](https://img.shields.io/github/stars/mustafasaydam/CVE-2026-105425-PoC.svg) ![forks](https://img.shields.io/github/forks/mustafasaydam/CVE-2026-105425-PoC.svg)
 
@@ -100,6 +101,7 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 ## CVE-2026-111760
 
+- [https://github.com/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce](https://github.com/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce.svg)
 - [https://github.com/suominen/CVE-2026-111760](https://github.com/suominen/CVE-2026-111760) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-111760.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-111760.svg)
 
 ## CVE-2026-115252
@@ -129,8 +131,13 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/overgrowncarrot1/CVE-2026-119905-DNS-Log-Poisoning-UNC-Path](https://github.com/overgrowncarrot1/CVE-2026-119905-DNS-Log-Poisoning-UNC-Path) : ![starts](https://img.shields.io/github/stars/overgrowncarrot1/CVE-2026-119905-DNS-Log-Poisoning-UNC-Path.svg) ![forks](https://img.shields.io/github/forks/overgrowncarrot1/CVE-2026-119905-DNS-Log-Poisoning-UNC-Path.svg)
 
+## CVE-2026-119948
+
+- [https://github.com/Ghost-Bx1/cve-2026-119948-windows-ad-rce](https://github.com/Ghost-Bx1/cve-2026-119948-windows-ad-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-119948-windows-ad-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-119948-windows-ad-rce.svg)
+
 ## CVE-2026-121529
 
+- [https://github.com/Ghost-Bx1/cve-2026-121529-forticlient-cors-rce](https://github.com/Ghost-Bx1/cve-2026-121529-forticlient-cors-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-121529-forticlient-cors-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-121529-forticlient-cors-rce.svg)
 - [https://github.com/ashrafzaryouh/CVE-2026-121529](https://github.com/ashrafzaryouh/CVE-2026-121529) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-121529.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-121529.svg)
 - [https://github.com/googlesky/CVE-2026-121529](https://github.com/googlesky/CVE-2026-121529) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-121529.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-121529.svg)
 - [https://github.com/googlesky/Fortinet2Shell](https://github.com/googlesky/Fortinet2Shell) : ![starts](https://img.shields.io/github/stars/googlesky/Fortinet2Shell.svg) ![forks](https://img.shields.io/github/forks/googlesky/Fortinet2Shell.svg)
@@ -153,6 +160,7 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 ## CVE-2026-124194
 
 - [https://github.com/AmesianX/CVE-2026-124194-poc](https://github.com/AmesianX/CVE-2026-124194-poc) : ![starts](https://img.shields.io/github/stars/AmesianX/CVE-2026-124194-poc.svg) ![forks](https://img.shields.io/github/forks/AmesianX/CVE-2026-124194-poc.svg)
+- [https://github.com/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak](https://github.com/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak.svg)
 
 ## CVE-2026-125350
 
@@ -163,8 +171,13 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/kanokwut/CVE-2026-125439-poc](https://github.com/kanokwut/CVE-2026-125439-poc) : ![starts](https://img.shields.io/github/stars/kanokwut/CVE-2026-125439-poc.svg) ![forks](https://img.shields.io/github/forks/kanokwut/CVE-2026-125439-poc.svg)
 
 ## CVE-2026-125753
+> ABP Framework 2.9.0 before 10.6.2 and 10.7.0 pre-releases before 10.7.0 contain a path traversal vulnerability in DefaultBlobFilePathCalculator that allows unauthenticated attackers to access files outside the blob container. Attackers can send %5C-encoded backslashes through the Blogging api/blogging/files/{name} endpoint on Windows hosts to read files like appsettings.json containing signing keys and connection strings.
 
 - [https://github.com/yuwkaaa/CVE-2026-125753](https://github.com/yuwkaaa/CVE-2026-125753) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-125753.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-125753.svg)
+
+## CVE-2026-126170
+
+- [https://github.com/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce](https://github.com/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce.svg)
 
 ## CVE-2026-126187
 
@@ -297,6 +310,10 @@ Users are advised to upgrade to apache-airflow 3.4.0 or later, in which the work
 ## CVE-2026-70054
 
 - [https://github.com/D7EAD/CVE-2026-70054](https://github.com/D7EAD/CVE-2026-70054) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-70054.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-70054.svg)
+
+## CVE-2026-73570
+
+- [https://github.com/ashrafzaryouh/CVE-2026-73570](https://github.com/ashrafzaryouh/CVE-2026-73570) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-73570.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-73570.svg)
 
 ## CVE-2026-89324
 
