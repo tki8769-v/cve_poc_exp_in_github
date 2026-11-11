@@ -8452,6 +8452,8 @@ This issue affects Command Center Innovation Release: 11.38.0 to 11.38.20. The v
 
 - [https://github.com/l0lsuit/CVE-2025-32432-craftcms-rce](https://github.com/l0lsuit/CVE-2025-32432-craftcms-rce) : ![starts](https://img.shields.io/github/stars/l0lsuit/CVE-2025-32432-craftcms-rce.svg) ![forks](https://img.shields.io/github/forks/l0lsuit/CVE-2025-32432-craftcms-rce.svg)
 
+- [https://github.com/godylockz/CVE-2025-32432](https://github.com/godylockz/CVE-2025-32432) : ![starts](https://img.shields.io/github/stars/godylockz/CVE-2025-32432.svg) ![forks](https://img.shields.io/github/forks/godylockz/CVE-2025-32432.svg)
+
 ## CVE-2025-32429
  XWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. In versions 9.4-rc-1 through 16.10.5 and 17.0.0-rc-1 through 17.2.2, it's possible for anyone to inject SQL using the parameter sort of the getdeleteddocuments.vm. It's injected as is as an ORDER BY value. This is fixed in versions 16.10.6 and 17.3.0-rc-1.
 

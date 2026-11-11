@@ -3954,6 +3954,8 @@ prior to
 
 - [https://github.com/cxb2523/ccfb-pointwise-20261109-010-cve-2023-36845-scanner](https://github.com/cxb2523/ccfb-pointwise-20261109-010-cve-2023-36845-scanner) : ![starts](https://img.shields.io/github/stars/cxb2523/ccfb-pointwise-20261109-010-cve-2023-36845-scanner.svg) ![forks](https://img.shields.io/github/forks/cxb2523/ccfb-pointwise-20261109-010-cve-2023-36845-scanner.svg)
 
+- [https://github.com/cxb2523/ccfb-pointwise-20261111-claude-uid831-867-017-cve-2023-36845-scanner](https://github.com/cxb2523/ccfb-pointwise-20261111-claude-uid831-867-017-cve-2023-36845-scanner) : ![starts](https://img.shields.io/github/stars/cxb2523/ccfb-pointwise-20261111-claude-uid831-867-017-cve-2023-36845-scanner.svg) ![forks](https://img.shields.io/github/forks/cxb2523/ccfb-pointwise-20261111-claude-uid831-867-017-cve-2023-36845-scanner.svg)
+
 ## CVE-2023-36844
  A PHP External Variable Modification vulnerability in J-Web of Juniper Networks Junos OS on EX Series allows an unauthenticated, network-based attacker to control certain, important environment variables.
 

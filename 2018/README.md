@@ -919,6 +919,8 @@
 
 - [https://github.com/fahise/cve-2018-16763](https://github.com/fahise/cve-2018-16763) : ![starts](https://img.shields.io/github/stars/fahise/cve-2018-16763.svg) ![forks](https://img.shields.io/github/forks/fahise/cve-2018-16763.svg)
 
+- [https://github.com/che3axujnya/cve-2018-16763](https://github.com/che3axujnya/cve-2018-16763) : ![starts](https://img.shields.io/github/stars/che3axujnya/cve-2018-16763.svg) ![forks](https://img.shields.io/github/forks/che3axujnya/cve-2018-16763.svg)
+
 ## CVE-2018-16713
  IObit Advanced SystemCare, which includes Monitor_win10_x64.sys or Monitor_win7_x64.sys, 1.2.0.5 (and possibly earlier versions) allows a user to send an IOCTL (0x9C402084) with a buffer containing user defined content. The driver's subroutine will execute a rdmsr instruction with the user's buffer for input, and provide output from the instruction.
 

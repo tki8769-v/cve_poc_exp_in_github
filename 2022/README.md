@@ -7005,6 +7005,8 @@ A privilege escalation vulnerability was reported in the Lenovo HardwareScanPlug
 
 - [https://github.com/SpiralBL0CK/CVE-2022-3653](https://github.com/SpiralBL0CK/CVE-2022-3653) : ![starts](https://img.shields.io/github/stars/SpiralBL0CK/CVE-2022-3653.svg) ![forks](https://img.shields.io/github/forks/SpiralBL0CK/CVE-2022-3653.svg)
 
+- [https://github.com/SpiralBL0CK/VULKAN-RCE-cve-2022-3653](https://github.com/SpiralBL0CK/VULKAN-RCE-cve-2022-3653) : ![starts](https://img.shields.io/github/stars/SpiralBL0CK/VULKAN-RCE-cve-2022-3653.svg) ![forks](https://img.shields.io/github/forks/SpiralBL0CK/VULKAN-RCE-cve-2022-3653.svg)
+
 ## CVE-2022-3616
  Attackers can create long chains of CAs that would lead to OctoRPKI exceeding its max iterations parameter. In consequence it would cause the program to crash, preventing it from finishing the validation and leading to a denial of service. Credits to Donika Mirdita and Haya Shulman - Fraunhofer SIT, ATHENE, who discovered and reported this vulnerability.
 
