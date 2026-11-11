@@ -32,10 +32,12 @@
 - [https://github.com/kanokwut/CVE-2026-125439-poc](https://github.com/kanokwut/CVE-2026-125439-poc) : ![starts](https://img.shields.io/github/stars/kanokwut/CVE-2026-125439-poc.svg) ![forks](https://img.shields.io/github/forks/kanokwut/CVE-2026-125439-poc.svg)
 
 ## CVE-2026-125399
+> Fluxion before 6.39 contains an OS command injection vulnerability in the fluxion.sh target scanner, which decodes access point ESSIDs with eval after escaping only single quotes. Attackers within Wi-Fi range can broadcast an access point with a crafted SSID to execute commands as root when the operator scans or selects it.
 
 - [https://github.com/VulnSVNC/CVE-2026-125399](https://github.com/VulnSVNC/CVE-2026-125399) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-125399.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-125399.svg)
 
 ## CVE-2026-125394
+> FreeRDP before 3.33.0 contains a heap use-after-free vulnerability in update_gdi_patblt(), update_gdi_polygon_cb() and update_gdi_mem3blt() that retain stale brush cache pointers. A malicious RDP server can resend CACHE_BRUSH to the same slot then send PATBLT, causing clients to read freed heap memory, disclosing data or crashing.
 
 - [https://github.com/D7EAD/CVE-2026-125394](https://github.com/D7EAD/CVE-2026-125394) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-125394.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-125394.svg)
 
@@ -2192,6 +2194,8 @@ This issue has been fixed in version 2.5.
 - [https://github.com/Ya0h4cker/CVE-2026-109618-and-CVE-2026-109619](https://github.com/Ya0h4cker/CVE-2026-109618-and-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/Ya0h4cker/CVE-2026-109618-and-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/Ya0h4cker/CVE-2026-109618-and-CVE-2026-109619.svg)
 
 - [https://github.com/Mahyarpishbazz/php2version-scanner](https://github.com/Mahyarpishbazz/php2version-scanner) : ![starts](https://img.shields.io/github/stars/Mahyarpishbazz/php2version-scanner.svg) ![forks](https://img.shields.io/github/forks/Mahyarpishbazz/php2version-scanner.svg)
+
+- [https://github.com/TarzEH/php2shell-demo](https://github.com/TarzEH/php2shell-demo) : ![starts](https://img.shields.io/github/stars/TarzEH/php2shell-demo.svg) ![forks](https://img.shields.io/github/forks/TarzEH/php2shell-demo.svg)
 
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
@@ -22645,6 +22649,8 @@ When this occurs, `dest["__proto__"]` resolves to `Object.prototype` rather than
 - [https://github.com/0xBlackash/CVE-2026-21643](https://github.com/0xBlackash/CVE-2026-21643) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-21643.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-21643.svg)
 
 - [https://github.com/alirezac0/CVE-2026-21643](https://github.com/alirezac0/CVE-2026-21643) : ![starts](https://img.shields.io/github/stars/alirezac0/CVE-2026-21643.svg) ![forks](https://img.shields.io/github/forks/alirezac0/CVE-2026-21643.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-21643](https://github.com/ashrafzaryouh/CVE-2026-21643) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-21643.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-21643.svg)
 
 ## CVE-2026-21636
  A flaw in Node.js's permission model allows Unix Domain Socket (UDS) connections to bypass network restrictions when `--permission` is enabled. Even without `--allow-net`, attacker-controlled inputs (such as URLs or socketPath options) can connect to arbitrary local sockets via net, tls, or undici/fetch. This breaks the intended security boundary of the permission model and enables access to privileged local services, potentially leading to privilege escalation, data exposure, or local code execution.

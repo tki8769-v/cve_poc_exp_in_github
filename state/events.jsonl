@@ -11133,3 +11133,8 @@
 {"cve_id": "CVE-2026-46331", "ts": "2026-11-11T07:54:25Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-46331"}
 {"cve_id": "CVE-2026-46333", "ts": "2026-11-11T07:54:25Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-46333"}
 {"cve_id": "CVE-2018-16763", "ts": "2026-11-11T07:58:34Z", "type": "new_poc", "url": "https://github.com/che3axujnya/cve-2018-16763"}
+{"cve_id": "CVE-2026-124610", "ts": "2026-11-11T08:05:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-73860", "ts": "2026-11-11T08:06:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-77914", "ts": "2026-11-11T08:07:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-11T08:09:16Z", "type": "new_poc", "url": "https://github.com/TarzEH/php2shell-demo"}
+{"cve_id": "CVE-2026-21643", "ts": "2026-11-11T08:16:54Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-21643"}
