@@ -1335,6 +1335,8 @@ which fixes this issue.
 
 - [https://github.com/krevetkqqq/cve-2023-46604-activemq-lab](https://github.com/krevetkqqq/cve-2023-46604-activemq-lab) : ![starts](https://img.shields.io/github/stars/krevetkqqq/cve-2023-46604-activemq-lab.svg) ![forks](https://img.shields.io/github/forks/krevetkqqq/cve-2023-46604-activemq-lab.svg)
 
+- [https://github.com/Abdelhalim11/CyberDefenders-OpenWire](https://github.com/Abdelhalim11/CyberDefenders-OpenWire) : ![starts](https://img.shields.io/github/stars/Abdelhalim11/CyberDefenders-OpenWire.svg) ![forks](https://img.shields.io/github/forks/Abdelhalim11/CyberDefenders-OpenWire.svg)
+
 ## CVE-2023-46527
  TP-LINK TL-WR886N V7.0_3.0.14_Build_221115_Rel.56908n.bin and TL-WDR7660 2.0.30 was discovered to contain a stack overflow via the function bindRequestHandle.
 

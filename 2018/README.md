@@ -520,6 +520,8 @@
 
 - [https://github.com/hmnthabit/CVE-2018-19320-LPE](https://github.com/hmnthabit/CVE-2018-19320-LPE) : ![starts](https://img.shields.io/github/stars/hmnthabit/CVE-2018-19320-LPE.svg) ![forks](https://img.shields.io/github/forks/hmnthabit/CVE-2018-19320-LPE.svg)
 
+- [https://github.com/saretawa/megumin.exe](https://github.com/saretawa/megumin.exe) : ![starts](https://img.shields.io/github/stars/saretawa/megumin.exe.svg) ![forks](https://img.shields.io/github/forks/saretawa/megumin.exe.svg)
+
 ## CVE-2018-19278
  Buffer overflow in DNS SRV and NAPTR lookups in Digium Asterisk 15.x before 15.6.2 and 16.x before 16.0.1 allows remote attackers to crash Asterisk via a specially crafted DNS SRV or NAPTR response, because a buffer size is supposed to match an expanded length but actually matches a compressed length.
 

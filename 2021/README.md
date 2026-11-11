@@ -4292,6 +4292,8 @@ After installing this security update, you must manually delete all shadow copie
 
 - [https://github.com/code-msga/HikvisionExploiter_fixed](https://github.com/code-msga/HikvisionExploiter_fixed) : ![starts](https://img.shields.io/github/stars/code-msga/HikvisionExploiter_fixed.svg) ![forks](https://img.shields.io/github/forks/code-msga/HikvisionExploiter_fixed.svg)
 
+- [https://github.com/ZeroHackOrg/camera-hacking](https://github.com/ZeroHackOrg/camera-hacking) : ![starts](https://img.shields.io/github/stars/ZeroHackOrg/camera-hacking.svg) ![forks](https://img.shields.io/github/forks/ZeroHackOrg/camera-hacking.svg)
+
 ## CVE-2021-35956
  Stored cross-site scripting (XSS) in the embedded webserver of AKCP sensorProbe before SP480-20210624 enables remote authenticated attackers to introduce arbitrary JavaScript via the Sensor Description, Email (from/to/cc), System Name, and System Location fields.
 
@@ -5229,6 +5231,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/orangmuda/CVE-2021-30573](https://github.com/orangmuda/CVE-2021-30573) : ![starts](https://img.shields.io/github/stars/orangmuda/CVE-2021-30573.svg) ![forks](https://img.shields.io/github/forks/orangmuda/CVE-2021-30573.svg)
 
 - [https://github.com/kh4sh3i/CVE-2021-30573](https://github.com/kh4sh3i/CVE-2021-30573) : ![starts](https://img.shields.io/github/stars/kh4sh3i/CVE-2021-30573.svg) ![forks](https://img.shields.io/github/forks/kh4sh3i/CVE-2021-30573.svg)
+
+## CVE-2021-30563
+
+- [https://github.com/RemiPelloux/HackoogleMini](https://github.com/RemiPelloux/HackoogleMini) : ![starts](https://img.shields.io/github/stars/RemiPelloux/HackoogleMini.svg) ![forks](https://img.shields.io/github/forks/RemiPelloux/HackoogleMini.svg)
 
 ## CVE-2021-30551
  Type confusion in V8 in Google Chrome prior to 91.0.4472.101 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page.

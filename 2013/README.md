@@ -379,6 +379,10 @@ Exploitation of this vulnerability requires that a user or application run or in
 
 - [https://github.com/v-p-b/buherablog-cve-2013-1488](https://github.com/v-p-b/buherablog-cve-2013-1488) : ![starts](https://img.shields.io/github/stars/v-p-b/buherablog-cve-2013-1488.svg) ![forks](https://img.shields.io/github/forks/v-p-b/buherablog-cve-2013-1488.svg)
 
+## CVE-2013-1453
+
+- [https://github.com/stupazz/joomla-cve-2013-1453](https://github.com/stupazz/joomla-cve-2013-1453) : ![starts](https://img.shields.io/github/stars/stupazz/joomla-cve-2013-1453.svg) ![forks](https://img.shields.io/github/forks/stupazz/joomla-cve-2013-1453.svg)
+
 ## CVE-2013-1300
  win32k.sys in the kernel-mode drivers in Microsoft Windows XP SP2 and SP3, Windows Server 2003 SP2, Windows Vista SP2, Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8, Windows Server 2012, and Windows RT does not properly handle objects in memory, which allows local users to gain privileges via a crafted application, aka "Win32k Memory Allocation Vulnerability."
 

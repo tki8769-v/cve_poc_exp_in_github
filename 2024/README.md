@@ -2018,6 +2018,8 @@ Users are recommended to upgrade to version 2.14.0 or later, which fixes the iss
 
 - [https://github.com/Stickxx00/Cups-RCE-Exploit](https://github.com/Stickxx00/Cups-RCE-Exploit) : ![starts](https://img.shields.io/github/stars/Stickxx00/Cups-RCE-Exploit.svg) ![forks](https://img.shields.io/github/forks/Stickxx00/Cups-RCE-Exploit.svg)
 
+- [https://github.com/Md-Nafiul-Hamim/cups-browse-exploit-detection](https://github.com/Md-Nafiul-Hamim/cups-browse-exploit-detection) : ![starts](https://img.shields.io/github/stars/Md-Nafiul-Hamim/cups-browse-exploit-detection.svg) ![forks](https://img.shields.io/github/forks/Md-Nafiul-Hamim/cups-browse-exploit-detection.svg)
+
 ## CVE-2024-47175
  CUPS is a standards-based, open-source printing system, and `libppd` can be used for legacy PPD file support. The `libppd` function `ppdCreatePPDFromIPP2` does not sanitize IPP attributes when creating the PPD buffer. When used in combination with other functions such as `cfGetPrinterAttributes5`, can result in user controlled input and ultimately code execution via Foomatic. This vulnerability can be part of an exploit chain leading to remote code execution (RCE), as described in CVE-2024-47176.
 
@@ -4215,6 +4217,8 @@ Call Trace:
 ## CVE-2024-36779
 
 - [https://github.com/AgnesAhalya/rw-stock](https://github.com/AgnesAhalya/rw-stock) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-stock.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-stock.svg)
+
+- [https://github.com/rw-a3/rw-stock](https://github.com/rw-a3/rw-stock) : ![starts](https://img.shields.io/github/stars/rw-a3/rw-stock.svg) ![forks](https://img.shields.io/github/forks/rw-a3/rw-stock.svg)
 
 ## CVE-2024-36774
 
@@ -11122,6 +11126,8 @@ WhatsUp.ExportUtilities.Export.GetFileWithoutZip
 ## CVE-2024-4442
 
 - [https://github.com/AgnesAhalya/rw-salon](https://github.com/AgnesAhalya/rw-salon) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-salon.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-salon.svg)
+
+- [https://github.com/rw-a3/rw-salon](https://github.com/rw-a3/rw-salon) : ![starts](https://img.shields.io/github/stars/rw-a3/rw-salon.svg) ![forks](https://img.shields.io/github/forks/rw-a3/rw-salon.svg)
 
 ## CVE-2024-4439
  WordPress Core is vulnerable to Stored Cross-Site Scripting via user display names in the Avatar block in various versions up to 6.5.2 due to insufficient output escaping on the display name. This makes it possible for authenticated attackers, with contributor-level access and above, to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. In addition, it also makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that have the comment block present and display the comment author's avatar.
