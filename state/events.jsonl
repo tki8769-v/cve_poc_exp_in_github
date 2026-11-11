@@ -11325,3 +11325,30 @@
 {"cve_id": "CVE-2024-4442", "ts": "2026-11-11T17:16:38Z", "type": "new_poc", "url": "https://github.com/rw-a3/rw-salon"}
 {"cve_id": "CVE-2026-44277", "ts": "2026-11-11T17:19:42Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-44277"}
 {"cve_id": "CVE-2026-46817", "ts": "2026-11-11T17:22:38Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-46817"}
+{"cve_id": "CVE-2026-123424", "ts": "2026-11-11T17:27:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123425", "ts": "2026-11-11T17:27:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123426", "ts": "2026-11-11T17:27:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123427", "ts": "2026-11-11T17:27:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123429", "ts": "2026-11-11T17:27:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123430", "ts": "2026-11-11T17:27:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123431", "ts": "2026-11-11T17:27:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123432", "ts": "2026-11-11T17:27:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123435", "ts": "2026-11-11T17:27:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123437", "ts": "2026-11-11T17:27:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123438", "ts": "2026-11-11T17:27:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123439", "ts": "2026-11-11T17:27:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123424", "ts": "2026-11-11T17:33:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123425", "ts": "2026-11-11T17:33:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123426", "ts": "2026-11-11T17:33:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123427", "ts": "2026-11-11T17:33:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123429", "ts": "2026-11-11T17:33:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123430", "ts": "2026-11-11T17:34:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123431", "ts": "2026-11-11T17:34:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123432", "ts": "2026-11-11T17:34:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123435", "ts": "2026-11-11T17:34:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123437", "ts": "2026-11-11T17:34:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123438", "ts": "2026-11-11T17:34:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123439", "ts": "2026-11-11T17:34:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-55182", "ts": "2026-11-11T17:39:43Z", "type": "new_poc", "url": "https://github.com/nexus956/CVE-2025-55182"}
+{"cve_id": "CVE-2025-55182", "ts": "2026-11-11T17:39:47Z", "type": "new_poc", "url": "https://github.com/simonangel-fong/react2shell-eks"}
+{"cve_id": "CVE-2019-9053", "ts": "2026-11-11T17:47:02Z", "type": "new_poc", "url": "https://github.com/dawcwikla/CVE-2019-9053-exploit"}

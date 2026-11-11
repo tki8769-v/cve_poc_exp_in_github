@@ -3357,6 +3357,8 @@ use after free.
 
 - [https://github.com/so1icitx/CVE-2019-9053](https://github.com/so1icitx/CVE-2019-9053) : ![starts](https://img.shields.io/github/stars/so1icitx/CVE-2019-9053.svg) ![forks](https://img.shields.io/github/forks/so1icitx/CVE-2019-9053.svg)
 
+- [https://github.com/dawcwikla/CVE-2019-9053-exploit](https://github.com/dawcwikla/CVE-2019-9053-exploit) : ![starts](https://img.shields.io/github/stars/dawcwikla/CVE-2019-9053-exploit.svg) ![forks](https://img.shields.io/github/forks/dawcwikla/CVE-2019-9053-exploit.svg)
+
 ## CVE-2019-8997
  An XML External Entity Injection (XXE) vulnerability in the Management System (console) of BlackBerry AtHoc versions earlier than 7.6 HF-567 could allow an attacker to potentially read arbitrary local files from the application server or make requests on the network by entering maliciously crafted XML in an existing field.
 

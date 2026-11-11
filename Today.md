@@ -15,6 +15,10 @@
 
 - [https://github.com/saretawa/megumin.exe](https://github.com/saretawa/megumin.exe) : ![starts](https://img.shields.io/github/stars/saretawa/megumin.exe.svg) ![forks](https://img.shields.io/github/forks/saretawa/megumin.exe.svg)
 
+## CVE-2019-9053
+
+- [https://github.com/dawcwikla/CVE-2019-9053-exploit](https://github.com/dawcwikla/CVE-2019-9053-exploit) : ![starts](https://img.shields.io/github/stars/dawcwikla/CVE-2019-9053-exploit.svg) ![forks](https://img.shields.io/github/forks/dawcwikla/CVE-2019-9053-exploit.svg)
+
 ## CVE-2020-24186
 
 - [https://github.com/SimonL01/wpdiscuz-cve-2020-24186](https://github.com/SimonL01/wpdiscuz-cve-2020-24186) : ![starts](https://img.shields.io/github/stars/SimonL01/wpdiscuz-cve-2020-24186.svg) ![forks](https://img.shields.io/github/forks/SimonL01/wpdiscuz-cve-2020-24186.svg)
@@ -58,6 +62,12 @@
 ## CVE-2025-32432
 
 - [https://github.com/godylockz/CVE-2025-32432](https://github.com/godylockz/CVE-2025-32432) : ![starts](https://img.shields.io/github/stars/godylockz/CVE-2025-32432.svg) ![forks](https://img.shields.io/github/forks/godylockz/CVE-2025-32432.svg)
+
+## CVE-2025-55182
+> A pre-authentication remote code execution vulnerability exists in React Server Components versions 19.0.0, 19.1.0, 19.1.1, and 19.2.0 including the following packages: react-server-dom-parcel, react-server-dom-turbopack, and react-server-dom-webpack. The vulnerable code unsafely deserializes payloads from HTTP requests to Server Function endpoints.
+
+- [https://github.com/nexus956/CVE-2025-55182](https://github.com/nexus956/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/nexus956/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/nexus956/CVE-2025-55182.svg)
+- [https://github.com/simonangel-fong/react2shell-eks](https://github.com/simonangel-fong/react2shell-eks) : ![starts](https://img.shields.io/github/stars/simonangel-fong/react2shell-eks.svg) ![forks](https://img.shields.io/github/forks/simonangel-fong/react2shell-eks.svg)
 
 ## CVE-2026-105425
 
