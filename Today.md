@@ -11,6 +11,10 @@
 
 - [https://github.com/cxb2523/ccfb-pointwise-20261111-claude-uid831-867-017-cve-2023-36845-scanner](https://github.com/cxb2523/ccfb-pointwise-20261111-claude-uid831-867-017-cve-2023-36845-scanner) : ![starts](https://img.shields.io/github/stars/cxb2523/ccfb-pointwise-20261111-claude-uid831-867-017-cve-2023-36845-scanner.svg) ![forks](https://img.shields.io/github/forks/cxb2523/ccfb-pointwise-20261111-claude-uid831-867-017-cve-2023-36845-scanner.svg)
 
+## CVE-2025-13315
+
+- [https://github.com/ashrafzaryouh/CVE-2025-13315](https://github.com/ashrafzaryouh/CVE-2025-13315) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2025-13315.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2025-13315.svg)
+
 ## CVE-2025-32432
 
 - [https://github.com/godylockz/CVE-2025-32432](https://github.com/godylockz/CVE-2025-32432) : ![starts](https://img.shields.io/github/stars/godylockz/CVE-2025-32432.svg) ![forks](https://img.shields.io/github/forks/godylockz/CVE-2025-32432.svg)
@@ -88,6 +92,11 @@
 ## CVE-2026-26119
 
 - [https://github.com/csdovah/vuln-cve-2026-26119](https://github.com/csdovah/vuln-cve-2026-26119) : ![starts](https://img.shields.io/github/stars/csdovah/vuln-cve-2026-26119.svg) ![forks](https://img.shields.io/github/forks/csdovah/vuln-cve-2026-26119.svg)
+
+## CVE-2026-39813
+> A path traversal: &#x27;../filedir&#x27; vulnerability in Fortinet FortiSandbox 5.0.0 through 5.0.5, FortiSandbox 4.4.0 through 4.4.8 may allow attacker to escalation of privilege via specially crafted HTTP requests.
+
+- [https://github.com/ashrafzaryouh/CVE-2026-39813](https://github.com/ashrafzaryouh/CVE-2026-39813) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-39813.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-39813.svg)
 
 ## CVE-2026-43499
 > In the Linux kernel, the following vulnerability has been resolved:
