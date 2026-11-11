@@ -3305,3 +3305,5 @@
 {"cve_id": "CVE-2026-4426", "reason": "prefix_conflict_evidenced", "ts": "2026-11-11T17:19:41Z", "url": "https://github.com/joshuavanderpoll/CVE-2026-44262", "url_ids": ["CVE-2026-44262"]}
 {"cve_id": "CVE-2026-4426", "reason": "prefix_conflict_evidenced", "ts": "2026-11-11T17:19:41Z", "url": "https://github.com/umair-aziz025/CVE-2026-44267", "url_ids": ["CVE-2026-44267"]}
 {"cve_id": "CVE-2026-3333", "reason": "prefix_conflict_evidenced", "ts": "2026-11-11T18:03:26Z", "url": "https://github.com/abhayclasher/CVE-2026-33331", "url_ids": ["CVE-2026-33331"]}
+{"cve_id": "CVE-2025-2748", "reason": "prefix_conflict_evidenced", "ts": "2026-11-11T23:45:01Z", "url": "https://github.com/mrk336/CVE-2025-27480", "url_ids": ["CVE-2025-27480"]}
+{"cve_id": "CVE-2025-2748", "reason": "prefix_conflict_evidenced", "ts": "2026-11-11T23:45:01Z", "url": "https://github.com/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk", "url_ids": ["CVE-2025-27480"]}

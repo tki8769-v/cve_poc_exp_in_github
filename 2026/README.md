@@ -18,6 +18,8 @@
 
 - [https://github.com/briskets/CVE-2026-126187-poc](https://github.com/briskets/CVE-2026-126187-poc) : ![starts](https://img.shields.io/github/stars/briskets/CVE-2026-126187-poc.svg) ![forks](https://img.shields.io/github/forks/briskets/CVE-2026-126187-poc.svg)
 
+- [https://github.com/rudSarkar/GHSA-673q-mjm6-r5xr](https://github.com/rudSarkar/GHSA-673q-mjm6-r5xr) : ![starts](https://img.shields.io/github/stars/rudSarkar/GHSA-673q-mjm6-r5xr.svg) ![forks](https://img.shields.io/github/forks/rudSarkar/GHSA-673q-mjm6-r5xr.svg)
+
 ## CVE-2026-126170
 
 - [https://github.com/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce](https://github.com/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-126170-fortimanager-jsonrpc-rce.svg)
@@ -171,6 +173,10 @@
 - [https://github.com/pablocerdeira1/CVE-2026-123158](https://github.com/pablocerdeira1/CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/pablocerdeira1/CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/pablocerdeira1/CVE-2026-123158.svg)
 
 - [https://github.com/douglasmun/CVE-2026-123158_sshole_lab](https://github.com/douglasmun/CVE-2026-123158_sshole_lab) : ![starts](https://img.shields.io/github/stars/douglasmun/CVE-2026-123158_sshole_lab.svg) ![forks](https://img.shields.io/github/forks/douglasmun/CVE-2026-123158_sshole_lab.svg)
+
+- [https://github.com/Doseuser/CVE-2026-123158](https://github.com/Doseuser/CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/Doseuser/CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/Doseuser/CVE-2026-123158.svg)
+
+- [https://github.com/MMitsuha/CVE-2026-123158](https://github.com/MMitsuha/CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/MMitsuha/CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/MMitsuha/CVE-2026-123158.svg)
 
 ## CVE-2026-123025
 > An OS Command Injection vulnerability was discovered in the Google Cloud DNS validation module of the OPNsense os-acme-client plugin through 4.17. The DnsGcloud::prepare() method decodes the dns_gcloud_key model field and directly interpolates the string fields gcloud_account and gcloud_project into a shell command passed to proc_open() via LeUtils::run_shell_command() without any validation or escaping. A remote authenticated user with privileges to issue or renew certificates through the WebGU
@@ -868,6 +874,10 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 
 - [https://github.com/jasonbernier/Dialplan-Escape-RCE](https://github.com/jasonbernier/Dialplan-Escape-RCE) : ![starts](https://img.shields.io/github/stars/jasonbernier/Dialplan-Escape-RCE.svg) ![forks](https://img.shields.io/github/forks/jasonbernier/Dialplan-Escape-RCE.svg)
 
+## CVE-2026-112174
+
+- [https://github.com/jonastrikex/CVE-2026-112174-Iperius-Backup-version-8.8.3-PoC](https://github.com/jonastrikex/CVE-2026-112174-Iperius-Backup-version-8.8.3-PoC) : ![starts](https://img.shields.io/github/stars/jonastrikex/CVE-2026-112174-Iperius-Backup-version-8.8.3-PoC.svg) ![forks](https://img.shields.io/github/forks/jonastrikex/CVE-2026-112174-Iperius-Backup-version-8.8.3-PoC.svg)
+
 ## CVE-2026-112071
 > The order cancellation function accepts an order identifier from the request and acts on that order without checking that the caller owns it. Any site visitor can set orders that are still awaiting payment to &quot;canceled&quot;. This requires a page that contains the shop&#x27;s order plugin. Orders that are already paid are not affected.
 
@@ -1505,6 +1515,8 @@ This issue has been fixed in version 2.5.
 - [https://github.com/che3axujnya/cve-2026-109618-cve-2026-109619-poc](https://github.com/che3axujnya/cve-2026-109618-cve-2026-109619-poc) : ![starts](https://img.shields.io/github/stars/che3axujnya/cve-2026-109618-cve-2026-109619-poc.svg) ![forks](https://img.shields.io/github/forks/che3axujnya/cve-2026-109618-cve-2026-109619-poc.svg)
 
 - [https://github.com/Ya0h4cker/CVE-2026-109618-and-CVE-2026-109619](https://github.com/Ya0h4cker/CVE-2026-109618-and-CVE-2026-109619) : ![starts](https://img.shields.io/github/stars/Ya0h4cker/CVE-2026-109618-and-CVE-2026-109619.svg) ![forks](https://img.shields.io/github/forks/Ya0h4cker/CVE-2026-109618-and-CVE-2026-109619.svg)
+
+- [https://github.com/Oresti-Jorgjiu/CVE-2026-109619-Alpine-SessionLFI](https://github.com/Oresti-Jorgjiu/CVE-2026-109619-Alpine-SessionLFI) : ![starts](https://img.shields.io/github/stars/Oresti-Jorgjiu/CVE-2026-109619-Alpine-SessionLFI.svg) ![forks](https://img.shields.io/github/forks/Oresti-Jorgjiu/CVE-2026-109619-Alpine-SessionLFI.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -2711,6 +2723,10 @@ The guard that destroys idle keep-alive sockets when unexpected data arrives onl
 > Kener 4.0.0 before 4.1.6 contains an information disclosure vulnerability that allows unauthenticated attackers to retrieve hidden or inactive monitor data by querying dashboard API handlers lacking visibility filters. Attackers can supply a known or guessed monitor tag to endpoints such as monitor-bar and monitor-latency-chart to obtain names, descriptions, status, uptime history and latency.
 
 - [https://github.com/asvorg/CVE-2026-105030-poc](https://github.com/asvorg/CVE-2026-105030-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-105030-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-105030-poc.svg)
+
+## CVE-2026-105016
+
+- [https://github.com/LHeiakim/CVE-2026-105016-RCE-PoC](https://github.com/LHeiakim/CVE-2026-105016-RCE-PoC) : ![starts](https://img.shields.io/github/stars/LHeiakim/CVE-2026-105016-RCE-PoC.svg) ![forks](https://img.shields.io/github/forks/LHeiakim/CVE-2026-105016-RCE-PoC.svg)
 
 ## CVE-2026-105014
 
@@ -13903,6 +13919,10 @@ Not affected:
 
 - [https://github.com/pvharmo2/gha-lab-733c168b88](https://github.com/pvharmo2/gha-lab-733c168b88) : ![starts](https://img.shields.io/github/stars/pvharmo2/gha-lab-733c168b88.svg) ![forks](https://img.shields.io/github/forks/pvharmo2/gha-lab-733c168b88.svg)
 
+## CVE-2026-44212
+
+- [https://github.com/fstivicic/prestashop17-security-patches](https://github.com/fstivicic/prestashop17-security-patches) : ![starts](https://img.shields.io/github/stars/fstivicic/prestashop17-security-patches.svg) ![forks](https://img.shields.io/github/forks/fstivicic/prestashop17-security-patches.svg)
+
 ## CVE-2026-44166
  Pocketbase is an open source web backend written in go. Prior to 0.22.42 and 0.37.4, in some situations, if an attacker knows the email address of the victim they can create and link an unverified PocketBase user in advance by authenticating with one of the OAuth2 app providers, e.g. "A". When the victim gets invited or decides to sign up to your app on their own with provider "B" (PocketBase OAuth2 auth requires to be with a different provider because we don't allow multiple OAuth2 accounts from the same provider to be associated to a single PocketBase user), the user created previously by the attacker will be autolinked, upgraded to "verified" and its old password reset. This vulnerability is fixed in 0.22.42 and 0.37.4.
 
@@ -17993,6 +18013,8 @@ Users are recommended to upgrade to version 9.2.15 or 10.1.4, which fixes the is
 > GeoNode is a geospatial content management system, a platform for the management and publication of geospatial data. Prior to 5.1.0, a crafted vector file layer name supplied during upload allows a low-privileged remote user to inject shell syntax and execute arbitrary operating-system commands on the GeoNode server. This issue is fixed in version 5.1.0.
 
 - [https://github.com/federiconbaez/cortex9-geonode-layer-name-command-injection-model](https://github.com/federiconbaez/cortex9-geonode-layer-name-command-injection-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-geonode-layer-name-command-injection-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-geonode-layer-name-command-injection-model.svg)
+
+- [https://github.com/comradezephyr/CVE-2026-33050](https://github.com/comradezephyr/CVE-2026-33050) : ![starts](https://img.shields.io/github/stars/comradezephyr/CVE-2026-33050.svg) ![forks](https://img.shields.io/github/forks/comradezephyr/CVE-2026-33050.svg)
 
 ## CVE-2026-33033
  An issue was discovered in 6.0 before 6.0.4, 5.2 before 5.2.13, and 4.2 before 4.2.30.
@@ -22885,6 +22907,8 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 ## CVE-2026-21155
 
 - [https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546](https://github.com/UnsignedChad/CVE-2026-21155-SVE-2026-3546) : ![starts](https://img.shields.io/github/stars/UnsignedChad/CVE-2026-21155-SVE-2026-3546.svg) ![forks](https://img.shields.io/github/forks/UnsignedChad/CVE-2026-21155-SVE-2026-3546.svg)
+
+- [https://github.com/yuki493/s5e8835-sboot-probe](https://github.com/yuki493/s5e8835-sboot-probe) : ![starts](https://img.shields.io/github/stars/yuki493/s5e8835-sboot-probe.svg) ![forks](https://img.shields.io/github/forks/yuki493/s5e8835-sboot-probe.svg)
 
 ## CVE-2026-21096
 

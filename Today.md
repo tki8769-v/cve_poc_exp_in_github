@@ -69,6 +69,10 @@
 - [https://github.com/nexus956/CVE-2025-55182](https://github.com/nexus956/CVE-2025-55182) : ![starts](https://img.shields.io/github/stars/nexus956/CVE-2025-55182.svg) ![forks](https://img.shields.io/github/forks/nexus956/CVE-2025-55182.svg)
 - [https://github.com/simonangel-fong/react2shell-eks](https://github.com/simonangel-fong/react2shell-eks) : ![starts](https://img.shields.io/github/stars/simonangel-fong/react2shell-eks.svg) ![forks](https://img.shields.io/github/forks/simonangel-fong/react2shell-eks.svg)
 
+## CVE-2026-105016
+
+- [https://github.com/LHeiakim/CVE-2026-105016-RCE-PoC](https://github.com/LHeiakim/CVE-2026-105016-RCE-PoC) : ![starts](https://img.shields.io/github/stars/LHeiakim/CVE-2026-105016-RCE-PoC.svg) ![forks](https://img.shields.io/github/forks/LHeiakim/CVE-2026-105016-RCE-PoC.svg)
+
 ## CVE-2026-105425
 > OS command injection in Ivanti Sentry before versions 10.7.4, 10.8.3, and 11.0.0 as well as in Ivanti EPMM before version 12.10.0.1, 12.9.0.3, and 12.8.0.5 allows a remote authenticated attacker with admin privileges to achieve remote code execution.
 
@@ -82,6 +86,11 @@
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
 
 - [https://github.com/TarzEH/php2shell-demo](https://github.com/TarzEH/php2shell-demo) : ![starts](https://img.shields.io/github/stars/TarzEH/php2shell-demo.svg) ![forks](https://img.shields.io/github/forks/TarzEH/php2shell-demo.svg)
+
+## CVE-2026-109619
+> PHP has various global state that temporarily points into request memory. In some scenarios, global state may not be correctly reset, or may be repopulated after being reset. The global state may then refer to request memory even after it has been freed. Subsequent requests may read or branch on this stale state before it is fully initialized. Multiple strategies can trigger this condition and produce remote code execution (RCE).
+
+- [https://github.com/Oresti-Jorgjiu/CVE-2026-109619-Alpine-SessionLFI](https://github.com/Oresti-Jorgjiu/CVE-2026-109619-Alpine-SessionLFI) : ![starts](https://img.shields.io/github/stars/Oresti-Jorgjiu/CVE-2026-109619-Alpine-SessionLFI.svg) ![forks](https://img.shields.io/github/forks/Oresti-Jorgjiu/CVE-2026-109619-Alpine-SessionLFI.svg)
 
 ## CVE-2026-110264
 > An issue has been discovered in GitLab CE/EE affecting all versions from 7.0 before 18.11.13, 19.0 before 19.0.10, 19.1 before 19.1.9, 19.2 before 19.2.9, 19.3 before 19.3.6, 19.4 before 19.4.3, and 19.5 before 19.5.1 that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server due to integer overflow when compiling a specially crafted regular expression.
@@ -103,6 +112,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce](https://github.com/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce.svg)
 - [https://github.com/suominen/CVE-2026-111760](https://github.com/suominen/CVE-2026-111760) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-111760.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-111760.svg)
+
+## CVE-2026-112174
+
+- [https://github.com/jonastrikex/CVE-2026-112174-Iperius-Backup-version-8.8.3-PoC](https://github.com/jonastrikex/CVE-2026-112174-Iperius-Backup-version-8.8.3-PoC) : ![starts](https://img.shields.io/github/stars/jonastrikex/CVE-2026-112174-Iperius-Backup-version-8.8.3-PoC.svg) ![forks](https://img.shields.io/github/forks/jonastrikex/CVE-2026-112174-Iperius-Backup-version-8.8.3-PoC.svg)
 
 ## CVE-2026-115252
 > The Confection WordPress Cable WordPress plugin from 0.4.0 to 0.4.7 does not perform any capability or nonce checks before saving its settings and writing one of them, unmodified, into a standalone PHP file that it then serves, allowing unauthenticated users to execute arbitrary PHP code on the server.
@@ -145,6 +158,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 ## CVE-2026-123158
 > sshd in OpenSSH before 10.6p2 on Linux, when musl libc is used without PAM, lacks a workaround for a password authentication bypass (related to misinterpretation of whether a string is intended to be a password hash). For some configurations of accounts, any password between 256 and 1024 characters succeeds. An example of a platform using musl libc without PAM is Alpine Linux.
 
+- [https://github.com/Doseuser/CVE-2026-123158](https://github.com/Doseuser/CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/Doseuser/CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/Doseuser/CVE-2026-123158.svg)
+- [https://github.com/MMitsuha/CVE-2026-123158](https://github.com/MMitsuha/CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/MMitsuha/CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/MMitsuha/CVE-2026-123158.svg)
 - [https://github.com/douglasmun/CVE-2026-123158_sshole_lab](https://github.com/douglasmun/CVE-2026-123158_sshole_lab) : ![starts](https://img.shields.io/github/stars/douglasmun/CVE-2026-123158_sshole_lab.svg) ![forks](https://img.shields.io/github/forks/douglasmun/CVE-2026-123158_sshole_lab.svg)
 
 ## CVE-2026-123618
@@ -182,6 +197,7 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 ## CVE-2026-126187
 
 - [https://github.com/briskets/CVE-2026-126187-poc](https://github.com/briskets/CVE-2026-126187-poc) : ![starts](https://img.shields.io/github/stars/briskets/CVE-2026-126187-poc.svg) ![forks](https://img.shields.io/github/forks/briskets/CVE-2026-126187-poc.svg)
+- [https://github.com/rudSarkar/GHSA-673q-mjm6-r5xr](https://github.com/rudSarkar/GHSA-673q-mjm6-r5xr) : ![starts](https://img.shields.io/github/stars/rudSarkar/GHSA-673q-mjm6-r5xr.svg) ![forks](https://img.shields.io/github/forks/rudSarkar/GHSA-673q-mjm6-r5xr.svg)
 
 ## CVE-2026-126497
 
@@ -196,6 +212,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/MicrosoftARMAssembler/CVE-2026-2039819-PoC](https://github.com/MicrosoftARMAssembler/CVE-2026-2039819-PoC) : ![starts](https://img.shields.io/github/stars/MicrosoftARMAssembler/CVE-2026-2039819-PoC.svg) ![forks](https://img.shields.io/github/forks/MicrosoftARMAssembler/CVE-2026-2039819-PoC.svg)
 
+## CVE-2026-21155
+
+- [https://github.com/yuki493/s5e8835-sboot-probe](https://github.com/yuki493/s5e8835-sboot-probe) : ![starts](https://img.shields.io/github/stars/yuki493/s5e8835-sboot-probe.svg) ![forks](https://img.shields.io/github/forks/yuki493/s5e8835-sboot-probe.svg)
+
 ## CVE-2026-21643
 > An improper neutralization of special elements used in an sql command (&#x27;sql injection&#x27;) vulnerability in Fortinet FortiClientEMS 7.4.4 may allow an unauthenticated attacker to execute unauthorized code or commands via specifically crafted HTTP requests.
 
@@ -204,6 +224,11 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 ## CVE-2026-26119
 
 - [https://github.com/csdovah/vuln-cve-2026-26119](https://github.com/csdovah/vuln-cve-2026-26119) : ![starts](https://img.shields.io/github/stars/csdovah/vuln-cve-2026-26119.svg) ![forks](https://img.shields.io/github/forks/csdovah/vuln-cve-2026-26119.svg)
+
+## CVE-2026-33050
+> GeoNode is a geospatial content management system, a platform for the management and publication of geospatial data. Prior to 5.1.0, a crafted vector file layer name supplied during upload allows a low-privileged remote user to inject shell syntax and execute arbitrary operating-system commands on the GeoNode server. This issue is fixed in version 5.1.0.
+
+- [https://github.com/comradezephyr/CVE-2026-33050](https://github.com/comradezephyr/CVE-2026-33050) : ![starts](https://img.shields.io/github/stars/comradezephyr/CVE-2026-33050.svg) ![forks](https://img.shields.io/github/forks/comradezephyr/CVE-2026-33050.svg)
 
 ## CVE-2026-39813
 > A path traversal: &#x27;../filedir&#x27; vulnerability in Fortinet FortiSandbox 5.0.0 through 5.0.5, FortiSandbox 4.4.0 through 4.4.8 may allow attacker to escalation of privilege via specially crafted HTTP requests.
@@ -243,6 +268,10 @@ problems:
 
 - [https://github.com/DarkDevil-937/make-it-root](https://github.com/DarkDevil-937/make-it-root) : ![starts](https://img.shields.io/github/stars/DarkDevil-937/make-it-root.svg) ![forks](https://img.shields.io/github/forks/DarkDevil-937/make-it-root.svg)
 - [https://github.com/igconitoguy/CVE-2026-43499-Poc-Analysis](https://github.com/igconitoguy/CVE-2026-43499-Poc-Analysis) : ![starts](https://img.shields.io/github/stars/igconitoguy/CVE-2026-43499-Poc-Analysis.svg) ![forks](https://img.shields.io/github/forks/igconitoguy/CVE-2026-43499-Poc-Analysis.svg)
+
+## CVE-2026-44212
+
+- [https://github.com/fstivicic/prestashop17-security-patches](https://github.com/fstivicic/prestashop17-security-patches) : ![starts](https://img.shields.io/github/stars/fstivicic/prestashop17-security-patches.svg) ![forks](https://img.shields.io/github/forks/fstivicic/prestashop17-security-patches.svg)
 
 ## CVE-2026-44277
 > A improper access control vulnerability in Fortinet FortiAuthenticator 8.0.2, FortiAuthenticator 8.0.0, FortiAuthenticator 6.6.0 through 6.6.8, FortiAuthenticator 6.5.0 through 6.5.6, FortiAuthenticator 6.4.0 through 6.4.10 may allow attacker to execute unauthorized code or commands via crafted requests.
