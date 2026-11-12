@@ -11459,3 +11459,17 @@
 {"cve_id": "CVE-2026-72898", "ts": "2026-11-12T08:33:39Z", "type": "new_poc", "url": "https://github.com/Jenderal92/metapwn-mass"}
 {"cve_id": "CVE-2024-25600", "ts": "2026-11-12T08:33:55Z", "type": "new_poc", "url": "https://github.com/OblivionDH/oblivion-cve-2024-25600-scanner"}
 {"cve_id": "CVE-2026-109619", "ts": "2026-11-12T08:33:55Z", "type": "new_poc", "url": "https://github.com/LuckyFishOno/php2shell-619-poc"}
+{"cve_id": "CVE-2026-123424", "ts": "2026-11-12T08:50:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123425", "ts": "2026-11-12T08:50:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123426", "ts": "2026-11-12T08:50:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123427", "ts": "2026-11-12T08:50:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123429", "ts": "2026-11-12T08:50:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123430", "ts": "2026-11-12T08:50:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123431", "ts": "2026-11-12T08:50:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123432", "ts": "2026-11-12T08:50:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123435", "ts": "2026-11-12T08:50:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123437", "ts": "2026-11-12T08:50:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123438", "ts": "2026-11-12T08:50:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123439", "ts": "2026-11-12T08:50:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-5932", "ts": "2026-11-12T09:08:27Z", "type": "new_poc", "url": "https://github.com/0o176/CVE-2024-5932_PoC"}
+{"cve_id": "CVE-2023-28252", "ts": "2026-11-12T09:08:39Z", "type": "new_poc", "url": "https://github.com/Joe1sn/CVE_2023_28252"}

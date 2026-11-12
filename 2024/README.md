@@ -10559,6 +10559,8 @@ The specific flaw exists within the web-based UI. The issue results from the lac
 
 - [https://github.com/hlc23/CVE-2024-5932-web-ui](https://github.com/hlc23/CVE-2024-5932-web-ui) : ![starts](https://img.shields.io/github/stars/hlc23/CVE-2024-5932-web-ui.svg) ![forks](https://img.shields.io/github/forks/hlc23/CVE-2024-5932-web-ui.svg)
 
+- [https://github.com/0o176/CVE-2024-5932_PoC](https://github.com/0o176/CVE-2024-5932_PoC) : ![starts](https://img.shields.io/github/stars/0o176/CVE-2024-5932_PoC.svg) ![forks](https://img.shields.io/github/forks/0o176/CVE-2024-5932_PoC.svg)
+
 ## CVE-2024-5910
  Missing authentication for a critical function in Palo Alto Networks Expedition can lead to an Expedition admin account takeover for attackers with network access to Expedition.
 

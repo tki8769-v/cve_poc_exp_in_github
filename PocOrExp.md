@@ -242,6 +242,7 @@
 - [https://github.com/googlesky/CVE-2026-121653](https://github.com/googlesky/CVE-2026-121653) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-121653.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-121653.svg)
 
 ## CVE-2026-121529
+> A origin validation error vulnerability in Fortinet FortiClientMac 7.4.0 through 7.4.7, FortiClientWindows 7.4.0 through 7.4.7, FortiClientWindows 7.2.0 through 7.2.14, FortiClientWindowsPAM 7.4.7, FortiClientWindowsPAM 7.2.14 may allow an unauthorized remote attacker to execute unauthorized code or commands. Successful exploitation requires interaction with the victim.
 
 - [https://github.com/ashrafzaryouh/CVE-2026-121529](https://github.com/ashrafzaryouh/CVE-2026-121529) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-121529.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-121529.svg)
 
@@ -390,6 +391,7 @@ An application that passes request data as column values to insert or update
 - [https://github.com/im0xfay/CVE-2026-118423](https://github.com/im0xfay/CVE-2026-118423) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-118423.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-118423.svg)
 
 ## CVE-2026-118383
+> A use-after-free in the replication component of MongoDB Server can occur when a newly elected replica set primary completes catch-up. The condition can be caused by requests that do not require authentication, and may result in the server terminating unexpectedly or, under certain conditions, arbitrary code execution in the context of the server process. Replica set members are affected, including the shard and config server replica set members of sharded clusters; standalone mongod instances a
 
 - [https://github.com/googlesky/CVE-2026-118383](https://github.com/googlesky/CVE-2026-118383) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-118383.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-118383.svg)
 
@@ -54799,6 +54801,8 @@ The specific flaw exists within the web-based UI. The issue results from the lac
 
 - [https://github.com/hlc23/CVE-2024-5932-web-ui](https://github.com/hlc23/CVE-2024-5932-web-ui) : ![starts](https://img.shields.io/github/stars/hlc23/CVE-2024-5932-web-ui.svg) ![forks](https://img.shields.io/github/forks/hlc23/CVE-2024-5932-web-ui.svg)
 
+- [https://github.com/0o176/CVE-2024-5932_PoC](https://github.com/0o176/CVE-2024-5932_PoC) : ![starts](https://img.shields.io/github/stars/0o176/CVE-2024-5932_PoC.svg) ![forks](https://img.shields.io/github/forks/0o176/CVE-2024-5932_PoC.svg)
+
 ## CVE-2024-5910
  Missing authentication for a critical function in Palo Alto Networks Expedition can lead to an Expedition admin account takeover for attackers with network access to Expedition.
 
@@ -63540,6 +63544,8 @@ and `MINIO_ROOT_PASSWORD`, resulting in information disclosure. All users of dis
 - [https://github.com/726232111/CVE-2023-28252](https://github.com/726232111/CVE-2023-28252) : ![starts](https://img.shields.io/github/stars/726232111/CVE-2023-28252.svg) ![forks](https://img.shields.io/github/forks/726232111/CVE-2023-28252.svg)
 
 - [https://github.com/Vulmatch/CVE-2023-28252](https://github.com/Vulmatch/CVE-2023-28252) : ![starts](https://img.shields.io/github/stars/Vulmatch/CVE-2023-28252.svg) ![forks](https://img.shields.io/github/forks/Vulmatch/CVE-2023-28252.svg)
+
+- [https://github.com/Joe1sn/CVE_2023_28252](https://github.com/Joe1sn/CVE_2023_28252) : ![starts](https://img.shields.io/github/stars/Joe1sn/CVE_2023_28252.svg) ![forks](https://img.shields.io/github/forks/Joe1sn/CVE_2023_28252.svg)
 
 ## CVE-2023-28249
  Windows Boot Manager Security Feature Bypass Vulnerability

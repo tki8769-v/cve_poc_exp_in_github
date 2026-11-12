@@ -7,6 +7,10 @@
 
 - [https://github.com/DatLang777/Log4Shell-BlueTeam-Detection-Lab](https://github.com/DatLang777/Log4Shell-BlueTeam-Detection-Lab) : ![starts](https://img.shields.io/github/stars/DatLang777/Log4Shell-BlueTeam-Detection-Lab.svg) ![forks](https://img.shields.io/github/forks/DatLang777/Log4Shell-BlueTeam-Detection-Lab.svg)
 
+## CVE-2023-28252
+
+- [https://github.com/Joe1sn/CVE_2023_28252](https://github.com/Joe1sn/CVE_2023_28252) : ![starts](https://img.shields.io/github/stars/Joe1sn/CVE_2023_28252.svg) ![forks](https://img.shields.io/github/forks/Joe1sn/CVE_2023_28252.svg)
+
 ## CVE-2023-29017
 
 - [https://github.com/wooung105/Node_CVE-2023-29017](https://github.com/wooung105/Node_CVE-2023-29017) : ![starts](https://img.shields.io/github/stars/wooung105/Node_CVE-2023-29017.svg) ![forks](https://img.shields.io/github/forks/wooung105/Node_CVE-2023-29017.svg)
@@ -34,6 +38,10 @@
 ## CVE-2024-37032
 
 - [https://github.com/dexteon/probllama-ollama-rce-cve-2024-37032](https://github.com/dexteon/probllama-ollama-rce-cve-2024-37032) : ![starts](https://img.shields.io/github/stars/dexteon/probllama-ollama-rce-cve-2024-37032.svg) ![forks](https://img.shields.io/github/forks/dexteon/probllama-ollama-rce-cve-2024-37032.svg)
+
+## CVE-2024-5932
+
+- [https://github.com/0o176/CVE-2024-5932_PoC](https://github.com/0o176/CVE-2024-5932_PoC) : ![starts](https://img.shields.io/github/stars/0o176/CVE-2024-5932_PoC.svg) ![forks](https://img.shields.io/github/forks/0o176/CVE-2024-5932_PoC.svg)
 
 ## CVE-2024-8859
 

@@ -241,6 +241,7 @@
 - [https://github.com/googlesky/CVE-2026-121653](https://github.com/googlesky/CVE-2026-121653) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-121653.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-121653.svg)
 
 ## CVE-2026-121529
+> A origin validation error vulnerability in Fortinet FortiClientMac 7.4.0 through 7.4.7, FortiClientWindows 7.4.0 through 7.4.7, FortiClientWindows 7.2.0 through 7.2.14, FortiClientWindowsPAM 7.4.7, FortiClientWindowsPAM 7.2.14 may allow an unauthorized remote attacker to execute unauthorized code or commands. Successful exploitation requires interaction with the victim.
 
 - [https://github.com/ashrafzaryouh/CVE-2026-121529](https://github.com/ashrafzaryouh/CVE-2026-121529) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-121529.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-121529.svg)
 
@@ -389,6 +390,7 @@ An application that passes request data as column values to insert or update
 - [https://github.com/im0xfay/CVE-2026-118423](https://github.com/im0xfay/CVE-2026-118423) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-118423.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-118423.svg)
 
 ## CVE-2026-118383
+> A use-after-free in the replication component of MongoDB Server can occur when a newly elected replica set primary completes catch-up. The condition can be caused by requests that do not require authentication, and may result in the server terminating unexpectedly or, under certain conditions, arbitrary code execution in the context of the server process. Replica set members are affected, including the shard and config server replica set members of sharded clusters; standalone mongod instances a
 
 - [https://github.com/googlesky/CVE-2026-118383](https://github.com/googlesky/CVE-2026-118383) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-118383.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-118383.svg)
 
