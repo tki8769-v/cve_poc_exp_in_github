@@ -50,6 +50,7 @@
 - [https://github.com/D7EAD/CVE-2026-125394](https://github.com/D7EAD/CVE-2026-125394) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-125394.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-125394.svg)
 
 ## CVE-2026-125350
+> Use after free in XML in Google Chrome prior to 157.0.8103.50 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)
 
 - [https://github.com/Frostmoon39206/CVE-2026-125350-PoC](https://github.com/Frostmoon39206/CVE-2026-125350-PoC) : ![starts](https://img.shields.io/github/stars/Frostmoon39206/CVE-2026-125350-PoC.svg) ![forks](https://img.shields.io/github/forks/Frostmoon39206/CVE-2026-125350-PoC.svg)
 
@@ -24640,6 +24641,8 @@ The following code is vulnerable to a stack overflow that is attacker-controlled
 
 - [https://github.com/0xredash/CVE-2026-12485](https://github.com/0xredash/CVE-2026-12485) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2026-12485.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2026-12485.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-12485](https://github.com/ashrafzaryouh/CVE-2026-12485) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-12485.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-12485.svg)
+
 ## CVE-2026-12478
  The fix for CVE-2026-0716 (commit 6ff7ef0, libsoup 3.6.6) placed the integer overflow guard inside the if (masked) block, leaving unmasked server-to-client frames unprotected. A malicious WebSocket server can send a crafted unmasked frame with a payload length near UINT64_MAX to trigger an OOB read in a libsoup-based client when max_incoming_payload_size is set to 0.
 
@@ -26088,6 +26091,8 @@ This issue affects Liderahenk: from 2.0.1 before 2.0.2.
 - [https://github.com/goldendivider/cve-2026-6471-postgres-logical-decoding-dlopen](https://github.com/goldendivider/cve-2026-6471-postgres-logical-decoding-dlopen) : ![starts](https://img.shields.io/github/stars/goldendivider/cve-2026-6471-postgres-logical-decoding-dlopen.svg) ![forks](https://img.shields.io/github/forks/goldendivider/cve-2026-6471-postgres-logical-decoding-dlopen.svg)
 
 - [https://github.com/0xredash/CVE-2026-6471](https://github.com/0xredash/CVE-2026-6471) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2026-6471.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2026-6471.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-6471](https://github.com/ashrafzaryouh/CVE-2026-6471) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-6471.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-6471.svg)
 
 ## CVE-2026-6440
  The GoodMeet – Google Meet Integration for Webinar, Meeting & Video Conference plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to and including 1.1.8. This is due to a missing nonce verification in the reset_credential() function, which handles the wp_ajax_goodmeet_reset_google_meet_credential AJAX action. While the function does verify the user's capability (manage_options), it does not validate a nonce, making it susceptible to CSRF attacks. This makes it possible for unauthenticated attackers to trick a site administrator into clicking a malicious link that will reset (delete) the plugin's stored Google Meet API credentials (goodmeet_google_credentials) and OAuth tokens (goodmeet_google_token), effectively disabling the Google Meet integration on the site.

@@ -11391,3 +11391,17 @@
 {"cve_id": "CVE-2026-21155", "ts": "2026-11-11T23:37:58Z", "type": "new_poc", "url": "https://github.com/yuki493/s5e8835-sboot-probe"}
 {"cve_id": "CVE-2026-44212", "ts": "2026-11-11T23:37:59Z", "type": "new_poc", "url": "https://github.com/fstivicic/prestashop17-security-patches"}
 {"cve_id": "CVE-2026-126187", "ts": "2026-11-11T23:37:59Z", "type": "new_poc", "url": "https://github.com/rudSarkar/GHSA-673q-mjm6-r5xr"}
+{"cve_id": "CVE-2026-123424", "ts": "2026-11-11T23:51:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123425", "ts": "2026-11-11T23:51:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123426", "ts": "2026-11-11T23:51:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123427", "ts": "2026-11-11T23:51:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123429", "ts": "2026-11-11T23:51:44Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123430", "ts": "2026-11-11T23:51:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123431", "ts": "2026-11-11T23:51:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123432", "ts": "2026-11-11T23:51:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123435", "ts": "2026-11-11T23:51:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123437", "ts": "2026-11-11T23:51:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123438", "ts": "2026-11-11T23:51:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123439", "ts": "2026-11-11T23:51:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-12485", "ts": "2026-11-12T00:01:46Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-12485"}
+{"cve_id": "CVE-2026-6471", "ts": "2026-11-12T00:09:05Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-6471"}
