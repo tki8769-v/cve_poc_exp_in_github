@@ -10771,6 +10771,8 @@ Thank you [lio346](https://hackerone.com/lio346) for reporting this!
 
 - [https://github.com/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module](https://github.com/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module) : ![starts](https://img.shields.io/github/stars/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module.svg) ![forks](https://img.shields.io/github/forks/SecurityLayer404/CVE-2025-24054-24071---Metasploit-Module.svg)
 
+- [https://github.com/nexus956/CVE-2025-24054-PoC](https://github.com/nexus956/CVE-2025-24054-PoC) : ![starts](https://img.shields.io/github/stars/nexus956/CVE-2025-24054-PoC.svg) ![forks](https://img.shields.io/github/forks/nexus956/CVE-2025-24054-PoC.svg)
+
 ## CVE-2025-24035
  Sensitive data storage in improperly locked memory in Windows Remote Desktop Services allows an unauthorized attacker to execute code over a network.
 

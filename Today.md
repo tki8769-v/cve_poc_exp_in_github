@@ -47,6 +47,10 @@
 
 - [https://github.com/dexteon/mlflow-dbfs-path-traversal-cve-2024-8859](https://github.com/dexteon/mlflow-dbfs-path-traversal-cve-2024-8859) : ![starts](https://img.shields.io/github/stars/dexteon/mlflow-dbfs-path-traversal-cve-2024-8859.svg) ![forks](https://img.shields.io/github/forks/dexteon/mlflow-dbfs-path-traversal-cve-2024-8859.svg)
 
+## CVE-2025-24054
+
+- [https://github.com/nexus956/CVE-2025-24054-PoC](https://github.com/nexus956/CVE-2025-24054-PoC) : ![starts](https://img.shields.io/github/stars/nexus956/CVE-2025-24054-PoC.svg) ![forks](https://img.shields.io/github/forks/nexus956/CVE-2025-24054-PoC.svg)
+
 ## CVE-2025-29927
 
 - [https://github.com/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927](https://github.com/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927) : ![starts](https://img.shields.io/github/stars/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927.svg) ![forks](https://img.shields.io/github/forks/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927.svg)
@@ -101,9 +105,24 @@
 
 - [https://github.com/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce](https://github.com/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce) : ![starts](https://img.shields.io/github/stars/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce.svg) ![forks](https://img.shields.io/github/forks/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce.svg)
 
+## CVE-2026-48356
+> Adobe Commerce is affected by an Unrestricted Upload of File with Dangerous Type vulnerability that could result in arbitrary code execution in the context of the current user, potentially gaining elevated access or control over the victim&#x27;s account or session. Exploitation of this issue requires user interaction in that a victim must visit a maliciously crafted URL or interact with a compromised web page. Scope is changed.
+
+- [https://github.com/Cyber-BansalAI/polyshell-2026](https://github.com/Cyber-BansalAI/polyshell-2026) : ![starts](https://img.shields.io/github/stars/Cyber-BansalAI/polyshell-2026.svg) ![forks](https://img.shields.io/github/forks/Cyber-BansalAI/polyshell-2026.svg)
+
 ## CVE-2026-6471
 
 - [https://github.com/ashrafzaryouh/CVE-2026-6471](https://github.com/ashrafzaryouh/CVE-2026-6471) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-6471.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-6471.svg)
+
+## CVE-2026-67175
+> Chargemap contains a stored cross-site scripting vulnerability that allows a remote, authenticated attacker to craft a malicious payload in the user profile page that executes when another user views the attacker&#x27;s profile. Fixed 2026-07-17.
+
+- [https://github.com/praksokchea/CVE-2026-67175](https://github.com/praksokchea/CVE-2026-67175) : ![starts](https://img.shields.io/github/stars/praksokchea/CVE-2026-67175.svg) ![forks](https://img.shields.io/github/forks/praksokchea/CVE-2026-67175.svg)
+
+## CVE-2026-67176
+> Chargemap contains an open redirect vulnerability in the authentication login endpoint. A remote, unauthenticated attacker could send a crafted URL to a victim and redirect them to an attacker controlled domain. Fixed 2026-07-17.
+
+- [https://github.com/praksokchea/CVE-2026-67176](https://github.com/praksokchea/CVE-2026-67176) : ![starts](https://img.shields.io/github/stars/praksokchea/CVE-2026-67176.svg) ![forks](https://img.shields.io/github/forks/praksokchea/CVE-2026-67176.svg)
 
 ## CVE-2026-72898
 

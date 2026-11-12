@@ -4988,6 +4988,7 @@ DataOffset fields with no validation against buffer bounds:
 - [https://github.com/woshigenm/CVE-2026-89633](https://github.com/woshigenm/CVE-2026-89633) : ![starts](https://img.shields.io/github/stars/woshigenm/CVE-2026-89633.svg) ![forks](https://img.shields.io/github/forks/woshigenm/CVE-2026-89633.svg)
 
 ## CVE-2026-89324
+> The Basel Post Types plugin for WordPress is vulnerable to Authentication Bypass in all versions up to, and including, 1.18. The vulnerability exists because a missing-quotes coding error in the defined() call for SECURE_AUTH_SALT inside BASEL_Auth::get_config() causes PHP to evaluate the constant&#x27;s value rather than its name, making the check always fail and permanently falling back to the static hardcoded salt 2NlBUibcszrVtNmDnxqDbwCOpLWq91eatIz6O1O that is publicly visible in the theme source
 
 - [https://github.com/im0xfay/CVE-2026-89324](https://github.com/im0xfay/CVE-2026-89324) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-89324.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-89324.svg)
 
@@ -8262,6 +8263,16 @@ removed.
  Rouille 0.3.3 through 3.6.2 contains an HTTP request smuggling vulnerability that allows remote attackers to desynchronize HTTP message boundaries by exploiting improper header forwarding in the proxy implementation. The proxy in src/proxy.rs forwards the client's Transfer-Encoding header to upstream backends unchanged while transmitting a body already de-chunked by tiny_http, enabling CL.TE desynchronization attacks where attackers control where the backend believes the request body ends.
 
 - [https://github.com/theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-](https://github.com/theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-) : ![starts](https://img.shields.io/github/stars/theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-.svg) ![forks](https://img.shields.io/github/forks/theopaid/CVE-2026-67181-HTTP-Request-Smuggling-via-Transfer-Encoding-Desynchronization-rouille-.svg)
+
+## CVE-2026-67176
+> Chargemap contains an open redirect vulnerability in the authentication login endpoint. A remote, unauthenticated attacker could send a crafted URL to a victim and redirect them to an attacker controlled domain. Fixed 2026-07-17.
+
+- [https://github.com/praksokchea/CVE-2026-67176](https://github.com/praksokchea/CVE-2026-67176) : ![starts](https://img.shields.io/github/stars/praksokchea/CVE-2026-67176.svg) ![forks](https://img.shields.io/github/forks/praksokchea/CVE-2026-67176.svg)
+
+## CVE-2026-67175
+> Chargemap contains a stored cross-site scripting vulnerability that allows a remote, authenticated attacker to craft a malicious payload in the user profile page that executes when another user views the attacker&#x27;s profile. Fixed 2026-07-17.
+
+- [https://github.com/praksokchea/CVE-2026-67175](https://github.com/praksokchea/CVE-2026-67175) : ![starts](https://img.shields.io/github/stars/praksokchea/CVE-2026-67175.svg) ![forks](https://img.shields.io/github/forks/praksokchea/CVE-2026-67175.svg)
 
 ## CVE-2026-66917
  Joomla Extension - joomgalleryfriends.net - Stored XSS in JoomGallery  4.4.0 - An authenticated, privileged can store an XSS payload in any image causing JS execution in every visitor's browser.
@@ -12609,6 +12620,8 @@ This issue affects tesla: from 0.8.0 before 1.18.3.
 - [https://github.com/piecar21/CVE-2026-48356](https://github.com/piecar21/CVE-2026-48356) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-48356.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-48356.svg)
 
 - [https://github.com/Ghost-Bx1/cve-2026-48356-magento-file-upload-rce](https://github.com/Ghost-Bx1/cve-2026-48356-magento-file-upload-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-48356-magento-file-upload-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-48356-magento-file-upload-rce.svg)
+
+- [https://github.com/Cyber-BansalAI/polyshell-2026](https://github.com/Cyber-BansalAI/polyshell-2026) : ![starts](https://img.shields.io/github/stars/Cyber-BansalAI/polyshell-2026.svg) ![forks](https://img.shields.io/github/forks/Cyber-BansalAI/polyshell-2026.svg)
 
 ## CVE-2026-48282
  ColdFusion versions 2025.9, 2023.20 and earlier are affected by an Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability that could lead to arbitrary code execution in the context of the current user. Exploitation of this issue does not require user interaction. Scope is changed.
