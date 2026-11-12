@@ -1437,6 +1437,8 @@ which fixes this issue.
 
 - [https://github.com/JarvisDing-sdu/Yasa-CVE-2023-46229](https://github.com/JarvisDing-sdu/Yasa-CVE-2023-46229) : ![starts](https://img.shields.io/github/stars/JarvisDing-sdu/Yasa-CVE-2023-46229.svg) ![forks](https://img.shields.io/github/forks/JarvisDing-sdu/Yasa-CVE-2023-46229.svg)
 
+- [https://github.com/dexteon/langchain-sitemap-ssrf-cve-2023-46229](https://github.com/dexteon/langchain-sitemap-ssrf-cve-2023-46229) : ![starts](https://img.shields.io/github/stars/dexteon/langchain-sitemap-ssrf-cve-2023-46229.svg) ![forks](https://img.shields.io/github/forks/dexteon/langchain-sitemap-ssrf-cve-2023-46229.svg)
+
 ## CVE-2023-46197
  Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') vulnerability in supsystic.Com Popup by Supsystic allows Relative Path Traversal.This issue affects Popup by Supsystic: from n/a through 1.10.19.
 
