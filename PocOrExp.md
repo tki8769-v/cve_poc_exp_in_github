@@ -1218,6 +1218,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/0xredash/CVE-2026-110912](https://github.com/0xredash/CVE-2026-110912) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2026-110912.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2026-110912.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-110912](https://github.com/ashrafzaryouh/CVE-2026-110912) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-110912.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-110912.svg)
+
 ## CVE-2026-110899
 > Improper Neutralization of Input During Web Page Generation (&#x27;Cross-site Scripting&#x27;) vulnerability in Kevin Stover Ninja Forms ninja-forms allows Stored XSS.This issue affects Ninja Forms: from n/a through 3.15.5.
 
@@ -2676,6 +2678,16 @@ The guard that destroys idle keep-alive sockets when unexpected data arrives onl
 - [https://github.com/CompleteTech-Security/docker-hub-ghostpat-check](https://github.com/CompleteTech-Security/docker-hub-ghostpat-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/docker-hub-ghostpat-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/docker-hub-ghostpat-check.svg)
 
 ## CVE-2026-105437
+> Affected versions of Git have a heap buffer overflow in the three-way merge
+code (xdiff), which an attacker can trigger through a repository they
+control.
+
+When Git merges a file, it first adds up the size of the merged
+output, allocates a buffer of that size, and then writes the output into
+it. That total was kept in a 32-bit signed integer. The
+conflict-marker-size attribute, which can be set from a committed
+.gitattributes file, accepts any positive integer, and the markers are
+written severa
 
 - [https://github.com/googlesky/CVE-2026-105437](https://github.com/googlesky/CVE-2026-105437) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-105437.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-105437.svg)
 
@@ -6222,6 +6234,8 @@ errors to the existing AH6 input and output error paths.
 
 - [https://github.com/suominen/dirtyah6](https://github.com/suominen/dirtyah6) : ![starts](https://img.shields.io/github/stars/suominen/dirtyah6.svg) ![forks](https://img.shields.io/github/forks/suominen/dirtyah6.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-80844](https://github.com/ashrafzaryouh/CVE-2026-80844) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-80844.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-80844.svg)
+
 ## CVE-2026-80775
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -6826,6 +6840,10 @@ CVE-2025-32907 addressed memory amplification when a client repeated the same ra
  multer is a middleware for handling multipart/form-data in Node.js. A small multipart request containing two specially crafted text field names can cause an uncaught RangeError (Invalid array length) that terminates the Node.js process. The first field uses a very large numeric array index to allocate a maximum-length sparse array, and a second field then pushes past that length, which throws inside the append-field dependency and is not caught by multer. All versions before 2.3.0 are affected, and the issue is a remotely triggerable denial of service. The issue is fixed in multer 2.3.0. Upgrade to multer 2.3.0 to remediate.
 
 - [https://github.com/wtfkimi/CVE-2026-77078](https://github.com/wtfkimi/CVE-2026-77078) : ![starts](https://img.shields.io/github/stars/wtfkimi/CVE-2026-77078.svg) ![forks](https://img.shields.io/github/forks/wtfkimi/CVE-2026-77078.svg)
+
+## CVE-2026-76954
+
+- [https://github.com/ansonhsu-ai/synology-dsm-cve-2026-76954-ste](https://github.com/ansonhsu-ai/synology-dsm-cve-2026-76954-ste) : ![starts](https://img.shields.io/github/stars/ansonhsu-ai/synology-dsm-cve-2026-76954-ste.svg) ![forks](https://img.shields.io/github/forks/ansonhsu-ai/synology-dsm-cve-2026-76954-ste.svg)
 
 ## CVE-2026-76904
  GeoTools is an open source Java library that provides tools for geospatial data. Starting in version 30.5 and prior to versions 33.6, 34.5, and 33.6, an SQL Injection Vulnerability is present when executing OGC Filters with PostGIS DataStore implementation: `jsonArrayContains` function; Requires PostGIS 12 or greater with a String or JSON field. For PostGIS 12 and greater `jsonArrayContains(column, pointer, value)` function writes `value` into generated SQL without escaping. Patches are available in versions 33.6, 34.5, and 33.6. No known workaround is available. To limit scope of SQL Injection the PostGIS connection pool should be configured with limited rights.
@@ -63265,6 +63283,8 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 - [https://github.com/gunwoo105/Node_CVE-2023-29017](https://github.com/gunwoo105/Node_CVE-2023-29017) : ![starts](https://img.shields.io/github/stars/gunwoo105/Node_CVE-2023-29017.svg) ![forks](https://img.shields.io/github/forks/gunwoo105/Node_CVE-2023-29017.svg)
 
 - [https://github.com/passwa11/CVE-2023-29017-reverse-shell](https://github.com/passwa11/CVE-2023-29017-reverse-shell) : ![starts](https://img.shields.io/github/stars/passwa11/CVE-2023-29017-reverse-shell.svg) ![forks](https://img.shields.io/github/forks/passwa11/CVE-2023-29017-reverse-shell.svg)
+
+- [https://github.com/wooung105/Node_CVE-2023-29017](https://github.com/wooung105/Node_CVE-2023-29017) : ![starts](https://img.shields.io/github/stars/wooung105/Node_CVE-2023-29017.svg) ![forks](https://img.shields.io/github/forks/wooung105/Node_CVE-2023-29017.svg)
 
 ## CVE-2023-29007
  Git is a revision control system. Prior to versions 2.30.9, 2.31.8, 2.32.7, 2.33.8, 2.34.8, 2.35.8, 2.36.6, 2.37.7, 2.38.5, 2.39.3, and 2.40.1, a specially crafted `.gitmodules` file with submodule URLs that are longer than 1024 characters can used to exploit a bug in `config.c::git_config_copy_or_rename_section_in_file()`. This bug can be used to inject arbitrary configuration into a user's `$GIT_DIR/config` when attempting to remove the configuration section associated with that submodule. When the attacker injects configuration values which specify executables to run (such as `core.pager`, `core.editor`, `core.sshCommand`, etc.) this can lead to a remote code execution. A fix A fix is available in versions 2.30.9, 2.31.8, 2.32.7, 2.33.8, 2.34.8, 2.35.8, 2.36.6, 2.37.7, 2.38.5, 2.39.3, and 2.40.1. As a workaround, avoid running `git submodule deinit` on untrusted repositories or without prior inspection of any submodule sections in `$GIT_DIR/config`.

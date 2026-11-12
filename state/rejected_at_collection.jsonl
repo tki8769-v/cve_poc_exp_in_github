@@ -3309,3 +3309,9 @@
 {"cve_id": "CVE-2025-2748", "reason": "prefix_conflict_evidenced", "ts": "2026-11-11T23:45:01Z", "url": "https://github.com/mrk336/CVE-2025-27480-The-Silent-Gateway-Risk", "url_ids": ["CVE-2025-27480"]}
 {"cve_id": "CVE-2024-5737", "reason": "prefix_conflict_evidenced", "ts": "2026-11-12T00:08:53Z", "url": "https://github.com/DelspoN/CVE-2024-57376", "url_ids": ["CVE-2024-57376"]}
 {"cve_id": "CVE-2024-5737", "reason": "prefix_conflict_evidenced", "ts": "2026-11-12T00:08:53Z", "url": "https://github.com/rxerium/CVE-2024-57378", "url_ids": ["CVE-2024-57378"]}
+{"cve_id": "CVE-2026-8196", "reason": "prefix_conflict_evidenced", "ts": "2026-11-12T00:40:33Z", "url": "https://github.com/BarwSirati/CVE-2026-81963-TrustedDpx", "url_ids": ["CVE-2026-81963"]}
+{"cve_id": "CVE-2025-6685", "reason": "prefix_conflict_evidenced", "ts": "2026-11-12T00:40:43Z", "url": "https://github.com/joelatplay/CVE-2025-66850", "url_ids": ["CVE-2025-66850"]}
+{"cve_id": "CVE-2025-5729", "reason": "prefix_conflict_evidenced", "ts": "2026-11-12T00:41:42Z", "url": "https://github.com/minnggyuu/CVE-2025-57298", "url_ids": ["CVE-2025-57298"]}
+{"cve_id": "CVE-2024-4051", "reason": "prefix_conflict_evidenced", "ts": "2026-11-12T00:43:31Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40512", "url_ids": ["CVE-2024-40512"]}
+{"cve_id": "CVE-2024-4051", "reason": "prefix_conflict_evidenced", "ts": "2026-11-12T00:43:31Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40510", "url_ids": ["CVE-2024-40510"]}
+{"cve_id": "CVE-2024-4051", "reason": "prefix_conflict_evidenced", "ts": "2026-11-12T00:43:31Z", "url": "https://github.com/Jansen-C-Moreira/CVE-2024-40511", "url_ids": ["CVE-2024-40511"]}
