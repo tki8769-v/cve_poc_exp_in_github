@@ -6821,6 +6821,10 @@ The specific flaw exists within the Toolgate component. The issue results from t
 
 - [https://github.com/Kairo-one/CVE-2023-26469-Jorani](https://github.com/Kairo-one/CVE-2023-26469-Jorani) : ![starts](https://img.shields.io/github/stars/Kairo-one/CVE-2023-26469-Jorani.svg) ![forks](https://img.shields.io/github/forks/Kairo-one/CVE-2023-26469-Jorani.svg)
 
+## CVE-2023-26369
+
+- [https://github.com/dexteon/cve-2023-26369-poc](https://github.com/dexteon/cve-2023-26369-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2023-26369-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2023-26369-poc.svg)
+
 ## CVE-2023-26360
  Adobe ColdFusion versions 2018 Update 15 (and earlier) and 2021 Update 5 (and earlier) are affected by an Improper Access Control vulnerability that could result in arbitrary code execution in the context of the current user. Exploitation of this issue does not require user interaction.
 
@@ -8205,6 +8209,8 @@ A fix has been prepared and will appear in v2.39.2 v2.38.4 v2.37.6 v2.36.5 v2.35
 - [https://github.com/hacksysteam/CVE-2023-21608](https://github.com/hacksysteam/CVE-2023-21608) : ![starts](https://img.shields.io/github/stars/hacksysteam/CVE-2023-21608.svg) ![forks](https://img.shields.io/github/forks/hacksysteam/CVE-2023-21608.svg)
 
 - [https://github.com/Malwareman007/CVE-2023-21608](https://github.com/Malwareman007/CVE-2023-21608) : ![starts](https://img.shields.io/github/stars/Malwareman007/CVE-2023-21608.svg) ![forks](https://img.shields.io/github/forks/Malwareman007/CVE-2023-21608.svg)
+
+- [https://github.com/dexteon/cve-2023-21608-poc](https://github.com/dexteon/cve-2023-21608-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2023-21608-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2023-21608-poc.svg)
 
 ## CVE-2023-21563
  BitLocker Security Feature Bypass Vulnerability

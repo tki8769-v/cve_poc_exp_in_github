@@ -4519,6 +4519,8 @@ Adopt appropriate SMB Server hardening measures.
 
 - [https://github.com/simonangel-fong/react2shell-eks](https://github.com/simonangel-fong/react2shell-eks) : ![starts](https://img.shields.io/github/stars/simonangel-fong/react2shell-eks.svg) ![forks](https://img.shields.io/github/forks/simonangel-fong/react2shell-eks.svg)
 
+- [https://github.com/cloud-on-demand/React2Shell](https://github.com/cloud-on-demand/React2Shell) : ![starts](https://img.shields.io/github/stars/cloud-on-demand/React2Shell.svg) ![forks](https://img.shields.io/github/forks/cloud-on-demand/React2Shell.svg)
+
 ## CVE-2025-55177
  Incomplete authorization of linked device synchronization messages in WhatsApp for iOS prior to v2.25.21.73, WhatsApp Business for iOS v2.25.21.78, and WhatsApp for Mac v2.25.21.78 could have allowed an unrelated user to trigger processing of content from an arbitrary URL on a target’s device. We assess that this vulnerability, in combination with an OS-level vulnerability on Apple platforms (CVE-2025-43300), may have been exploited in a sophisticated attack against specific targeted users.
 
@@ -11099,6 +11101,14 @@ You are not affected if any of the following is true:
 
 - [https://github.com/idealzh/cve-2025-22235-demo](https://github.com/idealzh/cve-2025-22235-demo) : ![starts](https://img.shields.io/github/stars/idealzh/cve-2025-22235-demo.svg) ![forks](https://img.shields.io/github/forks/idealzh/cve-2025-22235-demo.svg)
 
+## CVE-2025-22226
+
+- [https://github.com/dexteon/cve-2025-22226-poc](https://github.com/dexteon/cve-2025-22226-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2025-22226-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2025-22226-poc.svg)
+
+## CVE-2025-22224
+
+- [https://github.com/dexteon/cve-2025-22224-poc](https://github.com/dexteon/cve-2025-22224-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2025-22224-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2025-22224-poc.svg)
+
 ## CVE-2025-22223
  Spring Security 6.4.0 - 6.4.3 may not correctly locate method security annotations on parameterized types or methods. This may cause an authorization bypass. 
 
@@ -11556,6 +11566,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/renat0z3r0/notepadpp-supply-chain-iocs](https://github.com/renat0z3r0/notepadpp-supply-chain-iocs) : ![starts](https://img.shields.io/github/stars/renat0z3r0/notepadpp-supply-chain-iocs.svg) ![forks](https://img.shields.io/github/forks/renat0z3r0/notepadpp-supply-chain-iocs.svg)
 
+- [https://github.com/dexteon/cve-2025-15556-poc](https://github.com/dexteon/cve-2025-15556-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2025-15556-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2025-15556-poc.svg)
+
 ## CVE-2025-15545
  The backup restore function does not properly validate unexpected or unrecognized tags within the backup file. When such a crafted file is restored, the injected tag is interpreted by a shell, allowing execution of arbitrary commands with root privileges. Successful exploitation allows the attacker to gain root-level command execution, compromising confidentiality, integrity and availability.
 
@@ -11906,6 +11918,8 @@ resolvconf(8) is a shell script which does not validate its input.  A lack of qu
 
 - [https://github.com/George0Papasotiriou/CVE-2025-14174-Chrome-Zero-Day](https://github.com/George0Papasotiriou/CVE-2025-14174-Chrome-Zero-Day) : ![starts](https://img.shields.io/github/stars/George0Papasotiriou/CVE-2025-14174-Chrome-Zero-Day.svg) ![forks](https://img.shields.io/github/forks/George0Papasotiriou/CVE-2025-14174-Chrome-Zero-Day.svg)
 
+- [https://github.com/dexteon/cve-2025-14174-poc](https://github.com/dexteon/cve-2025-14174-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2025-14174-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2025-14174-poc.svg)
+
 ## CVE-2025-14172
  The WP Page Permalink Extension plugin for WordPress is vulnerable to Missing Authorization in all versions up to, and including, 1.5.4. This is due to missing authorization checks on the `cwpp_trigger_flush_rewrite_rules` function hooked to `wp_ajax_cwpp_trigger_flush_rewrite_rules`. This makes it possible for authenticated attackers, with Subscriber-level access and above, to flush the site's rewrite rules via the `action` parameter.
 
@@ -12063,6 +12077,10 @@ This issue is patched on 4.17.23
 ## CVE-2025-13224
 
 - [https://github.com/jamezx32/CVE-2025-13224](https://github.com/jamezx32/CVE-2025-13224) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2025-13224.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2025-13224.svg)
+
+## CVE-2025-13223
+
+- [https://github.com/dexteon/cve-2025-13223-poc](https://github.com/dexteon/cve-2025-13223-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2025-13223-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2025-13223-poc.svg)
 
 ## CVE-2025-13159
  The Flo Forms – Easy Drag & Drop Form Builder plugin for WordPress is vulnerable to Stored Cross-Site Scripting via SVG file uploads in all versions up to, and including, 1.0.43. This is due to the plugin allowing SVG file uploads via an unauthenticated AJAX endpoint (`flo_form_submit`) without proper file content validation. This makes it possible for unauthenticated attackers to upload malicious SVG files containing JavaScript that executes when an administrator views the uploaded file in the WordPress admin interface, leading to potential full site compromise.
@@ -12521,6 +12539,8 @@ The specific flaw exists within the handling of symbolic links in ZIP files. Cra
  Type confusion in V8 in Google Chrome prior to 140.0.7339.185 allowed a remote attacker to potentially exploit heap corruption via a crafted HTML page. (Chromium security severity: High)
 
 - [https://github.com/AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day](https://github.com/AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day) : ![starts](https://img.shields.io/github/stars/AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day.svg) ![forks](https://img.shields.io/github/forks/AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day.svg)
+
+- [https://github.com/dexteon/cve-2025-10585-poc](https://github.com/dexteon/cve-2025-10585-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2025-10585-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2025-10585-poc.svg)
 
 ## CVE-2025-10576
  Potential vulnerabilities have been identified in the audio package for certain HP PC products using the Sound Research SECOMN64 driver, which might allow escalation of privilege. HP is releasing updated audio packages to mitigate the potential vulnerabilities.
@@ -13528,6 +13548,8 @@ The specific flaw exists within the parsing of U3D files. The issue results from
 
 - [https://github.com/gmh5225/CVE-2025-6558-exp](https://github.com/gmh5225/CVE-2025-6558-exp) : ![starts](https://img.shields.io/github/stars/gmh5225/CVE-2025-6558-exp.svg) ![forks](https://img.shields.io/github/forks/gmh5225/CVE-2025-6558-exp.svg)
 
+- [https://github.com/dexteon/cve-2025-6558-poc](https://github.com/dexteon/cve-2025-6558-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2025-6558-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2025-6558-poc.svg)
+
 ## CVE-2025-6554
  Type confusion in V8 in Google Chrome prior to 138.0.7204.96 allowed a remote attacker to perform arbitrary read/write via a crafted HTML page. (Chromium security severity: High)
 
@@ -13548,6 +13570,8 @@ The specific flaw exists within the parsing of U3D files. The issue results from
 - [https://github.com/LordBheem/CVE-2025-6554](https://github.com/LordBheem/CVE-2025-6554) : ![starts](https://img.shields.io/github/stars/LordBheem/CVE-2025-6554.svg) ![forks](https://img.shields.io/github/forks/LordBheem/CVE-2025-6554.svg)
 
 - [https://github.com/gmh5225/CVE-2025-6554](https://github.com/gmh5225/CVE-2025-6554) : ![starts](https://img.shields.io/github/stars/gmh5225/CVE-2025-6554.svg) ![forks](https://img.shields.io/github/forks/gmh5225/CVE-2025-6554.svg)
+
+- [https://github.com/dexteon/cve-2025-6554-poc](https://github.com/dexteon/cve-2025-6554-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2025-6554-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2025-6554-poc.svg)
 
 ## CVE-2025-6543
  Memory overflow vulnerability leading to unintended control flow and Denial of Service in NetScaler ADC and NetScaler Gateway when configured as Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) OR AAA virtual server
@@ -14132,6 +14156,8 @@ This issue affects BILGER: before 2.4.6.
 
 - [https://github.com/riemannj/CVE-2025-5419](https://github.com/riemannj/CVE-2025-5419) : ![starts](https://img.shields.io/github/stars/riemannj/CVE-2025-5419.svg) ![forks](https://img.shields.io/github/forks/riemannj/CVE-2025-5419.svg)
 
+- [https://github.com/dexteon/cve-2025-5419-poc](https://github.com/dexteon/cve-2025-5419-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2025-5419-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2025-5419-poc.svg)
+
 ## CVE-2025-5394
  The Alone – Charity Multipurpose Non-profit WordPress Theme theme for WordPress is vulnerable to arbitrary file uploads due to a missing capability check on the alone_import_pack_install_plugin() function in all versions up to, and including, 7.8.3. This makes it possible for unauthenticated attackers to upload zip files containing webshells disguised as plugins from remote locations to achieve remote code execution. CVE-2025-54019 is likely a duplicate of this.
 
@@ -14403,6 +14429,12 @@ Cloud NGFW and Prisma® Access are not affected by this vulnerability.
 ## CVE-2025-4609
 
 - [https://github.com/nek-3231/cve-2025-4609-mojo-poc](https://github.com/nek-3231/cve-2025-4609-mojo-poc) : ![starts](https://img.shields.io/github/stars/nek-3231/cve-2025-4609-mojo-poc.svg) ![forks](https://img.shields.io/github/forks/nek-3231/cve-2025-4609-mojo-poc.svg)
+
+- [https://github.com/santiagovillalobos6900-commits/cve-2025-4609-mojo-poc](https://github.com/santiagovillalobos6900-commits/cve-2025-4609-mojo-poc) : ![starts](https://img.shields.io/github/stars/santiagovillalobos6900-commits/cve-2025-4609-mojo-poc.svg) ![forks](https://img.shields.io/github/forks/santiagovillalobos6900-commits/cve-2025-4609-mojo-poc.svg)
+
+- [https://github.com/vobando007/cve-2025-4609-mojo-poc](https://github.com/vobando007/cve-2025-4609-mojo-poc) : ![starts](https://img.shields.io/github/stars/vobando007/cve-2025-4609-mojo-poc.svg) ![forks](https://img.shields.io/github/forks/vobando007/cve-2025-4609-mojo-poc.svg)
+
+- [https://github.com/vobando0077/cve-2025-4609-mojo-poc](https://github.com/vobando0077/cve-2025-4609-mojo-poc) : ![starts](https://img.shields.io/github/stars/vobando0077/cve-2025-4609-mojo-poc.svg) ![forks](https://img.shields.io/github/forks/vobando0077/cve-2025-4609-mojo-poc.svg)
 
 ## CVE-2025-4606
  The Sala - Startup & SaaS WordPress Theme theme for WordPress is vulnerable to privilege escalation via account takeover in all versions up to, and including, 1.1.4. This is due to the theme not properly validating a user's identity prior to updating their details like password. This makes it possible for unauthenticated attackers to change arbitrary user's passwords, including administrators, and leverage that to gain access to their account.
@@ -15033,6 +15065,8 @@ This issue affects Ticket Sales Automation: before 03.04.2025 (DD.MM.YYYY).
 
 - [https://github.com/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction](https://github.com/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction) : ![starts](https://img.shields.io/github/stars/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction.svg) ![forks](https://img.shields.io/github/forks/razureink/cve-2025-2783-chrome_sandbox_escape_reproduction.svg)
 
+- [https://github.com/dexteon/cve-2025-2783-poc](https://github.com/dexteon/cve-2025-2783-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2025-2783-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2025-2783-poc.svg)
+
 ## CVE-2025-2778
  This CVE ID has been rejected or withdrawn by its CVE Numbering Authority.
 
@@ -15535,6 +15569,8 @@ Bypass operating system verification via exploiting the NV_Read functionality du
 - [https://github.com/TranDongA3/POC-CVE-2025-1094](https://github.com/TranDongA3/POC-CVE-2025-1094) : ![starts](https://img.shields.io/github/stars/TranDongA3/POC-CVE-2025-1094.svg) ![forks](https://img.shields.io/github/forks/TranDongA3/POC-CVE-2025-1094.svg)
 
 - [https://github.com/PinkArmor/CVE-2025-1094-Lab-Setup](https://github.com/PinkArmor/CVE-2025-1094-Lab-Setup) : ![starts](https://img.shields.io/github/stars/PinkArmor/CVE-2025-1094-Lab-Setup.svg) ![forks](https://img.shields.io/github/forks/PinkArmor/CVE-2025-1094-Lab-Setup.svg)
+
+- [https://github.com/dexteon/cve-2025-1094-poc](https://github.com/dexteon/cve-2025-1094-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2025-1094-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2025-1094-poc.svg)
 
 ## CVE-2025-1055
  A vulnerability in the K7RKScan.sys driver, part of the K7 Security Anti-Malware suite, allows a local low-privilege user to send crafted IOCTL requests to terminate a wide range of processes running with administrative or system-level privileges, with the exception of those inherently protected by the operating system. This flaw stems from missing access control in the driver's IOCTL handler, enabling unprivileged users to perform privileged actions in kernel space. Successful exploitation can lead to denial of service by disrupting critical services or privileged applications.

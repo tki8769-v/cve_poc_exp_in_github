@@ -79,6 +79,10 @@
 
 - [https://github.com/brompwnie/CVE-2019-1002101-Helpers](https://github.com/brompwnie/CVE-2019-1002101-Helpers) : ![starts](https://img.shields.io/github/stars/brompwnie/CVE-2019-1002101-Helpers.svg) ![forks](https://img.shields.io/github/forks/brompwnie/CVE-2019-1002101-Helpers.svg)
 
+## CVE-2019-25677
+
+- [https://github.com/kagancapar/CVE-2019-25677](https://github.com/kagancapar/CVE-2019-25677) : ![starts](https://img.shields.io/github/stars/kagancapar/CVE-2019-25677.svg) ![forks](https://img.shields.io/github/forks/kagancapar/CVE-2019-25677.svg)
+
 ## CVE-2019-25485
  R 3.4.4 on Windows x64 contains a buffer overflow vulnerability in the GUI Preferences language menu field that allows local attackers to bypass DEP and ASLR protections. Attackers can inject a crafted payload through the Language for menus preference to trigger a structured exception handler chain pivot and execute arbitrary shellcode with application privileges.
 

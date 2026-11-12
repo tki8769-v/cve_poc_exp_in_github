@@ -1542,6 +1542,8 @@
 
 - [https://github.com/0xredash/CVE-2020-17103](https://github.com/0xredash/CVE-2020-17103) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2020-17103.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2020-17103.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2020-17103](https://github.com/ashrafzaryouh/CVE-2020-17103) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2020-17103.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2020-17103.svg)
+
 ## CVE-2020-17087
  Windows Kernel Local Elevation of Privilege Vulnerability
 
@@ -3352,6 +3354,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 - [https://github.com/f8al/PoC-CVE-2020-9715](https://github.com/f8al/PoC-CVE-2020-9715) : ![starts](https://img.shields.io/github/stars/f8al/PoC-CVE-2020-9715.svg) ![forks](https://img.shields.io/github/forks/f8al/PoC-CVE-2020-9715.svg)
 
 - [https://github.com/wonjunchun/CVE-2020-9715](https://github.com/wonjunchun/CVE-2020-9715) : ![starts](https://img.shields.io/github/stars/wonjunchun/CVE-2020-9715.svg) ![forks](https://img.shields.io/github/forks/wonjunchun/CVE-2020-9715.svg)
+
+- [https://github.com/dexteon/cve-2020-9715-poc](https://github.com/dexteon/cve-2020-9715-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2020-9715-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2020-9715-poc.svg)
 
 ## CVE-2020-9548
  FasterXML jackson-databind 2.x before 2.9.10.4 mishandles the interaction between serialization gadgets and typing, related to br.com.anteros.dbcp.AnterosDBCPConfig (aka anteros-core).

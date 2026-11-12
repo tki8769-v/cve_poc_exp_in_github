@@ -3461,6 +3461,10 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 
 - [https://github.com/zahidadeel/YARA-Rules](https://github.com/zahidadeel/YARA-Rules) : ![starts](https://img.shields.io/github/stars/zahidadeel/YARA-Rules.svg) ![forks](https://img.shields.io/github/forks/zahidadeel/YARA-Rules.svg)
 
+## CVE-2018-4990
+
+- [https://github.com/dexteon/cve-2018-4990-poc](https://github.com/dexteon/cve-2018-4990-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2018-4990-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2018-4990-poc.svg)
+
 ## CVE-2018-4901
  An issue was discovered in Adobe Acrobat Reader 2018.009.20050 and earlier versions, 2017.011.30070 and earlier versions, 2015.006.30394 and earlier versions. The vulnerability is caused by the computation that writes data past the end of the intended buffer; the computation is part of the document identity representation. An attacker can potentially leverage the vulnerability to corrupt sensitive data or execute arbitrary code.
 

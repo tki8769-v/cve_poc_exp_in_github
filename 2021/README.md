@@ -5473,6 +5473,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664](https://github.com/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664) : ![starts](https://img.shields.io/github/stars/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664.svg) ![forks](https://img.shields.io/github/forks/TAKIANFIF/CVE-2021-1905-CVE-2021-1906-CVE-2021-28663-CVE-2021-28664.svg)
 
+## CVE-2021-28550
+
+- [https://github.com/dexteon/cve-2021-28550-poc](https://github.com/dexteon/cve-2021-28550-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2021-28550-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2021-28550-poc.svg)
+
 ## CVE-2021-28482
  Microsoft Exchange Server Remote Code Execution Vulnerability
 
@@ -7475,6 +7479,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/ZeusBox/CVE-2021-21017](https://github.com/ZeusBox/CVE-2021-21017) : ![starts](https://img.shields.io/github/stars/ZeusBox/CVE-2021-21017.svg) ![forks](https://img.shields.io/github/forks/ZeusBox/CVE-2021-21017.svg)
 
 - [https://github.com/tzwlhack/CVE-2021-21017](https://github.com/tzwlhack/CVE-2021-21017) : ![starts](https://img.shields.io/github/stars/tzwlhack/CVE-2021-21017.svg) ![forks](https://img.shields.io/github/forks/tzwlhack/CVE-2021-21017.svg)
+
+- [https://github.com/dexteon/cve-2021-21017-poc](https://github.com/dexteon/cve-2021-21017-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2021-21017-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2021-21017-poc.svg)
 
 ## CVE-2021-21014
  Magento versions 2.4.1 (and earlier), 2.4.0-p1 (and earlier) and 2.3.6 (and earlier) are vulnerable to a file upload restriction bypass. Successful exploitation could lead to arbitrary code execution by an authenticated attacker. Access to the admin console is required for successful exploitation.
