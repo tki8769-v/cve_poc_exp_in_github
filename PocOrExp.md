@@ -16,6 +16,7 @@
 - [https://github.com/zeetee1235/CVE-2026-126497](https://github.com/zeetee1235/CVE-2026-126497) : ![starts](https://img.shields.io/github/stars/zeetee1235/CVE-2026-126497.svg) ![forks](https://img.shields.io/github/forks/zeetee1235/CVE-2026-126497.svg)
 
 ## CVE-2026-126187
+> React is a JavaScript library for building user interfaces. From 19.0.0 until 19.0.9, 19.1.10, 19.2.9, and 19.3.1, the react-server-dom-webpack, react-server-dom-parcel, and react-server-dom-turbopack packages are vulnerable to unauthenticated remote code execution through crafted payloads targeting frameworks that support React Server Components. The vulnerability only affects extremely rare cases where responses transport multiple typed arrays and an attacker-controlled value. Applications who
 
 - [https://github.com/briskets/CVE-2026-126187-poc](https://github.com/briskets/CVE-2026-126187-poc) : ![starts](https://img.shields.io/github/stars/briskets/CVE-2026-126187-poc.svg) ![forks](https://img.shields.io/github/forks/briskets/CVE-2026-126187-poc.svg)
 

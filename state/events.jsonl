@@ -11487,3 +11487,15 @@
 {"cve_id": "CVE-2026-123439", "ts": "2026-11-12T09:25:48Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2025-24054", "ts": "2026-11-12T09:52:25Z", "type": "new_poc", "url": "https://github.com/nexus956/CVE-2025-24054-PoC"}
 {"cve_id": "CVE-2026-48356", "ts": "2026-11-12T09:56:47Z", "type": "new_poc", "url": "https://github.com/Cyber-BansalAI/polyshell-2026"}
+{"cve_id": "CVE-2026-123424", "ts": "2026-11-12T17:42:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123425", "ts": "2026-11-12T17:42:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123426", "ts": "2026-11-12T17:42:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123427", "ts": "2026-11-12T17:42:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123429", "ts": "2026-11-12T17:42:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123430", "ts": "2026-11-12T17:42:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123431", "ts": "2026-11-12T17:42:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123432", "ts": "2026-11-12T17:42:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123435", "ts": "2026-11-12T17:42:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123437", "ts": "2026-11-12T17:42:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123438", "ts": "2026-11-12T17:42:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123439", "ts": "2026-11-12T17:42:28Z", "type": "cve_rejected"}
