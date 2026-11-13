@@ -3455,3 +3455,11 @@
 {"cve_id": "CVE-2025-6647", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T14:18:25Z", "url": "https://github.com/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-canary-14x", "url_ids": ["CVE-2025-66478"]}
 {"cve_id": "CVE-2025-6647", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T14:18:25Z", "url": "https://github.com/react2shell-repo-menagerie/CVE-2025-66478-single-nextjs-npm-canary-16x", "url_ids": ["CVE-2025-66478"]}
 {"cve_id": "CVE-2026-7727", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T14:18:33Z", "url": "https://github.com/Morzan6/CVE-2026-77276-PoC", "url_ids": ["CVE-2026-77276"]}
+{"cve_id": "CVE-2024-2370", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T20:43:22Z", "url": "https://github.com/canyie/CVE-2024-23700", "url_ids": ["CVE-2024-23700"]}
+{"cve_id": "CVE-2024-2370", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T20:43:22Z", "url": "https://github.com/vinh0212/CVE-2024-23700", "url_ids": ["CVE-2024-23700"]}
+{"cve_id": "CVE-2024-2370", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T20:43:22Z", "url": "https://github.com/kaitokidc500/CVE-2024-23700-C2-Server", "url_ids": ["CVE-2024-23700"]}
+{"cve_id": "CVE-2018-1634", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T20:44:24Z", "url": "https://github.com/mpgn/CVE-2018-16341", "url_ids": ["CVE-2018-16341"]}
+{"cve_id": "CVE-2026-3682", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T20:46:32Z", "url": "https://github.com/Forklit/CVE-2026-36826", "url_ids": ["CVE-2026-36826"]}
+{"cve_id": "CVE-2024-1208", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T20:50:35Z", "url": "https://github.com/InkeyP/CVE-2024-12084", "url_ids": ["CVE-2024-12084"]}
+{"cve_id": "CVE-2024-1208", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T20:50:35Z", "url": "https://github.com/Otsutez/cve-2024-12085", "url_ids": ["CVE-2024-12085"]}
+{"cve_id": "CVE-2026-3132", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T20:50:36Z", "url": "https://github.com/cwjchoi01/CVE-2026-31321", "url_ids": ["CVE-2026-31321"]}
