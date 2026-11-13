@@ -2852,6 +2852,14 @@ The guard that destroys idle keep-alive sockets when unexpected data arrives onl
 - [https://github.com/CompleteTech-Security/docker-hub-ghostpat-check](https://github.com/CompleteTech-Security/docker-hub-ghostpat-check) : ![starts](https://img.shields.io/github/stars/CompleteTech-Security/docker-hub-ghostpat-check.svg) ![forks](https://img.shields.io/github/forks/CompleteTech-Security/docker-hub-ghostpat-check.svg)
 
 ## CVE-2026-105440
+> Missing authorization in the JSON-RPC web services interface
+of Extreme Networks Switch Engine (EXOS) allows an authenticated,
+low-privileged (read-only) user to execute CLI show commands that are
+restricted to that role through the command line interface. Successful
+exploitation results in disclosure of sensitive information, including the
+device configuration and the password hashes of local accounts. Configuration,
+enable, and debug commands are not affected. Disclosed password hashes can be
+
 
 - [https://github.com/toanln-cov/CVE-2026-105440](https://github.com/toanln-cov/CVE-2026-105440) : ![starts](https://img.shields.io/github/stars/toanln-cov/CVE-2026-105440.svg) ![forks](https://img.shields.io/github/forks/toanln-cov/CVE-2026-105440.svg)
 
@@ -22572,6 +22580,8 @@ https: //lore.kernel.org/netdev/695fb1e8.050a0220.1c677c.039f.GAE@google.com/T/#
 - [https://github.com/HodgeLuke/ai-agent-security-research](https://github.com/HodgeLuke/ai-agent-security-research) : ![starts](https://img.shields.io/github/stars/HodgeLuke/ai-agent-security-research.svg) ![forks](https://img.shields.io/github/forks/HodgeLuke/ai-agent-security-research.svg)
 
 - [https://github.com/mad12wader/CVE-2026-22812](https://github.com/mad12wader/CVE-2026-22812) : ![starts](https://img.shields.io/github/stars/mad12wader/CVE-2026-22812.svg) ![forks](https://img.shields.io/github/forks/mad12wader/CVE-2026-22812.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-22812](https://github.com/ashrafzaryouh/CVE-2026-22812) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-22812.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-22812.svg)
 
 ## CVE-2026-22807
  vLLM is an inference and serving engine for large language models (LLMs). Starting in version 0.10.1 and prior to version 0.14.0, vLLM loads Hugging Face `auto_map` dynamic modules during model resolution without gating on `trust_remote_code`, allowing attacker-controlled Python code in a model repo/path to execute at server startup. An attacker who can influence the model repo/path (local directory or remote Hugging Face repo) can achieve arbitrary code execution on the vLLM host during model load. This happens before any request handling and does not require API access. Version 0.14.0 fixes the issue.
@@ -73787,6 +73797,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 - [https://github.com/Arrnitage/CVE-2022-23131_exp](https://github.com/Arrnitage/CVE-2022-23131_exp) : ![starts](https://img.shields.io/github/stars/Arrnitage/CVE-2022-23131_exp.svg) ![forks](https://img.shields.io/github/forks/Arrnitage/CVE-2022-23131_exp.svg)
 
 - [https://github.com/dagowda/Zabbix-cve-2022-23131-SSO-bypass](https://github.com/dagowda/Zabbix-cve-2022-23131-SSO-bypass) : ![starts](https://img.shields.io/github/stars/dagowda/Zabbix-cve-2022-23131-SSO-bypass.svg) ![forks](https://img.shields.io/github/forks/dagowda/Zabbix-cve-2022-23131-SSO-bypass.svg)
+
+- [https://github.com/0xbara/cve-2022-23131](https://github.com/0xbara/cve-2022-23131) : ![starts](https://img.shields.io/github/stars/0xbara/cve-2022-23131.svg) ![forks](https://img.shields.io/github/forks/0xbara/cve-2022-23131.svg)
 
 ## CVE-2022-23093
  ping reads raw IP packets from the network to process responses in the pr_pack() function.  As part of processing a response ping has to reconstruct the IP header, the ICMP header and if present a "quoted packet," which represents the packet that generated an ICMP error.  The quoted packet again has an IP header and an ICMP header.

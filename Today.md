@@ -12,6 +12,10 @@
 
 - [https://github.com/mcpmark-eval-liuhezi/ghsa-lodash-ci-7f3c9a](https://github.com/mcpmark-eval-liuhezi/ghsa-lodash-ci-7f3c9a) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/ghsa-lodash-ci-7f3c9a.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/ghsa-lodash-ci-7f3c9a.svg)
 
+## CVE-2022-23131
+
+- [https://github.com/0xbara/cve-2022-23131](https://github.com/0xbara/cve-2022-23131) : ![starts](https://img.shields.io/github/stars/0xbara/cve-2022-23131.svg) ![forks](https://img.shields.io/github/forks/0xbara/cve-2022-23131.svg)
+
 ## CVE-2023-6241
 
 - [https://github.com/R0rt1z2/CVE-2023-6241-JM](https://github.com/R0rt1z2/CVE-2023-6241-JM) : ![starts](https://img.shields.io/github/stars/R0rt1z2/CVE-2023-6241-JM.svg) ![forks](https://img.shields.io/github/forks/R0rt1z2/CVE-2023-6241-JM.svg)
@@ -167,6 +171,10 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 ## CVE-2026-21509
 
 - [https://github.com/maxprog-svg/CVE-2026-21509](https://github.com/maxprog-svg/CVE-2026-21509) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-21509.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-21509.svg)
+
+## CVE-2026-22812
+
+- [https://github.com/ashrafzaryouh/CVE-2026-22812](https://github.com/ashrafzaryouh/CVE-2026-22812) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-22812.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-22812.svg)
 
 ## CVE-2026-31431
 > In the Linux kernel, the following vulnerability has been resolved:

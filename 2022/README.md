@@ -5465,6 +5465,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 
 - [https://github.com/dagowda/Zabbix-cve-2022-23131-SSO-bypass](https://github.com/dagowda/Zabbix-cve-2022-23131-SSO-bypass) : ![starts](https://img.shields.io/github/stars/dagowda/Zabbix-cve-2022-23131-SSO-bypass.svg) ![forks](https://img.shields.io/github/forks/dagowda/Zabbix-cve-2022-23131-SSO-bypass.svg)
 
+- [https://github.com/0xbara/cve-2022-23131](https://github.com/0xbara/cve-2022-23131) : ![starts](https://img.shields.io/github/stars/0xbara/cve-2022-23131.svg) ![forks](https://img.shields.io/github/forks/0xbara/cve-2022-23131.svg)
+
 ## CVE-2022-23093
  ping reads raw IP packets from the network to process responses in the pr_pack() function.  As part of processing a response ping has to reconstruct the IP header, the ICMP header and if present a "quoted packet," which represents the packet that generated an ICMP error.  The quoted packet again has an IP header and an ICMP header.
 

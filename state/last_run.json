@@ -15,7 +15,7 @@
     },
     "clean_apply": {
       "affected_years": [],
-      "applied_at": "2026-11-13T20:52:46Z",
+      "applied_at": "2026-11-13T21:17:05Z",
       "applied_rejected": 0,
       "revoked_accepted": 0,
       "revoked_rejected": 0,
@@ -24,37 +24,36 @@
     },
     "official_refs": {
       "accepted": 0,
-      "candidates_total": 22331,
-      "kept_for_review": 2,
-      "meta_fetched": 2,
-      "patchlike_skipped": 23,
+      "candidates_total": 22335,
+      "kept_for_review": 3,
+      "meta_fetched": 3,
+      "patchlike_skipped": 1,
       "pending_after": 0,
-      "pending_before": 25,
+      "pending_before": 4,
       "pending_by_kind": {
-        "advisory": 5,
-        "patch": 18,
-        "poc": 2
+        "patch": 1,
+        "reference": 3
       },
       "pending_by_kind_after": {},
-      "processed": 2,
+      "processed": 3,
       "rejected_lead": 0,
-      "requests_used": 2,
+      "requests_used": 3,
       "stop_reason": null
     },
     "queue": {
       "due_by_priority": {
-        "0": 8897,
-        "5": 5536,
-        "8": 31161
+        "0": 8759,
+        "5": 5563,
+        "8": 31126
       },
-      "due_now": 45594,
-      "oldest_due": "2026-10-20T19:38:17Z",
+      "due_now": 45448,
+      "oldest_due": "2026-10-20T19:46:34Z",
       "oldest_due_by_priority": {
         "0": "2026-11-10T04:21:18Z",
-        "5": "2026-11-07T15:43:59Z",
-        "8": "2026-10-20T19:38:17Z"
+        "5": "2026-11-07T16:00:54Z",
+        "8": "2026-10-20T19:46:34Z"
       },
-      "tasks_total": 55312
+      "tasks_total": 55323
     },
     "recheck": {
       "conflict_evidenced": 166,
@@ -65,14 +64,14 @@
       "rule_version": "2"
     },
     "render": {
-      "changed_files": 5
+      "changed_files": 4
     },
     "repo_pushed": {
-      "accepted_existing": 19,
+      "accepted_existing": 21,
       "blocked": 0,
       "cursor_advanced": false,
       "invalid_ids": 0,
-      "needs_review": 12,
+      "needs_review": 4,
       "new_relations": 0,
       "rejected_at_collection": 0,
       "repos_seen": 300,
@@ -87,14 +86,14 @@
       "windows_pending": 0
     },
     "repo_watch": {
-      "accepted_existing": 38,
+      "accepted_existing": 44,
       "blocked": 0,
       "complete": true,
       "cursor_advanced": true,
       "cves_hit": 37,
       "invalid_ids": 0,
       "needs_review": 11,
-      "new_relations": 6,
+      "new_relations": 0,
       "partial_days_dropped": 0,
       "partial_days_pending": 0,
       "rejected_at_collection": 0,
@@ -108,9 +107,9 @@
       "budget_stopped": true,
       "incomplete": 0,
       "invalid_id_skipped": 0,
-      "needs_review": 54,
-      "new_relations": 4,
-      "rejected_at_collection": 8,
+      "needs_review": 76,
+      "new_relations": 2,
+      "rejected_at_collection": 49,
       "scanned": 300,
       "scanned_by_priority": {
         "0": 151,
@@ -123,28 +122,28 @@
     "sync": {
       "budget_stopped": true,
       "continuity_warning": false,
-      "cves_seen": 1765,
+      "cves_seen": 1778,
       "floor_tag": "cve_2026-09-24_0700Z",
-      "last_tag": "cve_2026-11-11_1500Z",
-      "new_tasks": 22,
-      "ref_candidates_added": 25,
+      "last_tag": "cve_2026-11-11_1600Z",
+      "new_tasks": 11,
+      "ref_candidates_added": 4,
       "rejected": 0,
       "releases_processed": 1,
       "releases_seen": 60
     },
     "timing": {
-      "backfill_conflicts": 13.078,
-      "backfill_queue": 0.233,
-      "clean_apply": 0.302,
-      "official_refs": 4.33,
-      "queue": 0.323,
-      "recheck": 0.206,
-      "render": 1.037,
-      "repo_pushed": 16.711,
-      "repo_watch": 11.97,
-      "scan": 579.279,
-      "sync": 816.128,
-      "verify": 0.687
+      "backfill_conflicts": 13.347,
+      "backfill_queue": 0.253,
+      "clean_apply": 0.309,
+      "official_refs": 1.71,
+      "queue": 0.322,
+      "recheck": 0.2,
+      "render": 1.064,
+      "repo_pushed": 12.218,
+      "repo_watch": 10.579,
+      "scan": 587.751,
+      "sync": 820.911,
+      "verify": 0.68
     },
     "verify": {
       "downstream_checked": true,
@@ -153,5 +152,5 @@
       "problems": []
     }
   },
-  "ts": "2026-11-13T20:52:48Z"
+  "ts": "2026-11-13T21:17:08Z"
 }
