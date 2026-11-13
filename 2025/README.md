@@ -9531,6 +9531,8 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
 
 - [https://github.com/JasonW88/esp32-cve-2025-27840-power-trace-experiment](https://github.com/JasonW88/esp32-cve-2025-27840-power-trace-experiment) : ![starts](https://img.shields.io/github/stars/JasonW88/esp32-cve-2025-27840-power-trace-experiment.svg) ![forks](https://img.shields.io/github/forks/JasonW88/esp32-cve-2025-27840-power-trace-experiment.svg)
 
+- [https://github.com/h4r-m0n1e/CVE-2025-27840-WIP](https://github.com/h4r-m0n1e/CVE-2025-27840-WIP) : ![starts](https://img.shields.io/github/stars/h4r-m0n1e/CVE-2025-27840-WIP.svg) ![forks](https://img.shields.io/github/forks/h4r-m0n1e/CVE-2025-27840-WIP.svg)
+
 ## CVE-2025-27817
  A possible arbitrary file read and SSRF vulnerability has been identified in Apache Kafka Client. Apache Kafka Clients accept configuration data for setting the SASL/OAUTHBEARER connection with the brokers, including "sasl.oauthbearer.token.endpoint.url" and "sasl.oauthbearer.jwks.endpoint.url". Apache Kafka allows clients to read an arbitrary file and return the content in the error log, or sending requests to an unintended location. In applications where Apache Kafka Clients configurations can be specified by an untrusted party, attackers may use the "sasl.oauthbearer.token.endpoint.url" and "sasl.oauthbearer.jwks.endpoint.url" configuratin to read arbitrary contents of the disk and environment variables or make requests to an unintended location. In particular, this flaw may be used in Apache Kafka Connect to escalate from REST API access to filesystem/environment/URL access, which may be undesirable in certain environments, including SaaS products. 
 

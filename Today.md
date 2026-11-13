@@ -8,9 +8,17 @@
 
 - [https://github.com/mcpmark-eval-liuhezi/ghsa-lodash-ci-7f3c9a](https://github.com/mcpmark-eval-liuhezi/ghsa-lodash-ci-7f3c9a) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/ghsa-lodash-ci-7f3c9a.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/ghsa-lodash-ci-7f3c9a.svg)
 
+## CVE-2023-6241
+
+- [https://github.com/R0rt1z2/CVE-2023-6241-JM](https://github.com/R0rt1z2/CVE-2023-6241-JM) : ![starts](https://img.shields.io/github/stars/R0rt1z2/CVE-2023-6241-JM.svg) ![forks](https://img.shields.io/github/forks/R0rt1z2/CVE-2023-6241-JM.svg)
+
 ## CVE-2024-51482
 
 - [https://github.com/ehl0707/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP](https://github.com/ehl0707/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP) : ![starts](https://img.shields.io/github/stars/ehl0707/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP.svg) ![forks](https://img.shields.io/github/forks/ehl0707/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP.svg)
+
+## CVE-2025-27840
+
+- [https://github.com/h4r-m0n1e/CVE-2025-27840-WIP](https://github.com/h4r-m0n1e/CVE-2025-27840-WIP) : ![starts](https://img.shields.io/github/stars/h4r-m0n1e/CVE-2025-27840-WIP.svg) ![forks](https://img.shields.io/github/forks/h4r-m0n1e/CVE-2025-27840-WIP.svg)
 
 ## CVE-2025-48384
 
@@ -170,6 +178,11 @@ AD directly.
 
 - [https://github.com/0xv01d/CVE-2026-41651](https://github.com/0xv01d/CVE-2026-41651) : ![starts](https://img.shields.io/github/stars/0xv01d/CVE-2026-41651.svg) ![forks](https://img.shields.io/github/forks/0xv01d/CVE-2026-41651.svg)
 
+## CVE-2026-55200
+> libssh2 1.11.1, fixed in commit 97acf3d, contains an out-of-bounds write vulnerability in ssh2_transport_read() that fails to enforce upper bounds on packet_length field. Remote attackers can send crafted SSH packets with excessively large packet_length values to corrupt heap memory and achieve remote code execution.
+
+- [https://github.com/ashrafzaryouh/CVE-2026-55200](https://github.com/ashrafzaryouh/CVE-2026-55200) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-55200.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-55200.svg)
+
 ## CVE-2026-56290
 > Joomla Extension - joomlack.fr - Unauthenticated file upload in Page Builder CK extension &lt; 3.6.0 - The Joomla extension Page Builder CK is vulnerable to an unauthenticated arbitrary file upload that allows uploading executable files and leads to full RCE.
 
@@ -182,6 +195,10 @@ AD directly.
 ## CVE-2026-6471
 
 - [https://github.com/Mahgal/pg-patch-check](https://github.com/Mahgal/pg-patch-check) : ![starts](https://img.shields.io/github/stars/Mahgal/pg-patch-check.svg) ![forks](https://img.shields.io/github/forks/Mahgal/pg-patch-check.svg)
+
+## CVE-2026-8451
+
+- [https://github.com/ashrafzaryouh/CVE-2026-8451](https://github.com/ashrafzaryouh/CVE-2026-8451) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-8451.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-8451.svg)
 
 ## CVE-2026-97793
 

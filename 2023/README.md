@@ -9028,6 +9028,8 @@ We recommend upgrading past commit 382c27f4ed28f803b1f1473ac2d8db0afc795a1b.
 
 - [https://github.com/ilGobbo00/CVE-2023-6241-Pixel7_Adaptation](https://github.com/ilGobbo00/CVE-2023-6241-Pixel7_Adaptation) : ![starts](https://img.shields.io/github/stars/ilGobbo00/CVE-2023-6241-Pixel7_Adaptation.svg) ![forks](https://img.shields.io/github/forks/ilGobbo00/CVE-2023-6241-Pixel7_Adaptation.svg)
 
+- [https://github.com/R0rt1z2/CVE-2023-6241-JM](https://github.com/R0rt1z2/CVE-2023-6241-JM) : ![starts](https://img.shields.io/github/stars/R0rt1z2/CVE-2023-6241-JM.svg) ![forks](https://img.shields.io/github/forks/R0rt1z2/CVE-2023-6241-JM.svg)
+
 ## CVE-2023-6199
  Book Stack version 23.10.2 allows filtering local files on the server. This is possible because the application is vulnerable to SSRF.
 

@@ -11614,3 +11614,7 @@
 {"cve_id": "CVE-2026-98260", "ts": "2026-11-13T13:23:07Z", "type": "new_poc", "url": "https://github.com/sabuweis/CVE-2026-98260"}
 {"cve_id": "CVE-2026-111497", "ts": "2026-11-13T13:23:08Z", "type": "new_poc", "url": "https://github.com/KarpelesLab/broccoli2shell"}
 {"cve_id": "CVE-2026-21509", "ts": "2026-11-13T13:46:37Z", "type": "new_poc", "url": "https://github.com/maxprog-svg/CVE-2026-21509"}
+{"cve_id": "CVE-2023-6241", "ts": "2026-11-13T14:11:52Z", "type": "new_poc", "url": "https://github.com/R0rt1z2/CVE-2023-6241-JM"}
+{"cve_id": "CVE-2025-27840", "ts": "2026-11-13T14:16:20Z", "type": "new_poc", "url": "https://github.com/h4r-m0n1e/CVE-2025-27840-WIP"}
+{"cve_id": "CVE-2026-55200", "ts": "2026-11-13T14:19:34Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-55200"}
+{"cve_id": "CVE-2026-8451", "ts": "2026-11-13T14:20:32Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-8451"}
