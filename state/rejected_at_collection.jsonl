@@ -3373,3 +3373,10 @@
 {"cve_id": "CVE-2024-2997", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:19:19Z", "url": "https://github.com/p0et08/CVE-2024-29973", "url_ids": ["CVE-2024-29973"]}
 {"cve_id": "CVE-2022-2022", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:23:23Z", "url": "https://github.com/dsp-security-workflows/cve-2022-20223", "url_ids": ["CVE-2022-20223"]}
 {"cve_id": "CVE-2024-2378", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:25:26Z", "url": "https://github.com/HazardLab-IO/CVE-2024-23780", "url_ids": ["CVE-2024-23780"]}
+{"cve_id": "CVE-2024-4476", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:37:26Z", "url": "https://github.com/josephgodwinkimani/cloudpanel-2.4.2-CVE-2024-44765-recovery", "url_ids": ["CVE-2024-44765"]}
+{"cve_id": "CVE-2026-5265", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:37:27Z", "url": "https://github.com/mirackayikci/CVE-2026-52658", "url_ids": ["CVE-2026-52658"]}
+{"cve_id": "CVE-2017-1624", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:38:20Z", "url": "https://github.com/AOCorsaire/CVE-2017-16245", "url_ids": ["CVE-2017-16245"]}
+{"cve_id": "CVE-2025-5581", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:38:20Z", "url": "https://github.com/partywavesec/CVE-2025-55816", "url_ids": ["CVE-2025-55816"]}
+{"cve_id": "CVE-2026-2749", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:40:21Z", "url": "https://github.com/DexSemon/CVE-2026-27495", "url_ids": ["CVE-2026-27495"]}
+{"cve_id": "CVE-2025-4893", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:41:16Z", "url": "https://github.com/CerberusMrXi/CVE-2025-48932-Invision-Community-SQLi-Exploit", "url_ids": ["CVE-2025-48932"]}
+{"cve_id": "CVE-2017-1079", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:41:23Z", "url": "https://github.com/n4xh4ck5/CVE-2017-10797", "url_ids": ["CVE-2017-10797"]}
