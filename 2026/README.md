@@ -366,6 +366,10 @@ An application that passes request data as column values to insert or update
 
 - [https://github.com/jeffschafer/Bigfix-Apache-HTTP2-Vulnerability-Scanner-CVE-2026-119618](https://github.com/jeffschafer/Bigfix-Apache-HTTP2-Vulnerability-Scanner-CVE-2026-119618) : ![starts](https://img.shields.io/github/stars/jeffschafer/Bigfix-Apache-HTTP2-Vulnerability-Scanner-CVE-2026-119618.svg) ![forks](https://img.shields.io/github/forks/jeffschafer/Bigfix-Apache-HTTP2-Vulnerability-Scanner-CVE-2026-119618.svg)
 
+- [https://github.com/LLCForge/CVE-2026-119618](https://github.com/LLCForge/CVE-2026-119618) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-119618.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-119618.svg)
+
+- [https://github.com/jeffschafer/Apache-HTTP2-RCE-HEAP-CORRUPTION-CVE-2026-119618-STAND-ALONE-SCANNER](https://github.com/jeffschafer/Apache-HTTP2-RCE-HEAP-CORRUPTION-CVE-2026-119618-STAND-ALONE-SCANNER) : ![starts](https://img.shields.io/github/stars/jeffschafer/Apache-HTTP2-RCE-HEAP-CORRUPTION-CVE-2026-119618-STAND-ALONE-SCANNER.svg) ![forks](https://img.shields.io/github/forks/jeffschafer/Apache-HTTP2-RCE-HEAP-CORRUPTION-CVE-2026-119618-STAND-ALONE-SCANNER.svg)
+
 ## CVE-2026-119200
 > Nuxt is an open-source web development framework for Vue.js. From 4.6.0 until 4.6.3, Nuxt resolves literal or percent-encoded dot segments before rendering a page while Nitro routing, server/middleware checks, and server route rules evaluate the unresolved path. A request such as /%2e/admin can therefore render app/pages/admin.vue and its server-rendered data while checks keyed to /admin, redirects, or per-route security headers do not apply. API handlers, appMiddleware, Nuxt 3, and Nuxt 4.0.0 t
 
@@ -4040,6 +4044,10 @@ allocated an object f
 - [https://github.com/j0wii/CVE-2026-97798_LPE_Windows](https://github.com/j0wii/CVE-2026-97798_LPE_Windows) : ![starts](https://img.shields.io/github/stars/j0wii/CVE-2026-97798_LPE_Windows.svg) ![forks](https://img.shields.io/github/forks/j0wii/CVE-2026-97798_LPE_Windows.svg)
 
 - [https://github.com/0xBlackash/CVE-2026-97798](https://github.com/0xBlackash/CVE-2026-97798) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-97798.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-97798.svg)
+
+## CVE-2026-97793
+
+- [https://github.com/yo-yo-yo-jbo/intro_to_com](https://github.com/yo-yo-yo-jbo/intro_to_com) : ![starts](https://img.shields.io/github/stars/yo-yo-yo-jbo/intro_to_com.svg) ![forks](https://img.shields.io/github/forks/yo-yo-yo-jbo/intro_to_com.svg)
 
 ## CVE-2026-97785
 
@@ -10581,6 +10589,8 @@ An authenticated attacker with the relevant broad role permission could abuse th
 - [https://github.com/katranSefa/CVE-2026-56290](https://github.com/katranSefa/CVE-2026-56290) : ![starts](https://img.shields.io/github/stars/katranSefa/CVE-2026-56290.svg) ![forks](https://img.shields.io/github/forks/katranSefa/CVE-2026-56290.svg)
 
 - [https://github.com/ChiefYoru/CVE-2026-56290_PoC](https://github.com/ChiefYoru/CVE-2026-56290_PoC) : ![starts](https://img.shields.io/github/stars/ChiefYoru/CVE-2026-56290_PoC.svg) ![forks](https://img.shields.io/github/forks/ChiefYoru/CVE-2026-56290_PoC.svg)
+
+- [https://github.com/Mushr00w/CVE-2026-56290](https://github.com/Mushr00w/CVE-2026-56290) : ![starts](https://img.shields.io/github/stars/Mushr00w/CVE-2026-56290.svg) ![forks](https://img.shields.io/github/forks/Mushr00w/CVE-2026-56290.svg)
 
 ## CVE-2026-56197
  Improper neutralization of special elements used in a command ('command injection') in Windows Admin Center allows an authorized attacker to execute code over a network.
@@ -19440,6 +19450,8 @@ AD directly.
 - [https://github.com/abiyeenzo/CVE-2026-31431](https://github.com/abiyeenzo/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/abiyeenzo/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/abiyeenzo/CVE-2026-31431.svg)
 
 - [https://github.com/hosun-hwang/CVE-2026-31431_PoC](https://github.com/hosun-hwang/CVE-2026-31431_PoC) : ![starts](https://img.shields.io/github/stars/hosun-hwang/CVE-2026-31431_PoC.svg) ![forks](https://img.shields.io/github/forks/hosun-hwang/CVE-2026-31431_PoC.svg)
+
+- [https://github.com/CypherMux/CopyFix](https://github.com/CypherMux/CopyFix) : ![starts](https://img.shields.io/github/stars/CypherMux/CopyFix.svg) ![forks](https://img.shields.io/github/forks/CypherMux/CopyFix.svg)
 
 ## CVE-2026-31429
  In the Linux kernel, the following vulnerability has been resolved:

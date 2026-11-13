@@ -6624,6 +6624,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/khayashi4337/lodash.template-fixed](https://github.com/khayashi4337/lodash.template-fixed) : ![starts](https://img.shields.io/github/stars/khayashi4337/lodash.template-fixed.svg) ![forks](https://img.shields.io/github/forks/khayashi4337/lodash.template-fixed.svg)
 
+- [https://github.com/mcpmark-eval-liuhezi/ghsa-lodash-ci-7f3c9a](https://github.com/mcpmark-eval-liuhezi/ghsa-lodash-ci-7f3c9a) : ![starts](https://img.shields.io/github/stars/mcpmark-eval-liuhezi/ghsa-lodash-ci-7f3c9a.svg) ![forks](https://img.shields.io/github/forks/mcpmark-eval-liuhezi/ghsa-lodash-ci-7f3c9a.svg)
+
 ## CVE-2021-23132
  An issue was discovered in Joomla! 3.0.0 through 3.9.24. com_media allowed paths that are not intended for image uploads
 
