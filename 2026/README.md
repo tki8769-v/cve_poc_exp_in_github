@@ -19,6 +19,7 @@
 - [https://github.com/evenomn/CVE-2026-126997](https://github.com/evenomn/CVE-2026-126997) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-126997.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-126997.svg)
 
 ## CVE-2026-126537
+> The Ninja Forms - File Uploads add-on for WordPress is vulnerable to Arbitrary File Deletion (and arbitrary file read via S3/Dropbox/Google Drive exfiltration) in versions up to, and including, 3.3.36. The flaw spans NF_FU_Fields_Upload::process() in includes/fields/upload.php — which returns early (leaving the client-supplied files[] intact) whenever a public submission carries a nonempty extra.saveProgress — and NF_FU_External_Abstracts_Service::process_upload() in includes/external/abstracts/
 
 - [https://github.com/im0xfay/CVE-2026-126537](https://github.com/im0xfay/CVE-2026-126537) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-126537.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-126537.svg)
 
@@ -23133,6 +23134,8 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 - [https://github.com/DameDode/CVE-2026-21509-POC](https://github.com/DameDode/CVE-2026-21509-POC) : ![starts](https://img.shields.io/github/stars/DameDode/CVE-2026-21509-POC.svg) ![forks](https://img.shields.io/github/forks/DameDode/CVE-2026-21509-POC.svg)
 
 - [https://github.com/razureink/cve-2026-21509-office_security_bypass_reproduction](https://github.com/razureink/cve-2026-21509-office_security_bypass_reproduction) : ![starts](https://img.shields.io/github/stars/razureink/cve-2026-21509-office_security_bypass_reproduction.svg) ![forks](https://img.shields.io/github/forks/razureink/cve-2026-21509-office_security_bypass_reproduction.svg)
+
+- [https://github.com/maxprog-svg/CVE-2026-21509](https://github.com/maxprog-svg/CVE-2026-21509) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-21509.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-21509.svg)
 
 ## CVE-2026-21508
  Improper authentication in Windows Storage allows an authorized attacker to elevate privileges locally.

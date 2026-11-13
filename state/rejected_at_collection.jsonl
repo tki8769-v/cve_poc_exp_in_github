@@ -3392,3 +3392,12 @@
 {"cve_id": "CVE-2024-5476", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T13:30:38Z", "url": "https://github.com/nscan9/CVE-2024-54761", "url_ids": ["CVE-2024-54761"]}
 {"cve_id": "CVE-2024-5476", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T13:30:38Z", "url": "https://github.com/lowlevelsec/AVM-FRITZ-Box-CVE-2024-54767-Exploit", "url_ids": ["CVE-2024-54767"]}
 {"cve_id": "CVE-2025-5209", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T13:31:46Z", "url": "https://github.com/rwilsonecs/CVE-2025-52097", "url_ids": ["CVE-2025-52097"]}
+{"cve_id": "CVE-2026-3490", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T13:48:44Z", "url": "https://github.com/BishopFox/CVE-2026-34908-check", "url_ids": ["CVE-2026-34908"]}
+{"cve_id": "CVE-2025-5210", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T13:51:53Z", "url": "https://github.com/changyaoyou/CVE-2025-52100", "url_ids": ["CVE-2025-52100"]}
+{"cve_id": "CVE-2026-7762", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T13:53:55Z", "url": "https://github.com/Squ1shification/PNGboomer-CVE-2026-77622", "url_ids": ["CVE-2026-77622"]}
+{"cve_id": "CVE-2021-3528", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T13:54:42Z", "url": "https://github.com/l00neyhacker/CVE-2021-35287", "url_ids": ["CVE-2021-35287"]}
+{"cve_id": "CVE-2021-3528", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T13:54:42Z", "url": "https://github.com/l00neyhacker/CVE-2021-35286", "url_ids": ["CVE-2021-35286"]}
+{"cve_id": "CVE-2022-2547", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T13:54:55Z", "url": "https://github.com/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN", "url_ids": ["CVE-2022-25479", "CVE-2024-40431"]}
+{"cve_id": "CVE-2022-2547", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T13:54:55Z", "url": "https://github.com/HORKimhab/CVE-2022-25477", "url_ids": ["CVE-2022-25477"]}
+{"cve_id": "CVE-2022-2547", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T13:54:55Z", "url": "https://github.com/HORKimhab/CVE-2022-25476", "url_ids": ["CVE-2022-25476"]}
+{"cve_id": "CVE-2026-5715", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T13:54:56Z", "url": "https://github.com/babyshen/CVE-2026-57155", "url_ids": ["CVE-2026-57155"]}

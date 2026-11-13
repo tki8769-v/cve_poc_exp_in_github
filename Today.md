@@ -139,6 +139,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/evenomn/CVE-2026-126997](https://github.com/evenomn/CVE-2026-126997) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-126997.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-126997.svg)
 
+## CVE-2026-21509
+
+- [https://github.com/maxprog-svg/CVE-2026-21509](https://github.com/maxprog-svg/CVE-2026-21509) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-21509.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-21509.svg)
+
 ## CVE-2026-31431
 > In the Linux kernel, the following vulnerability has been resolved:
 

@@ -11613,3 +11613,4 @@
 {"cve_id": "CVE-2020-1472", "ts": "2026-11-13T13:22:36Z", "type": "new_poc", "url": "https://github.com/mynga17/zerologon-security-lab"}
 {"cve_id": "CVE-2026-98260", "ts": "2026-11-13T13:23:07Z", "type": "new_poc", "url": "https://github.com/sabuweis/CVE-2026-98260"}
 {"cve_id": "CVE-2026-111497", "ts": "2026-11-13T13:23:08Z", "type": "new_poc", "url": "https://github.com/KarpelesLab/broccoli2shell"}
+{"cve_id": "CVE-2026-21509", "ts": "2026-11-13T13:46:37Z", "type": "new_poc", "url": "https://github.com/maxprog-svg/CVE-2026-21509"}
