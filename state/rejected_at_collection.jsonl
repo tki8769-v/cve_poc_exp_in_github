@@ -3368,3 +3368,8 @@
 {"cve_id": "CVE-2026-3069", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:02:01Z", "url": "https://github.com/walidriouah/CVE-2026-30691", "url_ids": ["CVE-2026-30691"]}
 {"cve_id": "CVE-2024-4358", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:02:15Z", "url": "https://github.com/Kvngtheta/CVE-2024-43583-PoC", "url_ids": ["CVE-2024-43583"]}
 {"cve_id": "CVE-2025-7138", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:05:09Z", "url": "https://github.com/Scorpion-Security-Labs/CVE-2025-71384", "url_ids": ["CVE-2025-71384"]}
+{"cve_id": "CVE-2024-2997", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:19:19Z", "url": "https://github.com/bigb0x/CVE-2024-29973", "url_ids": ["CVE-2024-29973"]}
+{"cve_id": "CVE-2024-2997", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:19:19Z", "url": "https://github.com/RevoltSecurities/CVE-2024-29973", "url_ids": ["CVE-2024-29973"]}
+{"cve_id": "CVE-2024-2997", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:19:19Z", "url": "https://github.com/p0et08/CVE-2024-29973", "url_ids": ["CVE-2024-29973"]}
+{"cve_id": "CVE-2022-2022", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:23:23Z", "url": "https://github.com/dsp-security-workflows/cve-2022-20223", "url_ids": ["CVE-2022-20223"]}
+{"cve_id": "CVE-2024-2378", "reason": "prefix_conflict_evidenced", "ts": "2026-11-13T02:25:26Z", "url": "https://github.com/HazardLab-IO/CVE-2024-23780", "url_ids": ["CVE-2024-23780"]}

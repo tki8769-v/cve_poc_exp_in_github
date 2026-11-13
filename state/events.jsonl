@@ -11569,3 +11569,8 @@
 {"cve_id": "CVE-2026-119618", "ts": "2026-11-13T01:57:06Z", "type": "new_poc", "url": "https://github.com/jeffschafer/Apache-HTTP2-RCE-HEAP-CORRUPTION-CVE-2026-119618-STAND-ALONE-SCANNER"}
 {"cve_id": "CVE-2026-31431", "ts": "2026-11-13T01:57:06Z", "type": "new_poc", "url": "https://github.com/CypherMux/CopyFix"}
 {"cve_id": "CVE-2026-97793", "ts": "2026-11-13T01:57:17Z", "type": "new_poc", "url": "https://github.com/yo-yo-yo-jbo/intro_to_com"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-13T02:16:37Z", "type": "new_poc", "url": "https://github.com/mumaosong/CVE-2026-98260-Drive"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-13T02:17:23Z", "type": "new_poc", "url": "https://github.com/che3axujnya/cve-2026-109618-cve-2026-109619-poc"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-13T02:17:24Z", "type": "new_poc", "url": "https://github.com/mxxnknght/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks"}
+{"cve_id": "CVE-2026-109619", "ts": "2026-11-13T02:17:36Z", "type": "new_poc", "url": "https://github.com/mxxnknght/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks"}
+{"cve_id": "CVE-2024-51482", "ts": "2026-11-13T02:24:18Z", "type": "new_poc", "url": "https://github.com/ehl0707/CVE-2024-51482-ZoneMinder-CCTV-HTB-Reliable-EXP"}

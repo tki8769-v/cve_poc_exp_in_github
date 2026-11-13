@@ -1241,6 +1241,7 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password](https://github.com/cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password) : ![starts](https://img.shields.io/github/stars/cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password.svg) ![forks](https://img.shields.io/github/forks/cybliminal/cve-2026-111283-bmc-helix-network-management-local-administrator-any-password.svg)
 
 ## CVE-2026-111190
+> The ARForms plugin for WordPress is vulnerable to arbitrary file upload in all versions up to, and including, 7.2.4 via its form file-upload handler. The name of the stored file is taken from an attacker-controlled request header and is not adequately restricted to safe file types, and the plugin&#x27;s file-type and content-safety checks can be evaded, allowing files that contain executable PHP code to be written to a publicly accessible directory. This makes it possible for unauthenticated attacker
 
 - [https://github.com/im0xfay/CVE-ARFORMS](https://github.com/im0xfay/CVE-ARFORMS) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-ARFORMS.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-ARFORMS.svg)
 
@@ -1590,6 +1591,8 @@ This issue has been fixed in version 2.5.
 - [https://github.com/LuckyFishOno/php2shell-619-poc](https://github.com/LuckyFishOno/php2shell-619-poc) : ![starts](https://img.shields.io/github/stars/LuckyFishOno/php2shell-619-poc.svg) ![forks](https://img.shields.io/github/forks/LuckyFishOno/php2shell-619-poc.svg)
 
 - [https://github.com/luckythandel/archivist-vm](https://github.com/luckythandel/archivist-vm) : ![starts](https://img.shields.io/github/stars/luckythandel/archivist-vm.svg) ![forks](https://img.shields.io/github/forks/luckythandel/archivist-vm.svg)
+
+- [https://github.com/mxxnknght/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks](https://github.com/mxxnknght/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks) : ![starts](https://img.shields.io/github/stars/mxxnknght/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks.svg) ![forks](https://img.shields.io/github/forks/mxxnknght/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks.svg)
 
 ## CVE-2026-109618
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
@@ -2323,6 +2326,10 @@ This issue has been fixed in version 2.5.
 - [https://github.com/Mahyarpishbazz/php2version-scanner](https://github.com/Mahyarpishbazz/php2version-scanner) : ![starts](https://img.shields.io/github/stars/Mahyarpishbazz/php2version-scanner.svg) ![forks](https://img.shields.io/github/forks/Mahyarpishbazz/php2version-scanner.svg)
 
 - [https://github.com/TarzEH/php2shell-demo](https://github.com/TarzEH/php2shell-demo) : ![starts](https://img.shields.io/github/stars/TarzEH/php2shell-demo.svg) ![forks](https://img.shields.io/github/forks/TarzEH/php2shell-demo.svg)
+
+- [https://github.com/che3axujnya/cve-2026-109618-cve-2026-109619-poc](https://github.com/che3axujnya/cve-2026-109618-cve-2026-109619-poc) : ![starts](https://img.shields.io/github/stars/che3axujnya/cve-2026-109618-cve-2026-109619-poc.svg) ![forks](https://img.shields.io/github/forks/che3axujnya/cve-2026-109618-cve-2026-109619-poc.svg)
+
+- [https://github.com/mxxnknght/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks](https://github.com/mxxnknght/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks) : ![starts](https://img.shields.io/github/stars/mxxnknght/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks.svg) ![forks](https://img.shields.io/github/forks/mxxnknght/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks.svg)
 
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
@@ -3952,6 +3959,8 @@ but the node is still queued on tsk, which
 - [https://github.com/jonrazta89/timertest](https://github.com/jonrazta89/timertest) : ![starts](https://img.shields.io/github/stars/jonrazta89/timertest.svg) ![forks](https://img.shields.io/github/forks/jonrazta89/timertest.svg)
 
 - [https://github.com/qq2770355800/ExtractKit](https://github.com/qq2770355800/ExtractKit) : ![starts](https://img.shields.io/github/stars/qq2770355800/ExtractKit.svg) ![forks](https://img.shields.io/github/forks/qq2770355800/ExtractKit.svg)
+
+- [https://github.com/mumaosong/CVE-2026-98260-Drive](https://github.com/mumaosong/CVE-2026-98260-Drive) : ![starts](https://img.shields.io/github/stars/mumaosong/CVE-2026-98260-Drive.svg) ![forks](https://img.shields.io/github/forks/mumaosong/CVE-2026-98260-Drive.svg)
 
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
