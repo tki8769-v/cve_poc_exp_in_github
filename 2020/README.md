@@ -5408,6 +5408,8 @@ When the second phase of Windows updates become available in Q1 2021, customers 
 
 - [https://github.com/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment](https://github.com/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment) : ![starts](https://img.shields.io/github/stars/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment.svg) ![forks](https://img.shields.io/github/forks/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment.svg)
 
+- [https://github.com/mynga17/zerologon-security-lab](https://github.com/mynga17/zerologon-security-lab) : ![starts](https://img.shields.io/github/stars/mynga17/zerologon-security-lab.svg) ![forks](https://img.shields.io/github/forks/mynga17/zerologon-security-lab.svg)
+
 ## CVE-2020-1362
  An elevation of privilege vulnerability exists in the way that the Windows WalletService handles objects in memory, aka 'Windows WalletService Elevation of Privilege Vulnerability'. This CVE ID is unique from CVE-2020-1344, CVE-2020-1369.
 

@@ -722,6 +722,10 @@ As an alternative mitigation, the Socket Appender may be configured to use a pri
 
 - [https://github.com/franckferman/CVE-2025-67906](https://github.com/franckferman/CVE-2025-67906) : ![starts](https://img.shields.io/github/stars/franckferman/CVE-2025-67906.svg) ![forks](https://img.shields.io/github/forks/franckferman/CVE-2025-67906.svg)
 
+## CVE-2025-67898
+
+- [https://github.com/justmumu/CVE-2025-67898](https://github.com/justmumu/CVE-2025-67898) : ![starts](https://img.shields.io/github/stars/justmumu/CVE-2025-67898.svg) ![forks](https://img.shields.io/github/forks/justmumu/CVE-2025-67898.svg)
+
 ## CVE-2025-67888
  An issue was discovered in Control Web Panel (CWP) before 0.9.8.1209. User input passed via the "key" GET parameter to /admin/index.php (when the "api" parameter is set) is not properly sanitized before being used to execute OS commands. This can be exploited by unauthenticated attackers to inject and execute arbitrary OS commands with the privileges of root on the web server. Softaculous or SitePad must be present.
 
@@ -6185,6 +6189,10 @@ Users of the artifact org.apache.commons:commons-beanutils2
 - [https://github.com/butyraldehyde/CVE-2025-48384-PoC-Part2](https://github.com/butyraldehyde/CVE-2025-48384-PoC-Part2) : ![starts](https://img.shields.io/github/stars/butyraldehyde/CVE-2025-48384-PoC-Part2.svg) ![forks](https://img.shields.io/github/forks/butyraldehyde/CVE-2025-48384-PoC-Part2.svg)
 
 - [https://github.com/origabriel/acb-giturl-cve2025](https://github.com/origabriel/acb-giturl-cve2025) : ![starts](https://img.shields.io/github/stars/origabriel/acb-giturl-cve2025.svg) ![forks](https://img.shields.io/github/forks/origabriel/acb-giturl-cve2025.svg)
+
+- [https://github.com/xssdoctor/muse-git-cve-2025-48384-parent-20261113](https://github.com/xssdoctor/muse-git-cve-2025-48384-parent-20261113) : ![starts](https://img.shields.io/github/stars/xssdoctor/muse-git-cve-2025-48384-parent-20261113.svg) ![forks](https://img.shields.io/github/forks/xssdoctor/muse-git-cve-2025-48384-parent-20261113.svg)
+
+- [https://github.com/xssdoctor/muse-git-cve-2025-48384-sub-20261113](https://github.com/xssdoctor/muse-git-cve-2025-48384-sub-20261113) : ![starts](https://img.shields.io/github/stars/xssdoctor/muse-git-cve-2025-48384-sub-20261113.svg) ![forks](https://img.shields.io/github/forks/xssdoctor/muse-git-cve-2025-48384-sub-20261113.svg)
 
 ## CVE-2025-48148
  Unrestricted Upload of File with Dangerous Type vulnerability in StoreKeeper B.V. StoreKeeper for WooCommerce storekeeper-for-woocommerce allows Using Malicious Files.This issue affects StoreKeeper for WooCommerce: from n/a through = 14.4.4.
