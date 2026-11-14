@@ -39,6 +39,20 @@
 
 - [https://github.com/alinaclark672377250/CVE-2025-53770](https://github.com/alinaclark672377250/CVE-2025-53770) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-53770.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-53770.svg)
 
+## CVE-2026-102895
+> GPUStack is an open-source GPU cluster manager for AI model serving and GPU instance provisioning. Prior to 2.2.0, get_current_user in gpustack/api/auth.py treated a loopback request source as the built-in administrator when force_auth_localhost was false, which was the default. A remote request could appear to originate from 127.0.0.1 because client_ip_getter accepted a same-host reverse proxy peer or a client-supplied X-GPUStack-Real-IP loopback value. The bypass allowed unauthenticated admini
+
+- [https://github.com/fixedbyreboot/CVE-2026-102895-POC](https://github.com/fixedbyreboot/CVE-2026-102895-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-102895-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-102895-POC.svg)
+
+## CVE-2026-105857
+> Payload is a free and open source headless content management system. In @payloadcms/plugin-form-builder versions before 3.90.0 and canary versions before 4.0.0-canary.34, an attacker can craft a form submission that executes code remotely on the server. This issue is fixed in versions 3.90.0 and 4.0.0-canary.34.
+
+- [https://github.com/fixedbyreboot/CVE-2026-105857-POC](https://github.com/fixedbyreboot/CVE-2026-105857-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-105857-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-105857-POC.svg)
+
+## CVE-2026-111760
+
+- [https://github.com/jayeshpuri/CVE-2026-111760](https://github.com/jayeshpuri/CVE-2026-111760) : ![starts](https://img.shields.io/github/stars/jayeshpuri/CVE-2026-111760.svg) ![forks](https://img.shields.io/github/forks/jayeshpuri/CVE-2026-111760.svg)
+
 ## CVE-2026-112522
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. Processing a maliciously crafted file may lead to unexpected app termination.
 
@@ -49,6 +63,24 @@
 
 - [https://github.com/hkl1593246852-del/CVE-2026-112611](https://github.com/hkl1593246852-del/CVE-2026-112611) : ![starts](https://img.shields.io/github/stars/hkl1593246852-del/CVE-2026-112611.svg) ![forks](https://img.shields.io/github/forks/hkl1593246852-del/CVE-2026-112611.svg)
 
+## CVE-2026-114713
+> The labeled-response module in UnrealIRCd 6.0.0 before 6.2.7.1 does not escape the IRCv3 &quot;label&quot; message tag when echoing it into replies, which allows any user on a network with two or more linked servers to inject server-to-server commands that are executed with server authority.
+
+- [https://github.com/fixedbyreboot/CVE-2026-114713-POC](https://github.com/fixedbyreboot/CVE-2026-114713-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-114713-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-114713-POC.svg)
+- [https://github.com/foxcornlab/unrealircd-scanner](https://github.com/foxcornlab/unrealircd-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/unrealircd-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/unrealircd-scanner.svg)
+
+## CVE-2026-117551
+
+- [https://github.com/fixedbyreboot/CVE-2026-117551-POC](https://github.com/fixedbyreboot/CVE-2026-117551-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-117551-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-117551-POC.svg)
+
+## CVE-2026-119618
+> Concurrent Execution using Shared Resource with Improper Synchronization vulnerability in Apache HTTP Server&#x27;s mod_http2 in assign_headers() can lead to RCE.
+
+This issue affects Apache HTTP Server: from 2.4.55 through 2.4.70.
+Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
+
+- [https://github.com/QCG5OLF5ZU9L2W/CVE-2026-119618-YARA](https://github.com/QCG5OLF5ZU9L2W/CVE-2026-119618-YARA) : ![starts](https://img.shields.io/github/stars/QCG5OLF5ZU9L2W/CVE-2026-119618-YARA.svg) ![forks](https://img.shields.io/github/forks/QCG5OLF5ZU9L2W/CVE-2026-119618-YARA.svg)
+
 ## CVE-2026-120490
 
 - [https://github.com/sadshade/checkpoint-gexec-poc](https://github.com/sadshade/checkpoint-gexec-poc) : ![starts](https://img.shields.io/github/stars/sadshade/checkpoint-gexec-poc.svg) ![forks](https://img.shields.io/github/forks/sadshade/checkpoint-gexec-poc.svg)
@@ -57,6 +89,63 @@
 > A origin validation error vulnerability in Fortinet FortiClientMac 7.4.0 through 7.4.7, FortiClientWindows 7.4.0 through 7.4.7, FortiClientWindows 7.2.0 through 7.2.14, FortiClientWindowsPAM 7.4.7, FortiClientWindowsPAM 7.2.14 may allow an unauthorized remote attacker to execute unauthorized code or commands. Successful exploitation requires interaction with the victim.
 
 - [https://github.com/tc4dy/CVE-2026-121529-Toolkit](https://github.com/tc4dy/CVE-2026-121529-Toolkit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-121529-Toolkit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-121529-Toolkit.svg)
+
+## CVE-2026-123790
+
+- [https://github.com/lng255639-cpu/comfyui-easyuse-cve-check](https://github.com/lng255639-cpu/comfyui-easyuse-cve-check) : ![starts](https://img.shields.io/github/stars/lng255639-cpu/comfyui-easyuse-cve-check.svg) ![forks](https://img.shields.io/github/forks/lng255639-cpu/comfyui-easyuse-cve-check.svg)
+- [https://github.com/lng255639-cpu/comfyui-easyuse-cve-check-en](https://github.com/lng255639-cpu/comfyui-easyuse-cve-check-en) : ![starts](https://img.shields.io/github/stars/lng255639-cpu/comfyui-easyuse-cve-check-en.svg) ![forks](https://img.shields.io/github/forks/lng255639-cpu/comfyui-easyuse-cve-check-en.svg)
+
+## CVE-2026-124194
+
+- [https://github.com/aminaljabre77-collab/outlook-ntlm-leak-investigation](https://github.com/aminaljabre77-collab/outlook-ntlm-leak-investigation) : ![starts](https://img.shields.io/github/stars/aminaljabre77-collab/outlook-ntlm-leak-investigation.svg) ![forks](https://img.shields.io/github/forks/aminaljabre77-collab/outlook-ntlm-leak-investigation.svg)
+
+## CVE-2026-125440
+
+- [https://github.com/yozturk0/CVE-2026-125440](https://github.com/yozturk0/CVE-2026-125440) : ![starts](https://img.shields.io/github/stars/yozturk0/CVE-2026-125440.svg) ![forks](https://img.shields.io/github/forks/yozturk0/CVE-2026-125440.svg)
+
+## CVE-2026-125855
+
+- [https://github.com/im0xfay/CVE-2026-125855](https://github.com/im0xfay/CVE-2026-125855) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-125855.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-125855.svg)
+
+## CVE-2026-126173
+
+- [https://github.com/im0xfay/CVE-2026-126173](https://github.com/im0xfay/CVE-2026-126173) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-126173.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-126173.svg)
+
+## CVE-2026-126269
+
+- [https://github.com/googlesky/CVE-2026-126269](https://github.com/googlesky/CVE-2026-126269) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126269.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126269.svg)
+
+## CVE-2026-126273
+
+- [https://github.com/googlesky/CVE-2026-126273](https://github.com/googlesky/CVE-2026-126273) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126273.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126273.svg)
+
+## CVE-2026-126274
+
+- [https://github.com/googlesky/CVE-2026-126274](https://github.com/googlesky/CVE-2026-126274) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126274.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126274.svg)
+
+## CVE-2026-126473
+
+- [https://github.com/googlesky/CVE-2026-126473](https://github.com/googlesky/CVE-2026-126473) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126473.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126473.svg)
+
+## CVE-2026-126837
+
+- [https://github.com/googlesky/CVE-2026-126837](https://github.com/googlesky/CVE-2026-126837) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126837.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126837.svg)
+
+## CVE-2026-126937
+
+- [https://github.com/googlesky/CVE-2026-126937](https://github.com/googlesky/CVE-2026-126937) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126937.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126937.svg)
+
+## CVE-2026-128014
+
+- [https://github.com/googlesky/CVE-2026-128014](https://github.com/googlesky/CVE-2026-128014) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128014.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128014.svg)
+
+## CVE-2026-128027
+
+- [https://github.com/googlesky/CVE-2026-128027](https://github.com/googlesky/CVE-2026-128027) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128027.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128027.svg)
+
+## CVE-2026-128046
+
+- [https://github.com/googlesky/CVE-2026-128046](https://github.com/googlesky/CVE-2026-128046) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128046.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128046.svg)
 
 ## CVE-2026-128970
 
@@ -69,6 +158,22 @@
 ## CVE-2026-129254
 
 - [https://github.com/Usama-Hanif131/CVE-2026-129254](https://github.com/Usama-Hanif131/CVE-2026-129254) : ![starts](https://img.shields.io/github/stars/Usama-Hanif131/CVE-2026-129254.svg) ![forks](https://img.shields.io/github/forks/Usama-Hanif131/CVE-2026-129254.svg)
+
+## CVE-2026-27975
+
+- [https://github.com/fixedbyreboot/CVE-2026-27975-POC](https://github.com/fixedbyreboot/CVE-2026-27975-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-27975-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-27975-POC.svg)
+
+## CVE-2026-37640
+
+- [https://github.com/umair9747/CVE-2026-37640-tenda-hg21-telnet-backdoor](https://github.com/umair9747/CVE-2026-37640-tenda-hg21-telnet-backdoor) : ![starts](https://img.shields.io/github/stars/umair9747/CVE-2026-37640-tenda-hg21-telnet-backdoor.svg) ![forks](https://img.shields.io/github/forks/umair9747/CVE-2026-37640-tenda-hg21-telnet-backdoor.svg)
+
+## CVE-2026-37641
+
+- [https://github.com/umair9747/CVE-2026-37641-tenda-hg21-factory-endpoints](https://github.com/umair9747/CVE-2026-37641-tenda-hg21-factory-endpoints) : ![starts](https://img.shields.io/github/stars/umair9747/CVE-2026-37641-tenda-hg21-factory-endpoints.svg) ![forks](https://img.shields.io/github/forks/umair9747/CVE-2026-37641-tenda-hg21-factory-endpoints.svg)
+
+## CVE-2026-37643
+
+- [https://github.com/umair9747/CVE-2026-37643-tenda-hg21-omcishell-rce](https://github.com/umair9747/CVE-2026-37643-tenda-hg21-omcishell-rce) : ![starts](https://img.shields.io/github/stars/umair9747/CVE-2026-37643-tenda-hg21-omcishell-rce.svg) ![forks](https://img.shields.io/github/forks/umair9747/CVE-2026-37643-tenda-hg21-omcishell-rce.svg)
 
 ## CVE-2026-43499
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -86,3 +191,44 @@ problems:
   1) the rbtree dequeue happens without waiter::task::pi_l
 
 - [https://github.com/jonrazta89/NewGhostTimer](https://github.com/jonrazta89/NewGhostTimer) : ![starts](https://img.shields.io/github/stars/jonrazta89/NewGhostTimer.svg) ![forks](https://img.shields.io/github/forks/jonrazta89/NewGhostTimer.svg)
+
+## CVE-2026-62253
+> Homer is open source telecom observability software. Prior to version 11.0.283, both JWT middleware functions (`JWTMiddleware` and `JWTMiddlewareV4`) immediately return `next(c)` when `jwtSecret == &quot;&quot;`. The JWT secret defaults to an empty string. On a default installation, all protected API endpoints under `/api/v1`, `/api/v3`, and `/api/v4` are completely unauthenticated. Version 11.0.283 patches the issue.
+
+- [https://github.com/fixedbyreboot/CVE-2026-62253-POC](https://github.com/fixedbyreboot/CVE-2026-62253-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-62253-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-62253-POC.svg)
+
+## CVE-2026-68982
+> Apache Airflow&#x27;s CeleryExecutor ran callback workloads (`ExecuteCallback`, used for deadline-alert callbacks) without validating the workload&#x27;s authentication token. Anyone able to write to the Celery broker could enqueue a forged callback and execute arbitrary code on every CeleryExecutor worker, without Airflow credentials. Deployments using the CeleryExecutor are affected.
+
+Users are advised to upgrade to apache-airflow 3.4.0 or later, in which the worker claims the callback through the Execu
+
+- [https://github.com/im0xfay/CVE-2026-68982](https://github.com/im0xfay/CVE-2026-68982) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-68982.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-68982.svg)
+
+## CVE-2026-73574
+
+- [https://github.com/fixedbyreboot/CVE-2026-73574-POC](https://github.com/fixedbyreboot/CVE-2026-73574-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-73574-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-73574-POC.svg)
+
+## CVE-2026-74756
+> Some docker-compose shipped by the project exposes by default Webadmin REST API publically without proper authentication setup.
+Version 3.9.1 onward sets a random credential by default on unprotected webadmin endpoints to prevent this while retain convenience.
+
+- [https://github.com/fixedbyreboot/CVE-2026-74756-POC](https://github.com/fixedbyreboot/CVE-2026-74756-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-74756-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-74756-POC.svg)
+
+## CVE-2026-76954
+
+- [https://github.com/googlesky/CVE-2026-76954](https://github.com/googlesky/CVE-2026-76954) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-76954.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-76954.svg)
+
+## CVE-2026-98260
+> In the Linux kernel, the following vulnerability has been resolved:
+
+exec: Cleanup POSIX timers right after de_thread()
+
+A per-thread CPU timer holds a reference to the PID of the thread it is
+attached to and, while it is armed, its node is queued in that thread&#x27;s
+posix_cputimers. The task is looked up by that PID.
+
+When a non-leader thread exec()s, de_thread() changes which task owns
+that PID. pid_task(timer-&gt;it.cpu.pid, PIDTYPE_PID) then returns NULL,
+but the node is still queued on tsk, which
+
+- [https://github.com/jonrazta89/OneSamAKAGhostKey](https://github.com/jonrazta89/OneSamAKAGhostKey) : ![starts](https://img.shields.io/github/stars/jonrazta89/OneSamAKAGhostKey.svg) ![forks](https://img.shields.io/github/forks/jonrazta89/OneSamAKAGhostKey.svg)

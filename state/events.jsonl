@@ -11650,3 +11650,36 @@
 {"cve_id": "CVE-2026-125346", "ts": "2026-11-14T02:23:24Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2025-53770", "ts": "2026-11-14T02:31:59Z", "type": "new_poc", "url": "https://github.com/alinaclark672377250/CVE-2025-53770"}
 {"cve_id": "CVE-2025-32433", "ts": "2026-11-14T02:32:45Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2025-32433"}
+{"cve_id": "CVE-2026-125346", "ts": "2026-11-14T12:14:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-125440", "ts": "2026-11-14T12:20:31Z", "type": "new_poc", "url": "https://github.com/yozturk0/CVE-2026-125440"}
+{"cve_id": "CVE-2026-76954", "ts": "2026-11-14T12:20:31Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-76954"}
+{"cve_id": "CVE-2026-126269", "ts": "2026-11-14T12:20:31Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-126269"}
+{"cve_id": "CVE-2026-128046", "ts": "2026-11-14T12:20:32Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-128046"}
+{"cve_id": "CVE-2026-126173", "ts": "2026-11-14T12:20:32Z", "type": "new_poc", "url": "https://github.com/im0xfay/CVE-2026-126173"}
+{"cve_id": "CVE-2026-126274", "ts": "2026-11-14T12:20:32Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-126274"}
+{"cve_id": "CVE-2026-128027", "ts": "2026-11-14T12:20:32Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-128027"}
+{"cve_id": "CVE-2026-126273", "ts": "2026-11-14T12:20:32Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-126273"}
+{"cve_id": "CVE-2026-128014", "ts": "2026-11-14T12:20:33Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-128014"}
+{"cve_id": "CVE-2026-126473", "ts": "2026-11-14T12:20:33Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-126473"}
+{"cve_id": "CVE-2026-111760", "ts": "2026-11-14T12:20:33Z", "type": "new_poc", "url": "https://github.com/jayeshpuri/CVE-2026-111760"}
+{"cve_id": "CVE-2026-68982", "ts": "2026-11-14T12:20:33Z", "type": "new_poc", "url": "https://github.com/im0xfay/CVE-2026-68982"}
+{"cve_id": "CVE-2026-126937", "ts": "2026-11-14T12:20:33Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-126937"}
+{"cve_id": "CVE-2026-126837", "ts": "2026-11-14T12:20:33Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-126837"}
+{"cve_id": "CVE-2026-125855", "ts": "2026-11-14T12:20:34Z", "type": "new_poc", "url": "https://github.com/im0xfay/CVE-2026-125855"}
+{"cve_id": "CVE-2026-27975", "ts": "2026-11-14T12:20:34Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-27975-POC"}
+{"cve_id": "CVE-2026-102895", "ts": "2026-11-14T12:20:34Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-102895-POC"}
+{"cve_id": "CVE-2026-123790", "ts": "2026-11-14T12:20:34Z", "type": "new_poc", "url": "https://github.com/lng255639-cpu/comfyui-easyuse-cve-check"}
+{"cve_id": "CVE-2026-74756", "ts": "2026-11-14T12:20:34Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-74756-POC"}
+{"cve_id": "CVE-2026-73574", "ts": "2026-11-14T12:20:34Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-73574-POC"}
+{"cve_id": "CVE-2026-105857", "ts": "2026-11-14T12:20:35Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-105857-POC"}
+{"cve_id": "CVE-2026-114713", "ts": "2026-11-14T12:20:35Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-114713-POC"}
+{"cve_id": "CVE-2026-117551", "ts": "2026-11-14T12:20:35Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-117551-POC"}
+{"cve_id": "CVE-2026-62253", "ts": "2026-11-14T12:20:35Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-62253-POC"}
+{"cve_id": "CVE-2026-119618", "ts": "2026-11-14T12:20:35Z", "type": "new_poc", "url": "https://github.com/QCG5OLF5ZU9L2W/CVE-2026-119618-YARA"}
+{"cve_id": "CVE-2026-123790", "ts": "2026-11-14T12:20:35Z", "type": "new_poc", "url": "https://github.com/lng255639-cpu/comfyui-easyuse-cve-check-en"}
+{"cve_id": "CVE-2026-37641", "ts": "2026-11-14T12:20:36Z", "type": "new_poc", "url": "https://github.com/umair9747/CVE-2026-37641-tenda-hg21-factory-endpoints"}
+{"cve_id": "CVE-2026-37643", "ts": "2026-11-14T12:20:36Z", "type": "new_poc", "url": "https://github.com/umair9747/CVE-2026-37643-tenda-hg21-omcishell-rce"}
+{"cve_id": "CVE-2026-37640", "ts": "2026-11-14T12:20:36Z", "type": "new_poc", "url": "https://github.com/umair9747/CVE-2026-37640-tenda-hg21-telnet-backdoor"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-14T12:20:36Z", "type": "new_poc", "url": "https://github.com/jonrazta89/OneSamAKAGhostKey"}
+{"cve_id": "CVE-2026-124194", "ts": "2026-11-14T12:20:36Z", "type": "new_poc", "url": "https://github.com/aminaljabre77-collab/outlook-ntlm-leak-investigation"}
+{"cve_id": "CVE-2026-114713", "ts": "2026-11-14T12:20:37Z", "type": "new_poc", "url": "https://github.com/foxcornlab/unrealircd-scanner"}
