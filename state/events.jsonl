@@ -11683,3 +11683,8 @@
 {"cve_id": "CVE-2026-98260", "ts": "2026-11-14T12:20:36Z", "type": "new_poc", "url": "https://github.com/jonrazta89/OneSamAKAGhostKey"}
 {"cve_id": "CVE-2026-124194", "ts": "2026-11-14T12:20:36Z", "type": "new_poc", "url": "https://github.com/aminaljabre77-collab/outlook-ntlm-leak-investigation"}
 {"cve_id": "CVE-2026-114713", "ts": "2026-11-14T12:20:37Z", "type": "new_poc", "url": "https://github.com/foxcornlab/unrealircd-scanner"}
+{"cve_id": "CVE-2026-107922", "ts": "2026-11-14T12:31:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-125346", "ts": "2026-11-14T12:35:19Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-45829", "ts": "2026-11-14T12:42:42Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-45829"}
+{"cve_id": "CVE-2026-25049", "ts": "2026-11-14T12:47:43Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-25049"}
+{"cve_id": "CVE-2026-22241", "ts": "2026-11-14T12:48:48Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-22241"}
