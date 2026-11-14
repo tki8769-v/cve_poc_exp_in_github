@@ -117,6 +117,11 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 
 - [https://github.com/fixedbyreboot/CVE-2026-115934-POC](https://github.com/fixedbyreboot/CVE-2026-115934-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-115934-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-115934-POC.svg)
 
+## CVE-2026-116779
+> FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a software implementation that runs on any commodity hardware. Prior to 1.11.3, sofia_presence_handle_sip_i_message() split the To user of an inbound SIP MESSAGE on a plus sign and treated the left side as a chat protocol selector. Selecting the api chat proto reached switch_api_execute(), allowing a peer whose MESSAGE was accepted to run FreeSWITCH API commands, including oper
+
+- [https://github.com/al4n4n/CVE-2026-116779](https://github.com/al4n4n/CVE-2026-116779) : ![starts](https://img.shields.io/github/stars/al4n4n/CVE-2026-116779.svg) ![forks](https://img.shields.io/github/forks/al4n4n/CVE-2026-116779.svg)
+
 ## CVE-2026-117551
 
 - [https://github.com/fixedbyreboot/CVE-2026-117551-POC](https://github.com/fixedbyreboot/CVE-2026-117551-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-117551-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-117551-POC.svg)
@@ -133,6 +138,7 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 - [https://github.com/terminat0r7031/CVE-2026-119618](https://github.com/terminat0r7031/CVE-2026-119618) : ![starts](https://img.shields.io/github/stars/terminat0r7031/CVE-2026-119618.svg) ![forks](https://img.shields.io/github/forks/terminat0r7031/CVE-2026-119618.svg)
 
 ## CVE-2026-120490
+> On Scalable Platforms, an administrator with permissions to edit and install the Access Control Policy and NAT rules can create a NAT rule that redirects traffic to the Gateway&#x27;s Sync interface, bypassing the built-in Sync protection. This could allow the administrator to execute operating system commands and write files on the Gateway with superuser privileges.
 
 - [https://github.com/sadshade/checkpoint-gexec-poc](https://github.com/sadshade/checkpoint-gexec-poc) : ![starts](https://img.shields.io/github/stars/sadshade/checkpoint-gexec-poc.svg) ![forks](https://img.shields.io/github/forks/sadshade/checkpoint-gexec-poc.svg)
 
@@ -142,6 +148,7 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 - [https://github.com/tc4dy/CVE-2026-121529-Toolkit](https://github.com/tc4dy/CVE-2026-121529-Toolkit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-121529-Toolkit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-121529-Toolkit.svg)
 
 ## CVE-2026-123790
+> ComfyUI-Easy-Use version 1.3.6 contains a path traversal vulnerability in the `save_preview()` handler for POST `/easyuse/save/{name}`. The handler checks the source directory before appending a user-supplied filename and allows the request to select the `custom_nodes` directory as a copy destination. An unauthenticated attacker who can reach the ComfyUI server can overwrite an installed custom node’s Python entry point with an uploaded file. When ComfyUI restarts and loads the modified node, th
 
 - [https://github.com/lng255639-cpu/comfyui-easyuse-cve-check](https://github.com/lng255639-cpu/comfyui-easyuse-cve-check) : ![starts](https://img.shields.io/github/stars/lng255639-cpu/comfyui-easyuse-cve-check.svg) ![forks](https://img.shields.io/github/forks/lng255639-cpu/comfyui-easyuse-cve-check.svg)
 - [https://github.com/lng255639-cpu/comfyui-easyuse-cve-check-en](https://github.com/lng255639-cpu/comfyui-easyuse-cve-check-en) : ![starts](https://img.shields.io/github/stars/lng255639-cpu/comfyui-easyuse-cve-check-en.svg) ![forks](https://img.shields.io/github/forks/lng255639-cpu/comfyui-easyuse-cve-check-en.svg)

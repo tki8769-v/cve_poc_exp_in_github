@@ -41,6 +41,7 @@
 - [https://github.com/fumioryoto/CVE-2026-127016](https://github.com/fumioryoto/CVE-2026-127016) : ![starts](https://img.shields.io/github/stars/fumioryoto/CVE-2026-127016.svg) ![forks](https://img.shields.io/github/forks/fumioryoto/CVE-2026-127016.svg)
 
 ## CVE-2026-126997
+> A vulnerability was identified in JeecgBoot up to 3.9.6. This affects the function RestTemplate.exchange of the file org/jeecg/modules/airag/flow/c/a.class of the component flow-run Endpoint. The manipulation leads to server-side request forgery. Remote exploitation of the attack is possible. The exploit is publicly available and might be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/evenomn/CVE-2026-126997](https://github.com/evenomn/CVE-2026-126997) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-126997.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-126997.svg)
 
@@ -202,6 +203,7 @@
 - [https://github.com/qianlijaingshan/signalk-audit](https://github.com/qianlijaingshan/signalk-audit) : ![starts](https://img.shields.io/github/stars/qianlijaingshan/signalk-audit.svg) ![forks](https://img.shields.io/github/forks/qianlijaingshan/signalk-audit.svg)
 
 ## CVE-2026-123790
+> ComfyUI-Easy-Use version 1.3.6 contains a path traversal vulnerability in the `save_preview()` handler for POST `/easyuse/save/{name}`. The handler checks the source directory before appending a user-supplied filename and allows the request to select the `custom_nodes` directory as a copy destination. An unauthenticated attacker who can reach the ComfyUI server can overwrite an installed custom node’s Python entry point with an uploaded file. When ComfyUI restarts and loads the modified node, th
 
 - [https://github.com/lng255639-cpu/comfyui-easyuse-cve-check](https://github.com/lng255639-cpu/comfyui-easyuse-cve-check) : ![starts](https://img.shields.io/github/stars/lng255639-cpu/comfyui-easyuse-cve-check.svg) ![forks](https://img.shields.io/github/forks/lng255639-cpu/comfyui-easyuse-cve-check.svg)
 
@@ -309,6 +311,7 @@
 - [https://github.com/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass](https://github.com/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass) : ![starts](https://img.shields.io/github/stars/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass.svg) ![forks](https://img.shields.io/github/forks/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass.svg)
 
 ## CVE-2026-123039
+> The Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socket (/tmp/dynamic_socket) without authenticating connecting processes. An authenticated local user can send a command to the socket and have it executed as root.
 
 - [https://github.com/googlesky/CVE-2026-123039](https://github.com/googlesky/CVE-2026-123039) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-123039.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-123039.svg)
 
@@ -384,6 +387,7 @@ An application that passes request data as column values to insert or update
 - [https://github.com/3jee/CVE-2026-120491](https://github.com/3jee/CVE-2026-120491) : ![starts](https://img.shields.io/github/stars/3jee/CVE-2026-120491.svg) ![forks](https://img.shields.io/github/forks/3jee/CVE-2026-120491.svg)
 
 ## CVE-2026-120490
+> On Scalable Platforms, an administrator with permissions to edit and install the Access Control Policy and NAT rules can create a NAT rule that redirects traffic to the Gateway&#x27;s Sync interface, bypassing the built-in Sync protection. This could allow the administrator to execute operating system commands and write files on the Gateway with superuser privileges.
 
 - [https://github.com/sadshade/checkpoint-gexec-poc](https://github.com/sadshade/checkpoint-gexec-poc) : ![starts](https://img.shields.io/github/stars/sadshade/checkpoint-gexec-poc.svg) ![forks](https://img.shields.io/github/forks/sadshade/checkpoint-gexec-poc.svg)
 
@@ -654,6 +658,8 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 - [https://github.com/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-](https://github.com/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-) : ![starts](https://img.shields.io/github/stars/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-.svg) ![forks](https://img.shields.io/github/forks/majidrahimi5020-lgtm/Poc-exploit-for-CVE-2026-116779-FreeSWITCH-.svg)
 
 - [https://github.com/hackzuoji/freeswitch-cve-2026-116779-POC](https://github.com/hackzuoji/freeswitch-cve-2026-116779-POC) : ![starts](https://img.shields.io/github/stars/hackzuoji/freeswitch-cve-2026-116779-POC.svg) ![forks](https://img.shields.io/github/forks/hackzuoji/freeswitch-cve-2026-116779-POC.svg)
+
+- [https://github.com/al4n4n/CVE-2026-116779](https://github.com/al4n4n/CVE-2026-116779) : ![starts](https://img.shields.io/github/stars/al4n4n/CVE-2026-116779.svg) ![forks](https://img.shields.io/github/forks/al4n4n/CVE-2026-116779.svg)
 
 ## CVE-2026-116692
 > MLflow is an open source AI engineering platform for agents, large language models, and machine learning models. From 3.12.0rc0 until 3.17.0, third-party scorer deserialization in mlflow/genai/scorers/base.py accepts request-selected descendants of THIRD_PARTY_SCORER_ALLOWED_MODULES rather than requiring an exact allowed module. A caller can use MLflow artifact endpoints to place a Python module beneath a writable allowed package and submit its module and class through /ajax-api/3.0/mlflow/score
@@ -26637,6 +26643,7 @@ This issue affects Liderahenk: from 2.0.1 before 2.0.2.
 - [https://github.com/Mahgal/pg-patch-check](https://github.com/Mahgal/pg-patch-check) : ![starts](https://img.shields.io/github/stars/Mahgal/pg-patch-check.svg) ![forks](https://img.shields.io/github/forks/Mahgal/pg-patch-check.svg)
 
 ## CVE-2026-6460
+> Type confusion in PostgreSQL allows an object creator to execute arbitrary code as the operating system user running the database, via ALTER ... SET DATA TYPE primarily.  Other DDL attack routes exist, such as &quot;ALTER TABLE ... ADD COLUMN; ROLLBACK; ALTER TABLE ... ADD COLUMN&quot;.  The system had inadequate tracking of typed values, and values were not self-identifying.  Stale values could appear in data dictionary entries, PL/pgSQL variables, and many other parts of the system.  PostgreSQL Versions
 
 - [https://github.com/slabbdev/postgresql-type-confusion-cve-2026-6460](https://github.com/slabbdev/postgresql-type-confusion-cve-2026-6460) : ![starts](https://img.shields.io/github/stars/slabbdev/postgresql-type-confusion-cve-2026-6460.svg) ![forks](https://img.shields.io/github/forks/slabbdev/postgresql-type-confusion-cve-2026-6460.svg)
 
