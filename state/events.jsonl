@@ -11631,3 +11631,15 @@
 {"cve_id": "CVE-2022-23131", "ts": "2026-11-13T21:09:55Z", "type": "new_poc", "url": "https://github.com/0xbara/cve-2022-23131"}
 {"cve_id": "CVE-2026-22812", "ts": "2026-11-13T21:14:04Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-22812"}
 {"cve_id": "CVE-2026-74469", "ts": "2026-11-13T21:37:33Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-74469"}
+{"cve_id": "CVE-2026-121529", "ts": "2026-11-14T01:40:16Z", "type": "new_poc", "url": "https://github.com/tc4dy/CVE-2026-121529-Toolkit"}
+{"cve_id": "CVE-2025-31131", "ts": "2026-11-14T01:40:19Z", "type": "new_poc", "url": "https://github.com/alinaclark672377250/CVE-2025-31131"}
+{"cve_id": "CVE-2025-24813", "ts": "2026-11-14T01:40:21Z", "type": "new_poc", "url": "https://github.com/alinaclark672377250/CVE-2025-24813"}
+{"cve_id": "CVE-2025-1661", "ts": "2026-11-14T01:40:21Z", "type": "new_poc", "url": "https://github.com/alinaclark672377250/CVE-2025-1661"}
+{"cve_id": "CVE-2025-24799", "ts": "2026-11-14T01:40:23Z", "type": "new_poc", "url": "https://github.com/alinaclark672377250/CVE-2025-24799"}
+{"cve_id": "CVE-2026-129254", "ts": "2026-11-14T01:40:23Z", "type": "new_poc", "url": "https://github.com/Usama-Hanif131/CVE-2026-129254"}
+{"cve_id": "CVE-2025-24016", "ts": "2026-11-14T01:40:24Z", "type": "new_poc", "url": "https://github.com/alinaclark672377250/CVE-2025-24016"}
+{"cve_id": "CVE-2025-29927", "ts": "2026-11-14T01:40:24Z", "type": "new_poc", "url": "https://github.com/alinaclark672377250/CVE-2025-29927-POC"}
+{"cve_id": "CVE-2026-129110", "ts": "2026-11-14T01:40:24Z", "type": "new_poc", "url": "https://github.com/psylinux/CVE-2026-129110-sysPass"}
+{"cve_id": "CVE-2026-128970", "ts": "2026-11-14T01:40:26Z", "type": "new_poc", "url": "https://github.com/R00t3dbyFa17h/security-advisories"}
+{"cve_id": "CVE-2026-112611", "ts": "2026-11-14T01:40:27Z", "type": "new_poc", "url": "https://github.com/hkl1593246852-del/CVE-2026-112611"}
+{"cve_id": "CVE-2023-48795", "ts": "2026-11-14T01:42:29Z", "type": "new_poc", "url": "https://github.com/fumioryoto/Terrapin-attack"}

@@ -8812,6 +8812,8 @@ Users are recommended to upgrade to version 9.0.104, 10.1.40 or 11.0.6 which fix
 
 - [https://github.com/gmh5225/Blackash-CVE-2025-31131](https://github.com/gmh5225/Blackash-CVE-2025-31131) : ![starts](https://img.shields.io/github/stars/gmh5225/Blackash-CVE-2025-31131.svg) ![forks](https://img.shields.io/github/forks/gmh5225/Blackash-CVE-2025-31131.svg)
 
+- [https://github.com/alinaclark672377250/CVE-2025-31131](https://github.com/alinaclark672377250/CVE-2025-31131) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-31131.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-31131.svg)
+
 ## CVE-2025-31129
  Jooby is a web framework for Java and Kotlin. The pac4j io.jooby.internal.pac4j.SessionStoreImpl#get module deserializes untrusted data. This vulnerability is fixed in 2.17.0 (2.x) and 3.7.0 (3.x).
 
@@ -9302,6 +9304,8 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
 - [https://github.com/elkhaoudari/CVE-2025-29927-Python](https://github.com/elkhaoudari/CVE-2025-29927-Python) : ![starts](https://img.shields.io/github/stars/elkhaoudari/CVE-2025-29927-Python.svg) ![forks](https://img.shields.io/github/forks/elkhaoudari/CVE-2025-29927-Python.svg)
 
 - [https://github.com/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927](https://github.com/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927) : ![starts](https://img.shields.io/github/stars/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927.svg) ![forks](https://img.shields.io/github/forks/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927.svg)
+
+- [https://github.com/alinaclark672377250/CVE-2025-29927-POC](https://github.com/alinaclark672377250/CVE-2025-29927-POC) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-29927-POC.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-29927-POC.svg)
 
 ## CVE-2025-29824
  Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally.
@@ -10475,6 +10479,8 @@ Users are recommended to upgrade to version 11.0.3, 10.1.35 or 9.0.99, which fix
 
 - [https://github.com/Ghost-Bx1/cve-2025-24813-apache-tomcat-rce](https://github.com/Ghost-Bx1/cve-2025-24813-apache-tomcat-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2025-24813-apache-tomcat-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2025-24813-apache-tomcat-rce.svg)
 
+- [https://github.com/alinaclark672377250/CVE-2025-24813](https://github.com/alinaclark672377250/CVE-2025-24813) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-24813.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-24813.svg)
+
 ## CVE-2025-24801
  GLPI is a free asset and IT management software package. An authenticated user can upload and force the execution of *.php files located on the GLPI server. This vulnerability is fixed in 10.0.18.
 
@@ -10500,6 +10506,8 @@ Users are recommended to upgrade to version 11.0.3, 10.1.35 or 9.0.99, which fix
 - [https://github.com/airbus-cert/CVE-2025-24799-scanner](https://github.com/airbus-cert/CVE-2025-24799-scanner) : ![starts](https://img.shields.io/github/stars/airbus-cert/CVE-2025-24799-scanner.svg) ![forks](https://img.shields.io/github/forks/airbus-cert/CVE-2025-24799-scanner.svg)
 
 - [https://github.com/ryhnmhrdka/CVE-2025-24799](https://github.com/ryhnmhrdka/CVE-2025-24799) : ![starts](https://img.shields.io/github/stars/ryhnmhrdka/CVE-2025-24799.svg) ![forks](https://img.shields.io/github/forks/ryhnmhrdka/CVE-2025-24799.svg)
+
+- [https://github.com/alinaclark672377250/CVE-2025-24799](https://github.com/alinaclark672377250/CVE-2025-24799) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-24799.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-24799.svg)
 
 ## CVE-2025-24797
  Meshtastic is an open source mesh networking solution. A fault in the handling of mesh packets containing invalid protobuf data can result in an attacker-controlled buffer overflow, allowing an attacker to hijack execution flow, potentially resulting in remote code execution. This attack does not require authentication or user interaction, as long as the target device rebroadcasts packets on the default channel. This vulnerability fixed in 2.6.2.
@@ -10808,6 +10816,8 @@ Thank you [lio346](https://hackerone.com/lio346) for reporting this!
 - [https://github.com/GloStarRx1/CVE-2025-24016](https://github.com/GloStarRx1/CVE-2025-24016) : ![starts](https://img.shields.io/github/stars/GloStarRx1/CVE-2025-24016.svg) ![forks](https://img.shields.io/github/forks/GloStarRx1/CVE-2025-24016.svg)
 
 - [https://github.com/celsius026/poc_CVE-2025-24016](https://github.com/celsius026/poc_CVE-2025-24016) : ![starts](https://img.shields.io/github/stars/celsius026/poc_CVE-2025-24016.svg) ![forks](https://img.shields.io/github/forks/celsius026/poc_CVE-2025-24016.svg)
+
+- [https://github.com/alinaclark672377250/CVE-2025-24016](https://github.com/alinaclark672377250/CVE-2025-24016) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-24016.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-24016.svg)
 
 ## CVE-2025-24011
  Umbraco is a free and open source .NET content management system. Starting in version 14.0.0 and prior to versions 14.3.2 and 15.1.2, it's possible to determine whether an account exists based on an analysis of response codes and timing of Umbraco management API responses. Versions 14.3.2 and 15.1.2 contain a patch. No known workarounds are available.
@@ -15444,6 +15454,8 @@ systems.
 - [https://github.com/MuhammadWaseem29/CVE-2025-1661](https://github.com/MuhammadWaseem29/CVE-2025-1661) : ![starts](https://img.shields.io/github/stars/MuhammadWaseem29/CVE-2025-1661.svg) ![forks](https://img.shields.io/github/forks/MuhammadWaseem29/CVE-2025-1661.svg)
 
 - [https://github.com/shahwarshah/CVE-2025-1661](https://github.com/shahwarshah/CVE-2025-1661) : ![starts](https://img.shields.io/github/stars/shahwarshah/CVE-2025-1661.svg) ![forks](https://img.shields.io/github/forks/shahwarshah/CVE-2025-1661.svg)
+
+- [https://github.com/alinaclark672377250/CVE-2025-1661](https://github.com/alinaclark672377250/CVE-2025-1661) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-1661.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-1661.svg)
 
 ## CVE-2025-1639
  The Animation Addons for Elementor Pro plugin for WordPress is vulnerable to unauthorized arbitrary plugin installation due to a missing capability check on the install_elementor_plugin_handler() function in all versions up to, and including, 1.6. This makes it possible for authenticated attackers, with Subscriber-level access and above, to install and activate arbitrary plugins which can be leveraged to further infect a victim when Elementor is not activated on a vulnerable site.
