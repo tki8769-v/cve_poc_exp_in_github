@@ -171,6 +171,10 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 
 - [https://github.com/fixedbyreboot/CVE-2026-27975-POC](https://github.com/fixedbyreboot/CVE-2026-27975-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-27975-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-27975-POC.svg)
 
+## CVE-2026-3055
+
+- [https://github.com/ashrafzaryouh/CVE-2026-3055](https://github.com/ashrafzaryouh/CVE-2026-3055) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-3055.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-3055.svg)
+
 ## CVE-2026-37640
 
 - [https://github.com/umair9747/CVE-2026-37640-tenda-hg21-telnet-backdoor](https://github.com/umair9747/CVE-2026-37640-tenda-hg21-telnet-backdoor) : ![starts](https://img.shields.io/github/stars/umair9747/CVE-2026-37640-tenda-hg21-telnet-backdoor.svg) ![forks](https://img.shields.io/github/forks/umair9747/CVE-2026-37640-tenda-hg21-telnet-backdoor.svg)
@@ -182,6 +186,10 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 ## CVE-2026-37643
 
 - [https://github.com/umair9747/CVE-2026-37643-tenda-hg21-omcishell-rce](https://github.com/umair9747/CVE-2026-37643-tenda-hg21-omcishell-rce) : ![starts](https://img.shields.io/github/stars/umair9747/CVE-2026-37643-tenda-hg21-omcishell-rce.svg) ![forks](https://img.shields.io/github/forks/umair9747/CVE-2026-37643-tenda-hg21-omcishell-rce.svg)
+
+## CVE-2026-42569
+
+- [https://github.com/ashrafzaryouh/CVE-2026-42569](https://github.com/ashrafzaryouh/CVE-2026-42569) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-42569.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-42569.svg)
 
 ## CVE-2026-43499
 > In the Linux kernel, the following vulnerability has been resolved:

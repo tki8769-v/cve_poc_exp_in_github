@@ -3556,3 +3556,6 @@
 {"cve_id": "CVE-2026-11450", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T12:27:42Z", "url": "https://github.com/tajulasri/-CVE-2026-114509-POC", "url_ids": ["CVE-2026-114509"]}
 {"cve_id": "CVE-2026-11450", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T12:27:42Z", "url": "https://github.com/dimasma0305/CVE-2026-114509", "url_ids": ["CVE-2026-114509"]}
 {"cve_id": "CVE-2026-11450", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T12:27:42Z", "url": "https://github.com/ArioVeisa/cve-2026-114509-laravel-tokenguard", "url_ids": ["CVE-2026-114509"]}
+{"cve_id": "CVE-2026-3684", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T13:04:39Z", "url": "https://github.com/calligraf0/CVE-2026-36848", "url_ids": ["CVE-2026-36848"]}
+{"cve_id": "CVE-2018-1259", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T13:07:45Z", "url": "https://github.com/alt3kx/CVE-2018-12597", "url_ids": ["CVE-2018-12597"]}
+{"cve_id": "CVE-2018-1259", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T13:07:45Z", "url": "https://github.com/alt3kx/CVE-2018-12598", "url_ids": ["CVE-2018-12598"]}

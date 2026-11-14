@@ -15811,6 +15811,8 @@ Users are recommended to upgrade to version 5.19.7 or 6.2.6, which fixes the iss
 
 - [https://github.com/0xBlackash/CVE-2026-42569](https://github.com/0xBlackash/CVE-2026-42569) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-42569.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-42569.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-42569](https://github.com/ashrafzaryouh/CVE-2026-42569) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-42569.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-42569.svg)
+
 ## CVE-2026-42568
  Yamcs is a mission control framework. Prior to versions 5.13.0 and 5.12.7, an LDAP injection vulnerability exists in `org.yamcs.security.LdapAuthModule` when constructing search filters. The username parameter is inserted directly into the LDAP filter without proper RFC 4515 escaping. Versions 5.13.0 and 5.12.7 patch the issue.
 
@@ -27766,6 +27768,8 @@ Email us at security@mautic.org
 - [https://github.com/0xBlackash/CVE-2026-3055](https://github.com/0xBlackash/CVE-2026-3055) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-3055.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-3055.svg)
 
 - [https://github.com/NetVanguard-cmd/CVE-2026-3055](https://github.com/NetVanguard-cmd/CVE-2026-3055) : ![starts](https://img.shields.io/github/stars/NetVanguard-cmd/CVE-2026-3055.svg) ![forks](https://img.shields.io/github/forks/NetVanguard-cmd/CVE-2026-3055.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-3055](https://github.com/ashrafzaryouh/CVE-2026-3055) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-3055.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-3055.svg)
 
 ## CVE-2026-3050
  A flaw has been found in horilla-opensource horilla up to 1.0.2. Impacted is an unknown function of the file static/assets/js/global.js of the component Leads Module. This manipulation of the argument Notes causes cross site scripting. The attack is possible to be carried out remotely. The exploit has been published and may be used. Upgrading to version 1.0.3 is recommended to address this issue. Patch name: fc5c8e55988e89273012491b5f097b762b474546. It is suggested to upgrade the affected component.
