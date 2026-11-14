@@ -11643,3 +11643,7 @@
 {"cve_id": "CVE-2026-128970", "ts": "2026-11-14T01:40:26Z", "type": "new_poc", "url": "https://github.com/R00t3dbyFa17h/security-advisories"}
 {"cve_id": "CVE-2026-112611", "ts": "2026-11-14T01:40:27Z", "type": "new_poc", "url": "https://github.com/hkl1593246852-del/CVE-2026-112611"}
 {"cve_id": "CVE-2023-48795", "ts": "2026-11-14T01:42:29Z", "type": "new_poc", "url": "https://github.com/fumioryoto/Terrapin-attack"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-14T02:05:33Z", "type": "new_poc", "url": "https://github.com/jonrazta89/NewGhostTimer"}
+{"cve_id": "CVE-2026-120490", "ts": "2026-11-14T02:05:49Z", "type": "new_poc", "url": "https://github.com/sadshade/checkpoint-gexec-poc"}
+{"cve_id": "CVE-2026-112522", "ts": "2026-11-14T02:06:02Z", "type": "new_poc", "url": "https://github.com/SudoSaturn/CVE-2026-112522"}
+{"cve_id": "CVE-2023-33107", "ts": "2026-11-14T02:06:21Z", "type": "new_poc", "url": "https://github.com/miyoubi/Fracture"}

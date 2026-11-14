@@ -5081,6 +5081,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 
 - [https://github.com/markutell/CVE-2023-33107-SO51A](https://github.com/markutell/CVE-2023-33107-SO51A) : ![starts](https://img.shields.io/github/stars/markutell/CVE-2023-33107-SO51A.svg) ![forks](https://img.shields.io/github/forks/markutell/CVE-2023-33107-SO51A.svg)
 
+- [https://github.com/miyoubi/Fracture](https://github.com/miyoubi/Fracture) : ![starts](https://img.shields.io/github/stars/miyoubi/Fracture.svg) ![forks](https://img.shields.io/github/forks/miyoubi/Fracture.svg)
+
 ## CVE-2023-33105
  Transient DOS in WLAN Host and Firmware when large number of open authentication frames are sent with an invalid transaction sequence number.
 

@@ -314,6 +314,10 @@ An application that passes request data as column values to insert or update
 
 - [https://github.com/3jee/CVE-2026-120491](https://github.com/3jee/CVE-2026-120491) : ![starts](https://img.shields.io/github/stars/3jee/CVE-2026-120491.svg) ![forks](https://img.shields.io/github/forks/3jee/CVE-2026-120491.svg)
 
+## CVE-2026-120490
+
+- [https://github.com/sadshade/checkpoint-gexec-poc](https://github.com/sadshade/checkpoint-gexec-poc) : ![starts](https://img.shields.io/github/stars/sadshade/checkpoint-gexec-poc.svg) ![forks](https://img.shields.io/github/forks/sadshade/checkpoint-gexec-poc.svg)
+
 ## CVE-2026-120318
 > Product Gallery Slider &amp; Additional Variation Images for WooCommerce 2.3.23 before 2.3.26 contains a missing authorization vulnerability in Codestar backup AJAX actions csf-export, csf-import and csf-reset. Shop Managers can read the csf_backup_nonce from the settings page and supply arbitrary option names via the &#x27;unique&#x27; parameter to read, overwrite or delete WordPress options, including modifying wp_user_roles to escalate to administrator.
 
@@ -982,6 +986,11 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 - [https://github.com/Rust505/CVE-2026-112611](https://github.com/Rust505/CVE-2026-112611) : ![starts](https://img.shields.io/github/stars/Rust505/CVE-2026-112611.svg) ![forks](https://img.shields.io/github/forks/Rust505/CVE-2026-112611.svg)
 
 - [https://github.com/hkl1593246852-del/CVE-2026-112611](https://github.com/hkl1593246852-del/CVE-2026-112611) : ![starts](https://img.shields.io/github/stars/hkl1593246852-del/CVE-2026-112611.svg) ![forks](https://img.shields.io/github/forks/hkl1593246852-del/CVE-2026-112611.svg)
+
+## CVE-2026-112522
+> An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. Processing a maliciously crafted file may lead to unexpected app termination.
+
+- [https://github.com/SudoSaturn/CVE-2026-112522](https://github.com/SudoSaturn/CVE-2026-112522) : ![starts](https://img.shields.io/github/stars/SudoSaturn/CVE-2026-112522.svg) ![forks](https://img.shields.io/github/forks/SudoSaturn/CVE-2026-112522.svg)
 
 ## CVE-2026-112487
 > A path handling issue was addressed with improved validation. This issue is fixed in macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. An app may be able to gain root privileges.
@@ -15092,6 +15101,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/igconitoguy/CVE-2026-43499-Poc-Analysis](https://github.com/igconitoguy/CVE-2026-43499-Poc-Analysis) : ![starts](https://img.shields.io/github/stars/igconitoguy/CVE-2026-43499-Poc-Analysis.svg) ![forks](https://img.shields.io/github/forks/igconitoguy/CVE-2026-43499-Poc-Analysis.svg)
 
 - [https://github.com/Repobor/ghostlock-cve-2026-43499-4.19-thyme](https://github.com/Repobor/ghostlock-cve-2026-43499-4.19-thyme) : ![starts](https://img.shields.io/github/stars/Repobor/ghostlock-cve-2026-43499-4.19-thyme.svg) ![forks](https://img.shields.io/github/forks/Repobor/ghostlock-cve-2026-43499-4.19-thyme.svg)
+
+- [https://github.com/jonrazta89/NewGhostTimer](https://github.com/jonrazta89/NewGhostTimer) : ![starts](https://img.shields.io/github/stars/jonrazta89/NewGhostTimer.svg) ![forks](https://img.shields.io/github/forks/jonrazta89/NewGhostTimer.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
@@ -62607,6 +62618,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [https://github.com/Xorriath/lg-velvet-eu-bootloader-unlock](https://github.com/Xorriath/lg-velvet-eu-bootloader-unlock) : ![starts](https://img.shields.io/github/stars/Xorriath/lg-velvet-eu-bootloader-unlock.svg) ![forks](https://img.shields.io/github/forks/Xorriath/lg-velvet-eu-bootloader-unlock.svg)
 
 - [https://github.com/markutell/CVE-2023-33107-SO51A](https://github.com/markutell/CVE-2023-33107-SO51A) : ![starts](https://img.shields.io/github/stars/markutell/CVE-2023-33107-SO51A.svg) ![forks](https://img.shields.io/github/forks/markutell/CVE-2023-33107-SO51A.svg)
+
+- [https://github.com/miyoubi/Fracture](https://github.com/miyoubi/Fracture) : ![starts](https://img.shields.io/github/stars/miyoubi/Fracture.svg) ![forks](https://img.shields.io/github/forks/miyoubi/Fracture.svg)
 
 ## CVE-2023-33105
  Transient DOS in WLAN Host and Firmware when large number of open authentication frames are sent with an invalid transaction sequence number.
