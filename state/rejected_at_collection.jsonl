@@ -3533,3 +3533,5 @@
 {"cve_id": "CVE-2023-2255", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T01:45:25Z", "url": "https://github.com/viswagb/CVE-2023-22551", "url_ids": ["CVE-2023-22551"]}
 {"cve_id": "CVE-2026-11753", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T01:47:20Z", "url": "https://github.com/asvorg/CVE-2026-117532-poc", "url_ids": ["CVE-2026-117532"]}
 {"cve_id": "CVE-2025-3604", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T02:10:09Z", "url": "https://github.com/byteReaper77/CVE-2025-36041", "url_ids": ["CVE-2025-36041"]}
+{"cve_id": "CVE-2018-1156", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T02:36:08Z", "url": "https://github.com/GeunSam2/CVE-2018-11564", "url_ids": ["CVE-2018-11564"]}
+{"cve_id": "CVE-2019-2548", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T02:41:13Z", "url": "https://github.com/TheMalwareGuardian/CVE-2019-25485", "url_ids": ["CVE-2019-25485"]}

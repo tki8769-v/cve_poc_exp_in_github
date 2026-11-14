@@ -11647,3 +11647,6 @@
 {"cve_id": "CVE-2026-120490", "ts": "2026-11-14T02:05:49Z", "type": "new_poc", "url": "https://github.com/sadshade/checkpoint-gexec-poc"}
 {"cve_id": "CVE-2026-112522", "ts": "2026-11-14T02:06:02Z", "type": "new_poc", "url": "https://github.com/SudoSaturn/CVE-2026-112522"}
 {"cve_id": "CVE-2023-33107", "ts": "2026-11-14T02:06:21Z", "type": "new_poc", "url": "https://github.com/miyoubi/Fracture"}
+{"cve_id": "CVE-2026-125346", "ts": "2026-11-14T02:23:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-53770", "ts": "2026-11-14T02:31:59Z", "type": "new_poc", "url": "https://github.com/alinaclark672377250/CVE-2025-53770"}
+{"cve_id": "CVE-2025-32433", "ts": "2026-11-14T02:32:45Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2025-32433"}
