@@ -60,6 +60,10 @@
 
 - [https://github.com/alinaclark672377250/CVE-2025-53770](https://github.com/alinaclark672377250/CVE-2025-53770) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-53770.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-53770.svg)
 
+## CVE-2026-0073
+
+- [https://github.com/ashrafzaryouh/CVE-2026-0073](https://github.com/ashrafzaryouh/CVE-2026-0073) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-0073.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-0073.svg)
+
 ## CVE-2026-101107
 > An OS command Injection issue exists in Air Terminal 6 provided by SoftBank Corp. Arbitrary commands may be executed with the root privilege by a user who can log in to the web management console of the affected product.
 
@@ -284,6 +288,27 @@ problems:
 ## CVE-2026-45829
 
 - [https://github.com/ashrafzaryouh/CVE-2026-45829](https://github.com/ashrafzaryouh/CVE-2026-45829) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-45829.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-45829.svg)
+
+## CVE-2026-46300
+> In the Linux kernel, the following vulnerability has been resolved:
+
+net: skbuff: preserve shared-frag marker during coalescing
+
+skb_try_coalesce() can attach paged frags from @from to @to.  If @from
+has SKBFL_SHARED_FRAG set, the resulting @to skb can contain the same
+externally-owned or page-cache-backed frags, but the shared-frag marker
+is currently lost.
+
+That breaks the invariant relied on by later in-place writers.  In
+particular, ESP input checks skb_has_shared_frag() before deciding
+whet
+
+- [https://github.com/ashrafzaryouh/CVE-2026-46300](https://github.com/ashrafzaryouh/CVE-2026-46300) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-46300.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-46300.svg)
+
+## CVE-2026-53921
+> odhcpd is the DHCPv6, DHCPv4, and router-advertisement server used by OpenWrt. Prior to version 25.12, odhcpd&#x27;s DHCPv6 IA response handler writes past the end of a fixed 512-byte stack buffer (pdbuf) when a single DHCPv6 REQUEST carries enough IA options to nearly exhaust the reply space. Two independent overflow sites exist in the same call chain, both reachable from the network via a single unauthenticated UDP packet. odhcpd runs as root on OpenWrt; embedded targets often lack stack canaries a
+
+- [https://github.com/ashrafzaryouh/CVE-2026-53921](https://github.com/ashrafzaryouh/CVE-2026-53921) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-53921.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-53921.svg)
 
 ## CVE-2026-62253
 > Homer is open source telecom observability software. Prior to version 11.0.283, both JWT middleware functions (`JWTMiddleware` and `JWTMiddlewareV4`) immediately return `next(c)` when `jwtSecret == &quot;&quot;`. The JWT secret defaults to an empty string. On a default installation, all protected API endpoints under `/api/v1`, `/api/v3`, and `/api/v4` are completely unauthenticated. Version 11.0.283 patches the issue.

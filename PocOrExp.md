@@ -11371,6 +11371,8 @@ Users are recommended to upgrade to version 11.0.23, 10.1.56 or 9.0.119 which fi
 
 - [https://github.com/mehmet-emir-eroglu/CVE-2026-53921](https://github.com/mehmet-emir-eroglu/CVE-2026-53921) : ![starts](https://img.shields.io/github/stars/mehmet-emir-eroglu/CVE-2026-53921.svg) ![forks](https://img.shields.io/github/forks/mehmet-emir-eroglu/CVE-2026-53921.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-53921](https://github.com/ashrafzaryouh/CVE-2026-53921) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-53921.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-53921.svg)
+
 ## CVE-2026-53913
  Improper Authentication, Missing Authentication for Critical Function, Not Failing Securely ('Failing Open') vulnerability in Apache Camel Keycloak Component.
 
@@ -13680,6 +13682,8 @@ bytes into @to's linear data rather than transferring frag descriptors.
 - [https://github.com/Koshmare-Blossom/Fragnesia-go](https://github.com/Koshmare-Blossom/Fragnesia-go) : ![starts](https://img.shields.io/github/stars/Koshmare-Blossom/Fragnesia-go.svg) ![forks](https://img.shields.io/github/forks/Koshmare-Blossom/Fragnesia-go.svg)
 
 - [https://github.com/foxcornlab/fragnesia-scanner](https://github.com/foxcornlab/fragnesia-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/fragnesia-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/fragnesia-scanner.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-46300](https://github.com/ashrafzaryouh/CVE-2026-46300) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-46300.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-46300.svg)
 
 ## CVE-2026-46275
  In the Linux kernel, the following vulnerability has been resolved:
@@ -28895,6 +28899,8 @@ Panorama and Cloud NGFW are not impacted by these issues.
 - [https://github.com/ko456123mo-jpg/zero-x-deploy](https://github.com/ko456123mo-jpg/zero-x-deploy) : ![starts](https://img.shields.io/github/stars/ko456123mo-jpg/zero-x-deploy.svg) ![forks](https://img.shields.io/github/forks/ko456123mo-jpg/zero-x-deploy.svg)
 
 - [https://github.com/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC](https://github.com/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC) : ![starts](https://img.shields.io/github/stars/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC.svg) ![forks](https://img.shields.io/github/forks/xqi1337/CVE-2026-0073-Android-ADBD-bypass-POC.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-0073](https://github.com/ashrafzaryouh/CVE-2026-0073) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-0073.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-0073.svg)
 
 ## CVE-2026-0059
  In multiple functions of sdp_discovery.cc, there is a possible way to achieve code execution due to a heap buffer overflow. This could lead to remote (proximal/adjacent) code execution with no additional execution privileges needed. User interaction is not needed for exploitation.

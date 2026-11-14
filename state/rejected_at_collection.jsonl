@@ -3574,3 +3574,4 @@
 {"cve_id": "CVE-2022-3720", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T19:00:07Z", "url": "https://github.com/AgainstTheLight/CVE-2022-37206", "url_ids": ["CVE-2022-37206"]}
 {"cve_id": "CVE-2022-3720", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T19:00:07Z", "url": "https://github.com/AgainstTheLight/CVE-2022-37201", "url_ids": ["CVE-2022-37201"]}
 {"cve_id": "CVE-2022-3720", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T19:00:07Z", "url": "https://github.com/AgainstTheLight/CVE-2022-37202", "url_ids": ["CVE-2022-37202"]}
+{"cve_id": "CVE-2025-4396", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T19:09:26Z", "url": "https://github.com/far00t01/CVE-2025-43960", "url_ids": ["CVE-2025-43960"]}

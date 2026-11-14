@@ -11721,3 +11721,29 @@
 {"cve_id": "CVE-2026-93485", "ts": "2026-11-14T18:57:20Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-93485"}
 {"cve_id": "CVE-2026-21589", "ts": "2026-11-14T18:58:09Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-21589"}
 {"cve_id": "CVE-2026-21858", "ts": "2026-11-14T18:59:17Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-21858"}
+{"cve_id": "CVE-2026-117474", "ts": "2026-11-14T19:00:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117475", "ts": "2026-11-14T19:00:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117476", "ts": "2026-11-14T19:00:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123133", "ts": "2026-11-14T19:01:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124617", "ts": "2026-11-14T19:01:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117474", "ts": "2026-11-14T19:02:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117475", "ts": "2026-11-14T19:02:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117476", "ts": "2026-11-14T19:02:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123133", "ts": "2026-11-14T19:02:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124617", "ts": "2026-11-14T19:02:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-59599", "ts": "2026-11-14T19:02:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117474", "ts": "2026-11-14T19:03:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117475", "ts": "2026-11-14T19:03:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117476", "ts": "2026-11-14T19:03:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123133", "ts": "2026-11-14T19:03:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124617", "ts": "2026-11-14T19:03:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-59599", "ts": "2026-11-14T19:04:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117474", "ts": "2026-11-14T19:05:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117475", "ts": "2026-11-14T19:05:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117476", "ts": "2026-11-14T19:05:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123133", "ts": "2026-11-14T19:05:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124617", "ts": "2026-11-14T19:06:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-59599", "ts": "2026-11-14T19:06:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-46300", "ts": "2026-11-14T19:08:31Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-46300"}
+{"cve_id": "CVE-2026-53921", "ts": "2026-11-14T19:10:33Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-53921"}
+{"cve_id": "CVE-2026-0073", "ts": "2026-11-14T19:16:27Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-0073"}
