@@ -839,6 +839,10 @@
 
 - [https://github.com/federiconbaez/cortex9-dirtycow-gup-cow-state-model](https://github.com/federiconbaez/cortex9-dirtycow-gup-cow-state-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-dirtycow-gup-cow-state-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-dirtycow-gup-cow-state-model.svg)
 
+- [https://github.com/clrs520/letv-tv-ad-free](https://github.com/clrs520/letv-tv-ad-free) : ![starts](https://img.shields.io/github/stars/clrs520/letv-tv-ad-free.svg) ![forks](https://img.shields.io/github/forks/clrs520/letv-tv-ad-free.svg)
+
+- [https://github.com/mlucianoeze/linux-backport-CVE-2016-5195](https://github.com/mlucianoeze/linux-backport-CVE-2016-5195) : ![starts](https://img.shields.io/github/stars/mlucianoeze/linux-backport-CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/mlucianoeze/linux-backport-CVE-2016-5195.svg)
+
 ## CVE-2016-5180
  Heap-based buffer overflow in the ares_create_query function in c-ares 1.x before 1.12.0 allows remote attackers to cause a denial of service (out-of-bounds write) or possibly execute arbitrary code via a hostname with an escaped trailing dot.
 

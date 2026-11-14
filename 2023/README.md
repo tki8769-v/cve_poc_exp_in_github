@@ -4059,6 +4059,8 @@ prior to
 
 - [https://github.com/winkler-winsen/Scan_GhostScript](https://github.com/winkler-winsen/Scan_GhostScript) : ![starts](https://img.shields.io/github/stars/winkler-winsen/Scan_GhostScript.svg) ![forks](https://img.shields.io/github/forks/winkler-winsen/Scan_GhostScript.svg)
 
+- [https://github.com/minsmiths/cve-2023-36664](https://github.com/minsmiths/cve-2023-36664) : ![starts](https://img.shields.io/github/stars/minsmiths/cve-2023-36664.svg) ![forks](https://img.shields.io/github/forks/minsmiths/cve-2023-36664.svg)
+
 ## CVE-2023-36645
  SQL injection vulnerability in ITB-GmbH TradePro v9.5, allows remote attackers to run SQL queries via oordershow component in customer function.
 

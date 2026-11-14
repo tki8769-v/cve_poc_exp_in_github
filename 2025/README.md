@@ -10864,6 +10864,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/harley-ghostie/safe-check-CVE-2025-23419](https://github.com/harley-ghostie/safe-check-CVE-2025-23419) : ![starts](https://img.shields.io/github/stars/harley-ghostie/safe-check-CVE-2025-23419.svg) ![forks](https://img.shields.io/github/forks/harley-ghostie/safe-check-CVE-2025-23419.svg)
 
+- [https://github.com/przemyslawbryzek/CVE-2025-23419](https://github.com/przemyslawbryzek/CVE-2025-23419) : ![starts](https://img.shields.io/github/stars/przemyslawbryzek/CVE-2025-23419.svg) ![forks](https://img.shields.io/github/forks/przemyslawbryzek/CVE-2025-23419.svg)
+
 ## CVE-2025-23369
  An improper verification of cryptographic signature vulnerability was identified in GitHub Enterprise Server that allowed signature spoofing for unauthorized internal users.  Instances not utilizing SAML single sign-on or where the attacker is not already an existing user were not impacted. This vulnerability affected all versions of GitHub Enterprise Server prior to 3.12.14, 3.13.10, 3.14.7, 3.15.2, and 3.16.0. This vulnerability was reported via the GitHub Bug Bounty program.
 

@@ -11692,3 +11692,32 @@
 {"cve_id": "CVE-2026-125346", "ts": "2026-11-14T12:56:19Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-42569", "ts": "2026-11-14T13:06:33Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-42569"}
 {"cve_id": "CVE-2026-3055", "ts": "2026-11-14T13:08:45Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-3055"}
+{"cve_id": "CVE-2026-123133", "ts": "2026-11-14T18:47:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123133", "ts": "2026-11-14T18:48:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117474", "ts": "2026-11-14T18:48:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117475", "ts": "2026-11-14T18:48:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117476", "ts": "2026-11-14T18:49:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123133", "ts": "2026-11-14T18:49:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124617", "ts": "2026-11-14T18:49:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-119618", "ts": "2026-11-14T18:49:57Z", "type": "new_poc", "url": "https://github.com/d4ytox/CVE-2026-119618"}
+{"cve_id": "CVE-2026-119618", "ts": "2026-11-14T18:49:57Z", "type": "new_poc", "url": "https://github.com/terminat0r7031/CVE-2026-119618"}
+{"cve_id": "CVE-2026-114713", "ts": "2026-11-14T18:49:58Z", "type": "new_poc", "url": "https://github.com/Sable-Research/CVE-2026-114713"}
+{"cve_id": "CVE-2025-23419", "ts": "2026-11-14T18:49:59Z", "type": "new_poc", "url": "https://github.com/przemyslawbryzek/CVE-2025-23419"}
+{"cve_id": "CVE-2026-124020", "ts": "2026-11-14T18:50:01Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-124020-POC"}
+{"cve_id": "CVE-2026-126539", "ts": "2026-11-14T18:50:02Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-126539-POC"}
+{"cve_id": "CVE-2026-96349", "ts": "2026-11-14T18:50:02Z", "type": "new_poc", "url": "https://github.com/1xPwn/exploit-CVE-2026-96349"}
+{"cve_id": "CVE-2026-115934", "ts": "2026-11-14T18:50:03Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-115934-POC"}
+{"cve_id": "CVE-2014-0160", "ts": "2026-11-14T18:50:04Z", "type": "new_poc", "url": "https://github.com/Bri2327/vulnerables"}
+{"cve_id": "CVE-2026-39987", "ts": "2026-11-14T18:50:04Z", "type": "new_poc", "url": "https://github.com/Arnau029/CVE-2026-39987-PoC"}
+{"cve_id": "CVE-2026-112652", "ts": "2026-11-14T18:50:04Z", "type": "new_poc", "url": "https://github.com/FAHAD21313/cve-2026-112652-secpolicy-research"}
+{"cve_id": "CVE-2026-101107", "ts": "2026-11-14T18:50:06Z", "type": "new_poc", "url": "https://github.com/code-raisan/CVE-2026-101107-PoC-SBA6RCE-SAFETY"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-14T18:50:06Z", "type": "new_poc", "url": "https://github.com/linux-tools/Shark-Root-Folk_for_VIVO_Y500i"}
+{"cve_id": "CVE-2026-119618", "ts": "2026-11-14T18:50:07Z", "type": "new_poc", "url": "https://github.com/matarturo/apache-mod-http2-scanner"}
+{"cve_id": "CVE-2026-42530", "ts": "2026-11-14T18:51:07Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-42530"}
+{"cve_id": "CVE-2023-36664", "ts": "2026-11-14T18:52:09Z", "type": "new_poc", "url": "https://github.com/minsmiths/cve-2023-36664"}
+{"cve_id": "CVE-2022-38694", "ts": "2026-11-14T18:55:01Z", "type": "new_poc", "url": "https://github.com/xsvebmx/teclast-m50pro-unisoc-root"}
+{"cve_id": "CVE-2016-5195", "ts": "2026-11-14T18:56:04Z", "type": "new_poc", "url": "https://github.com/clrs520/letv-tv-ad-free"}
+{"cve_id": "CVE-2016-5195", "ts": "2026-11-14T18:56:04Z", "type": "new_poc", "url": "https://github.com/mlucianoeze/linux-backport-CVE-2016-5195"}
+{"cve_id": "CVE-2026-93485", "ts": "2026-11-14T18:57:20Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-93485"}
+{"cve_id": "CVE-2026-21589", "ts": "2026-11-14T18:58:09Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-21589"}
+{"cve_id": "CVE-2026-21858", "ts": "2026-11-14T18:59:17Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-21858"}
