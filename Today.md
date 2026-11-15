@@ -1,4 +1,8 @@
 # Update 2026-11-15
+## CVE-2014-0160
+
+- [https://github.com/ashrafzaryouh/CVE-2014-0160](https://github.com/ashrafzaryouh/CVE-2014-0160) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2014-0160.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2014-0160.svg)
+
 ## CVE-2018-16763
 
 - [https://github.com/ex6p/fuel-CMS-1.4.1---Remote-Code-Execution-](https://github.com/ex6p/fuel-CMS-1.4.1---Remote-Code-Execution-) : ![starts](https://img.shields.io/github/stars/ex6p/fuel-CMS-1.4.1---Remote-Code-Execution-.svg) ![forks](https://img.shields.io/github/forks/ex6p/fuel-CMS-1.4.1---Remote-Code-Execution-.svg)
@@ -157,6 +161,10 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 
 - [https://github.com/abraxas/CVE-2026-126919-mimehandler-postmessage-uaf](https://github.com/abraxas/CVE-2026-126919-mimehandler-postmessage-uaf) : ![starts](https://img.shields.io/github/stars/abraxas/CVE-2026-126919-mimehandler-postmessage-uaf.svg) ![forks](https://img.shields.io/github/forks/abraxas/CVE-2026-126919-mimehandler-postmessage-uaf.svg)
 
+## CVE-2026-129349
+
+- [https://github.com/googlesky/CVE-2026-129349](https://github.com/googlesky/CVE-2026-129349) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129349.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129349.svg)
+
 ## CVE-2026-129351
 
 - [https://github.com/googlesky/CVE-2026-129351](https://github.com/googlesky/CVE-2026-129351) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129351.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129351.svg)
@@ -217,6 +225,56 @@ When a LOCK operation is denied due to a con
 
 - [https://github.com/ashrafzaryouh/CVE-2026-41091](https://github.com/ashrafzaryouh/CVE-2026-41091) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-41091.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-41091.svg)
 
+## CVE-2026-43494
+> In the Linux kernel, the following vulnerability has been resolved:
+
+net/rds: reset op_nents when zerocopy page pin fails
+
+When iov_iter_get_pages2() fails in rds_message_zcopy_from_user(),
+the pinned pages are released with put_page(), and
+rm-&gt;data.op_mmp_znotifier is cleared.  But we fail to properly
+clear rm-&gt;data.op_nents.
+
+Later when rds_message_purge() is called from rds_sendmsg() the
+cleanup loop iterates over the incorrectly non zero number of
+op_nents and frees them again.
+
+Fix this by 
+
+- [https://github.com/ashrafzaryouh/CVE-2026-43494](https://github.com/ashrafzaryouh/CVE-2026-43494) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-43494.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-43494.svg)
+
+## CVE-2026-43499
+> In the Linux kernel, the following vulnerability has been resolved:
+
+rtmutex: Use waiter::task instead of current in remove_waiter()
+
+remove_waiter() is used by the slowlock paths, but it is also used for
+proxy-lock rollback in rt_mutex_start_proxy_lock() when invoked from
+futex_requeue().
+
+In the latter case waiter::task is not current, but remove_waiter()
+operates on current for the dequeue operation. That results in several
+problems:
+
+  1) the rbtree dequeue happens without waiter::task::pi_l
+
+- [https://github.com/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal](https://github.com/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal) : ![starts](https://img.shields.io/github/stars/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal.svg) ![forks](https://img.shields.io/github/forks/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal.svg)
+- [https://github.com/Upphittare/vivo-pd2324-ghostlock-notes](https://github.com/Upphittare/vivo-pd2324-ghostlock-notes) : ![starts](https://img.shields.io/github/stars/Upphittare/vivo-pd2324-ghostlock-notes.svg) ![forks](https://img.shields.io/github/forks/Upphittare/vivo-pd2324-ghostlock-notes.svg)
+
+## CVE-2026-46242
+> In the Linux kernel, the following vulnerability has been resolved:
+
+eventpoll: fix ep_remove struct eventpoll / struct file UAF
+
+ep_remove() (via ep_remove_file()) cleared file-&gt;f_ep under
+file-&gt;f_lock but then kept using @file inside the critical section
+(is_file_epoll(), hlist_del_rcu() through the head, spin_unlock).
+A concurrent __fput() taking the eventpoll_release() fastpath in
+that window observed the transient NULL, skipped
+eventpoll_release_file() and ran to f_op-&gt;release / file_free()
+
+- [https://github.com/ashrafzaryouh/CVE-2026-46242](https://github.com/ashrafzaryouh/CVE-2026-46242) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-46242.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-46242.svg)
+
 ## CVE-2026-47729
 
 - [https://github.com/ashrafzaryouh/CVE-2026-47729](https://github.com/ashrafzaryouh/CVE-2026-47729) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-47729.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-47729.svg)
@@ -254,3 +312,18 @@ This issue affects Drupal core: from 8.9.0 before 10.4.10, from 10.5.0 before 10
 > GitLab has remediated an issue in GitLab CE/EE affecting all versions from 19.2 before 19.2.8, 19.3 before 19.3.5, and 19.4 before 19.4.2 that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a CI/CD configuration, due to insufficient regular expression validation.
 
 - [https://github.com/wa6n3r/cve-2026-97229](https://github.com/wa6n3r/cve-2026-97229) : ![starts](https://img.shields.io/github/stars/wa6n3r/cve-2026-97229.svg) ![forks](https://img.shields.io/github/forks/wa6n3r/cve-2026-97229.svg)
+
+## CVE-2026-98260
+> In the Linux kernel, the following vulnerability has been resolved:
+
+exec: Cleanup POSIX timers right after de_thread()
+
+A per-thread CPU timer holds a reference to the PID of the thread it is
+attached to and, while it is armed, its node is queued in that thread&#x27;s
+posix_cputimers. The task is looked up by that PID.
+
+When a non-leader thread exec()s, de_thread() changes which task owns
+that PID. pid_task(timer-&gt;it.cpu.pid, PIDTYPE_PID) then returns NULL,
+but the node is still queued on tsk, which
+
+- [https://github.com/BKV0369/CVE-2026-98260-Motorola](https://github.com/BKV0369/CVE-2026-98260-Motorola) : ![starts](https://img.shields.io/github/stars/BKV0369/CVE-2026-98260-Motorola.svg) ![forks](https://img.shields.io/github/forks/BKV0369/CVE-2026-98260-Motorola.svg)

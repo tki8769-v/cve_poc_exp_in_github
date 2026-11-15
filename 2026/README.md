@@ -30,6 +30,10 @@
 
 - [https://github.com/googlesky/CVE-2026-129351](https://github.com/googlesky/CVE-2026-129351) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129351.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129351.svg)
 
+## CVE-2026-129349
+
+- [https://github.com/googlesky/CVE-2026-129349](https://github.com/googlesky/CVE-2026-129349) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129349.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129349.svg)
+
 ## CVE-2026-129254
 
 - [https://github.com/Usama-Hanif131/CVE-2026-129254](https://github.com/Usama-Hanif131/CVE-2026-129254) : ![starts](https://img.shields.io/github/stars/Usama-Hanif131/CVE-2026-129254.svg) ![forks](https://img.shields.io/github/forks/Usama-Hanif131/CVE-2026-129254.svg)
@@ -4353,6 +4357,8 @@ but the node is still queued on tsk, which
 - [https://github.com/jonrazta89/OneSamAKAGhostKey](https://github.com/jonrazta89/OneSamAKAGhostKey) : ![starts](https://img.shields.io/github/stars/jonrazta89/OneSamAKAGhostKey.svg) ![forks](https://img.shields.io/github/forks/jonrazta89/OneSamAKAGhostKey.svg)
 
 - [https://github.com/linux-tools/Shark-Root-Folk_for_VIVO_Y500i](https://github.com/linux-tools/Shark-Root-Folk_for_VIVO_Y500i) : ![starts](https://img.shields.io/github/stars/linux-tools/Shark-Root-Folk_for_VIVO_Y500i.svg) ![forks](https://img.shields.io/github/forks/linux-tools/Shark-Root-Folk_for_VIVO_Y500i.svg)
+
+- [https://github.com/BKV0369/CVE-2026-98260-Motorola](https://github.com/BKV0369/CVE-2026-98260-Motorola) : ![starts](https://img.shields.io/github/stars/BKV0369/CVE-2026-98260-Motorola.svg) ![forks](https://img.shields.io/github/forks/BKV0369/CVE-2026-98260-Motorola.svg)
 
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -13958,6 +13964,8 @@ READ_ONCE(epi-dying) fast-path bailout stays.
 
 - [https://github.com/villager1314/CVE-2026-46242-Analysis](https://github.com/villager1314/CVE-2026-46242-Analysis) : ![starts](https://img.shields.io/github/stars/villager1314/CVE-2026-46242-Analysis.svg) ![forks](https://img.shields.io/github/forks/villager1314/CVE-2026-46242-Analysis.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-46242](https://github.com/ashrafzaryouh/CVE-2026-46242) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-46242.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-46242.svg)
+
 ## CVE-2026-46215
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -15403,6 +15411,10 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/jonrazta89/NewGhostTimer](https://github.com/jonrazta89/NewGhostTimer) : ![starts](https://img.shields.io/github/stars/jonrazta89/NewGhostTimer.svg) ![forks](https://img.shields.io/github/forks/jonrazta89/NewGhostTimer.svg)
 
+- [https://github.com/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal](https://github.com/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal) : ![starts](https://img.shields.io/github/stars/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal.svg) ![forks](https://img.shields.io/github/forks/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal.svg)
+
+- [https://github.com/Upphittare/vivo-pd2324-ghostlock-notes](https://github.com/Upphittare/vivo-pd2324-ghostlock-notes) : ![starts](https://img.shields.io/github/stars/Upphittare/vivo-pd2324-ghostlock-notes.svg) ![forks](https://img.shields.io/github/forks/Upphittare/vivo-pd2324-ghostlock-notes.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -15433,6 +15445,8 @@ rds_message_zcopy_from_user().
 - [https://github.com/Kagantua/PinTheft-go](https://github.com/Kagantua/PinTheft-go) : ![starts](https://img.shields.io/github/stars/Kagantua/PinTheft-go.svg) ![forks](https://img.shields.io/github/forks/Kagantua/PinTheft-go.svg)
 
 - [https://github.com/suominen/pintheft](https://github.com/suominen/pintheft) : ![starts](https://img.shields.io/github/stars/suominen/pintheft.svg) ![forks](https://img.shields.io/github/forks/suominen/pintheft.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-43494](https://github.com/ashrafzaryouh/CVE-2026-43494) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-43494.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-43494.svg)
 
 ## CVE-2026-43449
  In the Linux kernel, the following vulnerability has been resolved:

@@ -11906,3 +11906,10 @@
 {"cve_id": "CVE-2026-70641", "ts": "2026-11-15T16:55:21Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-82032", "ts": "2026-11-15T16:55:32Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-47729", "ts": "2026-11-15T17:08:35Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-47729"}
+{"cve_id": "CVE-2026-129349", "ts": "2026-11-15T17:20:07Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-129349"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-15T17:20:08Z", "type": "new_poc", "url": "https://github.com/BKV0369/CVE-2026-98260-Motorola"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-15T17:20:42Z", "type": "new_poc", "url": "https://github.com/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-15T17:20:44Z", "type": "new_poc", "url": "https://github.com/Upphittare/vivo-pd2324-ghostlock-notes"}
+{"cve_id": "CVE-2014-0160", "ts": "2026-11-15T17:24:12Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2014-0160"}
+{"cve_id": "CVE-2026-43494", "ts": "2026-11-15T17:24:18Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-43494"}
+{"cve_id": "CVE-2026-46242", "ts": "2026-11-15T17:29:28Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-46242"}
