@@ -1,4 +1,8 @@
 # Update 2026-11-15
+## CVE-2018-4878
+
+- [https://github.com/msmacu/cve-2018-4878-adobe-flash-drm-uaf-0day](https://github.com/msmacu/cve-2018-4878-adobe-flash-drm-uaf-0day) : ![starts](https://img.shields.io/github/stars/msmacu/cve-2018-4878-adobe-flash-drm-uaf-0day.svg) ![forks](https://img.shields.io/github/forks/msmacu/cve-2018-4878-adobe-flash-drm-uaf-0day.svg)
+
 ## CVE-2021-3156
 
 - [https://github.com/HanaBouikni/AppArmor-Simulation-CVE-2021-3156](https://github.com/HanaBouikni/AppArmor-Simulation-CVE-2021-3156) : ![starts](https://img.shields.io/github/stars/HanaBouikni/AppArmor-Simulation-CVE-2021-3156.svg) ![forks](https://img.shields.io/github/forks/HanaBouikni/AppArmor-Simulation-CVE-2021-3156.svg)
@@ -45,6 +49,10 @@
 
 - [https://github.com/ashrafzaryouh/CVE-2026-106173](https://github.com/ashrafzaryouh/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-106173.svg)
 
+## CVE-2026-111760
+
+- [https://github.com/SSJCorpSec/cve-2026-111760-40b639e0](https://github.com/SSJCorpSec/cve-2026-111760-40b639e0) : ![starts](https://img.shields.io/github/stars/SSJCorpSec/cve-2026-111760-40b639e0.svg) ![forks](https://img.shields.io/github/forks/SSJCorpSec/cve-2026-111760-40b639e0.svg)
+
 ## CVE-2026-114552
 > MailEnable parseObjectResponse XML External Entity Processing Information Disclosure Vulnerability. This vulnerability allows remote attackers to disclose sensitive information on affected installations of MailEnable. Authentication is required to exploit this vulnerability.
 
@@ -57,9 +65,28 @@ The specific flaw exists within the implementation of the parseObjectResponse me
 
 - [https://github.com/DeathShotXD/SIP2Shell](https://github.com/DeathShotXD/SIP2Shell) : ![starts](https://img.shields.io/github/stars/DeathShotXD/SIP2Shell.svg) ![forks](https://img.shields.io/github/forks/DeathShotXD/SIP2Shell.svg)
 
+## CVE-2026-123751
+> The WP Duplicate  WordPress plugin through 1.1.11 does not properly verify a request authentication value and does not validate the path or type of uploaded files, making it possible for unauthenticated attackers to write arbitrary files to the server and achieve remote code execution. This vulnerability is being actively exploited in the wild.
+
+- [https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755](https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755) : ![starts](https://img.shields.io/github/stars/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755.svg) ![forks](https://img.shields.io/github/forks/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755.svg)
+
 ## CVE-2026-124002
 
 - [https://github.com/fixedbyreboot/CVE-2026-124002-POC](https://github.com/fixedbyreboot/CVE-2026-124002-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-124002-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-124002-POC.svg)
+
+## CVE-2026-126912
+> Buffer overflow in Skia in Google Chrome prior to 157.0.8103.78 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)
+
+- [https://github.com/abraxas/skia-convex-oob](https://github.com/abraxas/skia-convex-oob) : ![starts](https://img.shields.io/github/stars/abraxas/skia-convex-oob.svg) ![forks](https://img.shields.io/github/forks/abraxas/skia-convex-oob.svg)
+
+## CVE-2026-39755
+> Subscriber Arbitrary File Upload in WP Duplicate &lt;= 1.1.11 versions.
+
+- [https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755](https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755) : ![starts](https://img.shields.io/github/stars/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755.svg) ![forks](https://img.shields.io/github/forks/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755.svg)
+
+## CVE-2026-41091
+
+- [https://github.com/ashrafzaryouh/CVE-2026-41091](https://github.com/ashrafzaryouh/CVE-2026-41091) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-41091.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-41091.svg)
 
 ## CVE-2026-48908
 > A vulnerability in SP Page Builder for Joomla allows unauthenticated users to upload arbitrary files, ultimately resulting in the upload and execution of PHP code.
@@ -74,6 +101,10 @@ The specific flaw exists within the implementation of the parseObjectResponse me
 > WordPress 6.9.x before 6.9.5 and 7.0.x before 7.0.2 is affected by a REST API batch endpoint route confusion issue which, combined with the author__not_in WP_Query SQL Injection (CVE-2026-60137), could allow an attacker to perform SQL Injection and achieve Remote Code Execution.
 
 - [https://github.com/ashrafzaryouh/CVE-2026-63030](https://github.com/ashrafzaryouh/CVE-2026-63030) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-63030.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-63030.svg)
+
+## CVE-2026-73296
+
+- [https://github.com/ashrafzaryouh/CVE-2026-73296](https://github.com/ashrafzaryouh/CVE-2026-73296) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-73296.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-73296.svg)
 
 ## CVE-2026-9082
 > Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) vulnerability in Drupal Drupal core allows SQL Injection.

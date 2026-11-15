@@ -3581,3 +3581,6 @@
 {"cve_id": "CVE-2026-2441", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T19:33:28Z", "url": "https://github.com/lukasz-rybak/CVE-2026-24419", "url_ids": ["CVE-2026-24419"]}
 {"cve_id": "CVE-2026-2441", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T19:33:28Z", "url": "https://github.com/lukasz-rybak/CVE-2026-24417", "url_ids": ["CVE-2026-24417"]}
 {"cve_id": "CVE-2026-6009", "reason": "prefix_conflict_evidenced", "ts": "2026-11-14T19:42:22Z", "url": "https://github.com/oscerd/CVE-2026-60093", "url_ids": ["CVE-2026-60093"]}
+{"cve_id": "CVE-2022-3653", "reason": "prefix_conflict_evidenced", "ts": "2026-11-15T02:03:33Z", "url": "https://github.com/Malwareman007/CVE-2022-36537", "url_ids": ["CVE-2022-36537"]}
+{"cve_id": "CVE-2022-3653", "reason": "prefix_conflict_evidenced", "ts": "2026-11-15T02:03:33Z", "url": "https://github.com/agnihackers/CVE-2022-36537-EXPLOIT", "url_ids": ["CVE-2022-36537"]}
+{"cve_id": "CVE-2022-3653", "reason": "prefix_conflict_evidenced", "ts": "2026-11-15T02:03:33Z", "url": "https://github.com/lutrasecurity/CVE-2022-36532", "url_ids": ["CVE-2022-36532"]}

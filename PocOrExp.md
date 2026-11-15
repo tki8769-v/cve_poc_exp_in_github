@@ -49,6 +49,11 @@
 
 - [https://github.com/googlesky/CVE-2026-126937](https://github.com/googlesky/CVE-2026-126937) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126937.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126937.svg)
 
+## CVE-2026-126912
+> Buffer overflow in Skia in Google Chrome prior to 157.0.8103.78 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)
+
+- [https://github.com/abraxas/skia-convex-oob](https://github.com/abraxas/skia-convex-oob) : ![starts](https://img.shields.io/github/stars/abraxas/skia-convex-oob.svg) ![forks](https://img.shields.io/github/forks/abraxas/skia-convex-oob.svg)
+
 ## CVE-2026-126837
 > A validation flaw in the DNS SRV host discovery of the MongoDB Node.js driver may cause the driver to connect to a host outside the expected domain. For a mongodb+srv:// connection string, the driver checks each host name in the DNS SRV response against the domain of the connection string. The driver then builds the connection address from the original name, in which certain characters end the host name early. An unauthenticated party who can forge or change the DNS SRV response may redirect the
 
@@ -218,6 +223,11 @@
 > Server-Side Request Forgery (SSRF) vulnerability in Apache Axis2/Java. An unauthenticated caller could supply a non-anonymous WS-Addressing wsa:ReplyTo or wsa:FaultTo address, and Axis2 would open a connection to that address to deliver the response or fault, allowing requests to internal hosts and delivery of response content to a host of the caller&#x27;s choosing. From 2.0.2, decoupled responses are refused unless allowNonAnonymousResponseEndpoints is enabled, and enabled endpoints are restricted 
 
 - [https://github.com/googlesky/CVE-2026-123753](https://github.com/googlesky/CVE-2026-123753) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-123753.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-123753.svg)
+
+## CVE-2026-123751
+> The WP Duplicate  WordPress plugin through 1.1.11 does not properly verify a request authentication value and does not validate the path or type of uploaded files, making it possible for unauthenticated attackers to write arbitrary files to the server and achieve remote code execution. This vulnerability is being actively exploited in the wild.
+
+- [https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755](https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755) : ![starts](https://img.shields.io/github/stars/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755.svg) ![forks](https://img.shields.io/github/forks/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755.svg)
 
 ## CVE-2026-123618
 > ABP Framework before 10.7.1 contains an authentication bypass vulnerability that skips account state and two-factor checks when password login succeeds through a registered IExternalLoginProvider. Attackers holding the external directory password for deactivated, locked, or 2FA-protected accounts can obtain valid access tokens from the /connect/token password grant.
@@ -1203,6 +1213,8 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 - [https://github.com/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce](https://github.com/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-111760-git-submodule-symlink-rce.svg)
 
 - [https://github.com/jayeshpuri/CVE-2026-111760](https://github.com/jayeshpuri/CVE-2026-111760) : ![starts](https://img.shields.io/github/stars/jayeshpuri/CVE-2026-111760.svg) ![forks](https://img.shields.io/github/forks/jayeshpuri/CVE-2026-111760.svg)
+
+- [https://github.com/SSJCorpSec/cve-2026-111760-40b639e0](https://github.com/SSJCorpSec/cve-2026-111760-40b639e0) : ![starts](https://img.shields.io/github/stars/SSJCorpSec/cve-2026-111760-40b639e0.svg) ![forks](https://img.shields.io/github/forks/SSJCorpSec/cve-2026-111760-40b639e0.svg)
 
 ## CVE-2026-111585
 > An integer overflow in the remote-control
@@ -7876,6 +7888,8 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
  Microsoft UFO open-source framework for intelligent automation across devices and platforms. Prior to 3.0.8, create_mobile_data_collection_server and create_mobile_action_server in ufo/client/mcp/http_servers/mobile_mcp_server.py exposed Streamable HTTP MCP services on TCP ports 8020 and 8021 without authentication, allowing an unauthenticated remote attacker to invoke capture_screenshot, get_ui_tree, tap, swipe, type_text, launch_app, press_key, and click_control against an ADB-connected Android device, disclose screen and device data, and modify device state. This issue is fixed in version 3.0.8.
 
 - [https://github.com/0xBlackash/CVE-2026-73296](https://github.com/0xBlackash/CVE-2026-73296) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-73296.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-73296.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-73296](https://github.com/ashrafzaryouh/CVE-2026-73296) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-73296.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-73296.svg)
 
 ## CVE-2026-73292
  Semaphore UI is a web interface for managing DevOps tools. Prior to 2.18.21, the /api/users/{id}/password endpoint accepts a cross-site request using the authenticated user's semaphore session cookie without CSRF protection or current-password confirmation, allowing an unauthenticated attacker to change an administrator's or another user's password after user interaction. This issue is fixed in version 2.18.21.
@@ -16584,6 +16598,8 @@ Users are recommended to upgrade to version [FIXED_VERSION], which fixes the iss
 
 - [https://github.com/ridhinva/defender-privilege-escalation-scanner](https://github.com/ridhinva/defender-privilege-escalation-scanner) : ![starts](https://img.shields.io/github/stars/ridhinva/defender-privilege-escalation-scanner.svg) ![forks](https://img.shields.io/github/forks/ridhinva/defender-privilege-escalation-scanner.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-41091](https://github.com/ashrafzaryouh/CVE-2026-41091) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-41091.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-41091.svg)
+
 ## CVE-2026-41089
  Stack-based buffer overflow in Windows Netlogon allows an unauthorized attacker to execute code over a network.
 
@@ -17094,6 +17110,11 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 - [https://github.com/Ghost-Bx1/Fortinet-Exploits-CVE-2026-39808-106173-107656](https://github.com/Ghost-Bx1/Fortinet-Exploits-CVE-2026-39808-106173-107656) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/Fortinet-Exploits-CVE-2026-39808-106173-107656.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/Fortinet-Exploits-CVE-2026-39808-106173-107656.svg)
 
 - [https://github.com/ashrafzaryouh/CVE-2026-39808](https://github.com/ashrafzaryouh/CVE-2026-39808) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-39808.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-39808.svg)
+
+## CVE-2026-39755
+> Subscriber Arbitrary File Upload in WP Duplicate &lt;= 1.1.11 versions.
+
+- [https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755](https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755) : ![starts](https://img.shields.io/github/stars/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755.svg) ![forks](https://img.shields.io/github/forks/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755.svg)
 
 ## CVE-2026-39732
 > Unauthenticated SQL Injection in Transliterator &lt;= 2.5.13 versions.
@@ -102213,6 +102234,8 @@ There is a vulnerability in 21.328.01.00.00 version of the E5573Cs-322. Remote a
 - [https://github.com/lvyoshino/CVE-2018-4878](https://github.com/lvyoshino/CVE-2018-4878) : ![starts](https://img.shields.io/github/stars/lvyoshino/CVE-2018-4878.svg) ![forks](https://img.shields.io/github/forks/lvyoshino/CVE-2018-4878.svg)
 
 - [https://github.com/tsondt/CVE-2018-4878](https://github.com/tsondt/CVE-2018-4878) : ![starts](https://img.shields.io/github/stars/tsondt/CVE-2018-4878.svg) ![forks](https://img.shields.io/github/forks/tsondt/CVE-2018-4878.svg)
+
+- [https://github.com/msmacu/cve-2018-4878-adobe-flash-drm-uaf-0day](https://github.com/msmacu/cve-2018-4878-adobe-flash-drm-uaf-0day) : ![starts](https://img.shields.io/github/stars/msmacu/cve-2018-4878-adobe-flash-drm-uaf-0day.svg) ![forks](https://img.shields.io/github/forks/msmacu/cve-2018-4878-adobe-flash-drm-uaf-0day.svg)
 
 ## CVE-2018-4441
  A memory corruption issue was addressed with improved memory handling. This issue affected versions prior to iOS 12.1.1, tvOS 12.1.1, watchOS 5.1.2, Safari 12.0.2, iTunes 12.9.2 for Windows, iCloud for Windows 7.9.

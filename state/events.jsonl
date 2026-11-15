@@ -11803,3 +11803,21 @@
 {"cve_id": "CVE-2026-82032", "ts": "2026-11-15T01:30:38Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2024-47176", "ts": "2026-11-15T01:36:02Z", "type": "new_poc", "url": "https://github.com/Kokila-Chandramohan/cups-cve-2024-47176"}
 {"cve_id": "CVE-2026-48908", "ts": "2026-11-15T01:42:56Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-48908"}
+{"cve_id": "CVE-2026-100229", "ts": "2026-11-15T01:46:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117474", "ts": "2026-11-15T01:49:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117475", "ts": "2026-11-15T01:49:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117476", "ts": "2026-11-15T01:49:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123133", "ts": "2026-11-15T01:51:24Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124617", "ts": "2026-11-15T01:52:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-125324", "ts": "2026-11-15T01:52:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-126082", "ts": "2026-11-15T01:52:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-59599", "ts": "2026-11-15T01:54:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-70641", "ts": "2026-11-15T01:54:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-82032", "ts": "2026-11-15T01:54:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123751", "ts": "2026-11-15T01:59:24Z", "type": "new_poc", "url": "https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755"}
+{"cve_id": "CVE-2026-39755", "ts": "2026-11-15T01:59:24Z", "type": "new_poc", "url": "https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755"}
+{"cve_id": "CVE-2026-111760", "ts": "2026-11-15T01:59:24Z", "type": "new_poc", "url": "https://github.com/SSJCorpSec/cve-2026-111760-40b639e0"}
+{"cve_id": "CVE-2026-126912", "ts": "2026-11-15T01:59:25Z", "type": "new_poc", "url": "https://github.com/abraxas/skia-convex-oob"}
+{"cve_id": "CVE-2026-73296", "ts": "2026-11-15T02:01:45Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-73296"}
+{"cve_id": "CVE-2026-41091", "ts": "2026-11-15T02:05:41Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-41091"}
+{"cve_id": "CVE-2018-4878", "ts": "2026-11-15T02:06:48Z", "type": "new_poc", "url": "https://github.com/msmacu/cve-2018-4878-adobe-flash-drm-uaf-0day"}
