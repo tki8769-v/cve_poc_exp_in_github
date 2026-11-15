@@ -19,6 +19,10 @@
 
 - [https://github.com/googlesky/CVE-2026-129353](https://github.com/googlesky/CVE-2026-129353) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129353.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129353.svg)
 
+## CVE-2026-129352
+
+- [https://github.com/googlesky/CVE-2026-129352](https://github.com/googlesky/CVE-2026-129352) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129352.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129352.svg)
+
 ## CVE-2026-129351
 
 - [https://github.com/googlesky/CVE-2026-129351](https://github.com/googlesky/CVE-2026-129351) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129351.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129351.svg)
@@ -1666,6 +1670,8 @@ This issue has been fixed in version 2.5.
 
 - [https://github.com/Ghost-Bx1/cve-2026-110264-gitlab-regex-rce](https://github.com/Ghost-Bx1/cve-2026-110264-gitlab-regex-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-110264-gitlab-regex-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-110264-gitlab-regex-rce.svg)
 
+- [https://github.com/mohammadzarnian1357/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE](https://github.com/mohammadzarnian1357/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE) : ![starts](https://img.shields.io/github/stars/mohammadzarnian1357/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE.svg) ![forks](https://img.shields.io/github/forks/mohammadzarnian1357/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE.svg)
+
 ## CVE-2026-110200
 > IBM Langflow OSS 1.0.0 through 1.12.4 could allow a remote authenticated attacker to obtain sensitive information due to cleartext storage of sensitive information.
 
@@ -2778,6 +2784,7 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 - [https://github.com/maxprog-svg/CVE-2026-107406](https://github.com/maxprog-svg/CVE-2026-107406) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-107406.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-107406.svg)
 
 ## CVE-2026-107360
+> A flaw was found in rubygem-safemode. Compound assignment expressions in sandboxed code are evaluated without mediating method calls through the Jail allow-list. An authenticated attacker who can supply template content can invoke arbitrary no-argument methods on objects exposed to the template renderer without Jail mediation, including destructive operations such as host deletion and disclosure of non-allow-listed object state.
 
 - [https://github.com/googlesky/CVE-2026-107360](https://github.com/googlesky/CVE-2026-107360) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-107360.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-107360.svg)
 

@@ -11850,3 +11850,16 @@
 {"cve_id": "CVE-2026-123158", "ts": "2026-11-15T08:07:22Z", "type": "new_poc", "url": "https://github.com/Hika-sec/sshole-scanner"}
 {"cve_id": "CVE-2026-123158", "ts": "2026-11-15T08:07:22Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-123158"}
 {"cve_id": "CVE-2026-123158", "ts": "2026-11-15T08:07:24Z", "type": "new_poc", "url": "https://github.com/The-DevOps-Daily/alpine-sshd-check"}
+{"cve_id": "CVE-2026-100229", "ts": "2026-11-15T08:16:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117474", "ts": "2026-11-15T08:20:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117475", "ts": "2026-11-15T08:20:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117476", "ts": "2026-11-15T08:20:05Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123133", "ts": "2026-11-15T08:22:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124617", "ts": "2026-11-15T08:23:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-125324", "ts": "2026-11-15T08:24:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-126082", "ts": "2026-11-15T08:24:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-59599", "ts": "2026-11-15T08:27:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-70641", "ts": "2026-11-15T08:27:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-82032", "ts": "2026-11-15T08:27:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-129352", "ts": "2026-11-15T08:34:17Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-129352"}
+{"cve_id": "CVE-2026-110264", "ts": "2026-11-15T08:42:35Z", "type": "new_poc", "url": "https://github.com/mohammadzarnian1357/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE"}

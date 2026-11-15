@@ -62,6 +62,11 @@
 
 - [https://github.com/Rat5ak/PHP2SHELL-PREAUTH-RCE](https://github.com/Rat5ak/PHP2SHELL-PREAUTH-RCE) : ![starts](https://img.shields.io/github/stars/Rat5ak/PHP2SHELL-PREAUTH-RCE.svg) ![forks](https://img.shields.io/github/forks/Rat5ak/PHP2SHELL-PREAUTH-RCE.svg)
 
+## CVE-2026-110264
+> An issue has been discovered in GitLab CE/EE affecting all versions from 7.0 before 18.11.13, 19.0 before 19.0.10, 19.1 before 19.1.9, 19.2 before 19.2.9, 19.3 before 19.3.6, 19.4 before 19.4.3, and 19.5 before 19.5.1 that, under certain conditions, could have allowed an unauthenticated user to execute arbitrary code on the GitLab server due to integer overflow when compiling a specially crafted regular expression.
+
+- [https://github.com/mohammadzarnian1357/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE](https://github.com/mohammadzarnian1357/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE) : ![starts](https://img.shields.io/github/stars/mohammadzarnian1357/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE.svg) ![forks](https://img.shields.io/github/forks/mohammadzarnian1357/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE.svg)
+
 ## CVE-2026-111760
 
 - [https://github.com/SSJCorpSec/cve-2026-111760-40b639e0](https://github.com/SSJCorpSec/cve-2026-111760-40b639e0) : ![starts](https://img.shields.io/github/stars/SSJCorpSec/cve-2026-111760-40b639e0.svg) ![forks](https://img.shields.io/github/forks/SSJCorpSec/cve-2026-111760-40b639e0.svg)
@@ -136,6 +141,10 @@ The specific flaw exists within the implementation of the parseObjectResponse me
 ## CVE-2026-129351
 
 - [https://github.com/googlesky/CVE-2026-129351](https://github.com/googlesky/CVE-2026-129351) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129351.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129351.svg)
+
+## CVE-2026-129352
+
+- [https://github.com/googlesky/CVE-2026-129352](https://github.com/googlesky/CVE-2026-129352) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129352.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129352.svg)
 
 ## CVE-2026-129353
 
