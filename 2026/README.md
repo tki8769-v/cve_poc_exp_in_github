@@ -55,14 +55,17 @@
 - [https://github.com/R00t3dbyFa17h/security-advisories](https://github.com/R00t3dbyFa17h/security-advisories) : ![starts](https://img.shields.io/github/stars/R00t3dbyFa17h/security-advisories.svg) ![forks](https://img.shields.io/github/forks/R00t3dbyFa17h/security-advisories.svg)
 
 ## CVE-2026-128046
+> OpenMage magento-lts 20.17.0 before 20.18.2 and 21.0.0-beta1 before 21.0.0-beta3 contains an unrestricted file upload vulnerability because the general/file/protected_extensions blocklist omits phar, php8, and phps. Unauthenticated attackers can upload a .phar file through a product File custom option to a predictable media/custom_options path and request it directly to execute code on servers that map .phar to PHP and serve that directory.
 
 - [https://github.com/googlesky/CVE-2026-128046](https://github.com/googlesky/CVE-2026-128046) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128046.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128046.svg)
 
 ## CVE-2026-128027
+> FrankenPHP Docker images before 1.1.11 were rebuilt only when new base image tags were created, so security fixes that Alpine, PHP, and Go applied under existing tags were not propagated. Remote attackers could exploit known flaws in the stale system libraries, such as CVE-2025-15467 in libcrypto3, to execute code.
 
 - [https://github.com/googlesky/CVE-2026-128027](https://github.com/googlesky/CVE-2026-128027) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128027.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128027.svg)
 
 ## CVE-2026-128014
+> FrankenPHP standalone static binaries 1.8.0 before 1.13.2 bundle the PHP brotli extension statically linked with Brotli 1.2.0, whose decoder contains an out-of-bounds write (CVE-2026-111497). Unauthenticated remote attackers can send crafted data to applications that pass it to brotli_uncompress_add() to crash the entire FrankenPHP process, and possibly cause memory disclosure or code execution.
 
 - [https://github.com/googlesky/CVE-2026-128014](https://github.com/googlesky/CVE-2026-128014) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128014.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128014.svg)
 
@@ -77,6 +80,7 @@
 - [https://github.com/evenomn/CVE-2026-126997](https://github.com/evenomn/CVE-2026-126997) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-126997.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-126997.svg)
 
 ## CVE-2026-126937
+> Zipline before 4.6.5 contains a TOCTOU race condition in the POST /api/setup endpoint that allows unauthenticated attackers to create multiple SUPERADMIN accounts by racing concurrent requests before the firstSetup flag is reset. Attackers can send simultaneous requests with spoofed X-Forwarded-For headers during the argon2 hashing window to gain full administrative control of the instance.
 
 - [https://github.com/googlesky/CVE-2026-126937](https://github.com/googlesky/CVE-2026-126937) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126937.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126937.svg)
 
@@ -136,18 +140,22 @@
 - [https://github.com/zeetee1235/CVE-2026-126497](https://github.com/zeetee1235/CVE-2026-126497) : ![starts](https://img.shields.io/github/stars/zeetee1235/CVE-2026-126497.svg) ![forks](https://img.shields.io/github/forks/zeetee1235/CVE-2026-126497.svg)
 
 ## CVE-2026-126473
+> OpenEMR before 8.4.0 contains OAuth scope canonicalization and containment flaws that allow unauthenticated attackers to obtain unapproved system-level FHIR access. Attackers can register a colon-form system:Patient.read client that bypasses approval, then request unregistered system/Patient.write scope to read, modify, and create Patient records.
 
 - [https://github.com/googlesky/CVE-2026-126473](https://github.com/googlesky/CVE-2026-126473) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126473.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126473.svg)
 
 ## CVE-2026-126274
+> NocoDB before 2026.08.0 contains a stored cross-site scripting vulnerability that allows authenticated Creator users to inject script by embedding markup in column or table titles. The Delete.vue confirmation dialog renders these titles through an unescaped innerHTML binding, executing script when a victim deletes an external-source table to steal session tokens from localStorage.
 
 - [https://github.com/googlesky/CVE-2026-126274](https://github.com/googlesky/CVE-2026-126274) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126274.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126274.svg)
 
 ## CVE-2026-126273
+> NocoDB before 2026.09.0 contains a privilege escalation vulnerability in initAdminFromEnv.ts that silently skips super-admin bootstrap when the admin password environment variable is empty. Unauthenticated attackers can call the public signup endpoint first on a fresh instance to receive Creator and Super Admin roles, gaining full administrative control.
 
 - [https://github.com/googlesky/CVE-2026-126273](https://github.com/googlesky/CVE-2026-126273) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126273.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126273.svg)
 
 ## CVE-2026-126269
+> NocoDB before 2026.09.0 contains a stored cross-site scripting vulnerability that allows authenticated Editor users to execute scripts by storing crafted attachment MIME types like text/html;image/png. Attackers can write the value through the records API so the /dltemp signed URL serves HTML inline, stealing session tokens from localStorage to impersonate victims.
 
 - [https://github.com/googlesky/CVE-2026-126269](https://github.com/googlesky/CVE-2026-126269) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126269.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126269.svg)
 
@@ -593,6 +601,7 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 - [https://github.com/federiconbaez/cortex9-nuxt-dot-segment-middleware-bypass-model](https://github.com/federiconbaez/cortex9-nuxt-dot-segment-middleware-bypass-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-nuxt-dot-segment-middleware-bypass-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-nuxt-dot-segment-middleware-bypass-model.svg)
 
 ## CVE-2026-119077
+> The ELEX WordPress HelpDesk &amp; Customer Ticketing System plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 3.3.9 via the &#x27;form (specifically the attacker-controlled ticket_label field inside the url-encoded form string)&#x27; parameter parameter. This is due to missing server-side authentication and the absence of a class allowlist on deserialization, with the only guard being a nonce publicly emitted on any page carrying the [wsdesk_support] shortcode. T
 
 - [https://github.com/im0xfay/CVE-2026-119077](https://github.com/im0xfay/CVE-2026-119077) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-119077.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-119077.svg)
 
@@ -14428,6 +14437,8 @@ Not affected:
 - [https://github.com/isaca0315/CVE-2026-44578-next-js-ssrf](https://github.com/isaca0315/CVE-2026-44578-next-js-ssrf) : ![starts](https://img.shields.io/github/stars/isaca0315/CVE-2026-44578-next-js-ssrf.svg) ![forks](https://img.shields.io/github/forks/isaca0315/CVE-2026-44578-next-js-ssrf.svg)
 
 - [https://github.com/panchocosil/verify-ghsa-c4j6-fc7j-m34r](https://github.com/panchocosil/verify-ghsa-c4j6-fc7j-m34r) : ![starts](https://img.shields.io/github/stars/panchocosil/verify-ghsa-c4j6-fc7j-m34r.svg) ![forks](https://img.shields.io/github/forks/panchocosil/verify-ghsa-c4j6-fc7j-m34r.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-44578](https://github.com/ashrafzaryouh/CVE-2026-44578) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-44578.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-44578.svg)
 
 ## CVE-2026-44577
  Next.js is a React framework for building full-stack web applications. From 10.0.0 to before 15.5.16 and 16.2.5, when self-hosting Next.js with the default image loader, the Image Optimization API fetches local images entirely into memory without enforcing a maximum size limit. An attacker could cause out-of-memory conditions by requesting large local assets from the /_next/image endpoint that match the images.localPatterns configuration (by default, all patterns are allowed). This vulnerability is fixed in 15.5.16 and 16.2.5.

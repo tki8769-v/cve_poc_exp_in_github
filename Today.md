@@ -269,6 +269,10 @@ problems:
 - [https://github.com/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal](https://github.com/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal) : ![starts](https://img.shields.io/github/stars/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal.svg) ![forks](https://img.shields.io/github/forks/CarlenGoss/Galaxy-Tab-S10-FE-root-temporal.svg)
 - [https://github.com/Upphittare/vivo-pd2324-ghostlock-notes](https://github.com/Upphittare/vivo-pd2324-ghostlock-notes) : ![starts](https://img.shields.io/github/stars/Upphittare/vivo-pd2324-ghostlock-notes.svg) ![forks](https://img.shields.io/github/forks/Upphittare/vivo-pd2324-ghostlock-notes.svg)
 
+## CVE-2026-44578
+
+- [https://github.com/ashrafzaryouh/CVE-2026-44578](https://github.com/ashrafzaryouh/CVE-2026-44578) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-44578.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-44578.svg)
+
 ## CVE-2026-46242
 > In the Linux kernel, the following vulnerability has been resolved:
 
