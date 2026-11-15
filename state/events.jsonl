@@ -11916,3 +11916,8 @@
 {"cve_id": "CVE-2026-129359", "ts": "2026-11-15T21:53:56Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-129359"}
 {"cve_id": "CVE-2026-129360", "ts": "2026-11-15T21:53:56Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-129360"}
 {"cve_id": "CVE-2026-44578", "ts": "2026-11-15T22:17:15Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-44578"}
+{"cve_id": "CVE-2007-6750", "ts": "2026-11-15T22:37:18Z", "type": "new_poc", "url": "https://github.com/mr-zonev4/vuln-report-slowloris-CVE-2007-6750"}
+{"cve_id": "CVE-2025-29927", "ts": "2026-11-15T22:37:19Z", "type": "new_poc", "url": "https://github.com/Seif-Abdelhamid/nextjs-middleware-bypass-lab"}
+{"cve_id": "CVE-2020-14343", "ts": "2026-11-15T22:37:50Z", "type": "new_poc", "url": "https://github.com/qcri/sbom-install-sources-vex"}
+{"cve_id": "CVE-2026-64531", "ts": "2026-11-15T22:45:34Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-64531"}
+{"cve_id": "CVE-2026-20127", "ts": "2026-11-15T22:46:30Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-20127"}

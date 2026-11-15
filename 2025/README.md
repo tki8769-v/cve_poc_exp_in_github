@@ -9311,6 +9311,8 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
 
 - [https://github.com/alinaclark672377250/CVE-2025-29927-POC](https://github.com/alinaclark672377250/CVE-2025-29927-POC) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-29927-POC.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-29927-POC.svg)
 
+- [https://github.com/Seif-Abdelhamid/nextjs-middleware-bypass-lab](https://github.com/Seif-Abdelhamid/nextjs-middleware-bypass-lab) : ![starts](https://img.shields.io/github/stars/Seif-Abdelhamid/nextjs-middleware-bypass-lab.svg) ![forks](https://img.shields.io/github/forks/Seif-Abdelhamid/nextjs-middleware-bypass-lab.svg)
+
 ## CVE-2025-29824
  Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally.
 

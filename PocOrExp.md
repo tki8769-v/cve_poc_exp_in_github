@@ -9666,6 +9666,8 @@ ownership and truncates on close failure.
 
 - [https://github.com/suominen/ovswrap](https://github.com/suominen/ovswrap) : ![starts](https://img.shields.io/github/stars/suominen/ovswrap.svg) ![forks](https://img.shields.io/github/forks/suominen/ovswrap.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-64531](https://github.com/ashrafzaryouh/CVE-2026-64531) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-64531.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-64531.svg)
+
 ## CVE-2026-64507
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -24123,6 +24125,8 @@ This vulnerability exists because the peering authentication mechanism in an aff
 
 - [https://github.com/anuththara2007-W/CVE-2026-20127-Exploit-Extension](https://github.com/anuththara2007-W/CVE-2026-20127-Exploit-Extension) : ![starts](https://img.shields.io/github/stars/anuththara2007-W/CVE-2026-20127-Exploit-Extension.svg) ![forks](https://img.shields.io/github/forks/anuththara2007-W/CVE-2026-20127-Exploit-Extension.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-20127](https://github.com/ashrafzaryouh/CVE-2026-20127) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-20127.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-20127.svg)
+
 ## CVE-2026-20079
  A vulnerability in the web interface of Cisco Secure Firewall Management Center (FMC) Software could allow an unauthenticated, remote attacker to bypass authentication and execute script files on an affected device to obtain root access to the underlying operating system.&nbsp;
 
@@ -38466,6 +38470,8 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
 - [https://github.com/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927](https://github.com/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927) : ![starts](https://img.shields.io/github/stars/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927.svg) ![forks](https://img.shields.io/github/forks/dexteon/nextjs-middleware-auth-bypass-cve-2025-29927.svg)
 
 - [https://github.com/alinaclark672377250/CVE-2025-29927-POC](https://github.com/alinaclark672377250/CVE-2025-29927-POC) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-29927-POC.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-29927-POC.svg)
+
+- [https://github.com/Seif-Abdelhamid/nextjs-middleware-bypass-lab](https://github.com/Seif-Abdelhamid/nextjs-middleware-bypass-lab) : ![starts](https://img.shields.io/github/stars/Seif-Abdelhamid/nextjs-middleware-bypass-lab.svg) ![forks](https://img.shields.io/github/forks/Seif-Abdelhamid/nextjs-middleware-bypass-lab.svg)
 
 ## CVE-2025-29824
  Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally.
@@ -89029,6 +89035,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/saina15/cve-2020-14343-lab](https://github.com/saina15/cve-2020-14343-lab) : ![starts](https://img.shields.io/github/stars/saina15/cve-2020-14343-lab.svg) ![forks](https://img.shields.io/github/forks/saina15/cve-2020-14343-lab.svg)
 
+- [https://github.com/qcri/sbom-install-sources-vex](https://github.com/qcri/sbom-install-sources-vex) : ![starts](https://img.shields.io/github/stars/qcri/sbom-install-sources-vex.svg) ![forks](https://img.shields.io/github/forks/qcri/sbom-install-sources-vex.svg)
+
 ## CVE-2020-14321
  In Moodle before 3.9.1, 3.8.4, 3.7.7 and 3.5.13, teachers of a course were able to assign themselves the manager role within that course.
 
@@ -112512,6 +112520,8 @@ Exploitation of this vulnerability requires that a user or application run or in
 - [https://github.com/RoflSecurity/nodeloris](https://github.com/RoflSecurity/nodeloris) : ![starts](https://img.shields.io/github/stars/RoflSecurity/nodeloris.svg) ![forks](https://img.shields.io/github/forks/RoflSecurity/nodeloris.svg)
 
 - [https://github.com/michou79/noc21220-cybersecurity-assessment](https://github.com/michou79/noc21220-cybersecurity-assessment) : ![starts](https://img.shields.io/github/stars/michou79/noc21220-cybersecurity-assessment.svg) ![forks](https://img.shields.io/github/forks/michou79/noc21220-cybersecurity-assessment.svg)
+
+- [https://github.com/mr-zonev4/vuln-report-slowloris-CVE-2007-6750](https://github.com/mr-zonev4/vuln-report-slowloris-CVE-2007-6750) : ![starts](https://img.shields.io/github/stars/mr-zonev4/vuln-report-slowloris-CVE-2007-6750.svg) ![forks](https://img.shields.io/github/forks/mr-zonev4/vuln-report-slowloris-CVE-2007-6750.svg)
 
 ## CVE-2007-6638
  March Networks DVR 3204 stores sensitive information under the web root with insufficient access control, which allows remote attackers to obtain usernames, passwords, device names, and IP addresses via a direct request for scripts/logfiles.tar.gz.

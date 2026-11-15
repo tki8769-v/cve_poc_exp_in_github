@@ -2181,6 +2181,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/saina15/cve-2020-14343-lab](https://github.com/saina15/cve-2020-14343-lab) : ![starts](https://img.shields.io/github/stars/saina15/cve-2020-14343-lab.svg) ![forks](https://img.shields.io/github/forks/saina15/cve-2020-14343-lab.svg)
 
+- [https://github.com/qcri/sbom-install-sources-vex](https://github.com/qcri/sbom-install-sources-vex) : ![starts](https://img.shields.io/github/stars/qcri/sbom-install-sources-vex.svg) ![forks](https://img.shields.io/github/forks/qcri/sbom-install-sources-vex.svg)
+
 ## CVE-2020-14321
  In Moodle before 3.9.1, 3.8.4, 3.7.7 and 3.5.13, teachers of a course were able to assign themselves the manager role within that course.
 

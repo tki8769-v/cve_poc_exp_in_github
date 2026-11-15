@@ -3882,3 +3882,5 @@
 {"cve_id": "CVE-2022-4140", "reason": "prefix_conflict_evidenced", "ts": "2026-11-15T16:39:17Z", "url": "https://github.com/fdjy1234/CVE-2022-41404-DoS-Protection", "url_ids": ["CVE-2022-41404"]}
 {"cve_id": "CVE-2026-3497", "reason": "prefix_conflict_evidenced", "ts": "2026-11-15T17:03:34Z", "url": "https://github.com/romain-deperne/CVE-2026-34975", "url_ids": ["CVE-2026-34975"]}
 {"cve_id": "CVE-2025-2304", "reason": "prefix_conflict_evidenced", "ts": "2026-11-15T17:05:21Z", "url": "https://github.com/GabrieleDattile/CVE-2025-23040", "url_ids": ["CVE-2025-23040"]}
+{"cve_id": "CVE-2018-1058", "reason": "prefix_conflict_evidenced", "ts": "2026-11-15T22:45:29Z", "url": "https://github.com/MrTaherAmine/CVE-2018-10583", "url_ids": ["CVE-2018-10583"]}
+{"cve_id": "CVE-2018-1058", "reason": "prefix_conflict_evidenced", "ts": "2026-11-15T22:45:29Z", "url": "https://github.com/octodi/CVE-2018-10583", "url_ids": ["CVE-2018-10583"]}

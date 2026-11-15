@@ -1,4 +1,8 @@
 # Update 2026-11-15
+## CVE-2007-6750
+
+- [https://github.com/mr-zonev4/vuln-report-slowloris-CVE-2007-6750](https://github.com/mr-zonev4/vuln-report-slowloris-CVE-2007-6750) : ![starts](https://img.shields.io/github/stars/mr-zonev4/vuln-report-slowloris-CVE-2007-6750.svg) ![forks](https://img.shields.io/github/forks/mr-zonev4/vuln-report-slowloris-CVE-2007-6750.svg)
+
 ## CVE-2014-0160
 
 - [https://github.com/ashrafzaryouh/CVE-2014-0160](https://github.com/ashrafzaryouh/CVE-2014-0160) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2014-0160.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2014-0160.svg)
@@ -10,6 +14,10 @@
 ## CVE-2018-4878
 
 - [https://github.com/msmacu/cve-2018-4878-adobe-flash-drm-uaf-0day](https://github.com/msmacu/cve-2018-4878-adobe-flash-drm-uaf-0day) : ![starts](https://img.shields.io/github/stars/msmacu/cve-2018-4878-adobe-flash-drm-uaf-0day.svg) ![forks](https://img.shields.io/github/forks/msmacu/cve-2018-4878-adobe-flash-drm-uaf-0day.svg)
+
+## CVE-2020-14343
+
+- [https://github.com/qcri/sbom-install-sources-vex](https://github.com/qcri/sbom-install-sources-vex) : ![starts](https://img.shields.io/github/stars/qcri/sbom-install-sources-vex.svg) ![forks](https://img.shields.io/github/forks/qcri/sbom-install-sources-vex.svg)
 
 ## CVE-2021-3156
 
@@ -39,6 +47,10 @@
 ## CVE-2025-21479
 
 - [https://github.com/CatXiaoShi/CVE-2025-21479](https://github.com/CatXiaoShi/CVE-2025-21479) : ![starts](https://img.shields.io/github/stars/CatXiaoShi/CVE-2025-21479.svg) ![forks](https://img.shields.io/github/forks/CatXiaoShi/CVE-2025-21479.svg)
+
+## CVE-2025-29927
+
+- [https://github.com/Seif-Abdelhamid/nextjs-middleware-bypass-lab](https://github.com/Seif-Abdelhamid/nextjs-middleware-bypass-lab) : ![starts](https://img.shields.io/github/stars/Seif-Abdelhamid/nextjs-middleware-bypass-lab.svg) ![forks](https://img.shields.io/github/forks/Seif-Abdelhamid/nextjs-middleware-bypass-lab.svg)
 
 ## CVE-2025-5777
 > Insufficient input validation leading to memory overread when the NetScaler is configured as a Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) OR AAA virtual server
@@ -209,6 +221,10 @@ If the program passes a
 
 - [https://github.com/Tharsh2003/INF2005-ACW3-PythonSSL](https://github.com/Tharsh2003/INF2005-ACW3-PythonSSL) : ![starts](https://img.shields.io/github/stars/Tharsh2003/INF2005-ACW3-PythonSSL.svg) ![forks](https://img.shields.io/github/forks/Tharsh2003/INF2005-ACW3-PythonSSL.svg)
 
+## CVE-2026-20127
+
+- [https://github.com/ashrafzaryouh/CVE-2026-20127](https://github.com/ashrafzaryouh/CVE-2026-20127) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-20127.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-20127.svg)
+
 ## CVE-2026-31402
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -308,6 +324,22 @@ eventpoll_release_file() and ran to f_op-&gt;release / file_free()
 > WordPress 6.9.x before 6.9.5 and 7.0.x before 7.0.2 is affected by a REST API batch endpoint route confusion issue which, combined with the author__not_in WP_Query SQL Injection (CVE-2026-60137), could allow an attacker to perform SQL Injection and achieve Remote Code Execution.
 
 - [https://github.com/ashrafzaryouh/CVE-2026-63030](https://github.com/ashrafzaryouh/CVE-2026-63030) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-63030.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-63030.svg)
+
+## CVE-2026-64531
+> In the Linux kernel, the following vulnerability has been resolved:
+
+net: openvswitch: reject oversized nested action attrs
+
+Open vSwitch stores generated flow actions as nlattrs, whose nla_len
+field is u16. Commit a1e64addf3ff (&quot;net: openvswitch: remove
+misbehaving actions length check&quot;) allowed the total sw_flow_actions
+stream to grow beyond 64 KiB, which is valid, but also removed the last
+guard preventing a generated nested action attribute from exceeding
+U16_MAX.
+
+An oversized generated con
+
+- [https://github.com/ashrafzaryouh/CVE-2026-64531](https://github.com/ashrafzaryouh/CVE-2026-64531) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-64531.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-64531.svg)
 
 ## CVE-2026-73296
 
