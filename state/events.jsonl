@@ -11763,3 +11763,30 @@
 {"cve_id": "CVE-2026-59599", "ts": "2026-11-14T19:27:49Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-70641", "ts": "2026-11-14T19:27:59Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-116779", "ts": "2026-11-14T19:33:00Z", "type": "new_poc", "url": "https://github.com/al4n4n/CVE-2026-116779"}
+{"cve_id": "CVE-2026-100229", "ts": "2026-11-15T01:01:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117474", "ts": "2026-11-15T01:03:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117475", "ts": "2026-11-15T01:03:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117476", "ts": "2026-11-15T01:03:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123133", "ts": "2026-11-15T01:05:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124617", "ts": "2026-11-15T01:06:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-126082", "ts": "2026-11-15T01:06:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-59599", "ts": "2026-11-15T01:07:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-70641", "ts": "2026-11-15T01:07:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-82032", "ts": "2026-11-15T01:07:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-4367", "ts": "2026-11-15T01:12:13Z", "type": "new_poc", "url": "https://github.com/SeVen-777777/cve-2024-4367-poc"}
+{"cve_id": "CVE-2026-114552", "ts": "2026-11-15T01:12:16Z", "type": "new_poc", "url": "https://github.com/RossKeddy/CVE-2026-114552"}
+{"cve_id": "CVE-2026-124002", "ts": "2026-11-15T01:12:17Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-124002-POC"}
+{"cve_id": "CVE-2026-105211", "ts": "2026-11-15T01:12:17Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-105211-POC"}
+{"cve_id": "CVE-2026-105642", "ts": "2026-11-15T01:12:18Z", "type": "new_poc", "url": "https://github.com/fixedbyreboot/CVE-2026-105642-POC"}
+{"cve_id": "CVE-2023-25813", "ts": "2026-11-15T01:12:19Z", "type": "new_poc", "url": "https://github.com/junhye-park/homework-sequelize-cve-2023-25813"}
+{"cve_id": "CVE-2021-3156", "ts": "2026-11-15T01:12:20Z", "type": "new_poc", "url": "https://github.com/HanaBouikni/AppArmor-Simulation-CVE-2021-3156"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-15T01:12:21Z", "type": "new_poc", "url": "https://github.com/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228"}
+{"cve_id": "CVE-2021-3156", "ts": "2026-11-15T01:12:22Z", "type": "new_poc", "url": "https://github.com/HanaBouikni/Volatility3-Forensics-Incident-Response"}
+{"cve_id": "CVE-2026-116779", "ts": "2026-11-15T01:12:22Z", "type": "new_poc", "url": "https://github.com/DeathShotXD/SIP2Shell"}
+{"cve_id": "CVE-2026-97229", "ts": "2026-11-15T01:12:23Z", "type": "new_poc", "url": "https://github.com/wa6n3r/cve-2026-97229"}
+{"cve_id": "CVE-2025-5777", "ts": "2026-11-15T01:18:30Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2025-5777"}
+{"cve_id": "CVE-2026-10520", "ts": "2026-11-15T01:19:18Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-10520"}
+{"cve_id": "CVE-2026-63030", "ts": "2026-11-15T01:20:23Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-63030"}
+{"cve_id": "CVE-2026-9082", "ts": "2026-11-15T01:20:35Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-9082"}
+{"cve_id": "CVE-2026-106173", "ts": "2026-11-15T01:20:39Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-106173"}
+{"cve_id": "CVE-2026-55450", "ts": "2026-11-15T01:21:33Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-55450"}

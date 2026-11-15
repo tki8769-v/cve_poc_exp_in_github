@@ -7001,6 +7001,8 @@ Note that version 3.7.4 onward will set up a JMX password automatically for Guic
 
 - [https://github.com/bde574786/Sequelize-1day-CVE-2023-25813](https://github.com/bde574786/Sequelize-1day-CVE-2023-25813) : ![starts](https://img.shields.io/github/stars/bde574786/Sequelize-1day-CVE-2023-25813.svg) ![forks](https://img.shields.io/github/forks/bde574786/Sequelize-1day-CVE-2023-25813.svg)
 
+- [https://github.com/junhye-park/homework-sequelize-cve-2023-25813](https://github.com/junhye-park/homework-sequelize-cve-2023-25813) : ![starts](https://img.shields.io/github/stars/junhye-park/homework-sequelize-cve-2023-25813.svg) ![forks](https://img.shields.io/github/forks/junhye-park/homework-sequelize-cve-2023-25813.svg)
+
 ## CVE-2023-25725
  HAProxy before 2.7.3 may allow a bypass of access control because HTTP/1 headers are inadvertently lost in some situations, aka "request smuggling." The HTTP header parsers in HAProxy may accept empty header field names, which could be used to truncate the list of HTTP headers and thus make some headers disappear after being parsed and processed for HTTP/1.0 and HTTP/1.1. For HTTP/2 and HTTP/3, the impact is limited because the headers disappear before being parsed and processed, as if they had not been sent by the client. The fixed versions are 2.7.3, 2.6.9, 2.5.12, 2.4.22, 2.2.29, and 2.0.31.
 

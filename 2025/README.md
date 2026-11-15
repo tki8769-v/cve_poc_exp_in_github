@@ -14007,6 +14007,8 @@ The specific flaw exists within the handling of file paths within archive files.
 
 - [https://github.com/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777](https://github.com/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CitrixBleedCVE-2026-8452-2025-5777.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2025-5777](https://github.com/ashrafzaryouh/CVE-2025-5777) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2025-5777.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2025-5777.svg)
+
 ## CVE-2025-5755
  A vulnerability was found in SourceCodester Open Source Clinic Management System 1.0. It has been classified as critical. Affected is an unknown function of the file /email_config.php. The manipulation of the argument email leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.
 

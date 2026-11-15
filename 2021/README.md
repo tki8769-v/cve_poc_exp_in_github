@@ -1708,6 +1708,8 @@
 
 - [https://github.com/DatLang777/Log4Shell-BlueTeam-Detection-Lab](https://github.com/DatLang777/Log4Shell-BlueTeam-Detection-Lab) : ![starts](https://img.shields.io/github/stars/DatLang777/Log4Shell-BlueTeam-Detection-Lab.svg) ![forks](https://img.shields.io/github/forks/DatLang777/Log4Shell-BlueTeam-Detection-Lab.svg)
 
+- [https://github.com/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228](https://github.com/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
@@ -8761,6 +8763,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/d4ytox/CVE-2021-3156](https://github.com/d4ytox/CVE-2021-3156) : ![starts](https://img.shields.io/github/stars/d4ytox/CVE-2021-3156.svg) ![forks](https://img.shields.io/github/forks/d4ytox/CVE-2021-3156.svg)
 
 - [https://github.com/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response](https://github.com/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response) : ![starts](https://img.shields.io/github/stars/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response.svg) ![forks](https://img.shields.io/github/forks/AmroYasserH/DFIR-CVE-2021-3156-Incident-Response.svg)
+
+- [https://github.com/HanaBouikni/AppArmor-Simulation-CVE-2021-3156](https://github.com/HanaBouikni/AppArmor-Simulation-CVE-2021-3156) : ![starts](https://img.shields.io/github/stars/HanaBouikni/AppArmor-Simulation-CVE-2021-3156.svg) ![forks](https://img.shields.io/github/forks/HanaBouikni/AppArmor-Simulation-CVE-2021-3156.svg)
+
+- [https://github.com/HanaBouikni/Volatility3-Forensics-Incident-Response](https://github.com/HanaBouikni/Volatility3-Forensics-Incident-Response) : ![starts](https://img.shields.io/github/stars/HanaBouikni/Volatility3-Forensics-Incident-Response.svg) ![forks](https://img.shields.io/github/forks/HanaBouikni/Volatility3-Forensics-Incident-Response.svg)
 
 ## CVE-2021-3138
  In Discourse 2.7.0 through beta1, a rate-limit bypass leads to a bypass of the 2FA requirement for certain forms.

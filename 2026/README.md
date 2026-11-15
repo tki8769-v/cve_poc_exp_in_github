@@ -49,6 +49,7 @@
 - [https://github.com/googlesky/CVE-2026-126937](https://github.com/googlesky/CVE-2026-126937) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126937.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126937.svg)
 
 ## CVE-2026-126837
+> A validation flaw in the DNS SRV host discovery of the MongoDB Node.js driver may cause the driver to connect to a host outside the expected domain. For a mongodb+srv:// connection string, the driver checks each host name in the DNS SRV response against the domain of the connection string. The driver then builds the connection address from the original name, in which certain characters end the host name early. An unauthenticated party who can forge or change the DNS SRV response may redirect the
 
 - [https://github.com/googlesky/CVE-2026-126837](https://github.com/googlesky/CVE-2026-126837) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126837.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126837.svg)
 
@@ -195,6 +196,10 @@
 ## CVE-2026-124020
 
 - [https://github.com/fixedbyreboot/CVE-2026-124020-POC](https://github.com/fixedbyreboot/CVE-2026-124020-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-124020-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-124020-POC.svg)
+
+## CVE-2026-124002
+
+- [https://github.com/fixedbyreboot/CVE-2026-124002-POC](https://github.com/fixedbyreboot/CVE-2026-124002-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-124002-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-124002-POC.svg)
 
 ## CVE-2026-123807
 > Signal K Server is a server application that runs on a central hub in a boat. From 2.0.0 until 2.34.0 for Signal K Server and from 1.0.0 until 1.5.3 for @signalk/resources-provider, the v2 REST route GET /signalk/v2/api/resources/:resourceType/:resourceId accepts an unsafe resourceId that can escape the intended resource directory. The route passes the attacker-controlled resourceId through src/api/resources/index.ts to FileStore.getResource() in packages/resources-provider-plugin/src/filestorag
@@ -660,6 +665,8 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 
 - [https://github.com/al4n4n/CVE-2026-116779](https://github.com/al4n4n/CVE-2026-116779) : ![starts](https://img.shields.io/github/stars/al4n4n/CVE-2026-116779.svg) ![forks](https://img.shields.io/github/forks/al4n4n/CVE-2026-116779.svg)
 
+- [https://github.com/DeathShotXD/SIP2Shell](https://github.com/DeathShotXD/SIP2Shell) : ![starts](https://img.shields.io/github/stars/DeathShotXD/SIP2Shell.svg) ![forks](https://img.shields.io/github/forks/DeathShotXD/SIP2Shell.svg)
+
 ## CVE-2026-116692
 > MLflow is an open source AI engineering platform for agents, large language models, and machine learning models. From 3.12.0rc0 until 3.17.0, third-party scorer deserialization in mlflow/genai/scorers/base.py accepts request-selected descendants of THIRD_PARTY_SCORER_ALLOWED_MODULES rather than requiring an exact allowed module. A caller can use MLflow artifact endpoints to place a Python module beneath a writable allowed package and submit its module and class through /ajax-api/3.0/mlflow/score
 
@@ -928,6 +935,13 @@ On an affected system, any authenticated user can gain operator privileges and m
 - [https://github.com/0xBlackash/CVE-2026-114595](https://github.com/0xBlackash/CVE-2026-114595) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-114595.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-114595.svg)
 
 - [https://github.com/ashrafzaryouh/CVE-2026-114595](https://github.com/ashrafzaryouh/CVE-2026-114595) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-114595.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-114595.svg)
+
+## CVE-2026-114552
+> MailEnable parseObjectResponse XML External Entity Processing Information Disclosure Vulnerability. This vulnerability allows remote attackers to disclose sensitive information on affected installations of MailEnable. Authentication is required to exploit this vulnerability.
+
+The specific flaw exists within the implementation of the parseObjectResponse method. The issue results from the lack of proper restriction of XML External Entity (XXE) references. An attacker can leverage this vulnerabilit
+
+- [https://github.com/RossKeddy/CVE-2026-114552](https://github.com/RossKeddy/CVE-2026-114552) : ![starts](https://img.shields.io/github/stars/RossKeddy/CVE-2026-114552.svg) ![forks](https://img.shields.io/github/forks/RossKeddy/CVE-2026-114552.svg)
 
 ## CVE-2026-114550
 > libwebsockets MQTT Protocol PUBACK Packet Handling Out-Of-Bounds Write Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of libwebsockets. Authentication is not required to exploit this vulnerability.
@@ -2832,6 +2846,8 @@ NetScaler ADC or NetScaler Gateway must be configured as a SAML SP or SAML IdP, 
 
 - [https://github.com/aduli198/CVE-2026-106173](https://github.com/aduli198/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/aduli198/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/aduli198/CVE-2026-106173.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-106173](https://github.com/ashrafzaryouh/CVE-2026-106173) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-106173.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-106173.svg)
+
 ## CVE-2026-106074
 > A flaw in Node.js `crypto` causes the internal entropy caches used by `crypto.randomUUID()`, `crypto.randomUUIDv7()`, and `crypto.randomInt()` to be saved into user-land startup snapshots (`--build-snapshot`) and single executable applications built with `useSnapshot`.
 
@@ -2944,6 +2960,11 @@ configuration,
 
 - [https://github.com/JHC56/CVE-2026-105761](https://github.com/JHC56/CVE-2026-105761) : ![starts](https://img.shields.io/github/stars/JHC56/CVE-2026-105761.svg) ![forks](https://img.shields.io/github/forks/JHC56/CVE-2026-105761.svg)
 
+## CVE-2026-105642
+> Ghost is a Node.js content management system. From 6.56.0 until 6.67.0, an image processing library bundled with Ghost contained a vulnerability in its SVG handling. Any staff user, including Contributors, could create a bookmark card for an attacker-controlled website, resulting in arbitrary commands being run on the Ghost server. This issue is fixed in version 6.67.0.
+
+- [https://github.com/fixedbyreboot/CVE-2026-105642-POC](https://github.com/fixedbyreboot/CVE-2026-105642-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-105642-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-105642-POC.svg)
+
 ## CVE-2026-105484
 > A security vulnerability has been detected in TOTOLINK X6000R 9.4.0cu.652_B20230116. The impacted element is the function firmware_check of the file /cgi-bin/cstecgi.cgi of the component UploadFirmwareFile Handler. Such manipulation of the argument file_name leads to os command injection. The attack may be performed from remote.
 
@@ -3042,6 +3063,11 @@ written severa
 > The gist RubyGem before 6.1.0 contains an improper certificate validation vulnerability that allows on-path attackers to intercept HTTPS traffic because http_connection in lib/gist.rb sets VERIFY_NONE. Attackers can present any certificate to read or modify GitHub API traffic, stealing OAuth tokens and login credentials to read and modify the victim&#x27;s gists.
 
 - [https://github.com/abraxas/cve-2026-105221-gist-tls](https://github.com/abraxas/cve-2026-105221-gist-tls) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-105221-gist-tls.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-105221-gist-tls.svg)
+
+## CVE-2026-105211
+> ZITADEL before 4.17.1 contains an authentication bypass vulnerability in Login V2 that allows unauthenticated attackers to take over accounts by obtaining OTP codes via the returnCode delivery type. Attackers knowing a login name of a victim with OTP-Email and OTP-SMS enrolled can read both codes from server-action responses to gain MFA-authenticated sessions, including administrator takeover.
+
+- [https://github.com/fixedbyreboot/CVE-2026-105211-POC](https://github.com/fixedbyreboot/CVE-2026-105211-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-105211-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-105211-POC.svg)
 
 ## CVE-2026-105192
 > LMCache multiprocess mode, also called distributed mode, opens an unauthenticated ZeroMQ ROUTER so worker processes can register and share KV cache blocks. Messages on that socket are msgpack. Extension code 1 is passed to DeviceIPCWrapper.Deserialize, which calls pickle.loads, while the server is still decoding request arguments and before the handler runs. A single unauthenticated ZMQ DEALER message to the transport port (default 5555) therefore executes code as the user the LMCache process ru
@@ -4425,6 +4451,8 @@ making each ACE up to 76 bytes (s
 - [https://github.com/Certbn/CVE-2026-97229-GitLab-CI-CD](https://github.com/Certbn/CVE-2026-97229-GitLab-CI-CD) : ![starts](https://img.shields.io/github/stars/Certbn/CVE-2026-97229-GitLab-CI-CD.svg) ![forks](https://img.shields.io/github/forks/Certbn/CVE-2026-97229-GitLab-CI-CD.svg)
 
 - [https://github.com/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce](https://github.com/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-97229-gitlab-ci-rce.svg)
+
+- [https://github.com/wa6n3r/cve-2026-97229](https://github.com/wa6n3r/cve-2026-97229) : ![starts](https://img.shields.io/github/stars/wa6n3r/cve-2026-97229.svg) ![forks](https://img.shields.io/github/forks/wa6n3r/cve-2026-97229.svg)
 
 ## CVE-2026-97206
 > NLnet Labs Unbound, 1.22.0 up to and including version 1.26.1, contains a DNS-over-QUIC (DoQ) lifetime bug reachable by a remote DoQ client under multi-threaded operation. A client-triggered QUIC path migration can enter stream/connection cleanup while a mesh reply still retains a pointer to the DoQ stream. Cleanup frees the DoQ stream and when the pending mesh reply later completes it dereferences a stale pointer leading to a crash.
@@ -9953,6 +9981,8 @@ Users are advised to upgrade to Apache InLong's  2.4.0 or cherry-pick [1] to sol
 
 - [https://github.com/noxcrypt-x/CVE-2026-63030](https://github.com/noxcrypt-x/CVE-2026-63030) : ![starts](https://img.shields.io/github/stars/noxcrypt-x/CVE-2026-63030.svg) ![forks](https://img.shields.io/github/forks/noxcrypt-x/CVE-2026-63030.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-63030](https://github.com/ashrafzaryouh/CVE-2026-63030) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-63030.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-63030.svg)
+
 ## CVE-2026-62958
 > libriscv is a RISC-V sandbox and emulator. Prior to 1.18, a crafted ELF binary can cause out-of-bounds reads in the host emulator. `Memory&lt;W&gt;::binary_loader` checks `PT_LOAD` program-header bounds, but `Memory&lt;W&gt;::serialize_execute_segment` trusts section-header `sh_offset` and `sh_size` when locating `.text` without verifying the file range against `m_binary.size()`; `Memory&lt;W&gt;::lookup()` has a similar section-table problem. Malformed `.text` or `.symtab` offsets can therefore bypass the progra
 
@@ -11079,6 +11109,8 @@ Users are recommended to upgrade to version 11.0.5, 10.1.37 or 9.0.101, which fi
 ## CVE-2026-55450
 
 - [https://github.com/0xBlackash/CVE-2026-55450](https://github.com/0xBlackash/CVE-2026-55450) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-55450.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-55450.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-55450](https://github.com/ashrafzaryouh/CVE-2026-55450) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-55450.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-55450.svg)
 
 ## CVE-2026-55276
  Always-Incorrect Control Flow Implementation vulnerability in Apache Tomcat meant that special roles and empty authorisation constraints were not included when the effective web.xml was logged.
@@ -25649,6 +25681,8 @@ A successful match grants role=2 (admin-level access) and creates a valid sessio
 
 - [https://github.com/01xJB/CVE-2026-10520-POC](https://github.com/01xJB/CVE-2026-10520-POC) : ![starts](https://img.shields.io/github/stars/01xJB/CVE-2026-10520-POC.svg) ![forks](https://img.shields.io/github/forks/01xJB/CVE-2026-10520-POC.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-10520](https://github.com/ashrafzaryouh/CVE-2026-10520) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-10520.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-10520.svg)
+
 ## CVE-2026-10290
  A weakness has been identified in code-projects Hotel and Tourism Reservation System 1.0. The affected element is an unknown function of the file tour.php of the component GET Parameter Handler. Executing a manipulation of the argument tour can lead to sql injection. The attack can be launched remotely. The exploit has been made available to the public and could be used for attacks.
 
@@ -25950,6 +25984,8 @@ This issue affects Drupal core: from 8.9.0 before 10.4.10, from 10.5.0 before 10
 - [https://github.com/lysophavin18/cve-2026-9082](https://github.com/lysophavin18/cve-2026-9082) : ![starts](https://img.shields.io/github/stars/lysophavin18/cve-2026-9082.svg) ![forks](https://img.shields.io/github/forks/lysophavin18/cve-2026-9082.svg)
 
 - [https://github.com/thinhap/CVE-2026-9082-PoC](https://github.com/thinhap/CVE-2026-9082-PoC) : ![starts](https://img.shields.io/github/stars/thinhap/CVE-2026-9082-PoC.svg) ![forks](https://img.shields.io/github/forks/thinhap/CVE-2026-9082-PoC.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-9082](https://github.com/ashrafzaryouh/CVE-2026-9082) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-9082.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-9082.svg)
 
 ## CVE-2026-9067
  The Schema & Structured Data for WP & AMP WordPress plugin before 1.60 does not check user capabilities on its frontend AJAX file-upload handlers and does not validate the actual content of uploaded files against the endpoint's intended media type, allowing unauthenticated users to upload any file type accepted by WordPress's media library through endpoints that should only accept images or videos.
