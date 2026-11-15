@@ -11913,3 +11913,5 @@
 {"cve_id": "CVE-2014-0160", "ts": "2026-11-15T17:24:12Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2014-0160"}
 {"cve_id": "CVE-2026-43494", "ts": "2026-11-15T17:24:18Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-43494"}
 {"cve_id": "CVE-2026-46242", "ts": "2026-11-15T17:29:28Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-46242"}
+{"cve_id": "CVE-2026-129359", "ts": "2026-11-15T21:53:56Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-129359"}
+{"cve_id": "CVE-2026-129360", "ts": "2026-11-15T21:53:56Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-129360"}

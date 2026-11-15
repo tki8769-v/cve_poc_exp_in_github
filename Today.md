@@ -185,6 +185,14 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 
 - [https://github.com/googlesky/CVE-2026-129355](https://github.com/googlesky/CVE-2026-129355) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129355.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129355.svg)
 
+## CVE-2026-129359
+
+- [https://github.com/googlesky/CVE-2026-129359](https://github.com/googlesky/CVE-2026-129359) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129359.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129359.svg)
+
+## CVE-2026-129360
+
+- [https://github.com/googlesky/CVE-2026-129360](https://github.com/googlesky/CVE-2026-129360) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129360.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129360.svg)
+
 ## CVE-2026-19553
 > ssl.SSLContext.wrap_bio() didn&#x27;t require the server_hostname argument
 to not be None if ssl.SSLContext.check_hostname was set. Due to a

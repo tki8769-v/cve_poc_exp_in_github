@@ -10,6 +10,14 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-129360
+
+- [https://github.com/googlesky/CVE-2026-129360](https://github.com/googlesky/CVE-2026-129360) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129360.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129360.svg)
+
+## CVE-2026-129359
+
+- [https://github.com/googlesky/CVE-2026-129359](https://github.com/googlesky/CVE-2026-129359) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129359.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129359.svg)
+
 ## CVE-2026-129355
 
 - [https://github.com/googlesky/CVE-2026-129355](https://github.com/googlesky/CVE-2026-129355) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129355.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129355.svg)
