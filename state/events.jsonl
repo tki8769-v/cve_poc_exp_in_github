@@ -11821,3 +11821,32 @@
 {"cve_id": "CVE-2026-73296", "ts": "2026-11-15T02:01:45Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-73296"}
 {"cve_id": "CVE-2026-41091", "ts": "2026-11-15T02:05:41Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-41091"}
 {"cve_id": "CVE-2018-4878", "ts": "2026-11-15T02:06:48Z", "type": "new_poc", "url": "https://github.com/msmacu/cve-2018-4878-adobe-flash-drm-uaf-0day"}
+{"cve_id": "CVE-2026-100229", "ts": "2026-11-15T07:49:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117474", "ts": "2026-11-15T07:52:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117475", "ts": "2026-11-15T07:52:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117476", "ts": "2026-11-15T07:52:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123133", "ts": "2026-11-15T07:55:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124617", "ts": "2026-11-15T07:56:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-125324", "ts": "2026-11-15T07:56:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-126082", "ts": "2026-11-15T07:57:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-59599", "ts": "2026-11-15T07:59:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-70641", "ts": "2026-11-15T07:59:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-82032", "ts": "2026-11-15T07:59:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123751", "ts": "2026-11-15T08:06:11Z", "type": "new_poc", "url": "https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751"}
+{"cve_id": "CVE-2018-16763", "ts": "2026-11-15T08:06:12Z", "type": "new_poc", "url": "https://github.com/ex6p/fuel-CMS-1.4.1---Remote-Code-Execution-"}
+{"cve_id": "CVE-2026-129353", "ts": "2026-11-15T08:06:12Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-129353"}
+{"cve_id": "CVE-2025-21479", "ts": "2026-11-15T08:06:12Z", "type": "new_poc", "url": "https://github.com/CatXiaoShi/CVE-2025-21479"}
+{"cve_id": "CVE-2026-129354", "ts": "2026-11-15T08:06:12Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-129354"}
+{"cve_id": "CVE-2026-129351", "ts": "2026-11-15T08:06:13Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-129351"}
+{"cve_id": "CVE-2026-126919", "ts": "2026-11-15T08:06:13Z", "type": "new_poc", "url": "https://github.com/abraxas/CVE-2026-126919-mimehandler-postmessage-uaf"}
+{"cve_id": "CVE-2026-126910", "ts": "2026-11-15T08:06:14Z", "type": "new_poc", "url": "https://github.com/abraxas/chrome-v8-maglev-literal-stale"}
+{"cve_id": "CVE-2026-126915", "ts": "2026-11-15T08:06:14Z", "type": "new_poc", "url": "https://github.com/abraxas/skia-vk-uninit-renderpass"}
+{"cve_id": "CVE-2026-126916", "ts": "2026-11-15T08:06:14Z", "type": "new_poc", "url": "https://github.com/abraxas/chrome-icu-usearch-ce-overflow"}
+{"cve_id": "CVE-2026-126902", "ts": "2026-11-15T08:06:14Z", "type": "new_poc", "url": "https://github.com/abraxas/chrome-mac-webshare-symlink"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-15T08:06:15Z", "type": "new_poc", "url": "https://github.com/Rat5ak/PHP2SHELL-PREAUTH-RCE"}
+{"cve_id": "CVE-2026-126909", "ts": "2026-11-15T08:06:15Z", "type": "new_poc", "url": "https://github.com/abraxas/chrome-autosignin-toast-uaf"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-15T08:07:22Z", "type": "new_poc", "url": "https://github.com/leonjza/sshhole-lab"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-15T08:07:22Z", "type": "new_poc", "url": "https://github.com/liamromanis101/K8s-container_escape_audit"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-15T08:07:22Z", "type": "new_poc", "url": "https://github.com/Hika-sec/sshole-scanner"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-15T08:07:22Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-123158"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-15T08:07:24Z", "type": "new_poc", "url": "https://github.com/The-DevOps-Daily/alpine-sshd-check"}

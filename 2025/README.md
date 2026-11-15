@@ -11356,6 +11356,8 @@ index an Out-Of-Bound class in ets_class_from_arg() when passed clid of
 
 - [https://github.com/Type010/cheese-app](https://github.com/Type010/cheese-app) : ![starts](https://img.shields.io/github/stars/Type010/cheese-app.svg) ![forks](https://img.shields.io/github/forks/Type010/cheese-app.svg)
 
+- [https://github.com/CatXiaoShi/CVE-2025-21479](https://github.com/CatXiaoShi/CVE-2025-21479) : ![starts](https://img.shields.io/github/stars/CatXiaoShi/CVE-2025-21479.svg) ![forks](https://img.shields.io/github/forks/CatXiaoShi/CVE-2025-21479.svg)
+
 ## CVE-2025-21420
  Windows Disk Cleanup Tool Elevation of Privilege Vulnerability
 

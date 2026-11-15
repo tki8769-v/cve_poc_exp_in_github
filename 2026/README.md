@@ -10,6 +10,18 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-129354
+
+- [https://github.com/googlesky/CVE-2026-129354](https://github.com/googlesky/CVE-2026-129354) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129354.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129354.svg)
+
+## CVE-2026-129353
+
+- [https://github.com/googlesky/CVE-2026-129353](https://github.com/googlesky/CVE-2026-129353) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129353.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129353.svg)
+
+## CVE-2026-129351
+
+- [https://github.com/googlesky/CVE-2026-129351](https://github.com/googlesky/CVE-2026-129351) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129351.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129351.svg)
+
 ## CVE-2026-129254
 
 - [https://github.com/Usama-Hanif131/CVE-2026-129254](https://github.com/Usama-Hanif131/CVE-2026-129254) : ![starts](https://img.shields.io/github/stars/Usama-Hanif131/CVE-2026-129254.svg) ![forks](https://img.shields.io/github/forks/Usama-Hanif131/CVE-2026-129254.svg)
@@ -48,10 +60,40 @@
 
 - [https://github.com/googlesky/CVE-2026-126937](https://github.com/googlesky/CVE-2026-126937) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126937.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126937.svg)
 
+## CVE-2026-126919
+> Use after free in BrowserTag in Google Chrome prior to 157.0.8103.78 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)
+
+- [https://github.com/abraxas/CVE-2026-126919-mimehandler-postmessage-uaf](https://github.com/abraxas/CVE-2026-126919-mimehandler-postmessage-uaf) : ![starts](https://img.shields.io/github/stars/abraxas/CVE-2026-126919-mimehandler-postmessage-uaf.svg) ![forks](https://img.shields.io/github/forks/abraxas/CVE-2026-126919-mimehandler-postmessage-uaf.svg)
+
+## CVE-2026-126916
+> Integer overflow in V8 in Google Chrome prior to 157.0.8103.78 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)
+
+- [https://github.com/abraxas/chrome-icu-usearch-ce-overflow](https://github.com/abraxas/chrome-icu-usearch-ce-overflow) : ![starts](https://img.shields.io/github/stars/abraxas/chrome-icu-usearch-ce-overflow.svg) ![forks](https://img.shields.io/github/forks/abraxas/chrome-icu-usearch-ce-overflow.svg)
+
+## CVE-2026-126915
+> Use of uninitialized variable in Skia in Google Chrome on on Android prior to 157.0.8103.78 allowed a remote attacker who had compromised the renderer process to potentially execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)
+
+- [https://github.com/abraxas/skia-vk-uninit-renderpass](https://github.com/abraxas/skia-vk-uninit-renderpass) : ![starts](https://img.shields.io/github/stars/abraxas/skia-vk-uninit-renderpass.svg) ![forks](https://img.shields.io/github/forks/abraxas/skia-vk-uninit-renderpass.svg)
+
 ## CVE-2026-126912
 > Buffer overflow in Skia in Google Chrome prior to 157.0.8103.78 allowed a remote attacker to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)
 
 - [https://github.com/abraxas/skia-convex-oob](https://github.com/abraxas/skia-convex-oob) : ![starts](https://img.shields.io/github/stars/abraxas/skia-convex-oob.svg) ![forks](https://img.shields.io/github/forks/abraxas/skia-convex-oob.svg)
+
+## CVE-2026-126910
+> Type confusion in V8 in Google Chrome prior to 157.0.8103.78 allowed a remote attacker to execute arbitrary code inside the sandbox via a crafted HTML page. (Chromium security severity: High)
+
+- [https://github.com/abraxas/chrome-v8-maglev-literal-stale](https://github.com/abraxas/chrome-v8-maglev-literal-stale) : ![starts](https://img.shields.io/github/stars/abraxas/chrome-v8-maglev-literal-stale.svg) ![forks](https://img.shields.io/github/forks/abraxas/chrome-v8-maglev-literal-stale.svg)
+
+## CVE-2026-126909
+> Use after free in Passwords in Google Chrome prior to 157.0.8103.78 allowed a remote attacker leveraging social engineering to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)
+
+- [https://github.com/abraxas/chrome-autosignin-toast-uaf](https://github.com/abraxas/chrome-autosignin-toast-uaf) : ![starts](https://img.shields.io/github/stars/abraxas/chrome-autosignin-toast-uaf.svg) ![forks](https://img.shields.io/github/forks/abraxas/chrome-autosignin-toast-uaf.svg)
+
+## CVE-2026-126902
+> Incorrect reference resolution in Browser in Google Chrome on on Mac prior to 157.0.8103.78 allowed a remote attacker who had compromised the renderer process to execute arbitrary code outside the sandbox via a crafted HTML page. (Chromium security severity: High)
+
+- [https://github.com/abraxas/chrome-mac-webshare-symlink](https://github.com/abraxas/chrome-mac-webshare-symlink) : ![starts](https://img.shields.io/github/stars/abraxas/chrome-mac-webshare-symlink.svg) ![forks](https://img.shields.io/github/forks/abraxas/chrome-mac-webshare-symlink.svg)
 
 ## CVE-2026-126837
 > A validation flaw in the DNS SRV host discovery of the MongoDB Node.js driver may cause the driver to connect to a host outside the expected domain. For a mongodb+srv:// connection string, the driver checks each host name in the DNS SRV response against the domain of the connection string. The driver then builds the connection address from the original name, in which certain characters end the host name early. An unauthenticated party who can forge or change the DNS SRV response may redirect the
@@ -203,6 +245,7 @@
 - [https://github.com/fixedbyreboot/CVE-2026-124020-POC](https://github.com/fixedbyreboot/CVE-2026-124020-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-124020-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-124020-POC.svg)
 
 ## CVE-2026-124002
+> XWEB EVO versions 5.2.3 through before 5.7.0 contains a pre-authentication OS command injection vulnerability that allows unauthenticated remote attackers to execute arbitrary OS commands by injecting shell metacharacters into the username field of login.lua, cleanout.lua, or api.lua before the password check occurs. Attackers can exploit this flaw combined with the setuid-root wlua interpreter to execute commands with root privileges, achieving full system compromise. This product line reached 
 
 - [https://github.com/fixedbyreboot/CVE-2026-124002-POC](https://github.com/fixedbyreboot/CVE-2026-124002-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-124002-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-124002-POC.svg)
 
@@ -227,6 +270,8 @@
 > The WP Duplicate  WordPress plugin through 1.1.11 does not properly verify a request authentication value and does not validate the path or type of uploaded files, making it possible for unauthenticated attackers to write arbitrary files to the server and achieve remote code execution. This vulnerability is being actively exploited in the wild.
 
 - [https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755](https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755) : ![starts](https://img.shields.io/github/stars/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755.svg) ![forks](https://img.shields.io/github/forks/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755.svg)
+
+- [https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751](https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751) : ![starts](https://img.shields.io/github/stars/Sorganeil/Duplicate2Shell-CVE-2026-123751.svg) ![forks](https://img.shields.io/github/forks/Sorganeil/Duplicate2Shell-CVE-2026-123751.svg)
 
 ## CVE-2026-123618
 > ABP Framework before 10.7.1 contains an authentication bypass vulnerability that skips account state and two-factor checks when password login succeeds through a registered IExternalLoginProvider. Attackers holding the external directory password for deactivated, locked, or 2FA-protected accounts can obtain valid access tokens from the /connect/token password grant.
@@ -323,6 +368,16 @@
 - [https://github.com/Avi99999/sshhole-scanner](https://github.com/Avi99999/sshhole-scanner) : ![starts](https://img.shields.io/github/stars/Avi99999/sshhole-scanner.svg) ![forks](https://img.shields.io/github/forks/Avi99999/sshhole-scanner.svg)
 
 - [https://github.com/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass](https://github.com/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass) : ![starts](https://img.shields.io/github/stars/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass.svg) ![forks](https://img.shields.io/github/forks/Dylans7j/CVE-2026-123158-OpenSSH-Auth-Bypass.svg)
+
+- [https://github.com/leonjza/sshhole-lab](https://github.com/leonjza/sshhole-lab) : ![starts](https://img.shields.io/github/stars/leonjza/sshhole-lab.svg) ![forks](https://img.shields.io/github/forks/leonjza/sshhole-lab.svg)
+
+- [https://github.com/liamromanis101/K8s-container_escape_audit](https://github.com/liamromanis101/K8s-container_escape_audit) : ![starts](https://img.shields.io/github/stars/liamromanis101/K8s-container_escape_audit.svg) ![forks](https://img.shields.io/github/forks/liamromanis101/K8s-container_escape_audit.svg)
+
+- [https://github.com/Hika-sec/sshole-scanner](https://github.com/Hika-sec/sshole-scanner) : ![starts](https://img.shields.io/github/stars/Hika-sec/sshole-scanner.svg) ![forks](https://img.shields.io/github/forks/Hika-sec/sshole-scanner.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-123158](https://github.com/ashrafzaryouh/CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-123158.svg)
+
+- [https://github.com/The-DevOps-Daily/alpine-sshd-check](https://github.com/The-DevOps-Daily/alpine-sshd-check) : ![starts](https://img.shields.io/github/stars/The-DevOps-Daily/alpine-sshd-check.svg) ![forks](https://img.shields.io/github/forks/The-DevOps-Daily/alpine-sshd-check.svg)
 
 ## CVE-2026-123039
 > The Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socket (/tmp/dynamic_socket) without authenticating connecting processes. An authenticated local user can send a command to the socket and have it executed as root.
@@ -2572,6 +2627,8 @@ This issue has been fixed in version 2.5.
 - [https://github.com/che3axujnya/cve-2026-109618-cve-2026-109619-poc](https://github.com/che3axujnya/cve-2026-109618-cve-2026-109619-poc) : ![starts](https://img.shields.io/github/stars/che3axujnya/cve-2026-109618-cve-2026-109619-poc.svg) ![forks](https://img.shields.io/github/forks/che3axujnya/cve-2026-109618-cve-2026-109619-poc.svg)
 
 - [https://github.com/mxxnknght/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks](https://github.com/mxxnknght/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks) : ![starts](https://img.shields.io/github/stars/mxxnknght/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks.svg) ![forks](https://img.shields.io/github/forks/mxxnknght/php2shell-CVE-2026-109618-CVE-2026-109619-Dorks.svg)
+
+- [https://github.com/Rat5ak/PHP2SHELL-PREAUTH-RCE](https://github.com/Rat5ak/PHP2SHELL-PREAUTH-RCE) : ![starts](https://img.shields.io/github/stars/Rat5ak/PHP2SHELL-PREAUTH-RCE.svg) ![forks](https://img.shields.io/github/forks/Rat5ak/PHP2SHELL-PREAUTH-RCE.svg)
 
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
