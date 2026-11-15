@@ -11863,3 +11863,14 @@
 {"cve_id": "CVE-2026-82032", "ts": "2026-11-15T08:27:40Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-129352", "ts": "2026-11-15T08:34:17Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-129352"}
 {"cve_id": "CVE-2026-110264", "ts": "2026-11-15T08:42:35Z", "type": "new_poc", "url": "https://github.com/mohammadzarnian1357/Exploit-CVE-2026-110264-GitLab-CE-EE-RCE"}
+{"cve_id": "CVE-2026-100229", "ts": "2026-11-15T08:45:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117474", "ts": "2026-11-15T08:48:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117475", "ts": "2026-11-15T08:48:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117476", "ts": "2026-11-15T08:48:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123133", "ts": "2026-11-15T08:50:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124617", "ts": "2026-11-15T08:52:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-125324", "ts": "2026-11-15T08:52:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-126082", "ts": "2026-11-15T08:52:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-59599", "ts": "2026-11-15T08:55:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-70641", "ts": "2026-11-15T08:55:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-82032", "ts": "2026-11-15T08:55:51Z", "type": "cve_rejected"}
