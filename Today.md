@@ -217,6 +217,10 @@ When a LOCK operation is denied due to a con
 
 - [https://github.com/ashrafzaryouh/CVE-2026-41091](https://github.com/ashrafzaryouh/CVE-2026-41091) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-41091.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-41091.svg)
 
+## CVE-2026-47729
+
+- [https://github.com/ashrafzaryouh/CVE-2026-47729](https://github.com/ashrafzaryouh/CVE-2026-47729) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-47729.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-47729.svg)
+
 ## CVE-2026-48908
 > A vulnerability in SP Page Builder for Joomla allows unauthenticated users to upload arbitrary files, ultimately resulting in the upload and execution of PHP code.
 

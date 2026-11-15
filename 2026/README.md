@@ -13319,6 +13319,8 @@ Spring Tools for VSCode / Cursor / Theia: 2.2.0 and earlier
 
 - [https://github.com/0xBlackash/CVE-2026-47729](https://github.com/0xBlackash/CVE-2026-47729) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-47729.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-47729.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-47729](https://github.com/ashrafzaryouh/CVE-2026-47729) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-47729.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-47729.svg)
+
 ## CVE-2026-47691
  Netty is a network application framework for development of protocol servers and clients. Prior to versions 4.1.135.Final and 4.2.15.Final, Netty's `DnsResolveContext` insufficiently validates the bailiwick of NS records, enabling DNS Cache Poisoning. An attacker controlling an authoritative name server for a subdomain can poison the cache for parent domains (like `.co.uk`). In `io.netty.resolver.dns.DnsResolveContext.AuthoritativeNameServerList#add` method accepts any NS record from the AUTHORITY section as long as the record's name is a suffix of the questionName. Subsequently, the `handleWithAdditional` method caches the associated A records from the ADDITIONAL section directly into the `authoritativeDnsServerCache` under the parent domain's key. This bypasses standard bailiwick rules, where a server authoritative for a subdomain should not be trusted to provide authoritative records for its parent. The poisoned cache is then used for all future resolutions under the parent domain's key. Versions 4.1.135.Final and 4.2.15.Final patch the issue.
 

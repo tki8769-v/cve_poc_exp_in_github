@@ -11894,3 +11894,15 @@
 {"cve_id": "CVE-2022-1471", "ts": "2026-11-15T16:35:11Z", "type": "new_poc", "url": "https://github.com/odysseas404/ITC4247-Final-Project-Security-analysis-of-the-Pippo-Java-web-framework"}
 {"cve_id": "CVE-2026-19553", "ts": "2026-11-15T16:35:46Z", "type": "new_poc", "url": "https://github.com/Tharsh2003/INF2005-ACW3-PythonSSL"}
 {"cve_id": "CVE-2026-31402", "ts": "2026-11-15T16:42:13Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-31402"}
+{"cve_id": "CVE-2026-100229", "ts": "2026-11-15T16:46:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117474", "ts": "2026-11-15T16:48:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117475", "ts": "2026-11-15T16:48:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117476", "ts": "2026-11-15T16:48:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123133", "ts": "2026-11-15T16:51:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124617", "ts": "2026-11-15T16:52:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-125324", "ts": "2026-11-15T16:52:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-126082", "ts": "2026-11-15T16:52:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-59599", "ts": "2026-11-15T16:54:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-70641", "ts": "2026-11-15T16:55:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-82032", "ts": "2026-11-15T16:55:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-47729", "ts": "2026-11-15T17:08:35Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-47729"}
