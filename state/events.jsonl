@@ -11874,3 +11874,23 @@
 {"cve_id": "CVE-2026-59599", "ts": "2026-11-15T08:55:10Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-70641", "ts": "2026-11-15T08:55:38Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-82032", "ts": "2026-11-15T08:55:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-100229", "ts": "2026-11-15T16:20:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117474", "ts": "2026-11-15T16:22:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117475", "ts": "2026-11-15T16:22:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-117476", "ts": "2026-11-15T16:22:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123133", "ts": "2026-11-15T16:24:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-124617", "ts": "2026-11-15T16:25:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-125324", "ts": "2026-11-15T16:26:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-126082", "ts": "2026-11-15T16:26:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-59599", "ts": "2026-11-15T16:28:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-70641", "ts": "2026-11-15T16:29:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-82032", "ts": "2026-11-15T16:29:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-119618", "ts": "2026-11-15T16:35:07Z", "type": "new_poc", "url": "https://github.com/studiogangster/CVE-2026-119618"}
+{"cve_id": "CVE-2026-116779", "ts": "2026-11-15T16:35:07Z", "type": "new_poc", "url": "https://github.com/mehmet-emir-eroglu/CVE-2026-116779"}
+{"cve_id": "CVE-2026-123751", "ts": "2026-11-15T16:35:07Z", "type": "new_poc", "url": "https://github.com/tempiltin/Duplicate2Shell-CVE-2026-123751"}
+{"cve_id": "CVE-2026-129355", "ts": "2026-11-15T16:35:08Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-129355"}
+{"cve_id": "CVE-2026-62735", "ts": "2026-11-15T16:35:09Z", "type": "new_poc", "url": "https://github.com/OArt3misQAQ/CVE-2026-62735-Rust"}
+{"cve_id": "CVE-2026-118989", "ts": "2026-11-15T16:35:09Z", "type": "new_poc", "url": "https://github.com/sarvarr1/CVE-2026-118989-webtoffee-ssrf"}
+{"cve_id": "CVE-2022-1471", "ts": "2026-11-15T16:35:11Z", "type": "new_poc", "url": "https://github.com/odysseas404/ITC4247-Final-Project-Security-analysis-of-the-Pippo-Java-web-framework"}
+{"cve_id": "CVE-2026-19553", "ts": "2026-11-15T16:35:46Z", "type": "new_poc", "url": "https://github.com/Tharsh2003/INF2005-ACW3-PythonSSL"}
+{"cve_id": "CVE-2026-31402", "ts": "2026-11-15T16:42:13Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-31402"}

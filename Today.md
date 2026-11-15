@@ -16,6 +16,10 @@
 
 - [https://github.com/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228](https://github.com/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/HanaBouikni/Log4Shell-Incident-Report-CVE-2021-44228.svg)
 
+## CVE-2022-1471
+
+- [https://github.com/odysseas404/ITC4247-Final-Project-Security-analysis-of-the-Pippo-Java-web-framework](https://github.com/odysseas404/ITC4247-Final-Project-Security-analysis-of-the-Pippo-Java-web-framework) : ![starts](https://img.shields.io/github/stars/odysseas404/ITC4247-Final-Project-Security-analysis-of-the-Pippo-Java-web-framework.svg) ![forks](https://img.shields.io/github/forks/odysseas404/ITC4247-Final-Project-Security-analysis-of-the-Pippo-Java-web-framework.svg)
+
 ## CVE-2023-25813
 
 - [https://github.com/junhye-park/homework-sequelize-cve-2023-25813](https://github.com/junhye-park/homework-sequelize-cve-2023-25813) : ![starts](https://img.shields.io/github/stars/junhye-park/homework-sequelize-cve-2023-25813.svg) ![forks](https://img.shields.io/github/forks/junhye-park/homework-sequelize-cve-2023-25813.svg)
@@ -82,6 +86,20 @@ The specific flaw exists within the implementation of the parseObjectResponse me
 > FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a software implementation that runs on any commodity hardware. Prior to 1.11.3, sofia_presence_handle_sip_i_message() split the To user of an inbound SIP MESSAGE on a plus sign and treated the left side as a chat protocol selector. Selecting the api chat proto reached switch_api_execute(), allowing a peer whose MESSAGE was accepted to run FreeSWITCH API commands, including oper
 
 - [https://github.com/DeathShotXD/SIP2Shell](https://github.com/DeathShotXD/SIP2Shell) : ![starts](https://img.shields.io/github/stars/DeathShotXD/SIP2Shell.svg) ![forks](https://img.shields.io/github/forks/DeathShotXD/SIP2Shell.svg)
+- [https://github.com/mehmet-emir-eroglu/CVE-2026-116779](https://github.com/mehmet-emir-eroglu/CVE-2026-116779) : ![starts](https://img.shields.io/github/stars/mehmet-emir-eroglu/CVE-2026-116779.svg) ![forks](https://img.shields.io/github/forks/mehmet-emir-eroglu/CVE-2026-116779.svg)
+
+## CVE-2026-118989
+> WebToffee Product Import Export for WooCommerce 2.5.1 before 2.6.8 contains a server-side request forgery vulnerability in download_remote_file that allows shop_manager users to reach internal services via redirects. Attackers can submit a .csv URL that returns an HTTP 302 redirect to an internal address, causing the server to fetch internal responses and return them as import data.
+
+- [https://github.com/sarvarr1/CVE-2026-118989-webtoffee-ssrf](https://github.com/sarvarr1/CVE-2026-118989-webtoffee-ssrf) : ![starts](https://img.shields.io/github/stars/sarvarr1/CVE-2026-118989-webtoffee-ssrf.svg) ![forks](https://img.shields.io/github/forks/sarvarr1/CVE-2026-118989-webtoffee-ssrf.svg)
+
+## CVE-2026-119618
+> Concurrent Execution using Shared Resource with Improper Synchronization vulnerability in Apache HTTP Server&#x27;s mod_http2 in assign_headers() can lead to RCE.
+
+This issue affects Apache HTTP Server: from 2.4.55 through 2.4.70.
+Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
+
+- [https://github.com/studiogangster/CVE-2026-119618](https://github.com/studiogangster/CVE-2026-119618) : ![starts](https://img.shields.io/github/stars/studiogangster/CVE-2026-119618.svg) ![forks](https://img.shields.io/github/forks/studiogangster/CVE-2026-119618.svg)
 
 ## CVE-2026-123158
 > sshd in OpenSSH before 10.6p2 on Linux, when musl libc is used without PAM, lacks a workaround for a password authentication bypass (related to misinterpretation of whether a string is intended to be a password hash). For some configurations of accounts, any password between 256 and 1024 characters succeeds. An example of a platform using musl libc without PAM is Alpine Linux.
@@ -97,6 +115,7 @@ The specific flaw exists within the implementation of the parseObjectResponse me
 
 - [https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751](https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751) : ![starts](https://img.shields.io/github/stars/Sorganeil/Duplicate2Shell-CVE-2026-123751.svg) ![forks](https://img.shields.io/github/forks/Sorganeil/Duplicate2Shell-CVE-2026-123751.svg)
 - [https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755](https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755) : ![starts](https://img.shields.io/github/stars/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755.svg) ![forks](https://img.shields.io/github/forks/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755.svg)
+- [https://github.com/tempiltin/Duplicate2Shell-CVE-2026-123751](https://github.com/tempiltin/Duplicate2Shell-CVE-2026-123751) : ![starts](https://img.shields.io/github/stars/tempiltin/Duplicate2Shell-CVE-2026-123751.svg) ![forks](https://img.shields.io/github/forks/tempiltin/Duplicate2Shell-CVE-2026-123751.svg)
 
 ## CVE-2026-124002
 > XWEB EVO versions 5.2.3 through before 5.7.0 contains a pre-authentication OS command injection vulnerability that allows unauthenticated remote attackers to execute arbitrary OS commands by injecting shell metacharacters into the username field of login.lua, cleanout.lua, or api.lua before the password check occurs. Attackers can exploit this flaw combined with the setuid-root wlua interpreter to execute commands with root privileges, achieving full system compromise. This product line reached 
@@ -154,6 +173,41 @@ The specific flaw exists within the implementation of the parseObjectResponse me
 
 - [https://github.com/googlesky/CVE-2026-129354](https://github.com/googlesky/CVE-2026-129354) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129354.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129354.svg)
 
+## CVE-2026-129355
+
+- [https://github.com/googlesky/CVE-2026-129355](https://github.com/googlesky/CVE-2026-129355) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129355.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129355.svg)
+
+## CVE-2026-19553
+> ssl.SSLContext.wrap_bio() didn&#x27;t require the server_hostname argument
+to not be None if ssl.SSLContext.check_hostname was set. Due to a
+missing parameter check in SSLObject, if the server_hostname argument
+isn&#x27;t supplied then hostname verification would be silently skipped.
+
+
+This defect could lead to programs where certificate hostname verification
+*appeared* to be succeeding with SSLContext.check_hostname = True and no
+ValueError being raised due to misconfiguration.
+
+
+If the program passes a 
+
+- [https://github.com/Tharsh2003/INF2005-ACW3-PythonSSL](https://github.com/Tharsh2003/INF2005-ACW3-PythonSSL) : ![starts](https://img.shields.io/github/stars/Tharsh2003/INF2005-ACW3-PythonSSL.svg) ![forks](https://img.shields.io/github/forks/Tharsh2003/INF2005-ACW3-PythonSSL.svg)
+
+## CVE-2026-31402
+> In the Linux kernel, the following vulnerability has been resolved:
+
+nfsd: fix heap overflow in NFSv4.0 LOCK replay cache
+
+The NFSv4.0 replay cache uses a fixed 112-byte inline buffer
+(rp_ibuf[NFSD4_REPLAY_ISIZE]) to store encoded operation responses.
+This size was calculated based on OPEN responses and does not account
+for LOCK denied responses, which include the conflicting lock owner as
+a variable-length field up to 1024 bytes (NFS4_OPAQUE_LIMIT).
+
+When a LOCK operation is denied due to a con
+
+- [https://github.com/ashrafzaryouh/CVE-2026-31402](https://github.com/ashrafzaryouh/CVE-2026-31402) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-31402.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-31402.svg)
+
 ## CVE-2026-39755
 > Subscriber Arbitrary File Upload in WP Duplicate &lt;= 1.1.11 versions.
 
@@ -171,6 +225,10 @@ The specific flaw exists within the implementation of the parseObjectResponse me
 ## CVE-2026-55450
 
 - [https://github.com/ashrafzaryouh/CVE-2026-55450](https://github.com/ashrafzaryouh/CVE-2026-55450) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-55450.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-55450.svg)
+
+## CVE-2026-62735
+
+- [https://github.com/OArt3misQAQ/CVE-2026-62735-Rust](https://github.com/OArt3misQAQ/CVE-2026-62735-Rust) : ![starts](https://img.shields.io/github/stars/OArt3misQAQ/CVE-2026-62735-Rust.svg) ![forks](https://img.shields.io/github/forks/OArt3misQAQ/CVE-2026-62735-Rust.svg)
 
 ## CVE-2026-63030
 > WordPress 6.9.x before 6.9.5 and 7.0.x before 7.0.2 is affected by a REST API batch endpoint route confusion issue which, combined with the author__not_in WP_Query SQL Injection (CVE-2026-60137), could allow an attacker to perform SQL Injection and achieve Remote Code Execution.

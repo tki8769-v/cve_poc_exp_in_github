@@ -11,6 +11,10 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-129355
+
+- [https://github.com/googlesky/CVE-2026-129355](https://github.com/googlesky/CVE-2026-129355) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129355.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129355.svg)
+
 ## CVE-2026-129354
 
 - [https://github.com/googlesky/CVE-2026-129354](https://github.com/googlesky/CVE-2026-129354) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129354.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129354.svg)
@@ -277,6 +281,8 @@
 - [https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755](https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755) : ![starts](https://img.shields.io/github/stars/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755.svg) ![forks](https://img.shields.io/github/forks/Sorganeil/Duplicate2Shell-CVE-2026-123751-CVE-2026-39755.svg)
 
 - [https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751](https://github.com/Sorganeil/Duplicate2Shell-CVE-2026-123751) : ![starts](https://img.shields.io/github/stars/Sorganeil/Duplicate2Shell-CVE-2026-123751.svg) ![forks](https://img.shields.io/github/forks/Sorganeil/Duplicate2Shell-CVE-2026-123751.svg)
+
+- [https://github.com/tempiltin/Duplicate2Shell-CVE-2026-123751](https://github.com/tempiltin/Duplicate2Shell-CVE-2026-123751) : ![starts](https://img.shields.io/github/stars/tempiltin/Duplicate2Shell-CVE-2026-123751.svg) ![forks](https://img.shields.io/github/forks/tempiltin/Duplicate2Shell-CVE-2026-123751.svg)
 
 ## CVE-2026-123618
 > ABP Framework before 10.7.1 contains an authentication bypass vulnerability that skips account state and two-factor checks when password login succeeds through a registered IExternalLoginProvider. Attackers holding the external directory password for deactivated, locked, or 2FA-protected accounts can obtain valid access tokens from the /connect/token password grant.
@@ -568,6 +574,8 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 
 - [https://github.com/terminat0r7031/CVE-2026-119618](https://github.com/terminat0r7031/CVE-2026-119618) : ![starts](https://img.shields.io/github/stars/terminat0r7031/CVE-2026-119618.svg) ![forks](https://img.shields.io/github/forks/terminat0r7031/CVE-2026-119618.svg)
 
+- [https://github.com/studiogangster/CVE-2026-119618](https://github.com/studiogangster/CVE-2026-119618) : ![starts](https://img.shields.io/github/stars/studiogangster/CVE-2026-119618.svg) ![forks](https://img.shields.io/github/forks/studiogangster/CVE-2026-119618.svg)
+
 ## CVE-2026-119200
 > Nuxt is an open-source web development framework for Vue.js. From 4.6.0 until 4.6.3, Nuxt resolves literal or percent-encoded dot segments before rendering a page while Nitro routing, server/middleware checks, and server route rules evaluate the unresolved path. A request such as /%2e/admin can therefore render app/pages/admin.vue and its server-rendered data while checks keyed to /admin, redirects, or per-route security headers do not apply. API handlers, appMiddleware, Nuxt 3, and Nuxt 4.0.0 t
 
@@ -581,6 +589,11 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 > open 7.2.0 before 11.0.0 contains an OS command injection vulnerability that allows attackers to execute PowerShell code by supplying crafted URLs on Windows and WSL. Attackers can embed $(...) subexpressions in URLs, such as OAuth authorization_endpoint values from malicious MCP servers, which execute when index.js passes them unescaped to powershell -EncodedCommand.
 
 - [https://github.com/shouvikkkk/oauth-sink-check](https://github.com/shouvikkkk/oauth-sink-check) : ![starts](https://img.shields.io/github/stars/shouvikkkk/oauth-sink-check.svg) ![forks](https://img.shields.io/github/forks/shouvikkkk/oauth-sink-check.svg)
+
+## CVE-2026-118989
+> WebToffee Product Import Export for WooCommerce 2.5.1 before 2.6.8 contains a server-side request forgery vulnerability in download_remote_file that allows shop_manager users to reach internal services via redirects. Attackers can submit a .csv URL that returns an HTTP 302 redirect to an internal address, causing the server to fetch internal responses and return them as import data.
+
+- [https://github.com/sarvarr1/CVE-2026-118989-webtoffee-ssrf](https://github.com/sarvarr1/CVE-2026-118989-webtoffee-ssrf) : ![starts](https://img.shields.io/github/stars/sarvarr1/CVE-2026-118989-webtoffee-ssrf.svg) ![forks](https://img.shields.io/github/forks/sarvarr1/CVE-2026-118989-webtoffee-ssrf.svg)
 
 ## CVE-2026-118776
 > Forge (also called node-forge) is a native implementation of Transport Layer Security in JavaScript. Prior to 1.4.1, the affected implementation used decipher.finish(), CBC and ECB modes, PKCS#7 padding to process the relevant input or security decision. node-forge validated only the final byte of PKCS#7 padding during CBC and ECB decryption and accepted zero, oversized, or mismatched padding bytes. Malformed ciphertext could consequently be accepted and up to four plaintext blocks could be sile
@@ -737,6 +750,8 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 - [https://github.com/al4n4n/CVE-2026-116779](https://github.com/al4n4n/CVE-2026-116779) : ![starts](https://img.shields.io/github/stars/al4n4n/CVE-2026-116779.svg) ![forks](https://img.shields.io/github/forks/al4n4n/CVE-2026-116779.svg)
 
 - [https://github.com/DeathShotXD/SIP2Shell](https://github.com/DeathShotXD/SIP2Shell) : ![starts](https://img.shields.io/github/stars/DeathShotXD/SIP2Shell.svg) ![forks](https://img.shields.io/github/forks/DeathShotXD/SIP2Shell.svg)
+
+- [https://github.com/mehmet-emir-eroglu/CVE-2026-116779](https://github.com/mehmet-emir-eroglu/CVE-2026-116779) : ![starts](https://img.shields.io/github/stars/mehmet-emir-eroglu/CVE-2026-116779.svg) ![forks](https://img.shields.io/github/forks/mehmet-emir-eroglu/CVE-2026-116779.svg)
 
 ## CVE-2026-116692
 > MLflow is an open source AI engineering platform for agents, large language models, and machine learning models. From 3.12.0rc0 until 3.17.0, third-party scorer deserialization in mlflow/genai/scorers/base.py accepts request-selected descendants of THIRD_PARTY_SCORER_ALLOWED_MODULES rather than requiring an exact allowed module. A caller can use MLflow artifact endpoints to place a Python module beneath a writable allowed package and submit its module and class through /ajax-api/3.0/mlflow/score
@@ -10099,6 +10114,8 @@ Users are advised to upgrade to Apache InLong's  2.4.0 or cherry-pick [1] to sol
 - [https://github.com/nhh9905/CVE-2026-62735](https://github.com/nhh9905/CVE-2026-62735) : ![starts](https://img.shields.io/github/stars/nhh9905/CVE-2026-62735.svg) ![forks](https://img.shields.io/github/forks/nhh9905/CVE-2026-62735.svg)
 
 - [https://github.com/HackSpeak/CVE-2026-62735](https://github.com/HackSpeak/CVE-2026-62735) : ![starts](https://img.shields.io/github/stars/HackSpeak/CVE-2026-62735.svg) ![forks](https://img.shields.io/github/forks/HackSpeak/CVE-2026-62735.svg)
+
+- [https://github.com/OArt3misQAQ/CVE-2026-62735-Rust](https://github.com/OArt3misQAQ/CVE-2026-62735-Rust) : ![starts](https://img.shields.io/github/stars/OArt3misQAQ/CVE-2026-62735-Rust.svg) ![forks](https://img.shields.io/github/forks/OArt3misQAQ/CVE-2026-62735-Rust.svg)
 
 ## CVE-2026-62367
 > Vikunja is an open-source self-hosted task management platform. In versions 1.0.0 through 2.3.0, when an administrator enables the per-provider `emailfallback` option on an OpenID Connect provider, Vikunja links an SSO login to a pre-existing local (username+password) account using only the `email` claim from the IdP. The fallback never checks an `email_verified` (or Microsoft `xms_edov`) signal and never requires the matched account&#x27;s password. An attacker who can obtain a token from the config
@@ -20022,6 +20039,8 @@ correct response on the original request.
 
 - [https://github.com/0xBlackash/CVE-2026-31402](https://github.com/0xBlackash/CVE-2026-31402) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-31402.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-31402.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-31402](https://github.com/ashrafzaryouh/CVE-2026-31402) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-31402.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-31402.svg)
+
 ## CVE-2026-31309
  Improper authorization in the /tequilapi/config/user endpoint of Mysterium Node from v1.21.1-rc0 before v1.36.0 allows an unauthenticated attacker to arbitrarily overwrite the node's configuration and achieve a full node takeover via a crafted POST request.
 
@@ -24256,6 +24275,8 @@ If the program passes a
 - [https://github.com/abraxas/cve-2026-19553-wrap-bio](https://github.com/abraxas/cve-2026-19553-wrap-bio) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-19553-wrap-bio.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-19553-wrap-bio.svg)
 
 - [https://github.com/monkeyyey/acw3-tls-lab](https://github.com/monkeyyey/acw3-tls-lab) : ![starts](https://img.shields.io/github/stars/monkeyyey/acw3-tls-lab.svg) ![forks](https://img.shields.io/github/forks/monkeyyey/acw3-tls-lab.svg)
+
+- [https://github.com/Tharsh2003/INF2005-ACW3-PythonSSL](https://github.com/Tharsh2003/INF2005-ACW3-PythonSSL) : ![starts](https://img.shields.io/github/stars/Tharsh2003/INF2005-ACW3-PythonSSL.svg) ![forks](https://img.shields.io/github/forks/Tharsh2003/INF2005-ACW3-PythonSSL.svg)
 
 ## CVE-2026-19516
  A caller-supplied X-Grafana-URL request header controls the destination of mcp-grafana's outbound requests, and the grafana_api_request tool lets the caller also choose the HTTP method, path, and body. Because the destination is not restricted to the configured Grafana instance, a caller can direct requests at internal, loopback, and link-local network services (including metadata endpoints) and read the responses, resulting in server-side request forgery. The fix for CVE-2026-15583 prevented the configured service-account token from being sent to unintended destinations but did not restrict the destinations themselves.
@@ -76161,6 +76182,8 @@ the client's API server credentials to third parties.
 - [https://github.com/seal-sec-demo-2/yaml-payload-2](https://github.com/seal-sec-demo-2/yaml-payload-2) : ![starts](https://img.shields.io/github/stars/seal-sec-demo-2/yaml-payload-2.svg) ![forks](https://img.shields.io/github/forks/seal-sec-demo-2/yaml-payload-2.svg)
 
 - [https://github.com/anupamojha-eng/sentinel-transitive-cve-demo](https://github.com/anupamojha-eng/sentinel-transitive-cve-demo) : ![starts](https://img.shields.io/github/stars/anupamojha-eng/sentinel-transitive-cve-demo.svg) ![forks](https://img.shields.io/github/forks/anupamojha-eng/sentinel-transitive-cve-demo.svg)
+
+- [https://github.com/odysseas404/ITC4247-Final-Project-Security-analysis-of-the-Pippo-Java-web-framework](https://github.com/odysseas404/ITC4247-Final-Project-Security-analysis-of-the-Pippo-Java-web-framework) : ![starts](https://img.shields.io/github/stars/odysseas404/ITC4247-Final-Project-Security-analysis-of-the-Pippo-Java-web-framework.svg) ![forks](https://img.shields.io/github/forks/odysseas404/ITC4247-Final-Project-Security-analysis-of-the-Pippo-Java-web-framework.svg)
 
 ## CVE-2022-1442
  The Metform WordPress plugin is vulnerable to sensitive information disclosure due to improper access control in the ~/core/forms/action.php file which can be exploited by an unauthenticated attacker to view all API keys and secrets of integrated third-party APIs like that of PayPal, Stripe, Mailchimp, Hubspot, HelpScout, reCAPTCHA and many more, in versions up to and including 2.1.3.

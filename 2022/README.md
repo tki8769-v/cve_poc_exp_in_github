@@ -7438,6 +7438,8 @@ the client's API server credentials to third parties.
 
 - [https://github.com/anupamojha-eng/sentinel-transitive-cve-demo](https://github.com/anupamojha-eng/sentinel-transitive-cve-demo) : ![starts](https://img.shields.io/github/stars/anupamojha-eng/sentinel-transitive-cve-demo.svg) ![forks](https://img.shields.io/github/forks/anupamojha-eng/sentinel-transitive-cve-demo.svg)
 
+- [https://github.com/odysseas404/ITC4247-Final-Project-Security-analysis-of-the-Pippo-Java-web-framework](https://github.com/odysseas404/ITC4247-Final-Project-Security-analysis-of-the-Pippo-Java-web-framework) : ![starts](https://img.shields.io/github/stars/odysseas404/ITC4247-Final-Project-Security-analysis-of-the-Pippo-Java-web-framework.svg) ![forks](https://img.shields.io/github/forks/odysseas404/ITC4247-Final-Project-Security-analysis-of-the-Pippo-Java-web-framework.svg)
+
 ## CVE-2022-1442
  The Metform WordPress plugin is vulnerable to sensitive information disclosure due to improper access control in the ~/core/forms/action.php file which can be exploited by an unauthenticated attacker to view all API keys and secrets of integrated third-party APIs like that of PayPal, Stripe, Mailchimp, Hubspot, HelpScout, reCAPTCHA and many more, in versions up to and including 2.1.3.
 
