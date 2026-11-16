@@ -18,6 +18,14 @@
 
 - [https://github.com/googlesky/CVE-2026-129359](https://github.com/googlesky/CVE-2026-129359) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129359.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129359.svg)
 
+## CVE-2026-129358
+
+- [https://github.com/googlesky/CVE-2026-129358](https://github.com/googlesky/CVE-2026-129358) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129358.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129358.svg)
+
+## CVE-2026-129357
+
+- [https://github.com/googlesky/CVE-2026-129357](https://github.com/googlesky/CVE-2026-129357) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129357.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129357.svg)
+
 ## CVE-2026-129355
 
 - [https://github.com/googlesky/CVE-2026-129355](https://github.com/googlesky/CVE-2026-129355) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129355.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129355.svg)
@@ -414,6 +422,8 @@
 
 - [https://github.com/googlesky/CVE-2026-123039](https://github.com/googlesky/CVE-2026-123039) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-123039.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-123039.svg)
 
+- [https://github.com/foxcornlab/checkpoint-gaia-scanner](https://github.com/foxcornlab/checkpoint-gaia-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/checkpoint-gaia-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/checkpoint-gaia-scanner.svg)
+
 ## CVE-2026-123025
 > An OS Command Injection vulnerability was discovered in the Google Cloud DNS validation module of the OPNsense os-acme-client plugin through 4.17. The DnsGcloud::prepare() method decodes the dns_gcloud_key model field and directly interpolates the string fields gcloud_account and gcloud_project into a shell command passed to proc_open() via LeUtils::run_shell_command() without any validation or escaping. A remote authenticated user with privileges to issue or renew certificates through the WebGU
 
@@ -772,6 +782,8 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 - [https://github.com/DeathShotXD/SIP2Shell](https://github.com/DeathShotXD/SIP2Shell) : ![starts](https://img.shields.io/github/stars/DeathShotXD/SIP2Shell.svg) ![forks](https://img.shields.io/github/forks/DeathShotXD/SIP2Shell.svg)
 
 - [https://github.com/mehmet-emir-eroglu/CVE-2026-116779](https://github.com/mehmet-emir-eroglu/CVE-2026-116779) : ![starts](https://img.shields.io/github/stars/mehmet-emir-eroglu/CVE-2026-116779.svg) ![forks](https://img.shields.io/github/forks/mehmet-emir-eroglu/CVE-2026-116779.svg)
+
+- [https://github.com/pentestershell/CVE-2026-116779](https://github.com/pentestershell/CVE-2026-116779) : ![starts](https://img.shields.io/github/stars/pentestershell/CVE-2026-116779.svg) ![forks](https://img.shields.io/github/forks/pentestershell/CVE-2026-116779.svg)
 
 ## CVE-2026-116692
 > MLflow is an open source AI engineering platform for agents, large language models, and machine learning models. From 3.12.0rc0 until 3.17.0, third-party scorer deserialization in mlflow/genai/scorers/base.py accepts request-selected descendants of THIRD_PARTY_SCORER_ALLOWED_MODULES rather than requiring an exact allowed module. A caller can use MLflow artifact endpoints to place a Python module beneath a writable allowed package and submit its module and class through /ajax-api/3.0/mlflow/score
@@ -1230,6 +1242,11 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 
 - [https://github.com/Lyutoon/CVE-2026-112487](https://github.com/Lyutoon/CVE-2026-112487) : ![starts](https://img.shields.io/github/stars/Lyutoon/CVE-2026-112487.svg) ![forks](https://img.shields.io/github/forks/Lyutoon/CVE-2026-112487.svg)
 
+## CVE-2026-112477
+> A race condition was addressed with improved locking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2, tvOS 27.2, visionOS 27.2, watchOS 27.2. An app may be able to cause unexpected system termination or corrupt kernel memory.
+
+- [https://github.com/Sparticle62ops/israce-probe](https://github.com/Sparticle62ops/israce-probe) : ![starts](https://img.shields.io/github/stars/Sparticle62ops/israce-probe.svg) ![forks](https://img.shields.io/github/forks/Sparticle62ops/israce-probe.svg)
+
 ## CVE-2026-112445
 
 - [https://github.com/Mas0nShi/CVE-2026-112445](https://github.com/Mas0nShi/CVE-2026-112445) : ![starts](https://img.shields.io/github/stars/Mas0nShi/CVE-2026-112445.svg) ![forks](https://img.shields.io/github/forks/Mas0nShi/CVE-2026-112445.svg)
@@ -1309,6 +1326,8 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 - [https://github.com/jayeshpuri/CVE-2026-111760](https://github.com/jayeshpuri/CVE-2026-111760) : ![starts](https://img.shields.io/github/stars/jayeshpuri/CVE-2026-111760.svg) ![forks](https://img.shields.io/github/forks/jayeshpuri/CVE-2026-111760.svg)
 
 - [https://github.com/SSJCorpSec/cve-2026-111760-40b639e0](https://github.com/SSJCorpSec/cve-2026-111760-40b639e0) : ![starts](https://img.shields.io/github/stars/SSJCorpSec/cve-2026-111760-40b639e0.svg) ![forks](https://img.shields.io/github/forks/SSJCorpSec/cve-2026-111760-40b639e0.svg)
+
+- [https://github.com/SSJCorpSec/cve-2026-111760-b3-85967fc9](https://github.com/SSJCorpSec/cve-2026-111760-b3-85967fc9) : ![starts](https://img.shields.io/github/stars/SSJCorpSec/cve-2026-111760-b3-85967fc9.svg) ![forks](https://img.shields.io/github/forks/SSJCorpSec/cve-2026-111760-b3-85967fc9.svg)
 
 ## CVE-2026-111585
 > An integer overflow in the remote-control
@@ -1552,6 +1571,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/OhMyDitzzy/CVE-2026-111497](https://github.com/OhMyDitzzy/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/OhMyDitzzy/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/OhMyDitzzy/CVE-2026-111497.svg)
 
 - [https://github.com/alequinterok/CVE-2026-111497](https://github.com/alequinterok/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/alequinterok/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/alequinterok/CVE-2026-111497.svg)
+
+- [https://github.com/TimmyTurner51/brotli-lab](https://github.com/TimmyTurner51/brotli-lab) : ![starts](https://img.shields.io/github/stars/TimmyTurner51/brotli-lab.svg) ![forks](https://img.shields.io/github/forks/TimmyTurner51/brotli-lab.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -4377,6 +4398,8 @@ but the node is still queued on tsk, which
 
 - [https://github.com/BKV0369/CVE-2026-98260-Motorola](https://github.com/BKV0369/CVE-2026-98260-Motorola) : ![starts](https://img.shields.io/github/stars/BKV0369/CVE-2026-98260-Motorola.svg) ![forks](https://img.shields.io/github/forks/BKV0369/CVE-2026-98260-Motorola.svg)
 
+- [https://github.com/Yunxi422/CVE-2026-98260-OPD2405](https://github.com/Yunxi422/CVE-2026-98260-OPD2405) : ![starts](https://img.shields.io/github/stars/Yunxi422/CVE-2026-98260-OPD2405.svg) ![forks](https://img.shields.io/github/forks/Yunxi422/CVE-2026-98260-OPD2405.svg)
+
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -6662,6 +6685,8 @@ This issue affects GiveWP: from n/a through 4.16.7.1.
 
 - [https://github.com/BarwSirati/CVE-2026-81963-TrustedDpx](https://github.com/BarwSirati/CVE-2026-81963-TrustedDpx) : ![starts](https://img.shields.io/github/stars/BarwSirati/CVE-2026-81963-TrustedDpx.svg) ![forks](https://img.shields.io/github/forks/BarwSirati/CVE-2026-81963-TrustedDpx.svg)
 
+- [https://github.com/nithishgupta-cys/CVE-2026-81963-TrustedDpx](https://github.com/nithishgupta-cys/CVE-2026-81963-TrustedDpx) : ![starts](https://img.shields.io/github/stars/nithishgupta-cys/CVE-2026-81963-TrustedDpx.svg) ![forks](https://img.shields.io/github/forks/nithishgupta-cys/CVE-2026-81963-TrustedDpx.svg)
+
 ## CVE-2026-81861
  CWE-522: Insufficiently Protected Credentials vulnerability that could result in exposure of authentication information and unauthorized access to RTU functionality.
 
@@ -8614,6 +8639,8 @@ relocates the head.
 
 - [https://github.com/suominen/pppoeject](https://github.com/suominen/pppoeject) : ![starts](https://img.shields.io/github/stars/suominen/pppoeject.svg) ![forks](https://img.shields.io/github/forks/suominen/pppoeject.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-68121](https://github.com/ashrafzaryouh/CVE-2026-68121) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-68121.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-68121.svg)
+
 ## CVE-2026-68083
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -9354,6 +9381,8 @@ sequence counter changes across the ILOCK cycle.
 - [https://github.com/vulnquest58/VQ-RefluxCore](https://github.com/vulnquest58/VQ-RefluxCore) : ![starts](https://img.shields.io/github/stars/vulnquest58/VQ-RefluxCore.svg) ![forks](https://img.shields.io/github/forks/vulnquest58/VQ-RefluxCore.svg)
 
 - [https://github.com/k4ntux/COWSlip](https://github.com/k4ntux/COWSlip) : ![starts](https://img.shields.io/github/stars/k4ntux/COWSlip.svg) ![forks](https://img.shields.io/github/forks/k4ntux/COWSlip.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-64600](https://github.com/ashrafzaryouh/CVE-2026-64600) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-64600.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-64600.svg)
 
 ## CVE-2026-64564
  In the Linux kernel, the following vulnerability has been resolved:
@@ -11495,6 +11524,10 @@ Users are recommended to upgrade to version 11.0.23, 10.1.56 or 9.0.119 which fi
 - [https://github.com/0xredash/CVE-2026-54121](https://github.com/0xredash/CVE-2026-54121) : ![starts](https://img.shields.io/github/stars/0xredash/CVE-2026-54121.svg) ![forks](https://img.shields.io/github/forks/0xredash/CVE-2026-54121.svg)
 
 - [https://github.com/AnubisRedTeam/CVE-2026-54121-Certighost](https://github.com/AnubisRedTeam/CVE-2026-54121-Certighost) : ![starts](https://img.shields.io/github/stars/AnubisRedTeam/CVE-2026-54121-Certighost.svg) ![forks](https://img.shields.io/github/forks/AnubisRedTeam/CVE-2026-54121-Certighost.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-54121](https://github.com/ashrafzaryouh/CVE-2026-54121) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-54121.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-54121.svg)
+
+- [https://github.com/anubis-update/CVE-2026-54121-Certighost](https://github.com/anubis-update/CVE-2026-54121-Certighost) : ![starts](https://img.shields.io/github/stars/anubis-update/CVE-2026-54121-Certighost.svg) ![forks](https://img.shields.io/github/forks/anubis-update/CVE-2026-54121-Certighost.svg)
 
 ## CVE-2026-54107
  Concurrent execution using shared resource with improper synchronization ('race condition') in Windows Win32K allows an authorized attacker to elevate privileges locally.
@@ -24750,6 +24783,8 @@ This issue affects pgAdmin 4: from 9.13 before 9.17.
 
 - [https://github.com/dichen-L/CVE-2026-16723-vul](https://github.com/dichen-L/CVE-2026-16723-vul) : ![starts](https://img.shields.io/github/stars/dichen-L/CVE-2026-16723-vul.svg) ![forks](https://img.shields.io/github/forks/dichen-L/CVE-2026-16723-vul.svg)
 
+- [https://github.com/punksitr-sys/CVE-2026-16723](https://github.com/punksitr-sys/CVE-2026-16723) : ![starts](https://img.shields.io/github/stars/punksitr-sys/CVE-2026-16723.svg) ![forks](https://img.shields.io/github/forks/punksitr-sys/CVE-2026-16723.svg)
+
 ## CVE-2026-16540
  The Simply Schedule Appointments WordPress plugin before 1.6.12.6 does not correctly restrict a bulk appointment operation to the requester's own records, allowing unauthenticated users to retrieve the personal data of all appointments across the site and, on premium editions, to permanently delete them.
 
@@ -24960,6 +24995,8 @@ disruption of device services, resulting in a denial-of-service (DoS)
 condition.
 
 - [https://github.com/HORKimhab/CVE-2026-15315](https://github.com/HORKimhab/CVE-2026-15315) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-15315.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-15315.svg)
+
+- [https://github.com/Moyai08/Tapo-CVE-2026-15315-Poc](https://github.com/Moyai08/Tapo-CVE-2026-15315-Poc) : ![starts](https://img.shields.io/github/stars/Moyai08/Tapo-CVE-2026-15315-Poc.svg) ![forks](https://img.shields.io/github/forks/Moyai08/Tapo-CVE-2026-15315-Poc.svg)
 
 ## CVE-2026-15282
  The Instant Appointment plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'insapp_upload_image_as_attachment' function in all versions up to, and including, 1.2. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.

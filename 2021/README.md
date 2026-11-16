@@ -4342,6 +4342,10 @@ After installing this security update, you must manually delete all shadow copie
 
 - [https://github.com/Goultarde/RemoteMouse-3.008-RCE](https://github.com/Goultarde/RemoteMouse-3.008-RCE) : ![starts](https://img.shields.io/github/stars/Goultarde/RemoteMouse-3.008-RCE.svg) ![forks](https://img.shields.io/github/forks/Goultarde/RemoteMouse-3.008-RCE.svg)
 
+## CVE-2021-35394
+
+- [https://github.com/graphworlok/cve-2021-35394-ecosystem](https://github.com/graphworlok/cve-2021-35394-ecosystem) : ![starts](https://img.shields.io/github/stars/graphworlok/cve-2021-35394-ecosystem.svg) ![forks](https://img.shields.io/github/forks/graphworlok/cve-2021-35394-ecosystem.svg)
+
 ## CVE-2021-35296
  An issue in the administrator authentication panel of PTCL HG150-Ub v3.0 allows attackers to bypass authentication via modification of the cookie value and Response Path.
 
