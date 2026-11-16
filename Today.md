@@ -1,4 +1,20 @@
 # Update 2026-11-16
+## CVE-2004-1561
+
+- [https://github.com/anway8090/Tryhackme-ice-lab-](https://github.com/anway8090/Tryhackme-ice-lab-) : ![starts](https://img.shields.io/github/stars/anway8090/Tryhackme-ice-lab-.svg) ![forks](https://img.shields.io/github/forks/anway8090/Tryhackme-ice-lab-.svg)
+
+## CVE-2011-2523
+
+- [https://github.com/Davidrs000/Tproot-Dockerlabs](https://github.com/Davidrs000/Tproot-Dockerlabs) : ![starts](https://img.shields.io/github/stars/Davidrs000/Tproot-Dockerlabs.svg) ![forks](https://img.shields.io/github/forks/Davidrs000/Tproot-Dockerlabs.svg)
+
+## CVE-2017-0199
+
+- [https://github.com/avidosa/MalwareStaticLab](https://github.com/avidosa/MalwareStaticLab) : ![starts](https://img.shields.io/github/stars/avidosa/MalwareStaticLab.svg) ![forks](https://img.shields.io/github/forks/avidosa/MalwareStaticLab.svg)
+
+## CVE-2017-5941
+
+- [https://github.com/DLL00P/CVE-2017-5941](https://github.com/DLL00P/CVE-2017-5941) : ![starts](https://img.shields.io/github/stars/DLL00P/CVE-2017-5941.svg) ![forks](https://img.shields.io/github/forks/DLL00P/CVE-2017-5941.svg)
+
 ## CVE-2021-35394
 
 - [https://github.com/graphworlok/cve-2021-35394-ecosystem](https://github.com/graphworlok/cve-2021-35394-ecosystem) : ![starts](https://img.shields.io/github/stars/graphworlok/cve-2021-35394-ecosystem.svg) ![forks](https://img.shields.io/github/forks/graphworlok/cve-2021-35394-ecosystem.svg)
@@ -6,6 +22,15 @@
 ## CVE-2024-42327
 
 - [https://github.com/TheCyberGeek/CVE-2024-42327](https://github.com/TheCyberGeek/CVE-2024-42327) : ![starts](https://img.shields.io/github/stars/TheCyberGeek/CVE-2024-42327.svg) ![forks](https://img.shields.io/github/forks/TheCyberGeek/CVE-2024-42327.svg)
+
+## CVE-2026-109618
+> PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
+
+- [https://github.com/JohanYP/techcorp-forense-lab](https://github.com/JohanYP/techcorp-forense-lab) : ![starts](https://img.shields.io/github/stars/JohanYP/techcorp-forense-lab.svg) ![forks](https://img.shields.io/github/forks/JohanYP/techcorp-forense-lab.svg)
+
+## CVE-2026-110960
+
+- [https://github.com/LLCForge/CVE-2026-110960](https://github.com/LLCForge/CVE-2026-110960) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-110960.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-110960.svg)
 
 ## CVE-2026-111497
 > A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream.
@@ -17,6 +42,11 @@
 Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.0 to the latest available version: 1.0.10 or 1.1.1 or 1
 
 - [https://github.com/TimmyTurner51/brotli-lab](https://github.com/TimmyTurner51/brotli-lab) : ![starts](https://img.shields.io/github/stars/TimmyTurner51/brotli-lab.svg) ![forks](https://img.shields.io/github/forks/TimmyTurner51/brotli-lab.svg)
+- [https://github.com/csakala-art/cbci-libbrotli-patch-25551](https://github.com/csakala-art/cbci-libbrotli-patch-25551) : ![starts](https://img.shields.io/github/stars/csakala-art/cbci-libbrotli-patch-25551.svg) ![forks](https://img.shields.io/github/forks/csakala-art/cbci-libbrotli-patch-25551.svg)
+
+## CVE-2026-111559
+
+- [https://github.com/Tymbark7372/CVE-2026-111559](https://github.com/Tymbark7372/CVE-2026-111559) : ![starts](https://img.shields.io/github/stars/Tymbark7372/CVE-2026-111559.svg) ![forks](https://img.shields.io/github/forks/Tymbark7372/CVE-2026-111559.svg)
 
 ## CVE-2026-111760
 
@@ -27,15 +57,67 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/Sparticle62ops/israce-probe](https://github.com/Sparticle62ops/israce-probe) : ![starts](https://img.shields.io/github/stars/Sparticle62ops/israce-probe.svg) ![forks](https://img.shields.io/github/forks/Sparticle62ops/israce-probe.svg)
 
+## CVE-2026-112611
+> An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. Processing a maliciously crafted PDF file may lead to memory corruption.
+
+- [https://github.com/marksvia/CVE-2026-112611-oob](https://github.com/marksvia/CVE-2026-112611-oob) : ![starts](https://img.shields.io/github/stars/marksvia/CVE-2026-112611-oob.svg) ![forks](https://img.shields.io/github/forks/marksvia/CVE-2026-112611-oob.svg)
+
+## CVE-2026-112706
+> A permissions issue was addressed with additional restrictions. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, tvOS 27.2, visionOS 27.2, watchOS 27.2. An app may be able to access sensitive user data.
+
+- [https://github.com/794pn2s6fh-hub/CVE-2026-112706-apple-watch](https://github.com/794pn2s6fh-hub/CVE-2026-112706-apple-watch) : ![starts](https://img.shields.io/github/stars/794pn2s6fh-hub/CVE-2026-112706-apple-watch.svg) ![forks](https://img.shields.io/github/forks/794pn2s6fh-hub/CVE-2026-112706-apple-watch.svg)
+
+## CVE-2026-116331
+> Type confusion in PostgreSQL min/max aggregate optimization allows an object creator to execute arbitrary code as the operating system user running the database, via a user-defined aggregate whose SORTOP option causes the planner to treat the aggregate&#x27;s input and result as the same type when they differ.  Versions before PostgreSQL 18.7, 17.12, 16.16, 15.20, and 14.25 are affected.
+
+- [https://github.com/notdenied/CVE-2026-116331-PoC](https://github.com/notdenied/CVE-2026-116331-PoC) : ![starts](https://img.shields.io/github/stars/notdenied/CVE-2026-116331-PoC.svg) ![forks](https://img.shields.io/github/forks/notdenied/CVE-2026-116331-PoC.svg)
+
 ## CVE-2026-116779
 > FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a software implementation that runs on any commodity hardware. Prior to 1.11.3, sofia_presence_handle_sip_i_message() split the To user of an inbound SIP MESSAGE on a plus sign and treated the left side as a chat protocol selector. Selecting the api chat proto reached switch_api_execute(), allowing a peer whose MESSAGE was accepted to run FreeSWITCH API commands, including oper
 
+- [https://github.com/ashrafzaryouh/CVE-2026-116779](https://github.com/ashrafzaryouh/CVE-2026-116779) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-116779.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-116779.svg)
 - [https://github.com/pentestershell/CVE-2026-116779](https://github.com/pentestershell/CVE-2026-116779) : ![starts](https://img.shields.io/github/stars/pentestershell/CVE-2026-116779.svg) ![forks](https://img.shields.io/github/forks/pentestershell/CVE-2026-116779.svg)
+
+## CVE-2026-119077
+> The ELEX WordPress HelpDesk &amp; Customer Ticketing System plugin for WordPress is vulnerable to PHP Object Injection in all versions up to, and including, 3.3.9 via the &#x27;form (specifically the attacker-controlled ticket_label field inside the url-encoded form string)&#x27; parameter parameter. This is due to missing server-side authentication and the absence of a class allowlist on deserialization, with the only guard being a nonce publicly emitted on any page carrying the [wsdesk_support] shortcode. T
+
+- [https://github.com/0xCyp1337/CVE-2026-119077](https://github.com/0xCyp1337/CVE-2026-119077) : ![starts](https://img.shields.io/github/stars/0xCyp1337/CVE-2026-119077.svg) ![forks](https://img.shields.io/github/forks/0xCyp1337/CVE-2026-119077.svg)
+
+## CVE-2026-119179
+> A flaw in the connection management layer of the MongoDB Node.js driver can leave a pooled network connection in the pool for reuse while data from an earlier operation is still outstanding on it. In applications that enable an optional client-side operation timeout, an unauthenticated party that can send ordinary requests to the application may cause database replies to be paired with the wrong requests. This may result in unintended disclosure of other users&#x27; records, incorrect operation resul
+
+- [https://github.com/LLCForge/CVE-2026-119179](https://github.com/LLCForge/CVE-2026-119179) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-119179.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-119179.svg)
+
+## CVE-2026-119258
+
+- [https://github.com/LLCForge/CVE-2026-119258](https://github.com/LLCForge/CVE-2026-119258) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-119258.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-119258.svg)
+
+## CVE-2026-119618
+> Concurrent Execution using Shared Resource with Improper Synchronization vulnerability in Apache HTTP Server&#x27;s mod_http2 in assign_headers() can lead to RCE.
+
+This issue affects Apache HTTP Server: from 2.4.55 through 2.4.70.
+Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
+
+- [https://github.com/dansaurabh/h2race-check_CVE-2026-119618](https://github.com/dansaurabh/h2race-check_CVE-2026-119618) : ![starts](https://img.shields.io/github/stars/dansaurabh/h2race-check_CVE-2026-119618.svg) ![forks](https://img.shields.io/github/forks/dansaurabh/h2race-check_CVE-2026-119618.svg)
 
 ## CVE-2026-123039
 > The Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socket (/tmp/dynamic_socket) without authenticating connecting processes. An authenticated local user can send a command to the socket and have it executed as root.
 
 - [https://github.com/foxcornlab/checkpoint-gaia-scanner](https://github.com/foxcornlab/checkpoint-gaia-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/checkpoint-gaia-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/checkpoint-gaia-scanner.svg)
+
+## CVE-2026-123158
+> sshd in OpenSSH before 10.6p2 on Linux, when musl libc is used without PAM, lacks a workaround for a password authentication bypass (related to misinterpretation of whether a string is intended to be a password hash). For some configurations of accounts, any password between 256 and 1024 characters succeeds. An example of a platform using musl libc without PAM is Alpine Linux.
+
+- [https://github.com/LaMambaKukun/Hack-The-Box-Sherlock-SSHole-](https://github.com/LaMambaKukun/Hack-The-Box-Sherlock-SSHole-) : ![starts](https://img.shields.io/github/stars/LaMambaKukun/Hack-The-Box-Sherlock-SSHole-.svg) ![forks](https://img.shields.io/github/forks/LaMambaKukun/Hack-The-Box-Sherlock-SSHole-.svg)
+- [https://github.com/diallocode/SSHOLE-POC](https://github.com/diallocode/SSHOLE-POC) : ![starts](https://img.shields.io/github/stars/diallocode/SSHOLE-POC.svg) ![forks](https://img.shields.io/github/forks/diallocode/SSHOLE-POC.svg)
+
+## CVE-2026-124020
+
+- [https://github.com/LLCForge/CVE-2026-124020](https://github.com/LLCForge/CVE-2026-124020) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-124020.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-124020.svg)
+
+## CVE-2026-125423
+
+- [https://github.com/grigorovichvlad/CVE-2026-125423](https://github.com/grigorovichvlad/CVE-2026-125423) : ![starts](https://img.shields.io/github/stars/grigorovichvlad/CVE-2026-125423.svg) ![forks](https://img.shields.io/github/forks/grigorovichvlad/CVE-2026-125423.svg)
 
 ## CVE-2026-129357
 
@@ -44,6 +126,18 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 ## CVE-2026-129358
 
 - [https://github.com/googlesky/CVE-2026-129358](https://github.com/googlesky/CVE-2026-129358) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129358.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129358.svg)
+
+## CVE-2026-129491
+
+- [https://github.com/googlesky/CVE-2026-129491](https://github.com/googlesky/CVE-2026-129491) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129491.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129491.svg)
+
+## CVE-2026-129492
+
+- [https://github.com/googlesky/CVE-2026-129492](https://github.com/googlesky/CVE-2026-129492) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129492.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129492.svg)
+
+## CVE-2026-129493
+
+- [https://github.com/googlesky/CVE-2026-129493](https://github.com/googlesky/CVE-2026-129493) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129493.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129493.svg)
 
 ## CVE-2026-129494
 
@@ -73,6 +167,10 @@ AD directly.
 
 - [https://github.com/Stlwtrs/CopyFix](https://github.com/Stlwtrs/CopyFix) : ![starts](https://img.shields.io/github/stars/Stlwtrs/CopyFix.svg) ![forks](https://img.shields.io/github/forks/Stlwtrs/CopyFix.svg)
 - [https://github.com/ashrafzaryouh/CVE-2026-31431](https://github.com/ashrafzaryouh/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-31431.svg)
+
+## CVE-2026-38194
+
+- [https://github.com/269s/Vuln-Driver-Mapper](https://github.com/269s/Vuln-Driver-Mapper) : ![starts](https://img.shields.io/github/stars/269s/Vuln-Driver-Mapper.svg) ![forks](https://img.shields.io/github/forks/269s/Vuln-Driver-Mapper.svg)
 
 ## CVE-2026-54121
 
@@ -141,3 +239,23 @@ that PID. pid_task(timer-&gt;it.cpu.pid, PIDTYPE_PID) then returns NULL,
 but the node is still queued on tsk, which
 
 - [https://github.com/Yunxi422/CVE-2026-98260-OPD2405](https://github.com/Yunxi422/CVE-2026-98260-OPD2405) : ![starts](https://img.shields.io/github/stars/Yunxi422/CVE-2026-98260-OPD2405.svg) ![forks](https://img.shields.io/github/forks/Yunxi422/CVE-2026-98260-OPD2405.svg)
+- [https://github.com/idk12345-desigh/lapis-mt6878-root](https://github.com/idk12345-desigh/lapis-mt6878-root) : ![starts](https://img.shields.io/github/stars/idk12345-desigh/lapis-mt6878-root.svg) ![forks](https://img.shields.io/github/forks/idk12345-desigh/lapis-mt6878-root.svg)
+
+## CVE-2026-99288
+> In the Linux kernel, the following vulnerability has been resolved:
+
+inet: reject unhashed sockets during established lookups
+
+TCP established ehash lookups are lockless. The socket caches involved
+use SLAB_TYPESAFE_BY_RCU, so memory can be reused before an RCU reader
+that retained its old address has finished.
+
+After a tuple match, __inet_lookup_established() and
+__inet6_lookup_established() acquire a reference and repeat the tuple
+check. They do not check whether the new object is hashed. If t
+
+- [https://github.com/h0rn3t/noisytcp-lab](https://github.com/h0rn3t/noisytcp-lab) : ![starts](https://img.shields.io/github/stars/h0rn3t/noisytcp-lab.svg) ![forks](https://img.shields.io/github/forks/h0rn3t/noisytcp-lab.svg)
+
+## CVE-2026-9999
+
+- [https://github.com/Hazem777-G/CVE-2026-9999-PoC](https://github.com/Hazem777-G/CVE-2026-9999-PoC) : ![starts](https://img.shields.io/github/stars/Hazem777-G/CVE-2026-9999-PoC.svg) ![forks](https://img.shields.io/github/forks/Hazem777-G/CVE-2026-9999-PoC.svg)

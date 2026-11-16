@@ -2560,6 +2560,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 
 - [https://github.com/jimahub/scenario-c-block](https://github.com/jimahub/scenario-c-block) : ![starts](https://img.shields.io/github/stars/jimahub/scenario-c-block.svg) ![forks](https://img.shields.io/github/forks/jimahub/scenario-c-block.svg)
 
+- [https://github.com/DLL00P/CVE-2017-5941](https://github.com/DLL00P/CVE-2017-5941) : ![starts](https://img.shields.io/github/stars/DLL00P/CVE-2017-5941.svg) ![forks](https://img.shields.io/github/forks/DLL00P/CVE-2017-5941.svg)
+
 ## CVE-2017-5871
  Odoo Version = 8.0-20160726 and Version 9 is affected by: CWE-601: Open redirection. The impact is: obtain sensitive information (remote).
 
@@ -3390,6 +3392,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 - [https://github.com/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant](https://github.com/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant) : ![starts](https://img.shields.io/github/stars/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant.svg) ![forks](https://img.shields.io/github/forks/BlackOclock/XLS-to-DBatLoader-or-GuLoader-for-AgentTesla-variant.svg)
 
 - [https://github.com/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office.](https://github.com/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office.) : ![starts](https://img.shields.io/github/stars/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office..svg) ![forks](https://img.shields.io/github/forks/ahmed-tarek22752/security-vulnerability-in-Microsoft-Office..svg)
+
+- [https://github.com/avidosa/MalwareStaticLab](https://github.com/avidosa/MalwareStaticLab) : ![starts](https://img.shields.io/github/stars/avidosa/MalwareStaticLab.svg) ![forks](https://img.shields.io/github/forks/avidosa/MalwareStaticLab.svg)
 
 ## CVE-2017-0147
  The SMBv1 server in Microsoft Windows Vista SP2; Windows Server 2008 SP2 and R2 SP1; Windows 7 SP1; Windows 8.1; Windows Server 2012 Gold and R2; Windows RT 8.1; and Windows 10 Gold, 1511, and 1607; and Windows Server 2016 allows remote attackers to obtain sensitive information from process memory via a crafted packets, aka "Windows SMB Information Disclosure Vulnerability."
