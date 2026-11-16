@@ -11970,3 +11970,7 @@
 {"cve_id": "CVE-2026-123158", "ts": "2026-11-16T19:45:54Z", "type": "new_poc", "url": "https://github.com/diallocode/SSHOLE-POC"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-11-16T19:45:54Z", "type": "new_poc", "url": "https://github.com/JohanYP/techcorp-forense-lab"}
 {"cve_id": "CVE-2004-1561", "ts": "2026-11-16T19:45:54Z", "type": "new_poc", "url": "https://github.com/anway8090/Tryhackme-ice-lab-"}
+{"cve_id": "CVE-2026-119618", "ts": "2026-11-16T20:09:40Z", "type": "new_poc", "url": "https://github.com/Doseuser/CVE-2026-119618---RCE-in-APACHE"}
+{"cve_id": "CVE-2026-62911", "ts": "2026-11-16T20:11:49Z", "type": "new_poc", "url": "https://github.com/che3axujnya/cve-2026-62911"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-11-16T20:15:53Z", "type": "new_poc", "url": "https://github.com/Sulisong/OnePlus16-Jailbreak"}
+{"cve_id": "CVE-2026-34724", "ts": "2026-11-16T20:18:57Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-34724"}

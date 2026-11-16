@@ -98,6 +98,7 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 This issue affects Apache HTTP Server: from 2.4.55 through 2.4.70.
 Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 
+- [https://github.com/Doseuser/CVE-2026-119618---RCE-in-APACHE](https://github.com/Doseuser/CVE-2026-119618---RCE-in-APACHE) : ![starts](https://img.shields.io/github/stars/Doseuser/CVE-2026-119618---RCE-in-APACHE.svg) ![forks](https://img.shields.io/github/forks/Doseuser/CVE-2026-119618---RCE-in-APACHE.svg)
 - [https://github.com/dansaurabh/h2race-check_CVE-2026-119618](https://github.com/dansaurabh/h2race-check_CVE-2026-119618) : ![starts](https://img.shields.io/github/stars/dansaurabh/h2race-check_CVE-2026-119618.svg) ![forks](https://img.shields.io/github/forks/dansaurabh/h2race-check_CVE-2026-119618.svg)
 
 ## CVE-2026-123039
@@ -168,6 +169,10 @@ AD directly.
 - [https://github.com/Stlwtrs/CopyFix](https://github.com/Stlwtrs/CopyFix) : ![starts](https://img.shields.io/github/stars/Stlwtrs/CopyFix.svg) ![forks](https://img.shields.io/github/forks/Stlwtrs/CopyFix.svg)
 - [https://github.com/ashrafzaryouh/CVE-2026-31431](https://github.com/ashrafzaryouh/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-31431.svg)
 
+## CVE-2026-34724
+
+- [https://github.com/ashrafzaryouh/CVE-2026-34724](https://github.com/ashrafzaryouh/CVE-2026-34724) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-34724.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-34724.svg)
+
 ## CVE-2026-38194
 
 - [https://github.com/269s/Vuln-Driver-Mapper](https://github.com/269s/Vuln-Driver-Mapper) : ![starts](https://img.shields.io/github/stars/269s/Vuln-Driver-Mapper.svg) ![forks](https://img.shields.io/github/forks/269s/Vuln-Driver-Mapper.svg)
@@ -176,6 +181,29 @@ AD directly.
 
 - [https://github.com/anubis-update/CVE-2026-54121-Certighost](https://github.com/anubis-update/CVE-2026-54121-Certighost) : ![starts](https://img.shields.io/github/stars/anubis-update/CVE-2026-54121-Certighost.svg) ![forks](https://img.shields.io/github/forks/anubis-update/CVE-2026-54121-Certighost.svg)
 - [https://github.com/ashrafzaryouh/CVE-2026-54121](https://github.com/ashrafzaryouh/CVE-2026-54121) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-54121.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-54121.svg)
+
+## CVE-2026-62911
+
+- [https://github.com/che3axujnya/cve-2026-62911](https://github.com/che3axujnya/cve-2026-62911) : ![starts](https://img.shields.io/github/stars/che3axujnya/cve-2026-62911.svg) ![forks](https://img.shields.io/github/forks/che3axujnya/cve-2026-62911.svg)
+
+## CVE-2026-64560
+> In the Linux kernel, the following vulnerability has been resolved:
+
+posix-cpu-timers: Prevent UAF caused by non-leader exec() race
+
+Wongi and Jungwoo decoded and reported a non-leader exec() related race
+which can result in an UAF:
+
+ sys_timer_delete()			exec()
+   posix_cpu_timer_del()
+   // Observes old leader
+   p = pid_task(pid, pid_type);		de_thread()
+   					  switch_leader();
+					  release_task(old_leader)
+					    __exit_signal(old_leader)
+					      sighand = lock(old_leader, sighand);
+
+- [https://github.com/Sulisong/OnePlus16-Jailbreak](https://github.com/Sulisong/OnePlus16-Jailbreak) : ![starts](https://img.shields.io/github/stars/Sulisong/OnePlus16-Jailbreak.svg) ![forks](https://img.shields.io/github/forks/Sulisong/OnePlus16-Jailbreak.svg)
 
 ## CVE-2026-64600
 > In the Linux kernel, the following vulnerability has been resolved:

@@ -638,6 +638,8 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 
 - [https://github.com/dansaurabh/h2race-check_CVE-2026-119618](https://github.com/dansaurabh/h2race-check_CVE-2026-119618) : ![starts](https://img.shields.io/github/stars/dansaurabh/h2race-check_CVE-2026-119618.svg) ![forks](https://img.shields.io/github/forks/dansaurabh/h2race-check_CVE-2026-119618.svg)
 
+- [https://github.com/Doseuser/CVE-2026-119618---RCE-in-APACHE](https://github.com/Doseuser/CVE-2026-119618---RCE-in-APACHE) : ![starts](https://img.shields.io/github/stars/Doseuser/CVE-2026-119618---RCE-in-APACHE.svg) ![forks](https://img.shields.io/github/forks/Doseuser/CVE-2026-119618---RCE-in-APACHE.svg)
+
 ## CVE-2026-119258
 
 - [https://github.com/LLCForge/CVE-2026-119258](https://github.com/LLCForge/CVE-2026-119258) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-119258.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-119258.svg)
@@ -9741,6 +9743,8 @@ with mt exec") added a temporary workaround for that in 2010 which surv
 
 - [https://github.com/000999888111/op13-cve-2026-64560](https://github.com/000999888111/op13-cve-2026-64560) : ![starts](https://img.shields.io/github/stars/000999888111/op13-cve-2026-64560.svg) ![forks](https://img.shields.io/github/forks/000999888111/op13-cve-2026-64560.svg)
 
+- [https://github.com/Sulisong/OnePlus16-Jailbreak](https://github.com/Sulisong/OnePlus16-Jailbreak) : ![starts](https://img.shields.io/github/stars/Sulisong/OnePlus16-Jailbreak.svg) ![forks](https://img.shields.io/github/forks/Sulisong/OnePlus16-Jailbreak.svg)
+
 ## CVE-2026-64531
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -10234,6 +10238,8 @@ Users are advised to upgrade to Apache InLong's  2.4.0 or cherry-pick [1] to sol
 - [https://github.com/fahise/cve-2026-62911](https://github.com/fahise/cve-2026-62911) : ![starts](https://img.shields.io/github/stars/fahise/cve-2026-62911.svg) ![forks](https://img.shields.io/github/forks/fahise/cve-2026-62911.svg)
 
 - [https://github.com/c5z54/cve-2026-62911-poc](https://github.com/c5z54/cve-2026-62911-poc) : ![starts](https://img.shields.io/github/stars/c5z54/cve-2026-62911-poc.svg) ![forks](https://img.shields.io/github/forks/c5z54/cve-2026-62911-poc.svg)
+
+- [https://github.com/che3axujnya/cve-2026-62911](https://github.com/che3axujnya/cve-2026-62911) : ![starts](https://img.shields.io/github/stars/che3axujnya/cve-2026-62911.svg) ![forks](https://img.shields.io/github/forks/che3axujnya/cve-2026-62911.svg)
 
 ## CVE-2026-62878
  Stack-based buffer overflow in Windows DNS allows an unauthorized attacker to execute code over a network.
@@ -18092,6 +18098,8 @@ This can be used to target internal services (e.g. cloud metadata endpoints or i
  Zammad is a web based open source helpdesk/customer support system. Prior to 7.0.1, a server-side template injection vulnerability  which leads to RCE via AI Agent exists. Impact is limited to environments where an attacker can control or influence type_enrichment_data (typically high-privilege administrative configuration). This vulnerability is fixed in 7.0.1.
 
 - [https://github.com/0xBlackash/CVE-2026-34724](https://github.com/0xBlackash/CVE-2026-34724) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-34724.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-34724.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-34724](https://github.com/ashrafzaryouh/CVE-2026-34724) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-34724.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-34724.svg)
 
 ## CVE-2026-34717
 
