@@ -11974,3 +11974,5 @@
 {"cve_id": "CVE-2026-62911", "ts": "2026-11-16T20:11:49Z", "type": "new_poc", "url": "https://github.com/che3axujnya/cve-2026-62911"}
 {"cve_id": "CVE-2026-64560", "ts": "2026-11-16T20:15:53Z", "type": "new_poc", "url": "https://github.com/Sulisong/OnePlus16-Jailbreak"}
 {"cve_id": "CVE-2026-34724", "ts": "2026-11-16T20:18:57Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-34724"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-16T20:42:30Z", "type": "new_poc", "url": "https://github.com/aoxzh/cve-2026-98260-tb710fu"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-16T20:42:30Z", "type": "new_poc", "url": "https://github.com/aoxzh/cve-2026-98260-vivo-x200-ultra-temproot"}
