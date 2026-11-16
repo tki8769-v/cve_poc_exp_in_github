@@ -11,6 +11,10 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-129494
+
+- [https://github.com/googlesky/CVE-2026-129494](https://github.com/googlesky/CVE-2026-129494) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129494.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129494.svg)
+
 ## CVE-2026-129360
 
 - [https://github.com/googlesky/CVE-2026-129360](https://github.com/googlesky/CVE-2026-129360) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129360.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129360.svg)
@@ -56,6 +60,7 @@
 - [https://github.com/Usama-Hanif131/CVE-2026-129254](https://github.com/Usama-Hanif131/CVE-2026-129254) : ![starts](https://img.shields.io/github/stars/Usama-Hanif131/CVE-2026-129254.svg) ![forks](https://img.shields.io/github/forks/Usama-Hanif131/CVE-2026-129254.svg)
 
 ## CVE-2026-129110
+> sysPass 3.0.1 through 3.2.11 contains an authentication bypass vulnerability that allows unauthenticated attackers to reinstall an already-installed instance by POSTing to the install/install handler, which never checks isInstalled(). Attackers can overwrite config.xml, point the application at an attacker-controlled database, create an administrator account, and plant serialized PublicLink gadget chains triggered via account/viewLink to execute commands.
 
 - [https://github.com/psylinux/CVE-2026-129110-sysPass](https://github.com/psylinux/CVE-2026-129110-sysPass) : ![starts](https://img.shields.io/github/stars/psylinux/CVE-2026-129110-sysPass.svg) ![forks](https://img.shields.io/github/forks/psylinux/CVE-2026-129110-sysPass.svg)
 
@@ -200,6 +205,7 @@
 - [https://github.com/googlesky/CVE-2026-126147](https://github.com/googlesky/CVE-2026-126147) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126147.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126147.svg)
 
 ## CVE-2026-125855
+> Deserialization of Untrusted Data vulnerability in Elextensions ELEX WordPress HelpDesk &amp; Customer Ticketing System elex-helpdesk-customer-support-ticket-system allows Object Injection.This issue affects ELEX WordPress HelpDesk &amp; Customer Ticketing System: from n/a through 3.3.9.
 
 - [https://github.com/im0xfay/CVE-2026-125855](https://github.com/im0xfay/CVE-2026-125855) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-125855.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-125855.svg)
 
@@ -6752,6 +6758,8 @@ other allocation paths.
 - [https://github.com/0xBlackash/CVE-2026-81000](https://github.com/0xBlackash/CVE-2026-81000) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-81000.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-81000.svg)
 
 - [https://github.com/suominen/tunderflow](https://github.com/suominen/tunderflow) : ![starts](https://img.shields.io/github/stars/suominen/tunderflow.svg) ![forks](https://img.shields.io/github/forks/suominen/tunderflow.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-81000](https://github.com/ashrafzaryouh/CVE-2026-81000) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-81000.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-81000.svg)
 
 ## CVE-2026-80914
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -25004,6 +25012,8 @@ condition.
 - [https://github.com/HORKimhab/CVE-2026-15315](https://github.com/HORKimhab/CVE-2026-15315) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-15315.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-15315.svg)
 
 - [https://github.com/Moyai08/Tapo-CVE-2026-15315-Poc](https://github.com/Moyai08/Tapo-CVE-2026-15315-Poc) : ![starts](https://img.shields.io/github/stars/Moyai08/Tapo-CVE-2026-15315-Poc.svg) ![forks](https://img.shields.io/github/forks/Moyai08/Tapo-CVE-2026-15315-Poc.svg)
+
+- [https://github.com/moyaiix/Tapo-CVE-2026-15315-Poc](https://github.com/moyaiix/Tapo-CVE-2026-15315-Poc) : ![starts](https://img.shields.io/github/stars/moyaiix/Tapo-CVE-2026-15315-Poc.svg) ![forks](https://img.shields.io/github/forks/moyaiix/Tapo-CVE-2026-15315-Poc.svg)
 
 ## CVE-2026-15282
  The Instant Appointment plugin for WordPress is vulnerable to arbitrary file uploads due to missing file type validation in the 'insapp_upload_image_as_attachment' function in all versions up to, and including, 1.2. This makes it possible for unauthenticated attackers to upload arbitrary files on the affected site's server which may make remote code execution possible.

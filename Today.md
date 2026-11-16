@@ -45,9 +45,14 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/googlesky/CVE-2026-129358](https://github.com/googlesky/CVE-2026-129358) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129358.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129358.svg)
 
+## CVE-2026-129494
+
+- [https://github.com/googlesky/CVE-2026-129494](https://github.com/googlesky/CVE-2026-129494) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129494.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129494.svg)
+
 ## CVE-2026-15315
 
 - [https://github.com/Moyai08/Tapo-CVE-2026-15315-Poc](https://github.com/Moyai08/Tapo-CVE-2026-15315-Poc) : ![starts](https://img.shields.io/github/stars/Moyai08/Tapo-CVE-2026-15315-Poc.svg) ![forks](https://img.shields.io/github/forks/Moyai08/Tapo-CVE-2026-15315-Poc.svg)
+- [https://github.com/moyaiix/Tapo-CVE-2026-15315-Poc](https://github.com/moyaiix/Tapo-CVE-2026-15315-Poc) : ![starts](https://img.shields.io/github/stars/moyaiix/Tapo-CVE-2026-15315-Poc.svg) ![forks](https://img.shields.io/github/forks/moyaiix/Tapo-CVE-2026-15315-Poc.svg)
 
 ## CVE-2026-16723
 
@@ -102,6 +107,21 @@ non-Ethernet port is added to an empty team device. The team&#x27;s delegated
 GRE header callback then expands the skb head. 
 
 - [https://github.com/ashrafzaryouh/CVE-2026-68121](https://github.com/ashrafzaryouh/CVE-2026-68121) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-68121.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-68121.svg)
+
+## CVE-2026-81000
+> In the Linux kernel, the following vulnerability has been resolved:
+
+net: tun: bound receive headroom
+
+tun_get_user() uses tun-&gt;align both as skb headroom and when choosing how
+much packet data to keep linear. OVS can propagate an oversized headroom
+request from another port to TUN or TAP.
+
+When align is larger than the usable space in a one-page skb head,
+SKB_MAX_HEAD(align) underflows and the result becomes negative when stored
+in good_linear. That value later wraps when assigned to the size_t
+
+- [https://github.com/ashrafzaryouh/CVE-2026-81000](https://github.com/ashrafzaryouh/CVE-2026-81000) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-81000.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-81000.svg)
 
 ## CVE-2026-81963
 

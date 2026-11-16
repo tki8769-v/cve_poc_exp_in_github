@@ -11940,3 +11940,6 @@
 {"cve_id": "CVE-2026-31431", "ts": "2026-11-16T08:26:23Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-31431"}
 {"cve_id": "CVE-2026-31431", "ts": "2026-11-16T08:26:26Z", "type": "new_poc", "url": "https://github.com/Stlwtrs/CopyFix"}
 {"cve_id": "CVE-2024-42327", "ts": "2026-11-16T08:34:16Z", "type": "new_poc", "url": "https://github.com/TheCyberGeek/CVE-2024-42327"}
+{"cve_id": "CVE-2026-129494", "ts": "2026-11-16T08:44:14Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-129494"}
+{"cve_id": "CVE-2026-15315", "ts": "2026-11-16T08:44:14Z", "type": "new_poc", "url": "https://github.com/moyaiix/Tapo-CVE-2026-15315-Poc"}
+{"cve_id": "CVE-2026-81000", "ts": "2026-11-16T08:50:37Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-81000"}
