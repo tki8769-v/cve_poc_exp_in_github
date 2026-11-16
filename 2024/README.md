@@ -2940,6 +2940,8 @@ We recommend users to upgrade Apache DolphinScheduler to version 3.2.2, which fi
 
 - [https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm](https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm) : ![starts](https://img.shields.io/github/stars/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm.svg) ![forks](https://img.shields.io/github/forks/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm.svg)
 
+- [https://github.com/TheCyberGeek/CVE-2024-42327](https://github.com/TheCyberGeek/CVE-2024-42327) : ![starts](https://img.shields.io/github/stars/TheCyberGeek/CVE-2024-42327.svg) ![forks](https://img.shields.io/github/forks/TheCyberGeek/CVE-2024-42327.svg)
+
 ## CVE-2024-42323
  SnakeYaml Deser Load Malicious xml rce vulnerability in Apache HertzBeat (incubating). 
 

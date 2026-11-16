@@ -60,6 +60,7 @@
 - [https://github.com/psylinux/CVE-2026-129110-sysPass](https://github.com/psylinux/CVE-2026-129110-sysPass) : ![starts](https://img.shields.io/github/stars/psylinux/CVE-2026-129110-sysPass.svg) ![forks](https://img.shields.io/github/forks/psylinux/CVE-2026-129110-sysPass.svg)
 
 ## CVE-2026-128970
+> Psono Server Community Edition versions 1.12.6 through 7.5.0 and Psono Server Enterprise Edition before 7.5.1 do not require accepted group membership when authorizing deletion of group share-rights. The DELETE /share/right/ endpoint checks for a membership matching the target group, the authenticated user, and share_admin=True, but omits accepted=True. An authenticated remote attacker who has been invited to a group with share-admin privileges, and who knows a group share-right UUID, can theref
 
 - [https://github.com/R00t3dbyFa17h/security-advisories](https://github.com/R00t3dbyFa17h/security-advisories) : ![starts](https://img.shields.io/github/stars/R00t3dbyFa17h/security-advisories.svg) ![forks](https://img.shields.io/github/forks/R00t3dbyFa17h/security-advisories.svg)
 
@@ -213,6 +214,7 @@
 - [https://github.com/yuwkaaa/CVE-2026-125753](https://github.com/yuwkaaa/CVE-2026-125753) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-125753.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-125753.svg)
 
 ## CVE-2026-125440
+> Improper Neutralization of Script-Related HTML Tags in a Web Page (Basic XSS) vulnerability in Cristián Lávaque s2Member s2member allows Code Injection.This issue affects s2Member: from n/a through 261106.
 
 - [https://github.com/yozturk0/CVE-2026-125440](https://github.com/yozturk0/CVE-2026-125440) : ![starts](https://img.shields.io/github/stars/yozturk0/CVE-2026-125440.svg) ![forks](https://img.shields.io/github/forks/yozturk0/CVE-2026-125440.svg)
 
@@ -20022,6 +20024,10 @@ AD directly.
 - [https://github.com/hosun-hwang/CVE-2026-31431_PoC](https://github.com/hosun-hwang/CVE-2026-31431_PoC) : ![starts](https://img.shields.io/github/stars/hosun-hwang/CVE-2026-31431_PoC.svg) ![forks](https://img.shields.io/github/forks/hosun-hwang/CVE-2026-31431_PoC.svg)
 
 - [https://github.com/CypherMux/CopyFix](https://github.com/CypherMux/CopyFix) : ![starts](https://img.shields.io/github/stars/CypherMux/CopyFix.svg) ![forks](https://img.shields.io/github/forks/CypherMux/CopyFix.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-31431](https://github.com/ashrafzaryouh/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-31431.svg)
+
+- [https://github.com/Stlwtrs/CopyFix](https://github.com/Stlwtrs/CopyFix) : ![starts](https://img.shields.io/github/stars/Stlwtrs/CopyFix.svg) ![forks](https://img.shields.io/github/forks/Stlwtrs/CopyFix.svg)
 
 ## CVE-2026-31429
  In the Linux kernel, the following vulnerability has been resolved:
@@ -47971,6 +47977,8 @@ We recommend users to upgrade Apache DolphinScheduler to version 3.2.2, which fi
 - [https://github.com/fellipefelix06/Zabbix-CVE-2024-42327](https://github.com/fellipefelix06/Zabbix-CVE-2024-42327) : ![starts](https://img.shields.io/github/stars/fellipefelix06/Zabbix-CVE-2024-42327.svg) ![forks](https://img.shields.io/github/forks/fellipefelix06/Zabbix-CVE-2024-42327.svg)
 
 - [https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm](https://github.com/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm) : ![starts](https://img.shields.io/github/stars/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm.svg) ![forks](https://img.shields.io/github/forks/RichJJ98/analise-vulnerabilidades-zabbix-notebooklm.svg)
+
+- [https://github.com/TheCyberGeek/CVE-2024-42327](https://github.com/TheCyberGeek/CVE-2024-42327) : ![starts](https://img.shields.io/github/stars/TheCyberGeek/CVE-2024-42327.svg) ![forks](https://img.shields.io/github/forks/TheCyberGeek/CVE-2024-42327.svg)
 
 ## CVE-2024-42323
  SnakeYaml Deser Load Malicious xml rce vulnerability in Apache HertzBeat (incubating). 

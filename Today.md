@@ -3,6 +3,10 @@
 
 - [https://github.com/graphworlok/cve-2021-35394-ecosystem](https://github.com/graphworlok/cve-2021-35394-ecosystem) : ![starts](https://img.shields.io/github/stars/graphworlok/cve-2021-35394-ecosystem.svg) ![forks](https://img.shields.io/github/forks/graphworlok/cve-2021-35394-ecosystem.svg)
 
+## CVE-2024-42327
+
+- [https://github.com/TheCyberGeek/CVE-2024-42327](https://github.com/TheCyberGeek/CVE-2024-42327) : ![starts](https://img.shields.io/github/stars/TheCyberGeek/CVE-2024-42327.svg) ![forks](https://img.shields.io/github/forks/TheCyberGeek/CVE-2024-42327.svg)
+
 ## CVE-2026-111497
 > A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream.
 
@@ -48,6 +52,22 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 ## CVE-2026-16723
 
 - [https://github.com/punksitr-sys/CVE-2026-16723](https://github.com/punksitr-sys/CVE-2026-16723) : ![starts](https://img.shields.io/github/stars/punksitr-sys/CVE-2026-16723.svg) ![forks](https://img.shields.io/github/forks/punksitr-sys/CVE-2026-16723.svg)
+
+## CVE-2026-31431
+> In the Linux kernel, the following vulnerability has been resolved:
+
+crypto: algif_aead - Revert to operating out-of-place
+
+This mostly reverts commit 72548b093ee3 except for the copying of
+the associated data.
+
+There is no benefit in operating in-place in algif_aead since the
+source and destination come from different mappings.  Get rid of
+all the complexity added for in-place operation and just copy the
+AD directly.
+
+- [https://github.com/Stlwtrs/CopyFix](https://github.com/Stlwtrs/CopyFix) : ![starts](https://img.shields.io/github/stars/Stlwtrs/CopyFix.svg) ![forks](https://img.shields.io/github/forks/Stlwtrs/CopyFix.svg)
+- [https://github.com/ashrafzaryouh/CVE-2026-31431](https://github.com/ashrafzaryouh/CVE-2026-31431) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-31431.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-31431.svg)
 
 ## CVE-2026-54121
 
