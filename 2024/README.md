@@ -11556,6 +11556,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 
 - [https://github.com/AgnesAhalya/rw-country-state-city-auto-dropdown](https://github.com/AgnesAhalya/rw-country-state-city-auto-dropdown) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-country-state-city-auto-dropdown.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-country-state-city-auto-dropdown.svg)
 
+- [https://github.com/rw-a3/rw-country-state-city-auto-dropdown](https://github.com/rw-a3/rw-country-state-city-auto-dropdown) : ![starts](https://img.shields.io/github/stars/rw-a3/rw-country-state-city-auto-dropdown.svg) ![forks](https://img.shields.io/github/forks/rw-a3/rw-country-state-city-auto-dropdown.svg)
+
 ## CVE-2024-3435
  A path traversal vulnerability exists in the 'save_settings' endpoint of the parisneo/lollms-webui application, affecting versions up to the latest release before 9.5. The vulnerability arises due to insufficient sanitization of the 'config' parameter in the 'apply_settings' function, allowing an attacker to manipulate the application's configuration by sending specially crafted JSON payloads. This could lead to remote code execution (RCE) by bypassing existing patches designed to mitigate such vulnerabilities.
 

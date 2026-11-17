@@ -3921,3 +3921,5 @@
 {"cve_id": "CVE-2026-12168", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T15:18:40Z", "url": "https://github.com/im0xfay/CVE-2026-121684", "url_ids": ["CVE-2026-121684"]}
 {"cve_id": "CVE-2026-6919", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T15:21:52Z", "url": "https://github.com/fahimalshihab/CVE-2026-69191-FileRise-Authentication-Bypass", "url_ids": ["CVE-2026-69191"]}
 {"cve_id": "CVE-2026-9367", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T15:22:46Z", "url": "https://github.com/rmhowe425/POC-CVE-2026-93674", "url_ids": ["CVE-2026-93674"]}
+{"cve_id": "CVE-2026-3775", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T15:29:56Z", "url": "https://github.com/menevarad007/CVE-2026-37750", "url_ids": ["CVE-2026-37750"]}
+{"cve_id": "CVE-2024-4937", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T15:30:30Z", "url": "https://github.com/OHDUDEOKNICE/CVE-2024-49379", "url_ids": ["CVE-2024-49379"]}

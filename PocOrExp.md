@@ -208,6 +208,7 @@
 - [https://github.com/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce](https://github.com/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce) : ![starts](https://img.shields.io/github/stars/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce.svg) ![forks](https://img.shields.io/github/forks/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce.svg)
 
 ## CVE-2026-126173
+> The AutomatorWP Pro plugin for WordPress&#x27; webhook addon is vulnerable to authorization bypass in all versions up to, and including, 1.4.4. This is due to the plugin not properly verifying that a user is authorized to perform an action. This makes it possible for unauthenticated attackers to reset the password of any WordPress account, including administrators, resulting in full account takeover. This is only exploitable when an administrator has configured an automation pairing a Receive Webhook
 
 - [https://github.com/im0xfay/CVE-2026-126173](https://github.com/im0xfay/CVE-2026-126173) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-126173.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-126173.svg)
 
@@ -658,6 +659,7 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 - [https://github.com/Doseuser/CVE-2026-119618---RCE-in-APACHE](https://github.com/Doseuser/CVE-2026-119618---RCE-in-APACHE) : ![starts](https://img.shields.io/github/stars/Doseuser/CVE-2026-119618---RCE-in-APACHE.svg) ![forks](https://img.shields.io/github/forks/Doseuser/CVE-2026-119618---RCE-in-APACHE.svg)
 
 ## CVE-2026-119258
+> The Swipe WordPress plugin through 1.4 does not properly authenticate a login request before issuing a WordPress session cookie, allowing unauthenticated attackers to log in as an existing user, including an administrator, when that user has an active app session.
 
 - [https://github.com/LLCForge/CVE-2026-119258](https://github.com/LLCForge/CVE-2026-119258) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-119258.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-119258.svg)
 
@@ -1075,6 +1077,10 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 - [https://github.com/Ghost-Bx1/cve-2026-115252-wordpress-php-injection-rce](https://github.com/Ghost-Bx1/cve-2026-115252-wordpress-php-injection-rce) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-115252-wordpress-php-injection-rce.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-115252-wordpress-php-injection-rce.svg)
 
 - [https://github.com/evenomn/CVE-2026-115252](https://github.com/evenomn/CVE-2026-115252) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-115252.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-115252.svg)
+
+## CVE-2026-114938
+
+- [https://github.com/ashrafzaryouh/CVE-2026-114938](https://github.com/ashrafzaryouh/CVE-2026-114938) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-114938.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-114938.svg)
 
 ## CVE-2026-114820
 
@@ -56776,6 +56782,8 @@ Successful exploitation of this vulnerability could allow the attacker to access
 - [https://github.com/deltahdf/CVE-2024_3495](https://github.com/deltahdf/CVE-2024_3495) : ![starts](https://img.shields.io/github/stars/deltahdf/CVE-2024_3495.svg) ![forks](https://img.shields.io/github/forks/deltahdf/CVE-2024_3495.svg)
 
 - [https://github.com/AgnesAhalya/rw-country-state-city-auto-dropdown](https://github.com/AgnesAhalya/rw-country-state-city-auto-dropdown) : ![starts](https://img.shields.io/github/stars/AgnesAhalya/rw-country-state-city-auto-dropdown.svg) ![forks](https://img.shields.io/github/forks/AgnesAhalya/rw-country-state-city-auto-dropdown.svg)
+
+- [https://github.com/rw-a3/rw-country-state-city-auto-dropdown](https://github.com/rw-a3/rw-country-state-city-auto-dropdown) : ![starts](https://img.shields.io/github/stars/rw-a3/rw-country-state-city-auto-dropdown.svg) ![forks](https://img.shields.io/github/forks/rw-a3/rw-country-state-city-auto-dropdown.svg)
 
 ## CVE-2024-3435
  A path traversal vulnerability exists in the 'save_settings' endpoint of the parisneo/lollms-webui application, affecting versions up to the latest release before 9.5. The vulnerability arises due to insufficient sanitization of the 'config' parameter in the 'apply_settings' function, allowing an attacker to manipulate the application's configuration by sending specially crafted JSON payloads. This could lead to remote code execution (RCE) by bypassing existing patches designed to mitigate such vulnerabilities.

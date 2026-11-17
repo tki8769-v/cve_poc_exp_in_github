@@ -12017,3 +12017,5 @@
 {"cve_id": "CVE-2026-35273", "ts": "2026-11-17T14:46:32Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-35273"}
 {"cve_id": "CVE-2026-128133", "ts": "2026-11-17T15:02:43Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-43626", "ts": "2026-11-17T15:03:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-17T15:29:24Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-114938"}
+{"cve_id": "CVE-2024-3495", "ts": "2026-11-17T15:30:42Z", "type": "new_poc", "url": "https://github.com/rw-a3/rw-country-state-city-auto-dropdown"}

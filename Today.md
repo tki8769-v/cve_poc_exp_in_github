@@ -19,6 +19,10 @@
 
 - [https://github.com/ghs053020-stack/cve-2024-21626-ctf](https://github.com/ghs053020-stack/cve-2024-21626-ctf) : ![starts](https://img.shields.io/github/stars/ghs053020-stack/cve-2024-21626-ctf.svg) ![forks](https://img.shields.io/github/forks/ghs053020-stack/cve-2024-21626-ctf.svg)
 
+## CVE-2024-3495
+
+- [https://github.com/rw-a3/rw-country-state-city-auto-dropdown](https://github.com/rw-a3/rw-country-state-city-auto-dropdown) : ![starts](https://img.shields.io/github/stars/rw-a3/rw-country-state-city-auto-dropdown.svg) ![forks](https://img.shields.io/github/forks/rw-a3/rw-country-state-city-auto-dropdown.svg)
+
 ## CVE-2024-53027
 
 - [https://github.com/h4r-m0n1e/CVE-2024-53027-WIP](https://github.com/h4r-m0n1e/CVE-2024-53027-WIP) : ![starts](https://img.shields.io/github/stars/h4r-m0n1e/CVE-2024-53027-WIP.svg) ![forks](https://img.shields.io/github/forks/h4r-m0n1e/CVE-2024-53027-WIP.svg)
@@ -37,6 +41,10 @@
 > Unauthorization vulnerability in the management of workflow definitions in OpenKM Community Edition. The REST endpoints `registerProcessDefinition` and `runProcessDefinition` require authentication but do not verify roles in the WorkflowService or in lower layers. An attacker with the `ROLE_USER` role can register and execute a process definition containing BeanShell scripts, allowing them to execute Java code and operating system commands with the service’s privileges. In the official Docker im
 
 - [https://github.com/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce](https://github.com/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce) : ![starts](https://img.shields.io/github/stars/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce.svg) ![forks](https://img.shields.io/github/forks/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce.svg)
+
+## CVE-2026-114938
+
+- [https://github.com/ashrafzaryouh/CVE-2026-114938](https://github.com/ashrafzaryouh/CVE-2026-114938) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-114938.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-114938.svg)
 
 ## CVE-2026-121684
 
