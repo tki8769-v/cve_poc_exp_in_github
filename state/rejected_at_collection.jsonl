@@ -3901,3 +3901,14 @@
 {"cve_id": "CVE-2026-1501", "reason": "prefix_conflict_evidenced", "ts": "2026-11-16T19:49:02Z", "url": "https://github.com/zer0dayf/CVE-2026-15013", "url_ids": ["CVE-2026-15013"]}
 {"cve_id": "CVE-2017-1182", "reason": "prefix_conflict_evidenced", "ts": "2026-11-16T19:53:06Z", "url": "https://github.com/thatskriptkid/CVE-2017-11826", "url_ids": ["CVE-2017-11826"]}
 {"cve_id": "CVE-2025-1461", "reason": "prefix_conflict_evidenced", "ts": "2026-11-16T20:13:07Z", "url": "https://github.com/pl4tyz/CVE-2025-14611-CentreStack-and-Triofox-full-Poc-Exploit", "url_ids": ["CVE-2025-14611"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T05:26:00Z", "url": "https://github.com/H454NSec/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T05:26:00Z", "url": "https://github.com/B4l3rI0n/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T05:26:00Z", "url": "https://github.com/Zenmovie/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T05:26:00Z", "url": "https://github.com/synacktiv/CVE-2023-42791_CVE-2024-23666", "url_ids": ["CVE-2023-42791", "CVE-2024-23666"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T05:26:00Z", "url": "https://github.com/hhesenjan/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T05:26:00Z", "url": "https://github.com/junnythemarksman/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T05:26:00Z", "url": "https://github.com/SwiftSecur/teamcity-exploit-cve-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T05:26:00Z", "url": "https://github.com/FlojBoj/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T05:26:00Z", "url": "https://github.com/cxdxnt/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T05:26:00Z", "url": "https://github.com/becrevex/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T05:26:00Z", "url": "https://github.com/burakacar6/CVE-2023-42793-TeamCity-Unauthenticated-RCE", "url_ids": ["CVE-2023-42793"]}

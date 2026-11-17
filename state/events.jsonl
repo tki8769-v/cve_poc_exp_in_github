@@ -11998,3 +11998,6 @@
 {"cve_id": "CVE-2026-60206", "ts": "2026-11-17T04:49:00Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-60206"}
 {"cve_id": "CVE-2026-98260", "ts": "2026-11-17T04:50:04Z", "type": "new_poc", "url": "https://github.com/SecPhases/CVE-2026-98260-GhostKey"}
 {"cve_id": "CVE-2026-98260", "ts": "2026-11-17T04:50:04Z", "type": "new_poc", "url": "https://github.com/osamaassolimany-ui/TimerRoot"}
+{"cve_id": "CVE-2026-128133", "ts": "2026-11-17T05:07:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-43626", "ts": "2026-11-17T05:08:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-41651", "ts": "2026-11-17T05:26:06Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-41651"}

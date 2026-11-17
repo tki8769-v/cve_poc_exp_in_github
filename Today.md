@@ -25,6 +25,10 @@
 
 - [https://github.com/Summitvc/cve-2026-3650](https://github.com/Summitvc/cve-2026-3650) : ![starts](https://img.shields.io/github/stars/Summitvc/cve-2026-3650.svg) ![forks](https://img.shields.io/github/forks/Summitvc/cve-2026-3650.svg)
 
+## CVE-2026-41651
+
+- [https://github.com/ashrafzaryouh/CVE-2026-41651](https://github.com/ashrafzaryouh/CVE-2026-41651) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-41651.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-41651.svg)
+
 ## CVE-2026-59309
 
 - [https://github.com/JHenryArcaneCipher/CVE-2026-59309-PoC](https://github.com/JHenryArcaneCipher/CVE-2026-59309-PoC) : ![starts](https://img.shields.io/github/stars/JHenryArcaneCipher/CVE-2026-59309-PoC.svg) ![forks](https://img.shields.io/github/forks/JHenryArcaneCipher/CVE-2026-59309-PoC.svg)
