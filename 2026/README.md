@@ -10,6 +10,18 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-130354
+
+- [https://github.com/googlesky/CVE-2026-130354](https://github.com/googlesky/CVE-2026-130354) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130354.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130354.svg)
+
+## CVE-2026-130347
+
+- [https://github.com/googlesky/CVE-2026-130347](https://github.com/googlesky/CVE-2026-130347) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130347.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130347.svg)
+
+## CVE-2026-130335
+
+- [https://github.com/googlesky/CVE-2026-130335](https://github.com/googlesky/CVE-2026-130335) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130335.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130335.svg)
+
 ## CVE-2026-129494
 
 - [https://github.com/googlesky/CVE-2026-129494](https://github.com/googlesky/CVE-2026-129494) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129494.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129494.svg)
@@ -493,6 +505,10 @@
 ## CVE-2026-121720
 
 - [https://github.com/refiaa/CVE-2026-121720](https://github.com/refiaa/CVE-2026-121720) : ![starts](https://img.shields.io/github/stars/refiaa/CVE-2026-121720.svg) ![forks](https://img.shields.io/github/forks/refiaa/CVE-2026-121720.svg)
+
+## CVE-2026-121684
+
+- [https://github.com/im0xfay/CVE-2026-121684](https://github.com/im0xfay/CVE-2026-121684) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-121684.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-121684.svg)
 
 ## CVE-2026-121653
 > SQL injection in the Core of Ivanti Endpoint Manager before version 2024 SU8 allows a remote unauthenticated attacker to achieve remote code execution.
@@ -2772,6 +2788,8 @@ This issue has been fixed in version 2.5.
 
 - [https://github.com/JohanYP/techcorp-forense-lab](https://github.com/JohanYP/techcorp-forense-lab) : ![starts](https://img.shields.io/github/stars/JohanYP/techcorp-forense-lab.svg) ![forks](https://img.shields.io/github/forks/JohanYP/techcorp-forense-lab.svg)
 
+- [https://github.com/tolmohq/php2shell-docs](https://github.com/tolmohq/php2shell-docs) : ![starts](https://img.shields.io/github/stars/tolmohq/php2shell-docs.svg) ![forks](https://img.shields.io/github/forks/tolmohq/php2shell-docs.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -4064,6 +4082,8 @@ check. They do not check whether the new object is hashed. If t
 - [https://github.com/re4/noisytcp-poc](https://github.com/re4/noisytcp-poc) : ![starts](https://img.shields.io/github/stars/re4/noisytcp-poc.svg) ![forks](https://img.shields.io/github/forks/re4/noisytcp-poc.svg)
 
 - [https://github.com/tal7aouy/NoisyTCP](https://github.com/tal7aouy/NoisyTCP) : ![starts](https://img.shields.io/github/stars/tal7aouy/NoisyTCP.svg) ![forks](https://img.shields.io/github/forks/tal7aouy/NoisyTCP.svg)
+
+- [https://github.com/mustafasaydam/CVE-2026-99288---NoisyTCP-Exploit](https://github.com/mustafasaydam/CVE-2026-99288---NoisyTCP-Exploit) : ![starts](https://img.shields.io/github/stars/mustafasaydam/CVE-2026-99288---NoisyTCP-Exploit.svg) ![forks](https://img.shields.io/github/forks/mustafasaydam/CVE-2026-99288---NoisyTCP-Exploit.svg)
 
 ## CVE-2026-99273
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -9988,6 +10008,10 @@ Users are recommended to upgrade to version 2.4.69, which fixes this issue.
 - [https://github.com/shinthink/CVE-2026-63223](https://github.com/shinthink/CVE-2026-63223) : ![starts](https://img.shields.io/github/stars/shinthink/CVE-2026-63223.svg) ![forks](https://img.shields.io/github/forks/shinthink/CVE-2026-63223.svg)
 
 - [https://github.com/myeongji1/cve-2026-63223-ctf](https://github.com/myeongji1/cve-2026-63223-ctf) : ![starts](https://img.shields.io/github/stars/myeongji1/cve-2026-63223-ctf.svg) ![forks](https://img.shields.io/github/forks/myeongji1/cve-2026-63223-ctf.svg)
+
+## CVE-2026-63219
+
+- [https://github.com/Cyberuser-hash/CVE-2026-63219](https://github.com/Cyberuser-hash/CVE-2026-63219) : ![starts](https://img.shields.io/github/stars/Cyberuser-hash/CVE-2026-63219.svg) ![forks](https://img.shields.io/github/forks/Cyberuser-hash/CVE-2026-63219.svg)
 
 ## CVE-2026-63137
  Incorrect Authorization (CWE-863) in Kibana can lead to privilege escalation via Exploiting Incorrectly Configured Access Control Security Levels (CAPEC-180). A user holding workflow edit permissions could cause scheduled workflow executions to run with the privileges of a different, higher-privileged user, allowing access to and modification of data beyond their own authorization scope.
@@ -18007,6 +18031,8 @@ Version 2.18.0 contains a fix. As a workaround, ensure folder names do not share
 
 - [https://github.com/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-](https://github.com/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-) : ![starts](https://img.shields.io/github/stars/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-.svg) ![forks](https://img.shields.io/github/forks/rayo0009/CVE-2026-35273-Oracle-PeopleSoft-PeopleTools-Zero-Day-.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-35273](https://github.com/ashrafzaryouh/CVE-2026-35273) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-35273.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-35273.svg)
+
 ## CVE-2026-35223
 
 - [https://github.com/LaRemontada12/CVE-2026-35223-Joomla-Access-Control](https://github.com/LaRemontada12/CVE-2026-35223-Joomla-Access-Control) : ![starts](https://img.shields.io/github/stars/LaRemontada12/CVE-2026-35223-Joomla-Access-Control.svg) ![forks](https://img.shields.io/github/forks/LaRemontada12/CVE-2026-35223-Joomla-Access-Control.svg)
@@ -20602,6 +20628,10 @@ trusted by those clients and undermine the certificate trust chain.
  Chamilo is a learning management system. Prior to version 1.11.34, Chamilo LMS is affected by an authenticated remote code execution vulnerability caused by improper validation of uploaded files. The application relies solely on MIME-type verification when handling file uploads and does not adequately validate file extensions or enforce safe server-side storage restrictions. As a result, an authenticated low-privileged user can upload a crafted file containing executable code and subsequently execute arbitrary commands on the server. This issue has been patched in version 1.11.34.
 
 - [https://github.com/kx00007/CVE-2026-29041](https://github.com/kx00007/CVE-2026-29041) : ![starts](https://img.shields.io/github/stars/kx00007/CVE-2026-29041.svg) ![forks](https://img.shields.io/github/forks/kx00007/CVE-2026-29041.svg)
+
+## CVE-2026-29013
+
+- [https://github.com/DoraYeh1519/cve-2026-29013-libcoap-oscore-repro](https://github.com/DoraYeh1519/cve-2026-29013-libcoap-oscore-repro) : ![starts](https://img.shields.io/github/stars/DoraYeh1519/cve-2026-29013-libcoap-oscore-repro.svg) ![forks](https://img.shields.io/github/forks/DoraYeh1519/cve-2026-29013-libcoap-oscore-repro.svg)
 
 ## CVE-2026-29000
  pac4j-jwt versions prior to 4.5.9, 5.7.9, and 6.3.3 contain an authentication bypass vulnerability in JwtAuthenticator when processing encrypted JWTs that allows remote attackers to forge authentication tokens. Attackers who possess the server's RSA public key can create a JWE-wrapped PlainJWT with arbitrary subject and role claims, bypassing signature verification to authenticate as any user including administrators.

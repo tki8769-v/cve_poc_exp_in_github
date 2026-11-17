@@ -3912,3 +3912,8 @@
 {"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T05:26:00Z", "url": "https://github.com/cxdxnt/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
 {"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T05:26:00Z", "url": "https://github.com/becrevex/CVE-2023-42793", "url_ids": ["CVE-2023-42793"]}
 {"cve_id": "CVE-2023-4279", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T05:26:00Z", "url": "https://github.com/burakacar6/CVE-2023-42793-TeamCity-Unauthenticated-RCE", "url_ids": ["CVE-2023-42793"]}
+{"cve_id": "CVE-2019-2022", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T14:45:32Z", "url": "https://github.com/mhaskar/CVE-2019-20224", "url_ids": ["CVE-2019-20224"]}
+{"cve_id": "CVE-2026-9352", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T14:46:25Z", "url": "https://github.com/muradislamzada/CVE-2026-93528", "url_ids": ["CVE-2026-93528"]}
+{"cve_id": "CVE-2024-3177", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T14:47:20Z", "url": "https://github.com/FreySolarEye/Exploit-CVE-2024-31777", "url_ids": ["CVE-2024-31777"]}
+{"cve_id": "CVE-2026-4484", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T14:50:37Z", "url": "https://github.com/Boreas37/CVE-2026-44848-PoC", "url_ids": ["CVE-2026-44848"]}
+{"cve_id": "CVE-2026-4484", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T14:50:37Z", "url": "https://github.com/mnk-works/portainer-cve-2026-44848-checker", "url_ids": ["CVE-2026-44848"]}

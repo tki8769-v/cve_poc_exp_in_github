@@ -3233,6 +3233,8 @@ use after free.
 
 - [https://github.com/CyberCTF/vulhub-postgres-cve-2019-9193](https://github.com/CyberCTF/vulhub-postgres-cve-2019-9193) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-postgres-cve-2019-9193.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-postgres-cve-2019-9193.svg)
 
+- [https://github.com/Exript/CVE-2019-9193-exploit](https://github.com/Exript/CVE-2019-9193-exploit) : ![starts](https://img.shields.io/github/stars/Exript/CVE-2019-9193-exploit.svg) ![forks](https://img.shields.io/github/forks/Exript/CVE-2019-9193-exploit.svg)
+
 ## CVE-2019-9184
  SQL injection vulnerability in the J2Store plugin 3.x before 3.3.7 for Joomla! allows remote attackers to execute arbitrary SQL commands via the product_option[] parameter.
 

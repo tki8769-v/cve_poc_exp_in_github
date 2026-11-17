@@ -830,6 +830,8 @@ uvc_parse_streaming.
 
 - [https://github.com/v3ilsm1th/CVE-2024-53027-WIP](https://github.com/v3ilsm1th/CVE-2024-53027-WIP) : ![starts](https://img.shields.io/github/stars/v3ilsm1th/CVE-2024-53027-WIP.svg) ![forks](https://img.shields.io/github/forks/v3ilsm1th/CVE-2024-53027-WIP.svg)
 
+- [https://github.com/h4r-m0n1e/CVE-2024-53027-WIP](https://github.com/h4r-m0n1e/CVE-2024-53027-WIP) : ![starts](https://img.shields.io/github/stars/h4r-m0n1e/CVE-2024-53027-WIP.svg) ![forks](https://img.shields.io/github/forks/h4r-m0n1e/CVE-2024-53027-WIP.svg)
+
 ## CVE-2024-52940
  AnyDesk through 8.1.0 on Windows, when Allow Direct Connections is enabled, inadvertently exposes a public IP address within network traffic. The attacker must know the victim's AnyDesk ID.
 

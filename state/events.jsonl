@@ -12001,3 +12001,17 @@
 {"cve_id": "CVE-2026-128133", "ts": "2026-11-17T05:07:30Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-43626", "ts": "2026-11-17T05:08:35Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-41651", "ts": "2026-11-17T05:26:06Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-41651"}
+{"cve_id": "CVE-2026-128133", "ts": "2026-11-17T14:32:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-43626", "ts": "2026-11-17T14:33:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-121684", "ts": "2026-11-17T14:41:14Z", "type": "new_poc", "url": "https://github.com/im0xfay/CVE-2026-121684"}
+{"cve_id": "CVE-2026-63219", "ts": "2026-11-17T14:41:14Z", "type": "new_poc", "url": "https://github.com/Cyberuser-hash/CVE-2026-63219"}
+{"cve_id": "CVE-2026-130335", "ts": "2026-11-17T14:41:15Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-130335"}
+{"cve_id": "CVE-2026-130354", "ts": "2026-11-17T14:41:15Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-130354"}
+{"cve_id": "CVE-2026-130347", "ts": "2026-11-17T14:41:16Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-130347"}
+{"cve_id": "CVE-2019-9193", "ts": "2026-11-17T14:41:16Z", "type": "new_poc", "url": "https://github.com/Exript/CVE-2019-9193-exploit"}
+{"cve_id": "CVE-2026-29013", "ts": "2026-11-17T14:41:16Z", "type": "new_poc", "url": "https://github.com/DoraYeh1519/cve-2026-29013-libcoap-oscore-repro"}
+{"cve_id": "CVE-2026-99288", "ts": "2026-11-17T14:41:16Z", "type": "new_poc", "url": "https://github.com/mustafasaydam/CVE-2026-99288---NoisyTCP-Exploit"}
+{"cve_id": "CVE-2023-4863", "ts": "2026-11-17T14:41:17Z", "type": "new_poc", "url": "https://github.com/joekrump/expo-image-libwebp-repro"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-17T14:41:17Z", "type": "new_poc", "url": "https://github.com/tolmohq/php2shell-docs"}
+{"cve_id": "CVE-2024-53027", "ts": "2026-11-17T14:41:42Z", "type": "new_poc", "url": "https://github.com/h4r-m0n1e/CVE-2024-53027-WIP"}
+{"cve_id": "CVE-2026-35273", "ts": "2026-11-17T14:46:32Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-35273"}
