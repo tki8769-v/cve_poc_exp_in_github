@@ -11976,3 +11976,16 @@
 {"cve_id": "CVE-2026-34724", "ts": "2026-11-16T20:18:57Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-34724"}
 {"cve_id": "CVE-2026-98260", "ts": "2026-11-16T20:42:30Z", "type": "new_poc", "url": "https://github.com/aoxzh/cve-2026-98260-tb710fu"}
 {"cve_id": "CVE-2026-98260", "ts": "2026-11-16T20:42:30Z", "type": "new_poc", "url": "https://github.com/aoxzh/cve-2026-98260-vivo-x200-ultra-temproot"}
+{"cve_id": "CVE-2026-43626", "ts": "2026-11-17T04:02:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-112181", "ts": "2026-11-17T04:12:03Z", "type": "new_poc", "url": "https://github.com/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce"}
+{"cve_id": "CVE-2026-112182", "ts": "2026-11-17T04:12:03Z", "type": "new_poc", "url": "https://github.com/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce"}
+{"cve_id": "CVE-2026-3650", "ts": "2026-11-17T04:12:05Z", "type": "new_poc", "url": "https://github.com/Summitvc/cve-2026-3650"}
+{"cve_id": "CVE-2026-95518", "ts": "2026-11-17T04:12:06Z", "type": "new_poc", "url": "https://github.com/ozcanpng/CVE-2026-95518"}
+{"cve_id": "CVE-2023-22515", "ts": "2026-11-17T04:12:07Z", "type": "new_poc", "url": "https://github.com/oshaie2/CVE-2023-22515-Incident-Response"}
+{"cve_id": "CVE-2026-99288", "ts": "2026-11-17T04:12:11Z", "type": "new_poc", "url": "https://github.com/re4/noisytcp-poc"}
+{"cve_id": "CVE-2026-59309", "ts": "2026-11-17T04:12:11Z", "type": "new_poc", "url": "https://github.com/JHenryArcaneCipher/CVE-2026-59309-PoC"}
+{"cve_id": "CVE-2026-83548", "ts": "2026-11-17T04:12:12Z", "type": "new_poc", "url": "https://github.com/0xTerror/CVE-2026-83548-CVE-2026-83549"}
+{"cve_id": "CVE-2026-83549", "ts": "2026-11-17T04:12:12Z", "type": "new_poc", "url": "https://github.com/0xTerror/CVE-2026-83548-CVE-2026-83549"}
+{"cve_id": "CVE-2021-41773", "ts": "2026-11-17T04:12:12Z", "type": "new_poc", "url": "https://github.com/itsDav804/CVE-2021-41773"}
+{"cve_id": "CVE-2026-78287", "ts": "2026-11-17T04:12:12Z", "type": "new_poc", "url": "https://github.com/0xTerror/CVE-2026-78287"}
+{"cve_id": "CVE-2026-99288", "ts": "2026-11-17T04:12:13Z", "type": "new_poc", "url": "https://github.com/tal7aouy/NoisyTCP"}

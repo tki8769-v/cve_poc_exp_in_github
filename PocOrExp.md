@@ -1332,6 +1332,16 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 
 - [https://github.com/jasonbernier/Dialplan-Escape-RCE](https://github.com/jasonbernier/Dialplan-Escape-RCE) : ![starts](https://img.shields.io/github/stars/jasonbernier/Dialplan-Escape-RCE.svg) ![forks](https://img.shields.io/github/forks/jasonbernier/Dialplan-Escape-RCE.svg)
 
+## CVE-2026-112182
+> Unauthorization vulnerability in the management of workflow definitions in OpenKM Community Edition. The REST endpoints `registerProcessDefinition` and `runProcessDefinition` require authentication but do not verify roles in the WorkflowService or in lower layers. An attacker with the `ROLE_USER` role can register and execute a process definition containing BeanShell scripts, allowing them to execute Java code and operating system commands with the service’s privileges. In the official Docker im
+
+- [https://github.com/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce](https://github.com/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce) : ![starts](https://img.shields.io/github/stars/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce.svg) ![forks](https://img.shields.io/github/forks/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce.svg)
+
+## CVE-2026-112181
+> Vulnerability due to inadequate restriction of references to external XML entities in OpenKM Community Edition. The XML processing in FormUtils / LocalEntityResolver does not properly restrict the resolution of external resources. An authenticated remote attacker with the ROLE_USER role can exploit the flaw via a REST request. In the 6.3.x branch, this allows the attacker to trigger HTTP requests under their control (SSRF); in 7.0.3, it allows the attacker to read local files and access internal
+
+- [https://github.com/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce](https://github.com/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce) : ![starts](https://img.shields.io/github/stars/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce.svg) ![forks](https://img.shields.io/github/forks/Lasersinho/cve-2026-112181-cve-2026-112182-openkm-ce.svg)
+
 ## CVE-2026-112174
 > Local privilege escalation vulnerability in Iperius Backup 8.8.3, due to insufficient separation between the graphical user interface running with elevated privileges and local users with low privileges. When the backup service is configured to run persistently with Administrator privileges, a local attacker with low privileges can use the native Windows dialogues exposed by the application to run programmes that inherit its elevated context. This allows commands to be executed with SYSTEM or Ad
 
@@ -4051,6 +4061,10 @@ check. They do not check whether the new object is hashed. If t
 
 - [https://github.com/h0rn3t/noisytcp-lab](https://github.com/h0rn3t/noisytcp-lab) : ![starts](https://img.shields.io/github/stars/h0rn3t/noisytcp-lab.svg) ![forks](https://img.shields.io/github/forks/h0rn3t/noisytcp-lab.svg)
 
+- [https://github.com/re4/noisytcp-poc](https://github.com/re4/noisytcp-poc) : ![starts](https://img.shields.io/github/stars/re4/noisytcp-poc.svg) ![forks](https://img.shields.io/github/forks/re4/noisytcp-poc.svg)
+
+- [https://github.com/tal7aouy/NoisyTCP](https://github.com/tal7aouy/NoisyTCP) : ![starts](https://img.shields.io/github/stars/tal7aouy/NoisyTCP.svg) ![forks](https://img.shields.io/github/forks/tal7aouy/NoisyTCP.svg)
+
 ## CVE-2026-99273
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -4946,6 +4960,13 @@ DoclingProducer builds the command line of the external docling tool and appends
 - [https://github.com/Mor-Golan/CVE-2026-95597](https://github.com/Mor-Golan/CVE-2026-95597) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-95597.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-95597.svg)
 
 - [https://github.com/Mor-Golan/CVE-2026-95597-pgall-for-woocommerce](https://github.com/Mor-Golan/CVE-2026-95597-pgall-for-woocommerce) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-95597-pgall-for-woocommerce.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-95597-pgall-for-woocommerce.svg)
+
+## CVE-2026-95518
+> Time-of-check time-of-use (TOCTOU) race condition vulnerability in TÜBİTAK BİLGEM Yazılım Teknolojileri Araştırma Enstitüsü Pardus Package Installer allows Leveraging Time-of-Check and Time-of-Use (TOCTOU) Race Conditions.
+
+This issue affects Pardus Package Installer: from 0.7.0 before 0.7.1.
+
+- [https://github.com/ozcanpng/CVE-2026-95518](https://github.com/ozcanpng/CVE-2026-95518) : ![starts](https://img.shields.io/github/stars/ozcanpng/CVE-2026-95518.svg) ![forks](https://img.shields.io/github/forks/ozcanpng/CVE-2026-95518.svg)
 
 ## CVE-2026-95149
 
@@ -6639,6 +6660,8 @@ createCorsHandler() set Access-Control-Allow-Credentials: true outside the origi
 
 - [https://github.com/HORKimhab/CVE-2026-83548-CVE-2026-83549](https://github.com/HORKimhab/CVE-2026-83548-CVE-2026-83549) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-83548-CVE-2026-83549.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-83548-CVE-2026-83549.svg)
 
+- [https://github.com/0xTerror/CVE-2026-83548-CVE-2026-83549](https://github.com/0xTerror/CVE-2026-83548-CVE-2026-83549) : ![starts](https://img.shields.io/github/stars/0xTerror/CVE-2026-83548-CVE-2026-83549.svg) ![forks](https://img.shields.io/github/forks/0xTerror/CVE-2026-83548-CVE-2026-83549.svg)
+
 ## CVE-2026-83548
  A Pre-authentication SSRF vulnerability exists in the SMA1000 Appliance Work Place interface due to an unintended alternate access path. A remote unauthenticated attacker could potentially exploit this vulnerability to gain unauthorized access to sensitive functionality and perform unauthorized operations.
 
@@ -6649,6 +6672,8 @@ createCorsHandler() set Access-Control-Allow-Credentials: true outside the origi
 - [https://github.com/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis](https://github.com/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis) : ![starts](https://img.shields.io/github/stars/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis.svg) ![forks](https://img.shields.io/github/forks/xoessie/CVE-2026-83548-SonicWall-SMA1000-Analysis.svg)
 
 - [https://github.com/maxprog-svg/CVE-2026-83548](https://github.com/maxprog-svg/CVE-2026-83548) : ![starts](https://img.shields.io/github/stars/maxprog-svg/CVE-2026-83548.svg) ![forks](https://img.shields.io/github/forks/maxprog-svg/CVE-2026-83548.svg)
+
+- [https://github.com/0xTerror/CVE-2026-83548-CVE-2026-83549](https://github.com/0xTerror/CVE-2026-83548-CVE-2026-83549) : ![starts](https://img.shields.io/github/stars/0xTerror/CVE-2026-83548-CVE-2026-83549.svg) ![forks](https://img.shields.io/github/forks/0xTerror/CVE-2026-83548-CVE-2026-83549.svg)
 
 ## CVE-2026-83542
 > Improper Control of Generation of Code (&#x27;Code Injection&#x27;) in Apache OFBiz 24.09 before 24.09.08 on all platforms allows a remote unauthenticated attacker to execute arbitrary code on the server by staging crafted widget XML in a multipart upload and overriding the mainDecoratorLocation used by a manager login route through an anonymous JSON request, causing OFBiz to load the staged XML through its live screen descriptor mechanism and evaluate an unsandboxed Groovy expression while rendering the 
@@ -7274,6 +7299,8 @@ Remediation requires a firmware update from the vendor.
 > Improper Control of Generation of Code (&#x27;Code Injection&#x27;) vulnerability in Staggs STAGGS staggs allows Remote Code Inclusion.This issue affects STAGGS: from n/a through 3.3.0.
 
 - [https://github.com/evenomn/CVE-2026-78287](https://github.com/evenomn/CVE-2026-78287) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-78287.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-78287.svg)
+
+- [https://github.com/0xTerror/CVE-2026-78287](https://github.com/0xTerror/CVE-2026-78287) : ![starts](https://img.shields.io/github/stars/0xTerror/CVE-2026-78287.svg) ![forks](https://img.shields.io/github/forks/0xTerror/CVE-2026-78287.svg)
 
 ## CVE-2026-78250
 
@@ -10715,6 +10742,10 @@ Affected versions:
 - [https://github.com/vpxuser/CVE-2026-59310](https://github.com/vpxuser/CVE-2026-59310) : ![starts](https://img.shields.io/github/stars/vpxuser/CVE-2026-59310.svg) ![forks](https://img.shields.io/github/forks/vpxuser/CVE-2026-59310.svg)
 
 - [https://github.com/zgsfsec/CVE-2026-59310-POC](https://github.com/zgsfsec/CVE-2026-59310-POC) : ![starts](https://img.shields.io/github/stars/zgsfsec/CVE-2026-59310-POC.svg) ![forks](https://img.shields.io/github/forks/zgsfsec/CVE-2026-59310-POC.svg)
+
+## CVE-2026-59309
+
+- [https://github.com/JHenryArcaneCipher/CVE-2026-59309-PoC](https://github.com/JHenryArcaneCipher/CVE-2026-59309-PoC) : ![starts](https://img.shields.io/github/stars/JHenryArcaneCipher/CVE-2026-59309-PoC.svg) ![forks](https://img.shields.io/github/forks/JHenryArcaneCipher/CVE-2026-59309-PoC.svg)
 
 ## CVE-2026-59265
 > A code execution issue in the Java integration in Apache OpenOffice v4.1.16 and earlier allows a crafted untrusted document to trigger executing arbitrary (even remote) code when opened by the user.
@@ -27915,6 +27946,10 @@ a data pointer pointing into already freed memory.
  A vulnerability was detected in bufanyun HotGo up to 2.0. This issue affects the function ImageTransferStorage of the file /server/internal/logic/common/upload.go of the component Endpoint. The manipulation results in server-side request forgery. The attack may be launched remotely. The exploit is now public and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/kpatsakis/CVE-2026-36834](https://github.com/kpatsakis/CVE-2026-36834) : ![starts](https://img.shields.io/github/stars/kpatsakis/CVE-2026-36834.svg) ![forks](https://img.shields.io/github/forks/kpatsakis/CVE-2026-36834.svg)
+
+## CVE-2026-3650
+
+- [https://github.com/Summitvc/cve-2026-3650](https://github.com/Summitvc/cve-2026-3650) : ![starts](https://img.shields.io/github/stars/Summitvc/cve-2026-3650.svg) ![forks](https://img.shields.io/github/forks/Summitvc/cve-2026-3650.svg)
 
 ## CVE-2026-3643
  The Accessibly plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the REST API in all versions up to, and including, 3.0.3. The plugin registers REST API endpoints at `/otm-ac/v1/update-widget-options` and `/otm-ac/v1/update-app-config` with the `permission_callback` set to `__return_true`, which means no authentication or authorization check is performed. The `updateWidgetOptions()` function in `AdminApi.php` accepts user-supplied JSON data and passes it directly to `AccessiblyOptions::updateAppConfig()`, which saves it to the WordPress options table via `update_option()` without any sanitization or validation. The stored `widgetSrc` value is later retrieved by `AssetsManager::enqueueFrontendScripts()` and passed directly to `wp_enqueue_script()` as the script URL, causing it to be rendered as a `script` tag on every front-end page. This makes it possible for unauthenticated attackers to inject arbitrary JavaScript that executes for all site visitors by changing the `widgetSrc` option to point to a malicious external script.
@@ -66063,6 +66098,8 @@ Atlassian Cloud sites are not affected by this vulnerability. If your Confluence
 
 - [https://github.com/Borsch-Appreciator/SOC235---Atlassian-Confluence-Broken-Access-Control-0-Day-CVE-2023-22515](https://github.com/Borsch-Appreciator/SOC235---Atlassian-Confluence-Broken-Access-Control-0-Day-CVE-2023-22515) : ![starts](https://img.shields.io/github/stars/Borsch-Appreciator/SOC235---Atlassian-Confluence-Broken-Access-Control-0-Day-CVE-2023-22515.svg) ![forks](https://img.shields.io/github/forks/Borsch-Appreciator/SOC235---Atlassian-Confluence-Broken-Access-Control-0-Day-CVE-2023-22515.svg)
 
+- [https://github.com/oshaie2/CVE-2023-22515-Incident-Response](https://github.com/oshaie2/CVE-2023-22515-Incident-Response) : ![starts](https://img.shields.io/github/stars/oshaie2/CVE-2023-22515-Incident-Response.svg) ![forks](https://img.shields.io/github/forks/oshaie2/CVE-2023-22515-Incident-Response.svg)
+
 ## CVE-2023-22496
  Netdata is an open source option for real-time infrastructure monitoring and troubleshooting. An attacker with the ability to establish a streaming connection can execute arbitrary commands on the targeted Netdata agent. When an alert is triggered, the function `health_alarm_execute` is called. This function performs different checks and then enqueues a command by calling `spawn_enq_cmd`. This command is populated with several arguments that are not sanitized. One of them is the `registry_hostname` of the node for which the alert is raised. By providing a specially crafted `registry_hostname` as part of the health data that is streamed to a Netdata (parent) agent, an attacker can execute arbitrary commands at the remote host as a side-effect of the raised alert. Note that the commands are executed as the user running the Netdata Agent. This user is usually named `netdata`. The ability to run arbitrary commands may allow an attacker to escalate privileges by escalating other vulnerabilities in the system, as that user. The problem has been fixed in: Netdata agent v1.37 (stable) and Netdata agent v1.36.0-409 (nightly). As a workaround, streaming is not enabled by default. If you have previously enabled this, it can be disabled. Limiting access to the port on the recipient Agent to trusted child connections may mitigate the impact of this vulnerability.
 
@@ -80350,6 +80387,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/TheoCerveraLede/practica-integradora-ciberseguridad](https://github.com/TheoCerveraLede/practica-integradora-ciberseguridad) : ![starts](https://img.shields.io/github/stars/TheoCerveraLede/practica-integradora-ciberseguridad.svg) ![forks](https://img.shields.io/github/forks/TheoCerveraLede/practica-integradora-ciberseguridad.svg)
 
 - [https://github.com/R3leant/CVE-2021-41773](https://github.com/R3leant/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/R3leant/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/R3leant/CVE-2021-41773.svg)
+
+- [https://github.com/itsDav804/CVE-2021-41773](https://github.com/itsDav804/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/itsDav804/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/itsDav804/CVE-2021-41773.svg)
 
 ## CVE-2021-41753
  A denial-of-service attack in WPA2, and WPA3-SAE authentication methods in D-Link DIR-X1560, v1.04B04, and DIR-X6060, v1.11B04 allows a remote unauthenticated attacker to disconnect a wireless client via sending specific spoofed SAE authentication frames.
