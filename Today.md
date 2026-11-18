@@ -108,6 +108,10 @@
 
 - [https://github.com/ashrafzaryouh/CVE-2026-34197](https://github.com/ashrafzaryouh/CVE-2026-34197) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-34197.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-34197.svg)
 
+## CVE-2026-46716
+
+- [https://github.com/wangp0tato/POC_CVE-2026-46716](https://github.com/wangp0tato/POC_CVE-2026-46716) : ![starts](https://img.shields.io/github/stars/wangp0tato/POC_CVE-2026-46716.svg) ![forks](https://img.shields.io/github/forks/wangp0tato/POC_CVE-2026-46716.svg)
+
 ## CVE-2026-5173
 
 - [https://github.com/ashrafzaryouh/CVE-2026-5173](https://github.com/ashrafzaryouh/CVE-2026-5173) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-5173.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-5173.svg)

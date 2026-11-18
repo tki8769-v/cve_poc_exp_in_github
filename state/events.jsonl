@@ -12080,3 +12080,4 @@
 {"cve_id": "CVE-2022-0995", "ts": "2026-11-18T08:54:38Z", "type": "new_poc", "url": "https://github.com/Calculusdetective/Page_Jack_pwn"}
 {"cve_id": "CVE-2020-5902", "ts": "2026-11-18T09:00:41Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2020-5902"}
 {"cve_id": "CVE-2024-36401", "ts": "2026-11-18T09:03:56Z", "type": "new_poc", "url": "https://github.com/astr4liteEx/CVE-2024-36401"}
+{"cve_id": "CVE-2026-46716", "ts": "2026-11-18T09:12:34Z", "type": "new_poc", "url": "https://github.com/wangp0tato/POC_CVE-2026-46716"}

@@ -52,26 +52,32 @@
 - [https://github.com/googlesky/CVE-2026-129491](https://github.com/googlesky/CVE-2026-129491) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129491.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129491.svg)
 
 ## CVE-2026-129360
+> A weakness has been identified in Linux Foundation Magma up to 1.9.0. The impacted element is an unknown function of the file orc8r/cloud/go/services/obsidian/access/operator.go of the component Obsidian REST. Executing a manipulation of the argument X-Magma-Client-Cert-Serial can lead to authentication bypass by spoofing. The attack can be launched remotely. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/googlesky/CVE-2026-129360](https://github.com/googlesky/CVE-2026-129360) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129360.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129360.svg)
 
 ## CVE-2026-129359
+> A security flaw has been discovered in Linux Foundation Magma up to 1.9.0. The affected element is an unknown function of the file orc8r/lib/go/registry/interceptors.go. Performing a manipulation results in hard-coded credentials. The attack can be initiated remotely. The exploit has been released to the public and may be used for attacks. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/googlesky/CVE-2026-129359](https://github.com/googlesky/CVE-2026-129359) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129359.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129359.svg)
 
 ## CVE-2026-129358
+> A vulnerability was identified in Linux Foundation Magma up to 1.9.0. Impacted is the function handleReact of the file nms/server/main/routes.ts of the component NMS. Such manipulation leads to cross site scripting. It is possible to launch the attack remotely. The exploit is publicly available and might be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/googlesky/CVE-2026-129358](https://github.com/googlesky/CVE-2026-129358) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129358.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129358.svg)
 
 ## CVE-2026-129357
+> A vulnerability was determined in Linux Foundation Magma up to 1.9.0. This issue affects the function hostOrgMiddleware of the file nms/server/host/middleware.ts of the component Host Middleware. This manipulation of the argument role causes missing authorization. It is possible to initiate the attack remotely. The exploit has been publicly disclosed and may be utilized. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/googlesky/CVE-2026-129357](https://github.com/googlesky/CVE-2026-129357) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129357.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129357.svg)
 
 ## CVE-2026-129355
+> A vulnerability has been found in sigoden dufs up to 0.46.0. This affects an unknown part of the file src/server.rs of the component WebDAV COPY Operation Handler. The manipulation leads to incorrect authorization. The attack is possible to be carried out remotely. Upgrading to version 0.47.0 is able to mitigate this issue. The identifier of the patch is fba13dffb9c65b5e5e26419f64de709200277a04. It is advisable to upgrade the affected component.
 
 - [https://github.com/googlesky/CVE-2026-129355](https://github.com/googlesky/CVE-2026-129355) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129355.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129355.svg)
 
 ## CVE-2026-129354
+> A flaw has been found in D-Link DIR-600L 2.17b02. Affected by this issue is the function hnap_main of the file htdocs/cgibin of the component HNAP Handler. Executing a manipulation can lead to stack-based buffer overflow. The attack can be executed remotely. The exploit has been published and may be used.
 
 - [https://github.com/googlesky/CVE-2026-129354](https://github.com/googlesky/CVE-2026-129354) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129354.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129354.svg)
 
@@ -91,6 +97,9 @@
 - [https://github.com/googlesky/CVE-2026-129351](https://github.com/googlesky/CVE-2026-129351) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129351.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129351.svg)
 
 ## CVE-2026-129349
+> When authentication caching is enabled on DefaultLdapRealm, after a user logs in successfully once, subsequent logins for that user succeed with any password.
+A cached authentication skips the LDAP bind, and the AllowAllCredentialsMatcher installed by default in DefaultLdapRealm accepts any credentials, allowing an attacker who knows a valid username to authenticate as that user.
+This issue affects all Apache Shiro versions through 3.0.0, only when using DefaultLdapRealm (or JndiLdapRealm) with 
 
 - [https://github.com/googlesky/CVE-2026-129349](https://github.com/googlesky/CVE-2026-129349) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129349.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129349.svg)
 
@@ -1796,6 +1805,7 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce](https://github.com/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce) : ![starts](https://img.shields.io/github/stars/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce.svg) ![forks](https://img.shields.io/github/forks/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce.svg)
 
 ## CVE-2026-110960
+> The Auth Armor  WordPress plugin through 1.0.3 does not require authentication on several handlers available to logged-out users, which leak the site&#x27;s stored API credentials and allow an unauthenticated attacker to reset an administrator&#x27;s enrollment and take over that administrator account.
 
 - [https://github.com/LLCForge/CVE-2026-110960](https://github.com/LLCForge/CVE-2026-110960) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-110960.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-110960.svg)
 
@@ -13781,6 +13791,8 @@ Users are recommended to upgrade to version 4.21.0, which fixes the issue. If us
  Nezha Monitoring is a self-hostable, lightweight, servers and websites monitoring and O&M tool. From version 1.4.0 to before version 2.0.8, a RoleMember user can create a scheduled cron task with Cover=CronCoverAll, Servers=[] and an arbitrary Command. At every tick of the scheduler, the dashboard pushes that command to every server in the global ServerShared map — including servers that belong to other tenants (admin's servers, other members' servers). Each agent runs the command and returns the output, which is then sent to the attacker's own NotificationGroup → attacker-controlled webhook. This issue has been patched in version 2.0.8.
 
 - [https://github.com/HAERIN-L/POC_CVE-2026-46716](https://github.com/HAERIN-L/POC_CVE-2026-46716) : ![starts](https://img.shields.io/github/stars/HAERIN-L/POC_CVE-2026-46716.svg) ![forks](https://img.shields.io/github/forks/HAERIN-L/POC_CVE-2026-46716.svg)
+
+- [https://github.com/wangp0tato/POC_CVE-2026-46716](https://github.com/wangp0tato/POC_CVE-2026-46716) : ![starts](https://img.shields.io/github/stars/wangp0tato/POC_CVE-2026-46716.svg) ![forks](https://img.shields.io/github/forks/wangp0tato/POC_CVE-2026-46716.svg)
 
 ## CVE-2026-46680
  containerd is an open-source container runtime. In versions prior to 1.7.32, 2.0.9, 2.2.4 and 2.3.1, containers launched with a numeric User directive that cannot be parsed as a 32-bit integer are incorrectly treated as a username, leading to runAsNonRoot evasion. If a crafted image provides an /etc/passwd file mapping this large numeric string to root, the container ultimately runs as root (UID 0). This allows the Kubernetes runAsNonRoot restriction to be bypassed, causing unexpected behavior for environments that require containers to run as a non-root user. This issue has been fixed in versions 1.7.32, 2.0.9, 2.2.4 and 2.3.1.
