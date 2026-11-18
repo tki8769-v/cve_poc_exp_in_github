@@ -108,6 +108,10 @@
 
 - [https://github.com/googlesky/CVE-2026-128014](https://github.com/googlesky/CVE-2026-128014) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128014.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128014.svg)
 
+## CVE-2026-127222
+
+- [https://github.com/rahulreddykarne/CVE-2026-127222-sglang](https://github.com/rahulreddykarne/CVE-2026-127222-sglang) : ![starts](https://img.shields.io/github/stars/rahulreddykarne/CVE-2026-127222-sglang.svg) ![forks](https://img.shields.io/github/forks/rahulreddykarne/CVE-2026-127222-sglang.svg)
+
 ## CVE-2026-127016
 > The MISP Modules website component exposes external tool management endpoints (add, delete, change status, and change configuration) that did not enforce the optional administrator authentication policy. When ADMIN_PASSWORD was configured in the application environment, the module configuration endpoints correctly required an authenticated administrator session, but the external tools management handlers processed requests from anonymous users without any authorization check. An unauthenticated 
 
@@ -461,6 +465,8 @@
 - [https://github.com/LaMambaKukun/Hack-The-Box-Sherlock-SSHole-](https://github.com/LaMambaKukun/Hack-The-Box-Sherlock-SSHole-) : ![starts](https://img.shields.io/github/stars/LaMambaKukun/Hack-The-Box-Sherlock-SSHole-.svg) ![forks](https://img.shields.io/github/forks/LaMambaKukun/Hack-The-Box-Sherlock-SSHole-.svg)
 
 - [https://github.com/diallocode/SSHOLE-POC](https://github.com/diallocode/SSHOLE-POC) : ![starts](https://img.shields.io/github/stars/diallocode/SSHOLE-POC.svg) ![forks](https://img.shields.io/github/forks/diallocode/SSHOLE-POC.svg)
+
+- [https://github.com/Quaerendir/cve-2026-123158-audit](https://github.com/Quaerendir/cve-2026-123158-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/cve-2026-123158-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/cve-2026-123158-audit.svg)
 
 ## CVE-2026-123039
 > The Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socket (/tmp/dynamic_socket) without authenticating connecting processes. An authenticated local user can send a command to the socket and have it executed as root.
@@ -1082,6 +1088,20 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 
 - [https://github.com/ashrafzaryouh/CVE-2026-114938](https://github.com/ashrafzaryouh/CVE-2026-114938) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-114938.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-114938.svg)
 
+- [https://github.com/ikow/java4shell-poc](https://github.com/ikow/java4shell-poc) : ![starts](https://img.shields.io/github/stars/ikow/java4shell-poc.svg) ![forks](https://img.shields.io/github/forks/ikow/java4shell-poc.svg)
+
+- [https://github.com/theori-io/java4shell-runtime-patch-CVE-2026-114938](https://github.com/theori-io/java4shell-runtime-patch-CVE-2026-114938) : ![starts](https://img.shields.io/github/stars/theori-io/java4shell-runtime-patch-CVE-2026-114938.svg) ![forks](https://img.shields.io/github/forks/theori-io/java4shell-runtime-patch-CVE-2026-114938.svg)
+
+- [https://github.com/r3dvei1/java4shell](https://github.com/r3dvei1/java4shell) : ![starts](https://img.shields.io/github/stars/r3dvei1/java4shell.svg) ![forks](https://img.shields.io/github/forks/r3dvei1/java4shell.svg)
+
+- [https://github.com/Pwned-test/cve-2026-114938-java17-PoC](https://github.com/Pwned-test/cve-2026-114938-java17-PoC) : ![starts](https://img.shields.io/github/stars/Pwned-test/cve-2026-114938-java17-PoC.svg) ![forks](https://img.shields.io/github/forks/Pwned-test/cve-2026-114938-java17-PoC.svg)
+
+- [https://github.com/arturo-b-cmu/CVE-2026-114938](https://github.com/arturo-b-cmu/CVE-2026-114938) : ![starts](https://img.shields.io/github/stars/arturo-b-cmu/CVE-2026-114938.svg) ![forks](https://img.shields.io/github/forks/arturo-b-cmu/CVE-2026-114938.svg)
+
+- [https://github.com/jeffschafer/BigFix-Java4Shell-CVE-2026-114938-Scanner](https://github.com/jeffschafer/BigFix-Java4Shell-CVE-2026-114938-Scanner) : ![starts](https://img.shields.io/github/stars/jeffschafer/BigFix-Java4Shell-CVE-2026-114938-Scanner.svg) ![forks](https://img.shields.io/github/forks/jeffschafer/BigFix-Java4Shell-CVE-2026-114938-Scanner.svg)
+
+- [https://github.com/jeffschafer/MANUAL-Scanner-Java4Shell-CVE-2026-114938](https://github.com/jeffschafer/MANUAL-Scanner-Java4Shell-CVE-2026-114938) : ![starts](https://img.shields.io/github/stars/jeffschafer/MANUAL-Scanner-Java4Shell-CVE-2026-114938.svg) ![forks](https://img.shields.io/github/forks/jeffschafer/MANUAL-Scanner-Java4Shell-CVE-2026-114938.svg)
+
 ## CVE-2026-114820
 
 - [https://github.com/joedayz/cve-2026-114820-java-scan](https://github.com/joedayz/cve-2026-114820-java-scan) : ![starts](https://img.shields.io/github/stars/joedayz/cve-2026-114820-java-scan.svg) ![forks](https://img.shields.io/github/forks/joedayz/cve-2026-114820-java-scan.svg)
@@ -1669,6 +1689,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/TimmyTurner51/brotli-lab](https://github.com/TimmyTurner51/brotli-lab) : ![starts](https://img.shields.io/github/stars/TimmyTurner51/brotli-lab.svg) ![forks](https://img.shields.io/github/forks/TimmyTurner51/brotli-lab.svg)
 
 - [https://github.com/csakala-art/cbci-libbrotli-patch-25551](https://github.com/csakala-art/cbci-libbrotli-patch-25551) : ![starts](https://img.shields.io/github/stars/csakala-art/cbci-libbrotli-patch-25551.svg) ![forks](https://img.shields.io/github/forks/csakala-art/cbci-libbrotli-patch-25551.svg)
+
+- [https://github.com/proxy0x/CVE-2026-111497](https://github.com/proxy0x/CVE-2026-111497) : ![starts](https://img.shields.io/github/stars/proxy0x/CVE-2026-111497.svg) ![forks](https://img.shields.io/github/forks/proxy0x/CVE-2026-111497.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -2796,6 +2818,8 @@ This issue has been fixed in version 2.5.
 - [https://github.com/JohanYP/techcorp-forense-lab](https://github.com/JohanYP/techcorp-forense-lab) : ![starts](https://img.shields.io/github/stars/JohanYP/techcorp-forense-lab.svg) ![forks](https://img.shields.io/github/forks/JohanYP/techcorp-forense-lab.svg)
 
 - [https://github.com/tolmohq/php2shell-docs](https://github.com/tolmohq/php2shell-docs) : ![starts](https://img.shields.io/github/stars/tolmohq/php2shell-docs.svg) ![forks](https://img.shields.io/github/forks/tolmohq/php2shell-docs.svg)
+
+- [https://github.com/patrickgrady321/PHP2Shell_exploit_capstone](https://github.com/patrickgrady321/PHP2Shell_exploit_capstone) : ![starts](https://img.shields.io/github/stars/patrickgrady321/PHP2Shell_exploit_capstone.svg) ![forks](https://img.shields.io/github/forks/patrickgrady321/PHP2Shell_exploit_capstone.svg)
 
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
@@ -4092,6 +4116,8 @@ check. They do not check whether the new object is hashed. If t
 
 - [https://github.com/mustafasaydam/CVE-2026-99288---NoisyTCP-Exploit](https://github.com/mustafasaydam/CVE-2026-99288---NoisyTCP-Exploit) : ![starts](https://img.shields.io/github/stars/mustafasaydam/CVE-2026-99288---NoisyTCP-Exploit.svg) ![forks](https://img.shields.io/github/forks/mustafasaydam/CVE-2026-99288---NoisyTCP-Exploit.svg)
 
+- [https://github.com/donxud/NoisyTCP-Blue-Team-Playbook](https://github.com/donxud/NoisyTCP-Blue-Team-Playbook) : ![starts](https://img.shields.io/github/stars/donxud/NoisyTCP-Blue-Team-Playbook.svg) ![forks](https://img.shields.io/github/forks/donxud/NoisyTCP-Blue-Team-Playbook.svg)
+
 ## CVE-2026-99273
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -4536,6 +4562,10 @@ but the node is still queued on tsk, which
 - [https://github.com/osamaassolimany-ui/TimerRoot](https://github.com/osamaassolimany-ui/TimerRoot) : ![starts](https://img.shields.io/github/stars/osamaassolimany-ui/TimerRoot.svg) ![forks](https://img.shields.io/github/forks/osamaassolimany-ui/TimerRoot.svg)
 
 - [https://github.com/mumaosong/cve-2026-98260-app](https://github.com/mumaosong/cve-2026-98260-app) : ![starts](https://img.shields.io/github/stars/mumaosong/cve-2026-98260-app.svg) ![forks](https://img.shields.io/github/forks/mumaosong/cve-2026-98260-app.svg)
+
+- [https://github.com/CYB3R0ID694/Shark-Moto](https://github.com/CYB3R0ID694/Shark-Moto) : ![starts](https://img.shields.io/github/stars/CYB3R0ID694/Shark-Moto.svg) ![forks](https://img.shields.io/github/forks/CYB3R0ID694/Shark-Moto.svg)
+
+- [https://github.com/yxc0915/cve-2026-98260-ppg-an00](https://github.com/yxc0915/cve-2026-98260-ppg-an00) : ![starts](https://img.shields.io/github/stars/yxc0915/cve-2026-98260-ppg-an00.svg) ![forks](https://img.shields.io/github/forks/yxc0915/cve-2026-98260-ppg-an00.svg)
 
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -6832,6 +6862,10 @@ This issue affects GiveWP: from n/a through 4.16.7.1.
 - [https://github.com/yora1928/PaperCut-CVE-2026-81578-82078](https://github.com/yora1928/PaperCut-CVE-2026-81578-82078) : ![starts](https://img.shields.io/github/stars/yora1928/PaperCut-CVE-2026-81578-82078.svg) ![forks](https://img.shields.io/github/forks/yora1928/PaperCut-CVE-2026-81578-82078.svg)
 
 - [https://github.com/virologi-info/papercut-toolkit](https://github.com/virologi-info/papercut-toolkit) : ![starts](https://img.shields.io/github/stars/virologi-info/papercut-toolkit.svg) ![forks](https://img.shields.io/github/forks/virologi-info/papercut-toolkit.svg)
+
+## CVE-2026-82025
+
+- [https://github.com/rxsklife/CVE-2026-82025](https://github.com/rxsklife/CVE-2026-82025) : ![starts](https://img.shields.io/github/stars/rxsklife/CVE-2026-82025.svg) ![forks](https://img.shields.io/github/forks/rxsklife/CVE-2026-82025.svg)
 
 ## CVE-2026-81963
 
@@ -27427,6 +27461,8 @@ Successful exploitation of this vulnerability may result in unauthorized access 
 
 - [https://github.com/0xBlackash/CVE-2026-5173](https://github.com/0xBlackash/CVE-2026-5173) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-5173.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-5173.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-5173](https://github.com/ashrafzaryouh/CVE-2026-5173) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-5173.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-5173.svg)
+
 ## CVE-2026-5172
  A buffer overflow in dnsmasq’s extract_addresses() function allows an attacker to trigger a heap out-of-bounds read and crash by exploiting a malformed DNS response, enabling extract_name() to advance the pointer past the record’s end.
 
@@ -32327,6 +32363,10 @@ Users are recommended to upgrade to version 2.4.66, which fixes the issue.
 - [https://github.com/Gayang2902/CVE-2025-57833](https://github.com/Gayang2902/CVE-2025-57833) : ![starts](https://img.shields.io/github/stars/Gayang2902/CVE-2025-57833.svg) ![forks](https://img.shields.io/github/forks/Gayang2902/CVE-2025-57833.svg)
 
 - [https://github.com/ianoboyle/CVE-2025-57833](https://github.com/ianoboyle/CVE-2025-57833) : ![starts](https://img.shields.io/github/stars/ianoboyle/CVE-2025-57833.svg) ![forks](https://img.shields.io/github/forks/ianoboyle/CVE-2025-57833.svg)
+
+## CVE-2025-057819
+
+- [https://github.com/Amoru-Bek/FreePBX-CVE-2025-057819-Remote-Code-Execution](https://github.com/Amoru-Bek/FreePBX-CVE-2025-057819-Remote-Code-Execution) : ![starts](https://img.shields.io/github/stars/Amoru-Bek/FreePBX-CVE-2025-057819-Remote-Code-Execution.svg) ![forks](https://img.shields.io/github/forks/Amoru-Bek/FreePBX-CVE-2025-057819-Remote-Code-Execution.svg)
 
 ## CVE-2025-57819
  FreePBX is an open-source web-based graphical user interface. FreePBX 15, 16, and 17 endpoints are vulnerable due to insufficiently sanitized user-supplied data allowing unauthenticated access to FreePBX Administrator leading to arbitrary database manipulation and remote code execution. This issue has been patched in endpoint versions 15.0.66, 16.0.89, and 17.0.3.
@@ -52770,6 +52810,10 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 - [https://github.com/WanLiChangChengWanLiChang/CVE-2024-23692-RCE](https://github.com/WanLiChangChengWanLiChang/CVE-2024-23692-RCE) : ![starts](https://img.shields.io/github/stars/WanLiChangChengWanLiChang/CVE-2024-23692-RCE.svg) ![forks](https://img.shields.io/github/forks/WanLiChangChengWanLiChang/CVE-2024-23692-RCE.svg)
 
 - [https://github.com/wgetnz/hfs2](https://github.com/wgetnz/hfs2) : ![starts](https://img.shields.io/github/stars/wgetnz/hfs2.svg) ![forks](https://img.shields.io/github/forks/wgetnz/hfs2.svg)
+
+- [https://github.com/Lolicks/hfs-check](https://github.com/Lolicks/hfs-check) : ![starts](https://img.shields.io/github/stars/Lolicks/hfs-check.svg) ![forks](https://img.shields.io/github/forks/Lolicks/hfs-check.svg)
+
+- [https://github.com/Lolicks/hfs2xray](https://github.com/Lolicks/hfs2xray) : ![starts](https://img.shields.io/github/stars/Lolicks/hfs2xray.svg) ![forks](https://img.shields.io/github/forks/Lolicks/hfs2xray.svg)
 
 ## CVE-2024-23673
  Malicious code execution via path traversal in Apache Software Foundation Apache Sling Servlets Resolver.This issue affects all version of Apache Sling Servlets Resolver before 2.11.0. However, whether a system is vulnerable to this attack depends on the exact configuration of the system.
@@ -80448,6 +80492,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/R3leant/CVE-2021-41773](https://github.com/R3leant/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/R3leant/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/R3leant/CVE-2021-41773.svg)
 
 - [https://github.com/itsDav804/CVE-2021-41773](https://github.com/itsDav804/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/itsDav804/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/itsDav804/CVE-2021-41773.svg)
+
+- [https://github.com/xlondra/CVE-2021-41773](https://github.com/xlondra/CVE-2021-41773) : ![starts](https://img.shields.io/github/stars/xlondra/CVE-2021-41773.svg) ![forks](https://img.shields.io/github/forks/xlondra/CVE-2021-41773.svg)
 
 ## CVE-2021-41753
  A denial-of-service attack in WPA2, and WPA3-SAE authentication methods in D-Link DIR-X1560, v1.04B04, and DIR-X6060, v1.11B04 allows a remote unauthenticated attacker to disconnect a wireless client via sending specific spoofed SAE authentication frames.

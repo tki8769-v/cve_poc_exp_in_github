@@ -12019,3 +12019,23 @@
 {"cve_id": "CVE-2026-43626", "ts": "2026-11-17T15:03:50Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-114938", "ts": "2026-11-17T15:29:24Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-114938"}
 {"cve_id": "CVE-2024-3495", "ts": "2026-11-17T15:30:42Z", "type": "new_poc", "url": "https://github.com/rw-a3/rw-country-state-city-auto-dropdown"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-17T23:56:54Z", "type": "new_poc", "url": "https://github.com/ikow/java4shell-poc"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-17T23:56:54Z", "type": "new_poc", "url": "https://github.com/theori-io/java4shell-runtime-patch-CVE-2026-114938"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-17T23:56:55Z", "type": "new_poc", "url": "https://github.com/r3dvei1/java4shell"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-17T23:56:56Z", "type": "new_poc", "url": "https://github.com/arturo-b-cmu/CVE-2026-114938"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-11-17T23:56:56Z", "type": "new_poc", "url": "https://github.com/proxy0x/CVE-2026-111497"}
+{"cve_id": "CVE-2021-41773", "ts": "2026-11-17T23:56:56Z", "type": "new_poc", "url": "https://github.com/xlondra/CVE-2021-41773"}
+{"cve_id": "CVE-2026-82025", "ts": "2026-11-17T23:56:57Z", "type": "new_poc", "url": "https://github.com/rxsklife/CVE-2026-82025"}
+{"cve_id": "CVE-2026-127222", "ts": "2026-11-17T23:56:57Z", "type": "new_poc", "url": "https://github.com/rahulreddykarne/CVE-2026-127222-sglang"}
+{"cve_id": "CVE-2026-123158", "ts": "2026-11-17T23:56:57Z", "type": "new_poc", "url": "https://github.com/Quaerendir/cve-2026-123158-audit"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-17T23:56:58Z", "type": "new_poc", "url": "https://github.com/yxc0915/cve-2026-98260-ppg-an00"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-17T23:56:58Z", "type": "new_poc", "url": "https://github.com/Pwned-test/cve-2026-114938-java17-PoC"}
+{"cve_id": "CVE-2025-057819", "ts": "2026-11-17T23:56:58Z", "type": "new_poc", "url": "https://github.com/Amoru-Bek/FreePBX-CVE-2025-057819-Remote-Code-Execution"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-17T23:56:59Z", "type": "new_poc", "url": "https://github.com/jeffschafer/MANUAL-Scanner-Java4Shell-CVE-2026-114938"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-17T23:56:59Z", "type": "new_poc", "url": "https://github.com/jeffschafer/BigFix-Java4Shell-CVE-2026-114938-Scanner"}
+{"cve_id": "CVE-2024-23692", "ts": "2026-11-17T23:56:59Z", "type": "new_poc", "url": "https://github.com/Lolicks/hfs-check"}
+{"cve_id": "CVE-2024-23692", "ts": "2026-11-17T23:56:59Z", "type": "new_poc", "url": "https://github.com/Lolicks/hfs2xray"}
+{"cve_id": "CVE-2026-99288", "ts": "2026-11-17T23:57:01Z", "type": "new_poc", "url": "https://github.com/donxud/NoisyTCP-Blue-Team-Playbook"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-17T23:57:01Z", "type": "new_poc", "url": "https://github.com/patrickgrady321/PHP2Shell_exploit_capstone"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-17T23:57:15Z", "type": "new_poc", "url": "https://github.com/CYB3R0ID694/Shark-Moto"}
+{"cve_id": "CVE-2026-5173", "ts": "2026-11-18T00:04:11Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-5173"}

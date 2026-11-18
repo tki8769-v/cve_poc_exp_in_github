@@ -7544,6 +7544,10 @@ Users are recommended to upgrade to version 11.0.0-M17, 10.1.19, 9.0.86 or 8.5.9
 
 - [https://github.com/wgetnz/hfs2](https://github.com/wgetnz/hfs2) : ![starts](https://img.shields.io/github/stars/wgetnz/hfs2.svg) ![forks](https://img.shields.io/github/forks/wgetnz/hfs2.svg)
 
+- [https://github.com/Lolicks/hfs-check](https://github.com/Lolicks/hfs-check) : ![starts](https://img.shields.io/github/stars/Lolicks/hfs-check.svg) ![forks](https://img.shields.io/github/forks/Lolicks/hfs-check.svg)
+
+- [https://github.com/Lolicks/hfs2xray](https://github.com/Lolicks/hfs2xray) : ![starts](https://img.shields.io/github/stars/Lolicks/hfs2xray.svg) ![forks](https://img.shields.io/github/forks/Lolicks/hfs2xray.svg)
+
 ## CVE-2024-23673
  Malicious code execution via path traversal in Apache Software Foundation Apache Sling Servlets Resolver.This issue affects all version of Apache Sling Servlets Resolver before 2.11.0. However, whether a system is vulnerable to this attack depends on the exact configuration of the system.
 If the system is vulnerable, a user with write access to the repository might be able to trick the Sling Servlet Resolver to load a previously uploaded script. 
