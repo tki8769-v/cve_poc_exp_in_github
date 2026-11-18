@@ -12147,3 +12147,10 @@
 {"cve_id": "CVE-2026-104849", "ts": "2026-11-18T18:32:24Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/tinypool-options-rce-check"}
 {"cve_id": "CVE-2026-72898", "ts": "2026-11-18T18:34:38Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-72898"}
 {"cve_id": "CVE-2026-28289", "ts": "2026-11-18T18:36:26Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-28289"}
+{"cve_id": "CVE-2026-80920", "ts": "2026-11-18T18:39:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80920", "ts": "2026-11-18T18:42:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-114202", "ts": "2026-11-18T18:43:23Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-114202"}
+{"cve_id": "CVE-2026-126978", "ts": "2026-11-18T18:43:24Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-126978"}
+{"cve_id": "CVE-2026-100397", "ts": "2026-11-18T18:43:25Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-100397"}
+{"cve_id": "CVE-2025-32462", "ts": "2026-11-18T18:43:26Z", "type": "new_poc", "url": "https://github.com/ceraz02/cve-2025-32462-analysis"}
+{"cve_id": "CVE-2026-33017", "ts": "2026-11-18T18:44:41Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-33017"}

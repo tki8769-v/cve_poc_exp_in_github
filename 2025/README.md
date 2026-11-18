@@ -8333,6 +8333,8 @@ This issue affects Command Center Innovation Release: 11.38.0 to 11.38.20. The v
 
 - [https://github.com/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities](https://github.com/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities) : ![starts](https://img.shields.io/github/stars/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities.svg) ![forks](https://img.shields.io/github/forks/lakshan-sameera/CVE-2025-32462-and-CVE-2025-32463---Critical-Sudo-Vulnerabilities.svg)
 
+- [https://github.com/ceraz02/cve-2025-32462-analysis](https://github.com/ceraz02/cve-2025-32462-analysis) : ![starts](https://img.shields.io/github/stars/ceraz02/cve-2025-32462-analysis.svg) ![forks](https://img.shields.io/github/forks/ceraz02/cve-2025-32462-analysis.svg)
+
 ## CVE-2025-32440
 
 - [https://github.com/jstjep00/CVE-2025-32440-netalertx-auth-bypass](https://github.com/jstjep00/CVE-2025-32440-netalertx-auth-bypass) : ![starts](https://img.shields.io/github/stars/jstjep00/CVE-2025-32440-netalertx-auth-bypass.svg) ![forks](https://img.shields.io/github/forks/jstjep00/CVE-2025-32440-netalertx-auth-bypass.svg)

@@ -47,6 +47,10 @@
 
 - [https://github.com/alinaclark672377250/Vitejs-exploit](https://github.com/alinaclark672377250/Vitejs-exploit) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/Vitejs-exploit.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/Vitejs-exploit.svg)
 
+## CVE-2025-32462
+
+- [https://github.com/ceraz02/cve-2025-32462-analysis](https://github.com/ceraz02/cve-2025-32462-analysis) : ![starts](https://img.shields.io/github/stars/ceraz02/cve-2025-32462-analysis.svg) ![forks](https://img.shields.io/github/forks/ceraz02/cve-2025-32462-analysis.svg)
+
 ## CVE-2025-49844
 
 - [https://github.com/ashrafzaryouh/CVE-2025-49844](https://github.com/ashrafzaryouh/CVE-2025-49844) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2025-49844.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2025-49844.svg)
@@ -63,6 +67,10 @@
 ## CVE-2025-65616
 
 - [https://github.com/redline1736/CVE-2025-65616](https://github.com/redline1736/CVE-2025-65616) : ![starts](https://img.shields.io/github/stars/redline1736/CVE-2025-65616.svg) ![forks](https://img.shields.io/github/forks/redline1736/CVE-2025-65616.svg)
+
+## CVE-2026-100397
+
+- [https://github.com/LLCForge/CVE-2026-100397](https://github.com/LLCForge/CVE-2026-100397) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-100397.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-100397.svg)
 
 ## CVE-2026-104849
 > Tinypool is a minimal Node.js worker thread pool implementation. Prior to 2.1.2, Tinypool reads filename from a caller-supplied options object in pool.run(task, options) without requiring an own property, so a polluted Object.prototype.filename can replace the intended worker module. Applications are affected only when they pass their own second-argument options object to pool.run(); calls without that argument use the trusted default options object. An attacker who can first pollute the prototy
@@ -86,6 +94,10 @@
 ## CVE-2026-113425
 
 - [https://github.com/LLCForge/CVE-2026-113425](https://github.com/LLCForge/CVE-2026-113425) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-113425.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-113425.svg)
+
+## CVE-2026-114202
+
+- [https://github.com/LLCForge/CVE-2026-114202](https://github.com/LLCForge/CVE-2026-114202) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-114202.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-114202.svg)
 
 ## CVE-2026-114938
 
@@ -199,6 +211,10 @@
 
 - [https://github.com/LLCForge/CVE-2026-125283](https://github.com/LLCForge/CVE-2026-125283) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-125283.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-125283.svg)
 
+## CVE-2026-126978
+
+- [https://github.com/LLCForge/CVE-2026-126978](https://github.com/LLCForge/CVE-2026-126978) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-126978.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-126978.svg)
+
 ## CVE-2026-130587
 
 - [https://github.com/googlesky/CVE-2026-130587](https://github.com/googlesky/CVE-2026-130587) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130587.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130587.svg)
@@ -234,6 +250,10 @@
 ## CVE-2026-28289
 
 - [https://github.com/ashrafzaryouh/CVE-2026-28289](https://github.com/ashrafzaryouh/CVE-2026-28289) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-28289.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-28289.svg)
+
+## CVE-2026-33017
+
+- [https://github.com/ashrafzaryouh/CVE-2026-33017](https://github.com/ashrafzaryouh/CVE-2026-33017) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-33017.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-33017.svg)
 
 ## CVE-2026-34197
 

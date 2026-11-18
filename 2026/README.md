@@ -51,6 +51,7 @@
 - [https://github.com/googlesky/CVE-2026-129493](https://github.com/googlesky/CVE-2026-129493) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129493.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129493.svg)
 
 ## CVE-2026-129492
+> Bolo (bolo-solo) 1.7 through 2.6.4 contains a stored cross-site scripting vulnerability that allows unauthenticated attackers to inject scripts via the unsanitized commentOriginalCommentName parameter. Attackers can post a comment to /article/comments with a short payload that steals non-HttpOnly session cookies from visitors, enabling takeover of administrator accounts.
 
 - [https://github.com/googlesky/CVE-2026-129492](https://github.com/googlesky/CVE-2026-129492) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129492.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129492.svg)
 
@@ -153,6 +154,10 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 > A vulnerability was identified in JeecgBoot up to 3.9.6. This affects the function RestTemplate.exchange of the file org/jeecg/modules/airag/flow/c/a.class of the component flow-run Endpoint. The manipulation leads to server-side request forgery. Remote exploitation of the attack is possible. The exploit is publicly available and might be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/evenomn/CVE-2026-126997](https://github.com/evenomn/CVE-2026-126997) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-126997.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-126997.svg)
+
+## CVE-2026-126978
+
+- [https://github.com/LLCForge/CVE-2026-126978](https://github.com/LLCForge/CVE-2026-126978) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-126978.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-126978.svg)
 
 ## CVE-2026-126937
 > Zipline before 4.6.5 contains a TOCTOU race condition in the POST /api/setup endpoint that allows unauthenticated attackers to create multiple SUPERADMIN accounts by racing concurrent requests before the firstSetup flag is reset. Attackers can send simultaneous requests with spoofed X-Forwarded-For headers during the argon2 hashing window to gain full administrative control of the instance.
@@ -1375,6 +1380,10 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 - [https://github.com/Nguemoue/project2026_20261030_tokengate](https://github.com/Nguemoue/project2026_20261030_tokengate) : ![starts](https://img.shields.io/github/stars/Nguemoue/project2026_20261030_tokengate.svg) ![forks](https://img.shields.io/github/forks/Nguemoue/project2026_20261030_tokengate.svg)
 
 - [https://github.com/nextmend/laravel-type-juggling-auth-bypass](https://github.com/nextmend/laravel-type-juggling-auth-bypass) : ![starts](https://img.shields.io/github/stars/nextmend/laravel-type-juggling-auth-bypass.svg) ![forks](https://img.shields.io/github/forks/nextmend/laravel-type-juggling-auth-bypass.svg)
+
+## CVE-2026-114202
+
+- [https://github.com/LLCForge/CVE-2026-114202](https://github.com/LLCForge/CVE-2026-114202) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-114202.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-114202.svg)
 
 ## CVE-2026-114148
 
@@ -4227,6 +4236,10 @@ When the CoAP consumer could not build its response once the route had completed
 > Laranode versions before 1.2.1 contain a path traversal vulnerability in the POST /filemanager/upload-file endpoint that allows authenticated users to write arbitrary files outside their home directory. Attackers can supply directory traversal sequences in the path parameter to write PHP files into other tenants&#x27; web roots and execute code as those tenants.
 
 - [https://github.com/wvllxe/CVE-2026-100520-laranode-path-traversal](https://github.com/wvllxe/CVE-2026-100520-laranode-path-traversal) : ![starts](https://img.shields.io/github/stars/wvllxe/CVE-2026-100520-laranode-path-traversal.svg) ![forks](https://img.shields.io/github/forks/wvllxe/CVE-2026-100520-laranode-path-traversal.svg)
+
+## CVE-2026-100397
+
+- [https://github.com/LLCForge/CVE-2026-100397](https://github.com/LLCForge/CVE-2026-100397) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-100397.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-100397.svg)
 
 ## CVE-2026-100382
 > Improper Neutralization of Special Elements used in an OS Command (&#x27;OS Command Injection&#x27;) vulnerability in Wikimedia Foundation Mediawiki - ExternalData Extension allows OS Command Injection.
@@ -19260,6 +19273,8 @@ Django would like to thank Seokchan Yoon for reporting this issue.
 - [https://github.com/HackfutSecRoot/LangFlow-Rce](https://github.com/HackfutSecRoot/LangFlow-Rce) : ![starts](https://img.shields.io/github/stars/HackfutSecRoot/LangFlow-Rce.svg) ![forks](https://img.shields.io/github/forks/HackfutSecRoot/LangFlow-Rce.svg)
 
 - [https://github.com/NSK-394/kavach-loop](https://github.com/NSK-394/kavach-loop) : ![starts](https://img.shields.io/github/stars/NSK-394/kavach-loop.svg) ![forks](https://img.shields.io/github/forks/NSK-394/kavach-loop.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-33017](https://github.com/ashrafzaryouh/CVE-2026-33017) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-33017.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-33017.svg)
 
 ## CVE-2026-33006
  A timing attack against mod_auth_digest in Apache HTTP Server 2.4.66 allows a bypass of Digest authentication by a remote attacker.
