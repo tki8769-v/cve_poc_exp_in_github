@@ -3,9 +3,17 @@
 
 - [https://github.com/Moonw4re/Linux-Privilege-Escalation](https://github.com/Moonw4re/Linux-Privilege-Escalation) : ![starts](https://img.shields.io/github/stars/Moonw4re/Linux-Privilege-Escalation.svg) ![forks](https://img.shields.io/github/forks/Moonw4re/Linux-Privilege-Escalation.svg)
 
+## CVE-2020-5902
+
+- [https://github.com/ashrafzaryouh/CVE-2020-5902](https://github.com/ashrafzaryouh/CVE-2020-5902) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2020-5902.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2020-5902.svg)
+
 ## CVE-2021-3712
 
 - [https://github.com/federiconbaez/cortex9-openssl-asn1-string-nul-scanner](https://github.com/federiconbaez/cortex9-openssl-asn1-string-nul-scanner) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-openssl-asn1-string-nul-scanner.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-openssl-asn1-string-nul-scanner.svg)
+
+## CVE-2022-0995
+
+- [https://github.com/Calculusdetective/Page_Jack_pwn](https://github.com/Calculusdetective/Page_Jack_pwn) : ![starts](https://img.shields.io/github/stars/Calculusdetective/Page_Jack_pwn.svg) ![forks](https://img.shields.io/github/forks/Calculusdetective/Page_Jack_pwn.svg)
 
 ## CVE-2022-22706
 
@@ -15,6 +23,10 @@
 
 - [https://github.com/justwezzz/CVE-2023-33107-908SH](https://github.com/justwezzz/CVE-2023-33107-908SH) : ![starts](https://img.shields.io/github/stars/justwezzz/CVE-2023-33107-908SH.svg) ![forks](https://img.shields.io/github/forks/justwezzz/CVE-2023-33107-908SH.svg)
 
+## CVE-2024-36401
+
+- [https://github.com/astr4liteEx/CVE-2024-36401](https://github.com/astr4liteEx/CVE-2024-36401) : ![starts](https://img.shields.io/github/stars/astr4liteEx/CVE-2024-36401.svg) ![forks](https://img.shields.io/github/forks/astr4liteEx/CVE-2024-36401.svg)
+
 ## CVE-2025-49844
 
 - [https://github.com/ashrafzaryouh/CVE-2025-49844](https://github.com/ashrafzaryouh/CVE-2025-49844) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2025-49844.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2025-49844.svg)
@@ -23,6 +35,10 @@
 > A pre-authentication remote code execution vulnerability exists in React Server Components versions 19.0.0, 19.1.0, 19.1.1, and 19.2.0 including the following packages: react-server-dom-parcel, react-server-dom-turbopack, and react-server-dom-webpack. The vulnerable code unsafely deserializes payloads from HTTP requests to Server Function endpoints.
 
 - [https://github.com/alinaclark672377250/React2Shell_Rce-cve-2025-55182](https://github.com/alinaclark672377250/React2Shell_Rce-cve-2025-55182) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/React2Shell_Rce-cve-2025-55182.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/React2Shell_Rce-cve-2025-55182.svg)
+
+## CVE-2025-57819
+
+- [https://github.com/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819](https://github.com/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819.svg)
 
 ## CVE-2025-65616
 

@@ -76,14 +76,17 @@
 - [https://github.com/googlesky/CVE-2026-129354](https://github.com/googlesky/CVE-2026-129354) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129354.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129354.svg)
 
 ## CVE-2026-129353
+> A vulnerability was detected in D-Link DIR-600L 2.17/2.17b02. Affected by this vulnerability is the function authenticationcgi_main of the file authentication.cgi. Performing a manipulation of the argument id/password results in stack-based buffer overflow. Remote exploitation of the attack is possible. The exploit is now public and may be used.
 
 - [https://github.com/googlesky/CVE-2026-129353](https://github.com/googlesky/CVE-2026-129353) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129353.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129353.svg)
 
 ## CVE-2026-129352
+> A vulnerability was detected in TRENDnet TEW-657BRM 1.00.1. This issue affects some unknown processing of the file /usr/sbin/upgrade_flash.cgi. Performing a manipulation of the argument boundary results in stack-based buffer overflow. The attack is possible to be carried out remotely. The exploit is now public and may be used. The vendor explains: &quot;&quot;I am not able to confirm if such vulnerability exists as the product has been EOL for more than 15 years. We will send out an announcement letting c
 
 - [https://github.com/googlesky/CVE-2026-129352](https://github.com/googlesky/CVE-2026-129352) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129352.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129352.svg)
 
 ## CVE-2026-129351
+> A security vulnerability has been detected in TRENDnet TEW-657BRM 1.00.1. This vulnerability affects the function sprintf of the file /setup.cgi of the component mini_httpd. Such manipulation leads to out-of-bounds write. The attack can be executed remotely. The exploit has been disclosed publicly and may be used. The vendor explains: &quot;&quot;I am not able to confirm if such vulnerability exists as the product has been EOL for more than 15 years. We will send out an announcement letting customers know
 
 - [https://github.com/googlesky/CVE-2026-129351](https://github.com/googlesky/CVE-2026-129351) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129351.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129351.svg)
 
@@ -32509,6 +32512,8 @@ Users are recommended to upgrade to version 2.4.66, which fixes the issue.
 
 - [https://github.com/HexBytee/FreePBX-SQLi-RCE](https://github.com/HexBytee/FreePBX-SQLi-RCE) : ![starts](https://img.shields.io/github/stars/HexBytee/FreePBX-SQLi-RCE.svg) ![forks](https://img.shields.io/github/forks/HexBytee/FreePBX-SQLi-RCE.svg)
 
+- [https://github.com/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819](https://github.com/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819.svg)
+
 ## CVE-2025-57576
  PHPGurukul Online Shopping Portal 2.1 is vulnerable to Cross Site Scripting (XSS) in /admin/updateorder.php.
 
@@ -49681,6 +49686,8 @@ Versions 2.22.6, 2.23.6, 2.24.4, and 2.25.2 contain a patch for the issue. A wor
 - [https://github.com/jakabakos/CVE-2024-36401-GeoServer-RCE](https://github.com/jakabakos/CVE-2024-36401-GeoServer-RCE) : ![starts](https://img.shields.io/github/stars/jakabakos/CVE-2024-36401-GeoServer-RCE.svg) ![forks](https://img.shields.io/github/forks/jakabakos/CVE-2024-36401-GeoServer-RCE.svg)
 
 - [https://github.com/basesixtythree/B63-POC-CVE-2024-36401](https://github.com/basesixtythree/B63-POC-CVE-2024-36401) : ![starts](https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2024-36401.svg) ![forks](https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2024-36401.svg)
+
+- [https://github.com/astr4liteEx/CVE-2024-36401](https://github.com/astr4liteEx/CVE-2024-36401) : ![starts](https://img.shields.io/github/stars/astr4liteEx/CVE-2024-36401.svg) ![forks](https://img.shields.io/github/forks/astr4liteEx/CVE-2024-36401.svg)
 
 ## CVE-2024-36114
  Aircompressor is a library with ports of the Snappy, LZO, LZ4, and Zstandard compression algorithms to Java. All decompressor implementations of Aircompressor (LZ4, LZO, Snappy, Zstandard) can crash the JVM for certain input, and in some cases also leak the content of other memory of the Java process (which could contain sensitive information). When decompressing certain data, the decompressors try to access memory outside the bounds of the given byte arrays or byte buffers. Because Aircompressor uses the JDK class `sun.misc.Unsafe` to speed up memory access, no additional bounds checks are performed and this has similar security consequences as out-of-bounds access in C or C++, namely it can lead to non-deterministic behavior or crash the JVM. Users should update to Aircompressor 0.27 or newer where these issues have been fixed. When decompressing data from untrusted users, this can be exploited for a denial-of-service attack by crashing the JVM, or to leak other sensitive information from the Java process. There are no known workarounds for this issue.
@@ -76962,6 +76969,8 @@ the client's API server credentials to third parties.
 
 - [https://github.com/A1b2rt/cve-2022-0995](https://github.com/A1b2rt/cve-2022-0995) : ![starts](https://img.shields.io/github/stars/A1b2rt/cve-2022-0995.svg) ![forks](https://img.shields.io/github/forks/A1b2rt/cve-2022-0995.svg)
 
+- [https://github.com/Calculusdetective/Page_Jack_pwn](https://github.com/Calculusdetective/Page_Jack_pwn) : ![starts](https://img.shields.io/github/stars/Calculusdetective/Page_Jack_pwn.svg) ![forks](https://img.shields.io/github/forks/Calculusdetective/Page_Jack_pwn.svg)
+
 ## CVE-2022-0952
  The Sitemap by click5 WordPress plugin before 1.0.36 does not have authorisation and CSRF checks when updating options via a REST endpoint, and does not ensure that the option to be updated belongs to the plugin. As a result, unauthenticated attackers could change arbitrary blog options, such as the users_can_register and default_role, allowing them to create a new admin account and take over the blog.
 
@@ -91752,6 +91761,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 - [https://github.com/DevRafaelprogrammer/F5-BIG-IP](https://github.com/DevRafaelprogrammer/F5-BIG-IP) : ![starts](https://img.shields.io/github/stars/DevRafaelprogrammer/F5-BIG-IP.svg) ![forks](https://img.shields.io/github/forks/DevRafaelprogrammer/F5-BIG-IP.svg)
 
 - [https://github.com/yora1928/cve-2020-5902](https://github.com/yora1928/cve-2020-5902) : ![starts](https://img.shields.io/github/stars/yora1928/cve-2020-5902.svg) ![forks](https://img.shields.io/github/forks/yora1928/cve-2020-5902.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2020-5902](https://github.com/ashrafzaryouh/CVE-2020-5902) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2020-5902.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2020-5902.svg)
 
 ## CVE-2020-5844
  index.php?sec=godmode/extensions&sec2=extensions/files_repo in Pandora FMS v7.0 NG allows authenticated administrators to upload malicious PHP scripts, and execute them via base64 decoding of the file location. This affects v7.0NG.742_FIX_PERL2020.

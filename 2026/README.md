@@ -75,14 +75,17 @@
 - [https://github.com/googlesky/CVE-2026-129354](https://github.com/googlesky/CVE-2026-129354) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129354.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129354.svg)
 
 ## CVE-2026-129353
+> A vulnerability was detected in D-Link DIR-600L 2.17/2.17b02. Affected by this vulnerability is the function authenticationcgi_main of the file authentication.cgi. Performing a manipulation of the argument id/password results in stack-based buffer overflow. Remote exploitation of the attack is possible. The exploit is now public and may be used.
 
 - [https://github.com/googlesky/CVE-2026-129353](https://github.com/googlesky/CVE-2026-129353) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129353.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129353.svg)
 
 ## CVE-2026-129352
+> A vulnerability was detected in TRENDnet TEW-657BRM 1.00.1. This issue affects some unknown processing of the file /usr/sbin/upgrade_flash.cgi. Performing a manipulation of the argument boundary results in stack-based buffer overflow. The attack is possible to be carried out remotely. The exploit is now public and may be used. The vendor explains: &quot;&quot;I am not able to confirm if such vulnerability exists as the product has been EOL for more than 15 years. We will send out an announcement letting c
 
 - [https://github.com/googlesky/CVE-2026-129352](https://github.com/googlesky/CVE-2026-129352) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129352.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129352.svg)
 
 ## CVE-2026-129351
+> A security vulnerability has been detected in TRENDnet TEW-657BRM 1.00.1. This vulnerability affects the function sprintf of the file /setup.cgi of the component mini_httpd. Such manipulation leads to out-of-bounds write. The attack can be executed remotely. The exploit has been disclosed publicly and may be used. The vendor explains: &quot;&quot;I am not able to confirm if such vulnerability exists as the product has been EOL for more than 15 years. We will send out an announcement letting customers know
 
 - [https://github.com/googlesky/CVE-2026-129351](https://github.com/googlesky/CVE-2026-129351) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129351.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129351.svg)
 

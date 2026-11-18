@@ -4515,6 +4515,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/yora1928/cve-2020-5902](https://github.com/yora1928/cve-2020-5902) : ![starts](https://img.shields.io/github/stars/yora1928/cve-2020-5902.svg) ![forks](https://img.shields.io/github/forks/yora1928/cve-2020-5902.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2020-5902](https://github.com/ashrafzaryouh/CVE-2020-5902) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2020-5902.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2020-5902.svg)
+
 ## CVE-2020-5844
  index.php?sec=godmode/extensions&sec2=extensions/files_repo in Pandora FMS v7.0 NG allows authenticated administrators to upload malicious PHP scripts, and execute them via base64 decoding of the file location. This affects v7.0NG.742_FIX_PERL2020.
 

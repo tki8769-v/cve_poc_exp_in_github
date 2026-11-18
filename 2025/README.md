@@ -3007,6 +3007,8 @@ Users are recommended to upgrade to version 2.4.66, which fixes the issue.
 
 - [https://github.com/HexBytee/FreePBX-SQLi-RCE](https://github.com/HexBytee/FreePBX-SQLi-RCE) : ![starts](https://img.shields.io/github/stars/HexBytee/FreePBX-SQLi-RCE.svg) ![forks](https://img.shields.io/github/forks/HexBytee/FreePBX-SQLi-RCE.svg)
 
+- [https://github.com/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819](https://github.com/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819.svg)
+
 ## CVE-2025-57576
  PHPGurukul Online Shopping Portal 2.1 is vulnerable to Cross Site Scripting (XSS) in /admin/updateorder.php.
 

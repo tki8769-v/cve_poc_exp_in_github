@@ -7804,6 +7804,8 @@ the client's API server credentials to third parties.
 
 - [https://github.com/A1b2rt/cve-2022-0995](https://github.com/A1b2rt/cve-2022-0995) : ![starts](https://img.shields.io/github/stars/A1b2rt/cve-2022-0995.svg) ![forks](https://img.shields.io/github/forks/A1b2rt/cve-2022-0995.svg)
 
+- [https://github.com/Calculusdetective/Page_Jack_pwn](https://github.com/Calculusdetective/Page_Jack_pwn) : ![starts](https://img.shields.io/github/stars/Calculusdetective/Page_Jack_pwn.svg) ![forks](https://img.shields.io/github/forks/Calculusdetective/Page_Jack_pwn.svg)
+
 ## CVE-2022-0952
  The Sitemap by click5 WordPress plugin before 1.0.36 does not have authorisation and CSRF checks when updating options via a REST endpoint, and does not ensure that the option to be updated belongs to the plugin. As a result, unauthenticated attackers could change arbitrary blog options, such as the users_can_register and default_role, allowing them to create a new admin account and take over the blog.
 
