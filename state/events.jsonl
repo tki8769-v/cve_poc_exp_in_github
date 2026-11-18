@@ -12040,3 +12040,9 @@
 {"cve_id": "CVE-2026-98260", "ts": "2026-11-17T23:57:15Z", "type": "new_poc", "url": "https://github.com/CYB3R0ID694/Shark-Moto"}
 {"cve_id": "CVE-2026-5173", "ts": "2026-11-18T00:04:11Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-5173"}
 {"cve_id": "CVE-2026-21962", "ts": "2026-11-18T00:18:11Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-21962"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-18T00:31:54Z", "type": "new_poc", "url": "https://github.com/WaveShift/ZenithJvmFlagGuard"}
+{"cve_id": "CVE-2018-18955", "ts": "2026-11-18T00:31:54Z", "type": "new_poc", "url": "https://github.com/Moonw4re/Linux-Privilege-Escalation"}
+{"cve_id": "CVE-2026-63072", "ts": "2026-11-18T00:32:45Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-63072"}
+{"cve_id": "CVE-2025-49844", "ts": "2026-11-18T00:35:15Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2025-49844"}
+{"cve_id": "CVE-2026-34197", "ts": "2026-11-18T00:37:11Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-34197"}
+{"cve_id": "CVE-2021-3712", "ts": "2026-11-18T00:39:12Z", "type": "new_poc", "url": "https://github.com/federiconbaez/cortex9-openssl-asn1-string-nul-scanner"}

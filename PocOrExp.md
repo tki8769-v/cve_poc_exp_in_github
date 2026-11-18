@@ -1103,6 +1103,8 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 
 - [https://github.com/jeffschafer/MANUAL-Scanner-Java4Shell-CVE-2026-114938](https://github.com/jeffschafer/MANUAL-Scanner-Java4Shell-CVE-2026-114938) : ![starts](https://img.shields.io/github/stars/jeffschafer/MANUAL-Scanner-Java4Shell-CVE-2026-114938.svg) ![forks](https://img.shields.io/github/forks/jeffschafer/MANUAL-Scanner-Java4Shell-CVE-2026-114938.svg)
 
+- [https://github.com/WaveShift/ZenithJvmFlagGuard](https://github.com/WaveShift/ZenithJvmFlagGuard) : ![starts](https://img.shields.io/github/stars/WaveShift/ZenithJvmFlagGuard.svg) ![forks](https://img.shields.io/github/forks/WaveShift/ZenithJvmFlagGuard.svg)
+
 ## CVE-2026-114820
 
 - [https://github.com/joedayz/cve-2026-114820-java-scan](https://github.com/joedayz/cve-2026-114820-java-scan) : ![starts](https://img.shields.io/github/stars/joedayz/cve-2026-114820-java-scan.svg) ![forks](https://img.shields.io/github/forks/joedayz/cve-2026-114820-java-scan.svg)
@@ -10112,6 +10114,8 @@ modules are affected by this CVE.
 
 - [https://github.com/0xBlackash/CVE-2026-63072](https://github.com/0xBlackash/CVE-2026-63072) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-63072.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-63072.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-63072](https://github.com/ashrafzaryouh/CVE-2026-63072) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-63072.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-63072.svg)
+
 ## CVE-2026-63039
  Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') vulnerability in Apache InLong. This allows an attacker to inject the string value into
 the SQL statement, enabling SQL injection.
@@ -18461,6 +18465,8 @@ Users are recommended to upgrade to version 5.19.4 or 6.2.3, which fixes the iss
 - [https://github.com/rootdirective-sec/CVE-2026-34197-Lab](https://github.com/rootdirective-sec/CVE-2026-34197-Lab) : ![starts](https://img.shields.io/github/stars/rootdirective-sec/CVE-2026-34197-Lab.svg) ![forks](https://img.shields.io/github/forks/rootdirective-sec/CVE-2026-34197-Lab.svg)
 
 - [https://github.com/nirvanasec/CVE-2026-34197-PoC](https://github.com/nirvanasec/CVE-2026-34197-PoC) : ![starts](https://img.shields.io/github/stars/nirvanasec/CVE-2026-34197-PoC.svg) ![forks](https://img.shields.io/github/forks/nirvanasec/CVE-2026-34197-PoC.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-34197](https://github.com/ashrafzaryouh/CVE-2026-34197) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-34197.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-34197.svg)
 
 ## CVE-2026-34160
  Chamilo LMS is an open-source learning management system. In versions prior to 2.0.0-RC.3, the PENS (Package Exchange Notification Services) plugin endpoint at public/plugin/Pens/pens.php is accessible without authentication and accepts a user-controlled package-url parameter that the server fetches using curl without filtering private or internal IP addresses, enabling unauthenticated Server-Side Request Forgery (SSRF). An attacker can exploit this to probe internal network services, access cloud metadata endpoints (such as 169.254.169.254) to steal IAM credentials and sensitive instance metadata, or trigger state-changing operations on internal services via the receipt and alerts callback parameters. No authentication is required to exploit either SSRF vector, significantly increasing the attack surface. This issue has been fixed in version 2.0.0-RC.3.
@@ -35116,6 +35122,8 @@ Users are recommended to upgrade to version 11.0.9, 10.1.43 or 9.0.107, which fi
 - [https://github.com/srozb/reditrap](https://github.com/srozb/reditrap) : ![starts](https://img.shields.io/github/stars/srozb/reditrap.svg) ![forks](https://img.shields.io/github/forks/srozb/reditrap.svg)
 
 - [https://github.com/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell](https://github.com/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell) : ![starts](https://img.shields.io/github/stars/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell.svg) ![forks](https://img.shields.io/github/forks/zbyszkok/CVE-2025-49844-RediShell-AI-made-Revshell.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2025-49844](https://github.com/ashrafzaryouh/CVE-2025-49844) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2025-49844.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2025-49844.svg)
 
 ## CVE-2025-49812
 
@@ -85736,6 +85744,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/code-with-amitk/CentOS7_CVE-2021-3712_Remediation](https://github.com/code-with-amitk/CentOS7_CVE-2021-3712_Remediation) : ![starts](https://img.shields.io/github/stars/code-with-amitk/CentOS7_CVE-2021-3712_Remediation.svg) ![forks](https://img.shields.io/github/forks/code-with-amitk/CentOS7_CVE-2021-3712_Remediation.svg)
 
+- [https://github.com/federiconbaez/cortex9-openssl-asn1-string-nul-scanner](https://github.com/federiconbaez/cortex9-openssl-asn1-string-nul-scanner) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-openssl-asn1-string-nul-scanner.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-openssl-asn1-string-nul-scanner.svg)
+
 ## CVE-2021-3711
  In order to decrypt SM2 encrypted data an application is expected to call the API function EVP_PKEY_decrypt(). Typically an application will call this function twice. The first time, on entry, the "out" parameter can be NULL and, on exit, the "outlen" parameter is populated with the buffer size required to hold the decrypted plaintext. The application can then allocate a sufficiently sized buffer and call EVP_PKEY_decrypt() again, but this time passing a non-NULL value for the "out" parameter. A bug in the implementation of the SM2 decryption code means that the calculation of the buffer size required to hold the plaintext returned by the first call to EVP_PKEY_decrypt() can be smaller than the actual size required by the second call. This can lead to a buffer overflow when EVP_PKEY_decrypt() is called by the application a second time with a buffer that is too small. A malicious attacker who is able present SM2 content for decryption to an application could cause attacker chosen data to overflow the buffer by up to a maximum of 62 bytes altering the contents of other data held after the buffer, possibly changing application behaviour or causing the application to crash. The location of the buffer is application dependent but is typically heap allocated. Fixed in OpenSSL 1.1.1l (Affected 1.1.1-1.1.1k).
 
@@ -99750,6 +99760,8 @@ The security update addresses the vulnerability by correcting how Hyper-V valida
 - [https://github.com/scheatkode/CVE-2018-18955](https://github.com/scheatkode/CVE-2018-18955) : ![starts](https://img.shields.io/github/stars/scheatkode/CVE-2018-18955.svg) ![forks](https://img.shields.io/github/forks/scheatkode/CVE-2018-18955.svg)
 
 - [https://github.com/WhatsWrongAndWhy/CVE-2018-18955](https://github.com/WhatsWrongAndWhy/CVE-2018-18955) : ![starts](https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2018-18955.svg) ![forks](https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2018-18955.svg)
+
+- [https://github.com/Moonw4re/Linux-Privilege-Escalation](https://github.com/Moonw4re/Linux-Privilege-Escalation) : ![starts](https://img.shields.io/github/stars/Moonw4re/Linux-Privilege-Escalation.svg) ![forks](https://img.shields.io/github/forks/Moonw4re/Linux-Privilege-Escalation.svg)
 
 ## CVE-2018-18925
  Gogs 0.11.66 allows remote code execution because it does not properly validate session IDs, as demonstrated by a ".." session-file forgery in the file session provider in file.go. This is related to session ID handling in the go-macaron/session code for Macaron.

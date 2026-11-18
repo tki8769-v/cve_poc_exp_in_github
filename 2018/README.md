@@ -585,6 +585,8 @@
 
 - [https://github.com/WhatsWrongAndWhy/CVE-2018-18955](https://github.com/WhatsWrongAndWhy/CVE-2018-18955) : ![starts](https://img.shields.io/github/stars/WhatsWrongAndWhy/CVE-2018-18955.svg) ![forks](https://img.shields.io/github/forks/WhatsWrongAndWhy/CVE-2018-18955.svg)
 
+- [https://github.com/Moonw4re/Linux-Privilege-Escalation](https://github.com/Moonw4re/Linux-Privilege-Escalation) : ![starts](https://img.shields.io/github/stars/Moonw4re/Linux-Privilege-Escalation.svg) ![forks](https://img.shields.io/github/forks/Moonw4re/Linux-Privilege-Escalation.svg)
+
 ## CVE-2018-18925
  Gogs 0.11.66 allows remote code execution because it does not properly validate session IDs, as demonstrated by a ".." session-file forgery in the file session provider in file.go. This is related to session ID handling in the go-macaron/session code for Macaron.
 

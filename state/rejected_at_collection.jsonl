@@ -3923,3 +3923,5 @@
 {"cve_id": "CVE-2026-9367", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T15:22:46Z", "url": "https://github.com/rmhowe425/POC-CVE-2026-93674", "url_ids": ["CVE-2026-93674"]}
 {"cve_id": "CVE-2026-3775", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T15:29:56Z", "url": "https://github.com/menevarad007/CVE-2026-37750", "url_ids": ["CVE-2026-37750"]}
 {"cve_id": "CVE-2024-4937", "reason": "prefix_conflict_evidenced", "ts": "2026-11-17T15:30:30Z", "url": "https://github.com/OHDUDEOKNICE/CVE-2024-49379", "url_ids": ["CVE-2024-49379"]}
+{"cve_id": "CVE-2026-10110", "reason": "prefix_conflict_evidenced", "ts": "2026-11-18T00:39:19Z", "url": "https://github.com/murrez/CVE-2026-101108", "url_ids": ["CVE-2026-101108"]}
+{"cve_id": "CVE-2026-10110", "reason": "prefix_conflict_evidenced", "ts": "2026-11-18T00:39:19Z", "url": "https://github.com/code-raisan/CVE-2026-101107-PoC-SBA6RCE-SAFETY", "url_ids": ["CVE-2026-101107"]}
