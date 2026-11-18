@@ -12136,3 +12136,14 @@
 {"cve_id": "CVE-2026-114938", "ts": "2026-11-18T18:08:55Z", "type": "new_poc", "url": "https://github.com/tobiastillstam/Scan-Java4Shell"}
 {"cve_id": "CVE-2026-114938", "ts": "2026-11-18T18:08:55Z", "type": "new_poc", "url": "https://github.com/Nextron-Labs/thor-plugin-jvm-crash-cluster"}
 {"cve_id": "CVE-2026-114938", "ts": "2026-11-18T18:08:55Z", "type": "new_poc", "url": "https://github.com/techdevfun/java4shell"}
+{"cve_id": "CVE-2026-80920", "ts": "2026-11-18T18:20:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80920", "ts": "2026-11-18T18:22:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80920", "ts": "2026-11-18T18:25:02Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-18T18:26:02Z", "type": "new_poc", "url": "https://github.com/DistributedIT/cve2026-114938-java4shell-check"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-18T18:26:03Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-114938"}
+{"cve_id": "CVE-2022-36449", "ts": "2026-11-18T18:26:06Z", "type": "new_poc", "url": "https://github.com/MootComb/cve-2022-36449-mali"}
+{"cve_id": "CVE-2026-123633", "ts": "2026-11-18T18:26:06Z", "type": "new_poc", "url": "https://github.com/Quaerendir/cve-2026-123633-123007-nginx-audit"}
+{"cve_id": "CVE-2025-31125", "ts": "2026-11-18T18:26:10Z", "type": "new_poc", "url": "https://github.com/alinaclark672377250/Vitejs-exploit"}
+{"cve_id": "CVE-2026-104849", "ts": "2026-11-18T18:32:24Z", "type": "new_poc", "url": "https://github.com/CompleteTech-Security/tinypool-options-rce-check"}
+{"cve_id": "CVE-2026-72898", "ts": "2026-11-18T18:34:38Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-72898"}
+{"cve_id": "CVE-2026-28289", "ts": "2026-11-18T18:36:26Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-28289"}
