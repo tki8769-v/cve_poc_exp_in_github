@@ -1514,6 +1514,10 @@ Users are recommended to upgrade to version 0.9.0, which fixes the issue.
 
 - [https://github.com/mjuanxd/logrus-dos-poc](https://github.com/mjuanxd/logrus-dos-poc) : ![starts](https://img.shields.io/github/stars/mjuanxd/logrus-dos-poc.svg) ![forks](https://img.shields.io/github/forks/mjuanxd/logrus-dos-poc.svg)
 
+## CVE-2025-65616
+
+- [https://github.com/redline1736/CVE-2025-65616](https://github.com/redline1736/CVE-2025-65616) : ![starts](https://img.shields.io/github/stars/redline1736/CVE-2025-65616.svg) ![forks](https://img.shields.io/github/forks/redline1736/CVE-2025-65616.svg)
+
 ## CVE-2025-65518
  Plesk Obsidian versions 8.0.1 through 18.0.73 are vulnerable to a Denial of Service (DoS) condition. The vulnerability exists in the get_password.php endpoint, where a crafted request containing a malicious payload can cause the affected web interface to continuously reload, rendering the service unavailable to legitimate users. An attacker can exploit this issue remotely without authentication, resulting in a persistent availability impact on the affected Plesk Obsidian instance.
 
@@ -4528,6 +4532,8 @@ Adopt appropriate SMB Server hardening measures.
 - [https://github.com/simonangel-fong/react2shell-eks](https://github.com/simonangel-fong/react2shell-eks) : ![starts](https://img.shields.io/github/stars/simonangel-fong/react2shell-eks.svg) ![forks](https://img.shields.io/github/forks/simonangel-fong/react2shell-eks.svg)
 
 - [https://github.com/cloud-on-demand/React2Shell](https://github.com/cloud-on-demand/React2Shell) : ![starts](https://img.shields.io/github/stars/cloud-on-demand/React2Shell.svg) ![forks](https://img.shields.io/github/forks/cloud-on-demand/React2Shell.svg)
+
+- [https://github.com/alinaclark672377250/React2Shell_Rce-cve-2025-55182](https://github.com/alinaclark672377250/React2Shell_Rce-cve-2025-55182) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/React2Shell_Rce-cve-2025-55182.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/React2Shell_Rce-cve-2025-55182.svg)
 
 ## CVE-2025-55177
  Incomplete authorization of linked device synchronization messages in WhatsApp for iOS prior to v2.25.21.73, WhatsApp Business for iOS v2.25.21.78, and WhatsApp for Mac v2.25.21.78 could have allowed an unrelated user to trigger processing of content from an arbitrary URL on a target’s device. We assess that this vulnerability, in combination with an OS-level vulnerability on Apple platforms (CVE-2025-43300), may have been exploited in a sophisticated attack against specific targeted users.

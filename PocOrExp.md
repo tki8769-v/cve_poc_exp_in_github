@@ -11,6 +11,18 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-131852
+
+- [https://github.com/googlesky/CVE-2026-131852](https://github.com/googlesky/CVE-2026-131852) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-131852.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-131852.svg)
+
+## CVE-2026-131850
+
+- [https://github.com/murrez/CVE-2026-131850](https://github.com/murrez/CVE-2026-131850) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-131850.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-131850.svg)
+
+## CVE-2026-131842
+
+- [https://github.com/googlesky/CVE-2026-131842](https://github.com/googlesky/CVE-2026-131842) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-131842.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-131842.svg)
+
 ## CVE-2026-130354
 
 - [https://github.com/googlesky/CVE-2026-130354](https://github.com/googlesky/CVE-2026-130354) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130354.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130354.svg)
@@ -319,6 +331,10 @@
 
 - [https://github.com/zeetee1235/CVE-2026-124040](https://github.com/zeetee1235/CVE-2026-124040) : ![starts](https://img.shields.io/github/stars/zeetee1235/CVE-2026-124040.svg) ![forks](https://img.shields.io/github/forks/zeetee1235/CVE-2026-124040.svg)
 
+## CVE-2026-124024
+
+- [https://github.com/D7EAD/CVE-2026-124024](https://github.com/D7EAD/CVE-2026-124024) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-124024.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-124024.svg)
+
 ## CVE-2026-124020
 > Control Web Panel (CWP) before webpanel_version 1.30.6 contains a host header injection vulnerability that allows unauthenticated attackers to manipulate the password-recovery reset URL by injecting the HTTP Host header into the /v1/lostpass/ route&#x27;s token generation process. Attackers can lure an automated mail-security scanner into visiting the poisoned reset link to exfiltrate the live recovery token, replay it at /login/index.php?acc=newpass to set a new password, and subsequently abuse the 
 
@@ -510,6 +526,11 @@
 > The activestorage gem before 8.1.4.1 for Ruby on Rails, when ImageMagick attachment processing occurs, can allow server read and write operations (e.g., reading secret_key_base) because the ImageMagick analyzer runs when a file is attached, and there is not an ImageMagick security policy to block unintended functionality.
 
 - [https://github.com/charlie-goldenowl/cve-2026-122006-check](https://github.com/charlie-goldenowl/cve-2026-122006-check) : ![starts](https://img.shields.io/github/stars/charlie-goldenowl/cve-2026-122006-check.svg) ![forks](https://img.shields.io/github/forks/charlie-goldenowl/cve-2026-122006-check.svg)
+
+## CVE-2026-121994
+> A stack buffer overflow in the GDB client&#x27;s remote protocol handler allows an attacker-controlled debug target to execute arbitrary code in the GDB process. The vulnerability exists in fetch_register_using_p, which decodes a stub&#x27;s register reply into an alloca-sized buffer without bounding writes by the register width.
+
+- [https://github.com/DeeBumG/CVE-2026-121994-POC](https://github.com/DeeBumG/CVE-2026-121994-POC) : ![starts](https://img.shields.io/github/stars/DeeBumG/CVE-2026-121994-POC.svg) ![forks](https://img.shields.io/github/forks/DeeBumG/CVE-2026-121994-POC.svg)
 
 ## CVE-2026-121720
 
@@ -1105,6 +1126,42 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 
 - [https://github.com/WaveShift/ZenithJvmFlagGuard](https://github.com/WaveShift/ZenithJvmFlagGuard) : ![starts](https://img.shields.io/github/stars/WaveShift/ZenithJvmFlagGuard.svg) ![forks](https://img.shields.io/github/forks/WaveShift/ZenithJvmFlagGuard.svg)
 
+- [https://github.com/Ghost-Bx1/java-exploits](https://github.com/Ghost-Bx1/java-exploits) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/java-exploits.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/java-exploits.svg)
+
+- [https://github.com/boundaryx/cloudrasp-java4shell](https://github.com/boundaryx/cloudrasp-java4shell) : ![starts](https://img.shields.io/github/stars/boundaryx/cloudrasp-java4shell.svg) ![forks](https://img.shields.io/github/forks/boundaryx/cloudrasp-java4shell.svg)
+
+- [https://github.com/zake1god/java2shell](https://github.com/zake1god/java2shell) : ![starts](https://img.shields.io/github/stars/zake1god/java2shell.svg) ![forks](https://img.shields.io/github/forks/zake1god/java2shell.svg)
+
+- [https://github.com/Ademking/java4shell](https://github.com/Ademking/java4shell) : ![starts](https://img.shields.io/github/stars/Ademking/java4shell.svg) ![forks](https://img.shields.io/github/forks/Ademking/java4shell.svg)
+
+- [https://github.com/Dungsocool/CVE-2026-114938](https://github.com/Dungsocool/CVE-2026-114938) : ![starts](https://img.shields.io/github/stars/Dungsocool/CVE-2026-114938.svg) ![forks](https://img.shields.io/github/forks/Dungsocool/CVE-2026-114938.svg)
+
+- [https://github.com/Mahgal/java4shell-check](https://github.com/Mahgal/java4shell-check) : ![starts](https://img.shields.io/github/stars/Mahgal/java4shell-check.svg) ![forks](https://img.shields.io/github/forks/Mahgal/java4shell-check.svg)
+
+- [https://github.com/arkrwn/PoC-CVE-2026-114938-CrashLeak](https://github.com/arkrwn/PoC-CVE-2026-114938-CrashLeak) : ![starts](https://img.shields.io/github/stars/arkrwn/PoC-CVE-2026-114938-CrashLeak.svg) ![forks](https://img.shields.io/github/forks/arkrwn/PoC-CVE-2026-114938-CrashLeak.svg)
+
+- [https://github.com/chjwoo7/java4shell](https://github.com/chjwoo7/java4shell) : ![starts](https://img.shields.io/github/stars/chjwoo7/java4shell.svg) ![forks](https://img.shields.io/github/forks/chjwoo7/java4shell.svg)
+
+- [https://github.com/cm-suzuki-ryo/aws-waf-java4shell-base64-guard](https://github.com/cm-suzuki-ryo/aws-waf-java4shell-base64-guard) : ![starts](https://img.shields.io/github/stars/cm-suzuki-ryo/aws-waf-java4shell-base64-guard.svg) ![forks](https://img.shields.io/github/forks/cm-suzuki-ryo/aws-waf-java4shell-base64-guard.svg)
+
+- [https://github.com/darkfibr/yara-java4shell](https://github.com/darkfibr/yara-java4shell) : ![starts](https://img.shields.io/github/stars/darkfibr/yara-java4shell.svg) ![forks](https://img.shields.io/github/forks/darkfibr/yara-java4shell.svg)
+
+- [https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab](https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab) : ![starts](https://img.shields.io/github/stars/douglasmun/CVE-2026-114938_Java4Shell_lab.svg) ![forks](https://img.shields.io/github/forks/douglasmun/CVE-2026-114938_Java4Shell_lab.svg)
+
+- [https://github.com/ionsec/java4shell-detector](https://github.com/ionsec/java4shell-detector) : ![starts](https://img.shields.io/github/stars/ionsec/java4shell-detector.svg) ![forks](https://img.shields.io/github/forks/ionsec/java4shell-detector.svg)
+
+- [https://github.com/jsik22/java4shell-detection](https://github.com/jsik22/java4shell-detection) : ![starts](https://img.shields.io/github/stars/jsik22/java4shell-detection.svg) ![forks](https://img.shields.io/github/forks/jsik22/java4shell-detection.svg)
+
+- [https://github.com/klapertart/Java4Shell-CVE-2026-114938-Summary](https://github.com/klapertart/Java4Shell-CVE-2026-114938-Summary) : ![starts](https://img.shields.io/github/stars/klapertart/Java4Shell-CVE-2026-114938-Summary.svg) ![forks](https://img.shields.io/github/forks/klapertart/Java4Shell-CVE-2026-114938-Summary.svg)
+
+- [https://github.com/nu0l/Java4Shell-LocalScanner](https://github.com/nu0l/Java4Shell-LocalScanner) : ![starts](https://img.shields.io/github/stars/nu0l/Java4Shell-LocalScanner.svg) ![forks](https://img.shields.io/github/forks/nu0l/Java4Shell-LocalScanner.svg)
+
+- [https://github.com/pathcosmos/CVE-2026-114938](https://github.com/pathcosmos/CVE-2026-114938) : ![starts](https://img.shields.io/github/stars/pathcosmos/CVE-2026-114938.svg) ![forks](https://img.shields.io/github/forks/pathcosmos/CVE-2026-114938.svg)
+
+- [https://github.com/ubitquity/cve-2026-114938-java4shell-remediation](https://github.com/ubitquity/cve-2026-114938-java4shell-remediation) : ![starts](https://img.shields.io/github/stars/ubitquity/cve-2026-114938-java4shell-remediation.svg) ![forks](https://img.shields.io/github/forks/ubitquity/cve-2026-114938-java4shell-remediation.svg)
+
+- [https://github.com/zejunyang/java4shell-rce](https://github.com/zejunyang/java4shell-rce) : ![starts](https://img.shields.io/github/stars/zejunyang/java4shell-rce.svg) ![forks](https://img.shields.io/github/forks/zejunyang/java4shell-rce.svg)
+
 ## CVE-2026-114820
 
 - [https://github.com/joedayz/cve-2026-114820-java-scan](https://github.com/joedayz/cve-2026-114820-java-scan) : ![starts](https://img.shields.io/github/stars/joedayz/cve-2026-114820-java-scan.svg) ![forks](https://img.shields.io/github/forks/joedayz/cve-2026-114820-java-scan.svg)
@@ -1335,6 +1392,8 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 
 - [https://github.com/marksvia/CVE-2026-112611-oob](https://github.com/marksvia/CVE-2026-112611-oob) : ![starts](https://img.shields.io/github/stars/marksvia/CVE-2026-112611-oob.svg) ![forks](https://img.shields.io/github/forks/marksvia/CVE-2026-112611-oob.svg)
 
+- [https://github.com/SKVLENT/CVE-2026-112611](https://github.com/SKVLENT/CVE-2026-112611) : ![starts](https://img.shields.io/github/stars/SKVLENT/CVE-2026-112611.svg) ![forks](https://img.shields.io/github/forks/SKVLENT/CVE-2026-112611.svg)
+
 ## CVE-2026-112522
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. Processing a maliciously crafted file may lead to unexpected app termination.
 
@@ -1419,6 +1478,10 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 - [https://github.com/Ishanoshada/Emudhra-Ca-Compromise-Lab](https://github.com/Ishanoshada/Emudhra-Ca-Compromise-Lab) : ![starts](https://img.shields.io/github/stars/Ishanoshada/Emudhra-Ca-Compromise-Lab.svg) ![forks](https://img.shields.io/github/forks/Ishanoshada/Emudhra-Ca-Compromise-Lab.svg)
 
 - [https://github.com/sam00/CVE-2026-111943-Emudhra-Ca-Compromise-POC](https://github.com/sam00/CVE-2026-111943-Emudhra-Ca-Compromise-POC) : ![starts](https://img.shields.io/github/stars/sam00/CVE-2026-111943-Emudhra-Ca-Compromise-POC.svg) ![forks](https://img.shields.io/github/forks/sam00/CVE-2026-111943-Emudhra-Ca-Compromise-POC.svg)
+
+## CVE-2026-111825
+
+- [https://github.com/jacobbabula/CVE-2026-111825](https://github.com/jacobbabula/CVE-2026-111825) : ![starts](https://img.shields.io/github/stars/jacobbabula/CVE-2026-111825.svg) ![forks](https://img.shields.io/github/forks/jacobbabula/CVE-2026-111825.svg)
 
 ## CVE-2026-111823
 > Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encountering an unknown OAuth provider.
@@ -28796,6 +28859,8 @@ This issue was fixed in 4.6.7.
 
 - [https://github.com/stj8703-web/CVE-2026-1357](https://github.com/stj8703-web/CVE-2026-1357) : ![starts](https://img.shields.io/github/stars/stj8703-web/CVE-2026-1357.svg) ![forks](https://img.shields.io/github/forks/stj8703-web/CVE-2026-1357.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-1357](https://github.com/ashrafzaryouh/CVE-2026-1357) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-1357.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-1357.svg)
+
 ## CVE-2026-1340
  A code injection in Ivanti Endpoint Manager Mobile allowing attackers to achieve unauthenticated remote code execution.
 
@@ -30950,6 +31015,10 @@ Users are recommended to upgrade to version 0.9.0, which fixes the issue.
  A denial-of-service vulnerability exists in github.com/sirupsen/logrus when using Entry.Writer() to log a single-line payload larger than 64KB without newline characters. Due to limitations in the internal bufio.Scanner, the read fails with "token too long" and the writer pipe is closed, leaving Writer() unusable and causing application unavailability (DoS). This affects versions  1.8.3, 1.9.0, and 1.9.2. The issue is fixed in 1.8.3, 1.9.1, and 1.9.3+, where the input is chunked and the writer continues to function even if an error is logged.
 
 - [https://github.com/mjuanxd/logrus-dos-poc](https://github.com/mjuanxd/logrus-dos-poc) : ![starts](https://img.shields.io/github/stars/mjuanxd/logrus-dos-poc.svg) ![forks](https://img.shields.io/github/forks/mjuanxd/logrus-dos-poc.svg)
+
+## CVE-2025-65616
+
+- [https://github.com/redline1736/CVE-2025-65616](https://github.com/redline1736/CVE-2025-65616) : ![starts](https://img.shields.io/github/stars/redline1736/CVE-2025-65616.svg) ![forks](https://img.shields.io/github/forks/redline1736/CVE-2025-65616.svg)
 
 ## CVE-2025-65518
  Plesk Obsidian versions 8.0.1 through 18.0.73 are vulnerable to a Denial of Service (DoS) condition. The vulnerability exists in the get_password.php endpoint, where a crafted request containing a malicious payload can cause the affected web interface to continuously reload, rendering the service unavailable to legitimate users. An attacker can exploit this issue remotely without authentication, resulting in a persistent availability impact on the affected Plesk Obsidian instance.
@@ -33965,6 +34034,8 @@ Adopt appropriate SMB Server hardening measures.
 - [https://github.com/simonangel-fong/react2shell-eks](https://github.com/simonangel-fong/react2shell-eks) : ![starts](https://img.shields.io/github/stars/simonangel-fong/react2shell-eks.svg) ![forks](https://img.shields.io/github/forks/simonangel-fong/react2shell-eks.svg)
 
 - [https://github.com/cloud-on-demand/React2Shell](https://github.com/cloud-on-demand/React2Shell) : ![starts](https://img.shields.io/github/stars/cloud-on-demand/React2Shell.svg) ![forks](https://img.shields.io/github/forks/cloud-on-demand/React2Shell.svg)
+
+- [https://github.com/alinaclark672377250/React2Shell_Rce-cve-2025-55182](https://github.com/alinaclark672377250/React2Shell_Rce-cve-2025-55182) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/React2Shell_Rce-cve-2025-55182.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/React2Shell_Rce-cve-2025-55182.svg)
 
 ## CVE-2025-55177
  Incomplete authorization of linked device synchronization messages in WhatsApp for iOS prior to v2.25.21.73, WhatsApp Business for iOS v2.25.21.78, and WhatsApp for Mac v2.25.21.78 could have allowed an unrelated user to trigger processing of content from an arbitrary URL on a target’s device. We assess that this vulnerability, in combination with an OS-level vulnerability on Apple platforms (CVE-2025-43300), may have been exploited in a sophisticated attack against specific targeted users.
@@ -63321,6 +63392,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 
 - [https://github.com/miyoubi/Fracture](https://github.com/miyoubi/Fracture) : ![starts](https://img.shields.io/github/stars/miyoubi/Fracture.svg) ![forks](https://img.shields.io/github/forks/miyoubi/Fracture.svg)
 
+- [https://github.com/justwezzz/CVE-2023-33107-908SH](https://github.com/justwezzz/CVE-2023-33107-908SH) : ![starts](https://img.shields.io/github/stars/justwezzz/CVE-2023-33107-908SH.svg) ![forks](https://img.shields.io/github/forks/justwezzz/CVE-2023-33107-908SH.svg)
+
 ## CVE-2023-33105
  Transient DOS in WLAN Host and Firmware when large number of open authentication frames are sent with an invalid transaction sequence number.
 
@@ -75285,6 +75358,8 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [https://github.com/byt3quester/CVE-2022-22706-poc](https://github.com/byt3quester/CVE-2022-22706-poc) : ![starts](https://img.shields.io/github/stars/byt3quester/CVE-2022-22706-poc.svg) ![forks](https://img.shields.io/github/forks/byt3quester/CVE-2022-22706-poc.svg)
 
 - [https://github.com/BennyWaitWhat/Sony-XBR-65X850D](https://github.com/BennyWaitWhat/Sony-XBR-65X850D) : ![starts](https://img.shields.io/github/stars/BennyWaitWhat/Sony-XBR-65X850D.svg) ![forks](https://img.shields.io/github/forks/BennyWaitWhat/Sony-XBR-65X850D.svg)
+
+- [https://github.com/hrx114514x/vivo-y70s-temp-root](https://github.com/hrx114514x/vivo-y70s-temp-root) : ![starts](https://img.shields.io/github/stars/hrx114514x/vivo-y70s-temp-root.svg) ![forks](https://img.shields.io/github/forks/hrx114514x/vivo-y70s-temp-root.svg)
 
 ## CVE-2022-22659
  A logic issue was addressed with improved state management. This issue is fixed in iOS 15.4 and iPadOS 15.4. An attacker in a privileged network position may be able to leak sensitive user information.

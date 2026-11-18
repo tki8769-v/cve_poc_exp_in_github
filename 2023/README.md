@@ -5085,6 +5085,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 
 - [https://github.com/miyoubi/Fracture](https://github.com/miyoubi/Fracture) : ![starts](https://img.shields.io/github/stars/miyoubi/Fracture.svg) ![forks](https://img.shields.io/github/forks/miyoubi/Fracture.svg)
 
+- [https://github.com/justwezzz/CVE-2023-33107-908SH](https://github.com/justwezzz/CVE-2023-33107-908SH) : ![starts](https://img.shields.io/github/stars/justwezzz/CVE-2023-33107-908SH.svg) ![forks](https://img.shields.io/github/forks/justwezzz/CVE-2023-33107-908SH.svg)
+
 ## CVE-2023-33105
  Transient DOS in WLAN Host and Firmware when large number of open authentication frames are sent with an invalid transaction sequence number.
 

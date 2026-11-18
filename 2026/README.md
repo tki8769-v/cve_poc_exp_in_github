@@ -10,6 +10,18 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-131852
+
+- [https://github.com/googlesky/CVE-2026-131852](https://github.com/googlesky/CVE-2026-131852) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-131852.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-131852.svg)
+
+## CVE-2026-131850
+
+- [https://github.com/murrez/CVE-2026-131850](https://github.com/murrez/CVE-2026-131850) : ![starts](https://img.shields.io/github/stars/murrez/CVE-2026-131850.svg) ![forks](https://img.shields.io/github/forks/murrez/CVE-2026-131850.svg)
+
+## CVE-2026-131842
+
+- [https://github.com/googlesky/CVE-2026-131842](https://github.com/googlesky/CVE-2026-131842) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-131842.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-131842.svg)
+
 ## CVE-2026-130354
 
 - [https://github.com/googlesky/CVE-2026-130354](https://github.com/googlesky/CVE-2026-130354) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130354.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130354.svg)
@@ -318,6 +330,10 @@
 
 - [https://github.com/zeetee1235/CVE-2026-124040](https://github.com/zeetee1235/CVE-2026-124040) : ![starts](https://img.shields.io/github/stars/zeetee1235/CVE-2026-124040.svg) ![forks](https://img.shields.io/github/forks/zeetee1235/CVE-2026-124040.svg)
 
+## CVE-2026-124024
+
+- [https://github.com/D7EAD/CVE-2026-124024](https://github.com/D7EAD/CVE-2026-124024) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-124024.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-124024.svg)
+
 ## CVE-2026-124020
 > Control Web Panel (CWP) before webpanel_version 1.30.6 contains a host header injection vulnerability that allows unauthenticated attackers to manipulate the password-recovery reset URL by injecting the HTTP Host header into the /v1/lostpass/ route&#x27;s token generation process. Attackers can lure an automated mail-security scanner into visiting the poisoned reset link to exfiltrate the live recovery token, replay it at /login/index.php?acc=newpass to set a new password, and subsequently abuse the 
 
@@ -509,6 +525,11 @@
 > The activestorage gem before 8.1.4.1 for Ruby on Rails, when ImageMagick attachment processing occurs, can allow server read and write operations (e.g., reading secret_key_base) because the ImageMagick analyzer runs when a file is attached, and there is not an ImageMagick security policy to block unintended functionality.
 
 - [https://github.com/charlie-goldenowl/cve-2026-122006-check](https://github.com/charlie-goldenowl/cve-2026-122006-check) : ![starts](https://img.shields.io/github/stars/charlie-goldenowl/cve-2026-122006-check.svg) ![forks](https://img.shields.io/github/forks/charlie-goldenowl/cve-2026-122006-check.svg)
+
+## CVE-2026-121994
+> A stack buffer overflow in the GDB client&#x27;s remote protocol handler allows an attacker-controlled debug target to execute arbitrary code in the GDB process. The vulnerability exists in fetch_register_using_p, which decodes a stub&#x27;s register reply into an alloca-sized buffer without bounding writes by the register width.
+
+- [https://github.com/DeeBumG/CVE-2026-121994-POC](https://github.com/DeeBumG/CVE-2026-121994-POC) : ![starts](https://img.shields.io/github/stars/DeeBumG/CVE-2026-121994-POC.svg) ![forks](https://img.shields.io/github/forks/DeeBumG/CVE-2026-121994-POC.svg)
 
 ## CVE-2026-121720
 
@@ -1104,6 +1125,42 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 
 - [https://github.com/WaveShift/ZenithJvmFlagGuard](https://github.com/WaveShift/ZenithJvmFlagGuard) : ![starts](https://img.shields.io/github/stars/WaveShift/ZenithJvmFlagGuard.svg) ![forks](https://img.shields.io/github/forks/WaveShift/ZenithJvmFlagGuard.svg)
 
+- [https://github.com/Ghost-Bx1/java-exploits](https://github.com/Ghost-Bx1/java-exploits) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/java-exploits.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/java-exploits.svg)
+
+- [https://github.com/boundaryx/cloudrasp-java4shell](https://github.com/boundaryx/cloudrasp-java4shell) : ![starts](https://img.shields.io/github/stars/boundaryx/cloudrasp-java4shell.svg) ![forks](https://img.shields.io/github/forks/boundaryx/cloudrasp-java4shell.svg)
+
+- [https://github.com/zake1god/java2shell](https://github.com/zake1god/java2shell) : ![starts](https://img.shields.io/github/stars/zake1god/java2shell.svg) ![forks](https://img.shields.io/github/forks/zake1god/java2shell.svg)
+
+- [https://github.com/Ademking/java4shell](https://github.com/Ademking/java4shell) : ![starts](https://img.shields.io/github/stars/Ademking/java4shell.svg) ![forks](https://img.shields.io/github/forks/Ademking/java4shell.svg)
+
+- [https://github.com/Dungsocool/CVE-2026-114938](https://github.com/Dungsocool/CVE-2026-114938) : ![starts](https://img.shields.io/github/stars/Dungsocool/CVE-2026-114938.svg) ![forks](https://img.shields.io/github/forks/Dungsocool/CVE-2026-114938.svg)
+
+- [https://github.com/Mahgal/java4shell-check](https://github.com/Mahgal/java4shell-check) : ![starts](https://img.shields.io/github/stars/Mahgal/java4shell-check.svg) ![forks](https://img.shields.io/github/forks/Mahgal/java4shell-check.svg)
+
+- [https://github.com/arkrwn/PoC-CVE-2026-114938-CrashLeak](https://github.com/arkrwn/PoC-CVE-2026-114938-CrashLeak) : ![starts](https://img.shields.io/github/stars/arkrwn/PoC-CVE-2026-114938-CrashLeak.svg) ![forks](https://img.shields.io/github/forks/arkrwn/PoC-CVE-2026-114938-CrashLeak.svg)
+
+- [https://github.com/chjwoo7/java4shell](https://github.com/chjwoo7/java4shell) : ![starts](https://img.shields.io/github/stars/chjwoo7/java4shell.svg) ![forks](https://img.shields.io/github/forks/chjwoo7/java4shell.svg)
+
+- [https://github.com/cm-suzuki-ryo/aws-waf-java4shell-base64-guard](https://github.com/cm-suzuki-ryo/aws-waf-java4shell-base64-guard) : ![starts](https://img.shields.io/github/stars/cm-suzuki-ryo/aws-waf-java4shell-base64-guard.svg) ![forks](https://img.shields.io/github/forks/cm-suzuki-ryo/aws-waf-java4shell-base64-guard.svg)
+
+- [https://github.com/darkfibr/yara-java4shell](https://github.com/darkfibr/yara-java4shell) : ![starts](https://img.shields.io/github/stars/darkfibr/yara-java4shell.svg) ![forks](https://img.shields.io/github/forks/darkfibr/yara-java4shell.svg)
+
+- [https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab](https://github.com/douglasmun/CVE-2026-114938_Java4Shell_lab) : ![starts](https://img.shields.io/github/stars/douglasmun/CVE-2026-114938_Java4Shell_lab.svg) ![forks](https://img.shields.io/github/forks/douglasmun/CVE-2026-114938_Java4Shell_lab.svg)
+
+- [https://github.com/ionsec/java4shell-detector](https://github.com/ionsec/java4shell-detector) : ![starts](https://img.shields.io/github/stars/ionsec/java4shell-detector.svg) ![forks](https://img.shields.io/github/forks/ionsec/java4shell-detector.svg)
+
+- [https://github.com/jsik22/java4shell-detection](https://github.com/jsik22/java4shell-detection) : ![starts](https://img.shields.io/github/stars/jsik22/java4shell-detection.svg) ![forks](https://img.shields.io/github/forks/jsik22/java4shell-detection.svg)
+
+- [https://github.com/klapertart/Java4Shell-CVE-2026-114938-Summary](https://github.com/klapertart/Java4Shell-CVE-2026-114938-Summary) : ![starts](https://img.shields.io/github/stars/klapertart/Java4Shell-CVE-2026-114938-Summary.svg) ![forks](https://img.shields.io/github/forks/klapertart/Java4Shell-CVE-2026-114938-Summary.svg)
+
+- [https://github.com/nu0l/Java4Shell-LocalScanner](https://github.com/nu0l/Java4Shell-LocalScanner) : ![starts](https://img.shields.io/github/stars/nu0l/Java4Shell-LocalScanner.svg) ![forks](https://img.shields.io/github/forks/nu0l/Java4Shell-LocalScanner.svg)
+
+- [https://github.com/pathcosmos/CVE-2026-114938](https://github.com/pathcosmos/CVE-2026-114938) : ![starts](https://img.shields.io/github/stars/pathcosmos/CVE-2026-114938.svg) ![forks](https://img.shields.io/github/forks/pathcosmos/CVE-2026-114938.svg)
+
+- [https://github.com/ubitquity/cve-2026-114938-java4shell-remediation](https://github.com/ubitquity/cve-2026-114938-java4shell-remediation) : ![starts](https://img.shields.io/github/stars/ubitquity/cve-2026-114938-java4shell-remediation.svg) ![forks](https://img.shields.io/github/forks/ubitquity/cve-2026-114938-java4shell-remediation.svg)
+
+- [https://github.com/zejunyang/java4shell-rce](https://github.com/zejunyang/java4shell-rce) : ![starts](https://img.shields.io/github/stars/zejunyang/java4shell-rce.svg) ![forks](https://img.shields.io/github/forks/zejunyang/java4shell-rce.svg)
+
 ## CVE-2026-114820
 
 - [https://github.com/joedayz/cve-2026-114820-java-scan](https://github.com/joedayz/cve-2026-114820-java-scan) : ![starts](https://img.shields.io/github/stars/joedayz/cve-2026-114820-java-scan.svg) ![forks](https://img.shields.io/github/forks/joedayz/cve-2026-114820-java-scan.svg)
@@ -1334,6 +1391,8 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 
 - [https://github.com/marksvia/CVE-2026-112611-oob](https://github.com/marksvia/CVE-2026-112611-oob) : ![starts](https://img.shields.io/github/stars/marksvia/CVE-2026-112611-oob.svg) ![forks](https://img.shields.io/github/forks/marksvia/CVE-2026-112611-oob.svg)
 
+- [https://github.com/SKVLENT/CVE-2026-112611](https://github.com/SKVLENT/CVE-2026-112611) : ![starts](https://img.shields.io/github/stars/SKVLENT/CVE-2026-112611.svg) ![forks](https://img.shields.io/github/forks/SKVLENT/CVE-2026-112611.svg)
+
 ## CVE-2026-112522
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. Processing a maliciously crafted file may lead to unexpected app termination.
 
@@ -1418,6 +1477,10 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 - [https://github.com/Ishanoshada/Emudhra-Ca-Compromise-Lab](https://github.com/Ishanoshada/Emudhra-Ca-Compromise-Lab) : ![starts](https://img.shields.io/github/stars/Ishanoshada/Emudhra-Ca-Compromise-Lab.svg) ![forks](https://img.shields.io/github/forks/Ishanoshada/Emudhra-Ca-Compromise-Lab.svg)
 
 - [https://github.com/sam00/CVE-2026-111943-Emudhra-Ca-Compromise-POC](https://github.com/sam00/CVE-2026-111943-Emudhra-Ca-Compromise-POC) : ![starts](https://img.shields.io/github/stars/sam00/CVE-2026-111943-Emudhra-Ca-Compromise-POC.svg) ![forks](https://img.shields.io/github/forks/sam00/CVE-2026-111943-Emudhra-Ca-Compromise-POC.svg)
+
+## CVE-2026-111825
+
+- [https://github.com/jacobbabula/CVE-2026-111825](https://github.com/jacobbabula/CVE-2026-111825) : ![starts](https://img.shields.io/github/stars/jacobbabula/CVE-2026-111825.svg) ![forks](https://img.shields.io/github/forks/jacobbabula/CVE-2026-111825.svg)
 
 ## CVE-2026-111823
 > Mage OSS through 0.9.80 before 76c4f46 can proceed with session creation upon encountering an unknown OAuth provider.
@@ -28794,6 +28857,8 @@ This issue was fixed in 4.6.7.
 - [https://github.com/masterwok/PoC-CVE-2026-1357](https://github.com/masterwok/PoC-CVE-2026-1357) : ![starts](https://img.shields.io/github/stars/masterwok/PoC-CVE-2026-1357.svg) ![forks](https://img.shields.io/github/forks/masterwok/PoC-CVE-2026-1357.svg)
 
 - [https://github.com/stj8703-web/CVE-2026-1357](https://github.com/stj8703-web/CVE-2026-1357) : ![starts](https://img.shields.io/github/stars/stj8703-web/CVE-2026-1357.svg) ![forks](https://img.shields.io/github/forks/stj8703-web/CVE-2026-1357.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-1357](https://github.com/ashrafzaryouh/CVE-2026-1357) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-1357.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-1357.svg)
 
 ## CVE-2026-1340
  A code injection in Ivanti Endpoint Manager Mobile allowing attackers to achieve unauthenticated remote code execution.
