@@ -12039,3 +12039,4 @@
 {"cve_id": "CVE-2026-109618", "ts": "2026-11-17T23:57:01Z", "type": "new_poc", "url": "https://github.com/patrickgrady321/PHP2Shell_exploit_capstone"}
 {"cve_id": "CVE-2026-98260", "ts": "2026-11-17T23:57:15Z", "type": "new_poc", "url": "https://github.com/CYB3R0ID694/Shark-Moto"}
 {"cve_id": "CVE-2026-5173", "ts": "2026-11-18T00:04:11Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-5173"}
+{"cve_id": "CVE-2026-21962", "ts": "2026-11-18T00:18:11Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-21962"}
