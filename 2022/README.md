@@ -1060,6 +1060,8 @@ We recommend upgrading past commit   https://www.google.com/url  https://github
 
 - [https://github.com/Syndicate27/text4shell-exploit](https://github.com/Syndicate27/text4shell-exploit) : ![starts](https://img.shields.io/github/stars/Syndicate27/text4shell-exploit.svg) ![forks](https://img.shields.io/github/forks/Syndicate27/text4shell-exploit.svg)
 
+- [https://github.com/adikelty/echo-commons-text-cve-2022-42889](https://github.com/adikelty/echo-commons-text-cve-2022-42889) : ![starts](https://img.shields.io/github/stars/adikelty/echo-commons-text-cve-2022-42889.svg) ![forks](https://img.shields.io/github/forks/adikelty/echo-commons-text-cve-2022-42889.svg)
+
 ## CVE-2022-42864
  A race condition was addressed with improved state handling. This issue is fixed in tvOS 16.2, macOS Monterey 12.6.2, macOS Ventura 13.1, macOS Big Sur 11.7.2, iOS 15.7.2 and iPadOS 15.7.2, iOS 16.2 and iPadOS 16.2, watchOS 9.2. An app may be able to execute arbitrary code with kernel privileges.
 

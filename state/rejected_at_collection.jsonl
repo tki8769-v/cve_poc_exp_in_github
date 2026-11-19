@@ -4044,3 +4044,4 @@
 {"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-11-19T15:23:15Z", "url": "https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252", "url_ids": ["CVE-2023-28252"]}
 {"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-11-19T15:23:15Z", "url": "https://github.com/Vulmatch/CVE-2023-28252", "url_ids": ["CVE-2023-28252"]}
 {"cve_id": "CVE-2023-2825", "reason": "prefix_conflict_evidenced", "ts": "2026-11-19T15:23:15Z", "url": "https://github.com/Danasuley/CVE-2023-28252-", "url_ids": ["CVE-2023-28252"]}
+{"cve_id": "CVE-2022-4329", "reason": "prefix_conflict_evidenced", "ts": "2026-11-19T15:37:21Z", "url": "https://github.com/LucaBarile/CVE-2022-43293", "url_ids": ["CVE-2022-43293"]}

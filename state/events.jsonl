@@ -12243,3 +12243,7 @@
 {"cve_id": "CVE-2026-80920", "ts": "2026-11-19T15:05:38Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-119073", "ts": "2026-11-19T15:13:12Z", "type": "new_poc", "url": "https://github.com/Shashi552/CVE-2026-119073"}
 {"cve_id": "CVE-2026-123007", "ts": "2026-11-19T15:13:17Z", "type": "new_poc", "url": "https://github.com/eh-amish/nginx2root--CVE-2026-123007"}
+{"cve_id": "CVE-2026-63219", "ts": "2026-11-19T15:31:14Z", "type": "new_poc", "url": "https://github.com/Fckroun/CVE-2026-63219-POC"}
+{"cve_id": "CVE-2026-119073", "ts": "2026-11-19T15:31:15Z", "type": "new_poc", "url": "https://github.com/Shashi552/CVE-2026-119073-PoC"}
+{"cve_id": "CVE-2022-42889", "ts": "2026-11-19T15:31:16Z", "type": "new_poc", "url": "https://github.com/adikelty/echo-commons-text-cve-2022-42889"}
+{"cve_id": "CVE-2026-34156", "ts": "2026-11-19T15:37:16Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-34156"}
