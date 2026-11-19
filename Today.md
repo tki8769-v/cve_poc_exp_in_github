@@ -7,17 +7,38 @@
 
 - [https://github.com/Skynet-Marwen/trafficmonitor-pawnio-fix](https://github.com/Skynet-Marwen/trafficmonitor-pawnio-fix) : ![starts](https://img.shields.io/github/stars/Skynet-Marwen/trafficmonitor-pawnio-fix.svg) ![forks](https://img.shields.io/github/forks/Skynet-Marwen/trafficmonitor-pawnio-fix.svg)
 
+## CVE-2022-38694
+
+- [https://github.com/sriramsrangan/itel-a05s-a663lc](https://github.com/sriramsrangan/itel-a05s-a663lc) : ![starts](https://img.shields.io/github/stars/sriramsrangan/itel-a05s-a663lc.svg) ![forks](https://img.shields.io/github/forks/sriramsrangan/itel-a05s-a663lc.svg)
+
+## CVE-2023-45866
+
+- [https://github.com/h4r-m0n1e/CVE-2023-45866_WIP](https://github.com/h4r-m0n1e/CVE-2023-45866_WIP) : ![starts](https://img.shields.io/github/stars/h4r-m0n1e/CVE-2023-45866_WIP.svg) ![forks](https://img.shields.io/github/forks/h4r-m0n1e/CVE-2023-45866_WIP.svg)
+
 ## CVE-2024-2887
 
 - [https://github.com/J-Delsinne/samsung-tizen9-root](https://github.com/J-Delsinne/samsung-tizen9-root) : ![starts](https://img.shields.io/github/stars/J-Delsinne/samsung-tizen9-root.svg) ![forks](https://img.shields.io/github/forks/J-Delsinne/samsung-tizen9-root.svg)
 
+## CVE-2025-14847
+
+- [https://github.com/ashrafzaryouh/CVE-2025-14847](https://github.com/ashrafzaryouh/CVE-2025-14847) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2025-14847.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2025-14847.svg)
+
 ## CVE-2026-114938
 
+- [https://github.com/Bluefire-Redteam-Cybersecurity/bluefire-java4shell-guard](https://github.com/Bluefire-Redteam-Cybersecurity/bluefire-java4shell-guard) : ![starts](https://img.shields.io/github/stars/Bluefire-Redteam-Cybersecurity/bluefire-java4shell-guard.svg) ![forks](https://img.shields.io/github/forks/Bluefire-Redteam-Cybersecurity/bluefire-java4shell-guard.svg)
 - [https://github.com/Quaerendir/cve-2026-114938-java4shell-audit](https://github.com/Quaerendir/cve-2026-114938-java4shell-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/cve-2026-114938-java4shell-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/cve-2026-114938-java4shell-audit.svg)
 - [https://github.com/carlosnetto/Java4Shell](https://github.com/carlosnetto/Java4Shell) : ![starts](https://img.shields.io/github/stars/carlosnetto/Java4Shell.svg) ![forks](https://img.shields.io/github/forks/carlosnetto/Java4Shell.svg)
 - [https://github.com/mylesagnew/java2shell-detection](https://github.com/mylesagnew/java2shell-detection) : ![starts](https://img.shields.io/github/stars/mylesagnew/java2shell-detection.svg) ![forks](https://img.shields.io/github/forks/mylesagnew/java2shell-detection.svg)
 - [https://github.com/sam00/Java4Shell-CVE-2026-114938-PoC](https://github.com/sam00/Java4Shell-CVE-2026-114938-PoC) : ![starts](https://img.shields.io/github/stars/sam00/Java4Shell-CVE-2026-114938-PoC.svg) ![forks](https://img.shields.io/github/forks/sam00/Java4Shell-CVE-2026-114938-PoC.svg)
 - [https://github.com/securibee/java4shell-tenable-skill](https://github.com/securibee/java4shell-tenable-skill) : ![starts](https://img.shields.io/github/stars/securibee/java4shell-tenable-skill.svg) ![forks](https://img.shields.io/github/forks/securibee/java4shell-tenable-skill.svg)
+
+## CVE-2026-116442
+
+- [https://github.com/LLCForge/CVE-2026-116442](https://github.com/LLCForge/CVE-2026-116442) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-116442.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-116442.svg)
+
+## CVE-2026-116448
+
+- [https://github.com/LLCForge/CVE-2026-116448](https://github.com/LLCForge/CVE-2026-116448) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-116448.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-116448.svg)
 
 ## CVE-2026-119958
 
@@ -52,9 +73,22 @@
 
 - [https://github.com/LLCForge/CVE-2026-126967](https://github.com/LLCForge/CVE-2026-126967) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-126967.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-126967.svg)
 
+## CVE-2026-128134
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. Prior to 3.10.4, nltk.parse.dependencygraph.dot2img resolves the Graphviz dot executable through PATH but invokes the resulting absolute executable without routing through spawn_trusted, so resolve_trusted_executable ownership and writability validation and safe_env loader environment scrubbing do not run. A local low-privileged at
+
+- [https://github.com/LLCForge/CVE-2026-128134](https://github.com/LLCForge/CVE-2026-128134) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-128134.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-128134.svg)
+
 ## CVE-2026-129448
 
 - [https://github.com/Yanixos/APACHE-CVE-2026-129448](https://github.com/Yanixos/APACHE-CVE-2026-129448) : ![starts](https://img.shields.io/github/stars/Yanixos/APACHE-CVE-2026-129448.svg) ![forks](https://img.shields.io/github/forks/Yanixos/APACHE-CVE-2026-129448.svg)
+
+## CVE-2026-130001
+
+- [https://github.com/LLCForge/CVE-2026-130001](https://github.com/LLCForge/CVE-2026-130001) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-130001.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-130001.svg)
+
+## CVE-2026-130648
+
+- [https://github.com/LLCForge/CVE-2026-130648](https://github.com/LLCForge/CVE-2026-130648) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-130648.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-130648.svg)
 
 ## CVE-2026-19773
 
@@ -63,6 +97,22 @@
 ## CVE-2026-47884
 
 - [https://github.com/LLCForge/CVE-2026-47884](https://github.com/LLCForge/CVE-2026-47884) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-47884.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-47884.svg)
+
+## CVE-2026-69156
+
+- [https://github.com/LLCForge/CVE-2026-69156](https://github.com/LLCForge/CVE-2026-69156) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-69156.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-69156.svg)
+
+## CVE-2026-69157
+
+- [https://github.com/LLCForge/CVE-2026-69157](https://github.com/LLCForge/CVE-2026-69157) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-69157.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-69157.svg)
+
+## CVE-2026-69158
+
+- [https://github.com/LLCForge/CVE-2026-69158](https://github.com/LLCForge/CVE-2026-69158) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-69158.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-69158.svg)
+
+## CVE-2026-75521
+
+- [https://github.com/LLCForge/CVE-2026-75521](https://github.com/LLCForge/CVE-2026-75521) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-75521.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-75521.svg)
 
 ## CVE-2026-92182
 

@@ -12185,3 +12185,19 @@
 {"cve_id": "CVE-2026-80920", "ts": "2026-11-19T03:11:15Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-123007", "ts": "2026-11-19T03:16:51Z", "type": "new_poc", "url": "https://github.com/materaj2/cve-2026-123007-scanner"}
 {"cve_id": "CVE-2026-19773", "ts": "2026-11-19T03:17:52Z", "type": "new_poc", "url": "https://github.com/firmdura/meta-firmdura-kirkstone"}
+{"cve_id": "CVE-2026-65683", "ts": "2026-11-19T03:37:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-71512", "ts": "2026-11-19T03:37:21Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80920", "ts": "2026-11-19T03:37:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-75521", "ts": "2026-11-19T03:43:24Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-75521"}
+{"cve_id": "CVE-2026-116442", "ts": "2026-11-19T03:43:25Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-116442"}
+{"cve_id": "CVE-2026-130001", "ts": "2026-11-19T03:43:25Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-130001"}
+{"cve_id": "CVE-2026-69156", "ts": "2026-11-19T03:43:25Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-69156"}
+{"cve_id": "CVE-2026-69157", "ts": "2026-11-19T03:43:25Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-69157"}
+{"cve_id": "CVE-2026-116448", "ts": "2026-11-19T03:43:26Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-116448"}
+{"cve_id": "CVE-2026-69158", "ts": "2026-11-19T03:43:26Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-69158"}
+{"cve_id": "CVE-2026-128134", "ts": "2026-11-19T03:43:26Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-128134"}
+{"cve_id": "CVE-2026-130648", "ts": "2026-11-19T03:43:26Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-130648"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-19T03:43:27Z", "type": "new_poc", "url": "https://github.com/Bluefire-Redteam-Cybersecurity/bluefire-java4shell-guard"}
+{"cve_id": "CVE-2022-38694", "ts": "2026-11-19T03:43:27Z", "type": "new_poc", "url": "https://github.com/sriramsrangan/itel-a05s-a663lc"}
+{"cve_id": "CVE-2025-14847", "ts": "2026-11-19T03:44:47Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2025-14847"}
+{"cve_id": "CVE-2023-45866", "ts": "2026-11-19T03:45:47Z", "type": "new_poc", "url": "https://github.com/h4r-m0n1e/CVE-2023-45866_WIP"}

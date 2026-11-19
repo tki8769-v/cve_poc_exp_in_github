@@ -1827,6 +1827,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/xsvebmx/teclast-m50pro-unisoc-root](https://github.com/xsvebmx/teclast-m50pro-unisoc-root) : ![starts](https://img.shields.io/github/stars/xsvebmx/teclast-m50pro-unisoc-root.svg) ![forks](https://img.shields.io/github/forks/xsvebmx/teclast-m50pro-unisoc-root.svg)
 
+- [https://github.com/sriramsrangan/itel-a05s-a663lc](https://github.com/sriramsrangan/itel-a05s-a663lc) : ![starts](https://img.shields.io/github/stars/sriramsrangan/itel-a05s-a663lc.svg) ![forks](https://img.shields.io/github/forks/sriramsrangan/itel-a05s-a663lc.svg)
+
 ## CVE-2022-38691
  In BootROM, there is a possible missing validation for Certificate Type 0. This could lead to local escalation of privilege with no additional execution privileges needed.
 
