@@ -1951,6 +1951,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/hexatriene/nuc-winring0-fix](https://github.com/hexatriene/nuc-winring0-fix) : ![starts](https://img.shields.io/github/stars/hexatriene/nuc-winring0-fix.svg) ![forks](https://img.shields.io/github/forks/hexatriene/nuc-winring0-fix.svg)
 
+- [https://github.com/Skynet-Marwen/trafficmonitor-pawnio-fix](https://github.com/Skynet-Marwen/trafficmonitor-pawnio-fix) : ![starts](https://img.shields.io/github/stars/Skynet-Marwen/trafficmonitor-pawnio-fix.svg) ![forks](https://img.shields.io/github/forks/Skynet-Marwen/trafficmonitor-pawnio-fix.svg)
+
 ## CVE-2020-14974
  The driver in IOBit Unlocker 1.1.2 allows a low-privileged user to unlock a file and kill processes (even ones running as SYSTEM) that hold a handle, via IOCTL code 0x222124.
 

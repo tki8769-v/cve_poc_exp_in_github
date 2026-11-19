@@ -12025,6 +12025,8 @@ Through a series of complex obfuscations, the liblzma build process extracts a p
 
 - [https://github.com/jamezx32/CVE-2024-2887](https://github.com/jamezx32/CVE-2024-2887) : ![starts](https://img.shields.io/github/stars/jamezx32/CVE-2024-2887.svg) ![forks](https://img.shields.io/github/forks/jamezx32/CVE-2024-2887.svg)
 
+- [https://github.com/J-Delsinne/samsung-tizen9-root](https://github.com/J-Delsinne/samsung-tizen9-root) : ![starts](https://img.shields.io/github/stars/J-Delsinne/samsung-tizen9-root.svg) ![forks](https://img.shields.io/github/forks/J-Delsinne/samsung-tizen9-root.svg)
+
 ## CVE-2024-2879
  The LayerSlider plugin for WordPress is vulnerable to SQL Injection via the ls_get_popup_markup action in versions 7.9.11 and 7.10.0 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
 

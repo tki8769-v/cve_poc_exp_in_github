@@ -56,8 +56,13 @@
 - [https://github.com/googlesky/CVE-2026-129492](https://github.com/googlesky/CVE-2026-129492) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129492.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129492.svg)
 
 ## CVE-2026-129491
+> Qbian61 forum-java commit 20f7e68 through commit 63152c4 contains a stored cross-site scripting vulnerability that allows authenticated users to inject script by posting unsanitized comment content rendered via jQuery .html() in the reply dialog. Attackers can post comments with img onerror payloads that execute when victims click Reply, stealing the non-HttpOnly sid session cookie to hijack accounts including administrators.
 
 - [https://github.com/googlesky/CVE-2026-129491](https://github.com/googlesky/CVE-2026-129491) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129491.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129491.svg)
+
+## CVE-2026-129448
+
+- [https://github.com/Yanixos/APACHE-CVE-2026-129448](https://github.com/Yanixos/APACHE-CVE-2026-129448) : ![starts](https://img.shields.io/github/stars/Yanixos/APACHE-CVE-2026-129448.svg) ![forks](https://img.shields.io/github/forks/Yanixos/APACHE-CVE-2026-129448.svg)
 
 ## CVE-2026-129360
 > A weakness has been identified in Linux Foundation Magma up to 1.9.0. The impacted element is an unknown function of the file orc8r/cloud/go/services/obsidian/access/operator.go of the component Obsidian REST. Executing a manipulation of the argument X-Magma-Client-Cert-Serial can lead to authentication bypass by spoofing. The attack can be launched remotely. The vendor was contacted early about this disclosure but did not respond in any way.
@@ -158,6 +163,10 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 ## CVE-2026-126978
 
 - [https://github.com/LLCForge/CVE-2026-126978](https://github.com/LLCForge/CVE-2026-126978) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-126978.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-126978.svg)
+
+## CVE-2026-126967
+
+- [https://github.com/LLCForge/CVE-2026-126967](https://github.com/LLCForge/CVE-2026-126967) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-126967.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-126967.svg)
 
 ## CVE-2026-126937
 > Zipline before 4.6.5 contains a TOCTOU race condition in the POST /api/setup endpoint that allows unauthenticated attackers to create multiple SUPERADMIN accounts by racing concurrent requests before the firstSetup flag is reset. Attackers can send simultaneous requests with spoofed X-Forwarded-For headers during the argon2 hashing window to gain full administrative control of the instance.
@@ -323,6 +332,8 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 
 - [https://github.com/al4n4n/CVE-2026-125350](https://github.com/al4n4n/CVE-2026-125350) : ![starts](https://img.shields.io/github/stars/al4n4n/CVE-2026-125350.svg) ![forks](https://img.shields.io/github/forks/al4n4n/CVE-2026-125350.svg)
 
+- [https://github.com/LLCForge/CVE-2026-125350](https://github.com/LLCForge/CVE-2026-125350) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-125350.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-125350.svg)
+
 ## CVE-2026-125283
 
 - [https://github.com/LLCForge/CVE-2026-125283](https://github.com/LLCForge/CVE-2026-125283) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-125283.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-125283.svg)
@@ -353,6 +364,8 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 - [https://github.com/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak](https://github.com/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/cve-2026-124194-outlook-ntlm-hash-leak.svg)
 
 - [https://github.com/aminaljabre77-collab/outlook-ntlm-leak-investigation](https://github.com/aminaljabre77-collab/outlook-ntlm-leak-investigation) : ![starts](https://img.shields.io/github/stars/aminaljabre77-collab/outlook-ntlm-leak-investigation.svg) ![forks](https://img.shields.io/github/forks/aminaljabre77-collab/outlook-ntlm-leak-investigation.svg)
+
+- [https://github.com/LLCForge/CVE-2026-124194](https://github.com/LLCForge/CVE-2026-124194) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-124194.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-124194.svg)
 
 ## CVE-2026-124079
 > rConfig Core 8.0.0 before 8.2.19 and rConfig Pro before 8.4.1 contain a deserialization of untrusted data vulnerability that allows unauthenticated network attackers to execute arbitrary code by pushing a crafted serialized job onto the Redis-backed Laravel Horizon queue, which runs without authentication in affected deployments. Laravel&#x27;s CallQueuedHandler unserializes the job without class restrictions, allowing attackers to instantiate the existing App\\Jobs\\TaskDownloadRun class and invoke 
@@ -534,6 +547,10 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 
 - [https://github.com/gotr00t0day/CVE-2026-123158](https://github.com/gotr00t0day/CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/gotr00t0day/CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/gotr00t0day/CVE-2026-123158.svg)
 
+- [https://github.com/Cheats121/sshole-CVE-2026-123158](https://github.com/Cheats121/sshole-CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/Cheats121/sshole-CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/Cheats121/sshole-CVE-2026-123158.svg)
+
+- [https://github.com/VardonBorin/Exploring_CVE-2026-123158](https://github.com/VardonBorin/Exploring_CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/VardonBorin/Exploring_CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/VardonBorin/Exploring_CVE-2026-123158.svg)
+
 ## CVE-2026-123039
 > The Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socket (/tmp/dynamic_socket) without authenticating connecting processes. An authenticated local user can send a command to the socket and have it executed as root.
 
@@ -560,6 +577,18 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 - [https://github.com/The-DevOps-Daily/nginx2root-check](https://github.com/The-DevOps-Daily/nginx2root-check) : ![starts](https://img.shields.io/github/stars/The-DevOps-Daily/nginx2root-check.svg) ![forks](https://img.shields.io/github/forks/The-DevOps-Daily/nginx2root-check.svg)
 
 - [https://github.com/suominen/CVE-2026-123007](https://github.com/suominen/CVE-2026-123007) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-123007.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-123007.svg)
+
+- [https://github.com/arkrwn/NGINX2Root-CVE-2026-123007](https://github.com/arkrwn/NGINX2Root-CVE-2026-123007) : ![starts](https://img.shields.io/github/stars/arkrwn/NGINX2Root-CVE-2026-123007.svg) ![forks](https://img.shields.io/github/forks/arkrwn/NGINX2Root-CVE-2026-123007.svg)
+
+- [https://github.com/TimTheBeastNL/nginx2root](https://github.com/TimTheBeastNL/nginx2root) : ![starts](https://img.shields.io/github/stars/TimTheBeastNL/nginx2root.svg) ![forks](https://img.shields.io/github/forks/TimTheBeastNL/nginx2root.svg)
+
+- [https://github.com/WormW/nginx2root-rce-lab](https://github.com/WormW/nginx2root-rce-lab) : ![starts](https://img.shields.io/github/stars/WormW/nginx2root-rce-lab.svg) ![forks](https://img.shields.io/github/forks/WormW/nginx2root-rce-lab.svg)
+
+- [https://github.com/akarkode/nginx-http2-cve-2026-123007-lab](https://github.com/akarkode/nginx-http2-cve-2026-123007-lab) : ![starts](https://img.shields.io/github/stars/akarkode/nginx-http2-cve-2026-123007-lab.svg) ![forks](https://img.shields.io/github/forks/akarkode/nginx-http2-cve-2026-123007-lab.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-123007](https://github.com/ashrafzaryouh/CVE-2026-123007) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-123007.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-123007.svg)
+
+- [https://github.com/rogersouzak8s/nginx-http2-check](https://github.com/rogersouzak8s/nginx-http2-check) : ![starts](https://img.shields.io/github/stars/rogersouzak8s/nginx-http2-check.svg) ![forks](https://img.shields.io/github/forks/rogersouzak8s/nginx-http2-check.svg)
 
 ## CVE-2026-122675
 > Cross-Site Request Forgery (CSRF) vulnerability in Wpmet Wp Social wp-social allows Cross Site Request Forgery.This issue affects Wp Social: from n/a through 3.2.3.
@@ -705,6 +734,8 @@ An application that passes request data as column values to insert or update
 ## CVE-2026-119958
 
 - [https://github.com/googlesky/CVE-2026-119958](https://github.com/googlesky/CVE-2026-119958) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-119958.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-119958.svg)
+
+- [https://github.com/LLCForge/CVE-2026-119958](https://github.com/LLCForge/CVE-2026-119958) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-119958.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-119958.svg)
 
 ## CVE-2026-119948
 
@@ -1295,6 +1326,16 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 - [https://github.com/DistributedIT/cve2026-114938-java4shell-check](https://github.com/DistributedIT/cve2026-114938-java4shell-check) : ![starts](https://img.shields.io/github/stars/DistributedIT/cve2026-114938-java4shell-check.svg) ![forks](https://img.shields.io/github/forks/DistributedIT/cve2026-114938-java4shell-check.svg)
 
 - [https://github.com/LLCForge/CVE-2026-114938](https://github.com/LLCForge/CVE-2026-114938) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-114938.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-114938.svg)
+
+- [https://github.com/Quaerendir/cve-2026-114938-java4shell-audit](https://github.com/Quaerendir/cve-2026-114938-java4shell-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/cve-2026-114938-java4shell-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/cve-2026-114938-java4shell-audit.svg)
+
+- [https://github.com/carlosnetto/Java4Shell](https://github.com/carlosnetto/Java4Shell) : ![starts](https://img.shields.io/github/stars/carlosnetto/Java4Shell.svg) ![forks](https://img.shields.io/github/forks/carlosnetto/Java4Shell.svg)
+
+- [https://github.com/mylesagnew/java2shell-detection](https://github.com/mylesagnew/java2shell-detection) : ![starts](https://img.shields.io/github/stars/mylesagnew/java2shell-detection.svg) ![forks](https://img.shields.io/github/forks/mylesagnew/java2shell-detection.svg)
+
+- [https://github.com/sam00/Java4Shell-CVE-2026-114938-PoC](https://github.com/sam00/Java4Shell-CVE-2026-114938-PoC) : ![starts](https://img.shields.io/github/stars/sam00/Java4Shell-CVE-2026-114938-PoC.svg) ![forks](https://img.shields.io/github/forks/sam00/Java4Shell-CVE-2026-114938-PoC.svg)
+
+- [https://github.com/securibee/java4shell-tenable-skill](https://github.com/securibee/java4shell-tenable-skill) : ![starts](https://img.shields.io/github/stars/securibee/java4shell-tenable-skill.svg) ![forks](https://img.shields.io/github/forks/securibee/java4shell-tenable-skill.svg)
 
 ## CVE-2026-114820
 
@@ -4885,6 +4926,8 @@ allocated an object f
 
 - [https://github.com/0xBlackash/CVE-2026-97798](https://github.com/0xBlackash/CVE-2026-97798) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-97798.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-97798.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-97798](https://github.com/ashrafzaryouh/CVE-2026-97798) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-97798.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-97798.svg)
+
 ## CVE-2026-97793
 
 - [https://github.com/yo-yo-yo-jbo/intro_to_com](https://github.com/yo-yo-yo-jbo/intro_to_com) : ![starts](https://img.shields.io/github/stars/yo-yo-yo-jbo/intro_to_com.svg) ![forks](https://img.shields.io/github/forks/yo-yo-yo-jbo/intro_to_com.svg)
@@ -5665,6 +5708,10 @@ The specific flaw exists within the parsing of mDNS resource records. The issue 
 The specific flaw exists within the parsing of APNG files. The issue results from the lack of proper validation of the length of user-supplied data prior to copying it to a st
 
 - [https://github.com/CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept](https://github.com/CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept) : ![starts](https://img.shields.io/github/stars/CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept.svg) ![forks](https://img.shields.io/github/forks/CXu0630/CVE-2026-92183_GIMP_RCE_Proof-of-Concept.svg)
+
+## CVE-2026-92182
+
+- [https://github.com/LLCForge/CVE-2026-92182](https://github.com/LLCForge/CVE-2026-92182) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-92182.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-92182.svg)
 
 ## CVE-2026-92162
 > Flatpak is a system for building, distributing, and running sandboxed desktop applications on Linux. Prior to version 1.18.1, on systems where at least one OCI remote is configured (most common on Fedora systems), a malicious local user in an active local session could use a crafted architecture name to trick the `flatpak-system-helper` process into creating a root-owned directory tree with contents determined by the OCI remote, plus a root-owned `lock` file and `icons` directory, outside the in
@@ -13779,6 +13826,8 @@ Spring Framework 5.3.0 - 5.3.49
 Spring Framework 5.2.25.RELEASE and earlier
 
 - [https://github.com/xiaoqiMikko/spring-cvss-check](https://github.com/xiaoqiMikko/spring-cvss-check) : ![starts](https://img.shields.io/github/stars/xiaoqiMikko/spring-cvss-check.svg) ![forks](https://img.shields.io/github/forks/xiaoqiMikko/spring-cvss-check.svg)
+
+- [https://github.com/LLCForge/CVE-2026-47884](https://github.com/LLCForge/CVE-2026-47884) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-47884.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-47884.svg)
 
 ## CVE-2026-47883
  UrlHandlerFilter can be vulnerable to an open redirect when configured with very broadly matching patterns. The issue applies to the filter variants in both Spring MVC and Spring WebFlux.
