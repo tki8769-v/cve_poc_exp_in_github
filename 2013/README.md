@@ -332,6 +332,8 @@ Exploitation of this vulnerability requires that a user or application run or in
 
 - [https://github.com/vanivamshi/CVE-2013-2028-Exploit](https://github.com/vanivamshi/CVE-2013-2028-Exploit) : ![starts](https://img.shields.io/github/stars/vanivamshi/CVE-2013-2028-Exploit.svg) ![forks](https://img.shields.io/github/forks/vanivamshi/CVE-2013-2028-Exploit.svg)
 
+- [https://github.com/XiXinping/367-nginx-chunked-size](https://github.com/XiXinping/367-nginx-chunked-size) : ![starts](https://img.shields.io/github/stars/XiXinping/367-nginx-chunked-size.svg) ![forks](https://img.shields.io/github/forks/XiXinping/367-nginx-chunked-size.svg)
+
 ## CVE-2013-2010
  WordPress W3 Total Cache Plugin 0.9.2.8 has a Remote PHP Code Execution Vulnerability
 

@@ -1,3 +1,7 @@
+## CVE-2026-73737373
+
+- [https://github.com/extencil/stop2shell](https://github.com/extencil/stop2shell) : ![starts](https://img.shields.io/github/stars/extencil/stop2shell.svg) ![forks](https://img.shields.io/github/forks/extencil/stop2shell.svg)
+
 ## CVE-2026-2039819
 
 - [https://github.com/MicrosoftARMAssembler/CVE-2026-2039819-PoC](https://github.com/MicrosoftARMAssembler/CVE-2026-2039819-PoC) : ![starts](https://img.shields.io/github/stars/MicrosoftARMAssembler/CVE-2026-2039819-PoC.svg) ![forks](https://img.shields.io/github/forks/MicrosoftARMAssembler/CVE-2026-2039819-PoC.svg)
@@ -10,9 +14,55 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-133305
+
+- [https://github.com/VulnSVNC/CVE-2026-133305](https://github.com/VulnSVNC/CVE-2026-133305) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-133305.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-133305.svg)
+
+## CVE-2026-133274
+
+- [https://github.com/VulnSVNC/CVE-2026-133274](https://github.com/VulnSVNC/CVE-2026-133274) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-133274.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-133274.svg)
+
+## CVE-2026-133235
+
+- [https://github.com/LLCForge/CVE-2026-133235](https://github.com/LLCForge/CVE-2026-133235) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133235.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133235.svg)
+
+## CVE-2026-133234
+
+- [https://github.com/LLCForge/CVE-2026-133234](https://github.com/LLCForge/CVE-2026-133234) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133234.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133234.svg)
+
+## CVE-2026-133185
+
+- [https://github.com/LLCForge/CVE-2026-133185](https://github.com/LLCForge/CVE-2026-133185) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133185.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133185.svg)
+
+## CVE-2026-133173
+
+- [https://github.com/LLCForge/CVE-2026-133173](https://github.com/LLCForge/CVE-2026-133173) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133173.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133173.svg)
+
+## CVE-2026-133172
+
+- [https://github.com/LLCForge/CVE-2026-133172](https://github.com/LLCForge/CVE-2026-133172) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133172.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133172.svg)
+
+## CVE-2026-133168
+
+- [https://github.com/LLCForge/CVE-2026-133168](https://github.com/LLCForge/CVE-2026-133168) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133168.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133168.svg)
+
+## CVE-2026-133117
+
+- [https://github.com/LLCForge/CVE-2026-133117](https://github.com/LLCForge/CVE-2026-133117) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133117.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133117.svg)
+
+## CVE-2026-133114
+
+- [https://github.com/LLCForge/CVE-2026-133114](https://github.com/LLCForge/CVE-2026-133114) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133114.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133114.svg)
+
+## CVE-2026-133113
+
+- [https://github.com/LLCForge/CVE-2026-133113](https://github.com/LLCForge/CVE-2026-133113) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133113.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133113.svg)
+
 ## CVE-2026-132825
 
 - [https://github.com/evenomn/CVE-2026-132825](https://github.com/evenomn/CVE-2026-132825) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-132825.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-132825.svg)
+
+- [https://github.com/scadastrangelove/ruby2shell](https://github.com/scadastrangelove/ruby2shell) : ![starts](https://img.shields.io/github/stars/scadastrangelove/ruby2shell.svg) ![forks](https://img.shields.io/github/forks/scadastrangelove/ruby2shell.svg)
 
 ## CVE-2026-132252
 
@@ -39,6 +89,7 @@
 - [https://github.com/LLCForge/CVE-2026-130648](https://github.com/LLCForge/CVE-2026-130648) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-130648.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-130648.svg)
 
 ## CVE-2026-130587
+> OpenFunction through 1.2.0 contains a privilege escalation vulnerability that allows namespace tenants to create privileged host-access pods by supplying unrestricted PodSpec templates in Function and Serving resources. Attackers with only Function or Serving create permissions can set privileged, hostNetwork, hostPID, or hostPath fields to mount the worker node&#x27;s root filesystem and escalate to node access.
 
 - [https://github.com/googlesky/CVE-2026-130587](https://github.com/googlesky/CVE-2026-130587) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130587.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130587.svg)
 
@@ -62,6 +113,10 @@
 ## CVE-2026-129987
 
 - [https://github.com/evenomn/CVE-2026-129987](https://github.com/evenomn/CVE-2026-129987) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-129987.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-129987.svg)
+
+## CVE-2026-129496
+
+- [https://github.com/abraxas/php-tzcache-rce](https://github.com/abraxas/php-tzcache-rce) : ![starts](https://img.shields.io/github/stars/abraxas/php-tzcache-rce.svg) ![forks](https://img.shields.io/github/forks/abraxas/php-tzcache-rce.svg)
 
 ## CVE-2026-129494
 
@@ -157,6 +212,10 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 > Psono Server Community Edition versions 1.12.6 through 7.5.0 and Psono Server Enterprise Edition before 7.5.1 do not require accepted group membership when authorizing deletion of group share-rights. The DELETE /share/right/ endpoint checks for a membership matching the target group, the authenticated user, and share_admin=True, but omits accepted=True. An authenticated remote attacker who has been invited to a group with share-admin privileges, and who knows a group share-right UUID, can theref
 
 - [https://github.com/R00t3dbyFa17h/security-advisories](https://github.com/R00t3dbyFa17h/security-advisories) : ![starts](https://img.shields.io/github/stars/R00t3dbyFa17h/security-advisories.svg) ![forks](https://img.shields.io/github/forks/R00t3dbyFa17h/security-advisories.svg)
+
+## CVE-2026-128442
+
+- [https://github.com/langz337/CVE-2026-128442](https://github.com/langz337/CVE-2026-128442) : ![starts](https://img.shields.io/github/stars/langz337/CVE-2026-128442.svg) ![forks](https://img.shields.io/github/forks/langz337/CVE-2026-128442.svg)
 
 ## CVE-2026-128134
 > NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. Prior to 3.10.4, nltk.parse.dependencygraph.dot2img resolves the Graphviz dot executable through PATH but invokes the resulting absolute executable without routing through spawn_trusted, so resolve_trusted_executable ownership and writability validation and safe_env loader environment scrubbing do not run. A local low-privileged at
@@ -427,6 +486,10 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 
 - [https://github.com/fixedbyreboot/CVE-2026-124002-POC](https://github.com/fixedbyreboot/CVE-2026-124002-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-124002-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-124002-POC.svg)
 
+## CVE-2026-123890
+
+- [https://github.com/Cyber-BansalAI/vmware-vcenter-2026](https://github.com/Cyber-BansalAI/vmware-vcenter-2026) : ![starts](https://img.shields.io/github/stars/Cyber-BansalAI/vmware-vcenter-2026.svg) ![forks](https://img.shields.io/github/forks/Cyber-BansalAI/vmware-vcenter-2026.svg)
+
 ## CVE-2026-123807
 > Signal K Server is a server application that runs on a central hub in a boat. From 2.0.0 until 2.34.0 for Signal K Server and from 1.0.0 until 1.5.3 for @signalk/resources-provider, the v2 REST route GET /signalk/v2/api/resources/:resourceType/:resourceId accepts an unsafe resourceId that can escape the intended resource directory. The route passes the attacker-controlled resourceId through src/api/resources/index.ts to FileStore.getResource() in packages/resources-provider-plugin/src/filestorag
 
@@ -643,6 +706,14 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 - [https://github.com/yusif-v/cve-2026-123007-poc](https://github.com/yusif-v/cve-2026-123007-poc) : ![starts](https://img.shields.io/github/stars/yusif-v/cve-2026-123007-poc.svg) ![forks](https://img.shields.io/github/forks/yusif-v/cve-2026-123007-poc.svg)
 
 - [https://github.com/eh-amish/nginx2root--CVE-2026-123007](https://github.com/eh-amish/nginx2root--CVE-2026-123007) : ![starts](https://img.shields.io/github/stars/eh-amish/nginx2root--CVE-2026-123007.svg) ![forks](https://img.shields.io/github/forks/eh-amish/nginx2root--CVE-2026-123007.svg)
+
+- [https://github.com/DeFexNN/defex-ngnix](https://github.com/DeFexNN/defex-ngnix) : ![starts](https://img.shields.io/github/stars/DeFexNN/defex-ngnix.svg) ![forks](https://img.shields.io/github/forks/DeFexNN/defex-ngnix.svg)
+
+- [https://github.com/SamJUK/nginx2root-check](https://github.com/SamJUK/nginx2root-check) : ![starts](https://img.shields.io/github/stars/SamJUK/nginx2root-check.svg) ![forks](https://img.shields.io/github/forks/SamJUK/nginx2root-check.svg)
+
+- [https://github.com/im0xfay/CVE-2026-123007](https://github.com/im0xfay/CVE-2026-123007) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-123007.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-123007.svg)
+
+- [https://github.com/josueportillo/nginx2root-scanner](https://github.com/josueportillo/nginx2root-scanner) : ![starts](https://img.shields.io/github/stars/josueportillo/nginx2root-scanner.svg) ![forks](https://img.shields.io/github/forks/josueportillo/nginx2root-scanner.svg)
 
 ## CVE-2026-122675
 > Cross-Site Request Forgery (CSRF) vulnerability in Wpmet Wp Social wp-social allows Cross Site Request Forgery.This issue affects Wp Social: from n/a through 3.2.3.
@@ -1275,6 +1346,8 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 
 - [https://github.com/Pr0fEs0r-X/PHP2SHELL-Checker-v-2.0-CVE-2026-115560-](https://github.com/Pr0fEs0r-X/PHP2SHELL-Checker-v-2.0-CVE-2026-115560-) : ![starts](https://img.shields.io/github/stars/Pr0fEs0r-X/PHP2SHELL-Checker-v-2.0-CVE-2026-115560-.svg) ![forks](https://img.shields.io/github/forks/Pr0fEs0r-X/PHP2SHELL-Checker-v-2.0-CVE-2026-115560-.svg)
 
+- [https://github.com/LLCForge/CVE-2026-115560](https://github.com/LLCForge/CVE-2026-115560) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-115560.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-115560.svg)
+
 ## CVE-2026-115290
 > Uncontrolled Recursion (CWE-674) in Elasticsearch can lead to denial of service via Serialized Data with Nested Payloads (CAPEC-230). An unauthenticated attacker with network access to the remote cluster server interface of a node can send a specially crafted request that causes the node to terminate. No credentials are required. The attacker can repeat the request against each reachable node.
 
@@ -1426,6 +1499,12 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 - [https://github.com/kjry8sb/java4shell_CVE-2026-114938](https://github.com/kjry8sb/java4shell_CVE-2026-114938) : ![starts](https://img.shields.io/github/stars/kjry8sb/java4shell_CVE-2026-114938.svg) ![forks](https://img.shields.io/github/forks/kjry8sb/java4shell_CVE-2026-114938.svg)
 
 - [https://github.com/rzkyp/java4shell-lab](https://github.com/rzkyp/java4shell-lab) : ![starts](https://img.shields.io/github/stars/rzkyp/java4shell-lab.svg) ![forks](https://img.shields.io/github/forks/rzkyp/java4shell-lab.svg)
+
+- [https://github.com/uxokpro1234/Java4Shell-CVE-2026-114938-Defender](https://github.com/uxokpro1234/Java4Shell-CVE-2026-114938-Defender) : ![starts](https://img.shields.io/github/stars/uxokpro1234/Java4Shell-CVE-2026-114938-Defender.svg) ![forks](https://img.shields.io/github/forks/uxokpro1234/Java4Shell-CVE-2026-114938-Defender.svg)
+
+- [https://github.com/FoxKyong/java4shell-checks](https://github.com/FoxKyong/java4shell-checks) : ![starts](https://img.shields.io/github/stars/FoxKyong/java4shell-checks.svg) ![forks](https://img.shields.io/github/forks/FoxKyong/java4shell-checks.svg)
+
+- [https://github.com/bh679/mcjavasafetycheck-mc](https://github.com/bh679/mcjavasafetycheck-mc) : ![starts](https://img.shields.io/github/stars/bh679/mcjavasafetycheck-mc.svg) ![forks](https://img.shields.io/github/forks/bh679/mcjavasafetycheck-mc.svg)
 
 ## CVE-2026-114820
 
@@ -4935,6 +5014,8 @@ but the node is still queued on tsk, which
 
 - [https://github.com/PhYSiicZ/samtimer-root](https://github.com/PhYSiicZ/samtimer-root) : ![starts](https://img.shields.io/github/stars/PhYSiicZ/samtimer-root.svg) ![forks](https://img.shields.io/github/forks/PhYSiicZ/samtimer-root.svg)
 
+- [https://github.com/mafanding/CVE-2026-98260-GhostKey](https://github.com/mafanding/CVE-2026-98260-GhostKey) : ![starts](https://img.shields.io/github/stars/mafanding/CVE-2026-98260-GhostKey.svg) ![forks](https://img.shields.io/github/forks/mafanding/CVE-2026-98260-GhostKey.svg)
+
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -7246,6 +7327,7 @@ This issue affects GiveWP: from n/a through 4.16.7.1.
 - [https://github.com/virologi-info/papercut-toolkit](https://github.com/virologi-info/papercut-toolkit) : ![starts](https://img.shields.io/github/stars/virologi-info/papercut-toolkit.svg) ![forks](https://img.shields.io/github/forks/virologi-info/papercut-toolkit.svg)
 
 ## CVE-2026-82025
+> WP File Manager before 8.0.7 contains a file upload restriction bypass vulnerability that allows authenticated administrators to upload arbitrary PHP files by exploiting a misconfigured elFinder connector in file_folder_manager.php where an empty uploadDeny list causes allowPutMime() to unconditionally return true, bypassing the uploadAllow restriction. Attackers can upload a .php file directly or upload it under an allowed filename and then rename it via the rename connector command, achieving 
 
 - [https://github.com/rxsklife/CVE-2026-82025](https://github.com/rxsklife/CVE-2026-82025) : ![starts](https://img.shields.io/github/stars/rxsklife/CVE-2026-82025.svg) ![forks](https://img.shields.io/github/forks/rxsklife/CVE-2026-82025.svg)
 
@@ -24701,6 +24783,8 @@ Cisco recommends that customers upgrade to the fixed software that is documented
 - [https://github.com/fevar54/CVE-2026-20245---Cisco-SD-WAN-Privilege-Escalation-Exploit](https://github.com/fevar54/CVE-2026-20245---Cisco-SD-WAN-Privilege-Escalation-Exploit) : ![starts](https://img.shields.io/github/stars/fevar54/CVE-2026-20245---Cisco-SD-WAN-Privilege-Escalation-Exploit.svg) ![forks](https://img.shields.io/github/forks/fevar54/CVE-2026-20245---Cisco-SD-WAN-Privilege-Escalation-Exploit.svg)
 
 - [https://github.com/HORKimhab/CVE-2026-20245](https://github.com/HORKimhab/CVE-2026-20245) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-20245.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-20245.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-20245](https://github.com/ashrafzaryouh/CVE-2026-20245) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-20245.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-20245.svg)
 
 ## CVE-2026-20230
  A vulnerability in Cisco Unified Communications Manager (Unified CM) and Cisco Unified Communications Manager Session Management Edition (Unified CM SME) could allow an unauthenticated, remote attacker to conduct server-side request forgery (SSRF) attacks through an affected device.

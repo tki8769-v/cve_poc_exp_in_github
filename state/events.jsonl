@@ -12247,3 +12247,36 @@
 {"cve_id": "CVE-2026-119073", "ts": "2026-11-19T15:31:15Z", "type": "new_poc", "url": "https://github.com/Shashi552/CVE-2026-119073-PoC"}
 {"cve_id": "CVE-2022-42889", "ts": "2026-11-19T15:31:16Z", "type": "new_poc", "url": "https://github.com/adikelty/echo-commons-text-cve-2022-42889"}
 {"cve_id": "CVE-2026-34156", "ts": "2026-11-19T15:37:16Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-34156"}
+{"cve_id": "CVE-2026-130585", "ts": "2026-11-19T23:37:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-130586", "ts": "2026-11-19T23:37:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-130585", "ts": "2026-11-19T23:39:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-130586", "ts": "2026-11-19T23:39:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-73737373", "ts": "2026-11-19T23:40:58Z", "type": "new_poc", "url": "https://github.com/extencil/stop2shell"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-19T23:40:59Z", "type": "new_poc", "url": "https://github.com/uxokpro1234/Java4Shell-CVE-2026-114938-Defender"}
+{"cve_id": "CVE-2026-123007", "ts": "2026-11-19T23:40:59Z", "type": "new_poc", "url": "https://github.com/DeFexNN/defex-ngnix"}
+{"cve_id": "CVE-2026-133113", "ts": "2026-11-19T23:41:00Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-133113"}
+{"cve_id": "CVE-2026-133234", "ts": "2026-11-19T23:41:00Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-133234"}
+{"cve_id": "CVE-2026-133117", "ts": "2026-11-19T23:41:00Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-133117"}
+{"cve_id": "CVE-2026-133173", "ts": "2026-11-19T23:41:00Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-133173"}
+{"cve_id": "CVE-2026-133305", "ts": "2026-11-19T23:41:01Z", "type": "new_poc", "url": "https://github.com/VulnSVNC/CVE-2026-133305"}
+{"cve_id": "CVE-2026-133185", "ts": "2026-11-19T23:41:01Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-133185"}
+{"cve_id": "CVE-2026-133235", "ts": "2026-11-19T23:41:02Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-133235"}
+{"cve_id": "CVE-2026-123007", "ts": "2026-11-19T23:41:02Z", "type": "new_poc", "url": "https://github.com/im0xfay/CVE-2026-123007"}
+{"cve_id": "CVE-2026-115560", "ts": "2026-11-19T23:41:02Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-115560"}
+{"cve_id": "CVE-2026-128442", "ts": "2026-11-19T23:41:03Z", "type": "new_poc", "url": "https://github.com/langz337/CVE-2026-128442"}
+{"cve_id": "CVE-2026-133274", "ts": "2026-11-19T23:41:03Z", "type": "new_poc", "url": "https://github.com/VulnSVNC/CVE-2026-133274"}
+{"cve_id": "CVE-2026-133172", "ts": "2026-11-19T23:41:03Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-133172"}
+{"cve_id": "CVE-2026-133168", "ts": "2026-11-19T23:41:03Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-133168"}
+{"cve_id": "CVE-2026-133114", "ts": "2026-11-19T23:41:04Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-133114"}
+{"cve_id": "CVE-2022-42889", "ts": "2026-11-19T23:41:04Z", "type": "new_poc", "url": "https://github.com/adikelty/commons-text-cve-2022-42889"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-19T23:41:05Z", "type": "new_poc", "url": "https://github.com/mafanding/CVE-2026-98260-GhostKey"}
+{"cve_id": "CVE-2026-123007", "ts": "2026-11-19T23:41:06Z", "type": "new_poc", "url": "https://github.com/josueportillo/nginx2root-scanner"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-19T23:41:06Z", "type": "new_poc", "url": "https://github.com/Morgenlicht1210/log4j2-cve-2021-44228-poc"}
+{"cve_id": "CVE-2013-2028", "ts": "2026-11-19T23:41:06Z", "type": "new_poc", "url": "https://github.com/XiXinping/367-nginx-chunked-size"}
+{"cve_id": "CVE-2026-132825", "ts": "2026-11-19T23:41:07Z", "type": "new_poc", "url": "https://github.com/scadastrangelove/ruby2shell"}
+{"cve_id": "CVE-2026-123007", "ts": "2026-11-19T23:41:07Z", "type": "new_poc", "url": "https://github.com/SamJUK/nginx2root-check"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-19T23:41:07Z", "type": "new_poc", "url": "https://github.com/FoxKyong/java4shell-checks"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-19T23:41:07Z", "type": "new_poc", "url": "https://github.com/bh679/mcjavasafetycheck-mc"}
+{"cve_id": "CVE-2026-123890", "ts": "2026-11-19T23:41:08Z", "type": "new_poc", "url": "https://github.com/Cyber-BansalAI/vmware-vcenter-2026"}
+{"cve_id": "CVE-2026-129496", "ts": "2026-11-19T23:41:08Z", "type": "new_poc", "url": "https://github.com/abraxas/php-tzcache-rce"}
+{"cve_id": "CVE-2026-20245", "ts": "2026-11-19T23:51:34Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-20245"}
