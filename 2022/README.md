@@ -305,6 +305,10 @@ visconti_clk_register_gates().
 
 - [https://github.com/jwsly12/CVE-2022-46364-htb-ctf](https://github.com/jwsly12/CVE-2022-46364-htb-ctf) : ![starts](https://img.shields.io/github/stars/jwsly12/CVE-2022-46364-htb-ctf.svg) ![forks](https://img.shields.io/github/forks/jwsly12/CVE-2022-46364-htb-ctf.svg)
 
+## CVE-2022-46337
+
+- [https://github.com/intersoftdatalabs-in/derby](https://github.com/intersoftdatalabs-in/derby) : ![starts](https://img.shields.io/github/stars/intersoftdatalabs-in/derby.svg) ![forks](https://img.shields.io/github/forks/intersoftdatalabs-in/derby.svg)
+
 ## CVE-2022-46334
  Proofpoint Enterprise Protection (PPS/PoD) contains a vulnerability which allows the pps user to escalate to root privileges due to unnecessary permissions. This affects all versions 8.19.0 and below.
 

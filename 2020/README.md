@@ -1025,6 +1025,10 @@
 
 - [https://github.com/Groppoxx/CVE-2020-25042-PoC](https://github.com/Groppoxx/CVE-2020-25042-PoC) : ![starts](https://img.shields.io/github/stars/Groppoxx/CVE-2020-25042-PoC.svg) ![forks](https://img.shields.io/github/forks/Groppoxx/CVE-2020-25042-PoC.svg)
 
+## CVE-2020-24986
+
+- [https://github.com/Rickert155/CVE-2020-24986-Exploit](https://github.com/Rickert155/CVE-2020-24986-Exploit) : ![starts](https://img.shields.io/github/stars/Rickert155/CVE-2020-24986-Exploit.svg) ![forks](https://img.shields.io/github/forks/Rickert155/CVE-2020-24986-Exploit.svg)
+
 ## CVE-2020-24972
  The Kleopatra component before 3.1.12 (and before 20.07.80) for GnuPG allows remote attackers to execute arbitrary code because openpgp4fpr: URLs are supported without safe handling of command-line options. The Qt platformpluginpath command-line option can be used to load an arbitrary DLL.
 

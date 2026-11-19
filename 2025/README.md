@@ -10238,6 +10238,10 @@ Microsoft recommends removing any existing dependencies on this hardware.
 
 - [https://github.com/airbus-cert/cve-2025-24985](https://github.com/airbus-cert/cve-2025-24985) : ![starts](https://img.shields.io/github/stars/airbus-cert/cve-2025-24985.svg) ![forks](https://img.shields.io/github/forks/airbus-cert/cve-2025-24985.svg)
 
+## CVE-2025-24983
+
+- [https://github.com/sote-CJ/CVE-2025-24983-1Day](https://github.com/sote-CJ/CVE-2025-24983-1Day) : ![starts](https://img.shields.io/github/stars/sote-CJ/CVE-2025-24983-1Day.svg) ![forks](https://img.shields.io/github/forks/sote-CJ/CVE-2025-24983-1Day.svg)
+
 ## CVE-2025-24971
  DumpDrop is a stupid simple file upload application that provides an interface for dragging and dropping files. An OS Command Injection vulnerability was discovered in the DumbDrop application, `/upload/init` endpoint. This vulnerability could allow an attacker to execute arbitrary code remotely when the **Apprise Notification** enabled. This issue has been addressed in commit `4ff8469d` and all users are advised to patch. There are no known workarounds for this vulnerability.
 
