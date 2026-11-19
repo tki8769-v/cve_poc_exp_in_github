@@ -52,6 +52,7 @@
 - [https://github.com/googlesky/CVE-2026-130347](https://github.com/googlesky/CVE-2026-130347) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130347.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130347.svg)
 
 ## CVE-2026-130335
+> Info-ZIP Zip 3.0 (and 3.1 beta through 3.1c) allows OS command injection by an attacker who controls the command line. The victim must use the -T option followed by a filename containing shell metacharacters, on a platform (such as Linux) where a suitable shell is run. This occurs because the system C library function is used. NOTE: there is no known common scenario in which an untrusted filename reaches a zip -T call.
 
 - [https://github.com/googlesky/CVE-2026-130335](https://github.com/googlesky/CVE-2026-130335) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130335.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130335.svg)
 
@@ -637,6 +638,8 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 
 - [https://github.com/yusif-v/cve-2026-123007-poc](https://github.com/yusif-v/cve-2026-123007-poc) : ![starts](https://img.shields.io/github/stars/yusif-v/cve-2026-123007-poc.svg) ![forks](https://img.shields.io/github/forks/yusif-v/cve-2026-123007-poc.svg)
 
+- [https://github.com/eh-amish/nginx2root--CVE-2026-123007](https://github.com/eh-amish/nginx2root--CVE-2026-123007) : ![starts](https://img.shields.io/github/stars/eh-amish/nginx2root--CVE-2026-123007.svg) ![forks](https://img.shields.io/github/forks/eh-amish/nginx2root--CVE-2026-123007.svg)
+
 ## CVE-2026-122675
 > Cross-Site Request Forgery (CSRF) vulnerability in Wpmet Wp Social wp-social allows Cross Site Request Forgery.This issue affects Wp Social: from n/a through 3.2.3.
 
@@ -856,6 +859,11 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 - [https://github.com/im0xfay/CVE-2026-119077](https://github.com/im0xfay/CVE-2026-119077) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-119077.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-119077.svg)
 
 - [https://github.com/0xCyp1337/CVE-2026-119077](https://github.com/0xCyp1337/CVE-2026-119077) : ![starts](https://img.shields.io/github/stars/0xCyp1337/CVE-2026-119077.svg) ![forks](https://img.shields.io/github/forks/0xCyp1337/CVE-2026-119077.svg)
+
+## CVE-2026-119073
+> The Live Composer  WordPress plugin before 2.1.23 does not escape a pagination setting supplied through its post-listing module shortcodes before outputting it in an HTML attribute, allowing users with the Contributor role and above to perform Stored Cross-Site Scripting attacks.
+
+- [https://github.com/Shashi552/CVE-2026-119073](https://github.com/Shashi552/CVE-2026-119073) : ![starts](https://img.shields.io/github/stars/Shashi552/CVE-2026-119073.svg) ![forks](https://img.shields.io/github/forks/Shashi552/CVE-2026-119073.svg)
 
 ## CVE-2026-119025
 > open 7.2.0 before 11.0.0 contains an OS command injection vulnerability that allows attackers to execute PowerShell code by supplying crafted URLs on Windows and WSL. Attackers can embed $(...) subexpressions in URLs, such as OAuth authorization_endpoint values from malicious MCP servers, which execute when index.js passes them unescaped to powershell -EncodedCommand.

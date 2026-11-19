@@ -76,6 +76,11 @@
 
 - [https://github.com/LLCForge/CVE-2026-116448](https://github.com/LLCForge/CVE-2026-116448) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-116448.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-116448.svg)
 
+## CVE-2026-119073
+> The Live Composer  WordPress plugin before 2.1.23 does not escape a pagination setting supplied through its post-listing module shortcodes before outputting it in an HTML attribute, allowing users with the Contributor role and above to perform Stored Cross-Site Scripting attacks.
+
+- [https://github.com/Shashi552/CVE-2026-119073](https://github.com/Shashi552/CVE-2026-119073) : ![starts](https://img.shields.io/github/stars/Shashi552/CVE-2026-119073.svg) ![forks](https://img.shields.io/github/forks/Shashi552/CVE-2026-119073.svg)
+
 ## CVE-2026-119958
 
 - [https://github.com/LLCForge/CVE-2026-119958](https://github.com/LLCForge/CVE-2026-119958) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-119958.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-119958.svg)
@@ -92,6 +97,7 @@
 - [https://github.com/arkrwn/NGINX2Root-CVE-2026-123007](https://github.com/arkrwn/NGINX2Root-CVE-2026-123007) : ![starts](https://img.shields.io/github/stars/arkrwn/NGINX2Root-CVE-2026-123007.svg) ![forks](https://img.shields.io/github/forks/arkrwn/NGINX2Root-CVE-2026-123007.svg)
 - [https://github.com/ashrafzaryouh/CVE-2026-123007](https://github.com/ashrafzaryouh/CVE-2026-123007) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-123007.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-123007.svg)
 - [https://github.com/c0re-i5/intbug-lab](https://github.com/c0re-i5/intbug-lab) : ![starts](https://img.shields.io/github/stars/c0re-i5/intbug-lab.svg) ![forks](https://img.shields.io/github/forks/c0re-i5/intbug-lab.svg)
+- [https://github.com/eh-amish/nginx2root--CVE-2026-123007](https://github.com/eh-amish/nginx2root--CVE-2026-123007) : ![starts](https://img.shields.io/github/stars/eh-amish/nginx2root--CVE-2026-123007.svg) ![forks](https://img.shields.io/github/forks/eh-amish/nginx2root--CVE-2026-123007.svg)
 - [https://github.com/jenic/nginx2root-ioc-scan](https://github.com/jenic/nginx2root-ioc-scan) : ![starts](https://img.shields.io/github/stars/jenic/nginx2root-ioc-scan.svg) ![forks](https://img.shields.io/github/forks/jenic/nginx2root-ioc-scan.svg)
 - [https://github.com/materaj2/cve-2026-123007-scanner](https://github.com/materaj2/cve-2026-123007-scanner) : ![starts](https://img.shields.io/github/stars/materaj2/cve-2026-123007-scanner.svg) ![forks](https://img.shields.io/github/forks/materaj2/cve-2026-123007-scanner.svg)
 - [https://github.com/ramenaru/http2-checker](https://github.com/ramenaru/http2-checker) : ![starts](https://img.shields.io/github/stars/ramenaru/http2-checker.svg) ![forks](https://img.shields.io/github/forks/ramenaru/http2-checker.svg)

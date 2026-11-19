@@ -12238,3 +12238,8 @@
 {"cve_id": "CVE-2026-123007", "ts": "2026-11-19T14:43:21Z", "type": "new_poc", "url": "https://github.com/c0re-i5/intbug-lab"}
 {"cve_id": "CVE-2026-98260", "ts": "2026-11-19T14:43:22Z", "type": "new_poc", "url": "https://github.com/PhYSiicZ/samtimer-root"}
 {"cve_id": "CVE-2022-46337", "ts": "2026-11-19T14:43:22Z", "type": "new_poc", "url": "https://github.com/intersoftdatalabs-in/derby"}
+{"cve_id": "CVE-2026-65683", "ts": "2026-11-19T15:05:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-71512", "ts": "2026-11-19T15:05:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80920", "ts": "2026-11-19T15:05:38Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-119073", "ts": "2026-11-19T15:13:12Z", "type": "new_poc", "url": "https://github.com/Shashi552/CVE-2026-119073"}
+{"cve_id": "CVE-2026-123007", "ts": "2026-11-19T15:13:17Z", "type": "new_poc", "url": "https://github.com/eh-amish/nginx2root--CVE-2026-123007"}
