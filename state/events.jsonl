@@ -12180,3 +12180,8 @@
 {"cve_id": "CVE-2026-123007", "ts": "2026-11-19T02:52:07Z", "type": "new_poc", "url": "https://github.com/akarkode/nginx-http2-cve-2026-123007-lab"}
 {"cve_id": "CVE-2014-0160", "ts": "2026-11-19T02:52:08Z", "type": "new_poc", "url": "https://github.com/gigirahamaa/heartbleed-project-"}
 {"cve_id": "CVE-2026-97798", "ts": "2026-11-19T02:59:24Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-97798"}
+{"cve_id": "CVE-2026-65683", "ts": "2026-11-19T03:10:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-71512", "ts": "2026-11-19T03:11:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-80920", "ts": "2026-11-19T03:11:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-123007", "ts": "2026-11-19T03:16:51Z", "type": "new_poc", "url": "https://github.com/materaj2/cve-2026-123007-scanner"}
+{"cve_id": "CVE-2026-19773", "ts": "2026-11-19T03:17:52Z", "type": "new_poc", "url": "https://github.com/firmdura/meta-firmdura-kirkstone"}

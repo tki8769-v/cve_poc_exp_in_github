@@ -48,6 +48,7 @@
 - [https://github.com/googlesky/CVE-2026-129494](https://github.com/googlesky/CVE-2026-129494) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129494.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129494.svg)
 
 ## CVE-2026-129493
+> Bolo (bolo-solo) 1.7 through 2.6.4 contains an information disclosure vulnerability that allows unauthenticated attackers to read article view passwords via the public GET /articles endpoint. Attackers can retrieve the plaintext articleViewPwd field returned by ArticleProcessor.getArticlesByPage and submit it to read password-protected article content.
 
 - [https://github.com/googlesky/CVE-2026-129493](https://github.com/googlesky/CVE-2026-129493) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129493.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129493.svg)
 
@@ -590,6 +591,8 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 - [https://github.com/ashrafzaryouh/CVE-2026-123007](https://github.com/ashrafzaryouh/CVE-2026-123007) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-123007.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-123007.svg)
 
 - [https://github.com/rogersouzak8s/nginx-http2-check](https://github.com/rogersouzak8s/nginx-http2-check) : ![starts](https://img.shields.io/github/stars/rogersouzak8s/nginx-http2-check.svg) ![forks](https://img.shields.io/github/forks/rogersouzak8s/nginx-http2-check.svg)
+
+- [https://github.com/materaj2/cve-2026-123007-scanner](https://github.com/materaj2/cve-2026-123007-scanner) : ![starts](https://img.shields.io/github/stars/materaj2/cve-2026-123007-scanner.svg) ![forks](https://img.shields.io/github/forks/materaj2/cve-2026-123007-scanner.svg)
 
 ## CVE-2026-122675
 > Cross-Site Request Forgery (CSRF) vulnerability in Wpmet Wp Social wp-social allows Cross Site Request Forgery.This issue affects Wp Social: from n/a through 3.2.3.
@@ -1678,6 +1681,7 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 - [https://github.com/hahahahahahahahah6/mcp-idprobe](https://github.com/hahahahahahahahah6/mcp-idprobe) : ![starts](https://img.shields.io/github/stars/hahahahahahahahah6/mcp-idprobe.svg) ![forks](https://img.shields.io/github/forks/hahahahahahahahah6/mcp-idprobe.svg)
 
 ## CVE-2026-111760
+> Git is a fast, scalable, distributed revision control system with an unusually rich command set that provides both high-level operations and full access to internals. Prior to 2.50.2, 2.51.3, 2.52.1, 2.53.1, 2.54.1, 2.55.1, and 2.56.1, an attacker-controlled repository hosted by the attacker rather than on a normal forge site can exploit git clone --recurse-submodules by causing Git to overwrite a submodule gitfile with a symbolic link. The symbolic link can point to a directory containing attac
 
 - [https://github.com/suominen/CVE-2026-111760](https://github.com/suominen/CVE-2026-111760) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-111760.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-111760.svg)
 
@@ -24772,6 +24776,10 @@ Note: Cisco has assigned this security advisory a Security Impact Rating (SIR) o
  The WP-Stats plugin for WordPress is vulnerable to Stored Cross-Site Scripting in all versions up to, and including, 2.56 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page.
 
 - [https://github.com/testardou/CVE-2026-19794](https://github.com/testardou/CVE-2026-19794) : ![starts](https://img.shields.io/github/stars/testardou/CVE-2026-19794.svg) ![forks](https://img.shields.io/github/forks/testardou/CVE-2026-19794.svg)
+
+## CVE-2026-19773
+
+- [https://github.com/firmdura/meta-firmdura-kirkstone](https://github.com/firmdura/meta-firmdura-kirkstone) : ![starts](https://img.shields.io/github/stars/firmdura/meta-firmdura-kirkstone.svg) ![forks](https://img.shields.io/github/forks/firmdura/meta-firmdura-kirkstone.svg)
 
 ## CVE-2026-19745
  A flaw has been found in Calix GigaSpire 26.1.0. Impacted is an unknown function of the file utilities_configurationsave.cgi of the component Web Management Interface. Executing a manipulation of the argument sessionKey can lead to denial of service. The attack can be launched remotely. The exploit has been published and may be used. The vendor was contacted early about this disclosure but did not respond in any way.

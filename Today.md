@@ -30,6 +30,7 @@
 - [https://github.com/akarkode/nginx-http2-cve-2026-123007-lab](https://github.com/akarkode/nginx-http2-cve-2026-123007-lab) : ![starts](https://img.shields.io/github/stars/akarkode/nginx-http2-cve-2026-123007-lab.svg) ![forks](https://img.shields.io/github/forks/akarkode/nginx-http2-cve-2026-123007-lab.svg)
 - [https://github.com/arkrwn/NGINX2Root-CVE-2026-123007](https://github.com/arkrwn/NGINX2Root-CVE-2026-123007) : ![starts](https://img.shields.io/github/stars/arkrwn/NGINX2Root-CVE-2026-123007.svg) ![forks](https://img.shields.io/github/forks/arkrwn/NGINX2Root-CVE-2026-123007.svg)
 - [https://github.com/ashrafzaryouh/CVE-2026-123007](https://github.com/ashrafzaryouh/CVE-2026-123007) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-123007.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-123007.svg)
+- [https://github.com/materaj2/cve-2026-123007-scanner](https://github.com/materaj2/cve-2026-123007-scanner) : ![starts](https://img.shields.io/github/stars/materaj2/cve-2026-123007-scanner.svg) ![forks](https://img.shields.io/github/forks/materaj2/cve-2026-123007-scanner.svg)
 - [https://github.com/rogersouzak8s/nginx-http2-check](https://github.com/rogersouzak8s/nginx-http2-check) : ![starts](https://img.shields.io/github/stars/rogersouzak8s/nginx-http2-check.svg) ![forks](https://img.shields.io/github/forks/rogersouzak8s/nginx-http2-check.svg)
 
 ## CVE-2026-123158
@@ -54,6 +55,10 @@
 ## CVE-2026-129448
 
 - [https://github.com/Yanixos/APACHE-CVE-2026-129448](https://github.com/Yanixos/APACHE-CVE-2026-129448) : ![starts](https://img.shields.io/github/stars/Yanixos/APACHE-CVE-2026-129448.svg) ![forks](https://img.shields.io/github/forks/Yanixos/APACHE-CVE-2026-129448.svg)
+
+## CVE-2026-19773
+
+- [https://github.com/firmdura/meta-firmdura-kirkstone](https://github.com/firmdura/meta-firmdura-kirkstone) : ![starts](https://img.shields.io/github/stars/firmdura/meta-firmdura-kirkstone.svg) ![forks](https://img.shields.io/github/forks/firmdura/meta-firmdura-kirkstone.svg)
 
 ## CVE-2026-47884
 
