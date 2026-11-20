@@ -12291,3 +12291,51 @@
 {"cve_id": "CVE-2026-130585", "ts": "2026-11-20T00:16:48Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-130586", "ts": "2026-11-20T00:16:49Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2020-11651", "ts": "2026-11-20T00:25:40Z", "type": "new_poc", "url": "https://github.com/datefer1989/datefer-offsec"}
+{"cve_id": "CVE-2026-130585", "ts": "2026-11-20T08:35:22Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-130586", "ts": "2026-11-20T08:35:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-71319", "ts": "2026-11-20T08:40:28Z", "type": "new_poc", "url": "https://github.com/TazmiDev/CVE-2026-71319"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-20T08:40:29Z", "type": "new_poc", "url": "https://github.com/Luscious8/JVM2Shell"}
+{"cve_id": "CVE-2026-133481", "ts": "2026-11-20T08:40:29Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-133481"}
+{"cve_id": "CVE-2026-77378", "ts": "2026-11-20T08:40:29Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-77378"}
+{"cve_id": "CVE-2026-128536", "ts": "2026-11-20T08:40:29Z", "type": "new_poc", "url": "https://github.com/l00neyhacker/CVE-2026-128536"}
+{"cve_id": "CVE-2026-103025", "ts": "2026-11-20T08:40:29Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-103025"}
+{"cve_id": "CVE-2026-63012", "ts": "2026-11-20T08:40:30Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-63012"}
+{"cve_id": "CVE-2026-117517", "ts": "2026-11-20T08:40:30Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-117517"}
+{"cve_id": "CVE-2026-77318", "ts": "2026-11-20T08:40:30Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-77318"}
+{"cve_id": "CVE-2026-128531", "ts": "2026-11-20T08:40:31Z", "type": "new_poc", "url": "https://github.com/l00neyhacker/CVE-2026-128531"}
+{"cve_id": "CVE-2026-103033", "ts": "2026-11-20T08:40:31Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-103033"}
+{"cve_id": "CVE-2021-4034", "ts": "2026-11-20T08:40:31Z", "type": "new_poc", "url": "https://github.com/vukma25/CVE-2021-4034"}
+{"cve_id": "CVE-2026-128534", "ts": "2026-11-20T08:40:31Z", "type": "new_poc", "url": "https://github.com/l00neyhacker/CVE-2026-128534"}
+{"cve_id": "CVE-2026-128537", "ts": "2026-11-20T08:40:31Z", "type": "new_poc", "url": "https://github.com/l00neyhacker/CVE-2026-128537"}
+{"cve_id": "CVE-2024-4367", "ts": "2026-11-20T08:40:31Z", "type": "new_poc", "url": "https://github.com/toobunbo/CVE-2024-4367"}
+{"cve_id": "CVE-2026-62955", "ts": "2026-11-20T08:40:32Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-62955"}
+{"cve_id": "CVE-2015-2025", "ts": "2026-11-20T08:40:32Z", "type": "new_poc", "url": "https://github.com/Ethanpr05/cve-2015-2025-analisis"}
+{"cve_id": "CVE-2025-21756", "ts": "2026-11-20T08:40:32Z", "type": "new_poc", "url": "https://github.com/zhanghangjie/CVE-2025-21756-VM"}
+{"cve_id": "CVE-2026-123890", "ts": "2026-11-20T08:40:32Z", "type": "new_poc", "url": "https://github.com/Quaerendir/cve-2026-123890-audit"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-20T08:40:33Z", "type": "new_poc", "url": "https://github.com/zhanghangjie/CVE-2026-43499-CYL1"}
+{"cve_id": "CVE-2026-21385", "ts": "2026-11-20T08:40:33Z", "type": "new_poc", "url": "https://github.com/zhanghangjie/CVE-2026-21385-CYL1"}
+{"cve_id": "CVE-2026-20971", "ts": "2026-11-20T08:40:33Z", "type": "new_poc", "url": "https://github.com/zhanghangjie/CVE-2026-20971-CYL1"}
+{"cve_id": "CVE-2025-6554", "ts": "2026-11-20T08:40:33Z", "type": "new_poc", "url": "https://github.com/zhanghangjie/CVE-2025-6554-CYL1"}
+{"cve_id": "CVE-2026-64560", "ts": "2026-11-20T08:40:33Z", "type": "new_poc", "url": "https://github.com/zhanghangjie/CVE-2026-64560-CYL1"}
+{"cve_id": "CVE-2026-59273", "ts": "2026-11-20T08:40:34Z", "type": "new_poc", "url": "https://github.com/afernandesvigo/PoC-CVE-2026-59273"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-20T08:40:34Z", "type": "new_poc", "url": "https://github.com/zhanghangjie/CVE-2026-98260-CYL1"}
+{"cve_id": "CVE-2026-132745", "ts": "2026-11-20T08:40:34Z", "type": "new_poc", "url": "https://github.com/SHAHID-XT/CVE-2026-132745-Vtiger-CRM-Blind-SQLi"}
+{"cve_id": "CVE-2026-132746", "ts": "2026-11-20T08:40:34Z", "type": "new_poc", "url": "https://github.com/SHAHID-XT/CVE-2026-132746-Vtiger-CRM-WSAPP-SQLi-"}
+{"cve_id": "CVE-2026-132749", "ts": "2026-11-20T08:40:34Z", "type": "new_poc", "url": "https://github.com/SHAHID-XT/CVE-2026-132749-Vtiger-CRM-Reports-SQLi"}
+{"cve_id": "CVE-2026-132747", "ts": "2026-11-20T08:40:35Z", "type": "new_poc", "url": "https://github.com/SHAHID-XT/CVE-2026-132747-Vtiger-CRM-ExportData-SQLi"}
+{"cve_id": "CVE-2026-132748", "ts": "2026-11-20T08:40:35Z", "type": "new_poc", "url": "https://github.com/SHAHID-XT/CVE-2026-132748-Vtiger-CRM-PHP-Code-Injection"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-20T08:40:35Z", "type": "new_poc", "url": "https://github.com/crash00xd/java2shell-poc"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-20T08:40:36Z", "type": "new_poc", "url": "https://github.com/for-toolathlon/log4shell-research-brief"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-20T08:40:36Z", "type": "new_poc", "url": "https://github.com/minBuild/unhacked"}
+{"cve_id": "CVE-2026-123007", "ts": "2026-11-20T08:40:36Z", "type": "new_poc", "url": "https://github.com/weitek/nginx2root"}
+{"cve_id": "CVE-2026-123007", "ts": "2026-11-20T08:40:36Z", "type": "new_poc", "url": "https://github.com/genaforvena/nginx2root"}
+{"cve_id": "CVE-2026-132825", "ts": "2026-11-20T08:40:37Z", "type": "new_poc", "url": "https://github.com/Mahgal/ruby2shell-check"}
+{"cve_id": "CVE-2026-117378", "ts": "2026-11-20T08:41:11Z", "type": "new_poc", "url": "https://github.com/p0et08/ShopXO"}
+{"cve_id": "CVE-2026-13181", "ts": "2026-11-20T08:41:28Z", "type": "new_poc", "url": "https://github.com/kjry8sb/CVE-2026-13181"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-20T08:41:34Z", "type": "new_poc", "url": "https://github.com/Jerczey/java4shell-ansible-detection"}
+{"cve_id": "CVE-2023-46604", "ts": "2026-11-20T08:41:57Z", "type": "new_poc", "url": "https://github.com/Bhavya2-4/Detection-rules-SOC"}
+{"cve_id": "CVE-2025-32463", "ts": "2026-11-20T08:42:15Z", "type": "new_poc", "url": "https://github.com/jigrit/CVE_Analysis"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-20T08:42:16Z", "type": "new_poc", "url": "https://github.com/XuexGao/ghostlock-tel-an10"}
+{"cve_id": "CVE-2022-22965", "ts": "2026-11-20T08:47:24Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2022-22965"}
+{"cve_id": "CVE-2025-49132", "ts": "2026-11-20T08:48:17Z", "type": "new_poc", "url": "https://github.com/Ossipher/CVE-2025-49132_HTB_SEASON10"}
+{"cve_id": "CVE-2025-2294", "ts": "2026-11-20T08:50:24Z", "type": "new_poc", "url": "https://github.com/fumioryoto/CVE-2025-2294-Kubio-2.5.1-LFi-Checker"}

@@ -5837,6 +5837,8 @@ Users are recommended to upgrade to version 11.0.9, 10.1.43 or 9.0.107, which fi
 
 - [https://github.com/2t8a/CVE-2025-49132](https://github.com/2t8a/CVE-2025-49132) : ![starts](https://img.shields.io/github/stars/2t8a/CVE-2025-49132.svg) ![forks](https://img.shields.io/github/forks/2t8a/CVE-2025-49132.svg)
 
+- [https://github.com/Ossipher/CVE-2025-49132_HTB_SEASON10](https://github.com/Ossipher/CVE-2025-49132_HTB_SEASON10) : ![starts](https://img.shields.io/github/stars/Ossipher/CVE-2025-49132_HTB_SEASON10.svg) ![forks](https://img.shields.io/github/forks/Ossipher/CVE-2025-49132_HTB_SEASON10.svg)
+
 ## CVE-2025-49131
  FastGPT is an open-source project that provides a platform for building, deploying, and operating AI-driven workflows and conversational agents. The Sandbox container (fastgpt-sandbox) is a specialized, isolated environment used by FastGPT to safely execute user-submitted or dynamically generated code in isolation. The sandbox before version 4.9.11 has insufficient isolation and inadequate restrictions on code execution by allowing overly permissive syscalls, which allows attackers to escape the intended sandbox boundaries. Attackers could exploit this to read and overwrite arbitrary files and bypass Python module import restrictions. This is patched in version 4.9.11 by restricting the allowed system calls to a safer subset and additional descriptive error messaging.
 
@@ -8301,6 +8303,8 @@ This issue affects Command Center Innovation Release: 11.38.0 to 11.38.20. The v
 - [https://github.com/roock3t/CVE-2025-32463](https://github.com/roock3t/CVE-2025-32463) : ![starts](https://img.shields.io/github/stars/roock3t/CVE-2025-32463.svg) ![forks](https://img.shields.io/github/forks/roock3t/CVE-2025-32463.svg)
 
 - [https://github.com/ashrafzaryouh/CVE-2025-32463](https://github.com/ashrafzaryouh/CVE-2025-32463) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2025-32463.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2025-32463.svg)
+
+- [https://github.com/jigrit/CVE_Analysis](https://github.com/jigrit/CVE_Analysis) : ![starts](https://img.shields.io/github/stars/jigrit/CVE_Analysis.svg) ![forks](https://img.shields.io/github/forks/jigrit/CVE_Analysis.svg)
 
 ## CVE-2025-32462
  Sudo before 1.9.17p1, when used with a sudoers file that specifies a host that is neither the current host nor ALL, allows listed users to execute commands on unintended machines.
@@ -11270,6 +11274,8 @@ RIP: 0010:refcount_warn_saturate+0xee/0x150
 
 - [https://github.com/KuanKuanQAQ/cve-testing](https://github.com/KuanKuanQAQ/cve-testing) : ![starts](https://img.shields.io/github/stars/KuanKuanQAQ/cve-testing.svg) ![forks](https://img.shields.io/github/forks/KuanKuanQAQ/cve-testing.svg)
 
+- [https://github.com/zhanghangjie/CVE-2025-21756-VM](https://github.com/zhanghangjie/CVE-2025-21756-VM) : ![starts](https://img.shields.io/github/stars/zhanghangjie/CVE-2025-21756-VM.svg) ![forks](https://img.shields.io/github/forks/zhanghangjie/CVE-2025-21756-VM.svg)
+
 ## CVE-2025-21692
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -13627,6 +13633,8 @@ The specific flaw exists within the parsing of U3D files. The issue results from
 
 - [https://github.com/dexteon/cve-2025-6554-poc](https://github.com/dexteon/cve-2025-6554-poc) : ![starts](https://img.shields.io/github/stars/dexteon/cve-2025-6554-poc.svg) ![forks](https://img.shields.io/github/forks/dexteon/cve-2025-6554-poc.svg)
 
+- [https://github.com/zhanghangjie/CVE-2025-6554-CYL1](https://github.com/zhanghangjie/CVE-2025-6554-CYL1) : ![starts](https://img.shields.io/github/stars/zhanghangjie/CVE-2025-6554-CYL1.svg) ![forks](https://img.shields.io/github/forks/zhanghangjie/CVE-2025-6554-CYL1.svg)
+
 ## CVE-2025-6543
  Memory overflow vulnerability leading to unintended control flow and Denial of Service in NetScaler ADC and NetScaler Gateway when configured as Gateway (VPN virtual server, ICA Proxy, CVPN, RDP Proxy) OR AAA virtual server
 
@@ -15321,6 +15329,8 @@ This issue affects Online Exam Registration: before 14.03.2025.
 - [https://github.com/romanedutov/CVE-2025-2294](https://github.com/romanedutov/CVE-2025-2294) : ![starts](https://img.shields.io/github/stars/romanedutov/CVE-2025-2294.svg) ![forks](https://img.shields.io/github/forks/romanedutov/CVE-2025-2294.svg)
 
 - [https://github.com/rhz0d/CVE-2025-2294](https://github.com/rhz0d/CVE-2025-2294) : ![starts](https://img.shields.io/github/stars/rhz0d/CVE-2025-2294.svg) ![forks](https://img.shields.io/github/forks/rhz0d/CVE-2025-2294.svg)
+
+- [https://github.com/fumioryoto/CVE-2025-2294-Kubio-2.5.1-LFi-Checker](https://github.com/fumioryoto/CVE-2025-2294-Kubio-2.5.1-LFi-Checker) : ![starts](https://img.shields.io/github/stars/fumioryoto/CVE-2025-2294-Kubio-2.5.1-LFi-Checker.svg) ![forks](https://img.shields.io/github/forks/fumioryoto/CVE-2025-2294-Kubio-2.5.1-LFi-Checker.svg)
 
 ## CVE-2025-2266
  The Checkout Mestres do WP for WooCommerce plugin for WordPress is vulnerable to unauthorized modification of data that can lead to privilege escalation due to a missing capability check on the cwmpUpdateOptions() function in versions 8.6.5 to 8.7.5. This makes it possible for unauthenticated attackers to update arbitrary options on the WordPress site. This can be leveraged to update the default role for registration to administrator and enable user registration for attackers to gain administrative user access to a vulnerable site.

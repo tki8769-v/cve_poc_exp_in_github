@@ -1714,6 +1714,10 @@
 
 - [https://github.com/Morgenlicht1210/log4j2-cve-2021-44228-poc](https://github.com/Morgenlicht1210/log4j2-cve-2021-44228-poc) : ![starts](https://img.shields.io/github/stars/Morgenlicht1210/log4j2-cve-2021-44228-poc.svg) ![forks](https://img.shields.io/github/forks/Morgenlicht1210/log4j2-cve-2021-44228-poc.svg)
 
+- [https://github.com/for-toolathlon/log4shell-research-brief](https://github.com/for-toolathlon/log4shell-research-brief) : ![starts](https://img.shields.io/github/stars/for-toolathlon/log4shell-research-brief.svg) ![forks](https://img.shields.io/github/forks/for-toolathlon/log4shell-research-brief.svg)
+
+- [https://github.com/minBuild/unhacked](https://github.com/minBuild/unhacked) : ![starts](https://img.shields.io/github/stars/minBuild/unhacked.svg) ![forks](https://img.shields.io/github/forks/minBuild/unhacked.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
@@ -8201,6 +8205,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/caviartank21/CVE-2021-4034](https://github.com/caviartank21/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/caviartank21/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/caviartank21/CVE-2021-4034.svg)
 
 - [https://github.com/eshkoreee/CVE-2021-4034](https://github.com/eshkoreee/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/eshkoreee/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/eshkoreee/CVE-2021-4034.svg)
+
+- [https://github.com/vukma25/CVE-2021-4034](https://github.com/vukma25/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/vukma25/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/vukma25/CVE-2021-4034.svg)
 
 ## CVE-2021-3975
  A use-after-free flaw was found in libvirt. The qemuMonitorUnregister() function in qemuProcessHandleMonitorEOF is called using multiple threads without being adequately protected by a monitor lock. This flaw could be triggered by the virConnectGetAllDomainStats API when the guest is shutting down. An unprivileged client with a read-only connection could use this flaw to perform a denial of service attack by causing the libvirt daemon to crash.
