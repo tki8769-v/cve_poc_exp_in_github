@@ -112,6 +112,10 @@ use-after-free:
 
 - [https://github.com/googlesky/CVE-2026-103033](https://github.com/googlesky/CVE-2026-103033) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-103033.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-103033.svg)
 
+## CVE-2026-114516
+
+- [https://github.com/ynsmroztas/EtherPadSniper](https://github.com/ynsmroztas/EtherPadSniper) : ![starts](https://img.shields.io/github/stars/ynsmroztas/EtherPadSniper.svg) ![forks](https://img.shields.io/github/forks/ynsmroztas/EtherPadSniper.svg)
+
 ## CVE-2026-114938
 
 - [https://github.com/EterNullSec/java4shell-defensive-lab](https://github.com/EterNullSec/java4shell-defensive-lab) : ![starts](https://img.shields.io/github/stars/EterNullSec/java4shell-defensive-lab.svg) ![forks](https://img.shields.io/github/forks/EterNullSec/java4shell-defensive-lab.svg)
@@ -301,6 +305,11 @@ problems:
 ## CVE-2026-45447
 
 - [https://github.com/ashrafzaryouh/CVE-2026-45447](https://github.com/ashrafzaryouh/CVE-2026-45447) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-45447.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-45447.svg)
+
+## CVE-2026-58882
+> In decodeWapPdu of WapPushOverSms.java, there is a possible out of bounds read due to an integer overflow. This could lead to a remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.
+
+- [https://github.com/Lucifer7794/sms-of-death-recovery](https://github.com/Lucifer7794/sms-of-death-recovery) : ![starts](https://img.shields.io/github/stars/Lucifer7794/sms-of-death-recovery.svg) ![forks](https://img.shields.io/github/forks/Lucifer7794/sms-of-death-recovery.svg)
 
 ## CVE-2026-59273
 

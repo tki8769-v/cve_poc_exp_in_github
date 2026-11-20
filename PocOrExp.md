@@ -124,6 +124,7 @@
 - [https://github.com/abraxas/drupal-install-takeover](https://github.com/abraxas/drupal-install-takeover) : ![starts](https://img.shields.io/github/stars/abraxas/drupal-install-takeover.svg) ![forks](https://img.shields.io/github/forks/abraxas/drupal-install-takeover.svg)
 
 ## CVE-2026-131873
+> Gargoyle 2023.1 through 2026.1.1 contains a stack-based buffer overflow vulnerability in the bundled Plus interpreter&#x27;s ReadAction() function in terps/plus/loaddatabase.c, which never bounds-checks the index into the 1024-entry conditions array. Attackers can supply a crafted or truncated .plus game file with unterminated action conditions to write file-controlled values past the array and crash the player.
 
 - [https://github.com/googlesky/CVE-2026-131873](https://github.com/googlesky/CVE-2026-131873) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-131873.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-131873.svg)
 
@@ -1737,6 +1738,10 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 
 - [https://github.com/googlesky/CVE-2026-114550](https://github.com/googlesky/CVE-2026-114550) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-114550.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-114550.svg)
 
+## CVE-2026-114516
+
+- [https://github.com/ynsmroztas/EtherPadSniper](https://github.com/ynsmroztas/EtherPadSniper) : ![starts](https://img.shields.io/github/stars/ynsmroztas/EtherPadSniper.svg) ![forks](https://img.shields.io/github/forks/ynsmroztas/EtherPadSniper.svg)
+
 ## CVE-2026-114509
 > Laravel is a web application framework. Prior to 12.68.0 and 13.29.0, TokenGuard configured as a standard token-based API guard does not reject a crafted non-string credential. Under affected MySQL or MariaDB configurations, the authentication lookup can match an unintended existing user, allowing an unauthenticated attacker to bypass authentication and take over an account on routes protected by TokenGuard. This issue is fixed in versions 12.68.0 and 13.29.0.
 
@@ -1761,6 +1766,9 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 - [https://github.com/nextmend/laravel-type-juggling-auth-bypass](https://github.com/nextmend/laravel-type-juggling-auth-bypass) : ![starts](https://img.shields.io/github/stars/nextmend/laravel-type-juggling-auth-bypass.svg) ![forks](https://img.shields.io/github/forks/nextmend/laravel-type-juggling-auth-bypass.svg)
 
 ## CVE-2026-114202
+> Use of Hard-coded Cryptographic Key in ASUS Control Center Express allows a remote user to gain administrative privileges via a forged authentication token.
+Refer to the &#x27;
+Security Update for ASUS Control Center Express Agent  &#x27; section on the ASUS Security Advisory for more information.
 
 - [https://github.com/LLCForge/CVE-2026-114202](https://github.com/LLCForge/CVE-2026-114202) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-114202.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-114202.svg)
 
@@ -11613,6 +11621,8 @@ Users are recommended to upgrade to version 11.0.24, 10.1.57 or 9.0.120, which f
 - [https://github.com/uzairdeveloper223/Defib](https://github.com/uzairdeveloper223/Defib) : ![starts](https://img.shields.io/github/stars/uzairdeveloper223/Defib.svg) ![forks](https://img.shields.io/github/forks/uzairdeveloper223/Defib.svg)
 
 - [https://github.com/januththedev/SMS-Of-Death-CVE-2026-58882-Fix](https://github.com/januththedev/SMS-Of-Death-CVE-2026-58882-Fix) : ![starts](https://img.shields.io/github/stars/januththedev/SMS-Of-Death-CVE-2026-58882-Fix.svg) ![forks](https://img.shields.io/github/forks/januththedev/SMS-Of-Death-CVE-2026-58882-Fix.svg)
+
+- [https://github.com/Lucifer7794/sms-of-death-recovery](https://github.com/Lucifer7794/sms-of-death-recovery) : ![starts](https://img.shields.io/github/stars/Lucifer7794/sms-of-death-recovery.svg) ![forks](https://img.shields.io/github/forks/Lucifer7794/sms-of-death-recovery.svg)
 
 ## CVE-2026-58868
 > In onOutputReceived of FrameDecoder.cpp, there is a possible out-of-bounds write due to a heap buffer overflow. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.
