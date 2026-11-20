@@ -12280,3 +12280,9 @@
 {"cve_id": "CVE-2026-123890", "ts": "2026-11-19T23:41:08Z", "type": "new_poc", "url": "https://github.com/Cyber-BansalAI/vmware-vcenter-2026"}
 {"cve_id": "CVE-2026-129496", "ts": "2026-11-19T23:41:08Z", "type": "new_poc", "url": "https://github.com/abraxas/php-tzcache-rce"}
 {"cve_id": "CVE-2026-20245", "ts": "2026-11-19T23:51:34Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-20245"}
+{"cve_id": "CVE-2026-130585", "ts": "2026-11-19T23:54:16Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-130586", "ts": "2026-11-19T23:54:17Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-130585", "ts": "2026-11-19T23:57:41Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-130586", "ts": "2026-11-19T23:57:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-45447", "ts": "2026-11-20T00:00:23Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-45447"}
+{"cve_id": "CVE-2022-24713", "ts": "2026-11-20T00:06:36Z", "type": "new_poc", "url": "https://github.com/federiconbaez/cortex9-rust-regex-empty-repetition-size-limit-model"}

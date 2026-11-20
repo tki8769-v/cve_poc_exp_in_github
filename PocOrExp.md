@@ -99,6 +99,7 @@
 - [https://github.com/googlesky/CVE-2026-130354](https://github.com/googlesky/CVE-2026-130354) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130354.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130354.svg)
 
 ## CVE-2026-130347
+> phpMyFAQ before 4.1.12 and 4.2.0-alpha before 4.2.0-RC.2 contains an authentication bypass in password reset, letting external-identity accounts receive local passwords. Attackers with mailbox access can request reset tokens for OIDC, Keycloak, Entra ID, LDAP, SSO, or WebAuthn accounts and log in locally, skipping IdP MFA and deprovisioning.
 
 - [https://github.com/googlesky/CVE-2026-130347](https://github.com/googlesky/CVE-2026-130347) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130347.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130347.svg)
 
@@ -4008,6 +4009,7 @@ device operation and availability. No authentication, session e
 - [https://github.com/pervinzahidli/CVE-2026-104110](https://github.com/pervinzahidli/CVE-2026-104110) : ![starts](https://img.shields.io/github/stars/pervinzahidli/CVE-2026-104110.svg) ![forks](https://img.shields.io/github/forks/pervinzahidli/CVE-2026-104110.svg)
 
 ## CVE-2026-104100
+> Teable is an AI spreadsheet for business. Prior to release.2026-07-21T11-27-40Z.2320, a registered user can supply path traversal sequences in the hash field accepted by POST /api/attachments/signature when the default local storage provider is in use. In apps/nestjs-backend/src/features/attachments/plugins/local.ts, LocalStorage.presigned uses the client-controlled hash as the storage filename, and LocalStorage.save resolves that path and copies the uploaded request body without calling assertP
 
 - [https://github.com/Saku0512/CVE-2026-104100-poc](https://github.com/Saku0512/CVE-2026-104100-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-104100-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-104100-poc.svg)
 
@@ -14898,6 +14900,8 @@ issue, as the affected code is outside the OpenSSL FIPS module boundary.
 - [https://github.com/0xBlackash/CVE-2026-45447](https://github.com/0xBlackash/CVE-2026-45447) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-45447.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-45447.svg)
 
 - [https://github.com/HORKimhab/CVE-2026-45447](https://github.com/HORKimhab/CVE-2026-45447) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-45447.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-45447.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-45447](https://github.com/ashrafzaryouh/CVE-2026-45447) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-45447.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-45447.svg)
 
 ## CVE-2026-45401
  Open WebUI is a self-hosted artificial intelligence platform designed to operate entirely offline. Prior to 0.9.5, the validate_url() function in backend/open_webui/retrieval/web/utils.py only validates the initial URL submitted by the caller. The HTTP clients used downstream (sync requests, async aiohttp, langchain's WebBaseLoader) follow HTTP 3xx redirects by default and do not re-validate the redirect target against the private-IP / metadata-IP block list. Any authenticated user can therefore submit a public URL that 302-redirects to an internal address (e.g. 127.0.0.1, 169.254.169.254, RFC1918) and read the internal response body via the /api/v1/retrieval/process/web endpoint, the /api/v1/images/... endpoints, the /api/chat/completions endpoint with an image_url content part, and any other route that calls these helpers. This vulnerability is fixed in 0.9.5.
@@ -74603,6 +74607,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
  regex is an implementation of regular expressions for the Rust language. The regex crate features built-in mitigations to prevent denial of service attacks caused by untrusted regexes, or untrusted input matched by trusted regexes. Those (tunable) mitigations already provide sane defaults to prevent attacks. This guarantee is documented and it's considered part of the crate's API. Unfortunately a bug was discovered in the mitigations designed to prevent untrusted regexes to take an arbitrary amount of time during parsing, and it's possible to craft regexes that bypass such mitigations. This makes it possible to perform denial of service attacks by sending specially crafted regexes to services accepting user-controlled, untrusted regexes. All versions of the regex crate before or equal to 1.5.4 are affected by this issue. The fix is include starting from regex 1.5.5. All users accepting user-controlled regexes are recommended to upgrade immediately to the latest version of the regex crate. Unfortunately there is no fixed set of problematic regexes, as there are practically infinite regexes that could be crafted to exploit this vulnerability. Because of this, it us not recommend to deny known problematic regexes.
 
 - [https://github.com/jpeisach/CVE-2022-24713-POC](https://github.com/jpeisach/CVE-2022-24713-POC) : ![starts](https://img.shields.io/github/stars/jpeisach/CVE-2022-24713-POC.svg) ![forks](https://img.shields.io/github/forks/jpeisach/CVE-2022-24713-POC.svg)
+
+- [https://github.com/federiconbaez/cortex9-rust-regex-empty-repetition-size-limit-model](https://github.com/federiconbaez/cortex9-rust-regex-empty-repetition-size-limit-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-rust-regex-empty-repetition-size-limit-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-rust-regex-empty-repetition-size-limit-model.svg)
 
 ## CVE-2022-24707
  Anuko Time Tracker is an open source, web-based time tracking application written in PHP. UNION SQL injection and time-based blind injection vulnerabilities existed in Time Tracker Puncher plugin in versions of anuko timetracker prior to 1.20.0.5642. This was happening because the Puncher plugin was reusing code from other places and was relying on an unsanitized date parameter in POST requests. Because the parameter was not checked, it was possible to craft POST requests with malicious SQL for Time Tracker database. This issue has been resolved in in version 1.20.0.5642. Users unable to upgrade are advised to add their own checks to input.

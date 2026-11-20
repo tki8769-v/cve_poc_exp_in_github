@@ -98,6 +98,7 @@
 - [https://github.com/googlesky/CVE-2026-130354](https://github.com/googlesky/CVE-2026-130354) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130354.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130354.svg)
 
 ## CVE-2026-130347
+> phpMyFAQ before 4.1.12 and 4.2.0-alpha before 4.2.0-RC.2 contains an authentication bypass in password reset, letting external-identity accounts receive local passwords. Attackers with mailbox access can request reset tokens for OIDC, Keycloak, Entra ID, LDAP, SSO, or WebAuthn accounts and log in locally, skipping IdP MFA and deprovisioning.
 
 - [https://github.com/googlesky/CVE-2026-130347](https://github.com/googlesky/CVE-2026-130347) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130347.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130347.svg)
 
@@ -4007,6 +4008,7 @@ device operation and availability. No authentication, session e
 - [https://github.com/pervinzahidli/CVE-2026-104110](https://github.com/pervinzahidli/CVE-2026-104110) : ![starts](https://img.shields.io/github/stars/pervinzahidli/CVE-2026-104110.svg) ![forks](https://img.shields.io/github/forks/pervinzahidli/CVE-2026-104110.svg)
 
 ## CVE-2026-104100
+> Teable is an AI spreadsheet for business. Prior to release.2026-07-21T11-27-40Z.2320, a registered user can supply path traversal sequences in the hash field accepted by POST /api/attachments/signature when the default local storage provider is in use. In apps/nestjs-backend/src/features/attachments/plugins/local.ts, LocalStorage.presigned uses the client-controlled hash as the storage filename, and LocalStorage.save resolves that path and copies the uploaded request body without calling assertP
 
 - [https://github.com/Saku0512/CVE-2026-104100-poc](https://github.com/Saku0512/CVE-2026-104100-poc) : ![starts](https://img.shields.io/github/stars/Saku0512/CVE-2026-104100-poc.svg) ![forks](https://img.shields.io/github/forks/Saku0512/CVE-2026-104100-poc.svg)
 
@@ -14897,6 +14899,8 @@ issue, as the affected code is outside the OpenSSL FIPS module boundary.
 - [https://github.com/0xBlackash/CVE-2026-45447](https://github.com/0xBlackash/CVE-2026-45447) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-45447.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-45447.svg)
 
 - [https://github.com/HORKimhab/CVE-2026-45447](https://github.com/HORKimhab/CVE-2026-45447) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-45447.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-45447.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-45447](https://github.com/ashrafzaryouh/CVE-2026-45447) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-45447.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-45447.svg)
 
 ## CVE-2026-45401
  Open WebUI is a self-hosted artificial intelligence platform designed to operate entirely offline. Prior to 0.9.5, the validate_url() function in backend/open_webui/retrieval/web/utils.py only validates the initial URL submitted by the caller. The HTTP clients used downstream (sync requests, async aiohttp, langchain's WebBaseLoader) follow HTTP 3xx redirects by default and do not re-validate the redirect target against the private-IP / metadata-IP block list. Any authenticated user can therefore submit a public URL that 302-redirects to an internal address (e.g. 127.0.0.1, 169.254.169.254, RFC1918) and read the internal response body via the /api/v1/retrieval/process/web endpoint, the /api/v1/images/... endpoints, the /api/chat/completions endpoint with an image_url content part, and any other route that calls these helpers. This vulnerability is fixed in 0.9.5.

@@ -4969,6 +4969,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 
 - [https://github.com/jpeisach/CVE-2022-24713-POC](https://github.com/jpeisach/CVE-2022-24713-POC) : ![starts](https://img.shields.io/github/stars/jpeisach/CVE-2022-24713-POC.svg) ![forks](https://img.shields.io/github/forks/jpeisach/CVE-2022-24713-POC.svg)
 
+- [https://github.com/federiconbaez/cortex9-rust-regex-empty-repetition-size-limit-model](https://github.com/federiconbaez/cortex9-rust-regex-empty-repetition-size-limit-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-rust-regex-empty-repetition-size-limit-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-rust-regex-empty-repetition-size-limit-model.svg)
+
 ## CVE-2022-24707
  Anuko Time Tracker is an open source, web-based time tracking application written in PHP. UNION SQL injection and time-based blind injection vulnerabilities existed in Time Tracker Puncher plugin in versions of anuko timetracker prior to 1.20.0.5642. This was happening because the Puncher plugin was reusing code from other places and was relying on an unsanitized date parameter in POST requests. Because the parameter was not checked, it was possible to craft POST requests with malicious SQL for Time Tracker database. This issue has been resolved in in version 1.20.0.5642. Users unable to upgrade are advised to add their own checks to input.
 
