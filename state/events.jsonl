@@ -12403,3 +12403,5 @@
 {"cve_id": "CVE-2026-66066", "ts": "2026-11-20T18:12:46Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-66066"}
 {"cve_id": "CVE-2026-114516", "ts": "2026-11-20T18:19:44Z", "type": "new_poc", "url": "https://github.com/ynsmroztas/EtherPadSniper"}
 {"cve_id": "CVE-2026-58882", "ts": "2026-11-20T18:19:48Z", "type": "new_poc", "url": "https://github.com/Lucifer7794/sms-of-death-recovery"}
+{"cve_id": "CVE-2026-48907", "ts": "2026-11-20T18:47:33Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-48907"}
+{"cve_id": "CVE-2026-39987", "ts": "2026-11-20T18:47:41Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-39987"}
