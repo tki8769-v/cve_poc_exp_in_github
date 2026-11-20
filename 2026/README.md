@@ -518,6 +518,9 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 - [https://github.com/zeetee1235/CVE-2026-124040](https://github.com/zeetee1235/CVE-2026-124040) : ![starts](https://img.shields.io/github/stars/zeetee1235/CVE-2026-124040.svg) ![forks](https://img.shields.io/github/forks/zeetee1235/CVE-2026-124040.svg)
 
 ## CVE-2026-124024
+> Converting crafted input from UCS-4 to IBM1390 or IBM1399 character encoding, in the GNU C Library version 2.3.3 and later may result in the converter reading past the end of the input buffer, causing the calling application to crash.
+
+When converting from UCS-4, these encoders may encounter a combining base such as U+00E6 and jump ahead by 4 bytes to check the next UCS-4 code point.  The check for end of buffer however does not account for this, which may result in a buffer overread if the foll
 
 - [https://github.com/D7EAD/CVE-2026-124024](https://github.com/D7EAD/CVE-2026-124024) : ![starts](https://img.shields.io/github/stars/D7EAD/CVE-2026-124024.svg) ![forks](https://img.shields.io/github/forks/D7EAD/CVE-2026-124024.svg)
 
@@ -22988,6 +22991,8 @@ been adjusted.
  SmarterTools SmarterMail versions prior to build 9511 contain an authentication bypass vulnerability in the password reset API. The force-reset-password endpoint permits anonymous requests and fails to verify the existing password or a reset token when resetting system administrator accounts. An unauthenticated attacker can supply a target administrator username and a new password to reset the account, resulting in full administrative compromise of the SmarterMail instance. NOTE: SmarterMail system administrator privileges grant the ability to execute operating system commands via built-in management functionality, effectively providing administrative (SYSTEM or root) access on the underlying host.
 
 - [https://github.com/MaxMnMl/smartermail-CVE-2026-23760-poc](https://github.com/MaxMnMl/smartermail-CVE-2026-23760-poc) : ![starts](https://img.shields.io/github/stars/MaxMnMl/smartermail-CVE-2026-23760-poc.svg) ![forks](https://img.shields.io/github/forks/MaxMnMl/smartermail-CVE-2026-23760-poc.svg)
+
+- [https://github.com/msmacu/smartpwn](https://github.com/msmacu/smartpwn) : ![starts](https://img.shields.io/github/stars/msmacu/smartpwn.svg) ![forks](https://img.shields.io/github/forks/msmacu/smartpwn.svg)
 
 ## CVE-2026-23751
  Kofax Capture, now referred to as Tungsten Capture, version 6.0.0.0 (other versions may be affected) exposes a deprecated .NET Remoting HTTP channel on port 2424 via the Ascent Capture Service that is accessible without authentication and uses a default, publicly known endpoint identifier. An unauthenticated remote attacker can exploit .NET Remoting object unmarshalling techniques to instantiate a remote System.Net.WebClient object and read arbitrary files from the server filesystem, write attacker-controlled files to the server, or coerce NTLMv2 authentication to an attacker-controlled host, enabling sensitive credential disclosure, denial of service, remote code execution, or lateral movement depending on service account privileges and network environment.

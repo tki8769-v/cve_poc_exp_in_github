@@ -169,6 +169,10 @@ use-after-free:
 
 - [https://github.com/zhanghangjie/CVE-2026-21385-CYL1](https://github.com/zhanghangjie/CVE-2026-21385-CYL1) : ![starts](https://img.shields.io/github/stars/zhanghangjie/CVE-2026-21385-CYL1.svg) ![forks](https://img.shields.io/github/forks/zhanghangjie/CVE-2026-21385-CYL1.svg)
 
+## CVE-2026-23760
+
+- [https://github.com/msmacu/smartpwn](https://github.com/msmacu/smartpwn) : ![starts](https://img.shields.io/github/stars/msmacu/smartpwn.svg) ![forks](https://img.shields.io/github/forks/msmacu/smartpwn.svg)
+
 ## CVE-2026-38194
 
 - [https://github.com/4D4J/cormem-read-poc](https://github.com/4D4J/cormem-read-poc) : ![starts](https://img.shields.io/github/stars/4D4J/cormem-read-poc.svg) ![forks](https://img.shields.io/github/forks/4D4J/cormem-read-poc.svg)
