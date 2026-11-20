@@ -4049,3 +4049,7 @@
 {"cve_id": "CVE-2026-10859", "reason": "prefix_conflict_evidenced", "ts": "2026-11-19T23:42:27Z", "url": "https://github.com/asvorg/CVE-2026-108592-poc", "url_ids": ["CVE-2026-108592"]}
 {"cve_id": "CVE-2022-4063", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T00:02:44Z", "url": "https://github.com/mbadanoiu/CVE-2022-40635", "url_ids": ["CVE-2022-40635"]}
 {"cve_id": "CVE-2022-4063", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T00:02:44Z", "url": "https://github.com/mbadanoiu/CVE-2022-40634", "url_ids": ["CVE-2022-40634"]}
+{"cve_id": "CVE-2019-1422", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T00:23:49Z", "url": "https://github.com/seqred-s-a/cve-2019-14220", "url_ids": ["CVE-2019-14220"]}
+{"cve_id": "CVE-2019-1422", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T00:23:49Z", "url": "https://github.com/mbadanoiu/CVE-2019-14224", "url_ids": ["CVE-2019-14224"]}
+{"cve_id": "CVE-2019-1422", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T00:23:49Z", "url": "https://github.com/mbadanoiu/CVE-2019-14222", "url_ids": ["CVE-2019-14222"]}
+{"cve_id": "CVE-2019-1422", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T00:23:49Z", "url": "https://github.com/mbadanoiu/CVE-2019-14223", "url_ids": ["CVE-2019-14223"]}

@@ -12286,3 +12286,8 @@
 {"cve_id": "CVE-2026-130586", "ts": "2026-11-19T23:57:42Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-45447", "ts": "2026-11-20T00:00:23Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-45447"}
 {"cve_id": "CVE-2022-24713", "ts": "2026-11-20T00:06:36Z", "type": "new_poc", "url": "https://github.com/federiconbaez/cortex9-rust-regex-empty-repetition-size-limit-model"}
+{"cve_id": "CVE-2026-130585", "ts": "2026-11-20T00:12:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-130586", "ts": "2026-11-20T00:12:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-130585", "ts": "2026-11-20T00:16:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-130586", "ts": "2026-11-20T00:16:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2020-11651", "ts": "2026-11-20T00:25:40Z", "type": "new_poc", "url": "https://github.com/datefer1989/datefer-offsec"}
