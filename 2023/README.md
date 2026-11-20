@@ -6255,6 +6255,10 @@ Upgrade deployments to release v2.43.0 or higher to receive a patch. This releas
 
 - [https://github.com/mrmtwoj/TuDoor-](https://github.com/mrmtwoj/TuDoor-) : ![starts](https://img.shields.io/github/stars/mrmtwoj/TuDoor-.svg) ![forks](https://img.shields.io/github/forks/mrmtwoj/TuDoor-.svg)
 
+## CVE-2023-28450
+
+- [https://github.com/vitalelele/CVE-2023-28450-PoC](https://github.com/vitalelele/CVE-2023-28450-PoC) : ![starts](https://img.shields.io/github/stars/vitalelele/CVE-2023-28450-PoC.svg) ![forks](https://img.shields.io/github/forks/vitalelele/CVE-2023-28450-PoC.svg)
+
 ## CVE-2023-28447
  Smarty is a template engine for PHP. In affected versions smarty did not properly escape javascript code. An attacker could exploit this vulnerability to execute arbitrary JavaScript code in the context of the user's browser session. This may lead to unauthorized access to sensitive user data, manipulation of the web application's behavior, or unauthorized actions performed on behalf of the user. Users are advised to upgrade to either version 3.1.48 or to 4.3.1 to resolve this issue. There are no known workarounds for this vulnerability.
 

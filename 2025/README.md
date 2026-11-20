@@ -7496,6 +7496,10 @@ maximum length.
 
 - [https://github.com/14mb1v45h/CVE-2025-38676](https://github.com/14mb1v45h/CVE-2025-38676) : ![starts](https://img.shields.io/github/stars/14mb1v45h/CVE-2025-38676.svg) ![forks](https://img.shields.io/github/forks/14mb1v45h/CVE-2025-38676.svg)
 
+## CVE-2025-38618
+
+- [https://github.com/nanabingies/cve-2025-38618](https://github.com/nanabingies/cve-2025-38618) : ![starts](https://img.shields.io/github/stars/nanabingies/cve-2025-38618.svg) ![forks](https://img.shields.io/github/forks/nanabingies/cve-2025-38618.svg)
+
 ## CVE-2025-38561
  In the Linux kernel, the following vulnerability has been resolved:
 

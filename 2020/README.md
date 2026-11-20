@@ -1,3 +1,8 @@
+## CVE-2020-37281
+> Gravitee API Management through 4.12.22 contains an authentication bypass vulnerability that allows unauthenticated remote attackers to impersonate any user by forging JWTs signed with the shipped default jwt.secret. Attackers knowing an existing user ID can sign an HS256 token with that subject and present it as a bearer token to the Management API, impersonating administrators to gain full platform control.
+
+- [https://github.com/l4rm4nd/CVE-2020-37281](https://github.com/l4rm4nd/CVE-2020-37281) : ![starts](https://img.shields.io/github/stars/l4rm4nd/CVE-2020-37281.svg) ![forks](https://img.shields.io/github/forks/l4rm4nd/CVE-2020-37281.svg)
+
 ## CVE-2020-37268
 > Print Assumptions does not report that a definition was produced while universe checking was disabled when that definition reaches the caller through Parameter Inline in a module type. Applying a functor inlines the body of the parameter, and the inlining drops the record that the term was built under Unset Universe Checking, so the resulting constant carries no trace of the unsafe operation. A module implementation can therefore prove False using a universe inconsistency, expose it through an i
 
@@ -6437,6 +6442,8 @@ pThe security update addresses the vulnerability by resolving the conditions whe
 - [https://github.com/koharin/CVE-2020-0041](https://github.com/koharin/CVE-2020-0041) : ![starts](https://img.shields.io/github/stars/koharin/CVE-2020-0041.svg) ![forks](https://img.shields.io/github/forks/koharin/CVE-2020-0041.svg)
 
 - [https://github.com/hiratazx/CVE-2020-0041](https://github.com/hiratazx/CVE-2020-0041) : ![starts](https://img.shields.io/github/stars/hiratazx/CVE-2020-0041.svg) ![forks](https://img.shields.io/github/forks/hiratazx/CVE-2020-0041.svg)
+
+- [https://github.com/ankitpipalia/rmx1901-research](https://github.com/ankitpipalia/rmx1901-research) : ![starts](https://img.shields.io/github/stars/ankitpipalia/rmx1901-research.svg) ![forks](https://img.shields.io/github/forks/ankitpipalia/rmx1901-research.svg)
 
 ## CVE-2020-0022
  In reassemble_and_dispatch of packet_fragmenter.cc, there is possible out of bounds write due to an incorrect bounds calculation. This could lead to remote code execution over Bluetooth with no additional execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-8.0 Android-8.1 Android-9 Android-10Android ID: A-143894715

@@ -1908,6 +1908,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/sber-portal/sberportal-root](https://github.com/sber-portal/sberportal-root) : ![starts](https://img.shields.io/github/stars/sber-portal/sberportal-root.svg) ![forks](https://img.shields.io/github/forks/sber-portal/sberportal-root.svg)
 
+- [https://github.com/lRENyaaa/AGM3-W09HN-TMP-ROOT-CVE-2022-38181](https://github.com/lRENyaaa/AGM3-W09HN-TMP-ROOT-CVE-2022-38181) : ![starts](https://img.shields.io/github/stars/lRENyaaa/AGM3-W09HN-TMP-ROOT-CVE-2022-38181.svg) ![forks](https://img.shields.io/github/forks/lRENyaaa/AGM3-W09HN-TMP-ROOT-CVE-2022-38181.svg)
+
 ## CVE-2022-38029
  Windows ALPC Elevation of Privilege Vulnerability
 

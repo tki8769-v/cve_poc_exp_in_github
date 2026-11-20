@@ -774,6 +774,10 @@
 
 - [https://github.com/arntsonl/CVE-2015-2153](https://github.com/arntsonl/CVE-2015-2153) : ![starts](https://img.shields.io/github/stars/arntsonl/CVE-2015-2153.svg) ![forks](https://img.shields.io/github/forks/arntsonl/CVE-2015-2153.svg)
 
+## CVE-2015-2050
+
+- [https://github.com/nightscry/CVE-2015-2050-DAP-1320](https://github.com/nightscry/CVE-2015-2050-DAP-1320) : ![starts](https://img.shields.io/github/stars/nightscry/CVE-2015-2050-DAP-1320.svg) ![forks](https://img.shields.io/github/forks/nightscry/CVE-2015-2050-DAP-1320.svg)
+
 ## CVE-2015-2025
 
 - [https://github.com/Ethanpr05/cve-2015-2025-analisis](https://github.com/Ethanpr05/cve-2015-2025-analisis) : ![starts](https://img.shields.io/github/stars/Ethanpr05/cve-2015-2025-analisis.svg) ![forks](https://img.shields.io/github/forks/Ethanpr05/cve-2015-2025-analisis.svg)

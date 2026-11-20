@@ -4056,3 +4056,20 @@
 {"cve_id": "CVE-2026-11105", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T08:46:25Z", "url": "https://github.com/ExDev994/CVE-2026-111058-CVE-2026-111057-mercury-rce", "url_ids": ["CVE-2026-111057", "CVE-2026-111058"]}
 {"cve_id": "CVE-2026-2828", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T09:13:14Z", "url": "https://github.com/Rushi9/zimaos-cve-2026-28286-arbitrary-file-write", "url_ids": ["CVE-2026-28286"]}
 {"cve_id": "CVE-2026-2828", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T09:13:14Z", "url": "https://github.com/ashrafzaryouh/CVE-2026-28289", "url_ids": ["CVE-2026-28289"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:03:44Z", "url": "https://github.com/horizon3ai/CVE-2021-38647", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:03:44Z", "url": "https://github.com/AlteredSecurity/CVE-2021-38647", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:03:44Z", "url": "https://github.com/midoxnet/CVE-2021-38647", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:03:44Z", "url": "https://github.com/corelight/CVE-2021-38647", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:03:44Z", "url": "https://github.com/SimenBai/CVE-2021-38647-POC-and-Demo-environment", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:03:44Z", "url": "https://github.com/Immersive-Labs-Sec/cve-2021-38647", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:03:44Z", "url": "https://github.com/Vulnmachines/OMIGOD_cve-2021-38647", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2021-3864", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:03:44Z", "url": "https://github.com/abousteif/cve-2021-38647", "url_ids": ["CVE-2021-38647"]}
+{"cve_id": "CVE-2024-4232", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:06:41Z", "url": "https://github.com/BridgerAlderson/Zabbix-CVE-2024-42327-SQL-Injection-RCE", "url_ids": ["CVE-2024-42327"]}
+{"cve_id": "CVE-2024-4232", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:06:41Z", "url": "https://github.com/aramosf/cve-2024-42327", "url_ids": ["CVE-2024-42327"]}
+{"cve_id": "CVE-2024-4232", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:06:41Z", "url": "https://github.com/compr00t/CVE-2024-42327", "url_ids": ["CVE-2024-42327"]}
+{"cve_id": "CVE-2024-4232", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:06:41Z", "url": "https://github.com/godylockz/CVE-2024-42327", "url_ids": ["CVE-2024-42327"]}
+{"cve_id": "CVE-2024-4232", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:06:41Z", "url": "https://github.com/watchdog1337/CVE-2024-42327_Zabbix_SQLI", "url_ids": ["CVE-2024-42327"]}
+{"cve_id": "CVE-2024-4232", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:06:41Z", "url": "https://github.com/igorbf495/CVE-2024-42327", "url_ids": ["CVE-2024-42327"]}
+{"cve_id": "CVE-2024-4232", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:06:41Z", "url": "https://github.com/TheCyberGeek/CVE-2024-42327", "url_ids": ["CVE-2024-42327"]}
+{"cve_id": "CVE-2026-2796", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:09:42Z", "url": "https://github.com/shinthink/CVE-2026-27966", "url_ids": ["CVE-2026-27966"]}
+{"cve_id": "CVE-2026-2413", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:12:39Z", "url": "https://github.com/BlankBire/CVE-2026-24136-Lab", "url_ids": ["CVE-2026-24136"]}

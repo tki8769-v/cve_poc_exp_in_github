@@ -1718,6 +1718,8 @@
 
 - [https://github.com/minBuild/unhacked](https://github.com/minBuild/unhacked) : ![starts](https://img.shields.io/github/stars/minBuild/unhacked.svg) ![forks](https://img.shields.io/github/forks/minBuild/unhacked.svg)
 
+- [https://github.com/for-toolathlon/log4shell-audit](https://github.com/for-toolathlon/log4shell-audit) : ![starts](https://img.shields.io/github/stars/for-toolathlon/log4shell-audit.svg) ![forks](https://img.shields.io/github/forks/for-toolathlon/log4shell-audit.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
