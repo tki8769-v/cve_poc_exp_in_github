@@ -16,6 +16,10 @@
 - [https://github.com/for-toolathlon/log4shell-research-brief](https://github.com/for-toolathlon/log4shell-research-brief) : ![starts](https://img.shields.io/github/stars/for-toolathlon/log4shell-research-brief.svg) ![forks](https://img.shields.io/github/forks/for-toolathlon/log4shell-research-brief.svg)
 - [https://github.com/minBuild/unhacked](https://github.com/minBuild/unhacked) : ![starts](https://img.shields.io/github/stars/minBuild/unhacked.svg) ![forks](https://img.shields.io/github/forks/minBuild/unhacked.svg)
 
+## CVE-2022-22706
+
+- [https://github.com/emdzej/sony-bravia-mtk-root](https://github.com/emdzej/sony-bravia-mtk-root) : ![starts](https://img.shields.io/github/stars/emdzej/sony-bravia-mtk-root.svg) ![forks](https://img.shields.io/github/forks/emdzej/sony-bravia-mtk-root.svg)
+
 ## CVE-2022-22965
 
 - [https://github.com/ashrafzaryouh/CVE-2022-22965](https://github.com/ashrafzaryouh/CVE-2022-22965) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2022-22965.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2022-22965.svg)
@@ -64,6 +68,15 @@ use-after-free:
 ## CVE-2025-6554
 
 - [https://github.com/zhanghangjie/CVE-2025-6554-CYL1](https://github.com/zhanghangjie/CVE-2025-6554-CYL1) : ![starts](https://img.shields.io/github/stars/zhanghangjie/CVE-2025-6554-CYL1.svg) ![forks](https://img.shields.io/github/forks/zhanghangjie/CVE-2025-6554-CYL1.svg)
+
+## CVE-2026-0101
+> Improper validation of specified quantities in input within AMD Power Management Firmware (PMFW) could allow a local attacker to pass unsanitized input, potentially resulting in a system crash or denial of service.
+
+- [https://github.com/George0Papasotiriou/CVE-2026-0101-BLE-Address-Spoofing-via-Weak-Resolvable-Private-Address](https://github.com/George0Papasotiriou/CVE-2026-0101-BLE-Address-Spoofing-via-Weak-Resolvable-Private-Address) : ![starts](https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-0101-BLE-Address-Spoofing-via-Weak-Resolvable-Private-Address.svg) ![forks](https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-0101-BLE-Address-Spoofing-via-Weak-Resolvable-Private-Address.svg)
+
+## CVE-2026-0770
+
+- [https://github.com/ashrafzaryouh/CVE-2026-0770](https://github.com/ashrafzaryouh/CVE-2026-0770) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-0770.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-0770.svg)
 
 ## CVE-2026-103025
 
@@ -140,6 +153,10 @@ use-after-free:
 
 - [https://github.com/Mahgal/ruby2shell-check](https://github.com/Mahgal/ruby2shell-check) : ![starts](https://img.shields.io/github/stars/Mahgal/ruby2shell-check.svg) ![forks](https://img.shields.io/github/forks/Mahgal/ruby2shell-check.svg)
 
+## CVE-2026-133430
+
+- [https://github.com/googlesky/CVE-2026-133430](https://github.com/googlesky/CVE-2026-133430) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-133430.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-133430.svg)
+
 ## CVE-2026-133481
 
 - [https://github.com/googlesky/CVE-2026-133481](https://github.com/googlesky/CVE-2026-133481) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-133481.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-133481.svg)
@@ -151,6 +168,10 @@ use-after-free:
 ## CVE-2026-21385
 
 - [https://github.com/zhanghangjie/CVE-2026-21385-CYL1](https://github.com/zhanghangjie/CVE-2026-21385-CYL1) : ![starts](https://img.shields.io/github/stars/zhanghangjie/CVE-2026-21385-CYL1.svg) ![forks](https://img.shields.io/github/forks/zhanghangjie/CVE-2026-21385-CYL1.svg)
+
+## CVE-2026-38194
+
+- [https://github.com/4D4J/cormem-read-poc](https://github.com/4D4J/cormem-read-poc) : ![starts](https://img.shields.io/github/stars/4D4J/cormem-read-poc.svg) ![forks](https://img.shields.io/github/forks/4D4J/cormem-read-poc.svg)
 
 ## CVE-2026-43499
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -204,6 +225,10 @@ which can result in an UAF:
 					      sighand = lock(old_leader, sighand);
 
 - [https://github.com/zhanghangjie/CVE-2026-64560-CYL1](https://github.com/zhanghangjie/CVE-2026-64560-CYL1) : ![starts](https://img.shields.io/github/stars/zhanghangjie/CVE-2026-64560-CYL1.svg) ![forks](https://img.shields.io/github/forks/zhanghangjie/CVE-2026-64560-CYL1.svg)
+
+## CVE-2026-64638
+
+- [https://github.com/ashrafzaryouh/CVE-2026-64638](https://github.com/ashrafzaryouh/CVE-2026-64638) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-64638.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-64638.svg)
 
 ## CVE-2026-71319
 

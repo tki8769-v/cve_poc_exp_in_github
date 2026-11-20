@@ -6221,6 +6221,8 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 
 - [https://github.com/hrx114514x/vivo-y70s-temp-root](https://github.com/hrx114514x/vivo-y70s-temp-root) : ![starts](https://img.shields.io/github/stars/hrx114514x/vivo-y70s-temp-root.svg) ![forks](https://img.shields.io/github/forks/hrx114514x/vivo-y70s-temp-root.svg)
 
+- [https://github.com/emdzej/sony-bravia-mtk-root](https://github.com/emdzej/sony-bravia-mtk-root) : ![starts](https://img.shields.io/github/stars/emdzej/sony-bravia-mtk-root.svg) ![forks](https://img.shields.io/github/forks/emdzej/sony-bravia-mtk-root.svg)
+
 ## CVE-2022-22659
  A logic issue was addressed with improved state management. This issue is fixed in iOS 15.4 and iPadOS 15.4. An attacker in a privileged network position may be able to leak sensitive user information.
 

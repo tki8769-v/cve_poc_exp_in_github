@@ -18,6 +18,10 @@
 
 - [https://github.com/googlesky/CVE-2026-133481](https://github.com/googlesky/CVE-2026-133481) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-133481.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-133481.svg)
 
+## CVE-2026-133430
+
+- [https://github.com/googlesky/CVE-2026-133430](https://github.com/googlesky/CVE-2026-133430) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-133430.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-133430.svg)
+
 ## CVE-2026-133305
 
 - [https://github.com/VulnSVNC/CVE-2026-133305](https://github.com/VulnSVNC/CVE-2026-133305) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-133305.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-133305.svg)
@@ -4103,6 +4107,7 @@ To remediate this issue, users should upgrade to version 1.6.1 o
 - [https://github.com/abraxas/cve-2026-103956-loom-unauth](https://github.com/abraxas/cve-2026-103956-loom-unauth) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-103956-loom-unauth.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-103956-loom-unauth.svg)
 
 ## CVE-2026-103931
+> Instatic is an open source visual content management system for building static websites. Prior to 0.0.14, isSafeUrl() and safeUrl() in src/core/html-sanitize/index.ts remove tabs, newlines, carriage returns, and characters handled by String.prototype.trim(), but leave other leading C0 control characters that browsers discard before parsing a URL scheme. A low-privileged editor can place a dangerous URL behind one of those controls in a URL property or custom HTML attribute, allowing src/core/pu
 
 - [https://github.com/overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931](https://github.com/overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931) : ![starts](https://img.shields.io/github/stars/overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931.svg) ![forks](https://img.shields.io/github/forks/overgrowncarrot1/Instatic-Stored-XSS-CVE-2026-103931.svg)
 
@@ -9164,6 +9169,7 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 - [https://github.com/LLCForge/CVE-2026-69158](https://github.com/LLCForge/CVE-2026-69158) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-69158.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-69158.svg)
 
 ## CVE-2026-69157
+> Atomic Server is an open source headless CMS and real-time database. From 0.29.0 to 0.40.2, Atomic Server provisions a well-known /setup invite with write enabled, the Drive root as its target, and usagesLeft set to one. construct_invite_redirect in server/src/plugins/invite.rs discards the redeemer identity, so an unauthenticated request containing an attacker-controlled public-key can create a new Agent and grant it write access to the entire Drive. On a fresh, unclaimed deployment, this permi
 
 - [https://github.com/LLCForge/CVE-2026-69157](https://github.com/LLCForge/CVE-2026-69157) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-69157.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-69157.svg)
 
@@ -10108,6 +10114,8 @@ Discovered and responsibly disclosed by [the team at pwn.ai](https://pwn.ai/).
 - [https://github.com/OFRPurpose/poc-cve-2026-64638](https://github.com/OFRPurpose/poc-cve-2026-64638) : ![starts](https://img.shields.io/github/stars/OFRPurpose/poc-cve-2026-64638.svg) ![forks](https://img.shields.io/github/forks/OFRPurpose/poc-cve-2026-64638.svg)
 
 - [https://github.com/alisalive/xss2shell](https://github.com/alisalive/xss2shell) : ![starts](https://img.shields.io/github/stars/alisalive/xss2shell.svg) ![forks](https://img.shields.io/github/forks/alisalive/xss2shell.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-64638](https://github.com/ashrafzaryouh/CVE-2026-64638) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-64638.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-64638.svg)
 
 ## CVE-2026-64633
  A vulnerability allowing remote unauthenticated code execution on the agent host.
@@ -18329,6 +18337,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 ## CVE-2026-38194
 
 - [https://github.com/269s/Vuln-Driver-Mapper](https://github.com/269s/Vuln-Driver-Mapper) : ![starts](https://img.shields.io/github/stars/269s/Vuln-Driver-Mapper.svg) ![forks](https://img.shields.io/github/forks/269s/Vuln-Driver-Mapper.svg)
+
+- [https://github.com/4D4J/cormem-read-poc](https://github.com/4D4J/cormem-read-poc) : ![starts](https://img.shields.io/github/stars/4D4J/cormem-read-poc.svg) ![forks](https://img.shields.io/github/forks/4D4J/cormem-read-poc.svg)
 
 ## CVE-2026-38165
  A Server-Side Template Injection (SSTI) vulnerability in the Velocity template engine configuration of xdocreport v0.9.2 to v2.2.0 allows attackers to execute arbitrary code via a crafted expression.
@@ -29693,6 +29703,8 @@ The specific flaw exists within the handling of the exec_globals parameter provi
 
 - [https://github.com/razureink/cve-2026-0770-langflow_rce_reproduction](https://github.com/razureink/cve-2026-0770-langflow_rce_reproduction) : ![starts](https://img.shields.io/github/stars/razureink/cve-2026-0770-langflow_rce_reproduction.svg) ![forks](https://img.shields.io/github/forks/razureink/cve-2026-0770-langflow_rce_reproduction.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-0770](https://github.com/ashrafzaryouh/CVE-2026-0770) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-0770.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-0770.svg)
+
 ## CVE-2026-0769
  Langflow eval_custom_component_code Eval Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Langflow. Authentication is not required to exploit this vulnerability.
 
@@ -29949,6 +29961,11 @@ Panorama and Cloud NGFW are not impacted by these issues.
  In writeAocCommand of AocAudioCodec.cpp, there is a possible memory safety issue due to a missing bounds check. This could lead to remote denial of service with no additional execution privileges needed. User interaction is not needed for exploitation.
 
 - [https://github.com/gduma-phData/patch-CVE-2026-01443](https://github.com/gduma-phData/patch-CVE-2026-01443) : ![starts](https://img.shields.io/github/stars/gduma-phData/patch-CVE-2026-01443.svg) ![forks](https://img.shields.io/github/forks/gduma-phData/patch-CVE-2026-01443.svg)
+
+## CVE-2026-0101
+> Improper validation of specified quantities in input within AMD Power Management Firmware (PMFW) could allow a local attacker to pass unsanitized input, potentially resulting in a system crash or denial of service.
+
+- [https://github.com/George0Papasotiriou/CVE-2026-0101-BLE-Address-Spoofing-via-Weak-Resolvable-Private-Address](https://github.com/George0Papasotiriou/CVE-2026-0101-BLE-Address-Spoofing-via-Weak-Resolvable-Private-Address) : ![starts](https://img.shields.io/github/stars/George0Papasotiriou/CVE-2026-0101-BLE-Address-Spoofing-via-Weak-Resolvable-Private-Address.svg) ![forks](https://img.shields.io/github/forks/George0Papasotiriou/CVE-2026-0101-BLE-Address-Spoofing-via-Weak-Resolvable-Private-Address.svg)
 
 ## CVE-2026-0092
  In Package Manager, there is a possible device lock controller bypass due to a missing permission check. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
