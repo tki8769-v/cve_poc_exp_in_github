@@ -114,6 +114,18 @@
 
 - [https://github.com/SHAHID-XT/CVE-2026-132745-Vtiger-CRM-Blind-SQLi](https://github.com/SHAHID-XT/CVE-2026-132745-Vtiger-CRM-Blind-SQLi) : ![starts](https://img.shields.io/github/stars/SHAHID-XT/CVE-2026-132745-Vtiger-CRM-Blind-SQLi.svg) ![forks](https://img.shields.io/github/forks/SHAHID-XT/CVE-2026-132745-Vtiger-CRM-Blind-SQLi.svg)
 
+## CVE-2026-132277
+
+- [https://github.com/googlesky/CVE-2026-132277](https://github.com/googlesky/CVE-2026-132277) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-132277.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-132277.svg)
+
+## CVE-2026-132276
+
+- [https://github.com/googlesky/CVE-2026-132276](https://github.com/googlesky/CVE-2026-132276) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-132276.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-132276.svg)
+
+## CVE-2026-132275
+
+- [https://github.com/googlesky/CVE-2026-132275](https://github.com/googlesky/CVE-2026-132275) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-132275.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-132275.svg)
+
 ## CVE-2026-132252
 
 - [https://github.com/googlesky/CVE-2026-132252](https://github.com/googlesky/CVE-2026-132252) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-132252.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-132252.svg)
@@ -164,6 +176,10 @@
 > Info-ZIP Zip 3.0 (and 3.1 beta through 3.1c) allows OS command injection by an attacker who controls the command line. The victim must use the -T option followed by a filename containing shell metacharacters, on a platform (such as Linux) where a suitable shell is run. This occurs because the system C library function is used. NOTE: there is no known common scenario in which an untrusted filename reaches a zip -T call.
 
 - [https://github.com/googlesky/CVE-2026-130335](https://github.com/googlesky/CVE-2026-130335) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130335.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130335.svg)
+
+## CVE-2026-130176
+
+- [https://github.com/googlesky/CVE-2026-130176](https://github.com/googlesky/CVE-2026-130176) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130176.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130176.svg)
 
 ## CVE-2026-130001
 
@@ -602,6 +618,8 @@ When converting from UCS-4, these encoders may encounter a combining base such a
 
 - [https://github.com/LLCForge/CVE-2026-123890](https://github.com/LLCForge/CVE-2026-123890) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-123890.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-123890.svg)
 
+- [https://github.com/3tternp/vcenter-cve-2026-123890-check](https://github.com/3tternp/vcenter-cve-2026-123890-check) : ![starts](https://img.shields.io/github/stars/3tternp/vcenter-cve-2026-123890-check.svg) ![forks](https://img.shields.io/github/forks/3tternp/vcenter-cve-2026-123890-check.svg)
+
 ## CVE-2026-123807
 > Signal K Server is a server application that runs on a central hub in a boat. From 2.0.0 until 2.34.0 for Signal K Server and from 1.0.0 until 1.5.3 for @signalk/resources-provider, the v2 REST route GET /signalk/v2/api/resources/:resourceType/:resourceId accepts an unsafe resourceId that can escape the intended resource directory. The route passes the attacker-controlled resourceId through src/api/resources/index.ts to FileStore.getResource() in packages/resources-provider-plugin/src/filestorag
 
@@ -850,6 +868,10 @@ When converting from UCS-4, these encoders may encounter a combining base such a
 - [https://github.com/federiconbaez/cve-2026-123007-detector](https://github.com/federiconbaez/cve-2026-123007-detector) : ![starts](https://img.shields.io/github/stars/federiconbaez/cve-2026-123007-detector.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cve-2026-123007-detector.svg)
 
 - [https://github.com/kitten443/nginx2root](https://github.com/kitten443/nginx2root) : ![starts](https://img.shields.io/github/stars/kitten443/nginx2root.svg) ![forks](https://img.shields.io/github/forks/kitten443/nginx2root.svg)
+
+- [https://github.com/eduxcode/nginx2root-lab](https://github.com/eduxcode/nginx2root-lab) : ![starts](https://img.shields.io/github/stars/eduxcode/nginx2root-lab.svg) ![forks](https://img.shields.io/github/forks/eduxcode/nginx2root-lab.svg)
+
+- [https://github.com/gabriel-shtx/CVE-2026-123007-NGINX2Root-detection-scripts](https://github.com/gabriel-shtx/CVE-2026-123007-NGINX2Root-detection-scripts) : ![starts](https://img.shields.io/github/stars/gabriel-shtx/CVE-2026-123007-NGINX2Root-detection-scripts.svg) ![forks](https://img.shields.io/github/forks/gabriel-shtx/CVE-2026-123007-NGINX2Root-detection-scripts.svg)
 
 ## CVE-2026-122675
 > Cross-Site Request Forgery (CSRF) vulnerability in Wpmet Wp Social wp-social allows Cross Site Request Forgery.This issue affects Wp Social: from n/a through 3.2.3.
@@ -1475,6 +1497,14 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 
 - [https://github.com/Mor-Golan/CVE-2026-115596](https://github.com/Mor-Golan/CVE-2026-115596) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-115596.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-115596.svg)
 
+## CVE-2026-115578
+
+- [https://github.com/googlesky/CVE-2026-115578](https://github.com/googlesky/CVE-2026-115578) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-115578.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-115578.svg)
+
+## CVE-2026-115565
+
+- [https://github.com/googlesky/CVE-2026-115565](https://github.com/googlesky/CVE-2026-115565) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-115565.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-115565.svg)
+
 ## CVE-2026-115560
 
 - [https://github.com/prnjlksingh/php-cve-2026-115560-demo](https://github.com/prnjlksingh/php-cve-2026-115560-demo) : ![starts](https://img.shields.io/github/stars/prnjlksingh/php-cve-2026-115560-demo.svg) ![forks](https://img.shields.io/github/forks/prnjlksingh/php-cve-2026-115560-demo.svg)
@@ -1502,6 +1532,10 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 - [https://github.com/Pr0fEs0r-X/PHP2SHELL-Checker-v-2.0-CVE-2026-115560-](https://github.com/Pr0fEs0r-X/PHP2SHELL-Checker-v-2.0-CVE-2026-115560-) : ![starts](https://img.shields.io/github/stars/Pr0fEs0r-X/PHP2SHELL-Checker-v-2.0-CVE-2026-115560-.svg) ![forks](https://img.shields.io/github/forks/Pr0fEs0r-X/PHP2SHELL-Checker-v-2.0-CVE-2026-115560-.svg)
 
 - [https://github.com/LLCForge/CVE-2026-115560](https://github.com/LLCForge/CVE-2026-115560) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-115560.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-115560.svg)
+
+## CVE-2026-115463
+
+- [https://github.com/googlesky/CVE-2026-115463](https://github.com/googlesky/CVE-2026-115463) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-115463.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-115463.svg)
 
 ## CVE-2026-115290
 > Uncontrolled Recursion (CWE-674) in Elasticsearch can lead to denial of service via Serialized Data with Nested Payloads (CAPEC-230). An unauthenticated attacker with network access to the remote cluster server interface of a node can send a specially crafted request that causes the node to terminate. No credentials are required. The attacker can repeat the request against each reachable node.
@@ -2390,6 +2424,7 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/federiconbaez/cortex9-git-diff-shell-hash-object-injection-model](https://github.com/federiconbaez/cortex9-git-diff-shell-hash-object-injection-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-git-diff-shell-hash-object-injection-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-git-diff-shell-hash-object-injection-model.svg)
 
 ## CVE-2026-110486
+> In Eclipse Mosquitto versions 2.1 through 2.1.2, a listener configured with `protocol websockets` mishandles empty WebSocket data frames. `net__read_ws()` in `lib/net_ws.c` returns the number of framing bytes consumed (the 4 masking-key bytes) for a data frame with a zero-length payload, without writing any bytes to the caller’s buffer. The MQTT packet reader in `packet__read_single()` (`lib/packet_mosq.c`) trusts that return value as a payload byte count. A remote client can therefore advance t
 
 - [https://github.com/googlesky/CVE-2026-110486](https://github.com/googlesky/CVE-2026-110486) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-110486.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-110486.svg)
 
@@ -3428,6 +3463,8 @@ This issue has been fixed in version 2.5.
 
 - [https://github.com/patrickgrady321/PHP2Shell_exploit_capstone](https://github.com/patrickgrady321/PHP2Shell_exploit_capstone) : ![starts](https://img.shields.io/github/stars/patrickgrady321/PHP2Shell_exploit_capstone.svg) ![forks](https://img.shields.io/github/forks/patrickgrady321/PHP2Shell_exploit_capstone.svg)
 
+- [https://github.com/melzum/php2shell-lab](https://github.com/melzum/php2shell-lab) : ![starts](https://img.shields.io/github/stars/melzum/php2shell-lab.svg) ![forks](https://img.shields.io/github/forks/melzum/php2shell-lab.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -3829,6 +3866,14 @@ configuration,
 
 - [https://github.com/M0ud4/CVE-2026-105810](https://github.com/M0ud4/CVE-2026-105810) : ![starts](https://img.shields.io/github/stars/M0ud4/CVE-2026-105810.svg) ![forks](https://img.shields.io/github/forks/M0ud4/CVE-2026-105810.svg)
 
+## CVE-2026-105803
+
+- [https://github.com/googlesky/CVE-2026-105803](https://github.com/googlesky/CVE-2026-105803) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-105803.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-105803.svg)
+
+## CVE-2026-105802
+
+- [https://github.com/googlesky/CVE-2026-105802](https://github.com/googlesky/CVE-2026-105802) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-105802.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-105802.svg)
+
 ## CVE-2026-105761
 > Dify is an open-source LLM app development platform. Prior to 1.16.0, the PUT /console/api/apps/&amp;lt;app_id&amp;gt;/server endpoint in api/controllers/console/app/mcp_server.py used AppMCPServerController.put() to retrieve an AppMCPServer by the client-supplied server ID without verifying that the server belonged to the requested application and tenant. An authenticated workspace member could therefore change another application&#x27;s MCP server status and parameters, potentially redirecting data or disa
 
@@ -4047,6 +4092,14 @@ device operation and availability. No authentication, session e
 
 - [https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection](https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection) : ![starts](https://img.shields.io/github/stars/wvllxe/CVE-2026-104905-facturascripts-object-injection.svg) ![forks](https://img.shields.io/github/forks/wvllxe/CVE-2026-104905-facturascripts-object-injection.svg)
 
+## CVE-2026-104883
+
+- [https://github.com/googlesky/CVE-2026-104883](https://github.com/googlesky/CVE-2026-104883) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104883.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104883.svg)
+
+## CVE-2026-104882
+
+- [https://github.com/googlesky/CVE-2026-104882](https://github.com/googlesky/CVE-2026-104882) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104882.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104882.svg)
+
 ## CVE-2026-104851
 > fsspec is a specification and Python implementation framework for filesystem interfaces. From 0.9.0 until 2026.6.0, fsspec.implementations.reference.ReferenceFileSystem evaluates fields from Kerchunk reference JSON documents through unrestricted jinja2.Template(...).render(...) calls in _process_references1._render_jinja, _process_templates, and _process_gen in fsspec/implementations/reference.py. A document supplied inline or fetched from an attacker-controlled URL can provide template expressi
 
@@ -4177,6 +4230,10 @@ device operation and availability. No authentication, session e
 > The Contact Form 7 Signature Addon WordPress plugin through 4.2.2 does not sanitize a signature field value before building an email attachment path from it, allowing unauthenticated users to attach arbitrary files (bounded to wp-content on current Contact Form 7) to a form&#x27;s outgoing email via path traversal; when a form is configured to email a copy to a submitter-controlled address, the attacker can read the targeted file.
 
 - [https://github.com/currenge/cf7-signature-addon-security-patch](https://github.com/currenge/cf7-signature-addon-security-patch) : ![starts](https://img.shields.io/github/stars/currenge/cf7-signature-addon-security-patch.svg) ![forks](https://img.shields.io/github/forks/currenge/cf7-signature-addon-security-patch.svg)
+
+## CVE-2026-104199
+
+- [https://github.com/googlesky/CVE-2026-104199](https://github.com/googlesky/CVE-2026-104199) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104199.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104199.svg)
 
 ## CVE-2026-104110
 > FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch operations. Prior to 3.24.0, FileRise Pro /api/pro/portals/get.php returns a configured client portal&#x27;s full internal record to an unauthenticated caller who knows or guesses the portal slug. The response includes the internal storage folder path, client contact email, form settings, and upload-policy details, while the separate publicMeta.php endpoint intentionally exposes only curated branding data. Exp
@@ -4724,7 +4781,24 @@ in depth measure, let&#x27;s also check before we complete the checksum
 
 - [https://github.com/debuman/cve-2026-99999-scanner](https://github.com/debuman/cve-2026-99999-scanner) : ![starts](https://img.shields.io/github/stars/debuman/cve-2026-99999-scanner.svg) ![forks](https://img.shields.io/github/forks/debuman/cve-2026-99999-scanner.svg)
 
+## CVE-2026-99491
+
+- [https://github.com/woshigenm/CVE-2026-99491](https://github.com/woshigenm/CVE-2026-99491) : ![starts](https://img.shields.io/github/stars/woshigenm/CVE-2026-99491.svg) ![forks](https://img.shields.io/github/forks/woshigenm/CVE-2026-99491.svg)
+
+- [https://github.com/Yunnijian/CVE-2026-99491](https://github.com/Yunnijian/CVE-2026-99491) : ![starts](https://img.shields.io/github/stars/Yunnijian/CVE-2026-99491.svg) ![forks](https://img.shields.io/github/forks/Yunnijian/CVE-2026-99491.svg)
+
 ## CVE-2026-99312
+> In the Linux kernel, the following vulnerability has been resolved:
+
+KVM: x86: Unconditionally reset MMU context when emulating INIT
+
+Force an MMU reset when emulating an INIT even if paging was already
+disabled, as the MMU page role includes guest_mode (L2), i.e. an INIT while
+L2 is running with CR0.PG=0 will result in KVM running L1 with a stale MMU
+context.
+
+Alternatively, the reset could be scoped strictly to paging being enabled
+or L2 being active, but SMM is also encoded in the page role. 
 
 - [https://github.com/jmginer/pve-cve-2026-99312](https://github.com/jmginer/pve-cve-2026-99312) : ![starts](https://img.shields.io/github/stars/jmginer/pve-cve-2026-99312.svg) ![forks](https://img.shields.io/github/forks/jmginer/pve-cve-2026-99312.svg)
 
@@ -5211,6 +5285,8 @@ but the node is still queued on tsk, which
 - [https://github.com/mafanding/CVE-2026-98260-GhostKey](https://github.com/mafanding/CVE-2026-98260-GhostKey) : ![starts](https://img.shields.io/github/stars/mafanding/CVE-2026-98260-GhostKey.svg) ![forks](https://img.shields.io/github/forks/mafanding/CVE-2026-98260-GhostKey.svg)
 
 - [https://github.com/zhanghangjie/CVE-2026-98260-CYL1](https://github.com/zhanghangjie/CVE-2026-98260-CYL1) : ![starts](https://img.shields.io/github/stars/zhanghangjie/CVE-2026-98260-CYL1.svg) ![forks](https://img.shields.io/github/forks/zhanghangjie/CVE-2026-98260-CYL1.svg)
+
+- [https://github.com/nestchao/redmi-pad-se-87-root](https://github.com/nestchao/redmi-pad-se-87-root) : ![starts](https://img.shields.io/github/stars/nestchao/redmi-pad-se-87-root.svg) ![forks](https://img.shields.io/github/forks/nestchao/redmi-pad-se-87-root.svg)
 
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -8248,6 +8324,10 @@ CVE-2025-32907 addressed memory amplification when a client repeated the same ra
 
 - [https://github.com/googlesky/CVE-2026-77378](https://github.com/googlesky/CVE-2026-77378) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77378.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77378.svg)
 
+## CVE-2026-77332
+
+- [https://github.com/googlesky/CVE-2026-77332](https://github.com/googlesky/CVE-2026-77332) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77332.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77332.svg)
+
 ## CVE-2026-77318
 
 - [https://github.com/googlesky/CVE-2026-77318](https://github.com/googlesky/CVE-2026-77318) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77318.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77318.svg)
@@ -9266,6 +9346,14 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
  Flowise is a drag & drop user interface to build a customized large language model flow. Prior to 3.1.3, the mitigation for CVE-2025-8943 blocked -y and --yes flags on npx, but packages/components/nodes/tools/MCP/core.ts denied only PATH, LD_LIBRARY_PATH, DYLD_LIBRARY_PATH, and NODE_OPTIONS by exact environment-variable name. Because npm reads configuration from npm_config_* variables, setting npm_config_yes=true reproduced --yes behavior without using a blocked flag, causing npx to auto-install and execute the named package when a Custom MCP server launched. This issue is fixed in version 3.1.3.
 
 - [https://github.com/leoelsolh/CVE-2026-69263](https://github.com/leoelsolh/CVE-2026-69263) : ![starts](https://img.shields.io/github/stars/leoelsolh/CVE-2026-69263.svg) ![forks](https://img.shields.io/github/forks/leoelsolh/CVE-2026-69263.svg)
+
+## CVE-2026-69261
+
+- [https://github.com/googlesky/CVE-2026-69261](https://github.com/googlesky/CVE-2026-69261) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-69261.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-69261.svg)
+
+## CVE-2026-69260
+
+- [https://github.com/googlesky/CVE-2026-69260](https://github.com/googlesky/CVE-2026-69260) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-69260.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-69260.svg)
 
 ## CVE-2026-69254
 
@@ -10741,6 +10829,16 @@ Products intended for the Japanese market are not affected.
 
 - [https://github.com/virologi-info/mssharepoint-scanner](https://github.com/virologi-info/mssharepoint-scanner) : ![starts](https://img.shields.io/github/stars/virologi-info/mssharepoint-scanner.svg) ![forks](https://img.shields.io/github/forks/virologi-info/mssharepoint-scanner.svg)
 
+## CVE-2026-63386
+> js-toml is a TOML parser for JavaScript. Prior to 1.1.3, load() does not bound nesting or dotted-key depth in the recursive parser at src/load/parser.ts or the interpreter at src/load/interpreter.ts, so deeply nested arrays, deeply nested inline tables, or long dotted keys can exhaust the V8 call stack and throw a raw RangeError instead of the documented SyntaxParseError. Applications that parse attacker-controlled TOML and handle only SyntaxParseError can rethrow the unexpected exception, which
+
+- [https://github.com/googlesky/CVE-2026-63386](https://github.com/googlesky/CVE-2026-63386) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-63386.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-63386.svg)
+
+## CVE-2026-63341
+> Aedes is an MQTT broker that can run on any stream server. Prior to 1.1.1, the MQTT broker does not bound topic depth or structural complexity before passing topics through `mqemitter` into `qlobber`. A `PUBLISH`, `SUBSCRIBE`, or registered `Will` message containing an excessively deep topic can reach `qlobber._split_words` in `lib/qlobber.js` and trigger an uncaught `too many words` exception. Calls from `handlers/subscribe.js` and the publishing logic are not protected against that exception, 
+
+- [https://github.com/googlesky/CVE-2026-63341](https://github.com/googlesky/CVE-2026-63341) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-63341.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-63341.svg)
+
 ## CVE-2026-63292
 > Stack-based buffer overflow in mod_vhost_alias in Apache Software Foundation Apache HTTP Server through 2.4.68 on all platforms allows a remote client to cause a denial of service or potentially execute arbitrary code via an HTTP request with a Host header exceeding 8192 bytes when VirtualDocumentRoot uses a hostname format specifier and LimitRequestFieldSize is raised above the default.
 
@@ -11192,6 +11290,11 @@ This issue affects Elementor Website Builder: from n/a through 4.3.1.
 - [https://github.com/InertFluid/cve-2026-61732-lab](https://github.com/InertFluid/cve-2026-61732-lab) : ![starts](https://img.shields.io/github/stars/InertFluid/cve-2026-61732-lab.svg) ![forks](https://img.shields.io/github/forks/InertFluid/cve-2026-61732-lab.svg)
 
 - [https://github.com/Iceman2050/chatml-role-token-probe](https://github.com/Iceman2050/chatml-role-token-probe) : ![starts](https://img.shields.io/github/stars/Iceman2050/chatml-role-token-probe.svg) ![forks](https://img.shields.io/github/forks/Iceman2050/chatml-role-token-probe.svg)
+
+## CVE-2026-61725
+> sevenz-rust2 is a Rust-native 7z compressor and `decompress`or. Prior to 0.21.1, extracting an attacker-supplied 7z archive can write or overwrite files outside the destination directory. In `src/util/decompress.rs`, `decompress_impl` computes each destination with `dest.join(entry.name())` without normalizing the archive&#x27;s UTF-16 entry name or verifying containment, and `default_entry_extract_fn` writes to it with `File::create`. Parent-directory components escape the extraction root, and an ab
+
+- [https://github.com/googlesky/CVE-2026-61725](https://github.com/googlesky/CVE-2026-61725) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-61725.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-61725.svg)
 
 ## CVE-2026-61628
  nginx ignition is a user interface for the nginx web server. Prior to version 2.41.1, `POST /api/users/onboarding/finish` is registered as anonymous (unauthenticated) and creates a user with full ReadWrite admin permissions. Because the handler uses a check-then-act (TOCTOU) pattern between the "onboarding already completed?" check and the user-creation write, with no atomic guard, a remote unauthenticated attacker who can reach an instance in its pre-onboarding state can create an administrator account for themselves — and concurrent requests can create multiple admin accounts in a single race. Version 2.41.1 patches the issue.
@@ -11691,6 +11794,10 @@ availability of the application.
 ## CVE-2026-58221
 
 - [https://github.com/DevAli00/CVE-2026-58221](https://github.com/DevAli00/CVE-2026-58221) : ![starts](https://img.shields.io/github/stars/DevAli00/CVE-2026-58221.svg) ![forks](https://img.shields.io/github/forks/DevAli00/CVE-2026-58221.svg)
+
+## CVE-2026-58192
+
+- [https://github.com/googlesky/CVE-2026-58192](https://github.com/googlesky/CVE-2026-58192) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-58192.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-58192.svg)
 
 ## CVE-2026-58138
  Orkes Conductor 3.21.21 before 3.30.2 contains an unauthenticated remote code execution vulnerability that allows remote attackers to execute arbitrary OS commands by submitting inline workflow definitions containing malicious JavaScript or Python expressions to the workflow API endpoint prior to authentication. Attackers can exploit unsandboxed GraalVM evaluators configured with HostAccess.ALL or allowAllAccess(true) through INLINE, LAMBDA, DO_WHILE, and SWITCH task types to invoke arbitrary system commands via Java reflection or direct subprocess calls.
@@ -20272,6 +20379,8 @@ Reject authenticator lengths that exceed the remaining packet payload.
 
 - [https://github.com/piecar21/CVE-2026-31635](https://github.com/piecar21/CVE-2026-31635) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-31635.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-31635.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-31635](https://github.com/ashrafzaryouh/CVE-2026-31635) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-31635.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-31635.svg)
+
 ## CVE-2026-31606
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -21650,6 +21759,10 @@ This issue affects Apache Ranger: from 0.6 through 2.8.
  Unauthenticated SQL Injection in WP Directory Kit = 1.5.4 versions.
 
 - [https://github.com/gduma-phData/patch-CVE-2026-28001](https://github.com/gduma-phData/patch-CVE-2026-28001) : ![starts](https://img.shields.io/github/stars/gduma-phData/patch-CVE-2026-28001.svg) ![forks](https://img.shields.io/github/forks/gduma-phData/patch-CVE-2026-28001.svg)
+
+## CVE-2026-27980
+
+- [https://github.com/aheybati/CVE-2026-27980](https://github.com/aheybati/CVE-2026-27980) : ![starts](https://img.shields.io/github/stars/aheybati/CVE-2026-27980.svg) ![forks](https://img.shields.io/github/forks/aheybati/CVE-2026-27980.svg)
 
 ## CVE-2026-27978
  Next.js is a React framework for building full-stack web applications. Starting in version 16.0.1 and prior to version 16.1.7, `origin: null` was treated as a "missing" origin during Server Action CSRF validation. As a result, requests from opaque contexts (such as sandboxed iframes) could bypass origin verification instead of being validated as cross-origin requests. An attacker could induce a victim browser to submit Server Actions from a sandboxed context, potentially executing state-changing actions with victim credentials (CSRF). This is fixed in version 16.1.7 by treating `'null'` as an explicit origin value and enforcing host/origin checks unless `'null'` is explicitly allowlisted in `experimental.serverActions.allowedOrigins`. If upgrading is not immediately possible, add CSRF tokens for sensitive Server Actions, prefer `SameSite=Strict` on sensitive auth cookies, and/or do not allow `'null'` in `serverActions.allowedOrigins` unless intentionally required and additionally protected.

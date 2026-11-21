@@ -1694,6 +1694,8 @@ use after free.
 
 - [https://github.com/NyxRecon/Sudo-Agent-CTF-](https://github.com/NyxRecon/Sudo-Agent-CTF-) : ![starts](https://img.shields.io/github/stars/NyxRecon/Sudo-Agent-CTF-.svg) ![forks](https://img.shields.io/github/forks/NyxRecon/Sudo-Agent-CTF-.svg)
 
+- [https://github.com/fantasmakm4/LAB-010-AGENT-SUDO](https://github.com/fantasmakm4/LAB-010-AGENT-SUDO) : ![starts](https://img.shields.io/github/stars/fantasmakm4/LAB-010-AGENT-SUDO.svg) ![forks](https://img.shields.io/github/forks/fantasmakm4/LAB-010-AGENT-SUDO.svg)
+
 ## CVE-2019-14271
  In Docker 19.03.x before 19.03.1 linked against the GNU C Library (aka glibc), code injection can occur when the nsswitch facility dynamically loads a library inside a chroot that contains the contents of the container.
 

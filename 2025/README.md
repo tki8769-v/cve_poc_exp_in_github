@@ -2940,6 +2940,8 @@ Users are recommended to upgrade to version 2.4.66, which fixes the issue.
 
 - [https://github.com/ianoboyle/CVE-2025-57833](https://github.com/ianoboyle/CVE-2025-57833) : ![starts](https://img.shields.io/github/stars/ianoboyle/CVE-2025-57833.svg) ![forks](https://img.shields.io/github/forks/ianoboyle/CVE-2025-57833.svg)
 
+- [https://github.com/Renatata-H/demo-cve-2025-57833](https://github.com/Renatata-H/demo-cve-2025-57833) : ![starts](https://img.shields.io/github/stars/Renatata-H/demo-cve-2025-57833.svg) ![forks](https://img.shields.io/github/forks/Renatata-H/demo-cve-2025-57833.svg)
+
 ## CVE-2025-057819
 
 - [https://github.com/Amoru-Bek/FreePBX-CVE-2025-057819-Remote-Code-Execution](https://github.com/Amoru-Bek/FreePBX-CVE-2025-057819-Remote-Code-Execution) : ![starts](https://img.shields.io/github/stars/Amoru-Bek/FreePBX-CVE-2025-057819-Remote-Code-Execution.svg) ![forks](https://img.shields.io/github/forks/Amoru-Bek/FreePBX-CVE-2025-057819-Remote-Code-Execution.svg)

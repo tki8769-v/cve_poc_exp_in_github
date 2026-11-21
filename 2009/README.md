@@ -90,6 +90,8 @@
 
 - [https://github.com/bytejmp/MS09-050](https://github.com/bytejmp/MS09-050) : ![starts](https://img.shields.io/github/stars/bytejmp/MS09-050.svg) ![forks](https://img.shields.io/github/forks/bytejmp/MS09-050.svg)
 
+- [https://github.com/Zhaoyi-Fan/ms09-050-smb2-manual](https://github.com/Zhaoyi-Fan/ms09-050-smb2-manual) : ![starts](https://img.shields.io/github/stars/Zhaoyi-Fan/ms09-050-smb2-manual.svg) ![forks](https://img.shields.io/github/forks/Zhaoyi-Fan/ms09-050-smb2-manual.svg)
+
 ## CVE-2009-3036
  Cross-site scripting (XSS) vulnerability in the console in Symantec IM Manager 8.3 and 8.4 before 8.4.13 allows remote attackers to inject arbitrary web script or HTML via unspecified vectors.
 
