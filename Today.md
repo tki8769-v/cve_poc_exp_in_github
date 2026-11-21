@@ -52,6 +52,10 @@
 
 - [https://github.com/googlesky/CVE-2026-115578](https://github.com/googlesky/CVE-2026-115578) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-115578.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-115578.svg)
 
+## CVE-2026-122244
+
+- [https://github.com/googlesky/CVE-2026-122244](https://github.com/googlesky/CVE-2026-122244) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-122244.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-122244.svg)
+
 ## CVE-2026-123007
 
 - [https://github.com/eduxcode/nginx2root-lab](https://github.com/eduxcode/nginx2root-lab) : ![starts](https://img.shields.io/github/stars/eduxcode/nginx2root-lab.svg) ![forks](https://img.shields.io/github/forks/eduxcode/nginx2root-lab.svg)
@@ -60,6 +64,10 @@
 ## CVE-2026-123890
 
 - [https://github.com/3tternp/vcenter-cve-2026-123890-check](https://github.com/3tternp/vcenter-cve-2026-123890-check) : ![starts](https://img.shields.io/github/stars/3tternp/vcenter-cve-2026-123890-check.svg) ![forks](https://img.shields.io/github/forks/3tternp/vcenter-cve-2026-123890-check.svg)
+
+## CVE-2026-129289
+
+- [https://github.com/tc4dy/CVE-2026-129289-PoC-Exploit](https://github.com/tc4dy/CVE-2026-129289-PoC-Exploit) : ![starts](https://img.shields.io/github/stars/tc4dy/CVE-2026-129289-PoC-Exploit.svg) ![forks](https://img.shields.io/github/forks/tc4dy/CVE-2026-129289-PoC-Exploit.svg)
 
 ## CVE-2026-130176
 
@@ -84,6 +92,23 @@
 ## CVE-2026-31635
 
 - [https://github.com/ashrafzaryouh/CVE-2026-31635](https://github.com/ashrafzaryouh/CVE-2026-31635) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-31635.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-31635.svg)
+
+## CVE-2026-43499
+> In the Linux kernel, the following vulnerability has been resolved:
+
+rtmutex: Use waiter::task instead of current in remove_waiter()
+
+remove_waiter() is used by the slowlock paths, but it is also used for
+proxy-lock rollback in rt_mutex_start_proxy_lock() when invoked from
+futex_requeue().
+
+In the latter case waiter::task is not current, but remove_waiter()
+operates on current for the dequeue operation. That results in several
+problems:
+
+  1) the rbtree dequeue happens without waiter::task::pi_l
+
+- [https://github.com/zetaloop/ghostlock20](https://github.com/zetaloop/ghostlock20) : ![starts](https://img.shields.io/github/stars/zetaloop/ghostlock20.svg) ![forks](https://img.shields.io/github/forks/zetaloop/ghostlock20.svg)
 
 ## CVE-2026-58192
 

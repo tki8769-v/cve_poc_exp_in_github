@@ -12437,3 +12437,6 @@
 {"cve_id": "CVE-2026-104883", "ts": "2026-11-21T02:18:35Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-104883"}
 {"cve_id": "CVE-2025-57833", "ts": "2026-11-21T02:18:35Z", "type": "new_poc", "url": "https://github.com/Renatata-H/demo-cve-2025-57833"}
 {"cve_id": "CVE-2026-31635", "ts": "2026-11-21T02:27:37Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-31635"}
+{"cve_id": "CVE-2026-122244", "ts": "2026-11-21T02:36:08Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-122244"}
+{"cve_id": "CVE-2026-129289", "ts": "2026-11-21T02:36:09Z", "type": "new_poc", "url": "https://github.com/tc4dy/CVE-2026-129289-PoC-Exploit"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-21T02:36:49Z", "type": "new_poc", "url": "https://github.com/zetaloop/ghostlock20"}
