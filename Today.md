@@ -12,6 +12,10 @@
 
 - [https://github.com/fantasmakm4/LAB-010-AGENT-SUDO](https://github.com/fantasmakm4/LAB-010-AGENT-SUDO) : ![starts](https://img.shields.io/github/stars/fantasmakm4/LAB-010-AGENT-SUDO.svg) ![forks](https://img.shields.io/github/forks/fantasmakm4/LAB-010-AGENT-SUDO.svg)
 
+## CVE-2019-19268
+
+- [https://github.com/harry1080/CVE-2019-19268](https://github.com/harry1080/CVE-2019-19268) : ![starts](https://img.shields.io/github/stars/harry1080/CVE-2019-19268.svg) ![forks](https://img.shields.io/github/forks/harry1080/CVE-2019-19268.svg)
+
 ## CVE-2021-22204
 
 - [https://github.com/la-padula/CVE-2021-22204](https://github.com/la-padula/CVE-2021-22204) : ![starts](https://img.shields.io/github/stars/la-padula/CVE-2021-22204.svg) ![forks](https://img.shields.io/github/forks/la-padula/CVE-2021-22204.svg)
@@ -415,6 +419,7 @@ check various other thi
 - [https://github.com/googlesky/CVE-2026-63386](https://github.com/googlesky/CVE-2026-63386) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-63386.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-63386.svg)
 
 ## CVE-2026-63415
+> Jane is a set of PHP libraries that generates models and API clients from JSON Schema and OpenAPI specifications. Prior to 7.12.0, Jane&#x27;s Reference.php::doResolve passes an attacker-controlled OpenAPI $ref target to file_get_contents without restricting its scheme or resolved local path. When a victim generates code from an attacker-influenced document, an HTTP or HTTPS reference can cause requests to attacker-chosen or internal services, while an absolute or parent-relative path can read local 
 
 - [https://github.com/googlesky/CVE-2026-63415](https://github.com/googlesky/CVE-2026-63415) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-63415.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-63415.svg)
 

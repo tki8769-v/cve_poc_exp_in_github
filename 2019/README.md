@@ -487,6 +487,8 @@ use after free.
 
 - [https://github.com/TheCyberGeek/CVE-2019-19268](https://github.com/TheCyberGeek/CVE-2019-19268) : ![starts](https://img.shields.io/github/stars/TheCyberGeek/CVE-2019-19268.svg) ![forks](https://img.shields.io/github/forks/TheCyberGeek/CVE-2019-19268.svg)
 
+- [https://github.com/harry1080/CVE-2019-19268](https://github.com/harry1080/CVE-2019-19268) : ![starts](https://img.shields.io/github/stars/harry1080/CVE-2019-19268.svg) ![forks](https://img.shields.io/github/forks/harry1080/CVE-2019-19268.svg)
+
 ## CVE-2019-19231
  An insecure file access vulnerability exists in CA Client Automation 14.0, 14.1, 14.2, and 14.3 Agent for Windows that can allow a local attacker to gain escalated privileges.
 

@@ -140,6 +140,7 @@
 - [https://github.com/googlesky/CVE-2026-132275](https://github.com/googlesky/CVE-2026-132275) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-132275.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-132275.svg)
 
 ## CVE-2026-132252
+> A vulnerability was found in October CMS up to 4.4.6. This affects the function validateExternalImageHost of the file modules/system/classes/resizeimages/ValidatesExternalImages.php of the component Image Resizer. Performing a manipulation of the argument url results in server-side request forgery. The attack may be initiated remotely. The complexity of an attack is rather high. The exploitability is reported as difficult. The exploit has been made public and could be used. Upgrading to version 
 
 - [https://github.com/googlesky/CVE-2026-132252](https://github.com/googlesky/CVE-2026-132252) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-132252.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-132252.svg)
 
@@ -1014,6 +1015,7 @@ This vulnerability may allow remote attackers to cause
 - [https://github.com/LLCForge/CVE-2026-121810](https://github.com/LLCForge/CVE-2026-121810) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-121810.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-121810.svg)
 
 ## CVE-2026-121720
+> OpenVPN 2.4.0 through 2.6.23 and 2.7_alpha1 through 2.7.8 on Windows allows local authenticated users to execute arbitrary code via a privileged service using user-controlled environment variables.
 
 - [https://github.com/refiaa/CVE-2026-121720](https://github.com/refiaa/CVE-2026-121720) : ![starts](https://img.shields.io/github/stars/refiaa/CVE-2026-121720.svg) ![forks](https://img.shields.io/github/forks/refiaa/CVE-2026-121720.svg)
 
@@ -11088,6 +11090,7 @@ Products intended for the Japanese market are not affected.
 - [https://github.com/virologi-info/mssharepoint-scanner](https://github.com/virologi-info/mssharepoint-scanner) : ![starts](https://img.shields.io/github/stars/virologi-info/mssharepoint-scanner.svg) ![forks](https://img.shields.io/github/forks/virologi-info/mssharepoint-scanner.svg)
 
 ## CVE-2026-63415
+> Jane is a set of PHP libraries that generates models and API clients from JSON Schema and OpenAPI specifications. Prior to 7.12.0, Jane&#x27;s Reference.php::doResolve passes an attacker-controlled OpenAPI $ref target to file_get_contents without restricting its scheme or resolved local path. When a victim generates code from an attacker-influenced document, an HTTP or HTTPS reference can cause requests to attacker-chosen or internal services, while an absolute or parent-relative path can read local 
 
 - [https://github.com/googlesky/CVE-2026-63415](https://github.com/googlesky/CVE-2026-63415) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-63415.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-63415.svg)
 
@@ -95498,6 +95501,8 @@ use after free.
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.
 
 - [https://github.com/TheCyberGeek/CVE-2019-19268](https://github.com/TheCyberGeek/CVE-2019-19268) : ![starts](https://img.shields.io/github/stars/TheCyberGeek/CVE-2019-19268.svg) ![forks](https://img.shields.io/github/forks/TheCyberGeek/CVE-2019-19268.svg)
+
+- [https://github.com/harry1080/CVE-2019-19268](https://github.com/harry1080/CVE-2019-19268) : ![starts](https://img.shields.io/github/stars/harry1080/CVE-2019-19268.svg) ![forks](https://img.shields.io/github/forks/harry1080/CVE-2019-19268.svg)
 
 ## CVE-2019-19231
  An insecure file access vulnerability exists in CA Client Automation 14.0, 14.1, 14.2, and 14.3 Agent for Windows that can allow a local attacker to gain escalated privileges.
