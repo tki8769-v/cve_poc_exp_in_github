@@ -6948,6 +6948,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204](https://github.com/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204) : ![starts](https://img.shields.io/github/stars/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204.svg) ![forks](https://img.shields.io/github/forks/cyfrowesny/exiftool-7.44-12.23-exploit-CVE-2021-22204.svg)
 
+- [https://github.com/la-padula/CVE-2021-22204](https://github.com/la-padula/CVE-2021-22204) : ![starts](https://img.shields.io/github/stars/la-padula/CVE-2021-22204.svg) ![forks](https://img.shields.io/github/forks/la-padula/CVE-2021-22204.svg)
+
 ## CVE-2021-22201
  An issue has been discovered in GitLab CE/EE affecting all versions starting from 13.9. A specially crafted import file could read files on the server.
 

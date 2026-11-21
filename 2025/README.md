@@ -6062,6 +6062,8 @@ Users of the artifact org.apache.commons:commons-beanutils2
 
 - [https://github.com/K1tor/PixelVolte5G](https://github.com/K1tor/PixelVolte5G) : ![starts](https://img.shields.io/github/stars/K1tor/PixelVolte5G.svg) ![forks](https://img.shields.io/github/forks/K1tor/PixelVolte5G.svg)
 
+- [https://github.com/Chiiz0/Stateside](https://github.com/Chiiz0/Stateside) : ![starts](https://img.shields.io/github/stars/Chiiz0/Stateside.svg) ![forks](https://img.shields.io/github/forks/Chiiz0/Stateside.svg)
+
 ## CVE-2025-48595
  In multiple locations, there is a possible way to achieve code execution due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 
@@ -12573,6 +12575,10 @@ The specific flaw exists within the handling of symbolic links in ZIP files. Cra
  Malicious code was inserted into the Nx (build system) package and several related plugins. The tampered package was published to the npm software registry, via a supply-chain attack. Affected versions contain code that scans the file system, collects credentials, and posts them to GitHub as a repo under user's accounts.
 
 - [https://github.com/pvharmo2/gha-lab-23db52563c](https://github.com/pvharmo2/gha-lab-23db52563c) : ![starts](https://img.shields.io/github/stars/pvharmo2/gha-lab-23db52563c.svg) ![forks](https://img.shields.io/github/forks/pvharmo2/gha-lab-23db52563c.svg)
+
+## CVE-2025-10890
+
+- [https://github.com/SpiralBL0CK/CVE-2025-10890-lab](https://github.com/SpiralBL0CK/CVE-2025-10890-lab) : ![starts](https://img.shields.io/github/stars/SpiralBL0CK/CVE-2025-10890-lab.svg) ![forks](https://img.shields.io/github/forks/SpiralBL0CK/CVE-2025-10890-lab.svg)
 
 ## CVE-2025-10874
  The Orbit Fox: Duplicate Page, Menu Icons, SVG Support, Cookie Notice, Custom Fonts & More WordPress plugin before 3.0.2 does not limit URLs which may be used for the stock photo import feature, allowing the user to specify arbitrary URLs. This leads to a server-side request forgery as the user may force the server to access any URL of their choosing.
