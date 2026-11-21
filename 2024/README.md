@@ -12800,6 +12800,10 @@ This issue affects BIND 9 versions 9.18.1 through 9.18.27, 9.19.0 through 9.19.2
 
 - [https://github.com/jidle123/cve-2024-0305exp](https://github.com/jidle123/cve-2024-0305exp) : ![starts](https://img.shields.io/github/stars/jidle123/cve-2024-0305exp.svg) ![forks](https://img.shields.io/github/forks/jidle123/cve-2024-0305exp.svg)
 
+## CVE-2024-0264
+
+- [https://github.com/wh1t3w1s4/CVE-2024-0264-PoC](https://github.com/wh1t3w1s4/CVE-2024-0264-PoC) : ![starts](https://img.shields.io/github/stars/wh1t3w1s4/CVE-2024-0264-PoC.svg) ![forks](https://img.shields.io/github/forks/wh1t3w1s4/CVE-2024-0264-PoC.svg)
+
 ## CVE-2024-0258
  The issue was addressed with improved memory handling. This issue is fixed in iOS 17.4 and iPadOS 17.4, macOS Sonoma 14.4, tvOS 17.4, watchOS 10.4. An app may be able to execute arbitrary code out of its sandbox or with certain elevated privileges.
 

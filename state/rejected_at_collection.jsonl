@@ -4088,3 +4088,11 @@
 {"cve_id": "CVE-2022-3721", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T02:59:31Z", "url": "https://github.com/AgainstTheLight/CVE-2022-37210", "url_ids": ["CVE-2022-37210"]}
 {"cve_id": "CVE-2024-3912", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T03:03:46Z", "url": "https://github.com/theexploiters/CVE-2024-39123-Exploit", "url_ids": ["CVE-2024-39123"]}
 {"cve_id": "CVE-2025-5809", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T13:50:32Z", "url": "https://github.com/dhmosfunk/CVE-2025-58098", "url_ids": ["CVE-2025-58098"]}
+{"cve_id": "CVE-2023-4622", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T22:33:20Z", "url": "https://github.com/JarvisDing-sdu/Yasa-CVE-2023-46229", "url_ids": ["CVE-2023-46229"]}
+{"cve_id": "CVE-2023-4622", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T22:33:20Z", "url": "https://github.com/dexteon/langchain-sitemap-ssrf-cve-2023-46229", "url_ids": ["CVE-2023-46229"]}
+{"cve_id": "CVE-2021-3679", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T22:34:20Z", "url": "https://github.com/M-Kings/CVE-2021-36798", "url_ids": ["CVE-2021-36798"]}
+{"cve_id": "CVE-2022-3942", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T22:40:26Z", "url": "https://github.com/bob11vrdp/CVE-2022-39425", "url_ids": ["CVE-2022-39425"]}
+{"cve_id": "CVE-2026-4350", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T22:40:32Z", "url": "https://github.com/ashrafzaryouh/CVE-2026-43503", "url_ids": ["CVE-2026-43503"]}
+{"cve_id": "CVE-2026-4350", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T22:40:32Z", "url": "https://github.com/gagaltotal/CVE-2026-43284-CVE-2026-43500-scan", "url_ids": ["CVE-2026-43284", "CVE-2026-43500"]}
+{"cve_id": "CVE-2026-4350", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T22:40:32Z", "url": "https://github.com/SecureWithUmer/CVE-2026-43503", "url_ids": ["CVE-2026-43503"]}
+{"cve_id": "CVE-2026-4350", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T22:40:32Z", "url": "https://github.com/attaattaatta/CVE-2026-43500", "url_ids": ["CVE-2026-43500"]}

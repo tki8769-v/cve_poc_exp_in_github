@@ -2625,6 +2625,8 @@
 
 - [https://github.com/mhd964/CVE-2021-42013](https://github.com/mhd964/CVE-2021-42013) : ![starts](https://img.shields.io/github/stars/mhd964/CVE-2021-42013.svg) ![forks](https://img.shields.io/github/forks/mhd964/CVE-2021-42013.svg)
 
+- [https://github.com/wvverez/CVE-2021-42013](https://github.com/wvverez/CVE-2021-42013) : ![starts](https://img.shields.io/github/stars/wvverez/CVE-2021-42013.svg) ![forks](https://img.shields.io/github/forks/wvverez/CVE-2021-42013.svg)
+
 ## CVE-2021-42008
  The decode_data function in drivers/net/hamradio/6pack.c in the Linux kernel before 5.13.13 has a slab out-of-bounds write. Input from a process that has the CAP_NET_ADMIN capability can lead to root access.
 

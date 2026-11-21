@@ -15,6 +15,10 @@
 
 - [https://github.com/la-padula/CVE-2021-22204](https://github.com/la-padula/CVE-2021-22204) : ![starts](https://img.shields.io/github/stars/la-padula/CVE-2021-22204.svg) ![forks](https://img.shields.io/github/forks/la-padula/CVE-2021-22204.svg)
 
+## CVE-2021-42013
+
+- [https://github.com/wvverez/CVE-2021-42013](https://github.com/wvverez/CVE-2021-42013) : ![starts](https://img.shields.io/github/stars/wvverez/CVE-2021-42013.svg) ![forks](https://img.shields.io/github/forks/wvverez/CVE-2021-42013.svg)
+
 ## CVE-2021-44228
 
 - [https://github.com/for-toolathlon/log4shell-audit-2](https://github.com/for-toolathlon/log4shell-audit-2) : ![starts](https://img.shields.io/github/stars/for-toolathlon/log4shell-audit-2.svg) ![forks](https://img.shields.io/github/forks/for-toolathlon/log4shell-audit-2.svg)
@@ -23,6 +27,10 @@
 ## CVE-2022-38694
 
 - [https://github.com/MissMudan/e5u-root-notes](https://github.com/MissMudan/e5u-root-notes) : ![starts](https://img.shields.io/github/stars/MissMudan/e5u-root-notes.svg) ![forks](https://img.shields.io/github/forks/MissMudan/e5u-root-notes.svg)
+
+## CVE-2024-0264
+
+- [https://github.com/wh1t3w1s4/CVE-2024-0264-PoC](https://github.com/wh1t3w1s4/CVE-2024-0264-PoC) : ![starts](https://img.shields.io/github/stars/wh1t3w1s4/CVE-2024-0264-PoC.svg) ![forks](https://img.shields.io/github/forks/wh1t3w1s4/CVE-2024-0264-PoC.svg)
 
 ## CVE-2025-10890
 
@@ -90,9 +98,12 @@
 ## CVE-2026-114516
 
 - [https://github.com/LLCForge/CVE-2026-114516](https://github.com/LLCForge/CVE-2026-114516) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-114516.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-114516.svg)
+- [https://github.com/evenomn/CVE-2026-114516](https://github.com/evenomn/CVE-2026-114516) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-114516.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-114516.svg)
 
 ## CVE-2026-114938
 
+- [https://github.com/BanroxArt/jvm-sweep](https://github.com/BanroxArt/jvm-sweep) : ![starts](https://img.shields.io/github/stars/BanroxArt/jvm-sweep.svg) ![forks](https://img.shields.io/github/forks/BanroxArt/jvm-sweep.svg)
+- [https://github.com/akshutgoyal/Java4Shell](https://github.com/akshutgoyal/Java4Shell) : ![starts](https://img.shields.io/github/stars/akshutgoyal/Java4Shell.svg) ![forks](https://img.shields.io/github/forks/akshutgoyal/Java4Shell.svg)
 - [https://github.com/m19o/j4s-runner-check](https://github.com/m19o/j4s-runner-check) : ![starts](https://img.shields.io/github/stars/m19o/j4s-runner-check.svg) ![forks](https://img.shields.io/github/forks/m19o/j4s-runner-check.svg)
 
 ## CVE-2026-115463
@@ -122,6 +133,10 @@
 ## CVE-2026-120681
 
 - [https://github.com/LLCForge/CVE-2026-120681](https://github.com/LLCForge/CVE-2026-120681) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-120681.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-120681.svg)
+
+## CVE-2026-12118
+
+- [https://github.com/overflowed7/CVE-2026-12118-PoC](https://github.com/overflowed7/CVE-2026-12118-PoC) : ![starts](https://img.shields.io/github/stars/overflowed7/CVE-2026-12118-PoC.svg) ![forks](https://img.shields.io/github/forks/overflowed7/CVE-2026-12118-PoC.svg)
 
 ## CVE-2026-121385
 
@@ -158,11 +173,18 @@ Impact:
 This vulnerability may allow remote attackers to cause a denial-of-service (D
 
 - [https://github.com/Nexxus67/CVE-2026-123633-PoC](https://github.com/Nexxus67/CVE-2026-123633-PoC) : ![starts](https://img.shields.io/github/stars/Nexxus67/CVE-2026-123633-PoC.svg) ![forks](https://img.shields.io/github/forks/Nexxus67/CVE-2026-123633-PoC.svg)
+- [https://github.com/grupooruss/Division81-cve-2026-123633](https://github.com/grupooruss/Division81-cve-2026-123633) : ![starts](https://img.shields.io/github/stars/grupooruss/Division81-cve-2026-123633.svg) ![forks](https://img.shields.io/github/forks/grupooruss/Division81-cve-2026-123633.svg)
 
 ## CVE-2026-123890
 
 - [https://github.com/3tternp/vcenter-cve-2026-123890-check](https://github.com/3tternp/vcenter-cve-2026-123890-check) : ![starts](https://img.shields.io/github/stars/3tternp/vcenter-cve-2026-123890-check.svg) ![forks](https://img.shields.io/github/forks/3tternp/vcenter-cve-2026-123890-check.svg)
+- [https://github.com/Sable-Research/CVE-2026-123890-Research](https://github.com/Sable-Research/CVE-2026-123890-Research) : ![starts](https://img.shields.io/github/stars/Sable-Research/CVE-2026-123890-Research.svg) ![forks](https://img.shields.io/github/forks/Sable-Research/CVE-2026-123890-Research.svg)
 - [https://github.com/foxcornlab/vmware-vcenter-scanner](https://github.com/foxcornlab/vmware-vcenter-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/vmware-vcenter-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/vmware-vcenter-scanner.svg)
+
+## CVE-2026-126170
+> A improper encoding or escaping of output vulnerability in Fortinet FortiAnalyzer 8.0.0 through 8.0.2, FortiAnalyzer 7.6.0 through 7.6.7, FortiAnalyzer Cloud 8.0.1 through 8.0.2, FortiAnalyzer Cloud 7.6.0 through 7.6.7, FortiAnalyzer-BigData 7.6.0 through 7.6.2, FortiManager 8.0.0 through 8.0.2, FortiManager 7.6.0 through 7.6.7, FortiManager Cloud 8.0.1 through 8.0.2, FortiManager Cloud 7.6.0 through 7.6.7 may allow an unauthenticated attacker to execute unauthorized code or commands via a speci
+
+- [https://github.com/im-hanzou/cve-2026-126170-fortimanager-jsonrpc-rce](https://github.com/im-hanzou/cve-2026-126170-fortimanager-jsonrpc-rce) : ![starts](https://img.shields.io/github/stars/im-hanzou/cve-2026-126170-fortimanager-jsonrpc-rce.svg) ![forks](https://img.shields.io/github/forks/im-hanzou/cve-2026-126170-fortimanager-jsonrpc-rce.svg)
 
 ## CVE-2026-129039
 
@@ -204,11 +226,13 @@ Users are recommended to upgrade to Apache Roller 6.1.6 or later, which disables
 ## CVE-2026-130847
 > Dolibarr ERP CRM before 24.0.2 contains an improper authorization vulnerability in the Users REST API put() method that allows non-admin API users to set administrator passwords. Authenticated users with user modification and password rights can send a PUT request to the users endpoint with a chosen pass value for a SuperAdmin account and then log in as that administrator.
 
+- [https://github.com/Zer0Breach/CVE-2026-130847](https://github.com/Zer0Breach/CVE-2026-130847) : ![starts](https://img.shields.io/github/stars/Zer0Breach/CVE-2026-130847.svg) ![forks](https://img.shields.io/github/forks/Zer0Breach/CVE-2026-130847.svg)
 - [https://github.com/yingcaipro-cmd/CVE-2026-130847](https://github.com/yingcaipro-cmd/CVE-2026-130847) : ![starts](https://img.shields.io/github/stars/yingcaipro-cmd/CVE-2026-130847.svg) ![forks](https://img.shields.io/github/forks/yingcaipro-cmd/CVE-2026-130847.svg)
 
 ## CVE-2026-130848
 > Dolibarr ERP CRM through 24.0.3 contains a code injection vulnerability in Website::importWebSite() that allows website editors without PHP permission to execute code by importing templates. Attackers can import a template zip whose javascript.js.php contains PHP code, which the public javascript.js.php endpoint includes, executing code as the web server user.
 
+- [https://github.com/Zer0Breach/CVE-2026-130848](https://github.com/Zer0Breach/CVE-2026-130848) : ![starts](https://img.shields.io/github/stars/Zer0Breach/CVE-2026-130848.svg) ![forks](https://img.shields.io/github/forks/Zer0Breach/CVE-2026-130848.svg)
 - [https://github.com/yingcaipro-cmd/CVE-2026-130848](https://github.com/yingcaipro-cmd/CVE-2026-130848) : ![starts](https://img.shields.io/github/stars/yingcaipro-cmd/CVE-2026-130848.svg) ![forks](https://img.shields.io/github/forks/yingcaipro-cmd/CVE-2026-130848.svg)
 
 ## CVE-2026-132275
@@ -247,6 +271,10 @@ Users are recommended to upgrade to Apache Roller 6.1.6 or later, which disables
 
 - [https://github.com/ashrafzaryouh/CVE-2026-31635](https://github.com/ashrafzaryouh/CVE-2026-31635) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-31635.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-31635.svg)
 
+## CVE-2026-33252
+
+- [https://github.com/garag0l/nuclei-templates-mcp](https://github.com/garag0l/nuclei-templates-mcp) : ![starts](https://img.shields.io/github/stars/garag0l/nuclei-templates-mcp.svg) ![forks](https://img.shields.io/github/forks/garag0l/nuclei-templates-mcp.svg)
+
 ## CVE-2026-34472
 
 - [https://github.com/muhammadaliattai-source/router-security-audit](https://github.com/muhammadaliattai-source/router-security-audit) : ![starts](https://img.shields.io/github/stars/muhammadaliattai-source/router-security-audit.svg) ![forks](https://img.shields.io/github/forks/muhammadaliattai-source/router-security-audit.svg)
@@ -266,6 +294,14 @@ Users are recommended to upgrade to Apache Roller 6.1.6 or later, which disables
 ## CVE-2026-41089
 
 - [https://github.com/ashrafzaryouh/CVE-2026-41089](https://github.com/ashrafzaryouh/CVE-2026-41089) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-41089.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-41089.svg)
+
+## CVE-2026-41875
+> Quick.Cart is vulnerable to Cross-Site Request Forgery in admin config panel. Malicious attacker can craft special website, which when visited by the admin, will automatically send a POST request that changes admin&#x27;s login and password.
+This software does implement simple protection against this type of attack, but it is easily bypassed by manipulating the referer header. All forms available in this software are potentially vulnerable.
+
+This issue was fixed in a patch to version 6.7 published on
+
+- [https://github.com/KarolCzubernat/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover](https://github.com/KarolCzubernat/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover) : ![starts](https://img.shields.io/github/stars/KarolCzubernat/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover.svg) ![forks](https://img.shields.io/github/forks/KarolCzubernat/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover.svg)
 
 ## CVE-2026-42208
 
@@ -307,8 +343,28 @@ problems:
 
   1) the rbtree dequeue happens without waiter::task::pi_l
 
+- [https://github.com/anVzdGFtb25/GhostLock-Honor90-REA-AN00](https://github.com/anVzdGFtb25/GhostLock-Honor90-REA-AN00) : ![starts](https://img.shields.io/github/stars/anVzdGFtb25/GhostLock-Honor90-REA-AN00.svg) ![forks](https://img.shields.io/github/forks/anVzdGFtb25/GhostLock-Honor90-REA-AN00.svg)
+- [https://github.com/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00](https://github.com/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00) : ![starts](https://img.shields.io/github/stars/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00.svg) ![forks](https://img.shields.io/github/forks/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00.svg)
 - [https://github.com/taowen/sm-g986u-kernel](https://github.com/taowen/sm-g986u-kernel) : ![starts](https://img.shields.io/github/stars/taowen/sm-g986u-kernel.svg) ![forks](https://img.shields.io/github/forks/taowen/sm-g986u-kernel.svg)
 - [https://github.com/zetaloop/ghostlock20](https://github.com/zetaloop/ghostlock20) : ![starts](https://img.shields.io/github/stars/zetaloop/ghostlock20.svg) ![forks](https://img.shields.io/github/forks/zetaloop/ghostlock20.svg)
+
+## CVE-2026-46333
+> In the Linux kernel, the following vulnerability has been resolved:
+
+ptrace: slightly saner &#x27;get_dumpable()&#x27; logic
+
+The &#x27;dumpability&#x27; of a task is fundamentally about the memory image of
+the task - the concept comes from whether it can core dump or not - and
+makes no sense when you don&#x27;t have an associated mm.
+
+And almost all users do in fact use it only for the case where the task
+has a mm pointer.
+
+But we have one odd special case: ptrace_may_access() uses &#x27;dumpable&#x27; to
+check various other thi
+
+- [https://github.com/Luscious8/CVE-2026-46333-PoC](https://github.com/Luscious8/CVE-2026-46333-PoC) : ![starts](https://img.shields.io/github/stars/Luscious8/CVE-2026-46333-PoC.svg) ![forks](https://img.shields.io/github/forks/Luscious8/CVE-2026-46333-PoC.svg)
+- [https://github.com/Luscious8/Poc-CVE-2026-46333](https://github.com/Luscious8/Poc-CVE-2026-46333) : ![starts](https://img.shields.io/github/stars/Luscious8/Poc-CVE-2026-46333.svg) ![forks](https://img.shields.io/github/forks/Luscious8/Poc-CVE-2026-46333.svg)
 
 ## CVE-2026-58192
 
@@ -317,6 +373,10 @@ problems:
 ## CVE-2026-58254
 
 - [https://github.com/googlesky/CVE-2026-58254](https://github.com/googlesky/CVE-2026-58254) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-58254.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-58254.svg)
+
+## CVE-2026-59273
+
+- [https://github.com/abraxas/cve-2026-59273-spring-security-elmatcher](https://github.com/abraxas/cve-2026-59273-spring-security-elmatcher) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-59273-spring-security-elmatcher.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-59273-spring-security-elmatcher.svg)
 
 ## CVE-2026-61725
 > sevenz-rust2 is a Rust-native 7z compressor and `decompress`or. Prior to 0.21.1, extracting an attacker-supplied 7z archive can write or overwrite files outside the destination directory. In `src/util/decompress.rs`, `decompress_impl` computes each destination with `dest.join(entry.name())` without normalizing the archive&#x27;s UTF-16 entry name or verifying containment, and `default_entry_extract_fn` writes to it with `File::create`. Parent-directory components escape the extraction root, and an ab
@@ -382,6 +442,13 @@ problems:
 ## CVE-2026-69261
 
 - [https://github.com/googlesky/CVE-2026-69261](https://github.com/googlesky/CVE-2026-69261) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-69261.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-69261.svg)
+
+## CVE-2026-76466
+> A vulnerability in the database service feature of Cisco Expressway Series could allow an unauthenticated, remote attacker with network access to a Cisco Expressway device to execute arbitrary operating system commands as&amp;nbsp;root.
+
+This vulnerability is due to the use of persistent cookies. Additionally, there is insufficient validation of client certificates when the TLS Verify Mode is set to Enabled for clustering, which means that client certificates are not validated. An attacker with po
+
+- [https://github.com/wa6n3r/cve-2026-76466](https://github.com/wa6n3r/cve-2026-76466) : ![starts](https://img.shields.io/github/stars/wa6n3r/cve-2026-76466.svg) ![forks](https://img.shields.io/github/forks/wa6n3r/cve-2026-76466.svg)
 
 ## CVE-2026-77312
 

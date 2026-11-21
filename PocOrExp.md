@@ -172,10 +172,14 @@
 
 - [https://github.com/yingcaipro-cmd/CVE-2026-130848](https://github.com/yingcaipro-cmd/CVE-2026-130848) : ![starts](https://img.shields.io/github/stars/yingcaipro-cmd/CVE-2026-130848.svg) ![forks](https://img.shields.io/github/forks/yingcaipro-cmd/CVE-2026-130848.svg)
 
+- [https://github.com/Zer0Breach/CVE-2026-130848](https://github.com/Zer0Breach/CVE-2026-130848) : ![starts](https://img.shields.io/github/stars/Zer0Breach/CVE-2026-130848.svg) ![forks](https://img.shields.io/github/forks/Zer0Breach/CVE-2026-130848.svg)
+
 ## CVE-2026-130847
 > Dolibarr ERP CRM before 24.0.2 contains an improper authorization vulnerability in the Users REST API put() method that allows non-admin API users to set administrator passwords. Authenticated users with user modification and password rights can send a PUT request to the users endpoint with a chosen pass value for a SuperAdmin account and then log in as that administrator.
 
 - [https://github.com/yingcaipro-cmd/CVE-2026-130847](https://github.com/yingcaipro-cmd/CVE-2026-130847) : ![starts](https://img.shields.io/github/stars/yingcaipro-cmd/CVE-2026-130847.svg) ![forks](https://img.shields.io/github/forks/yingcaipro-cmd/CVE-2026-130847.svg)
+
+- [https://github.com/Zer0Breach/CVE-2026-130847](https://github.com/Zer0Breach/CVE-2026-130847) : ![starts](https://img.shields.io/github/stars/Zer0Breach/CVE-2026-130847.svg) ![forks](https://img.shields.io/github/forks/Zer0Breach/CVE-2026-130847.svg)
 
 ## CVE-2026-130648
 > WWBN AVideo from 6.5 contains a stored cross-site scripting vulnerability that allows users with upload permission to inject script by submitting a javascript: scheme videoLink for embed videos. The unvalidated URL is rendered into an iframe src in videoEmbeded.php and PlayerSkins.php, executing for viewers including administrators and enabling creation of new administrator accounts.
@@ -529,6 +533,8 @@ The specific flaw exists within the FileStorageController class. The issue resul
 
 - [https://github.com/googlesky/CVE-2026-126170](https://github.com/googlesky/CVE-2026-126170) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126170.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126170.svg)
 
+- [https://github.com/im-hanzou/cve-2026-126170-fortimanager-jsonrpc-rce](https://github.com/im-hanzou/cve-2026-126170-fortimanager-jsonrpc-rce) : ![starts](https://img.shields.io/github/stars/im-hanzou/cve-2026-126170-fortimanager-jsonrpc-rce.svg) ![forks](https://img.shields.io/github/forks/im-hanzou/cve-2026-126170-fortimanager-jsonrpc-rce.svg)
+
 ## CVE-2026-126148
 > A improper neutralization of special elements used in an os command (&#x27;os command injection&#x27;) vulnerability in Fortinet FortiMail 8.0.0 through 8.0.1, FortiMail 7.6.0 through 7.6.6 may allow an unauthenticated attacker to execute unauthorized code or commands via crafted HA join-request packets.
 
@@ -681,6 +687,8 @@ When converting from UCS-4, these encoders may encounter a combining base such a
 
 - [https://github.com/foxcornlab/vmware-vcenter-scanner](https://github.com/foxcornlab/vmware-vcenter-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/vmware-vcenter-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/vmware-vcenter-scanner.svg)
 
+- [https://github.com/Sable-Research/CVE-2026-123890-Research](https://github.com/Sable-Research/CVE-2026-123890-Research) : ![starts](https://img.shields.io/github/stars/Sable-Research/CVE-2026-123890-Research.svg) ![forks](https://img.shields.io/github/forks/Sable-Research/CVE-2026-123890-Research.svg)
+
 ## CVE-2026-123807
 > Signal K Server is a server application that runs on a central hub in a boat. From 2.0.0 until 2.34.0 for Signal K Server and from 1.0.0 until 1.5.3 for @signalk/resources-provider, the v2 REST route GET /signalk/v2/api/resources/:resourceType/:resourceId accepts an unsafe resourceId that can escape the intended resource directory. The route passes the attacker-controlled resourceId through src/api/resources/index.ts to FileStore.getResource() in packages/resources-provider-plugin/src/filestorag
 
@@ -746,6 +754,8 @@ This vulnerability may allow remote attackers to cause a denial-of-service (D
 - [https://github.com/federiconbaez/cve-2026-123633-detector](https://github.com/federiconbaez/cve-2026-123633-detector) : ![starts](https://img.shields.io/github/stars/federiconbaez/cve-2026-123633-detector.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cve-2026-123633-detector.svg)
 
 - [https://github.com/Nexxus67/CVE-2026-123633-PoC](https://github.com/Nexxus67/CVE-2026-123633-PoC) : ![starts](https://img.shields.io/github/stars/Nexxus67/CVE-2026-123633-PoC.svg) ![forks](https://img.shields.io/github/forks/Nexxus67/CVE-2026-123633-PoC.svg)
+
+- [https://github.com/grupooruss/Division81-cve-2026-123633](https://github.com/grupooruss/Division81-cve-2026-123633) : ![starts](https://img.shields.io/github/stars/grupooruss/Division81-cve-2026-123633.svg) ![forks](https://img.shields.io/github/forks/grupooruss/Division81-cve-2026-123633.svg)
 
 ## CVE-2026-123618
 > ABP Framework before 10.7.1 contains an authentication bypass vulnerability that skips account state and two-factor checks when password login succeeds through a registered IExternalLoginProvider. Attackers holding the external directory password for deactivated, locked, or 2FA-protected accounts can obtain valid access tokens from the /connect/token password grant.
@@ -1850,6 +1860,10 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 
 - [https://github.com/m19o/j4s-runner-check](https://github.com/m19o/j4s-runner-check) : ![starts](https://img.shields.io/github/stars/m19o/j4s-runner-check.svg) ![forks](https://img.shields.io/github/forks/m19o/j4s-runner-check.svg)
 
+- [https://github.com/BanroxArt/jvm-sweep](https://github.com/BanroxArt/jvm-sweep) : ![starts](https://img.shields.io/github/stars/BanroxArt/jvm-sweep.svg) ![forks](https://img.shields.io/github/forks/BanroxArt/jvm-sweep.svg)
+
+- [https://github.com/akshutgoyal/Java4Shell](https://github.com/akshutgoyal/Java4Shell) : ![starts](https://img.shields.io/github/stars/akshutgoyal/Java4Shell.svg) ![forks](https://img.shields.io/github/forks/akshutgoyal/Java4Shell.svg)
+
 ## CVE-2026-114820
 
 - [https://github.com/joedayz/cve-2026-114820-java-scan](https://github.com/joedayz/cve-2026-114820-java-scan) : ![starts](https://img.shields.io/github/stars/joedayz/cve-2026-114820-java-scan.svg) ![forks](https://img.shields.io/github/forks/joedayz/cve-2026-114820-java-scan.svg)
@@ -1917,6 +1931,8 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 - [https://github.com/ynsmroztas/EtherPadSniper](https://github.com/ynsmroztas/EtherPadSniper) : ![starts](https://img.shields.io/github/stars/ynsmroztas/EtherPadSniper.svg) ![forks](https://img.shields.io/github/forks/ynsmroztas/EtherPadSniper.svg)
 
 - [https://github.com/LLCForge/CVE-2026-114516](https://github.com/LLCForge/CVE-2026-114516) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-114516.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-114516.svg)
+
+- [https://github.com/evenomn/CVE-2026-114516](https://github.com/evenomn/CVE-2026-114516) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-114516.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-114516.svg)
 
 ## CVE-2026-114509
 > Laravel is a web application framework. Prior to 12.68.0 and 13.29.0, TokenGuard configured as a standard token-based API guard does not reject a crafted non-string credential. Under affected MySQL or MariaDB configurations, the authentication lookup can match an unintended existing user, allowing an unauthenticated attacker to bypass authentication and take over an account on routes protected by TokenGuard. This issue is fixed in versions 12.68.0 and 13.29.0.
@@ -8679,6 +8695,8 @@ This vulnerability is due to the use of persistent cookies. Additionally, there 
 
 - [https://github.com/emirwtz/CVE-2026-76466](https://github.com/emirwtz/CVE-2026-76466) : ![starts](https://img.shields.io/github/stars/emirwtz/CVE-2026-76466.svg) ![forks](https://img.shields.io/github/forks/emirwtz/CVE-2026-76466.svg)
 
+- [https://github.com/wa6n3r/cve-2026-76466](https://github.com/wa6n3r/cve-2026-76466) : ![starts](https://img.shields.io/github/stars/wa6n3r/cve-2026-76466.svg) ![forks](https://img.shields.io/github/forks/wa6n3r/cve-2026-76466.svg)
+
 ## CVE-2026-76461
  A vulnerability in the email parsing of Cisco AsyncOS Software for Cisco Secure Email Gateway could allow an unauthenticated, remote attacker to execute arbitrary commands with root privileges on the underlying operating system.
 
@@ -9106,6 +9124,7 @@ Users are recommended to upgrade to version 6.11.0 or 7.3.0, which fixes the iss
 - [https://github.com/squeeze440/CVE-2026-73519-WolfStack-PoC](https://github.com/squeeze440/CVE-2026-73519-WolfStack-PoC) : ![starts](https://img.shields.io/github/stars/squeeze440/CVE-2026-73519-WolfStack-PoC.svg) ![forks](https://img.shields.io/github/forks/squeeze440/CVE-2026-73519-WolfStack-PoC.svg)
 
 ## CVE-2026-73504
+> cassandra-jdbc-wrapper provides a JDBC-compliant API over the Java driver for Apache Cassandra. Prior to 4.16.4 and 5.0.2, DriverUtil.toStringWithoutSensitiveValues() and DriverUtil.redactSensitiveValuesInJdbcUrl() redact the password property but not the equally sensitive token property used for DataStax Astra and other token-based authentication. When DEBUG logging is enabled, SessionHolder passes connection properties and JDBC URLs containing token through these helpers, causing the live toke
 
 - [https://github.com/googlesky/CVE-2026-73504](https://github.com/googlesky/CVE-2026-73504) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-73504.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-73504.svg)
 
@@ -11927,6 +11946,8 @@ Affected versions:
 ## CVE-2026-59273
 
 - [https://github.com/afernandesvigo/PoC-CVE-2026-59273](https://github.com/afernandesvigo/PoC-CVE-2026-59273) : ![starts](https://img.shields.io/github/stars/afernandesvigo/PoC-CVE-2026-59273.svg) ![forks](https://img.shields.io/github/forks/afernandesvigo/PoC-CVE-2026-59273.svg)
+
+- [https://github.com/abraxas/cve-2026-59273-spring-security-elmatcher](https://github.com/abraxas/cve-2026-59273-spring-security-elmatcher) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-59273-spring-security-elmatcher.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-59273-spring-security-elmatcher.svg)
 
 ## CVE-2026-59265
 > A code execution issue in the Java integration in Apache OpenOffice v4.1.16 and earlier allows a crafted untrusted document to trigger executing arbitrary (even remote) code when opened by the user.
@@ -15070,6 +15091,10 @@ set), and require a proper CAP_SYS_PTRACE capability to override.
 
 - [https://github.com/ashrafzaryouh/CVE-2026-46333](https://github.com/ashrafzaryouh/CVE-2026-46333) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-46333.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-46333.svg)
 
+- [https://github.com/Luscious8/CVE-2026-46333-PoC](https://github.com/Luscious8/CVE-2026-46333-PoC) : ![starts](https://img.shields.io/github/stars/Luscious8/CVE-2026-46333-PoC.svg) ![forks](https://img.shields.io/github/forks/Luscious8/CVE-2026-46333-PoC.svg)
+
+- [https://github.com/Luscious8/Poc-CVE-2026-46333](https://github.com/Luscious8/Poc-CVE-2026-46333) : ![starts](https://img.shields.io/github/stars/Luscious8/Poc-CVE-2026-46333.svg) ![forks](https://img.shields.io/github/forks/Luscious8/Poc-CVE-2026-46333.svg)
+
 ## CVE-2026-46331
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -16807,6 +16832,10 @@ remove_waiter() to cure those problems.
 
 - [https://github.com/taowen/sm-g986u-kernel](https://github.com/taowen/sm-g986u-kernel) : ![starts](https://img.shields.io/github/stars/taowen/sm-g986u-kernel.svg) ![forks](https://img.shields.io/github/forks/taowen/sm-g986u-kernel.svg)
 
+- [https://github.com/anVzdGFtb25/GhostLock-Honor90-REA-AN00](https://github.com/anVzdGFtb25/GhostLock-Honor90-REA-AN00) : ![starts](https://img.shields.io/github/stars/anVzdGFtb25/GhostLock-Honor90-REA-AN00.svg) ![forks](https://img.shields.io/github/forks/anVzdGFtb25/GhostLock-Honor90-REA-AN00.svg)
+
+- [https://github.com/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00](https://github.com/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00) : ![starts](https://img.shields.io/github/stars/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00.svg) ![forks](https://img.shields.io/github/forks/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00.svg)
+
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -17851,6 +17880,8 @@ This software does implement simple protection against this type of attack, but 
 This issue was fixed in a patch to version 6.7 published on
 
 - [https://github.com/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover](https://github.com/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover) : ![starts](https://img.shields.io/github/stars/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover.svg) ![forks](https://img.shields.io/github/forks/hhg69/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover.svg)
+
+- [https://github.com/KarolCzubernat/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover](https://github.com/KarolCzubernat/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover) : ![starts](https://img.shields.io/github/stars/KarolCzubernat/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover.svg) ![forks](https://img.shields.io/github/forks/KarolCzubernat/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover.svg)
 
 ## CVE-2026-41853
  Spring MVC and WebFlux applications are vulnerable to Multipart request smuggling attacks.
@@ -20039,6 +20070,10 @@ This issue affects Apache Traffic Server: from 9.2.0 through 9.2.14, from 10.1.0
 Users are recommended to upgrade to version 9.2.15 or 10.1.4, which fixes the issue.
 
 - [https://github.com/Boreas37/CVE-2026-33267-PoC](https://github.com/Boreas37/CVE-2026-33267-PoC) : ![starts](https://img.shields.io/github/stars/Boreas37/CVE-2026-33267-PoC.svg) ![forks](https://img.shields.io/github/forks/Boreas37/CVE-2026-33267-PoC.svg)
+
+## CVE-2026-33252
+
+- [https://github.com/garag0l/nuclei-templates-mcp](https://github.com/garag0l/nuclei-templates-mcp) : ![starts](https://img.shields.io/github/stars/garag0l/nuclei-templates-mcp.svg) ![forks](https://img.shields.io/github/forks/garag0l/nuclei-templates-mcp.svg)
 
 ## CVE-2026-33234
  AutoGPT is a workflow automation platform for creating, deploying, and managing continuous artificial intelligence agents. In versions 0.1.0 through 0.6.51,  SendEmailBlock in autogpt_platform/backend/backend/blocks/email_block.py accepts a user-supplied smtp_server (string) and smtp_port (integer) as per-execution block inputs, then passes them directly to Python's smtplib.SMTP() to open a raw TCP connection with no IP address validation. This completely bypasses the platform's hardened SSRF protections in backend/util/request.py — the validate_url_host() function and BLOCKED_IP_NETWORKS blocklist that every other block uses to block connections to private, loopback, link-local, and cloud metadata addresses. An authenticated user on a shared AutoGPT deployment can use this to perform non-blind internal network port scanning and service fingerprinting: smtplib reads the target's TCP banner on connect and embeds it in the exception message, which is persisted as user-visible block output via the execution framework. This issue has been fixed in version 0.6.52.
@@ -26917,6 +26952,8 @@ The following code is vulnerable to a stack overflow that is attacker-controlled
 ## CVE-2026-12118
 
 - [https://github.com/uday952/CVE-2026-12118-POC-](https://github.com/uday952/CVE-2026-12118-POC-) : ![starts](https://img.shields.io/github/stars/uday952/CVE-2026-12118-POC-.svg) ![forks](https://img.shields.io/github/forks/uday952/CVE-2026-12118-POC-.svg)
+
+- [https://github.com/overflowed7/CVE-2026-12118-PoC](https://github.com/overflowed7/CVE-2026-12118-PoC) : ![starts](https://img.shields.io/github/stars/overflowed7/CVE-2026-12118-PoC.svg) ![forks](https://img.shields.io/github/forks/overflowed7/CVE-2026-12118-PoC.svg)
 
 ## CVE-2026-12087
  Socket versions before 2.041 for Perl have an out-of-bounds heap read.
@@ -59323,6 +59360,10 @@ This issue affects BIND 9 versions 9.18.1 through 9.18.27, 9.19.0 through 9.19.2
 
 - [https://github.com/jidle123/cve-2024-0305exp](https://github.com/jidle123/cve-2024-0305exp) : ![starts](https://img.shields.io/github/stars/jidle123/cve-2024-0305exp.svg) ![forks](https://img.shields.io/github/forks/jidle123/cve-2024-0305exp.svg)
 
+## CVE-2024-0264
+
+- [https://github.com/wh1t3w1s4/CVE-2024-0264-PoC](https://github.com/wh1t3w1s4/CVE-2024-0264-PoC) : ![starts](https://img.shields.io/github/stars/wh1t3w1s4/CVE-2024-0264-PoC.svg) ![forks](https://img.shields.io/github/forks/wh1t3w1s4/CVE-2024-0264-PoC.svg)
+
 ## CVE-2024-0258
  The issue was addressed with improved memory handling. This issue is fixed in iOS 17.4 and iPadOS 17.4, macOS Sonoma 14.4, tvOS 17.4, watchOS 10.4. An app may be able to execute arbitrary code out of its sandbox or with certain elevated privileges.
 
@@ -81396,6 +81437,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/lmcewen9/cve-2021-42013](https://github.com/lmcewen9/cve-2021-42013) : ![starts](https://img.shields.io/github/stars/lmcewen9/cve-2021-42013.svg) ![forks](https://img.shields.io/github/forks/lmcewen9/cve-2021-42013.svg)
 
 - [https://github.com/mhd964/CVE-2021-42013](https://github.com/mhd964/CVE-2021-42013) : ![starts](https://img.shields.io/github/stars/mhd964/CVE-2021-42013.svg) ![forks](https://img.shields.io/github/forks/mhd964/CVE-2021-42013.svg)
+
+- [https://github.com/wvverez/CVE-2021-42013](https://github.com/wvverez/CVE-2021-42013) : ![starts](https://img.shields.io/github/stars/wvverez/CVE-2021-42013.svg) ![forks](https://img.shields.io/github/forks/wvverez/CVE-2021-42013.svg)
 
 ## CVE-2021-42008
  The decode_data function in drivers/net/hamradio/6pack.c in the Linux kernel before 5.13.13 has a slab out-of-bounds write. Input from a process that has the CAP_NET_ADMIN capability can lead to root access.
