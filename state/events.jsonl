@@ -12440,3 +12440,6 @@
 {"cve_id": "CVE-2026-122244", "ts": "2026-11-21T02:36:08Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-122244"}
 {"cve_id": "CVE-2026-129289", "ts": "2026-11-21T02:36:09Z", "type": "new_poc", "url": "https://github.com/tc4dy/CVE-2026-129289-PoC-Exploit"}
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-21T02:36:49Z", "type": "new_poc", "url": "https://github.com/zetaloop/ghostlock20"}
+{"cve_id": "CVE-2026-104885", "ts": "2026-11-21T02:55:27Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-104885"}
+{"cve_id": "CVE-2026-65843", "ts": "2026-11-21T02:57:40Z", "type": "new_poc", "url": "https://github.com/MaddyGuthridge/sync-rce"}
+{"cve_id": "CVE-2026-65971", "ts": "2026-11-21T02:57:45Z", "type": "new_poc", "url": "https://github.com/BiiTts/POC-CVE-2026-65971"}

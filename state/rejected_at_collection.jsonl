@@ -4076,3 +4076,14 @@
 {"cve_id": "CVE-2024-2782", "reason": "prefix_conflict_evidenced", "ts": "2026-11-20T18:23:53Z", "url": "https://github.com/0xilis/CVE-2024-27821", "url_ids": ["CVE-2024-27821"]}
 {"cve_id": "CVE-2026-4391", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T02:37:31Z", "url": "https://github.com/Boreas37/CVE-2026-43914-PoC", "url_ids": ["CVE-2026-43914"]}
 {"cve_id": "CVE-2026-10289", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T02:39:38Z", "url": "https://github.com/fixedbyreboot/CVE-2026-102895-POC", "url_ids": ["CVE-2026-102895"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T02:56:44Z", "url": "https://github.com/sixpacksecurity/CVE-2021-40438", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T02:56:44Z", "url": "https://github.com/sergiovks/CVE-2021-40438-Apache-2.4.48-SSRF-exploit", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T02:56:44Z", "url": "https://github.com/Cappricio-Securities/CVE-2021-40438", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T02:56:44Z", "url": "https://github.com/gassara-kys/CVE-2021-40438", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2021-4043", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T02:56:44Z", "url": "https://github.com/pisut4152/Sigma-Rule-for-CVE-2021-40438-exploitation-attempt", "url_ids": ["CVE-2021-40438"]}
+{"cve_id": "CVE-2026-6460", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T02:57:34Z", "url": "https://github.com/ashrafzaryouh/CVE-2026-64600", "url_ids": ["CVE-2026-64600"]}
+{"cve_id": "CVE-2026-6460", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T02:57:34Z", "url": "https://github.com/Debajyoti0-0/CVE-2026-64600", "url_ids": ["CVE-2026-64600"]}
+{"cve_id": "CVE-2026-6460", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T02:57:34Z", "url": "https://github.com/litosmartin/CVE-2026-64600-Refluxfs-PoC", "url_ids": ["CVE-2026-64600"]}
+{"cve_id": "CVE-2026-6460", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T02:57:34Z", "url": "https://github.com/HORKimhab/CVE-2026-64600", "url_ids": ["CVE-2026-64600"]}
+{"cve_id": "CVE-2022-3721", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T02:59:31Z", "url": "https://github.com/AgainstTheLight/CVE-2022-37210", "url_ids": ["CVE-2022-37210"]}
+{"cve_id": "CVE-2024-3912", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T03:03:46Z", "url": "https://github.com/theexploiters/CVE-2024-39123-Exploit", "url_ids": ["CVE-2024-39123"]}

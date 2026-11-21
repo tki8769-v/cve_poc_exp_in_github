@@ -27,6 +27,10 @@
 
 - [https://github.com/googlesky/CVE-2026-104883](https://github.com/googlesky/CVE-2026-104883) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104883.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104883.svg)
 
+## CVE-2026-104885
+
+- [https://github.com/googlesky/CVE-2026-104885](https://github.com/googlesky/CVE-2026-104885) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104885.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104885.svg)
+
 ## CVE-2026-105802
 
 - [https://github.com/googlesky/CVE-2026-105802](https://github.com/googlesky/CVE-2026-105802) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-105802.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-105802.svg)
@@ -128,6 +132,16 @@ problems:
 > js-toml is a TOML parser for JavaScript. Prior to 1.1.3, load() does not bound nesting or dotted-key depth in the recursive parser at src/load/parser.ts or the interpreter at src/load/interpreter.ts, so deeply nested arrays, deeply nested inline tables, or long dotted keys can exhaust the V8 call stack and throw a raw RangeError instead of the documented SyntaxParseError. Applications that parse attacker-controlled TOML and handle only SyntaxParseError can rethrow the unexpected exception, which
 
 - [https://github.com/googlesky/CVE-2026-63386](https://github.com/googlesky/CVE-2026-63386) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-63386.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-63386.svg)
+
+## CVE-2026-65843
+> sync-rpc runs asynchronous commands synchronously by putting them in a separate proces. Prior to version 1.3.7, if an attacker could guess the correct port and it was not blocked via a firewall, it was possible to load and execute arbitrary JavaScript files stored on the server running sync-rpc. This issue has been patched in version 1.3.7.
+
+- [https://github.com/MaddyGuthridge/sync-rce](https://github.com/MaddyGuthridge/sync-rce) : ![starts](https://img.shields.io/github/stars/MaddyGuthridge/sync-rce.svg) ![forks](https://img.shields.io/github/forks/MaddyGuthridge/sync-rce.svg)
+
+## CVE-2026-65971
+> Livewire PowerGrid creates data tables based on Laravel Livewire library. From version 6.0.0 to before version 6.10.4, the public Livewire property sortDirection is interpolated verbatim into a raw SQL ORDER BY clause and is not restricted to asc/desc, allowing arbitrary SQL injection through POST /livewire/update. This issue has been patched in version 6.10.4.
+
+- [https://github.com/BiiTts/POC-CVE-2026-65971](https://github.com/BiiTts/POC-CVE-2026-65971) : ![starts](https://img.shields.io/github/stars/BiiTts/POC-CVE-2026-65971.svg) ![forks](https://img.shields.io/github/forks/BiiTts/POC-CVE-2026-65971.svg)
 
 ## CVE-2026-69260
 

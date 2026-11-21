@@ -198,6 +198,7 @@
 - [https://github.com/LLCForge/CVE-2026-129496](https://github.com/LLCForge/CVE-2026-129496) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-129496.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-129496.svg)
 
 ## CVE-2026-129494
+> CloudPaste 1.1.0 through 1.9.1 contains an information disclosure vulnerability that allows unauthenticated attackers to obtain WebDAV storage credentials through the unauthenticated /api/proxy/link endpoint. Attackers who know a public share slug can retrieve the Basic Authorization header containing the WebDAV username and password, then read, modify, or delete files on the WebDAV server.
 
 - [https://github.com/googlesky/CVE-2026-129494](https://github.com/googlesky/CVE-2026-129494) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129494.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129494.svg)
 
@@ -1358,6 +1359,7 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 - [https://github.com/solo506/bkwld-decoy-cve-2026-116471](https://github.com/solo506/bkwld-decoy-cve-2026-116471) : ![starts](https://img.shields.io/github/stars/solo506/bkwld-decoy-cve-2026-116471.svg) ![forks](https://img.shields.io/github/forks/solo506/bkwld-decoy-cve-2026-116471.svg)
 
 ## CVE-2026-116448
+> Dell PowerStore SDNAS contains an OS Command Injection vulnerability that could allow an attacker with internal network access to execute arbitrary commands as root on the NAS node.
 
 - [https://github.com/LLCForge/CVE-2026-116448](https://github.com/LLCForge/CVE-2026-116448) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-116448.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-116448.svg)
 
@@ -4100,6 +4102,10 @@ device operation and availability. No authentication, session e
 > FacturaScripts before version 2026.7 contains a PHP object injection vulnerability in WidgetSelect::processFormData() that allows authenticated attackers to trigger unserialize() on raw POST data without an allowed_classes filter for multiple-select fields. Attackers can submit a serialized XLSXWriter object as the field value to invoke its __destruct() method, deleting arbitrary attacker-specified files such as config.php or backup data, resulting in denial of service and potential application 
 
 - [https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection](https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection) : ![starts](https://img.shields.io/github/stars/wvllxe/CVE-2026-104905-facturascripts-object-injection.svg) ![forks](https://img.shields.io/github/forks/wvllxe/CVE-2026-104905-facturascripts-object-injection.svg)
+
+## CVE-2026-104885
+
+- [https://github.com/googlesky/CVE-2026-104885](https://github.com/googlesky/CVE-2026-104885) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104885.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104885.svg)
 
 ## CVE-2026-104883
 
@@ -10041,6 +10047,11 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 
 - [https://github.com/Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization](https://github.com/Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization) : ![starts](https://img.shields.io/github/stars/Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization.svg) ![forks](https://img.shields.io/github/forks/Hunt-Benito/siyuan-mcp-admin-takeover-cve-2026-66012-missing-authorization.svg)
 
+## CVE-2026-65971
+> Livewire PowerGrid creates data tables based on Laravel Livewire library. From version 6.0.0 to before version 6.10.4, the public Livewire property sortDirection is interpolated verbatim into a raw SQL ORDER BY clause and is not restricted to asc/desc, allowing arbitrary SQL injection through POST /livewire/update. This issue has been patched in version 6.10.4.
+
+- [https://github.com/BiiTts/POC-CVE-2026-65971](https://github.com/BiiTts/POC-CVE-2026-65971) : ![starts](https://img.shields.io/github/stars/BiiTts/POC-CVE-2026-65971.svg) ![forks](https://img.shields.io/github/forks/BiiTts/POC-CVE-2026-65971.svg)
+
 ## CVE-2026-65894
  This vulnerability exists in CP PLUS EZ-P21 IP Camera due to improper authentication of HTTP endpoints. A remote attacker could exploit this vulnerability by conducting brute-force attacks against HTTP endpoint on the targeted device.
 
@@ -10072,6 +10083,11 @@ Successful exploitation of this vulnerability could allow an attacker to execute
  Joomla Extension - aimy-extensions.com - RCE via PHP object injection in Aimy Captcha-Less Form Guard 18.0 - 20.0 - A forged clfgd field allows PHP objection injection and thereby remote code execution.
 
 - [https://github.com/shinthink/CVE-2026-65883](https://github.com/shinthink/CVE-2026-65883) : ![starts](https://img.shields.io/github/stars/shinthink/CVE-2026-65883.svg) ![forks](https://img.shields.io/github/forks/shinthink/CVE-2026-65883.svg)
+
+## CVE-2026-65843
+> sync-rpc runs asynchronous commands synchronously by putting them in a separate proces. Prior to version 1.3.7, if an attacker could guess the correct port and it was not blocked via a firewall, it was possible to load and execute arbitrary JavaScript files stored on the server running sync-rpc. This issue has been patched in version 1.3.7.
+
+- [https://github.com/MaddyGuthridge/sync-rce](https://github.com/MaddyGuthridge/sync-rce) : ![starts](https://img.shields.io/github/stars/MaddyGuthridge/sync-rce.svg) ![forks](https://img.shields.io/github/forks/MaddyGuthridge/sync-rce.svg)
 
 ## CVE-2026-65761
  Joomla Extension - joomshaper.com - Unauthenticated SQL injection in Easy Store extension 1.0.0-2.0.1 - Improper validation of order parameters lead to an unauthenticated SQL injection in easystore, allowing full DB read access including credentials and sessions.
