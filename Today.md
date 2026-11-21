@@ -15,6 +15,11 @@
 
 - [https://github.com/la-padula/CVE-2021-22204](https://github.com/la-padula/CVE-2021-22204) : ![starts](https://img.shields.io/github/stars/la-padula/CVE-2021-22204.svg) ![forks](https://img.shields.io/github/forks/la-padula/CVE-2021-22204.svg)
 
+## CVE-2021-44228
+
+- [https://github.com/for-toolathlon/log4shell-audit-2](https://github.com/for-toolathlon/log4shell-audit-2) : ![starts](https://img.shields.io/github/stars/for-toolathlon/log4shell-audit-2.svg) ![forks](https://img.shields.io/github/forks/for-toolathlon/log4shell-audit-2.svg)
+- [https://github.com/for-toolathlon/log4shell-audit2](https://github.com/for-toolathlon/log4shell-audit2) : ![starts](https://img.shields.io/github/stars/for-toolathlon/log4shell-audit2.svg) ![forks](https://img.shields.io/github/forks/for-toolathlon/log4shell-audit2.svg)
+
 ## CVE-2022-38694
 
 - [https://github.com/MissMudan/e5u-root-notes](https://github.com/MissMudan/e5u-root-notes) : ![starts](https://img.shields.io/github/stars/MissMudan/e5u-root-notes.svg) ![forks](https://img.shields.io/github/forks/MissMudan/e5u-root-notes.svg)
@@ -266,6 +271,10 @@ Users are recommended to upgrade to Apache Roller 6.1.6 or later, which disables
 
 - [https://github.com/ashrafzaryouh/CVE-2026-42208](https://github.com/ashrafzaryouh/CVE-2026-42208) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-42208.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-42208.svg)
 - [https://github.com/wangp0tato/poc_cve-2026-42208](https://github.com/wangp0tato/poc_cve-2026-42208) : ![starts](https://img.shields.io/github/stars/wangp0tato/poc_cve-2026-42208.svg) ![forks](https://img.shields.io/github/forks/wangp0tato/poc_cve-2026-42208.svg)
+
+## CVE-2026-42945
+
+- [https://github.com/ashrafzaryouh/CVE-2026-42945](https://github.com/ashrafzaryouh/CVE-2026-42945) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-42945.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-42945.svg)
 
 ## CVE-2026-43284
 > In the Linux kernel, the following vulnerability has been resolved:

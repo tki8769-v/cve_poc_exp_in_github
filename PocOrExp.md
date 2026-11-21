@@ -8818,6 +8818,7 @@ Successful exploitation may allow arbitrary command execution with elevated priv
 - [https://github.com/ZeroDayEvil/CVE-2026-75604-PoC](https://github.com/ZeroDayEvil/CVE-2026-75604-PoC) : ![starts](https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-75604-PoC.svg) ![forks](https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-75604-PoC.svg)
 
 ## CVE-2026-75521
+> Miren Runtime provides the runtime component for the Miren application platform. Prior to 0.11.1, the QUIC/HTTP3 RPC server on the default port 8443 uses tls.RequestClientCert and does not verify that presented certificates chain to the configured cluster certificate authority. The RPC authenticators derive a caller identity from PeerCertificates[0].Subject.CommonName without requiring a non-empty VerifiedChains value, and certificate identities bypass all RBAC checks. A network attacker who can
 
 - [https://github.com/LLCForge/CVE-2026-75521](https://github.com/LLCForge/CVE-2026-75521) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-75521.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-75521.svg)
 
@@ -9418,6 +9419,7 @@ WebhookUrlValidator classified a push notification webhook host in two places th
 - [https://github.com/tmvictorpeters/jbo4rgl](https://github.com/tmvictorpeters/jbo4rgl) : ![starts](https://img.shields.io/github/stars/tmvictorpeters/jbo4rgl.svg) ![forks](https://img.shields.io/github/forks/tmvictorpeters/jbo4rgl.svg)
 
 ## CVE-2026-71481
+> ALTCHA PHP is a lightweight PHP library for creating and verifying ALTCHA challenges. From 2.0.0 until 2.0.3, the verifySolution method skips HMAC signature verification when a challenge payload omits the signature field, even when hmacSignatureSecret is configured. An attacker can remove the signature, supply attacker-selected low-difficulty challenge parameters, solve the resulting proof of work, and submit a payload that verifies successfully, bypassing the CAPTCHA control. This issue is fixe
 
 - [https://github.com/LLCForge/CVE-2026-71481](https://github.com/LLCForge/CVE-2026-71481) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-71481.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-71481.svg)
 
@@ -17219,6 +17221,8 @@ Defer the kfree() to an RCU callback to prevent UAF.
 - [https://github.com/basesixtythree/B63-POC-CVE-2026-42945](https://github.com/basesixtythree/B63-POC-CVE-2026-42945) : ![starts](https://img.shields.io/github/stars/basesixtythree/B63-POC-CVE-2026-42945.svg) ![forks](https://img.shields.io/github/forks/basesixtythree/B63-POC-CVE-2026-42945.svg)
 
 - [https://github.com/richard-rodriguez26/CVE-2026-42945](https://github.com/richard-rodriguez26/CVE-2026-42945) : ![starts](https://img.shields.io/github/stars/richard-rodriguez26/CVE-2026-42945.svg) ![forks](https://img.shields.io/github/forks/richard-rodriguez26/CVE-2026-42945.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-42945](https://github.com/ashrafzaryouh/CVE-2026-42945) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-42945.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-42945.svg)
 
 ## CVE-2026-42926
  When NGINX Open Source is configured to proxy HTTP/2 traffic by setting proxy_http_version to 2, and also uses proxy_set_body, an attacker may be able to inject frame headers and payload bytes to the upstream peer.  Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated.
@@ -80487,6 +80491,10 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/minBuild/unhacked](https://github.com/minBuild/unhacked) : ![starts](https://img.shields.io/github/stars/minBuild/unhacked.svg) ![forks](https://img.shields.io/github/forks/minBuild/unhacked.svg)
 
 - [https://github.com/for-toolathlon/log4shell-audit](https://github.com/for-toolathlon/log4shell-audit) : ![starts](https://img.shields.io/github/stars/for-toolathlon/log4shell-audit.svg) ![forks](https://img.shields.io/github/forks/for-toolathlon/log4shell-audit.svg)
+
+- [https://github.com/for-toolathlon/log4shell-audit-2](https://github.com/for-toolathlon/log4shell-audit-2) : ![starts](https://img.shields.io/github/stars/for-toolathlon/log4shell-audit-2.svg) ![forks](https://img.shields.io/github/forks/for-toolathlon/log4shell-audit-2.svg)
+
+- [https://github.com/for-toolathlon/log4shell-audit2](https://github.com/for-toolathlon/log4shell-audit2) : ![starts](https://img.shields.io/github/stars/for-toolathlon/log4shell-audit2.svg) ![forks](https://img.shields.io/github/forks/for-toolathlon/log4shell-audit2.svg)
 
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.

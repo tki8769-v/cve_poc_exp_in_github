@@ -12527,3 +12527,14 @@
 {"cve_id": "CVE-2026-41089", "ts": "2026-11-21T14:05:10Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-41089"}
 {"cve_id": "CVE-2026-42208", "ts": "2026-11-21T14:13:15Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-42208"}
 {"cve_id": "CVE-2026-42208", "ts": "2026-11-21T14:13:15Z", "type": "new_poc", "url": "https://github.com/wangp0tato/poc_cve-2026-42208"}
+{"cve_id": "CVE-2025-59906", "ts": "2026-11-21T14:15:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59907", "ts": "2026-11-21T14:15:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59908", "ts": "2026-11-21T14:15:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59909", "ts": "2026-11-21T14:15:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59910", "ts": "2026-11-21T14:15:10Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59911", "ts": "2026-11-21T14:15:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59912", "ts": "2026-11-21T14:15:12Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49981", "ts": "2026-11-21T14:22:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-21T14:28:14Z", "type": "new_poc", "url": "https://github.com/for-toolathlon/log4shell-audit-2"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-21T14:28:14Z", "type": "new_poc", "url": "https://github.com/for-toolathlon/log4shell-audit2"}
+{"cve_id": "CVE-2026-42945", "ts": "2026-11-21T14:32:21Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-42945"}
