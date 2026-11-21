@@ -12516,3 +12516,14 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-21T13:39:49Z", "type": "new_poc", "url": "https://github.com/taowen/sm-g986u-kernel"}
 {"cve_id": "CVE-2026-121481", "ts": "2026-11-21T13:39:49Z", "type": "new_poc", "url": "https://github.com/Mahgal/openssl-evp-check"}
 {"cve_id": "CVE-2026-123890", "ts": "2026-11-21T13:39:49Z", "type": "new_poc", "url": "https://github.com/foxcornlab/vmware-vcenter-scanner"}
+{"cve_id": "CVE-2025-59906", "ts": "2026-11-21T13:51:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59907", "ts": "2026-11-21T13:51:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59908", "ts": "2026-11-21T13:51:33Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59909", "ts": "2026-11-21T13:51:34Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59910", "ts": "2026-11-21T13:51:35Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59911", "ts": "2026-11-21T13:51:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59912", "ts": "2026-11-21T13:51:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49981", "ts": "2026-11-21T13:58:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-41089", "ts": "2026-11-21T14:05:10Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-41089"}
+{"cve_id": "CVE-2026-42208", "ts": "2026-11-21T14:13:15Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-42208"}
+{"cve_id": "CVE-2026-42208", "ts": "2026-11-21T14:13:15Z", "type": "new_poc", "url": "https://github.com/wangp0tato/poc_cve-2026-42208"}
