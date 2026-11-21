@@ -12565,3 +12565,13 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-21T22:32:37Z", "type": "new_poc", "url": "https://github.com/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00"}
 {"cve_id": "CVE-2026-41875", "ts": "2026-11-21T22:33:31Z", "type": "new_poc", "url": "https://github.com/KarolCzubernat/CVE-2026-41875-EXPLOIT-QuickCart-one-click-Account-Takeover"}
 {"cve_id": "CVE-2026-126170", "ts": "2026-11-21T22:35:36Z", "type": "new_poc", "url": "https://github.com/im-hanzou/cve-2026-126170-fortimanager-jsonrpc-rce"}
+{"cve_id": "CVE-2025-59906", "ts": "2026-11-21T22:43:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59907", "ts": "2026-11-21T22:43:52Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59908", "ts": "2026-11-21T22:43:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59909", "ts": "2026-11-21T22:43:55Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59910", "ts": "2026-11-21T22:43:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59911", "ts": "2026-11-21T22:43:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59912", "ts": "2026-11-21T22:43:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-122119", "ts": "2026-11-21T22:50:31Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49981", "ts": "2026-11-21T22:56:56Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2017-0144", "ts": "2026-11-21T23:12:19Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2017-0144"}
