@@ -1839,6 +1839,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/MissMudan/e5u-root-notes](https://github.com/MissMudan/e5u-root-notes) : ![starts](https://img.shields.io/github/stars/MissMudan/e5u-root-notes.svg) ![forks](https://img.shields.io/github/forks/MissMudan/e5u-root-notes.svg)
 
+- [https://github.com/DazBot13-boopt/sc9863a-flash-free](https://github.com/DazBot13-boopt/sc9863a-flash-free) : ![starts](https://img.shields.io/github/stars/DazBot13-boopt/sc9863a-flash-free.svg) ![forks](https://img.shields.io/github/forks/DazBot13-boopt/sc9863a-flash-free.svg)
+
 ## CVE-2022-38691
  In BootROM, there is a possible missing validation for Certificate Type 0. This could lead to local escalation of privilege with no additional execution privileges needed.
 

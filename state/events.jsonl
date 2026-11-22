@@ -12634,3 +12634,8 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-22T08:51:29Z", "type": "new_poc", "url": "https://github.com/NotAndrej/GhostWatch"}
 {"cve_id": "CVE-2021-1905", "ts": "2026-11-22T08:51:47Z", "type": "new_poc", "url": "https://github.com/Gonvar/movistar-home-root"}
 {"cve_id": "CVE-2025-64446", "ts": "2026-11-22T08:56:04Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2025-64446"}
+{"cve_id": "CVE-2026-69451", "ts": "2026-11-22T09:09:21Z", "type": "new_poc", "url": "https://github.com/CreeperMPG/PasswordToolCVE"}
+{"cve_id": "CVE-2026-129304", "ts": "2026-11-22T09:09:24Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-129304"}
+{"cve_id": "CVE-2022-38694", "ts": "2026-11-22T09:09:25Z", "type": "new_poc", "url": "https://github.com/DazBot13-boopt/sc9863a-flash-free"}
+{"cve_id": "CVE-2026-27876", "ts": "2026-11-22T09:14:31Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-27876"}
+{"cve_id": "CVE-2026-40369", "ts": "2026-11-22T09:16:38Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-40369"}

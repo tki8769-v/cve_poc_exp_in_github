@@ -97,6 +97,7 @@
 - [https://github.com/LLCForge/CVE-2026-133113](https://github.com/LLCForge/CVE-2026-133113) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133113.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133113.svg)
 
 ## CVE-2026-132825
+> Ruby before 3.3.14, 3.4.13, and 4.0.10 has a heap-based buffer overflow during case conversion. One byte can be written outside a buffer for, for example, ISO-8859-1 or Windows-1252.
 
 - [https://github.com/evenomn/CVE-2026-132825](https://github.com/evenomn/CVE-2026-132825) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-132825.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-132825.svg)
 
@@ -330,6 +331,11 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 > eml_parser serves as a python module for parsing eml files and returning various information found in the e-mail as well as computed information. In 3.0.3 and earlier, eml_parser.routing.parserouting() in eml_parser/routing.py builds a regular expression with multiple greedy capture groups and appends the npdate date literal extracted from a normalized copy of an attacker-controlled Received header, then searches that expression against the original unnormalized line. A formatting difference can
 
 - [https://github.com/googlesky/CVE-2026-129307](https://github.com/googlesky/CVE-2026-129307) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129307.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129307.svg)
+
+## CVE-2026-129304
+> Guard Core is an API security core engine for the FastAPI-Guard, FlaskAPI Guard, and DjAPI Guard adapters. From 1.0.0 until 3.13.0, _extract_from_forwarded_header() in guard_core/utils.py returns the selected X-Forwarded-For entry without validating that it is an IP address. In deployments configured with trusted_proxies where the selected entry is attacker-controlled, the arbitrary client_ip string reaches BehaviorTracker in guard_core/handlers/behavior_handler.py and is interpolated into Redis
+
+- [https://github.com/googlesky/CVE-2026-129304](https://github.com/googlesky/CVE-2026-129304) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129304.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129304.svg)
 
 ## CVE-2026-129302
 > Guard Core is an API security core engine for the FastAPI-Guard, FlaskAPI Guard, and DjAPI Guard adapters. From 3.5.0 until 3.13.0, built-in penetration-detection patterns in guard_core/handlers/suspatterns_handler.py execute through a direct pattern.search(content) call instead of the timeout-protected create_safe_matcher() path used for custom patterns. The built-in template-injection detector contains an unbounded expression with quadratic behavior when scanning repeated opening braces. Becau
@@ -9649,6 +9655,8 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 
 - [https://github.com/fj016/CVE-2026-69451-PoC](https://github.com/fj016/CVE-2026-69451-PoC) : ![starts](https://img.shields.io/github/stars/fj016/CVE-2026-69451-PoC.svg) ![forks](https://img.shields.io/github/forks/fj016/CVE-2026-69451-PoC.svg)
 
+- [https://github.com/CreeperMPG/PasswordToolCVE](https://github.com/CreeperMPG/PasswordToolCVE) : ![starts](https://img.shields.io/github/stars/CreeperMPG/PasswordToolCVE.svg) ![forks](https://img.shields.io/github/forks/CreeperMPG/PasswordToolCVE.svg)
+
 ## CVE-2026-69414
  Microsoft is aware of an elevation of privilege in the Microsoft Malware Protection Engine in Microsoft Defender publicly referred to as &quot;ShieldBreak &quot;.
 
@@ -18464,6 +18472,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 
 - [https://github.com/ZeroDayEvil/CVE-2026-40369-EXPLOIT](https://github.com/ZeroDayEvil/CVE-2026-40369-EXPLOIT) : ![starts](https://img.shields.io/github/stars/ZeroDayEvil/CVE-2026-40369-EXPLOIT.svg) ![forks](https://img.shields.io/github/forks/ZeroDayEvil/CVE-2026-40369-EXPLOIT.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-40369](https://github.com/ashrafzaryouh/CVE-2026-40369) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-40369.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-40369.svg)
+
 ## CVE-2026-40345
  deepmerge-ts is a typescript library providing functionality to deep merging of javascript objects. Prior to 8.0.0, the deepmerge, deepmergeCustom, deepmergeInto, and deepmergeIntoCustom APIs do not track visited objects or object pairs when recursively merging records. When two input values contain self-references at the same property path, the merge logic repeatedly revisits the same pair until Node.js raises RangeError: Maximum call stack size exceeded. Applications that merge attacker-controlled recursive object graphs can synchronously crash the affected process or cause repeated worker restarts. Plain JSON input alone cannot create the recursive graph required to trigger the issue. This issue is fixed in version 8.0.0.
 
@@ -22288,6 +22298,8 @@ Only instances in the following version ranges are affected:
 - [https://github.com/0xBlackash/CVE-2026-27876](https://github.com/0xBlackash/CVE-2026-27876) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-27876.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-27876.svg)
 
 - [https://github.com/atiilla/CVE-2026-27876](https://github.com/atiilla/CVE-2026-27876) : ![starts](https://img.shields.io/github/stars/atiilla/CVE-2026-27876.svg) ![forks](https://img.shields.io/github/forks/atiilla/CVE-2026-27876.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-27876](https://github.com/ashrafzaryouh/CVE-2026-27876) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-27876.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-27876.svg)
 
 ## CVE-2026-27831
  rldns is an open source DNS server. Version 1.3 has a heap-based out-of-bounds read that leads to denial of service. Version 1.4 contains a patch for the issue.

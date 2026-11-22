@@ -12,6 +12,10 @@
 - [https://github.com/SynJax200/log4shell](https://github.com/SynJax200/log4shell) : ![starts](https://img.shields.io/github/stars/SynJax200/log4shell.svg) ![forks](https://img.shields.io/github/forks/SynJax200/log4shell.svg)
 - [https://github.com/ashrafzaryouh/CVE-2021-44228](https://github.com/ashrafzaryouh/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2021-44228.svg)
 
+## CVE-2022-38694
+
+- [https://github.com/DazBot13-boopt/sc9863a-flash-free](https://github.com/DazBot13-boopt/sc9863a-flash-free) : ![starts](https://img.shields.io/github/stars/DazBot13-boopt/sc9863a-flash-free.svg) ![forks](https://img.shields.io/github/forks/DazBot13-boopt/sc9863a-flash-free.svg)
+
 ## CVE-2023-34362
 
 - [https://github.com/khaled970r/moveit-breach-analysis-sqli](https://github.com/khaled970r/moveit-breach-analysis-sqli) : ![starts](https://img.shields.io/github/stars/khaled970r/moveit-breach-analysis-sqli.svg) ![forks](https://img.shields.io/github/forks/khaled970r/moveit-breach-analysis-sqli.svg)
@@ -80,6 +84,11 @@
 
 - [https://github.com/googlesky/CVE-2026-129302](https://github.com/googlesky/CVE-2026-129302) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129302.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129302.svg)
 
+## CVE-2026-129304
+> Guard Core is an API security core engine for the FastAPI-Guard, FlaskAPI Guard, and DjAPI Guard adapters. From 1.0.0 until 3.13.0, _extract_from_forwarded_header() in guard_core/utils.py returns the selected X-Forwarded-For entry without validating that it is an IP address. In deployments configured with trusted_proxies where the selected entry is attacker-controlled, the arbitrary client_ip string reaches BehaviorTracker in guard_core/handlers/behavior_handler.py and is interpolated into Redis
+
+- [https://github.com/googlesky/CVE-2026-129304](https://github.com/googlesky/CVE-2026-129304) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129304.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129304.svg)
+
 ## CVE-2026-129307
 > eml_parser serves as a python module for parsing eml files and returning various information found in the e-mail as well as computed information. In 3.0.3 and earlier, eml_parser.routing.parserouting() in eml_parser/routing.py builds a regular expression with multiple greedy capture groups and appends the npdate date literal extracted from a normalized copy of an attacker-controlled Received header, then searches that expression against the original unnormalized line. A formatting difference can
 
@@ -93,6 +102,21 @@
 ## CVE-2026-134623
 
 - [https://github.com/SumitNayak1337/CVE-2026-134623](https://github.com/SumitNayak1337/CVE-2026-134623) : ![starts](https://img.shields.io/github/stars/SumitNayak1337/CVE-2026-134623.svg) ![forks](https://img.shields.io/github/forks/SumitNayak1337/CVE-2026-134623.svg)
+
+## CVE-2026-27876
+> A chained attack via SQL Expressions and a Grafana Enterprise plugin can lead to a remote arbitrary code execution impact (RCE). This is enabled by a feature in Grafana (OSS), so all users are always recommended to update to avoid future attack vectors going this path.
+
+Only instances with the sqlExpressions feature toggle enabled are vulnerable.
+
+Only instances in the following version ranges are affected:
+
+- 11.6.0 (inclusive) to 11.6.14 (exclusive): 11.6.14 has the fix. 11.5 and below are not
+
+- [https://github.com/ashrafzaryouh/CVE-2026-27876](https://github.com/ashrafzaryouh/CVE-2026-27876) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-27876.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-27876.svg)
+
+## CVE-2026-40369
+
+- [https://github.com/ashrafzaryouh/CVE-2026-40369](https://github.com/ashrafzaryouh/CVE-2026-40369) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-40369.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-40369.svg)
 
 ## CVE-2026-43499
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -122,6 +146,10 @@ problems:
 ## CVE-2026-58210
 
 - [https://github.com/googlesky/CVE-2026-58210](https://github.com/googlesky/CVE-2026-58210) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-58210.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-58210.svg)
+
+## CVE-2026-69451
+
+- [https://github.com/CreeperMPG/PasswordToolCVE](https://github.com/CreeperMPG/PasswordToolCVE) : ![starts](https://img.shields.io/github/stars/CreeperMPG/PasswordToolCVE.svg) ![forks](https://img.shields.io/github/forks/CreeperMPG/PasswordToolCVE.svg)
 
 ## CVE-2026-76466
 > A vulnerability in the database service feature of Cisco Expressway Series could allow an unauthenticated, remote attacker with network access to a Cisco Expressway device to execute arbitrary operating system commands as&amp;nbsp;root.
