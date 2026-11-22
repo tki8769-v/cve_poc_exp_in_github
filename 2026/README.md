@@ -14,6 +14,10 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-134623
+
+- [https://github.com/SumitNayak1337/CVE-2026-134623](https://github.com/SumitNayak1337/CVE-2026-134623) : ![starts](https://img.shields.io/github/stars/SumitNayak1337/CVE-2026-134623.svg) ![forks](https://img.shields.io/github/forks/SumitNayak1337/CVE-2026-134623.svg)
+
 ## CVE-2026-133968
 
 - [https://github.com/LLCForge/CVE-2026-133968](https://github.com/LLCForge/CVE-2026-133968) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133968.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133968.svg)
@@ -210,11 +214,17 @@
 
 - [https://github.com/googlesky/CVE-2026-130176](https://github.com/googlesky/CVE-2026-130176) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130176.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130176.svg)
 
+## CVE-2026-130007
+> k8s-mcp-server manages Kubernetes clusters through the Model Context Protocol. Prior to 1.1.0, SERVER_MODE defaults to SSE, with the listener on 0.0.0.0:8080, but main.go creates the SSE server without an authentication option or context function. The GET /sse handler creates a sessionId that is only a correlation value, and the POST /message handler accepts a loadable sessionId without an authorization or Origin check before dispatching tools/call; consequently, any client able to reach the por
+
+- [https://github.com/googlesky/CVE-2026-130007](https://github.com/googlesky/CVE-2026-130007) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130007.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130007.svg)
+
 ## CVE-2026-130001
 
 - [https://github.com/LLCForge/CVE-2026-130001](https://github.com/LLCForge/CVE-2026-130001) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-130001.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-130001.svg)
 
 ## CVE-2026-129987
+> Dokploy is a free, self-hostable Platform as a Service (PaaS). Prior to 0.31.1, the database password validation used by the MySQL, PostgreSQL, MariaDB, MongoDB, and Redis change-password procedures permits backticks, and the procedures interpolate attacker-controlled passwords into Bash command strings. An authenticated user who can update a database password can trigger command substitution before the database command runs, resulting in arbitrary operating-system command execution with the Dok
 
 - [https://github.com/evenomn/CVE-2026-129987](https://github.com/evenomn/CVE-2026-129987) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-129987.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-129987.svg)
 
@@ -311,6 +321,11 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 
 - [https://github.com/googlesky/CVE-2026-129349](https://github.com/googlesky/CVE-2026-129349) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129349.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129349.svg)
 
+## CVE-2026-129307
+> eml_parser serves as a python module for parsing eml files and returning various information found in the e-mail as well as computed information. In 3.0.3 and earlier, eml_parser.routing.parserouting() in eml_parser/routing.py builds a regular expression with multiple greedy capture groups and appends the npdate date literal extracted from a normalized copy of an attacker-controlled Received header, then searches that expression against the original unnormalized line. A formatting difference can
+
+- [https://github.com/googlesky/CVE-2026-129307](https://github.com/googlesky/CVE-2026-129307) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129307.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129307.svg)
+
 ## CVE-2026-129289
 
 - [https://github.com/LLCForge/CVE-2026-129289](https://github.com/LLCForge/CVE-2026-129289) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-129289.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-129289.svg)
@@ -321,6 +336,46 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 > A flaw has been found in Opixido OCMS up to b7c15660aba83d96677c1a9abaa69c082a24f21c. This impacts an unknown function of the file admin/TUI/index.php of the component Admin TUI. This manipulation of the argument img causes cross site scripting. The attack can be initiated remotely. The exploit has been published and may be used. Continious delivery with rolling releases is used by this product. Therefore, no version details of affected nor updated releases are available. The vendor was contacte
 
 - [https://github.com/Usama-Hanif131/CVE-2026-129254](https://github.com/Usama-Hanif131/CVE-2026-129254) : ![starts](https://img.shields.io/github/stars/Usama-Hanif131/CVE-2026-129254.svg) ![forks](https://img.shields.io/github/forks/Usama-Hanif131/CVE-2026-129254.svg)
+
+## CVE-2026-129234
+
+- [https://github.com/googlesky/CVE-2026-129234](https://github.com/googlesky/CVE-2026-129234) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129234.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129234.svg)
+
+## CVE-2026-129233
+
+- [https://github.com/googlesky/CVE-2026-129233](https://github.com/googlesky/CVE-2026-129233) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129233.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129233.svg)
+
+## CVE-2026-129232
+
+- [https://github.com/googlesky/CVE-2026-129232](https://github.com/googlesky/CVE-2026-129232) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129232.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129232.svg)
+
+## CVE-2026-129231
+
+- [https://github.com/googlesky/CVE-2026-129231](https://github.com/googlesky/CVE-2026-129231) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129231.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129231.svg)
+
+## CVE-2026-129230
+
+- [https://github.com/googlesky/CVE-2026-129230](https://github.com/googlesky/CVE-2026-129230) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129230.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129230.svg)
+
+## CVE-2026-129228
+
+- [https://github.com/googlesky/CVE-2026-129228](https://github.com/googlesky/CVE-2026-129228) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129228.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129228.svg)
+
+## CVE-2026-129227
+
+- [https://github.com/googlesky/CVE-2026-129227](https://github.com/googlesky/CVE-2026-129227) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129227.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129227.svg)
+
+## CVE-2026-129226
+
+- [https://github.com/googlesky/CVE-2026-129226](https://github.com/googlesky/CVE-2026-129226) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129226.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129226.svg)
+
+## CVE-2026-129225
+
+- [https://github.com/googlesky/CVE-2026-129225](https://github.com/googlesky/CVE-2026-129225) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129225.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129225.svg)
+
+## CVE-2026-129224
+
+- [https://github.com/googlesky/CVE-2026-129224](https://github.com/googlesky/CVE-2026-129224) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129224.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129224.svg)
 
 ## CVE-2026-129175
 
@@ -580,6 +635,11 @@ The specific flaw exists within the FileStorageController class. The issue resul
 > Fluxion before 6.39 contains an OS command injection vulnerability in the fluxion.sh target scanner, which decodes access point ESSIDs with eval after escaping only single quotes. Attackers within Wi-Fi range can broadcast an access point with a crafted SSID to execute commands as root when the operator scans or selects it.
 
 - [https://github.com/VulnSVNC/CVE-2026-125399](https://github.com/VulnSVNC/CVE-2026-125399) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-125399.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-125399.svg)
+
+## CVE-2026-125396
+> Ghostscript before 10.08.0 contains a -dSAFER bypass vulnerability in the .putgstringcopy procedure in gs_fonts.ps, which calls the privileged .forceput operator without checking operand types. Attackers can supply crafted PostScript or PDF documents that trigger a type error, recover .forceput via a custom error handler, and cause a use-after-free across save/restore to execute arbitrary code.
+
+- [https://github.com/Mahgal/upload2shell-check](https://github.com/Mahgal/upload2shell-check) : ![starts](https://img.shields.io/github/stars/Mahgal/upload2shell-check.svg) ![forks](https://img.shields.io/github/forks/Mahgal/upload2shell-check.svg)
 
 ## CVE-2026-125394
 > FreeRDP before 3.33.0 contains a heap use-after-free vulnerability in update_gdi_patblt(), update_gdi_polygon_cb() and update_gdi_mem3blt() that retain stale brush cache pointers. A malicious RDP server can resend CACHE_BRUSH to the same slot then send PATBLT, causing clients to read freed heap memory, disclosing data or crashing.
@@ -879,6 +939,8 @@ This vulnerability may allow remote attackers to cause a denial-of-service (D
 - [https://github.com/Pauloxc6/CVE-2026-123158](https://github.com/Pauloxc6/CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/Pauloxc6/CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/Pauloxc6/CVE-2026-123158.svg)
 
 - [https://github.com/unixsvr4/cve-sshole](https://github.com/unixsvr4/cve-sshole) : ![starts](https://img.shields.io/github/stars/unixsvr4/cve-sshole.svg) ![forks](https://img.shields.io/github/forks/unixsvr4/cve-sshole.svg)
+
+- [https://github.com/aparnaa19/cve-to-chaos](https://github.com/aparnaa19/cve-to-chaos) : ![starts](https://img.shields.io/github/stars/aparnaa19/cve-to-chaos.svg) ![forks](https://img.shields.io/github/forks/aparnaa19/cve-to-chaos.svg)
 
 ## CVE-2026-123039
 > The Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socket (/tmp/dynamic_socket) without authenticating connecting processes. An authenticated local user can send a command to the socket and have it executed as root.
@@ -4979,6 +5041,8 @@ in depth measure, let&#x27;s also check before we complete the checksum
 
 - [https://github.com/Yunnijian/CVE-2026-99491](https://github.com/Yunnijian/CVE-2026-99491) : ![starts](https://img.shields.io/github/stars/Yunnijian/CVE-2026-99491.svg) ![forks](https://img.shields.io/github/forks/Yunnijian/CVE-2026-99491.svg)
 
+- [https://github.com/FatBrother1/hapt-99491](https://github.com/FatBrother1/hapt-99491) : ![starts](https://img.shields.io/github/stars/FatBrother1/hapt-99491.svg) ![forks](https://img.shields.io/github/forks/FatBrother1/hapt-99491.svg)
+
 ## CVE-2026-99320
 
 - [https://github.com/ZZ2266/CVE-2026-99320](https://github.com/ZZ2266/CVE-2026-99320) : ![starts](https://img.shields.io/github/stars/ZZ2266/CVE-2026-99320.svg) ![forks](https://img.shields.io/github/forks/ZZ2266/CVE-2026-99320.svg)
@@ -4999,6 +5063,8 @@ or L2 being active, but SMM is also encoded in the page role.
 - [https://github.com/jmginer/pve-cve-2026-99312](https://github.com/jmginer/pve-cve-2026-99312) : ![starts](https://img.shields.io/github/stars/jmginer/pve-cve-2026-99312.svg) ![forks](https://img.shields.io/github/forks/jmginer/pve-cve-2026-99312.svg)
 
 - [https://github.com/suominen/CVE-2026-99312](https://github.com/suominen/CVE-2026-99312) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-99312.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-99312.svg)
+
+- [https://github.com/Quaerendir/cve-2026-99312-audit](https://github.com/Quaerendir/cve-2026-99312-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/cve-2026-99312-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/cve-2026-99312-audit.svg)
 
 ## CVE-2026-99288
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -8699,6 +8765,8 @@ This vulnerability is due to the use of persistent cookies. Additionally, there 
 
 - [https://github.com/wa6n3r/cve-2026-76466](https://github.com/wa6n3r/cve-2026-76466) : ![starts](https://img.shields.io/github/stars/wa6n3r/cve-2026-76466.svg) ![forks](https://img.shields.io/github/forks/wa6n3r/cve-2026-76466.svg)
 
+- [https://github.com/foxcornlab/cisco-expressway-scanner](https://github.com/foxcornlab/cisco-expressway-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/cisco-expressway-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/cisco-expressway-scanner.svg)
+
 ## CVE-2026-76461
  A vulnerability in the email parsing of Cisco AsyncOS Software for Cisco Secure Email Gateway could allow an unauthenticated, remote attacker to execute arbitrary commands with root privileges on the underlying operating system.
 
@@ -12085,6 +12153,18 @@ availability of the application.
 ## CVE-2026-58221
 
 - [https://github.com/DevAli00/CVE-2026-58221](https://github.com/DevAli00/CVE-2026-58221) : ![starts](https://img.shields.io/github/stars/DevAli00/CVE-2026-58221.svg) ![forks](https://img.shields.io/github/forks/DevAli00/CVE-2026-58221.svg)
+
+## CVE-2026-58210
+
+- [https://github.com/googlesky/CVE-2026-58210](https://github.com/googlesky/CVE-2026-58210) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-58210.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-58210.svg)
+
+## CVE-2026-58209
+
+- [https://github.com/googlesky/CVE-2026-58209](https://github.com/googlesky/CVE-2026-58209) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-58209.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-58209.svg)
+
+## CVE-2026-58208
+
+- [https://github.com/googlesky/CVE-2026-58208](https://github.com/googlesky/CVE-2026-58208) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-58208.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-58208.svg)
 
 ## CVE-2026-58192
 

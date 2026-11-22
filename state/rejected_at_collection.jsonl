@@ -4098,3 +4098,4 @@
 {"cve_id": "CVE-2026-4350", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T22:40:32Z", "url": "https://github.com/attaattaatta/CVE-2026-43500", "url_ids": ["CVE-2026-43500"]}
 {"cve_id": "CVE-2026-2222", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T23:11:24Z", "url": "https://github.com/LucasVanHaaren/CVE-2026-22226", "url_ids": ["CVE-2026-22226"]}
 {"cve_id": "CVE-2026-2586", "reason": "prefix_conflict_evidenced", "ts": "2026-11-21T23:50:05Z", "url": "https://github.com/partywavesec/CVE-2026-25860", "url_ids": ["CVE-2026-25860"]}
+{"cve_id": "CVE-2026-12400", "reason": "prefix_conflict_evidenced", "ts": "2026-11-22T08:23:22Z", "url": "https://github.com/fixedbyreboot/CVE-2026-124002-POC", "url_ids": ["CVE-2026-124002"]}

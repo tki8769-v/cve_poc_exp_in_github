@@ -1724,6 +1724,10 @@
 
 - [https://github.com/for-toolathlon/log4shell-audit2](https://github.com/for-toolathlon/log4shell-audit2) : ![starts](https://img.shields.io/github/stars/for-toolathlon/log4shell-audit2.svg) ![forks](https://img.shields.io/github/forks/for-toolathlon/log4shell-audit2.svg)
 
+- [https://github.com/SynJax200/log4shell](https://github.com/SynJax200/log4shell) : ![starts](https://img.shields.io/github/stars/SynJax200/log4shell.svg) ![forks](https://img.shields.io/github/forks/SynJax200/log4shell.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2021-44228](https://github.com/ashrafzaryouh/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2021-44228.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
@@ -6716,6 +6720,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/DDestinys/CVE-2021-22986](https://github.com/DDestinys/CVE-2021-22986) : ![starts](https://img.shields.io/github/stars/DDestinys/CVE-2021-22986.svg) ![forks](https://img.shields.io/github/forks/DDestinys/CVE-2021-22986.svg)
 
 - [https://github.com/Osyanina/westone-CVE-2021-22986-scanner](https://github.com/Osyanina/westone-CVE-2021-22986-scanner) : ![starts](https://img.shields.io/github/stars/Osyanina/westone-CVE-2021-22986-scanner.svg) ![forks](https://img.shields.io/github/forks/Osyanina/westone-CVE-2021-22986-scanner.svg)
+
+- [https://github.com/qdtad/CVE-2021-22986](https://github.com/qdtad/CVE-2021-22986) : ![starts](https://img.shields.io/github/stars/qdtad/CVE-2021-22986.svg) ![forks](https://img.shields.io/github/forks/qdtad/CVE-2021-22986.svg)
 
 ## CVE-2021-22941
  Improper Access Control in Citrix ShareFile storage zones controller before 5.11.20 may allow an unauthenticated attacker to remotely compromise the storage zones controller.
