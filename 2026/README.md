@@ -111,22 +111,27 @@
 - [https://github.com/techdevfun/ruby2shell](https://github.com/techdevfun/ruby2shell) : ![starts](https://img.shields.io/github/stars/techdevfun/ruby2shell.svg) ![forks](https://img.shields.io/github/forks/techdevfun/ruby2shell.svg)
 
 ## CVE-2026-132749
+> Vtiger CRM through 8.4.0 contains a blind SQL injection vulnerability in ReportRun::generateAdvFilterSql() that allows authenticated low-privileged users to inject SQL via the bw comparator. Attackers can send a crafted advanced_filter parameter containing a single quote to the Reports getRecordsCount action to break out of BETWEEN literals and extract database contents.
 
 - [https://github.com/SHAHID-XT/CVE-2026-132749-Vtiger-CRM-Reports-SQLi](https://github.com/SHAHID-XT/CVE-2026-132749-Vtiger-CRM-Reports-SQLi) : ![starts](https://img.shields.io/github/stars/SHAHID-XT/CVE-2026-132749-Vtiger-CRM-Reports-SQLi.svg) ![forks](https://img.shields.io/github/forks/SHAHID-XT/CVE-2026-132749-Vtiger-CRM-Reports-SQLi.svg)
 
 ## CVE-2026-132748
+> Vtiger CRM through 8.4.0 contains a PHP code injection vulnerability that allows authenticated administrators to inject code via the updatedFields parameter into config.inc.php. Attackers can supply a crafted HELPDESK_SUPPORT_EMAIL_ID value that passes email validation but closes the PHP string literal to execute arbitrary operating system commands.
 
 - [https://github.com/SHAHID-XT/CVE-2026-132748-Vtiger-CRM-PHP-Code-Injection](https://github.com/SHAHID-XT/CVE-2026-132748-Vtiger-CRM-PHP-Code-Injection) : ![starts](https://img.shields.io/github/stars/SHAHID-XT/CVE-2026-132748-Vtiger-CRM-PHP-Code-Injection.svg) ![forks](https://img.shields.io/github/forks/SHAHID-XT/CVE-2026-132748-Vtiger-CRM-PHP-Code-Injection.svg)
 
 ## CVE-2026-132747
+> Vtiger CRM through 8.4.0 contains an SQL injection vulnerability that allows authenticated users with export access to inject SQL through unvalidated selected_ids values in ExportData.php. Attackers can send a UNION SELECT payload in selected_ids[] to the ExportSelectedRecords mode and read password hashes and access keys from the exported CSV.
 
 - [https://github.com/SHAHID-XT/CVE-2026-132747-Vtiger-CRM-ExportData-SQLi](https://github.com/SHAHID-XT/CVE-2026-132747-Vtiger-CRM-ExportData-SQLi) : ![starts](https://img.shields.io/github/stars/SHAHID-XT/CVE-2026-132747-Vtiger-CRM-ExportData-SQLi.svg) ![forks](https://img.shields.io/github/forks/SHAHID-XT/CVE-2026-132747-Vtiger-CRM-ExportData-SQLi.svg)
 
 ## CVE-2026-132746
+> Vtiger CRM through 8.4.0 contains a blind SQL injection vulnerability that allows authenticated low-privileged users to inject SQL via unescaped clientid values in the wsapp_map webservice operation. Attackers can register a sync application with wsapp_register, then send delete-mode entries with quoted clientid values processed by SyncServer.php to extract database contents including administrator access keys.
 
 - [https://github.com/SHAHID-XT/CVE-2026-132746-Vtiger-CRM-WSAPP-SQLi-](https://github.com/SHAHID-XT/CVE-2026-132746-Vtiger-CRM-WSAPP-SQLi-) : ![starts](https://img.shields.io/github/stars/SHAHID-XT/CVE-2026-132746-Vtiger-CRM-WSAPP-SQLi-.svg) ![forks](https://img.shields.io/github/forks/SHAHID-XT/CVE-2026-132746-Vtiger-CRM-WSAPP-SQLi-.svg)
 
 ## CVE-2026-132745
+> Vtiger CRM through 8.4.0 contains a blind SQL injection vulnerability that allows authenticated non-administrative users to inject SQL through the k (does not contain) comparator in list view search_params. Attackers can send crafted search_params to the ListAjax getRecordsCount mode, breaking out of the unescaped NOT LIKE clause to extract database contents via boolean or time-based techniques.
 
 - [https://github.com/SHAHID-XT/CVE-2026-132745-Vtiger-CRM-Blind-SQLi](https://github.com/SHAHID-XT/CVE-2026-132745-Vtiger-CRM-Blind-SQLi) : ![starts](https://img.shields.io/github/stars/SHAHID-XT/CVE-2026-132745-Vtiger-CRM-Blind-SQLi.svg) ![forks](https://img.shields.io/github/forks/SHAHID-XT/CVE-2026-132745-Vtiger-CRM-Blind-SQLi.svg)
 
@@ -325,6 +330,11 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 > eml_parser serves as a python module for parsing eml files and returning various information found in the e-mail as well as computed information. In 3.0.3 and earlier, eml_parser.routing.parserouting() in eml_parser/routing.py builds a regular expression with multiple greedy capture groups and appends the npdate date literal extracted from a normalized copy of an attacker-controlled Received header, then searches that expression against the original unnormalized line. A formatting difference can
 
 - [https://github.com/googlesky/CVE-2026-129307](https://github.com/googlesky/CVE-2026-129307) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129307.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129307.svg)
+
+## CVE-2026-129302
+> Guard Core is an API security core engine for the FastAPI-Guard, FlaskAPI Guard, and DjAPI Guard adapters. From 3.5.0 until 3.13.0, built-in penetration-detection patterns in guard_core/handlers/suspatterns_handler.py execute through a direct pattern.search(content) call instead of the timeout-protected create_safe_matcher() path used for custom patterns. The built-in template-injection detector contains an unbounded expression with quadratic behavior when scanning repeated opening braces. Becau
+
+- [https://github.com/googlesky/CVE-2026-129302](https://github.com/googlesky/CVE-2026-129302) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129302.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129302.svg)
 
 ## CVE-2026-129289
 
@@ -640,6 +650,8 @@ The specific flaw exists within the FileStorageController class. The issue resul
 > Ghostscript before 10.08.0 contains a -dSAFER bypass vulnerability in the .putgstringcopy procedure in gs_fonts.ps, which calls the privileged .forceput operator without checking operand types. Attackers can supply crafted PostScript or PDF documents that trigger a type error, recover .forceput via a custom error handler, and cause a use-after-free across save/restore to execute arbitrary code.
 
 - [https://github.com/Mahgal/upload2shell-check](https://github.com/Mahgal/upload2shell-check) : ![starts](https://img.shields.io/github/stars/Mahgal/upload2shell-check.svg) ![forks](https://img.shields.io/github/forks/Mahgal/upload2shell-check.svg)
+
+- [https://github.com/9bie/CVE-2026-125396-bomb](https://github.com/9bie/CVE-2026-125396-bomb) : ![starts](https://img.shields.io/github/stars/9bie/CVE-2026-125396-bomb.svg) ![forks](https://img.shields.io/github/forks/9bie/CVE-2026-125396-bomb.svg)
 
 ## CVE-2026-125394
 > FreeRDP before 3.33.0 contains a heap use-after-free vulnerability in update_gdi_patblt(), update_gdi_polygon_cb() and update_gdi_mem3blt() that retain stale brush cache pointers. A malicious RDP server can resend CACHE_BRUSH to the same slot then send PATBLT, causing clients to read freed heap memory, disclosing data or crashing.
@@ -16919,6 +16931,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/anVzdGFtb25/GhostLock-Honor90-REA-AN00](https://github.com/anVzdGFtb25/GhostLock-Honor90-REA-AN00) : ![starts](https://img.shields.io/github/stars/anVzdGFtb25/GhostLock-Honor90-REA-AN00.svg) ![forks](https://img.shields.io/github/forks/anVzdGFtb25/GhostLock-Honor90-REA-AN00.svg)
 
 - [https://github.com/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00](https://github.com/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00) : ![starts](https://img.shields.io/github/stars/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00.svg) ![forks](https://img.shields.io/github/forks/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00.svg)
+
+- [https://github.com/NotAndrej/GhostWatch](https://github.com/NotAndrej/GhostWatch) : ![starts](https://img.shields.io/github/stars/NotAndrej/GhostWatch.svg) ![forks](https://img.shields.io/github/forks/NotAndrej/GhostWatch.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:

@@ -1732,6 +1732,8 @@ Django would like to thank Seokchan Yoon for reporting this issue.
 
 - [https://github.com/litndat/Vulnerability-CVE-2025-64446-CVE-2025-58034](https://github.com/litndat/Vulnerability-CVE-2025-64446-CVE-2025-58034) : ![starts](https://img.shields.io/github/stars/litndat/Vulnerability-CVE-2025-64446-CVE-2025-58034.svg) ![forks](https://img.shields.io/github/forks/litndat/Vulnerability-CVE-2025-64446-CVE-2025-58034.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2025-64446](https://github.com/ashrafzaryouh/CVE-2025-64446) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2025-64446.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2025-64446.svg)
+
 ## CVE-2025-64424
  Coolify is an open-source and self-hostable tool for managing servers, applications, and databases. In Coolify versions up to and including v4.0.0-beta.434, a command injection vulnerability exists in the git source input fields of a resource, allowing a low privileged user (member) to execute system commands as root on the Coolify instance. As of time of publication, it is unclear if a patch is available.
 

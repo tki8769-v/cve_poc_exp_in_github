@@ -12620,3 +12620,17 @@
 {"cve_id": "CVE-2021-22986", "ts": "2026-11-22T08:25:12Z", "type": "new_poc", "url": "https://github.com/qdtad/CVE-2021-22986"}
 {"cve_id": "CVE-2021-44228", "ts": "2026-11-22T08:29:12Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2021-44228"}
 {"cve_id": "CVE-2021-44228", "ts": "2026-11-22T08:29:16Z", "type": "new_poc", "url": "https://github.com/SynJax200/log4shell"}
+{"cve_id": "CVE-2025-59906", "ts": "2026-11-22T08:31:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59907", "ts": "2026-11-22T08:31:25Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59908", "ts": "2026-11-22T08:31:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59909", "ts": "2026-11-22T08:31:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59910", "ts": "2026-11-22T08:31:29Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59911", "ts": "2026-11-22T08:31:30Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2025-59912", "ts": "2026-11-22T08:31:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-122119", "ts": "2026-11-22T08:37:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-49981", "ts": "2026-11-22T08:43:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-129302", "ts": "2026-11-22T08:51:26Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-129302"}
+{"cve_id": "CVE-2026-125396", "ts": "2026-11-22T08:51:28Z", "type": "new_poc", "url": "https://github.com/9bie/CVE-2026-125396-bomb"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-22T08:51:29Z", "type": "new_poc", "url": "https://github.com/NotAndrej/GhostWatch"}
+{"cve_id": "CVE-2021-1905", "ts": "2026-11-22T08:51:47Z", "type": "new_poc", "url": "https://github.com/Gonvar/movistar-home-root"}
+{"cve_id": "CVE-2025-64446", "ts": "2026-11-22T08:56:04Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2025-64446"}
