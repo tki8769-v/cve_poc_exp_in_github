@@ -1,4 +1,8 @@
 # Update 2026-11-22
+## CVE-2011-2523
+
+- [https://github.com/SelimcanG/security-home-lab](https://github.com/SelimcanG/security-home-lab) : ![starts](https://img.shields.io/github/stars/SelimcanG/security-home-lab.svg) ![forks](https://img.shields.io/github/forks/SelimcanG/security-home-lab.svg)
+
 ## CVE-2014-6271
 
 - [https://github.com/ashrafzaryouh/CVE-2014-6271](https://github.com/ashrafzaryouh/CVE-2014-6271) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2014-6271.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2014-6271.svg)
@@ -50,6 +54,10 @@ Through a series of complex obfuscations, the liblzma build process extracts a p
 ## CVE-2024-31317
 
 - [https://github.com/ddtftx1/xiaodu-qinghe-v20-security-audit](https://github.com/ddtftx1/xiaodu-qinghe-v20-security-audit) : ![starts](https://img.shields.io/github/stars/ddtftx1/xiaodu-qinghe-v20-security-audit.svg) ![forks](https://img.shields.io/github/forks/ddtftx1/xiaodu-qinghe-v20-security-audit.svg)
+
+## CVE-2025-30065
+
+- [https://github.com/zha0/CVE-2025-30065](https://github.com/zha0/CVE-2025-30065) : ![starts](https://img.shields.io/github/stars/zha0/CVE-2025-30065.svg) ![forks](https://img.shields.io/github/forks/zha0/CVE-2025-30065.svg)
 
 ## CVE-2025-32433
 
@@ -304,6 +312,7 @@ problems:
   1) the rbtree dequeue happens without waiter::task::pi_l
 
 - [https://github.com/NotAndrej/GhostWatch](https://github.com/NotAndrej/GhostWatch) : ![starts](https://img.shields.io/github/stars/NotAndrej/GhostWatch.svg) ![forks](https://img.shields.io/github/forks/NotAndrej/GhostWatch.svg)
+- [https://github.com/stellaqwq/ghostlock-root5-pd2118c](https://github.com/stellaqwq/ghostlock-root5-pd2118c) : ![starts](https://img.shields.io/github/stars/stellaqwq/ghostlock-root5-pd2118c.svg) ![forks](https://img.shields.io/github/forks/stellaqwq/ghostlock-root5-pd2118c.svg)
 
 ## CVE-2026-45152
 

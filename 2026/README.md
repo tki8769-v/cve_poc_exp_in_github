@@ -97,10 +97,12 @@
 - [https://github.com/VulnSVNC/CVE-2026-133274](https://github.com/VulnSVNC/CVE-2026-133274) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-133274.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-133274.svg)
 
 ## CVE-2026-133235
+> Tandoor Recipes before 2.7.4 contains a server-side request forgery vulnerability that allows space admins to reach internal hosts because Nextcloud.get_client builds WebDAV clients from Storage.url without calling safe_request. Attackers can create a NEXTCLOUD storage via POST /api/storage/ pointing at internal hosts, import a file, then call GET /api/get_recipe_file/&lt;id&gt;/ to read internal service or cloud metadata responses.
 
 - [https://github.com/LLCForge/CVE-2026-133235](https://github.com/LLCForge/CVE-2026-133235) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133235.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133235.svg)
 
 ## CVE-2026-133234
+> Stoatchat before 0.16.5 contains an unbounded JXL image decoding vulnerability in revolt_files decode_image that allows unauthenticated attackers to exhaust memory via the january /proxy endpoint. Attackers can request a small hosted JXL file declaring 12000x12000 pixels through /proxy to trigger huge allocations, OOM-killing january and denying proxy and embed service.
 
 - [https://github.com/LLCForge/CVE-2026-133234](https://github.com/LLCForge/CVE-2026-133234) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133234.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133234.svg)
 
@@ -17133,6 +17135,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00](https://github.com/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00) : ![starts](https://img.shields.io/github/stars/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00.svg) ![forks](https://img.shields.io/github/forks/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00.svg)
 
 - [https://github.com/NotAndrej/GhostWatch](https://github.com/NotAndrej/GhostWatch) : ![starts](https://img.shields.io/github/stars/NotAndrej/GhostWatch.svg) ![forks](https://img.shields.io/github/forks/NotAndrej/GhostWatch.svg)
+
+- [https://github.com/stellaqwq/ghostlock-root5-pd2118c](https://github.com/stellaqwq/ghostlock-root5-pd2118c) : ![starts](https://img.shields.io/github/stars/stellaqwq/ghostlock-root5-pd2118c.svg) ![forks](https://img.shields.io/github/forks/stellaqwq/ghostlock-root5-pd2118c.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:

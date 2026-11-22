@@ -9047,6 +9047,8 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
 
 - [https://github.com/micrictor/parquet-avro-rce](https://github.com/micrictor/parquet-avro-rce) : ![starts](https://img.shields.io/github/stars/micrictor/parquet-avro-rce.svg) ![forks](https://img.shields.io/github/forks/micrictor/parquet-avro-rce.svg)
 
+- [https://github.com/zha0/CVE-2025-30065](https://github.com/zha0/CVE-2025-30065) : ![starts](https://img.shields.io/github/stars/zha0/CVE-2025-30065.svg) ![forks](https://img.shields.io/github/forks/zha0/CVE-2025-30065.svg)
+
 ## CVE-2025-29972
  Server-side request forgery (ssrf) in Azure Storage Resource Provider allows an authorized attacker to perform spoofing over a network.
 

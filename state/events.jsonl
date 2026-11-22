@@ -12698,3 +12698,11 @@
 {"cve_id": "CVE-2026-123007", "ts": "2026-11-22T22:35:31Z", "type": "new_poc", "url": "https://github.com/VABISMO/nginx2root"}
 {"cve_id": "CVE-2024-31317", "ts": "2026-11-22T22:35:31Z", "type": "new_poc", "url": "https://github.com/ddtftx1/xiaodu-qinghe-v20-security-audit"}
 {"cve_id": "CVE-2024-3094", "ts": "2026-11-22T22:37:35Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2024-3094"}
+{"cve_id": "CVE-2026-123146", "ts": "2026-11-22T22:49:46Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-127925", "ts": "2026-11-22T22:50:11Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-128884", "ts": "2026-11-22T22:50:15Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132151", "ts": "2026-11-22T22:50:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132989", "ts": "2026-11-22T22:51:43Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-43499", "ts": "2026-11-22T23:01:05Z", "type": "new_poc", "url": "https://github.com/stellaqwq/ghostlock-root5-pd2118c"}
+{"cve_id": "CVE-2011-2523", "ts": "2026-11-22T23:01:13Z", "type": "new_poc", "url": "https://github.com/SelimcanG/security-home-lab"}
+{"cve_id": "CVE-2025-30065", "ts": "2026-11-22T23:04:26Z", "type": "new_poc", "url": "https://github.com/zha0/CVE-2025-30065"}

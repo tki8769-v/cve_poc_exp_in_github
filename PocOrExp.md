@@ -98,10 +98,12 @@
 - [https://github.com/VulnSVNC/CVE-2026-133274](https://github.com/VulnSVNC/CVE-2026-133274) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-133274.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-133274.svg)
 
 ## CVE-2026-133235
+> Tandoor Recipes before 2.7.4 contains a server-side request forgery vulnerability that allows space admins to reach internal hosts because Nextcloud.get_client builds WebDAV clients from Storage.url without calling safe_request. Attackers can create a NEXTCLOUD storage via POST /api/storage/ pointing at internal hosts, import a file, then call GET /api/get_recipe_file/&lt;id&gt;/ to read internal service or cloud metadata responses.
 
 - [https://github.com/LLCForge/CVE-2026-133235](https://github.com/LLCForge/CVE-2026-133235) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133235.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133235.svg)
 
 ## CVE-2026-133234
+> Stoatchat before 0.16.5 contains an unbounded JXL image decoding vulnerability in revolt_files decode_image that allows unauthenticated attackers to exhaust memory via the january /proxy endpoint. Attackers can request a small hosted JXL file declaring 12000x12000 pixels through /proxy to trigger huge allocations, OOM-killing january and denying proxy and embed service.
 
 - [https://github.com/LLCForge/CVE-2026-133234](https://github.com/LLCForge/CVE-2026-133234) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133234.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133234.svg)
 
@@ -17134,6 +17136,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00](https://github.com/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00) : ![starts](https://img.shields.io/github/stars/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00.svg) ![forks](https://img.shields.io/github/forks/anVzdGFtb25/GhostLock-P50Pro-JAD-AL00.svg)
 
 - [https://github.com/NotAndrej/GhostWatch](https://github.com/NotAndrej/GhostWatch) : ![starts](https://img.shields.io/github/stars/NotAndrej/GhostWatch.svg) ![forks](https://img.shields.io/github/forks/NotAndrej/GhostWatch.svg)
+
+- [https://github.com/stellaqwq/ghostlock-root5-pd2118c](https://github.com/stellaqwq/ghostlock-root5-pd2118c) : ![starts](https://img.shields.io/github/stars/stellaqwq/ghostlock-root5-pd2118c.svg) ![forks](https://img.shields.io/github/forks/stellaqwq/ghostlock-root5-pd2118c.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
@@ -40058,6 +40062,8 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
 - [https://github.com/ron-imperva/CVE-2025-30065-PoC](https://github.com/ron-imperva/CVE-2025-30065-PoC) : ![starts](https://img.shields.io/github/stars/ron-imperva/CVE-2025-30065-PoC.svg) ![forks](https://img.shields.io/github/forks/ron-imperva/CVE-2025-30065-PoC.svg)
 
 - [https://github.com/micrictor/parquet-avro-rce](https://github.com/micrictor/parquet-avro-rce) : ![starts](https://img.shields.io/github/stars/micrictor/parquet-avro-rce.svg) ![forks](https://img.shields.io/github/forks/micrictor/parquet-avro-rce.svg)
+
+- [https://github.com/zha0/CVE-2025-30065](https://github.com/zha0/CVE-2025-30065) : ![starts](https://img.shields.io/github/stars/zha0/CVE-2025-30065.svg) ![forks](https://img.shields.io/github/forks/zha0/CVE-2025-30065.svg)
 
 ## CVE-2025-29972
  Server-side request forgery (ssrf) in Azure Storage Resource Provider allows an authorized attacker to perform spoofing over a network.
@@ -113870,6 +113876,8 @@ Exploitation of this vulnerability requires that a user or application run or in
 - [https://github.com/nabeelapu/vsftpd-2.3.4-backdoor-vulnerability_analysis](https://github.com/nabeelapu/vsftpd-2.3.4-backdoor-vulnerability_analysis) : ![starts](https://img.shields.io/github/stars/nabeelapu/vsftpd-2.3.4-backdoor-vulnerability_analysis.svg) ![forks](https://img.shields.io/github/forks/nabeelapu/vsftpd-2.3.4-backdoor-vulnerability_analysis.svg)
 
 - [https://github.com/Davidrs000/Tproot-Dockerlabs](https://github.com/Davidrs000/Tproot-Dockerlabs) : ![starts](https://img.shields.io/github/stars/Davidrs000/Tproot-Dockerlabs.svg) ![forks](https://img.shields.io/github/forks/Davidrs000/Tproot-Dockerlabs.svg)
+
+- [https://github.com/SelimcanG/security-home-lab](https://github.com/SelimcanG/security-home-lab) : ![starts](https://img.shields.io/github/stars/SelimcanG/security-home-lab.svg) ![forks](https://img.shields.io/github/forks/SelimcanG/security-home-lab.svg)
 
 ## CVE-2011-2461
  Cross-site scripting (XSS) vulnerability in the Adobe Flex SDK 3.x and 4.x before 4.6 allows remote attackers to inject arbitrary web script or HTML via vectors related to the loading of modules from different domains.
