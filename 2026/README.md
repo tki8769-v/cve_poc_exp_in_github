@@ -14,6 +14,14 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-134758
+
+- [https://github.com/VulnSVNC/CVE-2026-134758](https://github.com/VulnSVNC/CVE-2026-134758) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-134758.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-134758.svg)
+
+## CVE-2026-134753
+
+- [https://github.com/VulnSVNC/CVE-2026-134753](https://github.com/VulnSVNC/CVE-2026-134753) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-134753.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-134753.svg)
+
 ## CVE-2026-134623
 
 - [https://github.com/SumitNayak1337/CVE-2026-134623](https://github.com/SumitNayak1337/CVE-2026-134623) : ![starts](https://img.shields.io/github/stars/SumitNayak1337/CVE-2026-134623.svg) ![forks](https://img.shields.io/github/forks/SumitNayak1337/CVE-2026-134623.svg)
@@ -234,6 +242,10 @@
 
 - [https://github.com/evenomn/CVE-2026-129987](https://github.com/evenomn/CVE-2026-129987) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-129987.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-129987.svg)
 
+## CVE-2026-129975
+
+- [https://github.com/techdevfun/gpgme2shell](https://github.com/techdevfun/gpgme2shell) : ![starts](https://img.shields.io/github/stars/techdevfun/gpgme2shell.svg) ![forks](https://img.shields.io/github/forks/techdevfun/gpgme2shell.svg)
+
 ## CVE-2026-129496
 
 - [https://github.com/abraxas/php-tzcache-rce](https://github.com/abraxas/php-tzcache-rce) : ![starts](https://img.shields.io/github/stars/abraxas/php-tzcache-rce.svg) ![forks](https://img.shields.io/github/forks/abraxas/php-tzcache-rce.svg)
@@ -337,6 +349,11 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 
 - [https://github.com/googlesky/CVE-2026-129304](https://github.com/googlesky/CVE-2026-129304) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129304.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129304.svg)
 
+## CVE-2026-129303
+> Guard Core is an API security core engine for the FastAPI-Guard, FlaskAPI Guard, and DjAPI Guard adapters. From 1.0.0 until 3.13.0, ContentPreprocessor.preprocess() in guard_core/detection_engine/preprocessor.py collapses all whitespace before built-in pattern matching in the default enhanced mode. This removes carriage returns and newlines required by the http_split and newline-anchored cmd_injection detectors in guard_core/handlers/suspatterns_handler.py, making those detectors unable to match
+
+- [https://github.com/googlesky/CVE-2026-129303](https://github.com/googlesky/CVE-2026-129303) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129303.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129303.svg)
+
 ## CVE-2026-129302
 > Guard Core is an API security core engine for the FastAPI-Guard, FlaskAPI Guard, and DjAPI Guard adapters. From 3.5.0 until 3.13.0, built-in penetration-detection patterns in guard_core/handlers/suspatterns_handler.py execute through a direct pattern.search(content) call instead of the timeout-protected create_safe_matcher() path used for custom patterns. The built-in template-injection detector contains an unbounded expression with quadratic behavior when scanning repeated opening braces. Becau
 
@@ -372,6 +389,10 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 ## CVE-2026-129230
 
 - [https://github.com/googlesky/CVE-2026-129230](https://github.com/googlesky/CVE-2026-129230) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129230.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129230.svg)
+
+## CVE-2026-129229
+
+- [https://github.com/googlesky/CVE-2026-129229](https://github.com/googlesky/CVE-2026-129229) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129229.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129229.svg)
 
 ## CVE-2026-129228
 
@@ -442,6 +463,10 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 ## CVE-2026-128442
 
 - [https://github.com/langz337/CVE-2026-128442](https://github.com/langz337/CVE-2026-128442) : ![starts](https://img.shields.io/github/stars/langz337/CVE-2026-128442.svg) ![forks](https://img.shields.io/github/forks/langz337/CVE-2026-128442.svg)
+
+## CVE-2026-128135
+
+- [https://github.com/googlesky/CVE-2026-128135](https://github.com/googlesky/CVE-2026-128135) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128135.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128135.svg)
 
 ## CVE-2026-128134
 > NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. Prior to 3.10.4, nltk.parse.dependencygraph.dot2img resolves the Graphviz dot executable through PATH but invokes the resulting absolute executable without routing through spawn_trusted, so resolve_trusted_executable ownership and writability validation and safe_env loader environment scrubbing do not run. A local low-privileged at
@@ -659,6 +684,12 @@ The specific flaw exists within the FileStorageController class. The issue resul
 
 - [https://github.com/9bie/CVE-2026-125396-bomb](https://github.com/9bie/CVE-2026-125396-bomb) : ![starts](https://img.shields.io/github/stars/9bie/CVE-2026-125396-bomb.svg) ![forks](https://img.shields.io/github/forks/9bie/CVE-2026-125396-bomb.svg)
 
+- [https://github.com/dinosn/upload2shell-poc-generator](https://github.com/dinosn/upload2shell-poc-generator) : ![starts](https://img.shields.io/github/stars/dinosn/upload2shell-poc-generator.svg) ![forks](https://img.shields.io/github/forks/dinosn/upload2shell-poc-generator.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-125396](https://github.com/ashrafzaryouh/CVE-2026-125396) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-125396.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-125396.svg)
+
+- [https://github.com/evenomn/CVE-2026-125396-upload2shell](https://github.com/evenomn/CVE-2026-125396-upload2shell) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-125396-upload2shell.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-125396-upload2shell.svg)
+
 ## CVE-2026-125394
 > FreeRDP before 3.33.0 contains a heap use-after-free vulnerability in update_gdi_patblt(), update_gdi_polygon_cb() and update_gdi_mem3blt() that retain stale brush cache pointers. A malicious RDP server can resend CACHE_BRUSH to the same slot then send PATBLT, causing clients to read freed heap memory, disclosing data or crashing.
 
@@ -767,6 +798,8 @@ When converting from UCS-4, these encoders may encounter a combining base such a
 - [https://github.com/foxcornlab/vmware-vcenter-scanner](https://github.com/foxcornlab/vmware-vcenter-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/vmware-vcenter-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/vmware-vcenter-scanner.svg)
 
 - [https://github.com/Sable-Research/CVE-2026-123890-Research](https://github.com/Sable-Research/CVE-2026-123890-Research) : ![starts](https://img.shields.io/github/stars/Sable-Research/CVE-2026-123890-Research.svg) ![forks](https://img.shields.io/github/forks/Sable-Research/CVE-2026-123890-Research.svg)
+
+- [https://github.com/PARTSI14/armory-castle-vcenter-detections](https://github.com/PARTSI14/armory-castle-vcenter-detections) : ![starts](https://img.shields.io/github/stars/PARTSI14/armory-castle-vcenter-detections.svg) ![forks](https://img.shields.io/github/forks/PARTSI14/armory-castle-vcenter-detections.svg)
 
 ## CVE-2026-123807
 > Signal K Server is a server application that runs on a central hub in a boat. From 2.0.0 until 2.34.0 for Signal K Server and from 1.0.0 until 1.5.3 for @signalk/resources-provider, the v2 REST route GET /signalk/v2/api/resources/:resourceType/:resourceId accepts an unsafe resourceId that can escape the intended resource directory. The route passes the attacker-controlled resourceId through src/api/resources/index.ts to FileStore.getResource() in packages/resources-provider-plugin/src/filestorag
@@ -960,6 +993,8 @@ This vulnerability may allow remote attackers to cause a denial-of-service (D
 
 - [https://github.com/aparnaa19/cve-to-chaos](https://github.com/aparnaa19/cve-to-chaos) : ![starts](https://img.shields.io/github/stars/aparnaa19/cve-to-chaos.svg) ![forks](https://img.shields.io/github/forks/aparnaa19/cve-to-chaos.svg)
 
+- [https://github.com/0xsyr0/CVE-2026-123158-POC](https://github.com/0xsyr0/CVE-2026-123158-POC) : ![starts](https://img.shields.io/github/stars/0xsyr0/CVE-2026-123158-POC.svg) ![forks](https://img.shields.io/github/forks/0xsyr0/CVE-2026-123158-POC.svg)
+
 ## CVE-2026-123039
 > The Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socket (/tmp/dynamic_socket) without authenticating connecting processes. An authenticated local user can send a command to the socket and have it executed as root.
 
@@ -1097,6 +1132,11 @@ This vulnerability may allow remote attackers to cause
 > OpenVPN 2.4.0 through 2.6.23 and 2.7_alpha1 through 2.7.8 on Windows allows local authenticated users to execute arbitrary code via a privileged service using user-controlled environment variables.
 
 - [https://github.com/refiaa/CVE-2026-121720](https://github.com/refiaa/CVE-2026-121720) : ![starts](https://img.shields.io/github/stars/refiaa/CVE-2026-121720.svg) ![forks](https://img.shields.io/github/forks/refiaa/CVE-2026-121720.svg)
+
+## CVE-2026-121716
+> fzf is a command-line fuzzy finder. Prior to 0.74.5, bin/fzf-tmux validates separately supplied layout sizes but does not validate attached -l and -u layout values before Bash arithmetic expansion, allowing command substitution in a crafted operand to execute as the invoking user during option parsing. The same validation failure lets space-bearing popup geometry options -x, -y, -w, -h, and -p reach an unquoted tmux popup option string and inject additional tmux flags. Exploitation requires less
+
+- [https://github.com/googlesky/CVE-2026-121716](https://github.com/googlesky/CVE-2026-121716) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-121716.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-121716.svg)
 
 ## CVE-2026-121684
 > The Soledad theme for WordPress is vulnerable to unauthenticated Remote Code Execution in versions up to, and including, 8.7.7 The public penci_more_post_ajax AJAX action feeds infeedads[ads_code] (base64+urldecoded) to penci_safe_shortcode(), whose allowlist regex inspects only the hyphen-truncated outer shortcode name (e.g. &#x27;adinserter&#x27;) and never the nested [elementor-element k=.. data=..] tag, so do_shortcode() renders an attacker-chosen Elementor element. The rendered penci-featured-sliders
@@ -1469,6 +1509,10 @@ Impact: This vulnerability allows a remote, unauthenticated att
 
 - [https://github.com/l00neyhacker/CVE-2026-117458](https://github.com/l00neyhacker/CVE-2026-117458) : ![starts](https://img.shields.io/github/stars/l00neyhacker/CVE-2026-117458.svg) ![forks](https://img.shields.io/github/forks/l00neyhacker/CVE-2026-117458.svg)
 
+## CVE-2026-117425
+
+- [https://github.com/0x5t4l1n/CVE-2026-117425](https://github.com/0x5t4l1n/CVE-2026-117425) : ![starts](https://img.shields.io/github/stars/0x5t4l1n/CVE-2026-117425.svg) ![forks](https://img.shields.io/github/forks/0x5t4l1n/CVE-2026-117425.svg)
+
 ## CVE-2026-117378
 
 - [https://github.com/p0et08/ShopXO](https://github.com/p0et08/ShopXO) : ![starts](https://img.shields.io/github/stars/p0et08/ShopXO.svg) ![forks](https://img.shields.io/github/forks/p0et08/ShopXO.svg)
@@ -1736,6 +1780,11 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 
 - [https://github.com/googlesky/CVE-2026-115565](https://github.com/googlesky/CVE-2026-115565) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-115565.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-115565.svg)
 
+## CVE-2026-115563
+> The Model Context Protocol Python SDK is the official Python SDK for Model Context Protocol servers and clients. From 1.9.1 until 1.30.0 and 2.2.0, OAuth client support in mcp.client.auth can send credentials to an authorization server chosen by an untrusted MCP server. ClientCredentialsOAuthProvider and PrivateKeyJWTOAuthProvider cannot identify the authorization server that owns their credentials. Affected HTTP clients using those providers, OAuthClientProvider, or the deprecated 1.x RFC7523OA
+
+- [https://github.com/googlesky/CVE-2026-115563](https://github.com/googlesky/CVE-2026-115563) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-115563.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-115563.svg)
+
 ## CVE-2026-115560
 
 - [https://github.com/prnjlksingh/php-cve-2026-115560-demo](https://github.com/prnjlksingh/php-cve-2026-115560-demo) : ![starts](https://img.shields.io/github/stars/prnjlksingh/php-cve-2026-115560-demo.svg) ![forks](https://img.shields.io/github/forks/prnjlksingh/php-cve-2026-115560-demo.svg)
@@ -1946,11 +1995,18 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 
 - [https://github.com/akshutgoyal/Java4Shell](https://github.com/akshutgoyal/Java4Shell) : ![starts](https://img.shields.io/github/stars/akshutgoyal/Java4Shell.svg) ![forks](https://img.shields.io/github/forks/akshutgoyal/Java4Shell.svg)
 
+- [https://github.com/adjscent/CVE-2026-114938-POC](https://github.com/adjscent/CVE-2026-114938-POC) : ![starts](https://img.shields.io/github/stars/adjscent/CVE-2026-114938-POC.svg) ![forks](https://img.shields.io/github/forks/adjscent/CVE-2026-114938-POC.svg)
+
 ## CVE-2026-114820
 
 - [https://github.com/joedayz/cve-2026-114820-java-scan](https://github.com/joedayz/cve-2026-114820-java-scan) : ![starts](https://img.shields.io/github/stars/joedayz/cve-2026-114820-java-scan.svg) ![forks](https://img.shields.io/github/forks/joedayz/cve-2026-114820-java-scan.svg)
 
 - [https://github.com/mehmet-emir-eroglu/CVE-2026-114820](https://github.com/mehmet-emir-eroglu/CVE-2026-114820) : ![starts](https://img.shields.io/github/stars/mehmet-emir-eroglu/CVE-2026-114820.svg) ![forks](https://img.shields.io/github/forks/mehmet-emir-eroglu/CVE-2026-114820.svg)
+
+## CVE-2026-114728
+> Roundcube Webmail before 1.6.20 and 1.7.x before 1.7.5 is affected by a remote content blocking bypass in the handling of FuncIRI attributes. rcube_washtml detected the CSS url() token with a pattern that enumerated only some of its escaped spellings, so values using other CSS escape sequences, for example \000075rl( or u\72 l(, were not recognized and remote content was loaded from an HTML message without the user&#x27;s consent. Upstream fixed this in the commit “Fix remote content blocking bypass 
+
+- [https://github.com/Neo-XeD/CVE-2026-114728](https://github.com/Neo-XeD/CVE-2026-114728) : ![starts](https://img.shields.io/github/stars/Neo-XeD/CVE-2026-114728.svg) ![forks](https://img.shields.io/github/forks/Neo-XeD/CVE-2026-114728.svg)
 
 ## CVE-2026-114713
 > The labeled-response module in UnrealIRCd 6.0.0 before 6.2.7.1 does not escape the IRCv3 &quot;label&quot; message tag when echoing it into replies, which allows any user on a network with two or more linked servers to inject server-to-server commands that are executed with server authority.
@@ -2265,6 +2321,11 @@ A remote unauthenticated attacker may crash an nginx worker process or corrupt i
 > The order cancellation function accepts an order identifier from the request and acts on that order without checking that the caller owns it. Any site visitor can set orders that are still awaiting payment to &quot;canceled&quot;. This requires a page that contains the shop&#x27;s order plugin. Orders that are already paid are not affected.
 
 - [https://github.com/yuwkaaa/CVE-2026-112071](https://github.com/yuwkaaa/CVE-2026-112071) : ![starts](https://img.shields.io/github/stars/yuwkaaa/CVE-2026-112071.svg) ![forks](https://img.shields.io/github/forks/yuwkaaa/CVE-2026-112071.svg)
+
+## CVE-2026-112020
+> LodePNG through 20261006 contains a heap out-of-bounds read vulnerability in lodepng::getFilterTypesInterlaced() in lodepng_util.cpp that lacks bounds checks on decompressed IDAT data. Attackers can supply a crafted interlaced PNG declaring a raster larger than its IDAT stream to disclose adjacent heap memory or crash applications.
+
+- [https://github.com/coboliqcom/lodepng-hardened](https://github.com/coboliqcom/lodepng-hardened) : ![starts](https://img.shields.io/github/stars/coboliqcom/lodepng-hardened.svg) ![forks](https://img.shields.io/github/forks/coboliqcom/lodepng-hardened.svg)
 
 ## CVE-2026-111967
 > The MP3 Audio Player  WordPress plugin before 5.16 does not escape one of its audio player shortcode attributes before outputting it into an HTML attribute, allowing users with Contributor-level access and above to inject arbitrary JavaScript that executes when another user, such as an administrator previewing a pending post, views the content.
@@ -3809,6 +3870,11 @@ privileges. Exploitation requir
 
 - [https://github.com/ExDev994/CVE-2026-108097](https://github.com/ExDev994/CVE-2026-108097) : ![starts](https://img.shields.io/github/stars/ExDev994/CVE-2026-108097.svg) ![forks](https://img.shields.io/github/forks/ExDev994/CVE-2026-108097.svg)
 
+## CVE-2026-107853
+> tiny-secp256k1 is a tiny secp256k1 native/JS wrapper. From 2.1.0 until 2.2.5 for tiny-secp256k1 and from 2.2.2 until 2.2.5 for @bitcoin-js/tiny-secp256k1-asmjs, the three-argument xOnlyPointAddTweakCheck path ignores the backend failure return from xOnlyPointAddTweak when a tweak produces the point at infinity. The shared X_ONLY_PUBLIC_KEY_INPUT buffer then still contains the original point, so a caller-controlled resultToCheck equal to that point can make the stale-buffer comparison return true
+
+- [https://github.com/googlesky/CVE-2026-107853](https://github.com/googlesky/CVE-2026-107853) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-107853.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-107853.svg)
+
 ## CVE-2026-107821
 > MariaDB server is a community developed fork of MySQL server. From 10.6.1 until 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, and 13.0.2, MariaDB insufficiently validated counts, offsets, lengths, and field boundaries in FRM metadata while opening binary FRM files. An attacker able to place a crafted FRM file in the data directory could trigger out-of-bounds reads or writes, crash the server, or potentially execute code. This issue is fixed in versions 10.6.28, 10.11.19, 11.4.13, 11.8.9, 12.3.3, a
 
@@ -5061,7 +5127,20 @@ in depth measure, let&#x27;s also check before we complete the checksum
 
 - [https://github.com/FatBrother1/hapt-99491](https://github.com/FatBrother1/hapt-99491) : ![starts](https://img.shields.io/github/stars/FatBrother1/hapt-99491.svg) ![forks](https://img.shields.io/github/forks/FatBrother1/hapt-99491.svg)
 
+- [https://github.com/woshigenm/CVE-2026-99491-FANXIAOCHAO](https://github.com/woshigenm/CVE-2026-99491-FANXIAOCHAO) : ![starts](https://img.shields.io/github/stars/woshigenm/CVE-2026-99491-FANXIAOCHAO.svg) ![forks](https://img.shields.io/github/forks/woshigenm/CVE-2026-99491-FANXIAOCHAO.svg)
+
 ## CVE-2026-99320
+> In the Linux kernel, the following vulnerability has been resolved:
+
+ipv6: raw: fix use-after-free in rawv6_send_hdrinc()
+
+rawv6_send_hdrinc() caches the route before handing the skb to
+l3mdev_ip6_out(). The VRF output path may replace skb-&gt;dst and release
+the original route, leaving the cached pointer stale.
+
+The function later dereferences that pointer for statistics accounting
+and as the output device passed to NF_HOOK(). Its RCU read-side critical
+section starts after l3mdev_ip6_out(), so it
 
 - [https://github.com/ZZ2266/CVE-2026-99320](https://github.com/ZZ2266/CVE-2026-99320) : ![starts](https://img.shields.io/github/stars/ZZ2266/CVE-2026-99320.svg) ![forks](https://img.shields.io/github/forks/ZZ2266/CVE-2026-99320.svg)
 
@@ -5572,6 +5651,10 @@ but the node is still queued on tsk, which
 
 - [https://github.com/tiamo1990/shancha-kernel-workshop](https://github.com/tiamo1990/shancha-kernel-workshop) : ![starts](https://img.shields.io/github/stars/tiamo1990/shancha-kernel-workshop.svg) ![forks](https://img.shields.io/github/forks/tiamo1990/shancha-kernel-workshop.svg)
 
+- [https://github.com/okk30721-cell/cve-2026-98260-ksu](https://github.com/okk30721-cell/cve-2026-98260-ksu) : ![starts](https://img.shields.io/github/stars/okk30721-cell/cve-2026-98260-ksu.svg) ![forks](https://img.shields.io/github/forks/okk30721-cell/cve-2026-98260-ksu.svg)
+
+- [https://github.com/pjnssb/CVE-2026-98260-GhostKey](https://github.com/pjnssb/CVE-2026-98260-GhostKey) : ![starts](https://img.shields.io/github/stars/pjnssb/CVE-2026-98260-GhostKey.svg) ![forks](https://img.shields.io/github/forks/pjnssb/CVE-2026-98260-GhostKey.svg)
+
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -5675,6 +5758,16 @@ allocated an object f
 ## CVE-2026-97785
 
 - [https://github.com/emirwtz/CVE-2026-97785](https://github.com/emirwtz/CVE-2026-97785) : ![starts](https://img.shields.io/github/stars/emirwtz/CVE-2026-97785.svg) ![forks](https://img.shields.io/github/forks/emirwtz/CVE-2026-97785.svg)
+
+## CVE-2026-97699
+> Mistune is a Python Markdown parser with renderers and plugins. Prior to 3.3.4, inline image parsing sends nested ![ openers through precedence_scan because the no_link_before and _label_contains_link linearization guards are gated by not is_image. In src/mistune/inline_parser.py, each outer image opener can therefore search the remaining image body, while max_image_depth does not apply because the failed scans do not produce image tokens. Rendering untrusted Markdown with the default HTML rende
+
+- [https://github.com/googlesky/CVE-2026-97699](https://github.com/googlesky/CVE-2026-97699) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-97699.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-97699.svg)
+
+## CVE-2026-97698
+> Mistune is a Python Markdown parser with renderers and plugins. Prior to 3.3.4, parse_link_href performs an unbounded parenthesis-balancing scan to the end of the document for each unmatched opening parenthesis reached through an empty [] link label. In src/mistune/helpers.py and src/mistune/inline_parser.py, the empty label bypasses no_close_bracket_before, and no_link_before advances only past the short label, so successive [] ( candidates repeatedly scan the remaining document. Rendering untr
+
+- [https://github.com/googlesky/CVE-2026-97698](https://github.com/googlesky/CVE-2026-97698) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-97698.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-97698.svg)
 
 ## CVE-2026-97657
 > The Abandoned Cart Pro for WooCommerce plugin for WordPress is vulnerable to Authentication Bypass via Malleable Encryption and Bypassable HMAC in all versions up to, and including, 10.8.0. This is due to the use of MAC-free AES-CTR encryption for cart-recovery link tokens — where the 8-byte CTR nonce is carried inside the ciphertext blob and the encryption key is looked up using the attacker-supplied `user_email` GET parameter — combined with an HMAC nonce check in `wcap_email_track_links()` th
@@ -11926,6 +12019,10 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 
 - [https://github.com/far00t01/CVE-2026-59941](https://github.com/far00t01/CVE-2026-59941) : ![starts](https://img.shields.io/github/stars/far00t01/CVE-2026-59941.svg) ![forks](https://img.shields.io/github/forks/far00t01/CVE-2026-59941.svg)
 
+## CVE-2026-59924
+
+- [https://github.com/0x5t4l1n/CVE-2026-59924](https://github.com/0x5t4l1n/CVE-2026-59924) : ![starts](https://img.shields.io/github/stars/0x5t4l1n/CVE-2026-59924.svg) ![forks](https://img.shields.io/github/forks/0x5t4l1n/CVE-2026-59924.svg)
+
 ## CVE-2026-59903
  Netty is an asynchronous, event-driven network application framework. Prior to 4.1.137.Final and 4.2.17.Final, io.netty.handler.codec.http.cors.CorsHandler setVaryHeader replaces application Vary headers such as Authorization or Cookie with Origin, allowing a caching proxy or CDN to reuse authenticated responses across users and disclose sensitive information. This issue is fixed in versions 4.1.137.Final and 4.2.17.Final.
 
@@ -12734,6 +12831,15 @@ Users are recommended to upgrade to version 11.0.23, 10.1.56 or 9.0.119 which fi
  Runtipi is a personal homeserver orchestrator. In 4.10.0 and earlier, Runtipi accepts symbolic links from an attacker-controlled backup archive and copies them into live application paths during the backup restore flow. An authenticated attacker can plant user-config/app.env as a symlink to an arbitrary reachable path and then send PUT /api/user-config/demoapp3:_user with attacker-controlled appEnv content. FilesystemService.writeTextFile() follows the planted link, allowing content to be written outside the intended restore and user-config directory boundary with Runtipi process permissions. This issue is fixed in version 4.10.1.
 
 - [https://github.com/KovachVL/CVE-2026-55168](https://github.com/KovachVL/CVE-2026-55168) : ![starts](https://img.shields.io/github/stars/KovachVL/CVE-2026-55168.svg) ![forks](https://img.shields.io/github/forks/KovachVL/CVE-2026-55168.svg)
+
+## CVE-2026-55062
+> uniget is a universal installer and updater for (container) tools. Prior to 0.27.6, the hooks edit command in cmd/uniget/hooks.go concatenates an unvalidated hook filename with the selected hooks directory, allowing parent-directory components to escape that directory. The resulting path is passed to the configured editor, which can access or modify files outside the hooks directory with the privileges of the uniget process account. This issue is fixed in version 0.27.6.
+
+- [https://github.com/0x5t4l1n/CVE-2026-55062](https://github.com/0x5t4l1n/CVE-2026-55062) : ![starts](https://img.shields.io/github/stars/0x5t4l1n/CVE-2026-55062.svg) ![forks](https://img.shields.io/github/forks/0x5t4l1n/CVE-2026-55062.svg)
+
+## CVE-2026-55061
+
+- [https://github.com/0x5t4l1n/CVE-2026-55061](https://github.com/0x5t4l1n/CVE-2026-55061) : ![starts](https://img.shields.io/github/stars/0x5t4l1n/CVE-2026-55061.svg) ![forks](https://img.shields.io/github/forks/0x5t4l1n/CVE-2026-55061.svg)
 
 ## CVE-2026-55040
  Weak authentication in Microsoft Office SharePoint allows an unauthorized attacker to bypass a security feature over a network.
@@ -15727,6 +15833,10 @@ Because the bounds check on the supplementary groups list occurs after the kerne
 
 - [https://github.com/cybertechajju/CVE-2026-45156-POC](https://github.com/cybertechajju/CVE-2026-45156-POC) : ![starts](https://img.shields.io/github/stars/cybertechajju/CVE-2026-45156-POC.svg) ![forks](https://img.shields.io/github/forks/cybertechajju/CVE-2026-45156-POC.svg)
 
+## CVE-2026-45152
+
+- [https://github.com/0x5t4l1n/CVE-2026-45152](https://github.com/0x5t4l1n/CVE-2026-45152) : ![starts](https://img.shields.io/github/stars/0x5t4l1n/CVE-2026-45152.svg) ![forks](https://img.shields.io/github/forks/0x5t4l1n/CVE-2026-45152.svg)
+
 ## CVE-2026-45140
  Chamilo LMS is an open-source learning management system. Prior to 2.0.1, Chamilo LMS allows an unauthenticated remote attacker to execute arbitrary code on the server. The authoritative advisory does not identify the affected endpoint, component, input, or exploitation mechanism. This issue is fixed in version 2.0.1.
 
@@ -17654,6 +17764,10 @@ This issue affects Apache HTTP Server: from 2.4.60 through 2.4.68.
 
 - [https://github.com/pvharmo2/gha-lab-677752506e](https://github.com/pvharmo2/gha-lab-677752506e) : ![starts](https://img.shields.io/github/stars/pvharmo2/gha-lab-677752506e.svg) ![forks](https://img.shields.io/github/forks/pvharmo2/gha-lab-677752506e.svg)
 
+## CVE-2026-42290
+
+- [https://github.com/0x5t4l1n/CVE-2026-42290](https://github.com/0x5t4l1n/CVE-2026-42290) : ![starts](https://img.shields.io/github/stars/0x5t4l1n/CVE-2026-42290.svg) ![forks](https://img.shields.io/github/forks/0x5t4l1n/CVE-2026-42290.svg)
+
 ## CVE-2026-42281
  MagicMirror² is an open source modular smart mirror platform. Prior to 2.36.0, an unauthenticated Server-Side Request Forgery (SSRF) vulnerability in the /cors endpoint allows any remote attacker to force the MagicMirror² server to perform arbitrary HTTP requests to internal networks, cloud metadata services, and localhost services. The endpoint also expands environment variable placeholders (**VAR_NAME**), enabling exfiltration of server-side secrets. This vulnerability is fixed in 2.36.0.
 
@@ -18291,6 +18405,14 @@ Users are recommended to upgrade to version 1.2.1, which fixes the issue.
 This issue only happens when using H2, and H2 is mainly used for testing and local development. Also, Gravitino is typically deployed in the internal environment, so the severity is low.
 
 - [https://github.com/Lulztigre/cve-2026-41042](https://github.com/Lulztigre/cve-2026-41042) : ![starts](https://img.shields.io/github/stars/Lulztigre/cve-2026-41042.svg) ![forks](https://img.shields.io/github/forks/Lulztigre/cve-2026-41042.svg)
+
+## CVE-2026-41039
+
+- [https://github.com/0x5t4l1n/CVE-2026-41039](https://github.com/0x5t4l1n/CVE-2026-41039) : ![starts](https://img.shields.io/github/stars/0x5t4l1n/CVE-2026-41039.svg) ![forks](https://img.shields.io/github/forks/0x5t4l1n/CVE-2026-41039.svg)
+
+## CVE-2026-41037
+
+- [https://github.com/0x5t4l1n/CVE-2026-41037](https://github.com/0x5t4l1n/CVE-2026-41037) : ![starts](https://img.shields.io/github/stars/0x5t4l1n/CVE-2026-41037.svg) ![forks](https://img.shields.io/github/forks/0x5t4l1n/CVE-2026-41037.svg)
 
 ## CVE-2026-41036
 
@@ -21816,6 +21938,10 @@ correct response on the original request.
 
 - [https://github.com/Cr0wld3r/CVE-2026-30082](https://github.com/Cr0wld3r/CVE-2026-30082) : ![starts](https://img.shields.io/github/stars/Cr0wld3r/CVE-2026-30082.svg) ![forks](https://img.shields.io/github/forks/Cr0wld3r/CVE-2026-30082.svg)
 
+## CVE-2026-30081
+
+- [https://github.com/0x5t4l1n/CVE-2026-30081](https://github.com/0x5t4l1n/CVE-2026-30081) : ![starts](https://img.shields.io/github/stars/0x5t4l1n/CVE-2026-30081.svg) ![forks](https://img.shields.io/github/forks/0x5t4l1n/CVE-2026-30081.svg)
+
 ## CVE-2026-30048
  A stored cross-site scripting (XSS) vulnerability exists in the NotChatbot WebChat widget thru 1.4.4. User-supplied input is not properly sanitized before being stored and rendered in the chat conversation history. This allows an attacker to inject arbitrary JavaScript code which is executed when the chat history is reloaded. The issue is reproducible across multiple independent implementations of the widget, indicating that the vulnerability resides in the product itself rather than in a specific website configuration.
 
@@ -21851,6 +21977,10 @@ correct response on the original request.
  MRCMS V3.1.2 contains an unauthenticated directory enumeration vulnerability in the file management module. The /admin/file/list.do endpoint lacks authentication controls and proper input validation, allowing remote attackers to enumerate directory contents on the server without any credentials.
 
 - [https://github.com/qflksheep/CVE-2026-29909-MRCMS-vulnerability](https://github.com/qflksheep/CVE-2026-29909-MRCMS-vulnerability) : ![starts](https://img.shields.io/github/stars/qflksheep/CVE-2026-29909-MRCMS-vulnerability.svg) ![forks](https://img.shields.io/github/forks/qflksheep/CVE-2026-29909-MRCMS-vulnerability.svg)
+
+## CVE-2026-29905
+
+- [https://github.com/0x5t4l1n/CVE-2026-29905](https://github.com/0x5t4l1n/CVE-2026-29905) : ![starts](https://img.shields.io/github/stars/0x5t4l1n/CVE-2026-29905.svg) ![forks](https://img.shields.io/github/forks/0x5t4l1n/CVE-2026-29905.svg)
 
 ## CVE-2026-29861
  PHP-MYSQL-User-Login-System v1.0 was discovered to contain a SQL injection vulnerability via the username parameter at login.php.
@@ -25982,6 +26112,10 @@ Mitigation: keep a reference to every SSL
 
 - [https://github.com/abraxas/cve-2026-19445-sni-uaf](https://github.com/abraxas/cve-2026-19445-sni-uaf) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-19445-sni-uaf.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-19445-sni-uaf.svg)
 
+## CVE-2026-19412
+
+- [https://github.com/0x5t4l1n/CVE-2026-19412](https://github.com/0x5t4l1n/CVE-2026-19412) : ![starts](https://img.shields.io/github/stars/0x5t4l1n/CVE-2026-19412.svg) ![forks](https://img.shields.io/github/forks/0x5t4l1n/CVE-2026-19412.svg)
+
 ## CVE-2026-19295
  IBM Langflow OSS 1.0.0 through 1.11.1 allows an authenticated attacker to execute arbitrary operating system commands in the server process by saving a flow with a crafted type field value and triggering a build of a wrapper flow that references it. This allowed privilege escalation from "authenticated flow user" to arbitrary OS-level command execution under the server process identity, bypassing the LANGFLOW_ALLOW_CUSTOM_COMPONENTS=false policy control.
 
@@ -27611,6 +27745,10 @@ A successful match grants role=2 (admin-level access) and creates a valid sessio
 
 - [https://github.com/quarkslab/slirp_snapshots_stateful](https://github.com/quarkslab/slirp_snapshots_stateful) : ![starts](https://img.shields.io/github/stars/quarkslab/slirp_snapshots_stateful.svg) ![forks](https://img.shields.io/github/forks/quarkslab/slirp_snapshots_stateful.svg)
 
+## CVE-2026-9506
+
+- [https://github.com/0x5t4l1n/CVE-2026-9506](https://github.com/0x5t4l1n/CVE-2026-9506) : ![starts](https://img.shields.io/github/stars/0x5t4l1n/CVE-2026-9506.svg) ![forks](https://img.shields.io/github/forks/0x5t4l1n/CVE-2026-9506.svg)
+
 ## CVE-2026-9490
  A security vulnerability has been identified in Acer Care Center where the ACCSvc service creates a Named Pipe with a weak Security Descriptor. This vulnerability allows an authenticated local user to connect and send a specially crafted message (message type 0x03) to the pipe, causing the service to crash with exit code 1067 (ERROR_PROCESS_ABORTED). To mitigate this potential local service disruption, Acer requires users to update the software to the latest version.
 
@@ -28911,6 +29049,8 @@ The specific flaw exists within the handling of the allowed commands list. The i
 - [https://github.com/rmhowe425/POC-CVE-2026-5027](https://github.com/rmhowe425/POC-CVE-2026-5027) : ![starts](https://img.shields.io/github/stars/rmhowe425/POC-CVE-2026-5027.svg) ![forks](https://img.shields.io/github/forks/rmhowe425/POC-CVE-2026-5027.svg)
 
 - [https://github.com/yym8538/CVE-2026-5027](https://github.com/yym8538/CVE-2026-5027) : ![starts](https://img.shields.io/github/stars/yym8538/CVE-2026-5027.svg) ![forks](https://img.shields.io/github/forks/yym8538/CVE-2026-5027.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-5027](https://github.com/ashrafzaryouh/CVE-2026-5027) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-5027.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-5027.svg)
 
 ## CVE-2026-5006
  A vulnerability was identified in HashiCorp Vault and Vault Enterprise (“Vault”) such that an authenticated attacker may manipulate an identity value referenced by a templated policy path to gain unintended access to Vault paths.
