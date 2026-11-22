@@ -8892,6 +8892,8 @@ This vulnerability is due to insufficient validation in the email parsing logic.
 
 - [https://github.com/fevar54/CVE-2026-76461-Detection-Kit-](https://github.com/fevar54/CVE-2026-76461-Detection-Kit-) : ![starts](https://img.shields.io/github/stars/fevar54/CVE-2026-76461-Detection-Kit-.svg) ![forks](https://img.shields.io/github/forks/fevar54/CVE-2026-76461-Detection-Kit-.svg)
 
+- [https://github.com/ashrafzaryouh/CVE-2026-76461](https://github.com/ashrafzaryouh/CVE-2026-76461) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-76461.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-76461.svg)
+
 ## CVE-2026-76460
  A vulnerability in an API of Cisco Identity Services Engine (ISE) could allow an unauthenticated, remote attacker to bypass authentication.
 
@@ -112015,6 +112017,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 - [https://github.com/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report](https://github.com/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report) : ![starts](https://img.shields.io/github/stars/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report.svg) ![forks](https://img.shields.io/github/forks/cyberexpert111/Blind-SSRF-to-Remote-Code-Execution-Shellshock-Professional-Bug-Bounty-Report.svg)
 
 - [https://github.com/ItzSteve04/shellshock-linux-host-hardening-lab](https://github.com/ItzSteve04/shellshock-linux-host-hardening-lab) : ![starts](https://img.shields.io/github/stars/ItzSteve04/shellshock-linux-host-hardening-lab.svg) ![forks](https://img.shields.io/github/forks/ItzSteve04/shellshock-linux-host-hardening-lab.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2014-6271](https://github.com/ashrafzaryouh/CVE-2014-6271) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2014-6271.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2014-6271.svg)
 
 ## CVE-2014-5460
  Unrestricted file upload vulnerability in the Tribulant Slideshow Gallery plugin before 1.4.7 for WordPress allows remote authenticated users to execute arbitrary code by uploading a PHP file, then accessing it via a direct request to the file in wp-content/uploads/slideshow-gallery/.

@@ -12676,3 +12676,6 @@
 {"cve_id": "CVE-2026-129975", "ts": "2026-11-22T17:16:18Z", "type": "new_poc", "url": "https://github.com/techdevfun/gpgme2shell"}
 {"cve_id": "CVE-2023-6931", "ts": "2026-11-22T17:18:29Z", "type": "new_poc", "url": "https://github.com/loki5512344ss/unlock_docs"}
 {"cve_id": "CVE-2026-5027", "ts": "2026-11-22T17:24:35Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-5027"}
+{"cve_id": "CVE-2026-132989", "ts": "2026-11-22T17:32:36Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-76461", "ts": "2026-11-22T17:35:42Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-76461"}
+{"cve_id": "CVE-2014-6271", "ts": "2026-11-22T17:41:31Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2014-6271"}
