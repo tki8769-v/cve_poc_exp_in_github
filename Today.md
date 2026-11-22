@@ -71,6 +71,10 @@ Through a series of complex obfuscations, the liblzma build process extracts a p
 
 - [https://github.com/ashrafzaryouh/CVE-2025-68645](https://github.com/ashrafzaryouh/CVE-2025-68645) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2025-68645.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2025-68645.svg)
 
+## CVE-2026-104099
+
+- [https://github.com/abraxas/cve-2026-104099-fabio-path-acl-bypass](https://github.com/abraxas/cve-2026-104099-fabio-path-acl-bypass) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-104099-fabio-path-acl-bypass.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-104099-fabio-path-acl-bypass.svg)
+
 ## CVE-2026-107853
 > tiny-secp256k1 is a tiny secp256k1 native/JS wrapper. From 2.1.0 until 2.2.5 for tiny-secp256k1 and from 2.2.2 until 2.2.5 for @bitcoin-js/tiny-secp256k1-asmjs, the three-argument xOnlyPointAddTweakCheck path ignores the backend failure return from xOnlyPointAddTweak when a tweak produces the point at infinity. The shared X_ONLY_PUBLIC_KEY_INPUT buffer then still contains the original point, so a caller-controlled resultToCheck equal to that point can make the stale-buffer comparison return true
 

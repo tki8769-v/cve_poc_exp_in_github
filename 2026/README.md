@@ -89,10 +89,12 @@
 - [https://github.com/LLCForge/CVE-2026-133325](https://github.com/LLCForge/CVE-2026-133325) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133325.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133325.svg)
 
 ## CVE-2026-133305
+> sqlmap before 1.10.11.89 contains a credential exposure vulnerability that allows attackers to capture user-supplied Cookie and Authorization headers by redirecting requests to another host. Attackers controlling the scanned target or abusing an open redirect can make RedirectHandler.http_error_302 forward session cookies or bearer tokens to an attacker-controlled host.
 
 - [https://github.com/VulnSVNC/CVE-2026-133305](https://github.com/VulnSVNC/CVE-2026-133305) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-133305.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-133305.svg)
 
 ## CVE-2026-133274
+> THC-Hydra through 9.7 contains a stack buffer overflow vulnerability in analyze_server_response() of hydra-http-form.c that allows malicious HTTP servers to corrupt memory via crafted Set-Cookie headers. Attackers can send a Set-Cookie header with an extra leading space followed by a repeated cookie name, causing a negative strncpy length that overflows tmpcookie and crashes Hydra.
 
 - [https://github.com/VulnSVNC/CVE-2026-133274](https://github.com/VulnSVNC/CVE-2026-133274) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-133274.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-133274.svg)
 
@@ -4246,10 +4248,12 @@ configuration,
 - [https://github.com/M0ud4/CVE-2026-105810](https://github.com/M0ud4/CVE-2026-105810) : ![starts](https://img.shields.io/github/stars/M0ud4/CVE-2026-105810.svg) ![forks](https://img.shields.io/github/forks/M0ud4/CVE-2026-105810.svg)
 
 ## CVE-2026-105803
+> Git LFS is a Git extension for versioning large files. From 1.3.0 until 3.8.1, Git LFS does not correctly filter the limited set of options permitted in a repository&#x27;s .lfsconfig file when option keys contain certain additional components. Crafted keys can mimic options that configure Git LFS to use a custom command to transfer objects, causing Git LFS to execute an attacker-selected command or binary while fetching objects. This issue is fixed in version 3.8.1.
 
 - [https://github.com/googlesky/CVE-2026-105803](https://github.com/googlesky/CVE-2026-105803) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-105803.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-105803.svg)
 
 ## CVE-2026-105802
+> Git LFS is a Git extension for versioning large files. From 0.6.0 until 3.8.1, Git LFS reads Git configuration options defined for a submodule without checking certain values for embedded line-ending control characters. A malicious repository can insert control characters such as line feed (LF) into those values to mimic options that cause Git LFS to execute an attacker-controlled command or binary while fetching or adding objects. This issue is fixed in version 3.8.1.
 
 - [https://github.com/googlesky/CVE-2026-105802](https://github.com/googlesky/CVE-2026-105802) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-105802.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-105802.svg)
 
@@ -4648,6 +4652,8 @@ device operation and availability. No authentication, session e
 ## CVE-2026-104099
 
 - [https://github.com/LLCForge/CVE-2026-104099](https://github.com/LLCForge/CVE-2026-104099) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-104099.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-104099.svg)
+
+- [https://github.com/abraxas/cve-2026-104099-fabio-path-acl-bypass](https://github.com/abraxas/cve-2026-104099-fabio-path-acl-bypass) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-104099-fabio-path-acl-bypass.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-104099-fabio-path-acl-bypass.svg)
 
 ## CVE-2026-104068
 > JetBackup plugin for WordPress before 3.1.24.10 contains a symlink-based arbitrary file write vulnerability that allows an authenticated WordPress administrator to write attacker-controlled file contents outside the intended restore destination during backup import and restore. Attackers can craft a backup archive containing a symbolic link that archive extraction follows without validating targets or enforcing destination containment, potentially leading to server-side code execution depending 
@@ -8788,14 +8794,17 @@ CVE-2025-32907 addressed memory amplification when a client repeated the same ra
 - [https://github.com/saretawa/CVE-2026-77396](https://github.com/saretawa/CVE-2026-77396) : ![starts](https://img.shields.io/github/stars/saretawa/CVE-2026-77396.svg) ![forks](https://img.shields.io/github/forks/saretawa/CVE-2026-77396.svg)
 
 ## CVE-2026-77378
+> Bolt is a fully open source, adaptable platform for building and running modern websites. Prior to 6.1.4, SQL injection in ListFormatHelper allows authenticated users with upload permission to execute arbitrary SQL queries through /async/select-options and exfiltrate sensitive database contents when general/caching/list_format is enabled. This issue is fixed in version 6.1.4.
 
 - [https://github.com/googlesky/CVE-2026-77378](https://github.com/googlesky/CVE-2026-77378) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77378.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77378.svg)
 
 ## CVE-2026-77369
+> Daptin is a GraphQL/JSON-API headless CMS. From 0.11.4 until 0.12.30, the generic GET /yjs/:documentName WebSocket route in InitializeYjsResources requires a session but does not authorize the database resource selected by a typename.referenceId.columnName room name. The YJS initial-content provider then reads the selected file.* column without CanRead or CanUpdate checks, and bidirectional synchronization allows a low-privileged authenticated user to read or modify restricted row content. Unaut
 
 - [https://github.com/LLCForge/CVE-2026-77369](https://github.com/LLCForge/CVE-2026-77369) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-77369.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-77369.svg)
 
 ## CVE-2026-77367
+> Daptin is a GraphQL/JSON-API headless CMS. Prior to 0.12.30, the generic GET /api/{entity} list endpoint accepts attacker-controlled sort values in PaginatedFindAllWithoutFilters in server/resource/resource_findallpaginated.go without validating the requested column against the table schema. The code uses those values for SELECT and ORDER BY identifier construction, so an embedded identifier quote can terminate the quoted identifier and make the remainder parse as SQL, allowing an unauthenticate
 
 - [https://github.com/LLCForge/CVE-2026-77367](https://github.com/LLCForge/CVE-2026-77367) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-77367.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-77367.svg)
 
@@ -8808,6 +8817,7 @@ CVE-2025-32907 addressed memory amplification when a client repeated the same ra
 - [https://github.com/googlesky/CVE-2026-77332](https://github.com/googlesky/CVE-2026-77332) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77332.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77332.svg)
 
 ## CVE-2026-77318
+> Jupyter MCP Server is a Model Context Protocol server for Jupyter. Prior to 1.0.3, standalone streamable-http mode can enforce MCP_TOKEN on /mcp while leaving the state-changing /api/connect and /api/stop management routes unauthenticated. An unauthenticated network caller can use /api/connect to replace runtime_url and document_url values and their tokens, reset ServerContext, and start a kernel client against attacker-controlled infrastructure, causing the server to send Jupyter API and WebSoc
 
 - [https://github.com/googlesky/CVE-2026-77318](https://github.com/googlesky/CVE-2026-77318) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77318.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77318.svg)
 
@@ -9854,10 +9864,12 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 - [https://github.com/leoelsolh/CVE-2026-69263](https://github.com/leoelsolh/CVE-2026-69263) : ![starts](https://img.shields.io/github/stars/leoelsolh/CVE-2026-69263.svg) ![forks](https://img.shields.io/github/forks/leoelsolh/CVE-2026-69263.svg)
 
 ## CVE-2026-69261
+> Git LFS is a Git extension for versioning large files. From 0.5.0 until 3.8.1, Git LFS may forward a Cookie header after an HTTP redirect to a host other than the one for which the header was intended. That unintended host can therefore receive cookies containing credentials or other confidential values. Authorization headers are never forwarded to inappropriate hosts and are not the affected secret in this vulnerability. This issue is fixed in version 3.8.1.
 
 - [https://github.com/googlesky/CVE-2026-69261](https://github.com/googlesky/CVE-2026-69261) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-69261.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-69261.svg)
 
 ## CVE-2026-69260
+> Git LFS is a Git extension for versioning large files. From 0.5.0 until 3.8.1, Git LFS does not format the SSH URL path component as a single argument when constructing remote object-transfer or authentication commands. Shell metacharacters in the SSH URL can therefore escape the intended path argument and cause arbitrary command execution when the remote Git LFS service passes received commands to a shell without adequate sanitization. Git LFS also incorrectly encodes default HTTPS URLs when an
 
 - [https://github.com/googlesky/CVE-2026-69260](https://github.com/googlesky/CVE-2026-69260) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-69260.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-69260.svg)
 

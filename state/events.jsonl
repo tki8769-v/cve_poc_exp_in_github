@@ -12706,3 +12706,9 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-22T23:01:05Z", "type": "new_poc", "url": "https://github.com/stellaqwq/ghostlock-root5-pd2118c"}
 {"cve_id": "CVE-2011-2523", "ts": "2026-11-22T23:01:13Z", "type": "new_poc", "url": "https://github.com/SelimcanG/security-home-lab"}
 {"cve_id": "CVE-2025-30065", "ts": "2026-11-22T23:04:26Z", "type": "new_poc", "url": "https://github.com/zha0/CVE-2025-30065"}
+{"cve_id": "CVE-2026-123146", "ts": "2026-11-22T23:15:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-127925", "ts": "2026-11-22T23:16:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-128884", "ts": "2026-11-22T23:16:23Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132151", "ts": "2026-11-22T23:17:09Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132989", "ts": "2026-11-22T23:17:50Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-104099", "ts": "2026-11-22T23:26:58Z", "type": "new_poc", "url": "https://github.com/abraxas/cve-2026-104099-fabio-path-acl-bypass"}
