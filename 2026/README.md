@@ -93,14 +93,17 @@
 - [https://github.com/LLCForge/CVE-2026-133168](https://github.com/LLCForge/CVE-2026-133168) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133168.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133168.svg)
 
 ## CVE-2026-133117
+> WebToffee Product Feed before 2.4.4 for WordPress contains a use of hard-coded cryptographic key vulnerability that allows unauthenticated attackers to bypass the URL-cron signature check by computing a valid hash using the publicly known constant salt embedded in the plugin source. Attackers can send forged GET requests with attacker-controlled parameters to the unauthenticated init-hooked endpoint to repeatedly trigger product-feed generation, causing CPU/database resource exhaustion and overw
 
 - [https://github.com/LLCForge/CVE-2026-133117](https://github.com/LLCForge/CVE-2026-133117) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133117.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133117.svg)
 
 ## CVE-2026-133114
+> Caddy – WooCommerce Side Cart &amp; Free Shipping Bar plugin for WordPress 3.0.0 before 3.2.1 contains a missing authorization vulnerability in the saved-items/add REST endpoint that exposes non-public product data. Authenticated attackers with Subscriber-level access can enumerate product_id values to read names, prices, images and stock status of private, draft, hidden and password-protected products.
 
 - [https://github.com/LLCForge/CVE-2026-133114](https://github.com/LLCForge/CVE-2026-133114) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133114.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133114.svg)
 
 ## CVE-2026-133113
+> Gogs through 0.14.4 contains an authorization bypass vulnerability that allows collaborators with write access to push to protected branches by merging pull requests. Because MergePullRequest skips branch protection checks and PullRequest.Merge omits hook environment variables, attackers can merge commits into branches restricted to allowlisted users.
 
 - [https://github.com/LLCForge/CVE-2026-133113](https://github.com/LLCForge/CVE-2026-133113) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133113.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133113.svg)
 
@@ -5433,6 +5436,12 @@ under rcu_read_lock() only, and ip_build_and_send_pkt() a
 - [https://github.com/lwmacct/261119-cve-2026-98432](https://github.com/lwmacct/261119-cve-2026-98432) : ![starts](https://img.shields.io/github/stars/lwmacct/261119-cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/lwmacct/261119-cve-2026-98432.svg)
 
 - [https://github.com/Agency-Tool-Company/jetson-cve-2026-98432](https://github.com/Agency-Tool-Company/jetson-cve-2026-98432) : ![starts](https://img.shields.io/github/stars/Agency-Tool-Company/jetson-cve-2026-98432.svg) ![forks](https://img.shields.io/github/forks/Agency-Tool-Company/jetson-cve-2026-98432.svg)
+
+- [https://github.com/mrjoshuap-hq/ansible-ezcve](https://github.com/mrjoshuap-hq/ansible-ezcve) : ![starts](https://img.shields.io/github/stars/mrjoshuap-hq/ansible-ezcve.svg) ![forks](https://img.shields.io/github/forks/mrjoshuap-hq/ansible-ezcve.svg)
+
+- [https://github.com/nnssh/CVE-2026-98432_poc](https://github.com/nnssh/CVE-2026-98432_poc) : ![starts](https://img.shields.io/github/stars/nnssh/CVE-2026-98432_poc.svg) ![forks](https://img.shields.io/github/forks/nnssh/CVE-2026-98432_poc.svg)
+
+- [https://github.com/sam00/CVE-2026-98432-POC-Exploit](https://github.com/sam00/CVE-2026-98432-POC-Exploit) : ![starts](https://img.shields.io/github/stars/sam00/CVE-2026-98432-POC-Exploit.svg) ![forks](https://img.shields.io/github/forks/sam00/CVE-2026-98432-POC-Exploit.svg)
 
 ## CVE-2026-98385
 > In the Linux kernel, the following vulnerability has been resolved:

@@ -12679,3 +12679,8 @@
 {"cve_id": "CVE-2026-132989", "ts": "2026-11-22T17:32:36Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2026-76461", "ts": "2026-11-22T17:35:42Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-76461"}
 {"cve_id": "CVE-2014-6271", "ts": "2026-11-22T17:41:31Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2014-6271"}
+{"cve_id": "CVE-2026-132989", "ts": "2026-11-22T17:47:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132989", "ts": "2026-11-22T17:51:51Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-22T18:01:09Z", "type": "new_poc", "url": "https://github.com/nnssh/CVE-2026-98432_poc"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-22T18:01:10Z", "type": "new_poc", "url": "https://github.com/sam00/CVE-2026-98432-POC-Exploit"}
+{"cve_id": "CVE-2026-98432", "ts": "2026-11-22T18:01:10Z", "type": "new_poc", "url": "https://github.com/mrjoshuap-hq/ansible-ezcve"}

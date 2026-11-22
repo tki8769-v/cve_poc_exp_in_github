@@ -324,6 +324,23 @@ but the node is still queued on tsk, which
 - [https://github.com/okk30721-cell/cve-2026-98260-ksu](https://github.com/okk30721-cell/cve-2026-98260-ksu) : ![starts](https://img.shields.io/github/stars/okk30721-cell/cve-2026-98260-ksu.svg) ![forks](https://img.shields.io/github/forks/okk30721-cell/cve-2026-98260-ksu.svg)
 - [https://github.com/pjnssb/CVE-2026-98260-GhostKey](https://github.com/pjnssb/CVE-2026-98260-GhostKey) : ![starts](https://img.shields.io/github/stars/pjnssb/CVE-2026-98260-GhostKey.svg) ![forks](https://img.shields.io/github/forks/pjnssb/CVE-2026-98260-GhostKey.svg)
 
+## CVE-2026-98432
+> In the Linux kernel, the following vulnerability has been resolved:
+
+ipv4: free inet_opt and ireq_opt after an RCU grace period
+
+tcp_v4_syn_recv_sock() transfers ownership of ireq-&gt;ireq_opt to the
+child socket (newinet-&gt;inet_opt) without copying it.
+
+Another cpu can concurrently process a retransmitted SYN for the same
+request socket, and send a SYNACK from tcp_check_req().
+tcp_v4_send_synack() and inet_csk_route_req() read ireq-&gt;ireq_opt
+under rcu_read_lock() only, and ip_build_and_send_pkt() a
+
+- [https://github.com/mrjoshuap-hq/ansible-ezcve](https://github.com/mrjoshuap-hq/ansible-ezcve) : ![starts](https://img.shields.io/github/stars/mrjoshuap-hq/ansible-ezcve.svg) ![forks](https://img.shields.io/github/forks/mrjoshuap-hq/ansible-ezcve.svg)
+- [https://github.com/nnssh/CVE-2026-98432_poc](https://github.com/nnssh/CVE-2026-98432_poc) : ![starts](https://img.shields.io/github/stars/nnssh/CVE-2026-98432_poc.svg) ![forks](https://img.shields.io/github/forks/nnssh/CVE-2026-98432_poc.svg)
+- [https://github.com/sam00/CVE-2026-98432-POC-Exploit](https://github.com/sam00/CVE-2026-98432-POC-Exploit) : ![starts](https://img.shields.io/github/stars/sam00/CVE-2026-98432-POC-Exploit.svg) ![forks](https://img.shields.io/github/forks/sam00/CVE-2026-98432-POC-Exploit.svg)
+
 ## CVE-2026-99312
 > In the Linux kernel, the following vulnerability has been resolved:
 
