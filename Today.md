@@ -41,6 +41,20 @@ We recommend upgrading past commit 382c27f4ed28f803b1f1473ac2d8db0afc795a1b.
 
 - [https://github.com/loki5512344ss/unlock_docs](https://github.com/loki5512344ss/unlock_docs) : ![starts](https://img.shields.io/github/stars/loki5512344ss/unlock_docs.svg) ![forks](https://img.shields.io/github/forks/loki5512344ss/unlock_docs.svg)
 
+## CVE-2024-3094
+> Malicious code was discovered in the upstream tarballs of xz, starting with version 5.6.0. 
+Through a series of complex obfuscations, the liblzma build process extracts a prebuilt object file from a disguised test file existing in the source code, which is then used to modify specific functions in the liblzma code. This results in a modified liblzma library that can be used by any software linked against this library, intercepting and modifying the data interaction with this library.
+
+- [https://github.com/ashrafzaryouh/CVE-2024-3094](https://github.com/ashrafzaryouh/CVE-2024-3094) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2024-3094.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2024-3094.svg)
+
+## CVE-2024-31317
+
+- [https://github.com/ddtftx1/xiaodu-qinghe-v20-security-audit](https://github.com/ddtftx1/xiaodu-qinghe-v20-security-audit) : ![starts](https://img.shields.io/github/stars/ddtftx1/xiaodu-qinghe-v20-security-audit.svg) ![forks](https://img.shields.io/github/forks/ddtftx1/xiaodu-qinghe-v20-security-audit.svg)
+
+## CVE-2025-32433
+
+- [https://github.com/javakhir018/jenkins-erlang-otp-cve-2025-32433](https://github.com/javakhir018/jenkins-erlang-otp-cve-2025-32433) : ![starts](https://img.shields.io/github/stars/javakhir018/jenkins-erlang-otp-cve-2025-32433.svg) ![forks](https://img.shields.io/github/forks/javakhir018/jenkins-erlang-otp-cve-2025-32433.svg)
+
 ## CVE-2025-64446
 
 - [https://github.com/ashrafzaryouh/CVE-2025-64446](https://github.com/ashrafzaryouh/CVE-2025-64446) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2025-64446.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2025-64446.svg)
@@ -82,6 +96,13 @@ We recommend upgrading past commit 382c27f4ed28f803b1f1473ac2d8db0afc795a1b.
 
 - [https://github.com/googlesky/CVE-2026-121716](https://github.com/googlesky/CVE-2026-121716) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-121716.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-121716.svg)
 
+## CVE-2026-123007
+> This issue affects NGINX Plus or NGINX Open Source configurations that use HTTP/2. When NGINX processes undisclosed traffic, the flow control window can exceed the allowed threshold, potentially resulting in a heap buffer overflow typically followed by an NGINX worker segmentation fault. Additionally, attackers can execute code on systems with Address Space Layout Randomization (ASLR) disabled or when the attacker can bypass ASLR.
+
+Impact: An attacker could leverage this vulnerability to crash t
+
+- [https://github.com/VABISMO/nginx2root](https://github.com/VABISMO/nginx2root) : ![starts](https://img.shields.io/github/stars/VABISMO/nginx2root.svg) ![forks](https://img.shields.io/github/forks/VABISMO/nginx2root.svg)
+
 ## CVE-2026-123158
 > sshd in OpenSSH before 10.6p2 on Linux, when musl libc is used without PAM, lacks a workaround for a password authentication bypass (related to misinterpretation of whether a string is intended to be a password hash). For some configurations of accounts, any password between 256 and 1024 characters succeeds. An example of a platform using musl libc without PAM is Alpine Linux.
 
@@ -89,6 +110,9 @@ We recommend upgrading past commit 382c27f4ed28f803b1f1473ac2d8db0afc795a1b.
 - [https://github.com/aparnaa19/cve-to-chaos](https://github.com/aparnaa19/cve-to-chaos) : ![starts](https://img.shields.io/github/stars/aparnaa19/cve-to-chaos.svg) ![forks](https://img.shields.io/github/forks/aparnaa19/cve-to-chaos.svg)
 
 ## CVE-2026-123890
+> VMware vCenter contains an authentication bypass vulnerability in the VMware Directory Service.
+Affected versions: 9.1.x (fixed in 9.1.1.0200); 9.0.x (fixed in 9.0.2.0200); 8.0 (fixed in 8.0 U3m); 5.x (fixed in 5.2.5).
+Telco Cloud Platform 3.0, 4.x, 5.0.x, 5.1.x, 5.2 and Telco Cloud Infrastructure 3.0 are also affected (see KB463116).
 
 - [https://github.com/PARTSI14/armory-castle-vcenter-detections](https://github.com/PARTSI14/armory-castle-vcenter-detections) : ![starts](https://img.shields.io/github/stars/PARTSI14/armory-castle-vcenter-detections.svg) ![forks](https://img.shields.io/github/forks/PARTSI14/armory-castle-vcenter-detections.svg)
 
@@ -178,12 +202,47 @@ We recommend upgrading past commit 382c27f4ed28f803b1f1473ac2d8db0afc795a1b.
 
 - [https://github.com/googlesky/CVE-2026-130007](https://github.com/googlesky/CVE-2026-130007) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130007.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130007.svg)
 
+## CVE-2026-132147
+
+- [https://github.com/ly1g3/debian-bts-CVE-2026-132147](https://github.com/ly1g3/debian-bts-CVE-2026-132147) : ![starts](https://img.shields.io/github/stars/ly1g3/debian-bts-CVE-2026-132147.svg) ![forks](https://img.shields.io/github/forks/ly1g3/debian-bts-CVE-2026-132147.svg)
+
+## CVE-2026-133169
+> modified eCommerce Shopsoftware through 3.3.0 contains a stored cross-site scripting vulnerability that allows authenticated administrators to inject scripts via the unsanitized products_model field. Attackers with product editing permission can store JavaScript that executes in browsers of other administrators, storefront visitors, and customers viewing carts and order history.
+
+- [https://github.com/capivara-research/modified-shop-xss-products-model](https://github.com/capivara-research/modified-shop-xss-products-model) : ![starts](https://img.shields.io/github/stars/capivara-research/modified-shop-xss-products-model.svg) ![forks](https://img.shields.io/github/forks/capivara-research/modified-shop-xss-products-model.svg)
+
+## CVE-2026-134541
+
+- [https://github.com/LLCForge/CVE-2026-134541](https://github.com/LLCForge/CVE-2026-134541) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134541.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134541.svg)
+
+## CVE-2026-134543
+
+- [https://github.com/LLCForge/CVE-2026-134543](https://github.com/LLCForge/CVE-2026-134543) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134543.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134543.svg)
+
 ## CVE-2026-134623
 
+- [https://github.com/LLCForge/CVE-2026-134623](https://github.com/LLCForge/CVE-2026-134623) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134623.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134623.svg)
 - [https://github.com/SumitNayak1337/CVE-2026-134623](https://github.com/SumitNayak1337/CVE-2026-134623) : ![starts](https://img.shields.io/github/stars/SumitNayak1337/CVE-2026-134623.svg) ![forks](https://img.shields.io/github/forks/SumitNayak1337/CVE-2026-134623.svg)
+
+## CVE-2026-134654
+
+- [https://github.com/LLCForge/CVE-2026-134654](https://github.com/LLCForge/CVE-2026-134654) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134654.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134654.svg)
+
+## CVE-2026-134679
+
+- [https://github.com/LLCForge/CVE-2026-134679](https://github.com/LLCForge/CVE-2026-134679) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134679.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134679.svg)
+
+## CVE-2026-134694
+
+- [https://github.com/LLCForge/CVE-2026-134694](https://github.com/LLCForge/CVE-2026-134694) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134694.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134694.svg)
+
+## CVE-2026-134704
+
+- [https://github.com/LLCForge/CVE-2026-134704](https://github.com/LLCForge/CVE-2026-134704) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134704.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134704.svg)
 
 ## CVE-2026-134753
 
+- [https://github.com/LLCForge/CVE-2026-134753](https://github.com/LLCForge/CVE-2026-134753) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134753.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134753.svg)
 - [https://github.com/VulnSVNC/CVE-2026-134753](https://github.com/VulnSVNC/CVE-2026-134753) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-134753.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-134753.svg)
 
 ## CVE-2026-134758
@@ -357,6 +416,16 @@ or L2 being active, but SMM is also encoded in the page role.
 - [https://github.com/Quaerendir/cve-2026-99312-audit](https://github.com/Quaerendir/cve-2026-99312-audit) : ![starts](https://img.shields.io/github/stars/Quaerendir/cve-2026-99312-audit.svg) ![forks](https://img.shields.io/github/forks/Quaerendir/cve-2026-99312-audit.svg)
 
 ## CVE-2026-99491
+> In the Linux kernel, the following vulnerability has been resolved:
+
+HID: wacom: Fix Use-After-Free in wacom_intuos_pad
+
+wacom_intuos_pad() accesses wacom-&gt;shared-&gt;touch_input locklessly
+inside the interrupt handler context.  If the Touch sibling device
+is disconnected, wacom_remove_shared_data() clears &#x27;touch_input&#x27;
+outside any lock, creating a Time-of-Check to Time-of-Use (TOCTOU)
+race condition where a preempted reader in interrupt context
+dereferences the freed pointer, leading to a Use-Afte
 
 - [https://github.com/FatBrother1/hapt-99491](https://github.com/FatBrother1/hapt-99491) : ![starts](https://img.shields.io/github/stars/FatBrother1/hapt-99491.svg) ![forks](https://img.shields.io/github/forks/FatBrother1/hapt-99491.svg)
 - [https://github.com/woshigenm/CVE-2026-99491-FANXIAOCHAO](https://github.com/woshigenm/CVE-2026-99491-FANXIAOCHAO) : ![starts](https://img.shields.io/github/stars/woshigenm/CVE-2026-99491-FANXIAOCHAO.svg) ![forks](https://img.shields.io/github/forks/woshigenm/CVE-2026-99491-FANXIAOCHAO.svg)

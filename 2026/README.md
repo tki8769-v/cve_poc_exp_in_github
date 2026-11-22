@@ -22,9 +22,37 @@
 
 - [https://github.com/VulnSVNC/CVE-2026-134753](https://github.com/VulnSVNC/CVE-2026-134753) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-134753.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-134753.svg)
 
+- [https://github.com/LLCForge/CVE-2026-134753](https://github.com/LLCForge/CVE-2026-134753) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134753.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134753.svg)
+
+## CVE-2026-134704
+
+- [https://github.com/LLCForge/CVE-2026-134704](https://github.com/LLCForge/CVE-2026-134704) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134704.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134704.svg)
+
+## CVE-2026-134694
+
+- [https://github.com/LLCForge/CVE-2026-134694](https://github.com/LLCForge/CVE-2026-134694) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134694.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134694.svg)
+
+## CVE-2026-134679
+
+- [https://github.com/LLCForge/CVE-2026-134679](https://github.com/LLCForge/CVE-2026-134679) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134679.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134679.svg)
+
+## CVE-2026-134654
+
+- [https://github.com/LLCForge/CVE-2026-134654](https://github.com/LLCForge/CVE-2026-134654) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134654.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134654.svg)
+
 ## CVE-2026-134623
 
 - [https://github.com/SumitNayak1337/CVE-2026-134623](https://github.com/SumitNayak1337/CVE-2026-134623) : ![starts](https://img.shields.io/github/stars/SumitNayak1337/CVE-2026-134623.svg) ![forks](https://img.shields.io/github/forks/SumitNayak1337/CVE-2026-134623.svg)
+
+- [https://github.com/LLCForge/CVE-2026-134623](https://github.com/LLCForge/CVE-2026-134623) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134623.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134623.svg)
+
+## CVE-2026-134543
+
+- [https://github.com/LLCForge/CVE-2026-134543](https://github.com/LLCForge/CVE-2026-134543) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134543.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134543.svg)
+
+## CVE-2026-134541
+
+- [https://github.com/LLCForge/CVE-2026-134541](https://github.com/LLCForge/CVE-2026-134541) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134541.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134541.svg)
 
 ## CVE-2026-133968
 
@@ -77,18 +105,27 @@
 - [https://github.com/LLCForge/CVE-2026-133234](https://github.com/LLCForge/CVE-2026-133234) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133234.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133234.svg)
 
 ## CVE-2026-133185
+> Goproxy before 1.9.4 contains a weak key generation vulnerability in NewCounterEncryptorRandFromKey that derives RSA and Ed25519 leaf certificate private keys from public data due to misuse of hash.Sum. Attackers with the CA certificate and one observed leaf certificate can regenerate that host&#x27;s leaf private key and impersonate the host to clients trusting the proxy CA.
 
 - [https://github.com/LLCForge/CVE-2026-133185](https://github.com/LLCForge/CVE-2026-133185) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133185.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133185.svg)
 
 ## CVE-2026-133173
+> WatchAlert 2.0.0 through 3.9.20 contains an insecure direct object reference vulnerability in the /api/w8t/datasource/dataSourceGet endpoint that lets authenticated users read other tenants&#x27; datasources because lookups omit tenant_id filtering. Tenant members with datasource view permission can request another tenant&#x27;s datasource ID to obtain basic auth passwords, AWS and Alibaba Cloud keys, and Kubernetes kubeconfigs.
 
 - [https://github.com/LLCForge/CVE-2026-133173](https://github.com/LLCForge/CVE-2026-133173) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133173.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133173.svg)
 
 ## CVE-2026-133172
+> Cozy Cloud cozy-stack 1.6.62 before 1.6.69 contains an authorization bypass vulnerability in the shared-drive move handler that allows authenticated users to access other instances&#x27; files. Attackers owning a shared drive can name another instance&#x27;s domain and any directory ID as the move source to copy and delete the victim&#x27;s file tree.
 
 - [https://github.com/LLCForge/CVE-2026-133172](https://github.com/LLCForge/CVE-2026-133172) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133172.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133172.svg)
 
+## CVE-2026-133169
+> modified eCommerce Shopsoftware through 3.3.0 contains a stored cross-site scripting vulnerability that allows authenticated administrators to inject scripts via the unsanitized products_model field. Attackers with product editing permission can store JavaScript that executes in browsers of other administrators, storefront visitors, and customers viewing carts and order history.
+
+- [https://github.com/capivara-research/modified-shop-xss-products-model](https://github.com/capivara-research/modified-shop-xss-products-model) : ![starts](https://img.shields.io/github/stars/capivara-research/modified-shop-xss-products-model.svg) ![forks](https://img.shields.io/github/forks/capivara-research/modified-shop-xss-products-model.svg)
+
 ## CVE-2026-133168
+> OFFIS DCMTK 3.7.1 contains a heap buffer overflow vulnerability in togglePlanarConfiguration8 and togglePlanarConfiguration16 in djcodece.cc, which compute row offsets using rows instead of columns. Attackers can supply a crafted color-by-plane DICOM image with more rows than columns that is compressed with the true-lossless JPEG codec to corrupt heap memory, causing crashes and potentially code execution.
 
 - [https://github.com/LLCForge/CVE-2026-133168](https://github.com/LLCForge/CVE-2026-133168) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133168.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133168.svg)
 
@@ -167,6 +204,10 @@
 ## CVE-2026-132165
 
 - [https://github.com/abraxas/drupal-install-takeover](https://github.com/abraxas/drupal-install-takeover) : ![starts](https://img.shields.io/github/stars/abraxas/drupal-install-takeover.svg) ![forks](https://img.shields.io/github/forks/abraxas/drupal-install-takeover.svg)
+
+## CVE-2026-132147
+
+- [https://github.com/ly1g3/debian-bts-CVE-2026-132147](https://github.com/ly1g3/debian-bts-CVE-2026-132147) : ![starts](https://img.shields.io/github/stars/ly1g3/debian-bts-CVE-2026-132147.svg) ![forks](https://img.shields.io/github/forks/ly1g3/debian-bts-CVE-2026-132147.svg)
 
 ## CVE-2026-131873
 > Gargoyle 2023.1 through 2026.1.1 contains a stack-based buffer overflow vulnerability in the bundled Plus interpreter&#x27;s ReadAction() function in terps/plus/loaddatabase.c, which never bounds-checks the index into the 1024-entry conditions array. Attackers can supply a crafted or truncated .plus game file with unterminated action conditions to write file-controlled values past the array and crash the player.
@@ -250,6 +291,9 @@
 - [https://github.com/techdevfun/gpgme2shell](https://github.com/techdevfun/gpgme2shell) : ![starts](https://img.shields.io/github/stars/techdevfun/gpgme2shell.svg) ![forks](https://img.shields.io/github/forks/techdevfun/gpgme2shell.svg)
 
 ## CVE-2026-129496
+> Timezone cache use-after-free can lead to remote code execution.
+
+In non-thread-safe builds, a diagnostic written to a file-based error_log during module startup, for example for an invalid date.timezone value or a session configuration warning, causes the timezone cache to be allocated in startup memory that is freed while a reference to it is kept. A diagnostic raised early in the first request of a worker, such as the max_input_vars warning, then accesses the freed cache. On such a deployment
 
 - [https://github.com/abraxas/php-tzcache-rce](https://github.com/abraxas/php-tzcache-rce) : ![starts](https://img.shields.io/github/stars/abraxas/php-tzcache-rce.svg) ![forks](https://img.shields.io/github/forks/abraxas/php-tzcache-rce.svg)
 
@@ -276,6 +320,9 @@
 - [https://github.com/googlesky/CVE-2026-129491](https://github.com/googlesky/CVE-2026-129491) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129491.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129491.svg)
 
 ## CVE-2026-129474
+> Use-after-free in magic method backtraces can lead to remote code execution.
+
+When collecting the arguments of a method call handled by __call() or __callStatic() for a backtrace, PHP can read stale values that may refer to freed memory. If a fatal error such as exceeding memory_limit occurs while an application enters such a call, with fatal_error_backtraces enabled (the default) and zend.exception_ignore_args disabled, a remote attacker who controls enough request data to influence memory allo
 
 - [https://github.com/LLCForge/CVE-2026-129474](https://github.com/LLCForge/CVE-2026-129474) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-129474.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-129474.svg)
 
@@ -363,6 +410,9 @@ This issue affects all Apache Shiro versions through 3.0.0, only when using Defa
 - [https://github.com/googlesky/CVE-2026-129302](https://github.com/googlesky/CVE-2026-129302) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129302.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129302.svg)
 
 ## CVE-2026-129289
+> PHP-FPM request smuggling through an unread HTTP request body.
+
+PHP does not discard the unread part of an HTTP request body at request shutdown when the application has opened php://input without reading it to the end. When the front end reuses backend connections, which is not the default in nginx or Apache (for example nginx with fastcgi_keep_conn on, or Apache mod_proxy_fcgi with enablereuse=on), PHP-FPM can parse the leftover bytes as a new FastCGI request. An unauthenticated remote attacke
 
 - [https://github.com/LLCForge/CVE-2026-129289](https://github.com/LLCForge/CVE-2026-129289) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-129289.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-129289.svg)
 
@@ -566,6 +616,9 @@ The specific flaw exists within the FileStorageController class. The issue resul
 - [https://github.com/googlesky/CVE-2026-126837](https://github.com/googlesky/CVE-2026-126837) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-126837.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-126837.svg)
 
 ## CVE-2026-126714
+> Partially overwritten session files can lead to remote code execution.
+
+The files session save handler, which is the default, writes updated session data into the existing session file without first clearing it. If a write is interrupted, the file can contain the beginning of the new session followed by the end of the old one, and bytes of an ordinary string can later be unserialized as objects. An attacker who can influence the session data, for example through session upload progress, and inte
 
 - [https://github.com/VABISMO/PHPAfterShell-poc](https://github.com/VABISMO/PHPAfterShell-poc) : ![starts](https://img.shields.io/github/stars/VABISMO/PHPAfterShell-poc.svg) ![forks](https://img.shields.io/github/forks/VABISMO/PHPAfterShell-poc.svg)
 
@@ -787,6 +840,9 @@ When converting from UCS-4, these encoders may encounter a combining base such a
 - [https://github.com/fixedbyreboot/CVE-2026-124002-POC](https://github.com/fixedbyreboot/CVE-2026-124002-POC) : ![starts](https://img.shields.io/github/stars/fixedbyreboot/CVE-2026-124002-POC.svg) ![forks](https://img.shields.io/github/forks/fixedbyreboot/CVE-2026-124002-POC.svg)
 
 ## CVE-2026-123890
+> VMware vCenter contains an authentication bypass vulnerability in the VMware Directory Service.
+Affected versions: 9.1.x (fixed in 9.1.1.0200); 9.0.x (fixed in 9.0.2.0200); 8.0 (fixed in 8.0 U3m); 5.x (fixed in 5.2.5).
+Telco Cloud Platform 3.0, 4.x, 5.0.x, 5.1.x, 5.2 and Telco Cloud Infrastructure 3.0 are also affected (see KB463116).
 
 - [https://github.com/Cyber-BansalAI/vmware-vcenter-2026](https://github.com/Cyber-BansalAI/vmware-vcenter-2026) : ![starts](https://img.shields.io/github/stars/Cyber-BansalAI/vmware-vcenter-2026.svg) ![forks](https://img.shields.io/github/forks/Cyber-BansalAI/vmware-vcenter-2026.svg)
 
@@ -1087,6 +1143,8 @@ Impact: An attacker could leverage this vulnerability to crash t
 - [https://github.com/gabriel-shtx/CVE-2026-123007-NGINX2Root-detection-scripts](https://github.com/gabriel-shtx/CVE-2026-123007-NGINX2Root-detection-scripts) : ![starts](https://img.shields.io/github/stars/gabriel-shtx/CVE-2026-123007-NGINX2Root-detection-scripts.svg) ![forks](https://img.shields.io/github/forks/gabriel-shtx/CVE-2026-123007-NGINX2Root-detection-scripts.svg)
 
 - [https://github.com/T0tooro/cve-2026-123007-lab](https://github.com/T0tooro/cve-2026-123007-lab) : ![starts](https://img.shields.io/github/stars/T0tooro/cve-2026-123007-lab.svg) ![forks](https://img.shields.io/github/forks/T0tooro/cve-2026-123007-lab.svg)
+
+- [https://github.com/VABISMO/nginx2root](https://github.com/VABISMO/nginx2root) : ![starts](https://img.shields.io/github/stars/VABISMO/nginx2root.svg) ![forks](https://img.shields.io/github/forks/VABISMO/nginx2root.svg)
 
 ## CVE-2026-122675
 > Cross-Site Request Forgery (CSRF) vulnerability in Wpmet Wp Social wp-social allows Cross Site Request Forgery.This issue affects Wp Social: from n/a through 3.2.3.
@@ -1789,6 +1847,9 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 - [https://github.com/googlesky/CVE-2026-115563](https://github.com/googlesky/CVE-2026-115563) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-115563.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-115563.svg)
 
 ## CVE-2026-115560
+> Session serializer mismatch can lead to remote code execution.
+
+Session upload progress, when enabled, can store attacker-controlled data in a session key using the php_binary or php_serialize session serializer. If the same session is later read with the php serializer, because session.serialize_handler is changed at runtime or differs between applications sharing a session store, bytes inside the key can be passed to the unserializer. A remote attacker able to submit a multipart upload can inj
 
 - [https://github.com/prnjlksingh/php-cve-2026-115560-demo](https://github.com/prnjlksingh/php-cve-2026-115560-demo) : ![starts](https://img.shields.io/github/stars/prnjlksingh/php-cve-2026-115560-demo.svg) ![forks](https://img.shields.io/github/forks/prnjlksingh/php-cve-2026-115560-demo.svg)
 
@@ -5123,6 +5184,16 @@ in depth measure, let&#x27;s also check before we complete the checksum
 - [https://github.com/debuman/cve-2026-99999-scanner](https://github.com/debuman/cve-2026-99999-scanner) : ![starts](https://img.shields.io/github/stars/debuman/cve-2026-99999-scanner.svg) ![forks](https://img.shields.io/github/forks/debuman/cve-2026-99999-scanner.svg)
 
 ## CVE-2026-99491
+> In the Linux kernel, the following vulnerability has been resolved:
+
+HID: wacom: Fix Use-After-Free in wacom_intuos_pad
+
+wacom_intuos_pad() accesses wacom-&gt;shared-&gt;touch_input locklessly
+inside the interrupt handler context.  If the Touch sibling device
+is disconnected, wacom_remove_shared_data() clears &#x27;touch_input&#x27;
+outside any lock, creating a Time-of-Check to Time-of-Use (TOCTOU)
+race condition where a preempted reader in interrupt context
+dereferences the freed pointer, leading to a Use-Afte
 
 - [https://github.com/woshigenm/CVE-2026-99491](https://github.com/woshigenm/CVE-2026-99491) : ![starts](https://img.shields.io/github/stars/woshigenm/CVE-2026-99491.svg) ![forks](https://img.shields.io/github/forks/woshigenm/CVE-2026-99491.svg)
 

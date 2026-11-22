@@ -12684,3 +12684,17 @@
 {"cve_id": "CVE-2026-98432", "ts": "2026-11-22T18:01:09Z", "type": "new_poc", "url": "https://github.com/nnssh/CVE-2026-98432_poc"}
 {"cve_id": "CVE-2026-98432", "ts": "2026-11-22T18:01:10Z", "type": "new_poc", "url": "https://github.com/sam00/CVE-2026-98432-POC-Exploit"}
 {"cve_id": "CVE-2026-98432", "ts": "2026-11-22T18:01:10Z", "type": "new_poc", "url": "https://github.com/mrjoshuap-hq/ansible-ezcve"}
+{"cve_id": "CVE-2026-132989", "ts": "2026-11-22T22:30:08Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132147", "ts": "2026-11-22T22:35:22Z", "type": "new_poc", "url": "https://github.com/ly1g3/debian-bts-CVE-2026-132147"}
+{"cve_id": "CVE-2026-134679", "ts": "2026-11-22T22:35:23Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-134679"}
+{"cve_id": "CVE-2026-134543", "ts": "2026-11-22T22:35:23Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-134543"}
+{"cve_id": "CVE-2026-134623", "ts": "2026-11-22T22:35:24Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-134623"}
+{"cve_id": "CVE-2026-134753", "ts": "2026-11-22T22:35:26Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-134753"}
+{"cve_id": "CVE-2026-134541", "ts": "2026-11-22T22:35:26Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-134541"}
+{"cve_id": "CVE-2026-134704", "ts": "2026-11-22T22:35:27Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-134704"}
+{"cve_id": "CVE-2026-134654", "ts": "2026-11-22T22:35:28Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-134654"}
+{"cve_id": "CVE-2026-134694", "ts": "2026-11-22T22:35:28Z", "type": "new_poc", "url": "https://github.com/LLCForge/CVE-2026-134694"}
+{"cve_id": "CVE-2025-32433", "ts": "2026-11-22T22:35:30Z", "type": "new_poc", "url": "https://github.com/javakhir018/jenkins-erlang-otp-cve-2025-32433"}
+{"cve_id": "CVE-2026-123007", "ts": "2026-11-22T22:35:31Z", "type": "new_poc", "url": "https://github.com/VABISMO/nginx2root"}
+{"cve_id": "CVE-2024-31317", "ts": "2026-11-22T22:35:31Z", "type": "new_poc", "url": "https://github.com/ddtftx1/xiaodu-qinghe-v20-security-audit"}
+{"cve_id": "CVE-2024-3094", "ts": "2026-11-22T22:37:35Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2024-3094"}
