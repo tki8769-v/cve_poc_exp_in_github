@@ -12783,3 +12783,13 @@
 {"cve_id": "CVE-2026-129496", "ts": "2026-11-23T09:59:02Z", "type": "new_poc", "url": "https://github.com/evenomn/CVE-2026-129496"}
 {"cve_id": "CVE-2026-134732", "ts": "2026-11-23T09:59:02Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-134732"}
 {"cve_id": "CVE-2026-102697", "ts": "2026-11-23T09:59:37Z", "type": "new_poc", "url": "https://github.com/akinerkisa/llamasmuggle-cve-2026-102697"}
+{"cve_id": "CVE-2026-123146", "ts": "2026-11-23T10:17:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-127925", "ts": "2026-11-23T10:17:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-128884", "ts": "2026-11-23T10:18:03Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132151", "ts": "2026-11-23T10:20:37Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132989", "ts": "2026-11-23T10:21:45Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-134821", "ts": "2026-11-23T10:36:51Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-134821"}
+{"cve_id": "CVE-2026-134808", "ts": "2026-11-23T10:36:52Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-134808"}
+{"cve_id": "CVE-2026-134814", "ts": "2026-11-23T10:36:52Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-134814"}
+{"cve_id": "CVE-2023-24329", "ts": "2026-11-23T10:36:53Z", "type": "new_poc", "url": "https://github.com/GotUrBack-Public/CVE-2023-24329"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-23T10:46:07Z", "type": "new_poc", "url": "https://github.com/tani2shell/php2shell-lab"}

@@ -11,6 +11,11 @@
 
 - [https://github.com/googlesky/CVE-2022-24905](https://github.com/googlesky/CVE-2022-24905) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2022-24905.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2022-24905.svg)
 
+## CVE-2023-24329
+> An issue in the urllib.parse component of Python before 3.11.4 allows attackers to bypass blocklisting methods by supplying a URL that starts with blank characters.
+
+- [https://github.com/GotUrBack-Public/CVE-2023-24329](https://github.com/GotUrBack-Public/CVE-2023-24329) : ![starts](https://img.shields.io/github/stars/GotUrBack-Public/CVE-2023-24329.svg) ![forks](https://img.shields.io/github/forks/GotUrBack-Public/CVE-2023-24329.svg)
+
 ## CVE-2026-0776
 
 - [https://github.com/0xbye/CVE-2026-0776](https://github.com/0xbye/CVE-2026-0776) : ![starts](https://img.shields.io/github/stars/0xbye/CVE-2026-0776.svg) ![forks](https://img.shields.io/github/forks/0xbye/CVE-2026-0776.svg)
@@ -47,6 +52,7 @@
 > PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
 
 - [https://github.com/bipul-unexpected/CVE-2026-109618-2026-109619](https://github.com/bipul-unexpected/CVE-2026-109618-2026-109619) : ![starts](https://img.shields.io/github/stars/bipul-unexpected/CVE-2026-109618-2026-109619.svg) ![forks](https://img.shields.io/github/forks/bipul-unexpected/CVE-2026-109618-2026-109619.svg)
+- [https://github.com/tani2shell/php2shell-lab](https://github.com/tani2shell/php2shell-lab) : ![starts](https://img.shields.io/github/stars/tani2shell/php2shell-lab.svg) ![forks](https://img.shields.io/github/forks/tani2shell/php2shell-lab.svg)
 
 ## CVE-2026-112554
 > An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. An app may be able to cause unexpected system termination or read kernel memory.
@@ -147,6 +153,18 @@ In non-thread-safe builds, a diagnostic written to a file-based error_log during
 ## CVE-2026-134732
 
 - [https://github.com/googlesky/CVE-2026-134732](https://github.com/googlesky/CVE-2026-134732) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134732.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134732.svg)
+
+## CVE-2026-134808
+
+- [https://github.com/googlesky/CVE-2026-134808](https://github.com/googlesky/CVE-2026-134808) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134808.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134808.svg)
+
+## CVE-2026-134814
+
+- [https://github.com/googlesky/CVE-2026-134814](https://github.com/googlesky/CVE-2026-134814) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134814.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134814.svg)
+
+## CVE-2026-134821
+
+- [https://github.com/googlesky/CVE-2026-134821](https://github.com/googlesky/CVE-2026-134821) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134821.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134821.svg)
 
 ## CVE-2026-134836
 

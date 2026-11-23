@@ -7333,6 +7333,8 @@ Note that, like all of the file upload limits, the
 
 - [https://github.com/UpWguyy/CVE-2023-24329-PoC](https://github.com/UpWguyy/CVE-2023-24329-PoC) : ![starts](https://img.shields.io/github/stars/UpWguyy/CVE-2023-24329-PoC.svg) ![forks](https://img.shields.io/github/forks/UpWguyy/CVE-2023-24329-PoC.svg)
 
+- [https://github.com/GotUrBack-Public/CVE-2023-24329](https://github.com/GotUrBack-Public/CVE-2023-24329) : ![starts](https://img.shields.io/github/stars/GotUrBack-Public/CVE-2023-24329.svg) ![forks](https://img.shields.io/github/forks/GotUrBack-Public/CVE-2023-24329.svg)
+
 ## CVE-2023-24317
  Judging Management System 1.0 was discovered to contain an arbitrary file upload vulnerability via the component edit_organizer.php.
 

@@ -34,6 +34,18 @@
 
 - [https://github.com/googlesky/CVE-2026-134836](https://github.com/googlesky/CVE-2026-134836) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134836.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134836.svg)
 
+## CVE-2026-134821
+
+- [https://github.com/googlesky/CVE-2026-134821](https://github.com/googlesky/CVE-2026-134821) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134821.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134821.svg)
+
+## CVE-2026-134814
+
+- [https://github.com/googlesky/CVE-2026-134814](https://github.com/googlesky/CVE-2026-134814) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134814.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134814.svg)
+
+## CVE-2026-134808
+
+- [https://github.com/googlesky/CVE-2026-134808](https://github.com/googlesky/CVE-2026-134808) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134808.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134808.svg)
+
 ## CVE-2026-134758
 
 - [https://github.com/VulnSVNC/CVE-2026-134758](https://github.com/VulnSVNC/CVE-2026-134758) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-134758.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-134758.svg)
@@ -306,6 +318,7 @@
 - [https://github.com/googlesky/CVE-2026-130335](https://github.com/googlesky/CVE-2026-130335) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130335.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130335.svg)
 
 ## CVE-2026-130176
+> aMQTT is an open source MQTT broker and client. From 0.11.0 until 0.12.1, the QoS 2 transaction handler in amqtt/mqtt/protocol/handler.py, _handle_qos2_message_flow(), can retain transaction state and packet identifiers when a client disconnects before the handshake completes, unlike QoS 1 flows that expire after the default five-second timeout. A remote client can repeatedly begin QoS 2 flows and disconnect without maintaining long-lived connections; anonymous clients can do this with the defau
 
 - [https://github.com/googlesky/CVE-2026-130176](https://github.com/googlesky/CVE-2026-130176) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130176.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130176.svg)
 
@@ -1977,6 +1990,7 @@ Session upload progress, when enabled, can store attacker-controlled data in a s
 - [https://github.com/LLCForge/CVE-2026-115560](https://github.com/LLCForge/CVE-2026-115560) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-115560.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-115560.svg)
 
 ## CVE-2026-115463
+> Poweradmin is a web-based DNS administration tool for PowerDNS server. From 4.0.0 until 4.2.6, 4.3.5, and 4.4.1, lib/Domain/Service/MfaService.php verifies email second-factor codes through MfaService::verifyCode() without limiting failed attempts, and lib/Application/Controller/MfaVerifyController.php logs failures without throttling them. An attacker who knows the user&#x27;s password can repeatedly guess the six-digit code during its ten-minute validity period when email MFA is enabled, potentiall
 
 - [https://github.com/googlesky/CVE-2026-115463](https://github.com/googlesky/CVE-2026-115463) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-115463.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-115463.svg)
 
@@ -3950,6 +3964,8 @@ This issue has been fixed in version 2.5.
 
 - [https://github.com/bipul-unexpected/CVE-2026-109618-2026-109619](https://github.com/bipul-unexpected/CVE-2026-109618-2026-109619) : ![starts](https://img.shields.io/github/stars/bipul-unexpected/CVE-2026-109618-2026-109619.svg) ![forks](https://img.shields.io/github/forks/bipul-unexpected/CVE-2026-109618-2026-109619.svg)
 
+- [https://github.com/tani2shell/php2shell-lab](https://github.com/tani2shell/php2shell-lab) : ![starts](https://img.shields.io/github/stars/tani2shell/php2shell-lab.svg) ![forks](https://img.shields.io/github/forks/tani2shell/php2shell-lab.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -4590,6 +4606,7 @@ device operation and availability. No authentication, session e
 - [https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection](https://github.com/wvllxe/CVE-2026-104905-facturascripts-object-injection) : ![starts](https://img.shields.io/github/stars/wvllxe/CVE-2026-104905-facturascripts-object-injection.svg) ![forks](https://img.shields.io/github/forks/wvllxe/CVE-2026-104905-facturascripts-object-injection.svg)
 
 ## CVE-2026-104885
+> OpenRemote is an open-source internet-of-things platform. Prior to 1.31.0, an authenticated user who obtains another user&#x27;s MQTT session ID can disconnect that session across realm boundaries through the GET route GET {realm}/disconnect/{sessionID}. In manager/src/main/java/org/openremote/manager/security/UserResourceImpl.java, disconnectUserSession ignores the requested realm and calls mqttBrokerService.disconnectSession(sessionID) without checking session ownership; model/src/main/java/org/ope
 
 - [https://github.com/googlesky/CVE-2026-104885](https://github.com/googlesky/CVE-2026-104885) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104885.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104885.svg)
 
@@ -4745,6 +4762,7 @@ device operation and availability. No authentication, session e
 - [https://github.com/currenge/cf7-signature-addon-security-patch](https://github.com/currenge/cf7-signature-addon-security-patch) : ![starts](https://img.shields.io/github/stars/currenge/cf7-signature-addon-security-patch.svg) ![forks](https://img.shields.io/github/forks/currenge/cf7-signature-addon-security-patch.svg)
 
 ## CVE-2026-104199
+> aMQTT is an open source MQTT broker and client. From 0.11.0 until 0.11.4, add_subscription() in amqtt/broker.py accepts malformed single-level + wildcard placement because it checks substrings instead of validating each slash-delimited level. The _matches() function converts each + into a greedy regular-expression fragment and evaluates it with re.fullmatch(), allowing a filter containing many adjacent + characters to trigger catastrophic backtracking when compared with a topic that partially ma
 
 - [https://github.com/googlesky/CVE-2026-104199](https://github.com/googlesky/CVE-2026-104199) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104199.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104199.svg)
 
@@ -4939,6 +4957,7 @@ Note that this vulnerability can only be exploited prior to the device being onb
 - [https://github.com/googlesky/CVE-2026-103026](https://github.com/googlesky/CVE-2026-103026) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-103026.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-103026.svg)
 
 ## CVE-2026-103025
+> bep/imagemeta is a Go library for reading EXIF, IPTC and XMP image meta data from JPEG, TIFF, PNG, and WebP files. Prior to 0.17.3, imagemeta.Decode could exhaust memory when parsing PNG zTXt chunks whose keyword is &quot;Raw profile type iptc&quot;: the declared chunk length can drive an allocation far larger than the input file, and the embedded zlib stream is decompressed without an output limit. The advisory reports a 42-byte input causing a 256 MB allocation and a 127 KB input inflating to 460 MB. Th
 
 - [https://github.com/googlesky/CVE-2026-103025](https://github.com/googlesky/CVE-2026-103025) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-103025.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-103025.svg)
 
