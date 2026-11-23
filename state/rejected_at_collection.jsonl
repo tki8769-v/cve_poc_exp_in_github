@@ -4270,3 +4270,4 @@
 {"cve_id": "CVE-2026-1096", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T10:39:51Z", "url": "https://github.com/catscarlet/php-fpm-docker-PHP-7.4-CVE-2026-109618-109619-patched", "url_ids": ["CVE-2026-109618"]}
 {"cve_id": "CVE-2025-2235", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T10:41:52Z", "url": "https://github.com/DoTTak/CVE-2025-22352", "url_ids": ["CVE-2025-22352"]}
 {"cve_id": "CVE-2026-8932", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T10:42:01Z", "url": "https://github.com/im0xfay/CVE-2026-89324", "url_ids": ["CVE-2026-89324"]}
+{"cve_id": "CVE-2024-3435", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T21:50:21Z", "url": "https://github.com/God4n/nextjs-CVE-2024-34351-_exploit", "url_ids": ["CVE-2024-34351"]}

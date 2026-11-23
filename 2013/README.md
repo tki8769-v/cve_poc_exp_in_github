@@ -1,3 +1,7 @@
+## CVE-2013-7372
+
+- [https://github.com/alapan-porel/ecdsa-nonce-bias-research](https://github.com/alapan-porel/ecdsa-nonce-bias-research) : ![starts](https://img.shields.io/github/stars/alapan-porel/ecdsa-nonce-bias-research.svg) ![forks](https://img.shields.io/github/forks/alapan-porel/ecdsa-nonce-bias-research.svg)
+
 ## CVE-2013-7285
  Xstream API versions up to 1.4.6 and version 1.4.10, if the security framework has not been initialized, may allow a remote attacker to run arbitrary shell commands by manipulating the processed input stream when unmarshaling XML or any supported format. e.g. JSON.
 

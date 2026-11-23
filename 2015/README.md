@@ -637,6 +637,8 @@
 
 - [https://github.com/JoseLRC97/ProFTPd-1.3.5-mod_copy-Remote-Command-Execution](https://github.com/JoseLRC97/ProFTPd-1.3.5-mod_copy-Remote-Command-Execution) : ![starts](https://img.shields.io/github/stars/JoseLRC97/ProFTPd-1.3.5-mod_copy-Remote-Command-Execution.svg) ![forks](https://img.shields.io/github/forks/JoseLRC97/ProFTPd-1.3.5-mod_copy-Remote-Command-Execution.svg)
 
+- [https://github.com/cveForge/CVE-2015-3306](https://github.com/cveForge/CVE-2015-3306) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2015-3306.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2015-3306.svg)
+
 ## CVE-2015-3256
  PolicyKit (aka polkit) before 0.113 allows local users to cause a denial of service (memory corruption and polkitd daemon crash) and possibly gain privileges via unspecified vectors, related to "javascript rule evaluation."
 

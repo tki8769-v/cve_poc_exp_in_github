@@ -3235,6 +3235,8 @@ AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestrict
 
 - [https://github.com/KrioSocial/defender-bypass-winrar-cve-2023-38831](https://github.com/KrioSocial/defender-bypass-winrar-cve-2023-38831) : ![starts](https://img.shields.io/github/stars/KrioSocial/defender-bypass-winrar-cve-2023-38831.svg) ![forks](https://img.shields.io/github/forks/KrioSocial/defender-bypass-winrar-cve-2023-38831.svg)
 
+- [https://github.com/Chanakya-GH/re-portfolio](https://github.com/Chanakya-GH/re-portfolio) : ![starts](https://img.shields.io/github/stars/Chanakya-GH/re-portfolio.svg) ![forks](https://img.shields.io/github/forks/Chanakya-GH/re-portfolio.svg)
+
 ## CVE-2023-38829
  An issue in NETIS SYSTEMS WF2409E v.3.6.42541 allows a remote attacker to execute arbitrary code via the ping and traceroute functions of the diagnostic tools component in the admin management interface.
 
@@ -5092,6 +5094,8 @@ To prevent these attacks, users are recommended to upgrade to version 5.1.1 or a
 - [https://github.com/miyoubi/Fracture](https://github.com/miyoubi/Fracture) : ![starts](https://img.shields.io/github/stars/miyoubi/Fracture.svg) ![forks](https://img.shields.io/github/forks/miyoubi/Fracture.svg)
 
 - [https://github.com/justwezzz/CVE-2023-33107-908SH](https://github.com/justwezzz/CVE-2023-33107-908SH) : ![starts](https://img.shields.io/github/stars/justwezzz/CVE-2023-33107-908SH.svg) ![forks](https://img.shields.io/github/forks/justwezzz/CVE-2023-33107-908SH.svg)
+
+- [https://github.com/TaTrap/Pixel4XL_GPU_TempRoot](https://github.com/TaTrap/Pixel4XL_GPU_TempRoot) : ![starts](https://img.shields.io/github/stars/TaTrap/Pixel4XL_GPU_TempRoot.svg) ![forks](https://img.shields.io/github/forks/TaTrap/Pixel4XL_GPU_TempRoot.svg)
 
 ## CVE-2023-33105
  Transient DOS in WLAN Host and Firmware when large number of open authentication frames are sent with an invalid transaction sequence number.
