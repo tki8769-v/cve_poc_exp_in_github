@@ -12960,3 +12960,8 @@
 {"cve_id": "CVE-2023-44487", "ts": "2026-11-23T22:28:48Z", "type": "new_poc", "url": "https://github.com/TAVARDT-Brasil/http2-kernel-dos-resilience-checker-br"}
 {"cve_id": "CVE-2023-44487", "ts": "2026-11-23T22:28:48Z", "type": "new_poc", "url": "https://github.com/TAVARDT-Portugal/http2-kernel-dos-resilience-checker-pt"}
 {"cve_id": "CVE-2023-44487", "ts": "2026-11-23T22:28:48Z", "type": "new_poc", "url": "https://github.com/TAVARDT-Mexico/http2-kernel-dos-resilience-checker-mx"}
+{"cve_id": "CVE-2026-123146", "ts": "2026-11-23T22:41:07Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-127925", "ts": "2026-11-23T22:41:54Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-128884", "ts": "2026-11-23T22:42:01Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132151", "ts": "2026-11-23T22:44:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132989", "ts": "2026-11-23T22:45:11Z", "type": "cve_rejected"}
