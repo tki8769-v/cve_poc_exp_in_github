@@ -4271,3 +4271,13 @@
 {"cve_id": "CVE-2025-2235", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T10:41:52Z", "url": "https://github.com/DoTTak/CVE-2025-22352", "url_ids": ["CVE-2025-22352"]}
 {"cve_id": "CVE-2026-8932", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T10:42:01Z", "url": "https://github.com/im0xfay/CVE-2026-89324", "url_ids": ["CVE-2026-89324"]}
 {"cve_id": "CVE-2024-3435", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T21:50:21Z", "url": "https://github.com/God4n/nextjs-CVE-2024-34351-_exploit", "url_ids": ["CVE-2024-34351"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T22:32:37Z", "url": "https://github.com/orangmuda/CVE-2021-38314", "url_ids": ["CVE-2021-38314"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T22:32:37Z", "url": "https://github.com/akhilkoradiya/CVE-2021-38314", "url_ids": ["CVE-2021-38314"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T22:32:37Z", "url": "https://github.com/twseptian/cve-2021-38314", "url_ids": ["CVE-2021-38314"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T22:32:37Z", "url": "https://github.com/0xGabe/CVE-2021-38314", "url_ids": ["CVE-2021-38314"]}
+{"cve_id": "CVE-2021-3831", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T22:32:37Z", "url": "https://github.com/c0ff33b34n/CVE-2021-38314", "url_ids": ["CVE-2021-38314"]}
+{"cve_id": "CVE-2026-1209", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T22:32:41Z", "url": "https://github.com/cveForge/CVE-2026-120967", "url_ids": ["CVE-2026-120967"]}
+{"cve_id": "CVE-2026-1209", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T22:32:41Z", "url": "https://github.com/cveForge/CVE-2026-120993", "url_ids": ["CVE-2026-120993"]}
+{"cve_id": "CVE-2026-1212", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T22:33:29Z", "url": "https://github.com/googlesky/CVE-2026-121265", "url_ids": ["CVE-2026-121265"]}
+{"cve_id": "CVE-2026-1214", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T22:33:29Z", "url": "https://github.com/googlesky/CVE-2026-121480", "url_ids": ["CVE-2026-121480"]}
+{"cve_id": "CVE-2026-1214", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T22:33:29Z", "url": "https://github.com/Quaerendir/openssl-cve-2026-121481-audit", "url_ids": ["CVE-2026-121481"]}

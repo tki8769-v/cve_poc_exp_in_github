@@ -225,6 +225,7 @@
 - [https://github.com/cveForge/CVE-2026-133493](https://github.com/cveForge/CVE-2026-133493) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133493.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133493.svg)
 
 ## CVE-2026-133481
+> In Dolibarr before 24.0.3, /api/index.php/eventattendees discloses attendee and project data regardless of the caller&#x27;s permissions. Only 22.0.0 and later (where api_eventattendees.class.php exists) are affected. A remote authenticated user can obtain column values one character at a time.
 
 - [https://github.com/googlesky/CVE-2026-133481](https://github.com/googlesky/CVE-2026-133481) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-133481.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-133481.svg)
 
@@ -233,6 +234,7 @@
 - [https://github.com/googlesky/CVE-2026-133469](https://github.com/googlesky/CVE-2026-133469) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-133469.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-133469.svg)
 
 ## CVE-2026-133430
+> A flaw was found in Keycloak. This vulnerability allows an authenticated remote attacker to cause a denial of service by terminating active sessions of arbitrary users. When processing Security Assertion Markup Language (SAML) documents that lack a root signature, Keycloak accepts the request as long as any assertion within the document is signed, without verifying its context or placement. An attacker holding a validly signed assertion can embed it into an unsigned logout request for another us
 
 - [https://github.com/googlesky/CVE-2026-133430](https://github.com/googlesky/CVE-2026-133430) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-133430.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-133430.svg)
 
@@ -241,6 +243,15 @@
 - [https://github.com/cveForge/CVE-2026-133430](https://github.com/cveForge/CVE-2026-133430) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133430.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133430.svg)
 
 ## CVE-2026-133325
+> Key exchange without entity authentication vulnerability in Apache Tomcat allowed an unauthenticated node to join a cluster when the cluster was secured with TLS 1.3 and TLS-PSK.
+
+
+
+This issue affects Apache Tomcat: 11.0.29, 10.1.62, 9.0.124.
+
+
+
+Users are recommended to switch to TLS 1.2 and PLDS-PSK or upgrade to version 11.0.30, 10.1.63 or 9.0.123 (when released), which fix the issue.
 
 - [https://github.com/LLCForge/CVE-2026-133325](https://github.com/LLCForge/CVE-2026-133325) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133325.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133325.svg)
 
@@ -1861,6 +1872,20 @@ Impact: This vulnerability allows a remote, unauthenticated att
 - [https://github.com/Cushz/CVE-2026-118238](https://github.com/Cushz/CVE-2026-118238) : ![starts](https://img.shields.io/github/stars/Cushz/CVE-2026-118238.svg) ![forks](https://img.shields.io/github/forks/Cushz/CVE-2026-118238.svg)
 
 ## CVE-2026-118028
+> Execution After Redirect (EAR) vulnerability in Apache Tomcat in RedirectValve affecting flags [F], [G] and [R].
+
+
+
+This issue affects Apache Tomcat: from 11.0.0-M18 through 11.0.27, from 10.1.20 through 10.1.61, from 9.0.87 through 9.0.123.
+
+
+
+The following versions were EOL at the time the CVE was created but are known to be affected: 8.5.100. Other unsupported versions may also be affected.
+
+
+
+Users are recommended to upgrade to version 11.0.29, 10.1.62, 9.0.124, which fixes the issue.
+Note: 
 
 - [https://github.com/LLCForge/CVE-2026-118028](https://github.com/LLCForge/CVE-2026-118028) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-118028.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-118028.svg)
 
@@ -1892,6 +1917,16 @@ Impact: This vulnerability allows a remote, unauthenticated att
 - [https://github.com/asvorg/CVE-2026-117532-poc](https://github.com/asvorg/CVE-2026-117532-poc) : ![starts](https://img.shields.io/github/stars/asvorg/CVE-2026-117532-poc.svg) ![forks](https://img.shields.io/github/forks/asvorg/CVE-2026-117532-poc.svg)
 
 ## CVE-2026-117517
+> The fix for CVE-2026-25854 was incomplete.
+
+
+
+This issue affects Apache Tomcat: from 11.0.19 through 11.0.27, from 10.1.53 through 10.1.61, from 9.0.116 through 9.0.123.
+
+
+
+Users are recommended to upgrade to version 11.0.29, 10.1.62 or 9.0.124, which fix the issue.
+Note: Tomcat 11.0.28 was not released
 
 - [https://github.com/googlesky/CVE-2026-117517](https://github.com/googlesky/CVE-2026-117517) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-117517.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-117517.svg)
 
@@ -2008,6 +2043,15 @@ Impact: This vulnerability allows a remote, unauthenticated att
 - [https://github.com/carterlasalle/CVE-2026-116567](https://github.com/carterlasalle/CVE-2026-116567) : ![starts](https://img.shields.io/github/stars/carterlasalle/CVE-2026-116567.svg) ![forks](https://img.shields.io/github/forks/carterlasalle/CVE-2026-116567.svg)
 
 ## CVE-2026-116561
+> Improper cleanup on thrown exception vulnerability in Apache Tomcat meant that an HTTP 200 response was sent rather than an HTTP 500 response after a AuthException was thrown during Jakarta Authentication secureResponse().
+
+
+
+This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.27, from 10.1.0-M1 through 10.1.61, from 9.0.0.M1 through 9.0.123.
+
+
+
+The following versions were EOL at the time the CVE was created but are known to be affected: from 8.5.0 through 8.5.100. Other unsupported ve
 
 - [https://github.com/LLCForge/CVE-2026-116561](https://github.com/LLCForge/CVE-2026-116561) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-116561.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-116561.svg)
 
@@ -2503,6 +2547,7 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 - [https://github.com/googlesky/CVE-2026-114550](https://github.com/googlesky/CVE-2026-114550) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-114550.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-114550.svg)
 
 ## CVE-2026-114516
+> Etherpad is a real-time collaborative editor. From 1.8.14 until 3.3.3, the pre-authentication /static/* plugin asset handler in src/node/utils/Minify.ts performs a backslash-to-forward-slash conversion after src/node/utils/sanitizePathname.ts has completed its POSIX path checks. On POSIX systems the sanitizer correctly treats backslashes as ordinary filename bytes, but the later conversion turns encoded backslash-separated parent-directory segments into traversal components without revalidation 
 
 - [https://github.com/ynsmroztas/EtherPadSniper](https://github.com/ynsmroztas/EtherPadSniper) : ![starts](https://img.shields.io/github/stars/ynsmroztas/EtherPadSniper.svg) ![forks](https://img.shields.io/github/forks/ynsmroztas/EtherPadSniper.svg)
 
@@ -6685,6 +6730,15 @@ This issue affects Pardus Package Installer: from 0.7.0 before 0.7.1.
 - [https://github.com/ozcanpng/CVE-2026-95518](https://github.com/ozcanpng/CVE-2026-95518) : ![starts](https://img.shields.io/github/stars/ozcanpng/CVE-2026-95518.svg) ![forks](https://img.shields.io/github/forks/ozcanpng/CVE-2026-95518.svg)
 
 ## CVE-2026-95517
+> Reliance on obfuscation or encryption of Security-Relevant inputs without integrity checking, Improper validation of integrity check value, Cleartext transmission of sensitive information vulnerability in the EncryptInterceptor of Apache Tomcat.
+
+
+
+This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.27, from 10.1.0-M1 through 10.1.61, from 9.0.13 through 9.0.123.
+
+
+
+The following versions were EOL at the time the CVE was created but are known to be affected: from 8.5.38 through 8.5.100
 
 - [https://github.com/LLCForge/CVE-2026-95517](https://github.com/LLCForge/CVE-2026-95517) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-95517.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-95517.svg)
 
@@ -9347,18 +9401,22 @@ CVE-2025-32907 addressed memory amplification when a client repeated the same ra
 - [https://github.com/googlesky/CVE-2026-77318](https://github.com/googlesky/CVE-2026-77318) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77318.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77318.svg)
 
 ## CVE-2026-77316
+> Flyto2 Core is an execution kernel for automation and AI-agent workflows. Prior to 2.26.8, validate_url_ssrf() in src/core/utils.py validates one DNS answer and then returns the hostname, while guarded_aiohttp_request(), enforce_outbound_url(), and validate_url_with_env_config() allow the outbound connection to perform an independent second lookup. A caller with control of the hostname&#x27;s DNS can make validation see a public address and make the connection see an internal address, bypassing the g
 
 - [https://github.com/googlesky/CVE-2026-77316](https://github.com/googlesky/CVE-2026-77316) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77316.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77316.svg)
 
 ## CVE-2026-77315
+> Flyto2 Core is an execution kernel for automation and AI-agent workflows. Prior to 2.26.8, http.paginate in src/core/modules/atomic/http/paginate.py validates only the initial base_url, and _paginate_link_header then follows a server-supplied Link: rel=&quot;next&quot; URL without calling the SSRF guard again. A low-privileged caller can make an allowed first page point the next request at an internal or metadata service, causing a readable second-order SSRF whose response body is aggregated into all_item
 
 - [https://github.com/googlesky/CVE-2026-77315](https://github.com/googlesky/CVE-2026-77315) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77315.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77315.svg)
 
 ## CVE-2026-77313
+> Flyto2 Core is an execution kernel for automation and AI-agent workflows. Prior to 2.26.8, validate_url_ssrf in src/core/utils.py resolves and checks a hostname but returns the hostname URL rather than the validated address, and session.get in http.get performs an independent DNS lookup when connecting. A low-privileged caller with control of the hostname&#x27;s DNS can make the first lookup return a public address and the connection-time lookup return an internal address, bypassing the SSRF guard fo
 
 - [https://github.com/googlesky/CVE-2026-77313](https://github.com/googlesky/CVE-2026-77313) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77313.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77313.svg)
 
 ## CVE-2026-77312
+> Flyto2 Core is an execution kernel for automation and AI-agent workflows. Prior to 2.26.8, the earlier CVE-2026-67429 remediation applied validate_path_with_env_config() to only a hand-picked set of file-writing modules, leaving data.csv.write in src/core/modules/atomic/data/csv_write.py, data.json_to_csv in src/core/modules/atomic/data/json_to_csv.py, file.copy in src/core/modules/atomic/file/copy.py, and file.move in src/core/modules/atomic/file/move.py outside the FLYTO_SANDBOX_DIR confinemen
 
 - [https://github.com/LLCForge/CVE-2026-77312](https://github.com/LLCForge/CVE-2026-77312) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-77312.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-77312.svg)
 
@@ -10460,6 +10518,7 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 - [https://github.com/EntroVyx/CVE-2026-69137](https://github.com/EntroVyx/CVE-2026-69137) : ![starts](https://img.shields.io/github/stars/EntroVyx/CVE-2026-69137.svg) ![forks](https://img.shields.io/github/forks/EntroVyx/CVE-2026-69137.svg)
 
 ## CVE-2026-69133
+> netty-incubator-codec-ohttp implements Oblivious HTTP (OHTTP) gateway and client functionality using Netty. From 0.0.20.Final until 0.0.27.Final, OHttpClientCodec in codec-ohttp/src/main/java/io/netty/incubator/codec/ohttp/OHttpClientCodec.java and OHttpServerCodec in codec-ohttp/src/main/java/io/netty/incubator/codec/ohttp/OHttpServerCodec.java retain the consumed outer cumulationBuffer after a valid OHTTP exchange completes, even though OHttpRequestResponseContext.destroy in codec-ohttp/src/ma
 
 - [https://github.com/googlesky/CVE-2026-69133](https://github.com/googlesky/CVE-2026-69133) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-69133.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-69133.svg)
 

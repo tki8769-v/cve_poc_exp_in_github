@@ -1848,6 +1848,28 @@ IBM i Access Client Solutions 1.1.2 through 1.1.4 and 1.1.4.3 through 1.1.9.3 is
 
 - [https://github.com/federiconbaez/cortex9-http2-rapid-reset-stream-accounting-model](https://github.com/federiconbaez/cortex9-http2-rapid-reset-stream-accounting-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-http2-rapid-reset-stream-accounting-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-http2-rapid-reset-stream-accounting-model.svg)
 
+- [https://github.com/TAVARDT-Australia/http2-kernel-dos-resilience-checker-au](https://github.com/TAVARDT-Australia/http2-kernel-dos-resilience-checker-au) : ![starts](https://img.shields.io/github/stars/TAVARDT-Australia/http2-kernel-dos-resilience-checker-au.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-Australia/http2-kernel-dos-resilience-checker-au.svg)
+
+- [https://github.com/TAVARDT-Brasil/http2-kernel-dos-resilience-checker-br](https://github.com/TAVARDT-Brasil/http2-kernel-dos-resilience-checker-br) : ![starts](https://img.shields.io/github/stars/TAVARDT-Brasil/http2-kernel-dos-resilience-checker-br.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-Brasil/http2-kernel-dos-resilience-checker-br.svg)
+
+- [https://github.com/TAVARDT-Canada/http2-kernel-dos-resilience-checker-ca](https://github.com/TAVARDT-Canada/http2-kernel-dos-resilience-checker-ca) : ![starts](https://img.shields.io/github/stars/TAVARDT-Canada/http2-kernel-dos-resilience-checker-ca.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-Canada/http2-kernel-dos-resilience-checker-ca.svg)
+
+- [https://github.com/TAVARDT-Espana/http2-kernel-dos-resilience-checker-es](https://github.com/TAVARDT-Espana/http2-kernel-dos-resilience-checker-es) : ![starts](https://img.shields.io/github/stars/TAVARDT-Espana/http2-kernel-dos-resilience-checker-es.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-Espana/http2-kernel-dos-resilience-checker-es.svg)
+
+- [https://github.com/TAVARDT-France/http2-kernel-dos-resilience-checker-fr](https://github.com/TAVARDT-France/http2-kernel-dos-resilience-checker-fr) : ![starts](https://img.shields.io/github/stars/TAVARDT-France/http2-kernel-dos-resilience-checker-fr.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-France/http2-kernel-dos-resilience-checker-fr.svg)
+
+- [https://github.com/TAVARDT-Italia/http2-kernel-dos-resilience-checker-it](https://github.com/TAVARDT-Italia/http2-kernel-dos-resilience-checker-it) : ![starts](https://img.shields.io/github/stars/TAVARDT-Italia/http2-kernel-dos-resilience-checker-it.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-Italia/http2-kernel-dos-resilience-checker-it.svg)
+
+- [https://github.com/TAVARDT-Mexico/http2-kernel-dos-resilience-checker-mx](https://github.com/TAVARDT-Mexico/http2-kernel-dos-resilience-checker-mx) : ![starts](https://img.shields.io/github/stars/TAVARDT-Mexico/http2-kernel-dos-resilience-checker-mx.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-Mexico/http2-kernel-dos-resilience-checker-mx.svg)
+
+- [https://github.com/TAVARDT-New-Zealand/http2-kernel-dos-resilience-checker-nz](https://github.com/TAVARDT-New-Zealand/http2-kernel-dos-resilience-checker-nz) : ![starts](https://img.shields.io/github/stars/TAVARDT-New-Zealand/http2-kernel-dos-resilience-checker-nz.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-New-Zealand/http2-kernel-dos-resilience-checker-nz.svg)
+
+- [https://github.com/TAVARDT-Portugal/http2-kernel-dos-resilience-checker-pt](https://github.com/TAVARDT-Portugal/http2-kernel-dos-resilience-checker-pt) : ![starts](https://img.shields.io/github/stars/TAVARDT-Portugal/http2-kernel-dos-resilience-checker-pt.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-Portugal/http2-kernel-dos-resilience-checker-pt.svg)
+
+- [https://github.com/TAVARDT-UK/http2-kernel-dos-resilience-checker-uk](https://github.com/TAVARDT-UK/http2-kernel-dos-resilience-checker-uk) : ![starts](https://img.shields.io/github/stars/TAVARDT-UK/http2-kernel-dos-resilience-checker-uk.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-UK/http2-kernel-dos-resilience-checker-uk.svg)
+
+- [https://github.com/TAVARDT-USA/http2-kernel-dos-resilience-checker-us](https://github.com/TAVARDT-USA/http2-kernel-dos-resilience-checker-us) : ![starts](https://img.shields.io/github/stars/TAVARDT-USA/http2-kernel-dos-resilience-checker-us.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-USA/http2-kernel-dos-resilience-checker-us.svg)
+
 ## CVE-2023-44452
  Linux Mint Xreader CBT File Parsing Argument Injection Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Linux Mint Xreader. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file.
 

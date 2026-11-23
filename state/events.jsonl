@@ -12944,3 +12944,19 @@
 {"cve_id": "CVE-2026-43499", "ts": "2026-11-23T21:42:21Z", "type": "new_poc", "url": "https://github.com/xiaobright/ghostlock-hlk-al00"}
 {"cve_id": "CVE-2013-7372", "ts": "2026-11-23T21:42:21Z", "type": "new_poc", "url": "https://github.com/alapan-porel/ecdsa-nonce-bias-research"}
 {"cve_id": "CVE-2026-123007", "ts": "2026-11-23T21:42:22Z", "type": "new_poc", "url": "https://github.com/Agampreet-Singh/Nginx2root-lab"}
+{"cve_id": "CVE-2026-123146", "ts": "2026-11-23T22:00:53Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-127925", "ts": "2026-11-23T22:01:40Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-128884", "ts": "2026-11-23T22:01:47Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132151", "ts": "2026-11-23T22:04:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132989", "ts": "2026-11-23T22:05:04Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2023-44487", "ts": "2026-11-23T22:28:47Z", "type": "new_poc", "url": "https://github.com/TAVARDT-Australia/http2-kernel-dos-resilience-checker-au"}
+{"cve_id": "CVE-2023-44487", "ts": "2026-11-23T22:28:47Z", "type": "new_poc", "url": "https://github.com/TAVARDT-Canada/http2-kernel-dos-resilience-checker-ca"}
+{"cve_id": "CVE-2023-44487", "ts": "2026-11-23T22:28:47Z", "type": "new_poc", "url": "https://github.com/TAVARDT-New-Zealand/http2-kernel-dos-resilience-checker-nz"}
+{"cve_id": "CVE-2023-44487", "ts": "2026-11-23T22:28:47Z", "type": "new_poc", "url": "https://github.com/TAVARDT-USA/http2-kernel-dos-resilience-checker-us"}
+{"cve_id": "CVE-2023-44487", "ts": "2026-11-23T22:28:47Z", "type": "new_poc", "url": "https://github.com/TAVARDT-UK/http2-kernel-dos-resilience-checker-uk"}
+{"cve_id": "CVE-2023-44487", "ts": "2026-11-23T22:28:47Z", "type": "new_poc", "url": "https://github.com/TAVARDT-Italia/http2-kernel-dos-resilience-checker-it"}
+{"cve_id": "CVE-2023-44487", "ts": "2026-11-23T22:28:48Z", "type": "new_poc", "url": "https://github.com/TAVARDT-France/http2-kernel-dos-resilience-checker-fr"}
+{"cve_id": "CVE-2023-44487", "ts": "2026-11-23T22:28:48Z", "type": "new_poc", "url": "https://github.com/TAVARDT-Espana/http2-kernel-dos-resilience-checker-es"}
+{"cve_id": "CVE-2023-44487", "ts": "2026-11-23T22:28:48Z", "type": "new_poc", "url": "https://github.com/TAVARDT-Brasil/http2-kernel-dos-resilience-checker-br"}
+{"cve_id": "CVE-2023-44487", "ts": "2026-11-23T22:28:48Z", "type": "new_poc", "url": "https://github.com/TAVARDT-Portugal/http2-kernel-dos-resilience-checker-pt"}
+{"cve_id": "CVE-2023-44487", "ts": "2026-11-23T22:28:48Z", "type": "new_poc", "url": "https://github.com/TAVARDT-Mexico/http2-kernel-dos-resilience-checker-mx"}

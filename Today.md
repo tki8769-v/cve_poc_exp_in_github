@@ -33,6 +33,21 @@
 
 - [https://github.com/Chanakya-GH/re-portfolio](https://github.com/Chanakya-GH/re-portfolio) : ![starts](https://img.shields.io/github/stars/Chanakya-GH/re-portfolio.svg) ![forks](https://img.shields.io/github/forks/Chanakya-GH/re-portfolio.svg)
 
+## CVE-2023-44487
+> The HTTP/2 protocol allows a denial of service (server resource consumption) because request cancellation can reset many streams quickly, as exploited in the wild in August through October 2023.
+
+- [https://github.com/TAVARDT-Australia/http2-kernel-dos-resilience-checker-au](https://github.com/TAVARDT-Australia/http2-kernel-dos-resilience-checker-au) : ![starts](https://img.shields.io/github/stars/TAVARDT-Australia/http2-kernel-dos-resilience-checker-au.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-Australia/http2-kernel-dos-resilience-checker-au.svg)
+- [https://github.com/TAVARDT-Brasil/http2-kernel-dos-resilience-checker-br](https://github.com/TAVARDT-Brasil/http2-kernel-dos-resilience-checker-br) : ![starts](https://img.shields.io/github/stars/TAVARDT-Brasil/http2-kernel-dos-resilience-checker-br.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-Brasil/http2-kernel-dos-resilience-checker-br.svg)
+- [https://github.com/TAVARDT-Canada/http2-kernel-dos-resilience-checker-ca](https://github.com/TAVARDT-Canada/http2-kernel-dos-resilience-checker-ca) : ![starts](https://img.shields.io/github/stars/TAVARDT-Canada/http2-kernel-dos-resilience-checker-ca.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-Canada/http2-kernel-dos-resilience-checker-ca.svg)
+- [https://github.com/TAVARDT-Espana/http2-kernel-dos-resilience-checker-es](https://github.com/TAVARDT-Espana/http2-kernel-dos-resilience-checker-es) : ![starts](https://img.shields.io/github/stars/TAVARDT-Espana/http2-kernel-dos-resilience-checker-es.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-Espana/http2-kernel-dos-resilience-checker-es.svg)
+- [https://github.com/TAVARDT-France/http2-kernel-dos-resilience-checker-fr](https://github.com/TAVARDT-France/http2-kernel-dos-resilience-checker-fr) : ![starts](https://img.shields.io/github/stars/TAVARDT-France/http2-kernel-dos-resilience-checker-fr.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-France/http2-kernel-dos-resilience-checker-fr.svg)
+- [https://github.com/TAVARDT-Italia/http2-kernel-dos-resilience-checker-it](https://github.com/TAVARDT-Italia/http2-kernel-dos-resilience-checker-it) : ![starts](https://img.shields.io/github/stars/TAVARDT-Italia/http2-kernel-dos-resilience-checker-it.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-Italia/http2-kernel-dos-resilience-checker-it.svg)
+- [https://github.com/TAVARDT-Mexico/http2-kernel-dos-resilience-checker-mx](https://github.com/TAVARDT-Mexico/http2-kernel-dos-resilience-checker-mx) : ![starts](https://img.shields.io/github/stars/TAVARDT-Mexico/http2-kernel-dos-resilience-checker-mx.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-Mexico/http2-kernel-dos-resilience-checker-mx.svg)
+- [https://github.com/TAVARDT-New-Zealand/http2-kernel-dos-resilience-checker-nz](https://github.com/TAVARDT-New-Zealand/http2-kernel-dos-resilience-checker-nz) : ![starts](https://img.shields.io/github/stars/TAVARDT-New-Zealand/http2-kernel-dos-resilience-checker-nz.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-New-Zealand/http2-kernel-dos-resilience-checker-nz.svg)
+- [https://github.com/TAVARDT-Portugal/http2-kernel-dos-resilience-checker-pt](https://github.com/TAVARDT-Portugal/http2-kernel-dos-resilience-checker-pt) : ![starts](https://img.shields.io/github/stars/TAVARDT-Portugal/http2-kernel-dos-resilience-checker-pt.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-Portugal/http2-kernel-dos-resilience-checker-pt.svg)
+- [https://github.com/TAVARDT-UK/http2-kernel-dos-resilience-checker-uk](https://github.com/TAVARDT-UK/http2-kernel-dos-resilience-checker-uk) : ![starts](https://img.shields.io/github/stars/TAVARDT-UK/http2-kernel-dos-resilience-checker-uk.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-UK/http2-kernel-dos-resilience-checker-uk.svg)
+- [https://github.com/TAVARDT-USA/http2-kernel-dos-resilience-checker-us](https://github.com/TAVARDT-USA/http2-kernel-dos-resilience-checker-us) : ![starts](https://img.shields.io/github/stars/TAVARDT-USA/http2-kernel-dos-resilience-checker-us.svg) ![forks](https://img.shields.io/github/forks/TAVARDT-USA/http2-kernel-dos-resilience-checker-us.svg)
+
 ## CVE-2025-31133
 
 - [https://github.com/cveForge/CVE-2025-31133](https://github.com/cveForge/CVE-2025-31133) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2025-31133.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2025-31133.svg)
@@ -156,6 +171,7 @@ Security Update for ASUS Control Center Express Agent  &#x27; section on the A
 - [https://github.com/googlesky/CVE-2026-114469](https://github.com/googlesky/CVE-2026-114469) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-114469.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-114469.svg)
 
 ## CVE-2026-114516
+> Etherpad is a real-time collaborative editor. From 1.8.14 until 3.3.3, the pre-authentication /static/* plugin asset handler in src/node/utils/Minify.ts performs a backslash-to-forward-slash conversion after src/node/utils/sanitizePathname.ts has completed its POSIX path checks. On POSIX systems the sanitizer correctly treats backslashes as ordinary filename bytes, but the later conversion turns encoded backslash-separated parent-directory segments into traversal components without revalidation 
 
 - [https://github.com/cveForge/CVE-2026-114516](https://github.com/cveForge/CVE-2026-114516) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-114516.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-114516.svg)
 - [https://github.com/googlesky/CVE-2026-114516](https://github.com/googlesky/CVE-2026-114516) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-114516.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-114516.svg)
@@ -186,14 +202,47 @@ Session upload progress, when enabled, can store attacker-controlled data in a s
 - [https://github.com/cveForge/CVE-2026-116448](https://github.com/cveForge/CVE-2026-116448) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-116448.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-116448.svg)
 
 ## CVE-2026-116561
+> Improper cleanup on thrown exception vulnerability in Apache Tomcat meant that an HTTP 200 response was sent rather than an HTTP 500 response after a AuthException was thrown during Jakarta Authentication secureResponse().
+
+
+
+This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.27, from 10.1.0-M1 through 10.1.61, from 9.0.0.M1 through 9.0.123.
+
+
+
+The following versions were EOL at the time the CVE was created but are known to be affected: from 8.5.0 through 8.5.100. Other unsupported ve
 
 - [https://github.com/cveForge/CVE-2026-116561](https://github.com/cveForge/CVE-2026-116561) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-116561.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-116561.svg)
 
 ## CVE-2026-117517
+> The fix for CVE-2026-25854 was incomplete.
+
+
+
+This issue affects Apache Tomcat: from 11.0.19 through 11.0.27, from 10.1.53 through 10.1.61, from 9.0.116 through 9.0.123.
+
+
+
+Users are recommended to upgrade to version 11.0.29, 10.1.62 or 9.0.124, which fix the issue.
+Note: Tomcat 11.0.28 was not released
 
 - [https://github.com/cveForge/CVE-2026-117517](https://github.com/cveForge/CVE-2026-117517) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-117517.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-117517.svg)
 
 ## CVE-2026-118028
+> Execution After Redirect (EAR) vulnerability in Apache Tomcat in RedirectValve affecting flags [F], [G] and [R].
+
+
+
+This issue affects Apache Tomcat: from 11.0.0-M18 through 11.0.27, from 10.1.20 through 10.1.61, from 9.0.87 through 9.0.123.
+
+
+
+The following versions were EOL at the time the CVE was created but are known to be affected: 8.5.100. Other unsupported versions may also be affected.
+
+
+
+Users are recommended to upgrade to version 11.0.29, 10.1.62, 9.0.124, which fixes the issue.
+Note: 
 
 - [https://github.com/cveForge/CVE-2026-118028](https://github.com/cveForge/CVE-2026-118028) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-118028.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-118028.svg)
 
@@ -558,10 +607,20 @@ In non-thread-safe builds, a diagnostic written to a file-based error_log during
 - [https://github.com/cveForge/CVE-2026-133235](https://github.com/cveForge/CVE-2026-133235) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133235.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133235.svg)
 
 ## CVE-2026-133325
+> Key exchange without entity authentication vulnerability in Apache Tomcat allowed an unauthenticated node to join a cluster when the cluster was secured with TLS 1.3 and TLS-PSK.
+
+
+
+This issue affects Apache Tomcat: 11.0.29, 10.1.62, 9.0.124.
+
+
+
+Users are recommended to switch to TLS 1.2 and PLDS-PSK or upgrade to version 11.0.30, 10.1.63 or 9.0.123 (when released), which fix the issue.
 
 - [https://github.com/cveForge/CVE-2026-133325](https://github.com/cveForge/CVE-2026-133325) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133325.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133325.svg)
 
 ## CVE-2026-133430
+> A flaw was found in Keycloak. This vulnerability allows an authenticated remote attacker to cause a denial of service by terminating active sessions of arbitrary users. When processing Security Assertion Markup Language (SAML) documents that lack a root signature, Keycloak accepts the request as long as any assertion within the document is signed, without verifying its context or placement. An attacker holding a validly signed assertion can embed it into an unsigned logout request for another us
 
 - [https://github.com/cveForge/CVE-2026-133430](https://github.com/cveForge/CVE-2026-133430) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133430.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133430.svg)
 
@@ -908,6 +967,7 @@ problems:
 - [https://github.com/googlesky/CVE-2026-77309](https://github.com/googlesky/CVE-2026-77309) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77309.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77309.svg)
 
 ## CVE-2026-77312
+> Flyto2 Core is an execution kernel for automation and AI-agent workflows. Prior to 2.26.8, the earlier CVE-2026-67429 remediation applied validate_path_with_env_config() to only a hand-picked set of file-writing modules, leaving data.csv.write in src/core/modules/atomic/data/csv_write.py, data.json_to_csv in src/core/modules/atomic/data/json_to_csv.py, file.copy in src/core/modules/atomic/file/copy.py, and file.move in src/core/modules/atomic/file/move.py outside the FLYTO_SANDBOX_DIR confinemen
 
 - [https://github.com/cveForge/CVE-2026-77312](https://github.com/cveForge/CVE-2026-77312) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-77312.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-77312.svg)
 - [https://github.com/googlesky/CVE-2026-77312](https://github.com/googlesky/CVE-2026-77312) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77312.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77312.svg)
@@ -986,6 +1046,15 @@ The specific flaw exists within the XMLRPC endpoint. The issue results from inco
 - [https://github.com/cveForge/CVE-2026-92182](https://github.com/cveForge/CVE-2026-92182) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-92182.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-92182.svg)
 
 ## CVE-2026-95517
+> Reliance on obfuscation or encryption of Security-Relevant inputs without integrity checking, Improper validation of integrity check value, Cleartext transmission of sensitive information vulnerability in the EncryptInterceptor of Apache Tomcat.
+
+
+
+This issue affects Apache Tomcat: from 11.0.0-M1 through 11.0.27, from 10.1.0-M1 through 10.1.61, from 9.0.13 through 9.0.123.
+
+
+
+The following versions were EOL at the time the CVE was created but are known to be affected: from 8.5.38 through 8.5.100
 
 - [https://github.com/cveForge/CVE-2026-95517](https://github.com/cveForge/CVE-2026-95517) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-95517.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-95517.svg)
 
