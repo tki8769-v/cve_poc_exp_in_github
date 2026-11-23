@@ -15,15 +15,22 @@
 
 - [https://github.com/0xbye/CVE-2026-0776](https://github.com/0xbye/CVE-2026-0776) : ![starts](https://img.shields.io/github/stars/0xbye/CVE-2026-0776.svg) ![forks](https://img.shields.io/github/forks/0xbye/CVE-2026-0776.svg)
 
+## CVE-2026-102697
+> Ollama versions 0.14.0 before 0.31.2 contain an incorrect authorization vulnerability in the experimental agent mode Bash tool approval mechanism that fails to properly parse shell syntax. Attackers who can influence model output through prompt injection can execute additional shell commands by appending control operators like semicolons or logical operators to approved commands, bypassing the session approval requirement.
+
+- [https://github.com/akinerkisa/llamasmuggle-cve-2026-102697](https://github.com/akinerkisa/llamasmuggle-cve-2026-102697) : ![starts](https://img.shields.io/github/stars/akinerkisa/llamasmuggle-cve-2026-102697.svg) ![forks](https://img.shields.io/github/forks/akinerkisa/llamasmuggle-cve-2026-102697.svg)
+
 ## CVE-2026-102945
 
 - [https://github.com/googlesky/CVE-2026-102945](https://github.com/googlesky/CVE-2026-102945) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-102945.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-102945.svg)
 
 ## CVE-2026-103026
+> Paymenter is a free and open-source webshop solution for management of hosting services. Prior to 1.5.7, the HasConfirmation trait in app/Livewire/Traits/HasConfirmation.php, included by app/Livewire/Component.php across 36 client-facing Livewire components, exposed executeConfirmedAction as a public action that invoked any component method accepted by method_exists. The action could call inherited InteractsWithProperties::fill(), whose data_set() writes arbitrary public properties, including st
 
 - [https://github.com/googlesky/CVE-2026-103026](https://github.com/googlesky/CVE-2026-103026) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-103026.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-103026.svg)
 
 ## CVE-2026-103035
+> TeamPass is a self-hosted collaborative password manager. Prior to 3.2.1.2, the update_folder action in app/sources/folders.queries.php allowed an authenticated, non-read-only user to re-parent a folder without checking whether the target folder or submitted parentId belonged to the caller&#x27;s user-accessible_folders set. Selecting a personal folder as the new parent passed the personal-folder guard and set personal_folder on the target, transferring the credential subtree into the attacker&#x27;s acce
 
 - [https://github.com/googlesky/CVE-2026-103035](https://github.com/googlesky/CVE-2026-103035) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-103035.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-103035.svg)
 
@@ -32,6 +39,7 @@
 - [https://github.com/googlesky/CVE-2026-104099](https://github.com/googlesky/CVE-2026-104099) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104099.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104099.svg)
 
 ## CVE-2026-104129
+> pREST (PostgreSQL REST) is an API that delivers an application on top of a Postgres database. Prior to 2.4.0, the vulnerable parameter is _groupby, handled by GroupByClause in adapters/postgres/postgres.go. adapters/postgres/postgres.go uses the weaker isSafeSQLExpression check for this function-expression branch instead of the stricter single-field validator used for _select. That check validates only the outer function name against a 13-function allowlist and permits nested subqueries, trailin
 
 - [https://github.com/googlesky/CVE-2026-104129](https://github.com/googlesky/CVE-2026-104129) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104129.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104129.svg)
 
@@ -90,6 +98,7 @@ Telco Cloud Platform 3.0, 4.x, 5.0.x, 5.1.x, 5.2 and Telco Cloud Infrastructure 
 - [https://github.com/googlesky/CVE-2026-128136](https://github.com/googlesky/CVE-2026-128136) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128136.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128136.svg)
 
 ## CVE-2026-128137
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. From 3.9.4 until 3.10.4, NLTK corpus-reader path pointers and view methods validate a requested relative path without consistently resolving intermediate directory symlinks against the reader&#x27;s scoped root. A local attacker who can place such a symlink can make abspaths or words reach a readable file outside the corpus root and dis
 
 - [https://github.com/googlesky/CVE-2026-128137](https://github.com/googlesky/CVE-2026-128137) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128137.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128137.svg)
 
@@ -113,6 +122,13 @@ Telco Cloud Platform 3.0, 4.x, 5.0.x, 5.1.x, 5.2 and Telco Cloud Infrastructure 
 
 - [https://github.com/googlesky/CVE-2026-129221](https://github.com/googlesky/CVE-2026-129221) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129221.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129221.svg)
 
+## CVE-2026-129496
+> Timezone cache use-after-free can lead to remote code execution.
+
+In non-thread-safe builds, a diagnostic written to a file-based error_log during module startup, for example for an invalid date.timezone value or a session configuration warning, causes the timezone cache to be allocated in startup memory that is freed while a reference to it is kept. A diagnostic raised early in the first request of a worker, such as the max_input_vars warning, then accesses the freed cache. On such a deployment
+
+- [https://github.com/evenomn/CVE-2026-129496](https://github.com/evenomn/CVE-2026-129496) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-129496.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-129496.svg)
+
 ## CVE-2026-132252
 > A vulnerability was found in October CMS up to 4.4.6. This affects the function validateExternalImageHost of the file modules/system/classes/resizeimages/ValidatesExternalImages.php of the component Image Resizer. Performing a manipulation of the argument url results in server-side request forgery. The attack may be initiated remotely. The complexity of an attack is rather high. The exploitability is reported as difficult. The exploit has been made public and could be used. Upgrading to version 
 
@@ -128,6 +144,10 @@ Telco Cloud Platform 3.0, 4.x, 5.0.x, 5.1.x, 5.2 and Telco Cloud Infrastructure 
 
 - [https://github.com/capivara-research/CVE-2026-133169](https://github.com/capivara-research/CVE-2026-133169) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-133169.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-133169.svg)
 
+## CVE-2026-134732
+
+- [https://github.com/googlesky/CVE-2026-134732](https://github.com/googlesky/CVE-2026-134732) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134732.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134732.svg)
+
 ## CVE-2026-134836
 
 - [https://github.com/googlesky/CVE-2026-134836](https://github.com/googlesky/CVE-2026-134836) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134836.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134836.svg)
@@ -139,6 +159,14 @@ Telco Cloud Platform 3.0, 4.x, 5.0.x, 5.1.x, 5.2 and Telco Cloud Infrastructure 
 ## CVE-2026-134838
 
 - [https://github.com/googlesky/CVE-2026-134838](https://github.com/googlesky/CVE-2026-134838) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134838.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134838.svg)
+
+## CVE-2026-134839
+
+- [https://github.com/googlesky/CVE-2026-134839](https://github.com/googlesky/CVE-2026-134839) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134839.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134839.svg)
+
+## CVE-2026-134840
+
+- [https://github.com/googlesky/CVE-2026-134840](https://github.com/googlesky/CVE-2026-134840) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134840.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134840.svg)
 
 ## CVE-2026-27119
 

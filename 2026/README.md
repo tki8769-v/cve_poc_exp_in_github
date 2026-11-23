@@ -14,6 +14,14 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-134840
+
+- [https://github.com/googlesky/CVE-2026-134840](https://github.com/googlesky/CVE-2026-134840) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134840.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134840.svg)
+
+## CVE-2026-134839
+
+- [https://github.com/googlesky/CVE-2026-134839](https://github.com/googlesky/CVE-2026-134839) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134839.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134839.svg)
+
 ## CVE-2026-134838
 
 - [https://github.com/googlesky/CVE-2026-134838](https://github.com/googlesky/CVE-2026-134838) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134838.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134838.svg)
@@ -35,6 +43,10 @@
 - [https://github.com/VulnSVNC/CVE-2026-134753](https://github.com/VulnSVNC/CVE-2026-134753) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-134753.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-134753.svg)
 
 - [https://github.com/LLCForge/CVE-2026-134753](https://github.com/LLCForge/CVE-2026-134753) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134753.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134753.svg)
+
+## CVE-2026-134732
+
+- [https://github.com/googlesky/CVE-2026-134732](https://github.com/googlesky/CVE-2026-134732) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134732.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134732.svg)
 
 ## CVE-2026-134704
 
@@ -324,6 +336,8 @@ In non-thread-safe builds, a diagnostic written to a file-based error_log during
 
 - [https://github.com/LLCForge/CVE-2026-129496](https://github.com/LLCForge/CVE-2026-129496) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-129496.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-129496.svg)
 
+- [https://github.com/evenomn/CVE-2026-129496](https://github.com/evenomn/CVE-2026-129496) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-129496.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-129496.svg)
+
 ## CVE-2026-129494
 > CloudPaste 1.1.0 through 1.9.1 contains an information disclosure vulnerability that allows unauthenticated attackers to obtain WebDAV storage credentials through the unauthenticated /api/proxy/link endpoint. Attackers who know a public share slug can retrieve the Basic Authorization header containing the WebDAV username and password, then read, modify, or delete files on the WebDAV server.
 
@@ -479,6 +493,7 @@ PHP does not discard the unread part of an HTTP request body at request shutdown
 - [https://github.com/googlesky/CVE-2026-129229](https://github.com/googlesky/CVE-2026-129229) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129229.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129229.svg)
 
 ## CVE-2026-129228
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. Prior to 3.10.4, ToolboxSettings.parse builds a deeply nested attacker-controlled settings tree iteratively, but the later public helpers to_settings_string, remove_blanks, add_default_fields, sort_fields, and add_blank_lines recursively traverse that tree without a depth bound. Invoking any of those helpers on input nested beyond 
 
 - [https://github.com/googlesky/CVE-2026-129228](https://github.com/googlesky/CVE-2026-129228) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129228.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129228.svg)
 
@@ -498,6 +513,7 @@ PHP does not discard the unread part of an HTTP request body at request shutdown
 - [https://github.com/googlesky/CVE-2026-129225](https://github.com/googlesky/CVE-2026-129225) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129225.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129225.svg)
 
 ## CVE-2026-129224
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. Prior to 3.10.4, the CCG lexicon parser&#x27;s matchBrackets and augParseCategory functions recursively process nested parenthesized categories without a depth bound. An attacker-controlled lexicon string with excessive nesting can raise RecursionError through nltk.ccg.lexicon.fromstring and terminate the parse operation or request work
 
 - [https://github.com/googlesky/CVE-2026-129224](https://github.com/googlesky/CVE-2026-129224) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129224.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129224.svg)
 
@@ -572,6 +588,7 @@ PHP does not discard the unread part of an HTTP request body at request shutdown
 - [https://github.com/googlesky/CVE-2026-128138](https://github.com/googlesky/CVE-2026-128138) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128138.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128138.svg)
 
 ## CVE-2026-128137
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. From 3.9.4 until 3.10.4, NLTK corpus-reader path pointers and view methods validate a requested relative path without consistently resolving intermediate directory symlinks against the reader&#x27;s scoped root. A local attacker who can place such a symlink can make abspaths or words reach a readable file outside the corpus root and dis
 
 - [https://github.com/googlesky/CVE-2026-128137](https://github.com/googlesky/CVE-2026-128137) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128137.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128137.svg)
 
@@ -1919,6 +1936,7 @@ Impact  *  SQL injection — The attribute parameter is concatenated into the qu
 - [https://github.com/googlesky/CVE-2026-115578](https://github.com/googlesky/CVE-2026-115578) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-115578.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-115578.svg)
 
 ## CVE-2026-115565
+> storyblok-backup is an npx CLI tool to create backups of a Storyblok space and restore individual resources. Prior to 0.7.1, the writeJson function used the editable Storyblok component name field as a filename without path containment. A person with component-management access in a Storyblok space could store a component name containing path traversal sequences; when another user later ran a backup for that space, the stored name escaped the configured backup directory and caused a JSON file to
 
 - [https://github.com/googlesky/CVE-2026-115565](https://github.com/googlesky/CVE-2026-115565) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-115565.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-115565.svg)
 
@@ -4731,6 +4749,7 @@ device operation and availability. No authentication, session e
 - [https://github.com/googlesky/CVE-2026-104199](https://github.com/googlesky/CVE-2026-104199) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104199.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104199.svg)
 
 ## CVE-2026-104129
+> pREST (PostgreSQL REST) is an API that delivers an application on top of a Postgres database. Prior to 2.4.0, the vulnerable parameter is _groupby, handled by GroupByClause in adapters/postgres/postgres.go. adapters/postgres/postgres.go uses the weaker isSafeSQLExpression check for this function-expression branch instead of the stricter single-field validator used for _select. That check validates only the outer function name against a 13-function allowlist and permits nested subqueries, trailin
 
 - [https://github.com/googlesky/CVE-2026-104129](https://github.com/googlesky/CVE-2026-104129) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104129.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104129.svg)
 
@@ -4906,6 +4925,7 @@ Note that this vulnerability can only be exploited prior to the device being onb
 - [https://github.com/noxcrypt-x/CVE-2026-103039](https://github.com/noxcrypt-x/CVE-2026-103039) : ![starts](https://img.shields.io/github/stars/noxcrypt-x/CVE-2026-103039.svg) ![forks](https://img.shields.io/github/forks/noxcrypt-x/CVE-2026-103039.svg)
 
 ## CVE-2026-103035
+> TeamPass is a self-hosted collaborative password manager. Prior to 3.2.1.2, the update_folder action in app/sources/folders.queries.php allowed an authenticated, non-read-only user to re-parent a folder without checking whether the target folder or submitted parentId belonged to the caller&#x27;s user-accessible_folders set. Selecting a personal folder as the new parent passed the personal-folder guard and set personal_folder on the target, transferring the credential subtree into the attacker&#x27;s acce
 
 - [https://github.com/googlesky/CVE-2026-103035](https://github.com/googlesky/CVE-2026-103035) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-103035.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-103035.svg)
 
@@ -4914,6 +4934,7 @@ Note that this vulnerability can only be exploited prior to the device being onb
 - [https://github.com/googlesky/CVE-2026-103033](https://github.com/googlesky/CVE-2026-103033) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-103033.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-103033.svg)
 
 ## CVE-2026-103026
+> Paymenter is a free and open-source webshop solution for management of hosting services. Prior to 1.5.7, the HasConfirmation trait in app/Livewire/Traits/HasConfirmation.php, included by app/Livewire/Component.php across 36 client-facing Livewire components, exposed executeConfirmedAction as a public action that invoked any component method accepted by method_exists. The action could call inherited InteractsWithProperties::fill(), whose data_set() writes arbitrary public properties, including st
 
 - [https://github.com/googlesky/CVE-2026-103026](https://github.com/googlesky/CVE-2026-103026) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-103026.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-103026.svg)
 
@@ -4998,6 +5019,8 @@ Note that this vulnerability can only be exploited prior to the device being onb
 > Ollama versions 0.14.0 before 0.31.2 contain an incorrect authorization vulnerability in the experimental agent mode Bash tool approval mechanism that fails to properly parse shell syntax. Attackers who can influence model output through prompt injection can execute additional shell commands by appending control operators like semicolons or logical operators to approved commands, bypassing the session approval requirement.
 
 - [https://github.com/akinerkisa/blindllama-cve-2026-102697](https://github.com/akinerkisa/blindllama-cve-2026-102697) : ![starts](https://img.shields.io/github/stars/akinerkisa/blindllama-cve-2026-102697.svg) ![forks](https://img.shields.io/github/forks/akinerkisa/blindllama-cve-2026-102697.svg)
+
+- [https://github.com/akinerkisa/llamasmuggle-cve-2026-102697](https://github.com/akinerkisa/llamasmuggle-cve-2026-102697) : ![starts](https://img.shields.io/github/stars/akinerkisa/llamasmuggle-cve-2026-102697.svg) ![forks](https://img.shields.io/github/forks/akinerkisa/llamasmuggle-cve-2026-102697.svg)
 
 ## CVE-2026-102607
 > ZoneMinder is a free, open source closed-circuit television software application. Prior to 1.38.3, the exportEvents() function concatenates the attacker-controlled exportFile request parameter into a shell command without neutralizing shell metacharacters when an authenticated user with View Events or View Snapshots permission submits an event export request with a crafted exportFile value, a valid CSRF token, and exportDetail enabled. The affected components are exportEvents(), exportFile, web/

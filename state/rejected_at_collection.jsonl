@@ -4167,3 +4167,9 @@
 {"cve_id": "CVE-2026-7515", "reason": "prefix_conflict_evidenced", "ts": "2026-11-22T17:22:27Z", "url": "https://github.com/licitrasimone/cve-2026-75157-poc", "url_ids": ["CVE-2026-75157"]}
 {"cve_id": "CVE-2025-6018", "reason": "prefix_conflict_evidenced", "ts": "2026-11-22T22:44:40Z", "url": "https://github.com/m4sh-wacker/CVE-2025-60188-Atarim-Plugin-Exploit", "url_ids": ["CVE-2025-60188"]}
 {"cve_id": "CVE-2026-1122", "reason": "prefix_conflict_evidenced", "ts": "2026-11-22T23:05:27Z", "url": "https://github.com/Mor-Golan/CVE-2026-112222", "url_ids": ["CVE-2026-112222"]}
+{"cve_id": "CVE-2026-3180", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T10:05:37Z", "url": "https://github.com/Recorded-texteditor120/CVE-2026-31802", "url_ids": ["CVE-2026-31802"]}
+{"cve_id": "CVE-2026-3180", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T10:05:37Z", "url": "https://github.com/Jvr2022/CVE-2026-31802", "url_ids": ["CVE-2026-31802"]}
+{"cve_id": "CVE-2025-6335", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T10:05:43Z", "url": "https://github.com/r0otk3r/CVE-2025-63353", "url_ids": ["CVE-2025-63353"]}
+{"cve_id": "CVE-2025-6335", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T10:05:43Z", "url": "https://github.com/0xA1M/CVE-2025-63353", "url_ids": ["CVE-2025-63353"]}
+{"cve_id": "CVE-2025-6335", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T10:05:43Z", "url": "https://github.com/zvckster/CVE-2025-63353", "url_ids": ["CVE-2025-63353"]}
+{"cve_id": "CVE-2026-11837", "reason": "prefix_conflict_evidenced", "ts": "2026-11-23T10:09:46Z", "url": "https://github.com/squeeze440/CVE-2026-118378-tabularis-PoC", "url_ids": ["CVE-2026-118378"]}

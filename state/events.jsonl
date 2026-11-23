@@ -12773,3 +12773,13 @@
 {"cve_id": "CVE-2026-133112", "ts": "2026-11-23T09:24:14Z", "type": "new_poc", "url": "https://github.com/capivara-research/CVE-2026-133112"}
 {"cve_id": "CVE-2026-133169", "ts": "2026-11-23T09:24:15Z", "type": "new_poc", "url": "https://github.com/capivara-research/CVE-2026-133169"}
 {"cve_id": "CVE-2026-0776", "ts": "2026-11-23T09:28:20Z", "type": "new_poc", "url": "https://github.com/0xbye/CVE-2026-0776"}
+{"cve_id": "CVE-2026-123146", "ts": "2026-11-23T09:41:20Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-127925", "ts": "2026-11-23T09:42:06Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-128884", "ts": "2026-11-23T09:42:14Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132151", "ts": "2026-11-23T09:43:48Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132989", "ts": "2026-11-23T09:44:49Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-134839", "ts": "2026-11-23T09:58:56Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-134839"}
+{"cve_id": "CVE-2026-134840", "ts": "2026-11-23T09:58:58Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-134840"}
+{"cve_id": "CVE-2026-129496", "ts": "2026-11-23T09:59:02Z", "type": "new_poc", "url": "https://github.com/evenomn/CVE-2026-129496"}
+{"cve_id": "CVE-2026-134732", "ts": "2026-11-23T09:59:02Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-134732"}
+{"cve_id": "CVE-2026-102697", "ts": "2026-11-23T09:59:37Z", "type": "new_poc", "url": "https://github.com/akinerkisa/llamasmuggle-cve-2026-102697"}
