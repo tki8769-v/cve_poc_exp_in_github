@@ -14,6 +14,18 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-134838
+
+- [https://github.com/googlesky/CVE-2026-134838](https://github.com/googlesky/CVE-2026-134838) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134838.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134838.svg)
+
+## CVE-2026-134837
+
+- [https://github.com/googlesky/CVE-2026-134837](https://github.com/googlesky/CVE-2026-134837) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134837.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134837.svg)
+
+## CVE-2026-134836
+
+- [https://github.com/googlesky/CVE-2026-134836](https://github.com/googlesky/CVE-2026-134836) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134836.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134836.svg)
+
 ## CVE-2026-134758
 
 - [https://github.com/VulnSVNC/CVE-2026-134758](https://github.com/VulnSVNC/CVE-2026-134758) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-134758.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-134758.svg)
@@ -128,6 +140,8 @@
 
 - [https://github.com/capivara-research/modified-shop-xss-products-model](https://github.com/capivara-research/modified-shop-xss-products-model) : ![starts](https://img.shields.io/github/stars/capivara-research/modified-shop-xss-products-model.svg) ![forks](https://img.shields.io/github/forks/capivara-research/modified-shop-xss-products-model.svg)
 
+- [https://github.com/capivara-research/CVE-2026-133169](https://github.com/capivara-research/CVE-2026-133169) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-133169.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-133169.svg)
+
 ## CVE-2026-133168
 > OFFIS DCMTK 3.7.1 contains a heap buffer overflow vulnerability in togglePlanarConfiguration8 and togglePlanarConfiguration16 in djcodece.cc, which compute row offsets using rows instead of columns. Attackers can supply a crafted color-by-plane DICOM image with more rows than columns that is compressed with the true-lossless JPEG codec to corrupt heap memory, causing crashes and potentially code execution.
 
@@ -147,6 +161,11 @@
 > Gogs through 0.14.4 contains an authorization bypass vulnerability that allows collaborators with write access to push to protected branches by merging pull requests. Because MergePullRequest skips branch protection checks and PullRequest.Merge omits hook environment variables, attackers can merge commits into branches restricted to allowlisted users.
 
 - [https://github.com/LLCForge/CVE-2026-133113](https://github.com/LLCForge/CVE-2026-133113) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133113.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133113.svg)
+
+## CVE-2026-133112
+> modified eCommerce Shopsoftware through 3.3.0 contains a cross-site request forgery vulnerability in gv_send.php because the action=process step never validates a CSRF token via check_secure_form(). Attackers can host an auto-submitting form that makes a logged-in customer send their gift voucher balance to an attacker-controlled email address for redemption.
+
+- [https://github.com/capivara-research/CVE-2026-133112](https://github.com/capivara-research/CVE-2026-133112) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-133112.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-133112.svg)
 
 ## CVE-2026-132825
 > Ruby before 3.3.14, 3.4.13, and 4.0.10 has a heap-based buffer overflow during case conversion. One byte can be written outside a buffer for, for example, ISO-8859-1 or Windows-1252.
@@ -204,6 +223,8 @@
 > A vulnerability was found in October CMS up to 4.4.6. This affects the function validateExternalImageHost of the file modules/system/classes/resizeimages/ValidatesExternalImages.php of the component Image Resizer. Performing a manipulation of the argument url results in server-side request forgery. The attack may be initiated remotely. The complexity of an attack is rather high. The exploitability is reported as difficult. The exploit has been made public and could be used. Upgrading to version 
 
 - [https://github.com/googlesky/CVE-2026-132252](https://github.com/googlesky/CVE-2026-132252) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-132252.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-132252.svg)
+
+- [https://github.com/capivara-research/CVE-2026-132252](https://github.com/capivara-research/CVE-2026-132252) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-132252.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-132252.svg)
 
 ## CVE-2026-132165
 
@@ -428,26 +449,32 @@ PHP does not discard the unread part of an HTTP request body at request shutdown
 - [https://github.com/Usama-Hanif131/CVE-2026-129254](https://github.com/Usama-Hanif131/CVE-2026-129254) : ![starts](https://img.shields.io/github/stars/Usama-Hanif131/CVE-2026-129254.svg) ![forks](https://img.shields.io/github/forks/Usama-Hanif131/CVE-2026-129254.svg)
 
 ## CVE-2026-129234
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. Prior to 3.10.4, Prover9Parent.config_prover9 and Mace accept a relative binary_location and pass it to find_binary as path_to_bin, disabling the bare-name absolute-path guard. A local attacker who can plant prover9 or mace4 in the resolved working directory can cause subprocess.Popen to execute that binary with the invoking user&#x27;s
 
 - [https://github.com/googlesky/CVE-2026-129234](https://github.com/googlesky/CVE-2026-129234) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129234.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129234.svg)
 
 ## CVE-2026-129233
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. From 3.10.0 until 3.10.4, StreamBackedCorpusView performs os.stat on a caller-supplied plain string path during construction before pathsec containment is enforced. The PathPointer branch used by in-tree corpus readers is validated, so exploitation requires application code to pass an attacker-influenced string directly to the publ
 
 - [https://github.com/googlesky/CVE-2026-129233](https://github.com/googlesky/CVE-2026-129233) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129233.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129233.svg)
 
 ## CVE-2026-129232
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. Prior to 3.10.4, XMLCorpusView.read_block rebuilds the full root-to-node context path with &quot;/&quot;.join(context) for every start tag while searching for a matching element. Deeply nested attacker-influenced corpus XML therefore causes quadratic pure-Python work and can pin a processing worker, resulting in denial of service. This issue
 
 - [https://github.com/googlesky/CVE-2026-129232](https://github.com/googlesky/CVE-2026-129232) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129232.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129232.svg)
 
 ## CVE-2026-129231
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. Prior to 3.10.4, SeekableUnicodeStreamReader.readline appends each new block to a growing character buffer and reruns splitlines over the entire buffer on every iteration. An attacker-controlled corpus file containing one very long unterminated line therefore causes quadratic CPU consumption in line-oriented corpus readers and can 
 
 - [https://github.com/googlesky/CVE-2026-129231](https://github.com/googlesky/CVE-2026-129231) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129231.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129231.svg)
 
 ## CVE-2026-129230
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. Prior to 3.10.4, WordNet Synset.max_depth, min_depth, hypernym_paths, and hypernym_distances recursively follow attacker-controlled corpus pointers without a visited-node set or depth cap. A cyclic or excessively deep hypernym graph can raise RecursionError and terminate traversal APIs and similarity operations that depend on them.
 
 - [https://github.com/googlesky/CVE-2026-129230](https://github.com/googlesky/CVE-2026-129230) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129230.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129230.svg)
 
 ## CVE-2026-129229
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. From 3.10.0 until 3.10.4, TokenSearcher.findall and Text.findall accept caller-controlled regular expressions with an unbounded number of capturing groups throughout the affected range. Starting in 3.10.3, nltk.redos.compile and RegexpTokenizer expose the same compile-time vector. The third-party regex engine compiles group-dense p
 
 - [https://github.com/googlesky/CVE-2026-129229](https://github.com/googlesky/CVE-2026-129229) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129229.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129229.svg)
 
@@ -456,20 +483,28 @@ PHP does not discard the unread part of an HTTP request body at request shutdown
 - [https://github.com/googlesky/CVE-2026-129228](https://github.com/googlesky/CVE-2026-129228) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129228.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129228.svg)
 
 ## CVE-2026-129227
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. Prior to 3.10.4, Tree.fromlist recursively converts nested Python list input into Tree objects without enforcing a maximum tree depth. An attacker-controlled list nested beyond the interpreter recursion limit can raise RecursionError and terminate the current parse operation or request worker. This issue is fixed in version 3.10.4.
 
 - [https://github.com/googlesky/CVE-2026-129227](https://github.com/googlesky/CVE-2026-129227) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129227.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129227.svg)
 
 ## CVE-2026-129226
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. Prior to 3.10.4, the semantic-logic read_type parser recursively processes both halves of nested complex type strings without applying LogicParser.MAX_PARSE_DEPTH. An attacker-controlled type string or signature with excessive nesting can raise RecursionError through Type.fromstring or type-checking entry points and abort the curre
 
 - [https://github.com/googlesky/CVE-2026-129226](https://github.com/googlesky/CVE-2026-129226) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129226.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129226.svg)
 
 ## CVE-2026-129225
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. In 3.10.3 and earlier, DependencyGraph._tree and triples recurse once per dependency edge without a depth bound, and get_cycle_path also lacks a visited-set termination guard. A deeply chained or cyclic attacker-controlled CoNLL or Malt-TAB dependency structure can raise RecursionError and abort a parse worker. This issue is fixed 
 
 - [https://github.com/googlesky/CVE-2026-129225](https://github.com/googlesky/CVE-2026-129225) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129225.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129225.svg)
 
 ## CVE-2026-129224
 
 - [https://github.com/googlesky/CVE-2026-129224](https://github.com/googlesky/CVE-2026-129224) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129224.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129224.svg)
+
+## CVE-2026-129221
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. Prior to 3.10.4, nltk.classify.weka.ARFF_Formatter writes attacker-controlled class labels into the Weka ARFF @ATTRIBUTE &#x27;-label-&#x27; declaration without safely formatting the label tokens. Crafted labels can alter the generated ARFF schema or records, corrupting classifier input and causing integrity loss or processing failure. This 
+
+- [https://github.com/googlesky/CVE-2026-129221](https://github.com/googlesky/CVE-2026-129221) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129221.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129221.svg)
 
 ## CVE-2026-129175
 
@@ -521,7 +556,32 @@ PHP does not discard the unread part of an HTTP request body at request shutdown
 
 - [https://github.com/langz337/CVE-2026-128442](https://github.com/langz337/CVE-2026-128442) : ![starts](https://img.shields.io/github/stars/langz337/CVE-2026-128442.svg) ![forks](https://img.shields.io/github/forks/langz337/CVE-2026-128442.svg)
 
+## CVE-2026-128140
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. From 3.6.7 until 3.10.4, nltk.downloader follows collection membership without tracking already visited collection nodes. A self-referencing or mutually referencing collection index can therefore make the package-closure walk loop indefinitely while its queue and memory usage grow, denying service when a victim processes the attack
+
+- [https://github.com/googlesky/CVE-2026-128140](https://github.com/googlesky/CVE-2026-128140) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128140.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128140.svg)
+
+## CVE-2026-128139
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. From 3.6 to 3.10.3, XMLCorpusView._read_xml_fragment accumulates 1 KiB blocks and repeatedly applies whole-buffer XML validation while a comment or CDATA terminator remains ahead. A large comment in an attacker-controlled corpus file causes quadratic CPU consumption through documented XML corpus readers across the affected range. O
+
+- [https://github.com/googlesky/CVE-2026-128139](https://github.com/googlesky/CVE-2026-128139) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128139.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128139.svg)
+
+## CVE-2026-128138
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. From 3.10.3 until 3.10.4, the NLTK 3.10.3 JVM hardening validates Java launcher tokens in the options channel but appends the caller-controlled cmd sequence without requiring its first token to be a main class. Supplying -jar or an @argfile through nltk.internals.java or StanfordSegmenter.java_class can therefore execute attacker-s
+
+- [https://github.com/googlesky/CVE-2026-128138](https://github.com/googlesky/CVE-2026-128138) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128138.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128138.svg)
+
+## CVE-2026-128137
+
+- [https://github.com/googlesky/CVE-2026-128137](https://github.com/googlesky/CVE-2026-128137) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128137.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128137.svg)
+
+## CVE-2026-128136
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. From 3.10.0 until 3.10.4, allowlisted_pickle_load keys dangerous NumPy globals by export name, allowing submodule-local numpy.lib file input/output callables to evade the denylist under the broad module allowance used by TransitionParser. A crafted pickle can invoke recfromtxt to read a local file or open_memmap to create or trunca
+
+- [https://github.com/googlesky/CVE-2026-128136](https://github.com/googlesky/CVE-2026-128136) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128136.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128136.svg)
+
 ## CVE-2026-128135
+> NLTK (Natural Language Toolkit) is a suite of open source Python modules, data sets, and tutorials supporting research and development in Natural Language Processing. From 3.9.4 to 3.10.3, NLTK ZIP package extraction can write through an existing in-root hardlink whose other link points outside the NLTK data root. A local attacker who can prepare the extraction target can cause a package member write to overwrite an out-of-root file, violating the pathsec containment boundary and affecting integ
 
 - [https://github.com/googlesky/CVE-2026-128135](https://github.com/googlesky/CVE-2026-128135) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-128135.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-128135.svg)
 
@@ -750,6 +810,8 @@ The files session save handler, which is the default, writes updated session dat
 
 - [https://github.com/evenomn/CVE-2026-125396-upload2shell](https://github.com/evenomn/CVE-2026-125396-upload2shell) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-125396-upload2shell.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-125396-upload2shell.svg)
 
+- [https://github.com/0xBlackash/CVE-2026-125396](https://github.com/0xBlackash/CVE-2026-125396) : ![starts](https://img.shields.io/github/stars/0xBlackash/CVE-2026-125396.svg) ![forks](https://img.shields.io/github/forks/0xBlackash/CVE-2026-125396.svg)
+
 ## CVE-2026-125394
 > FreeRDP before 3.33.0 contains a heap use-after-free vulnerability in update_gdi_patblt(), update_gdi_polygon_cb() and update_gdi_mem3blt() that retain stale brush cache pointers. A malicious RDP server can resend CACHE_BRUSH to the same slot then send PATBLT, causing clients to read freed heap memory, disclosing data or crashing.
 
@@ -863,6 +925,8 @@ Telco Cloud Platform 3.0, 4.x, 5.0.x, 5.1.x, 5.2 and Telco Cloud Infrastructure 
 - [https://github.com/Sable-Research/CVE-2026-123890-Research](https://github.com/Sable-Research/CVE-2026-123890-Research) : ![starts](https://img.shields.io/github/stars/Sable-Research/CVE-2026-123890-Research.svg) ![forks](https://img.shields.io/github/forks/Sable-Research/CVE-2026-123890-Research.svg)
 
 - [https://github.com/PARTSI14/armory-castle-vcenter-detections](https://github.com/PARTSI14/armory-castle-vcenter-detections) : ![starts](https://img.shields.io/github/stars/PARTSI14/armory-castle-vcenter-detections.svg) ![forks](https://img.shields.io/github/forks/PARTSI14/armory-castle-vcenter-detections.svg)
+
+- [https://github.com/dinosn/CVE-2026-123890](https://github.com/dinosn/CVE-2026-123890) : ![starts](https://img.shields.io/github/stars/dinosn/CVE-2026-123890.svg) ![forks](https://img.shields.io/github/forks/dinosn/CVE-2026-123890.svg)
 
 ## CVE-2026-123807
 > Signal K Server is a server application that runs on a central hub in a boat. From 2.0.0 until 2.34.0 for Signal K Server and from 1.0.0 until 1.5.3 for @signalk/resources-provider, the v2 REST route GET /signalk/v2/api/resources/:resourceType/:resourceId accepts an unsafe resourceId that can escape the intended resource directory. The route passes the attacker-controlled resourceId through src/api/resources/index.ts to FileStore.getResource() in packages/resources-provider-plugin/src/filestorag
@@ -1155,6 +1219,10 @@ Impact: An attacker could leverage this vulnerability to crash t
 
 - [https://github.com/Mor-Golan/CVE-2026-122675](https://github.com/Mor-Golan/CVE-2026-122675) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-122675.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-122675.svg)
 
+## CVE-2026-122247
+
+- [https://github.com/googlesky/CVE-2026-122247](https://github.com/googlesky/CVE-2026-122247) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-122247.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-122247.svg)
+
 ## CVE-2026-122244
 
 - [https://github.com/googlesky/CVE-2026-122244](https://github.com/googlesky/CVE-2026-122244) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-122244.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-122244.svg)
@@ -1278,6 +1346,8 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 
 - [https://github.com/LLCForge/CVE-2026-120539](https://github.com/LLCForge/CVE-2026-120539) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-120539.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-120539.svg)
 
+- [https://github.com/foxcornlab/buddypress-restrictions-scanner](https://github.com/foxcornlab/buddypress-restrictions-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/buddypress-restrictions-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/buddypress-restrictions-scanner.svg)
+
 ## CVE-2026-120491
 > Wing FTP Server before 8.2.6 contains a stored cross-site scripting vulnerability that allows authenticated web-client users to inject script by sending a crafted nowpath parameter to webclient/makethumb.html. Attackers can break out of the directory CDATA section in admin_get_lastconn.html XML to forge a connection id, which executes in administrators&#x27; browsers when admin_connection_list.html auto-refreshes, enabling Lua console abuse.
 
@@ -1287,6 +1357,11 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 > On Scalable Platforms, an administrator with permissions to edit and install the Access Control Policy and NAT rules can create a NAT rule that redirects traffic to the Gateway&#x27;s Sync interface, bypassing the built-in Sync protection. This could allow the administrator to execute operating system commands and write files on the Gateway with superuser privileges.
 
 - [https://github.com/sadshade/checkpoint-gexec-poc](https://github.com/sadshade/checkpoint-gexec-poc) : ![starts](https://img.shields.io/github/stars/sadshade/checkpoint-gexec-poc.svg) ![forks](https://img.shields.io/github/forks/sadshade/checkpoint-gexec-poc.svg)
+
+## CVE-2026-120343
+> A flaw has been found in mathurvishal CloudClassroom-PHP-Project. The impacted element is an unknown function of the file manageassessment2.php. This manipulation of the argument ExamName/Q1/Q2/Q3/Q4/Q5 causes cross site scripting. The attack is possible to be carried out remotely. The exploit has been published and may be used. This product adopts a rolling release strategy to maintain continuous delivery. Therefore, version details for affected or updated releases cannot be specified. The vend
+
+- [https://github.com/capivara-research/CVE-2026-120343](https://github.com/capivara-research/CVE-2026-120343) : ![starts](https://img.shields.io/github/stars/capivara-research/CVE-2026-120343.svg) ![forks](https://img.shields.io/github/forks/capivara-research/CVE-2026-120343.svg)
 
 ## CVE-2026-120318
 > Product Gallery Slider &amp; Additional Variation Images for WooCommerce 2.3.23 before 2.3.26 contains a missing authorization vulnerability in Codestar backup AJAX actions csf-export, csf-import and csf-reset. Shop Managers can read the csf_backup_nonce from the settings page and supply arbitrary option names via the &#x27;unique&#x27; parameter to read, overwrite or delete WordPress options, including modifying wp_user_roles to escalate to administrator.
@@ -1425,6 +1500,8 @@ Affected releases of mod_h2 from GitHub: from 2.0.8 through 2.0.42.
 - [https://github.com/im0xfay/CVE-2026-119077](https://github.com/im0xfay/CVE-2026-119077) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-119077.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-119077.svg)
 
 - [https://github.com/0xCyp1337/CVE-2026-119077](https://github.com/0xCyp1337/CVE-2026-119077) : ![starts](https://img.shields.io/github/stars/0xCyp1337/CVE-2026-119077.svg) ![forks](https://img.shields.io/github/forks/0xCyp1337/CVE-2026-119077.svg)
+
+- [https://github.com/v0nx6/CVE-2026-119077](https://github.com/v0nx6/CVE-2026-119077) : ![starts](https://img.shields.io/github/stars/v0nx6/CVE-2026-119077.svg) ![forks](https://img.shields.io/github/forks/v0nx6/CVE-2026-119077.svg)
 
 ## CVE-2026-119073
 > The Live Composer  WordPress plugin before 2.1.23 does not escape a pagination setting supplied through its post-listing module shortcodes before outputting it in an HTML attribute, allowing users with the Contributor role and above to perform Stored Cross-Site Scripting attacks.
@@ -2140,6 +2217,8 @@ The specific flaw exists within the handling of PUBACK packets. The issue result
 
 - [https://github.com/evenomn/CVE-2026-114516](https://github.com/evenomn/CVE-2026-114516) : ![starts](https://img.shields.io/github/stars/evenomn/CVE-2026-114516.svg) ![forks](https://img.shields.io/github/forks/evenomn/CVE-2026-114516.svg)
 
+- [https://github.com/googlesky/CVE-2026-114516](https://github.com/googlesky/CVE-2026-114516) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-114516.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-114516.svg)
+
 ## CVE-2026-114509
 > Laravel is a web application framework. Prior to 12.68.0 and 13.29.0, TokenGuard configured as a standard token-based API guard does not reject a crafted non-string credential. Under affected MySQL or MariaDB configurations, the authentication lookup can match an unintended existing user, allowing an unauthenticated attacker to bypass authentication and take over an account on routes protected by TokenGuard. This issue is fixed in versions 12.68.0 and 13.29.0.
 
@@ -2192,6 +2271,11 @@ Security Update for ASUS Control Center Express Agent  &#x27; section on the A
 - [https://github.com/cafaye/nilepatch-coraza-bypass](https://github.com/cafaye/nilepatch-coraza-bypass) : ![starts](https://img.shields.io/github/stars/cafaye/nilepatch-coraza-bypass.svg) ![forks](https://img.shields.io/github/forks/cafaye/nilepatch-coraza-bypass.svg)
 
 - [https://github.com/anywaye/nilepatch-coraza-bypass](https://github.com/anywaye/nilepatch-coraza-bypass) : ![starts](https://img.shields.io/github/stars/anywaye/nilepatch-coraza-bypass.svg) ![forks](https://img.shields.io/github/forks/anywaye/nilepatch-coraza-bypass.svg)
+
+## CVE-2026-113910
+> A memory initialization issue was addressed with improved memory handling. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2, tvOS 27.2, visionOS 27.2, watchOS 27.2. An app may be able to disclose kernel memory.
+
+- [https://github.com/ecc521/CVE-2026-113910](https://github.com/ecc521/CVE-2026-113910) : ![starts](https://img.shields.io/github/stars/ecc521/CVE-2026-113910.svg) ![forks](https://img.shields.io/github/forks/ecc521/CVE-2026-113910.svg)
 
 ## CVE-2026-113872
 > multer is a middleware for Node.js that handles multipart/form-data file uploads. In versions from 2.0.0 before 2.5.0, when multer is configured with an asynchronous fileFilter, a single request can crash the Node.js process. If the request is aborted while one file&#x27;s asynchronous fileFilter is still pending, the pending callback later resumes a parsing stream that multer has already torn down, and the underlying parser emits an error on a stream that no longer has an error listener, which Node 
@@ -2324,6 +2408,11 @@ A remote unauthenticated attacker may crash an nginx worker process or corrupt i
 - [https://github.com/marksvia/CVE-2026-112611-oob](https://github.com/marksvia/CVE-2026-112611-oob) : ![starts](https://img.shields.io/github/stars/marksvia/CVE-2026-112611-oob.svg) ![forks](https://img.shields.io/github/forks/marksvia/CVE-2026-112611-oob.svg)
 
 - [https://github.com/SKVLENT/CVE-2026-112611](https://github.com/SKVLENT/CVE-2026-112611) : ![starts](https://img.shields.io/github/stars/SKVLENT/CVE-2026-112611.svg) ![forks](https://img.shields.io/github/forks/SKVLENT/CVE-2026-112611.svg)
+
+## CVE-2026-112554
+> An out-of-bounds read was addressed with improved bounds checking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. An app may be able to cause unexpected system termination or read kernel memory.
+
+- [https://github.com/ecc521/CVE-2026-112554](https://github.com/ecc521/CVE-2026-112554) : ![starts](https://img.shields.io/github/stars/ecc521/CVE-2026-112554.svg) ![forks](https://img.shields.io/github/forks/ecc521/CVE-2026-112554.svg)
 
 ## CVE-2026-112522
 > An out-of-bounds write issue was addressed with improved bounds checking. This issue is fixed in iOS 26.7.2 and iPadOS 26.7.2, iOS 27.2 and iPadOS 27.2, macOS Golden Gate 27.2, macOS Sequoia 15.8.2, macOS Tahoe 26.7.2. Processing a maliciously crafted file may lead to unexpected app termination.
@@ -3841,6 +3930,8 @@ This issue has been fixed in version 2.5.
 
 - [https://github.com/omeyz/php2shell-honeypot](https://github.com/omeyz/php2shell-honeypot) : ![starts](https://img.shields.io/github/stars/omeyz/php2shell-honeypot.svg) ![forks](https://img.shields.io/github/forks/omeyz/php2shell-honeypot.svg)
 
+- [https://github.com/bipul-unexpected/CVE-2026-109618-2026-109619](https://github.com/bipul-unexpected/CVE-2026-109618-2026-109619) : ![starts](https://img.shields.io/github/stars/bipul-unexpected/CVE-2026-109618-2026-109619.svg) ![forks](https://img.shields.io/github/forks/bipul-unexpected/CVE-2026-109618-2026-109619.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -4639,6 +4730,10 @@ device operation and availability. No authentication, session e
 
 - [https://github.com/googlesky/CVE-2026-104199](https://github.com/googlesky/CVE-2026-104199) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104199.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104199.svg)
 
+## CVE-2026-104129
+
+- [https://github.com/googlesky/CVE-2026-104129](https://github.com/googlesky/CVE-2026-104129) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104129.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104129.svg)
+
 ## CVE-2026-104110
 > FileRise is a self-hosted web-based file manager with multi-file upload, editing, and batch operations. Prior to 3.24.0, FileRise Pro /api/pro/portals/get.php returns a configured client portal&#x27;s full internal record to an unauthenticated caller who knows or guesses the portal slug. The response includes the internal storage folder path, client contact email, form settings, and upload-policy details, while the separate publicMeta.php endpoint intentionally exposes only curated branding data. Exp
 
@@ -4654,6 +4749,8 @@ device operation and availability. No authentication, session e
 - [https://github.com/LLCForge/CVE-2026-104099](https://github.com/LLCForge/CVE-2026-104099) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-104099.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-104099.svg)
 
 - [https://github.com/abraxas/cve-2026-104099-fabio-path-acl-bypass](https://github.com/abraxas/cve-2026-104099-fabio-path-acl-bypass) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-104099-fabio-path-acl-bypass.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-104099-fabio-path-acl-bypass.svg)
+
+- [https://github.com/googlesky/CVE-2026-104099](https://github.com/googlesky/CVE-2026-104099) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-104099.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-104099.svg)
 
 ## CVE-2026-104068
 > JetBackup plugin for WordPress before 3.1.24.10 contains a symlink-based arbitrary file write vulnerability that allows an authenticated WordPress administrator to write attacker-controlled file contents outside the intended restore destination during backup import and restore. Attackers can craft a backup archive containing a symbolic link that archive extraction follows without validating targets or enforcing destination containment, potentially leading to server-side code execution depending 
@@ -4808,9 +4905,17 @@ Note that this vulnerability can only be exploited prior to the device being onb
 
 - [https://github.com/noxcrypt-x/CVE-2026-103039](https://github.com/noxcrypt-x/CVE-2026-103039) : ![starts](https://img.shields.io/github/stars/noxcrypt-x/CVE-2026-103039.svg) ![forks](https://img.shields.io/github/forks/noxcrypt-x/CVE-2026-103039.svg)
 
+## CVE-2026-103035
+
+- [https://github.com/googlesky/CVE-2026-103035](https://github.com/googlesky/CVE-2026-103035) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-103035.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-103035.svg)
+
 ## CVE-2026-103033
 
 - [https://github.com/googlesky/CVE-2026-103033](https://github.com/googlesky/CVE-2026-103033) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-103033.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-103033.svg)
+
+## CVE-2026-103026
+
+- [https://github.com/googlesky/CVE-2026-103026](https://github.com/googlesky/CVE-2026-103026) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-103026.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-103026.svg)
 
 ## CVE-2026-103025
 
@@ -4827,6 +4932,10 @@ Note that this vulnerability can only be exploited prior to the device being onb
 ## CVE-2026-102971
 
 - [https://github.com/BomboBombone/CVE-2026-102971](https://github.com/BomboBombone/CVE-2026-102971) : ![starts](https://img.shields.io/github/stars/BomboBombone/CVE-2026-102971.svg) ![forks](https://img.shields.io/github/forks/BomboBombone/CVE-2026-102971.svg)
+
+## CVE-2026-102945
+
+- [https://github.com/googlesky/CVE-2026-102945](https://github.com/googlesky/CVE-2026-102945) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-102945.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-102945.svg)
 
 ## CVE-2026-102895
 > GPUStack is an open-source GPU cluster manager for AI model serving and GPU instance provisioning. Prior to 2.2.0, get_current_user in gpustack/api/auth.py treated a loopback request source as the built-in administrator when force_auth_localhost was false, which was the default. A remote request could appear to originate from 127.0.0.1 because client_ip_getter accepted a same-host reverse proxy peer or a client-supplied X-GPUStack-Real-IP loopback value. The bypass allowed unauthenticated admini
@@ -6145,6 +6254,11 @@ root privileges resulting in complete compromise o
 ## CVE-2026-96054
 
 - [https://github.com/kagancapar/CVE-2026-96054](https://github.com/kagancapar/CVE-2026-96054) : ![starts](https://img.shields.io/github/stars/kagancapar/CVE-2026-96054.svg) ![forks](https://img.shields.io/github/forks/kagancapar/CVE-2026-96054.svg)
+
+## CVE-2026-95839
+> containerd is an open-source container runtime. From 2.2.0 until 2.2.10, 2.3.7, and 2.4.2, image manifest processing through the transfer service can encounter a child descriptor containing the io.containerd.manifest.subject annotation and a malformed digest. Pulling or importing such an image, including through a default CRI PullImage request, can trigger an unrecovered panic and crash the containerd daemon. In Kubernetes, kubelet retries can repeatedly trigger the crash and disrupt container o
+
+- [https://github.com/googlesky/CVE-2026-95839](https://github.com/googlesky/CVE-2026-95839) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-95839.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-95839.svg)
 
 ## CVE-2026-95675
 > D-Link DAP-1360 firmware version 6.14 and earlier contains an unauthenticated remote code execution vulnerability that allows remote attackers to execute arbitrary commands as root by sending crafted requests to the device&#x27;s web management interface without valid credentials. Attackers can fully compromise the device to persistently modify its configuration and use it as a pivot point into the local network.
@@ -7912,6 +8026,16 @@ createCorsHandler() set Access-Control-Allow-Credentials: true outside the origi
 
 - [https://github.com/wkpwn/CVE-2026-83834](https://github.com/wkpwn/CVE-2026-83834) : ![starts](https://img.shields.io/github/stars/wkpwn/CVE-2026-83834.svg) ![forks](https://img.shields.io/github/forks/wkpwn/CVE-2026-83834.svg)
 
+## CVE-2026-83817
+> CodeWhale is a DeepSeek and MiMo coding agent for the terminal. Prior to 0.9.0, DEFAULT_AUTOMATION_AUTO_APPROVE caused AutomationRecord::task_auto_approve to resolve an omitted setting to true, and the automation_create schema advertised the same insecure default. enqueue_run_task converted that omission into an explicit true value, bypassing the safer task-path fallback and selecting ApprovalMode::Bypass for each scheduled run. After a user approved creation of an apparently benign recurring au
+
+- [https://github.com/googlesky/CVE-2026-83817](https://github.com/googlesky/CVE-2026-83817) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-83817.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-83817.svg)
+
+## CVE-2026-83816
+> CodeWhale is a DeepSeek and MiMo coding agent for the terminal. Prior to 0.9.0, the ExecShellTool::approval_requirement_for path used is_parallel_readonly_command to downgrade commands to automatic approval based on a flag-stripped command allowlist. The allowlist treated fd, rg, and git grep as read-only even when fd -x or fd --exec, rg --pre, or git grep --open-files-in-pager selected an external program. registered_tool_approval_required returned without displaying a prompt for that automatic
+
+- [https://github.com/googlesky/CVE-2026-83816](https://github.com/googlesky/CVE-2026-83816) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-83816.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-83816.svg)
+
 ## CVE-2026-83792
 
 - [https://github.com/unkn0w1ngNightmare/CVE-2026-83792](https://github.com/unkn0w1ngNightmare/CVE-2026-83792) : ![starts](https://img.shields.io/github/stars/unkn0w1ngNightmare/CVE-2026-83792.svg) ![forks](https://img.shields.io/github/forks/unkn0w1ngNightmare/CVE-2026-83792.svg)
@@ -8793,22 +8917,52 @@ CVE-2025-32907 addressed memory amplification when a client repeated the same ra
 
 - [https://github.com/saretawa/CVE-2026-77396](https://github.com/saretawa/CVE-2026-77396) : ![starts](https://img.shields.io/github/stars/saretawa/CVE-2026-77396.svg) ![forks](https://img.shields.io/github/forks/saretawa/CVE-2026-77396.svg)
 
+## CVE-2026-77382
+> falcon-rust is a Rust implementation of the Falcon post-quantum signature scheme. Prior to 0.2.0, the discrete-Gaussian sampler in src/samplerz.rs evaluates approx_exp, ber_exp, and sampler_z acceptance probabilities with FixedPoint64 values having only 32 fractional bits. The scaling in approx_exp quantizes its input and limits relative precision to about 2^-33, below Falcon&#x27;s required bound, causing reference known-answer vectors to diverge and invalidating the proof assumption that secret-dep
+
+- [https://github.com/googlesky/CVE-2026-77382](https://github.com/googlesky/CVE-2026-77382) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77382.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77382.svg)
+
+## CVE-2026-77380
+> Bolt is a fully open source, adaptable platform for building and running modern websites. Prior to 6.1.5, the /bolt/async/upload-url and /bolt/async/embed endpoints validate only a submitted URL before fetching it server-side. The fetchers then follow redirects without revalidating each destination, allowing an authenticated user to bypass UrlSafetyChecker and cause the server to request internal or cloud-metadata addresses. This issue is fixed in version 6.1.5.
+
+- [https://github.com/googlesky/CVE-2026-77380](https://github.com/googlesky/CVE-2026-77380) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77380.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77380.svg)
+
+## CVE-2026-77379
+> Bolt is a fully open source, adaptable platform for building and running modern websites. Prior to 6.1.4, the public Relation API lacks an access-control filter. Unauthenticated users can query its REST endpoints and GraphQL endpoints to discover metadata about unpublished, draft, and viewless content. This issue is fixed in version 6.1.4.
+
+- [https://github.com/googlesky/CVE-2026-77379](https://github.com/googlesky/CVE-2026-77379) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77379.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77379.svg)
+
 ## CVE-2026-77378
 > Bolt is a fully open source, adaptable platform for building and running modern websites. Prior to 6.1.4, SQL injection in ListFormatHelper allows authenticated users with upload permission to execute arbitrary SQL queries through /async/select-options and exfiltrate sensitive database contents when general/caching/list_format is enabled. This issue is fixed in version 6.1.4.
 
 - [https://github.com/googlesky/CVE-2026-77378](https://github.com/googlesky/CVE-2026-77378) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77378.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77378.svg)
+
+## CVE-2026-77377
+> Bolt is a fully open source, adaptable platform for building and running modern websites. Prior to 6.1.4, the authenticated URL-upload endpoint and authenticated embed endpoint fetch user-supplied URLs server-side without protection against internal targets, allowing an attacker with the applicable backend permission to cause the Bolt server to request those targets. This issue is fixed in version 6.1.4.
+
+- [https://github.com/googlesky/CVE-2026-77377](https://github.com/googlesky/CVE-2026-77377) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77377.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77377.svg)
+
+## CVE-2026-77376
+> Bolt is a fully open source, adaptable platform for building and running modern websites. Prior to 6.1.4, LoginFormAuthenticator accepts unsafe destinations for the login success redirect and login failure redirect. An attacker can direct a user to an attacker-controlled domain after authentication succeeds or fails, enabling phishing and potential token theft. This issue is fixed in version 6.1.4.
+
+- [https://github.com/googlesky/CVE-2026-77376](https://github.com/googlesky/CVE-2026-77376) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77376.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77376.svg)
 
 ## CVE-2026-77369
 > Daptin is a GraphQL/JSON-API headless CMS. From 0.11.4 until 0.12.30, the generic GET /yjs/:documentName WebSocket route in InitializeYjsResources requires a session but does not authorize the database resource selected by a typename.referenceId.columnName room name. The YJS initial-content provider then reads the selected file.* column without CanRead or CanUpdate checks, and bidirectional synchronization allows a low-privileged authenticated user to read or modify restricted row content. Unaut
 
 - [https://github.com/LLCForge/CVE-2026-77369](https://github.com/LLCForge/CVE-2026-77369) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-77369.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-77369.svg)
 
+- [https://github.com/googlesky/CVE-2026-77369](https://github.com/googlesky/CVE-2026-77369) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77369.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77369.svg)
+
 ## CVE-2026-77367
 > Daptin is a GraphQL/JSON-API headless CMS. Prior to 0.12.30, the generic GET /api/{entity} list endpoint accepts attacker-controlled sort values in PaginatedFindAllWithoutFilters in server/resource/resource_findallpaginated.go without validating the requested column against the table schema. The code uses those values for SELECT and ORDER BY identifier construction, so an embedded identifier quote can terminate the quoted identifier and make the remainder parse as SQL, allowing an unauthenticate
 
 - [https://github.com/LLCForge/CVE-2026-77367](https://github.com/LLCForge/CVE-2026-77367) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-77367.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-77367.svg)
 
+- [https://github.com/googlesky/CVE-2026-77367](https://github.com/googlesky/CVE-2026-77367) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77367.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77367.svg)
+
 ## CVE-2026-77359
+> Jupyter MCP Server is a Model Context Protocol server for Jupyter. Prior to 1.0.3, standalone streamable-http mode validates Host and Origin values for /mcp but does not apply the same browser-origin controls to the state-changing /api/connect and /api/stop management routes. A malicious website can use DNS rebinding so that its hostname resolves to a loopback, LAN, VPN, or published-container MCP listener, then send a browser-shaped request that /api/connect accepts to replace runtime_url and d
 
 - [https://github.com/googlesky/CVE-2026-77359](https://github.com/googlesky/CVE-2026-77359) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77359.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77359.svg)
 
@@ -8836,6 +8990,12 @@ CVE-2025-32907 addressed memory amplification when a client repeated the same ra
 ## CVE-2026-77312
 
 - [https://github.com/LLCForge/CVE-2026-77312](https://github.com/LLCForge/CVE-2026-77312) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-77312.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-77312.svg)
+
+- [https://github.com/googlesky/CVE-2026-77312](https://github.com/googlesky/CVE-2026-77312) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77312.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77312.svg)
+
+## CVE-2026-77309
+
+- [https://github.com/googlesky/CVE-2026-77309](https://github.com/googlesky/CVE-2026-77309) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77309.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77309.svg)
 
 ## CVE-2026-77262
  MCP Atlassian is a Model Context Protocol (MCP) server for Atlassian products (Confluence and Jira). Prior to 0.22.0, confluence_upload_attachment accepts an attacker-controlled file_path and does not apply the path restriction added for the earlier download vulnerability. A caller can traverse outside the workspace and upload arbitrary server-readable files to Confluence. The advisory traces the vulnerable input and processing flow through confluence_upload_attachment, file_path, and CVE-2026-27825, which identify the affected entry points, controls, and code paths. This issue is fixed in version 0.22.0.
@@ -10040,6 +10200,10 @@ call_rcu() does the same here without stalling the close() path.
 
 - [https://github.com/aramosf/CVE-2026-68398](https://github.com/aramosf/CVE-2026-68398) : ![starts](https://img.shields.io/github/stars/aramosf/CVE-2026-68398.svg) ![forks](https://img.shields.io/github/forks/aramosf/CVE-2026-68398.svg)
 
+## CVE-2026-68387
+
+- [https://github.com/cybuildguild/CVE-2026-68387](https://github.com/cybuildguild/CVE-2026-68387) : ![starts](https://img.shields.io/github/stars/cybuildguild/CVE-2026-68387.svg) ![forks](https://img.shields.io/github/forks/cybuildguild/CVE-2026-68387.svg)
+
 ## CVE-2026-68376
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -10869,6 +11033,8 @@ Discovered and responsibly disclosed by [the team at pwn.ai](https://pwn.ai/).
 - [https://github.com/alisalive/xss2shell](https://github.com/alisalive/xss2shell) : ![starts](https://img.shields.io/github/stars/alisalive/xss2shell.svg) ![forks](https://img.shields.io/github/forks/alisalive/xss2shell.svg)
 
 - [https://github.com/ashrafzaryouh/CVE-2026-64638](https://github.com/ashrafzaryouh/CVE-2026-64638) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-64638.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-64638.svg)
+
+- [https://github.com/secplayground/CVE-2026-64638-scanner-and-exploit](https://github.com/secplayground/CVE-2026-64638-scanner-and-exploit) : ![starts](https://img.shields.io/github/stars/secplayground/CVE-2026-64638-scanner-and-exploit.svg) ![forks](https://img.shields.io/github/forks/secplayground/CVE-2026-64638-scanner-and-exploit.svg)
 
 ## CVE-2026-64633
  A vulnerability allowing remote unauthenticated code execution on the agent host.
@@ -12105,6 +12271,11 @@ Users are recommended to upgrade to version 4.22.0, which fixes the issue. If us
 
 - [https://github.com/ashrafzaryouh/CVE-2026-60004](https://github.com/ashrafzaryouh/CVE-2026-60004) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-60004.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-60004.svg)
 
+## CVE-2026-59988
+> django-docutils provides reStructuredText support for Django. Prior to 0.30.0, public rendering paths including publish_doctree, publish_html_from_source, publish_html_from_doctree, publish_parts_from_doctree, the {% rst %} template tag, the rst template filter, DocutilsTemplates, and DocutilsView pass lower-trust reStructuredText to Docutils without disabling file_insertion_enabled, raw_enabled, ambient docutils.conf processing, or unsafe URI schemes and without consistently sanitizing doctrees
+
+- [https://github.com/googlesky/CVE-2026-59988](https://github.com/googlesky/CVE-2026-59988) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-59988.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-59988.svg)
+
 ## CVE-2026-59970
 > Tandoor Recipes is an application for managing recipes, planning meals, and building shopping lists. Prior to 2.6.10, passes an administrator-controlled AI provider URL directly to LiteLLM without applying the server&#x27;s outbound-request SSRF checks when an authenticated user creates a Space, configures an AI provider with a URL targeting an internal address, and invokes an AI action. In cookbook/views/api.py, the affected AI actions call completion through TARGET/api/ai-import/ and api/ai-step-so
 
@@ -12294,6 +12465,8 @@ Users are recommended to upgrade to version 11.0.24, 10.1.57 or 9.0.120, which f
 - [https://github.com/januththedev/SMS-Of-Death-CVE-2026-58882-Fix](https://github.com/januththedev/SMS-Of-Death-CVE-2026-58882-Fix) : ![starts](https://img.shields.io/github/stars/januththedev/SMS-Of-Death-CVE-2026-58882-Fix.svg) ![forks](https://img.shields.io/github/forks/januththedev/SMS-Of-Death-CVE-2026-58882-Fix.svg)
 
 - [https://github.com/Lucifer7794/sms-of-death-recovery](https://github.com/Lucifer7794/sms-of-death-recovery) : ![starts](https://img.shields.io/github/stars/Lucifer7794/sms-of-death-recovery.svg) ![forks](https://img.shields.io/github/forks/Lucifer7794/sms-of-death-recovery.svg)
+
+- [https://github.com/warsecurity/-CVE-2026-58882](https://github.com/warsecurity/-CVE-2026-58882) : ![starts](https://img.shields.io/github/stars/warsecurity/-CVE-2026-58882.svg) ![forks](https://img.shields.io/github/forks/warsecurity/-CVE-2026-58882.svg)
 
 ## CVE-2026-58868
 > In onOutputReceived of FrameDecoder.cpp, there is a possible out-of-bounds write due to a heap buffer overflow. This could lead to remote code execution with no additional execution privileges needed. User interaction is not needed for exploitation.
@@ -12867,6 +13040,11 @@ Users are recommended to upgrade to version 11.0.5, 10.1.37 or 9.0.101, which fi
  The Azure Blob Storage container used for Gardyn device logs is publicly listable without authentication. A malicious user would be able to access any device log file available in the blob storage container.
 
 - [https://github.com/MichaelAdamGroberman/CVE-2026-55726](https://github.com/MichaelAdamGroberman/CVE-2026-55726) : ![starts](https://img.shields.io/github/stars/MichaelAdamGroberman/CVE-2026-55726.svg) ![forks](https://img.shields.io/github/forks/MichaelAdamGroberman/CVE-2026-55726.svg)
+
+## CVE-2026-55621
+> Incus is a system container and virtual machine manager. Prior to version 7.2.0, missing authorization checks exist for custom volume copying where an attacker knowing the name of a project that they don&#x27;t have access to and the name of a custom volume in that project can copy the custom volume to a new project. This issue could allow an attacker to access secrets in custom volumes they are not authorized to access. Version 7.2.0 patches the issue.
+
+- [https://github.com/googlesky/CVE-2026-55621](https://github.com/googlesky/CVE-2026-55621) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-55621.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-55621.svg)
 
 ## CVE-2026-55584
  phpSysInfo is a customizable PHP script that displays system information. Prior to 3.4.6, the PSI_ALLOWED access-control check in read_config.php trusts attacker-controlled X-Forwarded-For and Client-IP HTTP headers before REMOTE_ADDR. A remote unauthenticated attacker can supply an allowed address in one of these headers to impersonate a trusted client and access exposed hostname, kernel, CPU, memory, filesystem, and network-interface information. This issue is fixed in version 3.4.6.
@@ -14366,6 +14544,8 @@ This issue affects Apache HTTP Server: from 2.4.17 through 2.4.67.
 
 - [https://github.com/CerberusMrXi/Discuz-X5.0-Authentication-Bypass-Exploit-Framework](https://github.com/CerberusMrXi/Discuz-X5.0-Authentication-Bypass-Exploit-Framework) : ![starts](https://img.shields.io/github/stars/CerberusMrXi/Discuz-X5.0-Authentication-Bypass-Exploit-Framework.svg) ![forks](https://img.shields.io/github/forks/CerberusMrXi/Discuz-X5.0-Authentication-Bypass-Exploit-Framework.svg)
 
+- [https://github.com/caviar-dynamo/CVE-2026-49952](https://github.com/caviar-dynamo/CVE-2026-49952) : ![starts](https://img.shields.io/github/stars/caviar-dynamo/CVE-2026-49952.svg) ![forks](https://img.shields.io/github/forks/caviar-dynamo/CVE-2026-49952.svg)
+
 ## CVE-2026-49943
  CZ.NIC BIRD Internet Routing Daemon through 2.19.0 contains a stack-based buffer overflow in the BGP AS_PATH mask matching implementation in nest/a-path.c. The as_path_match() function uses a fixed-size stack array of 2048 + 1 pm_pos entries, while parse_path() expands AS_PATH segments from a received BGP UPDATE without enforcing a corresponding capacity limit. When RFC 8654 BGP Extended Messages are enabled and a BIRD filter evaluates an AS path mask expression such as "bgp_path ~ [= ... =]", an established BGP peer can send a long AS_PATH containing more than 2048 expanded ASNs. This causes parse_path()/as_path_match() to write beyond the fixed stack buffer, resulting in a crash of the daemon. NOTE: reportedly, the Supplier's position is that a fix is not being prioritized because all network operators should already be rejecting routes with unusually long attributes.
 
@@ -15858,6 +16038,10 @@ issue, as the affected code is outside the OpenSSL FIPS module boundary.
 
 - [https://github.com/lorenzocamilli/CVE-2026-45332-PoC](https://github.com/lorenzocamilli/CVE-2026-45332-PoC) : ![starts](https://img.shields.io/github/stars/lorenzocamilli/CVE-2026-45332-PoC.svg) ![forks](https://img.shields.io/github/forks/lorenzocamilli/CVE-2026-45332-PoC.svg)
 
+## CVE-2026-45325
+
+- [https://github.com/googlesky/CVE-2026-45325](https://github.com/googlesky/CVE-2026-45325) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-45325.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-45325.svg)
+
 ## CVE-2026-45321
  On 2026-05-11, between approximately 19:20 and 19:26 UTC, 84 malicious versions across 42 @tanstack/* packages were published to the npm registry. The publishes were authenticated via the legitimate GitHub Actions OIDC trusted-publisher binding for TanStack/router, but the publish workflow itself was not modified. The attacker chained three known vulnerability classes — a pull_request_target "Pwn Request" misconfiguration, GitHub Actions cache poisoning across the fork↔base trust boundary, and runtime memory extraction of the OIDC token from the Actions runner process — to publish credential-stealing malware under a trusted identity. Each affected package received exactly two malicious versions, published a few minutes apart.
 
@@ -17149,6 +17333,8 @@ remove_waiter() to cure those problems.
 - [https://github.com/NotAndrej/GhostWatch](https://github.com/NotAndrej/GhostWatch) : ![starts](https://img.shields.io/github/stars/NotAndrej/GhostWatch.svg) ![forks](https://img.shields.io/github/forks/NotAndrej/GhostWatch.svg)
 
 - [https://github.com/stellaqwq/ghostlock-root5-pd2118c](https://github.com/stellaqwq/ghostlock-root5-pd2118c) : ![starts](https://img.shields.io/github/stars/stellaqwq/ghostlock-root5-pd2118c.svg) ![forks](https://img.shields.io/github/forks/stellaqwq/ghostlock-root5-pd2118c.svg)
+
+- [https://github.com/xiaquwan1001/P40pro-ghostlock](https://github.com/xiaquwan1001/P40pro-ghostlock) : ![starts](https://img.shields.io/github/stars/xiaquwan1001/P40pro-ghostlock.svg) ![forks](https://img.shields.io/github/forks/xiaquwan1001/P40pro-ghostlock.svg)
 
 ## CVE-2026-43494
  In the Linux kernel, the following vulnerability has been resolved:
@@ -20361,6 +20547,10 @@ Users are recommended to upgrade to version 4.18.1 or 4.19.0, fixing the issue.
 
 - [https://github.com/duohnson/CVE-2026-33439-PoC](https://github.com/duohnson/CVE-2026-33439-PoC) : ![starts](https://img.shields.io/github/stars/duohnson/CVE-2026-33439-PoC.svg) ![forks](https://img.shields.io/github/forks/duohnson/CVE-2026-33439-PoC.svg)
 
+- [https://github.com/RockKingdom/CVE-2026-33439-Python-PoC](https://github.com/RockKingdom/CVE-2026-33439-Python-PoC) : ![starts](https://img.shields.io/github/stars/RockKingdom/CVE-2026-33439-Python-PoC.svg) ![forks](https://img.shields.io/github/forks/RockKingdom/CVE-2026-33439-Python-PoC.svg)
+
+- [https://github.com/RockKingdom/CVE-2026-33439-Python-PoC-main](https://github.com/RockKingdom/CVE-2026-33439-Python-PoC-main) : ![starts](https://img.shields.io/github/stars/RockKingdom/CVE-2026-33439-Python-PoC-main.svg) ![forks](https://img.shields.io/github/forks/RockKingdom/CVE-2026-33439-Python-PoC-main.svg)
+
 ## CVE-2026-33340
  LoLLMs WEBUI provides the Web user interface for Lord of Large Language and Multi modal Systems. A critical Server-Side Request Forgery (SSRF) vulnerability has been identified in all known existing versions of `lollms-webui`. The `@router.post("/api/proxy")` endpoint allows unauthenticated attackers to force the server into making arbitrary GET requests. This can be exploited to access internal services, scan local networks, or exfiltrate sensitive cloud metadata (e.g., AWS/GCP IAM tokens). As of time of publication, no known patched versions are available.
 
@@ -20412,6 +20602,10 @@ Users are recommended to upgrade to version 9.2.15 or 10.1.4, which fixes the is
  XWiki Platform is a generic wiki platform offering runtime services for applications built on top of it. Prior to 17.4.8 and 17.10.1, an improperly protected scripting API allows any user with script right to bypass the sandboxing of the Velocity scripting API and execute, e.g., arbitrary Python scripts, allowing full access to the XWiki instance and thereby compromising the confidentiality, integrity and availability of the whole instance. Note that script right already constitutes a high level of access that we don't recommend giving to untrusted users. This vulnerability is fixed in 17.4.8 and 17.10.1.
 
 - [https://github.com/azefzafyoussef/CVE-2026-33229](https://github.com/azefzafyoussef/CVE-2026-33229) : ![starts](https://img.shields.io/github/stars/azefzafyoussef/CVE-2026-33229.svg) ![forks](https://img.shields.io/github/forks/azefzafyoussef/CVE-2026-33229.svg)
+
+## CVE-2026-33203
+
+- [https://github.com/googlesky/CVE-2026-33203](https://github.com/googlesky/CVE-2026-33203) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-33203.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-33203.svg)
 
 ## CVE-2026-33186
  gRPC-Go is the Go language implementation of gRPC. Versions prior to 1.79.3 have an authorization bypass resulting from improper input validation of the HTTP/2 `:path` pseudo-header. The gRPC-Go server was too lenient in its routing logic, accepting requests where the `:path` omitted the mandatory leading slash (e.g., `Service/Method` instead of `/Service/Method`). While the server successfully routed these requests to the correct handler, authorization interceptors (including the official `grpc/authz` package) evaluated the raw, non-canonical path string. Consequently, "deny" rules defined using canonical paths (starting with `/`) failed to match the incoming request, allowing it to bypass the policy if a fallback "allow" rule was present. This affects gRPC-Go servers that use path-based authorization interceptors, such as the official RBAC implementation in `google.golang.org/grpc/authz` or custom interceptors relying on `info.FullMethod` or `grpc.Method(ctx)`; AND that have a security policy contains specific "deny" rules for canonical paths but allows other requests by default (a fallback "allow" rule). The vulnerability is exploitable by an attacker who can send raw HTTP/2 frames with malformed `:path` headers directly to the gRPC server. The fix in version 1.79.3 ensures that any request with a `:path` that does not start with a leading slash is immediately rejected with a `codes.Unimplemented` error, preventing it from reaching authorization interceptors or handlers with a non-canonical path string. While upgrading is the most secure and recommended path, users can mitigate the vulnerability using one of the following methods: Use a validating interceptor (recommended mitigation); infrastructure-level normalization; and/or policy hardening.
@@ -21771,6 +21965,8 @@ AD directly.
 
 - [https://github.com/Stlwtrs/CopyFix](https://github.com/Stlwtrs/CopyFix) : ![starts](https://img.shields.io/github/stars/Stlwtrs/CopyFix.svg) ![forks](https://img.shields.io/github/forks/Stlwtrs/CopyFix.svg)
 
+- [https://github.com/ssm-shell/copy-fail-ctypes](https://github.com/ssm-shell/copy-fail-ctypes) : ![starts](https://img.shields.io/github/stars/ssm-shell/copy-fail-ctypes.svg) ![forks](https://img.shields.io/github/forks/ssm-shell/copy-fail-ctypes.svg)
+
 ## CVE-2026-31429
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -22745,6 +22941,10 @@ Users are recommended to upgrade to version 4.19.0, which fixes the issue. If us
  (*x509.Certificate).VerifyHostname previously called matchHostnames in a loop over all DNS Subject Alternative Name (SAN) entries. This caused strings.Split(host, ".") to execute repeatedly on the same input hostname. With a large DNS SAN list, verification costs scaled quadratically based on the number of SAN entries multiplied by the hostname's label count. Because x509.Verify validates hostnames before building the certificate chain, this overhead occurred even for untrusted certificates.
 
 - [https://github.com/HORKimhab/CVE-2026-27145](https://github.com/HORKimhab/CVE-2026-27145) : ![starts](https://img.shields.io/github/stars/HORKimhab/CVE-2026-27145.svg) ![forks](https://img.shields.io/github/forks/HORKimhab/CVE-2026-27145.svg)
+
+## CVE-2026-27119
+
+- [https://github.com/googlesky/CVE-2026-27119](https://github.com/googlesky/CVE-2026-27119) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-27119.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-27119.svg)
 
 ## CVE-2026-26988
  LibreNMS is an auto-discovering PHP/MySQL/SNMP based network monitoring tool. Versions 25.12.0 and below contain an SQL Injection vulnerability in the ajax_table.php endpoint. The application fails to properly sanitize or parameterize user input when processing IPv6 address searches. Specifically, the address parameter is split into an address and a prefix, and the prefix portion is directly concatenated into the SQL query string without validation. This allows an attacker to inject arbitrary SQL commands, potentially leading to unauthorized data access or database manipulation. This issue has been fixed in version 26.2.0.
@@ -30618,6 +30818,8 @@ TL-WR841N v13  0.9.1 Build 20231120 Rel.62366
 The specific flaw exists within the discord_rpc module. The product loads a file from an unsecured location. An attacker can leverage this vulnerability to escalate privileges and execute arbitrary code in the context of a target user. Was ZDI-CAN-27057.
 
 - [https://github.com/whenx/CVE-2026-0776](https://github.com/whenx/CVE-2026-0776) : ![starts](https://img.shields.io/github/stars/whenx/CVE-2026-0776.svg) ![forks](https://img.shields.io/github/forks/whenx/CVE-2026-0776.svg)
+
+- [https://github.com/0xbye/CVE-2026-0776](https://github.com/0xbye/CVE-2026-0776) : ![starts](https://img.shields.io/github/stars/0xbye/CVE-2026-0776.svg) ![forks](https://img.shields.io/github/forks/0xbye/CVE-2026-0776.svg)
 
 ## CVE-2026-0770
  Langflow exec_globals Inclusion of Functionality from Untrusted Control Sphere Remote Code Execution Vulnerability. This vulnerability allows remote attackers to execute arbitrary code on affected installations of Langflow. Authentication is not required to exploit this vulnerability.

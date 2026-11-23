@@ -3136,6 +3136,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 
 - [https://github.com/alexzorin/cve-2017-2636-el](https://github.com/alexzorin/cve-2017-2636-el) : ![starts](https://img.shields.io/github/stars/alexzorin/cve-2017-2636-el.svg) ![forks](https://img.shields.io/github/forks/alexzorin/cve-2017-2636-el.svg)
 
+- [https://github.com/OYMMYO/n_hdlc-cve-2017-2636](https://github.com/OYMMYO/n_hdlc-cve-2017-2636) : ![starts](https://img.shields.io/github/stars/OYMMYO/n_hdlc-cve-2017-2636.svg) ![forks](https://img.shields.io/github/forks/OYMMYO/n_hdlc-cve-2017-2636.svg)
+
 ## CVE-2017-2388
  An issue was discovered in certain Apple products. macOS before 10.12.4 is affected. The issue involves the "IOFireWireFamily" component. It allows attackers to cause a denial of service (NULL pointer dereference) via a crafted app.
 
