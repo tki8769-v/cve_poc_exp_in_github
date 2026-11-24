@@ -6835,6 +6835,10 @@ allow an unauthenticated attacker to read or manipulate device data.
 
 - [https://github.com/rxerium/CVE-2025-42944](https://github.com/rxerium/CVE-2025-42944) : ![starts](https://img.shields.io/github/stars/rxerium/CVE-2025-42944.svg) ![forks](https://img.shields.io/github/forks/rxerium/CVE-2025-42944.svg)
 
+## CVE-2025-42884
+
+- [https://github.com/cveForge/CVE-2025-42884](https://github.com/cveForge/CVE-2025-42884) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2025-42884.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2025-42884.svg)
+
 ## CVE-2025-41744
  Sprecher Automations SPRECON-E series uses default cryptographic keys that allow an unprivileged remote attacker to access all encrypted communications, thereby compromising confidentiality and integrity.
 

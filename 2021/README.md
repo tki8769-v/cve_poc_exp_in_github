@@ -1730,6 +1730,8 @@
 
 - [https://github.com/johnyProDev/CVE-2021-44228-Writeup](https://github.com/johnyProDev/CVE-2021-44228-Writeup) : ![starts](https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-Writeup.svg) ![forks](https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-Writeup.svg)
 
+- [https://github.com/Pathfind1357/Log4Shell-CVE-2021-44228](https://github.com/Pathfind1357/Log4Shell-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/Pathfind1357/Log4Shell-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/Pathfind1357/Log4Shell-CVE-2021-44228.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 

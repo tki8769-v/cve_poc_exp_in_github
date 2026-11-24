@@ -9360,6 +9360,8 @@ when someone on the local network repeatedly requests the /accessdenied URL.
 
 - [https://github.com/MRdark-ops/scanner-syno](https://github.com/MRdark-ops/scanner-syno) : ![starts](https://img.shields.io/github/stars/MRdark-ops/scanner-syno.svg) ![forks](https://img.shields.io/github/forks/MRdark-ops/scanner-syno.svg)
 
+- [https://github.com/cveForge/CVE-2024-10441](https://github.com/cveForge/CVE-2024-10441) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2024-10441.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2024-10441.svg)
+
 ## CVE-2024-10410
  A vulnerability classified as critical was found in SourceCodester Online Hotel Reservation System 1.0. Affected by this vulnerability is the function upload of the file /admin/mod_room/controller.php?action=add. The manipulation of the argument image leads to unrestricted upload. The attack can be launched remotely. The exploit has been disclosed to the public and may be used.
 
