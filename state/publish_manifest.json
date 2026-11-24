@@ -1,9 +1,11 @@
 {
-  "changed": [],
+  "changed": [
+    "/home/runner/work/cve_poc_exp_in_github/cve_poc_exp_in_github/Today.md"
+  ],
   "relations": 33579,
   "rule_version": "2",
   "sections": 13500,
   "today_owned": true,
-  "ts": "2026-11-23T23:23:35Z",
+  "ts": "2026-11-24T11:56:47Z",
   "years": 28
 }
