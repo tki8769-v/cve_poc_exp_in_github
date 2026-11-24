@@ -1734,6 +1734,8 @@
 
 - [https://github.com/Scorpion691/Log4Shell-LDAP-Lab](https://github.com/Scorpion691/Log4Shell-LDAP-Lab) : ![starts](https://img.shields.io/github/stars/Scorpion691/Log4Shell-LDAP-Lab.svg) ![forks](https://img.shields.io/github/forks/Scorpion691/Log4Shell-LDAP-Lab.svg)
 
+- [https://github.com/one-zyd/Log4j2-CVE-2021-44228](https://github.com/one-zyd/Log4j2-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/one-zyd/Log4j2-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/one-zyd/Log4j2-CVE-2021-44228.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 

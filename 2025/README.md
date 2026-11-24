@@ -9033,6 +9033,8 @@ Users are recommended to upgrade to version 9.0.104, 10.1.40 or 11.0.6 which fix
 
 - [https://github.com/Super-Vulnerable-Org/compromised-action](https://github.com/Super-Vulnerable-Org/compromised-action) : ![starts](https://img.shields.io/github/stars/Super-Vulnerable-Org/compromised-action.svg) ![forks](https://img.shields.io/github/forks/Super-Vulnerable-Org/compromised-action.svg)
 
+- [https://github.com/Seif-Abdelhamid/actions-compromise-scoper](https://github.com/Seif-Abdelhamid/actions-compromise-scoper) : ![starts](https://img.shields.io/github/stars/Seif-Abdelhamid/actions-compromise-scoper.svg) ![forks](https://img.shields.io/github/forks/Seif-Abdelhamid/actions-compromise-scoper.svg)
+
 ## CVE-2025-30065
  Schema parsing in the parquet-avro module of Apache Parquet 1.15.0 and previous versions allows bad actors to execute arbitrary code
 
