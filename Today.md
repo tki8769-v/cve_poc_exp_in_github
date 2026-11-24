@@ -1,4 +1,8 @@
 # Update 2026-11-24
+## CVE-2014-6287
+
+- [https://github.com/xyzzklk/HFS_Strike](https://github.com/xyzzklk/HFS_Strike) : ![starts](https://img.shields.io/github/stars/xyzzklk/HFS_Strike.svg) ![forks](https://img.shields.io/github/forks/xyzzklk/HFS_Strike.svg)
+
 ## CVE-2019-9053
 
 - [https://github.com/fantasmakm4/LAB-014-SIMPLE-CTF](https://github.com/fantasmakm4/LAB-014-SIMPLE-CTF) : ![starts](https://img.shields.io/github/stars/fantasmakm4/LAB-014-SIMPLE-CTF.svg) ![forks](https://img.shields.io/github/forks/fantasmakm4/LAB-014-SIMPLE-CTF.svg)
@@ -6,6 +10,7 @@
 ## CVE-2021-44228
 
 - [https://github.com/Pathfind1357/Log4Shell-CVE-2021-44228](https://github.com/Pathfind1357/Log4Shell-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/Pathfind1357/Log4Shell-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/Pathfind1357/Log4Shell-CVE-2021-44228.svg)
+- [https://github.com/Scorpion691/Log4Shell-LDAP-Lab](https://github.com/Scorpion691/Log4Shell-LDAP-Lab) : ![starts](https://img.shields.io/github/stars/Scorpion691/Log4Shell-LDAP-Lab.svg) ![forks](https://img.shields.io/github/forks/Scorpion691/Log4Shell-LDAP-Lab.svg)
 
 ## CVE-2024-10441
 > Improper encoding or escaping of output vulnerability in the system plugin daemon in Synology BeeStation OS (BSM) before 1.1-65374 and Synology DiskStation Manager (DSM) before 7.2-64570-4, 7.2.1-69057-6 and 7.2.2-72806-1 allows remote attackers to execute arbitrary code via unspecified vectors.
@@ -177,6 +182,10 @@ Apache SeaTunnel
 
 - [https://github.com/cveForge/CVE-2026-128981](https://github.com/cveForge/CVE-2026-128981) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-128981.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-128981.svg)
 
+## CVE-2026-129024
+
+- [https://github.com/kanokwut/everest-forms-signature-delete-poc](https://github.com/kanokwut/everest-forms-signature-delete-poc) : ![starts](https://img.shields.io/github/stars/kanokwut/everest-forms-signature-delete-poc.svg) ![forks](https://img.shields.io/github/forks/kanokwut/everest-forms-signature-delete-poc.svg)
+
 ## CVE-2026-129448
 > Deserialization of Untrusted Data in Apache Roller versions 4.0.0 through 6.1.4 allows an unauthenticated remote attacker to execute arbitrary code. The XML-RPC endpoint accepts vendor extension types and deserializes them before authenticating the requester.
 
@@ -314,6 +323,10 @@ Users are recommended to u
 
 - [https://github.com/googlesky/CVE-2026-135154](https://github.com/googlesky/CVE-2026-135154) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135154.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135154.svg)
 
+## CVE-2026-135160
+
+- [https://github.com/googlesky/CVE-2026-135160](https://github.com/googlesky/CVE-2026-135160) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135160.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135160.svg)
+
 ## CVE-2026-135167
 
 - [https://github.com/googlesky/CVE-2026-135167](https://github.com/googlesky/CVE-2026-135167) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135167.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135167.svg)
@@ -365,6 +378,22 @@ Users are recommended to u
 ## CVE-2026-135720
 
 - [https://github.com/googlesky/CVE-2026-135720](https://github.com/googlesky/CVE-2026-135720) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135720.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135720.svg)
+
+## CVE-2026-135723
+
+- [https://github.com/googlesky/CVE-2026-135723](https://github.com/googlesky/CVE-2026-135723) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135723.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135723.svg)
+
+## CVE-2026-135725
+
+- [https://github.com/googlesky/CVE-2026-135725](https://github.com/googlesky/CVE-2026-135725) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135725.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135725.svg)
+
+## CVE-2026-135729
+
+- [https://github.com/googlesky/CVE-2026-135729](https://github.com/googlesky/CVE-2026-135729) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135729.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135729.svg)
+
+## CVE-2026-135731
+
+- [https://github.com/googlesky/CVE-2026-135731](https://github.com/googlesky/CVE-2026-135731) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135731.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135731.svg)
 
 ## CVE-2026-135736
 
@@ -419,6 +448,10 @@ Users are recommended to u
 ## CVE-2026-45247
 
 - [https://github.com/cveForge/CVE-2026-45247](https://github.com/cveForge/CVE-2026-45247) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-45247.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-45247.svg)
+
+## CVE-2026-47156
+
+- [https://github.com/kanokwut/mantisbt-soap-cookie-case-collision-poc](https://github.com/kanokwut/mantisbt-soap-cookie-case-collision-poc) : ![starts](https://img.shields.io/github/stars/kanokwut/mantisbt-soap-cookie-case-collision-poc.svg) ![forks](https://img.shields.io/github/forks/kanokwut/mantisbt-soap-cookie-case-collision-poc.svg)
 
 ## CVE-2026-48356
 > Adobe Commerce is affected by an Unrestricted Upload of File with Dangerous Type vulnerability that could result in arbitrary code execution in the context of the current user, potentially gaining elevated access or control over the victim&#x27;s account or session. Exploitation of this issue requires user interaction in that a victim must visit a maliciously crafted URL or interact with a compromised web page. Scope is changed.

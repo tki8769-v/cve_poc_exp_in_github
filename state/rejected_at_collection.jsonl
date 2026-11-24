@@ -4284,3 +4284,5 @@
 {"cve_id": "CVE-2026-12148", "reason": "prefix_conflict_evidenced", "ts": "2026-11-24T12:17:25Z", "url": "https://github.com/googlesky/CVE-2026-121480", "url_ids": ["CVE-2026-121480"]}
 {"cve_id": "CVE-2026-12148", "reason": "prefix_conflict_evidenced", "ts": "2026-11-24T12:17:25Z", "url": "https://github.com/Quaerendir/openssl-cve-2026-121481-audit", "url_ids": ["CVE-2026-121481"]}
 {"cve_id": "CVE-2026-12665", "reason": "prefix_conflict_evidenced", "ts": "2026-11-24T12:17:39Z", "url": "https://github.com/googlesky/CVE-2026-126657", "url_ids": ["CVE-2026-126657"]}
+{"cve_id": "CVE-2026-3303", "reason": "prefix_conflict_evidenced", "ts": "2026-11-24T12:34:48Z", "url": "https://github.com/Twinson333/cve-2026-33032-scanner", "url_ids": ["CVE-2026-33032"]}
+{"cve_id": "CVE-2026-3303", "reason": "prefix_conflict_evidenced", "ts": "2026-11-24T12:34:48Z", "url": "https://github.com/ch4n3-yoon/CVE-2026-33033-PoC", "url_ids": ["CVE-2026-33033"]}

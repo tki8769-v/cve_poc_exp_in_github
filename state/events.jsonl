@@ -13082,3 +13082,12 @@
 {"cve_id": "CVE-2026-123010", "ts": "2026-11-24T12:05:54Z", "type": "new_poc", "url": "https://github.com/Ahmedhassanelf/CVE-2026-123010-Security-Researcher-Ahmed-Hassan-Elfekiry"}
 {"cve_id": "CVE-2026-114938", "ts": "2026-11-24T12:05:54Z", "type": "new_poc", "url": "https://github.com/devkirgantenk/patched_ptero"}
 {"cve_id": "CVE-2026-133968", "ts": "2026-11-24T12:05:55Z", "type": "new_poc", "url": "https://github.com/foxcornlab/monai-label-scanner"}
+{"cve_id": "CVE-2026-135725", "ts": "2026-11-24T12:30:35Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-135725"}
+{"cve_id": "CVE-2026-135729", "ts": "2026-11-24T12:30:36Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-135729"}
+{"cve_id": "CVE-2026-135731", "ts": "2026-11-24T12:30:38Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-135731"}
+{"cve_id": "CVE-2026-135723", "ts": "2026-11-24T12:30:40Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-135723"}
+{"cve_id": "CVE-2026-135160", "ts": "2026-11-24T12:30:40Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-135160"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-24T12:30:56Z", "type": "new_poc", "url": "https://github.com/Scorpion691/Log4Shell-LDAP-Lab"}
+{"cve_id": "CVE-2014-6287", "ts": "2026-11-24T12:31:27Z", "type": "new_poc", "url": "https://github.com/xyzzklk/HFS_Strike"}
+{"cve_id": "CVE-2026-47156", "ts": "2026-11-24T12:31:27Z", "type": "new_poc", "url": "https://github.com/kanokwut/mantisbt-soap-cookie-case-collision-poc"}
+{"cve_id": "CVE-2026-129024", "ts": "2026-11-24T12:32:56Z", "type": "new_poc", "url": "https://github.com/kanokwut/everest-forms-signature-delete-poc"}

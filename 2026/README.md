@@ -18,6 +18,22 @@
 
 - [https://github.com/googlesky/CVE-2026-135736](https://github.com/googlesky/CVE-2026-135736) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135736.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135736.svg)
 
+## CVE-2026-135731
+
+- [https://github.com/googlesky/CVE-2026-135731](https://github.com/googlesky/CVE-2026-135731) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135731.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135731.svg)
+
+## CVE-2026-135729
+
+- [https://github.com/googlesky/CVE-2026-135729](https://github.com/googlesky/CVE-2026-135729) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135729.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135729.svg)
+
+## CVE-2026-135725
+
+- [https://github.com/googlesky/CVE-2026-135725](https://github.com/googlesky/CVE-2026-135725) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135725.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135725.svg)
+
+## CVE-2026-135723
+
+- [https://github.com/googlesky/CVE-2026-135723](https://github.com/googlesky/CVE-2026-135723) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135723.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135723.svg)
+
 ## CVE-2026-135720
 
 - [https://github.com/googlesky/CVE-2026-135720](https://github.com/googlesky/CVE-2026-135720) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135720.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135720.svg)
@@ -69,6 +85,10 @@
 ## CVE-2026-135167
 
 - [https://github.com/googlesky/CVE-2026-135167](https://github.com/googlesky/CVE-2026-135167) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135167.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135167.svg)
+
+## CVE-2026-135160
+
+- [https://github.com/googlesky/CVE-2026-135160](https://github.com/googlesky/CVE-2026-135160) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135160.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135160.svg)
 
 ## CVE-2026-135154
 
@@ -316,6 +336,7 @@
 - [https://github.com/drbloop2000/BeamNG-Drive-RCE](https://github.com/drbloop2000/BeamNG-Drive-RCE) : ![starts](https://img.shields.io/github/stars/drbloop2000/BeamNG-Drive-RCE.svg) ![forks](https://img.shields.io/github/forks/drbloop2000/BeamNG-Drive-RCE.svg)
 
 ## CVE-2026-133493
+> A vulnerability was identified in D-Link DIR-600L 2.17b02. Affected is the function genacgi_main of the file gena.cgi of the component GENA Handler. Such manipulation leads to os command injection. The attack can be launched remotely. The exploit is publicly available and might be used.
 
 - [https://github.com/LLCForge/CVE-2026-133493](https://github.com/LLCForge/CVE-2026-133493) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133493.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133493.svg)
 
@@ -899,6 +920,7 @@ PHP does not discard the unread part of an HTTP request body at request shutdown
 - [https://github.com/cveForge/CVE-2026-129073](https://github.com/cveForge/CVE-2026-129073) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-129073.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-129073.svg)
 
 ## CVE-2026-129056
+> Incorrect Privilege Assignment vulnerability in Paul Ryan Authorizer authorizer allows Privilege Escalation.This issue affects Authorizer: from n/a before 3.17.2.
 
 - [https://github.com/LLCForge/CVE-2026-129056](https://github.com/LLCForge/CVE-2026-129056) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-129056.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-129056.svg)
 
@@ -915,6 +937,10 @@ PHP does not discard the unread part of an HTTP request body at request shutdown
 - [https://github.com/LLCForge/CVE-2026-129039](https://github.com/LLCForge/CVE-2026-129039) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-129039.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-129039.svg)
 
 - [https://github.com/cveForge/CVE-2026-129039](https://github.com/cveForge/CVE-2026-129039) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-129039.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-129039.svg)
+
+## CVE-2026-129024
+
+- [https://github.com/kanokwut/everest-forms-signature-delete-poc](https://github.com/kanokwut/everest-forms-signature-delete-poc) : ![starts](https://img.shields.io/github/stars/kanokwut/everest-forms-signature-delete-poc.svg) ![forks](https://img.shields.io/github/forks/kanokwut/everest-forms-signature-delete-poc.svg)
 
 ## CVE-2026-128981
 > ** UNSUPPORTED WHEN ASSIGNED ** 
@@ -1779,6 +1805,7 @@ This vulnerability may allow remote attackers to cause
 - [https://github.com/googlesky/CVE-2026-121480](https://github.com/googlesky/CVE-2026-121480) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-121480.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-121480.svg)
 
 ## CVE-2026-121385
+> The User Registration Aide WordPress plugin through 1.5.3.8 does not verify the current password or a reset token before changing a user&#x27;s password, allowing unauthenticated attackers who know a user&#x27;s username and email address to change the password of any account, including administrators, and take it over.
 
 - [https://github.com/LLCForge/CVE-2026-121385](https://github.com/LLCForge/CVE-2026-121385) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-121385.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-121385.svg)
 
@@ -16128,6 +16155,10 @@ Users are recommended to upgrade to version 4.19.0, which fixes the issue. If us
 
 - [https://github.com/pvharmo2/gha-lab-00d54c717d](https://github.com/pvharmo2/gha-lab-00d54c717d) : ![starts](https://img.shields.io/github/stars/pvharmo2/gha-lab-00d54c717d.svg) ![forks](https://img.shields.io/github/forks/pvharmo2/gha-lab-00d54c717d.svg)
 
+## CVE-2026-47156
+
+- [https://github.com/kanokwut/mantisbt-soap-cookie-case-collision-poc](https://github.com/kanokwut/mantisbt-soap-cookie-case-collision-poc) : ![starts](https://img.shields.io/github/stars/kanokwut/mantisbt-soap-cookie-case-collision-poc.svg) ![forks](https://img.shields.io/github/forks/kanokwut/mantisbt-soap-cookie-case-collision-poc.svg)
+
 ## CVE-2026-47117
  OpenMed before 1.5.2 contains a remote code execution vulnerability in the PII privacy-filter model loading path. The privacy-filter dispatcher used broad substring matching on the user-supplied model_name parameter, allowing a value such as attacker/foo-privacy-filter-bar to route through a path that loads Hugging Face models with trust_remote_code=True. An unauthenticated attacker can supply a malicious model repository containing custom Transformers code via auto_map in config.json or tokenizer_config.json, which is imported and executed with the privileges of the OpenMed service process.
 
@@ -26833,7 +26864,8 @@ In the moment of this vulnerability, network permissions (`--allow-net`) are sti
 
 ## CVE-2026-20320
 > A vulnerability in the Open Client Interface (OCI) XML Parser of Cisco BroadWorks could allow an unauthenticated, remote attacker to read sensitive configuration information on an affected system. 
- This vulnerability exists because XML entries are improperly parsed due to external entity resolution being allowed by default. An attacker could exploit this vulnerability by sending a crafted XML message to the Open Client Interface &amp;ndash; Provisioning (OCI-P) service. A successful exploit could
+
+ This vulnerability exists because XML entries are improperly parsed due to external entity resolution being allowed by default. An attacker could exploit this vulnerability by sending a crafted XML message to the Open Client Interface &amp;ndash; Provisioning (OCI-P) service. A successful exploit could
 
 - [https://github.com/cveForge/CVE-2026-20320](https://github.com/cveForge/CVE-2026-20320) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-20320.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-20320.svg)
 
