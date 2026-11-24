@@ -222,7 +222,16 @@ This issue affects Apache Iggy
 - [https://github.com/cveForge/CVE-2026-121018](https://github.com/cveForge/CVE-2026-121018) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-121018.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-121018.svg)
 
 ## CVE-2026-121481
-> Calling EVP_EncodeBlock() with an input length close to INT_MAX may overflow the calculation of the encoded output size and write past the end of the caller-supplied output buffer.
+> Issue summary: Calling EVP_EncodeBlock() with an input length close to INT_MAX
+may overflow the calculation of the encoded output size and write past the end
+of the caller-supplied output buffer.
+
+Impact summary: No path by which an attacker can trigger this has been
+identified. An application that passes an input length near INT_MAX to
+EVP_EncodeBlock() could suffer a heap buffer overflow, crashing or corrupting
+its own memory, but it must itself supply such a length.
+
+CWE: CWE-190: Integer Ove
 
 - [https://github.com/cveForge/CVE-2026-121481](https://github.com/cveForge/CVE-2026-121481) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-121481.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-121481.svg)
 
@@ -339,6 +348,11 @@ This can be mitigated by following the documented requirements for PROXY listene
 - [https://github.com/cveForge/CVE-2026-129705](https://github.com/cveForge/CVE-2026-129705) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-129705.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-129705.svg)
 
 ## CVE-2026-129713
+> A stack-based buffer overflow in an unauthenticated CGI handler of the
+Danfoss AK-SM 8xxA Series controller allows remote attackers to send specially
+crafted HTTP/S POST requests, leading to memory corruption, webserver restart
+and hypothetically potential arbitrary code execution with webserver privileges.
+Authentication is not required to exploit this vulnerability.
 
 - [https://github.com/cveForge/CVE-2026-129713](https://github.com/cveForge/CVE-2026-129713) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-129713.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-129713.svg)
 
@@ -420,6 +434,11 @@ Users are recommended to u
 - [https://github.com/drbloop2000/BeamNG-Drive-RCE](https://github.com/drbloop2000/BeamNG-Drive-RCE) : ![starts](https://img.shields.io/github/stars/drbloop2000/BeamNG-Drive-RCE.svg) ![forks](https://img.shields.io/github/forks/drbloop2000/BeamNG-Drive-RCE.svg)
 
 ## CVE-2026-133648
+> Flowintel disabled TLS certificate verification for all MISP API connections and used unverified SSL contexts for IMAP and SMTP STARTTLS mail connections. This allowed an on-path (man-in-the-middle) attacker positioned between Flowintel and its MISP or mail servers to impersonate the remote server and intercept sensitive data.
+
+Affected connections include:
+- All MISP HTTPS API calls (event retrieval, attribute search, event creation, connectivity checks, and API validation)
+- SMTP STARTTLS conn
 
 - [https://github.com/cveForge/CVE-2026-133648](https://github.com/cveForge/CVE-2026-133648) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133648.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133648.svg)
 

@@ -690,6 +690,11 @@
 - [https://github.com/cveForge/CVE-2026-133680](https://github.com/cveForge/CVE-2026-133680) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133680.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133680.svg)
 
 ## CVE-2026-133648
+> Flowintel disabled TLS certificate verification for all MISP API connections and used unverified SSL contexts for IMAP and SMTP STARTTLS mail connections. This allowed an on-path (man-in-the-middle) attacker positioned between Flowintel and its MISP or mail servers to impersonate the remote server and intercept sensitive data.
+
+Affected connections include:
+- All MISP HTTPS API calls (event retrieval, attribute search, event creation, connectivity checks, and API validation)
+- SMTP STARTTLS conn
 
 - [https://github.com/cveForge/CVE-2026-133648](https://github.com/cveForge/CVE-2026-133648) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133648.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133648.svg)
 
@@ -1065,6 +1070,11 @@ Users are recommended to u
 - [https://github.com/cveForge/CVE-2026-129837](https://github.com/cveForge/CVE-2026-129837) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-129837.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-129837.svg)
 
 ## CVE-2026-129713
+> A stack-based buffer overflow in an unauthenticated CGI handler of the
+Danfoss AK-SM 8xxA Series controller allows remote attackers to send specially
+crafted HTTP/S POST requests, leading to memory corruption, webserver restart
+and hypothetically potential arbitrary code execution with webserver privileges.
+Authentication is not required to exploit this vulnerability.
 
 - [https://github.com/cveForge/CVE-2026-129713](https://github.com/cveForge/CVE-2026-129713) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-129713.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-129713.svg)
 
