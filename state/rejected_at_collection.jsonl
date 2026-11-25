@@ -4363,3 +4363,5 @@
 {"cve_id": "CVE-2025-2992", "reason": "prefix_conflict_evidenced", "ts": "2026-11-24T23:37:58Z", "url": "https://github.com/Naveen-005/Next.Js-middleware-bypass-vulnerability-CVE-2025-29927", "url_ids": ["CVE-2025-29927"]}
 {"cve_id": "CVE-2022-3317", "reason": "prefix_conflict_evidenced", "ts": "2026-11-24T23:40:10Z", "url": "https://github.com/open-flaw/CVE-2022-33171", "url_ids": ["CVE-2022-33171"]}
 {"cve_id": "CVE-2026-9226", "reason": "prefix_conflict_evidenced", "ts": "2026-11-24T23:41:54Z", "url": "https://github.com/SeanDishman/mariadb-cve-2026-92262", "url_ids": ["CVE-2026-92262"]}
+{"cve_id": "CVE-2026-3232", "reason": "prefix_conflict_evidenced", "ts": "2026-11-25T00:06:11Z", "url": "https://github.com/drkim-dev/CVE-2026-32321", "url_ids": ["CVE-2026-32321"]}
+{"cve_id": "CVE-2026-6837", "reason": "prefix_conflict_evidenced", "ts": "2026-11-25T00:06:13Z", "url": "https://github.com/gagaltotal/CVE-2026-68376-Ubuntu-7.0.0-30-Poc", "url_ids": ["CVE-2026-68376"]}

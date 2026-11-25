@@ -266,6 +266,10 @@
 
 - [https://github.com/googlesky/CVE-2026-135256](https://github.com/googlesky/CVE-2026-135256) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135256.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135256.svg)
 
+## CVE-2026-135253
+
+- [https://github.com/googlesky/CVE-2026-135253](https://github.com/googlesky/CVE-2026-135253) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135253.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135253.svg)
+
 ## CVE-2026-135252
 
 - [https://github.com/googlesky/CVE-2026-135252](https://github.com/googlesky/CVE-2026-135252) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135252.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135252.svg)
@@ -293,6 +297,10 @@
 ## CVE-2026-135244
 
 - [https://github.com/googlesky/CVE-2026-135244](https://github.com/googlesky/CVE-2026-135244) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135244.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135244.svg)
+
+## CVE-2026-135243
+
+- [https://github.com/googlesky/CVE-2026-135243](https://github.com/googlesky/CVE-2026-135243) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135243.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135243.svg)
 
 ## CVE-2026-135242
 
@@ -1317,6 +1325,7 @@ PHP does not discard the unread part of an HTTP request body at request shutdown
 - [https://github.com/psylinux/CVE-2026-129110-sysPass](https://github.com/psylinux/CVE-2026-129110-sysPass) : ![starts](https://img.shields.io/github/stars/psylinux/CVE-2026-129110-sysPass.svg) ![forks](https://img.shields.io/github/forks/psylinux/CVE-2026-129110-sysPass.svg)
 
 ## CVE-2026-129073
+> Authentication Bypass Using an Alternate Path or Channel vulnerability in miniOrange miniorange otp verification miniorange-otp-verification allows Authentication Abuse.This issue affects miniorange otp verification: from n/a through 5.6.1.
 
 - [https://github.com/LLCForge/CVE-2026-129073](https://github.com/LLCForge/CVE-2026-129073) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-129073.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-129073.svg)
 
@@ -9771,6 +9780,7 @@ The camel-oauth processors that guard a route did not stop the exchange when aut
 - [https://github.com/oscerd/CVE-2026-80312](https://github.com/oscerd/CVE-2026-80312) : ![starts](https://img.shields.io/github/stars/oscerd/CVE-2026-80312.svg) ![forks](https://img.shields.io/github/forks/oscerd/CVE-2026-80312.svg)
 
 ## CVE-2026-80188
+> The BuddyBoss Addons plugin for WordPress is vulnerable to Authentication Bypass leading to Account Takeover in versions up to, and including, 1.2.1. This is due to the Social Login REST endpoint trusting unverified Apple and Facebook identity-token claims and linking an attacker-controlled provider identifier to an existing WordPress user selected by the token’s email claim. This makes it possible for unauthenticated attackers who know a user’s email address to associate their provider identity
 
 - [https://github.com/LLCForge/CVE-2026-80188](https://github.com/LLCForge/CVE-2026-80188) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-80188.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-80188.svg)
 
@@ -23664,6 +23674,11 @@ correct response on the original request.
 
 - [https://github.com/TreRB/ai-ide-config-guard](https://github.com/TreRB/ai-ide-config-guard) : ![starts](https://img.shields.io/github/stars/TreRB/ai-ide-config-guard.svg) ![forks](https://img.shields.io/github/forks/TreRB/ai-ide-config-guard.svg)
 
+## CVE-2026-30502
+> A Cross-Site Scripting (XSS) vulnerability in OpenKM v6.3.12 allows attackers to execute arbitrary Javascript in the context of the user&#x27;s browser via a crafted input injected into the Content parameter.
+
+- [https://github.com/dharmstm/CVE-2026-30502-OpenKM-6.3.12-Reflected-XSS](https://github.com/dharmstm/CVE-2026-30502-OpenKM-6.3.12-Reflected-XSS) : ![starts](https://img.shields.io/github/stars/dharmstm/CVE-2026-30502-OpenKM-6.3.12-Reflected-XSS.svg) ![forks](https://img.shields.io/github/forks/dharmstm/CVE-2026-30502-OpenKM-6.3.12-Reflected-XSS.svg)
+
 ## CVE-2026-30498
  A Cross-Site Request Forgery (CSRF) vulnerability was discovered in the delete.php endpoint of Jason2605 AdminPanel 4.0.
 
@@ -28546,6 +28561,9 @@ condition.
 - [https://github.com/FzRsLLaSheR/CVE-2026-14960-CVE-2026-14961](https://github.com/FzRsLLaSheR/CVE-2026-14960-CVE-2026-14961) : ![starts](https://img.shields.io/github/stars/FzRsLLaSheR/CVE-2026-14960-CVE-2026-14961.svg) ![forks](https://img.shields.io/github/forks/FzRsLLaSheR/CVE-2026-14960-CVE-2026-14961.svg)
 
 ## CVE-2026-14914
+> Unrestricted upload of file with dangerous type vulnerability in Tegsoft Yönetim ve Bilişim Hizmetleri Tic. Ltd. Şti. Tegsoft Contact Center allows Upload a Web Shell to a Web Server.
+
+This issue affects Tegsoft Contact Center: before latest-202611161510.
 
 - [https://github.com/LLCForge/CVE-2026-14914](https://github.com/LLCForge/CVE-2026-14914) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-14914.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-14914.svg)
 

@@ -13240,3 +13240,6 @@
 {"cve_id": "CVE-2021-44228", "ts": "2026-11-24T23:10:47Z", "type": "new_poc", "url": "https://github.com/one-zyd/Log4j2-CVE-2021-44228"}
 {"cve_id": "CVE-2026-134401", "ts": "2026-11-24T23:10:48Z", "type": "new_poc", "url": "https://github.com/abraxas/cve-2026-134401-chrome-variations-http-seed"}
 {"cve_id": "CVE-2025-30066", "ts": "2026-11-24T23:10:48Z", "type": "new_poc", "url": "https://github.com/Seif-Abdelhamid/actions-compromise-scoper"}
+{"cve_id": "CVE-2026-135253", "ts": "2026-11-24T23:56:52Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-135253"}
+{"cve_id": "CVE-2026-135243", "ts": "2026-11-24T23:56:52Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-135243"}
+{"cve_id": "CVE-2026-30502", "ts": "2026-11-25T00:06:10Z", "type": "new_poc", "url": "https://github.com/dharmstm/CVE-2026-30502-OpenKM-6.3.12-Reflected-XSS"}
