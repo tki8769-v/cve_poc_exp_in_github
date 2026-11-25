@@ -1993,6 +1993,8 @@
 
 - [https://github.com/numanturle/CVE-2021-43789](https://github.com/numanturle/CVE-2021-43789) : ![starts](https://img.shields.io/github/stars/numanturle/CVE-2021-43789.svg) ![forks](https://img.shields.io/github/forks/numanturle/CVE-2021-43789.svg)
 
+- [https://github.com/K3ysTr0K3R/CVE-2021-43798-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-43798-EXPLOIT) : ![starts](https://img.shields.io/github/stars/K3ysTr0K3R/CVE-2021-43798-EXPLOIT.svg) ![forks](https://img.shields.io/github/forks/K3ysTr0K3R/CVE-2021-43798-EXPLOIT.svg)
+
 ## CVE-2021-43778
  Barcode is a GLPI plugin for printing barcodes and QR codes. GLPI instances version 2.x prior to version 2.6.1 with the barcode plugin installed are vulnerable to a path traversal vulnerability. This issue was patched in version 2.6.1. As a workaround, delete the `front/send.php` file.
 

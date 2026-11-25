@@ -11680,6 +11680,8 @@ Cloud NGFW, Panorama appliances, and Prisma Access are not impacted by this vuln
 
 - [https://github.com/Onosetalease/CVE-2024-3400-Vulnerability-Analysis](https://github.com/Onosetalease/CVE-2024-3400-Vulnerability-Analysis) : ![starts](https://img.shields.io/github/stars/Onosetalease/CVE-2024-3400-Vulnerability-Analysis.svg) ![forks](https://img.shields.io/github/forks/Onosetalease/CVE-2024-3400-Vulnerability-Analysis.svg)
 
+- [https://github.com/khaidoan04/CVE-2024-3400-Wazuh-ML-Detection](https://github.com/khaidoan04/CVE-2024-3400-Wazuh-ML-Detection) : ![starts](https://img.shields.io/github/stars/khaidoan04/CVE-2024-3400-Wazuh-ML-Detection.svg) ![forks](https://img.shields.io/github/forks/khaidoan04/CVE-2024-3400-Wazuh-ML-Detection.svg)
+
 ## CVE-2024-3367
  Argument injection in websphere_mq agent plugin in Checkmk 2.0.0, 2.1.0, 2.2.0p26 and 2.3.0b5 allows local attacker to inject one argument to runmqsc
 
