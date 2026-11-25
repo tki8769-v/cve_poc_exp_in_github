@@ -13274,3 +13274,10 @@
 {"cve_id": "CVE-2022-0847", "ts": "2026-11-25T10:06:24Z", "type": "new_poc", "url": "https://github.com/mlucianoeze/linux-backport-CVE-2022-0847"}
 {"cve_id": "CVE-2022-0847", "ts": "2026-11-25T10:06:24Z", "type": "new_poc", "url": "https://github.com/honeyvig/CVE-2022-0847-DirtyPipe-Exploit"}
 {"cve_id": "CVE-2026-30081", "ts": "2026-11-25T10:07:32Z", "type": "new_poc", "url": "https://github.com/rakeshelamaran98/CVE-2026-30081"}
+{"cve_id": "CVE-2026-131924", "ts": "2026-11-25T10:15:44Z", "type": "new_poc", "url": "https://github.com/kristupasp/CVE-2026-131924"}
+{"cve_id": "CVE-2026-133113", "ts": "2026-11-25T10:16:09Z", "type": "new_poc", "url": "https://github.com/z3r0s6/gogs-protected-branch-bypass-CVE-2026-133113"}
+{"cve_id": "CVE-2026-114938", "ts": "2026-11-25T10:16:10Z", "type": "new_poc", "url": "https://github.com/jburgess-r7/java4shell-elasticsearch-poc"}
+{"cve_id": "CVE-2026-123210", "ts": "2026-11-25T10:16:33Z", "type": "new_poc", "url": "https://github.com/jasonbernier/CVE-2026-123210"}
+{"cve_id": "CVE-2024-36991", "ts": "2026-11-25T10:21:20Z", "type": "new_poc", "url": "https://github.com/wintxx/CVE-2024-36991-Splunk"}
+{"cve_id": "CVE-2026-100204", "ts": "2026-11-25T10:22:18Z", "type": "new_poc", "url": "https://github.com/OntologicallyGood/property-damage"}
+{"cve_id": "CVE-2026-25262", "ts": "2026-11-25T10:25:23Z", "type": "new_poc", "url": "https://github.com/shuumaku/programmers"}
