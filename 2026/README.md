@@ -1985,6 +1985,10 @@ This vulnerability may allow remote attackers to cause a denial-of-service (D
 
 - [https://github.com/foxcornlab/faspex-scanner](https://github.com/foxcornlab/faspex-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/faspex-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/faspex-scanner.svg)
 
+## CVE-2026-123214
+
+- [https://github.com/b3tar00t/joomsday](https://github.com/b3tar00t/joomsday) : ![starts](https://img.shields.io/github/stars/b3tar00t/joomsday.svg) ![forks](https://img.shields.io/github/forks/b3tar00t/joomsday.svg)
+
 ## CVE-2026-123210
 
 - [https://github.com/jasonbernier/CVE-2026-123210](https://github.com/jasonbernier/CVE-2026-123210) : ![starts](https://img.shields.io/github/stars/jasonbernier/CVE-2026-123210.svg) ![forks](https://img.shields.io/github/forks/jasonbernier/CVE-2026-123210.svg)
@@ -2209,10 +2213,12 @@ Impact: An attacker could leverage this vulnerability to crash t
 - [https://github.com/Mor-Golan/CVE-2026-122675](https://github.com/Mor-Golan/CVE-2026-122675) : ![starts](https://img.shields.io/github/stars/Mor-Golan/CVE-2026-122675.svg) ![forks](https://img.shields.io/github/forks/Mor-Golan/CVE-2026-122675.svg)
 
 ## CVE-2026-122247
+> Budibase is an open-source low-code platform. Prior to 3.50.0, the public POST /api/global/users/init endpoint on a self-hosted single-tenant deployment accepts an attacker-controlled tenantId and evaluates checkAnyUserExists() in the selected tenant database instead of the legitimate default tenant. An unauthenticated attacker can select an unused tenant namespace to bypass the one-time initialization guard, causing packages/worker/src/api/controllers/global/users.ts to create a tenant-specific
 
 - [https://github.com/googlesky/CVE-2026-122247](https://github.com/googlesky/CVE-2026-122247) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-122247.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-122247.svg)
 
 ## CVE-2026-122244
+> Budibase is an open-source low-code platform. Prior to 3.50.0, a BASIC application user, or an unauthenticated visitor to a public write form, can store markup in a shared external datasource that a builder or administrator later evaluates in any Handlebars binding Preview that surfaces the value, including the Data-section Formula column editor or any binding drawer. jsonFormatter.format() in packages/frontend-core/src/utils/jsonFormatter.ts leaves raw strings and object keys unescaped, while p
 
 - [https://github.com/googlesky/CVE-2026-122244](https://github.com/googlesky/CVE-2026-122244) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-122244.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-122244.svg)
 
@@ -7970,6 +7976,8 @@ The Unauthenticated Stored XSS vulnerability in the WordPress core can be reprod
 
 - [https://github.com/piecar21/CVE-2026-93399](https://github.com/piecar21/CVE-2026-93399) : ![starts](https://img.shields.io/github/stars/piecar21/CVE-2026-93399.svg) ![forks](https://img.shields.io/github/forks/piecar21/CVE-2026-93399.svg)
 
+- [https://github.com/josemour88/CVE-2026-93399](https://github.com/josemour88/CVE-2026-93399) : ![starts](https://img.shields.io/github/stars/josemour88/CVE-2026-93399.svg) ![forks](https://img.shields.io/github/forks/josemour88/CVE-2026-93399.svg)
+
 ## CVE-2026-93355
 > LiteLLM contains a weak authentication vulnerability that allows an attacker holding a valid JWT from the configured identity provider to authenticate as any existing user by exploiting an email-based fallback lookup in the JWT authentication flow without verifying the email_verified claim. Attackers can present a token with an unverified email address matching a victim&#x27;s account to inherit the victim&#x27;s role, including proxy_admin privileges, and permanently overwrite the victim&#x27;s stored identit
 
@@ -10397,10 +10405,12 @@ CVE-2025-32907 addressed memory amplification when a client repeated the same ra
 - [https://github.com/googlesky/CVE-2026-77359](https://github.com/googlesky/CVE-2026-77359) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77359.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77359.svg)
 
 ## CVE-2026-77332
+> memtomem-stm is a short-term memory proxy gateway with proactive memory surfacing for AI agents. From 0.1.0 until 0.1.34, untrusted long-term and working-memory fields can introduce Markdown or HTML-compatible structure into the surfaced-memory envelope because those fields are not serialized as inert data. A crafted memory can create misleading structural boundaries or visually conceal surfaced content, affecting how a consuming agent interprets the memory context. Ordinary natural-language per
 
 - [https://github.com/googlesky/CVE-2026-77332](https://github.com/googlesky/CVE-2026-77332) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77332.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77332.svg)
 
 ## CVE-2026-77331
+> memtomem-stm is a short-term memory proxy gateway with proactive memory surfacing for AI agents. From 0.1.2 until 0.1.34, concurrent surfacing RPC failures can start more than one reconnect for the same dirty session because concurrent LTM recovery is not uniquely owned by a session generation. Cancellation during a post-reconnect retry can also leave the replacement transport reusable after an interrupted protocol exchange, causing session-state integrity loss or local service degradation. The 
 
 - [https://github.com/googlesky/CVE-2026-77331](https://github.com/googlesky/CVE-2026-77331) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77331.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77331.svg)
 

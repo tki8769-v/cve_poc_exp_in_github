@@ -13281,3 +13281,6 @@
 {"cve_id": "CVE-2024-36991", "ts": "2026-11-25T10:21:20Z", "type": "new_poc", "url": "https://github.com/wintxx/CVE-2024-36991-Splunk"}
 {"cve_id": "CVE-2026-100204", "ts": "2026-11-25T10:22:18Z", "type": "new_poc", "url": "https://github.com/OntologicallyGood/property-damage"}
 {"cve_id": "CVE-2026-25262", "ts": "2026-11-25T10:25:23Z", "type": "new_poc", "url": "https://github.com/shuumaku/programmers"}
+{"cve_id": "CVE-2026-123214", "ts": "2026-11-25T10:35:32Z", "type": "new_poc", "url": "https://github.com/b3tar00t/joomsday"}
+{"cve_id": "CVE-2021-40444", "ts": "2026-11-25T10:36:15Z", "type": "new_poc", "url": "https://github.com/mzn41/CVE-2021-40444-POC"}
+{"cve_id": "CVE-2026-93399", "ts": "2026-11-25T10:44:41Z", "type": "new_poc", "url": "https://github.com/josemour88/CVE-2026-93399"}

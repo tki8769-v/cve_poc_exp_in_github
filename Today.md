@@ -1,4 +1,8 @@
 # Update 2026-11-25
+## CVE-2021-40444
+
+- [https://github.com/mzn41/CVE-2021-40444-POC](https://github.com/mzn41/CVE-2021-40444-POC) : ![starts](https://img.shields.io/github/stars/mzn41/CVE-2021-40444-POC.svg) ![forks](https://img.shields.io/github/forks/mzn41/CVE-2021-40444-POC.svg)
+
 ## CVE-2022-0847
 
 - [https://github.com/honeyvig/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/honeyvig/CVE-2022-0847-DirtyPipe-Exploit) : ![starts](https://img.shields.io/github/stars/honeyvig/CVE-2022-0847-DirtyPipe-Exploit.svg) ![forks](https://img.shields.io/github/forks/honeyvig/CVE-2022-0847-DirtyPipe-Exploit.svg)
@@ -39,6 +43,10 @@ Impact: An attacker could leverage this vulnerability to crash t
 ## CVE-2026-123210
 
 - [https://github.com/jasonbernier/CVE-2026-123210](https://github.com/jasonbernier/CVE-2026-123210) : ![starts](https://img.shields.io/github/stars/jasonbernier/CVE-2026-123210.svg) ![forks](https://img.shields.io/github/forks/jasonbernier/CVE-2026-123210.svg)
+
+## CVE-2026-123214
+
+- [https://github.com/b3tar00t/joomsday](https://github.com/b3tar00t/joomsday) : ![starts](https://img.shields.io/github/stars/b3tar00t/joomsday.svg) ![forks](https://img.shields.io/github/forks/b3tar00t/joomsday.svg)
 
 ## CVE-2026-124851
 
@@ -146,6 +154,11 @@ Impact: An attacker could leverage this vulnerability to crash t
 ## CVE-2026-92018
 
 - [https://github.com/0x4lter/firefox-sandbox-escape-cve-2026-92018](https://github.com/0x4lter/firefox-sandbox-escape-cve-2026-92018) : ![starts](https://img.shields.io/github/stars/0x4lter/firefox-sandbox-escape-cve-2026-92018.svg) ![forks](https://img.shields.io/github/forks/0x4lter/firefox-sandbox-escape-cve-2026-92018.svg)
+
+## CVE-2026-93399
+> The Bookly plugin for WordPress is vulnerable to Insecure Direct Object Reference in versions up to, and including, 28.2 via the &#x27;bookly_get_form_id&#x27;, &#x27;bookly_render_complete&#x27;, &#x27;bookly_add_to_calendar&#x27; and &#x27;bookly_rollback_order&#x27; AJAX actions. This is due to the &#x27;bookly_get_form_id&#x27; handler blindly storing the attacker-controlled &#x27;order_id&#x27; from the submitted form_data into a new booking session, which the &#x27;bookly_render_complete&#x27; handler then trusts to look up and return the corresponding Order
+
+- [https://github.com/josemour88/CVE-2026-93399](https://github.com/josemour88/CVE-2026-93399) : ![starts](https://img.shields.io/github/stars/josemour88/CVE-2026-93399.svg) ![forks](https://img.shields.io/github/forks/josemour88/CVE-2026-93399.svg)
 
 ## CVE-2026-98260
 > In the Linux kernel, the following vulnerability has been resolved:
