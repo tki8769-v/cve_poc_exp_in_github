@@ -14,6 +14,10 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-137077
+
+- [https://github.com/googlesky/CVE-2026-137077](https://github.com/googlesky/CVE-2026-137077) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-137077.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-137077.svg)
+
 ## CVE-2026-136412
 
 - [https://github.com/googlesky/CVE-2026-136412](https://github.com/googlesky/CVE-2026-136412) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-136412.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-136412.svg)
@@ -57,6 +61,10 @@
 ## CVE-2026-135817
 
 - [https://github.com/googlesky/CVE-2026-135817](https://github.com/googlesky/CVE-2026-135817) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135817.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135817.svg)
+
+## CVE-2026-135746
+
+- [https://github.com/googlesky/CVE-2026-135746](https://github.com/googlesky/CVE-2026-135746) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135746.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135746.svg)
 
 ## CVE-2026-135745
 
@@ -254,6 +262,8 @@
 
 - [https://github.com/cveForge/CVE-2026-135691](https://github.com/cveForge/CVE-2026-135691) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-135691.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-135691.svg)
 
+- [https://github.com/googlesky/CVE-2026-135691](https://github.com/googlesky/CVE-2026-135691) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135691.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135691.svg)
+
 ## CVE-2026-135689
 
 - [https://github.com/cveForge/CVE-2026-135689](https://github.com/cveForge/CVE-2026-135689) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-135689.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-135689.svg)
@@ -270,6 +280,22 @@
 
 - [https://github.com/googlesky/CVE-2026-135472](https://github.com/googlesky/CVE-2026-135472) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135472.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135472.svg)
 
+## CVE-2026-135445
+
+- [https://github.com/googlesky/CVE-2026-135445](https://github.com/googlesky/CVE-2026-135445) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135445.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135445.svg)
+
+## CVE-2026-135444
+
+- [https://github.com/googlesky/CVE-2026-135444](https://github.com/googlesky/CVE-2026-135444) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135444.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135444.svg)
+
+## CVE-2026-135441
+
+- [https://github.com/googlesky/CVE-2026-135441](https://github.com/googlesky/CVE-2026-135441) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135441.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135441.svg)
+
+## CVE-2026-135440
+
+- [https://github.com/googlesky/CVE-2026-135440](https://github.com/googlesky/CVE-2026-135440) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135440.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135440.svg)
+
 ## CVE-2026-135436
 
 - [https://github.com/cveForge/CVE-2026-135436](https://github.com/cveForge/CVE-2026-135436) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-135436.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-135436.svg)
@@ -278,9 +304,27 @@
 
 - [https://github.com/cveForge/CVE-2026-135300](https://github.com/cveForge/CVE-2026-135300) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-135300.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-135300.svg)
 
+- [https://github.com/googlesky/CVE-2026-135300](https://github.com/googlesky/CVE-2026-135300) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135300.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135300.svg)
+
 ## CVE-2026-135298
 
 - [https://github.com/cveForge/CVE-2026-135298](https://github.com/cveForge/CVE-2026-135298) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-135298.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-135298.svg)
+
+## CVE-2026-135295
+
+- [https://github.com/googlesky/CVE-2026-135295](https://github.com/googlesky/CVE-2026-135295) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135295.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135295.svg)
+
+## CVE-2026-135294
+
+- [https://github.com/googlesky/CVE-2026-135294](https://github.com/googlesky/CVE-2026-135294) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135294.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135294.svg)
+
+## CVE-2026-135290
+
+- [https://github.com/googlesky/CVE-2026-135290](https://github.com/googlesky/CVE-2026-135290) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135290.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135290.svg)
+
+## CVE-2026-135288
+
+- [https://github.com/googlesky/CVE-2026-135288](https://github.com/googlesky/CVE-2026-135288) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135288.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135288.svg)
 
 ## CVE-2026-135260
 
@@ -370,6 +414,14 @@
 
 - [https://github.com/googlesky/CVE-2026-135231](https://github.com/googlesky/CVE-2026-135231) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135231.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135231.svg)
 
+## CVE-2026-135213
+
+- [https://github.com/googlesky/CVE-2026-135213](https://github.com/googlesky/CVE-2026-135213) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135213.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135213.svg)
+
+## CVE-2026-135212
+
+- [https://github.com/googlesky/CVE-2026-135212](https://github.com/googlesky/CVE-2026-135212) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135212.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135212.svg)
+
 ## CVE-2026-135211
 
 - [https://github.com/cveForge/CVE-2026-135211](https://github.com/cveForge/CVE-2026-135211) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-135211.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-135211.svg)
@@ -381,6 +433,8 @@
 ## CVE-2026-135208
 
 - [https://github.com/cveForge/CVE-2026-135208](https://github.com/cveForge/CVE-2026-135208) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-135208.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-135208.svg)
+
+- [https://github.com/googlesky/CVE-2026-135208](https://github.com/googlesky/CVE-2026-135208) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135208.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135208.svg)
 
 ## CVE-2026-135207
 
@@ -412,13 +466,35 @@
 
 - [https://github.com/googlesky/CVE-2026-135166](https://github.com/googlesky/CVE-2026-135166) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135166.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135166.svg)
 
+## CVE-2026-135165
+
+- [https://github.com/googlesky/CVE-2026-135165](https://github.com/googlesky/CVE-2026-135165) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135165.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135165.svg)
+
+## CVE-2026-135164
+
+- [https://github.com/googlesky/CVE-2026-135164](https://github.com/googlesky/CVE-2026-135164) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135164.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135164.svg)
+
+## CVE-2026-135163
+
+- [https://github.com/googlesky/CVE-2026-135163](https://github.com/googlesky/CVE-2026-135163) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135163.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135163.svg)
+
+## CVE-2026-135162
+
+- [https://github.com/googlesky/CVE-2026-135162](https://github.com/googlesky/CVE-2026-135162) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135162.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135162.svg)
+
 ## CVE-2026-135160
 
 - [https://github.com/googlesky/CVE-2026-135160](https://github.com/googlesky/CVE-2026-135160) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135160.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135160.svg)
 
+## CVE-2026-135158
+
+- [https://github.com/googlesky/CVE-2026-135158](https://github.com/googlesky/CVE-2026-135158) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135158.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135158.svg)
+
 ## CVE-2026-135157
 
 - [https://github.com/cveForge/CVE-2026-135157](https://github.com/cveForge/CVE-2026-135157) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-135157.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-135157.svg)
+
+- [https://github.com/googlesky/CVE-2026-135157](https://github.com/googlesky/CVE-2026-135157) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135157.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135157.svg)
 
 ## CVE-2026-135155
 
@@ -427,6 +503,18 @@
 ## CVE-2026-135154
 
 - [https://github.com/googlesky/CVE-2026-135154](https://github.com/googlesky/CVE-2026-135154) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135154.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135154.svg)
+
+## CVE-2026-135150
+
+- [https://github.com/abraxas/cve-2026-135150-lab](https://github.com/abraxas/cve-2026-135150-lab) : ![starts](https://img.shields.io/github/stars/abraxas/cve-2026-135150-lab.svg) ![forks](https://img.shields.io/github/forks/abraxas/cve-2026-135150-lab.svg)
+
+## CVE-2026-135090
+
+- [https://github.com/googlesky/CVE-2026-135090](https://github.com/googlesky/CVE-2026-135090) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135090.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135090.svg)
+
+## CVE-2026-135089
+
+- [https://github.com/googlesky/CVE-2026-135089](https://github.com/googlesky/CVE-2026-135089) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-135089.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-135089.svg)
 
 ## CVE-2026-135055
 
@@ -692,6 +780,10 @@
 
 - [https://github.com/cveForge/CVE-2026-134287](https://github.com/cveForge/CVE-2026-134287) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134287.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134287.svg)
 
+## CVE-2026-134262
+
+- [https://github.com/ShoIsMyName/CVE-2026-134262](https://github.com/ShoIsMyName/CVE-2026-134262) : ![starts](https://img.shields.io/github/stars/ShoIsMyName/CVE-2026-134262.svg) ![forks](https://img.shields.io/github/forks/ShoIsMyName/CVE-2026-134262.svg)
+
 ## CVE-2026-134250
 
 - [https://github.com/cveForge/CVE-2026-134250](https://github.com/cveForge/CVE-2026-134250) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134250.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134250.svg)
@@ -699,6 +791,18 @@
 ## CVE-2026-134246
 
 - [https://github.com/cveForge/CVE-2026-134246](https://github.com/cveForge/CVE-2026-134246) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134246.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134246.svg)
+
+## CVE-2026-134023
+
+- [https://github.com/googlesky/CVE-2026-134023](https://github.com/googlesky/CVE-2026-134023) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134023.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134023.svg)
+
+## CVE-2026-134022
+
+- [https://github.com/googlesky/CVE-2026-134022](https://github.com/googlesky/CVE-2026-134022) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134022.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134022.svg)
+
+## CVE-2026-134021
+
+- [https://github.com/googlesky/CVE-2026-134021](https://github.com/googlesky/CVE-2026-134021) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134021.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134021.svg)
 
 ## CVE-2026-133993
 
@@ -738,6 +842,10 @@ Affected connections include:
 - SMTP STARTTLS conn
 
 - [https://github.com/cveForge/CVE-2026-133648](https://github.com/cveForge/CVE-2026-133648) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133648.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133648.svg)
+
+## CVE-2026-133632
+
+- [https://github.com/googlesky/CVE-2026-133632](https://github.com/googlesky/CVE-2026-133632) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-133632.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-133632.svg)
 
 ## CVE-2026-133626
 > FlowIntel contains a resource exhaustion vulnerability in its file-to-note conversion feature. When a user converts an attached CSV or JSON file into a case note, the application renders the data as a Markdown table by padding every row to the maximum column count. A crafted file with a small number of filled cells but a very large number of columns (or keys) causes the application to allocate a quadratic number of padded table cells, potentially exhausting a worker process in memory or CPU.
@@ -779,6 +887,10 @@ Th
 ## CVE-2026-133469
 
 - [https://github.com/googlesky/CVE-2026-133469](https://github.com/googlesky/CVE-2026-133469) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-133469.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-133469.svg)
+
+## CVE-2026-133455
+
+- [https://github.com/googlesky/CVE-2026-133455](https://github.com/googlesky/CVE-2026-133455) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-133455.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-133455.svg)
 
 ## CVE-2026-133430
 > A flaw was found in Keycloak. This vulnerability allows an authenticated remote attacker to cause a denial of service by terminating active sessions of arbitrary users. When processing Security Assertion Markup Language (SAML) documents that lack a root signature, Keycloak accepts the request as long as any assertion within the document is signed, without verifying its context or placement. An attacker holding a validly signed assertion can embed it into an unsigned logout request for another us
@@ -959,16 +1071,23 @@ Users are recommended to switch to TLS 1.2 and PLDS-PSK or upgrade to version 11
 - [https://github.com/cveForge/CVE-2026-132658](https://github.com/cveForge/CVE-2026-132658) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-132658.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-132658.svg)
 
 ## CVE-2026-132277
+> Inscriptis is a Python library for converting HTML to text. From 2.0.0 until 2.7.6, when the parent is block-level, table_end_handler() in model/tag/table_tag.py writes each sibling table through HtmlElement.write_verbatim_text() in model/html_element.py; Canvas.open_block() leaves the parent padding_inline prefix on the stack, Canvas.close_block() does not remove it, and only Canvas.close_tag() calls prefix.remove_last_prefix(). Each following sibling table therefore carries forward accumulated
 
 - [https://github.com/googlesky/CVE-2026-132277](https://github.com/googlesky/CVE-2026-132277) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-132277.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-132277.svg)
 
 ## CVE-2026-132276
+> wcmatch is a Python library for wildcard file-name matching. Prior to 11.2, under the default flags, matching a non-matching attacker-controlled name against an application-supplied pattern containing several star wildcards separated by literals makes the lazy .? and [^/]? segments, including _STAR and _PATH_STAR emitted by _handle_star() in wcmatch/_wcparse.py, backtrack across possible splits, so a single comparison can consume prolonged CPU time. The pattern remains a developer-controlled con
 
 - [https://github.com/googlesky/CVE-2026-132276](https://github.com/googlesky/CVE-2026-132276) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-132276.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-132276.svg)
 
 ## CVE-2026-132275
+> svglib reads SVG files and converts them to other formats. Prior to 2.3.1, the svg2rlg() renderer recursively expands nested SVG &lt;use&gt; references by deep-copying each referenced subtree; SvgRenderer.renderUse() in src/svglib/svglib.py calls xlink_href_target(), which rejects direct cycles but permits acyclic reference graphs with repeated fan-out. A small attacker-controlled SVG can therefore trigger exponentially increasing node expansion, consuming excessive CPU and memory in any application t
 
 - [https://github.com/googlesky/CVE-2026-132275](https://github.com/googlesky/CVE-2026-132275) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-132275.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-132275.svg)
+
+## CVE-2026-132270
+
+- [https://github.com/googlesky/CVE-2026-132270](https://github.com/googlesky/CVE-2026-132270) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-132270.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-132270.svg)
 
 ## CVE-2026-132252
 > A vulnerability was found in October CMS up to 4.4.6. This affects the function validateExternalImageHost of the file modules/system/classes/resizeimages/ValidatesExternalImages.php of the component Image Resizer. Performing a manipulation of the argument url results in server-side request forgery. The attack may be initiated remotely. The complexity of an attack is rather high. The exploitability is reported as difficult. The exploit has been made public and could be used. Upgrading to version 
@@ -982,6 +1101,12 @@ Users are recommended to switch to TLS 1.2 and PLDS-PSK or upgrade to version 11
 - [https://github.com/abraxas/drupal-install-takeover](https://github.com/abraxas/drupal-install-takeover) : ![starts](https://img.shields.io/github/stars/abraxas/drupal-install-takeover.svg) ![forks](https://img.shields.io/github/forks/abraxas/drupal-install-takeover.svg)
 
 - [https://github.com/foxcornlab/drupal-installer-scanner](https://github.com/foxcornlab/drupal-installer-scanner) : ![starts](https://img.shields.io/github/stars/foxcornlab/drupal-installer-scanner.svg) ![forks](https://img.shields.io/github/forks/foxcornlab/drupal-installer-scanner.svg)
+
+- [https://github.com/lxdwnpiper/CVE-2026-132165-Drupal](https://github.com/lxdwnpiper/CVE-2026-132165-Drupal) : ![starts](https://img.shields.io/github/stars/lxdwnpiper/CVE-2026-132165-Drupal.svg) ![forks](https://img.shields.io/github/forks/lxdwnpiper/CVE-2026-132165-Drupal.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-132165](https://github.com/ashrafzaryouh/CVE-2026-132165) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-132165.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-132165.svg)
+
+- [https://github.com/malloryai/cve-2026-132165-drupal-installer-check](https://github.com/malloryai/cve-2026-132165-drupal-installer-check) : ![starts](https://img.shields.io/github/stars/malloryai/cve-2026-132165-drupal-installer-check.svg) ![forks](https://img.shields.io/github/forks/malloryai/cve-2026-132165-drupal-installer-check.svg)
 
 ## CVE-2026-132147
 
@@ -1081,6 +1206,10 @@ Users are recommended to u
 > Info-ZIP Zip 3.0 (and 3.1 beta through 3.1c) allows OS command injection by an attacker who controls the command line. The victim must use the -T option followed by a filename containing shell metacharacters, on a platform (such as Linux) where a suitable shell is run. This occurs because the system C library function is used. NOTE: there is no known common scenario in which an untrusted filename reaches a zip -T call.
 
 - [https://github.com/googlesky/CVE-2026-130335](https://github.com/googlesky/CVE-2026-130335) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130335.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130335.svg)
+
+## CVE-2026-130178
+
+- [https://github.com/googlesky/CVE-2026-130178](https://github.com/googlesky/CVE-2026-130178) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130178.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130178.svg)
 
 ## CVE-2026-130176
 > aMQTT is an open source MQTT broker and client. From 0.11.0 until 0.12.1, the QoS 2 transaction handler in amqtt/mqtt/protocol/handler.py, _handle_qos2_message_flow(), can retain transaction state and packet identifiers when a client disconnects before the handshake completes, unlike QoS 1 flows that expire after the default five-second timeout. A remote client can repeatedly begin QoS 2 flows and disconnect without maintaining long-lived connections; anonymous clients can do this with the defau
@@ -1687,6 +1816,10 @@ This vulnerability was patched on 10 October 2026, and no customer action is nee
 
 - [https://github.com/im0xfay/CVE-2026-125855](https://github.com/im0xfay/CVE-2026-125855) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-125855.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-125855.svg)
 
+## CVE-2026-125812
+
+- [https://github.com/joshuavanderpoll/CVE-2026-125812](https://github.com/joshuavanderpoll/CVE-2026-125812) : ![starts](https://img.shields.io/github/stars/joshuavanderpoll/CVE-2026-125812.svg) ![forks](https://img.shields.io/github/forks/joshuavanderpoll/CVE-2026-125812.svg)
+
 ## CVE-2026-125757
 > mailcow: dockerized before 2026-11 contains a server-side template injection vulnerability that allows domain administrators to execute commands in the shared rspamd container by storing a malicious domain-wide footer. Attackers can embed a Jinja macro with an os.execute default value, rendered by the rspamd MOO_FOOTER prefilter, to read or inject mail for every tenant and disable filtering.
 
@@ -1739,6 +1872,8 @@ This vulnerability was patched on 10 October 2026, and no customer action is nee
 - [https://github.com/Luscious8/Upload2shell](https://github.com/Luscious8/Upload2shell) : ![starts](https://img.shields.io/github/stars/Luscious8/Upload2shell.svg) ![forks](https://img.shields.io/github/forks/Luscious8/Upload2shell.svg)
 
 - [https://github.com/vatansingh677-a11y/Upload2shell](https://github.com/vatansingh677-a11y/Upload2shell) : ![starts](https://img.shields.io/github/stars/vatansingh677-a11y/Upload2shell.svg) ![forks](https://img.shields.io/github/forks/vatansingh677-a11y/Upload2shell.svg)
+
+- [https://github.com/DeathShotXD/Upload2Shell](https://github.com/DeathShotXD/Upload2Shell) : ![starts](https://img.shields.io/github/stars/DeathShotXD/Upload2Shell.svg) ![forks](https://img.shields.io/github/forks/DeathShotXD/Upload2Shell.svg)
 
 ## CVE-2026-125394
 > FreeRDP before 3.33.0 contains a heap use-after-free vulnerability in update_gdi_patblt(), update_gdi_polygon_cb() and update_gdi_mem3blt() that retain stale brush cache pointers. A malicious RDP server can resend CACHE_BRUSH to the same slot then send PATBLT, causing clients to read freed heap memory, disclosing data or crashing.
@@ -1860,6 +1995,8 @@ When converting from UCS-4, these encoders may encounter a combining base such a
 ## CVE-2026-123903
 
 - [https://github.com/dinosn/CVE-2026-123903](https://github.com/dinosn/CVE-2026-123903) : ![starts](https://img.shields.io/github/stars/dinosn/CVE-2026-123903.svg) ![forks](https://img.shields.io/github/forks/dinosn/CVE-2026-123903.svg)
+
+- [https://github.com/Hann1bl3L3ct3r/CVE-2026-123903](https://github.com/Hann1bl3L3ct3r/CVE-2026-123903) : ![starts](https://img.shields.io/github/stars/Hann1bl3L3ct3r/CVE-2026-123903.svg) ![forks](https://img.shields.io/github/forks/Hann1bl3L3ct3r/CVE-2026-123903.svg)
 
 ## CVE-2026-123890
 > VMware vCenter contains an authentication bypass vulnerability in the VMware Directory Service.
@@ -2101,6 +2238,8 @@ This vulnerability may allow remote attackers to cause a denial-of-service (D
 - [https://github.com/0xsyr0/CVE-2026-123158-POC](https://github.com/0xsyr0/CVE-2026-123158-POC) : ![starts](https://img.shields.io/github/stars/0xsyr0/CVE-2026-123158-POC.svg) ![forks](https://img.shields.io/github/forks/0xsyr0/CVE-2026-123158-POC.svg)
 
 - [https://github.com/cveForge/CVE-2026-123158](https://github.com/cveForge/CVE-2026-123158) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-123158.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-123158.svg)
+
+- [https://github.com/ghackdeveloper-dotcom/CVE-2026-123158-sshhole](https://github.com/ghackdeveloper-dotcom/CVE-2026-123158-sshhole) : ![starts](https://img.shields.io/github/stars/ghackdeveloper-dotcom/CVE-2026-123158-sshhole.svg) ![forks](https://img.shields.io/github/forks/ghackdeveloper-dotcom/CVE-2026-123158-sshhole.svg)
 
 ## CVE-2026-123039
 > The Gaia OS DynamicCLI daemon runs as root and listens on a world-writable local socket (/tmp/dynamic_socket) without authenticating connecting processes. An authenticated local user can send a command to the socket and have it executed as root.
@@ -2473,6 +2612,11 @@ Note: Software versions which have reached End of Technical Support (EoTS) are n
 ## CVE-2026-119905
 
 - [https://github.com/overgrowncarrot1/CVE-2026-119905-DNS-Log-Poisoning-UNC-Path](https://github.com/overgrowncarrot1/CVE-2026-119905-DNS-Log-Poisoning-UNC-Path) : ![starts](https://img.shields.io/github/stars/overgrowncarrot1/CVE-2026-119905-DNS-Log-Poisoning-UNC-Path.svg) ![forks](https://img.shields.io/github/forks/overgrowncarrot1/CVE-2026-119905-DNS-Log-Poisoning-UNC-Path.svg)
+
+## CVE-2026-119776
+> In all prior released versions of FRRouting, the OSPFv3 (for IPv6) implementation does not check that OSPFv3 packets have a link-local source address and either a link-local destination or one of the protocol multicast destination groups.  This may enable malicious actors to establish OSPFv3 adjacencies from unexpectedly, distant IPv6 hosts. Proper usage of OSPFv3 authentication trailers (RFC 7166, as is best practice) prevents full exploitation of this issue, though may allow a malicious actor 
+
+- [https://github.com/joomo-enterprises/frr-fixed](https://github.com/joomo-enterprises/frr-fixed) : ![starts](https://img.shields.io/github/stars/joomo-enterprises/frr-fixed.svg) ![forks](https://img.shields.io/github/forks/joomo-enterprises/frr-fixed.svg)
 
 ## CVE-2026-119712
 > PipesHub before 0.10.0 contains a server-side request forgery vulnerability in ImageParser._fetch_single_url that allows attackers to make the indexing service fetch internal addresses by embedding image URLs in documents. Attackers can supply Markdown or HTML via uploads, synced mailboxes, or web connectors to reach loopback, private-network, or cloud metadata endpoints, with image responses embedded into indexed content.
@@ -3308,6 +3452,8 @@ Session upload progress, when enabled, can store attacker-controlled data in a s
 - [https://github.com/nu1170r007/java4shell](https://github.com/nu1170r007/java4shell) : ![starts](https://img.shields.io/github/stars/nu1170r007/java4shell.svg) ![forks](https://img.shields.io/github/forks/nu1170r007/java4shell.svg)
 
 - [https://github.com/jburgess-r7/java4shell-elasticsearch-poc](https://github.com/jburgess-r7/java4shell-elasticsearch-poc) : ![starts](https://img.shields.io/github/stars/jburgess-r7/java4shell-elasticsearch-poc.svg) ![forks](https://img.shields.io/github/forks/jburgess-r7/java4shell-elasticsearch-poc.svg)
+
+- [https://github.com/victorlarrubia/Java4Shell](https://github.com/victorlarrubia/Java4Shell) : ![starts](https://img.shields.io/github/stars/victorlarrubia/Java4Shell.svg) ![forks](https://img.shields.io/github/forks/victorlarrubia/Java4Shell.svg)
 
 ## CVE-2026-114820
 
@@ -6161,6 +6307,13 @@ Note that this vulnerability can only be exploited prior to the device being onb
 
 - [https://github.com/Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router](https://github.com/Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router) : ![starts](https://img.shields.io/github/stars/Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router.svg) ![forks](https://img.shields.io/github/forks/Hunt-Benito/the-unguarded-first-day-cve-2026-103409-juniper-session-smart-router.svg)
 
+## CVE-2026-103406
+> An Improper Neutralization of Special Elements used in an OS Command vulnerability in the AutomatedProvisioner in Juniper Networks Session Smart Conductor allows a remote attacker to execute arbitrary commands as root via a specially crafted salt minion ID.
+
+- [https://github.com/Sable-Research/CVE-2026-103406-Analysis](https://github.com/Sable-Research/CVE-2026-103406-Analysis) : ![starts](https://img.shields.io/github/stars/Sable-Research/CVE-2026-103406-Analysis.svg) ![forks](https://img.shields.io/github/forks/Sable-Research/CVE-2026-103406-Analysis.svg)
+
+- [https://github.com/Frostmoon39206/CVE-2026-103406-PoC](https://github.com/Frostmoon39206/CVE-2026-103406-PoC) : ![starts](https://img.shields.io/github/stars/Frostmoon39206/CVE-2026-103406-PoC.svg) ![forks](https://img.shields.io/github/forks/Frostmoon39206/CVE-2026-103406-PoC.svg)
+
 ## CVE-2026-103355
 > Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) vulnerability in Unlimited Elements Unlimited Elements For Elementor (Free Widgets, Addons, Templates) unlimited-elements-for-elementor allows Blind SQL Injection.This issue affects Unlimited Elements For Elementor (Free Widgets, Addons, Templates): from n/a through 2.0.20.
 
@@ -7202,6 +7355,8 @@ but the node is still queued on tsk, which
 - [https://github.com/HHHHanasak1/quest3_98260](https://github.com/HHHHanasak1/quest3_98260) : ![starts](https://img.shields.io/github/stars/HHHHanasak1/quest3_98260.svg) ![forks](https://img.shields.io/github/forks/HHHHanasak1/quest3_98260.svg)
 
 - [https://github.com/minhmc2007/CVE-2026-98260-My-A55](https://github.com/minhmc2007/CVE-2026-98260-My-A55) : ![starts](https://img.shields.io/github/stars/minhmc2007/CVE-2026-98260-My-A55.svg) ![forks](https://img.shields.io/github/forks/minhmc2007/CVE-2026-98260-My-A55.svg)
+
+- [https://github.com/k-o-n-t-o-r/sm-s936b-cve-2026-98260](https://github.com/k-o-n-t-o-r/sm-s936b-cve-2026-98260) : ![starts](https://img.shields.io/github/stars/k-o-n-t-o-r/sm-s936b-cve-2026-98260.svg) ![forks](https://img.shields.io/github/forks/k-o-n-t-o-r/sm-s936b-cve-2026-98260.svg)
 
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -9646,6 +9801,10 @@ This issue affects GiveWP: from n/a through 4.16.7.1.
 
 - [https://github.com/virologi-info/papercut-toolkit](https://github.com/virologi-info/papercut-toolkit) : ![starts](https://img.shields.io/github/stars/virologi-info/papercut-toolkit.svg) ![forks](https://img.shields.io/github/forks/virologi-info/papercut-toolkit.svg)
 
+## CVE-2026-81419
+
+- [https://github.com/googlesky/CVE-2026-81419](https://github.com/googlesky/CVE-2026-81419) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-81419.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-81419.svg)
+
 ## CVE-2026-81294
  Unauthenticated Privilege Escalation in Authorizer = 3.15.1 versions.
 
@@ -10220,6 +10379,8 @@ The camel-hazelcast component applies a default Hazelcast JavaSerializationFilte
 
 - [https://github.com/z3r0s6/gogs-private-fork-disclosure-CVE-2026-77918](https://github.com/z3r0s6/gogs-private-fork-disclosure-CVE-2026-77918) : ![starts](https://img.shields.io/github/stars/z3r0s6/gogs-private-fork-disclosure-CVE-2026-77918.svg) ![forks](https://img.shields.io/github/forks/z3r0s6/gogs-private-fork-disclosure-CVE-2026-77918.svg)
 
+- [https://github.com/googlesky/CVE-2026-77918](https://github.com/googlesky/CVE-2026-77918) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77918.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77918.svg)
+
 ## CVE-2026-77882
 > A deserialization of untrusted data vulnerability was discovered in Lenovo System Update that could allow a local authenticated user to execute code with elevated privileges.
 
@@ -10444,6 +10605,7 @@ CVE-2025-32907 addressed memory amplification when a client repeated the same ra
 - [https://github.com/cveForge/CVE-2026-77312](https://github.com/cveForge/CVE-2026-77312) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-77312.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-77312.svg)
 
 ## CVE-2026-77309
+> AIT GUI provides a framework for building custom websites for real-time telemetry monitoring, commanding, and other mission operations. From 1.0.0 until 2.5.1, POST /tlm/query in ait/gui/__init__.py writes attacker-controlled field data to fields_in.txt, and its no-PCAP error path can abort before deleting that file. The unauthenticated POST /script/run route accepts a scriptPath that resolves outside ScriptRoot, reads the selected file, and executes it as Python. A network-reachable attacker ca
 
 - [https://github.com/googlesky/CVE-2026-77309](https://github.com/googlesky/CVE-2026-77309) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77309.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77309.svg)
 
@@ -16591,6 +16753,8 @@ This issue affects tesla: from 0.8.0 before 1.18.3.
 
 - [https://github.com/inj3ct00r/CVE-2026-48500](https://github.com/inj3ct00r/CVE-2026-48500) : ![starts](https://img.shields.io/github/stars/inj3ct00r/CVE-2026-48500.svg) ![forks](https://img.shields.io/github/forks/inj3ct00r/CVE-2026-48500.svg)
 
+- [https://github.com/inj4ct0r/CVE-2026-48500](https://github.com/inj4ct0r/CVE-2026-48500) : ![starts](https://img.shields.io/github/stars/inj4ct0r/CVE-2026-48500.svg) ![forks](https://img.shields.io/github/forks/inj4ct0r/CVE-2026-48500.svg)
+
 ## CVE-2026-48356
 > Adobe Commerce is affected by an Unrestricted Upload of File with Dangerous Type vulnerability that could result in arbitrary code execution in the context of the current user, potentially gaining elevated access or control over the victim&#x27;s account or session. Exploitation of this issue requires user interaction in that a victim must visit a maliciously crafted URL or interact with a compromised web page. Scope is changed.
 
@@ -20101,6 +20265,10 @@ A local unprivileged user can install arbitrary RPM packages as root, including 
 This could allow a remote attacker to access arbitrary files on the device.
 
 - [https://github.com/selecthch/CVE-2026-41551](https://github.com/selecthch/CVE-2026-41551) : ![starts](https://img.shields.io/github/stars/selecthch/CVE-2026-41551.svg) ![forks](https://img.shields.io/github/forks/selecthch/CVE-2026-41551.svg)
+
+## CVE-2026-41528
+
+- [https://github.com/oliv4s/CVE-2026-41528](https://github.com/oliv4s/CVE-2026-41528) : ![starts](https://img.shields.io/github/stars/oliv4s/CVE-2026-41528.svg) ![forks](https://img.shields.io/github/forks/oliv4s/CVE-2026-41528.svg)
 
 ## CVE-2026-41490
  Dagster is an orchestration platform for the development, production, and observation of data assets. Prior to Dagster Core version 1.13.1 and prior to Dagster libraries version 0.29.1, the DuckDB, Snowflake, BigQuery, and DeltaLake I/O managers constructed SQL WHERE clauses by interpolating dynamic partition key values into queries without escaping. A user with the Add Dynamic Partitions permission could create a partition key that injects arbitrary SQL, which would execute against the target database backend under the I/O manager's credentials. Only deployments that use dynamic partitions are affected. Pipelines using static or time-window partitions are not impacted. This issue has been patched in Dagster Core version 1.13.1 and Dagster libraries version 0.29.1.

@@ -1327,6 +1327,10 @@
 
 - [https://github.com/3mrgnc3/Moodle_3.9_RCE_AutoPwn](https://github.com/3mrgnc3/Moodle_3.9_RCE_AutoPwn) : ![starts](https://img.shields.io/github/stars/3mrgnc3/Moodle_3.9_RCE_AutoPwn.svg) ![forks](https://img.shields.io/github/forks/3mrgnc3/Moodle_3.9_RCE_AutoPwn.svg)
 
+## CVE-2020-20277
+
+- [https://github.com/decoyishere/CVE-2020-20277-PoC](https://github.com/decoyishere/CVE-2020-20277-PoC) : ![starts](https://img.shields.io/github/stars/decoyishere/CVE-2020-20277-PoC.svg) ![forks](https://img.shields.io/github/forks/decoyishere/CVE-2020-20277-PoC.svg)
+
 ## CVE-2020-20093
  The Facebook Messenger app for iOS 227.0 and prior and Android 228.1.0.10.116 and prior user interface does not properly represent URI messages to the user, which results in URI spoofing via specially crafted messages.
 

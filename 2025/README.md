@@ -2077,6 +2077,8 @@ Django would like to thank Seokchan Yoon for reporting this issue.
 
 - [https://github.com/josemour8/CVE-2025-62023](https://github.com/josemour8/CVE-2025-62023) : ![starts](https://img.shields.io/github/stars/josemour8/CVE-2025-62023.svg) ![forks](https://img.shields.io/github/forks/josemour8/CVE-2025-62023.svg)
 
+- [https://github.com/josemour88/CVE-2025-62023](https://github.com/josemour88/CVE-2025-62023) : ![starts](https://img.shields.io/github/stars/josemour88/CVE-2025-62023.svg) ![forks](https://img.shields.io/github/forks/josemour88/CVE-2025-62023.svg)
+
 ## CVE-2025-61984
  ssh in OpenSSH before 10.1 allows control characters in usernames that originate from certain possibly untrusted sources, potentially leading to code execution when a ProxyCommand is used. The untrusted sources are the command line and %-sequence expansion of a configuration file. (A configuration file that provides a complete literal username is not categorized as an untrusted source.)
 
@@ -5085,6 +5087,10 @@ Microsoft is preparing and fully testing a comprehensive update to address this 
  Chall-Manager is a platform-agnostic system able to start Challenges on Demand of a player. When decoding a scenario (i.e. a zip archive), the path of the file to write is not checked, potentially leading to zip slips. Exploitation does not require authentication nor authorization, so anyone can exploit it. It should nonetheless not be exploitable as it is highly recommended to bury Chall-Manager deep within the infrastructure due to its large capabilities, so no users could reach the system. Patch has been implemented by commit 47d188f and shipped in v0.1.4.
 
 - [https://github.com/pandatix/CVE-2025-53632](https://github.com/pandatix/CVE-2025-53632) : ![starts](https://img.shields.io/github/stars/pandatix/CVE-2025-53632.svg) ![forks](https://img.shields.io/github/forks/pandatix/CVE-2025-53632.svg)
+
+## CVE-2025-53607
+
+- [https://github.com/phor3nsic/CVE-2025-53607](https://github.com/phor3nsic/CVE-2025-53607) : ![starts](https://img.shields.io/github/stars/phor3nsic/CVE-2025-53607.svg) ![forks](https://img.shields.io/github/forks/phor3nsic/CVE-2025-53607.svg)
 
 ## CVE-2025-53580
  Incorrect Privilege Assignment vulnerability in quantumcloud Simple Business Directory Pro simple-business-directory-pro allows Privilege Escalation.This issue affects Simple Business Directory Pro: from n/a through  15.6.9.

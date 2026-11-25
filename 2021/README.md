@@ -1736,6 +1736,8 @@
 
 - [https://github.com/one-zyd/Log4j2-CVE-2021-44228](https://github.com/one-zyd/Log4j2-CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/one-zyd/Log4j2-CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/one-zyd/Log4j2-CVE-2021-44228.svg)
 
+- [https://github.com/YujiSoftware/log4shell-poc](https://github.com/YujiSoftware/log4shell-poc) : ![starts](https://img.shields.io/github/stars/YujiSoftware/log4shell-poc.svg) ![forks](https://img.shields.io/github/forks/YujiSoftware/log4shell-poc.svg)
+
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
 
@@ -4772,6 +4774,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
  lfs/backup in IPFire 2.25-core155 does not ensure that /var/ipfire/backup/bin/backup.pl is owned by the root account. It might be owned by an unprivileged account, which could potentially be used to install a Trojan horse backup.pl script that is later executed by root. Similar problems with the ownership/permissions of other files may be present as well.
 
 - [https://github.com/joaoaugustom/IPFire_2.25_RCE_Authenticated](https://github.com/joaoaugustom/IPFire_2.25_RCE_Authenticated) : ![starts](https://img.shields.io/github/stars/joaoaugustom/IPFire_2.25_RCE_Authenticated.svg) ![forks](https://img.shields.io/github/forks/joaoaugustom/IPFire_2.25_RCE_Authenticated.svg)
+
+## CVE-2021-33200
+
+- [https://github.com/d4ytox/CVE-2021-33200](https://github.com/d4ytox/CVE-2021-33200) : ![starts](https://img.shields.io/github/stars/d4ytox/CVE-2021-33200.svg) ![forks](https://img.shields.io/github/forks/d4ytox/CVE-2021-33200.svg)
 
 ## CVE-2021-33104
  Improper access control in the Intel(R) OFU software before version 14.1.28 may allow an authenticated user to potentially enable denial of service via local access.
@@ -8478,6 +8484,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/George-Yanni/DeepRoot](https://github.com/George-Yanni/DeepRoot) : ![starts](https://img.shields.io/github/stars/George-Yanni/DeepRoot.svg) ![forks](https://img.shields.io/github/forks/George-Yanni/DeepRoot.svg)
 
 - [https://github.com/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493](https://github.com/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493) : ![starts](https://img.shields.io/github/stars/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493.svg) ![forks](https://img.shields.io/github/forks/devloperhalaand-ship-it/TryHackMe-OverlayFS---CVE-2021-3493.svg)
+
+- [https://github.com/LaurenceBDavid/CVE-2021-3493](https://github.com/LaurenceBDavid/CVE-2021-3493) : ![starts](https://img.shields.io/github/stars/LaurenceBDavid/CVE-2021-3493.svg) ![forks](https://img.shields.io/github/forks/LaurenceBDavid/CVE-2021-3493.svg)
 
 ## CVE-2021-3492
  Shiftfs, an out-of-tree stacking file system included in Ubuntu Linux kernels, did not properly handle faults occurring during copy_from_user() correctly. These could lead to either a double-free situation or memory not being freed at all. An attacker could use this to cause a denial of service (kernel memory exhaustion) or gain privileges via executing arbitrary code. AKA ZDI-CAN-13562.

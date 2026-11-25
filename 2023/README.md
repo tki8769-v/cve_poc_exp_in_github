@@ -9,6 +9,8 @@
 
 - [https://github.com/Lewis1766/CVE-2023-54391-POC](https://github.com/Lewis1766/CVE-2023-54391-POC) : ![starts](https://img.shields.io/github/stars/Lewis1766/CVE-2023-54391-POC.svg) ![forks](https://img.shields.io/github/forks/Lewis1766/CVE-2023-54391-POC.svg)
 
+- [https://github.com/a0www/CVE-2023-54391-RCE](https://github.com/a0www/CVE-2023-54391-RCE) : ![starts](https://img.shields.io/github/stars/a0www/CVE-2023-54391-RCE.svg) ![forks](https://img.shields.io/github/forks/a0www/CVE-2023-54391-RCE.svg)
+
 ## CVE-2023-52927
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -9470,6 +9472,8 @@ Santesoft Sante FFT Imaging lacks proper validation of user-supplied data when p
 - [https://github.com/federiconbaez/cortex9-libwebp-huffman-table-sizing-model](https://github.com/federiconbaez/cortex9-libwebp-huffman-table-sizing-model) : ![starts](https://img.shields.io/github/stars/federiconbaez/cortex9-libwebp-huffman-table-sizing-model.svg) ![forks](https://img.shields.io/github/forks/federiconbaez/cortex9-libwebp-huffman-table-sizing-model.svg)
 
 - [https://github.com/joekrump/expo-image-libwebp-repro](https://github.com/joekrump/expo-image-libwebp-repro) : ![starts](https://img.shields.io/github/stars/joekrump/expo-image-libwebp-repro.svg) ![forks](https://img.shields.io/github/forks/joekrump/expo-image-libwebp-repro.svg)
+
+- [https://github.com/Bthn-celik/cve-2023-4863-analysis](https://github.com/Bthn-celik/cve-2023-4863-analysis) : ![starts](https://img.shields.io/github/stars/Bthn-celik/cve-2023-4863-analysis.svg) ![forks](https://img.shields.io/github/forks/Bthn-celik/cve-2023-4863-analysis.svg)
 
 ## CVE-2023-4861
  The File Manager Pro WordPress plugin before 1.8.1 allows admin users to upload arbitrary files, even in environments where such a user should not be able to gain full control of the server, such as a multisite installation. This leads to remote code execution.
