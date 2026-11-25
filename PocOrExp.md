@@ -19,6 +19,10 @@
 
 - [https://github.com/googlesky/CVE-2026-137077](https://github.com/googlesky/CVE-2026-137077) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-137077.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-137077.svg)
 
+## CVE-2026-137065
+
+- [https://github.com/googlesky/CVE-2026-137065](https://github.com/googlesky/CVE-2026-137065) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-137065.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-137065.svg)
+
 ## CVE-2026-136412
 
 - [https://github.com/googlesky/CVE-2026-136412](https://github.com/googlesky/CVE-2026-136412) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-136412.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-136412.svg)
@@ -814,6 +818,7 @@
 - [https://github.com/cveForge/CVE-2026-133983](https://github.com/cveForge/CVE-2026-133983) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133983.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133983.svg)
 
 ## CVE-2026-133968
+> monailabel (aka MONAI Label) through 0.8.5 allows directory traversal, with resultant remote code execution, via the image parameter to the PUT /datastore/image endpoint, as exploited in the wild starting in September 2026.
 
 - [https://github.com/LLCForge/CVE-2026-133968](https://github.com/LLCForge/CVE-2026-133968) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-133968.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-133968.svg)
 
@@ -7887,14 +7892,17 @@ The following versions were EOL at the time the CVE was created but are known to
 - [https://github.com/anthonyk2923/CVE-2026-94609](https://github.com/anthonyk2923/CVE-2026-94609) : ![starts](https://img.shields.io/github/stars/anthonyk2923/CVE-2026-94609.svg) ![forks](https://img.shields.io/github/forks/anthonyk2923/CVE-2026-94609.svg)
 
 ## CVE-2026-94597
+> NukeViet CMS is a multi Content Management System. Prior to 4.5.12 and 4.6.02, an attacker who can reach an image-upload flow can upload a valid image with appended PHP short-tag code and a double-extension filename. NukeViet\Files\Upload::save_file() relied on verify_image(), which missed the &lt;? short-open tag, while filename handling preserved embedded dots, validation inspected only the final extension, and an .htaccess rule blocked PHP extensions only at the end of the URI. On Apache mod_php
 
 - [https://github.com/canhieu/CVE-2026-94597-poc](https://github.com/canhieu/CVE-2026-94597-poc) : ![starts](https://img.shields.io/github/stars/canhieu/CVE-2026-94597-poc.svg) ![forks](https://img.shields.io/github/forks/canhieu/CVE-2026-94597-poc.svg)
 
 ## CVE-2026-94567
+> NukeViet CMS is a multi Content Management System. Prior to 4.5.12 and 4.6.02, an attacker with access to an SVG upload flow can hide a script element in an internal DTD entity. NukeViet\Files\Upload::check_svg_tmpfile() loads the document without entity expansion, leaving a DOMEntityReference, and sanitize_svg_dom() inspects only element nodes, while browsers expand the entity when the stored file is served as image/svg+xml. The SVG path also returned before verify_image() and preserved the ori
 
 - [https://github.com/cveForge/CVE-2026-94567](https://github.com/cveForge/CVE-2026-94567) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-94567.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-94567.svg)
 
 ## CVE-2026-94565
+> NukeViet CMS is a multi Content Management System. From the 3.x release line until 4.6.01, an unauthenticated visitor can submit a Contact module message containing an event-handler attribute prefixed by a slash. NukeViet\Core\Request::filterTags() tokenizes attributes using only ASCII spaces, so it sees /onerror and misses the ^on denylist, while the browser treats the slash as a separator and activates onerror. The message is stored and rendered without output encoding in the administration pa
 
 - [https://github.com/cveForge/CVE-2026-94565](https://github.com/cveForge/CVE-2026-94565) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-94565.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-94565.svg)
 
@@ -10614,6 +10622,10 @@ CVE-2025-32907 addressed memory amplification when a client repeated the same ra
  MCP Atlassian is a Model Context Protocol (MCP) server for Atlassian products (Confluence and Jira). Prior to 0.22.0, confluence_upload_attachment accepts an attacker-controlled file_path and does not apply the path restriction added for the earlier download vulnerability. A caller can traverse outside the workspace and upload arbitrary server-readable files to Confluence. The advisory traces the vulnerable input and processing flow through confluence_upload_attachment, file_path, and CVE-2026-27825, which identify the affected entry points, controls, and code paths. This issue is fixed in version 0.22.0.
 
 - [https://github.com/romain-deperne/CVE-2026-77262](https://github.com/romain-deperne/CVE-2026-77262) : ![starts](https://img.shields.io/github/stars/romain-deperne/CVE-2026-77262.svg) ![forks](https://img.shields.io/github/forks/romain-deperne/CVE-2026-77262.svg)
+
+## CVE-2026-77230
+
+- [https://github.com/googlesky/CVE-2026-77230](https://github.com/googlesky/CVE-2026-77230) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77230.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77230.svg)
 
 ## CVE-2026-77179
  On macOS, the virtio-fs host server used by Docker Sandboxes improperly follows symlinks when reopening an unlinked file from a stored path. A malicious guest can replace a parent directory with a symlink, escape the shared workspace, and read or modify arbitrary host files as the VMM user, potentially achieving host code execution.
@@ -39905,6 +39917,7 @@ allow an unauthenticated attacker to read or manipulate device data.
 - [https://github.com/rxerium/CVE-2025-42944](https://github.com/rxerium/CVE-2025-42944) : ![starts](https://img.shields.io/github/stars/rxerium/CVE-2025-42944.svg) ![forks](https://img.shields.io/github/forks/rxerium/CVE-2025-42944.svg)
 
 ## CVE-2025-42884
+> SAP NetWeaver Enterprise Portal allows an unauthenticated attacker to inject JNDI environment properties or pass a URL used during JNDI lookup operations, enabling access to an unintended JNDI provider.�This could further lead to disclosure or modification of information about the server. There is no impact on availability.
 
 - [https://github.com/cveForge/CVE-2025-42884](https://github.com/cveForge/CVE-2025-42884) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2025-42884.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2025-42884.svg)
 

@@ -13341,3 +13341,5 @@
 {"cve_id": "CVE-2025-62023", "ts": "2026-11-25T22:43:01Z", "type": "new_poc", "url": "https://github.com/josemour88/CVE-2025-62023"}
 {"cve_id": "CVE-2026-48500", "ts": "2026-11-25T22:47:18Z", "type": "new_poc", "url": "https://github.com/inj4ct0r/CVE-2026-48500"}
 {"cve_id": "CVE-2023-54391", "ts": "2026-11-25T22:50:08Z", "type": "new_poc", "url": "https://github.com/a0www/CVE-2023-54391-RCE"}
+{"cve_id": "CVE-2026-137065", "ts": "2026-11-25T23:04:58Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-137065"}
+{"cve_id": "CVE-2026-77230", "ts": "2026-11-25T23:05:05Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-77230"}

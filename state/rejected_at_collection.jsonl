@@ -4373,3 +4373,4 @@
 {"cve_id": "CVE-2026-8461", "reason": "prefix_conflict_evidenced", "ts": "2026-11-25T10:20:13Z", "url": "https://github.com/Ping-2o/ios.CVE-2026-84616-84607", "url_ids": ["CVE-2026-84616"]}
 {"cve_id": "CVE-2023-3269", "reason": "prefix_conflict_evidenced", "ts": "2026-11-25T10:22:07Z", "url": "https://github.com/mogwailabs/CVE-2023-32692-CodeIgniter4", "url_ids": ["CVE-2023-32692"]}
 {"cve_id": "CVE-2025-2026", "reason": "prefix_conflict_evidenced", "ts": "2026-11-25T10:22:21Z", "url": "https://github.com/keyuraghao/CVE-2025-20260", "url_ids": ["CVE-2025-20260"]}
+{"cve_id": "CVE-2026-1814", "reason": "prefix_conflict_evidenced", "ts": "2026-11-25T23:13:14Z", "url": "https://github.com/murrez/CVE-2026-18143", "url_ids": ["CVE-2026-18143"]}

@@ -302,6 +302,10 @@ Impact: An attacker could leverage this vulnerability to crash t
 
 - [https://github.com/googlesky/CVE-2026-136412](https://github.com/googlesky/CVE-2026-136412) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-136412.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-136412.svg)
 
+## CVE-2026-137065
+
+- [https://github.com/googlesky/CVE-2026-137065](https://github.com/googlesky/CVE-2026-137065) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-137065.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-137065.svg)
+
 ## CVE-2026-137077
 
 - [https://github.com/googlesky/CVE-2026-137077](https://github.com/googlesky/CVE-2026-137077) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-137077.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-137077.svg)
@@ -353,6 +357,10 @@ Impact: An attacker could leverage this vulnerability to crash t
 > soapbar is a SOAP library for Python — client, server, and WSDL handling. Prior to version 0.13.0, verify_envelope_bsp() derived its trust anchor from the message it was verifying. It read the X.509 certificate out of the caller-untrusted wsse:BinarySecurityToken, validated only that certificate&#x27;s not-before / not-after dates, and then verified the signature against that same certificate. There was no CA-chain validation, no issuer/subject allowlist, and no pinning. A successful verify_envelope_
 
 - [https://github.com/googlesky/CVE-2026-64855](https://github.com/googlesky/CVE-2026-64855) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-64855.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-64855.svg)
+
+## CVE-2026-77230
+
+- [https://github.com/googlesky/CVE-2026-77230](https://github.com/googlesky/CVE-2026-77230) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-77230.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-77230.svg)
 
 ## CVE-2026-77918
 
