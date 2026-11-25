@@ -15,6 +15,10 @@
 
 - [https://github.com/syrex1013/CVE-2026-2031226](https://github.com/syrex1013/CVE-2026-2031226) : ![starts](https://img.shields.io/github/stars/syrex1013/CVE-2026-2031226.svg) ![forks](https://img.shields.io/github/forks/syrex1013/CVE-2026-2031226.svg)
 
+## CVE-2026-137084
+
+- [https://github.com/googlesky/CVE-2026-137084](https://github.com/googlesky/CVE-2026-137084) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-137084.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-137084.svg)
+
 ## CVE-2026-137077
 
 - [https://github.com/googlesky/CVE-2026-137077](https://github.com/googlesky/CVE-2026-137077) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-137077.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-137077.svg)
@@ -829,6 +833,12 @@
 - [https://github.com/googlesky/CVE-2026-133968](https://github.com/googlesky/CVE-2026-133968) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-133968.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-133968.svg)
 
 ## CVE-2026-133949
+> pip prior to v26.2.2 the certifi bundled with pip contains the compromised eMudhra certificates. 
+
+
+
+
+Upgrading to a secure version of pip should be done either by first upgrading Python to a version that rejects the compromised intermediates (CVE-2026-115557) or use hash pinning with a known-secure version of pip. pip is not vulnerable when using a Python version that rejects the compromised certificates. See the references below for more information.
 
 - [https://github.com/cveForge/CVE-2026-133949](https://github.com/cveForge/CVE-2026-133949) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133949.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133949.svg)
 
@@ -837,6 +847,7 @@
 - [https://github.com/googlesky/CVE-2026-133780](https://github.com/googlesky/CVE-2026-133780) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-133780.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-133780.svg)
 
 ## CVE-2026-133680
+> A vulnerability was found in D-Link DCS-935L 1.10.01. This affects the function loginRouter of the file web/cgi-bin/localrecording/setconf.cgi of the component Local Recording CGI. Performing a manipulation of the argument account/password results in os command injection. Remote exploitation of the attack is possible. The exploit has been made public and could be used.
 
 - [https://github.com/cveForge/CVE-2026-133680](https://github.com/cveForge/CVE-2026-133680) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133680.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133680.svg)
 
@@ -1161,6 +1172,10 @@ Users are recommended to u
 > Poppler pdfdetach 24.03.0 through 26.11.0 contains a path traversal vulnerability in utils/pdfdetach.cc that allows attackers to write files outside the output directory by bypassing a string-prefix containment check. Attackers can craft PDFs with embedded file names containing &#x27;..&#x27; sequences or absolute paths, so -saveall or -savefile extraction creates or overwrites files with the invoking user&#x27;s privileges.
 
 - [https://github.com/googlesky/CVE-2026-131842](https://github.com/googlesky/CVE-2026-131842) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-131842.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-131842.svg)
+
+## CVE-2026-131827
+
+- [https://github.com/googlesky/CVE-2026-131827](https://github.com/googlesky/CVE-2026-131827) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-131827.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-131827.svg)
 
 ## CVE-2026-130848
 > Dolibarr ERP CRM through 24.0.3 contains a code injection vulnerability in Website::importWebSite() that allows website editors without PHP permission to execute code by importing templates. Attackers can import a template zip whose javascript.js.php contains PHP code, which the public javascript.js.php endpoint includes, executing code as the web server user.
@@ -1499,6 +1514,7 @@ PHP does not discard the unread part of an HTTP request body at request shutdown
 - [https://github.com/googlesky/CVE-2026-129221](https://github.com/googlesky/CVE-2026-129221) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129221.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129221.svg)
 
 ## CVE-2026-129175
+> U.S Department of the Interior Unstable Slope Management Program allows an unauthenticated user to inject unauthorized SQL commands that allow the attacker to gain root access and complete control over the database. Fixed on or around 2026-10-19.
 
 - [https://github.com/LLCForge/CVE-2026-129175](https://github.com/LLCForge/CVE-2026-129175) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-129175.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-129175.svg)
 

@@ -130,6 +130,10 @@ Impact: An attacker could leverage this vulnerability to crash t
 
 - [https://github.com/googlesky/CVE-2026-130178](https://github.com/googlesky/CVE-2026-130178) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-130178.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-130178.svg)
 
+## CVE-2026-131827
+
+- [https://github.com/googlesky/CVE-2026-131827](https://github.com/googlesky/CVE-2026-131827) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-131827.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-131827.svg)
+
 ## CVE-2026-131924
 
 - [https://github.com/kristupasp/CVE-2026-131924](https://github.com/kristupasp/CVE-2026-131924) : ![starts](https://img.shields.io/github/stars/kristupasp/CVE-2026-131924.svg) ![forks](https://img.shields.io/github/forks/kristupasp/CVE-2026-131924.svg)
@@ -309,6 +313,10 @@ Impact: An attacker could leverage this vulnerability to crash t
 ## CVE-2026-137077
 
 - [https://github.com/googlesky/CVE-2026-137077](https://github.com/googlesky/CVE-2026-137077) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-137077.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-137077.svg)
+
+## CVE-2026-137084
+
+- [https://github.com/googlesky/CVE-2026-137084](https://github.com/googlesky/CVE-2026-137084) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-137084.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-137084.svg)
 
 ## CVE-2026-16663
 
