@@ -1198,6 +1198,8 @@ use after free.
 
 - [https://github.com/CrowTheArchfiend/RTCore64-probe](https://github.com/CrowTheArchfiend/RTCore64-probe) : ![starts](https://img.shields.io/github/stars/CrowTheArchfiend/RTCore64-probe.svg) ![forks](https://img.shields.io/github/forks/CrowTheArchfiend/RTCore64-probe.svg)
 
+- [https://github.com/Fl0sec/RTCore64-CVE-2019-16098](https://github.com/Fl0sec/RTCore64-CVE-2019-16098) : ![starts](https://img.shields.io/github/stars/Fl0sec/RTCore64-CVE-2019-16098.svg) ![forks](https://img.shields.io/github/forks/Fl0sec/RTCore64-CVE-2019-16098.svg)
+
 ## CVE-2019-16097
  core/api/user.go in Harbor 1.7.0 through 1.8.2 allows non-admin users to create admin accounts via the POST /api/users API, when Harbor is setup with DB as authentication backend and allow user to do self-registration. Fixed version: v1.7.6 v1.8.3. v.1.9.0. Workaround without applying the fix: configure Harbor to use non-DB authentication backend such as LDAP.
 

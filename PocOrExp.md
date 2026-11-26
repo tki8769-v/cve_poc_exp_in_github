@@ -5535,6 +5535,8 @@ This issue has been fixed in version 2.5.
 
 - [https://github.com/cveForge/CVE-2026-109618](https://github.com/cveForge/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-109618.svg)
 
+- [https://github.com/ggsec-de/php2shell-lab](https://github.com/ggsec-de/php2shell-lab) : ![starts](https://img.shields.io/github/stars/ggsec-de/php2shell-lab.svg) ![forks](https://img.shields.io/github/forks/ggsec-de/php2shell-lab.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -6816,6 +6818,8 @@ Note that this vulnerability can only be exploited prior to the device being onb
 - [https://github.com/shivrajem/ebs-cve-2026-101767-check](https://github.com/shivrajem/ebs-cve-2026-101767-check) : ![starts](https://img.shields.io/github/stars/shivrajem/ebs-cve-2026-101767-check.svg) ![forks](https://img.shields.io/github/forks/shivrajem/ebs-cve-2026-101767-check.svg)
 
 - [https://github.com/aduli198/CVE-2026-101767](https://github.com/aduli198/CVE-2026-101767) : ![starts](https://img.shields.io/github/stars/aduli198/CVE-2026-101767.svg) ![forks](https://img.shields.io/github/forks/aduli198/CVE-2026-101767.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-101767](https://github.com/ashrafzaryouh/CVE-2026-101767) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-101767.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-101767.svg)
 
 ## CVE-2026-101678
 
@@ -98970,6 +98974,8 @@ use after free.
 
 - [https://github.com/CrowTheArchfiend/RTCore64-probe](https://github.com/CrowTheArchfiend/RTCore64-probe) : ![starts](https://img.shields.io/github/stars/CrowTheArchfiend/RTCore64-probe.svg) ![forks](https://img.shields.io/github/forks/CrowTheArchfiend/RTCore64-probe.svg)
 
+- [https://github.com/Fl0sec/RTCore64-CVE-2019-16098](https://github.com/Fl0sec/RTCore64-CVE-2019-16098) : ![starts](https://img.shields.io/github/stars/Fl0sec/RTCore64-CVE-2019-16098.svg) ![forks](https://img.shields.io/github/forks/Fl0sec/RTCore64-CVE-2019-16098.svg)
+
 ## CVE-2019-16097
  core/api/user.go in Harbor 1.7.0 through 1.8.2 allows non-admin users to create admin accounts via the POST /api/users API, when Harbor is setup with DB as authentication backend and allow user to do self-registration. Fixed version: v1.7.6 v1.8.3. v.1.9.0. Workaround without applying the fix: configure Harbor to use non-DB authentication backend such as LDAP.
 
@@ -105383,6 +105389,8 @@ The security update addresses the vulnerability by correcting how Hyper-V valida
 - [https://github.com/CyberCTF/vulhub-libssh-cve-2018-10933](https://github.com/CyberCTF/vulhub-libssh-cve-2018-10933) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-libssh-cve-2018-10933.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-libssh-cve-2018-10933.svg)
 
 - [https://github.com/AVA-CEO/CVE-2018-10933-Assessment-](https://github.com/AVA-CEO/CVE-2018-10933-Assessment-) : ![starts](https://img.shields.io/github/stars/AVA-CEO/CVE-2018-10933-Assessment-.svg) ![forks](https://img.shields.io/github/forks/AVA-CEO/CVE-2018-10933-Assessment-.svg)
+
+- [https://github.com/nullbyter19/cve-2018-10933](https://github.com/nullbyter19/cve-2018-10933) : ![starts](https://img.shields.io/github/stars/nullbyter19/cve-2018-10933.svg) ![forks](https://img.shields.io/github/forks/nullbyter19/cve-2018-10933.svg)
 
 ## CVE-2018-10920
  Improper input validation bug in DNS resolver component of Knot Resolver before 2.4.1 allows remote attacker to poison cache.
@@ -112856,6 +112864,10 @@ Only traffic directed to the affected system can be used to exploit this vulnera
  Unspecified vulnerability in the Oracle GoldenGate component in Oracle GoldenGate 11.2 and 12.1.2 allows remote attackers to affect confidentiality, integrity, and availability via unknown vectors, a different vulnerability than CVE-2016-0452.
 
 - [https://github.com/rwincey/Oracle-GoldenGate---CVE-2016-0451](https://github.com/rwincey/Oracle-GoldenGate---CVE-2016-0451) : ![starts](https://img.shields.io/github/stars/rwincey/Oracle-GoldenGate---CVE-2016-0451.svg) ![forks](https://img.shields.io/github/forks/rwincey/Oracle-GoldenGate---CVE-2016-0451.svg)
+
+## CVE-2016-0287
+
+- [https://github.com/nullbyter19/cve-2016-0287](https://github.com/nullbyter19/cve-2016-0287) : ![starts](https://img.shields.io/github/stars/nullbyter19/cve-2016-0287.svg) ![forks](https://img.shields.io/github/forks/nullbyter19/cve-2016-0287.svg)
 
 ## CVE-2016-0199
  Microsoft Internet Explorer 9 through 11 allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted web site, aka "Internet Explorer Memory Corruption Vulnerability," a different vulnerability than CVE-2016-0200 and CVE-2016-3211.

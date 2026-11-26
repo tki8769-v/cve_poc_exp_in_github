@@ -13412,3 +13412,13 @@
 {"cve_id": "CVE-2026-111497", "ts": "2026-11-26T09:39:24Z", "type": "new_poc", "url": "https://github.com/OrnisLab/2shell-advisories"}
 {"cve_id": "CVE-2026-114938", "ts": "2026-11-26T09:44:38Z", "type": "new_poc", "url": "https://github.com/MazeResearch/java4shell-check"}
 {"cve_id": "CVE-2026-114938", "ts": "2026-11-26T09:44:41Z", "type": "new_poc", "url": "https://github.com/jburgess-r7/java4shell-teamcity-poc"}
+{"cve_id": "CVE-2026-127926", "ts": "2026-11-26T09:52:26Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-128113", "ts": "2026-11-26T09:52:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-131595", "ts": "2026-11-26T09:53:27Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-131611", "ts": "2026-11-26T09:53:28Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132194", "ts": "2026-11-26T09:53:42Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2016-0287", "ts": "2026-11-26T10:00:23Z", "type": "new_poc", "url": "https://github.com/nullbyter19/cve-2016-0287"}
+{"cve_id": "CVE-2018-10933", "ts": "2026-11-26T10:00:27Z", "type": "new_poc", "url": "https://github.com/nullbyter19/cve-2018-10933"}
+{"cve_id": "CVE-2019-16098", "ts": "2026-11-26T10:00:29Z", "type": "new_poc", "url": "https://github.com/Fl0sec/RTCore64-CVE-2019-16098"}
+{"cve_id": "CVE-2026-109618", "ts": "2026-11-26T10:00:41Z", "type": "new_poc", "url": "https://github.com/ggsec-de/php2shell-lab"}
+{"cve_id": "CVE-2026-101767", "ts": "2026-11-26T10:08:54Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-101767"}

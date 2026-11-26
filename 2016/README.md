@@ -1519,6 +1519,10 @@
 
 - [https://github.com/rwincey/Oracle-GoldenGate---CVE-2016-0451](https://github.com/rwincey/Oracle-GoldenGate---CVE-2016-0451) : ![starts](https://img.shields.io/github/stars/rwincey/Oracle-GoldenGate---CVE-2016-0451.svg) ![forks](https://img.shields.io/github/forks/rwincey/Oracle-GoldenGate---CVE-2016-0451.svg)
 
+## CVE-2016-0287
+
+- [https://github.com/nullbyter19/cve-2016-0287](https://github.com/nullbyter19/cve-2016-0287) : ![starts](https://img.shields.io/github/stars/nullbyter19/cve-2016-0287.svg) ![forks](https://img.shields.io/github/forks/nullbyter19/cve-2016-0287.svg)
+
 ## CVE-2016-0199
  Microsoft Internet Explorer 9 through 11 allows remote attackers to execute arbitrary code or cause a denial of service (memory corruption) via a crafted web site, aka "Internet Explorer Memory Corruption Vulnerability," a different vulnerability than CVE-2016-0200 and CVE-2016-3211.
 

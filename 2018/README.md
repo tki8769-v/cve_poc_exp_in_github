@@ -2064,6 +2064,8 @@
 
 - [https://github.com/AVA-CEO/CVE-2018-10933-Assessment-](https://github.com/AVA-CEO/CVE-2018-10933-Assessment-) : ![starts](https://img.shields.io/github/stars/AVA-CEO/CVE-2018-10933-Assessment-.svg) ![forks](https://img.shields.io/github/forks/AVA-CEO/CVE-2018-10933-Assessment-.svg)
 
+- [https://github.com/nullbyter19/cve-2018-10933](https://github.com/nullbyter19/cve-2018-10933) : ![starts](https://img.shields.io/github/stars/nullbyter19/cve-2018-10933.svg) ![forks](https://img.shields.io/github/forks/nullbyter19/cve-2018-10933.svg)
+
 ## CVE-2018-10920
  Improper input validation bug in DNS resolver component of Knot Resolver before 2.4.1 allows remote attacker to poison cache.
 

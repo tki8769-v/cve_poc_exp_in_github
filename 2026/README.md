@@ -5534,6 +5534,8 @@ This issue has been fixed in version 2.5.
 
 - [https://github.com/cveForge/CVE-2026-109618](https://github.com/cveForge/CVE-2026-109618) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-109618.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-109618.svg)
 
+- [https://github.com/ggsec-de/php2shell-lab](https://github.com/ggsec-de/php2shell-lab) : ![starts](https://img.shields.io/github/stars/ggsec-de/php2shell-lab.svg) ![forks](https://img.shields.io/github/forks/ggsec-de/php2shell-lab.svg)
+
 ## CVE-2026-109566
 > Rapyd Admin from 9.0.0 before 9.20.0 contains a hard-coded credentials vulnerability that allows remote unauthenticated attackers to gain super-admin access through an AuthSeeder-created admin@laravel account with password admin. The account is seeded by the setup installer and silently re-created on every rpd:make run, letting attackers log in as a global super admin bypassing per-record authorization and tenant scoping.
 
@@ -6815,6 +6817,8 @@ Note that this vulnerability can only be exploited prior to the device being onb
 - [https://github.com/shivrajem/ebs-cve-2026-101767-check](https://github.com/shivrajem/ebs-cve-2026-101767-check) : ![starts](https://img.shields.io/github/stars/shivrajem/ebs-cve-2026-101767-check.svg) ![forks](https://img.shields.io/github/forks/shivrajem/ebs-cve-2026-101767-check.svg)
 
 - [https://github.com/aduli198/CVE-2026-101767](https://github.com/aduli198/CVE-2026-101767) : ![starts](https://img.shields.io/github/stars/aduli198/CVE-2026-101767.svg) ![forks](https://img.shields.io/github/forks/aduli198/CVE-2026-101767.svg)
+
+- [https://github.com/ashrafzaryouh/CVE-2026-101767](https://github.com/ashrafzaryouh/CVE-2026-101767) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-101767.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-101767.svg)
 
 ## CVE-2026-101678
 

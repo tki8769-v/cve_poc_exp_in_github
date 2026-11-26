@@ -1,4 +1,16 @@
 # Update 2026-11-26
+## CVE-2016-0287
+
+- [https://github.com/nullbyter19/cve-2016-0287](https://github.com/nullbyter19/cve-2016-0287) : ![starts](https://img.shields.io/github/stars/nullbyter19/cve-2016-0287.svg) ![forks](https://img.shields.io/github/forks/nullbyter19/cve-2016-0287.svg)
+
+## CVE-2018-10933
+
+- [https://github.com/nullbyter19/cve-2018-10933](https://github.com/nullbyter19/cve-2018-10933) : ![starts](https://img.shields.io/github/stars/nullbyter19/cve-2018-10933.svg) ![forks](https://img.shields.io/github/forks/nullbyter19/cve-2018-10933.svg)
+
+## CVE-2019-16098
+
+- [https://github.com/Fl0sec/RTCore64-CVE-2019-16098](https://github.com/Fl0sec/RTCore64-CVE-2019-16098) : ![starts](https://img.shields.io/github/stars/Fl0sec/RTCore64-CVE-2019-16098.svg) ![forks](https://img.shields.io/github/forks/Fl0sec/RTCore64-CVE-2019-16098.svg)
+
 ## CVE-2020-9484
 > When using Apache Tomcat versions 10.0.0-M1 to 10.0.0-M4, 9.0.0.M1 to 9.0.34, 8.5.0 to 8.5.54 and 7.0.0 to 7.0.103 if a) an attacker is able to control the contents and name of a file on the server; and b) the server is configured to use the PersistenceManager with a FileStore; and c) the PersistenceManager is configured with sessionAttributeValueClassNameFilter=&quot;null&quot; (the default unless a SecurityManager is used) or a sufficiently lax filter to allow the attacker provided object to be deserial
 
@@ -7,6 +19,15 @@
 ## CVE-2021-44228
 
 - [https://github.com/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling](https://github.com/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling) : ![starts](https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling.svg) ![forks](https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling.svg)
+
+## CVE-2026-101767
+
+- [https://github.com/ashrafzaryouh/CVE-2026-101767](https://github.com/ashrafzaryouh/CVE-2026-101767) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-101767.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-101767.svg)
+
+## CVE-2026-109618
+> PHP uses longjmp() for out-of-memory (OOM) errors to exit the current context and abort handling of the request. Some contexts may not properly account for this scenario and leave request memory in an uninitialized state before performing an allocation. The subsequent request cleanup procedure may read or branch on this memory. Multiple OOM strategies can consistently trigger this condition and lead to remote code execution (RCE).
+
+- [https://github.com/ggsec-de/php2shell-lab](https://github.com/ggsec-de/php2shell-lab) : ![starts](https://img.shields.io/github/stars/ggsec-de/php2shell-lab.svg) ![forks](https://img.shields.io/github/forks/ggsec-de/php2shell-lab.svg)
 
 ## CVE-2026-111497
 > A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream.
