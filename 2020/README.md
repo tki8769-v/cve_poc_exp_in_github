@@ -3461,6 +3461,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/DanQMoo/CVE-2020-9484-Scanner](https://github.com/DanQMoo/CVE-2020-9484-Scanner) : ![starts](https://img.shields.io/github/stars/DanQMoo/CVE-2020-9484-Scanner.svg) ![forks](https://img.shields.io/github/forks/DanQMoo/CVE-2020-9484-Scanner.svg)
 
+- [https://github.com/CrieHeiki/Apache-Tomcat-CVE-2020-9484](https://github.com/CrieHeiki/Apache-Tomcat-CVE-2020-9484) : ![starts](https://img.shields.io/github/stars/CrieHeiki/Apache-Tomcat-CVE-2020-9484.svg) ![forks](https://img.shields.io/github/forks/CrieHeiki/Apache-Tomcat-CVE-2020-9484.svg)
+
 ## CVE-2020-9483
  **Resolved** When use H2/MySQL/TiDB as Apache SkyWalking storage, the metadata query through GraphQL protocol, there is a SQL injection vulnerability, which allows to access unpexcted data. Apache SkyWalking 6.0.0 to 6.6.0, 7.0.0 H2/MySQL/TiDB storage implementations don't use the appropriate way to set SQL parameters.
 
