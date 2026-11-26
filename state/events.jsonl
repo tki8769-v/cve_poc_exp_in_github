@@ -13422,3 +13422,10 @@
 {"cve_id": "CVE-2019-16098", "ts": "2026-11-26T10:00:29Z", "type": "new_poc", "url": "https://github.com/Fl0sec/RTCore64-CVE-2019-16098"}
 {"cve_id": "CVE-2026-109618", "ts": "2026-11-26T10:00:41Z", "type": "new_poc", "url": "https://github.com/ggsec-de/php2shell-lab"}
 {"cve_id": "CVE-2026-101767", "ts": "2026-11-26T10:08:54Z", "type": "new_poc", "url": "https://github.com/ashrafzaryouh/CVE-2026-101767"}
+{"cve_id": "CVE-2026-124213", "ts": "2026-11-26T10:12:32Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-127926", "ts": "2026-11-26T10:12:58Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-128113", "ts": "2026-11-26T10:13:00Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-131595", "ts": "2026-11-26T10:13:57Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-131611", "ts": "2026-11-26T10:13:59Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-132194", "ts": "2026-11-26T10:14:13Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-79790", "ts": "2026-11-26T10:16:52Z", "type": "cve_rejected"}
