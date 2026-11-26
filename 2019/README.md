@@ -229,6 +229,8 @@ use after free.
 
 - [https://github.com/AndreyChertckov/django_cve_2019_19844_poc](https://github.com/AndreyChertckov/django_cve_2019_19844_poc) : ![starts](https://img.shields.io/github/stars/AndreyChertckov/django_cve_2019_19844_poc.svg) ![forks](https://img.shields.io/github/forks/AndreyChertckov/django_cve_2019_19844_poc.svg)
 
+- [https://github.com/googlesky/CVE-2019-19844](https://github.com/googlesky/CVE-2019-19844) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2019-19844.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2019-19844.svg)
+
 ## CVE-2019-19842
  emfd in Ruckus Wireless Unleashed through 200.7.10.102.64 allows remote attackers to execute OS commands via a POST request with the attribute xcmd=spectra-analysis to admin/_cmdstat.jsp via the mac attribute.
 
@@ -335,6 +337,8 @@ use after free.
 - [https://github.com/L4r1k/CitrixNetscalerAnalysis](https://github.com/L4r1k/CitrixNetscalerAnalysis) : ![starts](https://img.shields.io/github/stars/L4r1k/CitrixNetscalerAnalysis.svg) ![forks](https://img.shields.io/github/forks/L4r1k/CitrixNetscalerAnalysis.svg)
 
 - [https://github.com/digitalgangst/massCitrix](https://github.com/digitalgangst/massCitrix) : ![starts](https://img.shields.io/github/stars/digitalgangst/massCitrix.svg) ![forks](https://img.shields.io/github/forks/digitalgangst/massCitrix.svg)
+
+- [https://github.com/googlesky/CVE-2019-19781](https://github.com/googlesky/CVE-2019-19781) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2019-19781.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2019-19781.svg)
 
 ## CVE-2019-19699
  There is Authenticated remote code execution in Centreon Infrastructure Monitoring Software through 19.10 via Pollers misconfiguration, leading to system compromise via apache crontab misconfiguration, This allows the apache user to modify an executable file executed by root at 22:30 every day. To exploit the vulnerability, someone must have Admin access to the Centreon Web Interface and create a custom main.php?p=60803&type=3 command. The user must then set the Pollers Post-Restart Command to this previously created command via the main.php?p=60901&o=c&server_id=1 URI. This is triggered via an export of the Poller Configuration.
@@ -812,6 +816,8 @@ use after free.
 
 - [https://github.com/Al1ex/CVE-2019-17571](https://github.com/Al1ex/CVE-2019-17571) : ![starts](https://img.shields.io/github/stars/Al1ex/CVE-2019-17571.svg) ![forks](https://img.shields.io/github/forks/Al1ex/CVE-2019-17571.svg)
 
+- [https://github.com/googlesky/CVE-2019-17571](https://github.com/googlesky/CVE-2019-17571) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2019-17571.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2019-17571.svg)
+
 ## CVE-2019-17570
  An untrusted deserialization was found in the org.apache.xmlrpc.parser.XmlRpcResponseParser:addResult method of Apache XML-RPC (aka ws-xmlrpc) library. A malicious XML-RPC server could target a XML-RPC client causing it to execute arbitrary code. Apache XML-RPC is no longer maintained and this issue will not be fixed.
 
@@ -836,6 +842,11 @@ use after free.
 
 - [https://github.com/CyberCTF/vulhub-dubbo-cve-2019-17564](https://github.com/CyberCTF/vulhub-dubbo-cve-2019-17564) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-dubbo-cve-2019-17564.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-dubbo-cve-2019-17564.svg)
 
+## CVE-2019-17563
+> When using FORM authentication with Apache Tomcat 9.0.0.M1 to 9.0.29, 8.5.0 to 8.5.49 and 7.0.0 to 7.0.98 there was a narrow window where an attacker could perform a session fixation attack. The window was considered too narrow for an exploit to be practical but, erring on the side of caution, this issue has been treated as a security vulnerability.
+
+- [https://github.com/googlesky/CVE-2019-17563](https://github.com/googlesky/CVE-2019-17563) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2019-17563.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2019-17563.svg)
+
 ## CVE-2019-17558
  Apache Solr 5.0.0 to Apache Solr 8.3.1 are vulnerable to a Remote Code Execution through the VelocityResponseWriter. A Velocity template can be provided through Velocity templates in a configset `velocity/` directory or as a parameter. A user defined configset could contain renderable, potentially malicious, templates. Parameter provided templates are disabled by default, but can be enabled by setting `params.resource.loader.enabled` by defining a response writer with that setting set to `true`. Defining a response writer requires configuration API access. Solr 8.4 removed the params resource loader entirely, and only enables the configset-provided template rendering when the configset is `trusted` (has been uploaded by an authenticated user).
 
@@ -852,6 +863,8 @@ use after free.
 - [https://github.com/xkyrage/Exploit_CVE-2019-17558-RCE](https://github.com/xkyrage/Exploit_CVE-2019-17558-RCE) : ![starts](https://img.shields.io/github/stars/xkyrage/Exploit_CVE-2019-17558-RCE.svg) ![forks](https://img.shields.io/github/forks/xkyrage/Exploit_CVE-2019-17558-RCE.svg)
 
 - [https://github.com/CyberCTF/vulhub-solr-cve-2019-17558](https://github.com/CyberCTF/vulhub-solr-cve-2019-17558) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-solr-cve-2019-17558.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-solr-cve-2019-17558.svg)
+
+- [https://github.com/googlesky/CVE-2019-17558](https://github.com/googlesky/CVE-2019-17558) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2019-17558.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2019-17558.svg)
 
 ## CVE-2019-17525
  The login page on D-Link DIR-615 T1 20.10 devices allows remote attackers to bypass the CAPTCHA protection mechanism and conduct brute-force attacks.
@@ -1889,6 +1902,8 @@ use after free.
 
 - [https://github.com/GgKendall/secureCodingDemo](https://github.com/GgKendall/secureCodingDemo) : ![starts](https://img.shields.io/github/stars/GgKendall/secureCodingDemo.svg) ![forks](https://img.shields.io/github/forks/GgKendall/secureCodingDemo.svg)
 
+- [https://github.com/googlesky/CVE-2019-13272](https://github.com/googlesky/CVE-2019-13272) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2019-13272.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2019-13272.svg)
+
 ## CVE-2019-13180
  ** RESERVED ** This candidate has been reserved by an organization or individual that will use it when announcing a new security problem. When the candidate has been publicized, the details for this candidate will be provided.
 
@@ -2093,6 +2108,8 @@ use after free.
 - [https://github.com/st9007a/CVE-2019-12735](https://github.com/st9007a/CVE-2019-12735) : ![starts](https://img.shields.io/github/stars/st9007a/CVE-2019-12735.svg) ![forks](https://img.shields.io/github/forks/st9007a/CVE-2019-12735.svg)
 
 - [https://github.com/datntsec/CVE-2019-12735](https://github.com/datntsec/CVE-2019-12735) : ![starts](https://img.shields.io/github/stars/datntsec/CVE-2019-12735.svg) ![forks](https://img.shields.io/github/forks/datntsec/CVE-2019-12735.svg)
+
+- [https://github.com/eltociear/vimplugin-audit](https://github.com/eltociear/vimplugin-audit) : ![starts](https://img.shields.io/github/stars/eltociear/vimplugin-audit.svg) ![forks](https://img.shields.io/github/forks/eltociear/vimplugin-audit.svg)
 
 ## CVE-2019-12725
  Zeroshell 3.9.0 is prone to a remote command execution vulnerability. Specifically, this issue occurs because the web application mishandles a few HTTP parameters. An unauthenticated attacker can exploit this issue by injecting OS commands inside the vulnerable parameters.
@@ -4507,6 +4524,8 @@ use after free.
 
 - [https://github.com/loursha/Oracle-Weblogic-Server-AsyncResponseService-Deserialization-Remote-Code-Execution-CVE-2019-2725](https://github.com/loursha/Oracle-Weblogic-Server-AsyncResponseService-Deserialization-Remote-Code-Execution-CVE-2019-2725) : ![starts](https://img.shields.io/github/stars/loursha/Oracle-Weblogic-Server-AsyncResponseService-Deserialization-Remote-Code-Execution-CVE-2019-2725.svg) ![forks](https://img.shields.io/github/forks/loursha/Oracle-Weblogic-Server-AsyncResponseService-Deserialization-Remote-Code-Execution-CVE-2019-2725.svg)
 
+- [https://github.com/googlesky/CVE-2019-2725](https://github.com/googlesky/CVE-2019-2725) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2019-2725.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2019-2725.svg)
+
 ## CVE-2019-2684
  Vulnerability in the Java SE, Java SE Embedded component of Oracle Java SE (subcomponent: RMI). Supported versions that are affected are Java SE: 7u211, 8u202, 11.0.2 and 12; Java SE Embedded: 8u201. Difficult to exploit vulnerability allows unauthenticated attacker with network access via multiple protocols to compromise Java SE, Java SE Embedded. Successful attacks of this vulnerability can result in unauthorized creation, deletion or modification access to critical data or all Java SE, Java SE Embedded accessible data. Note: This vulnerability applies to Java deployments, typically in clients running sandboxed Java Web Start applications or sandboxed Java applets (in Java SE 8), that load and run untrusted code (e.g., code that comes from the internet) and rely on the Java sandbox for security. This vulnerability can also be exploited by using APIs in the specified Component, e.g., through a web service which supplies data to the APIs. CVSS 3.0 Base Score 5.9 (Integrity impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:H/A:N).
 
@@ -4976,6 +4995,8 @@ The update addresses the vulnerability by hardening NTLM MIC protection on the s
 
 - [https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL](https://github.com/JonyFilc/PrintSpoofer-ReflectiveDLL) : ![starts](https://img.shields.io/github/stars/JonyFilc/PrintSpoofer-ReflectiveDLL.svg) ![forks](https://img.shields.io/github/forks/JonyFilc/PrintSpoofer-ReflectiveDLL.svg)
 
+- [https://github.com/googlesky/CVE-2019-1040](https://github.com/googlesky/CVE-2019-1040) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2019-1040.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2019-1040.svg)
+
 ## CVE-2019-1019
  A security feature bypass vulnerability exists where a NETLOGON message is able to obtain the session key and sign messages.
 To exploit this vulnerability, an attacker could send a specially crafted authentication request. An attacker who successfully exploited this vulnerability could access another machine using the original user privileges.
@@ -5341,6 +5362,8 @@ The security update addresses the vulnerability by correcting how Hyper-V valida
 
 - [https://github.com/zoujialan/CVE-2019-0708-RCE](https://github.com/zoujialan/CVE-2019-0708-RCE) : ![starts](https://img.shields.io/github/stars/zoujialan/CVE-2019-0708-RCE.svg) ![forks](https://img.shields.io/github/forks/zoujialan/CVE-2019-0708-RCE.svg)
 
+- [https://github.com/googlesky/CVE-2019-0708](https://github.com/googlesky/CVE-2019-0708) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2019-0708.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2019-0708.svg)
+
 ## CVE-2019-0683
  An elevation of privilege vulnerability exists in Active Directory Forest trusts due to a default setting that lets an attacker in the trusting forest request delegation of a TGT for an identity from the trusted forest, aka 'Active Directory Elevation of Privilege Vulnerability'.
 
@@ -5447,6 +5470,8 @@ The security update addresses the vulnerability by correcting how Hyper-V valida
 
 - [https://github.com/x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit](https://github.com/x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit) : ![starts](https://img.shields.io/github/stars/x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit.svg) ![forks](https://img.shields.io/github/forks/x3m1Sec/CVE-2019-0232_tomcat_cgi_exploit.svg)
 
+- [https://github.com/googlesky/CVE-2019-0232](https://github.com/googlesky/CVE-2019-0232) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2019-0232.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2019-0232.svg)
+
 ## CVE-2019-0230
  Apache Struts 2.0.0 to 2.5.20 forced double OGNL evaluation, when evaluated on raw user input in tag attributes, may lead to remote code execution.
 
@@ -5506,6 +5531,10 @@ The security update addresses the vulnerability by correcting how Hyper-V valida
 
 - [https://github.com/cgarrot/echo-dot-3-doebrite-research](https://github.com/cgarrot/echo-dot-3-doebrite-research) : ![starts](https://img.shields.io/github/stars/cgarrot/echo-dot-3-doebrite-research.svg) ![forks](https://img.shields.io/github/forks/cgarrot/echo-dot-3-doebrite-research.svg)
 
+## CVE-2019-0199
+
+- [https://github.com/googlesky/CVE-2019-0199](https://github.com/googlesky/CVE-2019-0199) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2019-0199.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2019-0199.svg)
+
 ## CVE-2019-0194
  Apache Camel's File is vulnerable to directory traversal. Camel 2.21.0 to 2.21.3, 2.22.0 to 2.22.2, 2.23.0 and the unsupported Camel 2.x (2.19 and earlier) versions may be also affected.
 
@@ -5527,6 +5556,8 @@ The security update addresses the vulnerability by correcting how Hyper-V valida
 - [https://github.com/jaychouzzk/CVE-2019-0193-exp](https://github.com/jaychouzzk/CVE-2019-0193-exp) : ![starts](https://img.shields.io/github/stars/jaychouzzk/CVE-2019-0193-exp.svg) ![forks](https://img.shields.io/github/forks/jaychouzzk/CVE-2019-0193-exp.svg)
 
 - [https://github.com/freeFV/ApacheSolrRCE](https://github.com/freeFV/ApacheSolrRCE) : ![starts](https://img.shields.io/github/stars/freeFV/ApacheSolrRCE.svg) ![forks](https://img.shields.io/github/forks/freeFV/ApacheSolrRCE.svg)
+
+- [https://github.com/googlesky/CVE-2019-0193](https://github.com/googlesky/CVE-2019-0193) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2019-0193.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2019-0193.svg)
 
 ## CVE-2019-0192
  In Apache Solr versions 5.0.0 to 5.5.5 and 6.0.0 to 6.6.5, the Config API allows to configure the JMX server via an HTTP POST request. By pointing it to a malicious RMI server, an attacker could take advantage of Solr's unsafe deserialization to trigger remote code execution on the Solr side.

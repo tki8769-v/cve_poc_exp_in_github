@@ -310,6 +310,8 @@
 
 - [https://github.com/bongbongco/CVE-2012-1675](https://github.com/bongbongco/CVE-2012-1675) : ![starts](https://img.shields.io/github/stars/bongbongco/CVE-2012-1675.svg) ![forks](https://img.shields.io/github/forks/bongbongco/CVE-2012-1675.svg)
 
+- [https://github.com/0xwarwolf/Oracle-Security-Alert-CVE-2012-1675](https://github.com/0xwarwolf/Oracle-Security-Alert-CVE-2012-1675) : ![starts](https://img.shields.io/github/stars/0xwarwolf/Oracle-Security-Alert-CVE-2012-1675.svg) ![forks](https://img.shields.io/github/forks/0xwarwolf/Oracle-Security-Alert-CVE-2012-1675.svg)
+
 ## CVE-2012-1495
  install/index.php in WebCalendar before 1.2.5 allows remote attackers to execute arbitrary code via the form_single_user_login parameter.
 

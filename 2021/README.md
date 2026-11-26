@@ -358,6 +358,8 @@
 
 - [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
 
+- [https://github.com/googlesky/CVE-2021-45105](https://github.com/googlesky/CVE-2021-45105) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2021-45105.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2021-45105.svg)
+
 ## CVE-2021-45067
  Acrobat Reader DC version 21.007.20099 (and earlier), 20.004.30017 (and earlier) and 17.011.30204 (and earlier) are affected by an Access of Memory Location After End of Buffer vulnerability that could lead to disclosure of sensitive memory. An attacker could leverage this vulnerability to bypass mitigations such as ASLR. Exploitation of this issue requires user interaction in that a victim must open a malicious file.
 
@@ -459,6 +461,8 @@
 - [https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words](https://github.com/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words) : ![starts](https://img.shields.io/github/stars/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words.svg) ![forks](https://img.shields.io/github/forks/Puliczek/CVE-2021-44228-PoC-log4j-bypass-words.svg)
 
 - [https://github.com/logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner) : ![starts](https://img.shields.io/github/stars/logpresso/CVE-2021-44228-Scanner.svg) ![forks](https://img.shields.io/github/forks/logpresso/CVE-2021-44228-Scanner.svg)
+
+- [https://github.com/googlesky/CVE-2021-45046](https://github.com/googlesky/CVE-2021-45046) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2021-45046.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2021-45046.svg)
 
 ## CVE-2021-45043
  HD-Network Real-time Monitoring System 2.0 allows ../ directory traversal to read /etc/shadow via the /language/lang s_Language parameter.
@@ -1739,6 +1743,8 @@
 - [https://github.com/YujiSoftware/log4shell-poc](https://github.com/YujiSoftware/log4shell-poc) : ![starts](https://img.shields.io/github/stars/YujiSoftware/log4shell-poc.svg) ![forks](https://img.shields.io/github/forks/YujiSoftware/log4shell-poc.svg)
 
 - [https://github.com/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling](https://github.com/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling) : ![starts](https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling.svg) ![forks](https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling.svg)
+
+- [https://github.com/googlesky/CVE-2021-44228](https://github.com/googlesky/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2021-44228.svg)
 
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.
@@ -4587,6 +4593,8 @@ Note that the security updates released on and after July 6, 2021 contain protec
 
 - [https://github.com/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md](https://github.com/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md) : ![starts](https://img.shields.io/github/stars/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md.svg) ![forks](https://img.shields.io/github/forks/honouroladosu7-cpu/CVE-2021-34527_PrintNightmare.md.svg)
 
+- [https://github.com/googlesky/CVE-2021-34527](https://github.com/googlesky/CVE-2021-34527) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2021-34527.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2021-34527.svg)
+
 ## CVE-2021-34523
  Microsoft Exchange Server Elevation of Privilege Vulnerability
 
@@ -6072,6 +6080,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/ifeoluwaayodeji/CVE-2021-26855-Analysis](https://github.com/ifeoluwaayodeji/CVE-2021-26855-Analysis) : ![starts](https://img.shields.io/github/stars/ifeoluwaayodeji/CVE-2021-26855-Analysis.svg) ![forks](https://img.shields.io/github/forks/ifeoluwaayodeji/CVE-2021-26855-Analysis.svg)
 
+- [https://github.com/googlesky/CVE-2021-26855](https://github.com/googlesky/CVE-2021-26855) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2021-26855.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2021-26855.svg)
+
 ## CVE-2021-26837
  SQL Injection vulnerability in SearchTextBox parameter in Fortra (Formerly HelpSystems) DeliverNow before version 1.2.18, allows attackers to execute arbitrary code, escalate privileges, and gain sensitive information.
 
@@ -6400,6 +6410,11 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
  Improper access control in clipboard service in Samsung mobile devices prior to SMR Mar-2021 Release 1 allows untrusted applications to read or write certain local files.
 
 - [https://github.com/CrisZalSa/JustALampNothingElse](https://github.com/CrisZalSa/JustALampNothingElse) : ![starts](https://img.shields.io/github/stars/CrisZalSa/JustALampNothingElse.svg) ![forks](https://img.shields.io/github/forks/CrisZalSa/JustALampNothingElse.svg)
+
+## CVE-2021-25329
+> The fix for CVE-2020-9484 was incomplete. When using Apache Tomcat 10.0.0-M1 to 10.0.0, 9.0.0.M1 to 9.0.41, 8.5.0 to 8.5.61 or 7.0.0. to 7.0.107 with a configuration edge case that was highly unlikely to be used, the Tomcat instance was still vulnerable to CVE-2020-9494. Note that both the previously published prerequisites for CVE-2020-9484 and the previously published mitigations for CVE-2020-9484 also apply to this issue.
+
+- [https://github.com/googlesky/CVE-2021-25329](https://github.com/googlesky/CVE-2021-25329) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2021-25329.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2021-25329.svg)
 
 ## CVE-2021-25282
  An issue was discovered in through SaltStack Salt before 3002.5. The salt.wheel.pillar_roots.write method is vulnerable to directory traversal.
@@ -6742,6 +6757,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/Osyanina/westone-CVE-2021-22986-scanner](https://github.com/Osyanina/westone-CVE-2021-22986-scanner) : ![starts](https://img.shields.io/github/stars/Osyanina/westone-CVE-2021-22986-scanner.svg) ![forks](https://img.shields.io/github/forks/Osyanina/westone-CVE-2021-22986-scanner.svg)
 
 - [https://github.com/qdtad/CVE-2021-22986](https://github.com/qdtad/CVE-2021-22986) : ![starts](https://img.shields.io/github/stars/qdtad/CVE-2021-22986.svg) ![forks](https://img.shields.io/github/forks/qdtad/CVE-2021-22986.svg)
+
+- [https://github.com/googlesky/CVE-2021-22986](https://github.com/googlesky/CVE-2021-22986) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2021-22986.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2021-22986.svg)
 
 ## CVE-2021-22941
  Improper Access Control in Citrix ShareFile storage zones controller before 5.11.20 may allow an unauthenticated attacker to remotely compromise the storage zones controller.
@@ -7107,6 +7124,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/mauricelambert/CVE-2021-21985](https://github.com/mauricelambert/CVE-2021-21985) : ![starts](https://img.shields.io/github/stars/mauricelambert/CVE-2021-21985.svg) ![forks](https://img.shields.io/github/forks/mauricelambert/CVE-2021-21985.svg)
 
+- [https://github.com/googlesky/CVE-2021-21985](https://github.com/googlesky/CVE-2021-21985) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2021-21985.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2021-21985.svg)
+
 ## CVE-2021-21983
  Arbitrary file write vulnerability in vRealize Operations Manager API (CVE-2021-21983) prior to 8.4 may allow an authenticated malicious actor with network access to the vRealize Operations Manager API can write files to arbitrary locations on the underlying photon operating system.
 
@@ -7306,6 +7325,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/luke0x90/CVE-2021-21551](https://github.com/luke0x90/CVE-2021-21551) : ![starts](https://img.shields.io/github/stars/luke0x90/CVE-2021-21551.svg) ![forks](https://img.shields.io/github/forks/luke0x90/CVE-2021-21551.svg)
 
 - [https://github.com/bengabay1994/cve-2021-21551-PoC](https://github.com/bengabay1994/cve-2021-21551-PoC) : ![starts](https://img.shields.io/github/stars/bengabay1994/cve-2021-21551-PoC.svg) ![forks](https://img.shields.io/github/forks/bengabay1994/cve-2021-21551-PoC.svg)
+
+- [https://github.com/00xAuto/dbutil-2-3-CVE-2021-21551-Documentation](https://github.com/00xAuto/dbutil-2-3-CVE-2021-21551-Documentation) : ![starts](https://img.shields.io/github/stars/00xAuto/dbutil-2-3-CVE-2021-21551-Documentation.svg) ![forks](https://img.shields.io/github/forks/00xAuto/dbutil-2-3-CVE-2021-21551-Documentation.svg)
 
 ## CVE-2021-21514
  Dell EMC OpenManage Server Administrator (OMSA) versions 9.5 and prior contain a path traversal vulnerability. A remote user with admin privileges could potentially exploit this vulnerability to view arbitrary files on the target system by sending a specially crafted URL request.
@@ -7560,6 +7581,10 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/s-index/poc-list](https://github.com/s-index/poc-list) : ![starts](https://img.shields.io/github/stars/s-index/poc-list.svg) ![forks](https://img.shields.io/github/forks/s-index/poc-list.svg)
 
 - [https://github.com/s-index/CVE-2021-20717](https://github.com/s-index/CVE-2021-20717) : ![starts](https://img.shields.io/github/stars/s-index/CVE-2021-20717.svg) ![forks](https://img.shields.io/github/forks/s-index/CVE-2021-20717.svg)
+
+## CVE-2021-20329
+
+- [https://github.com/hugo19941994/CVE-2021-20329-bson-injection](https://github.com/hugo19941994/CVE-2021-20329-bson-injection) : ![starts](https://img.shields.io/github/stars/hugo19941994/CVE-2021-20329-bson-injection.svg) ![forks](https://img.shields.io/github/forks/hugo19941994/CVE-2021-20329-bson-injection.svg)
 
 ## CVE-2021-20323
  A POST based reflected Cross Site Scripting vulnerability on has been identified in Keycloak.
@@ -8244,6 +8269,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 
 - [https://github.com/vukma25/CVE-2021-4034](https://github.com/vukma25/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/vukma25/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/vukma25/CVE-2021-4034.svg)
 
+- [https://github.com/googlesky/CVE-2021-4034](https://github.com/googlesky/CVE-2021-4034) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2021-4034.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2021-4034.svg)
+
 ## CVE-2021-3975
  A use-after-free flaw was found in libvirt. The qemuMonitorUnregister() function in qemuProcessHandleMonitorEOF is called using multiple threads without being adequately protected by a monitor lock. This flaw could be triggered by the virConnectGetAllDomainStats API when the guest is shutting down. An unprivileged client with a read-only connection could use this flaw to perform a denial of service attack by causing the libvirt daemon to crash.
 
@@ -8827,6 +8854,8 @@ UPDATE August 10, 2021: Microsoft has completed the investigation and has releas
 - [https://github.com/HanaBouikni/AppArmor-Simulation-CVE-2021-3156](https://github.com/HanaBouikni/AppArmor-Simulation-CVE-2021-3156) : ![starts](https://img.shields.io/github/stars/HanaBouikni/AppArmor-Simulation-CVE-2021-3156.svg) ![forks](https://img.shields.io/github/forks/HanaBouikni/AppArmor-Simulation-CVE-2021-3156.svg)
 
 - [https://github.com/HanaBouikni/Volatility3-Forensics-Incident-Response](https://github.com/HanaBouikni/Volatility3-Forensics-Incident-Response) : ![starts](https://img.shields.io/github/stars/HanaBouikni/Volatility3-Forensics-Incident-Response.svg) ![forks](https://img.shields.io/github/forks/HanaBouikni/Volatility3-Forensics-Incident-Response.svg)
+
+- [https://github.com/googlesky/CVE-2021-3156](https://github.com/googlesky/CVE-2021-3156) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2021-3156.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2021-3156.svg)
 
 ## CVE-2021-3138
  In Discourse 2.7.0 through beta1, a rate-limit bypass leads to a bypass of the 2FA requirement for certain forms.

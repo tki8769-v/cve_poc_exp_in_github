@@ -3261,6 +3261,8 @@ AMI AptioV contains a vulnerability in BIOS where a User may cause an unrestrict
 
 - [https://github.com/Chanakya-GH/re-portfolio](https://github.com/Chanakya-GH/re-portfolio) : ![starts](https://img.shields.io/github/stars/Chanakya-GH/re-portfolio.svg) ![forks](https://img.shields.io/github/forks/Chanakya-GH/re-portfolio.svg)
 
+- [https://github.com/googlesky/CVE-2023-38831](https://github.com/googlesky/CVE-2023-38831) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2023-38831.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2023-38831.svg)
+
 ## CVE-2023-38829
  An issue in NETIS SYSTEMS WF2409E v.3.6.42541 allows a remote attacker to execute arbitrary code via the ping and traceroute functions of the diagnostic tools component in the admin management interface.
 
@@ -4673,6 +4675,8 @@ You are recommended to upgrade to version 1.22.0 or later which fixes this issue
 - [https://github.com/Conviee/Assignment-](https://github.com/Conviee/Assignment-) : ![starts](https://img.shields.io/github/stars/Conviee/Assignment-.svg) ![forks](https://img.shields.io/github/forks/Conviee/Assignment-.svg)
 
 - [https://github.com/khaled970r/moveit-breach-analysis-sqli](https://github.com/khaled970r/moveit-breach-analysis-sqli) : ![starts](https://img.shields.io/github/stars/khaled970r/moveit-breach-analysis-sqli.svg) ![forks](https://img.shields.io/github/forks/khaled970r/moveit-breach-analysis-sqli.svg)
+
+- [https://github.com/googlesky/CVE-2023-34362](https://github.com/googlesky/CVE-2023-34362) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2023-34362.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2023-34362.svg)
 
 ## CVE-2023-34312
  In Tencent QQ through 9.7.8.29039 and TIM through 3.4.7.22084, QQProtect.exe and QQProtectEngine.dll do not validate pointers from inter-process communication, which leads to a write-what-where condition.
@@ -7691,6 +7695,8 @@ This issue affects Apache Dubbo 2.7.x version 2.7.21 and prior versions; Apache 
 
 - [https://github.com/ZHOUCC-CPU/cve-2023-23397-detection-lab](https://github.com/ZHOUCC-CPU/cve-2023-23397-detection-lab) : ![starts](https://img.shields.io/github/stars/ZHOUCC-CPU/cve-2023-23397-detection-lab.svg) ![forks](https://img.shields.io/github/forks/ZHOUCC-CPU/cve-2023-23397-detection-lab.svg)
 
+- [https://github.com/googlesky/CVE-2023-23397](https://github.com/googlesky/CVE-2023-23397) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2023-23397.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2023-23397.svg)
+
 ## CVE-2023-23396
  Microsoft Excel Denial of Service Vulnerability
 
@@ -9975,6 +9981,8 @@ We recommend upgrading past commit 04c55383fa5689357bcdd2c8036725a55ed632bc.
 - [https://github.com/d0rb/CVE-2023-3519](https://github.com/d0rb/CVE-2023-3519) : ![starts](https://img.shields.io/github/stars/d0rb/CVE-2023-3519.svg) ![forks](https://img.shields.io/github/forks/d0rb/CVE-2023-3519.svg)
 
 - [https://github.com/JonaNeidhart/CVE-2023-3519-BackdoorCheck](https://github.com/JonaNeidhart/CVE-2023-3519-BackdoorCheck) : ![starts](https://img.shields.io/github/stars/JonaNeidhart/CVE-2023-3519-BackdoorCheck.svg) ![forks](https://img.shields.io/github/forks/JonaNeidhart/CVE-2023-3519-BackdoorCheck.svg)
+
+- [https://github.com/googlesky/CVE-2023-3519](https://github.com/googlesky/CVE-2023-3519) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2023-3519.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2023-3519.svg)
 
 ## CVE-2023-3463
  

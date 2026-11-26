@@ -3017,6 +3017,10 @@ Users are recommended to upgrade to version 2.4.66, which fixes the issue.
 
 - [https://github.com/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819](https://github.com/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/SQL-Injection-and-RCE_CVE-2025-57819.svg)
 
+- [https://github.com/SamWang8891/CVE-2025-57819-poc](https://github.com/SamWang8891/CVE-2025-57819-poc) : ![starts](https://img.shields.io/github/stars/SamWang8891/CVE-2025-57819-poc.svg) ![forks](https://img.shields.io/github/forks/SamWang8891/CVE-2025-57819-poc.svg)
+
+- [https://github.com/donggle0802/cve-2025-57819](https://github.com/donggle0802/cve-2025-57819) : ![starts](https://img.shields.io/github/stars/donggle0802/cve-2025-57819.svg) ![forks](https://img.shields.io/github/forks/donggle0802/cve-2025-57819.svg)
+
 ## CVE-2025-57576
  PHPGurukul Online Shopping Portal 2.1 is vulnerable to Cross Site Scripting (XSS) in /admin/updateorder.php.
 
@@ -9365,6 +9369,8 @@ Users are recommended to upgrade to version 1.15.1, which fixes the issue.
 - [https://github.com/alinaclark672377250/CVE-2025-29927-POC](https://github.com/alinaclark672377250/CVE-2025-29927-POC) : ![starts](https://img.shields.io/github/stars/alinaclark672377250/CVE-2025-29927-POC.svg) ![forks](https://img.shields.io/github/forks/alinaclark672377250/CVE-2025-29927-POC.svg)
 
 - [https://github.com/Seif-Abdelhamid/nextjs-middleware-bypass-lab](https://github.com/Seif-Abdelhamid/nextjs-middleware-bypass-lab) : ![starts](https://img.shields.io/github/stars/Seif-Abdelhamid/nextjs-middleware-bypass-lab.svg) ![forks](https://img.shields.io/github/forks/Seif-Abdelhamid/nextjs-middleware-bypass-lab.svg)
+
+- [https://github.com/gabrielchv/seguranca-informacao-cve-2025-29927](https://github.com/gabrielchv/seguranca-informacao-cve-2025-29927) : ![starts](https://img.shields.io/github/stars/gabrielchv/seguranca-informacao-cve-2025-29927.svg) ![forks](https://img.shields.io/github/forks/gabrielchv/seguranca-informacao-cve-2025-29927.svg)
 
 ## CVE-2025-29824
  Use after free in Windows Common Log File System Driver allows an authorized attacker to elevate privileges locally.

@@ -3463,6 +3463,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 
 - [https://github.com/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research](https://github.com/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research) : ![starts](https://img.shields.io/github/stars/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research.svg) ![forks](https://img.shields.io/github/forks/jamespelumi79-ctrl/CVE-2022-30190-Follina-Research.svg)
 
+- [https://github.com/googlesky/CVE-2022-30190](https://github.com/googlesky/CVE-2022-30190) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2022-30190.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2022-30190.svg)
+
 ## CVE-2022-30136
  Windows Network File System Remote Code Execution Vulnerability
 
@@ -3708,6 +3710,8 @@ Please see the MSRC Blog Entry for important information about steps you can ta
 - [https://github.com/c1ph3rbyt3/CVE-2022-29464](https://github.com/c1ph3rbyt3/CVE-2022-29464) : ![starts](https://img.shields.io/github/stars/c1ph3rbyt3/CVE-2022-29464.svg) ![forks](https://img.shields.io/github/forks/c1ph3rbyt3/CVE-2022-29464.svg)
 
 - [https://github.com/SynixCyberCrimeMy/CVE-2022-29464](https://github.com/SynixCyberCrimeMy/CVE-2022-29464) : ![starts](https://img.shields.io/github/stars/SynixCyberCrimeMy/CVE-2022-29464.svg) ![forks](https://img.shields.io/github/forks/SynixCyberCrimeMy/CVE-2022-29464.svg)
+
+- [https://github.com/googlesky/CVE-2022-29464](https://github.com/googlesky/CVE-2022-29464) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2022-29464.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2022-29464.svg)
 
 ## CVE-2022-29455
  DOM-based Reflected Cross-Site Scripting (XSS) vulnerability in Elementor's Elementor Website Builder plugin = 3.5.5 versions.
@@ -5832,6 +5836,8 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 
 - [https://github.com/ashrafzaryouh/CVE-2022-22965](https://github.com/ashrafzaryouh/CVE-2022-22965) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2022-22965.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2022-22965.svg)
 
+- [https://github.com/googlesky/CVE-2022-22965](https://github.com/googlesky/CVE-2022-22965) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2022-22965.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2022-22965.svg)
+
 ## CVE-2022-22963
  In Spring Cloud Function versions 3.1.6, 3.2.2 and older unsupported versions, when using routing functionality it is possible for a user to provide a specially crafted SpEL as a routing-expression that may result in remote code execution and access to local resources.
 
@@ -5982,6 +5988,8 @@ The ping process runs in a capability mode sandbox on all affected versions of 
 - [https://github.com/nieldk/VMware-CVE-2022-22954](https://github.com/nieldk/VMware-CVE-2022-22954) : ![starts](https://img.shields.io/github/stars/nieldk/VMware-CVE-2022-22954.svg) ![forks](https://img.shields.io/github/forks/nieldk/VMware-CVE-2022-22954.svg)
 
 - [https://github.com/amit-pathak009/CVE-2022-22954-PoC](https://github.com/amit-pathak009/CVE-2022-22954-PoC) : ![starts](https://img.shields.io/github/stars/amit-pathak009/CVE-2022-22954-PoC.svg) ![forks](https://img.shields.io/github/forks/amit-pathak009/CVE-2022-22954-PoC.svg)
+
+- [https://github.com/googlesky/CVE-2022-22954](https://github.com/googlesky/CVE-2022-22954) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2022-22954.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2022-22954.svg)
 
 ## CVE-2022-22948
  The vCenter Server contains an information disclosure vulnerability due to improper permission of files. A malicious actor with non-administrative access to the vCenter Server may exploit this issue to gain access to sensitive information.
@@ -7629,6 +7637,8 @@ the client's API server credentials to third parties.
 
 - [https://github.com/TheElderHacker/CVE-2022-1388](https://github.com/TheElderHacker/CVE-2022-1388) : ![starts](https://img.shields.io/github/stars/TheElderHacker/CVE-2022-1388.svg) ![forks](https://img.shields.io/github/forks/TheElderHacker/CVE-2022-1388.svg)
 
+- [https://github.com/googlesky/CVE-2022-1388](https://github.com/googlesky/CVE-2022-1388) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2022-1388.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2022-1388.svg)
+
 ## CVE-2022-1386
  The Fusion Builder WordPress plugin before 3.6.2, used in the Avada theme, does not validate a parameter in its forms which could be used to initiate arbitrary HTTP requests. The data returned is then reflected back in the application's response. This could be used to interact with hosts on the server's local network bypassing firewalls and access control measures.
 
@@ -8135,6 +8145,8 @@ the client's API server credentials to third parties.
 - [https://github.com/honeyvig/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/honeyvig/CVE-2022-0847-DirtyPipe-Exploit) : ![starts](https://img.shields.io/github/stars/honeyvig/CVE-2022-0847-DirtyPipe-Exploit.svg) ![forks](https://img.shields.io/github/forks/honeyvig/CVE-2022-0847-DirtyPipe-Exploit.svg)
 
 - [https://github.com/mlucianoeze/linux-backport-CVE-2022-0847](https://github.com/mlucianoeze/linux-backport-CVE-2022-0847) : ![starts](https://img.shields.io/github/stars/mlucianoeze/linux-backport-CVE-2022-0847.svg) ![forks](https://img.shields.io/github/forks/mlucianoeze/linux-backport-CVE-2022-0847.svg)
+
+- [https://github.com/googlesky/CVE-2022-0847](https://github.com/googlesky/CVE-2022-0847) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2022-0847.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2022-0847.svg)
 
 ## CVE-2022-0829
  Improper Authorization in GitHub repository webmin/webmin prior to 1.990.

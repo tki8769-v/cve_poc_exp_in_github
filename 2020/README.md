@@ -2748,6 +2748,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code](https://github.com/HYWZ36/HYWZ36-CVE-2020-11989-code) : ![starts](https://img.shields.io/github/stars/HYWZ36/HYWZ36-CVE-2020-11989-code.svg) ![forks](https://img.shields.io/github/forks/HYWZ36/HYWZ36-CVE-2020-11989-code.svg)
 
+- [https://github.com/googlesky/CVE-2020-11989](https://github.com/googlesky/CVE-2020-11989) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2020-11989.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2020-11989.svg)
+
 ## CVE-2020-11984
  Apache HTTP server 2.4.32 to 2.4.44 mod_proxy_uwsgi info disclosure and possible RCE
 
@@ -3463,6 +3465,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/CrieHeiki/Apache-Tomcat-CVE-2020-9484](https://github.com/CrieHeiki/Apache-Tomcat-CVE-2020-9484) : ![starts](https://img.shields.io/github/stars/CrieHeiki/Apache-Tomcat-CVE-2020-9484.svg) ![forks](https://img.shields.io/github/forks/CrieHeiki/Apache-Tomcat-CVE-2020-9484.svg)
 
+- [https://github.com/googlesky/CVE-2020-9484](https://github.com/googlesky/CVE-2020-9484) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2020-9484.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2020-9484.svg)
+
 ## CVE-2020-9483
  **Resolved** When use H2/MySQL/TiDB as Apache SkyWalking storage, the metadata query through GraphQL protocol, there is a SQL injection vulnerability, which allows to access unpexcted data. Apache SkyWalking 6.0.0 to 6.6.0, 7.0.0 H2/MySQL/TiDB storage implementations don't use the appropriate way to set SQL parameters.
 
@@ -3496,6 +3500,10 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
  OpenVPN Connect 3.1.0.361 on Windows has Insecure Permissions for %PROGRAMDATA%\OpenVPN Connect\drivers\tap\amd64\win10, which allows local users to gain privileges by copying a malicious drvstore.dll there.
 
 - [https://github.com/hessandrew/CVE-2020-9442](https://github.com/hessandrew/CVE-2020-9442) : ![starts](https://img.shields.io/github/stars/hessandrew/CVE-2020-9442.svg) ![forks](https://img.shields.io/github/forks/hessandrew/CVE-2020-9442.svg)
+
+## CVE-2020-9402
+
+- [https://github.com/googlesky/CVE-2020-9402](https://github.com/googlesky/CVE-2020-9402) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2020-9402.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2020-9402.svg)
 
 ## CVE-2020-9380
  IPTV Smarters WEB TV PLAYER through 2020-02-22 allows attackers to execute OS commands by uploading a script.
@@ -4536,6 +4544,8 @@ pThe update addresses the vulnerability by correcting how the Windows TCP/IP sta
 
 - [https://github.com/ashrafzaryouh/CVE-2020-5902](https://github.com/ashrafzaryouh/CVE-2020-5902) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2020-5902.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2020-5902.svg)
 
+- [https://github.com/googlesky/CVE-2020-5902](https://github.com/googlesky/CVE-2020-5902) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2020-5902.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2020-5902.svg)
+
 ## CVE-2020-5844
  index.php?sec=godmode/extensions&sec2=extensions/files_repo in Pandora FMS v7.0 NG allows authenticated administrators to upload malicious PHP scripts, and execute them via base64 decoding of the file location. This affects v7.0NG.742_FIX_PERL2020.
 
@@ -4996,6 +5006,8 @@ The issue has been fixed in dropwizard-validation 1.3.19 and 2.0.2.
 
 - [https://github.com/Qynklee/POC_CVE-2020-2555](https://github.com/Qynklee/POC_CVE-2020-2555) : ![starts](https://img.shields.io/github/stars/Qynklee/POC_CVE-2020-2555.svg) ![forks](https://img.shields.io/github/forks/Qynklee/POC_CVE-2020-2555.svg)
 
+- [https://github.com/googlesky/CVE-2020-2555](https://github.com/googlesky/CVE-2020-2555) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2020-2555.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2020-2555.svg)
+
 ## CVE-2020-2551
  Vulnerability in the Oracle WebLogic Server product of Oracle Fusion Middleware (component: WLS Core Components). Supported versions that are affected are 10.3.6.0.0, 12.1.3.0.0, 12.2.1.3.0 and 12.2.1.4.0. Easily exploitable vulnerability allows unauthenticated attacker with network access via IIOP to compromise Oracle WebLogic Server. Successful attacks of this vulnerability can result in takeover of Oracle WebLogic Server. CVSS 3.0 Base Score 9.8 (Confidentiality, Integrity and Availability impacts). CVSS Vector: (CVSS:3.0/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H).
 
@@ -5230,10 +5242,17 @@ The issue has been fixed in dropwizard-validation 1.3.19 and 2.0.2.
 
 - [https://github.com/Mohammad-Anon/CVE-2020-1938](https://github.com/Mohammad-Anon/CVE-2020-1938) : ![starts](https://img.shields.io/github/stars/Mohammad-Anon/CVE-2020-1938.svg) ![forks](https://img.shields.io/github/forks/Mohammad-Anon/CVE-2020-1938.svg)
 
+- [https://github.com/googlesky/CVE-2020-1938](https://github.com/googlesky/CVE-2020-1938) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2020-1938.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2020-1938.svg)
+
 ## CVE-2020-1937
  Kylin has some restful apis which will concatenate SQLs with the user input string, a user is likely to be able to run malicious database queries.
 
 - [https://github.com/shanika04/apache_kylin](https://github.com/shanika04/apache_kylin) : ![starts](https://img.shields.io/github/stars/shanika04/apache_kylin.svg) ![forks](https://img.shields.io/github/forks/shanika04/apache_kylin.svg)
+
+## CVE-2020-1935
+> In Apache Tomcat 9.0.0.M1 to 9.0.30, 8.5.0 to 8.5.50 and 7.0.0 to 7.0.99 the HTTP header parsing code used an approach to end-of-line parsing that allowed some invalid HTTP headers to be parsed as valid. This led to a possibility of HTTP Request Smuggling if Tomcat was located behind a reverse proxy that incorrectly handled the invalid Transfer-Encoding header in a particular manner. Such a reverse proxy is considered unlikely.
+
+- [https://github.com/googlesky/CVE-2020-1935](https://github.com/googlesky/CVE-2020-1935) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2020-1935.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2020-1935.svg)
 
 ## CVE-2020-1764
  A hard-coded cryptographic key vulnerability in the default configuration file was found in Kiali, all versions prior to 1.15.1. A remote attacker could abuse this flaw by creating their own JWT signed tokens and bypass Kiali authentication mechanisms, possibly gaining privileges to view and alter the Istio configuration.
@@ -5434,6 +5453,8 @@ When the second phase of Windows updates become available in Q1 2021, customers 
 - [https://github.com/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment](https://github.com/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment) : ![starts](https://img.shields.io/github/stars/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment.svg) ![forks](https://img.shields.io/github/forks/Divineokoduwa/CVE-2020-1472-Zerologon-Vulnerability-Assessment.svg)
 
 - [https://github.com/mynga17/zerologon-security-lab](https://github.com/mynga17/zerologon-security-lab) : ![starts](https://img.shields.io/github/stars/mynga17/zerologon-security-lab.svg) ![forks](https://img.shields.io/github/forks/mynga17/zerologon-security-lab.svg)
+
+- [https://github.com/googlesky/CVE-2020-1472](https://github.com/googlesky/CVE-2020-1472) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2020-1472.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2020-1472.svg)
 
 ## CVE-2020-1362
  An elevation of privilege vulnerability exists in the way that the Windows WalletService handles objects in memory, aka 'Windows WalletService Elevation of Privilege Vulnerability'. This CVE ID is unique from CVE-2020-1344, CVE-2020-1369.
@@ -5923,6 +5944,8 @@ pThe security update addresses the vulnerability by resolving the conditions whe
 
 - [https://github.com/ann0906/proxylogon](https://github.com/ann0906/proxylogon) : ![starts](https://img.shields.io/github/stars/ann0906/proxylogon.svg) ![forks](https://img.shields.io/github/forks/ann0906/proxylogon.svg)
 
+- [https://github.com/googlesky/CVE-2020-0688](https://github.com/googlesky/CVE-2020-0688) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2020-0688.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2020-0688.svg)
+
 ## CVE-2020-0683
  An elevation of privilege vulnerability exists in the Windows Installer when MSI packages process symbolic links, aka 'Windows Installer Elevation of Privilege Vulnerability'. This CVE ID is unique from CVE-2020-0686.
 
@@ -6089,6 +6112,8 @@ pThe security update addresses the vulnerability by resolving the conditions whe
 - [https://github.com/dlee35/curveball_lua](https://github.com/dlee35/curveball_lua) : ![starts](https://img.shields.io/github/stars/dlee35/curveball_lua.svg) ![forks](https://img.shields.io/github/forks/dlee35/curveball_lua.svg)
 
 - [https://github.com/bsides-rijeka/meetup-2-curveball](https://github.com/bsides-rijeka/meetup-2-curveball) : ![starts](https://img.shields.io/github/stars/bsides-rijeka/meetup-2-curveball.svg) ![forks](https://img.shields.io/github/forks/bsides-rijeka/meetup-2-curveball.svg)
+
+- [https://github.com/googlesky/CVE-2020-0601](https://github.com/googlesky/CVE-2020-0601) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2020-0601.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2020-0601.svg)
 
 ## CVE-2020-0568
  Race condition in the Intel(R) Driver and Support Assistant before version 20.1.5 may allow an authenticated user to potentially enable denial of service via local access.

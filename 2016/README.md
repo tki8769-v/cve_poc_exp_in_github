@@ -200,6 +200,8 @@
 
 - [https://github.com/sealldeveloper/CVE-2016-10033-PoC](https://github.com/sealldeveloper/CVE-2016-10033-PoC) : ![starts](https://img.shields.io/github/stars/sealldeveloper/CVE-2016-10033-PoC.svg) ![forks](https://img.shields.io/github/forks/sealldeveloper/CVE-2016-10033-PoC.svg)
 
+- [https://github.com/googlesky/CVE-2016-10033](https://github.com/googlesky/CVE-2016-10033) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2016-10033.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2016-10033.svg)
+
 ## CVE-2016-10006
  In OWASP AntiSamy before 1.5.5, by submitting a specially crafted input (a tag that supports style with active content), you could bypass the library protections and supply executable code. The impact is XSS.
 
@@ -326,6 +328,8 @@
  Remote code execution is possible with Apache Tomcat before 6.0.48, 7.x before 7.0.73, 8.x before 8.0.39, 8.5.x before 8.5.7, and 9.x before 9.0.0.M12 if JmxRemoteLifecycleListener is used and an attacker can reach JMX ports. The issue exists because this listener wasn't updated for consistency with the CVE-2016-3427 Oracle patch that affected credential types.
 
 - [https://github.com/ianxtianxt/CVE-2016-8735](https://github.com/ianxtianxt/CVE-2016-8735) : ![starts](https://img.shields.io/github/stars/ianxtianxt/CVE-2016-8735.svg) ![forks](https://img.shields.io/github/forks/ianxtianxt/CVE-2016-8735.svg)
+
+- [https://github.com/googlesky/CVE-2016-8735](https://github.com/googlesky/CVE-2016-8735) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2016-8735.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2016-8735.svg)
 
 ## CVE-2016-8655
  Race condition in net/packet/af_packet.c in the Linux kernel through 4.8.12 allows local users to gain privileges or cause a denial of service (use-after-free) by leveraging the CAP_NET_RAW capability to change a socket version, related to the packet_set_ring and packet_setsockopt functions.
@@ -486,6 +490,10 @@
  Ubiquiti UniFi Video before 3.8.0 for Windows uses weak permissions for the installation directory, which allows local users to gain SYSTEM privileges via a Trojan horse taskkill.exe file.
 
 - [https://github.com/CybermonkX/CVE-2016-6914-UniFiVideo-LPE](https://github.com/CybermonkX/CVE-2016-6914-UniFiVideo-LPE) : ![starts](https://img.shields.io/github/stars/CybermonkX/CVE-2016-6914-UniFiVideo-LPE.svg) ![forks](https://img.shields.io/github/forks/CybermonkX/CVE-2016-6914-UniFiVideo-LPE.svg)
+
+## CVE-2016-6816
+
+- [https://github.com/googlesky/CVE-2016-6816](https://github.com/googlesky/CVE-2016-6816) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2016-6816.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2016-6816.svg)
 
 ## CVE-2016-6812
  The HTTP transport module in Apache CXF prior to 3.0.12 and 3.1.x prior to 3.1.9 uses FormattedServiceListWriter to provide an HTML page which lists the names and absolute URL addresses of the available service endpoints. The module calculates the base URL using the current HttpServletRequest. The calculated base URL is used by FormattedServiceListWriter to build the service endpoint absolute URLs. If the unexpected matrix parameters have been injected into the request URL then these matrix parameters will find their way back to the client in the services list page which represents an XSS risk to the client.
@@ -843,6 +851,8 @@
 
 - [https://github.com/mlucianoeze/linux-backport-CVE-2016-5195](https://github.com/mlucianoeze/linux-backport-CVE-2016-5195) : ![starts](https://img.shields.io/github/stars/mlucianoeze/linux-backport-CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/mlucianoeze/linux-backport-CVE-2016-5195.svg)
 
+- [https://github.com/googlesky/CVE-2016-5195](https://github.com/googlesky/CVE-2016-5195) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2016-5195.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2016-5195.svg)
+
 ## CVE-2016-5180
  Heap-based buffer overflow in the ares_create_query function in c-ares 1.x before 1.12.0 allows remote attackers to cause a denial of service (out-of-bounds write) or possibly execute arbitrary code via a hostname with an escaped trailing dot.
 
@@ -986,6 +996,8 @@
 - [https://github.com/xiaoqiMikko/shiro-check](https://github.com/xiaoqiMikko/shiro-check) : ![starts](https://img.shields.io/github/stars/xiaoqiMikko/shiro-check.svg) ![forks](https://img.shields.io/github/forks/xiaoqiMikko/shiro-check.svg)
 
 - [https://github.com/CyberCTF/vulhub-shiro-cve-2016-4437](https://github.com/CyberCTF/vulhub-shiro-cve-2016-4437) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-shiro-cve-2016-4437.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-shiro-cve-2016-4437.svg)
+
+- [https://github.com/googlesky/CVE-2016-4437](https://github.com/googlesky/CVE-2016-4437) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2016-4437.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2016-4437.svg)
 
 ## CVE-2016-4117
  Adobe Flash Player 21.0.0.226 and earlier allows remote attackers to execute arbitrary code via unspecified vectors, as exploited in the wild in May 2016.

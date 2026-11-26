@@ -8416,6 +8416,8 @@ This package is EOL and will not receive any updates to address this issue. User
 
 - [https://github.com/TheMursalin/HTB-Mailing-A-Complete-Walkthrough](https://github.com/TheMursalin/HTB-Mailing-A-Complete-Walkthrough) : ![starts](https://img.shields.io/github/stars/TheMursalin/HTB-Mailing-A-Complete-Walkthrough.svg) ![forks](https://img.shields.io/github/forks/TheMursalin/HTB-Mailing-A-Complete-Walkthrough.svg)
 
+- [https://github.com/NuhHozar/Moniker-Link-CVE-2024-21413-TRYHACKME-WALKTROUGH-](https://github.com/NuhHozar/Moniker-Link-CVE-2024-21413-TRYHACKME-WALKTROUGH-) : ![starts](https://img.shields.io/github/stars/NuhHozar/Moniker-Link-CVE-2024-21413-TRYHACKME-WALKTROUGH-.svg) ![forks](https://img.shields.io/github/forks/NuhHozar/Moniker-Link-CVE-2024-21413-TRYHACKME-WALKTROUGH-.svg)
+
 ## CVE-2024-21412
  Internet Shortcut Files Security Feature Bypass Vulnerability
 
@@ -9585,6 +9587,8 @@ Cloud NGFW and Prisma Access are not impacted by this vulnerability.
 - [https://github.com/Qlng/CVE-2024-9465](https://github.com/Qlng/CVE-2024-9465) : ![starts](https://img.shields.io/github/stars/Qlng/CVE-2024-9465.svg) ![forks](https://img.shields.io/github/forks/Qlng/CVE-2024-9465.svg)
 
 - [https://github.com/rszqx/CVE-2024-9465](https://github.com/rszqx/CVE-2024-9465) : ![starts](https://img.shields.io/github/stars/rszqx/CVE-2024-9465.svg) ![forks](https://img.shields.io/github/forks/rszqx/CVE-2024-9465.svg)
+
+- [https://github.com/0-9g/CVE-2024-9465](https://github.com/0-9g/CVE-2024-9465) : ![starts](https://img.shields.io/github/stars/0-9g/CVE-2024-9465.svg) ![forks](https://img.shields.io/github/forks/0-9g/CVE-2024-9465.svg)
 
 ## CVE-2024-9464
  An OS command injection vulnerability in Palo Alto Networks Expedition allows an authenticated attacker to run arbitrary OS commands as root in Expedition, resulting in disclosure of usernames, cleartext passwords, device configurations, and device API keys of PAN-OS firewalls.

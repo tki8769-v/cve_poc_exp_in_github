@@ -206,6 +206,10 @@
 
 - [https://github.com/smythtech/DWF-CVE-2017-1000000](https://github.com/smythtech/DWF-CVE-2017-1000000) : ![starts](https://img.shields.io/github/stars/smythtech/DWF-CVE-2017-1000000.svg) ![forks](https://img.shields.io/github/forks/smythtech/DWF-CVE-2017-1000000.svg)
 
+## CVE-2017-20291
+
+- [https://github.com/googlesky/CVE-2017-20291](https://github.com/googlesky/CVE-2017-20291) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2017-20291.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2017-20291.svg)
+
 ## CVE-2017-20271
  Joomla StreetGuessr Game 1.1.8 contains an SQL injection vulnerability that allows unauthenticated attackers to execute arbitrary SQL queries by injecting malicious code through the catid parameter. Attackers can send GET requests to index.php with the option=com_streetguess&view=maps parameters and inject SQL code in the catid parameter to extract sensitive database information including version and database names.
 
@@ -1079,6 +1083,8 @@
 
 - [https://github.com/CyberCTF/vulhub-solr-cve-2017-12629-rce](https://github.com/CyberCTF/vulhub-solr-cve-2017-12629-rce) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-solr-cve-2017-12629-rce.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-solr-cve-2017-12629-rce.svg)
 
+- [https://github.com/googlesky/CVE-2017-12629](https://github.com/googlesky/CVE-2017-12629) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2017-12629.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2017-12629.svg)
+
 ## CVE-2017-12624
  Apache CXF supports sending and receiving attachments via either the JAX-WS or JAX-RS specifications. It is possible to craft a message attachment header that could lead to a Denial of Service (DoS) attack on a CXF web service provider. Both JAX-WS and JAX-RS services are vulnerable to this attack. From Apache CXF 3.2.1 and 3.1.14, message attachment headers that are greater than 300 characters will be rejected by default. This value is configurable via the property "attachment-max-header-size".
 
@@ -1110,6 +1116,8 @@
 - [https://github.com/qiantu88/CVE-2017-12617](https://github.com/qiantu88/CVE-2017-12617) : ![starts](https://img.shields.io/github/stars/qiantu88/CVE-2017-12617.svg) ![forks](https://img.shields.io/github/forks/qiantu88/CVE-2017-12617.svg)
 
 - [https://github.com/lem0n817/CVE-2017-12617-POC](https://github.com/lem0n817/CVE-2017-12617-POC) : ![starts](https://img.shields.io/github/stars/lem0n817/CVE-2017-12617-POC.svg) ![forks](https://img.shields.io/github/forks/lem0n817/CVE-2017-12617-POC.svg)
+
+- [https://github.com/googlesky/CVE-2017-12617](https://github.com/googlesky/CVE-2017-12617) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2017-12617.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2017-12617.svg)
 
 ## CVE-2017-12615
  When running Apache Tomcat 7.0.0 to 7.0.79 on Windows with HTTP PUTs enabled (e.g. via setting the readonly initialisation parameter of the Default to false) it was possible to upload a JSP file to the server via a specially crafted request. This JSP could then be requested and any code it contained would be executed by the server.
@@ -1157,6 +1165,8 @@
 - [https://github.com/nouhaila2030/apache-tomcat-security-audit](https://github.com/nouhaila2030/apache-tomcat-security-audit) : ![starts](https://img.shields.io/github/stars/nouhaila2030/apache-tomcat-security-audit.svg) ![forks](https://img.shields.io/github/forks/nouhaila2030/apache-tomcat-security-audit.svg)
 
 - [https://github.com/renzhenxue/vulhub-lab-notes](https://github.com/renzhenxue/vulhub-lab-notes) : ![starts](https://img.shields.io/github/stars/renzhenxue/vulhub-lab-notes.svg) ![forks](https://img.shields.io/github/forks/renzhenxue/vulhub-lab-notes.svg)
+
+- [https://github.com/googlesky/CVE-2017-12615](https://github.com/googlesky/CVE-2017-12615) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2017-12615.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2017-12615.svg)
 
 ## CVE-2017-12611
  In Apache Struts 2.0.0 through 2.3.33 and 2.5 through 2.5.10.1, using an unintentional expression in a Freemarker tag instead of string literals can lead to a RCE attack.
@@ -1299,6 +1309,8 @@
 - [https://github.com/danielakin417/CVE-2017-11882-analysis](https://github.com/danielakin417/CVE-2017-11882-analysis) : ![starts](https://img.shields.io/github/stars/danielakin417/CVE-2017-11882-analysis.svg) ![forks](https://img.shields.io/github/forks/danielakin417/CVE-2017-11882-analysis.svg)
 
 - [https://github.com/wunmi-commits/phishing-analysis-thm](https://github.com/wunmi-commits/phishing-analysis-thm) : ![starts](https://img.shields.io/github/stars/wunmi-commits/phishing-analysis-thm.svg) ![forks](https://img.shields.io/github/forks/wunmi-commits/phishing-analysis-thm.svg)
+
+- [https://github.com/googlesky/CVE-2017-11882](https://github.com/googlesky/CVE-2017-11882) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2017-11882.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2017-11882.svg)
 
 ## CVE-2017-11826
  Microsoft Office 2010, SharePoint Enterprise Server 2010, SharePoint Server 2010, Web Applications, Office Web Apps Server 2010 and 2013, Word Viewer, Word 2007, 2010, 2013 and 2016, Word Automation Services, and Office Online Server allow remote code execution when the software fails to properly handle objects in memory.
@@ -1692,6 +1704,8 @@
 - [https://github.com/Experience-rookie/struts-s2-052-deserialization-rce-lab](https://github.com/Experience-rookie/struts-s2-052-deserialization-rce-lab) : ![starts](https://img.shields.io/github/stars/Experience-rookie/struts-s2-052-deserialization-rce-lab.svg) ![forks](https://img.shields.io/github/forks/Experience-rookie/struts-s2-052-deserialization-rce-lab.svg)
 
 - [https://github.com/RaniaMathlouthi/cve-2017-9805-struts-lab](https://github.com/RaniaMathlouthi/cve-2017-9805-struts-lab) : ![starts](https://img.shields.io/github/stars/RaniaMathlouthi/cve-2017-9805-struts-lab.svg) ![forks](https://img.shields.io/github/forks/RaniaMathlouthi/cve-2017-9805-struts-lab.svg)
+
+- [https://github.com/googlesky/CVE-2017-9805](https://github.com/googlesky/CVE-2017-9805) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2017-9805.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2017-9805.svg)
 
 ## CVE-2017-9798
  Apache httpd allows remote attackers to read secret data from process memory if the Limit directive can be set in a user's .htaccess file, or if httpd.conf has certain misconfigurations, aka Optionsbleed. This affects the Apache HTTP Server through 2.2.34 and 2.4.x through 2.4.27. The attacker sends an unauthenticated OPTIONS HTTP request when attempting to read secret data. This is a use-after-free issue and thus secret data is not always sent, and the specific data depends on many factors including configuration. Exploitation with .htaccess can be blocked with a patch to the ap_limit_section function in server/core.c.
@@ -2240,6 +2254,8 @@
 - [https://github.com/CyberCTF/vulhub-nginx-cve-2017-7529](https://github.com/CyberCTF/vulhub-nginx-cve-2017-7529) : ![starts](https://img.shields.io/github/stars/CyberCTF/vulhub-nginx-cve-2017-7529.svg) ![forks](https://img.shields.io/github/forks/CyberCTF/vulhub-nginx-cve-2017-7529.svg)
 
 - [https://github.com/Guanyu-Zhou/hdu-is-work1-secure-flask-api](https://github.com/Guanyu-Zhou/hdu-is-work1-secure-flask-api) : ![starts](https://img.shields.io/github/stars/Guanyu-Zhou/hdu-is-work1-secure-flask-api.svg) ![forks](https://img.shields.io/github/forks/Guanyu-Zhou/hdu-is-work1-secure-flask-api.svg)
+
+- [https://github.com/Mipa97/CVE-2017-7529](https://github.com/Mipa97/CVE-2017-7529) : ![starts](https://img.shields.io/github/stars/Mipa97/CVE-2017-7529.svg) ![forks](https://img.shields.io/github/forks/Mipa97/CVE-2017-7529.svg)
 
 ## CVE-2017-7525
  A deserialization flaw was discovered in the jackson-databind, versions before 2.6.7.1, 2.7.9.1 and 2.8.9, which could allow an unauthenticated user to perform code execution by sending the maliciously crafted input to the readValue method of the ObjectMapper.
@@ -2921,6 +2937,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 
 - [https://github.com/Ethel087/CVE-2017-5638-Apache-Struts-Analysis](https://github.com/Ethel087/CVE-2017-5638-Apache-Struts-Analysis) : ![starts](https://img.shields.io/github/stars/Ethel087/CVE-2017-5638-Apache-Struts-Analysis.svg) ![forks](https://img.shields.io/github/forks/Ethel087/CVE-2017-5638-Apache-Struts-Analysis.svg)
 
+- [https://github.com/googlesky/CVE-2017-5638](https://github.com/googlesky/CVE-2017-5638) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2017-5638.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2017-5638.svg)
+
 ## CVE-2017-5633
  Multiple cross-site request forgery (CSRF) vulnerabilities on the D-Link DI-524 Wireless Router with firmware 9.01 allow remote attackers to (1) change the admin password, (2) reboot the device, or (3) possibly have unspecified other impact via crafted requests to CGI programs.
 
@@ -3469,6 +3487,8 @@ Only traffic directed to the affected system can be used to exploit this vulnera
 - [https://github.com/raisul06/WannaCry_Ransomware_Impact](https://github.com/raisul06/WannaCry_Ransomware_Impact) : ![starts](https://img.shields.io/github/stars/raisul06/WannaCry_Ransomware_Impact.svg) ![forks](https://img.shields.io/github/forks/raisul06/WannaCry_Ransomware_Impact.svg)
 
 - [https://github.com/ashrafzaryouh/CVE-2017-0144](https://github.com/ashrafzaryouh/CVE-2017-0144) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2017-0144.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2017-0144.svg)
+
+- [https://github.com/googlesky/CVE-2017-0144](https://github.com/googlesky/CVE-2017-0144) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2017-0144.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2017-0144.svg)
 
 ## CVE-2017-0143
  The SMBv1 server in Microsoft Windows Vista SP2; Windows Server 2008 SP2 and R2 SP1; Windows 7 SP1; Windows 8.1; Windows Server 2012 Gold and R2; Windows RT 8.1; and Windows 10 Gold, 1511, and 1607; and Windows Server 2016 allows remote attackers to execute arbitrary code via crafted packets, aka "Windows SMB Remote Code Execution Vulnerability." This vulnerability is different from those described in CVE-2017-0144, CVE-2017-0145, CVE-2017-0146, and CVE-2017-0148.
