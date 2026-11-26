@@ -2251,6 +2251,7 @@ Note: Software versions which have reached End of Technical Support
 - [https://github.com/Nxploited/CVE-2026-124450](https://github.com/Nxploited/CVE-2026-124450) : ![starts](https://img.shields.io/github/stars/Nxploited/CVE-2026-124450.svg) ![forks](https://img.shields.io/github/forks/Nxploited/CVE-2026-124450.svg)
 
 ## CVE-2026-124216
+> The Orphans plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the &#x27;comment&#x27; parameter in all versions up to, and including, 3.4.5 due to insufficient input sanitization and output escaping. This makes it possible for unauthenticated attackers to inject arbitrary web scripts in pages that will execute whenever a user accesses an injected page. Exploitation requires a two-step comment chain: a benign first comment must be approved under a given name and email so that WordPress&#x27;
 
 - [https://github.com/cveForge/CVE-2026-124216](https://github.com/cveForge/CVE-2026-124216) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-124216.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-124216.svg)
 
@@ -3190,6 +3191,7 @@ Impact: This vulnerability allows a remote, unauthenticated att
 - [https://github.com/Cushz/CVE-2026-118238](https://github.com/Cushz/CVE-2026-118238) : ![starts](https://img.shields.io/github/stars/Cushz/CVE-2026-118238.svg) ![forks](https://img.shields.io/github/forks/Cushz/CVE-2026-118238.svg)
 
 ## CVE-2026-118049
+> The Tutor LMS – eLearning and online course solution plugin for WordPress is vulnerable to authorization bypass in all versions up to, and including, 4.2.0 This is due to the plugin not properly verifying that a user is authorized to perform an action. This makes it possible for authenticated attackers, with subscriber-level access and above, to permanently delete any comment they authored anywhere on the site — including regular post comments and lesson comments — along with all replies to thos
 
 - [https://github.com/cveForge/CVE-2026-118049](https://github.com/cveForge/CVE-2026-118049) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-118049.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-118049.svg)
 
@@ -5863,6 +5865,7 @@ privileges. Exploitation requir
 - [https://github.com/thewhatdohe/CVE-2026-107692](https://github.com/thewhatdohe/CVE-2026-107692) : ![starts](https://img.shields.io/github/stars/thewhatdohe/CVE-2026-107692.svg) ![forks](https://img.shields.io/github/forks/thewhatdohe/CVE-2026-107692.svg)
 
 ## CVE-2026-107654
+> The One to one user Chat by WPGuppy plugin for WordPress is vulnerable to generic SQL Injection via the &#x27;userId&#x27; parameter in all versions up to, and including, 1.1.6 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query. This makes it possible for unauthenticated attackers to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database. The plugin&#x27;s permission ca
 
 - [https://github.com/cveForge/CVE-2026-107654](https://github.com/cveForge/CVE-2026-107654) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-107654.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-107654.svg)
 
