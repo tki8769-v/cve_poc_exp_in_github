@@ -12,6 +12,13 @@
 
 - [https://github.com/lasthopebro/Noregressh](https://github.com/lasthopebro/Noregressh) : ![starts](https://img.shields.io/github/stars/lasthopebro/Noregressh.svg) ![forks](https://img.shields.io/github/forks/lasthopebro/Noregressh.svg)
 
+## CVE-2024-8517
+> SPIP before 4.3.2, 4.2.16, and 
+4.1.18 is vulnerable to a command injection issue. A 
+remote and unauthenticated attacker can execute arbitrary operating system commands by sending a crafted multipart file upload HTTP request.
+
+- [https://github.com/mhmoudjma/CVE-2024-8517](https://github.com/mhmoudjma/CVE-2024-8517) : ![starts](https://img.shields.io/github/stars/mhmoudjma/CVE-2024-8517.svg) ![forks](https://img.shields.io/github/forks/mhmoudjma/CVE-2024-8517.svg)
+
 ## CVE-2025-10184
 
 - [https://github.com/LimLLL/coloros-sms-guard](https://github.com/LimLLL/coloros-sms-guard) : ![starts](https://img.shields.io/github/stars/LimLLL/coloros-sms-guard.svg) ![forks](https://img.shields.io/github/forks/LimLLL/coloros-sms-guard.svg)

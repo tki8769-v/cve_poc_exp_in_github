@@ -778,24 +778,28 @@
 - [https://github.com/googlesky/CVE-2026-134732](https://github.com/googlesky/CVE-2026-134732) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134732.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134732.svg)
 
 ## CVE-2026-134704
+> OpenShot Video Editor (openshot-qt) through 4.1.1 contains an unsafe deserialization vulnerability in ProjectDataStore.load() and read_legacy_project_file() that passes non-JSON project files to pickle.load() without restriction. Attackers can trick users into opening a crafted .osp project file containing a pickle __reduce__ gadget to execute code with the user&#x27;s privileges.
 
 - [https://github.com/LLCForge/CVE-2026-134704](https://github.com/LLCForge/CVE-2026-134704) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134704.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134704.svg)
 
 - [https://github.com/cveForge/CVE-2026-134704](https://github.com/cveForge/CVE-2026-134704) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134704.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134704.svg)
 
 ## CVE-2026-134694
+> Gammapy through 2.1 contains a code injection vulnerability in WcsGeom.from_header() that passes the WCSSHAPE FITS header card to eval(). Attackers can supply a crafted .fits file with a Python expression in WCSSHAPE, executing code as the user who loads it via Map.read().
 
 - [https://github.com/LLCForge/CVE-2026-134694](https://github.com/LLCForge/CVE-2026-134694) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134694.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134694.svg)
 
 - [https://github.com/cveForge/CVE-2026-134694](https://github.com/cveForge/CVE-2026-134694) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134694.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134694.svg)
 
 ## CVE-2026-134679
+> WeddingShare through 1.8.2 contains a missing authorization vulnerability in the anonymous MediaViewerController.GalleryItem action that allows unauthenticated attackers to retrieve item upload paths without the gallery secret key. Attackers can enumerate sequential integer item ids to learn paths and uploader names, then download photos and videos from key-protected galleries served as static files.
 
 - [https://github.com/LLCForge/CVE-2026-134679](https://github.com/LLCForge/CVE-2026-134679) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134679.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134679.svg)
 
 - [https://github.com/cveForge/CVE-2026-134679](https://github.com/cveForge/CVE-2026-134679) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134679.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134679.svg)
 
 ## CVE-2026-134654
+> Mailflare before 48957fb contains a host header injection vulnerability in the password-reset request handler that allows unauthenticated attackers to poison reset links when APP_URL is unset. Attackers can submit a reset request for a victim&#x27;s email with a malicious Host header, capturing the single-use token when the victim clicks the link to take over the account.
 
 - [https://github.com/LLCForge/CVE-2026-134654](https://github.com/LLCForge/CVE-2026-134654) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134654.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134654.svg)
 
@@ -806,6 +810,7 @@
 - [https://github.com/cveForge/CVE-2026-134624](https://github.com/cveForge/CVE-2026-134624) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134624.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134624.svg)
 
 ## CVE-2026-134623
+> A flaw has been found in Microweber up to 2.0.20. This impacts the function UserManager::make_logged of the file src/MicroweberPackages/App/Http/Controllers/ApiController.php of the component Generic API Dispatcher. This manipulation causes improper access controls. Remote exploitation of the attack is possible. The exploit has been published and may be used. Upgrading to version 2.0.21 will fix this issue. Patch name: e639d26e61b989b100f8b6f6bb78c0cecca79b99. You should upgrade the affected com
 
 - [https://github.com/SumitNayak1337/CVE-2026-134623](https://github.com/SumitNayak1337/CVE-2026-134623) : ![starts](https://img.shields.io/github/stars/SumitNayak1337/CVE-2026-134623.svg) ![forks](https://img.shields.io/github/forks/SumitNayak1337/CVE-2026-134623.svg)
 
@@ -814,12 +819,14 @@
 - [https://github.com/cveForge/CVE-2026-134623](https://github.com/cveForge/CVE-2026-134623) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134623.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134623.svg)
 
 ## CVE-2026-134543
+> A flaw has been found in jprocms up to 1.7.7. Affected is the function StrUtil.format of the component Database Backup Module. Executing a manipulation of the argument host/port/username/password/dbName can lead to os command injection. The attack can be launched remotely. The exploit has been published and may be used. The vendor was contacted early about this disclosure but did not respond in any way.
 
 - [https://github.com/LLCForge/CVE-2026-134543](https://github.com/LLCForge/CVE-2026-134543) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134543.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134543.svg)
 
 - [https://github.com/cveForge/CVE-2026-134543](https://github.com/cveForge/CVE-2026-134543) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134543.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134543.svg)
 
 ## CVE-2026-134541
+> A vulnerability was detected in Surya2Developer Online Shopping System 1.0. This impacts an unknown function of the file product.php of the component GET Parameter Handler. Performing a manipulation of the argument p results in sql injection. The attack can be initiated remotely. The exploit is now public and may be used. The project was informed of the problem early through an issue report but has not responded yet.
 
 - [https://github.com/LLCForge/CVE-2026-134541](https://github.com/LLCForge/CVE-2026-134541) : ![starts](https://img.shields.io/github/stars/LLCForge/CVE-2026-134541.svg) ![forks](https://img.shields.io/github/forks/LLCForge/CVE-2026-134541.svg)
 
@@ -59380,6 +59387,8 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 - [https://github.com/Chocapikk/CVE-2024-8517](https://github.com/Chocapikk/CVE-2024-8517) : ![starts](https://img.shields.io/github/stars/Chocapikk/CVE-2024-8517.svg) ![forks](https://img.shields.io/github/forks/Chocapikk/CVE-2024-8517.svg)
 
 - [https://github.com/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517](https://github.com/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517) : ![starts](https://img.shields.io/github/stars/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517.svg) ![forks](https://img.shields.io/github/forks/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517.svg)
+
+- [https://github.com/mhmoudjma/CVE-2024-8517](https://github.com/mhmoudjma/CVE-2024-8517) : ![starts](https://img.shields.io/github/stars/mhmoudjma/CVE-2024-8517.svg) ![forks](https://img.shields.io/github/forks/mhmoudjma/CVE-2024-8517.svg)
 
 ## CVE-2024-8504
  An attacker with authenticated access to VICIdial as an "agent" can execute arbitrary shell commands as the "root" user. This attack can be chained with CVE-2024-8503 to execute arbitrary shell commands starting from an unauthenticated perspective.

@@ -9801,6 +9801,8 @@ remote and unauthenticated attacker can execute arbitrary operating system comma
 
 - [https://github.com/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517](https://github.com/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517) : ![starts](https://img.shields.io/github/stars/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517.svg) ![forks](https://img.shields.io/github/forks/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517.svg)
 
+- [https://github.com/mhmoudjma/CVE-2024-8517](https://github.com/mhmoudjma/CVE-2024-8517) : ![starts](https://img.shields.io/github/stars/mhmoudjma/CVE-2024-8517.svg) ![forks](https://img.shields.io/github/forks/mhmoudjma/CVE-2024-8517.svg)
+
 ## CVE-2024-8504
  An attacker with authenticated access to VICIdial as an "agent" can execute arbitrary shell commands as the "root" user. This attack can be chained with CVE-2024-8503 to execute arbitrary shell commands starting from an unauthenticated perspective.
 

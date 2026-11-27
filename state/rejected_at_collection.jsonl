@@ -4415,3 +4415,16 @@
 {"cve_id": "CVE-2026-1296", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T10:29:48Z", "url": "https://github.com/l0lsec/CVE-2026-12960", "url_ids": ["CVE-2026-12960"]}
 {"cve_id": "CVE-2025-2620", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:05:54Z", "url": "https://github.com/A17-ba/CVE-2025-26202-Details", "url_ids": ["CVE-2025-26202"]}
 {"cve_id": "CVE-2025-5182", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:07:56Z", "url": "https://github.com/shk-mubashshir/CVE-2025-51820", "url_ids": ["CVE-2025-51820"]}
+{"cve_id": "CVE-2026-12300", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/sfewer-r7/CVE-2026-123007", "url_ids": ["CVE-2026-123007"]}
+{"cve_id": "CVE-2026-12300", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/arkrwn/NGINX2Root-CVE-2026-123007", "url_ids": ["CVE-2026-123007"]}
+{"cve_id": "CVE-2026-12300", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/akarkode/nginx-http2-cve-2026-123007-lab", "url_ids": ["CVE-2026-123007"]}
+{"cve_id": "CVE-2026-12300", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/yusif-v/cve-2026-123007-poc", "url_ids": ["CVE-2026-123007"]}
+{"cve_id": "CVE-2026-12300", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/0xnrg/CVE-2026-123007", "url_ids": ["CVE-2026-123007"]}
+{"cve_id": "CVE-2026-12300", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/ashrafzaryouh/CVE-2026-123007", "url_ids": ["CVE-2026-123007"]}
+{"cve_id": "CVE-2026-12300", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/im0xfay/CVE-2026-123007", "url_ids": ["CVE-2026-123007"]}
+{"cve_id": "CVE-2026-12300", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/cveForge/CVE-2026-123007", "url_ids": ["CVE-2026-123007"]}
+{"cve_id": "CVE-2026-12300", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/federiconbaez/cve-2026-123007-detector", "url_ids": ["CVE-2026-123007"]}
+{"cve_id": "CVE-2026-12300", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/federiconbaez/cve-2026-123007-analysis", "url_ids": ["CVE-2026-123007"]}
+{"cve_id": "CVE-2026-12300", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/T0tooro/cve-2026-123007-lab", "url_ids": ["CVE-2026-123007"]}
+{"cve_id": "CVE-2026-12300", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/gabriel-shtx/CVE-2026-123007-NGINX2Root-detection-scripts", "url_ids": ["CVE-2026-123007"]}
+{"cve_id": "CVE-2026-12301", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/giki-shergill/CVE-2026-123014---iTerm2-Terminal", "url_ids": ["CVE-2026-123014"]}

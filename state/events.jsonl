@@ -13590,3 +13590,5 @@
 {"cve_id": "CVE-2026-43720", "ts": "2026-11-27T22:04:52Z", "type": "new_poc", "url": "https://github.com/qwecvw/ps5-unix"}
 {"cve_id": "CVE-2017-17215", "ts": "2026-11-27T22:04:52Z", "type": "new_poc", "url": "https://github.com/bsiamer/hg532e-root-shell"}
 {"cve_id": "CVE-2024-6387", "ts": "2026-11-27T22:08:00Z", "type": "new_poc", "url": "https://github.com/lasthopebro/Noregressh"}
+{"cve_id": "CVE-2026-115589", "ts": "2026-11-27T22:15:39Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2024-8517", "ts": "2026-11-27T22:21:59Z", "type": "new_poc", "url": "https://github.com/mhmoudjma/CVE-2024-8517"}
