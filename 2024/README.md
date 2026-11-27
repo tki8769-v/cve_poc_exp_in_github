@@ -10483,6 +10483,8 @@ In the event an attacker has already gained network access, they could exploit t
 
 - [https://github.com/axisops/CVE-2024-6387](https://github.com/axisops/CVE-2024-6387) : ![starts](https://img.shields.io/github/stars/axisops/CVE-2024-6387.svg) ![forks](https://img.shields.io/github/forks/axisops/CVE-2024-6387.svg)
 
+- [https://github.com/lasthopebro/Noregressh](https://github.com/lasthopebro/Noregressh) : ![starts](https://img.shields.io/github/stars/lasthopebro/Noregressh.svg) ![forks](https://img.shields.io/github/forks/lasthopebro/Noregressh.svg)
+
 ## CVE-2024-6386
  The WPML plugin for WordPress is vulnerable to Remote Code Execution in all versions up to, and including, 4.6.12 via Twig Server-Side Template Injection. This is due to missing input validation and sanitization on the render function. This makes it possible for authenticated attackers, with Contributor-level access and above, to execute code on the server.
 

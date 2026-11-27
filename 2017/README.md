@@ -397,6 +397,8 @@
 
 - [https://github.com/luel-4013/misfortune-cookie](https://github.com/luel-4013/misfortune-cookie) : ![starts](https://img.shields.io/github/stars/luel-4013/misfortune-cookie.svg) ![forks](https://img.shields.io/github/forks/luel-4013/misfortune-cookie.svg)
 
+- [https://github.com/bsiamer/hg532e-root-shell](https://github.com/bsiamer/hg532e-root-shell) : ![starts](https://img.shields.io/github/stars/bsiamer/hg532e-root-shell.svg) ![forks](https://img.shields.io/github/forks/bsiamer/hg532e-root-shell.svg)
+
 ## CVE-2017-17099
  There exists an unauthenticated SEH based Buffer Overflow vulnerability in the HTTP server of Flexense SyncBreeze Enterprise v10.1.16. When sending a GET request with an excessive length, it is possible for a malicious user to overwrite the SEH record and execute a payload that would run under the Windows SYSTEM account.
 

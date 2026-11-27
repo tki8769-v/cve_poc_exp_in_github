@@ -1300,6 +1300,8 @@ Users are recommended to switch to TLS 1.2 and PLDS-PSK or upgrade to version 11
 
 - [https://github.com/googlesky/CVE-2026-132165](https://github.com/googlesky/CVE-2026-132165) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-132165.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-132165.svg)
 
+- [https://github.com/seguridadentrerios/CVE-2026-132165](https://github.com/seguridadentrerios/CVE-2026-132165) : ![starts](https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-132165.svg) ![forks](https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-132165.svg)
+
 ## CVE-2026-132147
 
 - [https://github.com/ly1g3/debian-bts-CVE-2026-132147](https://github.com/ly1g3/debian-bts-CVE-2026-132147) : ![starts](https://img.shields.io/github/stars/ly1g3/debian-bts-CVE-2026-132147.svg) ![forks](https://img.shields.io/github/forks/ly1g3/debian-bts-CVE-2026-132147.svg)
@@ -1636,6 +1638,8 @@ PHP does not discard the unread part of an HTTP request body at request shutdown
 - [https://github.com/cveForge/CVE-2026-129289](https://github.com/cveForge/CVE-2026-129289) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-129289.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-129289.svg)
 
 - [https://github.com/googlesky/CVE-2026-129289](https://github.com/googlesky/CVE-2026-129289) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129289.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129289.svg)
+
+- [https://github.com/seguridadentrerios/CVE-2026-129289](https://github.com/seguridadentrerios/CVE-2026-129289) : ![starts](https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-129289.svg) ![forks](https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-129289.svg)
 
 ## CVE-2026-129254
 > A flaw has been found in Opixido OCMS up to b7c15660aba83d96677c1a9abaa69c082a24f21c. This impacts an unknown function of the file admin/TUI/index.php of the component Admin TUI. This manipulation of the argument img causes cross site scripting. The attack can be initiated remotely. The exploit has been published and may be used. Continious delivery with rolling releases is used by this product. Therefore, no version details of affected nor updated releases are available. The vendor was contacte
@@ -2095,6 +2099,8 @@ The files session save handler, which is the default, writes updated session dat
 - [https://github.com/rudSarkar/GHSA-673q-mjm6-r5xr](https://github.com/rudSarkar/GHSA-673q-mjm6-r5xr) : ![starts](https://img.shields.io/github/stars/rudSarkar/GHSA-673q-mjm6-r5xr.svg) ![forks](https://img.shields.io/github/forks/rudSarkar/GHSA-673q-mjm6-r5xr.svg)
 
 - [https://github.com/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce](https://github.com/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce) : ![starts](https://img.shields.io/github/stars/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce.svg) ![forks](https://img.shields.io/github/forks/TahuCryptsi/poc-cve-2026-126187-rsc-usecache-rce.svg)
+
+- [https://github.com/termireum/CVE-2026-126187-poc](https://github.com/termireum/CVE-2026-126187-poc) : ![starts](https://img.shields.io/github/stars/termireum/CVE-2026-126187-poc.svg) ![forks](https://img.shields.io/github/forks/termireum/CVE-2026-126187-poc.svg)
 
 ## CVE-2026-126173
 > The AutomatorWP Pro plugin for WordPress&#x27; webhook addon is vulnerable to authorization bypass in all versions up to, and including, 1.4.4. This is due to the plugin not properly verifying that a user is authorized to perform an action. This makes it possible for unauthenticated attackers to reset the password of any WordPress account, including administrators, resulting in full account takeover. This is only exploitable when an administrator has configured an automation pairing a Receive Webhook
@@ -7243,6 +7249,24 @@ dereferences the freed pointer, leading to a Use-Afte
 
 - [https://github.com/ChaYeWuu/prague-CVE-2026-99491](https://github.com/ChaYeWuu/prague-CVE-2026-99491) : ![starts](https://img.shields.io/github/stars/ChaYeWuu/prague-CVE-2026-99491.svg) ![forks](https://img.shields.io/github/forks/ChaYeWuu/prague-CVE-2026-99491.svg)
 
+## CVE-2026-99490
+> In the Linux kernel, the following vulnerability has been resolved:
+
+HID: wacom: Fix Use-After-Free in wacom_bamboo_pad
+
+wacom_bamboo_pad_pen_event() accesses wacom-&gt;shared-&gt;pen locklessly
+relative to wacom_remove_shared_data() which nullifies it.  This
+can lead to a Use-After-Free if the sibling device is removed while
+events are being processed.
+
+Resolve this by introducing RCU protection for pen and touch
+pointers:
+
+ - Annotate &#x27;pen&#x27; and &#x27;touch&#x27; in wacom_shared struct with __rcu.
+ - Wrap lock
+
+- [https://github.com/Aoki-Shinshi/CVE-2026-99490](https://github.com/Aoki-Shinshi/CVE-2026-99490) : ![starts](https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-99490.svg) ![forks](https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-99490.svg)
+
 ## CVE-2026-99362
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -7258,6 +7282,12 @@ SEQUENCE opcode but not the status word that foll
 - [https://github.com/ashrafzaryouh/CVE-2026-99362](https://github.com/ashrafzaryouh/CVE-2026-99362) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-99362.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-99362.svg)
 
 - [https://github.com/suominen/CVE-2026-99362](https://github.com/suominen/CVE-2026-99362) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-99362.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-99362.svg)
+
+- [https://github.com/Anhydrite/nfs2root](https://github.com/Anhydrite/nfs2root) : ![starts](https://img.shields.io/github/stars/Anhydrite/nfs2root.svg) ![forks](https://img.shields.io/github/forks/Anhydrite/nfs2root.svg)
+
+- [https://github.com/ansonhsu-ai/proxmox-nfs2root-cve-2026-99362-ste](https://github.com/ansonhsu-ai/proxmox-nfs2root-cve-2026-99362-ste) : ![starts](https://img.shields.io/github/stars/ansonhsu-ai/proxmox-nfs2root-cve-2026-99362-ste.svg) ![forks](https://img.shields.io/github/forks/ansonhsu-ai/proxmox-nfs2root-cve-2026-99362-ste.svg)
+
+- [https://github.com/seguridadentrerios/CVE-2026-99362](https://github.com/seguridadentrerios/CVE-2026-99362) : ![starts](https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-99362.svg) ![forks](https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-99362.svg)
 
 ## CVE-2026-99320
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -7845,6 +7875,8 @@ but the node is still queued on tsk, which
 - [https://github.com/minhmc2007/CVE-2026-98260-My-A55](https://github.com/minhmc2007/CVE-2026-98260-My-A55) : ![starts](https://img.shields.io/github/stars/minhmc2007/CVE-2026-98260-My-A55.svg) ![forks](https://img.shields.io/github/forks/minhmc2007/CVE-2026-98260-My-A55.svg)
 
 - [https://github.com/k-o-n-t-o-r/sm-s936b-cve-2026-98260](https://github.com/k-o-n-t-o-r/sm-s936b-cve-2026-98260) : ![starts](https://img.shields.io/github/stars/k-o-n-t-o-r/sm-s936b-cve-2026-98260.svg) ![forks](https://img.shields.io/github/forks/k-o-n-t-o-r/sm-s936b-cve-2026-98260.svg)
+
+- [https://github.com/CrystalXYN/cve-2026-98260](https://github.com/CrystalXYN/cve-2026-98260) : ![starts](https://img.shields.io/github/stars/CrystalXYN/cve-2026-98260.svg) ![forks](https://img.shields.io/github/forks/CrystalXYN/cve-2026-98260.svg)
 
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -18824,6 +18856,10 @@ Users are recommended to upgrade to version 4.21.0, which fixes the issue. If us
 - [https://github.com/impost0r/Rie](https://github.com/impost0r/Rie) : ![starts](https://img.shields.io/github/stars/impost0r/Rie.svg) ![forks](https://img.shields.io/github/forks/impost0r/Rie.svg)
 
 - [https://github.com/gracecondition/DirtySlide](https://github.com/gracecondition/DirtySlide) : ![starts](https://img.shields.io/github/stars/gracecondition/DirtySlide.svg) ![forks](https://img.shields.io/github/forks/gracecondition/DirtySlide.svg)
+
+## CVE-2026-43720
+
+- [https://github.com/qwecvw/ps5-unix](https://github.com/qwecvw/ps5-unix) : ![starts](https://img.shields.io/github/stars/qwecvw/ps5-unix.svg) ![forks](https://img.shields.io/github/forks/qwecvw/ps5-unix.svg)
 
 ## CVE-2026-43715
 > A use-after-free issue was addressed with improved memory management. This issue is fixed in Safari 26.5.2, iOS 26.5.2 and iPadOS 26.5.2, iOS 26.7 and iPadOS 26.7, macOS Tahoe 26.5.2, tvOS 26.6, visionOS 26.6, watchOS 26.6. Processing maliciously crafted web content may lead to memory corruption.
@@ -31073,6 +31109,10 @@ This issue has been reported as being exploited in the wild.
  Appsmith’s SQL query editor’s autocomplete functionality fails to sanitize database object names before rendering them in innerHTML, allowing an authenticated Developer to inject persistent XSS by a malicious table or column names triggering arbitrary code execution in the sessions of other workspace members when they interact with the same datasource.
 
 - [https://github.com/Stuub/Appsmith-1.98-Stored-XSS-Exploit](https://github.com/Stuub/Appsmith-1.98-Stored-XSS-Exploit) : ![starts](https://img.shields.io/github/stars/Stuub/Appsmith-1.98-Stored-XSS-Exploit.svg) ![forks](https://img.shields.io/github/forks/Stuub/Appsmith-1.98-Stored-XSS-Exploit.svg)
+
+## CVE-2026-7275
+
+- [https://github.com/im0xfay/CVE-2026-7275](https://github.com/im0xfay/CVE-2026-7275) : ![starts](https://img.shields.io/github/stars/im0xfay/CVE-2026-7275.svg) ![forks](https://img.shields.io/github/forks/im0xfay/CVE-2026-7275.svg)
 
 ## CVE-2026-7270
  An operator precedence bug in the kernel results in a scenario where a buffer overflow causes attacker-controlled data to overwrite adjacent execve(2) argument buffers.

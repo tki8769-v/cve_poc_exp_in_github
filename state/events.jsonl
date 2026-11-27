@@ -13576,3 +13576,17 @@
 {"cve_id": "CVE-2026-32475", "ts": "2026-11-27T09:55:04Z", "type": "new_poc", "url": "https://github.com/tenderacer-lgtm/cve-32475-lab"}
 {"cve_id": "CVE-2025-3248", "ts": "2026-11-27T10:07:37Z", "type": "new_poc", "url": "https://github.com/Yasinnozbek/langflow-cve-2025-3248-detector"}
 {"cve_id": "CVE-2026-39808", "ts": "2026-11-27T10:14:45Z", "type": "new_poc", "url": "https://github.com/joel-correa/Fortinet-Exploits-CVE-2026-39808-106173-107656"}
+{"cve_id": "CVE-2026-115589", "ts": "2026-11-27T22:01:18Z", "type": "cve_rejected"}
+{"cve_id": "CVE-2026-99362", "ts": "2026-11-27T22:04:49Z", "type": "new_poc", "url": "https://github.com/Anhydrite/nfs2root"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-27T22:04:49Z", "type": "new_poc", "url": "https://github.com/CrystalXYN/cve-2026-98260"}
+{"cve_id": "CVE-2026-7275", "ts": "2026-11-27T22:04:50Z", "type": "new_poc", "url": "https://github.com/im0xfay/CVE-2026-7275"}
+{"cve_id": "CVE-2026-99490", "ts": "2026-11-27T22:04:50Z", "type": "new_poc", "url": "https://github.com/Aoki-Shinshi/CVE-2026-99490"}
+{"cve_id": "CVE-2026-129289", "ts": "2026-11-27T22:04:50Z", "type": "new_poc", "url": "https://github.com/seguridadentrerios/CVE-2026-129289"}
+{"cve_id": "CVE-2026-99362", "ts": "2026-11-27T22:04:50Z", "type": "new_poc", "url": "https://github.com/seguridadentrerios/CVE-2026-99362"}
+{"cve_id": "CVE-2026-132165", "ts": "2026-11-27T22:04:51Z", "type": "new_poc", "url": "https://github.com/seguridadentrerios/CVE-2026-132165"}
+{"cve_id": "CVE-2025-32463", "ts": "2026-11-27T22:04:51Z", "type": "new_poc", "url": "https://github.com/chenceyang/cve-2025-32463-presentation"}
+{"cve_id": "CVE-2026-126187", "ts": "2026-11-27T22:04:51Z", "type": "new_poc", "url": "https://github.com/termireum/CVE-2026-126187-poc"}
+{"cve_id": "CVE-2026-99362", "ts": "2026-11-27T22:04:52Z", "type": "new_poc", "url": "https://github.com/ansonhsu-ai/proxmox-nfs2root-cve-2026-99362-ste"}
+{"cve_id": "CVE-2026-43720", "ts": "2026-11-27T22:04:52Z", "type": "new_poc", "url": "https://github.com/qwecvw/ps5-unix"}
+{"cve_id": "CVE-2017-17215", "ts": "2026-11-27T22:04:52Z", "type": "new_poc", "url": "https://github.com/bsiamer/hg532e-root-shell"}
+{"cve_id": "CVE-2024-6387", "ts": "2026-11-27T22:08:00Z", "type": "new_poc", "url": "https://github.com/lasthopebro/Noregressh"}

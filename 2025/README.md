@@ -8333,6 +8333,8 @@ This issue affects Command Center Innovation Release: 11.38.0 to 11.38.20. The v
 
 - [https://github.com/jigrit/CVE_Analysis](https://github.com/jigrit/CVE_Analysis) : ![starts](https://img.shields.io/github/stars/jigrit/CVE_Analysis.svg) ![forks](https://img.shields.io/github/forks/jigrit/CVE_Analysis.svg)
 
+- [https://github.com/chenceyang/cve-2025-32463-presentation](https://github.com/chenceyang/cve-2025-32463-presentation) : ![starts](https://img.shields.io/github/stars/chenceyang/cve-2025-32463-presentation.svg) ![forks](https://img.shields.io/github/forks/chenceyang/cve-2025-32463-presentation.svg)
+
 ## CVE-2025-32462
  Sudo before 1.9.17p1, when used with a sudoers file that specifies a host that is neither the current host nor ALL, allows listed users to execute commands on unintended machines.
 
