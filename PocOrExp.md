@@ -914,6 +914,7 @@
 - [https://github.com/googlesky/CVE-2026-134021](https://github.com/googlesky/CVE-2026-134021) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134021.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134021.svg)
 
 ## CVE-2026-133993
+> A security flaw has been discovered in D-Link DIR-600L 2.17b02. This affects the function FUN_0040efb0 of the file gena.cgi of the component GENA Subscription Handler. Performing a manipulation of the argument service results in stack-based buffer overflow. The attack is possible to be carried out remotely. The exploit has been released to the public and may be used for attacks.
 
 - [https://github.com/cveForge/CVE-2026-133993](https://github.com/cveForge/CVE-2026-133993) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133993.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133993.svg)
 
@@ -2215,6 +2216,7 @@ This vulnerability was patched on 10 October 2026, and no customer action is nee
 - [https://github.com/cveForge/CVE-2026-125350](https://github.com/cveForge/CVE-2026-125350) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-125350.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-125350.svg)
 
 ## CVE-2026-125294
+> The Nexter Blocks Pro plugin for WordPress is vulnerable to Privilege Escalation in all versions up to, and including, 5.0.10 via the `tpgb_ajax_register_user()` function. This is due to a byte-level denylist on the `tpgb_acf_key[]` and `tpgb_acf[]` parameters that fails to block Unicode look-alike characters — such as U+1E87 and U+00E7 in a key like `ẇp_çapabilities` — whose UTF-8 byte sequences do not match any ASCII-based pattern check, while the database&#x27;s default accent-insensitive collatio
 
 - [https://github.com/cveForge/CVE-2026-125294](https://github.com/cveForge/CVE-2026-125294) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-125294.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-125294.svg)
 
@@ -21453,6 +21455,8 @@ Users are recommended to upgrade to version 4.20.0, which fixes the issue. If us
 - [https://github.com/Ghost-Bx1/Fortinet-Exploits-CVE-2026-39808-106173-107656](https://github.com/Ghost-Bx1/Fortinet-Exploits-CVE-2026-39808-106173-107656) : ![starts](https://img.shields.io/github/stars/Ghost-Bx1/Fortinet-Exploits-CVE-2026-39808-106173-107656.svg) ![forks](https://img.shields.io/github/forks/Ghost-Bx1/Fortinet-Exploits-CVE-2026-39808-106173-107656.svg)
 
 - [https://github.com/ashrafzaryouh/CVE-2026-39808](https://github.com/ashrafzaryouh/CVE-2026-39808) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-39808.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-39808.svg)
+
+- [https://github.com/joel-correa/Fortinet-Exploits-CVE-2026-39808-106173-107656](https://github.com/joel-correa/Fortinet-Exploits-CVE-2026-39808-106173-107656) : ![starts](https://img.shields.io/github/stars/joel-correa/Fortinet-Exploits-CVE-2026-39808-106173-107656.svg) ![forks](https://img.shields.io/github/forks/joel-correa/Fortinet-Exploits-CVE-2026-39808-106173-107656.svg)
 
 ## CVE-2026-39755
 > Subscriber Arbitrary File Upload in WP Duplicate &lt;= 1.1.11 versions.
@@ -48587,6 +48591,8 @@ code.
 - [https://github.com/get-xor/coreweave-demo-2026-05](https://github.com/get-xor/coreweave-demo-2026-05) : ![starts](https://img.shields.io/github/stars/get-xor/coreweave-demo-2026-05.svg) ![forks](https://img.shields.io/github/forks/get-xor/coreweave-demo-2026-05.svg)
 
 - [https://github.com/cpwjdgh/CVE-2025-3248-CTF-Lab](https://github.com/cpwjdgh/CVE-2025-3248-CTF-Lab) : ![starts](https://img.shields.io/github/stars/cpwjdgh/CVE-2025-3248-CTF-Lab.svg) ![forks](https://img.shields.io/github/forks/cpwjdgh/CVE-2025-3248-CTF-Lab.svg)
+
+- [https://github.com/Yasinnozbek/langflow-cve-2025-3248-detector](https://github.com/Yasinnozbek/langflow-cve-2025-3248-detector) : ![starts](https://img.shields.io/github/stars/Yasinnozbek/langflow-cve-2025-3248-detector.svg) ![forks](https://img.shields.io/github/forks/Yasinnozbek/langflow-cve-2025-3248-detector.svg)
 
 ## CVE-2025-3194
  Versions of the package bigint-buffer from 0.0.0 are vulnerable to Buffer Overflow in the toBigIntLE() function. Attackers can exploit this to crash the application.

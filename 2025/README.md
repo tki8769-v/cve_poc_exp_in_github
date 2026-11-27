@@ -14968,6 +14968,8 @@ code.
 
 - [https://github.com/cpwjdgh/CVE-2025-3248-CTF-Lab](https://github.com/cpwjdgh/CVE-2025-3248-CTF-Lab) : ![starts](https://img.shields.io/github/stars/cpwjdgh/CVE-2025-3248-CTF-Lab.svg) ![forks](https://img.shields.io/github/forks/cpwjdgh/CVE-2025-3248-CTF-Lab.svg)
 
+- [https://github.com/Yasinnozbek/langflow-cve-2025-3248-detector](https://github.com/Yasinnozbek/langflow-cve-2025-3248-detector) : ![starts](https://img.shields.io/github/stars/Yasinnozbek/langflow-cve-2025-3248-detector.svg) ![forks](https://img.shields.io/github/forks/Yasinnozbek/langflow-cve-2025-3248-detector.svg)
+
 ## CVE-2025-3194
  Versions of the package bigint-buffer from 0.0.0 are vulnerable to Buffer Overflow in the toBigIntLE() function. Attackers can exploit this to crash the application.
 

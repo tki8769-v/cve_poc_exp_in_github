@@ -13574,3 +13574,5 @@
 {"cve_id": "CVE-2026-112477", "ts": "2026-11-27T09:49:20Z", "type": "new_poc", "url": "https://github.com/lixue1228321-cmyk/iOS-Exploitation"}
 {"cve_id": "CVE-2025-10184", "ts": "2026-11-27T09:49:20Z", "type": "new_poc", "url": "https://github.com/LimLLL/coloros-sms-guard"}
 {"cve_id": "CVE-2026-32475", "ts": "2026-11-27T09:55:04Z", "type": "new_poc", "url": "https://github.com/tenderacer-lgtm/cve-32475-lab"}
+{"cve_id": "CVE-2025-3248", "ts": "2026-11-27T10:07:37Z", "type": "new_poc", "url": "https://github.com/Yasinnozbek/langflow-cve-2025-3248-detector"}
+{"cve_id": "CVE-2026-39808", "ts": "2026-11-27T10:14:45Z", "type": "new_poc", "url": "https://github.com/joel-correa/Fortinet-Exploits-CVE-2026-39808-106173-107656"}

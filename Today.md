@@ -7,6 +7,13 @@
 
 - [https://github.com/LimLLL/coloros-sms-guard](https://github.com/LimLLL/coloros-sms-guard) : ![starts](https://img.shields.io/github/stars/LimLLL/coloros-sms-guard.svg) ![forks](https://img.shields.io/github/forks/LimLLL/coloros-sms-guard.svg)
 
+## CVE-2025-3248
+> Langflow versions prior to 1.3.0 are susceptible to code injection in 
+the /api/v1/validate/code endpoint. A remote and unauthenticated attacker can send crafted HTTP requests to execute arbitrary
+code.
+
+- [https://github.com/Yasinnozbek/langflow-cve-2025-3248-detector](https://github.com/Yasinnozbek/langflow-cve-2025-3248-detector) : ![starts](https://img.shields.io/github/stars/Yasinnozbek/langflow-cve-2025-3248-detector.svg) ![forks](https://img.shields.io/github/forks/Yasinnozbek/langflow-cve-2025-3248-detector.svg)
+
 ## CVE-2026-0087
 
 - [https://github.com/helloguy1234/CVE-2026-0087_PoC](https://github.com/helloguy1234/CVE-2026-0087_PoC) : ![starts](https://img.shields.io/github/stars/helloguy1234/CVE-2026-0087_PoC.svg) ![forks](https://img.shields.io/github/forks/helloguy1234/CVE-2026-0087_PoC.svg)
@@ -35,6 +42,10 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 ## CVE-2026-32475
 
 - [https://github.com/tenderacer-lgtm/cve-32475-lab](https://github.com/tenderacer-lgtm/cve-32475-lab) : ![starts](https://img.shields.io/github/stars/tenderacer-lgtm/cve-32475-lab.svg) ![forks](https://img.shields.io/github/forks/tenderacer-lgtm/cve-32475-lab.svg)
+
+## CVE-2026-39808
+
+- [https://github.com/joel-correa/Fortinet-Exploits-CVE-2026-39808-106173-107656](https://github.com/joel-correa/Fortinet-Exploits-CVE-2026-39808-106173-107656) : ![starts](https://img.shields.io/github/stars/joel-correa/Fortinet-Exploits-CVE-2026-39808-106173-107656.svg) ![forks](https://img.shields.io/github/forks/joel-correa/Fortinet-Exploits-CVE-2026-39808-106173-107656.svg)
 
 ## CVE-2026-61725
 > sevenz-rust2 is a Rust-native 7z compressor and `decompress`or. Prior to 0.21.1, extracting an attacker-supplied 7z archive can write or overwrite files outside the destination directory. In `src/util/decompress.rs`, `decompress_impl` computes each destination with `dest.join(entry.name())` without normalizing the archive&#x27;s UTF-16 entry name or verifying containment, and `default_entry_extract_fn` writes to it with `File::create`. Parent-directory components escape the extraction root, and an ab
