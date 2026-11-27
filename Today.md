@@ -34,6 +34,10 @@ code.
 
 - [https://github.com/Yasinnozbek/langflow-cve-2025-3248-detector](https://github.com/Yasinnozbek/langflow-cve-2025-3248-detector) : ![starts](https://img.shields.io/github/stars/Yasinnozbek/langflow-cve-2025-3248-detector.svg) ![forks](https://img.shields.io/github/forks/Yasinnozbek/langflow-cve-2025-3248-detector.svg)
 
+## CVE-2025-58447
+
+- [https://github.com/Clouduxe/rathena-server-hardening](https://github.com/Clouduxe/rathena-server-hardening) : ![starts](https://img.shields.io/github/stars/Clouduxe/rathena-server-hardening.svg) ![forks](https://img.shields.io/github/forks/Clouduxe/rathena-server-hardening.svg)
+
 ## CVE-2026-0087
 
 - [https://github.com/helloguy1234/CVE-2026-0087_PoC](https://github.com/helloguy1234/CVE-2026-0087_PoC) : ![starts](https://img.shields.io/github/stars/helloguy1234/CVE-2026-0087_PoC.svg) ![forks](https://img.shields.io/github/forks/helloguy1234/CVE-2026-0087_PoC.svg)

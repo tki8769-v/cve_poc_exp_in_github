@@ -13592,3 +13592,4 @@
 {"cve_id": "CVE-2024-6387", "ts": "2026-11-27T22:08:00Z", "type": "new_poc", "url": "https://github.com/lasthopebro/Noregressh"}
 {"cve_id": "CVE-2026-115589", "ts": "2026-11-27T22:15:39Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2024-8517", "ts": "2026-11-27T22:21:59Z", "type": "new_poc", "url": "https://github.com/mhmoudjma/CVE-2024-8517"}
+{"cve_id": "CVE-2025-58447", "ts": "2026-11-27T22:40:00Z", "type": "new_poc", "url": "https://github.com/Clouduxe/rathena-server-hardening"}

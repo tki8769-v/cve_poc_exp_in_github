@@ -36481,6 +36481,10 @@ Users are recommended to upgrade to version 2.8.0, which fixes this issue.
 
 - [https://github.com/jonaslejon/ad-autopwn](https://github.com/jonaslejon/ad-autopwn) : ![starts](https://img.shields.io/github/stars/jonaslejon/ad-autopwn.svg) ![forks](https://img.shields.io/github/forks/jonaslejon/ad-autopwn.svg)
 
+## CVE-2025-58447
+
+- [https://github.com/Clouduxe/rathena-server-hardening](https://github.com/Clouduxe/rathena-server-hardening) : ![starts](https://img.shields.io/github/stars/Clouduxe/rathena-server-hardening.svg) ![forks](https://img.shields.io/github/forks/Clouduxe/rathena-server-hardening.svg)
+
 ## CVE-2025-58444
  The MCP inspector is a developer tool for testing and debugging MCP servers. A cross-site scripting issue was reported in versions of the MCP Inspector local development tool prior to 0.16.6 when connecting to untrusted remote MCP servers with a malicious redirect URI. This could be leveraged to interact directly with the inspector proxy to trigger arbitrary command execution. Users are advised to update to 0.16.6 to resolve this issue.
 

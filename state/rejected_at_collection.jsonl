@@ -4428,3 +4428,8 @@
 {"cve_id": "CVE-2026-12300", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/T0tooro/cve-2026-123007-lab", "url_ids": ["CVE-2026-123007"]}
 {"cve_id": "CVE-2026-12300", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/gabriel-shtx/CVE-2026-123007-NGINX2Root-detection-scripts", "url_ids": ["CVE-2026-123007"]}
 {"cve_id": "CVE-2026-12301", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:26:18Z", "url": "https://github.com/giki-shergill/CVE-2026-123014---iTerm2-Terminal", "url_ids": ["CVE-2026-123014"]}
+{"cve_id": "CVE-2025-2559", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:46:07Z", "url": "https://github.com/Certitude-Consulting/CVE-2025-25599", "url_ids": ["CVE-2025-25599"]}
+{"cve_id": "CVE-2026-1647", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:47:20Z", "url": "https://github.com/afertar/CVE-2026-16475-PoC", "url_ids": ["CVE-2026-16475"]}
+{"cve_id": "CVE-2018-1071", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:47:20Z", "url": "https://github.com/alt3kx/CVE-2018-10715", "url_ids": ["CVE-2018-10715"]}
+{"cve_id": "CVE-2026-4861", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:50:09Z", "url": "https://github.com/Ethicalgrey/phpBB-CVE-2026-48611", "url_ids": ["CVE-2026-48611"]}
+{"cve_id": "CVE-2021-4135", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T22:50:23Z", "url": "https://github.com/ImuSpirit/CVE-2021-41351-POC", "url_ids": ["CVE-2021-41351"]}
