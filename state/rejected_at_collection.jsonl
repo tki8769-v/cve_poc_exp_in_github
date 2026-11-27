@@ -4403,3 +4403,5 @@
 {"cve_id": "CVE-2023-3262", "reason": "prefix_conflict_evidenced", "ts": "2026-11-26T22:43:19Z", "url": "https://github.com/xS9NTX/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC", "url_ids": ["CVE-2023-2640", "CVE-2023-32629"]}
 {"cve_id": "CVE-2020-1066", "reason": "prefix_conflict_evidenced", "ts": "2026-11-26T22:59:41Z", "url": "https://github.com/spaceraccoon/CVE-2020-10665", "url_ids": ["CVE-2020-10665"]}
 {"cve_id": "CVE-2019-1759", "reason": "prefix_conflict_evidenced", "ts": "2026-11-26T23:02:38Z", "url": "https://github.com/pquerna/poc-dsa-verify-CVE-2019-17596", "url_ids": ["CVE-2019-17596"]}
+{"cve_id": "CVE-2021-2173", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T09:51:53Z", "url": "https://github.com/minanagehsalalma/cve-2021-21735-zte-zxhn-h168n-admin-compromise", "url_ids": ["CVE-2021-21735"]}
+{"cve_id": "CVE-2021-3395", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T09:56:58Z", "url": "https://github.com/lixiang957/CVE-2021-33959", "url_ids": ["CVE-2021-33959"]}

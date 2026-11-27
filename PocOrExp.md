@@ -826,18 +826,22 @@
 - [https://github.com/cveForge/CVE-2026-134541](https://github.com/cveForge/CVE-2026-134541) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134541.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134541.svg)
 
 ## CVE-2026-134451
+> Dockhand before 1.0.57 contains a privilege escalation vulnerability that allows non-admin users with settings:edit permission to modify OIDC provider configuration due to an improper permission check. Attackers can send a PUT request to /api/auth/oidc/&lt;provider-id&gt; setting adminClaim to their own OIDC group, gaining full admin access on their next OIDC login.
 
 - [https://github.com/cveForge/CVE-2026-134451](https://github.com/cveForge/CVE-2026-134451) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134451.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134451.svg)
 
 ## CVE-2026-134435
+> Frappe ERPNext before 15.124.2 and 16.x before 16.50.0 contains a missing authorization vulnerability in an Accounts module endpoint that records bank clearance dates, which checks only a broad role permission before writing to caller-named payment documents. Authenticated Accounts Users can send crafted requests naming payment documents of other companies, outside their User Permissions, or already submitted, to alter clearance dates and compromise bank reconciliation integrity.
 
 - [https://github.com/cveForge/CVE-2026-134435](https://github.com/cveForge/CVE-2026-134435) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134435.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134435.svg)
 
 ## CVE-2026-134417
+> Frappe ERPNext 13.0.0 before 15.121.4 and 16.x before 16.36.0 contains a missing authorization vulnerability in an Accounts module endpoint that returns uploaded bank statement file content without checking record-level permissions. Authenticated attackers, including portal users or users with no assigned roles, can send crafted requests naming records outside their scope to read full statement file contents.
 
 - [https://github.com/cveForge/CVE-2026-134417](https://github.com/cveForge/CVE-2026-134417) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134417.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134417.svg)
 
 ## CVE-2026-134404
+> Frappe ERPNext 6.3.0 before 15.124.0 and 16.x before 16.52.0 contains a missing authorization vulnerability in the customer and supplier portal list endpoint, which returns complete selling documents and RFQs without checking permission on the requested records. Authenticated attackers, including portal users or users without roles, can request out-of-scope records to read valuation, margin, and other bidder details.
 
 - [https://github.com/cveForge/CVE-2026-134404](https://github.com/cveForge/CVE-2026-134404) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134404.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134404.svg)
 
@@ -848,42 +852,52 @@
 - [https://github.com/Mahgal/chrome-sandbox-check](https://github.com/Mahgal/chrome-sandbox-check) : ![starts](https://img.shields.io/github/stars/Mahgal/chrome-sandbox-check.svg) ![forks](https://img.shields.io/github/forks/Mahgal/chrome-sandbox-check.svg)
 
 ## CVE-2026-134393
+> Frappe ERPNext 10.1.41 before 15.122.0 and 16.x before 16.50.0 contains a missing authorization vulnerability in a Manufacturing module endpoint that replaces BOMs without checking whether the caller may modify either BOM or the affected assemblies. Authenticated users who can create a BOM Update Log can send a crafted request naming two BOMs to replace the first with the second in every assembly site-wide.
 
 - [https://github.com/cveForge/CVE-2026-134393](https://github.com/cveForge/CVE-2026-134393) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134393.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134393.svg)
 
 ## CVE-2026-134367
+> pypdf 2.4.2 before 7.0.0 contains a resource exhaustion vulnerability in its handling of XFA forms that allows attackers to cause excessive memory consumption. Attackers can supply a crafted PDF containing XFA forms with many small fields so that loading the forms consumes large amounts of memory, causing a denial of service.
 
 - [https://github.com/cveForge/CVE-2026-134367](https://github.com/cveForge/CVE-2026-134367) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134367.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134367.svg)
 
 ## CVE-2026-134337
+> ArcadeDB native-image server builds 26.8.1 before 26.11.1 contain an authorization bypass vulnerability that allows authenticated clients to perform writes through read-only query paths by nesting statements in SELECT. Missing reflection metadata leaves SqlAstInspector with an empty AST, letting INSERT in projections or LET clauses persist via the query endpoint, MCP read-only mode, and HA follower routing.
 
 - [https://github.com/cveForge/CVE-2026-134337](https://github.com/cveForge/CVE-2026-134337) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134337.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134337.svg)
 
 ## CVE-2026-134325
+> ArcadeDB before 26.11.1 contains a denial of service vulnerability in the Redis protocol handler, which neither replies to nor closes a pre-authentication connection when it receives an array whose first element is not a string. Unauthenticated attackers can resend such an array just within the 30-second socket idle timeout to hold connections open indefinitely and exhaust RedisNetworkExecutor threads.
 
 - [https://github.com/cveForge/CVE-2026-134325](https://github.com/cveForge/CVE-2026-134325) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134325.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134325.svg)
 
 ## CVE-2026-134292
+> SurrealDB 1.0.0 before 4.0.0 contains a capability check bypass in its embedded JavaScript scripting engine, where the surrealdb.functions bridge calls the internal fnc::synchronous() and fnc::asynchronous() dispatchers without enforcing function capability checks. Authenticated users denied access to built-in functions in SurrealQL can execute them by calling them through surrealdb.functions from embedded JavaScript.
 
 - [https://github.com/cveForge/CVE-2026-134292](https://github.com/cveForge/CVE-2026-134292) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134292.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134292.svg)
 
 ## CVE-2026-134291
+> SurrealDB 3.0.0 before 4.0.0 contains a path traversal vulnerability in its filesystem storage bucket that only canonicalizes the bucket root, not descendant symlinks. Attackers can reference paths through a pre-existing symlink inside the bucket that pass the lexical prefix check, reading and writing files across the host filesystem.
 
 - [https://github.com/cveForge/CVE-2026-134291](https://github.com/cveForge/CVE-2026-134291) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134291.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134291.svg)
 
 ## CVE-2026-134287
+> OpenRemote core before 1.34.0 contains an authentication bypass vulnerability in UserAssetProvisioningMQTTHandler that allows unauthenticated attackers to impersonate provisioned devices without proof of private key possession. Attackers can publish a known device&#x27;s public certificate to the provisioning request topic, authenticating their anonymous MQTT connection as the device&#x27;s service account to read and modify assets.
 
 - [https://github.com/cveForge/CVE-2026-134287](https://github.com/cveForge/CVE-2026-134287) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134287.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134287.svg)
 
 ## CVE-2026-134262
+> Admidio 5.0.0 before 5.0.18 contains a stored cross-site scripting vulnerability that allows role administrators to inject JavaScript by placing quote-breaking payloads in role names rendered unencoded in the data-message attribute in modules/profile/roles_functions.php. Attackers can execute scripts when a full administrator views an affected profile page, stealing the CSRF token to assign themselves the Administrator role.
 
 - [https://github.com/ShoIsMyName/CVE-2026-134262](https://github.com/ShoIsMyName/CVE-2026-134262) : ![starts](https://img.shields.io/github/stars/ShoIsMyName/CVE-2026-134262.svg) ![forks](https://img.shields.io/github/forks/ShoIsMyName/CVE-2026-134262.svg)
 
 ## CVE-2026-134250
+> Grav Form plugin 1.1.0 before 9.1.40 contains a stored cross-site scripting vulnerability in Form::uploadFiles(), which sanitizes SVG only when a file&#x27;s last extension is .svg and accepts markup under unrecognized extensions. Anonymous attackers can upload files like drawing.svg.foo through public any-type upload forms, running script in an administrator&#x27;s session when opened, enabling super-admin creation on Grav 2.x with Admin2.
 
 - [https://github.com/cveForge/CVE-2026-134250](https://github.com/cveForge/CVE-2026-134250) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134250.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134250.svg)
 
 ## CVE-2026-134246
+> SiYuan 3.6.0 before 3.6.2 and 3.7.3 before 3.8.10 contains a missing authorization vulnerability in the /api/block/getDOMText endpoint, which renders caller-supplied DOM without checking publish access for referenced image paths. When publish authentication is disabled, anonymous visitors can submit DOM referencing a known unpublished, non-encrypted asset path to retrieve its already-cached OCR text.
 
 - [https://github.com/cveForge/CVE-2026-134246](https://github.com/cveForge/CVE-2026-134246) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134246.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134246.svg)
 
@@ -904,6 +918,7 @@
 - [https://github.com/cveForge/CVE-2026-133993](https://github.com/cveForge/CVE-2026-133993) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133993.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133993.svg)
 
 ## CVE-2026-133983
+> A vulnerability was detected in eigent-ai eigent up to 1.0.2. Affected by this vulnerability is an unknown functionality of the file backend/app/controller/chat_controller.py of the component Local Agent Control API. Performing a manipulation results in missing authentication. The attack may be initiated remotely. Upgrading to version 1.0.3 addresses this issue. The patch is named 59f43afcb1b0ba7b2de8c65d585124f196c4aa17. It is recommended to upgrade the affected component.
 
 - [https://github.com/cveForge/CVE-2026-133983](https://github.com/cveForge/CVE-2026-133983) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-133983.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-133983.svg)
 
@@ -2221,6 +2236,8 @@ Note: Software versions which have reached End of Technical Support
 > FFmpeg 8.1 through 9.0.2 contains a memory exhaustion vulnerability in the libavcodec/exif.c parser that allows attackers to amplify allocations by pointing many IFD entries at overlapping payloads. Attackers can embed a small crafted EXIF block in TIFF, JPEG, PNG or WebP images to trigger quadratic memory allocation, causing denial of service in decoding applications.
 
 - [https://github.com/XChen446/cve-2026-125180-demo](https://github.com/XChen446/cve-2026-125180-demo) : ![starts](https://img.shields.io/github/stars/XChen446/cve-2026-125180-demo.svg) ![forks](https://img.shields.io/github/forks/XChen446/cve-2026-125180-demo.svg)
+
+- [https://github.com/XChen446/CVE-2026-125180-demo](https://github.com/XChen446/CVE-2026-125180-demo) : ![starts](https://img.shields.io/github/stars/XChen446/CVE-2026-125180-demo.svg) ![forks](https://img.shields.io/github/forks/XChen446/CVE-2026-125180-demo.svg)
 
 ## CVE-2026-124990
 > The Masteriyo LMS – LMS Course Builder, Quizzes &amp; Certificates plugin for WordPress is vulnerable to PHP Object Injection in versions up to, and including, 3.5.1 via deserialization of untrusted input in the course importer. The set_post_metas() method  calls maybe_unserialize() on attacker-controlled postmeta string values parsed from the uploaded JSON import file. This makes it possible for unauthenticated attackers to inject arbitrary PHP Objects. Exploitation by unauthenticated attackers req
@@ -4165,6 +4182,8 @@ A remote unauthenticated attacker may crash an nginx worker process or corrupt i
 
 - [https://github.com/Rust505/CVE-2026-112477](https://github.com/Rust505/CVE-2026-112477) : ![starts](https://img.shields.io/github/stars/Rust505/CVE-2026-112477.svg) ![forks](https://img.shields.io/github/forks/Rust505/CVE-2026-112477.svg)
 
+- [https://github.com/lixue1228321-cmyk/iOS-Exploitation](https://github.com/lixue1228321-cmyk/iOS-Exploitation) : ![starts](https://img.shields.io/github/stars/lixue1228321-cmyk/iOS-Exploitation.svg) ![forks](https://img.shields.io/github/forks/lixue1228321-cmyk/iOS-Exploitation.svg)
+
 ## CVE-2026-112445
 
 - [https://github.com/Mas0nShi/CVE-2026-112445](https://github.com/Mas0nShi/CVE-2026-112445) : ![starts](https://img.shields.io/github/stars/Mas0nShi/CVE-2026-112445.svg) ![forks](https://img.shields.io/github/forks/Mas0nShi/CVE-2026-112445.svg)
@@ -4549,6 +4568,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 - [https://github.com/OrnisLab/2shell-advisories](https://github.com/OrnisLab/2shell-advisories) : ![starts](https://img.shields.io/github/stars/OrnisLab/2shell-advisories.svg) ![forks](https://img.shields.io/github/forks/OrnisLab/2shell-advisories.svg)
 
 - [https://github.com/eduxcode/node2shell-lab](https://github.com/eduxcode/node2shell-lab) : ![starts](https://img.shields.io/github/stars/eduxcode/node2shell-lab.svg) ![forks](https://img.shields.io/github/forks/eduxcode/node2shell-lab.svg)
+
+- [https://github.com/jianghang8421/fix-cve-2026-111497](https://github.com/jianghang8421/fix-cve-2026-111497) : ![starts](https://img.shields.io/github/stars/jianghang8421/fix-cve-2026-111497.svg) ![forks](https://img.shields.io/github/forks/jianghang8421/fix-cve-2026-111497.svg)
 
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
@@ -7235,6 +7256,8 @@ SEQUENCE opcode but not the status word that foll
 
 - [https://github.com/ashrafzaryouh/CVE-2026-99362](https://github.com/ashrafzaryouh/CVE-2026-99362) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-99362.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-99362.svg)
 
+- [https://github.com/suominen/CVE-2026-99362](https://github.com/suominen/CVE-2026-99362) : ![starts](https://img.shields.io/github/stars/suominen/CVE-2026-99362.svg) ![forks](https://img.shields.io/github/forks/suominen/CVE-2026-99362.svg)
+
 ## CVE-2026-99320
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -7336,6 +7359,22 @@ Because find_synth_event() only compares the event basename, registering
 or removing a histogram on a non-synthetic trace event whose b
 
 - [https://github.com/Aoki-Shinshi/CVE-2026-99233](https://github.com/Aoki-Shinshi/CVE-2026-99233) : ![starts](https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-99233.svg) ![forks](https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-99233.svg)
+
+## CVE-2026-99163
+> In the Linux kernel, the following vulnerability has been resolved:
+
+tracing/histograms: Reject non-stacktrace fields for synthetic stacktrace fields
+
+In check_synth_field(), when a synthetic event field is a stacktrace
+(field-&gt;is_stack) and the histogram field is not a &quot;long[&quot; stacktrace
+array, validation falls through to the generic size and signedness
+comparison.
+
+Because parse_synth_field() sets a stacktrace field&#x27;s type to
+&quot;__data_loc unsigned long[]&quot;, its size is sizeof(u64) and
+synth_fiel
+
+- [https://github.com/Aoki-Shinshi/CVE-2026-99163](https://github.com/Aoki-Shinshi/CVE-2026-99163) : ![starts](https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-99163.svg) ![forks](https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-99163.svg)
 
 ## CVE-2026-98937
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -8568,6 +8607,11 @@ The Unauthenticated Stored XSS vulnerability in the WordPress core can be reprod
 - [https://github.com/686f6c61/POC-WP-CORE-CVE-2026-93485](https://github.com/686f6c61/POC-WP-CORE-CVE-2026-93485) : ![starts](https://img.shields.io/github/stars/686f6c61/POC-WP-CORE-CVE-2026-93485.svg) ![forks](https://img.shields.io/github/forks/686f6c61/POC-WP-CORE-CVE-2026-93485.svg)
 
 - [https://github.com/ashrafzaryouh/CVE-2026-93485](https://github.com/ashrafzaryouh/CVE-2026-93485) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-93485.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-93485.svg)
+
+## CVE-2026-93479
+> A vulnerability exists in NGINX Plus and NGINX Open Source when a map directive uses regex matching and the root directive or access log format references the map&#x27;s regex capture variables before referencing the map output variable. Alternatively, the same result could be achieved by using a non-cacheable variable in a string expression under certain conditions. An unauthenticated attacker along with conditions beyond their control can exploit this vulnerability by sending crafted HTTP requests.
+
+- [https://github.com/googlesky/CVE-2026-93479](https://github.com/googlesky/CVE-2026-93479) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-93479.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-93479.svg)
 
 ## CVE-2026-93453
  SOGo before 5.12.11 constructs password-reset links using the client-supplied Origin header as the authority, allowing unauthenticated attackers to redirect recovery tokens to attacker-controlled domains. Attackers can submit password recovery requests with a malicious Origin header to have valid password-reset tokens mailed to victim recovery addresses within links pointing to attacker infrastructure, enabling account takeover.
@@ -14197,6 +14241,8 @@ This issue affects Elementor Website Builder: from n/a through 4.3.1.
 > sevenz-rust2 is a Rust-native 7z compressor and `decompress`or. Prior to 0.21.1, extracting an attacker-supplied 7z archive can write or overwrite files outside the destination directory. In `src/util/decompress.rs`, `decompress_impl` computes each destination with `dest.join(entry.name())` without normalizing the archive&#x27;s UTF-16 entry name or verifying containment, and `default_entry_extract_fn` writes to it with `File::create`. Parent-directory components escape the extraction root, and an ab
 
 - [https://github.com/googlesky/CVE-2026-61725](https://github.com/googlesky/CVE-2026-61725) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-61725.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-61725.svg)
+
+- [https://github.com/pluto-chou/CVE-2026-61725_sevenz-rust2](https://github.com/pluto-chou/CVE-2026-61725_sevenz-rust2) : ![starts](https://img.shields.io/github/stars/pluto-chou/CVE-2026-61725_sevenz-rust2.svg) ![forks](https://img.shields.io/github/forks/pluto-chou/CVE-2026-61725_sevenz-rust2.svg)
 
 ## CVE-2026-61628
  nginx ignition is a user interface for the nginx web server. Prior to version 2.41.1, `POST /api/users/onboarding/finish` is registered as anonymous (unauthenticated) and creates a user with full ReadWrite admin permissions. Because the handler uses a check-then-act (TOCTOU) pattern between the "onboarding already completed?" check and the user-creation write, with no atomic guard, a remote unauthenticated attacker who can reach an instance in its pre-onboarding state can create an administrator account for themselves — and concurrent requests can create multiple admin accounts in a single race. Version 2.41.1 patches the issue.
@@ -23169,6 +23215,8 @@ This issue affects Elementor Pro: from n/a through 4.2.1.
 - [https://github.com/cyeezy08/WordPress_Exploit_Directory](https://github.com/cyeezy08/WordPress_Exploit_Directory) : ![starts](https://img.shields.io/github/stars/cyeezy08/WordPress_Exploit_Directory.svg) ![forks](https://img.shields.io/github/forks/cyeezy08/WordPress_Exploit_Directory.svg)
 
 - [https://github.com/ashrafzaryouh/CVE-2026-32475](https://github.com/ashrafzaryouh/CVE-2026-32475) : ![starts](https://img.shields.io/github/stars/ashrafzaryouh/CVE-2026-32475.svg) ![forks](https://img.shields.io/github/forks/ashrafzaryouh/CVE-2026-32475.svg)
+
+- [https://github.com/tenderacer-lgtm/cve-32475-lab](https://github.com/tenderacer-lgtm/cve-32475-lab) : ![starts](https://img.shields.io/github/stars/tenderacer-lgtm/cve-32475-lab.svg) ![forks](https://img.shields.io/github/forks/tenderacer-lgtm/cve-32475-lab.svg)
 
 ## CVE-2026-32321
  ClipBucket v5 is an open source video sharing platform. An authenticated time-based blind SQL injection vulnerability exists in ClipBucket prior to 5.5.3 #80 within the `actions/ajax.php` endpoint. Due to insufficient input sanitization of the `userid` parameter, an authenticated attacker can execute arbitrary SQL queries, leading to full database disclosure and potential administrative account takeover. Version 5.5.3 #80 fixes the issue.
@@ -33452,6 +33500,10 @@ Panorama and Cloud NGFW are not impacted by these issues.
  In multiple locations, there is a possible way to execute code in the launcher process due to an over-privileged shell user. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
 
 - [https://github.com/canyie/TransitionPlayer](https://github.com/canyie/TransitionPlayer) : ![starts](https://img.shields.io/github/stars/canyie/TransitionPlayer.svg) ![forks](https://img.shields.io/github/forks/canyie/TransitionPlayer.svg)
+
+## CVE-2026-0087
+
+- [https://github.com/helloguy1234/CVE-2026-0087_PoC](https://github.com/helloguy1234/CVE-2026-0087_PoC) : ![starts](https://img.shields.io/github/stars/helloguy1234/CVE-2026-0087_PoC.svg) ![forks](https://img.shields.io/github/forks/helloguy1234/CVE-2026-0087_PoC.svg)
 
 ## CVE-2026-0075
  In multiple functions, there is a possible way to access the contacts database due to a SQL injection. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.
@@ -46276,6 +46328,8 @@ The root cause is a combination of missing permissions for write operations in s
 - [https://github.com/People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC) : ![starts](https://img.shields.io/github/stars/People-11/CVE-2025-10184_PoC.svg) ![forks](https://img.shields.io/github/forks/People-11/CVE-2025-10184_PoC.svg)
 
 - [https://github.com/Webpage-gh/CVE-2025-10184-PoC](https://github.com/Webpage-gh/CVE-2025-10184-PoC) : ![starts](https://img.shields.io/github/stars/Webpage-gh/CVE-2025-10184-PoC.svg) ![forks](https://img.shields.io/github/forks/Webpage-gh/CVE-2025-10184-PoC.svg)
+
+- [https://github.com/LimLLL/coloros-sms-guard](https://github.com/LimLLL/coloros-sms-guard) : ![starts](https://img.shields.io/github/stars/LimLLL/coloros-sms-guard.svg) ![forks](https://img.shields.io/github/forks/LimLLL/coloros-sms-guard.svg)
 
 ## CVE-2025-10175
  The WP Links Page plugin for WordPress is vulnerable to SQL Injection via the 'id' parameter in all versions up to, and including, 4.9.6 due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query.  This makes it possible for authenticated attackers, with Subscriber-level access and above, to append additional SQL queries into already existing queries that can be used to extract sensitive information from the database.
@@ -83561,6 +83615,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling](https://github.com/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling) : ![starts](https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling.svg) ![forks](https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-Analysis-Detection-Modelling.svg)
 
 - [https://github.com/googlesky/CVE-2021-44228](https://github.com/googlesky/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2021-44228.svg)
+
+- [https://github.com/johnyProDev/CVE-2021-44228-Essay](https://github.com/johnyProDev/CVE-2021-44228-Essay) : ![starts](https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-Essay.svg) ![forks](https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-Essay.svg)
 
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.

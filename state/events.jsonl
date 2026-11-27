@@ -13563,3 +13563,14 @@
 {"cve_id": "CVE-2025-57819", "ts": "2026-11-26T22:35:14Z", "type": "new_poc", "url": "https://github.com/SamWang8891/CVE-2025-57819-poc"}
 {"cve_id": "CVE-2025-57819", "ts": "2026-11-26T22:35:14Z", "type": "new_poc", "url": "https://github.com/donggle0802/cve-2025-57819"}
 {"cve_id": "CVE-2024-9465", "ts": "2026-11-26T22:36:03Z", "type": "new_poc", "url": "https://github.com/0-9g/CVE-2024-9465"}
+{"cve_id": "CVE-2026-125180", "ts": "2026-11-27T09:49:15Z", "type": "new_poc", "url": "https://github.com/XChen446/CVE-2026-125180-demo"}
+{"cve_id": "CVE-2026-61725", "ts": "2026-11-27T09:49:16Z", "type": "new_poc", "url": "https://github.com/pluto-chou/CVE-2026-61725_sevenz-rust2"}
+{"cve_id": "CVE-2026-99362", "ts": "2026-11-27T09:49:19Z", "type": "new_poc", "url": "https://github.com/suominen/CVE-2026-99362"}
+{"cve_id": "CVE-2026-99163", "ts": "2026-11-27T09:49:19Z", "type": "new_poc", "url": "https://github.com/Aoki-Shinshi/CVE-2026-99163"}
+{"cve_id": "CVE-2026-93479", "ts": "2026-11-27T09:49:19Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-93479"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-27T09:49:19Z", "type": "new_poc", "url": "https://github.com/johnyProDev/CVE-2021-44228-Essay"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-11-27T09:49:19Z", "type": "new_poc", "url": "https://github.com/jianghang8421/fix-cve-2026-111497"}
+{"cve_id": "CVE-2026-0087", "ts": "2026-11-27T09:49:20Z", "type": "new_poc", "url": "https://github.com/helloguy1234/CVE-2026-0087_PoC"}
+{"cve_id": "CVE-2026-112477", "ts": "2026-11-27T09:49:20Z", "type": "new_poc", "url": "https://github.com/lixue1228321-cmyk/iOS-Exploitation"}
+{"cve_id": "CVE-2025-10184", "ts": "2026-11-27T09:49:20Z", "type": "new_poc", "url": "https://github.com/LimLLL/coloros-sms-guard"}
+{"cve_id": "CVE-2026-32475", "ts": "2026-11-27T09:55:04Z", "type": "new_poc", "url": "https://github.com/tenderacer-lgtm/cve-32475-lab"}
