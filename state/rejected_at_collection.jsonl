@@ -4412,3 +4412,4 @@
 {"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T10:16:54Z", "url": "https://github.com/unveiledhistory49/teamcity-cve-2026-63077-remediation", "url_ids": ["CVE-2026-63077"]}
 {"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T10:16:54Z", "url": "https://github.com/BoredHackerBlog/teamcity-CVE-2026-63077-pcap", "url_ids": ["CVE-2026-63077"]}
 {"cve_id": "CVE-2026-6307", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T10:16:54Z", "url": "https://github.com/basesixtythree/B63-POC-CVE-2026-63077", "url_ids": ["CVE-2026-63077"]}
+{"cve_id": "CVE-2026-1296", "reason": "prefix_conflict_evidenced", "ts": "2026-11-27T10:29:48Z", "url": "https://github.com/l0lsec/CVE-2026-12960", "url_ids": ["CVE-2026-12960"]}
