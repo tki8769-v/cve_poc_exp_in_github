@@ -13606,3 +13606,4 @@
 {"cve_id": "CVE-2026-43284", "ts": "2026-11-28T09:09:55Z", "type": "new_poc", "url": "https://github.com/username-enzo/Fold7-Canada-TempRoot-Lock"}
 {"cve_id": "CVE-2026-34990", "ts": "2026-11-28T09:10:42Z", "type": "new_poc", "url": "https://github.com/deboravazx/cups-2.4.16-lpe"}
 {"cve_id": "CVE-2018-16763", "ts": "2026-11-28T09:29:02Z", "type": "new_poc", "url": "https://github.com/fantasmakm4/LAB-008-IGNITE"}
+{"cve_id": "CVE-2024-41570", "ts": "2026-11-28T09:46:26Z", "type": "new_poc", "url": "https://github.com/0k1dok1/havoc-CVE-2024-41570"}

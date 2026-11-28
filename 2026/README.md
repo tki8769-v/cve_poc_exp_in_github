@@ -807,6 +807,7 @@
 - [https://github.com/cveForge/CVE-2026-134654](https://github.com/cveForge/CVE-2026-134654) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134654.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134654.svg)
 
 ## CVE-2026-134624
+> N-able MailAssure (SpamExperts) before 20261121.1943 does not restrict the destination of the LDAP synchronisation connection check performed when a relay is configured. An authenticated API user can cause the server to connect to arbitrary internal hosts and ports, determine which are reachable, and send crafted data to internal services.
 
 - [https://github.com/cveForge/CVE-2026-134624](https://github.com/cveForge/CVE-2026-134624) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134624.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134624.svg)
 

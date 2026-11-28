@@ -7,6 +7,10 @@
 
 - [https://github.com/johnyProDev/CVE-2021-44228-Study](https://github.com/johnyProDev/CVE-2021-44228-Study) : ![starts](https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-Study.svg) ![forks](https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-Study.svg)
 
+## CVE-2024-41570
+
+- [https://github.com/0k1dok1/havoc-CVE-2024-41570](https://github.com/0k1dok1/havoc-CVE-2024-41570) : ![starts](https://img.shields.io/github/stars/0k1dok1/havoc-CVE-2024-41570.svg) ![forks](https://img.shields.io/github/forks/0k1dok1/havoc-CVE-2024-41570.svg)
+
 ## CVE-2026-111497
 > A buffer overflow vulnerability in the Brotli decoder (c/dec/decode.c) in Google Brotli versions 1.0.3 through 1.2.0 on all platforms allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute arbitrary code using a crafted Brotli-compressed stream.
 

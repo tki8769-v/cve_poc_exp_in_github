@@ -808,6 +808,7 @@
 - [https://github.com/cveForge/CVE-2026-134654](https://github.com/cveForge/CVE-2026-134654) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134654.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134654.svg)
 
 ## CVE-2026-134624
+> N-able MailAssure (SpamExperts) before 20261121.1943 does not restrict the destination of the LDAP synchronisation connection check performed when a relay is configured. An authenticated API user can cause the server to connect to arbitrary internal hosts and ports, determine which are reachable, and send crafted data to internal services.
 
 - [https://github.com/cveForge/CVE-2026-134624](https://github.com/cveForge/CVE-2026-134624) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-134624.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-134624.svg)
 
@@ -52709,6 +52710,8 @@ Users are recommended to upgrade to version 1.6.0, which fixes the issue.
 - [https://github.com/leo-mitch/CVE-2024-41570-Havoc-C2-RCE](https://github.com/leo-mitch/CVE-2024-41570-Havoc-C2-RCE) : ![starts](https://img.shields.io/github/stars/leo-mitch/CVE-2024-41570-Havoc-C2-RCE.svg) ![forks](https://img.shields.io/github/forks/leo-mitch/CVE-2024-41570-Havoc-C2-RCE.svg)
 
 - [https://github.com/UnDefinedCS/HavocPwn](https://github.com/UnDefinedCS/HavocPwn) : ![starts](https://img.shields.io/github/stars/UnDefinedCS/HavocPwn.svg) ![forks](https://img.shields.io/github/forks/UnDefinedCS/HavocPwn.svg)
+
+- [https://github.com/0k1dok1/havoc-CVE-2024-41570](https://github.com/0k1dok1/havoc-CVE-2024-41570) : ![starts](https://img.shields.io/github/stars/0k1dok1/havoc-CVE-2024-41570.svg) ![forks](https://img.shields.io/github/forks/0k1dok1/havoc-CVE-2024-41570.svg)
 
 ## CVE-2024-41505
  Jetimob Plataforma Imobiliaria 20240627-0 is vulnerable to Cross Site Scripting (XSS) in the "Pessoas" (persons) section via the field "Profisso" (professor).

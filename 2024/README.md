@@ -3069,6 +3069,8 @@ Users are recommended to upgrade to version 1.6.0, which fixes the issue.
 
 - [https://github.com/UnDefinedCS/HavocPwn](https://github.com/UnDefinedCS/HavocPwn) : ![starts](https://img.shields.io/github/stars/UnDefinedCS/HavocPwn.svg) ![forks](https://img.shields.io/github/forks/UnDefinedCS/HavocPwn.svg)
 
+- [https://github.com/0k1dok1/havoc-CVE-2024-41570](https://github.com/0k1dok1/havoc-CVE-2024-41570) : ![starts](https://img.shields.io/github/stars/0k1dok1/havoc-CVE-2024-41570.svg) ![forks](https://img.shields.io/github/forks/0k1dok1/havoc-CVE-2024-41570.svg)
+
 ## CVE-2024-41505
  Jetimob Plataforma Imobiliaria 20240627-0 is vulnerable to Cross Site Scripting (XSS) in the "Pessoas" (persons) section via the field "Profisso" (professor).
 
