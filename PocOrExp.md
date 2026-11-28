@@ -762,10 +762,12 @@
 - [https://github.com/googlesky/CVE-2026-134802](https://github.com/googlesky/CVE-2026-134802) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-134802.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-134802.svg)
 
 ## CVE-2026-134758
+> Wfuzz through 3.1.1 contains a stored cross-site scripting vulnerability that allows malicious target servers to inject script by returning crafted links written unescaped into HTML reports. When the links script and html printer are used, attacker-supplied href values close the unquoted anchor tag and execute JavaScript when the operator opens the report.
 
 - [https://github.com/VulnSVNC/CVE-2026-134758](https://github.com/VulnSVNC/CVE-2026-134758) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-134758.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-134758.svg)
 
 ## CVE-2026-134753
+> dsniff through 2.5a2 contains an integer underflow in decode_sniffer() in decode_sniffer.c that allows unauthenticated remote attackers to write past the global obuf buffer. Attackers can send a UDP datagram to port 2001 on a monitored segment with a 4096-byte string, disabling base64_pton bounds checks to corrupt memory and crash dsniff.
 
 - [https://github.com/VulnSVNC/CVE-2026-134753](https://github.com/VulnSVNC/CVE-2026-134753) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-134753.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-134753.svg)
 
@@ -957,6 +959,10 @@ Upgrading to a secure version of pip should be done either by first upgrading Py
 
 - [https://github.com/googlesky/CVE-2026-133780](https://github.com/googlesky/CVE-2026-133780) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-133780.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-133780.svg)
 
+## CVE-2026-133742
+
+- [https://github.com/tryformy/CVE-2026-133742](https://github.com/tryformy/CVE-2026-133742) : ![starts](https://img.shields.io/github/stars/tryformy/CVE-2026-133742.svg) ![forks](https://img.shields.io/github/forks/tryformy/CVE-2026-133742.svg)
+
 ## CVE-2026-133680
 > A vulnerability was found in D-Link DCS-935L 1.10.01. This affects the function loginRouter of the file web/cgi-bin/localrecording/setconf.cgi of the component Local Recording CGI. Performing a manipulation of the argument account/password results in os command injection. Remote exploitation of the attack is possible. The exploit has been made public and could be used.
 
@@ -1088,6 +1094,11 @@ Users are recommended to switch to TLS 1.2 and PLDS-PSK or upgrade to version 11
 > THC-Hydra through 9.7 contains a stack buffer overflow vulnerability in analyze_server_response() of hydra-http-form.c that allows malicious HTTP servers to corrupt memory via crafted Set-Cookie headers. Attackers can send a Set-Cookie header with an extra leading space followed by a repeated cookie name, causing a negative strncpy length that overflows tmpcookie and crashes Hydra.
 
 - [https://github.com/VulnSVNC/CVE-2026-133274](https://github.com/VulnSVNC/CVE-2026-133274) : ![starts](https://img.shields.io/github/stars/VulnSVNC/CVE-2026-133274.svg) ![forks](https://img.shields.io/github/forks/VulnSVNC/CVE-2026-133274.svg)
+
+## CVE-2026-133250
+> @fastify/middie is the middleware engine for the Fastify web framework. In versions up to and including 9.3.7, middie matches path-scoped middleware against its own reading of the request path, which can differ from the path Fastify&#x27;s router uses to dispatch the request. When the two disagree, the router can route a request to a handler covered by a middleware mount while middie skips that middleware, so an unauthenticated client reaches a handler that an authentication, authorization, or rate-l
+
+- [https://github.com/googlesky/CVE-2026-133250](https://github.com/googlesky/CVE-2026-133250) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-133250.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-133250.svg)
 
 ## CVE-2026-133235
 > Tandoor Recipes before 2.7.4 contains a server-side request forgery vulnerability that allows space admins to reach internal hosts because Nextcloud.get_client builds WebDAV clients from Storage.url without calling safe_request. Attackers can create a NEXTCLOUD storage via POST /api/storage/ pointing at internal hosts, import a file, then call GET /api/get_recipe_file/&lt;id&gt;/ to read internal service or cloud metadata responses.
@@ -1458,6 +1469,11 @@ Users are recommended to u
 - [https://github.com/techdevfun/gpgme2shell](https://github.com/techdevfun/gpgme2shell) : ![starts](https://img.shields.io/github/stars/techdevfun/gpgme2shell.svg) ![forks](https://img.shields.io/github/forks/techdevfun/gpgme2shell.svg)
 
 - [https://github.com/googlesky/CVE-2026-129975](https://github.com/googlesky/CVE-2026-129975) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2026-129975.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2026-129975.svg)
+
+## CVE-2026-129863
+> GitBucket through 4.48.0 contains an incorrect authorization vulnerability that allows authenticated users to edit and merge other users&#x27; pull requests because the PATCH pulls and PUT pulls merge REST API endpoints only check read access. Attackers can close, reopen, retitle, retarget, or merge pull requests into the base branch without write permission on public repositories or as private-repository guest collaborators.
+
+- [https://github.com/n4n45h1/CVE-2026-129863](https://github.com/n4n45h1/CVE-2026-129863) : ![starts](https://img.shields.io/github/stars/n4n45h1/CVE-2026-129863.svg) ![forks](https://img.shields.io/github/forks/n4n45h1/CVE-2026-129863.svg)
 
 ## CVE-2026-129837
 
@@ -4586,6 +4602,8 @@ Users need to update any Brotli libraries or binaries between 1.0.3 through 1.2.
 
 - [https://github.com/jianghang8421/fix-cve-2026-111497](https://github.com/jianghang8421/fix-cve-2026-111497) : ![starts](https://img.shields.io/github/stars/jianghang8421/fix-cve-2026-111497.svg) ![forks](https://img.shields.io/github/forks/jianghang8421/fix-cve-2026-111497.svg)
 
+- [https://github.com/Tenrion618/brscan](https://github.com/Tenrion618/brscan) : ![starts](https://img.shields.io/github/stars/Tenrion618/brscan.svg) ![forks](https://img.shields.io/github/forks/Tenrion618/brscan.svg)
+
 ## CVE-2026-111444
 > Wheels through 4.1.2 allows SQL injection on MySQL/MariaDB with backslash escaping enabled (NO_BACKSLASH_ESCAPES absent) when an application supplies request data to inline-literal paths. These include opt-in parameterize=false queries and IN lists, and positions in developer-written where strings that the parser does not bind, such as BETWEEN bounds, function arguments and LIKE ESCAPE literals. Doubling single quotes without accounting for backslash escapes allows a value to alter the query. Bo
 
@@ -7275,6 +7293,22 @@ pointers:
 
 - [https://github.com/Aoki-Shinshi/CVE-2026-99490](https://github.com/Aoki-Shinshi/CVE-2026-99490) : ![starts](https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-99490.svg) ![forks](https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-99490.svg)
 
+## CVE-2026-99489
+> In the Linux kernel, the following vulnerability has been resolved:
+
+HID: wacom: Redesign shared sibling data lifecycle
+
+The Wacom driver coordinates state between sibling interfaces of
+the same physical device using a shared structure &#x27;wacom_shared&#x27;
+inside &#x27;wacom_hdev_data&#x27;.  The driver kept a volatile representative
+pointer &#x27;data-&gt;dev&#x27; pointing to a sibling &#x27;hid_device&#x27; for physical
+path comparisons during sibling matching.
+
+This pointer management is fragile.  When the representative device
+i
+
+- [https://github.com/Aoki-Shinshi/CVE-2026-99489](https://github.com/Aoki-Shinshi/CVE-2026-99489) : ![starts](https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-99489.svg) ![forks](https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-99489.svg)
+
 ## CVE-2026-99362
 > In the Linux kernel, the following vulnerability has been resolved:
 
@@ -7296,6 +7330,8 @@ SEQUENCE opcode but not the status word that foll
 - [https://github.com/ansonhsu-ai/proxmox-nfs2root-cve-2026-99362-ste](https://github.com/ansonhsu-ai/proxmox-nfs2root-cve-2026-99362-ste) : ![starts](https://img.shields.io/github/stars/ansonhsu-ai/proxmox-nfs2root-cve-2026-99362-ste.svg) ![forks](https://img.shields.io/github/forks/ansonhsu-ai/proxmox-nfs2root-cve-2026-99362-ste.svg)
 
 - [https://github.com/seguridadentrerios/CVE-2026-99362](https://github.com/seguridadentrerios/CVE-2026-99362) : ![starts](https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-99362.svg) ![forks](https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-99362.svg)
+
+- [https://github.com/al00000000al/nfs2root_demo](https://github.com/al00000000al/nfs2root_demo) : ![starts](https://img.shields.io/github/stars/al00000000al/nfs2root_demo.svg) ![forks](https://img.shields.io/github/forks/al00000000al/nfs2root_demo.svg)
 
 ## CVE-2026-99320
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -7398,6 +7434,8 @@ Because find_synth_event() only compares the event basename, registering
 or removing a histogram on a non-synthetic trace event whose b
 
 - [https://github.com/Aoki-Shinshi/CVE-2026-99233](https://github.com/Aoki-Shinshi/CVE-2026-99233) : ![starts](https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-99233.svg) ![forks](https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-99233.svg)
+
+- [https://github.com/gsymasd/CVE-2026-99233](https://github.com/gsymasd/CVE-2026-99233) : ![starts](https://img.shields.io/github/stars/gsymasd/CVE-2026-99233.svg) ![forks](https://img.shields.io/github/forks/gsymasd/CVE-2026-99233.svg)
 
 ## CVE-2026-99163
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -7885,6 +7923,8 @@ but the node is still queued on tsk, which
 - [https://github.com/k-o-n-t-o-r/sm-s936b-cve-2026-98260](https://github.com/k-o-n-t-o-r/sm-s936b-cve-2026-98260) : ![starts](https://img.shields.io/github/stars/k-o-n-t-o-r/sm-s936b-cve-2026-98260.svg) ![forks](https://img.shields.io/github/forks/k-o-n-t-o-r/sm-s936b-cve-2026-98260.svg)
 
 - [https://github.com/CrystalXYN/cve-2026-98260](https://github.com/CrystalXYN/cve-2026-98260) : ![starts](https://img.shields.io/github/stars/CrystalXYN/cve-2026-98260.svg) ![forks](https://img.shields.io/github/forks/CrystalXYN/cve-2026-98260.svg)
+
+- [https://github.com/laobinggunzhao-lab/TimerRoot-Next](https://github.com/laobinggunzhao-lab/TimerRoot-Next) : ![starts](https://img.shields.io/github/stars/laobinggunzhao-lab/TimerRoot-Next.svg) ![forks](https://img.shields.io/github/forks/laobinggunzhao-lab/TimerRoot-Next.svg)
 
 ## CVE-2026-98258
 > In the Linux kernel, the following vulnerability has been resolved:
@@ -15935,6 +15975,8 @@ Let's set gc_in_progress to true in unix_gc().
 
 - [https://github.com/Aoki-Shinshi/CVE-2026-53361](https://github.com/Aoki-Shinshi/CVE-2026-53361) : ![starts](https://img.shields.io/github/stars/Aoki-Shinshi/CVE-2026-53361.svg) ![forks](https://img.shields.io/github/forks/Aoki-Shinshi/CVE-2026-53361.svg)
 
+- [https://github.com/Subtle-profound/ExtractKit-53361](https://github.com/Subtle-profound/ExtractKit-53361) : ![starts](https://img.shields.io/github/stars/Subtle-profound/ExtractKit-53361.svg) ![forks](https://img.shields.io/github/forks/Subtle-profound/ExtractKit-53361.svg)
+
 ## CVE-2026-53360
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -19946,6 +19988,8 @@ destination-frag path or fall back to skb_cow_data().
 
 - [https://github.com/fakehec/plex2shell-to-root](https://github.com/fakehec/plex2shell-to-root) : ![starts](https://img.shields.io/github/stars/fakehec/plex2shell-to-root.svg) ![forks](https://img.shields.io/github/forks/fakehec/plex2shell-to-root.svg)
 
+- [https://github.com/username-enzo/Fold7-Canada-TempRoot-Lock](https://github.com/username-enzo/Fold7-Canada-TempRoot-Lock) : ![starts](https://img.shields.io/github/stars/username-enzo/Fold7-Canada-TempRoot-Lock.svg) ![forks](https://img.shields.io/github/forks/username-enzo/Fold7-Canada-TempRoot-Lock.svg)
+
 ## CVE-2026-43074
  In the Linux kernel, the following vulnerability has been resolved:
 
@@ -22196,6 +22240,8 @@ Users are recommended to upgrade to either version 1.20.4, 2.0.2, 2.1.2 or 2.2.1
 - [https://github.com/mrdebora/cups-2.4.16-lpe](https://github.com/mrdebora/cups-2.4.16-lpe) : ![starts](https://img.shields.io/github/stars/mrdebora/cups-2.4.16-lpe.svg) ![forks](https://img.shields.io/github/forks/mrdebora/cups-2.4.16-lpe.svg)
 
 - [https://github.com/TRX-0/CVE-2026-34990-cups-lpe](https://github.com/TRX-0/CVE-2026-34990-cups-lpe) : ![starts](https://img.shields.io/github/stars/TRX-0/CVE-2026-34990-cups-lpe.svg) ![forks](https://img.shields.io/github/forks/TRX-0/CVE-2026-34990-cups-lpe.svg)
+
+- [https://github.com/deboravazx/cups-2.4.16-lpe](https://github.com/deboravazx/cups-2.4.16-lpe) : ![starts](https://img.shields.io/github/stars/deboravazx/cups-2.4.16-lpe.svg) ![forks](https://img.shields.io/github/forks/deboravazx/cups-2.4.16-lpe.svg)
 
 ## CVE-2026-34980
  OpenPrinting CUPS is an open source printing system for Linux and other Unix-like operating systems. In versions 2.4.16 and prior, in a network-exposed cupsd with a shared target queue, an unauthorized client can send a Print-Job to that shared PostScript queue without authentication. The server accepts a page-border value supplied as textWithoutLanguage, preserves an embedded newline through option escaping and reparse, and then reparses the resulting second-line PPD: text as a trusted scheduler control record. A follow-up raw print job can therefore make the server execute an attacker-chosen existing binary such as /usr/bin/vim as lp. At time of publication, there are no publicly available patches.
@@ -83680,6 +83726,8 @@ Discovered by Eugene Lim of GovTech Singapore.
 - [https://github.com/googlesky/CVE-2021-44228](https://github.com/googlesky/CVE-2021-44228) : ![starts](https://img.shields.io/github/stars/googlesky/CVE-2021-44228.svg) ![forks](https://img.shields.io/github/forks/googlesky/CVE-2021-44228.svg)
 
 - [https://github.com/johnyProDev/CVE-2021-44228-Essay](https://github.com/johnyProDev/CVE-2021-44228-Essay) : ![starts](https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-Essay.svg) ![forks](https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-Essay.svg)
+
+- [https://github.com/johnyProDev/CVE-2021-44228-Study](https://github.com/johnyProDev/CVE-2021-44228-Study) : ![starts](https://img.shields.io/github/stars/johnyProDev/CVE-2021-44228-Study.svg) ![forks](https://img.shields.io/github/forks/johnyProDev/CVE-2021-44228-Study.svg)
 
 ## CVE-2021-44217
  In Ericsson CodeChecker through 6.18.0, a Stored Cross-site scripting (XSS) vulnerability in the comments component of the reports viewer allows remote attackers to inject arbitrary web script or HTML via the POST JSON data of the /CodeCheckerService API.

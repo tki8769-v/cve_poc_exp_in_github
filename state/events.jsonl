@@ -13593,3 +13593,15 @@
 {"cve_id": "CVE-2026-115589", "ts": "2026-11-27T22:15:39Z", "type": "cve_rejected"}
 {"cve_id": "CVE-2024-8517", "ts": "2026-11-27T22:21:59Z", "type": "new_poc", "url": "https://github.com/mhmoudjma/CVE-2024-8517"}
 {"cve_id": "CVE-2025-58447", "ts": "2026-11-27T22:40:00Z", "type": "new_poc", "url": "https://github.com/Clouduxe/rathena-server-hardening"}
+{"cve_id": "CVE-2026-99233", "ts": "2026-11-28T09:01:20Z", "type": "new_poc", "url": "https://github.com/gsymasd/CVE-2026-99233"}
+{"cve_id": "CVE-2026-133742", "ts": "2026-11-28T09:01:24Z", "type": "new_poc", "url": "https://github.com/tryformy/CVE-2026-133742"}
+{"cve_id": "CVE-2026-133250", "ts": "2026-11-28T09:01:25Z", "type": "new_poc", "url": "https://github.com/googlesky/CVE-2026-133250"}
+{"cve_id": "CVE-2026-99489", "ts": "2026-11-28T09:01:25Z", "type": "new_poc", "url": "https://github.com/Aoki-Shinshi/CVE-2026-99489"}
+{"cve_id": "CVE-2026-129863", "ts": "2026-11-28T09:01:26Z", "type": "new_poc", "url": "https://github.com/n4n45h1/CVE-2026-129863"}
+{"cve_id": "CVE-2021-44228", "ts": "2026-11-28T09:01:26Z", "type": "new_poc", "url": "https://github.com/johnyProDev/CVE-2021-44228-Study"}
+{"cve_id": "CVE-2026-99362", "ts": "2026-11-28T09:01:26Z", "type": "new_poc", "url": "https://github.com/al00000000al/nfs2root_demo"}
+{"cve_id": "CVE-2026-111497", "ts": "2026-11-28T09:01:27Z", "type": "new_poc", "url": "https://github.com/Tenrion618/brscan"}
+{"cve_id": "CVE-2026-98260", "ts": "2026-11-28T09:01:27Z", "type": "new_poc", "url": "https://github.com/laobinggunzhao-lab/TimerRoot-Next"}
+{"cve_id": "CVE-2026-53361", "ts": "2026-11-28T09:01:27Z", "type": "new_poc", "url": "https://github.com/Subtle-profound/ExtractKit-53361"}
+{"cve_id": "CVE-2026-43284", "ts": "2026-11-28T09:09:55Z", "type": "new_poc", "url": "https://github.com/username-enzo/Fold7-Canada-TempRoot-Lock"}
+{"cve_id": "CVE-2026-34990", "ts": "2026-11-28T09:10:42Z", "type": "new_poc", "url": "https://github.com/deboravazx/cups-2.4.16-lpe"}
