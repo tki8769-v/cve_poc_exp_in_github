@@ -4436,3 +4436,5 @@
 {"cve_id": "CVE-2022-2207", "reason": "prefix_conflict_evidenced", "ts": "2026-11-28T09:06:38Z", "url": "https://github.com/grisuno/CVE-2022-22077", "url_ids": ["CVE-2022-22077"]}
 {"cve_id": "CVE-2022-2284", "reason": "prefix_conflict_evidenced", "ts": "2026-11-28T09:06:54Z", "url": "https://github.com/OmriBaso/CVE-2022-22845-Exploit", "url_ids": ["CVE-2022-22845"]}
 {"cve_id": "CVE-2022-2304", "reason": "prefix_conflict_evidenced", "ts": "2026-11-28T09:07:46Z", "url": "https://github.com/bernauers/CVE-2022-23046", "url_ids": ["CVE-2022-23046"]}
+{"cve_id": "CVE-2026-5562", "reason": "prefix_conflict_evidenced", "ts": "2026-11-28T09:21:48Z", "url": "https://github.com/googlesky/CVE-2026-55621", "url_ids": ["CVE-2026-55621"]}
+{"cve_id": "CVE-2026-11387", "reason": "prefix_conflict_evidenced", "ts": "2026-11-28T09:24:59Z", "url": "https://github.com/santihabib/multer-CVE-2026-113872", "url_ids": ["CVE-2026-113872"]}

@@ -929,6 +929,8 @@
 
 - [https://github.com/ex6p/fuel-CMS-1.4.1---Remote-Code-Execution-](https://github.com/ex6p/fuel-CMS-1.4.1---Remote-Code-Execution-) : ![starts](https://img.shields.io/github/stars/ex6p/fuel-CMS-1.4.1---Remote-Code-Execution-.svg) ![forks](https://img.shields.io/github/forks/ex6p/fuel-CMS-1.4.1---Remote-Code-Execution-.svg)
 
+- [https://github.com/fantasmakm4/LAB-008-IGNITE](https://github.com/fantasmakm4/LAB-008-IGNITE) : ![starts](https://img.shields.io/github/stars/fantasmakm4/LAB-008-IGNITE.svg) ![forks](https://img.shields.io/github/forks/fantasmakm4/LAB-008-IGNITE.svg)
+
 ## CVE-2018-16713
  IObit Advanced SystemCare, which includes Monitor_win10_x64.sys or Monitor_win7_x64.sys, 1.2.0.5 (and possibly earlier versions) allows a user to send an IOCTL (0x9C402084) with a buffer containing user defined content. The driver's subroutine will execute a rdmsr instruction with the user's buffer for input, and provide output from the instruction.
 

@@ -1321,6 +1321,9 @@ Users are recommended to switch to TLS 1.2 and PLDS-PSK or upgrade to version 11
 - [https://github.com/seguridadentrerios/CVE-2026-132165](https://github.com/seguridadentrerios/CVE-2026-132165) : ![starts](https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-132165.svg) ![forks](https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-132165.svg)
 
 ## CVE-2026-132147
+> An arbitrary file read vulnerability was discovered in debbugs, a bug tracking system based on the active Debian BTS. versions.cgi failed to correctly sanitize package name inputs in found
+
+and fixed query parameters. Crafted query parameters could cause version.cgi to output any lines of the target file which contained spaces.
 
 - [https://github.com/ly1g3/debian-bts-CVE-2026-132147](https://github.com/ly1g3/debian-bts-CVE-2026-132147) : ![starts](https://img.shields.io/github/stars/ly1g3/debian-bts-CVE-2026-132147.svg) ![forks](https://img.shields.io/github/forks/ly1g3/debian-bts-CVE-2026-132147.svg)
 
@@ -1787,6 +1790,7 @@ A fatal error raised while modified INI settings are restored during request shu
 - [https://github.com/cveForge/CVE-2026-129039](https://github.com/cveForge/CVE-2026-129039) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-129039.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-129039.svg)
 
 ## CVE-2026-129024
+> Improper Limitation of a Pathname to a Restricted Directory (&#x27;Path Traversal&#x27;) vulnerability in Everest Forms Everest Forms everest-forms allows Path Traversal.This issue affects Everest Forms: from n/a through 3.6.4.
 
 - [https://github.com/kanokwut/everest-forms-signature-delete-poc](https://github.com/kanokwut/everest-forms-signature-delete-poc) : ![starts](https://img.shields.io/github/stars/kanokwut/everest-forms-signature-delete-poc.svg) ![forks](https://img.shields.io/github/forks/kanokwut/everest-forms-signature-delete-poc.svg)
 

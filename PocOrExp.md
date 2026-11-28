@@ -1322,6 +1322,9 @@ Users are recommended to switch to TLS 1.2 and PLDS-PSK or upgrade to version 11
 - [https://github.com/seguridadentrerios/CVE-2026-132165](https://github.com/seguridadentrerios/CVE-2026-132165) : ![starts](https://img.shields.io/github/stars/seguridadentrerios/CVE-2026-132165.svg) ![forks](https://img.shields.io/github/forks/seguridadentrerios/CVE-2026-132165.svg)
 
 ## CVE-2026-132147
+> An arbitrary file read vulnerability was discovered in debbugs, a bug tracking system based on the active Debian BTS. versions.cgi failed to correctly sanitize package name inputs in found
+
+and fixed query parameters. Crafted query parameters could cause version.cgi to output any lines of the target file which contained spaces.
 
 - [https://github.com/ly1g3/debian-bts-CVE-2026-132147](https://github.com/ly1g3/debian-bts-CVE-2026-132147) : ![starts](https://img.shields.io/github/stars/ly1g3/debian-bts-CVE-2026-132147.svg) ![forks](https://img.shields.io/github/forks/ly1g3/debian-bts-CVE-2026-132147.svg)
 
@@ -1788,6 +1791,7 @@ A fatal error raised while modified INI settings are restored during request shu
 - [https://github.com/cveForge/CVE-2026-129039](https://github.com/cveForge/CVE-2026-129039) : ![starts](https://img.shields.io/github/stars/cveForge/CVE-2026-129039.svg) ![forks](https://img.shields.io/github/forks/cveForge/CVE-2026-129039.svg)
 
 ## CVE-2026-129024
+> Improper Limitation of a Pathname to a Restricted Directory (&#x27;Path Traversal&#x27;) vulnerability in Everest Forms Everest Forms everest-forms allows Path Traversal.This issue affects Everest Forms: from n/a through 3.6.4.
 
 - [https://github.com/kanokwut/everest-forms-signature-delete-poc](https://github.com/kanokwut/everest-forms-signature-delete-poc) : ![starts](https://img.shields.io/github/stars/kanokwut/everest-forms-signature-delete-poc.svg) ![forks](https://img.shields.io/github/forks/kanokwut/everest-forms-signature-delete-poc.svg)
 
@@ -104778,6 +104782,8 @@ The security update addresses the vulnerability by correcting how Hyper-V valida
 - [https://github.com/che3axujnya/cve-2018-16763](https://github.com/che3axujnya/cve-2018-16763) : ![starts](https://img.shields.io/github/stars/che3axujnya/cve-2018-16763.svg) ![forks](https://img.shields.io/github/forks/che3axujnya/cve-2018-16763.svg)
 
 - [https://github.com/ex6p/fuel-CMS-1.4.1---Remote-Code-Execution-](https://github.com/ex6p/fuel-CMS-1.4.1---Remote-Code-Execution-) : ![starts](https://img.shields.io/github/stars/ex6p/fuel-CMS-1.4.1---Remote-Code-Execution-.svg) ![forks](https://img.shields.io/github/forks/ex6p/fuel-CMS-1.4.1---Remote-Code-Execution-.svg)
+
+- [https://github.com/fantasmakm4/LAB-008-IGNITE](https://github.com/fantasmakm4/LAB-008-IGNITE) : ![starts](https://img.shields.io/github/stars/fantasmakm4/LAB-008-IGNITE.svg) ![forks](https://img.shields.io/github/forks/fantasmakm4/LAB-008-IGNITE.svg)
 
 ## CVE-2018-16713
  IObit Advanced SystemCare, which includes Monitor_win10_x64.sys or Monitor_win7_x64.sys, 1.2.0.5 (and possibly earlier versions) allows a user to send an IOCTL (0x9C402084) with a buffer containing user defined content. The driver's subroutine will execute a rdmsr instruction with the user's buffer for input, and provide output from the instruction.
